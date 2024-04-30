@@ -1,0 +1,40 @@
+1: {'SETANTA', 'TEMAE'}
+2: {'SETANTA'}
+3: {'SETANTA', 'QUARK'}
+4: {'REM', 'QUARK', 'TEMAE'}
+5: {'REM', 'RAM'}
+6: {'REM'}
+7: {'REM', 'RAM', 'TEMAE'}
+8: {'REM', 'RAM'}
+9: {'REM', 'RAM', 'QUARK', 'TEMAE'}
+10: {'FANTÔME 7', 'REM', 'FANTÔME 6', 'FANTÔME 1', 'FANTÔME 4', 'FANTÔME 5', 'FANTÔME 3', 'FANTÔME 2'}
+11: {'REM', 'RAM'}
+12: {'REM'}
+13: {'REM', 'RAM'}
+14: {'REM'}
+15: {'REM', 'BLONDE YEUX VERTS', 'ROSWAAL', 'RAM'}
+16: {'REM', 'SUBARU', 'MOLOSSE', 'RAM'}
+17: {'REM', 'SUBARU'}
+18: {'REM', 'SUBARU', 'RAM'}
+19: {'REM', 'SUBARU', 'RAM'}
+20: {'REM', 'SUBARU', 'RAM'}
+21: {'MOLOSSE', 'SUBARU'}
+22: {'REM', 'RAM'}
+23: {'MOLOSSE', 'SUBARU'}
+24: {'SUBARU', 'ROSWAAL'}
+25: {'ROSWAAL', 'RAM'}
+26: {'REM', 'SUBARU'}
+27: {'REM', 'SUBARU'}
+28: {'REM', 'SUBARU'}
+29: {'REM', 'SUBARU'}
+30: {'REM', 'SUBARU'}
+31: {'REM', 'SUBARU'}
+32: {'REM', 'SUBARU'}
+33: {'REM', 'SUBARU'}
+34: {'REM', 'SUBARU'}
+35: {'REM'}
+36: {'ROSWAAL', 'RAM'}
+37: {'ROSWAAL', 'RAM'}
+38: {'SUBARU', 'EMILIA'}
+39: {'SUBARU', 'EMILIA'}
+40: {'SUBARU', 'EMILIA'}

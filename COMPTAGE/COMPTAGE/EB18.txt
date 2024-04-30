@@ -1,0 +1,885 @@
+LA ESCLAVA BLANCA CAP18 25 FPS-H264
+25/08/2016
+
+Insert	(Générique de début)
+
+(BOUCLE 1 - 00:00:57:16)
+		01
+
+REMEDIOS	On t'attend pour passer à table.
+
+VICTORIA	Tu ne sais rien de Miguel ? Toujours pas de nouvelles ?
+
+REMEDIOS	Pas pour l'instant, il n'est pas encore de retour, c'est tout ce qu'on m'a dit. (h/)
+
+VICTORIA	Mais il est parti très tôt, il devrait déjà être là, c'est bizarre, non ? (expi)
+
+REMEDIOS	(h/) Je ne sais pas, mais on ne peut rien faire, maintenant tu dois descendre, Victoria.
+
+VICTORIA	(mts) J'ai un mauvais pressentiment qui me serre la poitrine et m'empêche de respirer, j'espère qu'il ne s'est rien passé, j'espère qu'il est sain et sauf, je t'en supplie. (h/) (x)
+
+REMEDIOS	Victoria, tu dois descendre sinon ils vont se douter de quelque chose. Ça va éveiller des soupçons, n'oublie pas que Donia Adéla te regarde déjà de travers.
+
+VICTORIA	Allons-y.
+
+(BOUCLE 2 - 00:01:47:12)
+		02
+
+NICOLAS	Excusez mon retard.
+
+ADELA	Il y a un problème ?
+
+NICOLAS	Non.
+
+ISABEL 2	Heureusement que tu es arrivé, je ne supportais plus d'être là sans nouvelles de Gabriel.
+
+NICOLAS	Qui ?
+
+ISABEL 2	Gabriel, celui que tu as failli tuer parce que tu croyais qu'il m'avait kidnappé et fait du mal.
+
+NICOLAS	Oui, oui, je vois qui c'est.
+
+ISABEL 2	(hum hum)
+
+NICOLAS	Il va bien, le docteur Lopez m'a dit qu'il n'a rien eu, alors tu peux être tranquille, mange.
+
+ISABEL 2	(hum)
+
+NICOLAS	On mange de mieux en mieux dans cette maison, félicitations, Rémédios.
+
+REMEDIOS	Merci beaucoup monsieur, c'est très gentil à vous.
+
+SIERVO	Monsieur.
+
+NICOLAS	(mfh) Siervo, on ne peut plus manger tranquille ?
+
+SIERVO	Excusez-moi, monsieur, mais tous les fermiers sont dehors et ils vous demandent.
+
+ADELA	Dis-leur d'entrer.
+
+SIERVO	Je leur ai dit madame, mais ils refusent.
+
+NICOLAS	Et pourquoi donc, je vais voir ce qu'ils veulent.
+
+(BOUCLE 3 - 00:02:44:11)
+		03
+
+THOMAS	Qu'est-ce qu'ils veulent ? Et pourquoi ils ont refusé d'entrer à l'hacienda ?
+
+TRINIDAD	Je ne sais pas, mais ça ne me plait pas Thomas... regarde-les, ils sont armés et ils n'ont pas l'air de bonne humeur.
+
+MILAGRO	Mais ils sont des amis du patron.
+
+TRINIDAD	(tst) Et alors ? Ça ne veut rien dire, tu sais, je préfère être prêt à toute éventualité.
+
+MILAGRO	J'y vais aussi.
+
+TRINIDAD	Tu restes là, Milagro.
+
+(BOUCLE 4 - 00:03:16:06)
+		04
+
+NICOLAS	Messieurs, que puis-je faire pour vous ? Pourquoi vous avez refusé mon invitation ?
+
+DR ARTURO LOPEZ	Nicolas, mon fils est entre la vie et la mort.
+
+NICOLAS	Comment ? Que s'est-il passé, Arturo ? Je suis désolé.
+
+ADELA	Que se passe-t-il ?
+
+LOPEZ	Rentrez à la maison mesdames.
+
+VICTORIA	(affolée) Je ne vais nulle part. Qu'y-a-t-il, pourquoi vous êtes armés ?
+
+NICOLAS	Lucia, ils ont une mauvaise nouvelle... mais je ne comprends pas votre attitude.
+
+DR ARTURO LOPEZ	Ton esclave, Miguel, a tué mon fils.
+
+NICOLAS	Tu viens de dire qu'il est en vie.
+
+DR ARTURO LOPEZ	(parle fort) Ce que je viens de dire c'est que ton esclave a laissé mon fils entre la vie et la mort, rend-le-moi.
+
+ADELA	Arturo, comment tu oses pointer une arme à Nicolas ?
+
+NICOLAS	Rentrez toutes à la maison.
+
+REMEDIOS	Allons-y, marquise.
+
+ISABEL 2	Non, non, non.
+
+VICTORIA	Prend Isabelita avec toi, moi je reste. Vas-y.
+
+ISABEL 2	Non, non. Grand-mère !
+
+REMEDIOS	Allons-y.
+
+ISABEL 2	Papa, je veux rester.
+
+VICTORIA	(h/)
+
+(BOUCLE 5 - 00:04:03:18)
+		05
+
+GRANADOS	Calme-toi Arturo, on n'est pas venu pour ça, ne change pas de sujet.
+
+DR ARTURO LOPEZ	Je n'ai pas changé de sujet, on est venu chercher l'esclave et c'est ce qu'on va faire, rend-le-moi.
+
+NICOLAS	Je ne comprends rien du tout, quelqu'un pourrait m'expliquer ce qui se passe ?
+
+DR ARTURO LOPEZ	Qu'est-ce que tu ne comprends pas ? Ton esclave a mis mon fils entre la vie et la mort, rend-le-moi.
+
+NICOLAS	Mon esclave se trouvait à l'hacienda de Caïedo pour aller y travailler sous ses ordres, je ne vois pas en quoi tout ça me concerne.
+
+DR ARTURO LOPEZ	(crie) Ça n'a aucune importance maintenant Nicolas.
+
+GRANADOS	Maudit sois-tu, calme-toi Arturo... Nicolas, nous y étions tous et ton esclave a réagit d'une manière violente, ce rebelle est un assassin. (h/)
+
+VICTORIA	(h\) (h/) Ce n'est pas vrai.
+
+NICOLAS	Lucia, rentre à la maison, s'il te plait, et toi aussi, mère.
+
+DR ARTURO LOPEZ	Je ne vais pas te le dire encore une fois, Nicolas, rend-moi ton esclave et on oublie tout.
+
+(BOUCLE 6 - 00:04:52:21)
+		06
+
+VICTORIA	Pour qui se prennent-ils tous, oser venir ici, donner des ordres comme si la maison leur appartenait et réclamer la tête des esclaves ? Des esclaves qui font partie de la fortune de Nicolas. (h\) (h/)
+
+ADELA	Ça suffit, on se calme, le sort des esclaves nous importe peu... si c'est vrai ce qu'ils disent Nicolas doit le leur rendre.
+
+VICTORIA	(hh_) (h\)
+
+(BOUCLE 7 - 00:05:09:14)
+		07
+
+NICOLAS	Messieurs, vous n'êtes pas venus chez moi pour me donner des ordres. (h/)
+
+NdA	(en colère)
+
+GRANADOS	On ne te donne pas des ordres Nicolas, on te demande d'être raisonnable.
+
+NICOLAS	(en colère) Vous êtes arrivés chez moi et vous m'avez pointé une arme, c'est une offense que je ne vais pas tolérer, alors dégagez où je vous jette dehors.
+
+DR ARTURO LOPEZ	(crie) A qui tu donnes des ordres, Nicolas, dis-le-moi.
+
+NICOLAS	Un conseil, avant de faire quoi que se soit, regardez autour de vous.
+
+GRANADOS	Calmez-vous messieurs, on n'a pas besoin d'en arriver là, je vous en prie.
+
+NICOLAS	Si je n'ai pas le choix, je vais défendre mes biens par le feu et par le sang, parce que j'en ai le droit, et si on doit punir un esclave qui m'appartient, je m'en charge.
+
+DR ARTURO LOPEZ	Tu te trompes Nicolas, moi aussi je vais défendre mon fils par le feu et le sang s'il le faut,  et on reviendra pour vous tuer tous.
+
+MORALES	(huhh) (OHH!!) Jamais.
+
+LOPEZ	Arturo, calme-toi, Arturo, Arturo, qu'est-ce que tu gagnes avec ça, ça va pas sauver ton fils, ça ne te servira à rien. (fort)
+
+GRANADOS	Allons-nous-en, allons-nous-en Arturo, venez.
+
+DR ARTURO LOPEZ	(h\) (h\)
+
+(BOUCLE 8 - 00:06:10:07)
+		08
+
+DR ARTURO LOPEZ	Très bien, Nicolas, un de ces jours, que ce soit bien clair, un de ces jours je reviendrais à l'aube avec les hommes du général Marquez et je prends ton esclave, que tu le veuilles ou non, un de ces jours. (h/) (h\) (h/) (h\) (crie) (yahh)
+
+NICOLAS	Prenez le large ! Morales, prépare-toi à partir.
+
+MORALES	Oui monsieur.
+
+NICOLAS	Au travail.
+
+(BOUCLE 9 - 00:06:46:23)
+		09
+
+VICTORIA	(affolée) Qu'est-ce que tu vas faire ?
+
+NICOLAS	Je ne peux pas admettre qu'on vienne me donner des ordres sous mon propre toit, mais je ne vais pas rester indifférent aux accusations qu'on m'a fait.
+
+ADELA	Mon fils, je t'en prie, ne te mets pas en danger à cause d'un esclave, envoie les hommes faire ce qu'il faut.
+
+VICTORIA	Nicolas, je t'en prie, écoute ta mère, tu ne peux pas faire pareille folie, tu ne sais même pas si les hommes n'ont pas tout inventé pour faire du tort à Miguel, d'abord tu devrais parler avec lui.
+
+ADELA	Qu'est-ce qui te prend, ça serait la parole d'un noir contre celle de ces messieurs, marquise, ici on ne met pas en doute l'honneur d'un seigneur. (voix ferme)
+
+NICOLAS	Je dois m'en aller.
+
+VICTORIA	Nicolas !
+
+ADELA	(h\) (h/) (h\) (mfh)
+
+(BOUCLE 10 - 00:07:25:05)
+		10
+
+VICTORIA	Nicolas, Nicolas ! Qu'est-ce que tu fais ? Où tu vas ? Nicolas, je te parle. (hh)
+
+NICOLAS	Pourquoi ce désespoir, pourquoi tu t'inquiètes autant du sort d'un esclave ?
+
+VICTORIA	Je ne m'inquiète pas pour l'esclave, je m'inquiète pour toi, j'ai peur de ce qui pourra t'arriver, tu vas t'attirer des ennuis avec ces gens, Nicolas. (h/)
+
+NICOLAS	Je ne peux pas laisser le chaos s'installer à l'Eden, c'est comme ça que ça marche ici, il faut t'y habituer. (h/)
+
+VICTORIA	Nicolas, où tu vas ?
+
+NICOLAS	Chercher Miguel.
+
+VICTORIA	Et quand tu l'auras trouvé tu fais quoi ?
+
+NICOLAS	Ce qu'il faudra pour régler cette affaire.
+
+VICTORIA	Nicolas, Nicolas !
+
+NICOLAS	Morales... Julian, personne ne doit entrer ni sortir de la maison, ordonne aux esclaves de surveiller l'entrée de l'Eden, que personne n'entre ici comme l'ont fait ces hommes..
+
+MORALES	(ooohhh)
+
+NICOLAS	En route.
+
+VICTORIA	(hh\) (hh\) (hh\)
+
+(BOUCLE 11 - 00:08:36:24)
+		11
+
+ISABEL 2	C'est vrai que Miguel a tué Jaïme ? Je l'ai connu il était une sale personne... Jaïme, pas Miguel, mais quand même pourquoi l'avoir tué. (hum)
+
+VICTORIA	Il ne l'a pas tué.
+
+REMEDIOS	En fait, ce qu'il y a c'est qu'on... on ne sait pas ce qui s'est passé, Isabelita, il faut attendre pour savoir enfin la vérité. (h/) (h/)
+
+VICTORIA	(hh/) Attendre et laisser commettre une injustice, ça je ne peux pas l'accepter.
+
+ADELA	Où tu vas ? Nicolas a dit qu'on ne pouvait pas bouger d'ici.
+
+JULIAN	Pardon madame la marquise, mais j'ai des ordres précises du patron, personne ne peut sortir de l'Eden.
+
+VICTORIA	Ah oui ? Et pour qui tu te prends pour me donner des ordres ?
+
+JULIAN	Pardon madame la marquise, c'est que...
+
+VICTORIA	Reste ici et veille sur les autres femmes, elles en ont besoin.
+
+(BOUCLE 12 - 00:09:14:06)
+		12
+
+VICTORIA	Où est Fuego ?
+
+THOMAS	(hh\) Miguel l'a pris.
+
+VICTORIA	Comment ça il l'a pris ? Est-ce qu'il a dit où il allait ?
+
+MILAGRO	Il nous a juste dit qu'il avait quelque chose à faire, d'habitude il revient assez vite mais avec ce qu'on vient d'entendre des hommes blancs. (h/) (h/)
+
+VICTORIA	Non, ce n'est pas vrai... Miguel serait incapable de faire une chose pareille.
+
+THOMAS	Tu ne sais rien de Miguel, tu l'as connu enfant et les gens changent, Victoria.
+
+VICTORIA	Explique-toi, papa. Tu crois vraiment que Miguel serait capable de faire une chose pareille ? Tu crois que Miguel est un assassin ? Tu le connais depuis tout petit, tu sais que c'est impossible.
+
+THOMAS	Victoria, ouvre les yeux.
+
+MILAGRO	Papa !
+
+THOMAS	Miguel est le leader de la cause des noirs dans la région, c'est lui qui a organisé ton kidnapping quand tu es arrivée d'Espagne, Jaïmito Lopez est un misérable et Miguel avait de bonnes raisons, ça ne m'étonnerait pas qu'il l'ait assassiné.
+
+(BOUCLE 13 - 00:10:23:15)
+		13
+
+MORALES	Qu'est-ce qu'on fait par ici, Don Nicolas ?
+
+NICOLAS	Tu vas voir... (oohh) sors de là... c'est bien ce qu'on avait prévu, on te cherche et ta tête est mise à prix, ou du moins on attend que je te tue pour venger ce que tu as fait au fils Lopez.
+
+MIGUEL	Et qu'est-ce que vous allez faire, monsieur ?
+
+MORALES	Je m'en charge si vous voulez, Don Nicolas.
+
+NICOLAS	Tu crois que je l'aurais caché ici si je voulais le tuer, imbécile ? Monte à cheval, allons-nous-en.
+
+MIGUEL	Je ne pensais pas le faire monsieur, mais quand il m'a parlé de la mort de Rosita, j'ai pas pu l'éviter.
+
+NICOLAS	Que t'a-t-il dit de la mort de Rosita ?
+
+MIGUEL	Qu'il l'a tuée, et qu'il en a abusée comme une bête féroce.
+
+NICOLAS	Monte à cheval et partons, dépêche-toi si tu veux sauver ta peau.
+
+MIGUEL	(respi______________) (x)(x) (x) (ehh) (x)(x)(x)(ehh)
+
+(BOUCLE 14 - 00:11:30:10)
+		14
+
+VICTORIA	(respi)
+
+MILAGRO	Prend cette tisane, ça t'aidera à dormir.
+
+VICTORIA	Non, non, je ne peux pas m'endormir, et si Miguel arrive, ou bien s'il arrive et qu'il est blessé ? Je dois restée éveillée et prête à l'aider en cas de besoin.
+
+REMEDIOS	(h/) Mais si tu es fatiguée tu ne vas pas être d'un grand secours, bois au moins un petit peu.
+
+MILAGRO	Victoria, Miguel a toujours été un survivant, il sait se défendre mieux que personne, bois un peu, s'il n'était pas à l'hacienda, il a dû se cacher et ni les hommes ni Don Nicolas ne vont le trouver.
+
+VICTORIA	(h/)
+
+(BOUCLE 15 - 00:12:28:02)
+		15
+
+MORALES	Don Nicolas, qu'est-ce que vous faites ? Soyez raisonnable.
+
+NICOLAS	Tais-toi Morales, quand tout sera fini, crois-moi, tu seras bien content. (oohh)
+
+MORALES	(ooohh)
+
+NICOLAS	Donne la sacoche à Miguel. Comment est ta blessure ?
+
+MIGUEL	Rien de grave, monsieur.
+
+NICOLAS	Change d'habits et rends-moi les clés que je t'ai données.
+
+MIGUEL	(x) (X) (x) (x) (x)
+
+(BOUCLE 16 - 00:13:33:21)
+		16
+
+TRINIDAD	(respi__) Milagro ?! Qu'est-ce qui se passe ?
+
+MILAGRO	Comment ça, qu'est-ce qui se passe ? C'est pas assez que Miguel ait des ennuis ?
+
+TRINIDAD	Non, il y a pas que ça. Pourquoi ton père et toi, vous parliez avec la marquise, hum? Ça oui, c'est très étrange. Qu'est-ce que vous me cachez ? Parce que je suis sûr que vous me cachez quelque chose.
+
+(BOUCLE 17 - 00:14:00:19)
+		17
+
+MILAGRO	Lâche-moi, je n'ai pas de comptes à te rendre.
+
+TRINIDAD	(mffh) (mffhh) (h/) Je pensais qu'on était des compagnons d'armes, qu'on était amis, j'ai même crû qu'on pourrait pousser un peu plus loin. (hh/) (respi_) (respi__) (hh_) (h/)(h\) (/h/) (x) (hh) (x) (hh)
+
+MILAGRO	Lâche-moi ! Tu crois que c'est en me traitant comme une brute qu'on pourra s'entendre, toi et moi ? Jamais. (mh)
+
+TRINIDAD	(hhuhm) (respi b.f.____) (respi b. f.___) (respi. b. f.__) Ah bon ? Mais un jour tu viendras me chercher, et tu me supplieras d'être avec toi, idiote. (mh/)
+
+MILAGRO	Imbécile.
+
+TRINIDAD	(mh/) (mmfhhuhm) (respi b.f.___)
+
+(BOUCLE 18 - 00:14:44:15)
+		18
+
+MORALES	Qu'est-ce que c'est que ça, Don Nicolas ?
+
+NICOLAS	Pas un seul mot, Morales. Tu vas prendre le bateau qui est là, et tu ne le quitteras pas avant d'arriver à Honda, de là tu iras droit à Santa Fé.
+
+MIGUEL	Et combien de temps je dois rester dans la capitale, monsieur ?
+
+NICOLAS	Pour toujours.
+
+MIGUEL	Je ne peux pas faire ça.
+
+NICOLAS	Et pourquoi donc ? (mffhf)
+
+MIGUEL	Parce que toute ma vie est ici, tout ce qui m'appartient, ma famille, mon peuple, mes amis.
+
+NICOLAS	Ecoute-moi Miguel, si tu veux t'en sortir en vie, tu dois faire ce que je te dis et ne pas revenir. Tu entends ? Il ne s'agit pas seulement de ta vie, mais aussi de la mienne, s'ils apprennent que je t'ai aidé à fuir ils vont me le faire payer, c'est pour ça que tu ne peux pas revenir.
+
+MIGUEL	Je sais pourquoi vous faites tout ça pour moi.
+
+NICOLAS	Je t'a toujours dit que tu étais un esclave très important pour moi.
+
+(BOUCLE 19 - 00:15:42:03)
+		19
+
+MIGUEL	Oui, mais c'est prendre trop de risques pour un esclave, je suis votre fils, n'est-ce pas ?
+
+NICOLAS	(mh/) (murmure) En effet.
+
+MIGUEL	(mfh) (mts) Vous étiez avec ma mère ?! Et aussi avec les autres esclaves de l'Eden ? (mhh)
+
+NICOLAS	Non, j'ai beaucoup aimé Sara, mais c'était sans espoir, rester ensemble était un rêve impossible, c'était trop risqué pour elle et pour moi, je l'ai perdue à jamais, et il ne me reste que toi, un fils que je ne peux pas montrer au monde et qui ne pourra pas être mon héritier, mais je ne peux pas te laisser mourir. (h/) (h/) (hhm) (mhh/) (h\) (h/)
+
+(BOUCLE 20 - 00:16:30:09)
+		20
+
+NICOLAS	Ecoute-moi bien, change de nom, ne dit jamais à personne d'où tu viens ni qui tu es et quand tu arriveras à Santa Fé va trouver un homme qui s'appelle Lino Lozano, c'est un grand ami d'enfance, il a une épicerie sur la grande place, il t'aidera à recommencer ta vie, tiens prends, pour les débuts.. (h/) (h/) (h/)
+
+MIGUEL	(mts) Merci.
+
+(BOUCLE 21 - 00:17:22:19)
+		21
+
+VICTORIA	(h\) (hh) (hh) (hh) (h/__) (h\__) (h/__) (h\__) (mts) (h/_) Je te demande de toutes mes forces et avec l'aide de mes ancêtres de veiller sur Miguel, qu'il soit en sécurité et qu'on lui pardonne tout ce qu'il a fait, et qu'on le laisse vivre en paix, peu m'importe s'il a changé, s'il n'est plus tel que je l'ai connu, je veux seulement qu'il revienne sain et sauf, je t'en supplie...
+
+(BOUCLE 22 - 00:18:30:12)
+		22
+
+VICTORIA	(h/) (hh\_) je t'implore... je te promets que si Miguel revient sain et sauf j'oublie mes désirs de vengeance, je sacrifie tout par amour pour lui et ma famille... (h/) (h\_) (hh/_) (hh/_) (h/) (mts) maman Lorenza, je t'en prie, protège-le, je ne peux pas continuer à vivre s'il n'est pas là, ma vie n'a pas de sens s'il n'en fait pas partie. (h/) (mfh) (mfh) (sniff) (sniff) (mts) (x)
+
+(BOUCLE 23 - 00:19:39:21)
+		23
+
+NICOLAS	Morales, je sais que tu ne comprends pas ce qui se passe ici, mais ne pose pas de question et trouve-moi un homme qui ressemble le plus possible à Miguel.
+
+MORALES	Oui monsieur, et une fois trouvé, je fais quoi ?
+
+NICOLAS	Tu n'as pas besoin d'un dessin, et tu t'assures qu'il soit méconnaissable, et tu lui mettras ces vêtements, réjouis-toi, tu ne verras plus Miguel dans ta vie. Ce n'est pas ce que tu voulais ?
+
+MORALES	Pas seulement monsieur.
+
+NICOLAS	En plus, tu vas récupérer son travail, mais n'oublie pas qu'avant tu dois accomplir cette tache proprement.
+
+MORALES	Ne vous inquiétez pas Don Nicolas, je ferais de mon mieux. (hh)
+
+NICOLAS	Et fais attention, il ne faut pas que ce soit un esclave de la région, qui appartienne à une hacienda des alentours, ça soulèverait des soupçons, allez, partons d'ici.
+
+MORALES	Oui monsieur.
+
+(BOUCLE 24 - 00:20:37:17)
+		24
+
+RAFAEL	Le voyage en solitaire paraît beaucoup plus long, vous ne trouvez pas ?
+
+MIGUEL	Pardon ?
+
+RAFAEL	Oui, si l'on n'a personne à qui parler, nos pensées s'étirent comme un fil continu qui s'allonge sur l'eau, et nos idées commencent à s'embrouiller et on finit par se lasser de soi-même, c'est pour ça qu'il est important d'avoir à qui parler à bord, vous savez. Ça nous allège l'âme... enchanté, Rafael Burgos. (hum) (bhh_)
+
+MIGUEL	(mts) Julio Vallejo.
+
+RAFAEL	Affranchi et élégant, drôle de combinaison, je n'avais jamais rien vu du genre, dites-moi donc, que faites-vous dans la vie ? (mts)
+
+(BOUCLE 25 - 00:21:26:03)
+		25
+
+MIGUEL	Des affaires. (inspi_) (souffle_)(tousse étouffé__)
+
+RAFAEL	Je suis poète, autrement dit je suis tout et rien dans la vie, mais un homme d'affaires, excusez-moi d'insister mais pour un homme d'affaires, vous n'êtes pas très bavard. Vous êtes dans quelle branche exactement ? (hh) Vous êtes un homme prudent, j'aime ça. Vous savez quoi Julio, je peux apprendre énormément avec vous, je peux vous appeler Julio ! Pourquoi ne pas m'accompagner, on pourrait rejoindre mes compagnons de voyage et faire une partie de cartes, vous verrez, ça aide à passer le temps et à garder les idées claires, venez.
+
+(BOUCLE 26 - 00:22:06:19)
+		26
+
+MIGUEL	J'ai gagné. (ah ah ah ah ah ah___)
+
+RAFAEL	Il a vite appris, notre ami, hein ?
+
+MIGUEL	(hh hh) Une autre partie, messieurs ?
+
+RAFAEL	Oui.
+
+MIGUEL	On a toute la nuit devant nous.
+
+RAFAEL	Oui...
+
+MIGUEL	Je joue...
+
+RAFAEL	Moi aussi je joue et je double ma mise. (rire b. f.__) (petit rire_)
+
+MIGUEL	Alors moi aussi.
+
+RAFAEL	Julio, si je gagne je vous invite à une soirée à Santa Fé.
+
+MIGUEL	Je ne vais pas jusque là, mon but n'est pas si loin.
+
+RAFAEL	Bon, alors je vous devrais une invitation.
+
+MIGUEL	Vous ne me devez rien du tout, je gagne, alors c'est moi qui paie. (respi__) (rire b. o.___)
+
+RAFAEL	Bon, alors une autre bouteille.
+
+MIGUEL	(rire b. o.___)
+
+RAFAEL	(petit rire__)
+
+(BOUCLE 27 - 00:23:00:14)
+		27
+
+VICTORIA	Qui amènent-ils ?
+
+REMEDIOS	Calme-toi, tu dois penser à ta famille. (hh) (respi____)
+
+NICOLAS	Amenez le cadavre dans le baraquement.
+
+MORALES	Oui monsieur.
+
+NICOLAS	Arturo, comment va ton fils ?
+
+DR ARTURO LOPEZ	Mal.
+
+NICOLAS	Tu n'avais pas besoin de faire venir le général Marquez, mais je suis heureux que vous soyez là, monsieur, comme ça, nous allons régler cette affaire une fois pour toutes devant la justice. (hh)
+
+VICTORIA	Qu'apporte Morales ?
+
+(BOUCLE 28 - 00:23:43:03)
+		28
+
+NICOLAS	Cet homme est, je veux dire était mon esclave Miguel, il vient de payer pour ce qu'il a fait au fils du docteur Lopez.
+
+ISABEL 2	Tu l'as tué ?
+
+NICOLAS	Isabelita, rentre à la maison... mère, ne reste pas là je t'en prie, Lucia, toi aussi, je ne crois pas que cela soit un spectacle agréable pour les dames, c'est une affaire entre vous et moi, rentrez.
+
+ISABEL 2	Je n'ai jamais vu un mort.
+
+ADELA	A la maison, tu n'as pas entendu ton père ?
+
+ISABEL 2	Aïe, mais... (h)
+
+VICTORIA	(sanglot__) Non, non. (sanglot) (pleure__________________)
+
+REMEDIOS	(hah)
+
+VICTORIA	(pleure__________________) (pleure________________) (pleure__________________)
+
+(BOUCLE 29 - 00:24:27:20)
+		29
+
+MORALES	Je le montre, Don Nicolas ?
+
+NICOLAS	Oui.
+
+SIERVO	Regarde-le, Thomas, il est complètement défiguré.
+
+THOMAS	Pauvre Miguel.
+
+GENERAL	Comment s'est arrivé ?
+
+NICOLAS	On le poursuivait, mais il nous a pris au dépourvu, on a été obligé de tirer sans viser la cible.
+
+MORALES	C'est le tir en plein visage qui l'a stoppé.
+
+NICOLAS	Miguel a toujours été un garçon rebelle, depuis tout petit, un misérable, j'ai perdu beaucoup d'argent à cause de lui. (h/)
+
+DR ARTURO LOPEZ	(mts) (hh/) Voyons voir, Nicolas, comment peut-on être sûr qu'il s'agit vraiment du cadavre de Miguel ? (h\)
+
+NICOLAS	(mhuhh\) Regarde-le, il porte ses habits et les clés que je lui ai données quand je l'ai nommé intendant de l'Eden. En plus, tu as ma parole et celle de Morales qui a tout vu, que veux-tu de plus, Arturo ? Tu crois quoi ? Que je vous mens pour protéger un esclave qui vous a tous retourné contre moi ?
+
+(BOUCLE 30 - 00:25:35:21)
+		30
+
+DR ARTURO LOPEZ	Tu as raison, ça serait vraiment très stupide de ta part.
+
+NICOLAS	C'est exact, je ne suis pas un homme à commettre des stupidités, ni à m'embarquer dans des guerres insensées, tous ici me connaissent, Siervo, Thomas.
+
+SIERVO	Oui monsieur, c'est vraiment Miguel. (voix émue)
+
+THOMAS	(sniff) C'est lui. (voix émue) (sniff) (sniff)
+
+NICOLAS	Tu as la parole de ceux qui le connaissaient bien, celle de Morales et la mienne, alors je te redemande, ça te suffit, Arturo ? Ou il faut que je prenne d'autres mesures ?
+
+GENERAL	Bien sûr que non, Nicolas. Aucune objection, Arturo ? Francisco...
+
+NICOLAS	Je veux que tu me dises en face que cette affaire est classée et qu'on n'en parle plus..
+
+(BOUCLE 31 - 00:26:48:01)
+		31
+
+THOMAS	(sniff) (sniff) (sniff)
+
+VICTORIA	(respi__) (respi__) (hh) (pleure________) (en pleurant) Non, non, papa, il faut que je le vois.
+
+THOMAS	(hhohhmm) Baisse la voix, baisse la voix, ça peut soulever des soupçons, il vaut mieux que tu rentres à la maison, n'y va pas, je t'en prie, n'y va pas.
+
+VICTORIA	(pleure__)
+
+THOMAS	(h/_)
+
+VICTORIA	(pleure______________)
+
+THOMAS	(mts)
+
+VICTORIA	(en pleurant) C'est lui, papa ? C'est vraiment lui ? (sanglot) (sanglot)
+
+THOMAS	(mh)
+
+VICTORIA	(petit sanglot)
+
+THOMAS	(h/) Oui, c'est Miguel.
+
+VICTORIA	Non, (sanglot___) non. (pleure__) Non, (sanglot) non. (sanglot____)
+
+THOMAS	(huhhm) Victoria.
+
+NdA	(tout bas)
+
+(BOUCLE 32 - 00:27:35:22)
+		32
+
+MORALES	Et maintenant qu'est-ce qu'on fait, Don Nicolas ?
+
+NICOLAS	Qu'on l'enterre mais sans aucune cérémonie funèbre, il était accusé d'essayer de tuer un blanc, il a mérité la mort. (h/_)
+
+MORALES	(mts) Oui monsieur.
+
+NICOLAS	Lucia, que fais-tu là ?
+
+VICTORIA	(sniff) Je n'aime pas être mise à l'écart de ce qui se passe dans cette maison, où je vis aussi, Nicolas, je te l'ai déjà dit souvent.
+
+NICOLAS	Je voulais juste te protéger, ma chérie, je voulais t'éviter les choses désagréables.
+
+VICTORIA	(hh)
+
+NICOLAS	(h/_)
+
+VICTORIA	(hh/) (tout bas) C'est qui ? (respi_)
+
+NICOLAS	C'est Miguel.
+
+GENERAL	Des fois la loi est cruelle, madame la marquise, c'est lamentable d'en arriver là mais c'est nécessaire pour rétablir l'ordre quand la société est en danger.
+
+VICTORIA	(h) (h/) (h\)
+
+(BOUCLE 33 - 00:28:28:15)
+		33
+
+DR ARTURO LOPEZ	Bon, supposons qu'avec ça on règle la dette de ce sale rebelle envers mon fils, supposons. (mh)
+
+NICOLAS	Que pensez-vous de prendre un verre pour en finir avec cette affaire ?
+
+GENERAL	Bonne idée.
+
+NICOLAS	Granados.
+
+AMBIANCE	(gémissements et pleurs très discrets des esclaves_____________________)
+
+(BOUCLE 34 - 00:29:00:07)
+		34
+
+VICTORIA	(hhah) Je te demande pardon, (hh) je ne me sens pas bien.
+
+REMEDIOS	Elle est très perturbée, excusez-moi.
+
+VICTORIA	(respi__)
+
+GENERAL	C'est compréhensible qu'elle soit perturbée, moi, malgré tout ce que j'ai déjà vu dans ma vie, j'ai besoin de quelque chose de fort pour effacer cette scène de ma tête. (h/)
+
+NICOLAS	Hilaria !
+
+GENERAL	(respi_)
+
+(BOUCLE 35 - 00:29:33:23)
+		35
+
+VICTORIA	(sanglot__) (pleure__________________) (pleure____________) (pleure______________) (respi___) Miguel est mort, il est mort, Nicolas est un assassin. (pleure__________) (pleure____) (pleure______) (pleure___) (sanglot___)
+
+REMEDIOS	Je suis désolée, mon amie. (respi_)
+
+VICTORIA	(respi__) Nicolas est une canaille, il va me le payer, ils vont tous me le payer. (h\) (h/)
+
+(BOUCLE 36 - 00:30:30:12)
+		36
+
+GENERAL	Tu n'avais pas besoin de le faire de tes propres mains, tu t'exposes beaucoup trop Nicolas.
+
+NICOLAS	Il fallait que je crée un précédant, Général, Miguel était un esclave têtu et hautain, il finirait comme ça tôt ou tard.
+
+GRANADOS	Mais malgré tout tu as pris son parti quand il a donné la potion à Donia Lucia soi-disant pour contrecarrer l'empoisonnement, d'après ce que m'a raconté Lopez.
+
+NICOLAS	(mh) C'était une erreur, une indélicatesse et je vous demande de m'excuser messieurs, la vie vient de nous montrer qu'il ne peut y avoir des préférés parmi les esclaves.
+
+GRANADOS	(hum) En effet, on ne peut pas, tu l'as bien dit, j'espère que cela servira de leçon à tous ceux qui veulent une position qui ne leur appartient pas. (mfh)
+
+(BOUCLE 37 - 00:31:23:24)
+		37
+
+MORALES	Et voici la fin de l'histoire de votre admirable Miguel tant adoré, j'espère que cela vous servira de leçon, si vous êtes capable de réfléchir. Quiconque, homme ou femme, osera suivre les traces de cet imbécile doit bien y penser avant, parce que voilà comment ça peut terminer. (mffhhh____) (mfhh_) (mffhh) (mffhh)
+
+MILAGRO	(mh/) (mh/)
+
+MORALES	(respi_)
+
+MILAGRO	Maudit. (mh\)
+
+THOMAS	Tiens bon, ma fille, tiens bon.
+
+MILAGRO	(mhhh_) (mhhh)
+
+MORALES	Il a cru que parce qu'il était le favori de Don Nicolas qu'il pouvait tout se permettre, et regardez ce qui lui est arrivé ? Et ce qui pourra vous arriver à vous aussi, parce que vous n'êtes que des bras à tout faire. (crie)
+
+FEMME TURBAN VERT	(pleure discrètement_______)
+
+(BOUCLE 38 - 00:32:24:22)
+		38
+
+MILAGRO	(pleure___) Donnez-nous le corps pour le veiller.
+
+MORALES	Non, non, Don Nicolas l'a interdit, pas de cérémonies, il sera enterré comme un animal, même ce droit, il l'a perdu, mettez-le dans une caisse et seuls les plus proches pourront assister à la mise en terre. Faites vos adieux.
+
+FEMME TURBAN VERT	(pleure__________)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure_____________) (sanglots discrets________)
+
+MILAGRO	(h\) (h/) (hh\) (h/_) (h\_) (h/_)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure___)
+
+MILAGRO	(hh) (h/_)
+
+FEMME AU TURBAN ORANGE ET VERT	(sanglot_) (respi_)
+
+MILAGRO	(h/) (h\_)
+
+FEMME AU TURBAN ORANGE ET VERT	(sanglot_) (sanglot__) (pleure____________)
+
+MILAGRO	(sanglot_)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure_________________)
+
+MILAGRO	(sanglot__) (sanglot_) (mhhhuhh)
+
+(BOUCLE 39 - 00:33:09:01)
+		39
+
+NICOLAS	Lucia... Lucia.
+
+REMEDIOS	Pardon Don Nicolas, mais la marquise est profondément endormie, elle était très perturbée par ce qui est arrivé au pauvre esclave et n'arrive pas à surmonter ce qui s'est passé lors de son empoisonnement, il vaut peut-être mieux ne pas la réveiller. (h/_) (h/_)
+
+NICOLAS	(mts) Je veux juste la voir un moment, comme ça, endormie.
+
+REMEDIOS	Ne vous inquiétez pas, la marquise descendra aussitôt réveillée, on vous remercie beaucoup pour votre bonté et votre compréhension, que le Seigneur vous bénisse. (h/_)
+
+VICTORIA	Le Seigneur devrait le maudire.
+
+REMEDIOS	Qu'est-ce que tu dis, Victoria ? Essaie de dormir, s'il te plait.
+
+(BOUCLE 40 - 00:34:41:11)
+		40
+
+MILAGRO	(pleure___________)
+
+THOMAS	Un autre fils qui s'en va, un autre de plus, va retrouver tes ancêtres, Miguel, et redeviens dans l'autre monde le jeune homme fort, vigoureux et libre que tu étais... embrasse pour moi Lorenza et Rosita, bon voyage, Miguel, (mts) (h/_)
+
+FEMME AU TURBAN ORANGE ET VERT	(sanglot__) (respi___)
+
+MILAGRO	(pleure___) (pleure___) (pleure__________)
+
+THOMAS	(respi_)
+
+MILAGRO	(sanglot___) (sanglot___) (pleure___)
+
+THOMAS	(mts) (h/) (h/) (h/) (mhh) (sanglot b. f.___) (pleure_) (sanglot étouffé_) (mhh) (h\) (hh/) (expi) (hh/) (hhh) (mmhh) (mts)
+
+(BOUCLE 41 - 00:35:39:01)
+		41
+
+THOMAS	bon voyage.
+
+MILAGRO	(chante en pleurant)
+
+FEMME AU TURBAN ORANGE ET VERT	(chant en pleurant)
+
+FEMME TURBAN VERT	(chante en pleurant)
+
+MILAGRO	Si tu savais comme ton départ nous cause du chagrin...
+
+FEMME AU TURBAN ORANGE ET VERT	Si tu savais comme ton départ nous cause du chagrin...
+
+FEMME TURBAN VERT	Si tu savais comme ton départ nous cause du chagrin...
+
+MORALES	(mhhuhm) J'en ai marre d'entendre vos chants et vos pleurnicheries, sales rebelles... le mort va au trou, et vous vous allez tous travailler, plus vite que ça... au travail...
+
+FEMME TURBAN VERT	(pleure_)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure__) (aïe_)
+
+FEMME TURBAN VERT	(aïe !)
+
+MORALES	(mfhh)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure___)
+
+MILAGRO	(hh)
+
+FEMME AU TURBAN ORANGE ET VERT	(cri de peur__)
+
+FEMME TURBAN VERT	(cri__)
+
+MILAGRO	(cri__)
+
+FEMME AU TURBAN ORANGE ET VERT	(cri__)
+
+FEMME TURBAN VERT	(cri__) (pleure___________________________________)
+
+MILAGRO	(pleure____)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure_________)
+
+MILAGRO	(pleure_____________________)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure__)
+
+FEMME TURBAN VERT	(pleure______)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure___)
+
+MILAGRO	(pleure____________)
+
+FEMME AU TURBAN ORANGE ET VERT	(sanglot__)
+
+FEMME TURBAN VERT	(pleure___)
+
+FEMME AU TURBAN ORANGE ET VERT	(pleure_______)
+
+FEMME TURBAN VERT	(pleure__________)
+
+MORALES	allez, dépêchons, au travail.
+
+FEMME AU TURBAN ORANGE ET VERT	(petits sanglots éparses__________) (petits sanglots éparses__________) (petits sanglots éparses_____________)
+
+(BOUCLE 42 - 00:36:36:07)
+		42
+
+VICTORIA	Comment je pourrais le regarder en face ?
+
+REMEDIOS	Mon amie, garde ton sang-froid et bientôt tout sera fini une fois pour toutes... entrez.
+
+ISABEL 2	C'est moi... ma chère marquise, mon père m'a dit que vous n'étiez pas bien alors j'ai pensé vous apporter quelque chose pour vous remonter le moral, quand j'étais malade, bon quand j'étais... les sucreries étaient la seule consolation qui me restaient, alors j'aimerais que vous goûtiez... (h/) (mfh) (respi_) (h/) (h/) (mts)
+
+VICTORIA	(h/) Je n'aime pas les sucreries et je n'ai envie de rien. C'est si difficile à comprendre, je ne veux voir personne, je veux être seule ?
+
+ISABEL 2	Je ne voulais pas importuner.
+
+VICTORIA	Mais tu la fais, et maintenant sors s'il te plait.
+
+ISABEL 2	Je suis désolée, pardon.
+
+REMEDIOS	Ce n'est pas de sa faute.
+
+VICTORIA	Je sais, mais en ce moment je ne supportes rien en rapport avec Nicolas ou sa famille, d'ailleurs, je ne me supporte pas moi-même.
+
+REMEDIOS	Ne dis pas ça, tu me fais peur, et n'oublie pas que tu as encore beaucoup de choses pour lesquelles tu dois lutter.
+
+VICTORIA	Sans Miguel il ne me reste que de la haine et de la douleur, mais c'est là où je puiserais ma force, tu verras.
+
+(BOUCLE 43 - 00:37:49:03)
+		43
+
+MILAGRO	Je me demande comment est Victoria.
+
+THOMAS	(h\) J'aimerais pouvoir être avec elle en ce moment, à dire vrai, j'ai peur qu'elle ne surmonte pas son chagrin. (mfh) (h/) (h/_) (h\_)
+
+MILAGRO	Papa, elle est forte... si elle a survécu à tout ce qu'elle a enduré depuis toute petite, elle survivra aussi à cette grande perte.
+
+THOMAS	Je ne sais pas, Milagro, c'est pas pareille. (hh)
+
+MILAGRO	Tu crois qu'elle n'y arrivera pas ?
+
+THOMAS	(mhh\_) Des coups durs comme ça changent les gens, tu sais, à la mort de ta mère, Lorenza, j'ai perdu mon âme et il ne me restait que l'amertume, ensuite il y a eu Rosita... j'espère que j'ai toujours mon oroujimi, bon, la vie continue allez, on va travailler. (respi_) (mfh) (h/_) (expi_) (mfh\) (mfh) (h/) (mffh) (mffh) (mffh/_) (mffh\_) (mmhhmm) (mh/_) (mh\) (mhuh) (hh)
+
+(BOUCLE 44 - 00:39:11:18)
+		44
+
+ADELA	Avec tout le respect qui vous ai dû, mais aussi avec la bienséance qui fait partie du dialogue entre des familles respectables, je vous prie instamment de répondre à mes doutes avec la plus profonde franchise. Existe-t-il chez votre fille, la marquise de Bracamonte, un quelconque empêchement physique ou spirituel que vous n'ayez pas mentionné au moment de notre accord ? (respi_)
+
+(BOUCLE 45 - 00:39:57:14)
+		45
+
+ADELA	Son comportement parmi nous est plutôt instable et sa santé assez fragile, ce qui nous amène à penser qu'il se passe quelque chose qu'on ignore, si tel est le cas, et selon ce qui convient de faire entre gens de bonne foi et respectueux des principes religieux, je vous informe que nous serions obligés de la renvoyer en Espagne avant les épousailles, parce que sincèrement la marquise de Bracamonte ne correspond pas à nos désirs. (hh)
+
+(BOUCLE 46 - 00:40:42:18)
+		46
+
+ADELA	Hilaria, toi, dehors.
+
+HILARIA	Oui madame.
+
+ADELA	Siervo, arrête ce que tu fais, j'ai une autre tâche pour toi, j'ai besoin que tu ailles à la poste, immédiatement, envoyer cette lettre en Espagne, personne ne doit être au courant, personne ne doit le savoir, surtout mon fils Nicolas... tu attends quoi ? Cours... je sais que tu ne peux pas courir, mais fais de ton mieux, c'est urgent. (respi_)
+
+SIERVO	Oui madame.
+
+Insert	(Générique de fin)
+

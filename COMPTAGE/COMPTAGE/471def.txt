@@ -1,0 +1,355 @@
+THOMAS EP 471
+Titre VO : Diesel and the Ducklings
+Titre VF : Diesel et les canetons
+Les corrections de la cliente sont soulignées
+(BOUCLE 1 - 10:00:31:11)
+		01
+
+Narrator	Diesel et les canetons.
+
+Narrator	Il est très tôt ce matin-là quand Thomas vient livrer des wagons au port de Brendham.
+
+Thomas	Salut Cranky! Ca va Salty?
+
+Salty	Bien sûr  que oui, moussaillon!
+
+Cranky	Salut Thomas!
+
+Thomas	Oh wahou! Doucement hé! Qui m'a poussé?
+
+Diesel	C'est moi! Diésel! Hahahahaha! Laisse-moi passer l'escargot!
+
+Thomas	Tu n'es pas obligé de faire ça, tu sais!
+
+Diesel	Evidemment que si, Thomas! Je suis un diésel! Très sournois, toujours brusques, les diésels sont tous de grosses brutes!
+
+(BOUCLE 2 - 10:01:16:01)
+		02
+
+Salty	Noooon! Ca c'est faux, matelot! Moi aussi j'en suis un! Et si je suis brusque, je ne suis pas une brute!
+
+Diesel	Oh non, t’es un nounours en fait! Hahahaha!
+
+Cranky	Pourquoi est-ce qu'il se comporte toujours comme ça?
+
+(BOUCLE 3 - 10:01:33:23)
+		03
+
+Narrator	Un petit peu plus tard, sur le trajet du retour, Thomas s'arrête à la station de lavage pour parler à Percy.
+
+Thomas	Bonjour Percy!
+
+Percy	Bonjour Thomas! Je fais un brin de toilette avant d'aller au travail! Hé!
+
+Thomas	Ah!
+
+Percy	Mais! Qui a fait ça?
+
+Diesel	Héhé! Te casse pas un piston Percy!
+
+Percy	Diésel! Mais j'étais là avant!
+
+Diesel	Maintenant, c'est mon tour! Au revoir!
+
+Thomas	Tu sais quoi? Si tu étais plus gentil avec les autres, tu aurais plus d'amis! (h)
+
+Diesel	Mes amis ne m'aiment pas parce que je suis très sympa, ils m'aiment parce que je ne suis qu’une grosse brute n'est-ce pas les gars?
+
+Arry	Oui, bien sûr!
+
+Bert	Oui! (h/)
+
+A+B	Une grosse brute ! Une grosse brute ! Une grosse brute !
+
+(BOUCLE 4 - 10:02:24:13)
+		04
+
+Narrator	Plus tard dans la journée, Thomas repense à Diésel quand soudain, il l'aperçoit, installé tranquillement sur un embranchement.
+
+Thomas	Oh! Oh non! Pas encore Diésel!
+
+
+Diesel	Hahaha, vous êtes choux oh!
+
+Thomas	Ca suffit là, je l'ai assez vu pour aujourd'hui! Mais qu’est-ce qu'il fait? (h)
+
+Diesel	Oh!
+
+Thomas	Oh, il n'est pas seul?
+
+Diesel	Petits, petits! Ohhh! Qu'ils sont mignons ces canetons! Héhéhéh! Ils sont adorables avec leurs petites plumes! Oui vous l'ê-êtes!
+
+Narrator	Thomas n'en croit pas ses yeux! C'est la première fois qu'il voit Diésel être doux et gentil!
+
+(BOUCLE 5 - 10:03:03:01)
+		05
+
+Thomas	(rire bf___) Très sournois! Une grosse brute !
+
+Diesel	Ohoh!
+
+Thomas	Si les autres pouvaient te voir en ce moment, ils se diraient que c'est toi le nounours !
+
+Diesel	(h)
+
+Thomas	Oh, j'ai hâte de raconter tout ça aux copains !
+
+Diesel	Non! Thomas! (h) Pitié! S'il te plait ne dis rien! Ils vont rigoler et se moquer de moi!
+
+Thomas	Tout comme toi avec eux, Diésel! Si tu peux être gentil avec des canards, pourquoi tu es méchant avec les locomotives?
+
+Diesel	Euh euh eh bien... je euh... je... je pourrais mais...
+
+Thomas	Diésel!
+
+Diesel	C'est bon, d'accord! Je vais changer! Je vais être... gentil et sympa et et et  et et si toi tu promets de ne pas leur parler des petits euh hah tu sais quoi!
+
+Thomas	D'accord!
+
+Diesel	(h)
+
+Thomas	(h/) Je  promets de ne rien dire tant que tu seras gentil avec tous les copains!
+
+Diesel	Ahhh! Merci Thomas! Ha! C'est sympa, ça!
+
+(BOUCLE 6 - 10:04:03:12)
+		06
+
+Narrator	Et c'est ainsi que ce jour-là, Diésel tente de se montrer gentil avec tout le monde.
+
+Diesel	Quelle belle journée Gordon, hah! Salue Thomas de ma part! Héhéhé! Et dis-lui que je suis adorable! Tu vas bien Henry? Transmets mon bonjour à Thomas!
+
+Henry	(h)
+
+Diesel	Hihihi! Bonjour Edouard!
+
+Edward	(h)
+
+Diesel	Amuse-toi bien! Tu vas voir Thomas plus tard?
+
+(BOUCLE 7 - 10:04:35:17)
+		07
+
+Diesel	Ah!
+
+Arry	Hein?
+
+Diesel	Oh! Oh! Qui vois-je? C'est Mademoiselle Longue Cheminée!
+
+A+B	(rires gras)
+
+Arry	C'est bien trouvé!
+
+Bert	Mademoiselle Longue Cheminée!
+
+Diesel	Héh! Tu es sûre d'avoir assez de force pour tracter ces wagons volumineux Emilie?
+
+Emily	Pourquoi t'es toujours aussi méchant ?
+
+Diesel	Je le suis parce que ça me plait! Très sournois, toujours brusques,
+
+A+B	toujours brusques, les diésels sont tous…
+
+Diesel	les diésels sont tous...
+
+Thomas	Diesel!
+
+Diesel	Ah! (h)
+
+Thomas	Coin, coin, coin!
+
+(BOUCLE 8 - 10:05:10:09)
+		08
+
+Diesel	Non! Thomas! Pitié! Je je je... (ah mmmm) Je tenais à souligner à quel point tu es forte, serviable et belle!
+
+Bert	(h)
+
+Emily	Hein?
+
+Diesel	Je suis sincère, Emilie! Et ta cheminée est fabuleuse! Allez, à plus tard les amis!
+
+Arry	Quoi? Attends!
+
+Bert	Diésel!
+
+Diesel	Au revoir!
+
+Emily	Mais qu'est-ce qui lui a pris?
+
+Thomas	Franchement? Aucune idée!
+
+(BOUCLE 9 - 10:05:38:16)
+		09
+
+Narrator	Mais Diesel a du mal à se débarrasser de ses mauvaises habitudes!
+
+James	Oh! Allez, pousse-toi Diesel!
+
+Gordon	Diesel! Tu vas nous mettre tous en retard!
+
+Diesel	Oh, dommage! Du calme! Attention à ne pas exploser! (rire___)
+
+Thomas	Coin coin coin!
+
+Diesel	(h)
+
+Narrator	Du coup, Thomas est obligé de lui rappeler sa promesse grâce à un langage codé!
+
+James	(ttt) Il était temps!
+
+Diesel	Passe devant! Oui comme ça! Je me doute bien que vos missions sont toutes très urgentes! Haha! (mmm)
+
+(BOUCLE 10 - 10:06:24:02)
+		10
+
+Narrator	Mais même si Thomas est là pour lui rappeler sa promesse, c'est plus fort que lui: Diesel a du mal à bien se tenir!
+
+Truck1	(h/___ pf\______) (h/___ pf\____)
+
+Narrator	Surtout quand ses amis sont dans les parages!
+
+Truck1	(h/___ pf\____) Aaaah_____! Ouille! Mais quelle brute!
+
+Truck2	Mais quelle brute! Oh!
+
+Truck3	Mais quelle brute!
+
+Diesel	Qu’est-ce qu’on s’amuse !! (rire____)
+
+Truck1	Ah!
+
+Truck2	Ah!
+
+Arry	(h)
+
+Bert	(h)
+
+Truck1	Non!
+
+Arry	(rire gras_________)
+
+Bert	(rire gras________)
+
+Diesel	(rire____)
+
+Thomas	Diésel! Coin coin COIN!
+
+Diesel	Ecoute Thomas! C'est trop dur d'être gentil avec tout le monde tout le temps! C'est terminé, je ne joue plus!
+
+Thomas	Mais tu l'as fait avec les canetons!
+
+Arry	Des canetons? (h)
+
+Bert	Quels canetons? (h)
+
+Thomas	Suivez-moi Arry et Bert! Je vais vous présenter les nouveaux amis de Diésel!
+
+Diesel	Non! Thomas! Non!
+
+(BOUCLE 11 - 10:07:11:22)
+		11
+
+Arry	Je ne comprends rien à cette histoire!
+
+Bert	On va où au fait?
+
+Thomas	Vous verrez!
+
+Diesel	Thomas! Tu avais promis de ne rien dire!
+
+Thomas	Et toi tu devais être gentil!
+
+Arry	(h)
+
+Thomas	Accélérez Arry et Bert!
+
+Diesel	(h)
+
+Thomas	Du nerf!
+
+Diesel	Thomas! Attention! Les canards!
+
+Thomas	Oh! (h) Oh! Pincez-moi je surchauffe!
+
+Diesel	Oh nooon!
+
+Thomas	(efforts________) Aaah!
+
+Arry	(h) Oh!
+
+Bert	Oh!
+
+Arry	Ouille!
+
+Bert	Aïe!
+
+Arry	Tu joues à quoi exactement Thomas?
+
+Bert	(h)
+
+Thomas	(h) (h)
+
+(BOUCLE 12 - 10:07:55:05)
+		12
+
+Diesel	Enfin! Tu roulais cent fois trop vite! Tu dois faire attention où tu mets tes roues quand tu t'approches de la mare aux canards!
+
+Thomas	J'suis désolé! Je ne les avais pas vus! Tu es un héros Diésel! (hh) Et évidemment un gros nounours aussi!
+
+Diesel	Non c'est faux! Je suis brusque! Je suis une brute! Et...
+
+Arry	Qu'ils sont mignons!
+
+Diesel	(hh)
+
+Arry	Oh! Où ils sont les petits canetons de tonton Arry?
+
+Bert	Oh! Comme ils sont choux moi j'craque
+
+Arry	Ahahaha! Ils sont adorables!
+
+Bert	Oh!
+
+Arry	Venez voir Arry!
+
+Bert	Oui!
+
+(BOUCLE 13 - 10:08:30:07)
+		13
+
+Thomas	Tu vois tes amis? Y'en a aucun qui se moque de toi!
+
+Diesel	Euh, oui, mais euh...
+
+Thomas	Pas besoin d'être une grosse brute tout le temps! C'est bien de montrer qu'on a un coeur!
+
+Diesel	Bon j'essaye... ils sont adorables n'est-ce pas (rire) Oooh! Petits! Ohh! A très vite!
+
+Arry	Oh, regardez leurs toutes petites ailes!
+
+Bert	Et leur façon de marcher c'est amusant! Oh, les amours de canetons!
+
+Thomas	Vous aimez jouer les durs et embêter le monde, mais quand vous voyez des canetons, vous ne cachez plus votre bon coeur!
+
+Diesel	Ooooh!
+
+Arry	Oooh!
+
+Diesel	Oui!
+
+Arry	Petits!
+
+Bert	On dirait des peluches!
+
+Arry	Oooh! J'adore!
+
+Diesel	Coucou! Vous êtes trop mignons!
+
+
+
+
+
+1
+
+

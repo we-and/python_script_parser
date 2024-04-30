@@ -1,0 +1,939 @@
+Jon		Hahaha
+
+Ole		Hahaha
+
+Ole		Look at that guy!
+
+Ole		A damn bum!
+
+Ole		Hey, you!
+
+Ole		Are you lost?
+
+Ole		Hey! Hey!
+
+Ole		What the hell?
+
+Ole		Don't turn your back on me...
+
+Eric		Don't touch me!
+
+Ole		English?
+
+Ole		What the hell?
+
+Ole		You're telling me what to do?
+
+Gøril		Ole, stop it!
+
+Ole		Who do you think you are?
+
+Gøril		Ole!
+
+Ole		Hey! Hey!
+
+Ole		I asked you a question
+
+Stian		Hehehe
+
+Gøril		Ole!
+
+Ole		Hahaha
+
+Ole		Get up!
+
+Eric		If you touch me, you will burn
+
+Jon		Ole, stop messing around.
+
+Jon		Get up, come on
+
+Stian		Oh shit, Ole?
+
+Gøril		Call the police!
+	
+Christine	She said she would do it
+
+Psychologist	No one's blaming you
+
+Psychologist	Not the parents. No one
+
+Psychologist	Everyone speaks highly of you, your colleagues, your clients...
+
+Psychologist	Unfortunately these things happen.
+
+Psychologist	Therapy doesn't always help.
+
+Psychologist	You just started out, and that makes such an experience particularly horrible.
+
+Christine	I didn't believe her, Margethe.
+
+Christine	She said everything I needed to know
+
+Margrethe	She didn't have any else?
+
+Christine	No one. I could have stopped her.
+
+Margrethe	It's not your fault this has happened.
+
+Christine	It was all there for me to do the right thing. I didn't.
+
+Margrethe	You had no control over her.
+
+Christine	Someone's calling.
+
+Margrethe	You should answer that. And take some time off. And we'll talk tomorrow. Bye. 
+
+Christine	Ok
+
+Christine	Hello. It's Christine Aas
+	
+Henrik		Christine? 
+
+Henrik		Henrik. This way
+
+Christine	I have no experience with criminals, I work mostly with teenagers.
+
+Henrik		No one expects a miracle. 
+
+Henrik		We only have an hour before the Crime Unit arrives. 
+
+Henrik		I hope we can make him talk before they take him.
+
+Christine	What's his name?
+
+Henrik		Eric Bergland
+
+Christine	Sounds familiar
+
+Henrik		The fire in Årdal, three years ago
+
+Henrik		Five people burned to death
+
+Christine	It's him?
+
+Henrik		Norwegian-American. Backpacking in Norway, looking for relatives
+
+Christine	And he's been in the forest all this time?
+
+Henrik		There are still many questions regarding that fire
+
+Henrik		But now we have three witnesses saying he killed the boy
+
+Henrik		They say he barely touched him, and he collapsed and died.
+
+Christine	What has he said so far?
+
+Henrik		Not a word
+
+Christine	Any indication why this happened?
+
+Henrik		The big question for me is how. 
+	
+Christine	Eric, my name is Christine Aas
+
+Christine	I'm a psychologist, I...
+
+Christine	I don't work for the police, but they've asked me to come here to talk to you
+
+Christine	Would you like to come here and...
+
+Christine	Eric?
+
+Christine	Will you come and sit with me, please?
+
+Christine	My English is only so-so. Sorry
+
+Christine	I've never been to America
+
+Christine	You descend from Norwegians?
+
+Christine	Many generations back, it seems
+
+Christine	How did you find your family here?
+
+Christine	Online, or...?
+
+Christine	Eric?
+
+Christine	A lot of people are wondering what happened last night
+
+Christine	With you and the boy
+
+Christine	I don't think you did anything wrong.
+
+Christine	I think something happened that no one quite understands yet
+
+Christine	But maybe you do?
+
+Christine	I think that sometimes bad things happen to good people
+
+Christine	Awful things
+
+Christine	It's not their fault
+
+Christine	I think people are in their hearts genuinely good
+
+Eric		I tried. I did. I told him to...
+
+Eric		But he didn't listen to me. He didn't listen to me, you know?
+
+Christine	I'm listening
+
+Christine	Tell me
+
+Eric		I tried... It's my fault...
+
+Eric		I tried to tell him not to touch me
+
+Eric		And then he...
+
+Christine	Henrik? Let's remove the handcuffs
+
+Politikvinne	Henrik, Ole's parents is in the lobby. Bjørn refuses to leave until he has spoken with you.
+
+Henrik		Remove his handciffs and stay close. 
+
+Henrik		Therese
+
+Henrik		I can't even begin to...
+
+Bjørn		Where is he?
+
+Bjørn		I have to see him
+
+Bjørn		He killed my son. I have the right to...
+
+Henrik		We're still trying to understand what really happened
+
+Terese		We know what happened. The other boys saw the whole thing
+
+Henrik		Yes, we have statements, now we have to hear his side
+
+Bjørn		I just want to look him in the eyes. Once.
+
+Henrik		I'm sorry Bjørn.
+
+Politmann	The Crime Unit is bringing an American from the embassy. They want to take him out of the country.
+
+Politikvinne	I'll be right outside
+
+Christine	They were all your relatives, right?
+
+Christine	The people at the farm?
+
+Eric		Did everyone die?
+
+Christine	Except you
+
+Christine	I was sure you knew.
+
+Christine	I'm so sorry
+
+Christine	Eric, what happened at the farm in Årdal?
+
+Reporter	I'm from Online News, I was just wondering if you had anything to add...
+
+Politikvinne	No, get out! You're not allowed to be here, no one is...
+
+Eric		You know I killed them.
+
+Eric		And I killed him too.
+
+Christine	I don't understand how you could have...
+
+Christine	That's impossible!
+
+Christine	How do you do that?
+
+Eric		I don't know
+
+Christine	They were found burned, but this doesn't prove...
+
+Christine	Eric?
+
+Eric		Do you believe me now?
+
+Christine	What are you doing?
+
+Christine	Eric, stop this!
+
+Christine	Stop this now! 
+
+Eric		I can't!
+
+Christine	It's your emotions!
+
+Eric		Turn it off! Turn it off, turn it off!
+
+Henrik		You have to get out of here!
+
+Christine	No!
+
+Christine	He needs help to stop it!
+
+Eric		Turn it off!
+
+Christine	Turn off the alarm!
+
+Eric		Aaargh
+
+Christine	Eric, it's your emotions. You're setting this off.
+
+Christine	If you focus away from your fears you can learn how to control it!
+
+Christine	It's coming from inside you, so it's all up to you.
+
+Christine	Isolate yourself from everything around you
+
+Christine	You control it!
+
+Christine	Just breathe! I know you can stop this.
+
+Henrik		Are you okay?
+
+Agent	Eric, this is Cora Hathaway from the US embassy. She's here to help you get back to America
+
+Christine	No, they have no right
+
+Henrik		It is not up to me
+
+Henrik		Eric, you have to talk to them now.
+
+Eric		No, I just want to talk to you, nobody else
+
+Henrik		Christine...
+
+Christine	You can't take him in a helicopter, you've seen what he has done here
+
+Hathaway	Which is why we need to sedate you, Eric.
+
+Eric		I'll do it myself
+
+Christine	Eric...?
+	
+Medic		Watch his head.
+
+Medic		They are bringing Bergland to the helicopter now.
+
+Christine	You know we will never know what happened in there?
+
+Henrik		Maybe we're not supposed to know everything
+
+Henrik		I'm thinking God has a plan for Eric
+
+Henrik		Put this behind you. He is someone else's headache now.
+	
+Medic		He's burning up. The sedation is  wearing off.
+
+Hathaway	Eric?
+
+Hathaway	Eric. Relax.
+
+Hathaway	We're taking you to Oslo, and then somewhere safe.
+
+Hathaway	You will be well taken care of, okay?
+
+Hathaway	We're going to find out what's going on with you. I promise.
+
+Hathaway	Eric?
+
+Kai		Give him a new dose!
+
+Hathaway	Relax
+
+Medic		I've already given him a maximum dosage, any more and he could die
+
+Hathaway	Eric? Eric, relax!
+
+Eric		You gotta get me out of here!
+
+Kai		Give him a new dose now!
+
+Pilot		It's a terrible storm in front of us, I don't know if we can fly through this
+
+Kai		Do it now!
+
+Hathaway	Eric? Stop. Stop it. Stop!
+
+Kai		Lie down!
+
+PIlot		Mayday, mayday, mayday. Helicopter Zero-Zero going down.
+
+PIlot		Mayday, mayday, Zero-Zero going down
+
+Pilot		Spin out, spin out. 1200 feet. Ditch! Ditch!
+	
+Diver		We found three bodies in the wreckage, we're bringing them out now.
+
+Henrik		Did you find Bergland?
+
+Diver		No, not yet.
+
+Henrik (TV)	I will try to do this in English, since we have som foreign people with us today. As we have not yet contacted the relatives of the crash victims,  I can only say that we have recovered three dead bodies from the helicopter. One american woman is sent to hospital with smaller injuries, and doing well, all things considered. I also can not tell you the status of the other american. I'll keep you updated. OK, thank you.
+
+Terese		Bjørn?
+
+Reporter	The helicopter was on its way to Oslo with Bergland
+
+Terese		Where are you going?
+	
+Reporter	The police confirm it is Eric Bergland they're searching for in Odda
+
+Eric		Christine!
+
+Christine	Eric?
+
+Eric		I... The helicopter crashed
+
+Christine	Are you okay? Are you hurt anywhere?
+
+Christine	I'm going to take you to my friend's cabin
+
+Christine	And we're going to figure it out, okay?
+
+Christine	Be right back
+
+Eric		I don't wanna hurt you.
+
+Christine	Eric?
+
+Christine	How did this happen to you?
+
+Christine	What is this?
+
+Eric		I'll just do it.
+
+Eric		I don't wanna zap you
+
+Eric		Hey, how do I say "thank you" in Norwegian?
+
+Christine	Norwegian? "Tusen takk"
+
+Eric		Tusen takk, Christine.
+
+Christine	Is there anyone you would like to call? Like in the US?
+
+Christine	When did it start?
+
+Eric		At the farm
+
+Eric		I got there, and something just started building up inside of me
+
+Eric		And then it just exploded, and everything just burst into flames
+	
+Hathaway	It is crucial that you understand how important it is to the US government that you get Bergland.
+
+Henrik		You're lucky to be alive
+
+Henrik		It was some crash.
+
+Hathaway	Thank you.
+
+Hathaway	Two minutes before we took off.
+
+Hathaway	While we were in air, moments before we crashed.
+
+Henrik		You mean he had something to do with this?
+
+Hathaway	I saw it with my own eyes. He created all that, he made us crash.
+
+Henrik		He saved your life
+
+Hathaway	I'm not saying he's a bad person. I don't care what he is.
+
+Hathaway	We need to find him quickly and get him under control.
+	
+Margethe	Are you crazy? He has killed people
+
+Christine	But he didn't mean to hurt anyone
+
+Margethe	He's wanted, Christine. Hello?
+
+Christine	I know!
+
+Margethe	You're helping a criminal. You could go to jail. I think you should just call the police and explain what happened. This could ruin your life. Please just call the police. And let me know when you have, okay?
+
+Christine	I have to hang up.
+
+Margethe	Let me know when you have done it! Hello?
+
+Christine	Okay...
+
+Margethe	Good! Bye.
+
+Henrik (tlf)	Christine? Christine?
+
+Eric		Christine?
+
+Eric		I didn't mean to...
+
+Christine	It's fine.
+
+Eric		I was thinking a lot about the farm, and I was thinking i should...
+
+Christine	Yeah...
+
+Eric		What?
+
+Christine	We have to go to the police. You need to turn yourself in.
+
+Christine	I just cant do this... I need to go home.
+
+Christine	I can give you a ride back down, if you'd like?
+
+Christine	We can go in together
+
+Christine	I'm sorry.
+
+Eric		No, that's alright, I understand
+	
+Christine	You snore a lot. 
+
+Eric		I snore? Sorry.
+
+Eric		Christine?
+
+Eric		Christine, I just wanted to tell you that...
+
+Christine	Let's not go to the police.
+
+Eric		You've done enough for me, I think you should go home.
+
+Christine	I don't want to.
+
+Christine	We should go to the farm
+	
+Reporter	Locals are still in shock after yesterday's tragic events that drew international attention to the small Norwegian town.
+
+Christine	What do you think will happen when we get to the farm?
+
+Eric		I don't know. When I was there, it felt like there was something pulling me...
+
+Eric		It was pulling me towards something.
+	
+Announcer	Welcome aboard the MS Askeland. The fare will take about 15 minutes. 
+
+Announcer	The cafeteria is on the bottom deck
+
+Christine	I love ferries.
+
+Christine	It's like taking a break from the world for a few minutes.
+	
+Reporter	The police asks everyone in Odda who has seen Eric Bergland to report in. H is a suspect in yesterday's tragic deaths in Odda.  The police warns against making contact with him, as he may be dangerous.  Bergland might be accompanied by this woman.
+
+Christine	Eric?
+
+Christine	Are you okay?
+
+Christine	They know that I'm with you, so we need to leave.
+
+Christine	Now!
+
+Christine	You can't just leave like that!
+
+Eric	Christine, the gas station, the houses and the roads, everything just disappeared. 
+
+Eric	One minute it's all there, and then the next, it's all fields. And the sky just becomes a different color
+
+Eric		Sometimes I just get pulled into these... These visions. I see things. 
+
+Eric	I can't really explain it, I just see them. It's happened since the farm. I can walk around, I can touch things, I can feel things. I feel the wind, I feel the heat.
+
+Eric		It's freezing, I felt like I was freezing.
+
+Christine	And these are places you have been?
+Eric	No, they're not places I have been, some of theses places don't even seem possible, like they're different worlds. 
+
+Eric	And always in the background the sky is filled with this enormous shape that looks like a... 
+
+Christine	Like what?
+
+Eric	Like a... I know it sound strange, but it looks like a tree. Like this enormous, beautiful tree that fills the entire horizon
+
+Christine	You were sleeping in the cabin and I just kept thinking about everything. Like, will it stay with you for the rest of your life?
+
+Christine	Where does it come from?
+
+Christine	Are you the next Jesus?
+
+Eric		Jesus didn't make people die.
+
+Christine	You can do things with the atmosphere, and air, and water, and who knows what else you can do?
+
+Christine	Or what you can achieve if you learn how to control it.
+	
+Christine	Just let me talk to him
+
+Pjotr		Are you crazy?
+
+Christine	It's my boyfriend and he's very sick. We need to get him to a hospital.
+
+Christine	Just please help us.
+
+Pjotr		Are you sure he's okay?
+
+Christine	Yes.
+
+Christine	He's... He's fine.
+	
+Hathaway	If they cross that bridge, we lose them. 
+
+Hathaway	We lose them, they'll be in Bergen in no time. 
+
+Henrik	We can't have a situation in the tunnels before the bridge, that's too dangerous. 
+
+Hathaway	He cannot reach a city, you do agree with me, right?
+
+Hathaway	Just stop them before they get to that bridge. Please.
+
+Pjotr		What's going on here?
+
+Pjotr		Is this for you?
+
+Officer		Step out of the vehicle with your hands in the air!
+
+Pjotr		Don't shoot!
+
+Officer		Get out of the vehicle with your hands in the air!
+
+Henrik		Why are we just standing here?
+
+Eric		I wish everything was different
+
+Officer		On the ground!
+
+Christine	Please!
+
+Christine	Don't shoot him!
+
+Officer		Get down!
+
+Christine	Please! Please don't shoot him! Don't shoot! Put your weapons down!
+
+Officer		Get down! Get down!
+
+Eric		No! No! Don't touch her!
+
+Officer		Get down!
+
+Eric		Tell him to take his hands off her! Tell him to take his hands off her! No!
+
+Eric		Don't touch her! Take his hands off her right now!
+
+Christine	Eric? Can you hear me?
+
+Officer		Stay down! Stay down!
+
+Pilot		Abort, abort, abort. 
+
+Christine	Eric, listen to me. You have to stop this!
+
+Christine	Eric? You have to focus on what you can do, and how you can control it . You need to do what you did at the police station to make it all stop. 
+
+Christine	Keep all the noise out.
+
+Officer		Stop! Get down!
+
+Christine	Help! Help!
+
+Christine	We need a doctor!
+
+Christine	Help me!
+
+Henrik		Is he alive?
+
+Henrik		I'll get you out of here. Both of you
+
+Henrik	This is Henrik Jondal. The sheriff in Odda. I need to get Eric Bergland to the nearest hospital. 
+
+Henrik	I want a confirmation from someone official that no one will stop us If you dont let us through, you will be held accountable if he dies.
+
+Police		One moment, we'll get back to you with a formal statement.
+
+Police	We will let you through on the condition that you drive straight to Ulvik hospital. We will create a security perimeter around the hospital. 
+	
+Henrik		You should have told me your plans.
+
+Christine	You said there was nothing more you could do. Why are you helping us now?
+
+Henrik	I have believed in God my whole lifte. If this got something to do with him, I don't want to be on the wrong side. 
+
+Henrik		Where were you going?
+
+Christine	The farm.
+
+Henrik		That burned down?
+
+Christine	He thinks that's where it all started. 
+
+Reporter	We will return with updates as from the police station in Hordaland. 
+
+Reporter	Several police patrols joined the dramatical arrest on the Hardanger bridge,  when a local thunderstorm reached the area surrounding the bridge. 
+	
+Hathaway	With all due respect, I disagree.
+Hathaway	You haven't seen, what I've seen. 
+
+Hathaway	Imagine in a few days, when people realize what he represents, or what he doesn't represent
+
+Hathaway	Imagine Christians, Muslims, everyone who believes in God.
+
+Hathaway	Suddenly a God-like human who proves them all wrong.
+
+Hathaway	He doesn't represent any of them.
+
+Hathaway	What happens then?
+
+Hathaway	I think it's the only thing we can do.
+
+Hathaway	I'll make sure that happens
+
+Reporter	Witnesses claim the wanted Bergland was responsible , and seemed to be summoning the storm. In videos from the incident, it may seem that Bergland is controlling the lightning strikes.  Social medias are going wild with speculation, and several people are comparing Bergland with Thor, the Norse God
+
+Eric		Are they calling me Thor?
+
+Christine	You can't blame them really
+
+Radio host	The University in Bergen rejects this claim
+
+Man on radio	He was definitely an angry god, but he was also the protector of humans. 
+
+Radio host	I'm here with Maja Gundersen, you were witness to...
+
+Boy on radio	He will defeat everyone, he's Thor!
+
+Reporter	Bergland has been sent to Ulvik Hospital for treatment.
+
+Reporter	The police is assisted by the millitary to lock down the area, and is asking people to keep distanced. 
+
+Medic		Ventricular fibrillation.
+
+Christine	Eric? Can you hear me?
+	
+Christine	Eric?
+
+Eric		Christine? Where am I?
+Christine	We lost you, but the doctors got your heart going again. They need to do an MR-scan
+
+Eric		No please, will you just get me out of here?
+
+Christine	No, they need to see what's going on inside you
+
+Christine	I'm right here Eric. I'm right outside. Just talk to me.
+
+Eric		I was there again. This time everything was frozen. Like an ice age. 
+
+Eric		It was still that same tree though.
+
+Henrik		What tree? What is he talking about?
+
+Christine	Some times he gets these strange visions
+
+Doctor	Okay, Eric. Try to relax. We're starting the machine now. While we're scanning there will be some noises. Just relax.
+
+Reporter	People have gathered around Ulvik Hospital, hoping to see Eric Bergland.The police confirms that they are assisted by the US government and the millitary to keep the situation from escalating. 
+
+Nurse		This must be wrong. How is he alive? What was that?
+
+Christine	Eric?
+
+Eric		It really hurts, it really hurts!
+
+Christine	You have to turn off the machine.
+
+Nurse		It wont turn off.
+
+Christine	Hold on, hold on!
+
+Nurse		Is everyone okay?
+
+Christine	Eric, are you okay?
+
+Nurse		The boy in ICU2 has gone into cardiac arrest. The defribillator isn't working.
+
+Eric		What did she say?
+	
+Bjørn		You're a monster!
+
+Bjørn		You killed my only son. 
+Henrik		Bjørn!
+
+Henrik		This is a big mistake.
+
+Henrik		Please.
+
+Henrik		Don't do this.
+
+Eric		I'm sorry. I really am sorry.
+
+Eric		I didn't mean to hurt him. 
+
+Eric		But there's somebody else's kid who's about to die.
+
+Eric		And you need to let me go help them now.
+
+Henrik		Bjørn!
+
+Eric		Thank you.
+	
+Nurse		17, 18, 19, 20, 21, 22, 23, 24, 25, 26...
+
+Eric		Can I try something, please?
+
+Doctor		No, no
+
+Henrik		Let him.
+
+Eric		Please.
+
+Far		Jørgen!
+
+Fan		Thor is Norwegian!
+
+Fan		Touch me too! Touch me!
+
+Henrik		Eric?
+	
+Henrik		The army is blocking off the area  around the farm to keep the media away.
+
+Henrik		And to keep the area safe for Eric. For all of us.
+
+Eric		What do you think they expect from me?
+
+Henrik		Read the page I've marked. 
+
+Eric		What? What, are you all right?
+Christine	Aft... After Thor and all the other gods died at Ragnarok, his two sons built a farm on the ruins Åsgård, to restart their life, and rescue all the knowledge the gods possessed, to prepare for their return. 
+
+Henrik	This place we're going to, what if that is the farm Thor's sons built. What if that's the reason you're connected to it?
+
+Henrik		What if you are his descendant?
+
+Eric		Can I... Can I just have a minute please?
+
+Christine	Why don't the two of us go up and have a look first, okay?
+
+Christine	It doesn't look that old.
+
+Henrik		There could have been lots of houses here through the ages.
+
+Christine	Do you remember anything?
+
+Eric		Argh!
+
+Eric		I can't get up! I can't move!
+
+Henrik		We need help to dig here. 
+	
+Sierra 2 	Charlie has arrived at the site.
+
+Officer		They have requested an excavator to dig undet the fire plot. Over
+
+Officer		Ma'am, they're ready for you. 
+
+Sierra 2 	Charlie. We got eyes on target, awaiting orders. Over.
+
+Hathaway	If anything happens that escalates the situation, we're gonna fire on him. 
+
+Officer		Like what?
+
+Hathaway	I'm not sure yet.
+
+Eric		It all happened so fast.
+
+Eric		The house just lit on fire. 
+
+Eric		And I just watched those people die. 
+
+Christine	It wasn't your fault.
+
+Digger		Shouldn't we wait for an archaeoligist?
+
+Henrik	Eric. I think we found a crypt, or a cave.  We will go down first. We don't want to risk another fire. 
+
+Christine	Stay here. And I'll let you know if you should go. Okay?
+
+Officer		Target is isolated. Looks like they found something underneath the fire plot. 
+	
+Henrik		Runestones.
+
+Henrik		What is this place?
+
+Henrik	The knowledge of all the dead gods. That Thor's sons collected after Ragnarok.
+
+Henrik		They were described as runes.
+
+Christine	The Norse gods' own words
+
+Henrik		Yggdrasil. The World Tree.
+
+Henrik		It shows the nine worlds in norse myhtology.
+
+Henrik		Time to get Eric down here. 
+
+Henrik		It's your turn now. 
+
+Christine	See what it is, then get out of there as quickly as you can. 
+
+Henrik		They're ready for you.
+
+Eric		Thank you.
+
+Henrik	Okay Eric.  Follow the walkway to the back wall. There's a mural there with a big tree on it.
+
+Henrik	And the box is in front of that mural. The workers are equipped to open it. But please let them out of there, before you do anything.
+
+Eric		What is this?
+
+Digger		I don't know.
+
+Eric		Let's find out. 
+
+Digger		I think it's time for us to leave.
+
+Officer		The workers are coming back out. No visual on Bergland. He is still down there
+
+Eric		Christine? It's a hammer. 
+
+Officer		The workers are saying Eric is now alone with the box.
+
+Officer		They're saying they found a chest
+
+Bystander	Did you hear that? A chest!
+
+Christine	What's happening? Are you okay?
+
+Eric		The hammer is protecting me.
+
+Christine	Please come back out. 
+
+Officer		He's holding a hammer.
+
+Officer		The object is a hammer
+
+Officer		I can see something in his hand. Permission to fire. 
+
+Officer		We have civilians coming to the site. 
+
+Officer		Are we firing? Ma'am?
+
+Hathaway	Fire.
+
+Officer		Female casualty
+
+Eric		Stay with me, stay with me! No, no, no no, no!
+
+Eric		Argh! No, no no!
+	
+NA1 		We still don't have a number of casualties after the tragedy in Årdal.
+
+NA2		This is absolutely devastating.
+
+NA1		Norway is still in shock...
+
+NA2		...Norway... Cult of Thor...With the terrorist Eric Bergland still at large...
+
+NA1		There is still no sign of Eric Bergland.
+	
+	
+	

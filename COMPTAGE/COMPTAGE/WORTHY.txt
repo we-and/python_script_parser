@@ -1,0 +1,785 @@
+EISSA	That's my dad...
+EISSA	Always picking up strangers.
+EISSA	But this man was different. 
+EISSA	He asked to be dropped off at Exit 77. 
+EISSA	A road to nowhere. 
+EISSA	Before leaving, the man passed along a warning
+ADAM	Beware the Black Flags.
+ADAM	Their only loyalty is to themselves.
+EISSA	He advised my father to gather up supplies and flee.
+EISSA	Find somewhere safe and secluded. Hide out there...
+EISSA	And above all, stay guarded.
+EISSA	So that's exactly what we did.
+EISSA	The Seer. That's what my father called the man.
+EISSA	Since he foresaw the end.
+EISSA	After that...
+EISSA	The Black Flags and other paramilitary groups began battling one another for supremacy.
+EISSA	Everything in sight was gutted and burned, then left to rot.
+EISSA	Those who avoided getting murdered in the streets...
+EISSA	Frequently wound up either starving or freezing to death inside their homes.
+EISSA	One thing all of these people had in common:
+EISSA	They died afraid.
+EISSA	Cold, hungry, and afraid.
+EISSA	Then things got even worse.
+EISSA	One of the remaining paramilitary groups succeeded in contaminating the water supply.
+EISSA	A single drop had the capacity to destroy your entire immune system.
+EISSA	That's when all hell broke loose.
+EISSA	Entire cities were erased from existence. 
+EISSA	That's why I'm telling you to forget it.
+EISSA	My dad won't let you near her.
+DAOUD	I can't accept that.
+DAOUD	I'm going to talk to him.
+DAOUD	Man to man.
+DAOUD	You don't think I'll do it?
+EISSA	Checkmate.
+DAOUD	I wasn't paying attention. New game.
+DAOUD	Come on play again!
+EISSA	I only saw one.
+SHUAIB	Get back up there.
+SHUAIB	Be ready to give me cover.
+JAMAL	Shuaib!
+SHUAIB	Now is not the time, Jamal.
+MARYAM	I'm coming with you.
+SHUAIB	No you're not.
+MARYAM	Father. 
+SHUAIB 	Maryam!
+MARYAM	Stop treating me like a child.
+MARYAM	I can help out there.
+SHUAIB	I know, sweetheart.
+SHUAIB	No one here is more capable than you.
+SHUAIB	That's why I need you to stay inside and look after the others.
+SHUAIB	Two knocks, we're clear.
+MARYAM	Three, there's a problem.
+SHUAIB	She's sick.
+QAIS	From the water.
+TEEN GIRL	Please help me.
+QAIS	I don't like this.
+SHUAIB	Come here.
+SHUAIB	-Come here! 
+QAIS	Wait...
+QAIS	It's a trap.
+SHUAIB	She's my daughter's age, damn it.
+QAIS	Shuaib, don't unlock the gate.
+TEEN GIRL	Please help me.
+TEEN GIRL	Or just kill me.
+SHUAIB	I have to try.
+SHUAIB	Hold this.
+EISSA	What are you doing, Dad?
+DAOUD	Don't worry. He can handle himself.
+DAOUD	Just cover him.
+QAIS	Shuaib!
+SHUAIB	Shut the gate the second I'm back in.
+QAIS	Shuaib...
+RAED	"Five girls near the water spring."
+RAED	"Only one's the love for me."
+RAED	"Five girls near the water spring."
+RAED	"Three are gone and two remain."
+RAED	If I were you...
+RAED	I'd stay put.
+RAED	Lower your gun.
+SHUAIB	Give me the girl.
+RAED	Lower your gun, buddy.
+SHUAIB	The girl.
+RAED	I won't ask you again!
+RAED	Now drop it.
+SHUAIB	It stays in my hand. 
+RAED	What name do you go by?
+SHUAIB	None of your business.
+SHUAIB	Who are you with?
+RAED	None of your business.
+SHUAIB	They call me Abu Eissa.
+RAED	And I'm...
+RAED	A drifter.
+RAED	Affiliated with no one.
+SHUAIB	So what brings you here?
+SHUAIB	What do you want?
+RAED	Water.
+RAED	I need water. 
+SHUAIB	I'll give you a gallon.
+SHUAIB	You give me the girl.
+RAED	I must say...
+RAED	That's very generous of you.
+RAED	All that beautiful water you've got up there.
+RAED	And the most you can spare is a gallon?
+RAED	That just won't do.
+SHUAIB	It's not only for me.
+RAED	What if I throw in a little gift besides her?
+SHUAIB	What?
+RAED	I've got bullets.
+RAED	As many as you want.
+SHUAIB	9 millimeter?
+RAED	No.
+RAED	I've got...
+RAED	.22s
+SHUAIB	How about 762s?
+RAED	Afraid not.
+RAED	But I do have...
+RAED	Chill out, Abu Eissa! Relax a little.
+RAED	I told you, it's a gift. 
+DAOUD	Wait.
+RAED	I've got these.
+RAED	Very useful.
+RAED	Don't need a weapon to trigger them.
+RAED	Any sort of pin or nail will do.
+RAED	They create catastrophes.
+SHUAIB	I have no need for them.
+SHUAIB	Listen to me.
+SHUAIB	I'll give you three gallons of water.
+SHUAIB	You give me the girl.
+SHUAIB	And you and your friends never come back here.
+SHUAIB	You don't need their permission.
+SHUAIB	This is just between us.
+RAED	You're right.
+RAED	It's just between us.
+QAIS	Shuaib! Get back here!
+EISSA	Can't get a mark on either of them!
+RAED	Fire!
+DAOUD	On the truck!
+QAIS	Shuaib!
+RAED	Khaled?
+RAED	Gabba?
+EISSA	Come on, Dad. Move!
+RAED	Have them throw down their weapons or I'll blow...
+SHUAIB	You okay?
+MUSSA	Don't shoot!
+MUSSA	I was just passing through.
+MUSSA	Heard you fighting.
+MUSSA	Chose your side.
+SHUAIB	And what brought you here?
+MUSSA	I was looking for shelter.
+MUSSA	There are bandits everywhere.
+MUSSA	I was just hoping to find some good people.
+SHUAIB	Are you alone?
+MUSSA	Gülbin!
+SHUAIB	Anyone else?
+MUSSA	It's just the two of us.
+MUSSA	You mind if I get my knife?
+MUSSA	Have you said hello to the guys that shot me?
+MUSSA	Gülbin doesn't speak any Arabic.
+MUSSA	She's Kurdish, and my Kurdish isn't so good.
+MUSSA	But somehow we manage to communicate.
+EISSA	Dad!
+SHUAIB	It's alright.
+EISSA	You're not hurt?
+SHUAIB	Had you more accuracy you might have killed my benefactor here.
+EISSA	I thought he was with...
+SHUAIB	I know what you thought.
+SHUAIB	It's okay.
+SHUAIB	My name is Shuaib.
+SHUAIB	That's Qais.
+MUSSA	Name's Mussa.
+EISSA	You saved my father?
+EISSA	Thank you.
+SHUAIB	Please come in.
+SHUAIB	We can clean up your wound at least.
+SHUAIB	My son here was captain of his football team.
+SHUAIB	Top scorer two years running.
+MUSSA	God bless him!
+MUSSA	I'm sorry for your losses.
+SHUAIB	We are all on this same path.
+SHUAIB	Bury the girl first thing tomorrow.
+SHUAIB	Blood's not mine, don't worry.
+SHUAIB	Mussa.
+SHUAIB	This is my daughter Maryam.
+MUSSA	Hello.
+SHUAIB	Daoud...
+SHUAIB	Draws.
+DAOUD	Graphic design and animation, actually.
+DAOUD	Did some work for TV.
+SHUAIB	Draws.
+SHUAIB	Zaineb. Bilal.
+SHUAIB	We have guests.
+MUSSA	I'm Mussa. This is Gülbin.
+ZAINEB	Hey.
+BILAL	Welcome.
+ZAINEB	The palace is vast. Make yourselves comfortable.
+MUSSA	What is this place?
+SHUAIB	Used to be an airplane wings factory.
+MUSSA	How long have you been here?
+SHUAIB	318 days.
+EISSA	Is everything alright?
+SHUAIB	You've got something to say.
+EISSA	Mussa.
+EISSA	He should stay with us.
+SHUAIB	Just Mussa?
+SHUAIB	Eissa.
+SHUAIB	We barely know these people.
+SHUAIB	We don't know this man or his vices.
+EISSA	He saved your life.
+EISSA	What more do you need to know?
+SHUAIB	Still. We have to be careful.
+SHUAIB	The world isn't what it used to be.
+EISSA	Being careful didn't stop mum getting sick from the water.
+SHUAIB	I did all I could to save her.
+EISSA	We need a better plan than just being careful.
+SHUAIB	That's what The Seer told us to do, and I have faith in God.
+EISSA	You rely on God, yet you won't plan for the future.
+EISSA	We need to take control of our destiny,
+EISSA	not throw ourselves in the quagmire and accept it as our fate.
+SHUAIB	That's enough.
+EISSA	You have to understand that...
+SHUAIB	I said that's enough! 
+MUSSA	Only Kurdish, I'm afraid.
+SHUAIB	You've done me a favor and I appreciate it.
+SHUAIB	You're welcome to stay for a couple of nights. But that's all.
+SHUAIB	Unless you have nowhere else to go.
+SHUAIB	There are conditions if you stay.
+SHUAIB	You carry out duties around here just like I ask.
+MUSSA	Isn't it customary to let guests eat and rest before asking them to make such decisions?
+MUSSA	Please. 
+SHUAIB	How did you two meet?
+MUSSA	I found her in a deserted neighborhood.
+MUSSA	She'd been hiding out there for months, ever since her husband died.
+MUSSA	Murdered actually.
+MUSSA	We've stayed together ever since.
+MUSSA	It must have been fate that brought us together.
+MUSSA	Don't you think?
+MARYAM	How was he murdered? Did she tell you?
+MUSSA	He was torn apart.
+MUSSA	Limb from limb.
+MUSSA	Pulled from his body.
+MUSSA	By a group of self-proclaimed "soldiers"...
+MUSSA	Who decided he wasn't worthy of living.
+MUSSA	By some miracle, Gülbin managed to escape.
+MUSSA	Fortunately, I was the one who eventually found her.
+RAYA	I consider my scars a sign of beauty. 
+RAYA	Could you translate?
+RAYA	I was a teacher.
+RAYA	When it all started.
+RAYA	We were taken hostage at our school.
+RAYA	A rebel commander started groping one of the teachers.
+RAYA	So I attacked him.
+RAYA	Three other rebels came in.
+RAYA	They raped me.
+RAYA	Then they poured acid on my face.
+RAYA	But I survived.
+RAYA	If I had known this was the price I'd to pay  to remain alive, I'd do the same thing again...  A thousand times.
+IDREES	I'm a theatre director. Or, rather...
+IDREES	I was.
+IDREES	In the old world.
+IDREES	I used to teach my students to empower themselves with love in order to gain confidence on stage.
+IDREES	If just one of my students were still with us.
+IDREES	To see Raya.
+IDREES	A shining example...
+IDREES	Of a person armed with nothing but love.
+IDREES	Who somehow channeled it to fight against all the brutality and hatred out there.
+IDREES	Of course I fell in love with her.
+IDREES	She kindly loved me back.
+IDREES	And after a great deal of pleading and all sorts diplomatic efforts...
+IDREES	Our dear friend Shuaib...
+IDREES	Finally agreed to marry us off in front of God and His witnesses.
+MARYAM	There's something very strange going on here. 
+SHUAIB	What are you talking about? 
+MARYAM	Gülbin is afraid of Mussa. 
+SHUAIB	How do you know that?
+MARYAM	Just watch her. She's always frightened and nervous when he's around. 
+MARYAM	There's something off about Mussa. 
+MARYAM	I don't like him. Or the way he stares at everyone. 
+EISSA	He saved Dad's life. 
+MARYAM	I know. But we still have to be careful. 
+EISSA	We owe him an invitation to stay here.
+MARYAM	Do you even know the man?! 
+EISSA	It's the right thing to do! 
+MARYAM	We've done more than enough for them already. I say we... 
+SHUAIB	Maryam. 
+SHUAIB	Mussa has until tomorrow to decidewhether or not he wants to stay. 
+MARYAM	Well, what if Gülbin wants to stay, but is too scared to say so? 
+SHUAIB	You two get some rest. 
+SHUAIB	We'll have our answers tomorrow. 
+SHUAIB	Goodnight. 
+JAMAL	The knife. 
+MARYAM	Can you explain to me why you trust this guy so much?
+EISSA	Can you explain to me why you're such a know-it-all? 
+MARYAM	As if you know anything. 
+MARYAM	Idiot. 
+EISSA	Call me an idiot again and I'll tell Dad about you and Daoud. 
+MARYAM	Seriously? 
+MARYAM	What are we, children?
+EISSA	You started it.
+EISSA	And you know I'd never tell Dad. 
+SHUAIB	I hope you liked the food. 
+MUSSA	Best I've had in a while. 
+MUSSA	Brought me back to the good old days. 
+SHUAIB	Are you more comfortable keeping this knife on you? 
+MUSSA	Does it make you uncomfortable? 
+SHUAIB	Not really. But as you can see...
+SHUAIB	We all keep our weapons inside this cabinet.
+SHUAIB	Which stays locked unless there's a problem.
+SHUAIB	I'm the only one with a key.
+SHUAIB	I don't carry a gun. I'm sure you've noticed. 
+MUSSA	What goes for everyone else here... 
+MUSSA	Goes for me too. 
+MUSSA	No.
+MUSSA	No.
+MUSSA	You're testing me.
+SHUAIB	Not at all.
+MUSSA	Yes you are.
+MUSSA	Because you don't know me.
+MUSSA	You see, this knife and I are old friends.
+MUSSA	Friends for life, as a matter of fact. 
+MUSSA	So what's it gonna be fearless leader?
+MUSSA	Do you trust me to keep this knife under my pillow?
+MUSSA	Or am I the one who has to trust you?
+MUSSA	And the next thing I know you'll be killing me and Gülbin in our sleep.
+SHUAIB	If I had the slightest intention of killing you...
+SHUAIB	I'd hardly have fed you dinner.
+MUSSA	Unless you wanted to fatten us up like goats before the slaughter.
+MUSSA	Ain't that right?
+SHUAIB	No it's not.
+SHUAIB	And I don't mean to make a test out of this...
+MUSSA	It's already done.
+SHUAIB	Listen to me, Mussa.
+SHUAIB	Unless you've already made up your mind to settle down here...
+SHUAIB	You are still a guest under my roof.
+SHUAIB	And as far as I know, guests are expected to abide by the rules of the house.
+SHUAIB	Your knife...
+SHUAIB	Goes into the cabinet with the other weapons.
+SHUAIB	And that's final.
+MUSSA	I'm just fucking with you, man! Can't you take a joke?
+MUSSA	This knife...
+MUSSA	Is my dearest belonging.
+MUSSA	You honestly call yourself a leader of this pack of dumbfucks?
+MUSSA	Trust should not simply be given.
+MUSSA	It should be earned.
+MUSSA	Now I know where you keep your food, your water and your weapons.
+MUSSA	Goodbye now...
+MUSSA	Fearless leader.
+MUSSA	The unworthy.
+MUSSA	I am the Aleph and the Ya'a.
+MUSSA	The beginning and the end.
+MUSSA	The time has come to separate the strong from the weak.
+MUSSA	The Worthy...
+MUSSA	From the unworthy.
+EISSA	Qais.
+MARYAM	Dad.
+GÜLBIN	No!
+RAYA	Let go of her!
+MARYAM	Get me something... 
+MARYAM	A bandage, towel, anything! Daoud...
+MARYAM	No.
+EISSA	Stay awake.
+EISSA	We're right here with you.
+SHUAIB	Maryam.
+SHUAIB	Eissa.
+SHUAIB	I'm sorry.
+EISSA	No. No. No.
+JAMAL	See what happens when you let strangers in?
+MARYAM	This is all your fault.
+EISSA	Daoud.
+ZAINEB	Eissa dear. Wait.
+DAOUD	Eissa!
+EISSA	Where are you?
+EISSA	Come out, you bastard!
+EISSA	Come out!
+EISSA	Get out of the way.
+EISSA	Move! 
+MARYAM	Where do you think you're going?
+EISSA	What?
+EISSA	What's the matter with you?
+EISSA	What's the matter with all of you?
+EISSA	What's going on?
+EISSA	Don't you realize who just got killed?
+EISSA	Have you all forgotten who saved you?
+EISSA	Where are you now?
+EISSA	Where are you?!
+MARYAM	You're not going anywhere.
+EISSA	 I'm gonna kill him – 
+MARYAM	Not tonight. 
+EISSA	I'm gonna kill him!
+MARYAM	Not tonight you're not!
+MARYAM	We need to see to Dad.
+DAOUD	Don't worry.
+DAOUD	Mussa must be gone by now.
+DAOUD	You should get some sleep.
+MARYAM	I'm okay.
+MARYAM	Stay.
+DAOUD	May he rest in peace.
+MARYAM	What are we going to do now? 
+EISSA	I don't know.
+EISSA	What were we doing before?
+EISSA	My father found a way to keep us safe.
+EISSA	But he didn't plan for the future.
+MARYAM	Do you really think he ran away?
+EISSA	Mussa?
+EISSA	I don't know...
+MARYAM	I didn't mean what I said yesterday.
+MARYAM	It's not your fault.
+QAIS	You're a good man, Eissa.
+EISSA	Father would have laughed hearing you say that.
+QAIS	The world was falling apart all around us,
+QAIS	but your dad still made sure everyone knew you were team captain.
+EISSA	I meant the "man" part.
+EISSA	He never treated me like one.
+QAIS	It's men's work you're doing now.
+QAIS	The people inside here are relying on you and your sister.
+QAIS	And so am I. 
+QAIS	I'm only alive today thanks to your dad.
+QAIS	Consider me your right hand from now on.
+QAIS	May he rest in peace.
+EISSA	May he rest in peace.
+EISSA	What?
+EISSA	I'll wash them later.
+MARYAM	What's wrong?
+EISSA	What happened to the water?
+MARYAM	What do you mean?
+EISSA	We're fucked.
+EISSA	Water's been cut.
+EISSA	Gotta go out to the tower.
+MARYAM	I'll go with you.
+EISSA	No.
+MARYAM	I won't let you go out there alone!
+EISSA	Daoud, Qais, let's go.
+QAIS	What's wrong?
+EISSA	We're going to the water tower.
+IDREES	Stay here, Qais. 
+IDREES	I'll go.
+EISSA	Fine.
+MARYAM	Eissa.
+EISSA	It's not gonna happen.
+EISSA	One of us has to stay here.
+MARYAM	Fine.
+MARYAM	You still upset with me?
+EISSA	Don't forget to lock up behind us.
+EISSA	Two knocks we're clear.
+MARYAM	Three there's trouble. 
+MARYAM	Don't worry. 
+DAOUD	Should we make a run for it?
+EISSA	It won't make a difference.
+EISSA	Save your energy.
+EISSA	Just be ready.
+EISSA	Hold this.
+IDREES	Eissa, wait.
+IDREES	Let me climb.
+EISSA	You don't have to.
+IDREES	Yes. I do.
+IDREES	Carry your weight. That's what your father always said.
+IDREES	This one...
+IDREES	is mine.
+IDREES	Just need a little hand here, boys.
+DAOUD	Idrees.
+DAOUD	Be careful.
+EISSA	Idrees!
+EISSA	Daoud.
+EISSA	Daoud!
+QAIS	Maryam, wait!
+QAIS	Calm down, Daoud.
+MARYAM	We have to stop the bleeding.
+BILAL	Is this what Mussa was talking about?
+BILAL	Separating the weak from the strong?
+ZAINEB	What kind of test is this? What's he going do to us?
+JAMAL	It's not a fucking test.
+JAMAL	It's a massacre.
+MARYAM	This isn't working. Hand me your belt.
+MARYAM	Water.
+ZAINEB	There's none left.
+BILAL	And what if he comes back?
+JAMAL	Where do you think you're going?
+JAMAL	What are you hiding from us?
+JAMAL	Tell me! What are you hiding?!
+EISSA	Shut up!
+EISSA	Everybody shut up.
+EISSA	If anyone here does so much as raise a hand to anyone else, they're gone. Understood?
+JAMAL	Why are you so eager to let her stay?
+EISSA	She hasn't given us a reason not to.
+MARYAM	Eissa!
+MARYAM	Now is not the time.
+JAMAL	What a joke.
+MARYAM	The bleeding won't stop.
+EISSA	Get a fire going.
+QAIS	Hold him down.
+EISSA	Just stay calm.
+EISSA	Bilal, give us a hand here.
+EISSA	Relax, we're right here with you.
+EISSA	Hold him still.
+DAOUD	Eissa!
+DAOUD	Please don't!
+MARYAM	Daoud!
+DAOUD	I beg you!
+DAOUD	I beg you!
+EISSA	Cover his eyes.
+DAOUD	Please! I'm begging you!
+JAMAL	Above the knee.
+JAMAL	Trust me.
+EISSA	Hold him still.
+MARYAM	Jamal...
+MARYAM	You're pathetic.
+MARYAM	Save some for Daoud.
+JAMAL	I know you don't want to hear this, but...
+JAMAL	We can't stay here any longer.
+JAMAL	And Daoud is in no condition to be moved.
+JAMAL	He lost a lot of blood.
+JAMAL	Priority should go to those of us who are going to live.
+MARYAM	What makes you so sure you're going to live?
+JAMAL	Are you threatening me?
+JAMAL	Aren't we all going to die?
+MARYAM	I'm saying you're selfish.
+JAMAL	Exactly.
+JAMAL	Selfishness is what it's going to take from now on, sweetheart.
+JAMAL	These petty and childish emotions of yours won't get us through a single week without water.
+JAMAL	Get the hell off me!
+EISSA	What did I say, Jamal?
+JAMAL	She attacked me!
+JAMAL	But you didn't see that, did you?
+EISSA	I heard the whole thing.
+JAMAL	So what?
+JAMAL	Who put you in charge?
+EISSA	Get out.
+JAMAL	So you're giving out orders now, too.
+EISSA	You're not welcome here anymore. 
+EISSA	In here, we protect each other.
+EISSA	Defend each other.
+EISSA	You want to fight for yourself, do it out there.
+JAMAL	Do you really think...
+JAMAL	You'll last a day here without me?
+JAMAL	Huh?
+EISSA	Get out.
+JAMAL	What if I don't want to?
+EISSA	Leave now!
+JAMAL	We're no longer under your command, Captain.
+JAMAL	I think we can all agree that it's more rational for me to be in charge.
+JAMAL	Not a kid just hatched from his egg.
+JAMAL	First thing I'm doing is...
+JAMAL	Throwing this bitch out of here.
+EISSA	Don't you dare touch her. 
+JAMAL	Get out!
+JAMAL	Stay back, Eissa!
+JAMAL	I'm doing this is for the good of everyone here.
+EISSA	You're not a leader. You'll never be a leader, and you know it.
+JAMAL	What do you know?
+JAMAL	Do you know...
+JAMAL	That your father took my council in everything.
+JAMAL	Do any of you know...
+JAMAL	That I was the real decision maker.
+EISSA	A true leader has to protect his charges.
+EISSA	Can you do that?
+JAMAL	Is that so?
+JAMAL	Who have you been able to protect?
+JAMAL	Certainly not your own father.
+JAMAL	Where were you when he got slaughtered right in front of everyone?
+JAMAL	Who welcomed the enemy in here with open arms?
+JAMAL	Didn't you insist on letting them stay?
+EISSA	And you? Have you forgotten how you got here?
+EISSA	The man who left his family behind to burn?
+JAMAL	Shut up, Eissa.
+EISSA	Yet somehow managed to save his books. Wasn't that you?
+JAMAL	If you take one more step, I'll blow your brains out.
+EISSA	You're not a leader.
+EISSA	You never were.
+EISSA	And my dad knew it.
+JAMAL	Why are you all looking at me like that?
+JAMAL	Are you going to let this boy call the shots?
+JAMAL	For what good reason?
+JAMAL	Because he's Shuaib's son?
+JAMAL	I knew it had no bullets. I just wanted to scare him.
+BILAL	We're staying with you, Eissa.
+ZAINEB	Don't you worry about us, Jamal.
+ZAINEB	You just look after yourself.
+JAMAL	And then there were seven.
+QAIS	What's that supposed to mean?
+JAMAL	You took the bait.
+JAMAL	Mussa is going to come for you. One by one.
+JAMAL	He'll trap you like mice.
+JAMAL	Just wait.
+JAMAL	You'll be crawling out of this hole looking for water at any moment now.
+JAMAL	I'll be seeing you again soon.
+JAMAL	Very soon.
+EISSA	Think we did the right thing?
+QAIS	I think Mussa's plan is working.
+EISSA	Maryam.
+EISSA	Jamal's right.
+EISSA	We can't survive here without water.
+MARYAM	What about Daoud?
+EISSA	It's going to be hard to take him with us.
+MARYAM	So what do we do?
+EISSA	We need a plan.
+EISSA	We have no choice but to look for water.
+EISSA	But I bet that's exactly what Mussa wants us to do.
+EISSA	We need to be prepared for that.
+EISSA	If it's a war he wants...
+EISSA	Then a war is what he'll get.
+MARYAM	We're doing the right thing.
+MARYAM	We have no choice.
+EISSA	Ready?
+QAIS	Ready.
+GÜLBIN	Eissa.
+RAYA	I'm coming with you.
+EISSA	What? 
+MARYAM	You don't have to do this.
+RAYA	Yes, actually, I do.
+BILAL	Maryam.
+BILAL	We're dead tired.
+BILAL	Somebody mind taking over the watch?
+MARYAM	I can't leave Daoud.
+ BILAL	Can we trust her?
+ZAINEB	Haven't we been doing so already?
+ZAINEB	Let's go.
+EISSA	Get over here.
+EISSA	The canister.
+QAIS	The gate's open!
+QAIS	Raya.
+EISSA	Raya!
+EISSA	Raya!
+EISSA	Are you okay?
+QAIS	Are you hurt?
+RAYA	Jamal is here.
+EISSA	Raya!
+EISSA	Say something!
+EISSA	Can you see a way out?
+EISSA	It's a trap.
+RAYA	We can't leave him here.
+EISSA	Why didn't Mussa just kill him?
+QAIS	He wants to use him for something.
+EISSA	For what? Bait?
+EISSA	To get us in here?
+QAIS	Only one way to find out.
+EISSA	Jamal!
+EISSA	What happened?
+QAIS	He cut out his tongue.
+RAYA	I just heard something.
+EISSA	Jamal! Keep quiet!
+RAYA	Dear God, what...
+QAIS	Raya, find us a wrap of some sort.
+EISSA	Shut up, for God's sake!
+EISSA	Calm down!
+QAIS	Eissa.
+QAIS	We can't take him with us.
+QAIS	We'll be done for if we drag him along.
+EISSA	We're not leaving him like this.
+EISSA	Hold him down.
+EISSA	Hold him!
+RAYA	What are you doing?
+RAYA	What are you doing?!
+EISSA	Forgive me, Jamal.
+EISSA	Hurry! The fire's spreading fast!
+RAYA	Open it!
+QAIS	It's getting closer!
+QAIS	Push!
+EISSA	Out of the way!
+RAYA	Hurry.
+RAYA	Hurry!
+EISSA	Give me a hand here.
+RAYA	Come on, Eissa!
+RAYA	Help me.
+EISSA	Raya!
+EISSA	Give me your hand!
+RAYA	Eissa!
+EISSA	Get closer!
+EISSA	Raya!
+EISSA	Raya!
+DAOUD	Maryam. 
+MARYAM	Yes?
+DAOUD	Can I have some water?
+MARYAM	We don't have any. I'm sorry
+MARYAM	Bilal?
+MUSSA	Maryam.
+MUSSA	Your time has come.
+EISSA	Gülbin!
+GÜLBIN	Mar...
+GÜLBIN	Maryam.
+EISSA	Stay with her. 
+QAIS	Where are you going?
+MUSSA	You're the only one who can save her.
+EISSA	What the hell do you want from me?
+MUSSA	I want you to forget the old world.
+MUSSA	Abandon the rules that only existed to force billions of people to live in mediocrity.
+MUSSA	Think about all the chaos.
+MUSSA	Chaos...
+MUSSA	Is the greatest gift humanity has ever received.
+EISSA	You have no right to speak for humanity.
+MUSSA	Don't you get it?
+MUSSA	The Earth was choking to death on useless people.
+MUSSA	Worthless people.
+MUSSA	Without purpose.
+MUSSA	My task...
+MUSSA	Is to help you understand this...
+MUSSA	The choice is yours.
+MUSSA	Which one of you gets to live?
+MUSSA	Decide.
+EISSA	Maryam!
+EISSA	Don't worry!
+MUSSA	You're free now, Eissa.
+MUSSA	This is the end.
+MUSSA	As well as the beginning.
+MUSSA	Right before I cut out Jamal's tongue...
+MUSSA	He told me the gun has no bullets. 
+EISSA	How do you know he wasn't lying? 
+EISSA	Unworthy.
+EISSA	Where's Qais?
+GÜLBIN	He was a good soldier. But his mission is over.
+GÜLBIN	Intelligent.
+GÜLBIN	But not a leader.
+GÜLBIN	We don't need more followers.
+EISSA	Why?!
+GÜLBIN	You deserve to live. More than any of the others.
+GÜLBIN	Mussa is supposed to light the fire...
+GÜLBIN	While I stay back and watch.
+GÜLBIN	Who takes charge...
+GÜLBIN	And who waits for others to guide them.
+GÜLBIN	Those who manage to control the situation get to join us.
+GÜLBIN	Truth is, very few succeed.
+GÜLBIN	But I had faith in you. And you didn't disappoint.
+GÜLBIN	You passed the test.
+EISSA	Only after he murdered my family.
+GÜLBIN	Because they were weak.
+GÜLBIN	Now the choice is yours.
+GÜLBIN	When I let you go...
+GÜLBIN	You can try to kill me.
+GÜLBIN	Or you can come with me.
+GÜLBIN	We're gathering soon in the Medina.
+GÜLBIN	Join us.
+GÜLBIN	Meet the others.
+GÜLBIN	Let's fix this broken world together.
+GÜLBIN	You're safe now.
+GÜLBIN	My mission isn't over.
+GÜLBIN	I have to go.
+GÜLBIN	We'll be waiting for you.
+GÜLBIN	It's where it all begins again. 
+ADAM	It was them, wasn't it?
+EISSA	Who are they?
+ADAM	The Ya'a Aleph.
+EISSA	I don't know what that means.
+ADAM	The Aleph and the Ya'a.
+ADAM	The first and the last.
+ADAM	The beginning and the end.
+ADAM	Ya'a.
+ADAM	Aleph.
+ADAM	The end...
+ADAM	And then the beginning.
+ADAM	That was our name.
+ADAM	And our symbol. 
+EISSA	You're one of them?
+ADAM	I once believed as they do.
+EISSA	And what is it they believe?
+EISSA	What are they after?
+ADAM	They took it as a given that...
+ADAM	The cessation of life as we once knew it was inevitable.
+ADAM	That soon enough mankind would tear itself to pieces.
+ADAM	And that the world would cease to exist.
+ADAM	Their goal...
+ADAM	Our goal...
+ADAM	Was to sift through the ashes and find survivors.
+ADAM	Survivors who could help rebuild society. 
+EISSA	But you left. 
+ADAM	At first I was convinced... 
+ADAM	What we were doing was noble. 
+ADAM	We searched for people of strong faith and empathy. 
+ADAM	Those... 
+ADAM	Who would not lose their humanity once the laws and governments fell. 
+ADAM	But the more the chaos swelled around us... 
+ADAM	The more peoples' values began to change. As did the qualities we looked for and tested. 
+ADAM	I knew I had to leave... 
+ADAM	The moment I first heard them use the phrase... 
+ADAM	"The Worthy." 
+ADAM	Your father... 
+ADAM	Was a kind man. 
+ADAM	I warned him... 
+ADAM	But he insisted on going back the way he came. 
+ADAM	In order to save you and your sister. 
+EISSA	My father believed the Seer had all the answers. 
+EISSA	He was mistaken. 
+EISSA	Aleph Ya'a.
+EISSA	This is your story. 
+EISSA	I will meet you in the Medina. 
+EISSA	The end of the world might have been yours. 
+EISSA	But the beginning... 
+EISSA	We'll see who it belongs to. 

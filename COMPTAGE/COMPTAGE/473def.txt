@@ -1,0 +1,235 @@
+THOMAS EP 473
+Titre VO : Saving Time
+Titre VF :Samson veut gagner du temps
+
+Les corrections de la cliente sont soulignées.
+
+(BOUCLE 1 - 10:00:31:14)
+		01
+
+Narrator	Samson veut gagner du temps.
+
+Narrator	Sanson est une locomotive très fière, qui travaille habituellement sur le continent, mais qui vient de temps en temps aider ses amis de Chicalor. Ce jour-là, Thomas vient chercher des wagons dans la zone des hangars, quand il voit arriver Sanson.
+
+Samson	Bonjour Thomas! Diésel. Stanley.
+
+Thomas	Salut Sanson!
+
+Stanley	Salut!
+
+Diesel	(grrr)
+
+Samson	Je dois m'occuper d'une grosse commande de pierres en provenance de la Carrière de la Montagne Bleue. Le gros contrôleur veut une livraison rapide et efficace. Et moi, je suis le seul et unique pour cette mission.
+
+Thomas	T'éxagère! (rire bf) Tu n'es pas le seul à avoir été engagé!
+
+Samson	Et comment tu le sais Thomas?
+
+Thomas	Moi aussi j'suis sur cette livraison! (rire bf)
+
+Diesel	(rire________)
+
+(BOUCLE 2 - 10:01:25:02)
+		02
+
+Narrator	Sanson suit donc Thomas jusqu'à la Carrière.
+
+Samson	Bonjour Monsieur Handel. Bonjour Peter Sam.
+
+Sir handel	Salut Sanson!
+
+Peter Sam	Bonjour!
+
+Thomas	Dépêche-toi Sanson! Sinon la livraison ne se fera ni rapidement ni efficacement! (rire)
+
+Narrator	Vexé, Sanson remplit ses wagons de pierres, bien décidé à montrer aux autres qu'il n'est pas n'importe qui !
+
+Samson	Et ces wagons là-bas? On doit les livrer au port, n'est-ce pas Monsieur Handel?
+
+Sir handel	Absolument! Mais tu devras revenir les chercher! Si tu les en une fois ton train sera trop lourd.
+
+Samson	Et alors? Hah! C'est pas pour rien qu'on m'appelle Sanson! Je ne veux pas faire des allers-retours pour rien!
+
+(BOUCLE 3 - 10:02:10:14)
+		03
+
+Samson	Si je les prends tout de suite, ce sera du temps de gagné! (efforts_____) (efforts___) (efforts___)
+
+Peter Sam	Tu es certain que tu vas gagner du temps comme ça?
+
+Samson	(hou) (hou) Une fois lancé, tu n'imagines pas à quel point je suis rapide ! (efforts___hh)
+
+Peter Sam	Exact!
+
+Samson	(essoufflé)
+
+Peter Sam	J'imagine mal! (rire)
+
+Sir handel	Moi aussi Sanson! Euh...Bonne chance!
+
+Peter Sam	(rire__________)
+
+Sir handel	(rire____________)
+
+Samson	(efforts_______)
+
+(BOUCLE 4 - 10:02:40:10)
+		04
+
+Narrator	Sanson réussit tant bien que mal à prendre de la vitesse.
+
+Samson	(arggh, tchhh....Ohhh) Tout le monde me prend pour un incapable! Le gros contrôleur m'a pourtant choisi pour ohhh! Un stop? (h) Noon! (h) (efforts________________) (hh) Oh! Alors maintenant là,c'est bon! (efforts__________)
+
+(BOUCLE 5 - 10:03:19:15)
+		05
+
+Narrator	Mais c'est dans la montée de la colline de Gordon que les ennuis commencent....
+
+Samson	(h) Oh(h)! Il va falloir que j'accélère cette fois-ci! (h) Hah! Oh! Hah! Ah! (uggh) (hou!) (hou!) (urgggg) (oh) (aah) Allez avance Sanson! Montre à cette colline de quoi (h) tu es capable! (ahhhhhhh ohh oh)
+
+(BOUCLE 6 - 10:03:54:03)
+		06
+
+Narrator	Sanson ne s'avoue pas vaincu et fait un deuxième essai.
+
+Samson	D'accord, on y va! (h) Je peux y arriver! (h) (efforts__________) Ohh! (GGG ah!) Oh! Avance! Courage! Ne la laisse pas avoir le dessus! (efforts) (aaaaah!) Oh! Ahh oh, c'est sans espoir!
+
+Narrator	Thomas, lui, a déjà livré ses wagons au port et le voilà qui repart à la Carrière.
+
+(BOUCLE 7 - 10:04:33:19)
+		07
+
+Thomas	Ohh! (rire bf) (h/) Alors comme ça, on fait une sieste Sanson?
+
+Samson	Non! J'te ferais remarquer que je travaille! Tu sais combien j’ai de wagons là- derrière?
+
+Thomas	(h) Euh... Trop, peut-être! (rire bf)
+
+Samson	Je cherche à gagner du temps Thomas! (h/)Je fais ce que l'on attend de moi! Alors tu ferais mieux de me pousser plutôt que de me faire des commentaires désagréables!
+
+Narrator	Thomas accepte et change donc de voie pour aider Sanson à gravir la pente.
+
+Samson	Recule un petit peu s'il te plait. J'dois prendre de la vitesse.
+
+Thomas	D'accord! On y va! La voie est libre!
+
+(BOUCLE 8 - 10:05:19:09)
+		08
+
+Thomas	Oh! Stop Sanson! STOP!
+
+Samson	Oh!(ggggg___)
+
+Paxton	(gggggg____ oh!)
+
+Thomas	(ggg oh!) (ggg oh) Oh!
+
+Paxton	Salut Thomas? (h) Euh... Je roule dans le mauvais sens?
+
+Thomas	Non(h)! C'est moi! J'aide Sanson à monter ses wagons en haut de la colline. Il en a trop pris!
+
+Samson	Oh! Pas du tout, non!
+
+Paxton	Oh (h)! Besoin d'aide?
+
+Thomas	Oh! (hmhm) Bonne idée oui! Tu es prêt Sanson? (h)
+
+Samson	Bien sûr que je suis prêt! J'le suis toujours! (h)
+
+Thomas	Un, (h/)
+
+Paxton	(h/) deux,
+
+Thomas	deux,
+
+Paxton	trois!
+
+Thomas	trois! (h/) Pousse! (h)
+
+(BOUCLE 9 - 10:06:06:16)
+		09
+
+Samson	(Huh) (huh) C'est bon! Continuez! Ca marche! (h) Oh bien sûr qu'on va réussir! J'le savais! Je le savais! (rire)
+
+Paxton	(h) Oh!
+
+Thomas	Merci Paxton!
+
+Paxton	Ahahah! Mais de rien!
+
+Samson	Woh Thomas (h)! Non (h)! Fais-les ralentir!
+
+Thomas	Oh!
+
+Samson	Vite!
+
+Thomas	(gggg)
+
+(BOUCLE 10 - 10:06:42:18)
+		10
+
+Samson	Voilà, comme ça c'est beaucoup mieux! J'ai la situation sous contrôle!
+
+Thomas	Super, Sanson! Freine s'il te plait! J'ai besoin de me décrocher!
+
+Samson	Désolé mais je n'ai pas le temps! Je suis en retard!
+
+Narrator	Sanson emmène donc Thomas avec lui jusqu'au Port de Brendham. Et tant pis si ça ne lui plait pas!
+
+(BOUCLE 11 - 10:07:12:02)
+		11
+
+Fat control	Ah!
+
+Samson	Ah bonjour Monsieur! Sanson au rapport! Et voilà des pierres de la Carrière! Comme demandé!
+
+Fat control	Mais enfin tu joues à quoi exactement? C'est ta seule et unique livraison de la matinée!
+
+Samson	Euh... C'est vrai! Oui je l'avoue! J'ai été retardé! Je me suis retrouvé coincé en bas de la colline de Gordon!
+
+Fat control	Pas étonnant! Tu as pris beaucoup trop de charge! Et... pourquoi diable Thomas est-il accroché en queue d'train?
+
+(BOUCLE 12 - 10:07:44:20)
+		12
+
+Fat control	(h) Oh! J'aurais dû me douter que tu étais aussi impliqué là-dedans, Thomas!
+
+Samson	C'est d'ma faute si Thomas est là! Il m'a aidé à gravir la colline! J'ai refusé de m'arrêter pour le décrocher.  J'voulais gagner du temps et être efficace, Monsieur!
+
+Fat control	Mais tu n'as pas gagné de temps, au contraire! Tu as provoqué du retard et de la confusion !
+
+Samson	(h)
+
+Narrator	Quand Sanson retourne à la Carrière, Thomas a déjà eu le temps de faire remplir ses wagons et il est prêt à repartir.
+
+Samson	Euh,  je suis désolé Je n'voulais pas te causer d'ennuis tout à l'heure!
+
+Thomas	C'est pas grave Sanson! (h/) C'est surtout toi qui t'es fait disputer!
+
+Samson	C'est de ma faute! Enfin bon… On doit apprendre de ses bêtises!
+
+Thomas	Donc...j'espère que tu prendras moins de wagons la prochaine fois? (h)
+
+(BOUCLE 13 - 10:08:31:24)
+		13
+
+Samson	Oui, je te le promets! Ca, ce serait stupide!
+
+Thomas	(rire)
+
+Narrator	Mais alors que Thomas approche de la colline de Gordon... Sanson le rejoint à toute vapeur, avec cette fois-ci, un seul wagon à l'arrière.
+
+Thomas	(rire) Sanson! Tu peux en prendre plus d'un!
+
+Samson	Oui bien sûr Thomas! Mais c'est plus rapide comme ça! On gagne du temps au final!
+
+Thomas	Aaah! (rire bf)
+
+Narrator	Thomas sait très bien qu'il va perdre du temps au lieu d'en gagner! Ce genre de comportement, c'est du Sanson tout craché!
+
+
+
+
+1
+
+

@@ -1,0 +1,364 @@
+[BOUCLES]
+1\\
+[ROLES]
+1\Caption\8\390\1\
+2\Villager Chang\2\93\1\
+3\Villager Dang\2\62\1\
+4\Villager Xu\3\127\1\
+5\Villager Min\4\173\1\
+6\Captain Huang\39\1937\1\
+7\Villager Dou\1\28\1\
+8\Villager Qin\3\101\1\
+9\Police Feng\9\427\1\
+10\Villager Pei/Villager Dai\1\21\1\
+11\Villager Xu/Dai/Dang/Chang\1\4\1\
+12\Police Du\3\144\1\
+13\Police Peng\2\52\1\
+14\Police Zhong\3\103\1\
+15\Police Peng/Police Zhong/Polic\1\28\1\
+16\Police Peng/Police Zhong/Polic\1\28\1\
+17\Yu Congguang\1087\54314\1\
+18\Zheng Xun\338\16891\1\
+19\Zheng's wife\37\1832\1\
+20\Zheng Xun/Yu Congguang\1\8\1\
+21\Zheng's father\5\213\1\
+22\Wang Yongyi/Fang Zhiming\1\3\1\
+23\Wang Yongyi\165\8243\1\
+24\Fang Zhiming\80\3983\1\
+25\Fang Zhiming/Zheng Xun/Yu Cong\1\4\1\
+26\Co-worker Zhen\31\1509\1\
+27\Yang Huilan/Sister Zhuang\1\12\1\
+28\Zheng Xun/Yang Huilan/Co-worke\1\4\1\
+29\Co-worker Zhen/Liang Xin/Co-wo\1\4\1\
+30\Co-worker Zhen/Liang Xin\1\4\1\
+31\Co-worker Zhen/Yang Huilan/Sis\1\11\1\
+32\Liang Xin/Zheng's wife/Co-work\1\12\1\
+33\Yang Huilan/Co-worker Zhen/Sis\1\5\1\
+34\Yang Huilan\186\9292\1\
+35\Sister Zhuang\7\330\1\
+36\Liang Xin/Zheng Xun/Zheng's wi\1\19\1\
+37\Hou Jianhua\89\4449\1\
+38\Co-worker Hu\44\2174\1\
+39\Co-worker Yang\16\776\1\
+40\Co-worker Zhen/Sister Zhuang\1\10\1\
+41\Zheng Xun/Co-worker Zhen/Liang\1\19\1\
+42\Liang Xin/Sister Zhuang/Co-wor\1\4\1\
+43\Zheng Xun/Yang Huilan/Co-worke\1\4\1\
+44\Yang Huilan/Zheng Xun\1\11\1\
+45\Yang Huilan/Sister Zhuang/Co-w\1\5\1\
+46\Zheng Xun/Yang Huilan/Sister Z\1\41\1\
+47\Zheng Xun/Wang Yongyi\1\16\1\
+48\Yang Huilan/Co-worker Yang\1\26\1\
+49\Zheng's wife/Co-worker Yang\1\32\1\
+50\Co-worker Yang/Co-worker Zhen/\1\6\1\
+51\Fang Zhiming/Wang Yongyi\1\9\1\
+52\Yang Huilan/Co-worker Zhen\1\13\1\
+53\Sister Zhuang/Liang Xin\1\34\1\
+54\Wang Yongyi/Sister Zhuang/Lian\1\11\1\
+55\Liang Xin/Co-worker Zhen/Zheng\1\11\1\
+56\Liang Xin/Co-worker Zhen/Zheng\1\12\1\
+57\Liang Xin\40\1968\1\
+58\Zheng Xun/Fang Zhiming\1\12\1\
+59\Liang Xin/Zheng's wife\1\39\1\
+60\Zheng Xun/Co-worker Zhen/Yang\1\12\1\
+61\Yang Huilan/Zheng Xun/Sister Z\1\14\1\
+62\Yu Congguang/Zheng Xun/Liang X\1\6\1\
+63\Yu Congguang/Yang Huilan/Co-wo\1\11\1\
+64\Yang Huilan/Zheng Xun/Co-worke\1\28\1\
+65\Zheng Xun/Co-worker Zhen/Fang\1\5\1\
+66\Zheng Xun/Co-worker Zhen/Fang\1\5\1\
+67\Zheng Xun/ Liang Xin/Co-worker\1\14\1\
+68\Zheng Xun/Yang Huilan/Co-worke\1\19\1\
+69\Liang Xin/Zheng's wife/ Co-wor\1\12\1\
+70\Liang Xin/Zheng's wife/Co-work\1\32\1\
+71\Wang Yongyi/Fang Zhiming/Liang\1\45\1\
+72\Yang Huilan/Co-worker Zhen/Sis\1\46\1\
+73\Zheng Xun/Wang Yongyi/Yang Hui\1\5\1\
+74\Zheng's wife/ Liang Xin\1\5\1\
+75\Zheng's wife/Liang Xin\1\9\1\
+76\Co-worker Zhen/Sister Zhuang/Z\1\18\1\
+77\Zheng Xun/Co-worker Zhen/Liang\2\55\1\
+78\Liang Xin/Fang Zhiming/Co-work\1\18\1\
+79\Wang Yongyi/Fang Zhiming/Yang\1\6\1\
+80\Zheng Xun/Co-worker Zhen/Siste\1\5\1\
+81\Sister Zhuang/Liang Xin/Zheng'\1\6\1\
+82\Liang Xin/Zheng's wife/ Co-wor\1\1\1\
+83\Wang Yongyi/Zheng Xun\1\21\1\
+84\Liang Xin/Co-worker Zhen/Siste\1\41\1\
+85\Wang Yongyi/Yang Huilan\1\1\1\
+86\Yang Huilan/Zheng Xun/Liang Xi\1\12\1\
+87\Wang Yongyi/Sister Zhuang\1\15\1\
+88\Yang Huilan/Zheng Xun/Co-worke\1\6\1\
+89\Liang Xin/Zheng's wife/ Co-wor\1\6\1\
+90\Yu Congguang/Wang Yongyi/Liang\1\12\1\
+91\Zheng Xun/Co-worker Zhen/Siste\1\0\1\
+92\Zheng's wife/Fang Zhiming\1\5\1\
+93\Zheng Xun/Yang Huilan/ Co-work\1\17\1\
+94\Wang Yongyi/Zheng Xun/Co-worke\1\33\1\
+95\Sister Zhuang/Liang Xin/Zheng'\1\5\1\
+96\Liang Xin/Zheng's wife/Co-work\1\9\1\
+97\Sister Zhuang/Liang Xin/\1\12\1\
+98\Co-worker Lu\3\127\1\
+99\Co-worker Chen\7\325\1\
+100\Co-worker Xin\8\352\1\
+101\Co-worker Ni\9\409\1\
+102\Co-worker Shen\23\1103\1\
+103\Co-worker Yi\5\241\1\
+104\Co-worker You\29\1407\1\
+105\Co-worker Chen/Co-worker Lu/Co\1\10\1\
+106\Co-worker Chen/Co-worker Lu/Co\1\4\1\
+107\Co-worker Chen/Co-worker Xin\1\30\1\
+108\Elder Sun\159\7911\1\
+109\Co-worker Hu/Co-worker Ni\1\34\1\
+110\Co-worker Zhen/Co-worker Chen/\1\5\1\
+111\Liang Xin/Yang Huilan\1\43\1\
+112\Yang Huilan/Co-worker Chen/Co-\1\12\1\
+113\Liang Xin/Co-worker You/Co-wor\1\12\1\
+114\Zheng Xun/Co-worker You/Liang\1\12\1\
+115\Co-worker Chen/Co-worker Shen/\1\10\1\
+116\Liang Xin/Co-worker You/Co-wor\1\6\1\
+117\Co-worker You/Co-worker Shen/C\1\7\1\
+118\Liang Xin/Sister Zhuang\1\5\1\
+119\Zheng Xun/Liang Xin/Co-worker\1\12\1\
+120\Co-worker Yi/Co-worker Zhen\1\10\1\
+121\Hou Jianhua/Co-worker Ni\1\18\1\
+122\Co-worker Shen/Co-worker Yang\1\5\1\
+123\Co-worker Yang/Co-worker Shen\1\12\1\
+124\Wang Yongyi/Co-worker Lu\1\12\1\
+125\Co-worker Zhen/Co-worker You\1\38\1\
+126\Co-worker Yang/Wang Yongyi/Co-\1\10\1\
+127\Co-worker Yi/Co-worker Shen/Fa\1\5\1\
+128\Co-worker Xin/Co-worker You\1\6\1\
+129\Zheng Xun/Liang Xin\1\5\1\
+130\Co-worker Shen/Co-worker Yi/Fa\1\5\1\
+131\Co-worker Zhen/Co-worker Chen\1\12\1\
+132\Hou Jianhua/Co-worker Hu\1\10\1\
+133\Fang Zhiming/Liang Xin/Co-work\1\10\1\
+134\Zheng Xun/Co-worker Zhen/Yang\1\5\1\
+135\Fang Zhiming/Co-worker Chen\1\11\1\
+136\Zheng Xun/Yang Huilan/Co-worke\1\23\1\
+137\Gou Dan\13\612\1\
+138\Fang Zhiming/Co-worker Xin/Co-\1\5\1\
+139\Zheng Xun/Co-worker Zhen\1\10\1\
+140\Fang Zhiming/Co-worker Xin/Co-\1\32\1\
+141\Co-worker Shen/Co-worker Yi/Fa\1\12\1\
+142\Liang Xin/Co-worker You\1\5\1\
+143\Fang Zhiming/Co-worker Zhen\1\12\1\
+144\Co-worker Xin/Co-worker Yang/F\1\12\1\
+145\Yang Huilan/Wang Yongyi\1\12\1\
+146\Co-worker Shen/Yang Huilan/Co-\1\5\1\
+147\Yang Huilan/Liang Xin\1\16\1\
+148\Liang Xin/Co-worker You/Co-wor\1\5\1\
+149\Co-worker Shen/Co-worker Yi/Ya\1\5\1\
+150\Yang Huilan/Co-worker Chen/Co-\1\6\1\
+151\Co-worker Xin/Co-worker Yang/Y\1\33\1\
+152\Co-worker You/Yang Huilan\1\4\1\
+153\Fang Zhiming/Co-worker Chen/Co\1\5\1\
+154\Fang Zhiming/Co-worker Chen/Co\1\41\1\
+155\Co-worker Chen/ Co-worker Xin/\1\6\1\
+156\Sun's wife\14\691\1\
+157\Co-worker Hu/Hou Jianhua\1\11\1\
+158\Li Yong\7\309\1\
+159\Zheng's uncle\2\100\1\
+160\Co-worker You/Co-worker Zhen\1\23\1\
+161\Brother De\1\8\1\
+162\Sister Zhuang/Liang Xin/Co-wor\1\5\1\
+163\Yang Huilan/Co-worker You/Co-w\1\16\1\
+164\Sister Tong\5\239\1\
+165\Sister Jia\5\201\1\
+166\Co-worker Yang/Brother Wang/Si\1\4\1\
+167\Co-worker Shen/Co-worker You\1\21\1\
+168\Brother Pu/Co-worker Zhen/Co-w\1\4\1\
+169\Zheng's wife/Co-worker Zhen/Co\1\32\1\
+170\Wang Yongyi/Brother Pu\1\32\1\
+171\Brother Qian\4\199\1\
+172\Brother De/Brother Pu\1\6\1\
+173\Yang Huilan/Co-worker Shen/\2\54\1\
+174\Brother Pu\1\18\1\
+175\Brother Wang\2\58\1\
+176\Zheng Xun/Co-worker Zhen/Liang\1\12\1\
+177\Yu Congguang/Co-worker Shen\1\3\1\
+178\Co-worker You/Zheng's wife\1\6\1\
+179\Co-worker Zhen/Zheng's wife\1\12\1\
+180\Co-worker Shen/Co-worker Xin/C\1\6\1\
+181\Liang Xin/Brother Wang\1\4\1\
+182\Wang Yongyi/Brother De/Brother\1\6\1\
+183\Co-worker Yang/Wang Yongyi/Yan\1\5\1\
+184\Co-worker Yang/Wang Yongyi/Yan\1\6\1\
+185\Zheng Xun/Wang Yongyi/Co-worke\1\4\1\
+186\Recital\51\2548\1\
+187\Co-worker Yang/Zheng Xun\1\9\1\
+188\Co-worker Zhen/Co-worker Shen/\1\6\1\
+189\Co-worker Zhen/Co-worker Shen/\1\6\1\
+190\Co-worker Yang/Brother De\1\5\1\
+191\Zheng's wife/Co-worker You\1\18\1\
+192\Zheng Xun/Brother Wang/Yang Hu\1\9\1\
+193\Yang Huilan/Brother Qian/Co-wo\1\5\1\
+194\Zheng Xun/Brother Pu\1\4\1\
+195\Yang Huilan/Co-worker Zhen/Lia\1\4\1\
+196\Liang Xin/\1\19\1\
+197\Co-worker Zhen/Yang Huilan/Zhe\1\5\1\
+198\Elder Sun/Hou Jianhua\1\27\1\
+199\Yu Congguang/Co-worker Zhen\1\9\1\
+200\Wang Yongyi/Brother Pu/Brother\1\12\1\
+201\Sister Xiang\5\212\1\
+202\Sister Xiang/Sister Jia\1\4\1\
+203\Liang Xin/Co-worker Yang\1\4\1\
+204\Ma Chao\42\2098\1\
+205\Wang Yongyi/Co-worker Yang/Zhe\1\16\1\
+206\Zhao Ming\377\18811\1\
+207\Sister Jia/\1\22\1\
+208\Brother Luo/Brother Mu\1\27\1\
+209\Miao Qing/Brother Luo/Brother\1\6\1\
+210\Brother Luo\2\91\1\
+211\Miao Qing/Brother Luo\2\84\1\
+212\Sister Yu/Sister Lin/Brother M\1\4\1\
+213\Miao Qing\27\1333\1\
+214\Brother Luo/Brother Nuo/Brothe\1\7\1\
+215\Co-worker Yang/Yang Huilan/Lia\1\4\1\
+216\Co-worker Shen/Co-worker Ran/S\1\5\1\
+217\Co-worker Liu/Brother Pan\1\9\1\
+218\Co-worker Ran/Sister Tong/Co-w\1\4\1\
+219\Co-worker Zhen/Sister Zhuang/S\1\4\1\
+220\Brother Shi\5\202\1\
+221\Yu Congguang/Yang Huilan\1\6\1\
+222\Sister Lin/Co-worker Jiang/Yan\1\8\1\
+223\Sister Lin/Sister Yu\1\9\1\
+224\Yu Congguang/Co-worker Zhen/Co\1\8\1\
+225\Co-worker Liu/Sister Han/Co-wo\1\4\1\
+226\Brother Pan\11\519\1\
+227\Co-worker Ran\4\157\1\
+228\Co-worker Geng\6\288\1\
+229\Co-worker Lang\10\500\1\
+230\Sister Mei/Co-worker Ren/Co-wo\1\5\1\
+231\Sister Mei/Co-worker Ren/Co-wo\1\11\1\
+232\Co-worker Qiu\2\85\1\
+233\Co-worker Wu\3\109\1\
+234\Wei Defu\2\100\1\
+235\Sister Mei\2\78\1\
+236\Co-worker Wu/Sister Mei/Wei De\1\39\1\
+237\Co-worker Zhang\12\570\1\
+238\Co-worker Ren\1\39\1\
+239\Co-worker Wu/Co-worker Geng\1\19\1\
+240\Co-worker Geng/Co-worker Wu/Co\1\6\1\
+241\Co-worker Ren/Co-worker Lang\1\16\1\
+242\Sister Mei/Co-worker Geng\1\14\1\
+243\Co-worker Geng/Co-worker Lang\1\6\1\
+244\Co-worker Geng/Wei Defu\1\4\1\
+245\Sister He\1\4\1\
+246\Wei Defu/Co-worker Lang/Co-wor\1\4\1\
+247\Wei Defu/Co-worker Lang\1\6\1\
+248\Co-worker Ren/Sister He/Co-wor\1\12\1\
+249\Wei Defu/Sister Mei/Co-worker\2\91\1\
+250\Wei Defu/Sister Mei\1\4\1\
+251\Zhao Ming/Zheng Xun\1\5\1\
+252\Zhao Ming/Sister Yu\1\7\1\
+253\Yang Huilan/Co-worker Zhen/Zha\1\4\1\
+254\Zhao Ming/Co-worker Zhen\1\8\1\
+255\Co-worker Zhen/Yang Huilan/Co-\1\4\1\
+256\Wang Yongyi/Co-worker Yang/Zhe\1\4\1\
+257\Sister Yu\10\483\1\
+258\Co-worker Jiang\47\2331\1\
+259\Sister Lin\9\425\1\
+260\Co-worker Shen/Co-worker Jiang\1\12\1\
+261\Yu Congguang/Zheng Xun\1\4\1\
+262\Co-worker Zhen/Co-worker Jiang\1\4\1\
+263\Brother Pan/Brother Shi\1\6\1\
+264\Co-worker Liu\44\2170\1\
+265\Brother Pan/Co-worker Zhen\1\4\1\
+266\Co-worker Liu/Co-worker Jiang/\1\7\1\
+267\Sister Han/Co-worker Xin\1\27\1\
+268\Wang Yongyi/Sister Jia/Liang X\1\5\1\
+269\Co-worker Shen/Brother Pan/Sis\1\11\1\
+270\Zheng's wife/Co-worker Xin/Sis\1\6\1\
+271\Sister Han/Zheng's wife/Co-wor\1\7\1\
+272\Yang Huilan/Co-worker Zhen/Co-\1\13\1\
+273\Wang Yongyi/Sister Jia\1\11\1\
+274\Co-worker Ran/Sister Jia/Siste\1\4\1\
+275\Co-worker Ran/Sister Jia/Siste\1\4\1\
+276\Wang Yongyi/Co-worker Zhen/Lia\1\5\1\
+277\Co-worker Zhen/Liang Xin/Co-wo\1\5\1\
+278\Co-worker Zhen/Sister Yu/Co-wo\1\4\1\
+279\Co-worker Xin/Zheng's wife/Sis\1\5\1\
+280\Zheng Xun/Co-worker Liu/Co-wor\1\18\1\
+281\Zheng Xun/Co-worker Liu/Co-wor\1\18\1\
+282\Sister Han\5\238\1\
+283\Brother Mu\2\66\1\
+284\Miao Qing/Brother Luo/Brother\1\6\1\
+285\Co-worker Shen/Co-worker Zhen\1\5\1\
+286\Co-worker Shen/Co-worker You/Y\1\5\1\
+287\Sister Jia/Sister Xiang\1\4\1\
+288\Yu Congguang/Wang Yongyi/Co-wo\1\5\1\
+289\Sister Lin/Sister Tong/Co-work\1\12\1\
+290\Co-worker Shen/Co-worker You/Y\1\5\1\
+291\Co-worker Shen/Co-worker You/L\1\9\1\
+292\Co-worker Yang/Wang Yongyi/Yu\1\6\1\
+293\Yang Huilan/Co-worker Shen\1\11\1\
+294\Yang Huilan/Liang Xin/Co-worke\1\12\1\
+295\Brother Pan/Co-worker Ran/Sist\1\28\1\
+296\Co-worker Shen/Sister Tong/Co-\1\11\1\
+297\Zhao Ming/Yu Congguang/Wang Yo\1\7\1\
+298\Yang Huilan/Sister Tong/Sister\1\11\1\
+299\Co-worker Shen/Sister Han/Sist\1\12\1\
+300\Sister Wei\18\869\1\
+301\Sister Jia/Sister Xiang/Brothe\1\5\1\
+302\Co-worker You/Co-worker Ran\1\5\1\
+303\Zheng Xun/Co-worker Shen\1\16\1\
+304\Brother Pan/Co-worker Ran/Sist\1\34\1\
+305\Yu Congguang/Zhao Ming\1\31\1\
+306\Co-worker Liu/Zheng Xun/Co-wor\1\12\1\
+307\Co-worker Jiang/Zheng's wife/L\1\13\1\
+308\Zheng Xun/Co-worker Jiang\1\4\1\
+309\Zheng Xun/Co-worker Liu/Co-wor\1\5\1\
+310\Zheng's wife/Liang Xin/Sister\1\10\1\
+311\Co-worker Shen/Co-worker You/Y\1\21\1\
+312\Co-worker Zhen/Co-worker Jiang\1\17\1\
+313\Co-worker Jiang/Zheng Xun/Co-w\1\23\1\
+314\Zheng's wife/Liang Xin/Co-work\1\5\1\
+315\Co-worker Ran/Co-worker You\1\6\1\
+316\Yu Congguang/Zheng Xun/Co-work\2\63\1\
+317\Yu Congguang/Zheng Xun/Co-work\2\53\1\
+318\Zheng Xun/Co-worker Zhen/Co-wo\1\6\1\
+319\Zheng Xun/Co-worker Zhen/Co-wo\1\6\1\
+320\Liang Xin/Sister Yu/Sister Han\1\6\1\
+321\Co-worker Jiang/Liang Xin/Sist\1\6\1\
+322\Zheng's wife/Yang Huilan\1\27\1\
+323\Co-worker Zhen/Co-worker Jiang\1\6\1\
+324\Yang Huilan/Zhao Ming\1\22\1\
+325\Zheng Xun/Co-worker Liu/Sister\1\6\1\
+326\Co-worker Zhen/Sister Wei/Co-w\1\6\1\
+327\Zhao Ming/Zheng Xun/Yu Conggua\1\6\1\
+328\Sister Han/Sister Xiang/Liang\1\5\1\
+329\Co-worker Ran/Liang Xin/Co-wor\1\22\1\
+330\Zheng's wife/Co-worker Jiang/L\1\16\1\
+331\Sister Wei/Co-worker Jiang/Co-\1\6\1\
+332\Yang Huilan/Co-worker Ran/Co-w\1\21\1\
+333\Sister Lin/Co-worker Shen/Sist\1\16\1\
+334\Zheng Xun/Co-worker Jiang/Sist\1\6\1\
+335\Brother Pu/Zheng Xun/Yang Huil\1\6\1\
+336\Yang Huilan/Co-worker You/Co-w\1\5\1\
+337\Zheng Xun/Co-worker Yang/Co-wo\1\5\1\
+338\Co-worker Shen/Co-worker Yang/\1\14\1\
+339\Yu Congguang/Yang Huilan/Liang\1\6\1\
+340\Zheng Xun/Co-worker Liu/Co-wor\1\5\1\
+341\Liang Xin/Sister Yu\1\4\1\
+342\Zheng Xun/Co-worker Shen/Liang\1\13\1\
+343\Co-worker Zhen/Sister Wei\1\5\1\
+344\Co-worker Jiang/Co-worker Zhen\1\13\1\
+345\Co-worker Zhen/Co-worker Liu\1\9\1\
+346\Sister Wei/Sister Han/Co-worke\1\9\1\
+347\Sister Wei/Co-worker Liu\1\11\1\
+348\Yu Congguang/Yang Huilan/Siste\1\29\1\
+349\Yang Huilan/Liang Xin/Co-worke\1\20\1\
+350\Co-worker Shen/Co-worker You/Y\1\5\1\
+351\Co-worker Zhen/Sister Wei/Co-w\1\5\1\
+352\Zheng Xun/Yang Huilan/Liang Xi\1\22\1\
+353\Co-worker You/Yang Huilan/Lian\1\5\1\
+354\Wang Yongyi/Brother Pan/Liang\1\10\1\
+355\Hymn\14\656\1\
+[PLATEAU]
+DATES=
+TITRE=
+EPISODES=
+DIALOGUISTE=
+DIRECTEUR=

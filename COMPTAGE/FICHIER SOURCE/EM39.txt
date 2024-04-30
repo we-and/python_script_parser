@@ -1,0 +1,1459 @@
+EM FAMILIA VO TCI EP 39-H264
+18/03/2016
+
+(BOUCLE 1 - 09:59:59:21)
+		01
+
+AMBIANCE	(bistrot: brouhaha---)
+
+CLARA	xxxxxxxxxxxxxxxxxxxx
+
+LOUIZA	(expi) xxxxxxxxxxxxxxxxxxxx
+
+CLARA	xxxxxxxxx
+
+LOUIZA	xxxxxxxxxxxxxxxx
+
+AMBIANCE	(fin)
+
+JULIANA	xxxxxxxxxxxxxxxxxxx
+
+HELENA	xxxxxxxxxxxxxxxxxxxxxx
+
+VIRGILIO	XXXXXXXXXXXXXXXXXX
+
+AMBIANCE	(bistrot: brouhaha---)
+
+CADOU	XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+AMBIANCE	(fin)
+
+(BOUCLE 2 - 10:02:08:13)
+		02
+
+AMBIANCE	(rue / restaurant----)
+
+CLARA	(x) Pardon, je suis en retard. (x)
+
+FELIPE	Ah, t'es là ! (x) C'est pas grave, soeurette. Comment tu vas ?
+
+CLARA	Ça peut aller, mais je me sens désemparée, angoissée, nerveuse, mais je m'accroche, il le faut. Je ne peux pas craquer, je dois soutenir Cadou. (--h)
+
+FELIPE	Il a de la chance d'avoir une femme comme toi à ses côtés.
+
+CLARA	(mt) Et puis, il y a aussi Ivan. Mon fils est tellement malin, il saisit tout, il fait des recherches sur Internet. Mais je voulais te voir parce que la dernière consultation de Cadou m'a laissée un peu nerveuse. Silvia a parlé de la possibilité d'une greffe, tu... (d'après toi)avec ton  expérience , tu (trouves )penses que c'est possible ? (--h)
+
+FELIPE	Disons que si l'état de santé de Cadou ne s’améliore pas avec les médicaments, s'il ne va pas mieux, c'est peut-être une possibilité, en effet.
+
+(BOUCLE 3 - 10:02:59:07)
+		03
+
+CLARA	Seigneur, mais d'après ce que je sais, une greffe n’est pas à prendre à la légère. C'est... c'est difficile d'obtenir une donneur, je me trompe ?
+
+FELIPE	Malheureusement, tu ne te trompes pas, la liste d'attente pour un organe en bon état est des fois (est)... très longue. Malheureusement on a encore très peu de donneurs.
+
+CLARA	Combien de temps, combien de temps ?
+
+FELIPE	Ça dépend, j'ai eu des patients qui ont fait une greffe en quelques semaines, d'autres ont attendu des années, on ne peut pas savoir, mais là, tu n'as pas à t'en faire, ce n'est plus ton problème.
+
+CLARA	Comment ça, je n'ai pas à m'en faire ? Je dois être prête psychologiquement et financièrement, j'ai une bombe qui m'explose entre les mains et je reste les bras croisés ? Impossible, je veux être informée, je veux comprendre ce qui se passe, Félipé, même si (on y échappe)ça n’aura pas lieu. (h--)
+
+FELIPE	Allons, calme-toi, garde ton calme, on sera tous là pour faire face. Je t'aime beaucoup. (rire) (ham)
+
+AMBIANCE	(fin)
+
+(BOUCLE 4 - 10:03:54:13)
+		04
+
+JULIANA	(--hh) Je n'arrive pas encore à y croire, c'est une sensation tellement familière, tu sais ? Et en même temps nouvelle.
+
+MEDECIN FEMME	(humkk)
+
+JULIANA	(--h) (h--) (--h) (hh--)
+
+HELENA	Oui, chaque grossesse est différente, mais l'émotion, l'émotion est toujours... une sensation unique.
+
+JULIANA	(hum)
+
+HELENA	(--h) (hh--)
+
+JULIANA	(h--)
+
+HELENA	(petit rire---) Toujours, toujours unique, une aventure.
+
+JULIANA	(rire--) (rire---)
+
+HELENA	(petit rire---)
+
+MEDECIN FEMME	Ici vous voyez le sac ovulaire et ce petit point ici, c'est votre bébé.
+
+HELENA	(hhah)
+
+JULIANA	Mon Dieu, c'est tout petit.
+
+HELENA	Tout petit.
+
+JULIANA	Quelle émotion, Helena !
+
+HELENA	(rire---)
+
+JULIANA	(rire----)
+
+HELENA	J'avais oublié à quel point c’est tout petit... comme ça, regarde.
+
+JULIANA	(mffh) (rire---) Si petit. (huk huk huk) (hah  hahh hahh--)
+
+MEDECIN FEMME	D'après la taille, vous en êtes à sept semaines.
+
+JULIANA	(--hh)
+
+HELENA	Sept ?
+
+MEDECIN FEMME	(aham)
+
+JULIANA	(hh--)
+
+HELENA	(mst)
+
+JULIANA	Comment est-ce qu'une chose si petite peut nous... nous causer une si grande joie ? C'est inexplicable ! (mshh)
+
+HELENA	Oui. Mais c'est ça un enfant. Ça nous remplit le coeur, et toutes nos pensées.
+
+JULIANA	(--hh) (mhahh--) (--h)
+
+HELENA	(--h)
+
+JULIANA	(hh--)
+
+MEDECIN FEMME	Mais ça vous n'avez pas encore entendu, écoutez.
+
+AMBIANCE	(bruit du coeur du bébé------)
+
+(BOUCLE 5 - 10:05:01:17)
+		05
+
+AMBIANCE	_
+
+MEDECIN FEMME	(rire--)
+
+HELENA	(petit rire-----)
+
+JULIANA	(h--) Le petit coeur de mon bébé. Son petit coeur qui bat.
+
+MEDECIN FEMME	Oui, c'est lui.
+
+HELENA	(rire-------)
+
+JULIANA	(rire---)
+
+AMBIANCE	(fin)
+
+HELENA	(Juliana, profite de cette expérience à bras ouverts)rappelle toi que chaque histoire est différente, ne projette pas sur cet enfant tous les fantômes du passé, toutes tes angoisses, d'accord ? C'est une nouvelle vie qui commence, profites-en, vis le moment présent, d'accord ?
+
+JULIANA	(mshh) (mshh)
+
+(BOUCLE 6 - 10:05:30:06)
+		06
+
+AMBIANCE	(bruits de rue: circulation, voix-----)
+
+GUIOMAR	Qu'est-ce que c'est ? Bia. Ah ? Regarde.
+
+NANDO	C'est quoi ça ? Je crois que c'est un chapeau, ahh! (rire---) C'est un petit bateau, tu pourras aller avec maman (te)le  promener sur l'eau.
+
+GUIOMAR	Ehh ! (rire---) Dis merci à tonton Nando.
+
+NANDO	Tu vois ? Je ne suis vraiment pas doué (pour )avec les enfants.
+
+GUIOMAR	(rire) Au contraire, je crois que vous feriez un excellent père.
+
+JULIANA	Tu t'es perdu, Nando ?
+
+NANDO	Non... non, j'ai vu Guiomar et je suis juste venu lui dire un petit bonjour.
+
+(BOUCLE 7 - 10:06:03:07)
+		07
+
+JULIANA	C'est l'heure de rentrer, Guiomar. Ma petite fille doit avoir faim. On va goûter ? Allez, on va goûter. Ma pupuce, ah, mon petit ange. (x)
+
+GUIOMAR	(ehh) C'est maman.
+
+NANDO	Juliana, puisque tu es là, il faut qu'on voit pour le compte en banque qu’on a en commun. Tu as de l'argent dessus.
+
+JULIANA	Nando, tu peux le garder. Tu peux le garder, tu es le premier titulaire du compte, garde-le.
+
+NANDO	Non, non. Non, il n'en est pas question. Ecoute, voilà ce que je vais faire, je (prélève)retire  (ta part ) ce qui t’appartient et je te l'apporte un de ces jours.
+
+JULIANA	Comme tu voudras, Nando. Ça ne m’intéresse pas, je suis si heureuse, je suis tellement heureuse, Nando, que je n'ai besoin de rien d'autre, ce que j'ai me suffit largement. Ciao, Nando.
+
+NANDO	Ciao.
+
+JULIANA	Ciao.
+
+GUIOMAR	Au revoir.
+
+JULIANA	Maman est là avec toi, mon bébé, maman est là.
+
+NdA	(musique par dessus la phrase)
+
+NANDO	(mhh--)
+
+AMBIANCE	(fin)
+
+(BOUCLE 8 - 10:07:05:04)
+		08
+
+SELMA	Tu sais, quand tu m'as appelé, j'étais là sans rien faire, enfin, pas vraiment sans rien faire, je faisais des mots croisés.
+
+SHIRLEY	Vous savez que j'adore ça aussi ? Sérieux ! Et bien, en dehors de Laerté, nous avons une autre passion en commun. Et les chevaux, vous aimez ? (rire--)dans le tableau il est écrit qu’elle se tutoient toutes les 2
+
+SELMA	Les chevaux ? C'est Itamar qui adorait, moi... Oh là là, j'ai failli tout renverser. Moi, moins, mais j'aime,aussi, oui. (h--)
+
+SHIRLEY	Il faut venir à mon haras avec Laerté, il adore, je le sais. Vous voulez que je vous dise ?
+
+SELMA	(hum)
+
+SHIRLEY	Je trouve que Laerté devrait changer la décoration de cet appartement, c'est trop sobre, il manque des couleurs, de la vie.
+
+SELMA	(hum) Mais en ce moment la maison ne l'intéresse pas tellement maintenant qu'il a ouvert le Centre.
+
+SHIRLEY	A ce que je vois, Louiza, la fille d'Hélena sait aussi dessiner ?! Elle est douée la petite.
+
+SELMA	Douée et dangereuse, comme sa mère, ou encore pire. Moi, c'est simple, je ne les aime pas.
+
+(BOUCLE 9 - 10:08:04:22)
+		09
+
+SHIRLEY	Est-ce que vous pensez la même chose que moi ?
+
+SELMA	Il n'y a rien de mieux pour attirer un homme que la jeunesse, la fraîcheur, l'inexpérience, Shirley. Alors ?
+
+SHIRLEY	Elle est très jeune, elle n'a pas tout ce pouvoir.
+
+SELMA	A cause de cette fille, Véronica n'arrêtait pas de se disputer avec mon fils. Je lui disais sans cesse de ne pas laisser tomber, de lutter pour lui, mais non, ça n'a servi à rien parce qu'elle... elle ne pense pas comme nous, tu comprends ? (--h)
+
+SHIRLEY	Oui, trop moderne, non ? Ce genre de relation moderne existe, mais ça ne marche qu'en Europe, et encore, ici les femmes les attrapent et ne lâchent plus. (rire---)
+
+SELMA	(rire---) Shirley, tu es drôle. C'est ce que tu aurais fait à sa place, tu ne l'aurais pas lâché, n'est-ce pas ? Je comprends. Shirley, je sais que malgré toutes tes folies, l'amour que tu portais à mon fils était sincère, il l'était et je crois qu'il l'est toujours.
+
+SHIRLEY	Sincère et éternel, comme ce tatouage.
+
+(BOUCLE 10 - 10:09:03:09)
+		10
+
+SELMA	Tu sais, franchement je crois que c'est toi la femme idéale pour mon fils ? C'est vrai, tu... es une femme énergique Shirley, tu es déterminée, sûre de toi, et en plus, tu es amoureuse de lui.
+
+SHIRLEY	C'est incroyable, toutes les personnes intelligentes qui me connaissent pensent comme vous.
+
+SELMA	(rire----) Ah oui ! Je veux que tu saches que je suis de ton côté. Si c'est pour éloigner Laerté de ces deux gourdes, la mère et la fille, tu peux compter sur moi.
+
+SHIRLEY	Selma, qu'est-ce que vous avez fait ? Parce que votre peau est lumineuse et satinée. (rire---) Mais si, vous êtes radieuse aujourd'hui.
+
+SELMA	Pourquoi ? (rire---) (mhh-), Je n'ai rien fait à ma peau. (rire---) Oh, Seigneur, quelle flatteuse !
+
+SHIRLEY	(x)
+
+(BOUCLE 11 - 10:09:40:13)
+		11
+
+LAERTE	Véronica, comment ça( marche)se passe  les premiers cours ?
+
+VERONICA	(Ça va bien)très bien.
+
+LAERTE	Il y a eu plus d'inscriptions après la fête d'ouverture ?
+
+VERONICA	Pas mal.
+
+LAERTE	Et les nouveaux professeurs, ils sont bien à ton avis ?
+
+VERONICA	Je ne sais pas encore.
+
+LAERTE	Tu vas continuer à me parler comme ça ?
+
+VERONICA	Comme ça, comment ? Je trouve que je te parle bien mieux que tu ne le mérites.
+
+LAERTE	Tu es mon associée et il serait bon qu'on puisse avoir une bonne relation, au moins professionnelle. Et je ne vois pas comment on peut y arriver si tu continues comme ça, sèche et intolérante.
+
+VERONICA	Je pense que pour avoir une bonne relation professionnelle, une relation efficace, ce qu'on se dit suffit parfaitement, je crois que moins on se parle et plus on se concentre sur l'essentiel, le travail.
+
+LAERTE	Mais je tiens à garder une relation amicale avec toi, parce que de toutes les femmes de ma vie, c'est avec toi que j'ai échangé les plus grandes idées, et les meilleures.
+
+(BOUCLE 12 - 10:10:35:01)
+		12
+
+VERONICA	C'était plus que ça, notre histoire c'était beaucoup plus que ça, et pourtant tu t'es lassé parce que tu es immature, oui, tu veux tout en même temps, tu veux la jeunesse de Louiza, tu veux l'excentricité de Shirley, tu veux revivre cette folle histoire, oui, ton tendre passé avec Helena, parce que cette histoire est une obsession, n'est-ce pas, Laerté ? C'est une histoire du passé que tu as remis au goût du jour, mais que tu n'arrives pas à...
+
+LAERTE	Je suis sorti avec elle hier.
+
+VERONICA	Ah, tu es sorti avec elle ?! (hh--) Je ne veux rien savoir, je ne veux rien entendre, je ne veux pas que tu me prennes pour ta confidente, et encore moins pour ta grande soeur. (hh-)
+
+LAERTE	Tu es une femme mûre, équilibrée, et j'ai pensé que... que tu pourrais peut-être me dire comment faire.
+
+VERONICA	Etant donné que tu as décidé de rester avec Louiza, pourquoi tu ne partages pas avec elle tes peurs et tes doutes ? (hum ?) Est-ce que tu as peur qu'elle découvre qu'en fin de compte tu n'es pas le magnifique homme aux yeux bleus qu'elle croit ? (hh) (hum ?)
+
+(BOUCLE 13 - 10:11:39:03)
+		13
+
+JAIRO	Alors, lavé et parfumé, pour te plaire. Viens voir si je sens bon ?
+
+JULIANA	(hh) (petit rire) (uhmm) C'est vrai que ça sent bon ! C'est important, un homme parfumé c'est fondamental.
+
+JAIRO	(hum) Eh, à ce point ? Tu as toujours aimé mon odeur corporelle.
+
+JULIANA	Oui, mais c'est bien de changer de temps en temps.
+
+JAIRO	Mais pas du tout, quand la nourriture est bonne, on répète et on s'en lasse pas.
+
+JULIANA	(petit rire---)
+
+JAIRO	Tu comprends ?
+
+JULIANA	Tu me regardes et tu vois( une)en moi une marmite, c'est ça ?
+
+JAIRO	Quelle marmite ? Oh, tu me rejettes, t'as peur de quoi ?
+
+JULIANA	Je n'ai pas peur et je ne te rejettes pas non plus.
+
+JAIRO	Parce que ces jours, tu as ignoré mes avances. Et ça ne me plait pas du tout.
+
+JULIANA	Non, non, non. Ne sois pas agressif comme ça, arrête.
+
+JAIRO	Mais c'est mon droit, je me suis marié pour avoir une femme disponible.
+
+JULIANA	(hh) (----h)
+
+JAIRO	Alors, on fait quoi ?
+
+JULIANA	Rien du tout, on fait rien du tout de ce que tu crois, on a autre chose à faire. (--hhh) (hh--) (hh)
+
+(BOUCLE 14 - 10:12:33:17)
+		14
+
+JAIRO	Ça me plait.
+
+JULIANA	Allonge-toi, allonge-toi. (hhh) Aujourd'hui, on va faire autre chose. (hh) (hh) (--h)
+
+JAIRO	(euh) C'est quoi ça ?
+
+JULIANA	Notre enfant. Notre enfant, Jaïro, qui grandit dans mon ventre.
+
+JAIRO	(ham) Tu rigoles, hein ?
+
+JULIANA	Tu le sens ? Ferme les yeux, allez. Tu n'as pas compris ? Jaïro, je vais avoir un enfant, un enfant de toi.
+
+JAIRO	Je ne sens rien du tout.
+
+JULIANA	(murmure) (murmure)
+
+JAIRO	Allons, Juliana, tu te fous de moi, non ? (hh)
+
+(BOUCLE 15 - 10:13:33:13)
+		15
+
+JAIRO	Ça, j'ai déjà compris, tu es enceinte, je ne suis pas bête, mais je n'ai rien senti.
+
+JULIANA	Mais... mais tu as senti quand... quand Bia était dans le ventre de Gorette ? Tu as... tu as entendu, tu as...
+
+JAIRO	Oui, mais ces choses-là c'est des trucs de femme.
+
+JULIANA	(hh) T'es heureux ?
+
+JAIRO	Tu vas (l'enlever)pas le garder , non ?
+
+JULIANA	Quoi ? J'ai bien entendu ?
+
+JAIRO	Qu'est-ce qu'il y a ?
+
+JULIANA	Je viens toute contente de te dire que je suis enceinte de toi, et tu me parles d'avorter ?
+
+JAIRO	Je vois pas (de) où est le problèmes.
+
+JULIANA	Tu veux que (j'enlève)j’avorte de  notre enfant ?
+
+JAIRO	Gorette l'avait fait plusieurs fois, et même Guiomar l'a déjà fait, demande -lui.
+
+JULIANA	Je ne vais rien lui demander du tout, personne ne touche à mon enfant, tu es fou ?
+
+JAIRO	Oui, mais avec la grossesse les femmes ne veulent plus( baiser)faire l’amour , Gorette ne voulait plus à cause de Bia.
+
+JULIANA	C'est n'importe quoi ! Tu ne peux pas passer un mois sans passer à l’acte, t'es parano ou quoi ?
+
+JAIRO	Un mois, tu trouves que c'est peu ? C'est pour ça qu'on se disputait Gorette et moi, et que je l'ai quittée.
+
+JULIANA	Je suis... j'arrive pas à croire que tu sois aussi insensible. Jaïro, tu es... grossier, tu es un rustre.
+
+JAIRO	Ah,mais  il n'y aura aucun problème.
+
+JULIANA	(expi) C'est quoi ça ? Lâche-moi, tu crois que j'ai envie de quoi que se soit ?
+
+JAIRO	Qu'y a-t-il ?
+
+(BOUCLE 16 - 10:14:32:01)
+		16
+
+JULIANA	Jaïro, il sera rien qu'à nous. (-h)
+
+JAIRO	(tst)
+
+JULIANA	Bia n'est pas née de moi, mais celui-ci oui.
+
+JAIRO	(mh--) Oui, mais un gosse c'est casse pieds, ça pleure toute la nuit, ça nous empêche de dormir, ça dérange tout le temps.
+
+JULIANA	Jaïro, mais il sera rien qu'à nous deux.
+
+JAIRO	(h-)
+
+JULIANA	(hh)
+
+JAIRO	Oui.
+
+JULIANA	(hh) Il sera mon héritier.
+
+JAIRO	Héritier ?
+
+JULIANA	Oui, héritier, notre héritier.
+
+JAIRO	Je n'ai rien à lui laisser. (rire---)
+
+JULIANA	Mais moi si, moi si. Tu sais que cette maison est à moi ? J'ai des propriétés à Goïânia, j'ai... j'ai la moitié du salon aux enchères, pas la moitié, une part seulement m'appartient, tu le savais ? Tu le savais ?
+
+JAIRO	(expi)
+
+JULIANA	(--h) (x)
+
+JAIRO	Eh bah, tu es vraiment riche, hein ? Et tu vas avoir un héritier.
+
+JULIANA	(hh) Ah oui ?
+
+JAIRO	Oui. (x) _ (fin)
+
+JULIANA	Tu es content, maintenant ? Tu es content ?
+
+JAIRO	(murmure) Oui.
+
+JULIANA	(hh)
+
+JAIRO	(x)
+
+JULIANA	(x)
+
+JAIRO	_
+
+JULIANA	(x) (rire--------------)
+
+JAIRO	(fin)
+
+(BOUCLE 17 - 10:15:32:16)
+		17
+
+ALICE	Bonjour Théo, ma mère est là ?
+
+THEO	Bonjour. Ta mère est allée se changer et a demandé que tu l’attendes un peu.
+
+ALICE	D'accord, je ne suis pas pressée.
+
+THEO	(hh) Alice, est-ce que ta mère a des soucis ? Est-ce que je peux être utile ?
+
+ALICE	(hum)
+
+THEO	(mst)
+
+ALICE	Non, pas que je sache, Théo, pourquoi ?
+
+THEO	(inspi) C'est qu'elle... elle a eu une réaction un peu bizarre... tu m'excuses d'aborder ce sujet avec toi, mais aujourd'hui, pendant la pause, on discutait tranquilles, et sans faire exprès, j'ai... j'ai touché sa main et elle a laissé tomber le plateau, brusquement, come ça, sans raison, complètement hors d'elle.
+
+FEMME 1	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ALICE	Ecoute Théo, ne lui dit pas que je t'en ai parlé, mais en ce moment elle vit une période difficile, mais (ces)c’est  dans ces occasions qu'on reconnait les vrais amis, n'est-ce pas ? (mt)
+
+THEO	Bien sûr, bien sûr, c'est évident, et ta mère est spéciale, et c'est exactement ce qui m'a attiré en elle.
+
+ALICE	(hum)
+
+(BOUCLE 18 - 10:16:33:20)
+		18
+
+THEO	Mais je ne veux pas être inconvenant, je ne veux pas... dépasser les limites, tu comprends ?
+
+ALICE	Oui, vas-y doucement, mais ne renonce pas. D'accord ? Insiste parce que je suis sûre que tu es la personne qu'il lui faut.
+
+THEO	(aham) J'ai compris, merci. (rire---)
+
+NEIDINIA	Oh, ma chérie. (hum) (X) J'ai mis longtemps ? Excuse-moi.
+
+ALICE	Oh, maman. (rire----) Non, non, pas du tout, je parlais avec Théo. (rire---)
+
+THEO	Bon, je vais vous laisser. Bonne soirée à toutes les deux.
+
+ALICE	(rire----)
+
+NEIDINIA	Bonne soirée.
+
+THEO	Au revoir.
+
+NEIDINIA	Et alors, tu as pensé où est-ce qu'on pourrait aller ?
+
+ALICE	Il y a plein d'endroits maman, mais là où j'aimerais vraiment t'emmener c'est à cette association de femmes que j'accompagne, qu'en dis-tu ?
+
+NEIDINIA	(hum) (ahh--) Mais ma chérie, je pensais à une... soirée décontractée, j'aimerais profiter de ta compagnie. (rire---) Tu sais, j'ai eu une journée tellement épuisante, tu comprends ? (--h)
+
+ALICE	(humm) Bien sûr, je comprends, maman, alors, pour décompresser, tu veux une pizza ?
+
+NEIDINIA	(hh)
+
+ALICE	(--hh)
+
+NEIDINIA	(hum) Oui, tout de suite.
+
+ALICE	Allons-y. (rire----)
+
+NEIDINIA	(rire----)
+
+ALICE	T'as tes affaires ?
+
+NEIDINIA	Oui, tout est là.
+
+(BOUCLE 19 - 10:17:33:08)
+		19
+
+BARBARA	Aujourd'hui à la fac, André est venu me parler. En bon copain.
+
+SHIRLEY	(humm !) (tst) Chérie quand tu veux séduire quelqu'un, la meilleure chose à faire c'est de te faire remarquer, profite qu'il est en manque d'affection et fais-lui du charme.
+
+BARBARA	Ah, c'est ça, je le séduit, il m'ignore et je me retrouve avec mes yeux pour pleurer.  Non, personne ne mérite ça.
+
+SHIRLEY	Le mérite, quel mérite ? D'ailleurs, si chacun avait ce qu'il mérite, tout le monde serait fouetté. Tu te casses la figure, et bien tu te redresses, mieux vaut ça que ne rien faire. La chance est contre toi ma fille, tu as choisi un joli garçon, mais tu veux faire quoi ? Fonce, prend courage, perds la tête, mais ne perds pas les occasions.
+
+BARBARA	(rire----) Tu me donnes des conseils tellement fous, maman.
+
+SHIRLEY	Réalistes, suis-les, l'âme humaine, je m'y connais.
+
+(BOUCLE 20 - 10:18:29:19)
+		20
+
+LOUIZA	(rire--) (rire----)
+
+LAERTE	(hh)
+
+LOUIZA	Je sais que c'est toi, Laerté. (rire---)
+
+LAERTE	Tu pensais que je ne te retrouverais pas ? Tu voulais te cacher ?
+
+LOUIZA	Comme tu es prétentieux ?! Non, je t'ai dit que j'avais besoin d'étudier, et, en ce moment j'ai la tête ailleurs, ici, c'est plus tranquille.
+
+LAERTE	Et c'est toujours moi qui te dévie du bon chemin.
+
+LOUIZA	(rire-)
+
+LAERTE	(rire---)
+
+LOUIZA	Ah, t'es drôlement gonflé ! Tu y crois en plus ?
+
+LAERTE	J'y crois pas, j'en suis sûr. Ecoute, tu as déjà parlé à ta mère, depuis que je l'ai vue ?
+
+LOUIZA	Non, j'évite de le faire pour l'instant.
+
+LAERTE	Parce que tu as peur de sa réaction, c'est ça ?
+
+LOUIZA	Je ne sais pas, j'ai déjà imaginé toutes les réactions possibles qu'elle pourrait avoir. Mais je veux être prête, tu comprends ? Je veux, je ne sais pas, je ne veux pas être prise au dépourvu. Mais je suis... je n'ai pas les idées claires, je n'arrive pas à réfléchir, je suis confuse, j'en sais rien. (--h)
+
+(BOUCLE 21 - 10:19:26:14)
+		21
+
+LOUIZA	(hh)
+
+LAERTE	Moi aussi, c'est normal, Louiza, crois-moi. On en reste où ? Je dors et je me réveille en pensant à toi. Donne-moi une chance.
+
+LOUIZA	(--hh) Laerté, chaque chose en son temps.
+
+LAERTE	Mais qu'est-ce qu'on attend ? Je me suis séparé, je suis libre, tu t'es séparée, tu es libre.
+
+LOUIZA	Non, je ne suis pas libre, je ne suis pas libre, j'ai ma mère. Tant que je n'aurais pas une conversation franche avec elle, tant que je ne serais pas sûre qu'elle est bien, je ne vais pas me sentir libre.
+
+(BOUCLE 22 - 10:20:08:07)
+		22
+
+AMBIANCE	(restaurant: musique et brouhaha----)
+
+CADOU	Merci, à bientôt. (hhh)
+
+CLARA	T'es vraiment têtu, Cadou, tu es sous surveillance médicale. Tu ne peux pas faire d'efforts, tu es complètement haletant.
+
+CADOU	(hhh) (inspi) (expi) Mon amour, tu veux que je fasse quoi ? Je n'ai pas la forme, j'ai une vie trop sédentaire, je ne fais pas d'exercice physique depuis des mois, au moindre petit effort je suis essoufflé.
+
+CLARA	C'est pas ça, tu sais très bien que c'est pas ça.
+
+CADOU	Tu veux quoi, je dois relativiser le problème. Je ne vais pas rester couché toute la journée à attendre. Je ne peux pas.
+
+CLARA	(hh--) Rita, tu peux m'apporter (une)de l’ eau, s'il te plait ? (ehh)
+
+VERONICA	Ehh, c'est pas facile, (ham) Clara ?
+
+CLARA	Je te dis pas, s'occuper d'un enfant c'est fatigant, mais alors d'un homme ! Les hommes ne savent pas être malades, ils se prennent toujours pour des super héros.
+
+VERONICA	Oui. Clara, il faut que je te dise quelque chose, Cadou m'a demandé de garder le silence, mais je crois que c'est un service que je lui rend si je te le dis. (--h)
+
+(BOUCLE 23 - 10:20:58:09)
+		23
+
+CLARA	C'est quoi ?
+
+VERONICA	Il a eu un malaise, tout à l'heure, sans faire trop d'effort, il fouettait des oeufs, ça m'a fait peur.
+
+CLARA	(expi) Oh mon Dieu, Cadou ne réagit... il ne réagit pas aux médicaments, tu sais ?  Ce qu'il a est très grave, et si ça continue comme ça, il faudra faire une greffe, tu te rends compte ?
+
+VERONICA	Oh là là !
+
+CADOU	(essoufflé) Chérie, on y va ? J'ai besoin de prendre un peu l'air. (--hh) (hh-)
+
+CLARA	Bien sûr, on y va, tout de suite.
+
+VERONICA	Allez-y, allez-y, ne vous faites pas de souci, je m'occupe de tout ici.
+
+CADOU	Merci, Véronica. Viens... On revient, on va juste chercher Ivan. Merci encore.
+
+CLARA	Ah, oui l'eau, merci. (aham)
+
+VERONICA	Amusez-vous. Allez-y au revoir, ciao.
+
+CLARA	(x)(x)(x)
+
+CADOU	Ciao.
+
+AMBIANCE	(fin) (sonnette----)
+
+(BOUCLE 24 - 10:21:39:09)
+		24
+
+GUIOMAR	(ah) Monsieur Nando, excusez-moi, je... je finissais d'habiller Bia. (hh)
+
+NANDO	Je... je suis un peu pressé, où est Juliana ?
+
+GUIOMAR	(rire----)
+
+NANDO	(ohhh)
+
+GUIOMAR	Vous voulez la prendre dans vos bras ?
+
+NANDO	(mfhh) Je n'ai pas le temps, maintenant, mais je te promets de revenir jouer avec toi, d'accord ?
+
+GUIOMAR	(mhh)
+
+NANDO	Guiomar, je suis pressé, dis-moi où est Juliana ?
+
+GUIOMAR	Bon, elle vient juste de sortir, je crois que vous pourrez encore la rejoindre.
+
+NANDO	Oui, mais elle est allée où ?
+
+AMBIANCE	(boutique aux enchères: bruits de la rue-----------)
+
+(BOUCLE 25 - 10:22:07:20)
+		25
+
+JULIANA	Je ne pense qu'à ça, Hélena. Je ne pense qu'au jour où je vais lui dire que je l'ai aimé depuis le moment qu'il avait la taille d'un petit pois.
+
+HELENA	(ahha) (hum) "Il" ? Pourquoi tu es sûre que c'est un petit garçon ?
+
+JULIANA	C'est mon désir, Hélena. J'ai déjà une petite fille.
+
+HELENA	(hum)
+
+NANDO	Juliana, franchement, tu as osé utiliser ma carte de crédit pour acheter des vêtements pour l'autre vagabond ?
+
+HELENA	Du calme.
+
+JULIANA	Attends, mais de quoi est-ce que tu parles ?
+
+NANDO	Je parle de ça, là, regarde la facture, regarde bien. C'est bien des habits d'homme, non ? Je n'achète pas une chemise depuis des années. Ça te va bien de dire que tu te fiches de l'argent, c'est pas toi qui paie.
+
+JULIANA	(h--) Nando, excuse-moi, je me suis trompée, excuse-moi, d'accord ?
+
+NANDO	Non, pas d'accord, cette carte de crédit était pour payer nos frais en commun, quand on était mariés.
+
+JULIANA	Je sais, Fernando.
+
+NANDO	Mais nous ne sommes plus mariés, les choses ont changé, et en plus tu n'es pas titulaire de plein droit sur cette carte, ce qui veut dire que tu ne peux pas faire d'achats sans mon autorisation.
+
+JULIANA	Je sais tout ça, maintenant que c'est fait, tu veux que je fasse quoi avec ça ?
+
+NANDO	Je veux que l'autre vagabond paie ce qu'il me doit.
+
+HELENA	Nando, je t'en prie, n'en fait pas un drame, Juliana va te rembourser.
+
+NANDO	Bien entendu, mais je t'assure que l'autre bandit ne vient plus piquer dans mes poches, et tout ça est de ta faute, Juliana.
+
+JAIRO	C'est comme ça qu'on s’adresse à ma femme ? Parlez-lui comme il faut.
+
+(BOUCLE 26 - 10:23:10:02)
+		26
+
+VIRGILIO	Allons. Du calme, du calme, calmez-vous tous, si c'est une question d'argent, on peut régler ça tout de suite.
+
+JAIRO	Il vient ici pour s'en prendre à ma femme. Pour qui il se prend ? Monsieur Virgilio, je ne fais que défendre ma femme, qui est enceinte.
+
+VIRGILIO	Garde ton calme, s'il te plait.
+
+NANDO	Enceinte ? Tu es enceinte, Juliana ? Tu es enceinte de ce... de cet individu ?
+
+JAIRO	Vous voulez que je vous explique comment ou peut-être aussi avec les détails ?
+
+VIRGILIO	Je t'en prie, Jaïro.
+
+NANDO	Tu es un rustre, un être primitif, un animal.
+
+JAIRO	Quoi ?
+
+VIRGILIO	Oh, calme-toi.
+
+HELENA	Du calme. Nando, elle ne peut pas s'énerver.
+
+JULIANA	Et je le suis déjà, Nando.
+
+JAIRO	Il est jaloux, parce que j'ai obtenu en peu de temps ce qu'il n'a pas réussi pendant des années.
+
+VIRGILIO	Là, tu dépasses les limites. Nando, viens avec moi, viens, viens avec moi, on va parler. Viens, allons-nous-en d'ici.
+
+JAIRO	(Ça va aller)et alors, comment ça va ?
+
+HELENA	(inspi)
+
+AMBIANCE	(fin)
+
+(BOUCLE 27 - 10:24:09:00)
+		27
+
+AMBIANCE	(bar: musique et brouhaha----)
+
+NANDO	Il a insinué que je suis un mou, que je suis impuissant.
+
+VIRGILIO	Nando, tu sais mieux que personne que la stérilité et l'impuissance sont deux choses bien distinctes.
+
+NANDO	(mmh) Non, non, c'est pas ça, Virgilio, je ne suis pas stérile, j'ai mis Juliana enceinte à plusieurs reprises, c'est elle qui perdait toujours les bébés.
+
+VIRGILIO	Ce genre de discussions ne mènent à rien, à rien, tu vas rester là avec ta douleur, et Juliana est déjà ailleurs, elle s'est mariée avec ce gars et elle attend un enfant de lui.
+
+NANDO	Je sais, mais Juliana est une femme qui a de la classe, elle a étudié dans les meilleures écoles.
+
+VIRGILIO	Je sais, les différences entre eux sont énormes, je suis d'accord avec toi, mais elle, enfin, qui suis-je pour juger qui que se soit, mais si elle trouve qu'elle a fait un bon choix, on ne peut rien faire. Mais toi, tu dois prendre ta vie en main, tu dois te rendre à l'évidence et accepter les faits.
+
+NANDO	(mmthh) Non. C'est une aberration, un outrage au bon sens.
+
+AMBIANCE	(fin)
+
+(BOUCLE 28 - 10:25:04:07)
+		28
+
+ALICE	Louiza, Louiza, Louiza, oh ! Je t'appelle depuis un moment, tu rêves en plein jour ?
+
+LOUIZA	Qu'y-a-t-il ? Oui. En plein jour, en dormant, en mangeant, au volant, tout ce que je fais maintenant c'est avec une idée fixe dans la tête. (--mhh)
+
+ALICE	Et cette idée a un nom, un prénom et joue de la flûte, n'est-ce pas ?
+
+LOUIZA	(mhh--) Oui, c'est une idée fixe musicale aux yeux bleus. (rire---)
+
+ALICE	Seigneur, tu joues avec le feu, Lou. Ta mère est déjà au courant ?
+
+LOUIZA	Oh, Alice, arrête, je t'ai déjà dit, je vais lui en parler.
+
+ALICE	Très bien,( tu sais ce que tu fais)c’et toi qui sait. Ecoute, je vais me faire quelque chose à manger, je meurs de faim, t'en veux aussi ? (--h)
+
+LOUIZA	Non, non, je n'ai pas faim.
+
+ALICE	(aham) C'est l'amour. L'amour ça nourrit.
+
+LOUIZA	(rire---) Alice !
+
+ALICE	(rire----)
+
+LOUIZA	(rire---)
+
+AMBIANCE	(sonnerie message) (bruit avion----)
+
+(BOUCLE 29 - 10:26:12:01)
+		29
+
+AMBIANCE	(aérogare----------)
+
+HELENA	C'était Louiza, ça a coupé.
+
+ROSA	Est-ce qu'il se passe quelque chose ?
+
+HELENA	Je ne pense pas, je l'appellerai plus tard.
+
+ROSA	(rire--) Madame Chica doit être heureuse de revenir.
+
+HELENA	Oui, c'est bien de voyager, mais revenir... c'est encore mieux. Oh oui !
+
+ROSA	Ohh ! Ohh ! (rire--) Oh oui ! (rire--)
+
+SHIRLEY	J'en crois pas mes yeux, Hélena ! (rire----) Je ne savais pas que c'était la mode de venir à l'aéroport chercher la famille, quelle surprise !
+
+ROSA	Bonjour madame Selma.
+
+SHIRLEY	(hum) (X) (x) (hum) (x)
+
+HELENA	Bon, en effet, je viens chercher ma mère qui doit pas tarder à débarquer. La surprise c'est de te trouver là.
+
+ROSA	Oui.
+
+SELMA	Ah, Shirley est venue m'accompagner, Hélena, elle est devenue une présence indispensable pendant mon séjour ici, à Rio, n'est-ce pas, Shirley ?
+
+SHIRLEY	(mhffhh)
+
+SELMA	Je m'amuse beaucoup avec elle.
+
+SHIRLEY	(rire contenu)
+
+HELENA	Je n'en doute pas un seul instant.
+
+SHIRLEY	Faire la fête c'est mon point fort. (rire-) Ton mari peut le dire.
+
+HELENA	Je me charge de mon mari. Allons-y. On doit se dépêcher, les passagers arrivent.
+
+ROSA	(ahh) Oui, oui. Au revoir.
+
+(BOUCLE 30 - 10:27:13:07)
+		30
+
+SHIRLEY	Je n'ai pas fait exprès... de la vexer. Je crois que ma mémoire devient sélective, je ne me rappelle que des bonnes choses.
+
+SELMA	(hum) (hum) Alors moi, je ne fais pas exprès de les oublier. (rire----)
+
+SHIRLEY	(rire contenu----)
+
+CHICA	Oh quelle surprise, tout ce monde ici. (hummm) (rire-)
+
+HELENA	Ah les voilà. Quelle joie !
+
+CHICA	(ah) (rire---)
+
+HELENA	(humm)
+
+RICARDO	Je vois qu'on vous a manqué.
+
+SELMA	Chica !
+
+HELENA	Enormément.
+
+ROSA	Madame Chica ressemblait aux artistes de cinéma sur les photos.
+
+HELENA	C'est vrai.
+
+CHICA	Il y avait tellement de jolies choses à voir, qu'on rajeunit sans s'en rendre compte.
+
+SELMA	Je parie que tu n'as pas beaucoup dormi à l'idée de tout voir.
+
+RICARDO	Absolument, Selma, au petit-déjeuner, elle organisait déjà le programme du lendemain.
+
+SHIRLEY	Chica est comme moi.
+
+CHICA	Ah, je voulais tout voir, c'est normal, non ?
+
+HELENA	Bon, on peut y aller et continuer cette conversation ailleurs ?
+
+ROSA	Oui.
+
+HELENA	Allons-y.
+
+CHICA	Ah!
+
+HELENA	Vous avez bonne mine, ça vous a fait du bien. Et le vol s'est bien passé ?
+
+SHIRLEY	(rire---)
+
+RICARDO	Merci.
+
+CHICA	Ah oui ? Oui, parfait. Voyager c'est très bien.
+
+RICARDO	Oui.
+
+HELENA	Tant mieux. Tu m'as manquée, maman. Oui.
+
+CHICA	Ah!
+
+(BOUCLE 31 - 10:28:06:00)
+		31
+
+CLAUDIA	Ricardo ! Depuis le temps ! Tu es en pleine forme.
+
+RICARDO	Comment ça va, Claudia ? Oui, ça fait longtemps. Laisse-moi te présenter ma femme, Chica.
+
+CHICA	Enchantée.
+
+CLAUDIA	(huhh) Chica c'est un surnom ? (uhu) Bien sûr que oui. (petit rire--) Ricardo, on ne s'est plus revus à Goïânia ? Tu as disparu ou c'est moi qui n'ai plus eu la chance de te croiser ?
+
+RICARDO	Je vole toujours pour Goïânia, mais je ne sors pas, je préfère un bon livre pour décompresser. A un de ces jours, Claudia.
+
+CLAUDIA	Oui, moi aussi j'y vais, je suis venue voir une amie, et elle doit m'attendre. Donne de tes nouvelles, hein ? Ciao. Ravie.
+
+RICARDO	C'est une vieille amie de Goïânia. Oui, ça faisait longtemps qu'on ne se voyait pas. Très longtemps.
+
+CHICA	Oui. Ah. J'ai compris. (rire---) On a des cadeaux pour tout le monde. (rire---)
+
+HELENA	Ah ! (rire---) Pourquoi tu crois qu'on est venus vous chercher à l'aéroport ?
+
+AMBIANCE	(parking: bruits voitures-----)
+
+(BOUCLE 32 - 10:29:04:16)je pense qu’elles doivent se vouvoyer, elles ne se connaissent pas  ou alors tutoyer mais dans les 2 sens ??,
+		32
+
+CLAUDIA	Ah, je vois la voiture, j'arrive. Bonjour. (rire---)
+
+BRANCA	Bonjour, Claudia. Enchantée de te connaitre personnellement.
+
+CLAUDIA	J'ai beaucoup entendu parler de vous.
+
+BRANCA	Sachant qui t’en parlait, ça ne devait pas être en bons termes, non, Claudia ? Mais Ricardo a toujours eu bon goût, n'est-ce pas ? Tu es encore plus belle en personne que( sur )ce que j’ai vu sur l'ordinateur.
+
+CLAUDIA	(ahh)
+
+BRANCA	(rire---) Tu as beaucoup de choses à me dire sur lui, on y va ?
+
+CLAUDIA	(rire--) Oui, allons-y.
+
+AMBIANCE	(bruits parking depuis l'intérieur de la voiture----)
+
+(BOUCLE 33 - 10:29:44:17)
+		33
+
+BRANCA	(rire-----)
+
+CLAUDIA	(rire------)
+
+BRANCA	Tu lui plaisais beaucoup, non ?
+
+CLAUDIA	C'est vrai, oui. (rire---) Il en avait d'autres, mais j'étais la préférée. Oui, je crois même qu'il y a eu plus que ça entre nous.
+
+BRANCA	Ah oui ? Ah oui ?
+
+CLAUDIA	C'était plus (que le lit)qu’une petite aventure. On bavardait, on sortait dîner, on se promenait. (rire---) Il est (un homme)très  distingué.
+
+BRANCA	(ah) Pourquoi vous avez rompu ?
+
+CLAUDIA	(ham) Un jour il m'a jeté à la porte, il m'a dit qu'il ne voulait plus me voir, qu'il était amoureux, c'était de cette Chica que je viens de croiser à l'instant.
+
+BRANCA	(aham) On y va ?
+
+AMBIANCE	(fin)
+
+(BOUCLE 34 - 10:30:28:16)
+		34
+
+NANDO	Je sais que c'est moi qui ai la procuration, Fred, mais je l'ai cherchée et je ne l'ai pas trouvée. Non, arrête de parler, arrête de parler ! Viens ici et aide-moi à la chercher. (hein ?) (mt) Aïe ! (HHUhh) (mh) (mt)
+
+(BOUCLE 35 - 10:31:23:04)
+		35
+
+FRED	Oh là, oh là ! Je sais que je vous embête, mais là vous en faites trop. Je ne peux rien faire sans la procuration.
+
+NANDO	C'est drôle, j'avais oublié que j'avais cette arme. Je l'ai achetée quand il y avait beaucoup de cambriolages dans le coin, et j'ai même passé le permis de port d'arme, après je l'ai mise dans le tiroir et je l'ai oubliée.
+
+FRED	Tant mieux, ça veut dire que les bandits ont diminué, en tous cas ici.
+
+NANDO	Oui, les bandits sont partis d'ici, par contre, dans l'immeuble où j'habite, la vermine s'accroche. Ma vie est à l'envers, je n'arrive plus à travailler. (hh--)
+
+FRED	Mais, la procuration est là.
+
+NANDO	Bien sûr qu'elle est là, devant moi.
+
+FRED	Je vous la rends encore aujourd'hui, d'accord ? Et rangez cette arme, si le téléphone sonne et vous vous embrouillez... pouf.
+
+NANDO	Ah, très drôle, file, va travailler, allez.
+
+AMBIANCE	(eau de la douche----------)
+
+(BOUCLE 36 - 10:32:15:08)
+		36
+
+CADOU	Il y a encore de la place ?
+
+CLARA	(hh) Cadou, non, arrête, Ivan est déjà chez maman. Non, non, non, tout le monde nous attend.
+
+CADOU	Ils ne vont pas remarquer notre absence, ta mère et Ricardo... ont tellement de choses à raconter de leur voyage.
+
+CLARA	(hh) (rire---) Oh, Cadou, ne fais pas ça, non. (rire---)
+
+CADOU	(humm)
+
+CLARA	(baiser______________________________)
+
+CADOU	(baiser_____________________) C'est quand je suis comme ça avec toi que j'ai la sensation d'avoir la vie entière devant moi. (baiser_____)
+
+CLARA	(baiser______) C'et bien de savoir que je te fais encore frissonner. (x)
+
+CADOU	Toujours.
+
+AMBIANCE	(musique et bruits de l'eau-------)
+
+CLARA	(baiser_______)
+
+CADOU	(baiser_________)
+
+AMBIANCE	(fin)
+
+(BOUCLE 37 - 10:33:15:04)
+		37
+
+CLARA	(ah) Cadou. (rire----)
+
+CADOU	(x) (rire----) (ahhah) (baisers------)
+
+CLARA	Arrête. (x) (rire---)
+
+CADOU	(rire---) (x)
+
+CLARA	(hum)
+
+CADOU	(hum) (X)
+
+CLARA	(hum) Cadou, arrête, Cadou. (x)
+
+CADOU	(hh)
+
+CLARA	(x)
+
+CADOU	(hh)
+
+CLARA	(x) (rire----)
+
+CADOU	(hhhh)
+
+CLARA	Ohh !
+
+CADOU	(hhh)
+
+CLARA	(rire--) Cadou. (rire---)
+
+CADOU	(hhhh-hh)
+
+CLARA	Cadou ?
+
+CADOU	(hhh)
+
+CLARA	Cadou ?
+
+CADOU	(hhh)
+
+CLARA	Cadou !
+
+CADOU	(hhh)
+
+CLARA	CADOU ?
+
+CADOU	(HHHH)
+
+CLARA	Parle-moi. Cadou, parle-moi.
+
+CADOU	(HHhh--)
+
+CLARA	Cadou ?
+
+CADOU	(HHh)
+
+CLARA	Cadou, parle-moi !
+
+CADOU	(HHhh--)
+
+CLARA	Ehh !
+
+CADOU	(mmHHhh)
+
+CLARA	Ehh ! Cadou, je t'en prie. Cadou. CADOU ! CADOU !
+
+CADOU	(hh)
+
+CLARA	Parle, parle-moi. Parle-moi.
+
+CADOU	Arrête, Clara.
+
+CLARA	(hh) Cadou, tu va mieux ?
+
+CADOU	Arrête, arrête.
+
+CLARA	(hh) Tu, tu tu respires, qu'est-ce que... t'es sûr que tu vas bien ?
+
+CADOU	(hh) (hh) Calme-toi, ça va mieux, oui.
+
+CLARA	(hh) Viens, (hh) viens, (hh) couche-toi là, (hh) viens, (hh) couche-toi.
+
+CADOU	Oui. Attend, attend, du calme.
+
+CLARA	(hh) Mets la tête sur l'oreiller. Je vais appeler la doctoresse Silvia.
+
+CADOU	(expi--) Non, non, non, il n'y a pas besoin, elle m'a dit que c'est normal.
+
+CLARA	(hh) (hh) (hh) (hh) (hh) (hh) (hh)
+
+CADOU	Laisse-moi me calmer, attend un peu, juste un peu.
+
+CLARA	Elle n'a pas dit ça. Elle n'a pas dit ça. Tu inventes, Cadou .
+
+CADOU	(--hh)
+
+CLARA	(hh) (hh)
+
+CADOU	Elle a dit que je ne pouvais pas faire d'efforts, c'est tout, calme-toi.
+
+CLARA	(hh)
+
+CADOU	(--h)
+
+(BOUCLE 38 - 10:34:14:06)
+		38
+
+CLARA	C'est de ma faute, c'est de ma faute, parce qu'en plus de l'effort... on est restés trop longtemps sous la douche. Bon sang, on est fous.
+
+CADOU	(inspi) (expi)
+
+CLARA	(hh)
+
+CADOU	(--hhh) (hh--)
+
+CLARA	(hh) (hh) (hh)
+
+CADOU	Soulève l'oreiller un peu s’il te plait.
+
+CLARA	Je t'en mets un autre, attend, ne bouge pas, ne bouge pas. Laisse-moi faire. Ça va mieux ?
+
+CADOU	Je serais... ça va m'aider. Oui.
+
+CLARA	(hh) (hh)
+
+CADOU	(hh-) (mst) (expi)
+
+CLARA	(hh) (hh) (hein ?) Ça va mieux ?
+
+CADOU	Oui, calme-toi.
+
+CLARA	(hh) (hh)
+
+CADOU	(inspi)
+
+CLARA	Je vais rester avec toi.
+
+CADOU	Calme-toi. Non, non, va chez ta mère. Ivan y est déjà.
+
+CLARA	Non, non. Je ne vais pas te laisser seul, non.
+
+CADOU	(expi) Ecoute, fais-moi confiance, je... je me suis senti mal parce que j'ai fait des efforts, c'est tout. Je reste là couché et je serais bien, tu peux y aller. (--h) (h--) (--hh) (hh--)
+
+CLARA	Tu gardes le téléphone avec toi ? Et je t'appelle toutes les dix minutes, les cinq, les deux, tu gardes le téléphone avec toi ?
+
+CADOU	Oui. (--h) (hh-) Non, Clara, non, ne fais pas ça, sinon, je serais encore plus fatigué, arrête, arrête.
+
+CLARA	(hh--)
+
+CADOU	(--h) (expi)
+
+CLARA	J'y vais mais je reviens vite.
+
+CADOU	Oui.
+
+CLARA	(x) Je vais m'habiller.
+
+CADOU	(hhh-)
+
+(BOUCLE 39 - 10:35:00:01)
+		39
+
+CHICA	Juliana est enceinte de Jaïro ? Je n'arrive pas à y croire.
+
+HELENA	Mais maman pense qu'au moins elle est heureuse, elle en a toujours rêvé.
+
+SELMA	Oui, mais chaque fois qu'elle quittait son lit, elle perdait le bébé.
+
+HELENA	Je préfère penser que cette fois tout ira bien se passer.
+
+CHICA	Tiens.
+
+RICARDO	Et Nando, comment il a réagit ?
+
+ROSA	Merci, madame Chica.
+
+VIRGILIO	Ah, Nando il est très déprimé, tu sais ? Mais Jaïro le provoque tout le temps. Il l'insulte, le rabaisse, il veut prouver qu'il est plus viril.
+
+CHICA	Le pauvre Nando, il a toujours été tellement amoureux d'elle, depuis toujours, le pauvre, il ne méritait pas une chose pareille.
+
+HELENA	C'est vrai.
+
+AMBIANCE	toc toc
+
+CLARA	Ehh. Où est le couple le plus envié du moment ?
+
+CHICA	Ahh !
+
+AMBIANCE	(rire----)
+
+IVAN	Maman, regarde ce que mamie m'a rapporté d'Italie.
+
+CLARA	(x)
+
+IVAN	Une voiture.
+
+CLARA	Tu m'as manquée, maman.
+
+MURILO	Bonjour à tous.
+
+CHICA	Ah !...
+
+AMBIANCE	(brouhaha_________________________)
+
+GISELLE	Oh ! Papa, (t'es)te  voilà enfin !
+
+RICARDO	Ma chérie !
+
+CHICA	Oh, Clara, ma fille, comme tu es émue ! Je t'ai manquée tant que ça ?
+
+CLARA	Oui et j’ai aussi les préoccupations de toujours, parce que Cadou n'est pas bien.
+
+(BOUCLE 40 - 10:35:58:19)
+		40
+
+SELMA	Clarinia, allons, comme ça ta mère reprend le premier avion et retourne en Italie. Depuis son arrivée vous ne lui racontez que des malheurs.
+
+CHICA	(rire contenu--) Je crois qu'elle a raison, je repars en Italie. (rire---)
+
+HELENA	Si tu pars, je vais avec toi, maman.
+
+CHICA	(rire--) D'accord, tu viens avec.
+
+VIRGILIO	Vous avez vu, Chica, regardez-la, votre voyage lui a donné envie et maintenant elle va en vouloir un aussi. Comment je vais faire ?
+
+AMBIANCE	(rire------)
+
+CHICA	Bien sûr.
+
+CLARA	C'est pas le moment de parler de mes soucis, parlons de choses gaies.
+
+CHICA	Oh, Clara, mais je vois sur ton visage que tu es préoccupée, j'aime bien Cadou, dis-moi ce qui se passe.
+
+CLARA	(murmure) Plus tard, je te raconterai tout. Dans un petit moment, il faut que je rentre, il m'attend.
+
+CHICA	Oui, oui, je t'ai apporté des boucles d'oreille, tu verras, elles vont te plaire.
+
+CLARA	(expi)
+
+RICARDO	Et toi, ma chérie, qu'est-ce que tu as de bon à nous raconter ?
+
+GISELLE	(hum ?) Bon, j'ai un arsenal d'explosifs à la maison plus connu sous le nom de Branca, ça vous va ?
+
+AMBIANCE	(rire----)
+
+CHICA	Non, non, non, non, je t'en prie, non, pas ça, arrête, pas ça. Je t'ai apporté une petite chose, je crois que tu vas adorer... Non, non, je ne vais pas l'ouvrir. Tu vas le faire. Je crois que ça te plaira.
+
+RICARDO	Oh, non.
+
+GISELLE	(rire---) (rire---) Merci, merci beaucoup.
+
+CHICA	Voilà tes boucles d'oreilles, regarde si ça te plait.
+
+MURILO	C'est bien !
+
+HELENA	Regarde !
+
+CHICA	C'est une boucle.
+
+(BOUCLE 41 - 10:36:57:04)je pense qu’elles doivent se tutoyer, si j’ai bien compris elles vont se liguer pour faire du mal a ricardo
+		41
+
+CLAUDIA	Eh bah, je savais que Ricardo était bien dans la vie, mais je ne pensais pas qu'il était riche.
+
+BRANCA	(huk huk) Etait, tu as très bien dit, était. Tu crois que c'était lui qui payait tout ça ? Et malgré tout, il a eu le toupet de m'échanger, et il a fait la même chose avec toi, il a été un mufle de la pire espèce, n'est-ce pas ma jolie, te faire croire qu'il était amoureux !
+
+CLAUDIA	Oui, mais je ne lui en veux pas.
+
+BRANCA	(hum) Mais tu veux une bonne somme d'argent sur ton compte en banque et tu vas accepter mon offre.
+
+CLAUDIA	(hum) Une bonne somme d'argent c'est combien exactement ?
+
+BRANCA	Ça dépend de ce qu'on négocie.
+
+(BOUCLE 42 - 10:37:30:04)
+		42
+
+SHIRLEY	Trinquons à ma présence chez toi.
+
+LAERTE	(mfh) Tu es toujours la bienvenue, tu le sais.
+
+SHIRLEY	Je sais, mais c'est toujours agréable à entendre. J'en suis heureuse, très heureuse. Tchin tchin.
+
+LAERTE	(petit rire---) (rire-----)
+
+SHIRLEY	(rire------) (rire--)
+
+LAERTE	A nous.
+
+SHIRLEY	(hum)
+
+LAERTE	(hh) (mmshh)
+
+SHIRLEY	(hh--) C'est bien que Chica soit de retour, comme ça ta mère est moins seule.
+
+LAERTE	Merci pour l'avoir soutenue tous ces jours. Je ne sais pas comment te remercier. (hh) (--h)
+
+SHIRLEY	Tu ne sais pas ? Allons dans ta chambre.
+
+LAERTE	(rire-) Je parle sérieusement, Shirley. (rire---)
+
+SHIRLEY	Moi aussi, je veux passer la nuit avec toi.
+
+LAERTE	Non, attend, arrête avec ça, je suis fatigué, c'est pas une bonne idée. Je parle sérieusement.
+
+SHIRLEY	(rire--)
+
+(BOUCLE 43 - 10:38:22:02)
+		43
+
+LAERTE	(rire---)
+
+SHIRLEY	Pourquoi ? (rire---) Un refus de ta part, Laerté ?
+
+LAERTE	(rire---) (rire---) Ça n'a rien de personnel.
+
+SHIRLEY	(rire--) Je ne te crois pas, Laerté. Ah, je te connais depuis l'enfance, tu n'as pas besoin de jouer les innocents avec moi, d'ailleurs je n'aime pas les hommes au coeur tendre.
+
+LAERTE	(rire-------------------------)
+
+SHIRLEY	(rire--)
+
+LAERTE	(rire-----) (rire---) Non, Shirley, non, non, non, non, vraiment, vraiment, respecte ma décision. Excuse-moi.
+
+SHIRLEY	D'accord, je ne vais pas te forcer. Dis-moi juste une chose. Tu es amoureux de qui ?
+
+LAERTE	(mh--) (hum) De quoi est-ce que tu parles ?
+
+SHIRLEY	De toi et de Louiza. C'est Louiza qui t'ensorcèle exactement comme Hélena l'a fait dans le passé.
+
+LAERTE	(--hh) Je ne suis pas très à l'aise pour parler d'Hélena avec toi, excuse-moi, et encore moins de Louiza. (hh--) (mmhh) (--h) (hh--) (--hh) (--h)
+
+(BOUCLE 44 - 10:39:17:08)
+		44
+
+SHIRLEY	Tu es vraiment amoureux d'elle, j'avais remarqué qu'elle était maligne, mais j'avoue qu'elle me surprend. (--h) (h--)
+
+LAERTE	(petit rire--) Oui, on s'est rapprochés ces derniers temps, et j'ai une grande attraction pour elle, il y a une grande attraction entre nous, et je suis libre, je n'ai pas d'empêchements, (mh) (--hh) (--h) alors, disons que je me permets de prendre le temps de mieux la connaitre.
+
+SHIRLEY	Et si je me rappelle encore de la jeunesse, elle doit te faire poireauter et jouer les effarouchées, pour que le prince charmant soit sous son charme, pas vrai ?
+
+LAERTE	(mhh)
+
+(BOUCLE 45 - 10:40:02:13)
+		45
+
+SHIRLEY	Ça doit être( amusant)drôle  de pouvoir s'amuser à revisiter le passé avec une... une toute jeune fille.
+
+LAERTE	(mhhh-)
+
+SHIRLEY	Je crois que moi aussi je serais curieuse si je me croisais avec un clone de toi, en jeune.
+
+LAERTE	(mmhh--) (--mmhh) Louiza n'est pas une petite bécasse comme tu crois. Si tu l'a connaissais mieux tu verrais qu'elle est une jeune femme qui sait très bien ce qu'elle veut. (--hh) (mmt)
+
+SHIRLEY	Elle parait une femme mais elle est une jeune fille et crois-moi, mon chéri, ne te fies pas trop aux promesses d'une jeune fille. Tu me sers un dernier verre ? (mt)
+
+LAERTE	Mais tu n'as pas fini celui-ci. (rire---)
+
+SHIRLEY	(rire----) (énervée)
+
+(BOUCLE 46 - 10:40:57:24)
+		46
+
+SHIRLEY	Ah, non, non, pas ça, pas ça. Vous arrêtez tous les deux ! C'est une vision de l'enfer de vous voir tous les deux dans mon salon.
+
+RAFAELA	(rire---)
+
+VIRIATO	Qu'est-ce qui te prend, pourquoi cette agression ?
+
+SHIRLEY	Agression, oui c'est une agression à mon bon goût et à mon intelligence. Rafaela, quand tu roulais encore dans la farine, je faisais déjà les quatre-cents coups, alors ne jette pas le dévolu sur mon père.
+
+RAFAELA	Qu'est-ce que tu dis, Shirley ? Tu es injuste.
+
+SHIRLEY	Je sais très bien comment on fait, je l'ai fait deux fois, et je m'en suis très bien sorti, mais toi, je t'ai à l'oeil, tu entends ?
+
+VIRIATO	J'exige du respect, Shirley.
+
+SHIRLEY	Du respect, père, tu sais ce que c'est le respect ? Alors pourquoi tu en parles ?
+
+RAFAELA	T'as l'air de mauvaise humeur, hein ?
+
+(BOUCLE 47 - 10:41:28:08)
+		47
+
+SHIRLEY	Regarde-moi bien, Serafina et dis-moi la vérité. Est-ce qu'une jeune fille peut rivaliser avec moi ? Non, n'est-ce pas ? Alors on va lui montrer ce que tout le monde sait déjà, Laerté est à moi ! Il est collé à moi, il est tatoué sur ma peau.
+
+(BOUCLE 48 - 10:42:02:09)
+		48
+
+MARINA	Calme-toi, ne pense pas au pire, d'autant plus que selon la cardiologue la greffe est la dernière option.
+
+CLARA	Je sais mais rien que d’'entendre ce mot j'ai des frissons dans le dos et Cadou n'est pas bien du tout, j'ai vraiment peur pour lui. (inspi)
+
+MARINA	C'est normal, tu l'aimes beaucoup.
+
+CLARA	Marina. Tu n'es pas un jeu pour moi, ce qu'on a vécu jusqu'à présent est sérieux, et très important pour moi, parce que je... j'ai découvert une autre femme en moi.
+
+MARINA	(hum)
+
+CLARA	(--hh)
+
+MARINA	Je ne te demande rien.
+
+CLARA	Je sais, mais je veux t'expliquer, je veux que tu comprennes mes raisons. Je ne peux pas abandonner Cadou en ce moment.
+
+MARINA	Je sais, je t'ai déjà dit que je t'admire, et encore plus maintenant, je t'admire et je t'appuie tu sais pourquoi ? Pour que tu sois en paix, et il y a autre chose, je ne demande pas l'exclusivité, pour moi amour et possession ne vont pas ensemble. (petit rire---)
+
+CLARA	(rire--) Quand je pense avoir tout appris de toi et je me crois plus moderne, tu me surprends à nouveau, c'est ça ?
+
+MARINA	(--hh)
+
+(BOUCLE 49 - 10:42:57:08)
+		49
+
+MARINA	Allons, c'est rien. C'est moi qui suis surprise par les ennuis de mon père en ce moment, ça oui, ça m'empêche de dormir. (hh--)
+
+CLARA	Mais il avait l'air beaucoup moins inquiet que toi.
+
+MARINA	(mh) (rire--) Mais il est comme ça, il se croit... il se croit dans un film américain, il se prend pour un mafieux, mais il oublie qu'à la fin, la mafia paie les pots cassés.
+
+CLARA	(soupir) Il a peut-être raison, tu sais ? On devrait vivre un jour à la fois. (hum) Peut-être qu'on aurait moins de soucis.
+
+MARINA	(mshh) Oui.
+
+(BOUCLE 50 - 10:43:34:11)
+		50
+
+ISOLDA	Voici la procuration que Maître Fred a promis de rendre. Tout va bien Maître Nando ?je crois que Fred est assistant ou stagiaire, il est pas avocat pour qu’on l’appelle maître
+
+NANDO	Tout va à merveille, ça ne se voit pas rien qu'à me regarder ? Allez, Isolda, va travailler, allez, allez, allez. (--h) (bh--)
+
+(BOUCLE 51 - 10:44:44:01)
+		51
+
+INSERT	"A suivre, des extraits du prochin épisode..."
+
+(BOUCLE 52 - 10:44:50:11)
+		52
+
+ANDRE	xxxxxxxxxxxxxxxxx
+
+BARBARA	XXXXXXXXXXXXXXXXXXX
+
+ANDRE	Ciao. (x)
+
+BARBARA	(x) (X)
+
+ANDRE	(x)
+
+BARBARA	(x)
+
+ALICE	XXXXXXXXXXXXXXXXXXXXXXX
+
+MALOU	XXXXXXXXXXXXX
+
+ALICE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+MALOU	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+LAERTE	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+LOUIZA	XXXXXXXXXXXXXXXXXXXXX
+

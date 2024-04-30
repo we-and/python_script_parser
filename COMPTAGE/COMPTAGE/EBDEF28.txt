@@ -1,0 +1,1353 @@
+LA ESCLAVA BLANCA CAP28 25 FPS-H264
+21/09/2016
+
+Insert	(Générique de début)
+
+(BOUCLE 1 - 00:00:57:08)
+		01
+
+REMEDIOS	Je ne suis pas une invalide, Bernal, je suis capable de manger de mes propres mains, laisse ça et va-t-en s'il te plait.
+
+TRINIDAD	Bonjour mademoiselle Rémédios...
+
+REMEDIOS	(mhuuh\_)
+
+TRINIDAD	(h) (h/) Vous permettez ?
+
+REMEDIOS	(h/) (h/) Je te croyais aux champs, profitant du soleil, de la brise du matin et de l'air pur ...
+
+TRINIDAD	(mm)
+
+REMEDIOS	(mh/_) (mh\)
+
+(BOUCLE 2 - 00:01:51:09)
+		02
+
+MILAGRO	Mademoiselle Rémédios...
+
+REMEDIOS	(h/)
+
+TRINIDAD	Excusez-moi.
+
+MILAGRO	Je viens voir si vous avez besoin de quelque chose.
+
+REMEDIOS	Non, Milagro, non, je n'ai besoin de rien, merci, tu peux y aller. (h/)
+
+(BOUCLE 3 - 00:02:14:03)
+		03
+
+FELIPE	Concentre-toi sur ce que tu as à dire et tout va bien se passer.
+
+JAIME	(hh) (mts) Cet esclave ne sait même pas parler, tout juste crier comme les singes.
+
+AMBIANCE	(murmures de révolte: "Taisez-vous; Ça suffit; Justice"______)
+
+ALONSO	Jaime, tu te tais ou bien je ne pourrais rien pour toi.
+
+JESUS	Mais vous pouvez pas...
+
+NICOLAS	Ne t'inquiète pas, ça va bien se passer.
+
+JAIME	Cet esclave est un traitre, un idiot, un vaurien...
+
+ALONSO	Calme-toi !
+
+DR LOPEZ	Merci Nicolas.
+
+AMBIANCE	(fin)
+
+JUGE	Silence dans la salle.
+
+VICTORIA	(h/)
+
+NICOLAS	Qu'est-ce que tu dis ?
+
+VICTORIA	(h) (h/) Rien, je priais pour que tout se passe bien.
+
+NICOLAS	(h/) Heureusement qu'Isabel n'est pas là, elle m'a écoutée.
+
+FELIPE	Monsieur Isaïas...
+
+JAIME	(ah ah ah ah ah) Monsieur.
+
+JUGE	Monsieur Lopez, c'est un avertissement, gardez vos commentaires, continuez Maître Réstrépo.
+
+FELIPE	Merci... monsieur Isaïas, combien de temps avez-vous été l'esclave de la famille Lopez ?
+
+ISAIAS	(mts) Pendant dix-sept ans.
+
+(BOUCLE 4 - 00:03:03:23)
+		04
+
+FELIPE	Vous pourriez parler plus fort pour que tout le monde vous entende ?
+
+ISAIAS	mhhh)
+
+FELIPE	Combien de temps avez-vous été l'esclave de la famille Lopez ?
+
+ISAIAS	Pendant dix-sept ans. (h\)
+
+FELIPE	Ce qui veut dire qu'on vous a acheté très jeune.
+
+ANGELA	Il est complètement affolé.
+
+ISAIAS	Je crois que j'avais... onze ans. (hh/)
+
+JAIME	Onze... il ne sait même pas son âge, quel ignorant ! (rhhh)
+
+ALONSO	(mts) Jaime, tais-toi s'il te plait.
+
+FELIPE	Dites-nous comment on vous traitait, vous et les autres esclaves pendant votre...
+
+ALONSO	Je proteste, c'est contraindre le témoin à parler au nom des esclaves absents.
+
+JUGE	Accordé.
+
+FELIPE	(mts) Dites-nous comment on vous traitait pendant toutes ces années.
+
+ISAIAS	(mts) (h) Je... normalement... normalement pour un maitre et son esclave. (respi_)
+
+JAIME	(hh) (mmm)
+
+(BOUCLE 5 - 00:03:56:19)
+		05
+
+FELIPE	Donc vous trouvez normal de recevoir des coups de fouet de son maître à la moindre petite erreur. Vous trouvez normal qu'on vous refuse un verre d'eau ou un croûton de pain ?
+
+ANGELA	Parle.
+
+AMBIANCE	(brouhaha très discret: "n'aie pas peur; parle; dis-leur"_______)
+
+FELIPE	Dites-nous ce qui s'est passé entre vous et monsieur Lopez, précisément le vingt-quatre juin de l'année en cours.
+
+JAIME	(mmm)
+
+ISAIAS	Je... je servais... je servais mon jeune maitre alors qu'il essayait d'apprendre à...
+
+JAIME	(mmm)
+
+ISAIAS	(h/) (mts) (hh/_) à tirer avec la main qu'il lui reste.
+
+JAIME	(mts) Celle-là, celle qui me reste, puisque ce criminel m'a ôté l'autre.
+
+AMBIANCE	(brouaha: " taisez-vous; laissez-le parler; on veut entendre"_____) (fin)
+
+(BOUCLE 6 - 00:04:50:07)
+		06
+
+MILAGRO	Papa, je profite de l'absence des maitres pour t'apporter de la friture de poisson. (h) (hh)
+
+THOMAS	Merci ma chérie.
+
+MILAGRO	(hh) Regarde, je t'ai aussi apporté des miches de pain et du jus de tamarin, il faut tout manger. (mts)
+
+THOMAS	(hhh) (hh--hh) (mâche) (mâche) (mâche) (mâche)
+
+MILAGRO	(mts)
+
+THOMAS	(mâche)
+
+MILAGRO	Je me demande comment ça se passe avec Isaïas.
+
+THOMAS	(mâche) (mâche) (mâche) (mts) (mâche)
+
+MILAGRO	Tu crois qu'on peut lui faire confiance ?
+
+THOMAS	(mâche) (mâche) (mâche) (mâche) (mhh\_) (mâche) (mmhh) (mâche) (mâche) Je ne veux pas être de mauvais augure, mais (mmhhmm) (mh) (h/) malheureusement j'ai vu comment au fil des ans (h/) les chaines peuvent détruire beaucoup plus l'esprit que le propre corps, et je ne sais pas s'ils seront assez forts.
+
+(BOUCLE 7 - 00:05:53:14)
+		07
+
+MILAGRO	Pourquoi tu es si pessimiste, papa ?
+
+THOMAS	(mâche) (mâche)
+
+MILAGRO	Tu parles comme si les choses ne pourraient jamais changer.
+
+THOMAS	(mâche) Je ne suis pas pessimiste. (mh/) (mts) (h/) (hh\_) (mhh\) Mais après tellement d'années, beaucoup trop d'années la bouche cousue, on fini par apprendre à se taire. (hh/_) (h/) Et même si l'on vit mal, tout ce qu'on veut, (hh\_) (h/_) c'est juste vivre. (mhh)
+
+MILAGRO	(mts)
+
+THOMAS	(hhh)
+
+MILAGRO	(h/) Mais alors nous allons prier nos ancêtres, et leur demandez de l'aide et de la force (h) pour nous et pour Miguel, papa.
+
+THOMAS	(mâche) (mâche_) (mâche_) (mhm) (mâche__) (mâche)
+
+(BOUCLE 8 - 00:06:40:12)
+		08
+
+FELIPE	Monsieur Isaïas, vous reconnaissez cet homme ?
+
+THOMAS	(mâche)
+
+FELIPE	(mts)
+
+ISAIAS	Oui, c'est mon jeune maitre, Jaïme Lopez.
+
+JAIME	(ffhh) Pourquoi ce voleur ne me reconnaitrait pas, hum? (mffh) (Ohh__) (h/_) Pourquoi vous ne lui demandez pas où sont les objets qu'il a volé chez moi.
+
+AMBIANCE	(brouhaha : " taisez-vous enfin ! laissez parler Isaïas; asseyez-vous"_______)
+
+JAIME	(h/_) Pourquoi il ne le dit pas, hum ?
+
+AMBIANCE	(brouhaha plus fort__________)
+
+HOMME AU CHAPEAU	Taisez-vous un peu !
+
+ALONSO	Assieds-toi, s'il te plait.
+
+MANUELA	Quelle audace !
+
+JUGE	Silence... Monsieur Lopez asseyez-vous.
+
+JAIME	(h/_)
+
+JUGE	Vous aurez l'occasion de parler quand je vous donnerai la parole. (mm)
+
+ISAIAS	Je ne suis pas un voleur.
+
+JAIME	(mts) (petit rire_) Vous voyez ? On ne l'entend même pas parce que la honte le ronge. (mts)
+
+MIGUEL	Ce n'est pas la honte, c'est la peur de vous qui le retient. Et pourquoi à votre avis ?
+
+JAIME	Est-ce parce que vous êtes tous de lâches ?
+
+ALONSO	Ça suffit, Jaïme, ça suffit, s'il te plait, arrête.
+
+AMBIANCE	(brouhaha_________)
+
+(BOUCLE 9 - 00:07:34:01)
+		09
+
+HOMME BARBE	Ça va, arrêtez.
+
+JESUS	Mais taisez-vous.
+
+JUGE	Voulez-vous poursuivre, Maître Réstrépo.
+
+FELIPE	(h/_)
+
+ALONSO	Excusez-moi monsieur le juge, mais à quoi sert le témoignage de cet homme ? Vous avez vu par hasard Jaïme Lopez attaquer l'esclave Miguel ?
+
+ISAIAS	Non, non monsieur. (h) (h)
+
+JUGE	(mmhm)
+
+ALONSO	Alors tout ce qu'on a ici c'est un témoin sans intérêt pour cette affaire.
+
+AMBIANCE	(brouhaha__________)
+
+VICTORIA	(h/) (h)
+
+ALONSO	Est-ce qu'on va faire défiler tous les esclaves des Lopez, et vérifier leur appartenance ?
+
+FELIPE	Bien sûr que non, maître Marquez. Votre Honneur je vous prie, peut-on faire une pause s'il vous plait ?
+
+JUGE	(h/) Cinq minutes, messieurs, vous pouvez consulter vos avocats.
+
+(BOUCLE 10 - 00:08:24:08)
+		10
+
+FELIPE	Calme-toi. N'aie pas peur de lui.
+
+ISAIAS	Oui mais le jeune maitre... il va me tuer...
+
+MIGUEL	Isaïas, je comprends ta peur mais fais-moi confiance, tu ne risques rien. (h) On ne peut pas te faire de mal, tu n'es pas seul, frère, crois-moi. (hh) (h)
+
+ISAIAS	(h\_) Le jeune maitre est un assassin. Je suis sûr que dès que je sors d'ici il va me tuer, je dois me taire.
+
+MIGUEL	Non, tu peux me croire.
+
+LOPEZ 2	Ne le lâche pas.
+
+MIGUEL	Sois fort, on ne peut pas se laisser intimider. (hh) Nous appartenons à une race forte, fière et déterminée, d'hommes vaillants et vainqueurs, et on va le prouver. (h) Fais-le pour les jeunes et pour tous nos enfants, pour qu'ils grandissent en liberté, (hh) et ne connaissent pas la souffrance que notre peuple a vécue.
+
+ISAIAS	(mh/)
+
+MIGUEL	(hh)
+
+(BOUCLE 11 - 00:09:09:23)
+		11
+
+EUGENIA	Regarde-les. C'est le regard d'un couple amoureux.
+
+BUMBA	Oui, tes soupçons se confirment.
+
+DR LOPEZ	Garde ton sang-froid, Jaïme. Calme-toi un peu et cesse de provoquer le public, assieds-toi.
+
+LOPEZ 2	Il est très énervé. Il a pris le calmant ?
+
+DR LOPEZ	Oui, bien sûr, mais ça prend son temps.
+
+NICOLAS	Asseyons-nous.
+
+ALONSO	(h)
+
+GRANADOS	Ton esclave favori va pourrir en prison.
+
+ANA	(mh) (hm)
+
+GRANADOS	Et il mourra pour sa trahison, vivement qu'on en finisse avec ça. (mmh/_) (mhh\_)
+
+(BOUCLE 12 - 00:09:51:03)
+		12
+
+THOMAS	A vous, ancêtres de notre peuple. A vous tous, je demande d'accorder à Miguel le courage et la force (h/) à lui et à tous les autres qui rêvent, eux aussi, d'être libres pour toujours. (h/)
+
+MILAGRO	Vas-y maintenant.
+
+THOMAS	(hh)
+
+(BOUCLE 13 - 00:10:23:24)
+		13
+
+THOMAS	(h) J'invoque Lorenza, notre bien aimée Lorenza, nous nous souvenons de toi, et de ton esprit guerrier. Aujourd'hui plus que jamais, accorde de la détermination et de la force (h/_) à Miguel et à tous ceux qui l'entourent.
+
+MILAGRO	Maman Lorenza, sois notre lumière (h/_) et conduis-nous vers la liberté. (chante) (hum hum hum hum______________
+
+THOMAS	(chante) (hm hm___________________ (fin chant)
+
+MILAGRO	(fin chant)
+
+(BOUCLE 14 - 00:11:21:21)
+		14
+
+JUGE	Je dois admettre que l'objection de l'avocat de la défense est fondée, puisque rien de ce qui a été dit ici jusqu'à présent, ne... ne démontre qu'il y a eu, de la part de Jaïme Lopez,  l'intention d'assassiner Miguel.
+
+FELIPE	Veuillez m'excuser monsieur le juge, il y a les témoins qui l'ont entendu se vanter.
+
+JUGE	Oui, j'ai pris note de leurs témoignages dans une... une audience préliminaire pour pouvoir émettre ce jugement. (h) (brhh\) Mais il était convenu que vous apporteriez aujourd'hui des témoignages absolument irréfutables. Or ce qu'a dit ce monsieur n'a pas de valeur. (mh/_)
+
+FELIPE	(hhm)
+
+MIGUEL	Pardon monsieur le juge, avec tout le respect, ce que l'on veut clairement montrer à la cour c'est que Jaïme Lopez maltraite les esclaves régulièrement.
+
+AMBIANCE	("oui...! oui !..."
+
+MIGUEL	Qu'il prend plaisir à les voir souffrir, et que quand il en a l'occasion il les chasse comme il a fait avec moi,
+
+AMBIANCE	("oui...")
+
+MIGUEL	et avec Isaïas qui est ici et qui a aussi été victime de sa violence.
+
+(BOUCLE 15 - 00:12:15:19)
+		15
+
+JAIME	(h/_) Cet individu essaie de m'inculper de choses que je n'ai pas faites.
+
+AMBIANCE	("ahh")
+
+JAIME	Ça se voit clairement. Qu'est-ce qu'on fait ici ?
+
+AMBIANCE	(brouhaha_________)
+
+JESUS	(rire___)
+
+LOPEZ 2	Calme-toi, du calme.
+
+JAIME	Hein ?
+
+MIGUEL	J'aurais pas fini avec vous tant que vous n'aurez pas reconnu ce que vous m'avez fièrement avoué, que vous avez tué Rosita et Sabas.
+
+JAIME	(mfhh\) (mfhh/)
+
+MIGUEL	que vous vous amusez à tirer à tout bout de champ sur des esclaves sans défense,
+
+LOPEZ 2	(mh/)
+
+JAIME	(mmhh/_)
+
+MIGUEL	(h/_) que vous les poursuivez dans les champs comme vous avez fait avec elle.
+
+JAIME	(mffhh\_) (mmhhm)
+
+MIGUEL	Mais ici il ne va pas l'admettre parce qu'il se cache derrière le pouvoir de son père et Dieu sait de qui d'autre.
+
+JESUS	C'est vrai.
+
+AMBIANCE	"Oui, oui..." (brouhaha____)
+
+JESUS	Oui.
+
+MIGUEL	Vous êtes un lâche, un grand lâche, parce que vous vous croyez puissant en écrasant les plus faibles.
+
+JAIME	(hh/_) (mhh\_)
+
+AMBIANCE	(reac du public___________)
+
+NICOLAS	(mffrh)
+
+JUGE	Silence dans la salle, silence. Miguel, a-a-asseyez-vous. Miguel, si vous continuez à perturber cette audience je vais être obligé de vous arrêter pour désordre.
+
+AMBIANCE	(fin)
+
+MIGUEL	(hh hh) Je sais qu'au fond vous avez peur parce que vous savez que ma race est plus forte et plus courageuse que vous. (hh)
+
+(BOUCLE 16 - 00:13:07:00)
+		16
+
+JAIME	(hhhh) C'est vous qui êtes des faibles. (hh hh hh) Sinon vous ne seriez pas chez nous en train de manger de la merde.
+
+FEMME	Du respect monsieur le juge.
+
+AMBIANCE	(reac du public______)
+
+HOMME	Arrêtez.
+
+JAIME	Hum ?
+
+ALONSO	(mts) Jaïme, arrête et tais-toi.
+
+JAIME	Alonso, je vais dire la vérité. (hh) (hh hh hh hh) Qu'on en finisse avec ce cirque une fois pour toutes, cet esclave qui est là assis ne pourra pas continuer à déballer des mensonges (h) il n'a RIEN contre moi, RIEN.
+
+ISAIAS	(mrhh) C'est vrai ce que Miguel a dit. Oui, mon jeune maitre m'a pourchassé, et m'a tiré dessus. (mhh/) J'ai été victime de ses attaques et voici la preuve.
+
+JUGE	(h/) (h\)
+
+GRANADOS	Je crois que Jaïme en a trop dit.
+
+ISAIAS	Il me maltraite depuis que je suis petit et son père le laisse faire. D'ailleurs, il nous chasse aussi comme si on était des lièvres, en nous faisant courir dans tous les sens, en nous pointant une arme et en tirant sur nous.
+
+JAIME	(hh) (hh)
+
+ISAIAS	Il y a eu plusieurs victimes. (hh/_) (hh\__) Mais le docteur camoufle leur mort en disant que c'est suite à des maladies ou bien des accidents de travail. (h/_) Comme on ne compte pas pour lui, peu lui importe ce qui s'est réellement passé.
+
+JAIME	(hh) (hh)
+
+ISAIAS	(hh)
+
+(BOUCLE 17 - 00:14:10:05)
+		17
+
+FEMME	Justice monsieur le juge.
+
+AMBIANCE	(reacs de révolte: "justice, justice " ___)
+
+JESUS	Justice.
+
+GABRIEL	Justice, il faut faire justice.
+
+FEMME 2	Justice.
+
+ANGELA	On veut justice, il faut faire justice, monsieur le juge.
+
+HOMME AU CHAPEAU	Justice, il faut qu'il paye monsieur le juge.
+
+JUGE	Ce que vous dites à la cour est très grave, monsieur Isaïas.
+
+ISAIAS	(mh/_) (mh\_)
+
+JUGE	Et il peut y avoir des conséquences pour vous à l'avenir si l'on prouve que ce n'est pas vrai.
+
+ISAIAS	(mh/_) (mh\_) (mh/) (mh\_) Je n'ai pas menti.
+
+FEMME	J'ai été esclave des Lopez. Et à moi aussi ils me faisaient courir pour me tirer dessus.
+
+GENERAL	E
+
+HOMME	Ma fille aussi a subit le même sort, sauf qu'elle n'a pas survécu. (h/_) (h/) Vous vous rappelez d'elle monsieur Jaïme, elle s'appelait Rita, et n'avait que treize ans. Assassin.
+
+AMBIANCE	(reacs de révolte: "en prison", " il doit payer", "assassin"___)
+
+GABRIEL	Il doit payer.
+
+JESUS	En prison, tout de suite.
+
+MANUELA	Assassin. Assassin. En prison. Il doit payer.
+
+GABRIEL	En prison.
+
+JESUS	En prison.
+
+FELIPE	Monsieur Isaïas... monsieur Isaïas, pourquoi vous ne dites pas  à monsieur le juge la conversation que vous avez entendue entre le docteur Lopez et son fils il y a juste quelques jours ?
+
+(BOUCLE 18 - 00:14:56:24)
+		18
+
+GRANADOS	(hm)
+
+ISAIAS	Après la blessure que le jeune maitre m'a faite, il a dit qu'il valait mieux en finir avec moi comme il avait fait avec d'autres esclaves. (hh)
+
+MIGUEL	(hh) Comme vous avez fait avec Rosita...
+
+JAIME	(mffhh) ffhhmm)
+
+MIGUEL	reconnaissez-le (hh) Vous l'avez attachée à l'arbre où on l'a trouvée parce que vous étiez fatigué, alors vous avez tiré dessus.
+
+JAIME	(mffhh)
+
+ALONSO	Monsieur le juge.
+
+JAIME	(mmffh)
+
+MIGUEL	Vous avez dû la poursuivre partout dans les champs pour ensuite lui tiré dans le dos comme un lâche que vous êtes.
+
+JAIME	(mffhh) (mffh) Non, je ne suis pas un lâche.
+
+MIGUEL	(hh)
+
+JAIME	(hh/_)
+
+MIGUEL	Ah oui, mais j'y pense, vous l'avez dit pour vous vanter parce que vous ne savez rien faire, vous êtes un crâneur, un menteur sans caractère qui raconte n'importe quoi... regardez, regardez où vos mensonges vous mènent. (hh)
+
+JAIME	(mfh) (sniff)
+
+MIGUEL	(hhh)
+
+JAIME	(mffh/_)
+
+MIGUEL	(h)
+
+JAIME	(mmh\_) (mts) (sniff) (mffh) (h h h h) Ce n'est pas des mensonges, je l'ai tuée et je... et je n'ai pas tiré dans le dos, minable, j'ai tiré en visant droit dans ses yeux d'animal comme les tiens, sale ordure. (fortes respis____)
+
+AMBIANCE	("oh"_______)
+
+JESUS	Le monstre, il l'a fait vraiment.
+
+MANUELA	Il le reconnait.
+
+VICTORIA	(mh)
+
+JAIME	(h h)
+
+DR LOPEZ	Tais-toi, Jaïme.
+
+JAIME	C'est toi qui te tais, personne ne me traite de lâche, encore moins ce... ce sauvage, cet animal, oui, j'ai pris du plaisir comme j'aurais eu si je t'avais tué aussi, et tous les autres rebelles mais on m'a empêché. (respi__) (respi)
+
+AMBIANCE	(petits cris et brouhaha______________)
+
+JAIME	(respis fortes___)
+
+(BOUCLE 19 - 00:16:01:06)
+		19
+
+DR LOPEZ	Jaïme.
+
+FELIPE	Qui vous a empêché ? Dites nous qui vous a empêché ? Qui est votre complice ?
+
+NICOLAS	(hh/)
+
+JAIME	Où est le problème ? Vous ne voyez pas, ils ne sont pas des personnes, ils sont noirs.
+
+AMBIANCE	(cris de révolte du public: " assassin; justice; en tôle..."_______________)
+
+FELIPE	Qui d'autre est votre complice ? Qui d'autre est avec vous ? Qui d'autre, dites-nous.
+
+DR LOPEZ	Tais-toi, Jaïme, tais-toi.
+
+NICOLAS	Jaïme, tais-toi !
+
+AMBIANCE	(cris de révolte: "en prison; c'est un assassin; il a avoué... "___________________)
+
+NICOLAS	Jaïme, tais-toi. Tu entends, tais-toi.
+
+DR LOPEZ	Jaïme, tais-toi, tais-toi.
+
+MANUELA	Assassin.
+
+AMBIANCE	(cris de révolte: " justice; à mort; assassin..."____________________)
+
+MANUELA	Assassin.
+
+JAIME	(hh/) (hh\) (hh)
+
+GABRIEL	On veut justice !
+
+ANGELA	Justice.
+
+MANUELA	Assassin. Justice ! En prison !
+
+FELIPE	(hhh)
+
+DR LOPEZ	(hh/) (h\)
+
+JAIME	(hh/) (hh\) (hh)
+
+JUGE	Monsieur Lopez, vous êtes reconnu coupable d'assassinat.
+
+AMBIANCE	(cris: "justice, justice, justice ")
+
+JAIME	(hhhuhh) (mmhhhuhh) (ohhahhh) (hhhhh)
+
+MIGUEL	(reac joie________)
+
+JAIME	(reac__)
+
+MIGUEL	(rire___________)
+
+AMBIANCE	(Justice; justice; justice)
+
+FELIPE	(reac joie___________)
+
+MIGUEL	(reac joie____)
+
+AMBIANCE	(Justice) (cris de joie de la foule: " justice, justice, justice "_______________)
+
+MIGUEL	(reac joie_________)
+
+VICTORIA	(hh/)
+
+MIGUEL	(hhhh) (reac joie________________)
+
+ANGELA	Miguel.
+
+(BOUCLE 20 - 00:17:03:19)
+		20
+
+NICOLAS	Lucia.
+
+VICTORIA	Oui.
+
+NICOLAS	Rentrons.
+
+VICTORIA	(h/) J'espère qu'on attrapera les autres assassins.
+
+NICOLAS	De qui tu parles ?
+
+VICTORIA	(hh/) De ce qu'a dit Jaïme, ça serait faire vraiment justice et ça ne m'étonnerait pas que le Dr. Lopez soit mêlé à tout ça.
+
+NICOLAS	Tu ne peux pas tirer des conclusions comme ça.
+
+VICTORIA	Comme ça ? Jaïme a dit qu'il n'était pas seul. (hah)
+
+NICOLAS	Ça ne veut pas dire qu'Arturo y soit mêlé.
+
+VICTORIA	(h/) J'espère que Rosita et les autres reposent enfin en paix. Et dire que tu voulais marier ta fille à cet homme.
+
+NICOLAS	(mh\_) Va retrouver Isabelita sur la place et rentrez à la maison, l'ambiance ici peut devenir dangereuse.
+
+VICTORIA	(h\) (mh/_)
+
+(BOUCLE 21 - 00:17:57:15)
+		21
+
+AMBIANCE	(cris indistincts de la foule en colère à l'extérieur sur toute la boucle___)
+
+VICTORIA	(h/) (h\)
+
+JUGE	Le jeune Jaïme Lopez sera incarcéré dans un des cachots de la prison, puisqu'il a avoué le meurtre d'au moins un des crimes d'assassinat d'esclaves dont on l'accuse comme monsieur Miguel l'avait signalé.
+
+DR LOPEZ	Mais bien entendu, monsieur le juge, mais je voudrais vous demander instamment de reconsidérer la décision que vous venez de prendre. (hh/) (hh\) Si mon fils a agi comme il le dit, c'est simplement parce qu'il était sous pression de son entourage, mais... mais mon fils est un bon garçon. il serait incapable de faire une chose pareille.
+
+ALONSO	(h) (mh)
+
+DR LOPEZ	Allons monsieur le juge, j'espère que vous allez reconsidérer votre décision et vous rendre compte que mon fils est la victime des accusations injustes de ces messieurs.
+
+JUGE	(mmhm)
+
+DR LOPEZ	(hh/)
+
+JUGE	Docteur Lopez j'ai fait emprisonner votre fils, pas seulement suite à sa confession, qui a été très claire, mais aussi parce que si je le relâche, il va se faire lyncher. C'est ce que vous voulez ?
+
+(BOUCLE 22 - 00:18:46:03)
+		22
+
+DR LOPEZ	(hh\_) Alonso...
+
+ALONSO	On va faire appel à Santa Fé, monsieur le juge.
+
+JUGE	(hh) Pour l'instant le jeune homme reste en prison jusqu'à nouvel ordre, je ne veux pas d'émeutes, les gens sont déjà très en colère.
+
+MIGUEL	(mh)
+
+DR LOPEZ	(hhmh)
+
+JUGE	Et ça peut vite terminer en tragédie.
+
+MIGUEL	Vous voulez dire une autre. Parce que c'est ce qu'a vécu mon peuple, monsieur le juge.
+
+DR LOPEZ	(hh)
+
+JUGE	Tout à fait juste, Miguel, vous avez raison.
+
+MIGUEL	Et ne me regardez pas comme ça, Lopez, parce que je dis la vérité et vous ne me faites pas peur.
+
+ALONSO	(h) (mts) (hh) Excusez-moi.
+
+(BOUCLE 23 - 00:19:27:12)
+		23
+
+ALONSO	Votre fils s'est mis lui-même la corde au cou Arturo, vous l'avez entendu, il a avoué, ce n'est pas de ma faute.
+
+AMBIANCE	(cris de la foule en colère)
+
+DR LOPEZ	Arrêtez de faire l'imbécile, Alonso, les seuls coupables sont les esclaves, mais je m'en charge à la première occasion.
+
+ALONSO	C'est à cause de ces commentaires que votre fils s'est coincé.
+
+AMBIANCE	(fin)
+
+ALONSO	(hh) S'il vous plait, Arturo, les preuves sont là, j'étais de votre côté, mais Jaïme est coupable et bien qu'il ait le droit d'être défendu, j'ai mes principes et je vais m'y tenir.
+
+DR LOPEZ	Qu'est-ce que vous voulez dire ? Vous ne pouvez pas nous laisser tomber en ce moment.
+
+ALONSO	Bien sûr que je peux. Je ne partage pas votre façon de voir les choses, et j'ai quand même accepté de le défendre. (h\) (h/) Mais il n'est pas bien, il doit se faire soigner. (h h h) c'est dans sa tête, dans sa façon de voir le monde.
+
+DR LOPEZ	Vous avez fait votre part ? Vous vous fichez de moi, tout ce que vous avez fait c'est mettre mon fils en prison, voilà ce que vous avez fait. (hh)
+
+ALONSO	Lâchez-moi, un peu de respect.
+
+DR LOPEZ	(hh mmhmm)
+
+(BOUCLE 24 - 00:20:06:10)
+		24
+
+NICOLAS	Messieurs taisez-vous, arrêtez, allez calmez-vous.
+
+GENERAL	Messieurs, que se passe-t-il ?
+
+DR LOPEZ	C'est simple, vous êtes tous une bande d'inutiles.
+
+NICOLAS	Arturo, Arturo viens ici. Qu'est-ce que t'as ?
+
+DR LOPEZ	(hh) (hh) Nicolas, je crois qu'on n'aurait pas dû commencer à tuer les esclaves. (hh/)
+
+NICOLAS	(chuuuut) Parle pas ici... tu veux faire la même erreur que ton fils, ferme ta bouche, allons-nous-en.
+
+DR LOPEZ	(hh\) (hh)
+
+ALONSO	Bon, ça va ?
+
+GABRIEL	(mrhh/) (respi_) Oui, et toi ? (hh)
+
+ALONSO	(hh)  Oui. (hh) Merci.
+
+GABRIEL	(hh)
+
+ALONSO	(hh\)
+
+(BOUCLE 25 - 00:20:39:05)
+		25
+
+AMBIANCE	(brouhaha discret__________)
+
+MARCOS	(oohh) (oohh) Tiens-moi ça, prends soin de mon cheval. (hh) (hhh) (hh) (huh) (hh) (hh) (hh)
+
+ANGELA	Je n'avais jamais vu ça de toute ma vie.
+
+MARCOS	(hh) (hh) (hh) (hh)
+
+LUIS	J'avoue qu'au fond de mon coeur j'y croyais quand même.
+
+AMBIANCE	(brouhaha: "nous aussi; oui, d'accord mais"____)
+
+MARCOS	Miguel. (respi-)
+
+MIGUEL	Frère.
+
+ANGELA	Marcos.
+
+MARCOS	(respi_)
+
+MIGUEL	(rire________)
+
+MARCOS	(rire____)
+
+MANUELA	(rire_)
+
+ANGELA	(ahh)
+
+MARCOS	Quelle joie ! Je suis venu en courant, dès que je l'ai su, je n'arrivais pas à y croire. (hein) (rire de joie___)
+
+MIGUEL	(reac joie_______)
+
+MARCOS	(hh) (h) (rire___)
+
+MIGUEL	(rire___)
+
+MANUELA	(rire____)
+
+JESUS	(rire____)
+
+MARCOS	(respi_)
+
+ANGELA	Les choses vont changer à partir de maintenant, mais attention, il faut qu'on aide Miguel.
+
+(BOUCLE 26 - 00:21:19:11)
+		26
+
+MIGUEL	(h/_)
+
+MARCOS	( h h h) Oui, mais comment ?
+
+MIGUEL	On doit informer, faire circuler la nouvelle de cette victoire.
+
+MARCOS	(hh)
+
+MIGUEL	(h) Les blancs nous prennent pour des ignorants, on va leur prouver le contraire. (h/) (mmh) On va dire à tous ce qui se passe ici et on va rester unis pour continuer la lutte contre l'oppression. (hahh) On a fait le premier pas, mais on doit rester unis pour le suivant, et l'autre et l'autre... (h)
+
+MANUELA	(hhmm)
+
+MIGUEL	(rire b. o.____)
+
+MARCOS	(rire b. o.___) Je dois m'en aller.
+
+MIGUEL	(respi_) (respi__)
+
+MARCOS	(h h h h)
+
+MIGUEL	(respi___)
+
+MARCOS	(respi_) (respi_)
+
+MIGUEL	Fais attention Marcos.
+
+ANGELA	Fais attention.
+
+MANUELA	Bonne route. Fais attention.
+
+MARCOS	(h h h) Oui. (h h)
+
+ANGELA	Fais attention, petit.
+
+MARCOS	(respi__)
+
+MANUELA	Au revoir. Fais attention.
+
+ANGELA	Bon, on va fêter ça.
+
+MIGUEL	Mais bien sûr.
+
+(BOUCLE 27 - 00:22:05:00)
+		27
+
+AMBIANCE	(léger brouhaha_____)
+
+ALONSO	Pourquoi tu ne viens pas déjeuner à la maison ?
+
+GABRIEL	(h\_) Ça serait gênant pour tout le monde.
+
+ALONSO	(mts) Je sais que le général a de la peine à exprimer ce qu'il pense, mais il est fier de toi, de ce que tu as fait en tant que témoin. (h/_)
+
+GABRIEL	(mhm) Il te l'a dit ?
+
+ALONSO	(mts) Mais je sais que c'est vrai, tu lui manques. (hh)
+
+GABRIEL	(h/_) Non, et ce n'est pas du ressentiment, Alonso, mais si on ne met pas cartes sur table dès le début, ça dérape à nouveau et ça j'le veux pas. (hh) (h/) Merci pour l'invitation, mon frère. (h h h h)
+
+(BOUCLE 28 - 00:22:41:19)
+		28
+
+GABRIEL	(h h h) (hhmmh) (mts) (h) Pardon pour ce que je t'ai dit avant l'audience, moi aussi je suis fier que tu aies renoncé à défendre ce criminel.
+
+ALONSO	(mrhh)
+
+GENERAL	Gabriel.
+
+GABRIEL	(mhh)
+
+AMBIANCE	(fin)
+
+(BOUCLE 29 - 00:23:17:20)
+		29
+
+DR LOPEZ	Sale mégère, apporte une autre... et maintenant va-t-en de là, va-t-en t'entends... je ne veux pas vous voir, on ne peut plus jamais faire confiance à ces sales sauvages. (hhhh) (hh) (hh/) (respi_) (h/_)(h\_) (h/_) (hhh) (hh/_) (hh/) (hh/) (h/_) (h\) (hh) (hh_) (h\) (hh) (mmrhh) (hh) Vous passez la vie à écouter aux portes tout ce qu'on dit et vous ébruitez aux quatre-vents tout ce que vous entendez, il faut qu'on vous tue tous. (h/)
+
+NICOLAS	Calme-toi, Arturo, on va faire le point de la situation. A qui tu as vendu Isaïas ?
+
+DR LOPEZ	(hh/) (hh\)
+
+NICOLAS	(h/)
+
+DR LOPEZ	(hh/) (hh\) (h/) (h\) (h/) (h\) (respi) (respi) (respi_) Me calmer, bordel, Nicolas... me calmer bordel. C'est la veuve Eugénia qui me l'a acheté. (hh) (h/) (respi) (h/) (h/_)
+
+NICOLAS	Tu veux dire la veuve Anton ?
+
+DR LOPEZ	(hh\)
+
+(BOUCLE 30 - 00:24:23:12)
+		30
+
+DR LOPEZ	(mmrhhh) (h\_) (hh/) T'en connais une autre, dis-moi. (h\) (h\) (h/) Et je suis sûr que cette misérable a dû le vendre à quelqu'un d'autre qui lui a appris... (respi) qui lui a dû lui apprendre comment faire pour dénoncer mon fils. (h/_) (h\_) (h/_) (h\_) (h/_) Et tu te rends compte ? Tu te rends compte, l'imbécile d'Alonso a renoncé ? (hh/) (hh/_) (h/_) Comment est-ce qu'il ose me faire ça ? (hh/) (hh\) (hh) (respi) Nicolas, (h/_) j'ai besoin que tu me prêtes de l'argent. (hh)
+
+NICOLAS	(mhm)
+
+DR LOPEZ	Il faut faire venir le meilleur avocat du pays, à n'importe quel prix t'entends, parce qu'ici...
+
+NICOLAS	(mhm)
+
+DR LOPEZ	(h\_) (h\) (mm) (mts) (h/_) ici, mon fils n'est pas le seul qui est... qui est en danger, tu le sais... Tu  comprends ? (h) (h/) (hh/) (hh) (hh\)
+
+NICOLAS	Ça ressemble davantage à une menace qu'à un service.
+
+(BOUCLE 31 - 00:25:18:14)
+		31
+
+DR LOPEZ	Je me fiche pas mal de ce que tu penses, Nicolas. Tu crois que je n'ai pas vu qui ont été les premiers à quitter l'audience ?
+
+NICOLAS	(h) (h/)
+
+DR LOPEZ	C'était les Granados et les Caïcedo.
+
+NICOLAS	(mh/) Je ne l'ai pas fait.
+
+DR LOPEZ	Tu ne l'as pas fait et tu ne le feras pas. (hh/) Tu ne suivras pas leur exemple, parce que sinon je te fais jeter en prison. (h/) N'oublie pas ce que je vais te dire. Je sais où se trouve Morales et je sais ce que tu as fait aux Quintero.
+
+NICOLAS	(mh)
+
+DR LOPEZ	Je t'avertis qu'ici, ni toi ni personne ne pourrez nous abandonner.
+
+NICOLAS	(mm) Ne crie pas comme ça Arturo. (hh) Ne me crie pas dessus. (h/_) Bien sûr que nous sommes amis, et  je ne vais pas te laisser tomber. (hh) (hh) (hh/_) (h\_) (hh) On est ensemble et on va s'en sortir ensemble, n'en doute pas.
+
+DR LOPEZ	(hh)
+
+NICOLAS	(hh) (h)
+
+DR LOPEZ	(hh/) (hh\) (hh\_)
+
+(BOUCLE 32 - 00:26:24:11)
+		32
+
+AMBIANCE	(léger brouhaha sur toute la boucle__)
+
+VICTORIA	Isabelita rentre, je te rejoins plus tard. D'accord ?
+
+ISABEL 2	(hum) Pourquoi tu restes ?
+
+VICTORIA	Je veux tenir compagnie à ton père. Tu te rappelles, tu m'as demandée d'essayer d'être plus proche de lui.
+
+ISABEL 2	(hum hum)
+
+VICTORIA	Et bien voilà l'occasion... il est très tendu et je sens qu'il a besoin de moi.
+
+ISABEL 2	D'accord.
+
+VICTORIA	(hh) Cocher, tu peux y aller. Et surtout ne t'arrête pas en route. (x) A plus tard ma jolie.
+
+(BOUCLE 33 - 00:27:09:10)
+		33
+
+LOPEZ 2	Est-ce qu'on sait qui a acheté Isaïas ? Qui l'a encouragé ?
+
+NICOLAS	La première à le faire c'est la veuve d'Anton, mais elle l'a revendu.
+
+GRANADOS	Mais à qui elle l'a vendu ?
+
+NICOLAS	A Réstrépo, et ça me parait logique. Il l'a préparé et maintenant on paie les conséquences.
+
+LOPEZ 2	(mmhm)
+
+GRANADOS	Non, non, non, le seul qui va payer les conséquences c'est Jaïme. Cet imbécile a avoué devant tout le monde. Nicolas, on ne peut pas tomber avec lui.
+
+LOPEZ 2	(mhm)
+
+NICOLAS	Ça n'arrivera pas. Mais maintenant il faut qu'on la joue très fine. Laissez-moi faire à ma façon.
+
+GRANADOS	(h/)
+
+NICOLAS	(mah) (mmrhh)
+
+(BOUCLE 34 - 00:27:54:20)
+		34
+
+CATALINA	J'aurais tellement aimé être là. Pourquoi j'ai manqué ça !?
+
+FELIPE	Ça m'aurait fait plaisir, mais tu sais comment ça se passe, je n'aime pas qu'on puisse t'associer à moi. Ces gens sont dangereux, et on ne sait pas comment ils pourront réagir.
+
+MIGUEL	(hh) (h/) Il faudrait faire une enquête pour connaitre les noms des autres assassins d'esclaves.
+
+FELIPE	Bien sûr, et persuader tout le monde d'en parler.
+
+MIGUEL	(mfhh) Et on sait déjà comment il faut s'y prendre.
+
+FELIPE	(ah ah ah)
+
+CATALINA	(mfhh) Qui est à la porte ? Est-ce que vous attendez des visites ?
+
+FELIPE	Pas moi.
+
+MIGUEL	Où est Isaïas ?
+
+FELIPE	Isaïas est à la cuisine, il était affamé et mort de peur.
+
+MIGUEL	(mh) Cet homme a prouvé être un des nôtres. Il s'est montré à la hauteur.
+
+FELIPE	En effet, c'est vrai.
+
+(BOUCLE 35 - 00:28:40:04)
+		35
+
+CATALINA	Bienvenue Victoria.
+
+FELIPE	Bienvenue.
+
+VICTORIA	Felipe, Catalina, je suis tellement fière de toi. (h) (petits cris de joie____)
+
+FELIPE	(mts)
+
+VICTORIA	(h) (rire b.o.__)
+
+MIGUEL	Bon, si on portait un toast ?
+
+FELIPE	Allons-y.
+
+CATALINA	Pourquoi pas.
+
+MIGUEL	A toi.
+
+FELIPE	Sur la route, aucun problème ?
+
+VICTORIA	Non. (petit rire__)
+
+MIGUEL	A monsieur le juge.
+
+CATALINA	A vous, Miguel.
+
+FELIPE	Santé.
+
+MIGUEL	Santé.
+
+VICTORIA	Santé.
+
+CATALINA	Santé.
+
+(BOUCLE 36 - 00:29:18:22)
+		36
+
+NICOLAS	Granados et Caïcedo t'envoient le bonjour,
+
+JAIME	(sniff)
+
+NICOLAS	et te rappellent que tu dois garder la tête froide. Tu es ici parce que tu n'as pas su garder le silence.
+
+JAIME	(hh)
+
+DR LOPEZ	Nicolas, tu n'es pas venu pour faire la morale à mon fils. Tout ce qu'on a à faire c'est le sortir de là au plus vite.
+
+NICOLAS	Calme-toi, mon vieux. On va faire comme on avait dit. (hh)
+
+JAIME	Alors dépêchez-vous parce que je n'ai pas été le seul à tuer ces rebelles et je ne veux pas pourrir ici. (h/_) (h/)
+
+NICOLAS	Pas de menaces, pas de menaces Jaïme. On ne mord pas la main qui vous nourrit. (h) (h/_) (h) Je veux bien faire preuve de bonne volonté, mais ça marche pas sous les menaces.
+
+DR LOPEZ	C'est exactement la même chose pour nous, c'est exactement la même chose.
+
+(BOUCLE 37 - 00:30:04:20)
+		37
+
+NICOLAS	(h) Voilà ce qu'on va faire. Jaïme tu vas fermer ta bouche et plus rien dire. (h) Je vais m'arranger pour réunir en privé Granados et Caïcedo pour leur demander de collaborer, et on va engager le meilleur avocat qui existe, on payera ta caution et on te sortira d'ici. Hum ?
+
+JAIME	(h/) Et c'est possible ? Je peux sortir avant d'être jugé ?
+
+NICOLAS	Mais bien entendu que tu peux. (h\) Tu croyais qu'on allait te laisser ici ? Tu es l'un des nôtres, on ne va pas te laisser tomber.
+
+JAIME	(hh\_)
+
+DR LOPEZ	Excuse-moi Nicolas, mais tout ça on le sait déjà. On le sort d'ici au plus vite ou bien alors on va tous se faire avoir.
+
+(BOUCLE 38 - 00:30:52:13)
+		38
+
+FELIPE	Isaïas, viens nous rejoindre, tu fais aussi partie de cette célébration.
+
+ISAIAS	Merci.
+
+MIGUEL	(petit rire_)
+
+ISAIAS	Merci.
+
+MIGUEL	Comment tu te sens ?
+
+ISAIAS	(petit rire_) Bizarre. J'avais l'habitude de servir les Lopez maintenant que je ne leur appartiens plus, ni à Donia Eugénia ni aux Réstrépo, je crois que je suis à la marquise.
+
+MIGUEL	Je ne savais pas.
+
+VICTORIA	Je t'ai promis de ne me mêler de rien, mais je devais le faire.
+
+FELIPE	Bon, maintenant ce qu'il faut c'est définir la situation d'Isaïas.
+
+(BOUCLE 39 - 00:31:27:02)
+		39
+
+VICTORIA	Je ne vais pas te garder comme esclave, il y en a déjà assez à l'Eden, en tous cas pour mon goût.
+
+ISAIAS	Merci maitresse, mais alors  je ne sais pas quoi faire. J'ai été esclave toute ma vie, je ne sais rien faire d'autre à part servir. Vous croyez que les gens vont me laisser en vie après ce que j'ai dit ? Je vous en prie, maitresse, ne me donnez pas la liberté et emmenez-moi avec vous.
+
+VICTORIA	(h/) (h\)
+
+CATALINA	Qui est à la porte ?
+
+FELIPE	Je sais pas.
+
+ESCLAVE	Excusez-moi, c'est Don Nicolas Parrenio.
+
+CATALINA	Qui ??
+
+(BOUCLE 40 - 00:32:11:13)
+		40
+
+MARCOS	(hh) Thomas. (respis saccadées_) (ooohhh) (h) (h)
+
+THOMAS	Que fais-tu là, Marcos ?
+
+MARCOS	(h) (h) Je dois rentrer à l'hacienda des Granados, mais avant je voulais vous dire que... Miguel a gagné le procès. (respi_) (h) (h) (h) (h/) (rire b. o.___) (h) (h) (h) (h/_) (h) (hh) (h)
+
+THOMAS	(hh)
+
+MARCOS	(h)
+
+THOMAS	Milagro, Milagro, Milagro, Milagro viens.
+
+MARCOS	(mm) (h)
+
+THOMAS	(hh) (h) (h/) (hh) (hhh) (h/) (h) (h) (h)
+
+MILAGRO	Qu'est-ce qu'y a papa ?
+
+THOMAS	(hh) Miguel a gagné le procès.
+
+MILAGRO	(ahh/)
+
+THOMAS	Il a gagné, Miguel a gagné le procès, il a gagné.
+
+MILAGRO	(hhh\__)
+
+THOMAS	(h\)
+
+MILAGRO	(hhh__) (rire nerveux____)
+
+THOMAS	(h) (h\)
+
+MILAGRO	Miguel a gagné. (rire nerveux__)
+
+AMBIANCE	(brouhaha___________)
+
+THOMAS	(h/)
+
+MILAGRO	(ah ah aha ah) (pleure et rire________)
+
+AMBIANCE	(brouhaha/ petits cris de joie____________)
+
+MILAGRO	( hh) (hh) (haah) (haah)
+
+MARCOS	(rire b. bo.____) Merci. (rire__) Oui. (rire b. o.___)
+
+AMBIANCE	(rires et cris de joie:"on a gagné; il a gagné; Bravo Miguel;"___________)
+
+MILAGRO	Miguel a gagné. Miguel a gagné. (rire nerveux__________)
+
+(BOUCLE 41 - 00:33:05:22)
+		41
+
+MILAGRO	Miguel a gagné le procès, Miguel a gagné le procès.
+
+AMBIANCE	(OUIIII !!!!!!!!)
+
+MILAGRO	(rire b. o._______)
+
+CANDELA	Qu'est-ce que tu dis, sale menteuse ?
+
+THOMAS	Il a gagné contre le fils du docteur Lopez.
+
+MILAGRO	Ah, j'arrive pas à le croire.
+
+AMBIANCE	("ohhhh!!")
+
+MILAGRO	(rire____)
+
+JULIAN	Hé ! Qu'est-ce qui se passe ? Au travail voyons !
+
+CANDELA	(rire_) Un des nôtres a gagné un procès, vieux, on a gagné, on a gagné...
+
+MILAGRO	(rire)
+
+AMBIANCE	"Ouiiiii !!"
+
+CANDELA	Oui !
+
+THOMAS	La loi nous protège pour la première fois.
+
+AMBIANCE	(ahhh) (hhéééé___)
+
+CANDELA	Ouiii___ (hhééééé___)
+
+(BOUCLE 42 - 00:33:28:07)
+		42
+
+NICOLAS	C'est la loi, Miguel, tu le sais bien, tu dois rentrer à l'Eden avec moi. (h)
+
+MIGUEL	Mais j'ai gagné le procès.
+
+NICOLAS	Oui, je le sais, et je te félicite pour ça, mais ça ne change pas ta condition. Tu fais toujours partie de mes biens. Monsieur Réstrépo le sait bien, la loi est de mon côté. (hm) Miguel, je t'ai acheté, ta place et ton travail sont à l'Eden. (h/_)
+
+(BOUCLE 43 - 00:34:05:03)
+		43
+
+LOPEZ 2	J'ai parlé avec Arturo, il m'a dit que Nicolas allait l'aider, en tous cas, il l'a promis.
+
+GRANADOS	Combien de temps on va tenir ?
+
+ANA	Vous permettez ? (hh)
+
+LOPEZ 2	Bien le bonjour Donia Ana.
+
+ANA	Bien le bonjour Damian.
+
+GRANADOS	Tu veux quoi ?
+
+ANA	(h/) Je vous apporte des boissons.
+
+GRANADOS	Si on voulait à boire je l'aurais demandé, tu peux sortir.
+
+ANA	(mm)
+
+LOPEZ 2	(h) Il m'a dit aussi que le petit pourra sortir sous caution, sitôt qu'on aura la réponse de Bogotá.
+
+GRANADOS	Non, on ne peut pas attendre, Caïcedo, c'est une question de temps, (hum) tu sais bien que ce gamin peut nous dénoncer tous à n'importe quel moment. (h/) Il est accusé des crimes que nous avons tous commis, Caïcedo, et il est un lâche. Où est donc Nicolas, nom de Dieu ? (h/)
+
+LOPEZ 2	J'en sais rien, il s'occupe de ses affaires. (h) Je crois qu'on devrait d'abord lui parler avant de prendre une quelconque décision.
+
+GRANADOS	(hh) Je m'occupe de lui, (hh) tout ça peut mal terminer.
+
+(BOUCLE 44 - 00:35:08:01)
+		44
+
+NICOLAS	(mt) (tst) C'est l'heure de partir, Miguel, allons-y. Monsieur Réstrépo, merci encore pour ce procès que mon esclave a gagné. C'est un évènement sans précédents.
+
+FELIPE	(mts) Un évènement sans précédents, oui, si vous cessez d'asservir une personne qui est devenue très importante pour la communauté. Et pas seulement celle des noirs, mais aussi de certains blancs qui croient au progrès. (h) Regardez, Miguel est devenu un symbole, il a prouvé que les choses peuvent changer.
+
+(BOUCLE 45 - 00:35:41:02)
+		45
+
+NICOLAS	Tout ça est très joli, mais il s'agit d'une question économique, Maître. (mts)
+
+FELIPE	(mh)
+
+NICOLAS	Je suis sûr qu'étant un homme du monde instruit et cultivé, vous comprenez parfaitement. (h/) (hh/) En plus, Miguel peut être un homme important et un symbole pour tous les autres, tout en réalisant les taches qui lui reviennent. Bonne journée monsieur, on y va Miguel. (h/)
+
+MIGUEL	Pour moi ce n'est pas un échec, Felipe.
+
+FELIPE	(tst) Tu ne le vois pas comme ça ?
+
+MIGUEL	Je peux pas me le permettre, et vous non plus.
+
+FELIPE	(mts) Je reconnais qu'on a fait un grand pas, mais finir comme ça ?! (hh/) (hh\_)
+
+MIGUEL	Voyez ça comme un obstacle pour atteindre notre but, et on en a déjà vaincu pas mal, mon ami. (h)
+
+FELIPE	(mts) (mh)
+
+(BOUCLE 46 - 00:36:34:19)
+		46
+
+CATALINA	Nicolas vient de partir et il a pris Miguel à nouveau comme esclave.
+
+VICTORIA	Quoi ? Non, non, mais que s'est-il passé ? (h) Alors et lui, il n'a rien fait ? Il a accepté sans rien dire ?
+
+CATALINA	(h) (h) (h/) (mm) Il n'avait pas le choix, sinon obéir.
+
+VICTORIA	(hh\_) (hh) (hh\_) (hh)
+
+CATALINA	Rappelez-vous que c'est une victoire que Miguel ait prouvé qu'il n'est pas un assassin. Mais cela n'a rien à voir avec son statut d'esclave.
+
+VICTORIA	Miguel a fait ce que personne de sa race n'a jamais fait, Nicolas est une vraie raclure.
+
+CATALINA	Là on est d'accord toutes les deux, il a attendu la fin de tout le procès pour venir ici et réclamer ce qui soi-disant est à lui. (h/)
+
+VICTORIA	Comme si les personnes étaient des animaux de charge, c'est injuste, Miguel mérite la liberté, plus que jamais.
+
+CATALINA	Ce n'est pas une question de mérite, Victoria, c'est une question juridique. Un maitre ne va pas affranchir un esclave tant qu'il n'y est pas obligé, c'est une utopie d'y croire.
+
+VICTORIA	Oui, mais certains pays ont abolit l'esclavage, non ?
+
+(BOUCLE 47 - 00:37:28:16)
+		47
+
+CATALINA	Oui, d'autres pays, ici les choses avancent beaucoup moins vite. (h)
+
+VICTORIA	Et comment on avance ? En faisant un pas en avant et un autre en arrière ? Comme il vient de se passer ?
+
+CATALINA	Non. En changeant les lois mais il faut le faire correctement et avec du calme.
+
+VICTORIA	(h/) Ou alors d'un coup. Vous ne savez rien de nous parce que vous ne connaissez pas Miguel. Et vous ne savez pas d'où on vient. Mais il était libre.
+
+CATALINA	(h/) (h/)
+
+VICTORIA	Les collines, les montagnes, les rivières, la mer c'étaient nos terrains de jeux quand on était enfants. Rien ne nous appartenait, et on n'appartenait à personne. (h) Je n'avais pas un mari qui se croit mon propriétaire, ni un maitre qui m'exploite.
+
+CATALINA	(h) (h) (mh)
+
+VICTORIA	Parce qu'on ne vient pas au monde pour ça.
+
+CATALINA	Dans le monde tout est affaire d'argent, et tout lui tourne autour.
+
+VICTORIA	(mh\)
+
+(BOUCLE 48 - 00:38:16:18)
+		48
+
+FELIPE	De quoi est-ce que vous discutez ?
+
+CATALINA	On n'est pas en train de discuter, on a juste des points de vue différents sur la façon de voir les choses. (h/)
+
+FELIPE	(h) Ça peu importe. Parrenio a emmené Miguel.
+
+CATALINA	Ça je le sais déjà, j'ai tout entendu.
+
+FELIPE	Alors il faut qu'on bouge. Et vous, vous ne devriez pas être déjà à l'Eden ?
+
+VICTORIA	Oui, oui, oui, je dois y retourner avant l'arrivée de Nicolas, je devrais y être depuis longtemps.
+
+FELIPE	Tu les retiens et je l'emmène à cheval.
+
+CATALINA	D'accord je... je les retiens.
+
+(BOUCLE 49 - 00:38:43:04)
+		49
+
+GRANADOS	J'ai besoin d'une malle plus grande. (h) (h) Prépare tes affaires, il est probable qu'on voyage demain. (h) (h)
+
+ANA	De quoi tu parles ? Pourquoi ?
+
+GRANADOS	(huhh) Pose pas de questions, bordel. Mais pourquoi tu te plains toujours ? Prépare tes affaires, demain tu verras si on voyage ou pas.
+
+ANA	(ahh)
+
+GRANADOS	(h) (h) (h)
+
+ANA	(hhh) (mrhhh) (hh) (mh) (hh) (hh)
+
+(BOUCLE 50 - 00:39:12:19)
+		50
+
+NICOLAS	Tu as été brillant à l'audience, Miguel, t'as bien joué en mettant la pression sur Jaïme pour le faire parler.
+
+MIGUEL	Malheureusement je n'ai pas pu dire tout ce que je voulais.
+
+NICOLAS	Quoi d'autre ?
+
+MIGUEL	Tout sur la mort de Rosita et de Sabas et des autres affranchis.
+
+NICOLAS	(petit rire) Mais tout a été très clair, l'assassin c'est Jaïme Lopez. C'est grâce à toi qu'il a été forcé à l'admettre.
+
+MIGUEL	Mais il n'a pas agit seul, et ça aussi il l'a dit, il y a plein de gens impliqués. (h/) (mm) C'est pour ça que Felipe va mettre la pression pour ouvrir une enquête officielle pour démasquer ces criminels. Vous devriez nous aider à les dénoncer.
+
+NICOLAS	Attention Miguel, s'en prendre à Jaïme Lopez passe encore, mais oublie les propriétaires terriens. La plupart sont mes associés, on a des affaires en commun, ne l'oublie pas.
+
+(BOUCLE 51 - 00:40:09:11)
+		51
+
+CATALINA	Miguel, Miguel.
+
+NICOLAS	(oohh)
+
+MIGUEL	Qu'est-ce qu'y a Catalina ?
+
+CATALINA	Il faut que je vous dise qu'on va tout faire pour vous obtenir votre affranchissement. (hh/) (hh\_) Vos gens ont besoin de vous libre, vous n'êtes pas un homme de chaînes. (h\_) (h/) (h\)
+
+MIGUEL	Personne ne devrait en avoir, merci.
+
+CATALINA	(h) Mais tout ça n'est pas suffisant.
+
+MIGUEL	(hm) (hm) Je vous remercie encore.
+
+CATALINA	(h/) Oui, mais il faut faire changer la loi, c'est par là qu'il faut commencer. On va le faire.
+
+NICOLAS	(h\) (h/) Mademoiselle, vous avez fini votre discours abolitionniste ? Est-ce qu'on peut poursuivre notre route ?
+
+CATALINA	(mh)
+
+CATALINA/ MIGUEL	(baiser)
+
+Insert	(Générique de fin)

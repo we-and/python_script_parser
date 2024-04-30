@@ -1,0 +1,240 @@
+THOMAS VO TCI EP 467-H264
+22/11/2016
+
+(BOUCLE 1 - 10:00:32:03)
+		01
+
+Narrator	Sidney perd la mémoire.
+
+Narrator	S'il y a bien une locomotive serviable, c'est Sidney!
+
+Sidney	J'ai terminé! Tout est fait!
+
+Earl	Non hélas, Sidney! (h/) Ces wagons devaient être livrés à la Carrière!
+
+Narrator	Mais sa mémoire lui joue souvent des tours! Une fois, à l'atelier de réparation des diésels, Sidney est resté suspendu à un portique pendant longtemps!
+
+Percy	Sidney? Ca fait combien de temps ke tu es là-haut?
+
+Sidney	Euh... J'ai oublié!
+
+Norman	Ca fait au moins deux ans!
+
+Narrator	Percy l'ai aidé à trouver de nouvelles roues et depuis, les deux locomotives sont très proches!
+
+(BOUCLE 2 - 10:01:17:03)
+		02
+
+Man worker	Vas-y, monte!
+
+Narrator	Ce jour-là, Percy a eu un petit accident,
+
+Man worker	Doucement!
+
+Narrator	qui l'a fait dérailler au pied de la Colline de Gordon.
+
+Man worker	Continue!
+
+Sidney	Oh non! Tout va bien?
+
+Thomas	Percy a eu un petit accident!
+
+Man worker	Un peu sur la droite!
+
+Thomas	Un rail était cassé
+
+Percy	J'ai abimé mes roues!
+
+Thomas	et...
+
+Percy	Comme toi quand tu étais sur le portique! Tu t'en rappelles?
+
+Sidney	Euh... Pas vraiment!
+
+Thomas	On va devoir emmener Percy se faire réparer!
+
+Sidney	Oh! Je pourrais m'en charger!
+
+Thomas	(h)
+
+Sidney	Je n'ai rien à faire aujourd'hui!
+
+Thomas	Ahahaha! Bien sûr que si!
+
+Sidney	(h)
+
+Thomas	La Carrière de la montagne bleue attend sa livraison de wagons.
+
+Sidney	Les miens? Oh! Oui! J'ai du travail ahahahaha! Oh! Bonne journée! A plus tard!
+
+Percy	J'me trompe ou il roule dans le mauvais sens?
+
+Thomas	Hihi Je ne connais personne qui a aussi peu de mémoire! (rire)
+
+(BOUCLE 3 - 10:02:07:02)
+		03
+
+Narrator	Quelques jours plus tard, Sidney se retrouve à la gare des Quatre Vents.
+
+Fat control	Aaah! Sidney!Tu es occupé en ce moment?
+
+voix off	Veuillez vous écarter du bord des quais.
+
+Sidney	Qui? Moi?
+
+voix off	Les voyageurs doivent respecter les consignes de sécurité.
+
+Sidney	(hh) Euh, je ne crois pas non!
+
+Fat control	Bien! Alors dans ce cas, j'te confie une mission! Les nouvelles roues de Percy sont arrivées au Port!
+
+Sidney	Ohh! Euhm... Pourquoi a-t-il besoin de nouvelles roues?
+
+Fat control	Parce qu'il a eu un accident!
+
+Sidney	Oh! Percy a eu un accident? Oh le pauvre!
+
+Fat control	Elle est très spéciale, cette mission, Sidney! Je veux que tu ailles chercher les roues et que tu les livres à l'atelier!
+
+Sidney	Oh! Une mission spéciale? Oh ohoh comme c'est excitant, ça! Et je vais pouvoir aider mon ami Percy! (hh) Oh, comptez sur moi Monsieur!
+
+(BOUCLE 4 - 10:02:56:24)
+		04
+
+Sidney	Oh misère!
+
+Thomas	Quel est le problème Sidney?
+
+Sidney	Tu sais que je ne me rappelle jamais de rien! A chaque fois que l'on me confie une mission, j'me retrouve toujours au mauvais endroit! Et maintenant je dois aller chercher les roues de Percy et je n'ai pas envie de décevoir mon ami,tu comprends?
+
+Thomas	Parfois quand je dois me souvenir d'un truc important, (h/)j'invente une chanson pour m'aider à me rappeler!
+
+Annie	Les chansons, on a-dore, n'est-ce pas Clarabelle?
+
+Clarabel	On a- dore ça! (rire)
+
+Thomas	Je te donne un exemple d'accord? Ca donne: Ah ah ah, héhéhé! Il faut ke j'm'en aille travailler!
+
+(BOUCLE 5 - 10:03:33:09)
+		05
+
+A+C	Sur les quais, je dois charger une caisse que l'on m'a réservée! (rire_____)
+
+Sidney	Ohohoh, c'est génial! Merci Thomas! Fredonner cette astucieuse petite chanson, c'est la solution! (rire) Hahaha, héhéhé! Il faut ke j'm'en aille travailler! Sur les quais, je dois charger une caisse que l'on m'a réservée!
+
+Narrator	Maintenant qu'il a cette chanson pour l'aider, Sidney est sûr de ne pas oublier où il doit aller!
+
+Sidney	Ahahah, héhéhé! Il faut que je m'en aille travailler! Sur les quais, je...
+
+(BOUCLE 6 - 10:04:15:03)
+		06
+
+Sidney	Gordon! Gordon! Le gros contrôleur m'a confié, à moi,  une mission spéciale!
+
+Gordon!	Hah! J'ai eu plus de missions spéciales que tu as eu de chaudières dans toute ta vie!
+
+Sidney	(h) (hm) Qu'il est bête ce Gordon! Moi, j'suis un diésel! Je n'ai jamais eu de chaudière! (rire____) Ha ha ha, héhéhé, il faut que j'm'en aille travailler! (h/) sur les quais, je... euh... fais un truc important, mais j'me rappelle plus quoi!
+
+(BOUCLE 7 - 10:04:58:24)
+		07
+
+Narrator	Le fait de parler à Gordon lui a fait oublier sa chanson.
+
+Sidney	Je crois bien qu'il était question de chaudière! (h) Oh peut-être que je suis censé aller à la décharge de Whiff pour prendre une vieille chaudière! Oui! C'est forcément ça! Héhé! Héhé! Ha ha ha, hé hé hé  Il faut que j'm'en aille travailler, j'vais chez Whiff et j'roule en trombe pour prendre une (h) chaudière. Ou.. alors une pompe?
+
+(BOUCLE 8 - 10:05:37:11)
+		08
+
+Whiff	Salut Sidney! Qu'est-ce qui t'amène chez moi?
+
+Sidney	Euh... j'suis pas sûr! Mais je crois que je suis censé prendre une chaudière!
+
+Whiff	Une chaudière? Mais je n'ai pas de chaudière ici en stock en ce moment!
+
+Sidney	Oh non! J'ai complètement oublié c'k'on m'a demandé de faire!
+
+Whiff	C'est dommage que tu ne sois pas un éléphant Sidney!
+
+Sidney	Un éléphant? Oh! Et pourquoi Whiff?
+
+Whiff	On dit qu'un éléphant n'oublie jamais! (rire______)
+
+Sidney	Oh peut-être que ma mission a kelke chose à voir avec un éléphant! Oh oui! C'est ça! Je suis supposé transporter un éléphant!
+
+(BOUCLE 9 - 10:06:19:04)
+		09
+
+Sidney	(h) Ha ha ha, hé hé hé, il faut que j'm'en aille travailler, je dois aller avant ce soir, chercher un éléphant au zoo de Chicalor! (h/)Oh, zut! Ici, il n'y a pas d'éléphant! J'ai dû me tromper! Encore une fois! (h/) Oh je ne me rappelle jamais en quoi consiste mon travail! Je vais retourner à la gare et dire au gros contrôleur que je vais le décevoir!
+
+(BOUCLE 10 - 10:06:51:19)
+		10
+
+AMB	(brouhaha indistinct)
+
+Narrator	Mais aux Quatre Vents,certains passagers ont des problèmes plus sérieux!
+
+Man1	Oh non! Où ce train a-t-il disparu?
+
+voix off	Attention, un train entre en gare.
+
+Sidney	Quel est le problème?
+
+Man2	Notre train n'est pas là et on doit aller au Port de Brendham!
+
+Woman1	On part en croisière et on risque de rater le bateau!
+
+Sidney	Oh! Peut-être que c'est ça ma fameuse mission!
+
+Narrator	Ha ha ha, hé hé hé, ça y'est je m'en vais travailler, tous ces braves gens partent faire une croisière, et je les conduis à l'embarcadère!
+
+(BOUCLE 11 - 10:07:29:04)
+		11
+
+Fat control	Je n'arrive pas à le croire! Ca fait des heures que j'ai envoyé Sidney chercher ces roues! Mais enfin où est passé ce stupide petit diésel!
+
+Man3	C'est un merveilleux petit diésel que vous avez là!
+
+Woman1	Oui, il est vraiment utile et efficace!
+
+Fat control	Ah! Euh...
+
+Sidney	Mission accomplie vous voyez?
+
+Fat control	euh... Mais...
+
+Sidney	(h)
+
+Fat control	euh et pour les roues de Percy? (h)
+
+Sidney	Hein? Ke-ke-ke voulez-vous dire, Monsieur?
+
+Fat control	Ooooh! Je voulais que tu ailles livrer les nouvelles roues de Percy à l'atelier de Victor!
+
+Sidney	Oh! Ohhh (h)! Je vois! Vous allez me confier une autre mission spéciale! Oh! C'est vraiment trop d'honneur Chef!
+
+(BOUCLE 12 - 10:08:17:23)
+		12
+
+Sidney	Ha ha ha, hé hé hé, j'ai pas fini de travailler! Sur moi toujours on peut compter, et j'vais retrouver Percy ,on va s'amuser! (rire)
+
+Narrator	Le pauvre Percy attend désespérément ses nouvelles roues. Il a passé sa journée suspendu à un portique!
+
+Percy	Sidney? Où étais-tu passé?
+
+Sidney	Quoi? Oh! Eh bien euh,j'ai pris un éléphant à la décharge et... j'ai donné à Gordon une vieille chaudière,
+
+Percy	Un éléphant?
+
+Sidney	et...
+
+Percy	Une chaudière? Mais t'as pensé à oh! Mes roues!
+
+Sidney	Hein? Oh oui! Je te les ai apportées! Ha! Tu croyais ke j'allais les oublier, je suis sûr! (rire____)
+
+Percy	(rire___)
+
+Sidney	(rire____)
+
+Percy	(rire____)
+
+Sidney	Pourquoi on rit déjà?

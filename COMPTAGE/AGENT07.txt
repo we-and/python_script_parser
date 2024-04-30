@@ -1,0 +1,978 @@
+
+
+AGENT 07
+
+
+
+
+
+
+1 (10:00:00:00)
+
+OUT (10:00:44:14)
+
+INSER	Les frères Karamazov.
+
+
+2 (10:03:38:24)
+
+NATALIE	Tu sais qu'il y a une piste de golf flottante ici?
+
+BLAZE	(hm) Comment ça, flottante?
+
+NATALIE	Sur un bassin.
+
+BLAZE	Un bassin, tu dis?
+
+NATALIE	Oui.
+
+BLAZE	(h) Mais du coup... Si j'envoie la balle dans l'eau, les cadets doivent plonger pour la récupérer?
+
+NATALIE	(ah) Non, la balle se désagrège et nourriture pour poisson. C'est parfaitement écologique.
+
+BLAZE	Tu déconnes?
+
+NATALIE	Je suis sérieuse.
+
+BLAZE	Tu te fous de moi. Désolé.
+
+NATALIE	C'est incroyable.
+
+
+3 (10:04:14:07)
+
+BLAZE	Godi, c'est dimanche matin. Tu ne te reposes jamais?
+
+GODI	Tes problèmes me tiennent éveillée. Pas les miens.
+
+BLAZE	(h\\) Du coup, qu'est-ce que je peux faire pour toi?
+
+GODI	(h//) Poséidon m'a enfin envoyé le contrat pour Mila. Et bien sûr il faut qu'ils soient signés pour demain.
+
+BLAZE	(h) Ces maisons de production... (h//) Elles suivent leurs propres règles. Ils ont envoyé le contrat quand exactement?
+
+GODI	(pff) Vers onze heures un samedi soir.
+
+BLAZE	Et ils s'attendent à ce que tu... leur répondes avec les contrats signés pour lundi matin?
+
+GODI	Je dirais que c'est une technique de négociation. Ils proposent une sorte de... je ne sais pas, un tarif spécial, au lieu d'un paiement mensuel ou d'un forfait pour toute la durée du contrat.
+
+BLAZE	Mais le paiement te semble correct?
+
+GODI	Oui. (h//) Par contre son rôle est plus important que prévu.
+
+BLAZE	Demande plus d'argent. Ils ont les moyens.
+
+GODI	Dis donc... Tu t'attends à ce que je négocie ça moi-même?
+
+BLAZE	Oui, tiens-moi juste au courant.
+
+GODI	D'accord.
+
+BLAZE	Parfait. Merci.
+
+
+4 (10:05:13:20)
+
+GODI	Oh bon sang!
+
+OUT (10:05:15:09)
+
+
+5 (10:05:29:14)
+
+CHRISTOPHER	On dirait bien que... votre amie Mila... se fait arnaquer. Parle-moi d'elle.
+
+OUT (10:05:38:18)
+
+
+6 (10:05:47:00)
+
+CHRISTOPHER	C'est la nouvelle Scarlett Johanson?
+
+GODI	(h//) Je crois qu'elle sera la Theresa Russell de l'Afrique du Sud.
+
+CHRISTOPHER	Connaissant ton amour des femmes fatales, c'est un sacré compliment. Le seul problème... c'est que j'ignorais que nous nous étions diversifiés.
+
+OUT (10:06:09:07)
+
+
+7 (10:06:16:24)
+
+CHRISTOPHER	(h//) Bon, les mouchoirs blancs c'est pas mon truc, mais si c'était le cas, je l'aurai fait broder AMB. C'est les initiales de quoi? A ton avis? Actionnaire Majoritaire, Bordel de merde! Si on représentait des actrices...
+
+
+8 (10:06:36:10)
+
+CHRISTOPHER	J'aurai reçu un dossier sur le sujet, parce que tu t'en serais assuré, rien ne t'échappe après tout, non?
+
+GODI	C'est vrai.
+
+CHRISTOPHER	Mais... J'ai pas reçu ce dossier. Tu sais pourquoi? Parce qu'on ne représente pas les actrices. Alors je me demande... Depuis quand?
+
+GODI	Environ six semaines.
+
+CHRISTOPHER	(ahahah)
+
+GODI	Mais pour être honnête, c'est moi qui faisait tout le boulot.
+
+CHRISTOPHER	Merci.
+
+GODI	Merde.
+
+OUT (10:07:25:11)
+
+
+9 (10:07:31:18)
+
+LESEGO	Tu vas m'expliquer ce qui va pas? (oh) Tout doux. Si je voulais que tu fasses l'étoile de mer, j'aurai été en pêcher une! Ça m'aurait coûté moins cher. Quand même... Cette chambre, tout ça, c'est fait... pour le sexe. A quoi ça sert sinon?
+
+NINA	C'est ce qu'on faisait, non?
+
+LESEGO	Non, c'était pas du sexe. Je sais pas ce que c'était, mais c'était pas ça.
+
+NINA	Tu fais comme si je t'appartenais.
+
+LESEGO	(h\\) Non, non. Pas du tout.
+
+NINA	C'est pas comme si je valais rien. Si j'étais encore au pays, les hommes feraient la queue pour me faire la cour.
+
+LESEGO	Et je suis où là, Nina? Je suis dans ton lit, là?
+
+NINA	Pas vraiment. Ta tête est avec ces mannequins. Ces filles. Ces femmes mariées. Je suis au courant, tu sais? Pour la petite idiote que t'as serrée, quand on est sortis avec Hervé.
+
+
+10 (10:08:23:24)
+
+LESEGO	Hé! Tu te rappelles de ce qui t'arrange, mais tu fais comme si le reste existait pas.
+
+NINA	De quoi tu parles?
+
+LESEGO	Le premier soir qu'on a passé ensemble... Hein? Je t'ai dit quoi? Je t'ai pas dit que je voulais pas d'une relation sérieuse? Oui ou non?
+
+NINA	Mais après ça tu m'as dit que j'étais la bonne. Et pas qu'une fois au pieu. C'est soit l'un, soit l'autre, et si ça te plaît pas, tu peux retourner voir une de tes groupies.
+
+LESEGO	Bon sang, qu'est-ce que tu attends de moi? Hein? Oh, tu veux que je te passe la bague au doigt? C'est ça hein? Non attends, mieux, tu veux un bébé? (tss) Ou alors, euh... un château dans le centre de la France?
+
+NINA	Je veux que tu tiennes parole, Lesego. Si tu es libre, alors moi aussi.
+
+OUT (10:09:18:20)
+
+
+11 (10:09:21:16)
+
+NDT	(Patrice Français)
+
+PATRICE	Imaginez, dans un environnement, historique, Mais derrière ça, Il y a des émotions. Des secrets. Des histoires, riches, et compliquées. Il n'y a rien d'artificiel ici. Et dans ce contexte...
+
+LESEGO	Mec, qu'est-ce que tu racontes?
+
+ASSISTANT	Il vous demande d'être attentifs c'est tout.
+
+PATRICE	Il va nous poser des problèmes, celui là.
+
+ASSISTANT	S'il vous plaît, il faut que vous restiez immobiles et concentrés, d'accord?
+
+PATRICE	Ecoutez... On fait une pause, de cinq minutes.
+
+ASSISTANT	On reprend dans cinq minutes, tout le monde.
+
+
+12 (10:09:58:05)
+
+LESEGO	Dis-moi, t'as vu la nana devant toi?
+
+HERVÉ	Euh... Mec... Y a plus qu'une femme qui m'intéresse.
+
+LESEGO	Qui ça, Meshnie?
+
+HERVÉ	Oui.
+
+LESEGO	(ahahah) Mec... A partir de demain tu la reverras plus jamais.
+
+HERVÉ	Euh, mais c'est sérieux avec elle.
+
+LESEGO	Comment tu sais ça, tu lui as demandé?
+
+HERVÉ	Non. Mais elle voudra.
+
+LESEGO	Et si elle refuse?
+
+HERVÉ	Arrête, Je l'aime.
+
+LESEGO	(ahahah) Hervé. C'est pas de l'amour, ça. C'est l'alcool, et le nectar, entre ses cuisses qui parasite ton cerveau, c'est ce qu'elle veut que tu penses! A ton âge faut courir le gazon, gamin.
+
+HERVÉ	(mts) Je ferai jamais ça. Tu déconnes.
+
+
+13 (10:10:40:00)
+
+NINA	Tu vois?
+
+BLAZE	Et on ferait ça quand?
+
+NINA	Peut-être ce soir?
+
+BLAZE	C'est possible.
+
+OUT (10:10:47:00)
+
+
+14 (10:10:56:09)
+
+LESEGO	(ah) (hah!) C'est bon ça! (oh!) Chef! a Yo! (ah) Pan! Boum! Oh, attendez, j'ai une idée! Et, et si je faisais comme si je courais sur le sable comme... comme un guerrier zoulou! Chassant, un sanglier féroce. Hein? (ah) (h//) (ah) (ah) Vous en pensez quoi?
+
+PATRICE	Il me dit comment faire mon travail?
+
+ASSISTANT	Monsieur Moleko... Aucune suggestion, aucune question. Il nous faut ce cliché.
+
+LESEGO	J'essaie juste de rentre ça intéressant pour vous, c'est tout.
+
+NDT	(Patrice Français)
+
+PATRICE	J'ai refusé Pirelli pour un crétin pareil?
+
+LESEGO	Il dit quoi, là?
+
+ASSISTANT	Pourquoi t'acceptes pas les consignes comme tout le monde?
+
+
+15 (10:11:45:12)
+
+LESEGO	(ah) D'accord. Non, non, je peux. Pas de soucis. Ouais.
+
+BLAZE	Lesego, on doit parler.
+
+LESEGO	Ils sont sérieux, ces cons?
+
+OUT (10:11:53:16)
+
+
+16 (10:12:04:16)
+
+LESEGO	Il se prend pour qui?
+
+BLAZE	(h) Tu fais quoi?
+
+LESEGO	(h) Moi, ce que je fais?
+
+BLAZE	Ouais.
+
+LESEGO	Toi, qu'est-ce que tu fais?
+
+BLAZE	Je te sauve la mise. Comme d'habitude.
+
+LESEGO	Non, j'ai pas besoin de ton aide. Toi t'as besoin d'aide.
+
+BLAZE	Ecoute... S'il te plaît, Lesego, juste une fois, agis comme un pro.
+
+LESEGO	Ce mec est un poseur.
+
+BLAZE	Ce mec est le meilleur dans son domaine et c'est une chance qu'il soit là.
+
+LESEGO	Il a rien de spécial.
+
+BLAZE	Sois cool, tu veux? Retournes-y Sois sympa. Fais une photo, on passe à autre chose. D'accord? T'avais pas de questions quand je t'ai envoyé toutes les infos il y a quelques semaines.
+
+
+17 (10:12:41:20)
+
+LESEGO	Mais là je t'en ai posé une.
+
+BLAZE	Quoi?
+
+LESEGO	Qu'est-ce que tu fais? Elle est où ta copine? Je la vois pas dans le coin. Par contre je vois ma copine passer beaucoup de temps avec toi.
+
+BLAZE	Commence pas à te faire des films.
+
+LESEGO	Je veux bien, mais je sais pas si je me fais des films, j'ai vu ce que j'ai vu... et c'était assez parlant.
+
+BLAZE	Si ça va pas avec Nina, va lui en parler. J'ai rien à voir avec ça. (mts)
+
+LESEGO	(ahah)
+
+BLAZE	(ahah)
+
+LESEGO	Mais en même temps tu promets rien, pas vrai? C'est juste moi qui... Tu couches avec Nina? Tu couches avec Nina? Réponds-moi.
+
+BLAZE	T'as vraiment besoin de demander ça?
+
+LESEGO	Tu couches avec Nina?
+
+
+18 (10:13:31:13)
+
+JADE	Blaze! Blaze!
+
+BLAZE	Oui?
+
+JADE	Il faut qu'on parle. Genre tout de suite, s'il te plaît!
+
+OUT (10:13:39:19)
+
+
+19 (10:13:55:00)
+
+LESEGO	Allez, on la prend cette putain de photo!
+
+
+20 (10:13:59:16)
+
+BLAZE	Qu'est-ce qu'il y a de si urgent?
+
+JADE	J'ai juste inventé un truc.
+
+BLAZE	Pourquoi? T'as pas vu ce qui se passait?
+
+JADE	Si, c'est pour ça que je suis intervenue. Blaze, si j'avais rien dit, tu serais en train de de battre avec Lesego!
+
+BLAZE	J'avais la situation sous contrôle, Jade.
+
+JADE	T'as pas vu ce que moi je voyais. Tu vas finir par m'expliquer ce qui se passe entre vous deux? Si on parle de relations professionnelles... c'est un peu étrange la manière dont tu gères ça, tu le sais?
+
+BLAZE	Des fois, Lesego a tendance à oublier qu'il n'est qu'un client. Et se comporte comme un frère. Un frère jaloux, et particulièrement quand je-
+
+JADE	Quand tu quoi?
+
+BLAZE	Laisse tomber.
+
+JADE	Quand tu fais quoi, Blaze?
+
+OUT (10:14:37:13)
+
+
+21 (10:14:45:20)
+
+NDT	(Patrice Français)
+
+PATRICE	Okay tout le monde, malgré le fait qu'on partait pas gagnants... on a réussi à arriver au bout. C'est terminé!
+
+ASSISTANT	C'était pas si mal, quand même.
+
+
+22 (10:15:02:14)
+
+LESEGO	Hé, hé! Madame Blaze. Ça va, madame?
+
+NATALIE	C'est Natalie.
+
+LESEGO	J'espérais que tu viendrais à un moment.
+
+NATALIE	Et pourquoi donc?
+
+LESEGO	Pour que tu puisses dire à ton copain d'arrêter d'approcher ma copine.
+
+NATALIE	(mts) Je dirais que le problème c'est plus Nina que Slindile.
+
+LESEGO	(ahah) Slindile? Comme c'est mignon! (ahah) J'ai vu des choses que tu n'arriverais même pas à imaginer. Des choses que tu ne connais pas.
+
+NATALIE	Je crois bien en avoir vu des choses. Des choses qui te prendraient aux tripes. Sans se soucier de ta... bravoure de gangster d'opérette qui est pas aussi séduisante que tu imagines.
+
+
+23 (10:15:42:01)
+
+LESEGO	(ahah) Arrête. Je sais ce que les femmes aiment. Mais sinon t'as une raison pour me casser les couilles? C'est parce que t'es flic?
+
+NATALIE	Non, c'est parce que tu es un connard.
+
+LESEGO	J'en reviens pas que tu sois inspectrice.
+
+NATALIE	Pourquoi tu as autant de mal à le croire? Je fais du profilage psychologique. Et je commence à avoir une excellente idée de quel genre de personne tu es.
+
+LESEGO	Ah oui?
+
+NATALIE	Tu es clairement une personne à risque. Je vois des types comme toi tous les jours. Des coureurs de jupons, qui finissent par n'être rien d'autre que des sociopathes et des violeurs, dans des vêtements hors de prix.
+
+
+24 (10:16:23:12)
+
+BLAZE	Hé! J'ai raté quelque chose?
+
+NATALIE	(X)
+
+BLAZE	(X)
+
+NATALIE	J'expliquais juste à Dimitri quel genre de métier je fais pour gagner ma vie. Il était curieux.
+
+BLAZE	Bah... Si Lesego, s'inquiétait moins de nos affaires, et plus de sa copine, tout le monde passerait un meilleur moment.
+
+LESEGO	Quoi Dimitri, c'est qui Dimitri? Oublie pas pourquoi je te paye mon frère, c'est mon argent que tu dépenses. Et je te paye pour gérer ma merde, tu entends?
+
+NATALIE	Qu'est-ce qu'il a dit?
+
+BLAZE	Il doit aller aux toilettes. Il dit de la merde.
+
+NATALIE	(ahah)
+
+BLAZE	(ahah)
+
+
+25 (10:16:58:08)
+
+BLAZE	Alors, Port Louis c'était comment?
+
+NATALIE	En fait j'y suis pas allée. En fait, je suis restée dans la station balnéaire et... j'aime bien leurs cocktails. J'ai goûté à chacune de leurs sept passions. (ahahah)
+
+BLAZE	(ahah) Qu'est-ce que Lesego t'a demandé, exactement?
+
+NATALIE	(h\\) Rien d'important. Ecoute, je sais que c'est ton client... Mais tout ce que je vois chez lui c'est un homme haineux et rancunier qui s'amuse à nuire aux gens qui ont de l'affection pour lui. C'est juste mon opinion, d'accord? Mais je vois ce genre de profil tout le temps.
+
+BLAZE	Comme dans ton livre? Tu sais, celui où il se passe les mêmes événements que dans ma vie?
+
+NATALIE	Peut-être. (ahahah)
+
+
+26 (10:17:43:04)
+
+BLAZE	Quand tu connais quelqu'un depuis très longtemps, certains trucs chez l'autre personne te rendent complètement fou. Lesego a l'air convaincu que j'ai envie de séduire Nina, et c'est pas du tout le cas.
+
+NATALIE	Je sais, c'est ce qu'il m'a dit et je lui ai répondu que je ne le croyais pas.
+
+BLAZE	Mais bordel pourquoi il faut toujours qu'il entraine les autres dans ses problèmes?
+
+NATALIE	Donc j'avais raison. C'est Grushenka et Dimitri.
+
+BLAZE	Grushenka et Dimitri.
+
+NATALIE	Mais oui.
+
+BLAZE	T'as peut-être raison.
+
+NATALIE	(h)
+
+BLAZE	(h)
+
+
+27 (10:18:07:22)
+
+LESEGO	Bordel, Nina! Tu vas m'éborgner! Qu'est-ce qui te- Qu'est-ce qui te prends? Putain! T'es cinglée! Bordel! T'essayes de m'éborgner ou quoi?
+
+NINA	C'est vrai, t'as besoin de la paire, pour mater chaque paire de fesses qui passe!
+
+LESEGO	Par contre c'est pas grave si tu te colles à Blaze, hein?
+
+NINA	On est juste amis.
+
+LESEGO	Des amis qui baisent!
+
+NINA	On est juste amis.
+
+LESEGO	Je suis désolé chérie. J'aurais pas dû dire ça, c'était euh... (h) Enfin... Ecoute, tu es ridicule. Où tu... Enfin, (h) y a pas d'avion avant demain, chérie.
+
+NINA	Il doit bien y avoir une autre chambre de libre dans ce... foutu paradis.
+
+LESEGO	Non, espèce de cinglée. Nos sponsors ont loué tout l'hôtel. Faudra que t'ailles ailleurs.
+
+NINA	Parfait.
+
+
+28 (10:18:53:16)
+
+LESEGO	(h) Mais alors qui va payer la nouvelle chambre? Hein? Tu sais combien ça coûte une nuit ici?
+
+NDT	(Repiquer Français)
+
+NINA	J'irai voir les bobonnes, s'il le faut!
+
+LESEGO	Je crois que tu voulais dire les "nonnes", non? D'accord. (h//) Okay attends, attends. Prends ça, tu veux? Prends tout. Prends l'argent.
+
+NINA	J'ai pas besoin d'un distributeur.
+
+LESEGO	D'accord... Très bien! Va-t-en! (mts) Mais laisse mes clés ici.
+
+NINA	(h) Pourquoi tu voudrais que je garde les clés de ta pauvre chambre de merde?
+
+LESEGO	Non, je parle des clés de ma voiture hors de prix. et laisse aussi les clés de ma maison! Et aussi ces deux valises, avec les ceintures et les chaussures et toutes les fringues et parfums à la con que je t'ai acheté et que je paye encore!
+
+NINA	C'est à moi!
+
+LESEGO	Vas-y, barre-toi et surtout ne reviens jamais! Casse-toi!
+
+NINA	Elles sont là tes valises, t'as payé pour elles, et moi pour ça. Tu peux aller te faire foutre! Va te faire foutre!
+
+NDT	(Repiquer Français)
+
+OUT (10:20:03:16)
+
+
+29 (10:20:10:00)
+
+LESEGO	[fredonne] (hmhmhmhm) (hm) (hm) (ah) (ah) Fous le camp. Grognasse. J'ai ma thune!
+
+
+30 (10:20:25:17)
+
+NATALIE	Il a eu l'air honnêtement... surpris, d'apprendre que j'étais de la police. Pourquoi à ton avis?
+
+BLAZE	Qui ça?
+
+NATALIE	Lesego.
+
+BLAZE	Lesego imagine pas qu'une femme... puisse réussir dans la vie.
+
+OUT (10:20:46:08)
+
+
+31 (10:20:57:17)
+
+BLAZE	(mts) Christopher?
+
+CHRISTOPHER	Non, je suis David, une étoile montante du cinéma, j'ai entendu dire que vous représentiez aussi des artistes.
+
+BLAZE	Ecoute, on en a déjà parlé. Les temps sont durs, et je peux pas refuser du travail.
+
+CHRISTOPHER	Du travail dont tu t'occupes même pas, d'après Godi. On diversifie pas nos clients, c'est tout! A ce train-là on n'a qu'à représenter des, je sais pas, des DJs tant qu'on y est! Et des magiciens! Pourquoi pas des concepteurs de site internets? Et même si t'avais raison. Même si c'est une bonne idée. Tu aurais dû commencer par venir m'en parler.
+
+BLAZE	Cette actrice... (mts) C'est une amie de la famille. Donc c'est plus... une faveur, une faveur personnelle. C'est... des amis de ma mère, les Dior. Tu te souviens du problème avec Victor Schmeltz? Tu as dit d'essayer la guérison par la pensée. J'ai tenté le coup. J'ai pris ça sérieusement et ça a marché. On a signé Pascal grâce à ça. C'est à elle qu'on doit ce contrat. Allô?
+
+CHRISTOPHER	Laisse tomber cette actrice, Blaze. Aide-la autrement, mais on représente pas les acteurs. A moins que ta protégée soit une prodige on peut pas gagner d'argent en la représentant.
+
+BLAZE	D'accord.
+
+OUT (10:22:02:06)
+
+
+32 (10:22:09:07)
+
+NDT	(Repiquer Français)
+
+
+33 (10:24:20:18)
+
+PARTY GIRL 1	Bonsoir, ça va?
+
+PARTY GIRL 2	Bonsoir.
+
+NDT	(Repiquer Français)
+
+OUT (10:24:24:23)
+
+
+34 (10:24:38:20)
+
+BLAZE	Non mais sérieusement, je voudrais vraiment pas être ton équipier. (h//) J'ai toujours cru être compulsif, mais avec toi... (h) Je me sens un peu... comme un dyslexique léger.
+
+NATALIE	(ahah)
+
+BLAZE	(ahah)
+
+NATALIE	(h//) C'était un coup bas, ça.
+
+BLAZE	(hm) Les choses ont changé avec Lesego. (mts) Depuis longtemps. Je sais qu'il a des faiblesses. Des faiblesses pour... l'argent, les femmes, (mts) Et d'autres choses encore. (mts) Et il est égocentrique. (h) Mais n'oublie pas, (mts) je ne serais pas là sans cet idiot, alors... j'ai une dette envers lui.
+
+NATALIE	Oui, mais on finit toujours par payer nos dettes, non?
+
+
+35 (10:25:34:03)
+
+HERVÉ	(ahah)
+
+MESHNIE	J'en reviens toujours pas. Et toi, tu en penses quoi?
+
+HERVÉ	Que c'est le destin.
+
+MESHNIE	Mais ça ne fait aucun sens.
+
+HERVÉ	Les choses n'arrivent jamais comme on l'imagine.
+
+MESHNIE	Mais si des fois. Okay, attends. (h//) (h) Je dois t'avouer quelque chose.
+
+HERVÉ	(h\\) Quoi?
+
+MESHNIE	(mts) Je vais te sembler folle. (h//) (euhm) J'ai participé à beaucoup de séances photo dans ma vie. (h//)
+
+HERVÉ	(hm)
+
+MESHNIE	Et euhm, Celui-là est différent.
+
+
+36 (10:26:15:24)
+
+HERVÉ	Pourquoi?
+
+MESHNIE	(oh)
+
+HERVÉ	(h)
+
+MESHNIE	Tu vas me forcer à le dire, c'est ça?
+
+HERVÉ	Oui, dis-le.
+
+MESHNIE	(h) C'est grâce à toi.
+
+HERVÉ	(hm)
+
+MESHNIE	Oui, je... Je trouve que tu es exceptionnel. Et... Et que tu as un bel avenir devant toi. Et... (h) Je voudrais en faire partie.
+
+HERVÉ	(h) Waouh.
+
+MESHNIE	(ahah)
+
+HERVÉ	(h)
+
+MESHNIE	(h//) Quoi, c'est si dur à croire?
+
+HERVÉ	(ahah) (h) Je crois que je t'aime, Meshnie.
+
+OUT (10:27:03:01)
+
+
+37 (10:27:32:10)
+
+HERVÉ	Où on va?
+
+MESHNIE	Dans ta chambre?
+
+HERVÉ	D'accord. (ahahah)
+
+MESHNIE	(ahahah)
+
+
+38 (10:27:40:20)
+
+BLAZE	C'est comme dessiner une île et... Excuse-moi.
+
+LESEGO	Tu as parlé à Chris de ta petite copine? A ton avis... il le prendrait comment s'il apprenait que tu couches avec une fliquette?
+
+BLAZE	En quoi ça te regarde, déjà?
+
+LESEGO	Tu sais pourquoi! Tu le sais. C'est pour ça que t'as rien dit. Peut-être que je devrais le faire.
+
+BLAZE	Vas-y.
+
+LESEGO	Ouais.
+
+BLAZE	Tu comptes me faire chanter avec ça comme avec le reste?
+
+NATALIE	Pardon, mais...Est-ce que tout va bien?
+
+LESEGO	Tout va très bien ma toute belle.
+
+OUT (10:28:22:09)
+
+
+39 (10:28:28:11)
+
+LESEGO	D'accord. Je comprends, maintenant. Elle te tient par les couilles, je me trompe? Et t'aimes tellement ça, que tu vas bientôt vouloir l'épouser! Réveille-toi, elle t'a fait perdre la tête avec ce qu'elle a entre les jambes! Tu débloques! Réveille-toi! Elle t'aveugle. Touche-toi, c'est plus sûr.
+
+BLAZE	Ah ouais. Faut faire comme toi et Nina? Parce que tout le monde sait qui porte le pantalon dans votre couple! Tu sais que j'ai raison.
+
+LESEGO	C'est fini. Je lui ai dit: "Meuf!" C'est fini, Blaze. Je l'ai jetée. Nina c'est fini. Tu vois mec, j'ai tous les problèmes du monde, mais une morue en fait pas partie. Je peux me faire avoir par plein de trucs, les flics, l'alcool, les faux frères, mais jamais par une femme. Non, moi... je resterai... le numéro un.
+
+
+40 (10:29:14:01)
+
+BLAZE	D'accord. Ecoute, le numéro un. T'es prêt? Ça risque rien du tout. Elle ne sait rien sur nous.
+
+LESEGO	Tu en es sûr?
+
+BLAZE	Oui.
+
+LESEGO	Tu en es sûr?
+
+BLAZE	Oui.
+
+LESEGO	Bon d'accord. D'accord, d'accord, d'accord... Laisse-moi réfléchir une seconde, à ton avis... tu es sûr que c'est bien malin de te caser avec une flic, sérieusement? Je te demande, c'est tout. Réfléchis-y une minute.
+
+BLAZE	Non.
+
+LESEGO	Sérieusement. Tu l'as dit à Chris? Tu l'as dit à Chris? Je me disais aussi. Profite bien, mon frère.
+
+
+41 (10:29:56:03)
+
+NATALIE	De quoi vous parliez?
+
+BLAZE	Je lui ai passé un savon par rapport à son comportement. Je lui ai dit que c'était pas correct.
+
+NATALIE	Et qu'est-ce qu'il a répondu?
+
+BLAZE	Comme d'habitude. Il fuit ses responsabilités.
+
+NATALIE	J'aurai dit que vous parliez de complètement autre chose.
+
+BLAZE	Bon, il me faut un vrai verre.
+
+NATALIE	Je croyais que tu buvais pas au travail.
+
+BLAZE	C'est juste un verre.
+
+NATALIE	Slindile, si tu veux de l'alcool, hésite pas, fais-toi plaisir. Mais avant que tu commences, demande-toi si c'est à cause de lui.
+
+
+42 (10:30:36:24)
+
+NATALIE	Je dois aller au poste demain, pas d'alcool pour moi.
+
+BLAZE	On est sur l'île Maurice, et ensemble, pas vrai?
+
+NATALIE	Oui.
+
+BLAZE	On l'a mérité, non?
+
+NATALIE	Et je veux que tu en profites, si c'est ce qui te fait plaisir.
+
+BLAZE	Chef!
+
+OUT (10:31:03:12)
+
+
+43 (10:32:19:02)
+
+JADE	Allons dehors. Tu as besoin d'air frais. Blaze, qu'est-ce qui se passe?
+
+BLAZE	Ne t'inquiète pas. C'est une soirée. On a le droit de s'amuser.
+
+JADE	Oui, mais les représentants voient tout.
+
+BLAZE	Tant pis pour eux. S'ils veulent pas qu'on boive, pourquoi ils ont acheté des bières, hein?
+
+JADE	Tu fais quoi de Lesego et d'Hervé? T'es leur agent! Tu dois donner l'exemple.
+
+BLAZE	Tu veux mon opinion? Mêle-toi de tes putain d'affaires.
+
+JADE	Je suis géniale quand ça t'arrange, et quand c'est pas le cas...
+
+BLAZE	On si habitue. Non? Tu crois quoi? Tu vas en faire un article? Hein? Ça va faire les gros titres, Jade? C'est pas l'heure du journalisme. C'est pas ton journal. C'est la vraie vie. Et j'arrête pas de te répéter que j'ai la situation sous contrôle! Non? Et oui. Alors prends le pli, bordel.
+
+OUT (10:33:17:08)
+
+
+44 (10:33:53:13)
+
+LESEGO	(mts) (h) Natalie, Natalie, (h) Natalie. Comment dire... un des joueurs dans l'équipe, je peux pas donne de noms, mais il a rencontré sa meuf en ligne. Et maintenant ils sont fiancés. (mts) (ahah) Mais le plus drôle c'est que... sa meuf est l'exact opposé de tout ce qu'il est lui. Enfin... Mais, étrangement, ils se sont rencontrés, et depuis c'est le grand amour. (ahah) Maintenant que j'y pense, tiens... (h//) c'est... Bah, c'est comme toi et Blaze, en fait.
+
+
+45 (10:34:40:21)
+
+LESEGO	Sauf qu'en plus... connaissant tout ce que Blaze est... (mts) Sortir avec une flic? Sérieusement, sortir avec une flic c'est la pire idée au monde pour lui. Sans parler d'une inspectrice. Tu veux en apprendre plus? (mts) Viens avec moi.
+
+OUT (10:35:08:19)
+
+
+46 (10:35:19:02)
+
+LESEGO	(h\\)
+
+NATALIE	(mts) De quoi tu veux parler?
+
+LESEGO	De mon pote Blaze. (h\\)
+
+NATALIE	Pourquoi il devrait pas sortir avec une flic?
+
+LESEGO	(ahah) T'es, une petite maline, tu devineras.
+
+OUT (10:35:29:22)
+
+
+47 (10:36:05:19)
+
+BLAZE	Salut, mon pote, ça va?
+
+
+48 (10:36:09:03)
+
+NATALIE	Tu apprécies foutre le bordel partout ou tu vas?
+
+LESEGO	(ahahah)
+
+NATALIE	Absolument partout?
+
+LESEGO	(h//) Tu me désires toujours.
+
+NATALIE	(hah) C'était jamais le cas.
+
+LESEGO	Alors pourquoi tu m'as appelé après avoir quitté Blaze?
+
+OUT (10:36:21:00)
+
+
+49 (10:36:27:12)
+
+LESEGO	Hein?
+
+NATALIE	Tu ce que t'as à savoir,
+
+LESEGO	Oui?
+
+NATALIE	c'est que ça n'a aucun rapport avec toi.
+
+LESEGO	Mais bien sûr ma toute belle.
+
+NATALIE	(hah)
+
+LESEGO	C'est ça ton excuse?
+
+NATALIE	Sérieusement...
+
+LESEGO	(X)
+
+NATALIE	(h)
+
+BLAZE	T'es vraiment un pur salopard! Un pur salopard! Tu le sais, ça?
+
+LESEGO	C'est elle qui voulait!
+
+BLAZE	Espèce de sale enfoiré! (h)
+
+NATALIE	Les gars...
+
+LESEGO	(ah)
+
+BLAZE	Argh
+
+LESEGO	(ah)
+
+NATALIE	Arrêtez! Tous les deux, arrêtez ça! Arrêtez, c'est ridicule. Sérieux, vous allez arrêter, oui?
+
+LESEGO	Lâche-moi! (h)(h)(ah) (ah)
+
+OUT (10:37:12:01)
+
+
+50 (10:37:39:16)
+
+LESEGO	Hé, qu'est-ce qu'on fait là?
+
+GARDE	Vous avez de la visite.
+
+OUT (10:37:44:10)
+
+
+51 (10:38:01:19)
+
+CHRISTOPHER	Je sais ce que vous vous demandez. En deux mots: Jet privé. (h//) Bon, moi ce que je me demande... c'est "combien de gens sont au courant?" Voyons voir. D'accord? (h//) Un peu plus de deux millions. Plus de deux millions. En même pas un jour. Vous savez comment je suis au courant?
+
+BLAZE	(mts) Jade. Pourquoi elle ferait ça?
+
+CHRISTOPHER	Et alors? Tu crois que j'en aurais pas entendu parler sinon?
+
+BLAZE	Si, mais si elle avait rien-
+
+CHRISTOPHER	Je m'en fous de Jade.
+
+
+52 (10:38:40:23)
+
+CHRISTOPHER	Concentrons-nous sur les responsables de ce merdier. Sur vous deux, Deux gamins. Ce genre de mauvaise publicité est le pire qui pouvait nous arriver, espèce de boulets.
+
+LESEGO	C'est vrai mais euh... C'était une soirée. Il y avait de l'alcool. C'est des choses qui arrivent.
+
+CHRISTOPHER	(hah) Lesego, Les sponsors me disent qu'ils paieront pas pour ta présence. Mais c'est pas grave, "C'était une soirée." "C'est des choses qui arrivent." "Il y avait de l'alcool." Moleko, je veux que tu gardes à l'esprit la journée que tu viens de passer. Regarde bien autour de toi. A partir d'aujourd'hui, il n'y aura plus jamais rien de meilleur dans ta vie qu'une cellule au paradis.
+
+
+53 (10:39:23:02)
+
+CHRISTOPHER	Aujourd'hui c'est le début de la fin pour toi. Tu es fini. T'es foutu mon gars.
+
+OUT (10:39:29:10)
+
+
+54 (10:39:37:19)
+
+CHRISTOPHER	Vous savez, en venant ici, je me demandais, qu'est-ce qui est le pire dans cette situation? Peut-être que c'est... que les sponsors risquent de nous éviter comme la peste. Ou peut-être le pire c'est... que le club... nous demande de payer pour d'importants dégâts à leur établissement. Ou peut-être... que je vais être obliger de dépenser des sommes folles pour vous sortir tous les deux de prison? Ou alors c'est les dommages qu'a subi notre entreprise. Et ma réputation.
+
+
+55 (10:40:04:17)
+
+CHRISTOPHER	Et puis j'ai réalisé, alors qu'on se préparait à atterrir, que le pire c'est que... j'étais même pas déçu. (hm?) Je me demande... combien de fois encore je vais devoir vous sauver de vos propres conneries. Peut-être que la réponse c'est zéro. Peut-être que vous avez plus de continus.
+
+LESEGO	Moi je me demande... pourquoi l'un de nous trois couche avec une inspectrice. C'est pas moi.
+
+CHRISTOPHER	Racontez-moi ça.
+
+BLAZE	Ma vie professionnelle et ma vie privée n'ont rien à voir-
+
+CHRISTOPHER	Si c'était vrai...
+
+BLAZE	(h)
+
+CHRISTOPHER	on en serait pas là, putain!
+
+LESEGO	Et si ça n'avait rien-
+
+CHRISTOPHER	Ta gueule!
+
+
+56 (10:40:44:20)
+
+CHRISTOPHER	Ta vie privée. On dirait que t'as toujours pas compris comment ça marche. Y a plus de vie privée. Pas dans ce boulot. Pas dans cette vie tout court. Tu as abandonné ce droit il y a six ans. Alors, Blaze... bande de nazes... quand tu sortiras d'ici tu ne seras pas seulement un homme libre, tu seras aussi célibataire. Oh et pour finir. T'as plus à t'occuper de ce sac à merde. C'est cadeau.
+
+OUT (10:41:15:07)
+
+
+57 (10:41:44:05)
+
+JEAN-PIERRE	Tu as donné de toi, sur ce coup. J'apprécie ça. D'accord.
+
+MESHNIE	Merci.
+
+JEAN-PIERRE	Mais de rien.
+
+OUT (10:42:05:07)
+
+
+58 (10:42:34:16)
+
+BLAZE	Un problème?
+
+HERVÉ	J'ai que ça.
+
+BLAZE	C'est la nana?
+
+HERVÉ	(h//) Je veux une voiture. Une décapotable. Je veux une maison avec une piscine.
+
+BLAZE	Ça viendra, non?
+
+HERVÉ	Mais quand, Blaze? Combien de temps je vais devoir... squatter une chambre d'hôtel et prendre le taxi?
+
+BLAZE	Tu as commencé depuis quand? Deux mois?
+
+HERVÉ	Neuf semaines.
+
+BLAZE	Exactement. Et Rome ne s'est pas construite en un jour.
+
+HERVÉ	Tu trouves peut-être ça drôle... mais moi je viens de perdre l'amour de ma vie parce que je pouvais pas l'entretenir.
+
+BLAZE	Super! (h//) Si elle t'aime pour... seulement ces trucs alors... bon débarras. D'accord?
+
+OUT (10:43:13:18)
+
+
+59 (10:43:31:15)
+
+BLAZE	Je suppose que je t'ai fait rater ton premier jour au poste?
+
+NATALIE	En effet.
+
+BLAZE	Et c'est tout ce que tu m'avais demandé.
+
+NATALIE	Ne t'inquiète pas, j'ai appelé le poste et j'ai inventé un truc, mais je vais le payer demain.
+
+BLAZE	Natalie... Je suis désolé. J'aurais pas dû me battre et... (mts) Tu as fini ton livre? (h//) Ça s'est fini comme tu le pensais?
+
+NATALIE	Le jury déclare Dimitri innocent et Katerina soigne Ivan jusqu'à ce qu'il soit rétabli.
+
+
+60 (10:44:12:08)
+
+BLAZE	Donc je survis? Quand même... c'est une... bonne nouvelle, non?
+
+NATALIE	Pourquoi Lesego trouvait incroyable... le fait qu'on soit ensemble?
+
+BLAZE	Tu t'attends vraiment à ce que je puisse t'expliquer ce qui passe par la tête de ce cinglé? Hein? Natalie?
+
+NATALIE	Tu sais ce qui retourne le procès contre Dimitri? Ivan se lève et crie que c'est lui le coupable. Ça prend tout le monde par surprise et... il va être envoyé en prison... Jusqu'à ce que Katerina montre une lettre de Dimitri où il écrit qu'il veut tuer son père. Elle prouve l'innocence d'Ivan. Elle le sauve. Ce qui me fait dire... Que j'ai rien à voir avec Katerina.
+
+OUT (10:45:10:12)
+
+
+61 (10:45:41:19)
+
+LESEGO	Je suis content d'être revenu... et... Je suis impatient de retourner sur le terrain.
+
+JOURNALISTE	Qu'on dit vos sponsors?
+
+LESEGO	C'est compliqué, mais je reste confiant. Non, je ne suis pas inquiet.
+
+OUT (10:46:02:04)

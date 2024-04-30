@@ -1,0 +1,969 @@
+LA ESCLAVA BLANCA CAP5 25 FPS-H264
+16/08/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Ambiance	(bruit de fond travail champ / respis toute la boucle)
+
+Nicolas	Vous avez choisi les esclaves ?
+
+Morales	Oui, monsieur. (h___) Mais je n'ai pas pu tous les ramener, ils doivent être gardés en quarantaine.
+
+Nicolas	Ils viennent tous de l'Eden, ou il y en a de chez moi ?
+
+Morales	(h___) Vous voulez dire, s'il y en a un de ceux qui auraient réussi à s'enfuir, Don Nicolas ?
+
+Nicolas	Bien évidement ! Ou comment se seraient-ils retrouvés au Palenque ? Réfléchissez, Morales !
+
+Morales	Vous cherchez un esclave en particulier, Don Nicolas ?
+
+Nicolas	Non. Bien sûr que non. Et réveillez ceux-là un peu ! On dirait qu'ils dorment ! Aujourd'hui la production sera pauvre c'est sûr ! Ay ! Ah !
+
+Morales	Oui monsieur.
+
+Nicolas	Allez !
+
+Morales	Vous avez entendu, (mhh) (h) au travail les nègres ! Et vite qu'il faut rattraper le temps perdu ! Des bêtes, des animaux, voilà ce que vous êtes ! Travaillez plus vite que ça !
+
+(BOUCLE 2 - 00:01:54:21)
+		02
+
+Miguel Enfant	Maman ! Maman__ ! Maman__ !
+
+Thomas	Chut Miguel.
+
+Miguel Enfant	Maman__ ! Maman !! (h_)
+
+Thomas	Reste tranquille Miguel.
+
+Miguel Enfant	(h___) (hh) Maman...
+
+Thomas	Miguel s'il te plaît...
+
+Miguel Enfant	Maman... (pleure) (h___) (pleure) (gémit) (h) (gémit) (h____)
+
+(BOUCLE 3 - 00:03:59:06)
+		03
+
+Adela	Ce sont les nouveaux ? Tu as l'air d'être intéressé !
+
+Nicolas	Évidemment que je suis intéressé, mère. C'est de la marchandise de grande valeur.
+
+Morales	Oh !
+
+Nicolas	Morales !
+
+Morales	Oui monsieur ?
+
+Nicolas	Ils sont tous là ?
+
+Morales	(hh) Non monsieur. (h) Là nous n'avons que les hommes, j'amènerai les femmes plus tard.
+
+Nicolas	(hh)
+
+Adela	Tiens, prends un rafraîchissement.
+
+Morales	Trinidade !
+
+Trinidad	Monsieur ?
+
+Morales	Viens là, (h___) détache-les (hh) et emmène-les à la baraque.
+
+Trinidad	Il me faut deux hommes !
+
+(BOUCLE 4 - 00:04:53:06)
+		04
+
+Ambiance	(bruit de fond discussions toute la boucle)
+
+Trinidad	Et toi, le petit.
+
+Miguel Enfant	Ici c'est la lune pour moi.
+
+Trinidad	Qu'est-ce que t'as ? T'as jamais vu d'hacienda comme ça ?
+
+Miguel Enfant	Non. Je suis né libre derrière les remparts du Palenque. Je n'ai jamais été esclave ou vu une hacienda.
+
+Trinidad	Alors je vais t'expliquer comme ça fonctionne ici, pour que tu trouves ta place. C'est très simple. Les blancs demandent, et nous on obéit aux ordres.
+
+Miguel Enfant	Pourquoi ?
+
+Trinidad	C'est l'ordre des choses. Et de plus, les femmes dorment dans une baraque, et les hommes dans une autre. Et il faut bien te tenir petit, sinon... ils t'envoient à la mine, et ça c'est pratiquement être envoyé à la mort. Le reste tu apprendras sur le tas.
+
+Miguel Enfant	(mhh) Je veux voir ma mère.
+
+Trinidad	Oublie-la petit ! Ici il n'y a plus de familles, plus d'enfant, plus de parents ! Plus vite tu te mettras ça dans la tête, moins tu souffriras. Installe-toi là où il y a de la place.
+
+Miguel Enfant	(hh)
+
+(BOUCLE 5 - 00:06:20:00)
+		05
+
+Victoria Enfant	S'il vous plaît ! Messieurs-dames... (hh) (hh) (h__) (hh) (h___) Bonjour. (h__) (ehh) Savez-vous où se trouve... hum... (hh) Je ne me souviens plus du nom, un... un couvent ? Ah, merci. (hh)
+
+(BOUCLE 6 - 00:06:49:05)
+		06
+
+Victoria Enfant	(tousse) (h___) (fhh___) (hh_____) (fhh) (hh) (h)
+
+Sœur Alicia	Bonjour, comment puis-je t'aider ?
+
+Victoria Enfant	En fait... je suis envoyée par le père... Octavio.
+
+Sœur Alicia	Qui ? Tu es novice ?
+
+Victoria Enfant	(fhh___)
+
+Sœur Alicia	Le père Bocanegra t'a faite venir d'Amérique ? (h_) Bon, eh bien, entre. (h_) Tu es gelée, pauvre petite.
+
+(BOUCLE 7 - 00:07:58:00)
+		07
+
+Mère supérieure	Le Père Octavio écrit que tu as été élevée comme une sauvage. Que des esclaves t'ont enlevée quand tu étais bébé.
+
+Victoria Enfant	Personne ne m'a enlevée !
+
+Mère supérieure	Tais-toi ! Il dit aussi que tu es en danger en Amérique. (h___) Alors sauvageonne, tu as un nom ?
+
+Victoria Enfant	Oui, j'en ai deux. D'abord Victoria, et l'autre c'est mon nom secret, de quand ma maman Lorenza a invoqué les esprits de mes ancêtres.
+
+Mère supérieure	Il va falloir débarrasser la tête de cette petite de ces bêtises, et la laver ! Sœur Alicia, apportez des vêtements propres et préparez un bain.
+
+Sœur Alicia	Tout de suite ma mère.
+
+Mère supérieure	Ah, Dieu...
+
+(BOUCLE 8 - 00:08:31:21)
+		08
+
+Mère supérieure	Enlève ces haillons, je n'ai pas toute la journée !
+
+Victoria Enfant	(hh)
+
+Mère supérieure	Qu'est-ce ?
+
+Victoria Enfant	Mon talisman. Ma maman me l'a donné pendant un rituel, il m'est précieux.
+
+Mère supérieure	Silence ! (h__) Ici c'est une maison de Dieu, et tu vas y apprendre à te repentir de tes péchés et adorer le seul et unique véritable Dieu ! (mh__) C'en est fini de ses... hérésies !
+
+Victoria Enfant	(ahh) Mais vous me le prenez ?
+
+Mère supérieure	(hh)
+
+Victoria Enfant	Donnez-le moi, il est à moi !
+
+Mère supérieure	Et tu vas apprendre à te comporter comme une jeune fille civilisée,
+
+Victoria Enfant	Donnez le moi ! (hh)
+
+Mère supérieure	et pas comme un animal de montagne !
+
+Victoria Enfant	Rendez-le moi ! C'est à moi ! Lâchez-le !
+
+Mère supérieure	Je t'accepte ici... (h__) parce que le Père Octavio me l'a demandé !
+
+Victoria Enfant	Donnez !
+
+Mère supérieure	Mais tu vas devoir gagner ton pain et mériter ton lit !
+
+Victoria Enfant	Donnez-le moi, vieille dame !
+
+Mère supérieure	Si tu n'écoutes pas, je te mets dehors !
+
+Victoria Enfant	C'est à moi ! (hh) C'est à moi ! Rendez-le moi, c'est à moi !
+
+Sœur Alicia	Ma mère, ma mère, je m'en occupe, laissez-la moi, je vais la calmer.
+
+Mère supérieure	(hh____)
+
+Victoria Enfant	(h____)
+
+Sœur Alicia	Doucement, Victoria, calme-toi.
+
+Victoria Enfant	C'est à moi...
+
+Sœur Alicia	Oui je sais.
+
+Victoria Enfant	(hh)
+
+Sœur Alicia	Reste tranquille, reste tranquille Victoria.
+
+Victoria Enfant	(h___) (hh__) (hh) (réac) (hh) (hh) (h__) (hh)
+
+(BOUCLE 9 - 00:09:48:24)
+		09
+
+Sara	(tousse) (h) (tousse) (h___) Merci.
+
+Milagros	Nous devrions prévenir quelqu'un.
+
+Sara	Non ! (h___) Nous ne pouvons en parler à personne. (h__)
+
+Milagros	Et pourquoi ?
+
+Sara	(hh) Parce qu'ici nous ne pouvons pas montrer que nous sommes faibles, et encore moins malade ! (h__) Vous entendez ? Mettez vous ça dans la tête, les esclaves qui ne travaillent pas sont un problème. (mhh) Nous devenons pour eux de la marchandise endommagée. (h___) (hh____)
+
+Rosa enfant	Je ne suis pas une marchandise.
+
+Sara	(hh) Ah, Rosa, (h_) Rosita. (h)
+
+Morales	Bande de fainéantes... au travail maintenant ! On vous a déjà assigné vos tâches. Séparez-les. Celles qui ne sont pas marquées restent ici. Au travail nom de Dieu !
+
+(BOUCLE 10 - 00:11:04:02)
+		10
+
+Homme	Mettez-vous là, qu'on vous marque. Les petites d'abord !
+
+Adela	Isabélitta, que fais-tu debout sur cette chaise à regarder par la fenêtre ?
+
+Isabel Enfant	Grand-mère, je voulais seulement voir les...
+
+Adela	Tu sais que tu ne peux pas être exposée au soleil.
+
+Isabel Enfant	Pardon.
+
+Adela	Écoute, s'il t'arrivait de tomber et que tu te cassais un membre, ce serait une tragédie ! Ne me fais pas cette peur, s'il te plaît.
+
+Isabel Enfant	(mhh)
+
+(BOUCLE 11 - 00:11:46:13)
+		11
+
+Sara	(ahh) (ahh)
+
+Milagros	Sara, je vais t'aider.
+
+Sara	(douleur) Non, non Milàgrô, ça va.
+
+Milagros	Non, tu ne vas pas bien...
+
+Sara	Ça va ! Retourne à ton poste, c'est pour ton bien.
+
+Morales	Qu'est-ce qui se passe ? Vous vous cachez pour ne pas travailler ?
+
+Milagros	Non, non monsieur. C'est parce qu'elle se sent mal.
+
+Sara	Je vais bien. (hh)
+
+Morales	Un autre de tes tours, Sara ? (mhh) Personne... ne se moque de moi !
+
+Sara	Ah !
+
+Morales	Et toi restes ici ! Ou je te fouette aussi. Ta ruse ne marchera pas avec moi, sale négresse sournoise ! Tu vas... me res- pecter !
+
+Sara	Ah ! Ah ! Ah...
+
+Morales	Qu'est-ce que vous regardez ?
+
+Sara	(douleur)
+
+Morales	Au travail !
+
+Sara	Ah... (douleur) Ah ! Ah ! (hh) (h__) (ahh)
+
+(BOUCLE 12 - 00:13:13:01)
+		12
+
+Nicolas	Pourquoi attends-tu, forgeron ? Il n'y a pas de temps à perdre !
+
+Rosa enfant	Non, papa, le fais pas.
+
+Nicolas	Si tu ne peux pas le faire, (hh) je te remplacerais par un autre forgeron,
+
+Thomas	(h____)
+
+Nicolas	et toi je te vendrais !
+
+Thomas	(hh) Oui monsieur. (hh)
+
+Rosa enfant	(gémit) Non...
+
+Thomas	(h__) (hh) (h___) (hh__) Rosita. (h__) (hh) Ferme les yeux, (h__) d'accord ? (hh)
+
+Rosa enfant	Hm.
+
+Thomas	(h_) Pense à... (hh__) à la mangrove, (hh) (h__) à la rivière, (h__) aux petits oiseaux que tu aimes tant, (h___) d'accord ? (h___) (hh___) (h___) (mhh) (mhh___) (h___)
+
+Rosa enfant	(gémit___) S'il te plaît... non... papa fais pas ça... (cri__________)
+
+Thomas	(hh) (h___)
+
+(BOUCLE 13 - 00:14:45:06)
+		13
+
+Trinidad	Où tu crois aller ?
+
+Miguel Enfant	Je ne vais pas les laisser me marquer comme une vache.
+
+Trinidad	Ne fais pas l'idiot. (h_) Si tu t'échappes, ils te fouetteront à mort et te dépouilleront. Être marqué ça fait mal, c'est vrai, mais au moins ça ne dure pas.
+
+Miguel Enfant	Non, c'est pas à cause de la douleur.
+
+Trinidad	Peu importe ta raison, tu dois le faire. Parce que rester en vie est le seul moyen d'être libre un jour, c'est compris ? Si tu bouges, je te fouetterais moi-même.
+
+(BOUCLE 14 - 00:15:14:05)
+		14
+
+Isabel Enfant	(hh)
+
+Rosa enfant	(hh) (h__) (mh) (fhh)
+
+Isabel Enfant	Bonjour ! Qui es-tu ?
+
+Rosa enfant	(réac peur) Ne m'approche pas, créature bizarre ! Au secours !
+
+Isabel Enfant	Non, attends !
+
+Rosa enfant	À l'aide ! Ah !
+
+Isabel Enfant	Attends !
+
+Rosa enfant	Ah !
+
+Nicolas	Isabélitta ! Que fais-tu là ? Hein ?
+
+Isabel Enfant	Non... Non...
+
+Nicolas	Tu ne peux pas sortir de la maison ma chérie.
+
+Isabel Enfant	Mais je voulais seulement la voir.
+
+Nicolas	Je te l'ai dit des milliers de fois ! La discussion est close !
+
+Isabel Enfant	Je voulais la voir de plus près.
+
+Nicolas	Tu ne peux pas sortir !
+
+Isabel Enfant	Mais..! Pourquoi..! C'est pas juste !
+
+(BOUCLE 15 - 00:16:06:23)
+		15
+
+Nicolas	Tu ne peux pas sortir Isabel !
+
+Isabel Enfant	Mais..!
+
+Nicolas	Tu dois rester ici ma chérie, il faut que tu le comprennes ! Je te l'ai dit des milliers de fois.
+
+Adela	Que se passe-t-il ici ? C'est quoi ce remue-ménage ?
+
+Nicolas	Je ne sais pas comment je dois m'en sortir, si en plus de gérer les problèmes de l'Eden, (h_) je dois ramener ma fille qui était dehors !
+
+Adela	Tu es sortie ?
+
+Isabel Enfant	Oui et il ne m'est rien arrivé !
+
+Nicolas	Peut-être mais ça aurait pu ! Si je ne t'avais pas trouvé. Elle observait les esclaves qui attendaient d'être marqués.
+
+Adela	Mais que t'est-t-il passé par la tête Isabel ?
+
+Isabel Enfant	C'est qu'il y avait une fille très jolie dehors ! C'est une petite fille noire, et je la veux pour moi !
+
+Nicolas	(fhh)
+
+Adela	Quoi ?
+
+Isabel Enfant	Vous ne me laissez jamais rien avoir ! Je la veux ! Je la veux ! Je la veux pour moi !
+
+Nicolas	Mon amour, mon amour écoute-moi, tu as plein  de choses, regarde !
+
+Isabel Enfant	Tout ça ça m'ennuie, ça me plaît pas ! Et si je ne peux pas sortir, laisse-moi avoir cette fille pour qu'elle me tienne compagnie, je ne veux plus jamais jouer toute seule.
+
+Adela	(rire) (h__) Mais quelle idée absurde voyons !
+
+Nicolas	(h_) L'idée n'est pas mauvaise.
+
+Adela	Non pas mauvaise, c'est la pire des idées !
+
+Nicolas	Mais réfléchis, mère, (h_) elle est fille unique et va le rester. (h_) Elle n'a personne.
+
+Adela	Et moi, je fais partie des meubles ?
+
+Nicolas	Où étais-tu quand elle est partie faire un tour ? (hh)
+
+Adela	(mhh)
+
+Nicolas	Mon amour, tu auras ce que tu veux.
+
+Isabel Enfant	Merci mon petit papa chérie.
+
+Adela	Que se passe-t-il ?
+
+Hilaria	Excusez-moi madame. C'est que je dois... (h_) parler au maître, c'est urgent.
+
+Nicolas	Tu vois bien, il y a toujours des problèmes à régler. Tu pourrais t'occuper d'elle un instant ?
+
+(BOUCLE 16 - 00:17:36:19)
+		16
+
+Nicolas	Qu'y-a-t'il ? (mh____)
+
+Hilaria	Sara est de retour.
+
+Nicolas	Tu es certaine ?
+
+Hilaria	Oui monsieur, cette négresse a toujours la même attitude supérieure.
+
+(BOUCLE 17 - 00:18:02:04)
+		17
+
+Nicolas	Pourquoi tu ne m'as pas dit que Sara est ici ?
+
+Morales	Je ne pensais pas que c'était important.
+
+Nicolas	Je t'emploie pour que tu penses !?
+
+Morales	(hh) La vérité c'est que... (h) (hh) je voulais vous protéger de cette diablesse, Don Nicolas. (h___) Parce que quand j'ai vu ce qu'elle avait fait... (h__) et l'état dans lequel vous étiez quand elle vous a trahi...
+
+Nicolas	Sauf que tu n'es pas autorisé à prendre des décisions (h_) sans m'avoir consulté. C'est compris ?
+
+Morales	Oui monsieur. (h_) mais je vous supplie de me pardonner Don Nicolas, je l'ai fait pour vous...
+
+Nicolas	Reste dans les baraques le temps de retrouver tes esprits (h) et trouve un domestique de la maison qui puisse te remplacer dans les champs. Maintenant hors de ma vue ! Dehors_ ! (mhh)
+
+(BOUCLE 18 - 00:18:58:21)
+		18
+
+Sœur Alicia	Dans l'aile gauche dorment les filles de la haute société et dans l'aile droite, les orphelines.
+
+Victoria Enfant	(hh) Mais je ne suis pas orpheline.
+
+Sœur Alicia	Les filles recueillies. Dans l'aile droite se trouvent aussi les ateliers où tu serviras les étudiantes. Et si Dieu le veut tu auras le temps d'apprendre la couture et des notions de musique !
+
+Victoria Enfant	Ah mais ça ça ne me plaît pas. Moi j'aime plutôt courir, grimper, chasser et je sais tresser le roseau !
+
+Sœur Alicia	S'il te plaît, ne redis plus jamais ça à voix haute, d'accord ?
+
+Victoria Enfant	Mais pourquoi ?
+
+Sœur Alicia	Parce que la mère supérieure ne permet que des paroles qui vantent notre seigneur.
+
+Victoria Enfant	Mais quel seigneur ? J'entends tout le monde parler d'un seigneur, et moi je ne connais aucun seigneur !
+
+Sœur Alicia	(sourire) Tu vas le connaître. (h_) Bientôt, grâce aux prières et aux bonnes habitudes, tu vas changer. Mais s'il te plaît ne parle plus de rivières et de chasse, fais-moi confiance. Tu verras, tu vas te plaire ici. (h__) Regarde, là-bas ce sont les chœurs où nous répétons, et là c'est la chapelle, le réfectoire...
+
+(BOUCLE 19 - 00:19:51:18)
+		19
+
+Sœur Alicia	Et voici le dortoir. C'est ici que tu vas dormir. (h) Les filles, voici Victoria. Notre nouvelle camarade. Rémédios, viens s'il te plaît. (h__) Je te demande de l'aider à s'intégrer, parce qu'elle vient d'Amérique.
+
+Remedios Enfant	D'Amérique ?
+
+Sœur Alicia	Oui. (h__) Et elle est aussi sauvage que la terre d'où elle vient. (h_) Alors je te demande de lui montrer comment est la vie au couvent.
+
+Remedios Enfant	Oui Sœur Alicia, tout ce que vous voulez.
+
+Sœur Alicia	(sourire) Parfait. (h) Je vous laisse alors. (h_) Bonne nuit les filles.
+
+Remedios Enfant	Bonne nuit.
+
+Groupe filles	Bonne nuit.
+
+Sœur Alicia	Reposez-vous.
+
+Remedios Enfant	Viens. Alors tu vas dormir ici. (h_) Les filles, venez, Victoria va nous raconter comment est l'Amérique. Allez, ne sois pas timide. Raconte-nous comment c'est d'où tu viens !
+
+Victoria Enfant	Bon... là-bas tout est vert, et tout est magnifique, beaucoup plus beau qu'ici ! Ma famille a... la peau de couleur sombre, sombre comme la nuit ! Et ils ont de grands yeux, très noirs... Beaux.
+
+(BOUCLE 20 - 00:20:52:05)
+		20
+
+Nicolas	Sara.
+
+Sara	(h_) (h____) Don Nicolas ? (h___) Don Nicolas, ne me faites pas de mal. Regardez l'état dans lequel je suis. (h___) (tousse________) (tousse)
+
+Nicolas	Je ne pensais pas te revoir un jour.
+
+Sara	Moi non plus je ne le pensais pas. (h__) Mais la vie s'est chargée de nous contredire. (mhh_) (h___) (hh____) (h___) (hh___) (hh___) (h___) (h___)
+
+Nicolas	Je t'aimais.
+
+(BOUCLE 21 - 00:21:32:23)
+		21
+
+Nicolas	(hh___) Même si tu m'as trahi et que tu t'es servi de moi, (h__) je t'aimais ! (hh_) (h___)
+
+Sara	(mhh)
+
+Nicolas	Je t'aime, (h___) même si le temps a passé, j'ai continué de t'aimer. (hh)
+
+Sara	(hh___) Don Nicolas,
+
+Nicolas	(hh)
+
+Sara	(h__)
+
+Nicolas	(hh)
+
+Sara	Si vous m'aimez comme vous le dites,
+
+Nicolas	(hh)
+
+Sara	(h__)
+
+Nicolas	(mhh) (h___)
+
+Sara	j'ai besoin que vous me promettiez quelque chose. (hh)
+
+Nicolas	Tu te moques de moi ? (mhh)
+
+Sara	(h___)
+
+Nicolas	Tu m'as trompé, et maintenant tu me demandes une promesse ?
+
+Sara	(h__) (hh) Promettez-moi de vous occuper de mon fils. (hh) (hh)
+
+(BOUCLE 22 - 00:22:17:02)
+		22
+
+Nicolas	Tu as un fils ?
+
+Sara	Oui. (h__) Quand je me suis échappée j'attendais un bébé_. (hh) Et je sais que je vous ai blessé. (h_) Mais comprenez-moi, (h) je ne voulais pas que mon enfant naisse esclave. (h_) (hh) (h__) (hh) Je ne voulais pas qu'il soit traité comme un animal Don Nicolas. (h) Regardez-moi, je ne serai pas là pour m'occuper de lui. (pleure) (tousse________) (h__) Mais vous si. (h_) Vous vous serez là. (hh__) (h__)
+
+Nicolas	(mh___)
+
+Sara	Notre fils s'appelle Migue__l. Promettez-moi. (h_) Promettez- le moi. Par pitié. (h_) (ahh) (h_) Promettez-le moi. Promettez-moi... (h_) (hh) (h__) Ah... Ah... Ah... (pleure) (pleure)
+
+(BOUCLE 23 - 00:23:16:10)
+		23
+
+Nicolas	Trinidade.
+
+Trinidad	Monsieur.
+
+Nicolas	Tu connais un jeune parmi les nouveaux qui s'appelle Miguel ?
+
+Trinidad	Oui maître.
+
+Nicolas	Appelle-le.
+
+Trinidad	Miguel, viens ici, le maître te demande.
+
+(BOUCLE 24 - 00:23:55:00)
+		24
+
+Nicolas	Tu es le fils de Sara ?
+
+Miguel Enfant	Oui.
+
+Trinidad	"Oui, maître."
+
+Miguel Enfant	Oui maître.
+
+Nicolas	(mh____) Il faut que tu sois fort petit. Ta mère est morte.
+
+Miguel Enfant	Quoi ?
+
+Nicolas	Laissez-le la voir.
+
+Miguel Enfant	Non... (h__) Ce n'est pas vrai ! (h__) (pleure_____) (gémit)
+
+Thomas	Je suis désolé Miguel.
+
+Miguel Enfant	Non... Pourquoi ? (pleure) (h___)
+
+(BOUCLE 25 - 00:24:46:12)
+		25
+
+Mère supérieure	Comment ça se passe ici ?
+
+Remedios Enfant	Très bien, mère supérieure. Ce sol sera aussi brillant qu'un miroir en argent.
+
+Mère supérieure	Avec la permission du Seigneur.
+
+Remedios Enfant	Bien entendu, avec la permission du Seigneur.
+
+Mère supérieure	Victoria, ton côté est très sale. En plus d'être une sauvage, tu n'y vois rien !
+
+Remedios Enfant	Je vais l'aider ma mère.
+
+Mère supérieure	Rémédios, tu veux une pénitence pour parler quand tu n'y es pas invitée ou prendre le blâme d'une autre?
+
+Remedios Enfant	Non ma mère.
+
+Mère supérieure	Silence ! Continuez de travailler, après viendra l'heure de la prière et ensuite si vous avez le temps, tu iras en cuisine. Et toi, Victoria, en salle de couture. Nous verrons si tu peux nous être utile avec tes griffes.
+
+(BOUCLE 26 - 00:25:25:04)
+		26
+
+Remedios Enfant	(mhh___)
+
+Victoria Enfant	Ne porte plus le chapeau pour moi.
+
+Remedios Enfant	Oh ne t'inquiète pas, moi elles ne me puniraient pas autant que toi, c'est parce que j'ai le sens de l'assaisonnement et les sœurs sont très gourmandes. Mais Victoria, tu dois apprendre à ne pas contrarier la mère supérieure, tu ne veux pas la contrarier !
+
+Victoria Enfant	(h) Mais moi de toute façon je ne veux pas changer.
+
+Remedios Enfant	Dis donc qu'est-ce que tu es têtue ! Je veux t'aider, je suis ton amie, crois-moi.
+
+Victoria Enfant	Tu veux vraiment m'aider ?
+
+Remedios Enfant	Oui.
+
+Victoria Enfant	On pourrait se mettre en danger.
+
+Remedios Enfant	D'autant plus ! Tu peux pas savoir comme j'en ai marre d'autant m'ennuyer ! (rire___)
+
+Victoria Enfant	(rire_____)
+
+(BOUCLE 27 - 00:26:02:22)
+		27
+
+Nicolas	Tu te moques de moi ? (hh) Tu m'as trompé, et maintenant tu me demandes une promesse ?
+
+Sara	Promettez-moi de vous occuper de mon fils. Quand je me suis échappée j'attendais un bébé_. Et je sais que je vous ai blessé.
+
+Nicolas	(h____)
+
+Sara	(hh) Je ne voulais pas que mon enfant naisse esclave. (hh) (h__) Je ne voulais pas qu'il soit traité comme un animal Don Nicolas.
+
+(BOUCLE 28 - 00:26:47:10)
+		28
+
+Victoria Enfant	Vite, allons-y !
+
+Remedios Enfant	Cours !
+
+Victoria Enfant	Vite, dépêche-toi !
+
+Remedios Enfant	(hh) (siffle)
+
+Victoria Enfant	Qu'est-ce que tu fais ? Qu'est-ce qu'il y a ?
+
+Remedios Enfant	Le son que tu m'as appris, je me suis entraînée à le faire.
+
+Victoria Enfant	Je t'ai appris le chant du troupiale, ça ça ressemblait à un perroquet.
+
+Remedios Enfant	Pardon.
+
+Victoria Enfant	On a qu'à en inventer un autre !
+
+Remedios Enfant	(ouh ouh) (ouh ouh)
+
+Victoria Enfant	Oui, très bien, c'est parfait. Allez viens.
+
+Remedios Enfant	Cours Victoria, dépêche-toi !
+
+Victoria Enfant	Chu________t.
+
+(BOUCLE 29 - 00:28:54:00)
+		29
+
+Mère supérieure	Que fais-tu dans mes appartements ?
+
+Victoria Enfant	Je reprends ce que vous m'avez volé !
+
+Mère supérieure	Tu apprendras que rien ne nous appartient !
+
+(BOUCLE 30 - 00:29:06:03)
+		30
+
+Miguel Enfant	(pleure_________________________________________________________________________________________) (pleure___) (pleure___)
+
+Thomas	Je suis désolé, Miguel. Écoute-moi, il faut que tu sois fort
+
+Miguel Enfant	(mhh)
+
+Thomas	et courageux comme ta maman.
+
+Miguel Enfant	(hh) (pleure) (pleure) (pleure) Ma maman chérie... (h__) (h__) (h___) Je te jure que ça ne va pas en rester là. (hh__) (h__) (hh) Les sales monstres qui t'ont fait ça, ils vont payer ! (gémit) (h___) (pleure___) (gémit___)
+
+(BOUCLE 31 - 00:30:20:10)
+		31
+
+Victoria Enfant	(h____) (hh____) (sniff)
+
+(BOUCLE 32 - 00:31:05:22)
+		32
+
+Victoria Enfant	(pleure)
+
+Mère supérieure	La posture révèle si une jeune fille est bien élevée ou pas ! Et la broderie apprend l'art de la patience !
+
+Victoria Enfant	(mhh__)
+
+(BOUCLE 33 - 00:31:56:08)
+		33
+
+Victoria	J'ai terminé ma mère.
+
+Mère supérieure	C'est tout à fait ravissant. Excellent travail, Victoria !
+
+Victoria	Merci.
+
+(BOUCLE 34 - 00:32:16:21)
+		34
+
+Victoria	Qui sont ces hommes ?
+
+Remedios	Ce sont des dominicains.
+
+Victoria	Que font-ils ici ?
+
+Remedios	(h__) Ils viennent recruter des volontaires pour des missions en Amérique. (h) D'après eux ils doivent continuer la conquête spirituelle du continent ! (rire_) (h__) Je veux voir qui va se joindre à eux, parce qu'il faut être stupide pour aller sur ces terres éloignées dont ils t'ont tirée !
+
+Victoria	(h___) Moi je vais y aller !
+
+Remedios	De quoi ?
+
+Victoria	Mais oui, Rémé ! Je vais me porter volontaire, je vais pouvoir aller chercher ma famille ! C'est l'opportunité parfaite !
+
+Remedios	Ah c'est pas vrai...
+
+Victoria	Viens, allons-y !
+
+Remedios	Et en plus on va être en retard, cours !
+
+(BOUCLE 35 - 00:32:46:19)
+		35
+
+Sœur Alicia	La femme, dont les principales qualités sont : l'abnégation, la bienséance, la compassion, la perspicacité et la tendresse, doit faire preuve, et fera preuve, envers son mari, d'obéissance, de complaisance,
+
+(BOUCLE 36 - 00:33:11:01)
+		36
+
+Sœur Alicia	Victoria, ce n'est pas une bonne position pour la caligraphie. (h_) Je trouvais ça étrange que tu ne réagisses pa_s à la liste des vertus de la femme mariée ! Ah ! Qui est-ce ?
+
+Victoria	Miguel. Non, s'il vous plaît ! Non ! Non...
+
+Sœur Alicia	Je prends des risques pour toi Victoria ! Si tu n'apprends pas à bien écrire, nous ne passerons pas au latin, à la géographie... et à tout ce que j'enseigne aux jeunes filles mais que je ne devrais pas t'enseigner à toi. Alors si tu ne veux pas prêter attention Victoria, pourquoi prendre des risques ?
+
+Victoria	(h__) (hh__) (h__) Je vous remercie pour tout ce que vous faites pour moi, mais mon esprit n'est plus en Espagne.
+
+Sœur Alicia	Que dis-tu ?
+
+Victoria	(hh) Je veux partir avec les Dominicains.
+
+Sœur Alicia	Tu as encore cette idée absurde de retrouver ta famille noire ?
+
+Victoria	Ce n'est pas une idée absurde.
+
+Sœur Alicia	Mais dix ans ont passé ma fille, ne poursuis pas de rêves impossibles, (h_) écoute-moi, je ne veux pas que tu souffres plus.
+
+Victoria	Je ne souffre pas. Je les vois toutes les nuits, avant de m'endormir. Dans mes souvenirs.
+
+(BOUCLE 37 - 00:34:24:00)
+		37
+
+Victoria	Par exemple je vois ma petite sœur,
+
+Enfants	(rire_________)
+
+Rosa enfant	Attendez !
+
+Victoria	Rosita. Toujours agitée et la plus jolie, elle adorait jouer.
+
+Isabel	Alors ?
+
+Rosa	Oui oui !
+
+Victoria	Alors que ma sœur aînée... elle était gentille, elle était toute gentille. Mais aussi très forte, comme si rien ne pouvait la blesser. Je me souviens aussi de papa Thomà, (ahh) Je l'embrasserais si fort ! Je me souviens qu'il chantait, oui, (h__) il chantait mieux que les oiseaux de la sierra !
+
+(BOUCLE 38 - 00:35:18:15)
+		38
+
+Sœur Alicia	Et le jeune sur le dessin ?
+
+Victoria	Lui c'est Miguel. Il était mon meilleur ami, il est_ mon meilleur ami.
+
+Victoria Enfant	(rire_____)
+
+Victoria	La personne qui me connaît le mieux au monde.
+
+Miguel Enfant	Viens.
+
+Victoria	Et qui m'aime comme je suis, comme moi je l'aime.
+
+Miguel	Merci pour la soupe.
+
+Victoria	Je me souviens quand nous étions enfants, nous pensions que rien ne pouvait nous séparer.
+
+Miguel	C'est bon !
+
+Victoria	Je ne savais même pas qu'il existait d'autres continents.
+
+Sœur Alicia	(rire)
+
+Victoria	(rire__) Je ne connaissais que ma vie avec lui et ma famille, au Palenque. (mhh______)
+
+(BOUCLE 39 - 00:35:58:12)
+		39
+
+Thomas	Bien, Fuego.
+
+Miguel	Comment ça va Thomà ?
+
+Thomas	Bien.
+
+Miguel	Comment sont ces nouveaux fers ? Doucement Fuégo, je veux juste voir si tu vas bien.
+
+Thomas	Un peu plus et il ne se laissait pas ferrer, il n'a confiance qu'en toi.
+
+Miguel	Il sait que son maître s'occupe de lui et l'aime, Thomà.
+
+Morales	Qu'est-ce que tu dis Miguel ? Cette hacienda et tout ce qui s'y trouve appartient à Don Nicolas Parrénô ! Toi compris ! Que vas-tu faire ? Où tu vas ? Va nettoyer les étables, ce sont les ordres du patron !
+
+Miguel	Je vais à la hacienda du Capitaine Granad'osse. Va !
+
+Morales	Un jour tu perdras de ta superbe sous mes coups Miguel !
+
+(BOUCLE 40 - 00:36:48:13)
+		40
+
+Miguel	Allez Ambre, oui ma jument, comme ça ! C'est bien ! (rire) Allez, encore une fois, encore une fois ! (x)(x)(x) C'est bien. C'est ça ma belle, continue. Encore. (x)(x)(x) Allez ! Oui c'est ça. Très bien. Encore. C'est bien. Continue. Allez ma jument !
+
+Granados	(mange) C'est une façon curieuse de dompter une bête.
+
+Ana	Mais deux semaines lui ont suffi pour qu'Ambre lui accorde sa confiance.
+
+Granados	Il est bon dompteur c'est vrai.
+
+Miguel	C'est ça Ambre, encore !
+
+Granados	(mts) Au moins il n'est pas comme les brutes habituelles qui ne savent qu'effrayer les chevaux.
+
+Miguel	C'est ça. Encore ma belle. Allez ! Encore ! C'est ça. C'est bien.
+
+Ana	Tu veux bien l'inviter à boire un verre à l'intérieur ? Il a travaillé dur toute la journée.
+
+Granados	Comme tu veux. Dis à Paca de le servir, je dois partir.
+
+Miguel	Fatiguée hein ? C'est bien ma belle. C'est bien.
+
+(BOUCLE 41 - 00:37:46:17)
+		41
+
+Miguel	(h___) Merci.
+
+Ana	(h_____) Comment fais-tu ?
+
+Miguel	Faire quoi ?
+
+Ana	(h___) Personne n'avait réussi à dompter Ambre comme toi.
+
+Miguel	(rire______) (h__)
+
+Ana	Tu as une réputation de magicien dans toute la région !
+
+Miguel	C'est un domptage à l'indienne, je l'ai appris avec les indigènes.
+
+Ana	Et pourquoi tu ne me l'enseignes pas, moi qui aime apprendre ?
+
+Miguel	Pour commencer on regarde l'animal droit au fond des yeux.
+
+Ana	(h) D'accord, et ensuite ?
+
+Miguel	On lui met sa bride. Je mets l'animal dans un passage pour bétail et lui mets lentement la bride.
+
+Ana	Ça, ça ne me plaît pas.
+
+(BOUCLE 42 - 00:38:38:01)
+		42
+
+Miguel	Mais ensuite vient la désensibilisation.
+
+Ana	La désensibilisation ? Qu'est-ce que c'est ?
+
+Miguel	Je passe mes mains sur tout son corps pour lui faire perdre sa sensibilité naturelle.
+
+Ana	Et tu pourrais me l'enseigner ?
+
+Miguel	Je fais un peu comme ça.
+
+Ana	(h) Et l'étape suivante ?
+
+Miguel	L'acceptation. Je lui passe une corde autour du cou,
+
+Ana	Oh.
+
+Miguel	je lui fais faire des tours... en lui chantant dans l'oreille, comme ça :
+
+Ana	(mh___)
+
+Miguel	(fredonne_________________)
+
+Ana	(mh____)
+
+Miguel	(fredonne__________) (fredonne________) Et quand je sens que j'ai sa confiance, je lui demande de me laisser le monter. (fredonne_______)
+
+Ana	Et ensuite ?
+
+Miguel	Ce sera plus tard dona Ana, parce que je dois retourner à l'Eden.
+
+(BOUCLE 43 - 00:39:53:03)
+		43
+
+Trinidad	Ah, Miguel, l'homme qui n'a aucune honte !
+
+Ana	(fhh)
+
+Miguel	(rire__)
+
+Trinidad	(rire)
+
+Miguel	Celle qui n'a pas honte c'est elle, je ne suis pas marié, moi ! (rire_______) (h___)
+
+Trinidad	Ah, mon frère, je te jure.
+
+Miguel	Ah...
+
+Trinidad	Alors, t'as ramené quoi cette fois ?
+
+Miguel	Ah... De l'argent pur ! Et je crois que cette fois j'ai assez pour ma liberté. (rire_____)
+
+Trinidad	Bien.
+
+Miguel	(h___)
+
+Juan	Ah, Trinidad. Et ce qu'il y a de mieux, c'est qu'il l'a gagné en travaillant dur ! (rire_______)
+
+Miguel	(rire_____)
+
+Trinidad	Quoi ? Il l'a gagné en domptant les pouliches négligées par leurs époux !
+
+Miguel	(rire_)
+
+Juan	(rire____)
+
+Miguel	De quoi tu parles mon frère ?
+
+Juan	Bon, on sait qui va nous payer le rhum ce dimanche !
+
+Miguel	Ah, non Juan, non. Ça c'est pour payer ma manumission, pas pour aller faire la fête avec vous !
+
+Juan	Ah, non Miguel, tu vas pas te retrouver sans le sous en me payant un verre !
+
+Miguel	Non Juan.
+
+Juan	Le seul jour de repos que l'on a !
+
+Miguel	Hum hum.
+
+Juan	Tss.
+
+Trinidad	Ah, Miguel, frère
+
+Miguel	(mhh)
+
+Trinidad	je vais te dire une chose, (mts) je ne crois pas que Don Nicolas te laissera partir.
+
+Miguel	Pourquoi pas ?
+
+Trinidad	Ah, fais pas l'ignorant, tu es son esclave préféré. Et tu le sais.
+
+Miguel	Hum. C'est précisément pour ça que je vais parler avec lui. Allez Trinidad, mon frère, ne fais pas ton rabat-joie ! Parce que dimanche nous allons fêter ma liberté, parrainer par les dames de la haute société et leurs illustres et idiots époux !
+
+Juan	(rire___)
+
+Miguel	(rire________)
+
+Juan	Bien joué !
+
+Miguel	(rire___________) Viens Trinidad, fais pas ton trouble-fête ! (rire__________)
+
+Juan	(rire_____)
+
+Miguel	Tu aurais dû voir comment elle était mon frère ! (rire_______________)
+
+Juan	(rire_____)

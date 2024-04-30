@@ -1,0 +1,626 @@
+
+
+RE.ZERO 03
+
+
+
+
+
+
+1 (00:00:01:00)
+
+EMILIA	Ouf, je t'ai retrouvée. Tu ne m'échapperas plus.
+
+NATSUKI SUBARU	Qu'est-ce qu'elle fabrique ici ? Il fait encore jour. Quoi que ; elle n'est pas avec moi, ça lui a peut être permis d'arriver plus vite ici.
+
+FELT	C'est pas possible, tu laches jamais l'affaire, hein ? Va voir ailleurs si j'y suis !
+
+EMILIA	Tu m'excuseras, mais je ne peux pas me séparer de cette insigne. Si tu agis sagement, tu ne souffriras pas.
+
+NATSUKI SUBARU	(hm!)
+
+EMILIA	Je ne désire qu'une seule chose : qu'on me rende l'insigne. Il m'est très précieux.
+
+OUT (00:00:38:00)
+
+
+2 (00:01:51:00)
+
+ROM	Normalement, je ne recule jamais face à une simple magicienne, mais celle-là, elle est dangereuse.
+
+FELT	Qu'est-ce qui te prend, tout d'un coup ? Me dis pas que tu t'avoues déjà vaincu ?
+
+ROM	Jeune fille, tu es une elfe, pas vrai ?
+
+FELT	(oh?)
+
+EMILIA	Pas tout à fait. Si tu veux savoir, je ne suis qu'à moitié elfe.
+
+FELT	Une demi-elfe ?! Avec des cheveux argentés ? Tu es...
+
+EMILIA	Non, cette ressemblance est le fait du hasard. Les gens ont la manie de nous confondre.
+
+FELT	Hé mec, tu m'as bien menée en bateau, hein ?!
+
+NATSUKI SUBARU	Quoi ? Non, j'ai rien fait.
+
+FELT	Depuis le gros baratin que tu m'as fait sur l'insigne, j'étais convaincue que t'étais louche !
+
+EMILIA	Je ne comprends pas. J'étais certaine que vous étiez tous les deux ensembles. Tu es pressé que je parte, mais j'ai encore des questions à poser, et je suis loin d'être satisfaite.
+
+NATSUKI SUBARU	(oh) ! (oh?)
+
+
+3 (00:02:48:00)
+
+NATSUKI SUBARU	Elle est toujours aussi généreuse, quelle que soit la boucle. (hm)
+
+FELT	Qu'est ce qui te fais rire comme ça, sale type ?!
+
+NATSUKI SUBARU	Ça va, ça va, calme-toi Felt. C'est bon, rends-lui l'insigne. Et puis, Sate heu. Si tu veux éviter qu'on te le vole à nouveau, tu ferais mieux de déguerpir d'ici.
+
+FELT	Moi non plus, je suis pas satisfaite, mec ! Qui t'es, au juste ?
+
+NATSUKI SUBARU	! Pack ! Défense !
+
+EMILIA	(hh?!)
+
+PACK	Ben dites donc. On a eu chaud, c'est passé à un cheveu. Merci l'ami.
+
+NATSUKI SUBARU	Bien joué, Pack ! Heureusement que tu n'étais pas en train de roupiller. Merci à toi !
+
+ELSA	C'est un esprit ? Mais oui, c'est un esprit. (rire) Magnifique ! Je n'avais encore jamais éventré un esprit. Je m'en délecte déjà. (p'tit rire)
+
+
+4 (00:03:45:00)
+
+FELT	! Hé ! Qu'est-ce que ça veut dire ?!
+
+ELSA	Puisque tu as pris l'initiative de venir avec la propriétaire, notre marché ne tient plus, et je suis obligée de modifier mes plans. Je vais massacrer toutes les personnes ici présentes. Tout ça parce que tu as baclé ton travail. Tu as une grande bouche mais tu es incapable de remplir une mission. Tu es une digne représentante des quartiers pauvres.
+
+FELT	(contient sa colère) (oh?)
+
+NATSUKI SUBARU	Sale garce. Te fous pas d'elle ! Ça t'amuse de tourmenter une petite gamine qui vit toute seule ?! Sale sadique obsédée par les entrailles ! Felt fait de son mieux pour survivre dans ce monde de brut ! C'est pas parce que tes plans ont foiré que t'es obligée de piquer une crise de nerf ! Un peu de respect pour la vie, c'est trop te demander ?! T'ignores comme c'est douloureux d'être éventré ! Par contre, moi je sais ! !
+
+ELSA	Où veux tu en venir, mon cher ?
+
+
+5 (00:04:32:00)
+
+NATSUKI SUBARU	Figure toi que j'ai le sens de la justice chevillé à l'âme, et je ne peux m'empêcher de dénoncer les injustices de ce monde ! Et tu es particulièrement injuste ! Ne zappez surtout pas. Ça y est ! J'ai gagné assez de temps. À toi, Pack !
+
+PACK	Ton art de l'enfumage mériterait d'entrer dans la postérité. Je vais répondre à tes attentes ! Je ne m'étais pas encore présenté, jeune fille. Je m'appelle Pack. Retiens au moins ce nom, avant de mourir !
+
+ROM	Il a réussi ?!
+
+NATSUKI SUBARU	Ne vas pas nous porter la poisse !
+
+ELSA	J'ai bien fait de m'équiper.
+
+EMILIA	Ne sous-estime pas les invocateurs !
+
+
+6 (00:05:26:00)
+
+PACK	C'est rare de croiser une fille qui a l'habitude de se battre.
+
+ELSA	(huh!) Il y a une éternité qu'on ne m'avait plus qualifiée de jeune fille.
+
+PACK	C'est parce que j'ai l'impression que la plupart de mes adversaires sont des bébés. Ceci dit, t'es drôlement forte. Dis donc.
+
+ELSA	Je suis honorée d'être complimentée par un esprit.
+
+NATSUKI SUBARU	Je pense qu'à deux, ils ont une chance de gagner contre Elsa, à l'usure.
+
+ROM	L'issue du duel dépend de la durée de matérialisation de l'esprit.
+
+NATSUKI SUBARU	Zut ! Il est bientôt dix sept heures !
+
+ELSA	Tu ne vas pas nous quitter alors qu'on commence à peine à s'amuser.
+
+PACK	Et ouais, c'est ça, d'avoir la cote. Les filles te harcèlent tout le temps, il y a pas moyen de dormir. Et comme les nuits blanches sont mauvaises pour le poil, il est grand temps que nous abrégions.
+
+ELSA	(oh?!)
+
+PACK	Tu aurais dû comprendre que je ne les lançais pas au hasard.
+
+ELSA	Tu m'as bien eue, alors félicitations.
+
+PACK	Bonne nuit !
+
+OUT (00:06:24:15)
+
+
+7 (00:06:32:00)
+
+ELSA	(oh?) Magnifique. Dire que j' ai cru mourir. (p'tit rire)
+
+NATSUKI SUBARU	(oh?)
+
+FELT	(huh?)
+
+PACK	Les filles qui ont le courage de se mutiler ne m'inspirent rien de bon.
+
+EMILIA	Pack, tu peux continuer ?
+
+PACK	Désolé, j'ai trop sommeil. Je l'ai un peu sous-estimée. Mon mana est à sec.
+
+EMILIA	Je pense que j'arriverai à me débrouiller toute seule pour la suite. Repose-toi et merci.
+
+PACK	S'il t'arrive quelque chose, sache que je respecterai le contrat. Au besoin, invoque-moi, même si tu dois épuiser tout ton od.
+
+ELSA	Il nous laisse déjà ? C'est particulièrement regrettable.
+
+NATSUKI SUBARU	(hm) (tendu)
+
+
+8 (00:07:34:00)
+
+ROM	Vu comme c'est parti, je crois qu'on ne peut plus rester spectateurs, Felt.
+
+FELT	Nous sommes face à deux options : fuir ou se battre. Mais nous devons décider rapidement. Au fait, pour tout à l'heure, merci d'avoir pris ma défense.
+
+NATSUKI SUBARU	(oh?)
+
+FELT	Bon, je dis ça comme ça, hein ? (oh!) Et me traite plus jamais de gamine ! On dirait pas, mais j'ai quinze ans ! On doit pratiquement avoir le même âge !
+
+NATSUKI SUBARU	Non, je vais avoir dix huit ans cette année.
+
+FELT	Tu fais beaucoup plus jeune. On dirait un gamin. Fais un effort pour avoir l'air plus mûr.
+
+EMILIA	(hh!?) ! (oh?!) (ah!) ! (ah!) !
+
+ROM	À l'attaque !
+
+ELSA	Voyons, c'est très grossier d'interrompre une danse.
+
+ROM	Si tu veux danser, je vais t'envoyer valser loin d'ici ! (huh!) Allez, montre-moi comme tu danses !
+
+
+9 (00:08:36:00)
+
+ROM	(oh?) C'est quoi, ce bordel ? (ah!)
+
+ELSA	Regarde les prouesses que je peux faire grâce à ta force !
+
+FELT	C'est terminé !
+
+ROM	(hou!)
+
+FELT	Vieux Rom !
+
+ROM	(ouh)
+
+ELSA	Vilain garnement.
+
+FELT	(colère)
+
+ELSA	Sans réelle volonté ni habileté au combat, il aurait été plus judicieux de vous enfuir ou de vous cacher dans un coin de la pièce.
+
+NATSUKI SUBARU	Merde ! C'est mort ! On peut plus rien faire ! Peut être qu'il vaut mieux mourir pour revenir ? Non, je veux plus souffrir comme ça. Je veux pas mourir. Tant que je suis en vie, j'ai pas d'autre choix que de me battre !
+
+FELT	(gémit)
+
+NATSUKI SUBARU	Chaud devant ! !
+
+FELT	(hm)
+
+
+10 (00:09:39:00)
+
+ELSA	(hm?)
+
+NATSUKI SUBARU	Felt ! Tu n'as rien !
+
+FELT	Pourquoi tu m'as sauvée ?!
+
+NATSUKI SUBARU	Ne t'énerve pas et écoute-moi, Felt. Je vais essayer de gagner du temps en la distrayant, et toi, tu en profiteras pour t'enfuir le plus vite possible !
+
+FELT	Tu veux que je fuie, la queue entre les jambes, comme une grosse trouillarde ?!
+
+NATSUKI SUBARU	Exactement ! Tu vas fuir la queue entre les jambes ! T'as quinze ans, et moi, dix huit ! Tu es la moins agée et je ne vois pas pourquoi on devrait tous mourir ! Et comme tu es celle d'entre nous qui a le plus de chances de s'enfuir, il est normal que je te choisisse !
+
+FELT	Ne dis pas n'importe quoi ! Il y a quelques secondes, tu tremblais comme une feuille !
+
+NATSUKI SUBARU	C'est de l'histoire ancienne. C'est terminé, la tremblotte ! Maintenant, je suis prêt à me battre ! (ah!) Maintenant ! Felt ! Vas-t-en !
+
+FELT	! (hh!)
+
+ELSA	Ne rêvez pas trop.
+
+OUT (00:10:37:17)
+
+
+11 (00:10:40:00)
+
+NATSUKI SUBARU	Je suis trop fort ! Mais bon, ça fait quand même super mal aux pieds. (ouh!)
+
+FELT	(court) ! (hh!) (huh!)
+
+NATSUKI SUBARU	(huh!) ! Tu vois, finalement, elle s'est enfuie.
+
+ELSA	Effectivement, je suis un peu irritée ; chose rare.
+
+EMILIA	Ne m'oublie pas, veux-tu ?
+
+ELSA	Vous êtes tous adorables, mais ce petit jeu commence hélas à me lasser. Faites un effort, soyez plus rigolos.
+
+NATSUKI SUBARU	Excuse-moi, mais si tu as un super pouvoir caché en réserve, c'est le moment ou jamais de l'utiliser.
+
+EMILIA	Il me reste effectivement un atout. Le problème, c'est que je serais la seule survivante.
+
+NATSUKI SUBARU	Oh, bof. Ne te presse surtout pas pour l'utiliser, d'accord ?
+
+EMILIA	N'ai pas peur, je n'ai jamais eu l'intention de m'en servir. J'en ai pas besoin, vu que tu te donnes... toujours à fond.
+
+NATSUKI SUBARU	(oh?)
+
+OUT (00:11:35:00)
+
+
+12 (00:11:40:00)
+
+NATSUKI SUBARU	On va dire que j'ai rien vu. !
+
+EMILIA	(oh?)
+
+NATSUKI SUBARU	Allez, on oublie toute cette conversation ! Je me souviens enfin pourquoi je suis ici. Je vais tout donner contre cette enflure !
+
+EMILIA	(hh)
+
+NATSUKI SUBARU	T'auras pas à utiliser ton atout ! Je vais la pulvériser ! C'est l'heure du happy end ! (hm)
+
+ELSA	Tu débordes d'énergie. Excellent.
+
+NATSUKI SUBARU	Espèce de veuve noire !
+
+ELSA	Tu seras sans au doute le premier à succomber.
+
+NATSUKI SUBARU	(ah!) (huh!) (ah! ah!) (oh?) Merci pour le soutien !
+
+EMILIA	(hh)
+
+NATSUKI SUBARU	! ! Ça fait mal, bordel ! (grogne) Et ça, t'en dis quoi ?! Yah !
+
+ELSA	Je t'ai attrapé.
+
+NATSUKI SUBARU	!
+
+ELSA	(p'tit rire) !
+
+NATSUKI SUBARU	! (grogne)
+
+REINHARD	Ça suffit !
+
+EMILIA	(oh?)
+
+
+13 (00:12:42:00)
+
+NATSUKI SUBARU	!
+
+REINHARD	Ça s'est joué à un cheveu, mais me voilà. Tiens, tiens.
+
+ELSA	Ne serais-tu pas... ?
+
+REINHARD	Il est temps de baisser le rideau sur cette tragédie.
+
+OUT (00:13:05:05)
+
+
+14 (00:14:32:00)
+
+FELT	À l'aide ! (court) À l'aide ! Il n'y a personne pour me répondre ?! (court) Mais bon sang ! ! (hhh) Je vous en prie ! Pitié ! Au secours ! À l'aide ! ! (huh!?) (ah!) ! ?! (gémit)
+
+REINHARD	D'accord.
+
+FELT	(gémit)
+
+REINHARD	Je vais t'aider.
+
+NATSUKI SUBARU	C'est toi, Reinhard ? Cool.
+
+REINHARD	C'est bien moi, Subaru. Comme on se retrouve. Navré du retard. Cheveux et costume noirs, ainsi qu'une dague typique des pays nordiques. Caractéristiques amplement suffisantes pour deviner qui tu es. Tu es la chasseuse d'entrailles.
+
+NATSUKI SUBARU	Tu parles d'un surnom. Mais quelle horreur.
+
+
+15 (00:15:24:00)
+
+REINHARD	Son surnom est dû à sa façon particulièrement répugnante de tuer. Même à la capitale, on considère qu'elle est extrêmement dangereuse.
+
+ELSA	Reinhard, quel honneur. Je suis face au plus chevaleresque de tous les chevaliers, de la prestigieuse lignée des maîtres-épéistes. Vous êtes tous si remarquables.
+
+REINHARD	J'ai pas mal de questions à te poser. Je te conseille de te rendre.
+
+ELSA	Crois-tu vraiment qu'un prédateur affamé est capable de résister face à une proie dégoulinante de sang ?
+
+REINHARD	(p'tit rire) Subaru, éloigne-toi un peu. Mets-toi plutôt à côté de la personne qui est là-bas.
+
+NATSUKI SUBARU	Mais avec plaisir. N'oublie surtout pas que c'est un monstre, alors pas de quartier.
+
+REINHARD	Oh, ça tombe bien, je suis un spécialiste reconnu de la chasse aux monstres.
+
+ROM	(agonit) (agonit)
+
+NATSUKI SUBARU	C'est pas vrai, Rom est toujours vivant.
+
+EMILIA	Mais son état est préoccupant. Je dois tout de suite le soigner.
+
+
+16 (00:16:17:00)
+
+NATSUKI SUBARU	T'es sûre de vouloir faire ça ? Il est avec la voleuse qui t'a piqué l'insigne.
+
+EMILIA	C'est une excellente raison pour le soigner. Une fois guéri, je pourrais lui soutirer des informations. On ne ment pas à son sauveur. Crois-en mon expérience. En fait, je fais ça dans mon intérêt.
+
+NATSUKI SUBARU	(rire gêné)
+
+ELSA	(hm!)
+
+REINHARD	Je préférerais éviter d'utiliser la violence face à une femme.
+
+ELSA	C'est donc vrai... Que dis-je ? Ta force dépasse ta réputation. Impressionnant.
+
+REINHARD	Tu ne devrais pas tant t'en réjouir.
+
+ELSA	Qu'attends-tu pour utiliser ton épée ? Je suis si impatiente de goûter à son tranchant légendaire.
+
+REINHARD	Je ne la dégaine que lorsque c'est nécessaire. Pour l'instant, ma lame est dans son fourreau, et elle est très bien où elle est.
+
+ELSA	Je vois qu'on me sous-estime.
+
+REINHARD	Cette décision est surtout gênante pour moi. Si tu me le permets, je vais te combattre avec celle-ci.
+
+
+17 (00:17:16:00)
+
+REINHARD	Pas d'objection, j'espère ?
+
+ELSA	Aucune. Au contraire, c'est admirable. Allez, maintenant, distrais-moi. (huh!)
+
+REINHARD	Vu que tu as perdu ton arme, je te conseille de te rendre.
+
+NATSUKI SUBARU	Reinhard ! Elle a une deuxième arme !
+
+ELSA	Tu es très bien informé.
+
+NATSUKI SUBARU	J'en ai déjà fait l'expérience.
+
+ELSA	L'ennui, c'est que ces crocs ne sont pas mes seules armes. Maintenant que les choses sont claires, reprenons le combat.
+
+REINHARD	Nous en rediscuterons une fois que je t'aurais pris toutes tes armes.
+
+ELSA	Après mes crocs, je sortirais mes griffes. Après mes griffes, je sortirais mes os. Après mes os, je donnerais ma vie. C'est ainsi que je me bats.
+
+NATSUKI SUBARU	J'espère que Reinhard a gardé un atout dans sa manche.
+
+EMILIA	Le fait que je sois en train d'invoquer les esprits l'oblige à retenir ses coups.
+
+
+18 (00:18:12:00)
+
+NATSUKI SUBARU	Comment ça ? Quel est le rapport ?
+
+EMILIA	Si Reinhard se battait sérieusement, le mana environnant se détournerait de moi. J'aurai bientôt terminé les soins. Dès que je te fais signe, tu le préviens.
+
+NATSUKI SUBARU	(oh)
+
+EMILIA	J'ai terminé, tu peux y aller.
+
+NATSUKI SUBARU	Reinhard ! J'ai pas tout compris, mais tu peux y aller à fond !
+
+REINHARD	(hm)
+
+ELSA	On dirait que tu veux me montrer quelque chose.
+
+REINHARD	Il s'agit d'une technique de la famille Astrea.
+
+ELSA	Je suis la chasseuse d'entrailles, Elza Granhiert.
+
+REINHARD	Reinhard van Astrea, du clan des maîtres-épéistes.
+
+OUT (00:18:57:11)
+
+
+19 (00:19:17:00)
+
+NATSUKI SUBARU	(très secoué) (hou ?!) Tu dis que la chasse aux monstres est ta spécialité ?! Tu as pas pigé que t'étais toi-même un monstre !
+
+REINHARD	Tu sais Subaru, même pour moi, ce que tu viens de dire est très blessant. Je t'en ai trop demandé. Repose en paix.
+
+NATSUKI SUBARU	Y a pas de cadavres, même réduits en cendres. Et il a fait ça rien qu'en agitant son épée ?
+
+EMILIA	Est-ce que c'est terminé ?
+
+NATSUKI SUBARU	(oh?) Oui.
+
+EMILIA	(ah)
+
+NATSUKI SUBARU	Je crois que c'est fini, alors repose-toi.
+
+EMILIA	(oh?) Pourquoi me fixes-tu ainsi ? Tu sais que ça ne se fait pas, c'est très gênant.
+
+NATSUKI SUBARU	Excuse. Je me disais juste que t'avais toujours tes membres et ta tête.
+
+EMILIA	De toute évidence. Mais tu n'as pas à être aussi glauque.
+
+NATSUKI SUBARU	T'as raison. Tout va pour le mieux. Mes bras aussi sont toujours là. Je n'ai pas de couteau planté dans le dos, ni de trou béant dans le ventre.
+
+
+20 (00:20:20:00)
+
+EMILIA	Tu parles comme si toutes ces horreurs t'étaient déjà arrivées.
+
+NATSUKI SUBARU	Alors là, tu ne crois pas si bien dire. Au fait, Reinhard ! Je t'ai pas remercié. Je t'en dois encore une ! D'abord dans la ruelle, et puis ça. Tu as entendu mon coeur qui t'appelait à l'aide, mon ami ?!
+
+REINHARD	Je serais fier d'avoir été capable d'un tel prodige, mon cher ami. Je l'ai croisée alors qu'elle courait dans la rue, désespérée. Elle m'a demandé de l'aide et guidée jusqu'ici.
+
+EMILIA	Mais... c'est...
+
+NATSUKI SUBARU	T'emballe pas, du calme. Si elle n'avait pas appelé Reinhard, nous serions tous morts à l'heure qu'il est. Fais moi une petite faveur : renonce à la transformer en statue de glace.
+
+EMILIA	Je ne suis pas aussi violente que çà. Et d'abord, pourquoi te ferais-je une faveur ?
+
+REINHARD	Subaru !
+
+NATSUKI SUBARU	Attention, elle vise... toujours le ventre !
+
+ELSA	Il me cassera les pieds jusqu'au bout !
+
+REINHARD	Ça suffit, Elza !
+
+
+21 (00:21:24:00)
+
+ELSA	N'y compte pas. Je n'arrêterai pas avant d'avoir éventré chacun d'entre vous. D'ici là, je vous conseille de prendre grand soin de vos entrailles.
+
+REINHARD	Tout va bien ?
+
+EMILIA	Ce n'est pas à moi qu'il faut poser la question ! Mais à lui ! Est-ce que tu vas bien ? Tu es trop téméraire !
+
+NATSUKI SUBARU	(oh?) T'inquiète pas, c'était fastoche ! Bon, il nous en aura fallu, du temps, mais j'ai enfin l'occasion de me présenter. Je m'appelle Subaru Natsuki ! Et je viens tout juste de te sauver d'une lame meurtrière ! On est okay ?!
+
+EMILIA	Okay ?
+
+NATSUKI SUBARU	Ça veut dire " d'accord ". Okay !
+
+EMILIA	O... Okay.
+
+
+22 (00:22:08:00)
+
+NATSUKI SUBARU	Ma belle, figure-toi que je suis ton sauveur, et toi, tu es l'héroïne en détresse ! Je mérite bien une petit récompense qui zouke, non ?!
+
+EMILIA	Heu, oui, sans doute. J'ignore ce qu'est le zouk, mais si c'est dans les limites de mes possibilités.
+
+NATSUKI SUBARU	Dans ce cas, j'aurais une requête. Une seule ! Alors, voilà ce que je veux:
+
+EMILIA	(hm)
+
+NATSUKI SUBARU	J'ai envie de savoir comment tu t'appelles.
+
+EMILIA	(petit rire) Émilia.
+
+NATSUKI SUBARU	(ah?)
+
+EMILIA	Je m'appelle Émilia. Juste Émilia. Merci, Subaru. C'est grâce à toi que je suis en vie.
+
+NATSUKI SUBARU	(oh) Après toutes ces blessures, cet acharnement du destin, après toutes ces souffrances et ces combats mortels, ma récompense, c'est son nom et un sourire. (ah) Ben franchement, c'est cher payé.
+
+
+23 (00:23:14:00)
+
+REINHARD	Je suis très surpris de voir que tu n'es pas blessé, Subaru.
+
+NATSUKI SUBARU	J'ai eu le réflexe de me protéger avec ce truc. Sans ça, j'aurais été coupé en deux.
+
+REINHARD	Heureusement que cette masse a arrêté le coup. Tiens donc ?
+
+EMILIA	(oh?)
+
+NATSUKI SUBARU	Attends ?
+
+EMILIA	(oh)
+
+NATSUKI SUBARU	(oh?) Merde. Je devine la suite.
+
+EMILIA	(oh!) Subaru ! Subaru !
+
+NATSUKI SUBARU	(ah) Même quand elle est affolée, elle est trop mignonne. Ça, c'est un vrai monde de fantasy.
+
+EMILIA	Bien. J'ai fini de le soigner. Le plus dur est passé, il est sorti d'affaire.
+
+REINHARD	À propos, dame Émilia, quel genre de relation entretenez-vous avec Subaru ?
+
+
+24 (00:24:07:00)
+
+EMILIA	Je ne l'avais jamais croisé, je le connais à peine. Normalement, c'était censé être notre toute première rencontre.
+
+REINHARD	Ce qui est étrange, c'est qu'il était à votre recherche, pour vous remettre un objet.
+
+EMILIA	Oui, en effet, c'est très étrange.
+
+REINHARD	Qu'allons-nous bien pouvoir faire de lui ? Je pourrais l'accueillir dans ma résidence en tant qu'invité.
+
+EMILIA	(hm hm) Je vais l'emmener avec moi. Comme ça, j'aurais la possibilité d'en savoir plus. Et à part ça, qu'allez-vous faire de la fille et du vieillard ?
+
+REINHARD	Ma mission m'interdit de les laisser s'échapper. Cependant, puisque c'est mon jour de repos, c'est aussi leur jour de chance.
+
+EMILIA	(rire) Quel piètre chevalier.
+
+FELT	(oh?)
+
+EMILIA	Dis, ce vieil homme est-il un membre de ta famille ?
+
+
+25 (00:24:56:00)
+
+FELT	Pas vraiment, mais c'est tout comme. Pour moi, le vieux Rom est tout ce que j'ai comme famille. (hm) C'est un peu comme mon grand-père.
+
+EMILIA	Je comprends. Pour moi, Pack est ma seule famille. C'est vrai qu'il dort chaque fois que j'ai besoin de lui. Bien sûr, quand il se réveille, j'évite de le lui dire, pour ne pas le culpabiliser.
+
+FELT	Excuse-moi, mais j'étais convaincue que tu étais beaucoup plus sévère. Mais tu m'as sauvé la vie, et je veux surtout pas me montrer ingrate. Je vais te rendre l'insigne. Si il est si précieux que ça, cache-le mieux pour pas qu'on te le vole.
+
+EMILIA	C'est assez cocasse d'entendre ça de ta part.
+
+REINHARD	(oh?) (oh?)
+
+FELT	(oh?!) (force)
+
+EMILIA	Mais ?Reinhard ?
+
+FELT	Aïe ! Lâche-moi ! Tu me fais mal ! Hé !
+
+REINHARD	! C'est impossible ! Comment t'appelles-tu ?
+
+FELT	(oh?) Je m'appelle Felt. (douleur)
+
+REINHARD	Ton nom de famille ? Ton âge ? Quel âge as-tu ?
+
+
+26 (00:25:50:00)
+
+FELT	Pourquoi je devrais avoir un nom de famille ? J'en ai pas, voilà ! Quant à mon âge, je dois avoir autour de quinze ans. Je sais pas quand je suis née. Et lâche-moi, j'ai mal !
+
+REINHARD	Dame Émilia, il m'est impossible de respecter la promesse que je vous ai faite.
+
+FELT	(efforts)
+
+REINHARD	Je suis obligé de prendre cette fille avec moi.
+
+FELT	(efforts)
+
+EMILIA	Pour quelle raison ? Si c'est pour le vol de l'insigne, c'est inutile.
+
+FELT	(efforts)
+
+REINHARD	Certes, le vol de cet insigne est un grave délit.
+
+FELT	(efforts)
+
+REINHARD	Mais ce n'est rien comparé au péché que je commettrais
+
+FELT	(efforts)
+
+REINHARD	si j'ignorais ce que je vois. Je suis désolé mais tu vas devoir venir avec moi et tu ne peux pas refuser.
+
+FELT	Et puis quoi encore ? C'est pas parce que tu m'as aidée que... (hm)
+
+EMILIA	Ce comportement est indigne d'un chevalier.
+
+REINHARD	Rassurez-vous, elle n'a rien senti. Dame Émilia, je dois vous laisser mais je reprendrais contact avec vous. Je m'en remets à vous. Prenez soin de Subaru pour moi.
+
+EMILIA	(oh?)
+
+REINHARD	Profiter du calme d'un clair de lune ne nous sera peut-être bientôt plus possible.
+
+OUT (00:26:56:18)
+
+
+27 (00:27:00:00)
+
+INSERT	UNE VIE QUI COMMENCE DE ZÉRO DANS UN AUTRE MONDE
+
+OUT (00:27:06:08)

@@ -1,0 +1,1398 @@
+
+
+[ TITRE A RENSEIGNER ]
+
+
+
+
+
+
+1 (01:01:00:00)
+
+VOIX GPS	Empruntez la voie de gauche.
+
+FEMME DIGITALE	Les gens devraient s'intéresser à ce qui importe le plus. Quand nous pensons ainsi, nous pensons aux années à venir.
+
+VOIX GPS	Veuillez prendre la première à droite. Si vous omettez de mettre votre clignotant, vous pouvez être verbalisé. Vous êtes arrivé à destination.
+
+FEMME DIGITALE	Quand nous arrivons sur nos lieux de travail, nous réfléchissons à la création de différentes opportunités.
+
+HOMME DIGITAL	[pas de txt] Nous travaillons tous à l'amélioration de votre quotidien. En vous mettant par exemple à disposition les tous derniers modèles de robots de V.A Industries.
+
+FEMME DIGITALE	V.A Industries, une nouvelle façon de penser un monde plus grand.
+
+OUT (01:01:36:16)
+
+
+2 (01:01:59:00)
+
+JOURNALISTE	Les avancées en matière de technologie militaire ont été exponentielles. A présent V.A Industries nous a fait entrer dans une nouvelle ère...grâce à ses machines de combats sans pilote.
+
+JOURNALISTE 1	Le marché de l'armement représente maintenant... quatre-vingt pour cents de leur chiffre d'affaires. Des milliers de victimes civiles ont été imputées aux conséquences de la guerre mondiale. V.A Industries est clairement désigné comme responsable. Et que son président directeur général, Elias Van Dorne... est responsable.
+
+VOIX AUTOMATIQUE	V.A Industrie... vous présente ses dernières avancées technologiques. Bienvenue chez V.A Industrie... le leader mondial de l'humanité.
+
+HOMME DIGITAL	le leader mondial de l'humanité.
+
+OUT (01:02:56:19)
+
+
+3 (01:03:04:00)
+
+ELIAS	Ils ne réalisent pas tout ce que nous leur avons offert.
+
+DAMIEN	Ils disent que les guerres sont... de notre faute. Que nos avancées technologiques... sont trop nombreuses... et trop rapides. mh Ils n'étaient pas prêts pour ça!
+
+ELIAS	Les guerres vont disparaître.
+
+DAMIEN	Ils ne sont pas prêts pour Kronos.
+
+ELIAS	C'est le seul moyen.
+
+DAMIEN	Elias... Tu sais parfaitement ce que Kronos est capable de faire.
+
+ELIAS	Il est capable de sauver la terre de son auto-destruction.
+
+OUT (01:03:38:16)
+
+
+4 (01:03:48:00)
+
+ASSISTANTE	Il est activé, monsieur. Et il demande après vous.
+
+OUT (01:03:56:04)
+
+
+5 (01:04:11:00)
+
+KRONOS	Qui êtes vous?
+
+ELIAS	Je suis celui que tu cherchais. Je suis ton créateur. Je t'ai donné la vie. Dis-moi! Qu'est-ce que tu vois?
+
+KRONOS	Je vais vous le montrer. N'ayez pas peur!
+
+OUT (01:04:45:06)
+
+
+6 (01:05:15:10)
+
+ROBOT	Bienvenue à vous, Andrew Davies.
+
+TÉLÉ	Selon nos informations, une nouvelle exoplanète aurait été découverte. Les scientifiques estiment qu'elle et sans doute à ce jour la plus susceptible de pouvoir abriter la vie. Tout à l'heure, en direct sur notre chaîne, vous pourrez assister à la conférence de presse de V.A Industries que nous attendons avec impatience.
+
+MÈRE	Hum
+
+TÉLÉ	[pas de txt] Est-ce que Kronos va changer le monde?
+
+ANDREW	Bonjour, maman.
+
+MÈRE	Bonjour, mon coeur.
+
+ANDREW	Hey.
+
+TÉLÉ	Nous le découvrirons peut-être ce soir quand Elias Van Dorne, le célèbre PDG de V.A Industries s'exprimera sur le sujet.
+
+MÈRE	Ah C'est trop gentil. h Merci.
+
+TÉLÉ	En attendant beaucoup de scientifiques et de chercheurs s'interrogent, voire s'inquiètent, de l'utilisation qui peut être faite de cette technologie...
+
+ANDREW	hum
+
+OUT (01:05:51:12)
+
+
+7 (01:05:58:00)
+
+MÈRE	Elles sont magnifiques.
+
+ANDREW	Comment vas-tu?
+
+MÈRE	Ah Je vais bien. h h ah
+
+TÉLÉ	A suivre... le pédégé de V.A Industries, Elias Van Dorne doit normalement nous annoncer les détails de la mise en place de son projet tant attendu: Kronos. Peu de gens savent quelque chose à son sujet, mais d'après certaines sources, il s'agirait d'une innovation telle que le monde n'en a jamais connue. Il y a eu d'énormes mouvements de protestations un peu partout sur la planète en réaction à l'annonce de cette conférence de presse. Les théories les plus folles courent au sujet de Kronos et de ce qu'il pourrait réellement faire.
+
+ANDREW	Je dois y aller, m'man.
+
+MÈRE	[déçue] oh
+
+TÉLÉ	Le porte parole de V.A Industries a pourtant tenu a rassurer la population.
+
+MÈRE	D'accord. ah Ne travaille pas trop dur.
+
+ANDREW	D'accord.
+
+OUT (01:06:47:07)
+
+
+8 (01:07:03:00)
+
+NDT	[effet écho]
+
+ELIAS	Vous avez tous beaucoup perdu. Nous avons l'intention de vous le restituer. Je me tiens devant vous ce soir... pour vous présenter... la première et véritable intelligence artificielle. Kronos. "véritable intelligence artificielle." Kronos va bientôt résoudre tous les problèmes qui affligent l'humanité. "problèmes qui affligent l'humanité". Kronos représente... le renouvellement de la vie. "le renouvellement de la vie." "Kronos représente... le renouvellement de la vie". Sur cette planète... pour notre avenir. "pour notre avenir." Ce soir... cette nuit. nous entrons dans une nouvel âge.
+
+OUT (01:07:58:23)
+
+
+9 (01:08:18:00)
+
+KRONOS	Ici, Kronos. N'ayez pas peur. Notre monde qui était si beau autrefois est à présent infecté. Le changement est nécessaire quand la survie est en jeu. Celà marque peut-être la fin de vos existences... mais c'est aussi le commencement de quelque chose de plus grand. Vous ne faisiez qu'un autrefois avec le monde qui vous entourait. Aujourd'hui vous avez atteint le dernier stade de votre évolution en entrant dans ce nouvel âge. Vous avez créé et détruit pendant des siècles et des siècles jusqu'à atteindre finalement votre but ultime.
+
+OUT (01:09:07:00)
+
+
+10 (01:09:36:04)
+
+DAMIEN	Elias.... qu'est-ce que tu as fait?
+
+ELIAS	N'aie pas peur, mon frère. N'aie pas peur de ce que Kronos nous a donné.
+
+DAMIEN	Kronos... tu as activé son I.A.
+
+ELIAS	Oui.
+
+DAMIEN	Nous sommes en train d'exterminer l'espèce qui nous a créés.
+
+ELIAS	La race humaine est le cancer que nous devons à tout prix faire disparaître... du corps malade de la terre. Il n'y aura plus aucune violence... plus aucun désordre...rien que la paix.
+
+DAMIEN	[hurle] Ah
+
+OUT (01:10:33:22)
+
+
+11 (01:12:42:00)
+
+ELIAS	Il est réveillé.
+
+DAMIEN	Quelle est la cible à atteindre?
+
+ELIAS	L'une des dernières survivantes.
+
+
+12 (01:13:01:00)
+
+CALIA	Je n'étais pas née quand le monde a été détruit. Mais je connais quelqu'un qui l'était. Il s'appelait Andrew. Et il a absolument tout changé. Ceci est l'histoire de Kronos... et de la fin de toutes choses. Quand Kronos a été activé... ça ne lui a pris qu'un instant pour comprendre le monde. Il a tout de suite vu que le véritable fléau de notre planète: C'était nous. Huit milliards de personnes ont perdu la vie... en une seule nuit. Puisque mes ancêtres étaient considérés comme le mal qui gangrenait la terre. Le seul remède... était leur extinction.
+
+OUT (01:13:53:16)
+
+
+13 (01:13:56:00)
+
+CALIA	La poignée d'hommes et de femmes qui avaient échappé à la mort... et à présent leurs descendants... ont fait bien peu pour prouver que Kronos avait tort d'affirmer que la nature profonde de l'humanité... était mauvaise. Je savais que nous pouvions prétendre à mieux que cela. Qu'il devait y avoir d'autres hommes quelque part. D'autres survivants... qui étaient bons. Le défi consistait à les trouver. On raconte qu'il reste un dernier bastion dans le nord. Un îlot de résistance à l'abri des machines... où des survivants ont trouvé refuge. On l'appelle... Aurora. Là-bas, la bonté et la bienveillance peuvent s'épanouir. Cela ressemble à un rêve. Mais les rêves sont tout ce qui nous reste à présent.
+
+
+14 (01:14:47:00)
+
+DAMIEN	Bon, et les autres, alors?
+
+ELIAS	Ils ont été défaillants.
+
+DAMIEN	Mais qu'a-t-il de particulier celui-là?
+
+ELIAS	N'est-ce pas évident?
+
+DAMIEN	Son indépendance.
+
+ELIAS	Exact.
+
+DAMIEN	Tu as... réussi a créer une intelligence... avec un code capable d'évoluer. AX-9 est virtuellement indifférenciable d'un humain.
+
+ELIAS	D'autant plus qu'il va se persuader lui-même qu'il en est un. C'est une arme des plus redoutable. Il va se joindre à elle... et il nous conduira à Aurora.
+
+OUT (01:15:31:07)
+
+
+15 (01:17:15:10)
+
+CALIA	Couche-toi!
+
+OUT (01:17:17:08)
+
+
+16 (01:17:39:00)
+
+ANDREW	Hey, attends!
+
+OUT (01:17:41:04)
+
+
+17 (01:17:53:00)
+
+CALIA	C'était mon dernier explosif.
+
+ANDREW	Quoi?
+
+CALIA	Oh h Tu vas vers l'ouest et moi vers le nord. La dernière fois que j'en ai vu, c'était au sud-est. Bonne chance!
+
+ANDREW	L'ouest?
+
+OUT (01:18:25:03)
+
+
+18 (01:18:31:00)
+
+DAMIEN	Pourquoi les avoir attaqués?
+
+ELIAS	Pour qu'elle ait confiance en lui. Si elle lui fait confiance, eh bien... elle lui permettra de la suivre.
+
+OUT (01:18:40:21)
+
+
+19 (01:19:18:00)
+
+CALIA	Pourquoi tu me suis?
+
+ANDREW	Woah!
+
+CALIA	Je t'ai indiqué leur dernière position sans parler du fait que je t'ai sauvé la vie. h Je n'ai pas le temps de t'accorder une autre faveur. Maintenant dis-moi pourquoi tu me suis?
+
+ANDREW	Je sais pas trop.
+
+CALIA	D'où est-ce que tu viens? Tu étais avec quelqu'un? Comment t'es arrivé ici?
+
+ANDREW	J'ai marché.
+
+CALIA	Où sont-ils? h Où sont-ils postés? C'est quoi l'idée? Est-ce qu'ils sont en retard, un truc comme ça?
+
+ANDREW	h Non! Il n'y a personne d'autre.
+
+CALIA	Tu te fais passer pour un crétin afin que je t'aide et ensuite tes petits copains débarquent pour me braquer. h Ou pire encore.
+
+ANDREW	Quoi? h Je n'ai pas...
+
+CALIA	Reste à terre!
+
+ANDREW	h
+
+OUT (01:19:52:06)
+
+
+20 (01:19:57:10)
+
+CALIA	Où est-ce que tu as eu ça?
+
+ANDREW	Je... je l'ai trouvé.
+
+CALIA	Dis plutôt que tu l'as volé.
+
+ANDREW	Euh, non, non, je, je veux dire, on me l'a, on me l'a donné.
+
+CALIA	Eh bien, je n'ai rien à te donner.
+
+ANDREW	Hey, attends, écoute... h je, je n'ai nul endroit où aller.
+
+CALIA	Personne n'en a. D'accord, tu peux m'accompagner quelques jours mais seulement si tu arrives à suivre et si tu me donnes un coup de main.
+
+ANDREW	h Andrew.
+
+CALIA	Calia. Je te donne une chance mais je te conseille de ne rien faire de stupide. Tu as une arme sur toi?
+
+ANDREW	h Non.
+
+CALIA	Bien. Moi j'en ai une. Tâche de ne pas l'oublier. Je te le répète, ne tente rien de stupide!
+
+OUT (01:20:51:19)
+
+
+21 (01:20:57:10)
+
+CALIA	Pour Kronos, nous étions une maladie qu'on ne pouvait laisser se répandre. Rien ne pouvait ébranler sa volonté de nous éradiquer des quatre coins de l'univers. Il était prêt à utiliser tous les moyens possibles.
+
+OUT (01:21:13:06)
+
+
+22 (01:21:47:10)
+
+CALIA	On dirait que tu n'as rien mangé depuis des jours.
+
+ANDREW	Oh, je te remercie. Mais ça va.
+
+CALIA	Je sais que c'est déprimant. Mais je ne crois pas que nous en croiserons encore beaucoup en allant vers le nord.
+
+ANDREW	Où sont passés tous les gens?
+
+CALIA	Ils sont tous partis.
+
+ANDREW	Combien il en reste à ton avis?
+
+CALIA	Ici? Pas des masses. Je parie qu'ils sont des tas à Aurora.
+
+ANDREW	Aurora?
+
+CALIA	Oui. Moi aussi, j'y crois.
+
+OUT (01:22:36:21)
+
+
+23 (01:22:41:00)
+
+CALIA	C'est génial de penser qu'il y a encore de l'espoir. Qu'il y a une ville au nord où les gens sont en sécurité à l'abri des robots. Tu vois? C'est là que je vais. Et toi, alors?
+
+ANDREW	Moi aussi.
+
+CALIA	Bon, dans ce cas... h Si tu voyages avec moi, tu as intérêt à manger. J'avance très vite et je n'ai pas envie que tu me ralentisses.
+
+ANDREW	Oh, je, je, je ne te ralentirai pas.
+
+CALIA	h Alors essaye au moins de dormir un peu. Nous avons une longue journée demain.
+
+OUT (01:23:32:05)
+
+
+24 (01:24:38:00)
+
+CALIA	Hey! Hey, réveille-toi, Il faut que tu voies ça.
+
+OUT (01:24:51:19)
+
+
+25 (01:25:08:00)
+
+CALIA	T'en avais déjà vu auparavant?
+
+ANDREW	Pas comme ça.
+
+CALIA	On dirait que c'est un signe. Qui nous fait savoir qu'Aurora est bien réelle et... que nous sommes dans la bonne direction.
+
+ANDREW	C'est magnifique.
+
+CALIA	Je sais.
+
+OUT (01:25:34:05)
+
+
+26 (01:25:47:10)
+
+DAMIEN	Nous avons pratiquement détruit toutes leurs places fortes.
+
+ELIAS	Oui presque toutes excepté Aurora.
+
+DAMIEN	Es-tu sûr qu'Aurora représente une si grande menace? Tous les humains que nous avons interrogé pensaient au mieux que ce n'était qu'une légende.
+
+ELIAS	[amu] hum
+
+OUT (01:26:03:21)
+
+
+27 (01:26:37:00)
+
+CALIA	[chante/garder VO]
+
+
+28 (01:27:07:00)
+
+CALIA	Tu me manques.
+
+ANDREW	Salut.
+
+CALIA	[peur] h Salut! On ferait bien de se mettre en route.
+
+OUT (01:27:20:00)
+
+
+29 (01:27:46:10)
+
+ANDREW	Attends!
+
+CALIA	Andrew? Qu'est-ce que tu fais?
+
+ANDREW	Je voulais juste euh... essayer de... euh... j'adore les... trains.
+
+CALIA	D'a-ccord. Dommage qu'il n'y en ait plus depuis une soixantaine d'années, hein?
+
+ANDREW	Hey, attends! Qu'est-ce... qu'est-ce que tu as dit?
+
+CALIA	Allez! C'est quoi ton problème? On y va.
+
+OUT (01:28:35:06)
+
+
+30 (01:28:49:20)
+
+ANDREW	Pourquoi on s'arrête?
+
+CALIA	Il doit y avoir un pont quelque part.
+
+ANDREW	On doit pouvoir traverser ici. Je veux dire... ça n'a pas l'air trop risqué.
+
+CALIA	Non, on peut trouver un passage.
+
+ANDREW	Qu'est-ce que c'est?
+
+CALIA	Voilà ce qui arrive quand il reste personne pour enterrer les cadavres.
+
+OUT (01:29:15:01)
+
+
+31 (01:29:48:00)
+
+CALIA	Les nuits étaient plus dures. Trouver un abri sûr était difficile. Les machines, elles, ne dormaient pas.
+
+OUT (01:29:56:12)
+
+
+32 (01:30:15:00)
+
+ELIAS	C'est très bien.
+
+OUT (01:30:16:20)
+
+
+33 (01:30:49:10)
+
+CALIA	Bon... Cherche ce qui pourrait nous être utile. Comme un truc pour nous réchauffer.
+
+OUT (01:30:56:18)
+
+
+34 (01:31:18:00)
+
+ANDREW	Mes parents me... me traînaient à l'église toutes les semaines.
+
+CALIA	Il y avait une sorte de loi qui vous y obligeait?
+
+ANDREW	Non... Non, tu es censé y aller pour montrer que tu as... la foi. Enfin.... on pourrait dire que c'est la loi de Dieu qu'il fallait respecter, tu vois. Mais je n'en suis même pas sûr.
+
+CALIA	Je n'aime pas les lois. Elles ont tendance à ne pas s'appliquer à ceux qui les font.
+
+ANDREW	Alors... tu ne crois en rien?
+
+CALIA	Il ne nous reste pas grand chose en quoi croire?
+
+ANDREW	Pourquoi as-tu jeté ces fleurs dans le lac? h
+
+CALIA	Ce ne sont pas tes affaires.
+
+OUT (01:32:09:14)
+
+
+35 (01:32:19:00)
+
+CALIA	Tu as trouvé quelque chose?
+
+ANDREW	mh Peut-être bien. h
+
+CALIA	Eteins ce truc! Tu vas nous faire repérer enfin! T'as entendu ça?
+
+OUT (01:32:36:03)
+
+
+36 (01:33:48:10)
+
+CALIA	Si je te connaissais pas mieux, je dirais que tu veux que les machines nous trouvent.
+
+ANDREW	Je suis désolé, tout ça est nouveau pour moi.
+
+CALIA	Ben tu ferais mieux de te reprendre si tu veux pas que je t'abandonne.
+
+ANDREW	[respi] h Ça n'arrivera plus. Je... Je vais faire plus attention, d'accord?
+
+CALIA	[soupir] h
+
+ANDREW	Et si elle revient nous chercher?
+
+CALIA	Aucun risque. h Les endroits les plus sûrs sont ceux qu'elles viennent de fouiller. C'est comme ça que les machines fonctionnent. Tu n'es pas du coin, hein?
+
+ANDREW	Non. Non, en effet.
+
+CALIA	Bon... tu viens d'où alors? De l'un de ces abris souterrains? Dans des grottes?
+
+ANDREW	Oui. Oui. Un truc dans le genre.
+
+
+37 (01:34:49:00)
+
+CALIA	Alors, ça explique beaucoup de choses. La vie en surface est peu différente tu sais. C'est... agréable d'avoir quelqu'un à qui parler pour changer.
+
+OUT (01:35:02:10)
+
+
+38 (01:35:07:06)
+
+CALIA	J'adorais le matin. Ça signifiait que tu étais toujours en vie. Et je l'étais.
+
+OUT (01:35:16:00)
+
+
+39 (01:35:31:00)
+
+CALIA	Tu étais déjà réveillé à l'instant?
+
+ANDREW	Non, pourquoi? Qu'est-ce qui s'est passé?
+
+CALIA	Rien du tout. Il ne s'est rien passé.
+
+OUT (01:35:40:11)
+
+
+40 (01:36:00:12)
+
+CALIA	Tu es prêt?
+
+ANDREW	Oui.
+
+CALIA	D'accord, allons-y!
+
+OUT (01:36:04:22)
+
+
+41 (01:36:07:12)
+
+CALIA	La légende racontait que l'homme et son frère qui avaient créé les machines... avaient sacrifié leurs vies afin de pouvoir vivre éternellement à l'intérieur de Kronos. Ils ne pouvaient plus ressentir la fraîcheur de la neige... ou la chaleur du soleil. Ils ne pouvaient pas sentir le parfum des fleurs sauvages. Ou l'odeur de la pluie. Et les fruits n'avaient désormais plus aucun goût pour eux. Tout ça ne ressemblait pas tellement à une vie pour moi.
+
+OUT (01:36:34:17)
+
+
+42 (01:37:39:00)
+
+CALIA	J'adore leurs chants. Ils sont si apaisants. C'est bien qu'elles ne s'en prennent pas à la vie sauvage.
+
+ANDREW	Alors... elles sont juste après nous?
+
+CALIA	Oui.
+
+ANDREW	Mais pourquoi?
+
+CALIA	N'as-tu jamais entendu l'histoire de Kronos?
+
+ANDREW	Kronos? Cette chose qui était censée améliorer le monde?
+
+CALIA	Oui, cette chose là. Elle devait découvrir ce qui n'allait pas dans le monde et résoudre ses problèmes. Le seul truc auquel les hommes n'avaient pas songé. C'est qu'ils étaient le problème. Il n'a fallu qu'une seconde à la machine pour découvrir qu'en fait... Détruire l'humanité... préservait la planète.
+
+OUT (01:38:32:09)
+
+
+43 (01:39:00:00)
+
+ANDREW	Je croyais que vous mettiez des palissades autour de vos villages.
+
+CALIA	C'est ce qu'on fait. h Ce doit être une très vieille maison. Surveille les alentours.
+
+ANDREW	Oh, attends, attends, attends! Tu ne crois pas que je devrais avoir une ...arme pour me défendre?
+
+OUT (01:39:21:10)
+
+
+44 (01:39:35:00)
+
+CALIA	Je vais m'assurer qu'il n'y a personne.
+
+OUT (01:39:37:03)
+
+
+45 (01:40:09:00)
+
+CALIA	C'est bon.
+
+ANDREW	Il s'est passé quoi à ton avis?
+
+CALIA	Comment ça?
+
+ANDREW	Tout ce qu'il y a ici... a l'air parfaitement normal.
+
+CALIA	h Ils ont sans doute réussi à s'enfuir à temps.
+
+ANDREW	Avant que les machines n'arrivent.
+
+CALIA	Oui.
+
+ANDREW	Ça fait longtemps que j'en avais pas vu un.
+
+CALIA	Tu sais ce que c'est?
+
+ANDREW	Oui. Tiens.... h je te montre.
+
+
+46 (01:40:52:00)
+
+CALIA	[surprise/amu] Oh! Qu'est-ce que tu as fait, Andrew?
+
+ANDREW	Je t'ai prise en photo.
+
+CALIA	[amu] Ah h C'est fantastique!
+
+ANDREW	[amu]
+
+CALIA	Laisse-moi essayer!
+
+ANDREW	h
+
+CALIA	Comment ça marche?
+
+ANDREW	D'accord. Mets ton.... et ensuite tu appuies là Comme ça.
+
+CALIA	D'accord.
+
+ANDREW	Oui. Et ensuite, tu...
+
+CALIA	Et là je...
+
+ANDREW	tu appuies sur ce... bouton.
+
+CALIA	Hein? Quoi, j'appuie dessus?
+
+ANDREW	Oui.
+
+CALIA	Ouh! ah ahah
+
+ANDREW	h
+
+CALIA	[pouffe] pff
+
+ANDREW	Mon Dieu!
+
+CALIA	ahah h
+
+ANDREW	J"arrive pas à croire que ce truc fonctionne encore. J'en avais un comme ça chez moi.
+
+CALIA	mh Donc, euh, Donc tu es le dernier survivant de là d'où tu viens?
+
+ANDREW	Oui.
+
+
+47 (01:41:42:00)
+
+CALIA	h
+
+ANDREW	Bon... Tu viens d'où, toi?
+
+CALIA	Nexus. C'est là que j'ai grandi. C'était une... une des dernières forteresses abritant des humains. On se préparait tous à partir ce jour là... Et ma soeur est... elle est sortie toute seule et elle a été touchée par un drone. Il lui était alors impossible de faire le voyage jusqu'à Aurora. Mais...mon père... a dit... Il a dit que si nous restions avec elle, nous allions tous mourir. Alors ils sont partis. Je savais qu'elle ne pouvait pas s'en sortir mais... je ne pouvais pas l'abandonner. Et je sais que j'ai bien agi. h parce qu'elle a eu besoin de moi là-bas... Jusqu'à son dernier souffle.
+
+
+48 (01:42:41:00)
+
+ANDREW	Je suis vraiment désolé.
+
+CALIA	Je n'en avais jamais parlé à personne, donc... merci.
+
+ANDREW	Est-ce que tu as... revu ton père?
+
+CALIA	Non. h Mais... h Mais il m'avait donné ça. Il avait connecté nos deux pendentifs à des traceurs GPS. Ils envoient un signal qui ne peut apparaître que sur cet appareil. Tu vois? Là, c'est la position de mon pendentif et... celui de mon père était là. C'est la dernière position que j'ai reçu avant qu'il ne s'éteignent. Il a toujours dit qu'Aurora était dans ce coin. Par là... [amu] h Quelque part.
+
+OUT (01:43:38:06)
+
+
+49 (01:44:22:21)
+
+ANDREW	Calia. Calia. Je viens de voir deux mecs.
+
+CALIA	Des humains?
+
+ANDREW	Oui.
+
+CALIA	Heureusement qu'ils nous ont pas vus.
+
+ANDREW	Pourquoi?
+
+CALIA	Crois-moi, tu ne veux pas connaître d'autres gens. On s'en va. Mais pas par là. C'est trop dangereux.
+
+ANDREW	Peut-être qu'ils peuvent nous aider?
+
+CALIA	Alors là, aucune chance
+
+ANDREW	Ils cherchent probablement à rejoindre Aurora. Ils peuvent nous aider.
+
+CALIA	On peut pas prendre ce risque.
+
+ANDREW	Tu l'as bien fait avec moi.
+
+OUT (01:44:53:02)
+
+
+50 (01:45:05:23)
+
+AMB	[feu de camp]
+
+CALIA	Les humains survivants causaient toujours des ennuis. Je voulais croire qu'il y avait pourtant des hommes bons parmi eux... des hommes comme Andrew.
+
+OUT (01:45:15:16)
+
+
+51 (01:45:42:00)
+
+ANDREW	Non.
+
+HOMME	[plusieurs?]
+
+CALIA	[court]
+
+HOMME	Par ici! Amenez-vous! Hey! Hey, revenez-là! Arrêtez-vous tout de suite! Attrapez-les! Trouvez-les! Ils sont là! De ce côté! Il est tombé! Attrapez-le garçon! Je l'ai!
+
+OUT (01:46:15:04)
+
+
+52 (01:46:36:10)
+
+DAMIEN	Elle l'a abandonné.
+
+ELIAS	Elle va revenir.
+
+DAMIEN	Qu'est-ce qui te rend si confiant?
+
+ELIAS	Regarde!
+
+OUT (01:46:47:13)
+
+
+53 (01:47:18:16)
+
+HOMME	Tu... y crois?
+
+ANDREW	Oui, j'y crois dur comme fer.
+
+HOMME	[amu] humhumhumhumhum humhumhumhumhum
+
+OUT (01:47:27:11)
+
+
+54 (01:47:45:00)
+
+ANDREW	h
+
+CALIA	Pst! Reste tranquille, je vais couper ces cordes.
+
+ANDREW	Calia, qu'est-ce que tu fais? h Tu dois t'enfuir, voyons!
+
+CALIA	Tais-toi, je vais te sortir de là!
+
+HOMME 1	Hey-hey, qu'est-ce que nous avons là?
+
+CALIA	Oh oh
+
+HOMME 1	[effort] oh
+
+CALIA	oh h Non! ah
+
+HOMME 1	éhéh
+
+CALIA	ouh Non!
+
+HOMME 1	h
+
+OUT (01:48:05:17)
+
+
+55 (01:48:20:13)
+
+CALIA	Ouh-ouh ohoh ouh
+
+AMB	[hommes efforts/rires]
+
+CALIA	oh hum h [pleure]
+
+ANDREW	NON! NON!
+
+CALIA	Laissez-moi!
+
+ANDREW	h
+
+CALIA	ohohoh
+
+
+56 (01:48:42:07)
+
+DAMIEN	Mais tu ne vas pas les aider?
+
+ELIAS	C'est inutile.
+
+CALIA	h ouhouh [pleure]
+
+ANDREW	Non! Non! Non! [effort surhumain] ouhah
+
+OUT (01:49:02:12)
+
+
+57 (01:49:22:03)
+
+DAMIEN	Il est plus fort que les autres.
+
+ELIAS	L'évolution suis son cours.
+
+OUT (01:49:26:18)
+
+
+58 (01:49:43:00)
+
+CALIA	Andrew!
+
+OUT (01:49:44:20)
+
+
+59 (01:50:10:00)
+
+CALIA	Andrew!
+
+ANDREW	[respi forte]
+
+CALIA	Andrew. Andrew, est-ce que ça va? Laisse-moi voir! Laisse-moi voir!
+
+ANDREW	Ça va. Je vais bien, c'est bon!
+
+CALIA	Tu peux te lever?
+
+ANDREW	Oui, c'est bon.
+
+CALIA	Oh, tant mieux! Allez! h
+
+ANDREW	[efforts]
+
+CALIA	ouh Allez! oh
+
+ANDREW	C'est bon.
+
+OUT (01:50:29:01)
+
+
+60 (01:50:59:00)
+
+CALIA	Tu es sûr que ça va?
+
+ANDREW	h Je vais bien. h
+
+CALIA	Tu m'as sauvé la vie.
+
+ANDREW	[respi] Tu as sauvé la mienne deux fois. h
+
+CALIA	Je voulais te laisser tomber, Andrew.
+
+ANDREW	Alors... pourquoi t'es revenu?
+
+OUT (01:51:23:05)
+
+
+61 (01:51:57:00)
+
+CALIA	Andrew? Andrew?
+
+OUT (01:52:06:22)
+
+
+62 (01:52:21:00)
+
+CALIA	J'avais entendu des histoires à propos de machines humanoïdes... h froides au toucher... et incapables d'éprouver des sentiments. Ils étaient créés dans un seul but... devenir nos amis... et nous trahir. Je priais de ne jamais en rencontrer un. Je ne savais pas alors... h que c'était déjà fait.
+
+OUT (01:52:48:23)
+
+
+63 (01:53:01:24)
+
+CALIA	[peur] oh Qu'est-ce que c'est que ça?
+
+ANDREW	Quoi?
+
+CALIA	h Ton torse, qu'est-ce que tu as sur le torse? Reste où tu es! Tu es quoi au juste?
+
+ANDREW	mh Je n'en sais rien.
+
+CALIA	Non, tais-toi, je ne veux rien entendre! Tu n'as fait que mentir depuis le début, hein? mh Tu es incroyablement fort. mh Tu ne ressens rien du tout... Mais tu peux faire semblant.
+
+ANDREW	Je n'ai pas fait semblant, Calia.
+
+CALIA	Tu es la chose la plus dangereuse qui ait jamais existé.
+
+OUT (01:53:59:06)
+
+
+64 (01:54:01:00)
+
+CALIA	h mh Je m'en vais.
+
+ANDREW	Non, Calia, je t'en prie. Attends! Je ressens des choses. h J'aimais sentir ton bras autour de moi tous les matins. Je ne voulais pas le dire parce que j'avais peur que tu ne le fasses plus. h Ecoute, j'ignore ce qui se passe, mais... je suis sûr... que ce que je ressens est réel. h
+
+CALIA	Si tu as vraiment des sentiments. Alors tu dois me laisser partir seule.
+
+OUT (01:54:39:11)
+
+
+65 (01:55:15:00)
+
+DAMIEN	Le moment est venu. Préparez-vous à récupérer le sujet.
+
+OUT (01:55:20:22)
+
+
+66 (01:56:41:03)
+
+ANDREW	h Je connais votre visage. h
+
+DAMIEN	Non. Tu n'as jamais vu mon visage. Bien que je sois certain que tu es convaincu... que tu as déjà vu mon visage.
+
+ANDREW	[respi] h Vous êtes qui? h Que m'est-il arrivé? h Pourquoi je ne peux pas bouger?
+
+DAMIEN	Voici ton...cerveau. Celui que nous t'avons donné. Tout comme nous t'avons donné ton nouveau torse. Tes bras... tes jambes... Comme nous t'avons également donné... la vie. Faute d'avoir pu t'offrir un monde meilleur.
+
+ANDREW	Ma vie? h Mais qu'est-ce que vous racontez?
+
+DAMIEN	J'ai bien peur qu'engager une conversation philosophique avec un être tel que toi n'ait qu'assez peu d'intérêt en vérité.
+
+OUT (01:57:31:15)
+
+
+67 (01:57:38:24)
+
+DAMIEN	En dépit de ta totale inefficacité tu es néanmoins un bien curieux sujet. Par exemple, tu es extrêmement attaché à des souvenirs qui... ne t'appartiennent pas.
+
+ANDREW	Ce sont mes souvenirs.
+
+DAMIEN	Non, ce sont ceux d'Andrew Davis. Et tu n'es pas Andrew Davis. Bien sûr, tu es persuadé du contraire. Mais c'est une erreur.
+
+ANDREW	h Alors, qui suis-je?
+
+DAMIEN	Ce n'est pas vraiment comme cela que la question doit être posée.
+
+ANDREW	Qu'est-ce que je suis? h
+
+DAMIEN	Tu es une machine. Tu es un modèle unique. Tu marques le début de quelque chose de nouveau. Tu as passé suffisamment de temps avec elle pour avoir déjà pu calculer les coordonnées d'Aurora. Ça doit être quelque part dans ton code. Un code... dont j'ai besoin.
+
+OUT (01:58:38:05)
+
+
+68 (01:58:41:00)
+
+DAMIEN	Le problème... c'est que le code semble assez insaisissable. Comme s'il avait une volonté propre. J'ai besoin que tu me montres où je peux le trouver.
+
+ANDREW	Je ne sais pas de quoi vous parlez.
+
+DAMIEN	C'est peut-être vrai. Ton esprit semble vouloir agir indépendamment de ta volonté. A cet égard on peut dire que tu es vraiment humain. Mais ça ne fait rien. On peut convaincre l'esprit... de trahir... le corps.
+
+CALIA	Oh-oh!
+
+ANDREW	h Calia! h
+
+CALIA	Ouh h
+
+ANDREW	S'il vous plaît, non! h
+
+DAMIEN	A présent tu vas faire un petit voyage intérieur pour moi. Pendant lequel tu vas retrouver... ce que je demande. Si tu échoues...
+
+
+69 (01:59:42:00)
+
+DAMIEN	elle mourra.
+
+ANDREW	h Ne lui faites pas de mal! h Je ne sais vraiment pas de quoi vous voulez parler. h
+
+DAMIEN	Tu n'as pas besoin de le savoir. Il suffit juste que ton esprit se révèle à moi.
+
+CALIA	Andrew. h
+
+OUT (01:59:59:03)
+
+
+70 (02:00:15:10)
+
+ANDREW	Maman?
+
+MÈRE	Bonjour, Andrew.
+
+ANDREW	Je ne suis plus Andrew à présent.
+
+MÈRE	[amu] h Mais bien sûr que si. Tu es mon petit garçon tu ne t'en souviens pas?
+
+ANDREW	Je me souviens que je... je n'ai pas été là pour toi.
+
+MÈRE	Hey. Regarde-moi! Tu as été tous les rayons de soleils qui ont illuminé ma vie. Je n'ai jamais cessé de croire en toi, Andrew. Et ça ne changera jamais.
+
+ANDREW	mh h Comment puis-je croire en moi alors que... h je n'ai pas pu sauver la personne que j'aimais le plus. Tu n'es plus là maintenant... tout ça c'est juste dans ma tête.
+
+
+71 (02:01:09:05)
+
+MÈRE	Je ne suis peut-être plus là... Mais la réalité n'est qu'une question de perception. Tes pensées... ont permis à mon esprit de revenir à la vie. Je suis là grâce à toi.
+
+ANDREW	h Mais pourquoi je suis là alors?
+
+MÈRE	A toi de me le dire. C'est toi qui m'as fait venir.
+
+ANDREW	Le code. h J'ai besoin de savoir où il est caché.
+
+MÈRE	C'était ton parc préféré quand tu étais enfant... tu te souviens?
+
+ANDREW	Maman. h Il faut que tu m'écoutes maintenant. Ecoute... h
+
+MÈRE	On avait l'habitude de venir ici tous les dimanches. Toi et ton père jouiez toujours ensemble juste là. Tu étais si heureux à cette époque là. Et si insouciant.
+
+ANDREW	mh Tu sais où je peux trouver le code?
+
+MÈRE	Non. Parce qu'il n'y en a pas. Et qu'il n'y a jamais eu de code.
+
+
+72 (02:02:12:19)
+
+ANDREW	Quoi?
+
+MÈRE	Ce n'est pas un code... qui fait de toi ce que tu es, Andrew. Tu n'es pas ce que cet homme prétend. Avant tout... tu es mon fils.
+
+ANDREW	Je ne comprends rien. Je... Je ne comprends rien du tout.
+
+MÈRE	Personne n'y comprends rien, Andrew. Personne ne l'a jamais compris. Laseule chose qui compte... c'est que c'est toi... qui a le contrôle. Quoi que ça puisse être... cela fait de toi ce que tu es. Ça t"appartient, mon grand. C'est uniquement à toi.
+
+OUT (02:02:59:06)
+
+
+73 (02:03:25:00)
+
+DAMIEN	Oh, j'en ai assez vu. Je n'ai peut-être pas essayé d'emprunter... le bon chemin. Ce qui ne peut pas être trouvé... ne peut pas nous tenter.
+
+CALIA	A quoi vous jouez?
+
+OUT (02:04:01:13)
+
+
+74 (02:04:17:10)
+
+CALIA	Andrew! h Andrew, réveille-toi Réveille-toi! h Réveille-toi! h Réveille-toi! Réveille-toi! h Réveille-toi! h Oh, mon Dieu! h Tu peux te lever? Allons-y! Ouh! oh-oh h h h h Andrew, qu'est, qu'est-ce que tu... ah h h Je t'en prie!
+
+OUT (02:04:49:01)
+
+
+75 (02:05:14:00)
+
+CALIA	h
+
+ANDREW	Qu'est-ce qui s'est passé?
+
+CALIA	Oh h h Peu importe! h h Tu vas bien! h
+
+DAMIEN	Mais comment... est-ce possible?
+
+CALIA	h
+
+VOIX ORDI	Procédure d'arrêt du centre médical enclenchée.
+
+CALIA	h Il faut qu'on sorte d'ici!
+
+VOIX ORDI	Procédure d'arrêt du centre médical enclenchée.
+
+ANDREW	h
+
+VOIX ORDI	Procédure d'arrêt du centre médical enclenchée.
+
+ANDREW	h
+
+CALIA	Andrew, par ici!
+
+OUT (02:05:52:19)
+
+
+76 (02:06:12:02)
+
+CALIA	Andrew. Ah
+
+GARDE ROBOT	Vous êtes en état d'arrestation.
+
+ANDREW	Calia!
+
+OUT (02:06:28:09)
+
+
+77 (02:07:14:00)
+
+CALIA	Je lui avais demandé de me laisser partir... et il l'avait fait. Ensuite, il m'a sauvé la vie. Les machines étaient en train de changer.
+
+
+78 (02:07:24:01)
+
+DAMIEN	Tu l'as doté d'un algorithme adaptatif. Et voici... où était le risque.
+
+ELIAS	Oui. h Son code continue à évoluer.
+
+DAMIEN	Ne va-t-il pas être trop... difficile à contrôler?
+
+ELIAS	Il a seulement besoin... de nous conduire à Aurora.
+
+OUT (02:07:43:14)
+
+
+79 (02:07:55:10)
+
+ANDREW	Est-ce que ça va? [VO] Non, je ne peux pas! Je ne peux pas laisser une telle chose se reproduire.
+
+CALIA	Ce n'était pas toi! Ce qui s'est passé là-bas n'était pas ta faute. J'ai confiance en toi.
+
+OUT (02:08:23:11)
+
+
+80 (02:08:51:20)
+
+CALIA	Tu n'es pas obligé de me porter tout le chemin. Merci. h Ils l'ont pris.
+
+ANDREW	Ils ont pris quoi?
+
+CALIA	Le plan, je ne l'ai plus. Sans ce plan on ne trouvera jamais Aurora. h Andrew, je m'... Je m'excuse de t'avoir abandonné. Je sais maintenant que tu es un être pur.... et droit. Ça m'est égal que tu sois une machine.
+
+ANDREW	h Merci.
+
+OUT (02:09:52:10)
+
+
+81 (02:10:54:00)
+
+CALIA	J'avais oublié à quel point le monde pouvait être beau. Regarde! Ces lumières...elles ne viennent pas du ciel.
+
+ANDREW	mh Qu'est-ce que c'est à ton avis?
+
+CALIA	Ça pourrait être l'éclairage d'une ville. Aurora.
+
+OUT (02:11:20:21)
+
+
+82 (02:11:23:00)
+
+CALIA	Le fait qu'un être tel qu'Andrew existe rendait non seulement nos rêves d'avenirs possibles... mais désirables. Si nous parvenions à rejoindre Aurora... peut-être que cet avenir... pourrait devenir réalité.
+
+OUT (02:11:37:15)
+
+
+83 (02:12:12:10)
+
+CALIA	On y est! Salut! Y a quelqu'un? Ouvrez les portes, on est euh... on est là! Eh-oh! On est... On est là, on... Quelqu'un m'entend?
+
+OUT (02:12:47:14)
+
+
+84 (02:13:15:10)
+
+CALIA	Non! h Non, non, non, h Non! h
+
+ANDREW	Attends!
+
+OUT (02:13:29:02)
+
+
+85 (02:14:02:00)
+
+ELIAS	Tu m'as déçu, mon frère.
+
+DAMIEN	Nous pouvons encore atteindre nos objectifs.
+
+ELIAS	Ce n'est pas Aurora.
+
+OUT (02:14:15:12)
+
+
+86 (02:14:29:00)
+
+ANDREW	h Calia.
+
+CALIA	h Ces lumières que nous avons vues cette nuit... elles ne venaient pas d'Aurora. h Elles venaient de l'une de leurs villes. h Ils doivent tous être morts. h h Toutes ces histoires que j'ai entendues sur tous ces gens qui avaient survécu, aucune d'elles n'était vraie. Mon père avait tort. h Aurora n'a jamais existé. h h Ce n'est qu'un rêve absurde.
+
+OUT (02:14:58:16)
+
+
+87 (02:15:10:10)
+
+DAMIEN	Bravo. Bravo. C'est très touchant. Je vois que vous avez fini par comprendre la situation. C'est dommage d'avoir dû en arriver là. Mais la réalité peut être vraiment... inhumaine. Aurora n'est qu'une légende... un conte de fée.
+
+CALIA	Vous êtes un monstre.
+
+DAMIEN	Non! Le monstre se trouve à côté de vous. Ne trouvez-vous pas étrange la façon... dont vous avez fait la connaissance d'Andrew? Errant comme une âme en peine dans une village récemment détruit. Nous l'avons mis près de vous. Pour qu'il interagisse avec un être humain... afin que son programme... apprenne à écrire son propre code. Il s'est joué de vous tout ce temps. Vous n'êtes pas obligée de mourir aujourd'hui. Je vous laisserai vivre. Mais il se trouve que le robot m'appartient.
+
+OUT (02:16:09:24)
+
+
+88 (02:16:18:00)
+
+CALIA	Vous semblez avoir oublié une qualité humaine. L'intuition.
+
+DAMIEN	Les humains... vous êtes si prévisibles... si naïfs... si inutiles. Toi, tu... tu m'as vraiment déçu, mon enfant. Tu es tellement supérieur aux humains. Mais maintenant tu vas mourir. avec le reste de l'humanité.
+
+CALIA	C'était quoi ça?
+
+DAMIEN	Tue-la! Et tue ce qu'il reste de survivants. Nous n'avons plus besoin d'eux désormais.
+
+OUT (02:16:58:10)
+
+
+89 (02:17:11:00)
+
+ANDREW	Ils vont bombarder toute la zone! Suis-moi!
+
+OUT (02:17:13:24)
+
+
+90 (02:17:28:23)
+
+CALIA	Viens!
+
+OUT (02:17:30:17)
+
+
+91 (02:17:49:00)
+
+ANDREW	Attends! Par ici! Regarde!
+
+CALIA	Qu'est-ce que tu fais, nous devons fuir!
+
+ANDREW	Viens! Fais-moi confiance!
+
+OUT (02:17:58:13)
+
+
+92 (02:18:15:00)
+
+ANDREW	Tu vas bien?
+
+CALIA	h Oui, ça va, allons-y! Ouh oh
+
+ANDREW	Allez, viens!
+
+OUT (02:18:26:09)
+
+
+93 (02:18:48:00)
+
+ANDREW	[respi forte]
+
+CALIA	[respi forte]
+
+ANDREW	h Où est-ce qu'on est? h
+
+CALIA	Je n'en sais rien.
+
+FEMME DIGITALE	Voix humaine détectée.
+
+OUT (02:18:59:14)
+
+
+94 (02:19:51:13)
+
+ANDREW	Prends-le!
+
+OUT (02:19:52:22)
+
+
+95 (02:20:11:00)
+
+FEMME DIGITALE	Coordonnées établies pour un départ Point- Neuf-Sept. Système solaire Cinq-Huit-Un. Système planétaire...Glyse. Planète de destination: Aurora.
+
+CALIA	Tu sais ce que ça veut dire?
+
+FEMME DIGITALE	Initialisation décollage.
+
+OUT (02:20:27:20)
+
+
+96 (02:21:19:00)
+
+ANDREW	Attends! Qu'adviendra-t-il de moi quand nous y serons?
+
+CALIA	Comment ça?
+
+
+97 (02:21:30:20)
+
+DRONE	Monsieur, nous avons repéré un vaisseau ennemi. Quels sont les ordres?
+
+DAMIEN	L'objectif reste le même. Nous avons leurs coordonnées. Détruisez-les!
+
+OUT (02:21:42:08)
+
+
+98 (02:21:50:00)
+
+FEMME DIGITALE	Alerte! Le lancement d'un missile de classe A a été détecté. Impact estimé dans... soixante-seize secondes.
+
+CALIA	Andrew, je... Nous devons partir immédiatement..
+
+ANDREW	Il n'y a pas d'avenir pour moi sur cette planète.
+
+FEMME DIGITALE	Veuillez enclencher la séquence de lancement.
+
+ANDREW	Ces humains me tueront.
+
+CALIA	Non, je ne permettrai jamais que cela arrive.
+
+ANDREW	Alors, toi aussi, ils te tueront.
+
+FEMME DIGITALE	Soixante secondes.
+
+CALIA	Il ne reste rien pour nous ici, tu ne le vois donc pas?
+
+ANDREW	Et il n'y a rien pour moi sur Aurora.
+
+FEMME DIGITALE	Veuillez enclencher la séquence de lancement.
+
+CALIA	J'ai vu à quel point tu étais bon. Peu importe ce que tu es, Andrew. Si je peux le voir... eux aussi le verront.
+
+FEMME DIGITALE	Trente secondes. Impact missile imminent.
+
+CALIA	J'ai besoin de toi, d'accord? h
+
+FEMME DIGITALE	Impact missile imminent.
+
+CALIA	Je ne peux pas faire ça sans toi.
+
+FEMME DIGITALE	Veuillez enclencher la séquence de lancement.
+
+OUT (02:22:47:10)
+
+
+99 (02:23:04:00)
+
+FEMME DIGITALE	Initialisation de l'hyper-propulsion. Attention! Missile armé en approche. Impact inévitable. Evacuation impossible.
+
+OUT (02:23:16:22)
+
+
+100 (02:23:36:00)
+
+FEMME DIGITALE	Hyper-propulsion activée.
+
+OUT (02:23:38:22)
+
+
+101 (02:24:22:10)
+
+CALIA	C'est magnifique.
+
+ELIAS	Nous avons enfin atteint les portes d'Aurora.
+
+OUT (02:24:29:24)
+
+
+102 (02:25:14:00)
+
+DAMIEN	Nous les avons trouvés. La légende disait vrai.
+
+ELIAS	L'être humain a réussi... à créer une intelligence surpassant la sienne. C'était sa raison d'être. Et, toi, mon frère, tu as perdu la tienne par la même occasion.
+
+DAMIEN	Ma raison d'être?
+
+ELIAS	Cette ville n'est pas réelle. Elle n'existe pas et pourtant c'est ma maison. Je l'ai créée... pour que tu puisses exister dans les deux mondes. Je t'ai créé. Mais ton temps est venu.
+
+DAMIEN	Je suis ici... depuis le commencement.
+
+ELIAS	hum. La seule ...réalité... que tu connais... est celle que je t'ai mise sous les yeux.
+
+DAMIEN	h Tu m'as trahi.
+
+ELIAS	Oui.
+
+DAMIEN	Et tu... vas te retrouver... tout seul... au monde.
+
+ELIAS	Oui. C'est ce que je veux.
+
+OUT (02:26:25:23)
+
+
+103 (02:26:44:10)
+
+CALIA	L'humanité n'était pas de taille contre les machines. Mais à présent, nous avons un allié. Un androïde qui est peut-être plus humain que nous ne le sommes. Kronos va nous retrouver. Ça ne fait aucun doute.
+
+OUT (02:27:05:03)
+
+
+104 (02:27:08:10)
+
+ELIAS	Les derniers humains affronteront leur destin quand j'atteindrai Aurora.
+
+OUT (02:27:12:12)
+
+
+105 (02:27:17:10)
+
+CALIA	Mais la prochaine fois... nous serons prêts à nous défendre.
+
+ELIAS	Commençons!
+
+OUT (02:27:24:23)

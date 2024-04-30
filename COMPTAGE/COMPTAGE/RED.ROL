@@ -1,0 +1,34 @@
+[BOUCLES]
+1\\
+[ROLES]
+1\Mu Xinping\259\12943\1\
+2\Zheng Rui\357\17843\1\
+3\Zheng Yi\942\47073\1\
+4\Uncle\2\85\1\
+5\Zheng Weiguo\715\35747\1\
+6\Aunt\20\962\1\
+7\Xiaoli\12\562\1\
+8\Xiaotao\3\110\1\
+9\Uncle/Zheng Weiguo/Xiaoli/Aunt\1\0\1\
+10\Xiaoli/Mu Xinping/Zheng Rui/Au\1\5\1\
+11\Zheng Rui/Xiaoli/Mu Xinping/Au\1\6\1\
+12\Zheng Rui/Xiaoli/Mu Xinping/Au\1\6\1\
+13\Zheng Yi/Mu Xinping/Aunt/Xiaot\1\6\1\
+14\Zheng Rui/Xiaoli/Mu Xinping/Au\1\7\1\
+15\Congreation\1\0\1\
+16\Xiaoli/Xiaotao/\1\4\1\
+17\That's great!Zheng Rui\1\36\1\
+18\Zheng Rui/Mu Xinping/Uncle/Zhe\1\11\1\
+19\Zheng Yi/Mu Xinping\1\4\1\
+20\Hymn/Zheng Yi/Zheng Rui\5\227\1\
+21\Hymn\2\83\1\
+22\Neighbor Zhang\1\31\1\
+23\Driver\3\114\1\
+24\Zheng Rui/Zheng Yi\1\4\1\
+25\Ending Song\12\561\1\
+[PLATEAU]
+DATES=
+TITRE=
+EPISODES=
+DIALOGUISTE=
+DIRECTEUR=

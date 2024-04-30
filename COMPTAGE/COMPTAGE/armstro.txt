@@ -1,0 +1,1564 @@
+(BOUCLE 1 - 10:01:41:18)
+		01
+
+LAUREN	(tt) (snif) (snif) (h) (h) (h) (h) (h) (h) Allez, réponds ! (tt) (h) (h)
+
+SPONSOR	Allo ?
+
+LAUREN	Allo ? (h) Je t'ai réveillée ? J'suis désolée.
+
+SPONSOR	C'est pas grave. T'en fais pas. Qu'est-ce qui se passe ? Tu as des problèmes ?
+
+LAUREN	(h) Non, t'inquiète, ça va. (snif) (h) (h) C'est juste que c'est ma première (...) c'est ma première nuit, c'est tout.
+
+SPONSOR	Ah oui, c'est vrai ! Et est-ce que tout se passe bien ?
+
+LAUREN	(h) Oui ! J'suis juste un peu nerveuse (h) et j'trouve ça bête.
+
+SPONSOR	Est-ce que tu as appelé ta mère comme on en avait parlé ?
+
+LAUREN	Elle n'écoute rien de ce que je lui raconte  ... depuis que Jason ...
+
+(BOUCLE 2 - 10:02:46:03)
+		02
+
+LAUREN	(h)
+
+SPONSOR	Est-ce que tu as quelque chose avec toi ?
+
+LAUREN	(h) Quelques anxiolytiques, rien de très fort.
+
+SPONSOR	Tu sais ce que j'en pense ? J'en pense que tu devrais jeter toutes ces saloperies à la poubelle ! T'en as pas besoin ! T'as travaillé très dur pour arriver jusqu'à ce soir, pas vrai ?
+
+LAUREN	(h)
+
+SPONSOR	Tu m'entends ?
+
+LAUREN	(h) Oui, je t'entends.
+
+SPONSOR	Bien !
+
+LAUREN	Oui, je t'entends.
+
+SPONSOR	Parfait ! Maintenant, tu vas dire la prière avec moi.
+
+(BOUCLE 3 - 10:03:38:14)
+		03
+
+RADIO	Bonjour à tous ! Je vous parle à nouveau depuis la glorieuse cité des Anges ! Sachez qu'un peu plus tard dans notre émission, je vous parlerai d'une massive opération clandestine qui va se dérouler ici sous nos yeux, mes très chers amis ! Alors, ne partez surtout pas car ce que j'ai à vous dire est très intéressant ! Mais pour commencer, vous avez tous déjà vu ces longues rangées d'usines et de bâtiments désaffectés qui restent là, sans que plus personne ne s'en préoccupe ? Vous passez devant en voiture tous les jours sans même leur jeter un oeil ! Pas vrai ? Et bien, figurez-vous que j'ai des nouvelles pour vous qui êtes à la recherche de la vérité ! Vous que j'aime appeler: le Noyau de mes fidèles ! Et bien, sachez que c'est sur ces usines et sur ces bâtiments désaffectés qu'ils lanceront leurs attaques qui mettront notre pays à feu et à sang ! Ces agressions ne viennent pas de très loin ! Elles proviennent d'individus proches de nous et qui sont prêts à nous supprimer sans le moindre remords ! Alors, moi, je vais vous révéler comment trouver ces bases secrètes et quand ce sera fait, avertissez-moi afin que je puisse prévenir nos concitoyens !
+
+(BOUCLE 4 - 10:05:08:23)
+		04
+
+RADIO	Nous voici de retour depuis notre Info-Bunker ! Je vous avais promis des révélations concernant notre bonne ville de Los Angelès, alors, voilà ce que j'ai à vous annoncer ! J'espère que vous saurez vous montrer courageux parce que ce n'est pas réjouissant. N'hésitons pas à aller chercher la vérité là où elle se cache, mes très chers amis ! Et ceci, sans attendre !
+
+LAUREN	Bon alors, le tien, c'est le
+
+RADIO	Nous entamons aujourd'hui un voyage à destination d'une ère nouvelle.
+
+LAUREN	(...) café au lait.
+
+EDDIE	Noir !
+
+LAUREN	(hein ?)
+
+EDDIE	Je ne bois que du café noir !
+
+RADIO	L'âge de l'enfance de l'humanité est en train de se terminer.
+
+LAUREN	J'croyais que tu m'avais dit au lait et sucré ?
+
+EDDIE	T'as sans doute mal entendu !
+
+RADIO	Un nouvel âge va bientôt commencer pour nous, habitants de la planète terre.
+
+LAUREN	J'ai très bien entendu au contraire ! (oh !)
+
+RADIO	Le voyage dont je vous parle est plein de défis inconcevables.
+
+EDDIE	Bravo !
+
+LAUREN	Tu m'énerves ! Bon, c'est pas grave !
+
+RADIO	Mais je suis persuadé que toutes nos expériences précédentes,
+
+LAUREN	(h) J'suis désolée. Je vais y retourner t'en chercher un autre !
+
+RADIO	que toutes nos luttes passées n'ont eu pour finalité que de nous y préparer.
+
+EDDIE	Tu sais quoi, ma jolie ? Laisse tomber !
+
+RADIO	Citoyens de la Terre, nous ne sommes pas seuls !
+
+LAUREN	Mais non, c'est pas très loin, j'vais y retourner !
+
+EDDIE	On s'en fout du café !
+
+RADIO	Dans son infinie sagesse, le Créateur a peuplé cet univers de cellules tout aussi intelligentes que nous pouvons l'être.
+
+EDDIE	Monte dans le camion, allez !
+
+RADIO	Ces cellules attendent depuis des lustres le Signal des grands Maitres afin de mettre en route l'écrémage systématique de la société ainsi que nous le concevons. Mes sources me disent que des agents secrets ont été génétiquement créés à partir d'ADN d'humains et d'animaux et qu'ils sont déjà parmi nous.
+
+LAUREN	(h) Il raconte n'importe quoi !
+
+EDDIE	C'est la vérité à cent pour cent !
+
+RADIO	Je vous fais confiance pour aller porter la bonne parole autour de vous afin de convaincre vos amis.
+
+EDDIE	Il peut prouver tout ce qu'il raconte, il n'a peur de personne !
+
+(BOUCLE 5 - 10:06:32:01)
+		05
+
+LAUREN	Tu crois en ces âneries, toi ?
+
+RADIO	A votre avis, comment puis-je affirmer ce queje dis avec une telle autorité ?
+
+EDDIE	Moi, je suis convaincu qu'il se passe tout un tas de choses étranges autour de nous et que la population n'est pas le moins du monde au courant.
+
+RADIO	Nos forces armées ont découvert des choses que les scientifiques n'ont pas tardé à indentifier comme étant réelles.
+
+LAUREN	Et tu crois que c'est cette espèce d'illuminé à la radio qui va te révéler toute la vérité ?
+
+RADIO	Vous devez savoir que notre gouvernement a tout prévu pour maintenir la paix dans notre pays mais plus encore sur la terre entière ! Des forces de police se tiennent prêtes à intervenir dans les plus brefs délais.
+
+LAUREN	Quoi encore ?
+
+EDDIE	Rien, je savoure juste l'arôme de ton café.
+
+RADIO	Bien que cette information puisse vous sembler incroyable et vraiment terrifiante, je vous demande de ne pas sombrer dans la panique ni le pessimisme.
+
+EDDIE	On (...) on sent bien qu'il doit être excellent, hein ?
+
+LAUREN	Je retourne à l'intérieur t'en chercher un autre !
+
+RADIO	Je vous donne ma parole que nous allons tous survivre et nous en sortir !
+
+EDDIE	(ah ah ah ah ah ah !) je blague !
+
+LAUREN	Non, j'y vais !
+
+EDDIE	J'te jure que c'était une blague !
+
+LAUREN	(ah!) (ah!) (ah!)
+
+EDDIE	Maintenant, j'blague plus, reviens vite à l'intérieur !
+
+LAUREN	(h) (h) (h) Qu'est-ce que c'est que ça ?
+
+EDDIE	On aurait dit une explosion.
+
+LAUREN	(h)
+
+EDDIE	Une sacrée foutue explosion !
+
+LAUREN	(h)
+
+EDDIE	Et c'était pas loin !
+
+(BOUCLE 6 - 10:07:30:03)
+		06
+
+DISPATCH	Ambulance 12, Ambulance 15, Ambulance 32, camion 3, camion 6, rendez-vous immédiatement dans la 59ème rue. Une vive explosion vient de se produire dans une usine.
+
+EDDIE	Allo le Central, ambulance 32, on vous reçoit.
+
+DISPATCH	Ambulance 32, rendez-vous immédiatement dans la 59ème rue. Indiquez à tous les véhicules de secours concernés par l'accident de se positionner sur le channel 2 le plus rapidement possible.
+
+EDDIE	Bien reçu, Ambulance 32 en route.
+
+Insert	Aide Médicale d'Urgence. 1h45.
+
+(BOUCLE 7 - 10:08:17:06)
+		07
+
+EDDIE	Surveille la circulation, si on a un accident, c'est ta faute. Ecoute-bien ce que dit le Central parce qu'il faudra aussi que tu leur répondes. (oh !) (ah ah !) La dernière fois que je suis allé sur un feu, c'était un labo clandestin de crack qui avait explosé ! On a retrouvé des dizaines de junkies carbonisés à l'intérieur. C'était dingue, dehors, ça sentait (...) (euh) le porc trop cuit sur le barbecue !
+
+LAUREN	Tu dis ça pour m'impressionner ?
+
+EDDIE	T'as pas la trouille ! T'es ambulancière, punaise ! Je m'assure simplement que t'es préparée à ce que tu risques de voir.
+
+LAUREN	Attends ! Où est-ce que tu vas ?
+
+EDDIE	C'est un raccourci ! On entend plein de sirènes, ça doit être un sacré putain de feu !
+
+LAUREN	Eddie ! Eddie, fais attention ! (ah!)
+
+(BOUCLE 8 - 10:09:10:11)
+		08
+
+ARMSTRONG	Ils ont des armes nucléaires ! Le séisme va dépasser les 10 sur l'échelle de Richter ! Il faut atteindre la seconde position avant eux ! Avant eux ! (oh !) (oh !)
+
+LAUREN	Oh, mon dieu !
+
+EDDIE	Bon, allez ! C'est parti ! On va s'occuper de lui.
+
+LAUREN	Oui mais l'explosion ?
+
+EDDIE	La situation a changé, on n'y peut rien ! Il faut porter assistance à ceux qui en ont besoin. Préviens le Central qu'on a un blessé imprévu !
+
+LAUREN	Un blessé imprévu !
+
+EDDIE	Code 13.
+
+LAUREN	Un blessé imprévu. Central, ici ambulance 32
+
+EDDIE	Pouvez-vous me donner votre nom, Monsieur ?
+
+LAUREN	Allo le central, ici ambulance 32.
+
+EDDIE	Apporte vite le brancard et le sac des premiers secours, Lauren, dépêche-toi ! Monsieur ? Qu'est-ce qui vous est arrivé, Monsieur ? Il faut m'expliquer ! Je m'appelle Eddie. Et voici ma co-équipière, Lauren, on est là pour vous aider.
+
+ARMSTRONG	Il faut que je les arrête ! J'vous en prie !
+
+EDDIE	Monsieur,
+
+ARMSTRONG	(ah!)
+
+EDDIE	essayez de vous calmer.
+
+ARMSTRONG	(ah!)
+
+EDDIE	N'essayez pas de vous lever, s'il vous plait.
+
+(BOUCLE 9 - 10:10:11:04)
+		09
+
+ARMSTRONG	(ah!) (ah!) Aidez-moi !
+
+EDDIE	Il est gravement blessé ! Tu m'écoutes ?
+
+LAUREN	J'suis désolée ! Qu'est-ce que je fais ?
+
+EDDIE	Fais un point de compression sur son épaule qui saigne énormément ! Il a également une grosseur à l'intérieur de la cuisse droite. Et il a tendance à perdre conscience.
+
+LAUREN	Il a été blessé par balle ?
+
+EDDIE	On va le monter à l'intérieur, on y verra mieux. Attends, attends, attends ! Mets-lui une minerve avant de le bouger  !
+
+LAUREN	Oui, bien sûr, je suis désolée !
+
+EDDIE	Réfléchis, nom de dieu !
+
+ARMSTRONG	(ah!)
+
+EDDIE	A 3, on le tourne  !
+
+LAUREN	Un, deux, trois !
+
+(BOUCLE 10 - 10:10:59:24)
+		10
+
+EDDIE	T'as prévenu le central ?
+
+LAUREN	Non, j'ai pas réussi à les avoir !
+
+EDDIE	Comment ça, t'as pas réussi ?
+
+LAUREN	J'en sais rien, ça répondait pas, y'avait que des grésillements.
+
+EDDIE	C'est n'importe quoi ce que tu dis !
+
+LAUREN	Peut-être mais j'ai pas réussi.
+
+EDDIE	Sors le masque à oxygène immédiatement ! Je suis ambulancier depuis dix ans et j'ai toujours réussi à joindre le central. Donne-moi une compresse. Il devait se trouver près du lieu de l'explosion. Il a été touché quand une fenêtre a explosé. Je vais vous poser quelques questions, répondez-moi le plus clairement possible. Ce soir, vous avez pris de la drogue ou consommé de l'alcool ?
+
+ARMSTRONG	Je voudrais, je voudrais ...
+
+EDDIE	Est-ce que vous savez où vous vous trouvez ?
+
+ARMSTRONG	Je voudrais (ah!) (h h h h) (ah!)
+
+EDDIE	Oh, nom de dieu !
+
+(BOUCLE 11 - 10:11:52:01)
+		11
+
+EDDIE	Regarde son bras, s'il a des traces de piqure. Plus vite on saura ce qu'il a fait et mieux, on pourra l'aider.
+
+ARMSTRONG	(h) (h) Il me faut mon bras ... (h)
+
+LAUREN	Il n'y a aucune trace de piqure.
+
+EDDIE	Tu sais à quoi ressemble les traces de piqure des drogués, pas vrai ?
+
+LAUREN	J'sais reconnaitre un junkie quand j'en vois un ! Vous allez vous en sortir, nous allons vous aider, okay ? Ca va s'arranger !
+
+ARMSTRONG	(h) s'il vous plait, reculez-vous ! (ah!) (h)
+
+EDDIE	Mais ?
+
+LAUREN	Qu'est-ce qu'il y a ?
+
+EDDIE	On dirait qu'il a une prothèse de ce côté. Et il a une médaille comme les chiens !
+
+LAUREN	David Armstrong.
+
+EDDIE	C'est p't'être un vétéran de la guerre du golfe. C'est dur la reconversion pour ces pauvres types.
+
+(BOUCLE 12 - 10:12:50:12)
+		12
+
+EDDIE	C'est quoi, ça ? Regarde ! Nom de dieu ! C'est super bizarre ! (oh, oh, oh !) Monsieur !
+
+ARMSTRONG	Poussez-vous !
+
+EDDIE	Calmez-vous !
+
+ARMSTRONG	Reculez ! S'il vous plait, poussez-vous ! Reculez, j'vous en supplie !
+
+EDDIE	Non, non, non, on va rester où on est, arrêtez de gigoter !
+
+ARMSTRONG	J'peux pas le contrôler !
+
+EDDIE	C'est dingue, ce gars a une force de malade, tiens-lui l'épaule, s'il te plait !
+
+ARMSTRONG	C'est plus fort que moi, j'peux pas le contrôler !
+
+EDDIE	J'vous ai dit d'arrêter de bouger !
+
+ARMSTRONG	J'arrive pas à le contrôler !
+
+EDDIE	(ah ah ah ah ah ah !) Lâchez-moi les doigts ! (ah!) Punaise ! (ah!) (ah!) (ah!) (h) (aaaaaaaaaaaaaaaaaaaah!) (ah!) (ah!) (pff!) (h) J'ai besoin d'une atelle, donne-moi ce qu'il faut ! Vite, magne-toi !
+
+(BOUCLE 13 - 10:13:45:22)
+		13
+
+EDDIE	(h) Ca va aller!
+
+LAUREN	Tu veux que je le fasse ?
+
+EDDIE	(h) (h) (h) Oh, putain ! Vas-y, fais-le ! Mais fais ça bien !
+
+ARMSTRONG	(oh !) l'explosion ...
+
+EDDIE	putain de merde ! Cette prothèse a une force dingue !
+
+ARMSTRONG	Il faut aller sur le site !
+
+EDDIE	Sers bien fort, serre, s'il te plait !
+
+ARMSTRONG	Il faut que vous m'aidiez !
+
+EDDIE	(ah!)
+
+LAUREN	Attends !
+
+EDDIE	(ouh!)
+
+ARMSTRONG	(ah!)
+
+EDDIE	(Hey hey hey !) Remettez ce foutu masque, nom de dieu !
+
+ARMSTRONG	Je continue à recevoir des impulsions électriques ! C'est difficile à contrôler !
+
+EDDIE	(h) Tu sais quoi ? On va remonter devant tous les deux.
+
+LAUREN	Et lui, on en fait quoi ?
+
+EDDIE	On a arrêté les saignements ! Je ne veux pas nous faire courir de danger, on va le déposer aux urgences et voilà. Ils se débrouilleront avec son (...) son bras bionique ! (h) Allez ! On y va !
+
+(BOUCLE 14 - 10:14:53:22)
+		14
+
+EDDIE	(oh !)
+
+LAUREN	Tu veux que je conduise ?
+
+EDDIE	Si j'avais les deux mains cassées et que j'étais devenu aveugle, je pourrais toujours conduire cette ambulance à l'hôpital.
+
+LAUREN	Comme tu voudras !
+
+EDDIE	(h) (h)
+
+LAUREN	Tu vois ce que j'te disais ? C'est comme ça depuis qu'on l'a monté à bord !
+
+EDDIE	C'est peut-être dû à un court-circuit qui aurait été causé par l'explosion.
+
+LAUREN	Aucune tonalité ici non plus !
+
+EDDIE	Bon, écoute, tu sais quoi ? On va laisser tomber les urgences, on l'emmène direct chez les flics.
+
+(BOUCLE 15 - 10:16:30:01)
+		15
+
+EDDIE	C'était quoi ?
+
+LAUREN	J'en sais rien !
+
+EDDIE	C'est pas possible !
+
+Insert	1h59.
+
+ARMSTRONG	Il faut que .. j'reprenne le contrôle de la balise de détresse. Il faut surtout pas qu'ils nous trouvent ! Faut surtout pas qu'ils nous trouvent ! Aidez-moi !
+
+EDDIE	Non, non, non ! T'approche pas de ce type !
+
+ARMSTRONG	(ah!) (ah!)
+
+EDDIE	Si tu casses un truc, tu le rembourses, mon pote !
+
+ARMSTRONG	(ah!) (ah!) Le signal de détresse s'est arrêté,           c'est pas trop tard ! (ah!) (ah ah ah ah ah ah !)
+
+LAUREN	J'aimerais bien savoir ce qu'il a sous ses fringues !
+
+EDDIE	Je m'en fous, tout ce que j'veux c'est le virer de mon ambulance ! Ce mec représente un vrai danger pour nous !
+
+ARMSTRONG	(ah!)
+
+EDDIE	Quand on aura du réseau, on appellera les flics et on les laissera gérer la situation !
+
+ARMSTRONG	(ah!) (ah!)
+
+EDDIE	Mais surtout, t'approche pas de lui !
+
+(BOUCLE 16 - 10:17:30:09)
+		16
+
+ARMSTRONG	A cause (...) à cause des problèmes sur l'interface de mon module, je n'ai pas pu annuler le signal assez rapidement. (h) Les Messagers... c'est peut-être déjà trop tard !
+
+LAUREN	Je ne comprends rien à ce que vous dites !
+
+ARMSTRONG	Il est peut-être déjà trop tard !
+
+EDDIE	Je ferai tout ce que vous voudrez ! Mon porte-feuille est dans ma poche arrière. y'a des médicaments dans l'ambulance. Vous ...     vous pouvez prendre tout ce que vous voulez !
+
+HARBINGER 1	Baissez vous !
+
+EDDIE	(euhm) Ne (...) ne nous faites pas de mal ! okay ?
+
+HARBINGER 1	Arrêtez       de bouger !
+
+EDDIE	Okay !
+
+HARBINGER 1	Mettez les mains dans le dos !
+
+EDDIE	(ah!) (ouahouh!)
+
+HARBINGER 1	Où est l'homme que vous avez ramassé ?
+
+EDDIE	Qui ça ? De qui parlez-vous ?
+
+LAUREN	Y'a un cinglé avec une arme !
+
+HARBINGER 1	L'homme avec le bras !
+
+EDDIE	Moi, tout ce que je sais, c'est que j'ai un blessé dans l'ambulance.
+
+ARMSTRONG	(ah!)
+
+EDDIE	Si vous voulez, vous pouvez prendre mon porte-feuille et vous enfuir, j'porterai pas plainte chez les flics !
+
+ARMSTRONG	(h) (h)
+
+HARBINGER 1	Vous a-t-il dit quelque chose à propos de sa mission ?
+
+EDDIE	Non, je vous dis que je ne sais rien sur la personne que vous recherchez.
+
+HARBINGER 1	Est-ce qu'il vous a dit où il allait ?
+
+EDDIE	Non ! Il était inconscient ! Je vous dis que je ne sais rien,j'suis qu'un simple ambulancier !
+
+HARBINGER 1	Vous allez mourir noyé dans votre propre sang !
+
+LAUREN	Qu'est-ce que vous allez faire ? (h h h h h h h h h h h h h)
+
+HARBINGER 1	Vous feriez mieux de prendre mes menaces au sérieux.
+
+EDDIE	Je veux bien vous dire tout ce que vous voulez mais je ne comprends pas de qui vous me parlez, vous feriez mieux d'aller chercher ailleurs !
+
+HARBINGER 1	Si vous ne répondez pas à mes questions, je vous tuerai !
+
+(BOUCLE 17 - 10:19:09:24)
+		17
+
+HARBINGER 1	Bouge plus !
+
+hOMELESS MAN	J'ai rien vu et je sais rien, j'le jure ! (aaaaaaaaaaaaaaaaaaaaaaaah!)
+
+EDDIE	Nom de dieu ! Je vous en supplie, calmez-vous, calmez-vous !
+
+LAUREN	(ah!) (ah!)
+
+EDDIE	Je ferai tout ce que vous me demanderez !
+
+LAUREN	(h) (h) (h) (h) (h) (h) (h) (h)
+
+HARBINGER 1	Dis à ta collègue de sortir de l'ambulance !
+
+ARMSTRONG	Restez là. J'vais régler la situation.
+
+EDDIE	Mais j'vous assure qu'elle n'en sait pas plus que moi !
+
+HARBINGER 1	Si vous ne lui dites pas de descendre, c'est moi qui vais aller la chercher ! Et j'ai bien peur que ça ne lui plaise pas trop !
+
+EDDIE	Mais vous n'arrêtez pas de me poser la même question ! Je vous répète qu'on ne sait rien !
+
+HARBINGER 1	Est-ce que vous savez pourquoi vous êtes là devant moi ? Pour m'aider à éliminer l'homme qui est dans votre ambulance et qui risque d'effacer des décennies de progrès !
+
+EDDIE	J'comprends pas de quoi vous parlez !
+
+(BOUCLE 18 - 10:20:10:14)
+		18
+
+HARBINGER 1	Cette planète va connaitre une renaissance alors, vous pouvez choisir d'en faire partie ou bien d'être éliminé avec les autres !
+
+EDDIE	Je vous en supplie, ne me tuez pas, je vous l'ai déjà dit, je ferai tout ce que vous voudrez !
+
+HARBINGER 1	Nous allons faire exploser la terre afin de libérer le feu qui est à l'intérieur !
+
+EDDIE	(ah!)
+
+HARBINGER 1	Vous ne pouvez pas arrêter le destin qui se prépare pour nous tous !
+
+EDDIE	Attention, j'suis pour rien dans tout ça, moi !
+
+HARBINGER 1	Nous allons renaitre dans les flammes du cinquième soleil !
+
+EDDIE	Non, non, arrêtez, arrêtez ! Mais qu'est-ce que c'est que ça ? Non, non, ne me touchez pas ! Vous n'êtes pas un humain !
+
+LAUREN	Est-ce que ça va ?
+
+EDDIE	(oh !) Oui !
+
+LAUREN	Génial ! Oh, mon dieu ! Mais ... Mais qu'est-ce que c'est que ça ?
+
+(BOUCLE 19 - 10:21:07:22)
+		19
+
+EDDIE	Eh ! Mais qu'est-ce que vous faites ? Les flics vont pas être d'accord pour que vous touchiez à tout ça !
+
+ARMSTRONG	Les flics, on les appelle pas.
+
+EDDIE	Mais qui êtes-vous exactement ?
+
+ARMSTRONG	Moins vous en saurez et mieux ça vaudra !
+
+EDDIE	Que se passe-t-il ? Pourquoi ce gars vous cherchait-il ?
+
+ARMSTRONG	Parce que je veux les empêcher de nuire !
+
+EDDIE	Ils veulent faire quoi au juste ?
+
+LAUREN	Donne-moi          la sérénité              d'accepter           les choses que je ne peux pas changer. Le courage de changer les choses que je peux transformer.
+
+EDDIE	Allez !
+
+LAUREN	Et la sagesse de savoir faire la différence entre les deux.
+
+EDDIE	(eh!) Mooonte ! On se casse, allez !
+
+(BOUCLE 20 - 10:22:02:07)
+		20
+
+LAUREN	(ah!) (ah!) (ah!) (h) (h) Qu'est-ce qu'on fait du type ?
+
+EDDIE	T'inquiète, Robocop va très bien s'en tirer !
+
+LAUREN	(h) Eddie,     je sais pas ce qui nous arrive      mais ce gars vient de nous sauver la vie !
+
+EDDIE	Ecoute, tu ferais bien de la fermer et surtout me laisser nous sortir de ce guêpier !
+
+LAUREN	(h)
+
+EDDIE	Il vient d'atomiser un mec ! Il s'en fout de nous !
+
+(BOUCLE 21 - 10:22:40:15)
+		21
+
+ARMSTRONG	Vous avez tort ! (ah!) J'ai besoin que vous m'aidiez ! Tous les deux ! Il faut qu'on s'en aille d'ici le plus vite possible !
+
+EDDIE	Ecoutez,       on a fait de notre mieux pour vous soigner, d'accord ? On a fait notre boulot !
+
+ARMSTRONG	Vous allez nous emmener et vous allez le faire maintenant !
+
+EDDIE	Nous ne voulons pas être mêlés à vos histoire à dormir debout !
+
+ARMSTRONG	Vous y êtes déjà mêlés jusqu'au cou puisque vous avez tout vu ! Le Messager a dû signaler que vous m'aviez recueilli et maintenant, ses camarades vous cherchent ! Alors, assez perdu de temps, démarrez ! (ah!) Rester avec moi est le meilleur moyen pour vous de rester en vie ! (ah!) Qu'est-ce que vous attendez ? En route ! (ah!) (ah!)
+
+EDDIE	Qu'est-ce qui vous prend de jeter notre équipement ? Super ... c'est super !
+
+(BOUCLE 22 - 10:24:37:12)
+		22
+
+LAUREN	Tu crois que c'est quoi son truc ?
+
+EDDIE	J'en ai rien à foutre, regarde l'état de mes doigts ! Regarde ! T'as vu ce qu'il m'a fait ?
+
+LAUREN	Central, Ambulance 32. Central, Ambulance 32 !
+
+EDDIE	Et où est-ce qu'on va ?
+
+ARMSTRONG	Roulez !
+
+(BOUCLE 23 - 10:25:37:17)
+		23
+
+ARMSTRONG	L'un d'entre vous a communiqué avec quelqu'un depuis que vous m'avez trouvé ?
+
+EDDIE	Non ! On n'arrive à avoir personne, on n'a pas de réseau.
+
+LAUREN	Pourquoi vous nous demandez ça ?
+
+ARMSTRONG	Parce qu'ils ont un système très sophistiqué qui leur permet de brouiller toutes les communications. Maintenant qu'ils m'ont localisé, ils vont tout faire pour me suivre.
+
+LAUREN	Et si on utilise nos téléphones ?
+
+ARMSTRONG	Ils vont les tracer aussi. D'ailleurs, donnez-moi le votre. Vous en avez un aussi ?
+
+EDDIE	Je veux pas vous le donner !
+
+ARMSTRONG	On doit prendre toutes les précautions pour pas être localisés.
+
+LAUREN	Laisse-le enlever tes batteries pour pas qu'on soit traçable.
+
+EDDIE	A qui es-tu censée obéir, toi ? Non, ne touchez pas à ça, nom de dieu ! (ouahouh!)
+
+LAUREN	Vous,   vous avez fait quoi ?
+
+ARMSTRONG	C'est électro-magnétique, c'est pour empêcher les téléphones d'émettre.
+
+(BOUCLE 24 - 10:26:29:20)
+		24
+
+EDDIE	Il devait juste enlever les batteries, hein ? C'est super, on a plus de téléphone, plus de liaison avec le Central, personne pour nous venir en aide. Vraiment super !
+
+ARMSTRONG	Ici ! Mettez-vous à gauche après le pont puis garez-vous !
+
+EDDIE	Il peut rien nous arriver de bon si on se gare sous ce pont.
+
+Insert	2h40
+
+ARMSTRONG	Eteignez les phares.
+
+EDDIE	Ok,    vous savez quoi ? Vous allez arrêter de me donner des ordres. C'est mon véhicule ! C'est moi le responsable et j'veux que vous dégagiez !
+
+LAUREN	Eddie, j'crois que tu devrais te calmer et ...
+
+EDDIE	J'me fous de ce que tu penses, je veux qu'il s'en aille !
+
+LAUREN	Je pense simplement que tu commets une erreur !
+
+EDDIE	Vous avez entendu ce que j'ai dit ? Qu'est-ce qu'il y a ?
+
+ARMSTRONG	Vous avez raison ! C'est votre ambulance, c'est vous le chef !
+
+EDDIE	Ouais ! C'est moi le chef ! C'est vrai ! Alors, descendez ! Allez !
+
+ARMSTRONG	Merci de vous être arrêté et de m'avoir aidé !
+
+LAUREN	Non mais restez ! Euh   attendez ! Que va-t-il se passer si on croise un de ces soldats ?
+
+ARMSTRONG	Vous n'aurez qu'à croiser les doigts pour ne pas qu'il vous voie !
+
+EDDIE	Il ne va rien nous arriver parce qu'on va aller chez les flics !
+
+ARMSTRONG	Soyez prudents !
+
+LAUREN	Dis donc, quand on l'a ramassé, tu m'as dit qu'on était là pour aider les personnes qui en avait besoin !
+
+EDDIE	On voit que c'est pas toi qui a eu les mains derrière la tête avec une arme prête à te faire exploser la cervelle ! T'as aucune idée de ce que c'est que d'être à deux doigts de crever, t'as compris ?
+
+(BOUCLE 25 - 10:27:56:11)
+		25
+
+LAUREN	Ca se voit que tu sais vraiment rien sur moi.
+
+EDDIE	(eh!) Tu sais quoi ? On devrait s'éloigner des fenêtres !
+
+LAUREN	(h) (h) (h) (h) (h) (h) (h) (h) (h) (h) (h)
+
+EDDIE	Peut-être que c'était la police ?
+
+LAUREN	(h h h h h h h) Quelque chose me dit que c'était pas eux ! (h)
+
+EDDIE	Ok, essaye de te calmer.
+
+LAUREN	(h) (ah!) On aurait jamais dû le laisser partir ! (h) (h) (h)
+
+EDDIE	On va s'en aller d'ici le plus vite possible et tu verras que bientôt, ce sera plus qu'un mauvais souvenir !
+
+LAUREN	(h) (h) (h) (uh uh) Okay ! D'accord !
+
+(BOUCLE 26 - 10:29:06:21)
+		26
+
+EDDIE	Te lève pas ! Surtout, te lève pas ! Reste comme ça !
+
+(BOUCLE 27 - 10:29:37:06)
+		27
+
+EDDIE	(oh !) Merde !
+
+HARBINGER 2	(ah!)
+
+EDDIE	Ils étaient pas trois tout à l'heure ?
+
+ARMSTRONG	(h h h h h h h h h h) (ah!)
+
+HARBINGER 2	(ah!)
+
+ARMSTRONG	(ah!)
+
+HARBINGER 2	(aaaaaaaaaaaaah!) (ah!) (ah!)
+
+ARMSTRONG	Combien d'hommes avez-vous déployé ?
+
+HARBINGER 2	Une compagnie entière !
+
+ARMSTRONG	Non, c'est pas vrai ! Il n'y a pas de compagnie sur la côte ouest !
+
+HARBINGER 2	(ah!) (h) (h) (h)
+
+ARMSTRONG	Vous n'êtes pas plus d'une douzaine !
+
+HARBINGER 2	(h) On est bien assez pour te régler ton compte !
+
+ARMSTRONG	Qu'est-ce qu'il y a comme mesure de sécurité sur les deux derniers sites de forage ?
+
+HARBINGER 2	(h) Insiste pas ! J'dirai rien ! (ah!) Sache que tu ne peux rien contre la destinée qui nous attend tous ! (ah!) (h) (h) Comment comptes-tu survivre alors que t'as besoin de notre énergie pour te ressourcer ?
+
+ARMSTRONG	Jusque là, j'me suis débrouillé !
+
+HARBINGER 2	(ah!) Tu es un traitre ! (h) La suite risque d'être terrible pour toi ! Ils vont te reprendre tes armes avant de te réduire en mille morceaux et nous autres, pendant ce temps-là, on embarquera pour le voyage de la rédemption qui a déjà commencé ! (ah!h h h h h h h) Tu es tout seul ! (h) Tu ne peux rien contre une armée toute entière ! (ah!)
+
+(BOUCLE 28 - 10:30:54:01)
+		28
+
+LAUREN	Attention, derrière !
+
+ARMSTRONG	(ah!)
+
+HARBINGER 2	(h) L'homme que vous voulez aider est une menace ! Il nous a échappé il y a quelques mois. Et maintenant, nous essayons de l'empêcher de causer euh plus de dégâts qu'il en a déjà faits ! Il va faire exploser d'autres bâtiments ! Et tuer d'autres innocents ! Il est en train de vous manipuler, j'vous assure ! Avez-vous pu appeler des renforts au moins ? Vous a-t-il autorisé à appeler les secours ? Probablement que non ! Il doit y avoir une raison à ça ? Il faut absolument qu'on le récupère ! A votre avis, qui a causé cette explosion qui a détruit un entrepôt en entier ce soir ? (ah ah ah ah ah ah !)
+
+ARMSTRONG	(h) (h) (h) Il vous a raconté des mensonges ! Croyez-moi, j'vous en supplie !
+
+LAUREN	(ah!)
+
+(BOUCLE 29 - 10:31:52:12)
+		29
+
+LAUREN	(h) Qui sont ces gens ?
+
+ARMSTRONG	(h) Des Messagers ! Ce sont les troupes de choc d'une organisation appelée le Cinquième soleil.
+
+LAUREN	Vous en êtes membre ?
+
+ARMSTRONG	Je l'étais. Mais je n'étais pas un simple soldat, je faisais partie des nombreux cobayes.
+
+LAUREN	Que voulait-t-il dire quand il nous a révélé que c'est vous qui avez causé l'explosion de ce soir ?
+
+ARMSTRONG	Ecoutez, il faut que vous sachiez qu'absolument aucun civil n'a été tué ce soir ! J'ai effectué une reconnaissance avant de faire tout exploser. J'ai repéré six victimes mais c'était toutes des membres du Cinquième Soleil.
+
+EDDIE	Nom de dieu ! Ce qu'on est bêtes ! T'entends ce qu'il dit ? Le macchabée avait raison ! On a ... on a aidé un enfoiré de terrorriste !
+
+LAUREN	Eddie, laisse-le un peu s'expliquer !
+
+EDDIE	Non ! Il a fait exploser un bâtiment et o l'a aidé à s'échapper ! (ah! ouille!) (ah!)
+
+ARMSTRONG	Voulez-vous que j'vous ...?
+
+EDDIE	Enlevez cette saloperie de ma vue !
+
+ARMSTRONG	Je peux vous aider à soulager la douleur !
+
+EDDIE	Tout va bien !
+
+ARMSTRONG	Quand vous m'avez découvert, j'étais à moitié conscient, je n'avais pas le contrôle de la puissance de mon système.
+
+EDDIE	C'est ça, ouais !
+
+(BOUCLE 30 - 10:32:53:04)
+		30
+
+EDDIE	(h)
+
+ARMSTRONG	C'est de l'amino-amide très sophistiqué.
+
+Auteur	(antalgique)
+
+ARMSTRONG	On l'administre grâce à un injecteur. (ah!) C'est vraiment sans danger ! Ca fait disparaitre immédiatement la douleur. (ah!) (ah!) Eddie, il faut avoir confiance en moi ! Je vais pouvoir vous aider, je suis tout sauf un terrorriste !
+
+EDDIE	(ah!) (ooooooooooh !) Je ne sais plus quoi penser. Bon ... allez-y ! (ah ah ah ah ah ah !)
+
+LAUREN	Expliquez-nous ce qui est en train de se passer !
+
+ARMSTRONG	Le Cinquième Soleil veut tuer le plus de gens possible. J'essaye d'empêcher une extermination massive. C'est une secte apocalyptique extrêmement puissante, bien organisée et mondialement implantée, ils sont persuadés que le monde va finir dans un tremblement de terre.
+
+(BOUCLE 31 - 10:33:58:01)
+		31
+
+EDDIE	J'ai déjà entendu ce genre de conneries, vous faites référence aux croyances aztèques, pas vrai ? Et toi qui disais que j'étais idiot d'écouter les discours des prédicateurs, et ben ! Ce sont les mêmes absurdités dont il nous parle ! Les Aztèques,      ils croyaient que chaque soleil représente un des cycles de la Terre !
+
+ARMSTRONG	La création et la destruction. Tous les adeptes du Cinquième Soleil croient que s'ils contrôlent la destruction de notre planète, ils seront les seuls à être sauvés.
+
+EDDIE	Comment être sûr que vous n'êtes pas un illuminé qui écoute les mêmes élucubrations qui me fascinent ?
+
+ARMSTRONG	Est-ce que cette chose a l'air d'une boite de conserve ?
+
+LAUREN	(euh) Alors, le compte à rebours a commencé ?
+
+ARMSTRONG	Grâce à leurs immenses resssources, ils ont acquis des ogives nucléaires à longue portée. Et ils vont essayer de les envoyer dans le monde entier. Et là, je vous parle du massacre qui va toucher des milliers de gens     que dis-je des millions d'êtres humains ! Et ils ont décidé de commencer ce soir, ici, à Los Angelès. Il reste deux autres sites dans la ville qu'ils vont détruire. Maintenant vous comprenez pourquoi il faut que vous m'aidiez ?
+
+EDDIE	(pff!)
+
+(BOUCLE 32 - 10:35:08:08)
+		32
+
+ARMSTRONG	(hm) Nous sommes ici depuis trop longtemps. Il faut qu'on s'en aille !
+
+EDDIE	(oh ! oh!)
+
+ARMSTRONG	(ah!)
+
+EDDIE	Ecoute, c'est n'importe quoi ce qu'il nous raconte !
+
+LAUREN	Et s'il dit vrai, la ville va être rayée de la carte et on va tous mourir ! (ohm)
+
+EDDIE	Ouais, t'as raison ! (oh !) (oh !) T'imagines l'engueulade que je vais me prendre quand j'vais ramener l'ambulance dans cet état?
+
+(BOUCLE 33 - 10:36:07:16)
+		33
+
+ARMSTRONG	C'est la prochaine à gauche. Continuez.
+
+EDDIE	Dites-moi voir ... comment avez-vous fait connaissance de ces gens du Cinquième Soleil ?
+
+ARMSTRONG	J'avais le profil du vétéran lambda. J'ai pas de famille, pas d'amis véritables, bref, pas d'avenir. Ils m'ont recruté et m'ont offert un boulot. J'étais tout acquis à la cause. Mais plus je découvrais de choses sur cette cause, et sur la façon dont ils se servaient de moi, et plus j'avais envie de m'échapper.
+
+(BOUCLE 34 - 10:36:47:18)
+		34
+
+LAUREN	C'est quoi ces ustensiles ?
+
+ARMSTRONG	Ce sont des détonateurs électroniques. Je leur ai volés avant de m'enfuir. Ils vont me permettre de détruire les sites de forage sans me faire repérer. Le Cinquième Soleil ne sera plus en mesure d'agir une fois que le compte à rebours aura commencé.
+
+LAUREN	Et si jamais vous échouez, qu'est-ce qui va se passer ?
+
+ARMSTRONG	Alors, ils déclencheront leurs armes nucléaires et la fin du monde commencera. Ralentissez ! C'est le second site de forage. Garez-vous ici. Vous allez m'attendre au garage du dernier sous-sol. J'ai programmé l'explosion dans quinze minutes. Dans dix, j'suis là. N'essayez pas de communiquer à la radio ! (ah!)
+
+(BOUCLE 35 - 10:37:48:06)
+		35
+
+ARMSTRONG	(ah!) (ah!)
+
+EDDIE	Surtout, nous remerciez pas !
+
+(BOUCLE 36 - 10:38:16:02)
+		36
+
+Insert	3heures.
+
+EDDIE	Alors, cette première journée de boulot, ça te plait ?
+
+LAUREN	(ah ah ah ah ah ah !) Quand ils m'ont dit que j'allais travailler de nuit, je me suis dit que j'allais grave m'ennuyer mais ... jamais j'aurais imaginé ce qui m'attendait ...
+
+Auteur	(rire BF .................................)
+
+EDDIE	(mmmmmmmmmmmmmmmmmm)
+
+LAUREN	c'est sûr.
+
+EDDIE	(mmm)
+
+LAUREN	(h) Alors, comment t'en es arrivé à travailler comme ambulancier de nuit, raconte-moi.
+
+EDDIE	(h) Et ben, on va dire que j'étais pas trop sérieux quand j'étais jeune. Dès qu'y avait une connerie à faire je fonçais les yeux fermés. Alors, quand j'ai décroché le job, je me suis dit que ce serait un moyen de (tt) payer les études de mon môme, la pension de mon ex. Et gâter mon gamin de temps en temps !
+
+(BOUCLE 37 - 10:39:23:03)
+		37
+
+EDDIE	(h) Et en plus, y'a moins de monde pour t'emmerder quand t'es de l'équipe de nuit. Tu vois ?
+
+LAUREN	Mmmm (mmh)
+
+Auteur	(inspire, expire)
+
+LAUREN	(h)
+
+EDDIE	C'est quoi ce tatouage ?
+
+LAUREN	J'l'ai fait pour mon grand frère, Jason. J'étais avec lui en permanence. Je faisais toujours ce qu'il voulait que je fasse. Mais c'est vraiment pas évident de suivre quelqu'un qui s'est déconnecté de la réalité. Tu comprends ? (h) Il a commencé par l'alcool, et ensuite, la drogue. (h) Et une nuit, il est revenu à la maison et il est mort dans le salon.
+
+(BOUCLE 38 - 10:40:40:09)
+		38
+
+LAUREN	Le lendemain, quand je me suis réveillée, (h) il était allongé sur le canapé. Il ne respirait plus. J'savais pas quoi faire. J'étais tétanisée.
+
+EDDIE	(h) J'm'en doute.
+
+LAUREN	(h)
+
+Auteur	(inspire)
+
+LAUREN	Mai deux mille neuf, c'était le quatre. (tt) (mm) C'est le jour où je l'ai trouvé mort. (snif) (h) C'est là que j'me suis jurée de faire quelque chose de ma vie. (h) Et de devenir clean. (snif)
+
+(BOUCLE 39 - 10:41:50:07)
+		39
+
+LAUREN	(mm) (h) (h h h h  h h h h) J'aurais dû appeler une ambulance à la seconde où je l'ai trouvé. (ah!) (snif) Mais j'ai pas téléphoné. (h)
+
+Auteur	(inspire)
+
+LAUREN	Si un infirmier ... si un infirmier était venu le voir... (mm)
+
+Auteur	(inspire en reniflant)
+
+LAUREN	(sniiiiiiiiiiiiiiif !) (ah!) (mm)
+
+(BOUCLE 40 - 10:42:48:05)
+		40
+
+LAUREN	(snif)
+
+EDDIE	(snif) Un jour, je me libèrerai enfin de ces saloperies.
+
+LAUREN	(h) (snif)
+
+EDDIE	T'en veux ?
+
+LAUREN	(mm) Non. J'ai arrêté. Il y a un bout de temps.
+
+EDDIE	T'es sûre ?
+
+LAUREN	(mm)
+
+EDDIE	Dans ce cas, j'insiste pas, ce serait bête que tu reprennes..
+
+(BOUCLE 41 - 10:44:07:10)
+		41
+
+SPONSOR	Dis la prière avec moi.
+
+LAUREN	(h) (h) (hh h h h h h  h h h h)
+
+SPONSOR	Dis la prière avec moi.
+
+LAUREN	(h) (h) (h)
+
+SPONSOR	Dis la prière avec moi. Donne-moi la sérénité
+
+HARBINGER 1	(ah ah ah ah ah ah !)
+
+SPONSOR	d'accepter les choses que je ne peux pas changer. Dis la prière avec moi.
+
+(BOUCLE 42 - 10:45:08:01)
+		42
+
+EDDIE	Non, fais pas ça, Lauren.
+
+LAUREN	Quand est-ce que tu vas me foutre la paix ? Il y a un tas de choses qui me sont arrivé et je trouve que j'me débrouille pas si mal. J'sais pas pourquoi vous croyez tous que j'suis pas capable de me débrouiller seule !
+
+EDDIE	(eh, eh eh !) Sur un autre ton, ma jolie, sur un autre ton ! Me rend pas responsable de ce que les autres ont pu te faire ! Moi, tout ce que j'veux       c'est te protéger, d'accord ? Tu devrais pas prendre cette merde !
+
+LAUREN	(euhm) Je sais ce que je dois faire J'ai besoin de personne pour me le dire !
+
+EDDIE	Tu sais que j'suis ambulancier depuis longtemps et j'ai connu de nombreux débutants, toi, t'as la chance d'avoir un cerveau qui fonctionne bien mais t'as peur de t'en servir  !
+
+LAUREN	(h) Je viens de te raconter tout ce que j'ai vécu ! Et après ça, t'oses encore me faire chier ? Est-ce que tu t'es regardé dans un miroir ces temps ci ? En tous cas, moi, j'suis pas une vieille aigrie de tordue qu'en veut à la terre entière !
+
+(BOUCLE 43 - 10:46:09:23)
+		43
+
+EDDIE	La dernière chose que je voudrais que tu fasses ce serait de te comparer à moi. C'est un conseil d'ami, j't'assure !
+
+LAUREN	Eddie...
+
+EDDIE	(ah!)
+
+LAUREN	(ah!) (ah!) Eddie? Eddie, j't'en supplie, réponds-moi ! Eddie ! Allez, Eddie ! (ah!)
+
+(BOUCLE 44 - 10:47:43:20)
+		44
+
+LAUREN	(h) (ah!)
+
+HARBINGER 1	(oh !)
+
+LAUREN	(h) (h) (oh !) (oh !)
+
+(BOUCLE 45 - 10:48:45:13)
+		45
+
+HARBINGER 2	(h) Vous ne pourrez pas changer le destin qui nous attend tous.
+
+LAUREN	(h) Ca suffit ! (h) Vous venez de tuer mon collègue qui ne vous avait rien fait !
+
+HARBINGER 2	Notre plan vient de débuter. Nous serons tous ressuscités dans une nouvelle ère. Donnez-nous votre passager. Il est condamné. Il va mourir ! Tout seul.
+
+LAUREN	Et qu'est-ce qui vous fait croire qu'il est tout seul ?
+
+HARBINGER 2	(ah!) Vous ne ... (h)
+
+(BOUCLE 46 - 10:50:06:00)
+		46
+
+LAUREN	(ah!) Oh, oui !
+
+(BOUCLE 47 - 10:50:21:19)
+		47
+
+ARMSTRONG	C'est moi ! ne vous inquiétez pas ! Qu'est-ce qui s'est passé ?
+
+LAUREN	Eddie est mort. Elle l'a tué. Nous vous sommes venus en aide. Vous deviez nous protèger ?
+
+ARMSTRONG	Je suis désolé.
+
+LAUREN	(mmm) (tt) Je suis censée venir en aide à ceux qui en ont besoin !
+
+ARMSTRONG	J'ai commis une énorme erreur, je ne voulais pas que ça se passe comme ça.
+
+LAUREN	Eddie est mort à cause des histoires auxquelles vous nous avez mêlé ! Vous entendez ce que je vous dis ? Il avait raison ! On aurait dû appeler la police et vous laisser vous débrouiller tout seul !
+
+ARMSTRONG	Arrêtez ! Ca suffit, maintenant !
+
+LAUREN	(ah!)
+
+ARMSTRONG	Taisez-vous et m'écoutez moi !
+
+LAUREN	(h)
+
+ARMSTRONG	Quand j'ai découvert ce qu'ils voulaient faire à Los Angelès, j'ai eu très peu de temps pour réagir !
+
+LAUREN	(h)
+
+ARMSTRONG	J'ai fait tout ce que j'ai pu afin de me préparer au mieux ! Alors, c'était sûrement pas le plan parfait mais il fallait que je me débrouille ! Est-ce vous réalisez que si jamais leur plan réussit, énormément de personnes seront tuées ! Et pas seulement ici mais dans le monde entier ! Ce n'est que le début !
+
+(BOUCLE 48 - 10:51:35:23)
+		48
+
+ARMSTRONG	Je les combats avec ce que je sais faire de mieux !
+
+LAUREN	En tous cas, pour l'instant, on peut pas dire que ce soit une réussite, pas vrai ? Armstrong, je vous ai vu atomiser un homme sous nos yeux ! Si vous savez faire ça, vous devriez, vous devriez être toujours du côté des vainqueurs !
+
+ARMSTRONG	J'ai pris tout ce que j'avais à ma disposition quand je me suis échappé, Et cet équipement requiert de la puissance et une maintenance suivie, il est loin d'être autonome ! Jamais auparavant, je n'avais à eu à mener une telle bataille ! (h) J'suis désolé !
+
+(BOUCLE 49 - 10:52:35:17)
+		49
+
+HARBINGER HELMET	Nous modifions notre programme . Préparez-vous pour l'explosion. Le messager un est en place, prêt à agir. Désormais, on ne peut plus récupérer les armes.
+
+ARMSTRONG	Qu'est-ce que c'est ?
+
+HARBINGER HELMET	La force léthale est requise. Positionnez Richter 5 sur les intersections qui jouxtent le site de Charlie afin de sécuriser le périmètre.
+
+LAUREN	C'est quoi Richter 5 ?
+
+ARMSTRONG	L'hélicoptère de tout à l'heure.
+
+LAUREN	Et le site de Charlie ?
+
+ARMSTRONG	Le dernier site de forage.
+
+HARBINGER HELMET	Je répète: Positionnez Richter 5 sur les intersections qui jouxtent Charlie.
+
+LAUREN	Il faut y aller ! Vite ! Y'a pas de temps à perdre !
+
+Insert	3h40.
+
+(BOUCLE 50 - 10:53:07:11)
+		50
+
+LAUREN	Vers où on se dirige ?
+
+ARMSTRONG	De l'autre côté de la rivière. Qu'est-ce que c'est ?
+
+LAUREN	Une belle connerie. Tout ce qui s'est passé                          ce soir,                         ça a été dur à encaisser. Alors, j'ai merdé. Mais j'veux plus jamais recommencer. Je jure que plus jamais jamais je ne le referai. Je le promets.
+
+ARMSTRONG	(h) Ca risque d'être une promesse trop difficile à tenir. Je vous conseille de prendre chaque jour l'un après l'autre.
+
+LAUREN	P't'être que c'est ça le problème, si vous prenez chaque jour l'un après l'autre, impossible d'envisager l'avenir.
+
+(BOUCLE 51 - 10:54:24:07)
+		51
+
+ARMSTRONG	(ah!) (h) J'aurais jamais réussi à m'échapper si j'avais regardé aussi loin et si j'avais su à quel ennemi j'allais devoir me mesurer. Depuis que je suis devenu un fugitif, je prends les choses une par une. J'élimine mes adversaires au fur et à mesure. Et pour l'instant, cette technique m'a sauvé la vie.
+
+LAUREN	Essayer de rester en vie, c'est tout ce que vous faites ?
+
+ARMSTRONG	Tant que je suis en vie, je peux veiller à ce que d'autres le restent aussi.
+
+LAUREN	C'est sûr. Peut-être qu'il y a une autre façon de procéder, on pourrait peut-être imaginer ... un plan ?
+
+ARMSTRONG	Je vous ai dit qu'on était assez pressés. J'ai fait 2 semaines d'entrainement avec ce truc et je connaissais l'environnement. J'apprends au fur et à mesure. Quand je fais une erreur, j'essaye de pas recommencer.
+
+LAUREN	Vos erreurs nous ont coûté très cher.
+
+ARMSTRONG	J'en suis conscient. Ainsi que je vous l'ai dit, j'essaye de faire au mieux.
+
+(BOUCLE 52 - 10:55:28:01)
+		52
+
+LAUREN	On peut pas les laisser impunis après ce qu'ils ont fait à Eddie. Est-ce que vous pouvez me le promettre? Cool !
+
+(BOUCLE 53 - 10:56:10:24)
+		53
+
+LAUREN	Ca y est ! Ils nous ont retrouvés !
+
+ARMSTRONG	(oh !)
+
+LAUREN	Bordel de merde ! Qu'est-ce que j'dois faire ?
+
+ARMSTRONG	Ne ralentissez pas, continuez ! Accélérez ! Plus vite ! Je vais essayer de les descendre ! S'ils ouvrent le feu, vous essayerez de changer de direction le plus possible !
+
+(BOUCLE 54 - 10:57:12:14)
+		54
+
+LAUREN	Nom de dieu !
+
+ARMSTRONG	Le revoilà ! (ah!)
+
+LAUREN	On réussira pas à le distancer !
+
+ARMSTRONG	Accélérez ! Où est-ce que vous allez ?
+
+LAUREN	C'est un raccourci ! Vous le voyez ?
+
+ARMSTRONG	Non ! Continuez à rouler !
+
+(BOUCLE 55 - 10:58:28:09)
+		55
+
+ARMSTRONG	J'ai plus beaucoup de batterie ! Si je recharge pas rapidement, j'vais plus pouvoir leur tirer dessus !
+
+LAUREN	Ca y est ! Le revoilà !
+
+ARMSTRONG	Allez ! Accélérez ! (ah!) (aaaaaaaaaaaah!) (aaaaaaaaaaaaaaaaaaaah!)
+
+LAUREN	(euh) Ca va aller ?
+
+ARMSTRONG	(ah!)
+
+LAUREN	Armstrong, répondez-moi, ça va aller ?
+
+ARMSTRONG	(ah!) (ah) (ah!) (ah!) (ah!) (ah!) (ah!) (ah!) Non !
+
+LAUREN	(ah!)
+
+ARMSTRONG	(ah!) (ah!) J'ai perdu ma batterie ! J'peux plus tirer !
+
+LAUREN	Merde !
+
+ARMSTRONG	Ne vous arrêtez pas !
+
+LAUREN	Tenez !
+
+ARMSTRONG	(h) (h)
+
+LAUREN	Allez !
+
+ARMSTRONG	(h) (h) (h) (h)
+
+(BOUCLE 56 - 10:59:44:03)
+		56
+
+ARMSTRONG	(h)
+
+LAUREN	Qu'est-ce qu'il y a ? Magnez-vous !
+
+ARMSTRONG	Les stabilisateurs se sont remis en action ! Aidez-moi !
+
+LAUREN	Mais qu'est-ce que je dois faire exactement ?
+
+ARMSTRONG	Tenez-le droit jusqu'à ce que le vert s'allume pour que le système de tir puisse être activé !
+
+LAUREN	Okay ! Ca y est !
+
+ARMSTRONG	(h) (h)
+
+LAUREN	Allez !
+
+ARMSTRONG	(h) (h) (h)
+
+LAUREN	Tirez Armstrong !
+
+ARMSTRONG	(h) (h)
+
+LAUREN	(ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah !) On l'a eu ! (ah ah ah ah ah ah !)
+
+ARMSTRONG	(h)
+
+LAUREN	On a réussi !
+
+ARMSTRONG	(h) (h) (h) (h)
+
+LAUREN	Qu'est-ce qu'il y a ?
+
+ARMSTRONG	(h) L'impulsion électro-magnétique n'est pas une arme anti-aéronef. (h) (h) L'hélico est touché mais ils vont bientôt réparer ! (h) En attendant, le compte à rebours continue à tourner. (ah!) Ils savent que j'lâcherai rien. (ah!) (ah!) Les Messagers sont déjà en train de préparer la riposte en ce moment. (ah!) (ah!) Il faudrait que je réussisse à utiliser le GPS.
+
+(BOUCLE 57 - 11:01:07:19)
+		57
+
+LAUREN	Et maintenant, on fait quoi ?
+
+ARMSTRONG	Bordel, c'est pas possible ! (ah!) Ils ont désactivé la balise ! J'peux plus localiser le site !
+
+LAUREN	C'est quoi ce site, une sorte d'entrepôt ?
+
+ARMSTRONG	Non, ça ressemble plutôt à une usine, un complexe industriel, vous voyez ce que j'veux dire ?
+
+LAUREN	Okay, et si vous le voyez, vous le reconnaitrez ?
+
+ARMSTRONG	Oui. Sans doute. Un drone ! (ah!) (ah!) (ah!) (ah!) Quand il l'aura trouvé,      le capteur recueillera des informations. On saura où est le site et on renverra les infos jusqu'à mon bras.
+
+LAUREN	De ce côté ! Sur la gauche !
+
+ARMSTRONG	C'est là !
+
+LAUREN	Ouais !
+
+ARMSTRONG	La bonne nouvelle, c'est que le site semble être abandonné. Ils ont dû rappeler leur personnel. Il n'y a aucune zone à infra-rouges. Les scans thermiques ne donnent rien. (oh !) On va essayer le balayage de rayonnement. Si on trouve des radiations, on trouve la bombe.
+
+(BOUCLE 58 - 11:02:29:19)
+		58
+
+ARMSTRONG	Toujours rien. Je vais augmenter la sensibilité. C'est là ! Il y a des radiations ! C'est le site qui nous intéresse ! (ah!) (ah!)
+
+Auteur	(il tousse............................)
+
+ARMSTRONG	(ah ah ah ah ah ah ah ah ah ah ah !)
+
+LAUREN	Un coup de main ?
+
+ARMSTRONG	C'est bon, je vais bien !
+
+LAUREN	Non, c'est faux, vous avez été touché !
+
+ARMSTRONG	J'vais bien, j'vous dis ! (h) En route ! Il y a un portail dans l'aile sud du complexe.
+
+LAUREN	Okay !
+
+ARMSTRONG	(ah!)
+
+LAUREN	J'vais rouler tous feux éteints.
+
+ARMSTRONG	(ah!)
+
+LAUREN	Inutile d'attirer encore l'attention sur nous.
+
+ARMSTRONG	(ah!) (ah!) Va falloir aller vite ! (ah!) On n'a plus beaucoup de temps ! (ah!) (ah!) (ah!)
+
+(BOUCLE 59 - 11:04:53:11)
+		59
+
+ARMSTRONG	(ah!) (ah!) (ah!) (ah!) (ah!) Ca va. (ahhhhhhhhhhhhhhhhhhhhhh!)
+
+Auteur	(il tousse .....................................)
+
+LAUREN	Non, c'est faux !
+
+ARMSTRONG	Le dernier site est caché de l'autre côté de l'usine. Je vais essayer d'y aller à pied.
+
+LAUREN	Mais vous êtes blessé ! Vous pouvez à peine tenir debout !
+
+ARMSTRONG	Lauren, il est hors de question que je mette en danger la vie d'autre personnes !
+
+LAUREN	Vous avez dit que vous vouliez un coup de main ! Comment voulez-vous vous attaquer à eux tout seul ?
+
+ARMSTRONG	Lauren, je vous redis que je refuse que quelqu'un d'autre meure à cause de moi ! Si je fais de mauvais choix, ce sera la catastrophe ! Et ça m'est insupportable ! L'hélico a bien failli nous avoir et j'veux pas que vous finissiez comme Eddie ! Alors, maintenant, remontez dans votre ambulance et allez vous-en !
+
+Auteur	(il tousse .............................................)
+
+ARMSTRONG	(ah ah ah ah ah ah !)
+
+(BOUCLE 60 - 11:06:14:22)
+		60
+
+LAUREN	(eh!) (eh!) (h) (h) (h) Tout le monde m'abandonne depuis que je suis venue au monde ! Alors, j'vous laisserai pas me laisser vous aussi. Aujourd'hui, on est  partenaires ! Vous n'êtes plus seul vous non plus ! (h) Acceptez !
+
+ARMSTRONG	Vous avez déjà fait suffisamment en m'amenant jusqu'ici. Maintenant, sauvez-vous ! Retournez dans votre famille !
+
+LAUREN	Noon ! J'vous ai dit que j'ai plus de famille ! Et c'est la même chose pour vous ! Nous avons besoin l'un de l'autre !
+
+ARMSTRONG	Bien sûr que non ! Allez vous-en ! Et oubliez toute cette histoire, Lauren, allez vous en !
+
+LAUREN	Mais enfin, je rêve ? C'est une blague ? Qu'est-ce que je vais dire à la police pour ce soir ? Pour Eddie ?! La raison pour laquelle on est pas allés à l'entrepôt ce soir ? Vous croyez qu'ils vont croire une seule chose que j'pourrais leur dire sur vous ? A propos, à propos (...) à propos, à propos de ce foutu Cinquième Soleil, à propos (...) du fait que j'ai tué un Messager ?
+
+ARMSTRONG	Dites leur que je vous ai prise en otage ! Dites-leur que tout est ma faute et que j'me suis échappé !
+
+LAUREN	Noooon ! Si vous me laissez ce soir, je vais être tenue responsable de tout ce qui a pu foirer ce soir !
+
+(BOUCLE 61 - 11:07:23:14)
+		61
+
+ARMSTRONG	Vous n'avez fait que votre boulot, Lauren !
+
+LAUREN	(mm)
+
+ARMSTRONG	Mon boulot, c'était d'aller jusqu'à l'entrepôt que vous avez fait exploser !
+
+LAUREN	Au lieu de ça, on vous a récupéré ! Et aidé à sauver le monde, pas vrai ? Pas vrai ? Je suis dedans jusqu'au cou ! Reculer serait impossible !
+
+ARMSTRONG	Cours ! (ah!)
+
+LAUREN	(ah!)
+
+ARMSTRONG	(h) (h) (h) (h) (h)
+
+LAUREN	Comment allez-vous réussir à les combattre et à sauver le site à temps ?
+
+ARMSTRONG	J'vais y arriver !
+
+LAUREN	Nooon ! Donnez-moi le détonateur et dites-moi où le placer !
+
+ARMSTRONG	Non, Lauren, allez-vous en maintenant !
+
+LAUREN	Ca suffit ! On ne pas encore se prendre la tête sur ce sujet ! Vous devez me faire confiance comme moi, je l'ai fait avec vous !
+
+ARMSTRONG	(h) Okay. Prenez le détonateur et moi, je vais faire diversion ! Il y a un container de l'autre côté. Prenez ces escaliers et tournez sur la gauche !
+
+LAUREN	Et je fais comment pour pénétrer à l'intérieur ?
+
+ARMSTRONG	Le gant que vous portez a été tissé avec des capteurs d'accès. Vous placerez la main sur le symbole du Cinquième Soleil et vous pourrez entrer. Une fois dedans, (...) vous mettrez le détonateur le plus près de l'appareil ! Vous aurez alors quinze minutes pour sortir ! C'est bon ? Vous y êtes ?
+
+LAUREN	Oui ! Ca va aller.
+
+ARMSTRONG	Bon, on se retrouve à votre ambulance !
+
+LAUREN	Okay !
+
+ARMSTRONG	Allez-y ! Courez ! Allez !
+
+(BOUCLE 62 - 11:10:25:09)
+		62
+
+LAUREN	C'est là !
+
+(BOUCLE 63 - 11:12:06:00)
+		63
+
+HARBINGER 4	Retournez-vous !
+
+LAUREN	(h) (h) Non, faites pas ça !
+
+HARBINGER 4	Un grand destin nous attend !
+
+LAUREN	C'est ce qu'ils veulent vous faire croire, pas vrai ?
+
+HARBINGER 4	(ah!)
+
+LAUREN	Attendez ! Détruire Los Angelès                serait une catastrophe. Vous ne pouvez pas tuer toutes ces personnes ! J'vous en supplie ! Je crois que vous avez une jambe cassée.
+
+HARBINGER 4	Vous brûlerez dans les flammes du Cinquième Soleil !
+
+LAUREN	Vous devez beaucoup souffrir ! Je suis ambulancière !
+
+HARBINGER 4	(ah!)
+
+LAUREN	Je peux vous aider si vous me laissez faire.
+
+HARBINGER 4	(ah!)
+
+LAUREN	Mais il faut partir maintenant !
+
+HARBINGER 4	Vous brûlerez vous brûlerez dans les flammes du Cinquième Soleil. Vous brûlerez dans les flammes du Cinquième Soleil ! (ah!)
+
+(BOUCLE 64 - 11:13:18:05)
+		64
+
+LAUREN	(ah!) Ca va aller ! Ca y est ! Le détonateur est en place !
+
+ARMSTRONG	C'est parti !
+
+LAUREN	(h)
+
+ARMSTRONG	(h) (h) (h) (ah!)
+
+LAUREN	(h) (h) (ah!)
+
+ARMSTRONG	C'était ça ?
+
+LAUREN	Oui !
+
+ARMSTRONG	(h) (oh !)
+
+LAUREN	(ah!) (ah!)
+
+ARMSTRONG	(h)
+
+LAUREN	Qu'est-ce qu'il y a ?
+
+ARMSTRONG	J' vais pas pouvoir descendre l'hélico, mon appareil à impulsion magnétique a été touché !
+
+LAUREN	Utilisez ça !
+
+Auteur	Ca peut marcher mais
+
+LAUREN	Mais quoi ?
+
+Auteur	(...)
+
+ARMSTRONG	Ma gâchette a été endommagée, je ne peux plus utiliser le laser, j'ai besoin d'une source externe d'énergie.
+
+LAUREN	De quel genre ? Des cables de démarrage ?
+
+ARMSTRONG	Oui, ça, ça pourrait aller !
+
+LAUREN	(h) D'accord !
+
+ARMSTRONG	Il a fait le tour, il revient !
+
+(BOUCLE 65 - 11:14:42:06)
+		65
+
+LAUREN	Ca, c'est du 3000 volts mais seulement pour une fraction de seconde !
+
+ARMSTRONG	Ca devrait le faire !
+
+LAUREN	(uh uh) Okay.
+
+ARMSTRONG	Il faut les brancher sur ces fiches ! Et quand je serai prêt à tirer, activez le défibrillateur ! Il faut qu'on soit synchro pour que le laser fonctionne ! (h) Il se rapproche ! Allez !
+
+LAUREN	(h)
+
+ARMSTRONG	Dépêchez-vous !
+
+LAUREN	(h) J'y suis presque !
+
+ARMSTRONG	Allez, c'est maintenant !
+
+LAUREN	Ca charge ! Attendez ! Maintenant !
+
+ARMSTRONG	( aha ah ahahahahahahahahah!)
+
+Auteur	(il tousse .....................................................)
+
+LAUREN	(ah!) (ah!)
+
+Auteur	(rire)
+
+LAUREN	(ah!) (ah!)
+
+Auteur	(rire)
+
+LAUREN	On a réussi !
+
+Auteur	(il tousse)
+
+ARMSTRONG	(ahahahahahahahahahahhha!) On y est arrivés !
+
+LAUREN	Ouais ! (ah!) (ah!)
+
+ARMSTRONG	(aaaaaaaaaaaaaaaaaah!) (ah!)
+
+LAUREN	Qu'est-ce qu'il y a ?
+
+ARMSTRONG	(ah!) (ah!) (ah!) (ah!) (ah!) (ah!) (ah!)
+
+(BOUCLE 66 - 11:16:10:03)
+		66
+
+ARMSTRONG	(ah!) (ah!)
+
+LAUREN	Vous avez été touché.
+
+Auteur	(tousse)
+
+ARMSTRONG	(ah ah !)
+
+LAUREN	Faites un point de compression.
+
+ARMSTRONG	(ah!)
+
+Auteur	tousse
+
+ARMSTRONG	(ah!) Lauren, non !
+
+LAUREN	Je dois soigner votre blessure !
+
+ARMSTRONG	Ce n'est pas le plus urgent pour l'instant ! (ah!) (aïe !)
+
+LAUREN	Respirez !
+
+ARMSTRONG	(h) (ah!) Lauren, les montagnes, (ah!) (h h h h hh hhhhh) (aaaaaaaaaah!) La faille de la reine charlotte (h)
+
+LAUREN	De quoi ?
+
+ARMSTRONG	Ca se trouve là. Tout se trouve là. (ahahahahahhaahahah!)
+
+Auteur	il tousse ............................
+
+LAUREN	C'est presque fini.
+
+ARMSTRONG	(ah!) C'est là où aura lieu la prochaine attaque. (ah!)
+
+LAUREN	Ca va aller.
+
+ARMSTRONG	(ah!) (h) Oui, ça va aller. (h)
+
+(BOUCLE 67 - 11:18:16:18)
+		67
+
+LAUREN	C'est ma première nuit, c'est tout.
+
+SPONSOR	Tous les gens sont stressés quans ils commencent un nouveau boulot, tu sais. Ca va aller !
+
+LAUREN	Eddie. Eddie ! Attention !
+
+SPONSOR	Ca va aller de mieux en mieux ! Tu as travaillé si dur pour arriver jusqu'à ce soir, tu m'as toujours dit que tu voulais aider les autres !
+
+LAUREN	Qu'est-ce que je peux faire pour vous aider ? (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Auteur	rire .......................................................
+
+LAUREN	On a réussi !
+
+SPONSOR	Ca va aller ?
+
+LAUREN	(uh uh) (uh uh) (hhhhhh)
+
+Auteur	inspire ...........
+
+LAUREN	Ca va aller !
+
+(BOUCLE 68 - 11:19:25:09)
+		68
+
+LAUREN	Ici, l'ambulance 32, Central.
+
+DISPATCH	Ambulance 32, où est-ce que vous étiez passée ? Où êtes-vous ?
+
+LAUREN	Ambulance 32, nous sommes auprès d'une victime. Merci d'envoyer des renforts.
+
+DISPATCH	Bien reçu, ambulance 32. Nous vous envoyons des renforts immédiatement. Notre superviseur attend que vous le contactiez et que vous lui fassiez un rapport d'incident. Ambulance 32, est-ce que vous me recevez ?
+
+(BOUCLE 69 - 11:20:04:19)
+		69
+
+RADIO	Comment la fin du monde va-t-elle arriver à votre avis ?
+
+DISPATCH	Ambulance 32 ?
+
+RADIO	Pensez-vous qu'on va être prévenu d'une façon ou d'une autre ?
+
+DISPATCH	Ambulance 32, est-ce que vous me recevez ?
+
+RADIO	Non ! Pas du tout ! Quand ça arrivera, il sera déjà trop tard !
+
+DISPATCH	Allo ?
+
+RADIO	L'apocalypse arrivera sur notre monde doucement mais sûrement !
+
+DISPATCH	Ambulance 32 ? Répondez !
+
+RADIO	Les destructeurs suivront le plan qu'ils ont établi ! Je vous ai beaucoup parlé de mort et de destruction, ce soir, mes amis, mais ceci n'était pas un message de désespoir. C'est une injonction à passer à l'action ! J'ai toujours été un messager de l'espoir ! Et je crois tout autant aux Forces du Bien qu'aux forces du Mal ! Nous n'allons pas nous laisser faire et nous allons sortir victorieux de ce combat ! Je vous le promets !
+
+(BOUCLE 70 - 11:21:29:17)
+		70
+
+LAUREN	Ca va aller ! Vous allez tous vous en sortir vivants !
+
+
+Armstrong_Feature_1080p2398_8chEN_ProRes_auteur					06/04/2017
+
+
+
+
+ndeproduction@me.com		1
+
+
+
+
+

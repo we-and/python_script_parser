@@ -1,0 +1,1348 @@
+
+
+[ TITRE A RENSEIGNER ]
+
+
+
+
+
+INSERT	IMPOSTER Saison 2 épisode 11
+
+
+1 (10:00:00:00)
+
+
+2 (10:00:10:01)
+
+
+3 (10:00:20:05)
+
+MMABOTSE	Nana,
+
+
+4 (10:00:26:12)
+
+
+5 (10:00:39:21)
+
+
+6 (10:00:57:07)
+
+TEBZA	(réac)
+
+OUT (10:01:06:02)
+
+
+7 (10:01:16:14)
+
+TURBO	Ah, t'es là? Qu'est-ce que tu viens faire? Tu reviens pour embêter ta fille et lui causer du chagrin? Plus personne ne veut de toi ici. En réalité, moi non plus, je ne veux plus te voir. Tu n'es pas seulement un très mauvais père... tu es aussi un mauvais ami. D'ailleurs... tu devrais retourner d'où tu viens... de chez ta femme riche... et de ton nouveau fils chéri. C'est tout ce qui te tient à coeur, ces derniers temps.
+
+GARY	Tu parles toujours comme ça à tes amis?
+
+TURBO	Où est Tebza? Où est-il?
+
+GARY	Ah, maintenant tu t'en soucies? Tu viens de dire que je suis un mauvais ami.
+
+TURBO	Si tu ne me dis pas où est Tebza... (réac)
+
+GARY	(réac) Tu fais quoi? Je crois que t'oublies à qui tu parles. Alors... il vaut mieux (h) que tu te calmes. Tu ne veux pas t'en prendre à moi, crois-moi.
+
+TURBO	(mt) (mt)
+
+
+8 (10:02:16:08)
+
+TURBO	Tu fais quoi ici?
+
+GARY	Je fais semblant... d'être quelqu'un d'autre. Ce n'est pas ce que font tes amis? Il me semble que ton copain s'est bien amusé à prendre ma place, à vivre chez moi, à prétendre être le père de mon fils, à manger... à table avec ma femme. Je crois que le temps est venu de lui rendre la pareille, et voir si on est de bons acteurs dans la famille.
+
+TURBO	Ah, je... j'en ai par-dessus la tête de toute cette histoire, tu sais, je...
+
+GARY	T'as pas écouté ce que j'ai dit? Ton copain... aussi pathétique qu'il soit, (h) mourra de mes propres mains... si tu ne m'écoutes pas. Aujourd'hui,... il faut faire en sorte que tout le monde croit que je suis Tebza. Compris?
+
+TURBO	(mt) O... o... oui, oui.
+
+GARY	Par où je commence?
+
+TURBO	(mt) Bah, d'abord... tu peux nettoyer l'intérieur de la voiture. On est en train de laver la carrosserie, alors, tu peux commencer à nettoyer à l'intérieur.
+
+GARY	Donne-moi une brosse.
+
+
+9 (10:03:20:21)
+
+INSERT	Générique de début.
+
+
+10 (10:04:07:22)
+
+BIG DADDY	Hey,
+
+TEBZA	(réac) (hhum)
+
+BIG DADDY	réveille-toi.
+
+TEBZA	(huum)
+
+BIG DADDY	Hey!
+
+TEBZA	(hhum) (sniff) (hahh) (h) (mts) (hh) (sniff)
+
+BIG DADDY	Tu es très courageux...
+
+TEBZA	(mthh) (hh)
+
+BIG DADDY	mais tu es vraiment bête.
+
+TEBZA	(hh)
+
+BIG DADDY	Tu sais qu'il n'y a aucun homme dans ce pays qui ose m'affronter?
+
+TEBZA	(hh)
+
+BIG DADDY	Les femmes, oui, elles ont l'habitude de tenter leur chance, mais les hommes, aucun! (h) Les femmes vont jusqu'au bout, les hommes sont trouillards. (hum)?
+
+TEBZA	(hum) (tcs) (réac douleur) (huum) (mhhh)
+
+BIG DADDY	Demande-moi pourquoi je t'ai épargné et tu es encore en vie.
+
+TEBZA	(h) (hhh)
+
+BIG DADDY	Normalement, tu serais déjà en train de dire bonjour à tes ancêtres.
+
+TEBZA	(hhm) (hh) (hh) (hh) (h) (hh) (h) Je te jure... (h) (hh) que je n'ai pas essayé de t'éliminer.
+
+BIG DADDY	Non mais, tu te paies ma tête ou quoi, tu me prends vraiment pour une idiote, c'est ça?
+
+TEBZA	(hh) (hh) (réac) (hh) (hh)
+
+BIG DADDY	Pense avant de parler!!
+
+TEBZA	(hh) J'ai un frère jumeau. (h) (hhcch)
+
+
+11 (10:04:46:02)
+
+BIG DADDY	Quoi? Tu as un frère jumeau?
+
+TEBZA	(achh) (hh) Oui,... un... un escroc qui habite... (h) (mhmhmhh) à Kliptown. (h) (mhm) L'homme essaye de prendre ma place, (h) (eish) (h) et il a même voulu me tuer. (eishh) (h)
+
+BIG DADDY	Tu veux dire que c'est avec lui que j'ai eu à faire pendant tout ce temps?
+
+TEBZA	(eishh) (hh) (h) Oui, c'est ça. (h) (hh)
+
+BIG DADDY	(rire b.o.)
+
+TEBZA	(hh) (h) (hh) (h) (hh) (hh) (h)
+
+BIG DADDY	Gary... (rire)
+
+TEBZA	(h)
+
+BIG DADDY	(hh) j'ai déjà entendu des histoires rocambolesques dans ma vie, mais la tienne, elle est la plus étonnante de toutes, tu mérites un prix.
+
+TEBZA	(hum)
+
+BIG DADDY	Hein?
+
+TEBZA	(hh) (h)
+
+BIG DADDY	Ou alors, mieux que ça, une place parmi mes hommes, qu'en dites-vous messieurs, on le prend dans l'équipe?
+
+TEBZA	(huh)
+
+AMBIANCE	(rires: hommes)
+
+LITTLE DADDY	Oui vas-y, Big Daddy.
+
+BIG DADDY	(rire b. o.)
+
+TEBZA	Je... je... je... je l'ai poursuivi hier soir, je te jure, (h) (mt) (hh) (h) (hh) et mes hommes m'ont confirmé que tout ça est vrai. (hh) (ech) (hhuhh)
+
+
+12 (10:05:34:05)
+
+TEBZA	(mhhum) (sniff)
+
+BIG DADDY	Tu veux me faire croire que les idiots n'ont pas compris que quelqu'un essayait de prendre ta place?
+
+TEBZA	(huhmm) Il leur a dit qu'il était amnésique. (h) Je ne sais pas... il a dû être convaincant, je ne sais pas. (h) (hh) (h)
+
+BIG DADDY	(mmuhmm)
+
+TEBZA	(hh) (hhuh) (mh) (hahh) (hh)
+
+BIG DADDY	Alors,... si j'ai bien compris,... tu veux dire que c'est avec lui que j'ai négocié pendant tout ce temps?
+
+TEBZA	(hhahh) (mhhm) (h) Oui, (h) oui, depuis la chute de l'avion que... ça se passe comme ça. (h)
+
+BIG DADDY	(mhumm)
+
+TEBZA	(hh)
+
+BIG DADDY	Okay, maintenant explique-moi à nouveau tout ça parce que je n'ai pas bien compris.
+
+TEBZA	(réac douleur) (h) (hh) (h) (hh) (achh) (h) S'il te plaît, Big Daddy, je t'en prie, (h) (hh) je te dis la vérité. Crois-moi, (hh) (h) (hh) je t'en supplie, (hh) (h) c'est la vérité, (hh) (h) je t'en prie, crois-moi. (hh) (h)
+
+OUT (10:06:13:24)
+
+
+13 (10:06:16:02)
+
+KELEBOGILE	Tu as fini, Masego? Viens, c'est l'heure de partir. Et je t'ai mis du jus de pomme dans ton sac à dos, on n'a plus d'airelles. Et il ne faut pas oublier de boire de l'eau.
+
+VALETA	(mhumm!!) Ce goûter me semble très appétissant et équilibré.
+
+KELEBOGILE	Vous êtes là depuis combien de temps?
+
+VALETA	Suffisamment pour voir que tu es de plus en plus à l'aise dans cette maison... dernièrement.
+
+KELEBOGILE	Que voulez-vous dire?
+
+VALETA	(h) Depuis l'amnésie... ton comportement a changé et tes sentiments envers lui aussi. Tu disais toutes sortes de sottises, notamment concernant le divorce, mais c'était avant l'accident, maintenant tu n'en parles plus.
+
+KELEBOGILE	(mt) J'ai trouvé un but dans la vie. (h) L'association à laquelle j'apporte mon aide... a vraiment fait des merveilles.
+
+VALETA	Et d'où vient cette idée subite de vouloir être utile? Parce que je me rappelle encore de... de passer mon temps (h) à te demander de soutenir Gary dans ses activités, et te voilà... (h) maintenant en train de jouer à l'épouse et à la mère de famille exemplaires.
+
+KELEBOGILE	Je pensais que ça vous plairait que je sauve mon mariage.
+
+VALETA	Et ça me plait.
+
+
+14 (10:07:17:15)
+
+VALETA	Dis-moi juste une chose,... (euh....) tu as encore... disons... est-ce que tu as une quelconque intimité avec ton mari?
+
+KELEBOGILE	Comment?
+
+VALETA	Je te demande ouvertement si vous avez des rapports sexuels?
+
+KELEBOGILE	Ohh! (h) Je ne vais pas avoir ce genre de conversation avec vous.
+
+VALETA	Tu sais, ça ne me dérange pas de m'occuper de Masego et de l'emmener à l'école si tu veux.
+
+KELEBOGILE	Pourquoi?
+
+VALETA	(arrghh) Cesse de riposter et apprends à garder la bouche fermée, c'est un conseil d'amie. Pourquoi tu ne restes pas allongée sur une chaise à rêvasser comme avant? Tu traînais toute la journée entre le jardin et le salon, (h) sans te mêler de quoi que ce soit, soudain, tu mets ton nez partout, ça veut dire quoi? (tcs)
+
+
+15 (10:07:59:05)
+
+BIG DADDY	Hey, toi!
+
+TUESDAY	Oui, boss.
+
+BIG DADDY	J'ai besoin que tu ailles à Kliptown.
+
+TUESDAY	Qu'est-ce qu'il y a là-bas?
+
+BIG DADDY	Il faut que tu ailles vérifier si l'histoire de Gary est vraie.
+
+TUESDAY	(ahhh) Non, je ne crois pas que ce soit une bonne idée.
+
+BIG DADDY	Tu penses que c'est du bluff?
+
+TUESDAY	Honnêtement, je ne sais pas, mais qu'est-ce que ça change s'il nous dit des mensonges?
+
+BIG DADDY	Ça ne change rien s'il dit des mensonges ou pas, mais je veux quand même savoir la vérité. De toute façon, il est foutu, on peut pas le laisser en vie.
+
+TUESDAY	Okay boss, je vais y aller.
+
+BIG DADDY	Écoute-moi bien, la prochaine fois, n'essaie pas de me contredire, sinon, tu vas rejoindre Gary au paradis une fois que j'en aurai fini avec lui.
+
+TUESDAY	Oui, Daddy, excusez-moi.
+
+BIG DADDY	Fiche le camp.
+
+TUESDAY	Oui, boss. (h)
+
+
+16 (10:08:53:23)
+
+CANDY	Ohh, non!! Mais il y a des gens qui ne me lâchent pas les baskets, j'en ai par-dessus la tête! Je ne veux plus te voir, tu n'es pas la bienvenue chez moi, alors qu'est-ce que tu veux cette fois-ci? (hum)?
+
+MMABOTSE	Tu sais, Candy,... ne te prends pas pour la queue d'une poire parce que tu n'as aucune classe.
+
+CANDY	Qu'est-ce que tu viens faire chez moi?
+
+MMABOTSE	T'en as du culot de me parler sur ce ton après ce que tu as fait à ma fille, qui est aussi ta petite-fille, au cas où tu l'aurais oublié. Comment t'as eu le courage de l'expulser d'ici, juste parce que Tebogo a tout gâché. Heureusement que Lesedi ne ressemble pas à son père!
+
+CANDY	Tu te plains, mais tu sais ce que ce minable a fait? Il est venu sous mon propre toit et il a tout détruit dans la maison, je ne veux plus jamais entendre parler de lui, jamais! Mon pauvre Solomon se retrouve en prison à cause de lui, et ça je ne le lui pardonnerai jamais.
+
+MMABOTSE	Et comment je pourrais être au courant de tout ça, tu peux me le dire? J'étais à l'hôpital et personne n'est venue me rendre visite, personne ne m'a raconté tout ce qui se passait.
+
+CANDY	T'as déjà oublié que tu t'es retrouvée à l'hôpital parce que t'as voulu piquer l'argent des autres, tu devrais avoir honte d'essayer de voler de l'argent au père de ton enfant, t'entends?
+
+
+17 (10:09:46:19)
+
+CANDY	Ohh! (humm) Allô. Ohh! Ohh, merci beaucoup de me le dire. Okay. Oui, au revoir, merci. (eihh) (h) Bah, aux dernières nouvelles, il semblerait que le père de ta fille est de retour en ville.
+
+MMABOTSE	Où il est?
+
+CANDY	Au lavage auto. Je vais y aller tout de suite et je vais lui dire ses quatre vérités, il faut qu'il fasse sortir Solomon de prison.
+
+MMABOTSE	Je vais aller avec toi, moi aussi j'ai des choses à lui dire.
+
+CANDY	Alors, allez,
+
+MMABOTSE	Il va pas s'en tirer comme ça...
+
+CANDY	dépêche-toi, allez sors.
+
+MMABOTSE	tu devrais faire réparer ces marches, c'est dangereux...
+
+CANDY	Avance et tais-toi un peu! Dépêche-toi!
+
+MMABOTSE	Oh la la!
+
+
+18 (10:10:23:04)
+
+CLIENT	Dites, monsieur.
+
+GARY	Oui.
+
+CLIENT	Regardez ces pneus?
+
+GARY	Oui.
+
+CLIENT	D'après vous, ils ont été bon marché?
+
+GARY	Non, non... non, je crois pas.
+
+CLIENT	Eh bien, vous vous trompez. Écoutez, je veux que vous les polissiez, je veux qu'ils ressemblent aux pneus les plus chers de toute la ville, d'accord?
+
+GARY	Oui... oui... (h) bien sûr. (mhhmm)
+
+CLIENT	Hey, vous faites quoi... attendez... dans le sens des aiguilles d'une montre, pas de haut en bas.
+
+GARY	Vous croyez que je ne sais pas polir un pneu?
+
+CLIENT	Vous le savez?
+
+GARY	Oui.
+
+TURBO	Hey, bro... il y a quelqu'un là-bas qui t'observe.
+
+GARY	Qui?
+
+TURBO	Je ne le connais pas, mais... je suis sûr que c'est un de tes copains magouilleurs. Alors, si tu veux que les gens te prennent pour Tebza, il vaut mieux polir ces pneus comme il faut.
+
+
+19 (10:11:08:18)
+
+MMABOTSE	Tebogo!
+
+TURBO	Oh, non! (eishh)
+
+MMABOTSE	Je n'ai jamais connu un homme aussi incompétent que toi, tu es le gars le plus minable à la surface de la terre.
+
+CANDY	(h) (hum) Oui, c'est vrai, elle a raison et j'ai honte que tu sois mon fils.
+
+TUESDAY	(shhh)
+
+CANDY	J'ai honte d'être ta mère.
+
+TUESDAY	(petit rire)
+
+MMABOTSE	Et tu ne verras plus jamais ta fille, t'entends?
+
+GARY	(mt)
+
+MMABOTSE	Je t'ai dit une fois que tu devrais prendre rendez-vous pour la voir, et bien, (h) même pas, tu ne la verras plus, même pas en photo.
+
+GARY	(sniff)
+
+CANDY	Tu ne vaux rien! Tu ne vaux rien!
+
+GARY	On se calme, et on parle normalement...
+
+MMABOTSE	Non!
+
+CANDY	Pas question!
+
+MMABOTSE	Jamais!
+
+CANDY	Tu crois que tu peux faire tout ce qui te passe par la tête, non, mais t'es gonflé, y en a marre! Tu mérites une bonne raclée, et je vais pas me gêner, espèce de vaurien.
+
+GARY	Eh, arrêtez, arrêtez, qu'est-ce qui vous prend, attendez, écoutez-moi!
+
+MMABOTSE	Et dire que je priais pour toi, quelle idiote j'étais, un homme comme toi... tu es un minable, un vaurien, une ordure, fiche le camp!
+
+CANDY	Attends, si je t'attrape, tu vas voir! Attends! J'aurai ta peau!
+
+MMABOTSE	T'es le diable en personne.
+
+TUESDAY	(mshh) (rire)
+
+CANDY	Pas la peine de fuir, je t'aurai.
+
+TUESDAY	(hh) Oui, Big Daddy.
+
+BIG DADDY	Alors?
+
+TUESDAY	Il est devant moi, poursuivi par deux femmes. À se demander laquelle est la plus folle, mais je pense que c'est quand même celle qui boite. Tout le monde a l'air de lui en vouloir à mort.
+
+BIG DADDY	Merci, c'est tout ce que je voulais savoir.
+
+TUESDAY	Oui, boss.
+
+
+20 (10:12:04:23)
+
+TEBZA	(hh) (h) (h) (h) (h) (h) (hh) (h h h) (h) (h) (hhuh) (h) (hh) (hhuh) (h) (hhuhh) (hhuhh) (mhm) (hh) (huuh) (hhh) (h) (h) (hhh) (h) (h) (h) (h)
+
+
+21 (10:12:20:09)
+
+CANDY	Tebogo!
+
+MMABOTSE	Attends-moi, va pas si vite!
+
+CANDY	Je t'ai dit de me suivre, marche plus vite, débrouille-toi avec tes cannes! Tebogo!
+
+MMABOTSE	Tebogo!
+
+CANDY	Tebogo!
+
+GARY	(h)
+
+CANDY	Où est-ce que tu te caches?
+
+MMABOTSE	Tebogo! Arrête ce cirque!
+
+GARY	(hh)
+
+CANDY	Tebogo! Tebogo! Tu veux que je te dise, tu n'es pas mon fils, t'es le fils d'une sorcière!
+
+GARY	(h) (hh)
+
+MMABOTSE	Ouais!
+
+CANDY	Viens là, espèce de vaurien.
+
+MMABOTSE	Tu réfléchis même pas à ce que tu dis, tu es en train de reconnaître que tu es une sorcière.
+
+GARY	(h)
+
+CANDY	Fiche-moi la paix avec tes commentaires ridicules, j'ai pas de temps à perdre à écouter tes bêtises, tu crois quoi, que t'es plus intelligente que moi?
+
+GARY	(hh) (h) (h)
+
+CANDY	Sors, espèce de trouillard, ou tu veux que j'aille te chercher? Si tu crois que tu peux te cacher pour toujours tu te trompes.
+
+
+22 (10:12:50:16)
+
+CANDY	Je te parle, tu m'entends?
+
+GARY	(hh) Bon sang, tu n'as que des folles dans ta vie.
+
+CANDY	Mais où est-ce qu'il s'est mis, t'as vu?
+
+MMABOTSE	Non, je sais pas...
+
+GARY	(h) Comment est-ce que tu les supportes?
+
+MMABOTSE	je marchais moins vite.
+
+TEBZA	Peu importe. (h) (hh) (mhh) (hh) Ça a marché, Big Daddy a cru à ton plan,
+
+CANDY	Mais tu sais jamais rien,
+
+MMABOTSE	Il est venu de là,
+
+TEBZA	(h) mais maintenant elle veut en être sûre,
+
+CANDY	alors il est parti par-là?
+
+MMABOTSE	oui, sûrement, il est par là.
+
+TEBZA	(h) elle a envoyé un gars. (h) (hh) Elle veut ta mort.
+
+GARY	Je l'attends. (h) (hh)
+
+CANDY	Oh, ça va, tu commences à m'énerver, toi et tes cannes, si tu continues comme ça, je la balance au loin.
+
+GARY	Il faut passer à la deuxième partie du plan, tu te rappelles?
+
+MMABOTSE	Laisse-moi tranquille, ça suffit.
+
+TEBZA	Oui, bien sûr que je m'en rappelles, même s'il est ridicule. (h) (hh) Tout ce que je veux... c'est m'en aller d'ici... le reste, je m'en fiche. (h)
+
+GARY	Fais ce que t'as à faire.
+
+TEBZA	(hh)
+
+GARY	(h)
+
+CANDY	Mais tu te trompes, il est entré là-dedans, j'en suis sûre.
+
+GARY	Je serai là dans quelques heures.
+
+MMABOTSE	Il est parti par-là.
+
+GARY	(hhh)
+
+CANDY	Je te dis que non, qu'il est là-dedans, tu vas voir.
+
+GARY	(hh)
+
+MMABOTSE	Il venait de là.
+
+GARY	(hh) (h)
+
+CANDY	Tebogo!
+
+
+23 (10:13:22:08)
+
+TEBZA	(hhuuhh) (huuh) (huuhh) (haaahh) (haahh) (hhahh) (hhah) (h) (hh) (hh) (hh) (h) (h)
+
+BIG DADDY	Alors, t'es toujours là, voyons voir, qu'est-ce que je vais bien pouvoir faire de toi. Il faut en finir, mais je ne sais pas encore comment. Tu as une idée? J'hésite tu vois, t'es un gars sympa.
+
+TEBZA	(h) Je dois aller aux toilettes.
+
+BIG DADDY	Nous ne sommes pas à la crèche ici... où tu dis: "madame, j'ai besoin d'aller aux toilettes".
+
+TEBZA	C'est un gros besoin.
+
+BIG DADDY	Arrange-toi pour te retenir.
+
+TEBZA	Je n'y arrive pas. (hahhh)
+
+BIG DADDY	Amène cet idiot aux toilettes.
+
+BANDIT 1	Allez, debout.
+
+TEBZA	(hhahh) (huuh) Pas si vite, (hhah)
+
+BANDIT 1	Allez.
+
+TEBZA	(réac) Tu me fais mal, du calme!
+
+BANDIT 1	Allez! Plus vite que ça!
+
+TEBZA	(huuh) (ahhh) Attends, pousse pas comme ça.
+
+BANDIT 1	Allez, debout.
+
+TEBZA	(hhahhh) (hh)
+
+BANDIT 1	Allez, ça va.
+
+
+24 (10:14:09:05)
+
+TEBZA	(réac) (hukk) (réac) (h) (réac) (réac) (réac) Hey, est-ce que tu peux me donner un journal? (réac) (réac) (h) (brrhhmm) (h) Quelque chose à lire, (mh) (h) (h) T'es là? (réac) (réac) (hh) (h) J'ai besoin de quelque chose pour me décontracter, c'est difficile comme ça.
+
+BANDIT 1	Ça va, sors de là. Hey! Hey! Sors de là!
+
+TEBZA	(réac) Ah non, je ne vais nulle part. (h)
+
+BANDIT 1	Okay.
+
+TEBZA	Yah. (réac)
+
+BANDIT 1	Hey!
+
+TEBZA	(réac)
+
+BANDIT 1	Donne-moi cinq minutes et je reviens. Ne bouge surtout pas de là. N'essaie pas de me piéger parce que je te réduits en purée. (tcs)
+
+OUT (10:14:50:15)
+
+
+25 (10:15:01:17)
+
+TEBZA	(h) (hh) C'est là, oui. (hh) (h) (hh) (h) (hh) (hh) (h) (h) (h) (h) (h) (hh) Oui. (hh) (h) (hhukk) (h) (hhukk) (hhahh) (hahh) (hhah) (hhahh) (h h h h h) Ça marche. (h) (h) (h) (hehh)
+
+
+26 (10:15:54:06)
+
+TEBZA	(h) (h)
+
+BANDIT 1	Hey!
+
+TEBZA	(h)
+
+BANDIT 1	Où est-il passé? Il s'est enfui? Cherche-le.
+
+TEBZA	(réac) (h)
+
+BANDIT 1	Cherche de l'autre côté.
+
+TEBZA	(hhooh)
+
+BIG DADDY	Regardez à nouveau, bande d'idiots.
+
+TEBZA	(hh) (hh)
+
+BANDIT 1	Il s'est enfui, ce fumier.
+
+TEBZA	(hhhah)
+
+BIG DADDY	Ah, te voilà, tu crois qu'on a envie de jouer à cache-cache?
+
+TEBZA	(hhahh) (h) Comment ça, non mais, quel est ton problème, hein? (h) (h) On peut plus faire ses besoins tranquille?
+
+BIG DADDY	Hey! N'essaie pas de me duper, j'ai été ici il y a un moment, il n'y avait personne, t'étais où?
+
+TEBZA	Mais... j'ai pas bougé d'ici.
+
+BIG DADDY	Arrête de mentir.
+
+TEBZA	(mhhhsh) (h) (mh) Réfléchis un peu, où est-ce que je pourrais aller?
+
+BIG DADDY	Emmenez-le et attachez-le, dépêchons.
+
+BANDIT 1	Oui, boss. Allez.
+
+TEBZA	Hey, d'accord, du calme, du calme,
+
+BANDIT 1	Allez, viens, dépêche.
+
+TEBZA	je viens. Ne me pointes pas l'arme.
+
+BANDIT 1	Assez parlé, avance, allez, allez.
+
+
+27 (10:16:43:16)
+
+GARY	Tu as trouvé quelque chose de ce que je voulais?
+
+VALETA	Bien sûr, sans problèmes, tu peux toujours compter sur moi, comme d'habitude, tu le sais, non? Je m'occupe de tout à la maison, et toi, tu prends en main les affaires à l'extérieur.
+
+GARY	Alors comment ça se passe à la maison?
+
+VALETA	(hahh) Tebogo a couché avec Kelebogile.
+
+GARY	Tu en es sûre?
+
+VALETA	C'est tout vu! Les derniers temps, ta femme n'arrêtait pas de réclamer le divorce et de se plaindre qu'elle était malheureuse, (h) elle traînait toute la journée sans rien faire. Tout d'un coup, elle n'est jamais en place, elle est toute joyeuse, elle chante toute la journée, et c'est pas tout, elle s'habille avec des couleurs gaies, colorées. (h) Et quand je lui fais la remarque, elle fait semblant de pas comprendre et change de sujet.
+
+
+28 (10:17:29:16)
+
+VALETA	Mon fils, tu dois faire quelque chose, il faut arrêter de l'entretenir, coupe-lui les vivres, et quand tout sera fini, tu lui donnes le divorce sans aucune pension. Je suis sûre que tu auras facilement la garde totale de ton fils.
+
+GARY	Oh, ça ne sera pas aussi facile que tu le dis. Entrer en conflit avec Kelebogile peut se révéler dangereux pour nos affaires.
+
+VALETA	Bon sang! Comment tu acceptes de vivre avec une femme qui couche avec d'autres hommes, c'est dégoûtant! Et ta réputation, cette femme ne vaut rien, elle est une ordure.
+
+GARY	(euk) C'était censé être moi. Elle peut jouer là-dessus.
+
+VALETA	Ecoute-moi bien mon fils, je parle sérieusement. (h) Je suis absolument sûre qu'à partir d'un certain moment, Kelebogile savait parfaitement que ce n'était pas toi. S'ils l'ont fait une fois... ils peuvent très bien recommencer.
+
+GARY	(h) Je ne peux pas m'en occuper maintenant.
+
+VALETA	Pourquoi?
+
+GARY	Je dois y aller.
+
+VALETA	(hh) (bbbhhh) (arrghh!!)
+
+
+29 (10:18:20:01)
+
+TUESDAY	Messieurs, on s'ennuie pas, hein? On fait rien, on regarde en l'air, vous avez vérifié les entrées et les sorties? Vous êtes sourds ou quoi? Personne n'a le droit d'entrer ni sortir, c'est compris?
+
+BANDIT 2	Oui, chef.
+
+TUESDAY	Si quelqu'un essaie d'entrer... tire d'abord et pose les questions plus tard, t'as compris? Est-ce que t'as compris, toi aussi? Allez, dépêchez, bougez les pieds! (sshhh) Imbéciles!
+
+
+30 (10:18:57:11)
+
+SHENGEN	Il faut s'assurer que tout se déroulera comme prévu, compris? Alors, tous nos hommes sont en position... on n'attend plus que vous ordres pour commencer.
+
+GARY	Parfait. Ils savent exactement ce qu'il faut faire?
+
+SHENGEN	J'ai été bien clair, je leur ai dit qu'il faut tirer à mort, sans la moindre hésitation.
+
+GARY	Oui, parce que Big Daddy ne va pas nous faire de cadeaux.
+
+SHENGEN	Aucun souci, on est prêt.
+
+GARY	Je ne veux plus retourner dans ce bidonville. C'est pas pour moi. Allez,... on n'a pas le choix, il faut régler ce gâchis une fois pour toutes. Allons-y, au travail.
+
+
+31 (10:19:37:12)
+
+TUESDAY	Parle, voyons!
+
+TEBZA	(réac)
+
+TUESDAY	C'est mieux pour toi, t'entends?
+
+TEBZA	(hh)
+
+BIG DADDY	Hey! Parle!
+
+TEBZA	(aahh)
+
+TUESDAY	Je te fais sauter la cervelle!
+
+TEBZA	(h) (m h mh m h mh mh mm)
+
+BIG DADDY	Tu m'entends, j'ai autre chose à faire!
+
+TEBZA	(h) (hh) (h) (hh)
+
+BIG DADDY	Allez, je t'écoute ou je te tue, tu étais où?
+
+TEBZA	(hh)
+
+BIG DADDY	Où? (hh)
+
+TEBZA	(h)
+
+BIG DADDY	Alors, réponds!
+
+TEBZA	(h)
+
+BIG DADDY	Regarde-moi bien, pour la dernière fois, tu étais où?
+
+TEBZA	(hh) (hh) (hh) (mt) (h) (h) (h) (hh) J'étais... nulle... part. (hh) (h) (hh)
+
+BIG DADDY	Espèce d'idiot... (h) pour qui tu te prends, tu vas le regretter!
+
+TEBZA	(h) (h)
+
+BIG DADDY	(hum)
+
+TEBZA	(hh)
+
+BIG DADDY	Je vais t'arracher toutes tes dents, une par une.
+
+TEBZA	(h) (ha) (h) (hh) (h)
+
+BIG DADDY	Je t'écoute.
+
+TEBZA	(hum) (hum) (h)
+
+BIG DADDY	(hum)?
+
+TEBZA	(hm) (hhm) (h)
+
+BIG DADDY	Tu dis quoi?
+
+TEBZA	(h)
+
+BIG DADDY	(h) Ahhh! Ohh!
+
+TEBZA	(h)
+
+BIG DADDY	Apportez les outils de travail!
+
+TUESDAY	(glousse) (h)
+
+TEBZA	(h)
+
+TUESDAY	Tu l'auras voulu.
+
+BIG DADDY	Tu veux jouer les durs?
+
+TEBZA	(h)
+
+BIG DADDY	Puisque c'est comme ça, on va s'amuser.
+
+TEBZA	(h) (h)
+
+BIG DADDY	Tu préfères avoir un trou vide à la place de la bouche?
+
+TEBZA	Non... non.
+
+BIG DADDY	Hein?
+
+TEBZA	(ah ah)
+
+BIG DADDY	Non?
+
+TEBZA	(ah ah) (h) (hhahhh) (h) (h)
+
+BIG DADDY	(rire)
+
+TEBZA	(h)
+
+
+32 (10:20:28:04)
+
+TEBZA	(hukk) (hm mh) (h) Attend, attend, (h) je voulais...(mt) (h) (hh) je lui ai demandé du papier pour me nettoyer... (hh) je... je voulais... du papier journal ou...
+
+BIG DADDY	Oh oh oh oh, du papier pour te nettoyer, mais voyons!
+
+TEBZA	(h) (h) (h) (h) Oui, c'est ça...
+
+BIG DADDY	Dis-moi la vérité!
+
+TEBZA	(sanglot) c'est la vérité. (sanglot) (h) (bbrrhh)
+
+BIG DADDY	(mts)
+
+TEBZA	(hh) (h) (hh) (h)
+
+BIG DADDY	C'est fatigant à la fin,
+
+TEBZA	(sniff) (hhhah) (h)
+
+BIG DADDY	mais les menteurs veulent tellement nous faire croire qu'ils disent la vérité, (h) qu'ils crient leurs mensonges aux quatre-vents et pensent que plus ils le crient fort plus on va les croire, mais ça ne sert à rien...
+
+TEBZA	(hh)
+
+BIG DADDY	(h) tu m'énerves plus qu'autre chose.
+
+TEBZA	(rrhhh) (h) Je ne te mens pas, tu dois me croire, j'te jure,(h) je ne te mens pas, (msshhm)
+
+BIG DADDY	(eisshhh)
+
+TEBZA	c'est la vérité. (hh)
+
+BIG DADDY	Ohh! (sshhh).
+
+TEBZA	(heuhh) (h) (hh) (hh)
+
+BIG DADDY	Tu sais que... ça fait longtemps que je ne joue pas aux dentistes,
+
+TEBZA	(hh) (sniff) (h)
+
+BIG DADDY	mais ne t'inquiète pas, c'est comme faire du vélo, ça ne s'oublie pas. Je commence à l'arrière (h) et je les arrache au fur et à mesure.
+
+TEBZA	(h h h h) (h h h h h hh)
+
+BIG DADDY	Si tu as envie de me dire quelque chose, vas-y, parle!
+
+TEBZA	(h h h h h h h h) (h) (cri) (cri)
+
+BIG DADDY	Alors, je t'écoute...
+
+TEBZA	(cri) (cri)
+
+BIG DADDY	alors...
+
+
+33 (10:21:15:12)
+
+TEBZA	(cri)
+
+GARY	(sshhh)
+
+TEBZA	(cri) (cri) (cri) (cri) (cri) (cri) (cri) (cri)
+
+GARY	J'en crois pas mes oreilles, cet idiot a tenu bon jusqu'au bout.
+
+TEBZA	(cri) (cri) (cri) (cri)
+
+GARY	C'est notre seule chance de réussir.
+
+TEBZA	(cri)
+
+BIG DADDY	alors...
+
+GARY	Pas d'erreurs,
+
+BIG DADDY	allez, parle!
+
+GARY	(h) on fonce.
+
+BIG DADDY	Alors, tu te décides?
+
+TEBZA	(cri douleur) (cri douleur) (cri douleur) (cri fort de douleur)
+
+GARY	(h)
+
+TEBZA	(sanglots) (sanglots)
+
+
+34 (10:21:49:09)
+
+TEBZA	(cri douleur)
+
+BIG DADDY	(rire fort)
+
+TEBZA	(réac douleur) (sanglot) Arrête, je t'en prie. (h)
+
+BIG DADDY	Je t'avais bien dit (h) que c'était comme faire du vélo, ça ne s'oublie pas!
+
+TEBZA	(réac) (tousse) Arrête, je t'en prie. (sanglot)
+
+BIG DADDY	(rire)
+
+TEBZA	(cris douleur) (cris douleur)
+
+BIG DADDY	(rire)
+
+TEBZA	(cri douleur)
+
+BIG DADDY	(rire)
+
+TEBZA	(cri douleur)
+
+BIG DADDY	(rire) (rire) Je t'avais dit que ça ne s'oublie pas. (rire) Les hommes comme toi sont des trouillards...
+
+TEBZA	(cri douleur) (h h h h h)
+
+BIG DADDY	(oohhh), tout le temps en train de pleurnicher, c'est pas des hommes, c'est des lavettes, toujours à se plaindre, à gémir, ça me dégoûte!
+
+TEBZA	(gémit)
+
+BIG DADDY	Très bien... alors voilà ce qu'on va faire.
+
+TEBZA	(gémit) Attend s'il te plaît, attend un peu, je t'en prie. (haah) (cri)
+
+BIG DADDY	Ça t'aidera peut-être à parler. Vas-y.
+
+TEBZA	Non, non, je t'en prie, non.
+
+BIG DADDY	PARLE... GARY.
+
+TEBZA	(pleure, gémit) NON! (pleure)
+
+
+35 (10:22:48:13)
+
+GARY	Non, non, non,
+
+TUESDAY	(réac)
+
+GARY	non, pas lui. Il est beaucoup plus important pour nous vivant que mort. (hh) Emmène-le à l'usine.
+
+SHENGEN	À vos ordres boss.
+
+GARY	(hh) (hum) Pas mal,... mon frère. (ssh) (shs) Tu sais que... je n'étais pas du tout sûr qu'on arriverait à le faire mais... on a réussi.
+
+
+36 (10:23:25:11)
+
+GARY	Combien est-ce qu'elle t'a enlevée?
+
+TEBZA	Oh. Oh... (h) une... juste... une.
+
+GARY	Alors, tu as eu de la chance. Tu me revaudras ça. On va sortir comme on est entré, discrètement. Quand ces idiots se rendront compte de ce qui est arrivé, nous seront déjà loin. Détache-le.
+
+TEBZA	(hh) (hh) (h) (gémit)
+
+GARY	(tcs)
+
+TEBZA	(h)
+
+GARY	Allez!
+
+TEBZA	(hhah)
+
+
+37 (10:23:54:08)
+
+TUESDAY	(hh)
+
+SHENGEN	Allez, nous, on bouge.
+
+TUESDAY	(mh) (réac) Tue-moi!
+
+SHENGEN	Tais-toi et bouge!
+
+TUESDAY	Lâche-moi!
+
+GARY	(mt) Toi,...
+
+TEBZA	(h)
+
+GARY	tu viens avec moi.
+
+TEBZA	Ah bon?
+
+GARY	Tu sais conduire, non?
+
+TEBZA	(h) (h) Je veux aller aussi avec eux, (h) pourquoi est-ce que je vais avec toi? (h)
+
+GARY	Tais-toi! Tu veux perdre une autre dent?
+
+TEBZA	(h) Mais... (h)
+
+GARY	(X)
+
+TEBZA	(h) (hh) (h) (h) (h) (hh) (h) (h) (hh) (h) (hh) (h) (hh) (h) (hh) (h) (hh) (h) (hh) (h) (hh) (h) (h) (hh) (h) (hh)
+
+
+38 (10:24:33:09)
+
+TEBZA	Allez, Gary, calme-toi, allez... (h) (hh) tu vas quand même pas me tuer comme ça, de sang-froid, à bout portant, si?(gémit) (hh) (hh) Personne ne va jamais me trouver ici. Je vais finir comme ça? (hh) (hh) (hh) Laisse-moi au moins parler à ma fille une dernière fois. (gémit)
+
+GARY	Je me demande comment Big Daddy a supporté tes pleurnicheries. (h) Allez, creuse!
+
+TEBZA	(gémit) Mais tu veux que je creuse ma propre tombe? (hh) Tu as le courage de me faire ça? (h) Tu es de la pire espèce! C'est inhumain ce que tu fais! (sanglot) (sanglot) Ecoute... (sniff) (h) (mt) (h) (hh) (h) nous sommes frères... je... je suis... (h) je suis ton frère de sang. (gémit)
+
+GARY	Ferme (h) la bouche (h) et creuse!
+
+TEBZA	(hh) (h)
+
+GARY	Creuse!
+
+TEBZA	(hh) (h) (hh) D'accord... (h) d'accord... (hh) (h) mais je t'en prie ne tire pas. (h) (hh) (sanglot) (hh) (pleure) (gémit)
+
+GARY	Plus vite.
+
+TEBZA	(sanglot)
+
+OUT (10:25:28:01)
+
+
+39 (10:25:30:02)
+
+TEBZA	(réac effort) (h) (réac effort) (réac effort) (hhehh) (hh) (hh) (hh) (h) (h) (h) C'est quoi?
+
+GARY	Ouvre, tu verras.
+
+TEBZA	(h) (h) (h) (h) (h) (h) (h)
+
+GARY	Il y a cinq millions.
+
+TEBZA	Cinq millions?
+
+GARY	Un million est pour toi. Avec les quatre millions qui restent, je rétablis ma situation financière et je recommence à zéro.
+
+TEBZA	(hh) (hh) (h) Alors, tu vas pas me tuer? (h)
+
+GARY	Je vois que je suis le seul intelligent de la famille.
+
+TEBZA	Tu voulais que je pense quoi avec une arme pointé à la tête? (hh) (h)
+
+GARY	Oh! (mshm) (tcs) Excuse-moi, mauvaise habitude, c'est plus fort que moi.
+
+
+40 (10:26:18:12)
+
+TEBZA	(hh) (h) (mt) (hmh)
+
+GARY	Retourne chez toi,
+
+TEBZA	(hh)
+
+GARY	retourne à Kliptown, retourne dans ta famille.
+
+TEBZA	(mh) (mh) (h) Mais... alors, c'est tout? (h) (hh) (h) (hh) C'est fini?
+
+GARY	Écoute bien, je te jure... que si tu t'approches de quelqu'un de ma famille, surtout de ma femme, je te tue sans hésiter.
+
+TEBZA	(mhm) (mhm)
+
+GARY	C'est compris?
+
+TEBZA	(h) (hh) (hh)
+
+GARY	Prends ta part.
+
+TEBZA	(h) (hh) (h) (hh)
+
+GARY	(mhm)
+
+TEBZA	(mh) (mh)
+
+
+41 (10:27:14:04)
+
+KELEBOGILE	(h) Il est où?
+
+VALETA	Qui?
+
+KELEBOGILE	Vous savez très bien de qui je parle.
+
+GARY	Mais, je suis là.
+
+KELEBOGILE	Je veux savoir où est Tebza. Je suis au courant de tout. Et j'en ai par-dessus la tête d'être traitée comme si je n'avais aucune importance. Gary!
+
+GARY	Quoi?
+
+KELEBOGILE	Je sais que tu as un frère jumeau. Alors, où est-ce qu'il est?
+
+
+42 (10:27:52:19)
+
+VALETA	Alors ça y est, tu as compris, mais pourquoi tu as mis si longtemps?
+
+KELEBOGILE	En fait, je le sais depuis un moment... et je ne vais plus me laisser intimider par vos commentaires
+
+VALETA	Hey, fais attention à qui tu parles, tu devrais apprendre à fermer ta bouche. Tu as été la seule qui n'a pas réussi à faire la différence entre Gary et Tebza. Et maintenant, comme d'habitude, tu arrives un peu tard, ma petite.
+
+KELEBOGILE	Tu lui as fait quoi? (hum)? Où est-ce qu'il est?
+
+GARY	Il est mort.
+
+KELEBOGILE	Comment? Tu l'as tué?
+
+GARY	Je n'ai pas le temps d'en parler. Va dans ta chambre. J'ai besoin de parler à mère, en privé.
+
+KELEBOGILE	Non!
+
+
+43 (10:28:30:12)
+
+GARY	Je suis fatigué, je n'ai rien mangé, j'ai soif, et j'ai eu une longue journée. Alors, monte dans ta chambre, tout de suite. Allez, monte!
+
+KELEBOGILE	(mhm)
+
+GARY	(mhm) (h) J'ai besoin d'une boisson.
+
+VALETA	Calme-toi, mon chéri. Assieds-toi. Détends-toi. (h)
+
+OUT (10:29:04:00)
+
+
+44 (10:29:35:12)
+
+TEBZA	(tcs) (h) Hey, maman, (ah) (h) t'as changé les serrures?
+
+CANDY	Ah t'es là!
+
+TEBZA	(réac) (h) (h) (h) (h) (h) (h) Mais... (h) qu'est-ce... qui te prend... laisse-moi t'expliquer... je...
+
+CANDY	Expliquer quoi? Tu veux m'expliquer quoi? Je ne veux plus entendre tes histoires, je ne veux plus t'entendre!
+
+TEBZA	(h) Tu n'as pas compris maman... (h)
+
+CANDY	Tu t'en vas et tu laisses ta fille à ma charge, est-ce que j'ai une tête de nounou?
+
+TEBZA	je ne... bah, t'es tout de même sa grand-mère...
+
+CANDY	Ah, bah, évidemment, tu vois, quand ça t'arrange... non, mais! (réac)
+
+TEBZA	(h) (hh) (mhhm)
+
+CANDY	Et où est Solomon?
+
+TEBZA	(h) (hh) Je ne sais pas où il est.
+
+CANDY	Je le savais, je le savais, et c'est pour ça que j'en ai marre de toi, (h) je ne veux plus jamais te voir de ma vie, t'entends, fiche le camp d'ici.
+
+TEBZA	(h) (h) (mt) (mt)
+
+OUT (10:30:28:23)
+
+
+45 (10:30:45:04)
+
+TURBO	Et alors?
+
+TEBZA	(essh) C'est une histoire longue et incroyable.
+
+TURBO	Qu'est-il arrivé?
+
+TEBZA	Je vais tout te raconter. (h) (mh) (mh) (mh) Mais avant dis-moi, où est-ce... que t'as mis ma salopette?
+
+TURBO	J'ai... jeté tes affaires à la poubelle.
+
+TEBZA	Bro, je sais que tu es fâché mais... (hh) je vais... (h) je t'explique tout ce qui s'est passé, et après, on oublie ce cauchemar.
+
+TURBO	Ça ne m'intéresse pas.
+
+TEBZA	Mais comment ça? Je comprends pas, t'es mon ami...
+
+TURBO	Hey, hey, hey, hey! Hein! Tu n'es pas mon ami. Je veux pas avoir d'amis qui arrivent tachés de sang et qui... (h) ne savent pas d'où ça vient.
+
+
+46 (10:31:31:03)
+
+TEBZA	Bro, mais...(h) (mts) qu'est-ce que t'as, tu crois que je suis Gary, mais je ne suis pas Gary, voyons, je suis Tebza, je t'assure.
+
+TURBO	Il vaut mieux que tu partes. Tu vas finir par faire peur aux gens avec ce t-shirt tâché de sang.
+
+TEBZA	Tu vas pas me faire ça, on est des amis.
+
+TURBO	Va-t-en, j'te dis!
+
+TEBZA	Oui, (hh) (h)
+
+
+47 (10:32:11:03)
+
+VALETA	Santé! (petit rire b.o.) Ahh! Mon fils chéri! (hum) (hum)
+
+GARY	(mt) (mhm)
+
+VALETA	(mt) (h) (hahh) Tu as géré toute cette opération d'une façon, pour le moins... (h) admirable, je suis absolument impressionnée par ton sang-froid. (hum)
+
+GARY	Il me reste une chose importante à faire, je dois être sûr pour Big Daddy... et... faire croire que le loup, en la personne de Tebza, est définitivement retourné vivre sa vie ailleurs.
+
+VALETA	(petit rire b.f.) (h) Et pour ça... combien tu as dû lui donner?
+
+GARY	(mt) (ahh) Une valise pleine de billets.
+
+
+48 (10:32:54:23)
+
+VALETA	Et il n'a pas demandé davantage?
+
+GARY	Je crois qu'il était trop terrifié pour demander quoi que ce soit d'autre. Il était si convaincu que j'allais le tuer... qu'il fût soulagé de rester en vie.
+
+VALETA	(rire b. o.)
+
+GARY	Je suis sûr qu'en ce moment il savoure le succès de l'opération en regardant ses billets de banque.
+
+
+49 (10:33:12:07)
+
+VALETA	(hum) Oui... (h) mais... n'oublie pas qu'il nous reste beaucoup de choses à régler concernant les affaires de Big Daddy.
+
+GARY	Que veux-tu dire?
+
+VALETA	Voyons, réfléchis, la disparition de Big Daddy va déclencher une place vacante dans les rennes du pouvoir. Tu dois en profiter pour consolider le tien. Tu dois récupérer tes quartiers, mais plus encore, tu peux aussi t'approprier des siens. Fais-moi confiance, c'est le seul moyen de devenir vraiment riche, très riche mais aussi très puissant.
+
+GARY	Tu as raison, les territoires de Big Daddy... sont disponibles et faciles à prendre.
+
+VALETA	Oui. A toi!
+
+GARY	Donc, je n'ai qu'à tendre les bras et me servir. Je dois entamer des démarches.
+
+VALETA	Absolument.
+
+GARY	Tout le monde doit être averti... que je suis de retour dans le milieu.
+
+VALETA	(Ah Ah) J'aime entendre ça... j'aime t'entendre parler comme ça. (Ah) (rire b.o.)
+
+GARY	(rire b.f.)
+
+VALETA	Mon fils chéri! (rire b.o.) (hh) J'aime ça! (petit rire b.o.) (hh) (hum)
+
+OUT (10:34:10:22)
+
+
+50 (10:34:13:04)
+
+GARY	Détache-le.
+
+TUESDAY	Enlève-moi ça.
+
+VALETA	(hum)
+
+TUESDAY	Enlève-moi ça! Alors, vous êtes là pour me tuer?
+
+VALETA	Pourquoi est-ce qu'on le ferait? (hum)?
+
+GARY	Comme je te l'ai déjà dit, pour nous, tu es plus utile vivant que mort, tu dois te demander pourquoi je t'ai épargné la vie?
+
+TUESDAY	Oui en effet, pourquoi?
+
+GARY	(mhh) Je veux faire un accord avec toi.
+
+TUESDAY	Parle, je t'écoute.
+
+VALETA	Que je sache, tu n'as pas le choix.
+
+GARY	Maman... s'il te plaît, laisse nous. Shengen, accompagne ma mère dehors. (hh)
+
+
+51 (10:35:18:11)
+
+TEBZA	(h) (hh) Ahh! (hh) Lesedi. Lesedi. Attend, je veux te parler. (h) Hey... tu m'as manquée... vraiment, j'te jure. Comment c'était l'école? (hh) J'ai quelque chose... tu vas voir, ça va te plaire... regarde, des bonbons.. ce sont tes préférés.
+
+
+52 (10:36:09:15)
+
+TEBZA	(h) Ecoute... je sais que tu es fâchée... je sais que tu m'en veux, mais... (h) (h) (h) (hh) (mhm) je t'assure que tout ce que j'ai fait... je l'ai fait pour nous deux... tu comprends? (h) Je sais qu'à un moment donné... les choses se sont compliquées et tu as dû... rester avec Turbo plus longtemps que prévu, mais je t'assure que... j'ai fait le mieux que j'ai pu...
+
+LESEDI	Je ne veux pas tes bonbons.
+
+TEBZA	Oh! D'accord, je te les donnerai plus tard.
+
+LESEDI	Non, non, donne-les à l'autre garçon qui s'appelle Masego.
+
+TEBZA	(heuh) Calme-toi ma chérie, pardonne-moi... (h) (h) je te promets que...
+
+LESEDI	Arrête de faire des promesses, (h) tu es un menteur, un grand menteur.
+
+TEBZA	(h) (h) Lesedi, arrête, tu n'as pas le droit de me parler sur ce ton. Je suis ton père, tu ne peux pas faire ça.
+
+LESEDI	Pourquoi? Toi, tu peux dire des mensonges, mais je n'ai pas le droit de dire ce que je pense?
+
+
+53 (10:37:06:09)
+
+MMABOTSE	Hey! Hey, Tebogo! Qu'est-ce que tu fais là? Je ne veux pas que tu t'approches de ma fille. Laisse-la tranquille.
+
+TEBZA	Mmabotse... (eisshh) je voulais juste la voir... et lui... dire...
+
+MMABOTSE	Tu veux quoi à la fin, tu veux lui faire du mal à elle aussi? Tu veux qu'elle finisse dans le coma comme sa mère, c'est ça?
+
+TEBZA	Ça va pas, je ne veux pas l'importuner!
+
+MMABOTSE	Mais ouvre les yeux, tu ne vois pas qu'elle est malheureuse, elle ne veut pas te voir, Tebogo.
+
+LESEDI	Maman, on peut s'en aller?
+
+MMABOTSE	Je ne veux pas d'hommes comme toi dans sa vie.
+
+TEBZA	(h) (mt) Mais attends...
+
+MMABOTSE	On n'a pas besoin de toi. Va-t-en, loin de nous.
+
+TEBZA	(réac)
+
+MMABOTSE	Allez, on y va, si tu reviens, j'aurais ta peau. (tcs) (arrggh)
+
+
+54 (10:37:40:06)
+
+GARY	Ta vie dépend de ta décision, tu me dis quels étaient les territoires de Big Daddy, et je te laisse partir.
+
+TUESDAY	(h) Okay, d'accord.
+
+GARY	Toi, t'es pas compliqué! Je suis sûr qu'elle serait très heureuse de l'apprendre.
+
+TUESDAY	(h) Elle est morte, et quant à moi, je veux me tirer d'ici.
+
+GARY	C'est parfait.
+
+
+55 (10:38:11:16)
+
+TUESDAY	Alors... c'est cette région que tu veux?
+
+GARY	Oui.
+
+TUESDAY	Les territoires contrôlés par Big Daddy commencent ici... s'étendent par là, et descendent tout le long... jusque là.
+
+GARY	(hum) Elle avait beaucoup de biens immobiliers.
+
+TUESDAY	Oui.
+
+GARY	Je veux élargir encore plus et avancer jusque dans la région où mon frère habite. Je prends les devants avant que quelqu'un d'autre le fasse, et je m'impose sur place.
+
+
+56 (10:38:43:24)
+
+TUESDAY	(hhh) C'est dommage que... Big Daddy et toi n'ayez pas réussi à vous entendre, c'était du tonnerre.
+
+GARY	Oui... c'est vrai, nous étions une bonne équipe, mais tôt ou tard, un de nous serait éliminé... c'était juste une question de temps. Maintenant... il va y avoir beaucoup de violence du côté de Kliptown. Il est temps pour moi de prendre la relève.
+
+TUESDAY	Entendu, boss.
+
+GARY	Boss? J'aime bien ça.
+
+
+57 (10:39:22:00)
+
+KELEBOGILE	(h)
+
+MASEGO	Maman, qu'y-a-t-il?
+
+KELEBOGILE	(mt) (h) C'est rien, mon chéri, c'est rien, va jouer.
+
+MASEGO	Papa et toi, vous êtes bizarres.
+
+KELEBOGILE	(h) C'est juste des trucs d'adultes, c'est rien, t'inquiète pas.
+
+OUT (10:39:42:14)
+
+
+58 (10:40:30:00)
+
+AMBIANCE	(voix indistinctes en sourdine) (fin ambiance)
+
+OUT (10:40:36:24)
+
+
+59 (10:41:47:13)
+
+INSERT	Générique de fin.

@@ -1,0 +1,963 @@
+LA ESCLAVA BLANCA 44
+12/10/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+FELIPE	Il faut organiser une fête ici, à l'Eden, et en profiter pour faire jouer les Pimentel.
+
+VICTORIA	Oui, c'est ce que j'allais-
+
+NICOLAS	Don Felipe!
+
+FELIPE	(h_/) Je me sens tout de même un peu mal. Vous le remercierez.
+
+NICOLAS	Vous n'avez pas à remercier qui que ce soit. Ce ne sont que des esclaves.
+
+FELIPE	Oui, excusez-moi, j'ai encore mes vieilles coutumes. (h_/) Mais je me réjouis que tout aille bien, Nicolas. Et vous pouvez me tutoyer.
+
+NICOLAS	(h_\) (h_/) Eh bien, je sais que tu es pressé, mais j'aimerais te poser une question.
+
+FELIPE	Pas d'problème.
+
+NICOLAS	(h___/) Qu'est-ce qui a bien pu te faire changer d'opinion par rapport à moi?
+
+FELIPE	(h_/) Je pense qu'il ne faut jamais juger les gens de façon catégorique. Surtout quand il s'agit d'un ami. Et je crois que tu t'es fait avoir. Tu es une victime comme nous tous. (h_/) Je vais vous laisser.
+
+NICOLAS	Je suis heureux de te compter parmi mes amis. (h_/) Tu es le bienvenu ici à toute heure.
+
+FELIPE	Merci beaucoup. Marquise.
+
+NICOLAS	Felipe.
+
+(BOUCLE 2 - 00:01:55:11)
+		02
+
+VICTORIA	(h___/) Je suis très fière de toi et de la noblesse dont tu as fait preuve. Sans vouloir te dire ce que tu as à faire, le sort d'Ana me préoccupe énormément. Je t'en prie, il faut que tu parles au capitaine. Je n'supporte pas qu'il la brutalise.
+
+NICOLAS	Tu n'veux pas me donner d'ordres mais tu viens de le faire. (h___/) Et je vais t'obéir en bon époux dévoué que je suis. (h_/) Tu peux aller dormir. Je vais aller parler à Granados.
+
+VICTORIA	(h_\) Merci.
+
+NICOLAS	(smack)
+
+VICTORIA	(h___/) (h_\)
+
+(BOUCLE 3 - 00:02:31:21)
+		03
+
+MILAGRO	Victoria! Il s'apprête à sortir?
+
+VICTORIA	Oui. (h_/) Au moins je n'aurai pas à passer la nuit avec lui.
+
+MILAGRO	Tu crois qu'on peut parler un moment?
+
+VICTORIA	Bien sûr, oui. Viens par ici.
+
+(BOUCLE 4 - 00:02:43:09)
+		04
+
+VICTORIA	Qu'est-ce qui s'passe?
+
+MILAGRO	Viens!
+
+VICTORIA	Est-ce que c'est grave?
+
+MILAGRO	Assieds-toi. (h_/) (mts) (h_/) Je crois que je suis tombée amoureuse!
+
+VICTORIA	De qui?
+
+MILAGRO	De Julian.
+
+VICTORIA	Le contremaître?
+
+MILAGRO	Est-ce que c'est une mauvaise nouvelle?
+
+VICTORIA	Non... Non, pas du tout. Tu lui as parlé de nos projets d'évasion?
+
+MILAGRO	Non, bien sûr que non, il n'en a aucune idée! A vrai dire... tout a commencé quand j'ai dû le distraire pour qu'on puisse agir discrètement. Je me suis rendue compte que c'était quelqu'un de bien et qu'il m'aimait.
+
+VICTORIA	J'en suis persuadée. J'ai toute confiance en ton jugement. Mais ça devra rester entre nous. Ne lui parle jamais du tunnel. Ce serait trop dangereux pour nous, Milagro. Promets-moi que tu n'en parleras jamais à Julian.
+
+MILAGRO	(h_/) Ca veut dire que le moment venu, je disparaîtrai de sa vie et tout s'arrêtera comme ça?
+
+VICTORIA	(h_______/) Oui, j'en ai bien peur. Les enjeux sont bien trop importants. Je sais que tu comprends. Mais ne te tracasse pas pour le moment. On reparlera de ça demain.
+
+MILAGRO	(h_/)
+
+VICTORIA	D'ici là, tu peux passer du temps avec lui.
+
+MILAGRO	(snif)
+
+VICTORIA	(Nasal__\)
+
+(BOUCLE 5 - 00:04:45:24)
+		05
+
+GRANADOS	(Nasal__/) (Nasal__\) (Nasal__/) (h___\) (h___/) (h___\) Tu as entendu?
+
+NICOLAS	Il n'y a que nous ici, Francisco. Calme-toi.
+
+GRANADOS	(h___/) (h___\)
+
+NICOLAS	Tu peux m'expliquer à quoi est dû ce désastre?
+
+GRANADOS	Ton ancien esclave m'a rendu une petite visite. (h___\)
+
+NICOLAS	Miguel?
+
+GRANADOS	Qui veux-tu qu'ce soit!
+
+NICOLAS	Qu'est-ce qu'il a fait?
+
+GRANADOS	Il a engrené mes esclaves, ils m'ont attaqué et ils se sont enfuis d'ici. (boit_____________________________)
+
+NICOLAS	(h___/) Tu as vu son visage? Tu es sûr que c'était lui?
+
+GRANADOS	Non! (halète en off________) (h_/) Je n'ai rien vu du tout parce que ce lâche a pris soin de mettre un masque. Mais je sais tout de même que c'est lui qui est derrière ça! Tu n'as jamais su le faire obéir!
+
+NICOLAS	Pour ton information, sache que mon esclave, n'aurait jamais pu venir ici et fomenter une rébellion contre toi!
+
+GRANADOS	(h___\)
+
+NICOLAS	Il était à l'Eden!
+
+GRANADOS	(h___/) (h___\) Ah oui? (h___/) (h_\) Eh bien il a très bien pu en sortir.
+
+NICOLAS	Oui, et ensuite il est revenu à l'Eden pour rester mon esclave.
+
+NOTE	Laurence propose "jouer"
+
+NICOLAS	Après avoir réussi à s'enfuir avec les autres.
+
+GRANADOS	Mais j'en sais rien, je sais pas, moi, je suis pas dans sa tête!
+
+NICOLAS	Il aurait quand même été bien stupide! (h___\)
+
+GRANADOS	Regarde un peu ce qu'ils m'ont fait.
+
+NICOLAS	(h___/) (h_\)
+
+GRANADOS	Ils m'ont tout pris, il ne me reste absolument rien. (halète très légèrement mais pas de mouvements_____________________________________________________)
+
+NICOLAS	Comment ils ont fait ça?
+
+GRANADOS	Ils ont voulu m'attaquer mais je me suis défendu et ils sont repartis en courant. Après m'avoir traité d'assassin. (h___/) (h___\) (h_/) Mais ne t'en fais pas pour ça, ils n'ont aucune preuve contre moi. Enfin, je devrais dire "contre nous", parce que je n'ai pas tué ces esclaves tout seul, nous étions deux!
+
+NICOLAS	Hé____ On avait pourtant décidé de ne plus parler de ça, il me semble!
+
+GRANADOS	Je me fiche de ce qu'on avait décidé, je te demande de n'pas me laisser en plan!
+
+NICOLAS	(h___/) (h___\) (h___/)
+
+GRANADOS	(h_\) Moi j'ai accompli ma mission.
+
+NICOLAS	Ne m'touche pas. (Nasal__\)
+
+GRANADOS	T'en as fait autant?
+
+NICOLAS	(Nasal__/)
+
+GRANADOS	Réponds-moi, Nicolas. (h_/) (h___\)
+
+NICOLAS	(Nasal__/) (Nasal__\) (Nasal__/) (Nasal__\)
+
+(BOUCLE 6 - 00:06:59:20)
+		06
+
+MORALES	Tout ça, c'était l'idée de Nicolas Parrenio. (h___/) Il m'a ordonné de mettre le feu à l'Eden et de massacrer tous les Quintero. Mais alors pourquoi je suis ici? (h___/) Ah, je sais. (h___/) Pour le bébé. (h___/) Parce que je n'ai pas été capable de tuer la petite fille. (h___/) Je n'ai pas pu tuer cette petite fille. (h___/) C'est pour ça que je suis ici. (h___/) (h_\) Il faut que je sorte de là.
+
+(BOUCLE 7 - 00:07:34:06)
+		07
+
+MORALES	(h___/) Laissez-moi parler à Don Nicolas! (h_/) Laissez-moi sortir! (h_/) Il faut absolument qu'je sorte d'ici! (h_/) Je dois voir Nicolas! (h_/) Laissez-moi aller parler à Don Nicolas!
+
+RANGEL	Silence!
+
+MORALES	(h_/)
+
+RANGEL	Enfin, mais qu'est-ce que c'est que ce boucan?
+
+MORALES	(h_\)
+
+RANGEL	Qu'est-ce qu'il y a à crier comme ça? Vous avez réussi à réveiller tout le monde!
+
+MORALES	(h_/) Monsieur Abad, (h_/) (h_/) faites venir Nicolas Parrenio, (h_/) dites-lui que Morales veut lui parler, (h_/) que c'est très important et que je veux finir ce que j'ai commencé, (h_/) je vais faire ce qu'il m'a demandé il y a bien longtemps. Cette fois je n'hésiterai pas à tuer la petite fille. (h___/)
+
+RANGEL	Ce genre d'accusations est extrêmement grave.
+
+MORALES	(h___/)
+
+RANGEL	Avec de tels propos, vous risquez de jeter l'opprobre sur l'honneur et sur le prestige du nom de Parrenio.
+
+MORALES	(h___/) Pourtant, je vous dis la vérité, mon père. (h___/) Il m'a ordonné de massacrer tous les Quintero, (h_/) et de faire partir l'Eden en fumée. (h___/) Mais je n'ai pas pu tuer le bébé, j'ai échoué et c'est pour ça que les choses se sont gâtées pour moi, et que je suis enfermé ici, mais cette fois je tuerai le bébé.
+
+RANGEL	Quel bébé? De quel bébé eske nous parlons?
+
+MORALES	De Victoria Quintero. (h___/) La véritable et seule héritière de l'Eden. J'ai menti à Don Nicolas en lui disant que l'avais tuée alors qu'en réalité j'en ai été incapable.
+
+RANGEL	(h___/)
+
+MORALES	(h_/) Il s'est emparé de toutes ses terres, (h_/) en étant persuadé que la petite fille était morte, (h___/) mais Victoria Quintero est vivante et c'est elle la propriétaire de l'Eden.
+
+RANGEL	(h___\)
+
+(BOUCLE 8 - 00:09:18:07)
+		08
+
+NICOLAS	(Nasal_____\) Non, merci.
+
+GRANADOS	(boit) Alors, est-ce que tu as pu savoir qui sont les esclaves engagés dans cette foutue cause, ton espionne a fait son travail?
+
+NICOLAS	Cette idiote a été incapable de me fournir une information potable. (h___/) J'm'en suis débarrassé.
+
+GRANADOS	(h___\) Mieux vaut tenir ces vermines à distance. (h___/)
+
+NICOLAS	Mais tu n'peux pas vivre comme ça, Francisco. Je sais que tu as du mal à l'admettre, (h_/) mais nous avons besoin d'eux. Sinon, comment est-ce qu'on gagnerait nos vies, hein? Tu n'as pas le choix, il faut que tu reprennes des esclaves et que tu fasses revenir ta femme.
+
+GRANADOS	Je n'ai pas envie de parler de ça.
+
+NICOLAS	Tu abandonnes? Tu vas rester ici? Maintenant tu confies ton destin à une femme et à une bande d'esclaves?
+
+GRANADOS	Ah oui, et qu'est-ce que tu proposes de mieux, Nicolas, hein?
+
+NICOLAS	(h___/) (h___\)
+
+GRANADOS	Que je place une arme sur la tempe de ma femme et que je la fasse revenir de force?
+
+NICOLAS	(Nasal__\)
+
+GRANADOS	Parce que ça, j'ai déjà essayé. Et ça n'marche pas.
+
+NICOLAS	(h_/) Je n'te dis pas de faire ça. Il existe des moyens plus subtils pour y arriver.
+
+(BOUCLE 9 - 00:10:30:12)
+		09
+
+MORALES	(se goinfre_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _) (mâche + respire fort___________________________________________________________________________________________________________) C'est la première fois depuis mon arrivée ici que j'ai droit à de la nourriture décente. Et pas à cette bouillie infâme qu'on me sert tous les jours que Dieu fait! (mâche____________________________)
+
+RANGEL	J'ai toujours pensé qu'avoir les idées claires passait nécéssairement par un bon repas.
+
+MORALES	(mâche et respire________________________________________________________________) La bonne nourriture coûte cher. (Nasal__/) Hm! (Nasal__/) (h_\)
+
+NOTE	(bouche pleine)
+
+MORALES	J'en sais quelque chose. (mâche et boit_________________________________________________________________________________________) J'ai travaillé toute ma vie au service de donia Adela Parrenio. (Nasal__/) Cette fichue bonne femme est le diable incarné! (h___/) (mâche toujours____) (snif) (gloups) (h___/) (mâche) Elle passait son temps à se plaindre d'avoir à nous nourrir et elle plaçait les esclaves et les gardes au même niveau. Parce que pour cette femme, les esclaves et les employés ne valaient pas mieux que des parasites! (Nasal__/) Qu'elle soit maudite jusqu'à la fin des temps. (Nasal__/) (boit)
+
+RANGEL	Plus de vin?
+
+NOTE	+
+
+MORALES	(respis en off)
+
+RANGEL	(h___/) (Nasal__\)
+
+MORALES	(respire fort et mâche__________________________________________________________________) (snif)
+
+RANGEL	J'aimerais que l'on discute plus en détail de ce dont on a parlé dans votre cellule.
+
+MORALES	(Nasal__/)
+
+RANGEL	(h___/) Mais il est de mon devoir de vous mettre en garde. (h___/) Comme je l'ai dit, (h____________/) ne parlez que si tout cela est vrai ou vous serez attaqué pour diffamation envers un honnête homme.
+
+MORALES	Parrenio est un meurtrier. (h___/) (h_\) Ce n'est pas un honnête homme.
+
+(BOUCLE 10 - 00:12:17:23)
+		10
+
+MORALES	Il m'a fait enfermer ici pour que je ne risque pas de le trahir en dévoilant tout ce que je sais. (h___/) Mais je ne l'aurais jamais trahi, (h_/) je lui étais loyal. (h_/) Mais maintenant vous pouvez être sûr que s'il se tenait devant moi je lui tordrais le coup et lui arracherais les yeux de mes propres mains!!
+
+RANGEL	(Nasal__/)
+
+MORALES	(Nasal__/) (Nasal__/)
+
+RANGEL	Un peu de calme.
+
+MORALES	(Nasal_________/)
+
+RANGEL	Sinon je vous renvoie dans votre cellule.
+
+MORALES	(Nasal__\) (Nasal__/)
+
+RANGEL	Je vous crois. Mais il va falloir que vous m'expliquiez dans les moindres détails ce que Don Nicolas vous a obligé à faire. C'est à cette seule condition que je pourrai vous aider.
+
+MORALES	(h___/) Vous voulez m'aider, alors?
+
+RANGEL	Confiez-vous à moi. Soulagez votre conscience, mais surtout n'oubliez pas que la vérité se cache toujours dans tous les petits détails.
+
+MORALES	(h_______/) Il y a de ça vingt ans, (h___/) Don Nicolas m'a ordonné de mettre de feu à l'Eden, et d'assassiner les Quintero. Don Domingo, Donia Helena, (h___/) et le bébé qu'ils venaient tout juste d'avoir. (h___/)
+
+RANGEL	Vous avez obéi?
+
+(BOUCLE 11 - 00:13:32:07)
+		11
+
+MORALES	Ca faisait des années qu'il mourait d'envie de s'emparer de leurs terres, (h___/) mais pour ça il devait faire disparaître la petite fille! Parce que c'était leur unique héritière. (h___/) Après ça les terres des Quintero ont été bradées, (h_/) il les a eues pour une bouchée d'pain. (h________________/) (expi___________) Il a profité sans l'ombre d'un remord d'une tragédie qu'il avait lui-même provoquée. Maintenant vous connaissez le mode opératoire (h___/) de la personne vile, de ce traître calculateur qui a détruit des vies, et que vous appellez un honnête homme. (boit)
+
+(BOUCLE 12 - 00:14:26:06)
+		12
+
+NICOLAS	Que vas-tu faire de tout cela si personne n'y travaille?
+
+GRANADOS	J'en sais rien, Nicolas... (h___\) Je n'ai pas assez de fonds pour acheter des esclaves. Je ne tiens pas à vivre entouré de ces gens, si tu veux tout savoir.
+
+NICOLAS	De quoi tu vas vivre? De ton salaire de militaire?
+
+GRANADOS	Je n'suis plus militaire. Fidel m'a suspendu et ensuite j'ai démissionné. Qu'est-ce que j'aurais fait dans l'armée de toute façon, ça me m'aurait mené à rien.
+
+NICOLAS	(h___\) (Nasal__/) Ta situation est encore pire que ce que j'imaginais, Francisco. (h___/) Tu n'devrais pas rester ici. (h___/) Cet endroit nécessite beaucoup de personnel pour être entretenu. (h_/) Si ça te dit, je pourrais te loger dans une de mes maisons... à Santa Marta. (h_/) Et si tu veux travailler, je pourrais te trouver quelque chose.
+
+GRANADOS	Dans quel domaine?
+
+NICOLAS	(Nasal__/) Je vais avoir des tâches spéciales pour lesquelles j'aurai besoin d'un homme de confiance. (h___/) Un homme comme toi.
+
+GRANADOS	Tu veux que je sois ton sbire? Mais pour qui eske tu m'prends? J'ai une fierté, je suis un propriétaire comme toi!
+
+NICOLAS	Non, tu te trompes. Moi je ne suis pas ruiné. (h___/) Penses-y. (effort) (h_\) Réfléchis bien. (xxxx) Yaa!
+
+(BOUCLE 13 - 00:16:09:08)
+		13
+
+MILAGRO	(h___\)
+
+JULIAN	(smack) (smack) (smack) (smack)
+
+MILAGRO	Demain je te préparerai un petit déjeuner copieux. Je veux que tu prennes des forces avant d'aller travailler.
+
+JULIAN	(smack) (h___/) Merci, belle créature, mais ça n'va pas être possible. (h_/) Le patron veut que je charge la marchandise demain matin. Il m'a demandé de l'emmener par le chemin du port. (mâche_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _) (boit________________)
+
+MILAGRO	Vous n'prendrez pas la route royale?
+
+JULIAN	Hm hm. Non. Pourquoi cette question?
+
+MILAGRO	(h_/) C'est juste... qu'il me semble que c'est le chemin le plus utilisé. (h_/)
+
+JULIAN	C'est justement le problème. Il y a eu beaucoup d'attaques sur ce chemin.
+
+MILAGRO	(Nasal__\) (h_/) (Nasal__\) (h_/) Il faut que j'y aille. (smack) Repose-toi.
+
+JULIAN	Pourquoi tu t'en vas, où est-ce que tu vas?
+
+(BOUCLE 14 - 00:17:27:18)
+		14
+
+NOTE	ou Nico.
+
+ADELA	Nicolas? Isabel? Qui est là?
+
+(BOUCLE 15 - 00:19:06:11)
+		15
+
+REMEDIOS	Donia Adela? Excusez-moi mais ce n'est pas une heure pour déranger les gens.
+
+ADELA	Mon fils est là?
+
+REMEDIOS	Non, il n'est pas là, qu'est-ce que vous allez imaginer? (h___/) Il est sorti.
+
+ADELA	Pour aller où? Je l'ignorais.
+
+REMEDIOS	Il est allé rendre visite au capitaine Granados. (h___/) La Marquise et moi dormons- en tous cas nous dormions. (h___/) J'espère qu'elle n'a pas été réveillée.
+
+ADELA	J'ai entendu du bruit.
+
+REMEDIOS	(h_/) Moi je n'ai rien entendu. Vous êtes fatiguée, Adela. Il est tard. Les bras de Morphée vous protègeront de tous ces fantômes. (h_/) Bonne nuit!
+
+(BOUCLE 16 - 00:19:45:13)
+		16
+
+VICTORIA	Mais Nicolas a dit qu'il prendrait la route royale!
+
+MILAGRO	(h___/) Changement de plan. Julian vient de me le confirmer. (h_/) Ils vont passer par le rivage.
+
+VICTORIA	Donc on a donné une fausse information à Eugenia.
+
+REMEDIOS	Et à cette heure ce serait de la folie d'essayer d'aller le lui dire.
+
+VICTORIA	(h_\)
+
+ADELA	Ah, c'est toi!
+
+REMEDIOS	Voilà Nicolas.
+
+(BOUCLE 17 - 00:20:07:09)
+		17
+
+ADELA	Je suis certaine de ce que j'ai entendu, (h_/) l'éclopée me croit sénile mais tu sais que j'ai une meilleure ouïe que tout l'monde.
+
+NICOLAS	Mère, calme-toi, tu es beaucoup trop nerveuse.
+
+REMEDIOS	(snif) Don Nicolas?
+
+NICOLAS	Chut. Elle est si belle quand elle dort. (h___/) Bonne nuit.
+
+REMEDIOS	Bonne nuit. Dormez bien.
+
+(BOUCLE 18 - 00:20:42:24)
+		18
+
+NOTE	(toutes s'agitent : réacs)
+
+REMEDIOS	C'était moins une!
+
+MILAGRO	Qu'est-ce qu'on va faire, pour la route?
+
+VICTORIA	(h_\) (h___/) Demain j'irai donner cette information à Eugenia. (h___/) (h___\) (h_/) (h___\)
+
+(BOUCLE 19 - 00:21:01:05)
+		19
+
+TOMAS	Notre priorité, c'est de le réparer. Ensuite on travaillera à sortir la terre de ce tunnel.
+
+CANDELA	Mh! Je la transporterai dans mes sous-vêtements s'il le faut.
+
+NOHEMI	(h___\)
+
+CANDELA	Je vous jure que je le ferai, je suis prête à tout pour qu'on réussisse.
+
+TRINIDAD	(rire discret_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+TOMAS	(h___\) (petit rire_ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+SIERVO	Tomas.
+
+NOHEMI	(h___/)
+
+SIERVO	(h___\) Ecoute. (h_\) (h___/) Je voudrais contribuer à votre cause. (h___/) Je veux être puni le premier.
+
+CANDELA	Mh.
+
+SIERVO	(Nasal__\)
+
+TRINIDAD	Les conditions sont bien trop dures dans ce trou. Tout le monde ne peut pas supporter ça.
+
+SIERVO	(en mâchant)
+
+TOMAS	Mh.
+
+SIERVO	Je sais. T'en fais pas pour moi. Siervo a encore de la ressource sous le pied, il résistera.
+
+TRINIDAD	Enfin Siervo, mais qu'est-ce que tu me chantes? Tu n'es qu'un vieux boîteux alors arrête un peu de jouer les durs.
+
+NOHEMI	Un peu de respect pour tes aînés, Trinidad!
+
+TRINIDAD	Hein? Vous savez bien que c'est la vérité! Il s'agit quand même de notre liberté! On ne peut pas se permettre de prendre de risque et de laisser faire le hasard! Pour creuser, il nous faut quelqu'un de jeune! Siervo. Tu nous es déjà très utile. Tu transmets les messages, tu es nos yeux et nos oreilles dans cette maison. On se chargera du reste, ne t'en fais pas.
+
+SIERVO	Hum! (h___/) J'ai compris, que j'étais plus bon à rien, va, ça sert à rien de vous fatiguer. Ouh... (h___/) Le vieux vous salue bien bas.
+
+(BOUCLE 20 - 00:22:13:18)
+		20
+
+MIGUEL	(mange________) La prochaine fois, c'est moi qui parlerai à Siervo.
+
+TRINIDAD	Non, Miguel. (h___/) Si nous voulons notre liberté, les politesses pourront bien attendre qu'on ait réussi.
+
+MIGUEL	C'est pas une raison pour être impoli. Je préfère que tu te taises si tu ne sais pas parler gentiment. Désormais c'est moi qui m'adresserai à vous. Eske c'est clair?
+
+TRINIDAD	(Nasal__/)
+
+MIGUEL	Mais keski lui prend?
+
+(BOUCLE 21 - 00:22:55:05)
+		21
+
+SIERVO	Milagro. Viens.
+
+MILAGRO	Siervo.
+
+SIERVO	Je viens de discuter avec les autres. On a réussi à trouver un plan pour commencer le travail dans le tunnel.
+
+MILAGRO	Ah oui?
+
+SIERVO	Seulement on va avoir besoin que tu participes. Mh?
+
+MILAGRO	(h_/) Va fermer la porte et explique-moi ça.
+
+SIERVO	D'accord. J'y vais.
+
+(BOUCLE 22 - 00:23:19:23)
+		22
+
+AMBIANCE	(ambiance off : Attention devant! Ho hisse!)
+
+VICTORIA	Tu passes par la route royale?
+
+NICOLAS	Oui. Chargez mieux qu'ça! Là, c'est ni fait ni à faire! La marchandise doit arriver intacte!
+
+REMEDIOS	Maintenant c'est une course contre la montre. (h_/) Qui va prévenir Eugenia?
+
+(BOUCLE 23 - 00:23:38:23)
+		23
+
+VICTORIA	Mon amour, j'aimerais vraiment être là pour suivre le chargement, (h___/) mais je dois aller à Santa Marta.
+
+NICOLAS	Maint'nant?
+
+VICTORIA	Oui. Je veux aller à l'église et continuer les préparatifs de la fête d'Isabelita. (h___/) Remedios m'accompagnera.
+
+NICOLAS	Non, mon amour. Tu restes là.
+
+VICTORIA	(h___/) Mais tu vas être occupé à surveiller tes esclaves.
+
+NICOLAS	Je sais. Mais tu vas nous suivre jusqu'au port et ensuite je t'aiderai à faire ce que tu as à faire à Santa Marta.
+
+VICTORIA	Bon, très bien.
+
+NICOLAS	Mh.
+
+(BOUCLE 24 - 00:24:03:06)
+		24
+
+ADELA	Ne fais plus un geste, misérable!
+
+SIERVO	(h_/)
+
+MILAGRO	Je vous l'avais dit, madame!
+
+SIERVO	(h___\)
+
+ADELA	Je savais bien que nous avions un maudit voleur dans la maison. Nicolas! Tu vois?
+
+SIERVO	Mais maîtresse, (h_/) je l'ai pris pour- pour le faire briller.
+
+ADELA	Ne me mens pas, espèce de sale voleur!
+
+SIERVO	Non, pitié, ne me faites pas de mal, madame, ne me faites pas fouetter!
+
+VICTORIA	Adela!
+
+SIERVO	(pleure/geint_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+ADELA	J'espère qu'il recevra une punition exemplaire.
+
+SIERVO	(continue de geindre en off)
+
+NICOLAS	(Nasal__/)
+
+(BOUCLE 25 - 00:24:48:17)
+		25
+
+AMBIANCE	(ho hisse! Faites attention! Les sacs par là!)
+
+SIERVO	(pas de son mais ajouter des réacs)
+
+TRINIDAD	Qu'est-ce que c'est que ce cirque?
+
+NOHEMI	Qu'est-ce qui s'passe?
+
+MIGUEL	Julian? Où est-ce que vous l'emmenez?
+
+JULIAN	A la fosse.
+
+MIGUEL	Comment ça? Keskil a fait?
+
+JULIAN	Pour vol. Continuez à travailler. Miguel et Trinidad, accompagnez-moi.
+
+TRINIDAD	Ce vieil abruti a réussi à se faire punir! Maintenant tu vois qu'il faut être strict sinon ils font n'importe quoi!
+
+(BOUCLE 26 - 00:25:18:10)
+		26
+
+REMEDIOS	Oh non, comment on va faire maintenant que Siervo est puni et que Nicolas veut t'accompagner? Qui va bien pouvoir aller prévenir Eugenia? (h___/)
+
+VICTORIA	Nous y allons. Et c'est maintenant ou jamais. (h_/) Si jamais on échoue, elle dira la vérité à Nicolas à propos de Miguel et moi. (h_/) Je me charge de le convaincre.
+
+MILAGRO	Oh Seigneur, aidez-nous. (h___/) (h___\)
+
+(BOUCLE 27 - 00:25:45:01)
+		27
+
+VICTORIA	Coucou mon amour.
+
+NICOLAS	Je te ferai prévenir quand je serai prêt à partir avec la cargaison. Je dois encore aller superviser mes hommes.
+
+VICTORIA	(h___/) Sinon je vais à Santa Marta maintenant et je te retrouve au port. J'aurai terminé tous mes préparatifs et je serai sortie de l'église. Et on pourra passer du temps tous les deux. On pourrait dîner ensemble.
+
+NICOLAS	(h___/) (Nasal__\) (h___/) Très bien. Tu n'auras qu'à me retrouver sur le port.
+
+VICTORIA	(Nasal__/) Merci beaucoup. Je suis impatiente à l'idée de passer du temps avec toi. Où est-ce qu'on dînera?
+
+NICOLAS	Laisse-moi y réfléchir. (h___/) Ce sera une surprise.
+
+VICTORIA	J'ai hâte.
+
+NICOLAS	(smack)
+
+(BOUCLE 28 - 00:26:36:08)
+		28
+
+MILAGRO	Je suis contente que le plan ait fonctionné.
+
+TOMAS	Quel plan?
+
+MILAGRO	(h_/) Le plan pour faire punir Siervo. Il m'a tout expliqué. Et je l'ai aidé.
+
+TOMAS	Ce n'était pas un plan, Milagro. C'est Trinidad qui était censé se faire punir.
+
+MILAGRO	(h_/) Mais Siervo m'a expliqué- il m'a eue.
+
+TOMAS	Ne t'en fais pas. (h___/) Siervo a toujours contourné les règles pour contribuer à notre cause. Tu n'as pas à te sentir coupable. Pourvu qu'il ne lui arrive rien. (h_____________/)
+
+(BOUCLE 29 - 00:27:07:07)
+		29
+
+VICTORIA	(h_/) Il faut qu'on aille à Santa Marta pour terminer les préparatifs.
+
+REMEDIOS	Vous sortez aussi, donia Adela?
+
+ADELA	Je vais vous aider avec les préparatifs. Rien n'est trop beau pour Isabel.
+
+REMEDIOS	(chuchote) Qu'est-ce qu'on fait, maintenant?
+
+ADELA	En route!
+
+REMEDIOS	Victoria!
+
+VICTORIA	En route.
+
+(BOUCLE 30 - 00:27:45:23)
+		30
+
+SIERVO	(il respire fort)
+
+JULIAN	Dépêchez-vous un peu, je vous rappelle qu'il faut qu'on aille livrer le cacao. Le patron nous attend.
+
+MIGUEL	Combien de temps eskil va rester là?
+
+JULIAN	J'en sais rien, Don Nicolas n'a rien dit. Mais je parierais sur un certain temps. Il s'est fait prendre en train de voler. Il faut vraiment être bête. Provoquer le sort à son âge ce n'est pas très malin. Pousse-le.
+
+SIERVO	(h___/) (h___\) (h_\) Huh! (h___\) (h___\) (réacs en off_ _ _ _) (Aah__!) (Aah__!) (réacs_ _ _ _ _ _ _)
+
+MIGUEL	(voir pour réacs effort)
+
+TRINIDAD	(voir pour réacs effort)
+
+SIERVO	(Aah__!) (Aah__!) (etc en off_ _ _ _) (réacs douleur/effort_ _ _ ) Hhh_______ Hh________ (Aah__!) (réacs en off) (Aah__!) (Aah__!) (Aah__!) (halète en off) Hhh_____ (h_\) (h_/) (h_\)
+
+(BOUCLE 31 - 00:29:02:21)
+		31
+
+CANDELA	Allez, Milagro, dépêche-toi. On n'a pas toute la journée! Donne-moi ça.
+
+MILAGRO	Voilà, cette fois c'est tout.
+
+CANDELA	Mais c'est beaucoup trop! (h_/) Comment veux-tu que je cache tout ça, hein? C'est beaucoup plus lourd que d'habitude.
+
+MILAGRO	(h_\) Attends-moi, je reviens.
+
+(BOUCLE 32 - 00:30:05:24)
+		32
+
+ISABEL2	Oui, entrez.
+
+MILAGRO	Bonjour, mademoiselle.
+
+ISABEL2	Bonjour Milagro. Huh- (h_/) Milagro, est-ce que tu sais si ma grand-mère est là?
+
+MILAGRO	(h___/) Elle vient de partir avec la marquise pour Santa Marta.
+
+ISABEL2	Oh.
+
+MILAGRO	Est-ce que vous avez du linge à laver?
+
+ISABEL2	Non.
+
+MILAGRO	Cette couverture est toute tâchée, je vais la prendre. Vous serez bien plus à l'aise dans des draps propres.
+
+ISABEL2	Hé...
+
+MILAGRO	(halète____)
+
+ISABEL2	Quelle maniaquerie, mes draps n'étaient pas sales du tout! Le prend pas mal, mais on dirait ma grand-mère.
+
+MILAGRO	Merci. Je vous les rapporte. (h_\)
+
+ISABEL2	A plus tard...
+
+(BOUCLE 33 - 00:30:40:24)
+		33
+
+JULIAN	Alors ça, c'est une surprise. Tu viens avec nous, belle créature?
+
+MILAGRO	(h_/) La marquise m'a demandé de laver son linge délicat. Parce que Candela n'y va pas de main morte.
+
+JULIAN	Oui, toi tu as des doigts de fée, je te le confirme. Et tu es douce.
+
+CANDELA	A quoi est-ce que tu joues avec Julian?
+
+MILAGRO	Ne t'inquiète pas. Je fais ça pour notre cause.
+
+CANDELA	Pour notre cause? Et si jamais il se rend compte que tu l'utilises, est-ce que tu sais ce qu'il te fera?
+
+MILAGRO	Occupe-toi de tes affaires, Candela!
+
+CANDELA	Puisque c'est comme ça, aide-moi à gagner du temps en allant faire diversion un moment!
+
+MILAGRO	Attendez-moi.
+
+CANDELA	Dépêche-toi!
+
+MILAGRO	Julian? J'aimerais aller me changer.
+
+JULIAN	D'accord mais ne va pas nous retarder.
+
+CANDELA	Comment veux-tu que je fasse, tu crois que c'est facile, toi, de cacher ça?
+
+NOHEMI	J'en sais rien!
+
+CANDELA	Aide-moi au lieu de critiquer!
+
+NOHEMI	Julian? On peut y aller, maintenant?
+
+JULIAN	Attends une petite minute.
+
+(BOUCLE 34 - 00:31:50:23)
+		34
+
+AMBIANCE	(ambiance femmes au lavoir : papotent d'autres gens)
+
+JULIAN	(boit________________________________________________________________________________________)
+
+MILAGRO	Tu veux bien m'en donner un petit peu?
+
+JULIAN	(h_/) Si je fais ça, les autres vont m'en réclamer.
+
+MILAGRO	De quelles autres est-ce que tu parles?
+
+JULIAN	(h_/) Ne sois pas jalouse, belle créature.
+
+MILAGRO	(h_/) (h___\) Quelle chaleur ici. Je vais aller me reposer à l'ombre. Tu viens?
+
+NOHEMI	Ca y est, elle part occuper Julian, c'est le moment ou jamais.
+
+(BOUCLE 35 - 00:33:06:12)
+		35
+
+CANDELA	(voir si besoin de réacs) Siervo! Siervo!
+
+SIERVO	Oui!
+
+CANDELA	Hé oh!
+
+SIERVO	Ah, c'est toi Candela? Content d'te voir! Je perds mon temps depuis qu'ils m'ont mis là, la terre est trop dure pour creuser à mains nues!
+
+CANDELA	C'est justement pour ça que je suis là, regarde! Attrape ça!
+
+SIERVO	Merci!
+
+CANDELA	Attention voilà la suite!
+
+SIERVO	C'est bon, je l'ai!
+
+CANDELA	(h_\)
+
+SIERVO	Lance-le!
+
+CANDELA	(h_\)
+
+SIERVO	Je vais faire du bon travail avec ça, c'est c'qu'ils me fallait.
+
+CANDELA	Dépêche-toi, bon sang! Oh non... (h_/)
+
+SIERVO	Candela?
+
+CANDELA	(halète_ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+SIERVO	(Aah__!)
+
+CANDELA	Tiens!
+
+SIERVO	(se débat__)
+
+CANDELA	(voir pour réacs_______) Siervo!
+
+SIERVO	Quoi!
+
+CANDELA	Aide-moi, je vais tomber!
+
+SIERVO	Que veux-tu qu'je fasse!
+
+CANDELA	Je glisse, aide-moi!
+
+SIERVO	Je vais t'attraper!
+
+CANDELA	(Aah__!) Aaahh___!
+
+SIERVO	(Aah__!)
+
+CANDELA	Hh_!
+
+SIERVO	(Aah__!)
+
+CANDELA	(h_\) (respis_____________)
+
+SIERVO	Debout, vite! Qu'est-ce qui t'a pris!
+
+CANDELA	J'ai entendu quelqu'un arriver!
+
+SIERVO	Un homme?
+
+CANDELA	Oui!
+
+SIERVO	(halète)
+
+CANDELA	Dépêche-toi.
+
+SIERVO	Cache-toi!
+
+CANDELA	Aide-moi, il ne faut pas qu'il me voie!
+
+SIERVO	Dépêche-toi!
+
+CANDELA	(h_\) (h_\) (halète)
+
+SIERVO	(halète)
+
+CANDELA	Vite! Donne-moi le reste!
+
+SIERVO	(h___\) Tiens!
+
+(BOUCLE 36 - 00:34:41:08)
+		36
+
+NICOLAS	Bonjour, Siervo.
+
+SIERVO	(h_\) Oh, c'est vous, Nicolas?
+
+NICOLAS	(h___/) Siervo, j'aimerais savoir pourquoi tu voles dans ma maison. (h_/) Ca m'paraît quand même bizarre, venant de toi.
+
+SIERVO	Je sais que c'est inacceptable. J'aurais jamais dû faire ça, je vous d'mande pardon. (h_/) (h___\)
+
+NICOLAS	Si tu es ici, c'est parce que ma mère n'aurait jamais accepté qu'on te ménage. Mais je sais ... que tu es vieux ... et faible. Tu n'as pas la carure pour survivre pendant des jours sans eau ni nourriture. (h___/) Alors pourquoi, Siervo? Tu es fatigué d'vivre?
+
+SIERVO	Non, monsieur! (h___\) Siervo est un vieil homme, et il sait que quand il ne vous servira plus à rien, vous n'hésiterez pas à vous débarrasser de lui.
+
+CANDELA	(h___\) (h___/)
+
+SIERVO	Je voulais être sûr de partir avec un peu d'argent. C'est pour ça que j'ai volé de l'argenterie. (h___/)
+
+NICOLAS	Si tu continues à faire des idioties, je n'te garderai pas!
+
+SIERVO	Je n'recommencerai jamais. Je l'jure!
+
+NICOLAS	Je sais que je me suis toujours débarrassé des vieux esclaves, mais ça n'avait rien de personnel. J'n'ai pas l'choix.
+
+SIERVO	Je sais que vous voulez être un bon maître. Vous faites pas ça pour être méchant.
+
+NICOLAS	Tu te souviens, la fois où tu t'es enfui de l'Eden? Pour ma part je me rappelle très bien ton retour au Palenque. Tu étais dans un état lamentable. Ce chien avait fait du bon travail avec ta jambe. Si tu le voulais, ta vie serait moins dure. Il te suffirait d'être loyal.
+
+SIERVO	(Nasal__\) (Nasal__/)
+
+(BOUCLE 37 - 00:36:09:02)
+		37
+
+SIERVO	(h___/) Je le suis.
+
+CANDELA	(h___/)
+
+SIERVO	Je vous ai toujours été loyal. Je vous l'jure.
+
+NICOLAS	Ca j'en doute! Je demande à voir!
+
+SIERVO	Je suis vraiment désolé pour ce que j'ai fait. Je n'recommencerai plus. Croyez-moi. Je n'le referai pas. Je l'jure.
+
+NICOLAS	Ce ne sont pas des promesses que je veux, mais des actes.
+
+SIERVO	(h_/)
+
+NICOLAS	Si tu fais ce que je te demande, j'y réfléchirai peut-être à deux fois avant de te jeter à la rue comme un misérable.
+
+SIERVO	Que dois-je faire? Patron, dites-moi. Parlez. Je vous obéirai.
+
+NICOLAS	Je veux que tu sois mes yeux et mes oreilles parmi les esclaves. Je veux que tu me dises ce qu'ils font et je veux savoir de quoi ils parlent, surtout Miguel et ses amis. De quoi ils rêvent. Quels sont leurs projets. (Nasal__/)
+
+SIERVO	C'est d'accord. Je serai votre taupe.
+
+CANDELA	(Nasal__\)
+
+SIERVO	Merci pour- votre confiance. Vous n'serez pas déçu.
+
+NICOLAS	(h___/) Très bien, Servio. (h___/) Demain tu sortiras de là, (h_/) et tu pourras enfin m'prouver ce que tu dis.
+
+SIERVO	Demain? Non! Pardon, patron, mais ne me faites pas ça. Si je n'reste pas plus longtemps dans c'trou, les autres esclaves vont se mettre à... à douter d'moi. Et ils ne me feront plus confiance. Laissez-moi ici encore quelques jours, et ils me diront ce que vous voulez savoir. Et comme ça j'aurai des choses à vous rapporter. (h_\) (h___/) Je pourrai bien résister au moins un jour de plus. Pour vous, je ferai n'importe quoi.
+
+NICOLAS	(h___/) Très bien. (h_/) Ne me trahis pas. D'autres avant toi se sont brûlés les ailes. Si tu t'enfuis, tu es un homme mort.
+
+SIERVO	Je reste là. Je l'jure, monsieur.
+
+(BOUCLE 38 - 00:38:01:05)
+		38
+
+SIERVO	(léger halètement_______________________________________)
+
+NICOLAS	Wow wow wow wow wow!
+
+(BOUCLE 39 - 00:38:45:10)
+		39
+
+JULIAN	Milagro, je veux que tu sois ma femme.
+
+MILAGRO	(petit rire) (h_/) Je suis déjà à toi.
+
+JULIAN	Je sais, mais... j'voudrais que ce soit sérieux. J'irai voir le patron. Je lui demanderai d'officialiser notre relation, et... et de nous permettre de nous installer ensemble et de fonder une famille, je veux des enfants avec toi-
+
+MILAGRO	(h_/) Non, tu n'en parleras à personne.
+
+JULIAN	Pardon?
+
+MILAGRO	(h_/) Cette vie dont tu parles n'est pas faite pour nous autres.
+
+JULIAN	Au contraire, le patron encourage son personnel à avoir une famille nombreuse!
+
+MILAGRO	Non... Ouvre les yeux, tu ne te rends pas compte! C'est juste pour avoir plus d'esclaves!
+
+JULIAN	(mts) Ecoute, Milagro.
+
+MILAGRO	Non, Julian. Je n'aurai d'enfants ni avec toi ni avec personne. Je refuse de mettre un bébé au monde pour le condamner à vivre avec des chaînes!
+
+JULIAN	Mais- (h___/) (h___\)
+
+(BOUCLE 40 - 00:39:35:06)
+		40
+
+CANDELA	Siervo! Siervo!
+
+SIERVO	(h_\) (h_\) (h_\) (h_/)
+
+CANDELA	Comment as-tu pu nous faire ça!
+
+SIERVO	(h_\)
+
+CANDELA	Tu es du mauvais côté depuis le début, espèce de traître!
+
+SIERVO	Tourne ta langue dans ta bouche, avant de parler, je sais très bien ce que je fais. Si j'ai accepté son marché c'est seulement pour connaître ses projets, vis à vis des esclaves et de notre cause.
+
+CANDELA	Tu joues un jeu bien trop dangereux.
+
+SIERVO	Je sais. (mh mh mh) (h___/) Mais personne ne réussirait mieux que moi. Je suis peut-être vieux et plus très en forme, mais si une chose s'améliore avec l'âge, c'est l'expérience. (rire bouche fermée______________________)
+
+CANDELA	Tais-toi, idiot, et aide-moi plutôt à sortir d'ici!
+
+SIERVO	(h___/)
+
+CANDELA	Huh!
+
+SIERVO	(réacs effort__________)
+
+CANDELA	(réacs effort__________________________________________________________________)
+
+SIERVO	Viens par là. Pousse sur tes bras.
+
+CANDELA	(puis respis)
+
+SIERVO	Huh! (quelques réacs effort) HH____ (h_\) Le drap.
+
+CANDELA	Vite. Aide-moi à ramasser ça.
+
+SIERVO	La prochaine fois, tu restes en haut, Candela.
+
+(BOUCLE 41 - 00:40:28:05)
+		41
+
+JULIAN	Tout est en ordre? Attendez. Hé, il nous en manque une! (h___/) Que personne ne bouge! Tout le monde reste où il se trouve!
+
+MILAGRO	De toute façon où voudrais-tu qu'on aille avec tout le travail qu'on a! Oh mais qu'est-ce qu'elle fabrique, elle devrait déjà être là. Elle met beaucoup trop de temps à livrer un paquet, c'est pas normal.

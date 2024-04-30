@@ -1,0 +1,1129 @@
+LA ESCLAVA BLANCA EP26
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+GRANADOS	Arturo...
+
+DR. ARTURO LOPEZ	(hh)
+
+GRANADOS	Écoute-moi. Nous allons pouvoir aider ton fils mais il ne doit rien dire de ce qu'il a entendu. Ce serait désastreux pour tout le monde.
+
+DR. ARTURO LOPEZ	(h______) (hh) Mon fils n'est pas un traitre, Capitaine. (h_____) C'est un homme plein d'honneur (h) et qui vient d'une famille noble. (hh)
+
+NICOLAS	(h___) Personne ne le remet en question Arturo.
+
+LOPEZ2	Non, mais ça pourrait mal tourner s'il réitère le comportement qu'il a eu au Palais de Justice.
+
+DR. ARTURO LOPEZ	(h) Je vois, mais (h____) est-ce que nous ne réagirions pas tous comme lui sous la pression ? (hh) Je vous assure que j'irai lui parler. (h__) Je suis certain qu'il se comportera de façon différente.
+
+GRANADOS	Parfait alors. Et puis comme l'a dit Nicolas, Jaïme ne dénoncera aucun de nou___s, donc son procès n'aboutira à rien de concret.
+
+(BOUCLE 2 - 00:01:42:14)
+		02
+
+LOPEZ2	Oui, en effet. Peu importe les avocats qu'il a, aucun Noir ne remportera jamais un procès. (h________) (hh) Jaïme doit absolument se calmer (hh) parce que son trop plein de stress pourrait tous nous impliquer.
+
+DR. ARTURO LOPEZ	(petit rire) Je vois, Caicedo, je crois qu'il est plus que temps de laisser (h__) Jaïme tranquille. (hh___) Ce qui m'inquiète c'est plutôt l'avocat. Je ne veux pas qu'il revienne avec une nouvelle surprise, comme c'était le cas avec Marquez. (h_______) (hh)
+
+NICOLAS	Voilà pourquoi nous voulions te soutenir et payer un bon avocat à ton fils, comme nous te l'avions promis.
+
+GRANADOS	D'ailleurs, quel avocat allons-nous engager ?
+
+NICOLAS	(h____) J'en cherche un Francisco.
+
+(BOUCLE 3 - 00:02:19:24)
+		03
+
+REMEDIOS	J'aimerais pouvoir sortir de ce lit, Trinidad. Aller à la rivière et pourquoi pas (h____) mouiller mes pieds. Mais c'est impossible, je sais. (sniff) (aïe)
+
+TRINIDAD	(h) Pardon.
+
+REMEDIOS	C'est pas grave.
+
+TRINIDAD	(h____) Je pense que sortir vous ferait le plus grand bien. (h___) Et je suis ravi que vous vouliez le faire.
+
+REMEDIOS	(sourire)
+
+TRINIDAD	(h___) Ne bougez pas, je vais chercher quelque chose pour sortir d'ici.
+
+REMEDIOS	(petit rire) Non, je ne bouge pas. Où pourrais-je aller ? (petit rire) (petit rire)
+
+(BOUCLE 4 - 00:03:07:19)
+		04
+
+MILAGRO	Que va-t-on faire maintenant que Morales est incapable de parler du passé, et qu'il n'est plus crédible ?
+
+VICTORIA	(h__) Je dois aller à Santa Marta et parler au Père Octavio. Milagro... Il est le seul à pouvoir dire qui je suis.
+
+MILAGRO	(h___) Mais tu veux lui révéler ta véritable identité ?
+
+
+
+
+VICTORIA	C'est la seule solution qu'il me reste. Je dois lui dévoiler qui je suis, et lui demander s'il peut témoigner en ma faveur. Je dois prouver qu'ici c'est à moi. C'est lui qui m'a envoyé en Espagne pour me sauver des griffes de Morales.
+
+MILAGRO	Si les choses ne se déroulent pas comme tu le veux, ça finira mal. (hh)
+
+(BOUCLE 5 - 00:03:43:01)
+		05
+
+MILAGRO	(h) Et ta vengeance contre Nicolas ?
+
+VICTORIA	Cette vengeance me consume Milagro. J'ai déjà perdu Miguel, et si je continue comme ça, je finirai par me perdre moi-même. Je dois prendre le risque de tout avouer au Père Octavio. Il peut prouver que je suis la seule héritière de l'Eden. Et je pourrais sauver tout le monde et rendre justice à ma façon.
+
+MILAGRO	(mhh)
+
+(BOUCLE 6 - 00:04:16:08)
+		06
+
+REMEDIOS	Je me suis sentie emprisonnée pendant si longtemps. Attachée avec des tas de fers et de sangles... C'est la première fois que je me sens libre. Enfin, c'est ce qui y ressemble le plus.
+
+TRINIDAD	(h__) Et c'est ce que beaucoup de gens ressentent aussi. (h_____) C'est ce que j'ai ressenti toute ma vie. Je crois que vous avez découvert ce que ça fait d'être réduit en l'esclavage.
+
+REMEDIOS	Je suis vraiment stupide, Trinidad. Toi et les tiens avez tellement souffert, et moi je suis là en train de me plaindre comme une inconsciente.
+
+(BOUCLE 7 - 00:05:03:17)
+		07
+
+TRINIDAD	(h_____) Nous avons tous nos propres souffrances, c'est très respectable. Voulez-vous toucher l'eau ?
+
+REMEDIOS	C'est possible avec toutes ces sangles ?
+
+TRINIDAD	Si vous permettez...
+
+(BOUCLE 8 - 00:05:42:08)
+		08
+
+REMEDIOS	Merci beaucoup, Trinidad.
+
+TRINIDAD	Nous devrions rentrer, il commence à se faire tard.
+
+REMEDIOS	Un problème ?
+
+TRINIDAD	Le vent pourrait être mauvais pour vous. C'est l'heure où les moustiques apparaissent. Venez ! Aidez-moi à rassoir Mademoiselle correctement. Dépêchez-vous ! Faites attention.
+
+(BOUCLE 9 - 00:06:27:22)
+		09
+
+MILAGRO	La voie est libre. Allons-y. (han) Monsieur.
+
+VICTORIA	Nicolas, où étais-tu ?
+
+NICOLAS	(h) Je suis allé voir quelques terrains. J'ai galopé toute la nuit.   Et toi, où vas-tu ?
+
+VICTORIA	(h) À Santa Marta. Je voudrais aller prier à l'église, et ensuite j'irai voir ta mère. Je pense beaucoup à elle et je n'ai pas encore été la voir.
+
+NICOLAS	Tu n'as pas à faire ça Lucia. (h___) Je lui ai rendu visite hier.
+
+VICTORIA	Je l'ignorais puisqu'on ne s'est pas vu.
+
+NICOLAS	Je dois te rendre des comptes ?
+
+VICTORIA	(rire ironique) Non !
+
+(BOUCLE 10 - 00:07:08:20)
+		10
+
+NICOLAS	Tant mieux. (h__) Mais laisse-moi clarifier une chose. Je sors quand j'en ai envie (h) et aussi longtemps que j'en ai envie. (h) Toi, tu m'attends ici, tu gardes la maison.  Si tu veux sortir tu me demandes avant.
+
+VICTORIA	(h___) J'ignorais que je devais te demander la permission de mettre un pied devant l'autre.
+
+NICOLAS	C'est le cas depuis que tu es devenue ma femme, voilà.
+
+VICTORIA	(h__) Je n'ai pas l'habitude d'être une potiche. (h) En Espagne...
+
+NICOLAS	Sauf que nous sommes à Santa Marta (h) et tu dois te faire à nos coutumes, c'est clair ?
+
+VICTORIA	Je...
+
+NICOLAS	Je t'ai déjà autorisé des tas de libertés auxquelles les femmes d'ici n'ont pas droit, Lucia, (h___) mais c'est terminé.
+
+VICTORIA	(hh___)
+
+MILAGRO	Ça va aller.
+
+VICTORIA	Pourquoi est-il comme ça ? C'est incroyable. (mhh)
+
+(BOUCLE 11 - 00:08:06:10)
+		11
+
+ALONSO	Merci Rosaura.
+
+GENRAL	Docteur Lopez, j'ai découvert ce qui s'est passé au tribunal, et croyez-moi, j'en suis désolé. Mais cet espèce de marginal était incontrôlable.
+
+DR. ARTURO LOPEZ	C'est la situation la plus embarrassante que j'ai vécu dans ma vie. Voir cet homme accuser mon fils tout ça pour défendre ce sauvage, m'était insupportable.
+
+ALONSO	(h__) Mon père s'est déjà excusé et c'est le maximum qu'il puisse faire pour quelque chose qu'il n'a pas fait. Que vous faut-il de plus, Docteur ?
+
+DR. ARTURO LOPEZ	La seule façon pour que j'accepte ses excuses, c'est que vous acceptiez de défendre mon fils.
+
+ALONSO	Mais il y aurait un conflit d'intérêt, mon frère témoigne pour le plaignant. (h_________) Et en plus, ça fait longtemps que je n'ai pas plaidé.
+
+GENRAL	(h________) C'est le moins que nous puissions faire, mon fils.
+
+(BOUCLE 12 - 00:08:45:00)
+		12
+
+DR. ARTURO LOPEZ	C'est un cas très simple. Vous allez gagner de l'argent à ne rien faire, Alonso. Sauf si vous pensez qu'un juge pourrait faire condamner mon garçon. Un homme Blanc, issu d'une riche famille comme la mienne, pour défendre un noir dégoûtant et tout un tas d'autres menteurs. C'est ce que vous pensez ?
+
+ALONSO	Je regrette, je dois vous dire non.
+
+DR. ARTURO LOPEZ	Mais je vous paierai très cher !
+
+ALONSO	Je suis désolé mais je ne peux pas le défendre. (h______) Si vous voulez bien m'excuser, j'ai à faire. Excusez-moi.
+
+(BOUCLE 13 - 00:09:24:16)
+		13
+
+ISABEL2	Le dresseur de chevaux pourrait m'apprendre à monter, maintenant qu'il n'est plus mort.
+
+NICOLAS	(h__) Je refuse de répondre à cette idée insensée, Isabelle.
+
+ISABEL2	(mts)
+
+VICTORIA	Est-il vrai que Miguel est en vie ?
+
+NICOLAS	Et pas seulement. Il attaque le jeune Jaïme Lopez pour tentative de meurtre et pour avoir tué... (h) En tout cas, il est accusé de crimes très graves.
+
+
+ISABEL2	(huh) Bon, ce que tu veux dire c'est que (h) mon cher fiancé pourrait aller en prison ? Oui, je sais, je sais. Ce n'est pas bien que je (h___) me réjouisse du malheur du pauvre petit mancho___t Jaïme.
+
+NICOLAS	Isabelle...
+
+ISABEL2	Pauvre garçon.
+
+VICTORIA	Nicolas, (h__) crois-tu que Miguel pourrait l'emporter ?
+
+NICOLAS	Sincèrement ma chérie, je pense que non.
+
+VICTORIA	(mhuh)
+
+(BOUCLE 14 - 00:10:14:07)
+		14
+
+SIERVO	(fortes respirations___________________________________________________) Excusez-moi Don Nicolas, il faut que vous...
+
+DR. ARTURO LOPEZ	Nicolas, Alonso Marquez ne veut pas être l'avocat de mon fils. Viens avec moi.
+
+NICOLAS	(mhh) Excusez-moi.
+
+(BOUCLE 15 - 00:10:39:13)
+		15
+
+NICOLAS	(h__) Calme-toi, explique-moi pourquoi.
+
+DR. ARTURO LOPEZ	Je ne sais pas pourquoi il refuse de défendre Jaïme. Je pensais que les choses seraient bien plus simples que ça. (h____) Mais en vérité, cette affaire se complique. (h) Et si elle se complique pour mon fils et moi elle se compliquera forcément pour toi.  Parce que je vais faire libérer Morales pour qu'il parle et qu'il dise tout ce qu'il sait.
+
+NICOLAS	Inutile de paniquer, Arturo. (h__) Si Alonso refuse de le défendre, nous trouverons un autre avocat.
+
+DR. ARTURO LOPEZ	J'en ai déjà parlé à Granados, Nicolas. Je lui en ai parlé.
+
+NICOLAS	Il y en a des tas.
+
+DR. ARTURO LOPEZ	Il m'a prévenu que c'était très cher. (h) Tu ne peux pas abandonner ton beau-fils Nicolas.  Je suis sérieux.
+
+NICOLAS	Ça va aller. (h__) Je serai là pour toi Arturo. Attends-moi ici. Je vais me préparer.
+
+(BOUCLE 16 - 00:11:34:00)
+		16
+
+VICTORIA	Combien de temps as-tu l'intention de t'absenter ?
+
+NICOLAS	(h__) Je prendrai le temps qu'il faudra pour aider Lopez.
+
+VICTORIA	Je comprends parfaitement. (h_____) Je vois que tu apprécies cette famille, voilà pourquoi j'ai pensé que...
+
+NICOLAS	(sniff) Oui ?
+
+(BOUCLE 17 - 00:12:12:01)
+		17
+
+VICTORIA	Maintenant que Jaïme est en prison, (h) Isabelita devrait lui rendre visite. Ils sont fiancés, alors je crois que c'est le moins qu'elle puisse faire.
+
+NICOLAS	C'est une bonne idée.
+
+VICTORIA	(sourire)
+
+NICOLAS	(h) Allez-y ensemble demain, mais ne la laisse pas seule. Cette enfant a trop de liberté.
+
+VICTORIA	Oui, bien entendu.
+
+NICOLAS	Attends une minute. Je ferai mieux de le lui dire. Je la connais bien, elle pourrait te causer des problèmes pour y aller.
+
+(BOUCLE 18 - 00:12:42:00)
+		18
+
+ISABEL2	Que gagnes-tu à ce que j'épouse un manchot mal élevé, qui par-dessus le marché, agresse des gens qui n'ont pas la chance d'être aussi riche que lui (mhuh) ?
+
+NICOLAS	Ma chérie, je me suis engagé envers son père. Nous avons convenu de te promettre à Jaïme.
+
+ISABEL2	(euh) Parfait ! Et si moi je ne veux pas faire ma vie avec un homme, si je veux rester seule ? (mhuh) ?
+
+NICOLAS	(hh___) Tu entends ce que tu dis ?
+
+ISABEL2	Oui.
+
+NICOLAS	Aucune de vous ne comprend le monde dans lequel nous vivons ! Isabelle, une femme sans époux ne peut avoir aucun avenir. (h__) Pour l'instant je suis là, mais quand ce ne sera plus le cas, tu seras vulnérable si tu n'as personne.
+
+ISABEL2	Non, non, tu ne vas pas mourir. Non.
+
+NICOLAS	Je l'espère ma chérie, mais quand ça arrivera, tu deviendras l'héritière de l'Eden.
+
+(BOUCLE 19 - 00:13:23:06)
+		19
+
+NICOLAS	(h) Et tu auras besoin d'un bon mari pour t'aider à gérer ta fortune.
+
+ISABEL2	Exactement ! Et tu crois que ce garçon mal élevé pourrait faire l'affaire ?
+
+NICOLAS	(h_____) (hh___) (h____) Très bien, peut-être que ce n'est pas l'idéal. Mais ce marché doit être respecté.
+
+ISABEL2	(mhuhuh) No__n, pitié____...
+
+NICOLAS	Je t'en prie ma fille, fais ça pour moi. C'est ce qu'il y a de mieux, crois-moi.
+
+ISABEL2	Bien je... (mhuh)
+
+NICOLAS	Merci ! (X) Maintenant je dois partir.
+
+(BOUCLE 20 - 00:13:56:11)
+		20
+
+CATALINA	Si les choses sont vraiment telles que vous me les décrivez, (h____) vous avez commis une grave erreur pendant l'audience.
+
+GABRIEL	Mais enfin nous avons fait tout ce qui a été convenu.
+
+MANUELA	Vous pouvez me croire, ça n'a pas été facile pour nous.
+
+ANGELA	Ces gens ressemblaient à des chiens enragés qui n'avaient qu'une seule envie, nous manger.
+
+CATALINA	Je suis au courant. Mais je n'aurais pas dévoilé la lettre de soutien qu'a écrit Gabriel. Maintenant qu'ils sont prévenus, ils peuvent inventer n'importe quoi pour discréditer votre témoignage.
+
+MANUELA	Dans ce cas, ne parlons pas de nous.
+
+MIGUEL	(mts) (a___h) Que dites-vous, Catalina ! Cette audience a été un succès. Non seulement le juge a accepté l'action en justice grâce aux témoins, mais en plus, la famille Lopez est terrifiée. Vous auriez dû voir leur tête lorsque Felipe leur a donné l'objet de la plainte.
+
+CATALINA	Les propriétaires d'hacienda doivent être en train de planifier leur riposte. Ça je peux vous l'assurer.
+
+(BOUCLE 21 - 00:14:47:04)
+		21
+
+FELIPE	Ils n'auront pas le temps de se préparer correctement, nous non plus d'ailleurs. La date du procès vient d'être fixée.
+
+MIGUEL	(a___h)
+
+CATALINA	Comment ?
+
+GABRIEL	Ouais !
+
+FELIPE	Par contre, il faut de nouvelles preuves et de nouveaux témoins.
+
+MIGUEL	Quoi ?
+
+(BOUCLE 22 - 00:15:04:15)
+		22
+
+DR. ARTURO LOPEZ	Merci de nous recevoir, Eugenia. J'ai vraiment besoin que vous interveniez tous les deux.
+
+EUGENIA	Excusez-moi, Arturo. Comment puis-je intervenir dans l'affaire Jaïme ?
+
+DR. ARTURO LOPEZ	Nicolas...
+
+NICOLAS	(h_____) (hh) Nous pensons qu'en tant que partenaire d'Alonso Marquez, tu peux peut-être le convaincre de défendre le fils du Docteur Lopez. Ce garçon a toute la vie devant lui.
+
+DR. ARTURO LOPEZ	Eugenia, j'ai besoin que vous parliez à Alonso. Je n'ai pas la moindre idée de la raison pour laquelle il refuse de s'occuper de l'affaire de mon fils.
+
+(BOUCLE 23 - 00:15:39:21)
+		23
+
+ALONSO	J'ai refusé parce que je ne partage pas les idées du Docteur Lopez concernant la race noire.
+
+EUGENIA	Tu ne devrais pas juger le garçon en fonction de son père. Les enfants ne suivent pas toujours les traces de leurs parents.
+
+GENRAL	Oui, c'est vrai, et cela arrive même dans les meilleures familles. Dans la nôtre, il s'agit de Gabriel. Il n'est pas comme nous, il n'a fait qu'apporter le déshonneur sur notre nom.
+
+ALONSO	Père, je t'en prie...
+
+EUGENIA	Alonso, (h_____) je sais que tu es un homme juste. Ce garçon va être jugé comme un adulte, j'ai raison non ? Les lois sont ainsi.
+
+(BOUCLE 24 - 00:16:11:24)
+		24
+
+ALONSO	Oui. C'est bien ça.
+
+GENRAL	Mon garçon, je t'en prie, défends Jaïme. Qu'est-ce que ça te coûte ? Arturo a aidé notre famille pendant des années. Il a mis ses connaissances médicales à notre disposition. Et aujourd'hui, c'est son fils qui est en danger, uniquement à cause de Gabriel.
+
+ALONSO	Je comprends Père, mais raison de plus pour garder mes distances.
+
+EUGENIA	Dis-moi une chose, Alonso. Ça te parait juste de supposer que Miguel gagne le procès seulement grâce à sa couleur de peau ? N'est-ce pas ce que le Docteur pense aussi de son fils, qu'il devrait gagner pour la même raison ?
+
+(BOUCLE 25 - 00:16:48:20)
+		25
+
+DR. ARTURO LOPEZ	(X)
+
+EUGENIA	(sourire)
+
+DR. ARTURO LOPEZ	Merci beaucoup. (h____) À tous les deux. Je suis sincère.
+
+EUGENIA	(h__) Bien, veuillez m'excuser.
+
+DR. ARTURO LOPEZ	(h____) Je vous en prie.
+
+(BOUCLE 26 - 00:17:08:18)
+		26
+
+DR. ARTURO LOPEZ	J'ai tout à fait conscience que les accusations de ce satané sauvage ont très peu de chances d'aboutir, mais mieux vaut avoir un avocat pour clore cette histoire au plus vite. Et je te rappelle qu'au vu de l'accord que nous avons passé, tu n'as pas à t'inquiéter. Parce que lorsque Jaïme sortira blanchi de cette affaire, nos enfants pourront se marier.
+
+NICOLAS	(h) Oui, oui. Tu as ma parole. (h_____) Tu vois, tu n'avais aucune raison de t'en faire. Partons.
+
+(BOUCLE 27 - 00:17:51:06)
+		27
+
+AMBIANCE	(ambiance brouhaha VI______________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+NOEMIE/ESCLAVE FEMME1	C'était encore une longue journée, je suis épuisée.
+
+FEMME 2	Moi aussi, je rêve d'une bonne nuit de sommeil. Mais je crois que ce n'est pas prêt d'arriver. J'ai encore des corvées à faire.
+
+HOMME 1	Vous avez assez manger ?
+
+HOMME 2	Trinidad est de retour...
+
+CANDELA	Tiens, voilà son Altesse Noire. Tu t'es enfin décidé à manger avec les esclaves ?
+
+GROUPE FEMMES	(rire_____________________)
+
+CANDELA	Les Blancs se sont déjà lassés de toi ? Tu ne laves pas les vêtements de la maitresse alitée correctement ? À moins que tu aies raté le repas ! (rire)
+
+GROUPE FEMMES	(rire) (rire__________________________________________________)
+
+TRINIDAD	Arrête-ça, Candela.
+
+CANDELA	(rire)
+
+TRINIDAD	Je ne fais que mon travail, comme Don Nicolas l'a demandé.
+
+CANDELA	(rire___________)
+
+AMBIANCE	(ambiance brouhaha VI_________________________________________________________________________________________________________________________)
+
+CANDELA	(mange________________) Elle te plaît cette petite Blanche ! C'est écrit sur ton front Trinidad.
+
+GROUPE FEMMES	(rire_____________________)
+
+CANDELA	(petit rire_________________________)
+
+TRINIDAD	Pense ce que tu veux.
+
+(BOUCLE 28 - 00:18:44:15)
+		28
+
+MIGUEL	(huh)
+
+AMBIANCE	(ambiance petit brouhaha VI___________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+MIGUEL	(fortes respirations)
+
+FEMME 2	(han) Ça alors !
+
+CANDELA	Tu n'es pas censé être mort ?
+
+FEMME 2	Regardez, c'est vraiment lui.
+
+HOMME 1	Il est de retour !
+
+MIGUEL	Comme tu le vois, je suis toujours là. Tout ce qu'ils ont raconté est faux.
+
+NOEMIE/ESCLAVE FEMME1	J'en reviens pas, c'est Miguel en chair et en os !
+
+HOMME 1	Comment c'est possible ?
+
+FEMME 2	J'arrive pas à y croire.
+
+NOEMIE/ESCLAVE FEMME1	Miguel !
+
+CANDELA	C'est comme si tu étais revenu d'entre les morts, Miguel.
+
+FEMME 2	C'est incroyable, il s'en est encore sorti ! Il est revenu !
+
+TRINIDAD	Tu m'as manqué !
+
+FEMME 2	(rire)
+
+CANDELA	(sourire) (rire)
+
+NOEMIE/ESCLAVE FEMME1	Quel soulagement !
+
+HOMME 1	Ça alors, c'est Miguel !
+
+CANDELA	(pleurs__________________) Regarde, c'est bien lui !
+
+NOEMIE/ESCLAVE FEMME1	(rire)
+
+(BOUCLE 29 - 00:19:13:02)
+		29
+
+NICOLAS	Alonso a accepté de défendre le fils du Docteur. (h___) C'est grâce à toi. (essoufflé) Tu crois que tu lui plais ?
+
+EUGENIA	(mhuhuh)
+
+NICOLAS	(essoufflé)
+
+EUGENIA	(petit rire) (h________) Les hommes avec qui je traite ne sont pas tous intéressés.
+
+NICOLAS	(mh_______) (mhh_____) (petit rire) (h_____) Alors ils ont bien mauvais goût.
+
+EUGENIA	(petit rire)
+
+NICOLAS	(h) (s'embrassent) (mhuh) (X) (essoufflé__________________)
+
+EUGENIA	Veux-tu passer la nuit ici ?
+
+NICOLAS	(hunhun)
+
+EUGENIA	(mhunhun)
+
+NICOLAS	(h_____) (hh_____) (h____)
+
+EUGENIA	(huh)
+
+(BOUCLE 30 - 00:19:43:13)
+		30
+
+EUGENIA	(hh___)
+
+NICOLAS	(h_______) (hh______)
+
+EUGENIA	Un problème avec ta femme, Nicolas ?
+
+NICOLAS	(sniff) (mhh) (h________) (mhh________) (h______) Elle sait que je n'ai aucune explication à lui donner. (fhh)
+
+EUGENIA	Je trouve très étrange que tu ne veuilles pas être avec elle. Et ne me dis pas que tu m'aimes parce qu'avec toi ce n'est jamais aussi simple.
+
+NICOLAS	(h________) (hh_____) Oui, et pourtant c'est bien le cas.
+
+EUGENIA	(mhuhuh) (mhuh) (X)
+
+NICOLAS	(X) (fortes respirations)
+
+EUGENIA	Et où est passé cet amour qui t'enthousiasmait tant avant le mariage ?
+
+NICOLAS	(h______) Quand je voudrais parler de ma femme, je te le ferai savoir.
+
+EUGENIA	Oui, ce qui veut dire, jamais.
+
+NICOLAS	(boit) (mhuhuh)
+
+EUGENIA	(boit) (X)
+
+NICOLAS	(X)
+
+EUGENIA	(mhuh) (X) (h)
+
+(BOUCLE 31 - 00:20:30:11)
+		31
+
+AMBIANCE	(ambiance bruit de fond indistint_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+CANDELA	Notre Maître est un saint, Miguel. C'est vrai, il t'a sauvé la vie parce que tu étais l'un de ses esclaves. On ne voit ça dans aucune hacienda.
+
+TRINIDAD	Qu'est-ce que tu peux être hypocrite ! Candela, tu passes ton temps à critiquer ce que fait Don Nicolas !
+
+CANDELA	Tu n'es qu'un menteur Trinidad.
+
+TRINIDAD	Tu oses me dire ça en face ?
+
+CANDELA	Je le pense !
+
+MIGUEL	(hé hé hé) Du calme vous deux !  Ce qu'il faut c'est qu'on soit encore plus soudé que jamais. On en aura besoin avec ce qui arrive. C'est pour ça que je suis là.
+
+TRINIDAD	Explique-toi.
+
+MIGUEL	J'attaque Jaïme en justice pour meurtre. Je vais le faire croupir en prison, c'est là qu'il doit être.
+
+TRINIDAD	Mais c'est impossible, Miguel. (h) Ces saletés de Blancs ont toujours gagné contre nous.
+
+MIGUEL	Oui, et cette fois ce sera le contraire. Lorsqu'il a voulu essayer de me tuer, ce sale enfoiré m'a avoué avoir tué Rosita. Ainsi que Sabas et d'autres esclaves affranchis par la loi du ventre libre. Je veux qu'il soit puni, il n'y échappera pas.
+
+TRINIDAD	(mhh)
+
+(BOUCLE 32 - 00:21:26:23)
+		32
+
+NOEMIE/ESCLAVE FEMME1	(essoufflée) Milagro ! (essoufflée)
+
+MILAGRO	Qu'est-ce qu'il y a ?
+
+NOEMIE/ESCLAVE FEMME1	C'est Miguel, il est en vie !
+
+MILAGRO	(mhuh) Je le savais déjà.
+
+NOEMIE/ESCLAVE FEMME1	(h) Mais je suis certaine que tu ignorais qu'il était revenu ici ! (essoufflée)
+
+(BOUCLE 33 - 00:21:41:16)
+		33
+
+AMBIANCE	ambiance bruit de fond indistint____________________________________________________________________________________________________________________________________________________________________________________________________________________________________(ambiance petit brouhaha_________________________________________________________________________________)
+
+MIGUEL	L'action en justice n'est que la première étape. Gagner ce procès pourrait être extrêmement important pour nous. Mais j'ai besoin de votre soutien.
+
+TRINIDAD	Quel genre de soutien exactement ?
+
+MIGUEL	Je dois réunir un maximum de personnes pour les faire témoigner contre Jaïme Lopez. J'ai besoin de renfort pour prouver que ce garçon est un meurtrier. C'est quelqu'un de dangereux, qui préfère tuer nos enfants plutôt que de leur accorder leur liberté. Demandez aux autres haciendas ! Surtout n'hésitez pas. Peut-être que d'autres de ses victimes oseront parler.
+
+(BOUCLE 34 - 00:22:17:13)
+		34
+
+AMBIANCE	(ambiance petit brouhaha VI___________________________________________________________________________________________________________________________)
+
+
+CANDELA	Des victimes ? Nous en sommes tous. Ceux d'entre nous qui ont croisé la route de ce fou, ont eu des ennuis. Mais de là à ce que ces gens aillent voir les autorités, c'est autre chose.
+
+MIGUEL	Il faut aller au-delà de nos peurs si on veut que ça change. Vous êtes avec moi ?
+
+HOMME 1	On est avec toi, Miguel !
+
+HOMME 2	On te fait confiance !
+
+ESCLAVE FEMME	Bien sûr qu'on est avec toi !
+
+NOEMIE/ESCLAVE FEMME1	On te soutien !
+
+MIGUEL	Merci à vous mes frères !
+
+AMBIANCE	(ambiance brouhaha___________________________________________________)
+
+NOEMIE/ESCLAVE FEMME1	Miguel !
+
+HOMME 1	Il est tant que ça change !
+
+MIGUEL	Quel courage !
+
+HOMME 2	Ouais !
+
+NOEMIE/ESCLAVE FEMME1	Bien dit Miguel !
+
+HOMME 1	On va se battre mon frère ! Il faut que ça change !
+
+NOEMIE/ESCLAVE FEMME1	On est avec toi !
+
+MIGUEL	Je peux compter sur vous tous ?
+
+AMBIANCE	(ambiance brouhaha_____________________________________________)
+
+ESCLAVE FEMME	On est tous derrière toi !
+
+HOMME 1	Compte sur nous mon frère.
+
+NOEMIE/ESCLAVE FEMME1	Miguel ! Miguel ! Miguel !
+
+HOMME 2	On te laissera jamais tomber. Il faut qu'il aille en prison !
+
+HOMME 1	On va aller témoigner !
+
+ESCLAVE FEMME	On a assez souffert !
+
+HOMME 1	On le laissera pas s'en sortir !
+
+AMBIANCE	(ambiance petit brouhaha VI______________________________________________________________)
+
+TOMAS	Je peux te parler seul à seul ?
+
+(BOUCLE 35 - 00:22:53:11)
+		35
+
+MIGUEL	(h____) (hh) Fuego mon vieil ami. Comme tu m'as manqué.
+
+TOMAS	Je suis content que tu ailles bien. Le fait que tu veuilles honorer la mémoire de Rosita... (h_______) Je t'en remercie.
+
+MIGUEL	(h_______) (hh__)
+
+TOMAS	(hh______) (h__________) Et j'espère que tu sais que j'approuve les risques que tu prends.
+
+MIGUEL	(hh)
+
+TOMAS	(h_______) Victoria...
+
+MIGUEL	Je ne veux rien savoir, Thomas. (h_________) Je ne veux pas en parler. (hh) (hi____) Je voudrais pouvoir l'oublier, mais c'est impossible. (h________) C'est trop douloureux de la voir mariée, Thomas. Comprends-moi.
+
+(BOUCLE 36 - 00:23:43:24)
+		36
+
+MIGUEL	(hh___)
+
+MILAGRO	Miguel ! (petit rire)
+
+MIGUEL	Milagro ! (petit rire)
+
+MILAGRO	Je suis si contente de te voir ! (rire) (hh)
+
+VICTORIA	(hh) Miguel, je sais que tu ne veux pas me parler mais pitié, laisse-moi t'expliquer.
+
+MIGUEL	(h____) Non. Victoria, non. Il vaut mieux pas.
+
+TOMAS	Ne la juge pas. Écoute-la. (h__) Victoria nous a dit...
+
+MIGUEL	Quoi ? Quoi Thomas ? (h___) Que l'homme qu'elle veut détruire est mon père ?
+
+MILAGRO	Quoi...
+
+MIGUEL	(h_____) Elle vous a dit que Don Nicolas est mon père ?
+
+VICTORIA	(mhh_____)
+
+MIGUEL	Bien sûr que non.
+
+VICTORIA	(h____)
+
+MIGUEL	Notre chère Marquise ne nous raconte ce que ce qui l'arrange.
+
+VICTORIA	(hh__)
+
+MILAGRO	(h)
+
+(BOUCLE 37 - 00:24:42:18)
+		37
+
+SIERVO	(petit rire) Sara... (petit rire)
+
+TOMAS	Je n'aurais jamais pu l'imaginer Siervo.
+
+SIERVO	(mhu___h) Elle s'est débrouillée pour garder le secret jusqu'au dernier jour.
+
+TOMAS	(mhuhuh) (h______) (mts) Oui, cette femme était magnifique.
+
+SIERVO	(mhuh)
+
+TOMAS	Vraiment magnifique. Oui mais voilà, Don Nicolas était déjà au courant. Tu vois, sa relation avec Miguel a toujours été extrêmement___ particulière en fait.  Depuis qu'il est arrivé du Palenque. Ce garçon a reçu (h________) un traitement de faveur. Je m'en rends compte.
+
+(BOUCLE 38 - 00:25:17:13)
+		38
+
+SIERVO	(mts) (ah) Thomas, quand je pense que dans un autre monde, Miguel aurait pu être l'héritier de l'Eden ! (mts)
+
+TOMAS	Oui, ça viendra Siervo. Ce jour viendra. (h__________) Mais pour l'instant, l'héritière, c'est Victoria.
+
+SIERVO	(huh) Qui sait si ça va vraiment nous aider...
+
+TOMAS	(mts)
+
+SIERVO	Parfois cette Marquise est bien pire que nous autres. Réfléchis. (mhuh) Il reste du café ?
+
+TOMAS	(mhunhun) (h__) Justina, Elle va arriver.
+
+(BOUCLE 39 - 00:25:56:09)
+		39
+
+JESUS	(à repiquer) (chante VI) Pedro, attends ! (chante) Na na na na na na na na na na na___
+
+MANUELA	Vous devinerez jamais quelle nouvelle a réveillé Santa Marta.
+
+JESUS	Ne me dis pas qu'ils ont avancé le carnaval Manuela !
+
+GABRIEL	(rire + tape dans les mains)
+
+HOMME 1	(rire + tape dans les mains)
+
+MANUELA	Ne sois pas stupide. Non. Jaïme Lopez a trouvé un avocat.
+
+GABRIEL	Comment-ça ? Qui est-ce ?
+
+MANUELA	Ton frère, Alonso.
+
+GABRIEL	Quoi ?
+
+(BOUCLE 40 - 00:26:42:15)
+		40
+
+ALONSO	Gabriel, entre ! (petit rire) Je suis ravi que tu fasses le premier pas et que tu sois assez humble pour reconnaître tes erreurs. Je vais chercher Papa.
+
+GABRIEL	En fait, je ne suis pas venu pour faire la paix avec le Général. Vas-tu réellement défendre Jaïme Lopez au tribunal ?
+
+ALONSO	(mhh) C'est le cas.
+
+GABRIEL	T'es fou, ça va pas bien ? (mhuh) J'ai témoigné contre ce sale gamin parce qu'il est mauvais. Alonso, je l'ai vu dans le bar où je joue. Il était complètement ivre, il parlait de battue aux esclaves. D'ailleurs Miguel a absolument tous les droits de le traîner devant la justice.
+
+ALONSO	Calme-toi, tu n'en sais rien. Tu ne peux rien déduire de ce qu'un jeune garçon ivre a pu dire dans un bar. Et puis, tout le monde a le droit d'être défendu devant la Cour. Le fait que Jaïme Lopez soit comme ça ne fait pas de lui le coupable.
+
+(BOUCLE 41 - 00:27:27:18)
+		41
+
+GABRIEL	Combien t'ont-t-ils payé ? Pour quelle somme as-tu vendu ton âme, Alonso ?
+
+ALONSO	Ne commençons pas avec les accusations. Ce n'est pas aussi simple. Ce sont des gens importants que vous avez offensé, et c'est à moi de les raisonner.
+
+GABRIEL	Ça ne devrait pas me surprendre. (h) Après tout, tu as décidé de devenir l'ombre de notre Père.
+
+ALONSO	(h_______) (hh________) Gabriel, tu fais tout ce qu'il faut pour être exclu de cette famille. Si tu continues comme ça, je devrais mettre fin à cette conversation.
+
+GABRIEL	(h__) Bien, (h___) je n'ai rien d'autre à ajouter.
+
+(BOUCLE 42 - 00:28:09:02)
+		42
+
+VICTORIA	Nicolas n'a encore pas dormi ici cette nuit.
+
+MILAGRO	Il a sûrement une maitresse.
+
+VICTORIA	Je l'espère. On aurait besoin que quelqu'un l'occupe. Surtout aujourd'hui. On a des tas de choses à faire.
+
+(BOUCLE 43 - 00:28:28:21)
+		43
+
+EUGENIA	(mhh)
+
+NICOLAS	Approche, pourquoi m'as-tu laissé tout seul ?
+
+EUGENIA	Si tu venais toi ?
+
+NICOLAS	(h___) Quelqu'un pourrait nous voir.
+
+EUGENIA	Toi ? Toi, Nicolas Parrenio, tu es timide ? (petit rire)
+
+NICOLAS	Je te rappelle que nous devons rester discrets. (h____) Je suis un homme marié. (mhuh___)
+
+EUGENIA	Nous sommes d'accord. Moi, je ne cherche pas de mari. Tout est très bien comme ça, n'est-ce pas ?
+
+(BOUCLE 44 - 00:29:01:21)
+		44
+
+NICOLAS	Tu continues ta vie de ton côté, et moi du mien.
+
+EUGENIA	(mhuhuh)
+
+NICOLAS	Je devrais rentrer chez moi. (h___) Avec le procès qui approche, j'ai encore des tas de choses à régler.
+
+EUGENIA	Tu sais Nicolas, (h______) je crois qu'aussi absurde que ça puisse paraître, ton esclave pourrait gagner cette fois.
+
+NICOLAS	(X)
+
+EUGENIA	(petit rire)
+
+NICOLAS	(h_______) Un Noir remporter un procès face à un Blanc ?
+
+EUGENIA	(mhuhuh)
+
+NICOLAS	Il faudrait qu'il ait un témoin qui ait vu le crime. (h________) Ça va être très difficile, pour ne pas dire impossible.
+
+EUGENIA	Peut-être mais... Ton Blanc est complètement idiot, tu ne trouves pas ?
+
+(BOUCLE 45 - 00:29:40:10)
+		45
+
+TRINIDAD	Marquise, (h____) bonjour. Comment allez-vous ? (h____) J'aimerais vous demander une faveur.
+
+VICTORIA	Oui. Bien sûr.
+
+TRINIDAD	(h___) Voilà Marquise, seriez-vous d'accord (euh_) (h__) pour que je ne sois plus le domestique attitré de Mademoiselle Remedios ? (h__) Ça me gêne, ce n'est pas ma Maitresse.
+
+VICTORIA	Un problème avec Remedios ?
+
+TRINIDAD	Non, non, non Marquise.  (h__) Seulement, je préfère être dehors, j'y serai bien plus utile qu'à l'intérieur. Je ne sais ni cuisiner, ni servir. C'est un travail pour les femmes.
+
+VICTORIA	(h_____) Trouve-moi quelqu'un d'aussi fort que toi, quelqu'un de confiance. J'ai besoin qu'on m'aide avec Remedios.
+
+TRINIDAD	(h_____) Oui Madame. (h___) Merci infiniment. Excusez-moi.
+
+(BOUCLE 46 - 00:30:34:02)
+		46
+
+VICTORIA	Ça alors, tu es magnifique.
+
+REMEDIOS	Vous allez quelque part ? J'attends Trinidad.
+
+VICTORIA	C'est inutile. Il est retourné dans les plantations.
+
+REMEDIOS	Comment ? Pourquoi ça ?
+
+VICTORIA	Je l'ignore. Nicolas l'a renvoyé dans les champs. Mais t'inquiète pas, (h) quelqu'un d'autre viendra le remplacer.
+
+REMEDIOS	Bien sûr. (h____) Tous les esclaves se valent, non ? Quoi, vous n'avez rien de mieux à faire ? Laissez-moi s'il vous plaît.
+
+(BOUCLE 47 - 00:31:17:21)
+		47
+
+DR. ARTURO LOPEZ	Le minimum que j'attends de vous, et écoutez-moi attentivement Alonso, c'est que vous arriviez à convaincre votre frère, ce vicieux, de retirer son témoignage. De cette façon, nous pourrons mettre un terme à la mascarade provoquée par ce maudit esclave, une bonne fois pour toute.
+
+ALONSO	Gabriel n'est pas vicieux. Il a seulement dit ce qu'il a cru entendre. J'espère que ce n'est rien de plus que des paroles en l'air prononcées par un esprit alcoolisé. Bien, repassons les faits en revue si vous êtes d'accord.
+
+DR. ARTURO LOPEZ	(mhh__)
+
+JAIME	(mhuh) (fortes respirations) Combien de fois devrais-je répéter que je suis innocent ? Hein ? C'est formidable, soit mon avocat est sourd comme un pot, soit il n'a aucune mémoire !
+
+NICOLAS	Écoute-moi, Jaïme, il est important que ta version soit cohérente et qu'il n'y ait aucune contradiction.
+
+(BOUCLE 48 - 00:32:06:16)
+		48
+
+ALONSO	Jaïme, voici ce à quoi tu pourrais être confronté si tu es jugé coupable dans cette affaire. Selon l'article dix-neuf du code pénal, les peines non corporelles peuvent inclure une déclaration d'inaptitude, l'interdiction temporaire ou définitive d'exercer une activité professionnelle. Dans les peines corporelles, il y a le travail forcé, l'humiliation publique, la prison, l'exil, le confinement dans une circonscription paroissiale : canton ou province déterminés par la loi. Et même la peine de mort. Alors si j'étais toi Jaïme, je ferais tout ce qui est mon pouvoir pour préparer ma défense.
+
+NICOLAS	(hh___)
+
+JAIME	(mts)
+
+(BOUCLE 49 - 00:32:47:12)
+		49
+
+AMBIANCE	(ambiance bruit de fond indistint________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+MARCOS	Et voici pour vous Madame. Merci beaucoup.
+
+NOEMIE/ESCLAVE FEMME1	De rien.
+
+MIGUEL	Le procès est presque terminé. J'ai utilisé tous les témoins que j'avais, et maintenant je dois apporter de nouvelles preuves. (hh) T'as pu te renseigner sur l'esclave des Lopez dont a parlé Angela ?
+
+MARCOS	Oui. Je sais qu'il s'appelle Isaias. Et que Jaïme lui aurait tiré dessus. Il l'a torturé avec une méthode très cruelle, la même qu'il a utilisé pour Rosita.
+
+
+MIGUEL	(h) Alors, dans ce cas, il faut le convaincre de témoigner au procès. (h___) Les aveux d'une victime auront plus d'impact Marcos.
+
+MARCOS	(h___) Écoute-moi tu veux. Souviens-toi que cet Isaias appartient aux Lopez. Je suis sûr qu'il ne dira rien.
+
+MIGUEL	(h) Et tu ne peux pas le convaincre ?
+
+(BOUCLE 50 - 00:33:32:23)
+		50
+
+AMBIANCE	(ambiance rue VI_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+MARCOS	C'est vraiment ce que tu veux ?
+
+MIGUEL	Bien sûr !
+
+MARCOS	Ah oui ? Ça pourrait bien lui coûter la vie.
+
+MIGUEL	(hh) Tu connais quelqu'un qui pourrait témoigner ?
+
+MARCOS	Non. Tout le monde est vraiment enthousiaste, mais nous devons y réfléchir très sérieusement. Ce ne sera pas si simple.
+
+MIGUEL	(h) Les gens veulent qu'il y ait du changement (h) mais personne n'accepte de se mouiller pour la communauté, Marcos.
+
+MARCOS	Malheureusement, je crois que tu es seul dans ce combat.
+
+
+
+
+
+
+(BOUCLE 51 - 00:34:18:08)
+		51
+
+
+
+ISABEL2	Ma vie est injuste Lucia. Je suis sûrement la moins chanceuse du monde. Quand je pense que je dois passer du temps avec Jaïme, ça rend ma journée amère !
+
+VICTORIA	Que puis-je faire pour te l'adoucir ? N'as-tu pas envie de retrouver ta bonne humeur ?
+
+ISABEL2	Ce serait le cas si au lieu de rendre visite à Jaïme, je rendais visite... comment dire...
+
+VICTORIA	À qui ?
+
+ISABEL2	Tu peux garder un secret ?
+
+VICTORIA	Oui.
+
+ISABEL2	(h) (hh)
+
+(BOUCLE 52 - 00:34:49:05)
+		52
+
+AMBIANCE	(ambiance rue VI_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+HOMME 1	Vous le prenez ?
+
+HOMME 2	Je crois que oui.
+
+ISABEL2	(hh)
+
+VICTORIA	Tu dois me promettre que tu te tiendras bien.
+
+ISABEL2	(mhuhuh)
+
+MANUELA	Tu peux le ranger à sa place s'il te plaît ?
+
+VICTORIA	(hh)
+
+ISABEL2	Bonjour, je suis revenue.
+
+VICTORIA	Bonjour. (h__) Gabriel est ici ?
+
+MANUELA	(euh) Il est là. Mais le Père de la jeune fille ne va pas revenir faire un scandale ?
+
+VICTORIA	Non. Je vous le promets.
+
+ISABEL2	Et où est-il ?
+
+MANUELA	Par là.
+
+ISABEL2	(sourire) (X)
+
+VICTORIA	(h__) Sois prudente.
+
+ISABEL2	Merci.
+
+VICTORIA	(hh) Prenez soin d'elle, je reviens vite. Prenez soin d'elle.
+
+(BOUCLE 53 - 00:35:41:23)
+		53
+
+AMBIANCE	(ambiance petit brouhaha_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+ISABEL2	Bonjour Gabriel !
+
+GABRIEL	Isabelle, tu... que fais-tu ici ?
+
+ISABEL2	Quelle joie de te voir.
+
+GABRIEL	Ton père sait que tu es là ?
+
+ISABEL2	(oh) Ne t'en fait pas pour ça. Je suis une femme li____bre. J'avais envie de venir te voir, alors me voici.
+
+GABRIEL	Alors je ne m'inquiète pas. (h______) Tu as mangé ?
+
+ISABEL2	Oui, merci.
+
+GABRIEL	Je te dis ça parce que (h________) parce que je suis loin d'être l'homme le plus apprécié.
+
+ISABEL2	Vraiment ? Alors raconte-moi tout parce qu'on dirait que ça fait des siècles qu'on ne se voit pas. (sourire)
+
+GABRIEL	(h____) Bien par où je commence ? (h______)
+
+ISABEL2	(petit rire)
+
+(BOUCLE 54 - 00:36:19:19)
+		54
+
+AMBIANCE	(ambiance rue VI______________________________)
+
+PERE OCTAVIO	Saint Marie pleine de Grâce.
+
+VICTORIA	Immaculée de tout pêché.
+
+PERE OCTAVIO	De quoi vous accusez-vous ?
+
+VICTORIA	D'avoir le coeur empoisonné par le désir de vengeance.
+
+PERE OCTAVIO	Mais comment une femme telle que vous peut être prise dans les filets de quelque chose d'aussi obscur ?
+
+VICTORIA	J'ai sais ce qu'il s'est passé à l'Eden, dans l'hacienda de ma famille. L'incendie. Mes parents ont été tués à la demande de quelqu'un.
+
+PERE OCTAVIO	Mais quelles folies êtes-vous en train de me dire ?
+
+
+
+VICTORIA	Ce n'est que la vérité mon Père. Je suis Victoria, Victoria Quintero. (h__) Je suis venue ici pour que vous le prouviez au monde entier. Je veux récupérer ce qui est à moi. Ce qui m'appartient.
+
+(BOUCLE 55 - 00:36:58:18)
+		55
+
+NICOLAS	Je ne veux pas faire couler plus de sang, (___h) encore moins celui d'un serviteur de Dieu. Mais si j'étais tenu de le faire, pour protéger... tout ce que j'ai accompli, je le ferai.
+
+PERE OCTAVIO	Ceci est un... péché... terrible ! (__h) Proférer de telles menaces dans la maison de notre seigneur...
+
+NICOLAS	Gardez ceci pour le sermon du dimanche.
+
+PERE OCTAVIO	(h__)
+
+NICOLAS	Et ne vous méprenez pas, je n'avais rien à voir avec ça, peu importe ce qu'a dit mon contremaître.
+
+(BOUCLE 56 - 00:37:27:03)
+		56
+
+PERE OCTAVIO	Non, je__ j'ignore de quoi vous me parlez. Vous êtes... Vous êtes folle, nom de Dieu !
+
+VICTORIA	Mon Père ! (h__) Mon Père, attendez ! S'il vous plaît... (fortes respirations) Vous devez m'aider mon Père !
+
+PERE OCTAVIO	Madame, je vous le demande. Je dois me préparer pour mon sermon. Je n'ai pas de temps à vous accorder pour l'instant.
+
+VICTORIA	Regardez-moi. Ne me dites pas que vous ne me reconnaissez pas. Je suis celle qui s'est réfugiée ici parce qu'ils avaient détruit le Palenque. Je devais me protéger des hommes qui ont tué mes parents, et vous aussi vous avez essayé de me protéger. Vous m'avez envoyé Espagne, rejoindre Soeur Josefina. (hh___)
+
+
+
+PERE OCTAVIO	Que Dieu m'en soit témoin, j'ignore de quoi vous parlez. Victoria Quintero n'était qu'un petit bébé lorsque l'incendie s'est déclaré à l'Eden. Et malheureusement, l'enfant a péri dans les flammes.
+
+VICTORIA	Non, ce n'est pas le cas. Je vous l'ai dit, je suis Victoria. Et vous le savez très bien.
+
+(BOUCLE 57 - 00:38:22:14)
+		57
+
+VICTORIA	Je peux le voir dans vos yeux. De quoi avez-vous peur mon Père ? Qui vous fait taire ? Nicolas ? Je vous en prie, dites-moi quelque chose !
+
+ENFANT DE COEUR	Mon Père, est-ce que tout va bien ?
+
+PERE OCTAVIO	Oui, va me chercher Don Nicolas Parrenio, (euh) il s'agit de l'époux de la Marquise.
+
+VICTORIA	(huh) Non !
+
+PERE OCTAVIO	Madame, je suis contraint de le faire parce que visiblement, vous n'allez pas bien. Je ne peux pas vous aider. Ni aujourd'hui, ni jamais, vous comprenez ?
+
+VICTORIA	(h) Non pas du tout. Pourquoi niez-vous ?
+
+PERE OCTAVIO	Ne me cherchez plus. Je vais faire preuve de charité et garder cette petite conversation dans le secret de la confession. Je jure de ne rien dire à votre mari, si vous arrêtez de répandre ces absurdités. Partez, nous avons fini.
+
+VICTORIA	(hh___)
+
+(BOUCLE 58 - 00:39:14:19)
+		58
+
+MIGUEL	C'est toi Isaias ?
+
+ISAIAS	Ne me fais pas de mal. (fortes respirations)
+
+MIGUEL	Non, ne t'inquiète pas. Calme-toi.
+
+ISAIAS	(fortes respirations)
+
+MIGUEL	Je ne veux te faire aucun mal. Je suis Miguel, l'esclave qui attaque ton maître. J'ai besoin de ton aide pour gagner le procès.
+
+(BOUCLE 59 - 00:39:37:03)
+		59
+
+VICTORIA	Je suis très reconnaissante de tout ce que vous faites pour moi, (h) mais surtout pour Miguel.
+
+CATALINA	Lui venir en aide n'est pas seulement un plaisir, (h____) c'est aussi un honneur. (sourire) (h____) Si Miguel l'emporte, il pourrait être à l'origine d'une jurisprudence très importante pour les siens et pour les cas futurs. Nous l'aidons au mieux, bien sûr, nous travaillons pour lui, mais il n'y a que son courage qui transcendera l'histoire.
+
+VICTORIA	Je vois que vous savez de quoi vous parlez.
+
+CATALINA	J'ai étudié le droit, oui. Dans l'ombre de mon père et de mon frère, mais je connais le sujet.
+
+VICTORIA	(sourire)
+
+CATALINA	Je n'ai jamais pu aller à l'université et encore moins obtenir un titre professionnel. (h) N'empêche que je suis avocate même si ce n'est pas vraiment officiel.
+
+(BOUCLE 60 - 00:40:25:03)
+		60
+
+VICTORIA	(sourire) (h___) Puis-je vous demander un conseil ?
+
+CATALINA	Bien sûr, allez-y.
+
+VICTORIA	(huh) Pourrais-je obtenir l'héritage de mes parents ?
+
+CATALINA	En Espagne, oui. Mais en vous mariant ici, vous avez perdu votre citoyenneté. De ce fait, votre époux devient l'exécuteur testamentaire de vos biens. Une sorte de gestionnaire.
+
+VICTORIA	(h) Et s'il n'était plus là ?
+
+CATALINA	Tout ce patrimoine deviendrait l'héritage de sa fille. Sommes-nous en train de parler de Nicolas ?
+
+VICTORIA	(h_____)
+
+(BOUCLE 61 - 00:41:06:14)
+		61
+
+VICTORIA	Et si jamais je divorce ?
+
+CATALINA	(h______) (hh_____) Victoria... (h____) C'est une idée impensable dans cette partie du monde. (h) Vous pourrez peut-être y arriver si vous l'accusez d'agression. Non, même pas ça... Vous n'aurez pas le soutien des autorités. Ils ne vous garantiront pas l'autonomie finançière que vous souhaitez.
+
+VICTORIA	Nous sommes toutes les pieds et poings liés. Je peux pas obtenir ce qui est à moi, même l'héritage de mes parents.
+
+CATALINA	Et bien, tant que les lois ne changeront pas, ce sera comme ça. Le monde appartient encore aux hommes, pour l'instant.
+
+VICTORIA	Pour l'instant.
+LALANE Erika
+
+
+1
+
+

@@ -1,0 +1,4330 @@
+Crystal Inferno (VF)
+
+INSERT	(ANVERS - BELGIQUE__________________________________)
+
+(BOUCLE 1 - 01:00:33:15)
+		01
+
+BEAUMONT	Vous n'pouvez pas arriver là comme un chien dans un jeu de quilles.
+
+BEAUMONT	C'est pas le Far West ici,
+
+BEAUMONT	on est en Europe.
+
+BEAUMONT	J'apprécierais que vous soyez un peu plus subtile lorsque vous gérez mes affaires.
+
+STEELE	Vous m'avez engagé justement pour mon talent à régler les problèmes.
+
+STEELE	(h/_)OK, j'avoue que mes méthodes ne sont pas très conventionnelles, mais, encore une fois, vous m'avez engagé pour ça.
+
+STEELE	(h/__)Allons, Monsieur Beaumont,
+
+STEELE	(h/__)Vous avez personnellement investi cinquante millions d'euros dans ce projet...
+
+STEELE	et mon travail est de protéger votre investissement.
+
+(BOUCLE 2 - 01:01:02:24)
+		02
+
+BEAUMONT	(Ahh!)
+
+BEAUMONT	Est-ce que vous êtes satisfaite?
+
+HOFF	(h_)Vous plaisantez ou quoi?
+
+BEAUMONT	Mais non, pas du tout.
+
+BEAUMONT	Qu'y a-t-il?
+
+HOFF	De la corruption, Monsieur Beaumont.
+
+BEAUMONT	De la corruption?
+
+BEAUMONT	Et qui accusez-vous exactement de corruption?
+
+HOFF	Cela dépendra de votre réponse.
+
+HOFF	Votre associé, ici présent, a fait allusion à une somme substantielle pour oublier les problèmes d'installations électriques.
+
+HOFF	J'ignore comment ça se passe aux États-Unis, mais ici, la construction de nos immeubles sont gérés avec la plus grande intégrité.
+
+STEELE	J'ai simplement voulu vous remercier pour tous vos efforts, madame.
+
+HOFF	Vous croyez que je suis ce genre de personne?
+
+STEELE	Je vous en prie, Madame Hoff, nous travaillons ensemble, pas l'un contre l'autre.
+
+BEAUMONT	Je vous prie d'excuser son manque de savoir-faire en matière de communication.
+
+HOFF	Je vous préviens que je me ferai un devoir d'informer les autorités de vos pratiques douteuses, messieurs.
+
+BEAUMONT	Je vous en prie, ce n'est pas la peine d'en venir...
+
+HOFF	Bonne journée, messieurs.
+
+(BOUCLE 3 - 01:01:47:18)
+		03
+
+STEELE	Laissez-moi vous accompagner en bas.
+
+HOFF	Non merci, je connais le chemin.
+
+STEELE	J'en suis certain, mais vous n'irez nulle part.
+
+HOFF	(Haah!)
+
+STEELE	Pas sans la clé de sureté.
+
+BEAUMONT	On dirait qu'elle envoie un email.
+
+STEELE	Je ne laisse jamais rien au hasard,
+
+STEELE	j'ai pris mon brouilleur de réseau.
+
+STEELE	(h/________BF_hm->_______)
+
+STEELE	Après vous.
+
+HOFF	(Huhh!!)
+
+HOFF	(Huhhh______________________)
+
+HOFF	(Ahhhhhh____________________________________!)
+
+STEELE	Attention à la marche.
+
+(BOUCLE 4 - 01:02:45:18)
+		04
+
+STEELE	(_hh_____________________________________________________)
+
+STEELE	Enterrez-là.
+
+STEELE	(h/__________________________h->_____________)
+
+STEELE	Quelle belle journée!
+
+(BOUCLE 5 - 01:04:13:00)
+		05
+
+JAMES	Tu peux pas déjà en avoir marre de la ville. Il y a tellement de choses à faire:
+
+JAMES	le... musée Van der Bergh, allez voir Saint Paul ou la maison de ce peintre Rubens...
+
+AMB	(AMB ENFANTS PARC______________________)
+
+TOM	Saint Paul, les musées... c'est déjà fait et les enfants détestent ça.
+
+JAMES	(uhuh_)ouais, je comprends, moi aussi je déteste tous ces trucs touristiques.
+
+ANNE	(_rire_)
+
+JAMES	J'aimerais qu'ils nous laissent tout raser pour qu'on puisse construire autre chose.
+
+ANNE	(_ahah_)
+
+JAMES	Tom, on ferait un massacre!
+
+ANNE	Allez!
+
+BEN	Attention une seconde, j'arrive.
+
+JAMES	(Ah!_)et si vous alliez au zoo?
+
+TOM	Le zoo?
+
+TOM	Non merci, non, non, ça me rappellerait trop mon quotidien.
+
+ANNE	(Hé_!)
+
+ANNE	(_ahhaha_)
+
+TOM	(_rire_)
+
+JAMES	Ca va le moral?
+
+TOM	(Hé!_)(h/_)Ben! Arrête de courir après ta soeur, on est venu ici pour s'amuser!
+
+ANNE	(_ahhahahha_)
+
+ANNE	(_hahaha_)
+
+TOM	Je veux que tu ranges ton téléphone.
+
+(BOUCLE 6 - 01:04:50:18)
+		06
+
+JAMES	Qu'est-ce qui se passe entre toi et Brianna?
+
+ANNE	(_hahaha_)
+
+JAMES	La lune de miel est déjà terminée?
+
+TOM	La lune de miel, c'était y'a quinze ans, tu sais.
+
+ANNE	(_ahahahah_____________)Ca fait si longtemps que ça?
+
+TOM	Ben!
+
+TOM	Je viens de dire quoi?
+
+BEN	D'accord!
+
+JAMES	Je t'ai toujours dit que je serai là pour toi, n'oublie pas.
+
+TOM	Du calme, je cherche pas un avocat spécialisé en divorce,
+
+TOM	surtout pas un qui soit aussi cher que toi.
+
+JAMES	Je suis pas si cher que ça, et tu sais que je te ferais un prix d'ami.
+
+TOM	Non, en fait... on a juste besoin de régler les choses entre nous.
+
+ANNE	(_hahhaah_)
+
+TOM	Elle est toujours en train de voyager,
+
+TOM	tout ce qui l'intéresse, c'est son travail.
+
+TOM	Je sais que ça fait cliché, mais elle n'a plus jamais le temps pour nous.
+
+ANNE	(_hahahaha_)c'est ton tour.
+
+JAMES	T'es sûr qu'elle n'a pas quelqu'un d'autre?
+
+TOM	C'est vraiment ce genre de chose que j'ai envie d'entendre, merci!
+
+JAMES	(h/___)
+
+JAMES	C'est la raison première pour laquelle les mariages finissent.
+
+TOM	Je t'en prie, arrête, s'il te plaît?
+
+JAMES	D'accord.
+
+JAMES	Mais dis-moi...
+
+JAMES	est-ce que tu es sûr de savoir ce qu'elle fait ou qui elle se fait à Paris?
+
+JAMES	Dans la ville des amoureux.
+
+TOM	(BF_h/______h->_______)
+
+INSERT	(PARIS, FRANCE__________________________________________)
+
+INSERT	(PRESENTATION DE LA TOUR UBX A 15H________________________________)
+
+(BOUCLE 7 - 01:06:37:20)
+		07
+
+BRIANNA	Donc, en conclusion, (h/_)cette nouvelle tour, constuite par Beaumont et Associés, a été conçue pour être l'immeuble le plus (h/__)éco-énergétique et le plus sûr de tous les immeubles sur le marché actuel.
+
+BEAUMONT	Belle présentation.
+
+GRANGER	Bravo, merci infiniment Brianna.
+
+GRANGER	Ca a d'autant plus de valeur à mes yeux venant d'un ingénieur constructeur de votre calibre.
+
+BRIANNA	Je vous remercie, Hans.
+
+BRIANNA	(h/__)Il ne me reste donc plus qu'à superviser l'inspection finale afin de m'assurer que votre rêve a été correctement réalisé.
+
+GRANGER	Oui, et je me réjouis à l'idée de poursuivre notre collaboration.
+
+BEAUMONT	Alors vous confirmez que Brianna reste sur le projet.
+
+GRANGER	Oui, bien sur! Nous en avons déjà parlé.
+
+GRANGER	Un dernier contrôle de routine avant l'acquisition.
+
+BEAUMONT	Bien entendu.
+
+(BOUCLE 8 - 01:07:21:10)
+		08
+
+GRANGER	(h/__)Alors, ce sera tout pour d'aujourd'hui!
+
+GRANGER	Notre décision sera prise avant le prochain trimestre.
+
+BEAUMONT	Très bien! Nous dinons toujours ensemble ce soir?
+
+GRANGER	(Ooh, )oui, j'ai fait une réservation pour vingt heures dans un de mes restaurants préférés.
+
+BEAUMONT	J'apprécierais beaucoup si Madame Bronson se joignait à nous.
+
+GRANGER	(Oh, )j'ai bien peur que cela ne soit pas p...
+
+BEAUMONT	(h/_)Hans...
+
+BEAUMONT	sur un projet de cette importance,
+
+BEAUMONT	il est impératif que nous nous sentions en confiance les uns avec les autres.
+
+BEAUMONT	Etant donné que Madame Bronson fait désormais partie de (uhm)
+
+BEAUMONT	(h/_)
+
+BEAUMONT	comment avez-vous dit?
+
+BEAUMONT	(uhm_)de notre future collaboration, n'est-ce pas?
+
+BEAUMONT	...
+
+BEAUMONT	j'insiste.
+
+GRANGER	(h/__)
+
+GRANGER	Laissez-moi voir ça.
+
+(BOUCLE 9 - 01:07:56:16)
+		09
+
+FEMME PRESENTATION	Merci encore pour tout.
+
+GRANGER	(h/____________________)
+
+BRIANNA	De rien, bon weekend!
+
+GRANGER	Brianna, j'ai bien peur que vous deviez passer une nuit supplémentaire à Paris.
+
+BRIANNA	(h/__)Mais je prends le prochain train ce soir pour Anvers.
+
+GRANGER	S'il vous plaît, Brianna,
+
+GRANGER	Beaumont est connu pour être quelqu'un d'assez...
+
+GRANGER	susceptible.
+
+GRANGER	Il est important pour moi que tout se passe pour le mieux entre nous.
+
+BRIANNA	Bien sûr, je comprends.
+
+GRANGER	Merci.
+
+BRIANNA	(_hh_________h->_______)
+
+(BOUCLE 10 - 01:08:25:20)
+		10
+
+BRIANNA	Appel Tom.
+
+TOM	Anne, monte la rampe!
+
+ANNE	Ouais!
+
+TOM	Ouais!
+
+BEN	Mais non, non! Allez, donne moi ta manette, ça suffit!
+
+ANNE	J'suis en tête!
+
+TOM	(Ho, ho! )Ouais!
+
+ANNE	Arrête!
+
+TOM	(_haha_ Hé! )Non, (Hé, )Ben, ne frappe pas ta soeur!
+
+ANNE	Non, arrête!
+
+BEN	Donne!
+
+ANNE	Arrête!
+
+BEN	Ca recommence.
+
+ANNE	Papa, c'est ton tour de perdre!
+
+TOM	Salut, c'est Tom. Laissez-moi un message.
+
+BRIANNA	Salut, chéri.
+
+BRIANNA	(arh->____)
+
+BRIANNA	Il y a eu un changement de dernière minute. Le client veut que je reste ce soir, alors,
+
+BRIANNA	je n'pourrais pas prendre un train pour rentrer avant demain matin.
+
+BRIANNA	(_uh_)appelle-moi, d'accord? Je t'aime. Bisous.
+
+(BOUCLE 11 - 01:09:01:10)
+		11
+
+BEAUMONT	Cette Madame Bronson va devenir un vrai problème si on la laisse fourrer son nez dans nos affaires.
+
+STEELE	Oui, ça m'a pas l'air d'être le genre à accepter les pots de vin.
+
+BEAUMONT	Je sais.
+
+BEAUMONT	Mais cette fois-ci, essayez d'être un peu plus subtil.
+
+BEAUMONT	On n'est pas des cowboys que je sache.
+
+STEELE	Vous en faite pas. On n'a qu'à suivre notre plan, après tout, c'est une femme, et une mère...
+
+STEELE	Si elle sent qu'elle va perdre sa famille...
+
+STEELE	ça la fera sortir du jeu.
+
+BEAUMONT	Je veux qu'elle soit partie d'ici le prochain trimestre.
+
+STEELE	Elle le sera.
+
+STEELE	Ensuite, manquera plus que la signature de Granger.
+
+BEAUMONT	D'accord.
+
+BEAUMONT	Vous avez trois heures pour tout mettre en place.
+
+BERT	Oui, m'sieur.
+
+(BOUCLE 12 - 01:09:44:14)
+		12
+
+BERT	(Hé-ho!_)Brianna?
+
+BERT	Alors ça, c'est une surprise!
+
+BRIANNA	(Ooh!)
+
+BERT	Mais qu'est-ce que tu fais ici? Tu n'habites plus à Anvers?
+
+BRIANNA	(_uh__)
+
+BRIANNA	Si, oui, toujours.
+
+BRIANNA	Je suis désolée, je sais plus...
+
+BERT	Ne me dis pas que tu me reconnais pas!
+
+BERT	Bertrand! C'était à une soirée du nouvel an y'a deux, trois ans.
+
+BRIANNA	(Ooh!)
+
+BERT	(_hahaha_)
+
+BRIANNA	Je suis vraiment désolée.
+
+BERT	Je suis content de te voir!
+
+BERT	(_hahahaha_____)
+
+BRIANNA	(_uh_)
+
+BRIANNA	Burt...
+
+BERT	B-Bertrand!
+
+BRIANNA	(Hé, uhm), je suis vraiment désolée, mais je dois partir, j'ai un diner et je suis en retard.
+
+BERT	(Oh, )d'accord, oui, je vois.
+
+BRIANNA	(_haha_)
+
+BERT	Et(_uh_)on essaie de se revoir, d'accord?
+
+BERT	A Anvers?
+
+BRIANNA	Oui.
+
+BRIANNA	Bien sûr.
+
+(BOUCLE 13 - 01:10:43:09)
+		13
+
+BEAUMONT	Je suis certain que vous allez signer l'acquisition bientôt, Hans.
+
+GRANGER	(h/_)Je suis on ne peut plus confiant par rapport à ce projet.
+
+GRANGER	Vous savez, le chef ici...( AH!)
+
+GRANGER	(tsk)
+
+GRANGER	La voici.
+
+BRIANNA	Je suis vraiment désolée pour mon retard.
+
+GRANGER	Il n'faut pas l'être.
+
+BRIANNA	Bonsoir, enchantée.
+
+FEMME ROUGE	Bonsoir.
+
+BEAUMONT	Alors,
+
+BEAUMONT	Hans nous expliquait que vous êtiez une experte en l'art de la varappe.
+
+BRIANNA	(_Hoho_)
+
+BRIANNA	Eh bien, je n'dirais pas que je suis experte mais, oui, c'est quelque chose que j'adore, c'est sûre.
+
+GRANGER	Et vous en faites depuis...
+
+GRANGER	quel âge?
+
+BRIANNA	(h/__)J'en fais depuis que je suis toute jeune.
+
+BRIANNA	Lorsque j'ai eu fini mes études, je voulais vivre à la montagne et être secouriste.
+
+BRIANNA	(_hahahaah_____)
+
+BEAUMONT	(_haha_)
+
+BEAUMONT	Qu'est-ce qui vous a fait changer d'avis?
+
+BRIANNA	Tom,
+
+BRIANNA	mon mari.
+
+BEAUMONT	(Ahh__)
+
+BEAUMONT	(h/__)
+
+BEAUMONT	Donc vous avez échangé une passion contre une autre passion.
+
+BEAUMONT	(_hahaha_)
+
+BRIANNA	(BF_hmhmhm_)
+
+BEAUMONT	(_hahaha_)
+
+(BOUCLE 14 - 01:11:28:05)
+		14
+
+BEAUMONT	(h/_)Vous le regrettez?
+
+BRIANNA	(h/___)
+
+BRIANNA	Des regrets? (um_)Non, aucun regrets.
+
+BRIANNA	(h/__)
+
+BRIANNA	Je voulais avoir une famille alors j'ai seulement... changé l'ordre de mes priorités.
+
+BEAUMONT	Et comment faites-vous pour jongler avec tout ça?
+
+BRIANNA	(h/_________)
+
+BRIANNA	Vous semblez avoir une drôle d'opinion sur les femmes.
+
+BRIANNA	Il est possible de cumuler une carrière, une famille et une passion...
+
+BRIANNA	ce n'est pas un problème.
+
+GRANGER	Voilà voilà,
+
+GRANGER	(h/_)et si nous commandions du vin?
+
+INSERT	(ANVERS, BELGIQUE________________________)
+
+INSERT	(SIX MOIS PLUS TARD_________________________)
+
+(BOUCLE 15 - 01:13:38:24)
+		15
+
+BRIANNA	(h/____h->_______)
+
+TOM	(mh/_)
+
+TOM	(_hh________ah__________)
+
+MICHELLE	Vous venez?
+
+AMB	(LEGER BROUHAHA________)
+
+(BOUCLE 16 - 01:14:17:23)
+		16
+
+BEAUMONT	Je vous rappelle, d'accord?
+
+(BOUCLE 17 - 01:15:01:22)
+		17
+
+ANTON	(h/____)Allô?
+
+ANTON	Oui, je peux vérifier.
+
+ANTON	Je la mets en route tout d'suite.
+
+ANTON	(h/_____)On est à soixante-quatre pourcent ici.
+
+INSERT	(_64%_PUISSANCE A/C _)
+
+ANTON	Je vais laisser mes gars finir leur boulot dans cette salle.
+
+ANTON	D'accord.
+
+ANTON	C'est bon, vous pouvez y aller.
+
+OUVRIER H1	D'accord.
+
+(BOUCLE 18 - 01:15:40:20)
+		18
+
+BEAUMONT	(_ahahah_)Bonjour.
+
+BEAUMONT	Eric.
+
+BEAUMONT	Vous ne devinerez jamais qui je viens de voir.
+
+BEAUMONT	Brianna Bronson.
+
+STEELE	J'croyais qu'elle était plus sur le projet.
+
+STEELE	Qu'est-ce qu'elle fait ici?
+
+BEAUMONT	Disons que c'est un heureux hasard.
+
+BEAUMONT	L'avocat de son mari pour le divorce fait parti dans le cabinet LANDO et Associés au soixantième.
+
+STEELE	Vraiment? Donc elle est pas ici pour l'immeuble.
+
+BEAUMONT	Pas du tout.
+
+BEAUMONT	C'est juste un autre mariage râté.
+
+BEAUMONT	(h/_)Ces photos ont vraiment fait l'affaire.
+
+BEAUMONT	Elle n'a pas pu retourner à Paris donc elle a dû démissionner.
+
+BEAUMONT	Alors vous voyez... on n'a plus besoin de faire couler du sang.
+
+(BOUCLE 19 - 01:16:11:06)
+		19
+
+STEELE	En fait, je dois à vous dire que cette histoire nous a coûté plus cher que prévu.
+
+STEELE	Il a fallu acheter le nouvel ingénieur,
+
+STEELE	et nouvel l'inspecteur,
+
+STEELE	mais heureusement, tout s'est bien terminé.
+
+STEELE	On a passé l'inspection et la signature du deal est dans une semaine.
+
+BEAUMONT	(h/_)parfait.
+
+BEAUMONT	Qu'est-ce qu'il fait chaud ici?
+
+BEAUMONT	C'est quoi le problème avec l'air conditionné?
+
+STEELE	C'est une question très intéressante, surtout venant de la personne qui a payé la moitié du prix pour une climatisation,
+
+STEELE	qui tourne à quarante pourcent de la puissance recommandée.
+
+BEAUMONT	(h/_________BF_h->___)
+
+(BOUCLE 20 - 01:16:38:24)
+		20
+
+AMB	(LEGER BROUHAHA)
+
+AMB	(FIN)
+
+TOM	(_hh____hm____)
+
+TOM	(h/_________)
+
+TOM	(h->___________)
+
+TOM	(h/________________)
+
+TOM	(_hh____________)
+
+(BOUCLE 21 - 01:17:17:20)
+		21
+
+ANTON	Arrêtez-vous.
+
+INSERT	(ALERTE 75%_________________________)
+
+ANTON	(h/____)
+
+ANTON	(Hé, )Il se passe un truc étrange ici.
+
+ANTON	La consommation énergétique a grimpé d'un coup à soixante-quinze pourcent.
+
+ANTON	T'es sûr qu'on est dans les normes?
+
+ANTON	Okay, d'accord.
+
+ANTON	C'est bon, vous pouvez continuer.
+
+OUVRIER H1	D'accord.
+
+ANTON	On verra...
+
+ANTON	J'espère juste qu'il y aura pas de problèmes.
+
+INSERT	(ALERTE 75% - A/C EN SURCHARGE)
+
+(BOUCLE 22 - 01:18:00:16)
+		22
+
+BRIANNA	(h/____)Tom?
+
+TOM	(h/_____________________________)
+
+BRIANNA	Tu veux bien m'accorder deux minutes, s'il te plaît?
+
+TOM	D'accord.
+
+BRIANNA	T'es vraiment certain de savoir ce que tu fais?
+
+BRIANNA	Parce que, ici et maintenant, c'est notre dernière chance...
+
+BRIANNA	de mettre... cette très mauvaise plaisanterie derrière nous.
+
+TOM	Oui...
+
+TOM	(BF_Hm_)C'est exactement ça.
+
+TOM	(h/___)
+
+TOM	Le vrai problème, c'est que j'ai perdu toute confiance en toi et en notre mariage.
+
+BRIANNA	Qu'est-ce que tu veux que je fasse d'autre pour te convaincre?
+
+BRIANNA	Je t'ai répété cent fois que j'ai pas eu de liaison.
+
+BRIANNA	J'ai quitté mon travail à Paris et je passe autant de temps que possible avec toi et les enfants...
+
+TOM	(_hh_______)
+
+BRIANNA	et  tout ça pour te prouver à quel point je tiens à toi et à notre mariage.
+
+TOM	(h/___)Tu sais, j'ai toujours cru que je serais le genre d'homme à pouvoir oublier ce qui s'était passé,
+
+TOM	pardonner une chose pareille,
+
+TOM	mais on dirait que je ne suis pas cet homme.
+
+BRIANNA	(_hh_______________)
+
+(BOUCLE 23 - 01:18:59:09)
+		23
+
+PAUL	Allez, laisse-moi t'amener au ciné ce soir.
+
+ADRIA	(h/___)Ca commence avec un film,
+
+ADRIA	ensuite un diner,
+
+ADRIA	et puis quoi?
+
+PAUL	Et puis(_uh__)
+
+ADRIA	Ca va, j'ai compris.
+
+ADRIA	(h/___)
+
+ADRIA	Tu pourrais pas être un peu plus romantique?
+
+PAUL	Qu'est-ce que je peux faire?
+
+ADRIA	(h/______)
+
+ADRIA	Je voudrais...
+
+ADRIA	des fleurs.
+
+PAUL	D'accord, tu auras une fleur d'ici la fin de la journée.
+
+ADRIA	(_haha_)
+
+ADRIA	(h/___)
+
+ADRIA	(h/____)C'est noté, merci, au revoir.
+
+ADRIA	Ravie de vous revoir Monsieur Bronson, bonjour.
+
+ADRIA	Monsieur Levin vous attend.
+
+ADRIA	Par ici.
+
+MICHELLE	Merci.
+
+(BOUCLE 24 - 01:19:36:06)
+		24
+
+JAMES	Et elle me dit: "Oui, celui-ci mange mon popcorn!
+
+JAMES	(_hahahah_)
+
+JAMES	Je dois y aller.
+
+JAMES	Tom!
+
+JAMES	S'il vous plait, entrez.
+
+MICHELLE	Maitre.
+
+JAMES	(h/_)Comment allez vous Maitre? Ravi de vous revoir.
+
+JAMES	Soyez les bienvenues dans nos tous nouveaux bureaux.
+
+JAMES	C'est une très belle tour, n'est-ce pas,
+
+JAMES	Madame Bronson?
+
+MICHELLE	(Um_)
+
+MICHELLE	Peut-être devrions nous commencer?
+
+TOM	Oui, qu'on en finisse une fois pour toute.
+
+JAMES	Absolument, s'il vous plaît.
+
+BRIANNA	(h/__)Attend, est-ce que les enfants allaient bien ce matin?
+
+TOM	(Ah, )oui, très bien.
+
+TOM	Ils ont hâte de vivre à plein temps avec leur père.
+
+BRIANNA	(_hh__________________________)
+
+(BOUCLE 25 - 01:20:12:21)
+		25
+
+ANNE	Je crois pas que papa va aimer qu'on regarde encore ces photos.
+
+BEN	(h/______)C'est toi qui va le lui dire?
+
+ANNE	Peut-être, peut-être pas.
+
+ANNE	Ca dépend...
+
+ANNE	de ce que tu vas me donner.
+
+BEN	(Hah!_)Alors, là, tu rêves, Anne.
+
+ANNE	(_haha_)
+
+BEN	Je sens qu'il y a un truc qui cloche.
+
+ANNE	Je les ai déjà regardé des milliers de fois, Ben et je t'assure...
+
+ANNE	on dirait vraiment que maman avait un petit copain à Paris.
+
+BEN	(mh/__)C'est bizarre, chaque fois qu'ils s'embrassent, les photos sont prises de plus près.
+
+ANNE	Ouais, et alors?
+
+BEN	Je sais pas.
+
+BEN	Les photos n'ont pas l'air d'être dans un ordre logique.
+
+ANNE	Tu crois que les photos sont truquées?
+
+BEN	J'en sais rien.
+
+BEN	(Mh!)
+
+BEN	C'est quoi que t'as mis là dedans?
+
+ANNE	Comme d'habitude.
+
+BEN	(uh_)
+
+INSERT	(ALERTE 75% - A/C EN SURCHARGE_______)
+
+INSERT	(ALERTE 77% - A/C EN SURCHARGE)
+
+(BOUCLE 26 - 01:21:28:05)
+		26
+
+BEN	Ca y est, j'ai compris.
+
+BEN	Tu vois les gens qui passent dans le fond?
+
+ANNE	Oui, et alors?
+
+BEN	Ils devraient être toujours dans la photo, mais c'est comme s'ils avaient disparus.
+
+ANNE	Ouais, t'as raison!
+
+ANNE	On dirait que celui qui a pris cette photo l'a faite à un autre moment.
+
+BEN	(h/__)T'as raison, ça correspond pas.
+
+BEN	C'est pour ça que, chaque fois qu'ils s'embrassent, ils sont plus près et y'a plus les passants.
+
+ANNE	Et c'est pour ça qu'on voit jamais le visage de maman quand elle l'embrasse ce type!
+
+BEN	Deux femmes différentes:
+
+BEN	maman...
+
+BEN	(h/_)et quelqu'un d'autre habillé comme elle.
+
+BEN	Pourquoi quelqu'un ferait ça?
+
+ANNE	Il faut qu'on le dise à papa.
+
+BEN	Tu crois que je suis en train de faire quoi là?
+
+BEN	Allez, répond! T'es vraiment pénible, tu sais!
+
+BEN	Messagerie.
+
+BEN	Il répond pas à son téléphone et celui de maman est éteint.
+
+BEN	Sûrement parce qu'ils avaient rendez-vous chez l'avocat!
+
+ANNE	(h/___)Je parie que l'adresse de l'avocat est dans ses emails.
+
+(BOUCLE 27 - 01:22:17:19)
+		27
+
+INSERT	(FINALISATION DU DIVORCE A 14:45)
+
+BEN	J'ai trouvé.
+
+BEN	Lando et Associés,
+
+BEN	soixantième étage de la Tour UBX.
+
+ANNE	Appelle un taxi!
+
+BEN	Ils vont être furieux...
+
+BEN	ou pire encore.
+
+ANNE	BEN!
+
+BEN	Okay, ça va!
+
+BEN	Je l'appelle.
+
+(BOUCLE 28 - 01:22:43:17)
+		28
+
+TOM	...et c'était le problème.
+
+TOM	Elle était égoïste,
+
+TOM	jamais disponible,
+
+TOM	elle se focalisait sur sa carrière plutôt que sur sa famille,
+
+TOM	(h/___)
+
+TOM	et ensuite la liaison.
+
+BRIANNA	Je n'ai jamais eu de liaison de toute ma vie!
+
+TOM	Alors c'était la dernière goutte qui a fait déborder le vase.
+
+BRIANNA	(_hh_________h/___)
+
+BRIANNA	J'ai fait tellement de sacrifice ces six derniers mois pour te prouver que je t'aime encore.
+
+BRIANNA	C'est toi...
+
+BRIANNA	(h/__)c'est toi, tout seul, qui est en train de jeter ce mariage aux ordures.
+
+(BOUCLE 29 - 01:23:18:03)
+		29
+
+MICHELLE	Ma cliente a raison,
+
+MICHELLE	les photos incriminantes ne sont pas une preuve tangible.
+
+JAMES	Cependant, vous n'avez pas réussi à apporter la preuve qu'elles étaient truquées...
+
+MICHELLE	(BF_mh/___h->___)
+
+JAMES	d'où le rendez-vous d'aujourd'hui.
+
+BRIANNA	(h/__m)
+
+(BOUCLE 30 - 01:23:32:09)
+		30
+
+ANNE	Toujours aucune réponse?
+
+BEN	Non.
+
+ANNE	Essaie encore.
+
+BEN	Ecoute, il répond pas à son téléphone, qu'est-ce que tu comprends pas?
+
+BRIANNA	Peut-être que c'est pas le bon numéro?
+
+BEN	C'est le bon numéro!
+
+BEN	Arrête, t'as même pas de téléphone, qu'est-ce que t'en sais?
+
+ANNE	J'aurais bientôt un téléphone!
+
+BEN	Va falloir que tu grandisses beaucoup avant que ça arrive!
+
+ANNE	(Urh_!)
+
+BEN	(Hé!)
+
+ANNE	T'es méchant.
+
+(BOUCLE 31 - 01:24:10:19)
+		31
+
+PAUL	Arrêtez de courir tout de suite, s'il vous plaît!
+
+BEN	Désolé, on est vraiment pressé.
+
+PAUL	Oui, je vois ça. Qu'est-ce que je peux faire pour vous?
+
+BEN	Il faut vraiment qu'on parle à nos parents, c'est très urgent.
+
+PAUL	Et ils sont où?
+
+BEN	Ils avaient rendez-vous chez un avocat.
+
+PAUL	Lando et Associés?
+
+ANNE	S'il vous plaît, il faut absolument qu'on les voit, c'est très important.
+
+PAUL	Soixantième étage.
+
+PAUL	(h/__)
+
+PAUL	Attendez, rendez moi service...
+
+PAUL	quand vous voyez la jolie réceptionniste qui s'appelle Adria,
+
+PAUL	donnez-lui ça.
+
+ANNE	D'accord,
+
+BEN	(uh)
+
+ANNE	je le ferai.
+
+PAUL	C'est par ici.
+
+ANNE	(_hh______________________________________)
+
+ANNE	Merci.
+
+BEN	Merci.
+
+ANNE	(_hh_________________________)
+
+BEN	Merci.
+
+PAUL	De rien.
+
+(BOUCLE 32 - 01:25:01:17)
+		32
+
+ANNE	(_hh_____)
+
+ANNE	On a réussi, Ben!
+
+BEN	Oui, t'as raison.
+
+BEN	Tout est possible.
+
+BEN	Fais voir ça.
+
+ANNE	(Hé!)
+
+BEN	(Hah!_)Il est trop nul son dessin.
+
+BEN	Y'a aucune fille qui serait séduite par ça.
+
+ANNE	Moi, je trouve ça romantique!!
+
+BEN	Les princesses et les manies romantiques...
+
+BEN	t'es grave!
+
+ANNE	(_hh____)
+
+ANNE	Un jour j'aimerais qu'un garçon m'offre un dessin.
+
+BEN	Ouais, dans tes rêves.
+
+ANNE	(_h->___)
+
+(BOUCLE 33 - 01:25:31:20)
+		33
+
+ANTON	(Oh, )non! Qu'est-ce qui se passe?
+
+INSERT	(ALERTE 124% - A/C EN SURCHARGE)
+
+ANTON	Eteigniez tout!
+
+OUVRIER H1	Quoi?
+
+ANTON	Eteigniez tout!
+
+ANTON	(Ahh_____)
+
+AMB	(2 OUVRIERS - Ahhhh____!)
+
+(BOUCLE 34 - 01:25:47:11)
+		34
+
+ANNE	(Ahh!_)
+
+BEN	(Ohh!)
+
+ANNE	(Ahh_)
+
+(BOUCLE 35 - 01:25:50:19)
+		35
+
+OUVRIER H1	(Argh______________________________)
+
+OUVRIER H1	(_arh______________________________________________________________)
+
+OUVRIER H1	(arhhh_________________________________)
+
+ANTON	(h/___)NOOOOOOO__________________N!)
+
+AMB	(PANIQUE FOULE__________________________________________________________________)
+
+BEN	(_hh__________________)
+
+(BOUCLE 36 - 01:26:21:23)
+		36
+
+ANNE	(_hh_________________________________)
+
+(BOUCLE 37 - 01:26:37:22)
+		37
+
+TOM	(h/______)
+
+TOM	Pardon, mais est-ce que quelqu'un d'autre entend ça?
+
+BRIANNA	Oui, c'est l'alarme à incendie.
+
+JAMES	Est-ce que votre client veut ajouter quelque chose à sa petite crise?
+
+MICHELLE	Rien pour l'instant, merci!
+
+TOM	(h/____)
+
+TOM	On s'inquiète pour l'alarme ou pas?
+
+JAMES	Je vais voir ça.
+
+JAMES	(BF_hm->____)
+
+TOM	(h/____h->______)
+
+JAMES	Adria?
+
+ADRIA	Oui m'sieur?
+
+JAMES	Soyez gentille, descendez-voir ce qui se passe s'il vous plaît.
+
+ADRIA	Oui m'sieur.
+
+JAMES	Merci.
+
+(BOUCLE 38 - 01:27:15:11)
+		38
+
+ANTON	(_hh_tousse__tousse_____________________hh___hh____hh____hh__________________)
+
+ANTON	(_hh____)
+
+ANTON	(_hh_hh__)Le transformateur a explosé.(_hh_hh_)
+
+ANTON	La salle est en train de bruler.
+
+ANTON	Quoi?
+
+ANTON	(h/___)
+
+ANTON	Il faut qu'on fasse évacuer l'immeuble(_h/___)et qu'on fasse venir les secours tout de suite!
+
+ANTON	(_tousse_hh_hh___)
+
+ANTON	(_hh_tousse______________________________________)
+
+ANTON	(_hh__________________________________________________________________________)
+
+ANTON	(_hh_hh___________________)
+
+ANTON	Non, c'est pas vrai!
+
+ANTON	(_hh_hh___________________________________________________)
+
+(BOUCLE 39 - 01:28:39:20)
+		39
+
+BEAUMONT	Quelle est l'ampleur des dégats?
+
+BEAUMONT	Tenez moi au courant de l'évolution.
+
+BEAUMONT	(_hh_hh__________________)
+
+BEAUMONT	(mh/_____________________)
+
+BEAUMONT	La salle des machines a explosé au vingtième.
+
+BEAUMONT	Il y a eu une surcharge.
+
+STEELE	Ah merde.
+
+STEELE	Ca pouvait pas tenir encore une semaine?
+
+BEAUMONT	Ils m'ont assuré qu'ils contrôlaient la situation.
+
+STEELE	(_hh_______________________)
+
+(BOUCLE 40 - 01:29:17:01)
+		40
+
+BEN	(_hh______________________________________)
+
+ANNE	(_hh_________________________________)
+
+ANNE	(_uh!_)
+
+BEN	Non! Anne, arrête! Tu sais pas ce que tu fais!
+
+ANNE	Mais il faut faire quelque chose!
+
+ANNE	Dis-moi ce qu'on peut faire!
+
+BEN	Ca suffit!
+
+ANNE	(_hh_hh____________)
+
+BEN	J'en sais rien!
+
+ANNE	Au secours! On est coincé dans l'ascenseur!
+
+BEN	(_hh_______________)
+
+ANNE	Au secours! Aidez-nous!
+
+BEN	Au secours!
+
+BEN	Au secours s'il vous plaît!
+
+BEN	Aidez-nous!
+
+ANNE	(_hh_hh____)
+
+(BOUCLE 41 - 01:29:51:07)
+		41
+
+ANNE	(_hh_hh_____)
+
+ANNE	Ben...
+
+ANNE	ça sert à rien!
+
+BEN	Réfléchissons...
+
+ANNE	(_sanglote_)
+
+ANNE	Personne... nous entend!
+
+BEN	Au secours!
+
+BEN	Au secours!
+
+ANTON	Y a quelqu'un ici?
+
+ANTON	Y'a quelqu'un?
+
+BEN	Oui!
+
+ANNE	Oui!
+
+ANNE	Aidez-nous!
+
+ANNE	Aidez-nous, on est coincé dans l'ascenseur!
+
+BEN	Aidez-nous s'il vous plaît!
+
+ANNE	Au secours! Aidez-nous à sortir!
+
+BEN	Au secours, on est coincé!
+
+ANTON	Je vous entends! Attendez!
+
+ANNE	(h/_)Ouais!
+
+ANNE	(_hahah_)
+
+BEN	Génial!
+
+ANNE	On va sortir!
+
+(BOUCLE 42 - 01:30:30:07)
+		42
+
+ANTON	(_hh___efforts_____________________________________)
+
+BEN	(_hh___efforts_____________________________)
+
+ANNE	(_hh___efforts_____________________________)
+
+ANTON	(_hh_)
+
+ANTON	Attention!
+
+ANTON	Est-ce que ça va?
+
+ANNE	Oui, ça va, mais on veut sortir d'ici!
+
+BEN	Oui, s'il vous plait, sortez nous d'ici.
+
+ANTON	Non, j'y arriverai pas tout seul.
+
+ANTON	(tousse)
+
+ANTON	Il faut que j'aille chercher des pompiers!
+
+ANNE	Non, non, ne nous laissez pas! Ne partez pas! Non!
+
+BEN	(h/___)Non! Ne partez pas! Sortez nous d'ici!
+
+ANTON	(_hh__)Je dois fermer les portes, ou la fumée va vous tuer!
+
+ANNE	Non!(_tousse_)S'il vous plait! Sortez nous d'ici d'abord!
+
+BEN	NON!
+
+BEN	Vous devez nous sortir ici!
+
+ANTON	Je vais revenir!
+
+ANNE	Non! Non, s'il vous plait! Sortez nous d'ici! Revenez! Non! Ne nous laissez pas!
+
+ANTON	(_hh_hh_________hm_______________)
+
+BEN	Non, non, non, non, non!
+
+ANTON	(_hh_hh_hh__________)
+
+ANTON	(Ah________________ahhh!____________________)
+
+BEN	(HAH!)
+
+(BOUCLE 43 - 01:31:17:04)
+		43
+
+ANNE	(_hh_________________)
+
+BEN	(__h->______)
+
+ANNE	(_sanglote____________________________________________)
+
+BEN	(_h->___________)
+
+(BOUCLE 44 - 01:31:24:18)
+		44
+
+AMB	(AMB FOULE PANIQUE_____________________)
+
+CAPT. FREDERICK	Faites sortir ces personnes d'ici!
+
+CAPT. FREDERICK	Et sécurisez le périmètre!
+
+AMB	(RADIO POLICE INDISTINCT________________________________________________________)
+
+(BOUCLE 45 - 01:31:47:09)
+		45
+
+AMB	(RADIO POLICE CONTINUE_________________________)
+
+NAT. VILA	(h/__________)Allez, viens!
+
+NAT. VILA	(h/____)
+
+NAT. VILA	T'es prêt?
+
+NAT. VILA	Merci, Mark.
+
+NAT. VILA	La Tour UBX, l'un des immeubles les plus récents d'Anvers et l'un des plus hauts d'Europe, a pris feu aujourd'hui!
+
+NAT. VILA	Il semblerait que les flammes proviennent du vingtième étage.
+
+NAT. VILA	Ces nouveaux grattes-ciel s'élèvent de nos jours à plus de soixante étages!
+
+BRIANNA	(h/____)
+
+NAT. VILA	Le combat des pompiers est rendu difficile dans ce type de bâtiments.
+
+HOMME 1	Il faut s'en aller!
+
+HOMME 2	Je suis d'accord.
+
+NAT. VILA	Vous vous souvenez tous de l'incendie qu'il y a eu dans la Tour du centre ville en mille neuf cent soixante dix neuf.
+
+MICHELLE	(_hh_______________)
+
+NAT. VILA	Les autorités avaient du la laisser se consumer pendant deux jours car aucune échelle ni engin n'était capable de dépasser le trentième étage.
+
+FEMME 1	Tu t'en souviens?
+
+(BOUCLE 46 - 01:32:30:11)
+		46
+
+TOM	C'est pas vrai!
+
+JAMES	On doit s'en aller avant que ça devienne un autre Onze Septembre.
+
+NAT. VILA	La Tour UBX a été inauguré il y a à peine quelques semaines, ce qui veut dire que beaucoup de bureaux sont encore vides. C'est une bonne nouvelle pour les autorités qui auront moins de personnes à évacuer à cause de l'incendie.
+
+FEMME 1	C'est pas vrai.
+
+ADRIA	(_hh____________)
+
+BRIANNA	Le Onze Septembre, c'était des avions de ligne pleins de kérosène.
+
+BRIANNA	Ici, la situation est tout à fait différente.
+
+BRIANNA	Cet immeuble ne va pas s'effondrer.
+
+NAT. VILA	Pour atteindre les soixante étages de cette tour, il y a six ascenseurs et autant de cages d'escaliers, permettant ainsi aux pompiers d'intervenir plus facilement. Cependant, la fumée provenant du vingtième étage empêche les secours de progresser à l'intérieur.
+
+MICHELLE	Vous avez vu la taille de ces flammes!
+
+HOMME 2	(_hh__________)
+
+HOMME 3	Ouais!
+
+BRIANNA	Il y a des systèmes d'extinctions d'incendies partout dans l'immeuble.
+
+BRIANNA	La chose la plus sûre à faire, est de rester tranquillement ici pendant qu'ils maitrisent l'incendie.
+
+FEMME 1	Ca va?
+
+FEMME 2	(Mhmh)
+
+JAMES	Vous semblez bien sûre de l'efficacité de ce système.
+
+TOM	C'est son métier.
+
+TOM	Elle sait très bien de quoi elle parle.
+
+NAT. VILA	Nous venons d'apprendre, par le chef des pompiers, que la fumée qui se dégage au vingtième étage, est en train de se propager dans les étages supérieurs à grande vitesse.
+
+JAMES	Oui, ben moi, quand l'immeuble est en feu, je préfère en sortir!
+
+MICHELLE	Très bien, alors réfléchissons à la meilleure façon de sortir d'ici.
+
+HOMME 3	Je crois qu'il faut partir.
+
+HOMME 2	Moi aussi.
+
+JAMES	Je connais la meilleure façon.
+
+BRIANNA	La meilleure façon, c'est quoi?
+
+NAT. VILA	La propagation de cette fumée va sûrement rendre le travail de sauvetage plus difficile pour les pompiers dont la moitié ont été envoyés dans les quarante étages au-dessus de l'incendie pour aider les personnes à sortir de l'immeuble.
+
+(BOUCLE 47 - 01:33:06:07)
+		47
+
+JAMES	(h/___)Entre l'ascenseur, l'escalier ou rester...
+
+JAMES	La meilleure façon pour moi, c'est à coup sûr l'ascenseur!
+
+BRIANNA	Mais c'est une mauvaise idée.
+
+BRIANNA	Parce que vous ne savez pas du tout dans quel état sont les ascenseurs, ils peuvent être remplis de gaz mortel.
+
+NAT. VILA	Ce qui inquiète davantage les pompiers, c'est la composition de la fumée. Etant donné que l'incendie s'est déclenché dans la salle des machines, la fumée qui s'y dégage est potentiellement toxique.
+
+TOM	J'ai bien peur d'être de l'avis de ma femme.
+
+JAMES	Pour le Onze Septembre, les survivants sont ceux qui sont sortis les premiers.
+
+JAMES	Qui vient avec moi?
+
+HOMME 2	Allez, viens!
+
+NAT. VILA	Il est donc vivement conseillé aux personnes toujours présentes de descendre le plus rapidement dans les étages inférieurs afin d'éviter d'inhaler la fumée qui se propage dans les couloirs.
+
+HOMME 3	Oui, chérie, je sors.
+
+ADRIA	(_hh_)
+
+BRIANNA	Non, n'y allez pas.
+
+ADRIA	(_hh______________)
+
+NAT. VILA	Police secours a fait venir de nombreuses ambulances afin d'accueillir les personnes évacuées à la sortie de la tour. Les autorités sont toute-fois très inquiètes concernant le coeur de l'incendie qu'ils n'arrivent toujours pas à atteindre pour l'instant.
+
+MICHELLE	Quoi? Vous n'venez pas?
+
+ADRIA	(_hh____)
+
+BRIANNA	(h/___)
+
+TOM	(_hh________)
+
+TOM	Non.
+
+BRIANNA	Si vous devez partir, utilisez la cage d'escalier, elle a été conçu comme un refuge en cas de feu.
+
+MICHELLE	Descendre soixante étages à pied? Ca va prendre trop de temps!
+
+MICHELLE	Je vais tenter ma chance avec l'ascenseur!
+
+NAT. VILA	Les produits toxiques, émanant de la salle des machines et se propageant dans les étages, doivent être considérés comme extrêmement nocifs, et ne doivent pas être inhalés.
+
+(BOUCLE 48 - 01:33:53:22)
+		48
+
+TOM	(_hh__________)
+
+BRIANNA	(h->____________)
+
+BRIANNA	S'il vous plaît, non!
+
+NAT. VILA	Si vous venez de nous rejoindre, nous sommes devant la Tour UBX dans laquelle un incendie s'est déclaré au niveau de la salle des machines au vingtième étage. Les pompiers tentent d'évacuer l'immeuble mais une épaisse fumée toxique les empêche d'avancer dans les couloirs.
+
+ADRIA	(h/_)Je suis désolée.
+
+BRIANNA	(h/_______)
+
+NAT. VILA	Les autorités sont en train d'examiner toutes les personnes...
+
+(BOUCLE 49 - 01:34:14:09)
+		49
+
+AMB	(LEGERE AMB PANIQUE________)
+
+JAMES	Allez! Vite, vite!
+
+ADRIA	(_hh_hh_____________________________________________________)
+
+AMB	(AMB BOUSCULADE___________________)
+
+(BOUCLE 50 - 01:34:33:14)
+		50
+
+PAUL	(h/___)Adria?
+
+PAUL	Où es-tu?
+
+ADRIA	Je suis au bureau.
+
+AMB	(BOUSCULADE______)
+
+ADRIA	Tout le monde est en train de prendre l'ascenseur.
+
+PAUL	Quoi? Qu'est-ce que t'as dit?
+
+ADRIA	Tout le monde prend l'ascenseur, est-ce que je vais avec eux?
+
+PAUL	Surtout pas, ne prend pas l'ascenseur, c'est trop dangereux, prend l'escalier, d'accord!
+
+ADRIA	Non, c'est pas vrai.
+
+ADRIA	Ne prenez pas...
+
+JAMES	Désolé l'ascenseur est plein! Prenez le prochain.
+
+ADRIA	NON!
+
+PAUL	(_hh_)
+
+PAUL	(urh____)
+
+ADRIA	(_hh________________________________)
+
+ADRIA	(_hh________________)
+
+(BOUCLE 51 - 01:35:03:21)
+		51
+
+NAT. VILA	Nous avons demandé à notre spécialiste de commenter l'incendie. Il se dit plutôt inquiet car l'incendie devrait être éteint à cette heure-ci.
+
+TOM	(h/____)
+
+TOM	(ff->____)
+
+NAT. VILA	Normalement, cet immeuble devrait avoir un système d'extinction d'incendies ultra sophistiqué, ce qui remet justement en question la construction même de cet immeuble ainsi que les éléments de sécurité utilisés.
+
+TOM	Salut Ben.
+
+BRIANNA	(mh/_____)
+
+NAT. VILA	Nous avons essayé de contacter la société de construction de cet immeuble, présidé par Lucas Beaumont,
+
+TOM	Quoi?
+
+TOM	Où ça?
+
+BRIANNA	Qu'est-ce qu'il y a?
+
+TOM	Attend.
+
+TOM	Quel étage?
+
+NAT. VILA	(h/_)mais personne n'a voulu nous parler.
+
+TOM	Quel étage, dis-moi?!
+
+NAT. VILA	Un expert en sécurité nous a expliqué que, normalement, des portes coup-feu doivent être installés à chaque étage afin de contenir l'incendie et de permettre aux pompiers d'évacuer les gens tout en maitrisant le feu.
+
+BRIANNA	Mais qu'est-ce qui se passe?
+
+TOM	Une seconde, Ben.
+
+TOM	Ils sont ici.
+
+BRIANNA	Comment ça? Quoi, ici?
+
+BRIANNA	Ici, dans l'immeuble?
+
+TOM	Oui, dans l'immeuble, coincé dans un ascenseur.
+
+BRIANNA	Ils sont à quel étage?
+
+TOM	J'en sais rien, près de l'incendie.
+
+BRIANNA	Mais ils sont au-dessus ou au-dessous?
+
+NAT. VILA	Certains spécialistes sont persuadés que cet immeuble ne répond pas aux normes de sécurité en vigueur dans l'Union Européenne et demande que la lumière soit faite.
+
+TOM	Je sais pas!
+
+BRIANNA	Donne moi le téléphone. Donne moi ce téléphone!
+
+TOM	(mh/__)
+
+(BOUCLE 52 - 01:35:46:01)
+		52
+
+BRIANNA	(h/___)
+
+BRIANNA	Ben, chéri,
+
+TOM	(h->__________)
+
+BRIANNA	(h/_)Dis moi à quel étage t'es coincé.
+
+BRIANNA	Il devrait y avoir un numéro dans l'ascenseur.
+
+BRIANNA	Tu vois un numéro?
+
+BEN	(_uh_uh_uh______)
+
+BEN	Non.
+
+BEN	Le dernier numéro que j'ai vu avant que tout s'éteigne, c'était vingt.
+
+BEN	On devrait être juste en dessous du vingtième étage.
+
+BEN	Il y a un homme qui nous a entendu taper. Il a réussi à ouvrir les portes, mais il toussait à cause de la fumée et il est parti chercher de l'aide.
+
+REPONDEUR F	Merci pour votre appel. Toutes nos lignes sont occupées...
+
+NAT. VILA	Si vous venez de nous rejoindre, un incendie s'est déclaré au vingtième étage
+
+BRIANNA	Bon, écoute moi, j'ai besoin que tu prennes ton T-shirt et que tu le places sur ta bouche. Je veux que tu dises à ta soeur de prendre son T-shirt et de le placer sur sa bouche et sur son nez. Vous devez respirer à travers vos T-shirts!
+
+(BOUCLE 53 - 01:36:23:08)
+		53
+
+BEN	Compris!
+
+BEN	Non, utilise ton T-shirt, met-le sur ton nez.
+
+ANNE	(_hh_hh__________________)
+
+BEN	(_hh_hh__________________)
+
+NAT. VILA	( repiquer ___________ultra sophistiqué____________________________________________)
+
+TOM	(h/_____)
+
+TOM	Non, c'est pas vrai.
+
+TOM	(_hh______________)
+
+(BOUCLE 54 - 01:36:37:11)
+		54
+
+AMB	(RADIO POLICE INDISTINCT_________________)
+
+AMB	(+ LEGERE AMB FOULE_________________)
+
+AMB	(RADIO POLICE INDISTINCTE____________________________)
+
+LT. JEANNE	Il y a une douzaine de personne coincés dans un ascenseur, chef.
+
+LT. JEANNE	Ils sont en train de descendre du soixantième étage.
+
+CAPT. FREDERICK	Il va falloir qu'on les fasse sortir en priorité.
+
+CAPT. FREDERICK	Allez les attendre. Merci.
+
+(BOUCLE 55 - 01:37:11:02)
+		55
+
+AMB	(LEGER BROUHAHA MANQUE D'AIR___)
+
+VIEUX ASC	(_hh______________________________________________________________________________)
+
+JAMES	(_hh_)
+
+MICHELLE	(BF_h/_____________h->______)
+
+JAMES	Quel dommage.
+
+JAMES	(_hh_hh________________________________________________________________________________________)
+
+FEMME 2	(_hhh______________________________)
+
+MICHELLE	(mmhmm_)
+
+MICHELLE	Ils disent qu'il faut arrêter l'ascenseur et prendre l'escalier.
+
+JAMES	N'importe quoi.
+
+FEMME 2	(fff->________hh_______)
+
+MICHELLE	La capacité maximale est de huit.
+
+JAMES	Du calme!
+
+JAMES	On va s'en sortir.
+
+JAMES	On descend toujours.
+
+(BOUCLE 56 - 01:37:43:24)
+		56
+
+VIEUX ASC	(_Mhm__tousse_tousse_tousse_tousse_)
+
+AMB	(AMB____________)
+
+MICHELLE	(nez_h/___)
+
+MICHELLE	Ca sent la fumée, non?
+
+AMB	(AMB tousse / mal à respirer)
+
+MICHELLE	(nez_h/___)
+
+MICHELLE	Elle nous a dit que la fumée était mortelle!
+
+VIEUX ASC	(_tousse_tousse_tousse_)
+
+MICHELLE	(_tousse_tousse_)
+
+AMB	(TOUT LE MONDE TOUSSE)
+
+JAMES	Couvrez vous la bouche.
+
+JAMES	Allez; dépêchez-vous!
+
+JAMES	(h/___)
+
+JAMES	(_mmhh____tousse_____________________________________________________________________________________________)
+
+MICHELLE	Au secours.
+
+MICHELLE	A l'aide!
+
+HOMME 3	(_tousse__________)
+
+MICHELLE	Au secours!
+
+FEMME 2	(_ahh__tousse___________)
+
+NAT. VILA	Pour l'instant, nous ne savons pas exactement combien il y a de morts et ni de blessés causés par cet incroyable incendie ici à la Tour UBX.
+
+(BOUCLE 57 - 01:38:30:11)
+		57
+
+NAT. VILA	Mais une chose dont on est sûr, c'est qu'il y a au moins une douzaine de personnes prisonnier d'un ascenseur,
+
+NAT. VILA	(h/__)résultant de la destruction des systèmes électriques par l'incendie.
+
+(BOUCLE 58 - 01:38:47:17)
+		58
+
+CAPT. FREDERICK	(h/_)Il y a une fuite massive de gaz au sous-sol.
+
+AMB	(RADIO POLICE INDISTINCTE
+
+CAPT. FREDERICK	Il faut élargir le périmètre de sécurité.
+
+CAPT. FREDERICK	Allez-y.
+
+CAPT. FREDERICK	(_hh______________________)
+
+CAPT. FREDERICK	Allez chercher le dosimètre.
+
+CAPT. FREDERICK	Il faut savoir ce qu'il y a dans l'air!
+
+LT. NICK	Oui, mon Capitaine.
+
+LT. JEANNE	Lieutenant Jeanne au camp de base.
+
+CAPT. FREDERICK	J'écoute Lieutenant.
+
+CAPT. FREDERICK	Qu'est-ce qui se passe avec l'ascenseur.
+
+LT. JEANNE	Désolée mon Capitaine, on n'a pas pu déverrouiller le système.
+
+LT. JEANNE	On a du monter à pied.
+
+LT. JEANNE	Mais... c'était trop tard.
+
+CAPT. FREDERICK	Comment ça, c'était trop tard.
+
+LT. JEANNE	Ils sont tous morts.
+
+CAPT. FREDERICK	(tsk)
+
+CAPT. FREDERICK	J'arrive, ne bougez pas.
+
+(BOUCLE 59 - 01:39:21:08)
+		59
+
+NAT. VILA	D'après nos renseignements, la Tour UBX a été construite par un groupe international, spécialisé en capital à risque présidé par Lucas Beaumont.
+
+BEAUMONT	(_hh_____________________________________________)
+
+BEAUMONT	(_hh_)Qu'est-ce qu'on doit faire, Eric?
+
+NAT. VILA	Les autorités sont déjà en train de spéculer sur le fait que les normes de sécurités n'auraient pas été respectés lors de la construction. Ceci remet directement en cause tout le système d'inspections de travaux finis.
+
+BEAUMONT	Une fois que les pompiers ont maitrisé le feu, on fait quoi?
+
+STEELE	Vous devez surtout garder votre calme.
+
+STEELE	Sinon, vous pouvez expliquer à la télé votre point de vue sur les normes de sécurité!
+
+BEAUMONT	(_hh_____)
+
+BEAUMONT	Qu'est-ce que vous proposez?
+
+STEELE	(_hh_______)
+
+NAT. VILA	Ils sont d'ailleurs actuellement en train de rechercher les documents sur l'immeuble.
+
+STEELE	J'appelle mon pilote d'hélico.
+
+BEAUMONT	(_hh_______)
+
+NAT. VILA	Nous avons essayé de contacter les représentants de la société de construction, mais personne n'a voulu répondre à nos questions. Ici Natasha Vila, en direct de la Tour UBX, à Anvers.
+
+STEELE	Salut, c'est Eric, écoute, j'ai besoin d'un coup d'main.
+
+BEAUMONT	(_hh____________________)
+
+STEELE	Dès que possible.
+
+BEAUMONT	(_hh______________)
+
+BEAUMONT	(_hh___________)
+
+(BOUCLE 60 - 01:39:58:22)
+		60
+
+STEELE	(_hh_________________________)
+
+STEELE	(h->________)
+
+STEELE	Dans vingt minutes, il est là.
+
+BEAUMONT	(_hh___________)
+
+STEELE	Lucas!
+
+STEELE	On doit détruire les documents.
+
+STEELE	Vite!
+
+BEAUMONT	(_hh__________)
+
+STEELE	(_hh______________)
+
+BEAUMONT	(_hh___________)
+
+STEELE	(_hh___________________)
+
+BEAUMONT	(_hh_hh____________________________)
+
+STEELE	Il faut rien oublier.
+
+STEELE	(_hh____________________________________)
+
+(BOUCLE 61 - 01:41:10:16)
+		61
+
+TOM	Ta mère et moi, on va vous sortir de là, d'accord?
+
+BRIANNA	Tout va bien se passer.
+
+BEN	D'accord.
+
+TOM	Anne, est-ce que tu m'entends?
+
+ANNE	(h/__)Oui, je t'entends papa.
+
+ANNE	(_hh__)Le téléphone a bientôt plus de batterie.
+
+TOM	Il vous reste combien?
+
+BEN	Il reste seize pourcent.
+
+TOM	D'accord, il faut économiser ce qui reste.
+
+TOM	Je vais raccrocher, c'est compris?
+
+TOM	Et on vous rappelle dès qu'on a trouvé une solution.
+
+ANNE	Nooon!
+
+BEN	(h/___)Ne raccroche pas, papa, s'il te plaît!
+
+TOM	Vous avez confiance en moi, n'est-ce pas?
+
+BEN	Oui.
+
+TOM	Alors crois-moi quand je te dis que tout va bien se passer.
+
+BRIANNA	(_hh_hh________________)
+
+TOM	Je vais raccrocher.
+
+BEN	Oui, d'accord.
+
+ANNE	D'accord, papa.
+
+BRIANNA	Je vous aime!
+
+BRIANNA	Tous les deux.
+
+BRIANNA	Et surtout ne vous inquiétez pas, ça va aller.
+
+ANNE	Je t'aime maman!
+
+BEN	Moi aussi.
+
+(BOUCLE 62 - 01:41:49:15)
+		62
+
+TOM	(h/___h->____)
+
+TOM	(mh/__)
+
+ANNE	(_hh_____________)
+
+ANNE	(_tousse_tousse_)
+
+ANNE	(_hh_hh_________________)
+
+BEN	(_tousse_______________tousse___tousse_______)
+
+ANNE	(_tousse_tousse_)
+
+BRIANNA	(h/___)je déteste faire ça.(_h->__)
+
+TOM	(h/_)
+
+TOM	Faire quoi? De quoi tu parles?
+
+BRIANNA	Je déteste devoir leurs mentir.
+
+TOM	(OH!_)Maintenant ça te pose un problème de mentir.
+
+BRIANNA	Ca suffit à la fin!
+
+BRIANNA	Je veux, je veux que tu t'arrêtes maintenant!
+
+TOM	(_hh_________________________)
+
+BRIANNA	(h/_______h->______________)
+
+BEN	(_tousse_tousse_tousse_)
+
+BEN	(BF_tousse_)
+
+ANNE	(_hh_)
+
+ANNE	Tout va bien s'passer...
+
+ANNE	n'est-ce pas?
+
+BEN	Oui.
+
+BEN	Evidemment.
+
+ANNE	(_hh____________)
+
+BEN	Viens là.
+
+ANNE	(_hh_________________________________________)
+
+BEN	Ca va aller.
+
+BEN	(BF_hm->__)
+
+BEN	(_hh_hh___________________________________________)
+
+(BOUCLE 63 - 01:42:38:13)
+		63
+
+BRIANNA	Allez, viens! Viens m'aider à ouvrir l'ascenseur.
+
+TOM	(_hh_hh_________________________________)
+
+BRIANNA	(Rhh->__)
+
+BRIANNA	Allez.
+
+BRIANNA	(_hh________efforts__)
+
+TOM	(_efforts_)
+
+TOM	(_efforts____________________________________________________________________________)
+
+BRIANNA	(_efforts____________________________________________________________________________)
+
+TOM	(Oh, )c'est pas vrai!
+
+TOM	(_hh_hh___________________)
+
+BRIANNA	Ben!
+
+BRIANNA	BEN!
+
+TOM	Bon, voilà.
+
+TOM	Je prends l'escalier.
+
+BRIANNA	(_hh_)
+
+BRIANNA	Mais non, ils sont au vingtième, nous on est au soixantième,
+
+BRIANNA	c'est,(_h/__)
+
+BRIANNA	non, ça va prendre trop longtemps!
+
+BRIANNA	(_h/__________)
+
+TOM	(_hh_hh_____h->____)
+
+BRIANNA	(h->____)
+
+TOM	C'est eux.
+
+TOM	Allô?
+
+BEN	Papa, y'a beaucoup de fumée.
+
+ANNE	(_hh_hh_____________)
+
+BEN	(h/___)C'est super difficile de respirer.
+
+ANNE	(_tousse_tousse__)
+
+(BOUCLE 64 - 01:43:27:19)
+		64
+
+PAUL	Le feu a commencé au vingtième dans la salle des machines.
+
+CAPT. FREDERICK	Ca a du bien se propager si les extincteurs ne se sont pas déclenchés.
+
+PAUL	(h/__________)
+
+CAPT. FREDERICK	Vous avez coupé le courant?
+
+PAUL	Non.
+
+CAPT. FREDERICK	Envoyez quelqu'un le couper, on n'a plus besoin d'accidents.
+
+PAUL	On fait quoi pour les ascenseurs?
+
+CAPT. FREDERICK	(h->__)On les fait tous descendre,
+
+CAPT. FREDERICK	et vite!
+
+(BOUCLE 65 - 01:43:45:06)
+		65
+
+ADRIA	(_hh_hh_______________________________uh!__)
+
+ADRIA	(_hh__hh_________)
+
+ADRIA	(_hh_hh____)
+
+HOMME ESC	Il y a de la fumée, on peut pas descendre!
+
+ADRIA	(Ah!)
+
+ADRIA	(_hh_)
+
+ADRIA	(_hh_hh___________)
+
+ADRIA	(Oh_)non!
+
+ADRIA	(_hh____)
+
+ADRIA	(UH!)
+
+ADRIA	(_hh_hh_)
+
+ADRIA	(_hh___panique_________________________________________)
+
+(BOUCLE 66 - 01:44:13:23)
+		66
+
+ANNE	(_hh__tousse__________________hh____________________________)
+
+BEN	(_hh__tousse_______________)
+
+BEN	Papa, dépêche toi!
+
+BEN	La fumée est vraiment très épaisse!
+
+TOM	Ecoute, gardez vos T-shirt devant vos visages.
+
+BEN	(_hh_______________________)
+
+TOM	Respirez à travers vos T-shirts.
+
+BEN	Oui, on le sait, c'est ce qu'on fait!
+
+ANNE	(_hh_hh_______________)
+
+BRIANNA	Ben, Anne,
+
+BRIANNA	au dessus de vous, il y a une trappe derrière les lumières, est-ce que vous la voyez?
+
+ANNE	(_hh________________________)
+
+BEN	(_hh_tousse__________)
+
+BEN	Oui.
+
+BRIANNA	Tu arrives à l'atteindre?
+
+ANNE	(_tousse____tousse___tousse___)
+
+BEN	Attend, tiens moi ça.
+
+ANNE	(__hh_______________________________________________________)
+
+BEN	Merci.
+
+BEN	(_hh_________________)
+
+BEN	(uh__)
+
+BEN	(Arh__)
+
+ANNE	(_tousse______)
+
+BEN	(_hh_____________________________________________________)
+
+ANNE	(_hh_hh______________________________)
+
+BEN	(_hh_tousse____tousse___hh__________)
+
+BEN	(_hh_____Ahh!_______________)
+
+BEN	(_hh_hh________________________________)
+
+(BOUCLE 67 - 01:44:51:10)
+		67
+
+ANNE	(_hh____________________________)
+
+BEN	(_hh___________)
+
+BEN	C'est trop haut et en plus la rambarde est super glissante!
+
+BRIANNA	(h/___mts_)
+
+BEN	(_hh_____)
+
+BRIANNA	Ben, la fumée est empoisonnée.
+
+TOM	(_hh_______)
+
+BRIANNA	(h/_)
+
+BRIANNA	Vous devez trouver une façon de sortir de l'ascenseur dès que possible, tu comprends?
+
+TOM	(h/_______)
+
+ANNE	(_hh__________tousse__)
+
+TOM	(_hh________)
+
+BEN	Oui!
+
+BRIANNA	Alors, trouve une façon de sortir de là!
+
+BEN	On arrive pas à l'atteindre!
+
+BRIANNA	Et si Anne grimpe sur tes épaules, est-ce qu'elle peut l'atteindre?
+
+ANNE	(_hh______________)
+
+BEN	(Uh___)Oui, je crois.
+
+BRIANNA	Elle doit ouvrir la trappe pour que l'air entre!
+
+BEN	(uh___)ouais, on peut, on peut toujours essayer.
+
+BRIANNA	Non, Ben, tu dois réussir à l'ouvrir!
+
+TOM	Ben, t'écoutes ce que ta mère te dit, t'as entendu?
+
+BEN	Oui, oui, mais elle est lourde.
+
+BEN	(tousse)
+
+TOM	(h/_)
+
+TOM	Ben, écoute-moi, tu vas y arriver!
+
+TOM	J'ai confiance en toi!
+
+TOM	Vous devez travailler ensemble.
+
+TOM	(_hh___________)
+
+(BOUCLE 68 - 01:45:30:17)
+		68
+
+BEN	D'accord... d'accord, on y va!
+
+TOM	Tu m'entends? Tu vas y arriver!
+
+ANNE	(tousse_)
+
+ANNE	(_hh___tousse_tousse_____tousse_tousse___)
+
+BEN	Allez.
+
+BEN	Ca va aller.
+
+BEN	(_tousse_tousse_)
+
+BEN	(_tousse__hh__)
+
+ANNE	(_tousse_)
+
+BEN	Allez!
+
+ANNE	(Uh)
+
+ANNE	(uh)
+
+BEN	Allez!
+
+ANNE	J'y arrive pas, Ben!
+
+BEN	Mais si tu vas y arriver! Allez!
+
+BEN	Tu dois y arriver!
+
+BEN	(_hh_______urhhhh_)
+
+ANNE	(_hh________________)
+
+BEN	(yi-hah!_)
+
+BEN	(_hh_)
+
+BEN	(_hh_hh______________)
+
+BEN	Allez.
+
+BEN	(_hh_)
+
+BEN	(_hh___________)
+
+ANNE	(_hh_hh___________)
+
+ANNE	(_tousse_tousse_)
+
+BEN	Pousse aussi fort que possible!
+
+ANNE	(_mmmmm______)
+
+BEN	Allez, pousse!
+
+ANNE	(_tousse_tousse_)
+
+BEN	Pousse!
+
+ANNE	(mmhah/____)
+
+BEN	Pousse!
+
+ANNE	(rhhh_________________________________)
+
+BEN	(_hh_hh_)
+
+BEN	(_tousse_tousse_tousse_)
+
+ANNE	(_hh____)
+
+ANNE	(_tousse_tousse_)
+
+BEN	Allez, vas-y Anne, dépêche!
+
+ANNE	(_hh_hh________________)
+
+ANNE	(____tousse__)
+
+ANNE	(_rhhhh_______________)
+
+BEN	Oui, tu y es!
+
+BEN	Allez!
+
+ANNE	(_rhhh________)
+
+BEN	Ouais!
+
+(BOUCLE 69 - 01:46:15:11)
+		69
+
+TOM	(h/____h->____)
+
+BRIANNA	(h/__)Ouais.
+
+BEN	Ouais!
+
+TOM	(_hh_______)
+
+BEN	(_hh_hh____)
+
+ANNE	(_hh_____tousse_tousse___)
+
+ANNE	J'y arriverais pas.
+
+BEN	(_hh_hh_______)
+
+ANNE	(h/_______________)
+
+ANNE	Laisse-moi descendre.
+
+BEN	Non, attend, reste là haut.
+
+ANNE	(uh)
+
+TOM	(h/__)C'est pas vrai!
+
+BEN	Mais tu fais quoi? Tu dois grimper là haut.
+
+ANNE	Toi d'abord parce que j'arriverai pas à te hisser la haut.
+
+ANNE	Tu t'entraines avec maman, vas-y!
+
+TOM	(mh/_)
+
+ANNE	(_hh______________)
+
+BEN	D'accord.
+
+BEN	(_hh_hh_hh_________________)
+
+ANNE	(_tousse_tousse_tousse_)
+
+BEN	(h/__)D'accord.
+
+BEN	D'accord, j'y vais.
+
+BEN	(_hh_hh_____________________)
+
+ANNE	(_tousse_tousse_tousse_)
+
+ANNE	(_tousse_tousse_)
+
+BEN	(Arh!___)
+
+BEN	(_hh_hh___________________)
+
+ANNE	(_uhh_______________________)
+
+BEN	(_uhh_____uuhhh_____hh_____hh_______)
+
+BEN	(_hh____)
+
+ANNE	(_hh_____________)
+
+BEN	(_hh_hh_hh___________________)
+
+BEN	(_hh______uhh____uhhh__________)
+
+ANNE	(_tousse_)
+
+BEAUMONT	T'as réussi, Ben!
+
+(BOUCLE 70 - 01:46:56:07)
+		70
+
+BEN	(_hh_hh_hh__________)
+
+ANNE	(_hh_hh____________________)
+
+BEN	(_hh_hh____________________________)
+
+BEN	(_hh_hh______________________)
+
+ANNE	(_tousse_tousse_)
+
+BEN	(_hh_____h/___uh_____)
+
+BEN	(_h/_______h->__________)
+
+ANNE	(_hh_____________)Il a réussi!
+
+BRIANNA	(h/_______h->_____)
+
+TOM	(h/___)
+
+ANNE	(h/_____)
+
+ANNE	La batterie est presque vide; Y'a plus que huit pourcent!
+
+TOM	Tu dois raccrocher.
+
+TOM	On te rappellera, d'accord?
+
+TOM	(snif)
+
+TOM	(BF_hm->__)
+
+BRIANNA	(h/______)On a vérifié les ascenseurs côté nord, on va vérifier le côté sud.
+
+TOM	(_hh_hh______)
+
+TOM	(h->___)
+
+TOM	(h/____h->______)
+
+TOM	(_hh_____)
+
+BRIANNA	Allez, viens, dépêche.
+
+TOM	D'accord.
+
+(BOUCLE 71 - 01:47:28:04)
+		71
+
+BEN	(_hh_hh________________)
+
+BEN	(Oh, )non.
+
+BEN	(_hh___________________)
+
+BEN	(_hh_hh_____________________________________)
+
+ANNE	(Ahhh!______)
+
+BEN	Anne!
+
+BEN	Anne! Est-ce que ça va?
+
+ANNE	(_hh________)
+
+BEN	(_hh___)
+
+BEN	(Oh!_)
+
+BEN	(_hh_hh_____________________)
+
+BEN	(_tousse_)
+
+(BOUCLE 72 - 01:48:03:22)
+		72
+
+ANNE	(_tousse__________tousse_tousse__)
+
+ANNE	(AHH!__)
+
+ANNE	(_hh_hh________)
+
+BEN	Anne!
+
+ANNE	(_hh_____)
+
+ANNE	Tiens!
+
+ANNE	Prends ça!
+
+ANNE	(__uh___hh____uh_____hh____uh_____uh____uuh________)
+
+BEN	(_hh____uhh____________________________________________________)
+
+BEN	Allez, vas-y!
+
+ANNE	(uh!_)
+
+BEN	(uh!_)
+
+ANNE	(_hh___AHHH!_)
+
+ANNE	(_hh____________)
+
+BEN	Allez, Anne, il faut que tu montes tout de suite!
+
+ANNE	(_hh_____)
+
+ANNE	(__uh___uh___)
+
+ANNE	J'arrive pas à attraper!
+
+BEN	Utilise la rambarde!
+
+ANNE	(_hh__uh__hh___)
+
+ANNE	(huh!)
+
+BEN	Dépêche toi, je sais que tu vas y arriver!
+
+BEN	Fais-le pour maman et papa!
+
+ANNE	(_hh__uh__hh_________)
+
+(BOUCLE 73 - 01:48:41:03)
+		73
+
+ANNE	(_hh_____________________)
+
+BEN	Fais comme Spiderman!
+
+BEN	Oui, c'est ça!
+
+ANNE	(_hh______________________________)
+
+BEN	(_hh__)
+
+ANNE	(_hh________)
+
+ANNE	(_hh_______________)
+
+BEN	(_hh________________)
+
+BEN	(_hh______________)
+
+ANNE	(_hh________________________uh_________________________________)
+
+BEN	Allez, c'est bien.
+
+BEN	(_hh_hh_hh__________________________________)
+
+ANNE	(_hh_hh____________________)
+
+BEN	(_hh_hh__________________________________________________________________________________________)
+
+ANNE	(_hh_________________________________)
+
+TOM	(_hh_efforts__________________________________)
+
+BRIANNA	(_hh_efforts___________________________________)
+
+BRIANNA	Ben!
+
+BRIANNA	Ben!
+
+BEN	(_hh______________________)
+
+ANNE	(_hh_______________________)
+
+BEN	Maman!
+
+ANNE	Maman!
+
+BEN	(_hh_hh__________________________)
+
+ANNE	(_hh_hh_____________)
+
+BEN	Maman, on est là!
+
+ANNE	Maman!
+
+BEN	Maman!
+
+(BOUCLE 74 - 01:49:24:01)
+		74
+
+BRIANNA	Ils sont là! Ca va, ils vont bien.
+
+TOM	Ils sont là!
+
+TOM	(_hh_____hh_____hh_____hh______)
+
+BRIANNA	Il faut juste qu'on descende les retrouver.
+
+BRIANNA	Allez, pousse.
+
+TOM	T'es folle ou quoi?
+
+BRIANNA	Non, pousse la porte à fond.
+
+TOM	D'accord.
+
+TOM	(_hhmm____)
+
+TOM	(urh_______________________)
+
+BRIANNA	(urh______)
+
+BRIANNA	Allez.
+
+BRIANNA	(_hh_________________)
+
+ANNE	(_hh_________________)
+
+TOM	(urhhah!___________)
+
+BRIANNA	(Ahh______)
+
+TOM	(mmh/__)
+
+BRIANNA	(_hh_____________)
+
+TOM	Attend une seconde.
+
+BEN	(_hh_____________________)
+
+TOM	(_hh_______________)
+
+ANNE	(___tousse___tousse____)
+
+BEN	(_hh_____)
+
+BEN	Papa?
+
+BEN	Papa, j'ai du mal à t'entendre!
+
+ANNE	(_hh_______________)
+
+ANNE	Dis lui que l'ascenseur a pris feu!
+
+BEN	Papa, l'ascenseur a pris feu!
+
+TOM	(_hh_______________)
+
+BEN	L'ascenseur est en train de brûler!
+
+BRIANNA	(h/__)Eloignez vous du feu, trouvez une ventilation.
+
+TOM	Trouve une ventilation, vite!.
+
+BEN	Quoi?!
+
+TOM	Un conduit d'aération, c'est comme un passage d'air frais. Tu vois quelque chose qui y ressemble?
+
+(BOUCLE 75 - 01:50:05:07)
+		75
+
+BEN	(euh_)Oui, oui, je vois quelque chose.
+
+TOM	C'est bien!
+
+TOM	Evitez la fumée et allez près de la ventilation.
+
+BEN	Je sais pas du tout comment y arriver, c'est trop haut.
+
+ANNE	(h/___tousse_tousse_)
+
+TOM	(h/___)Je comprends Ben,
+
+TOM	ça va bien se passer.
+
+TOM	Mais je vais raccrocher pour économiser la batterie.
+
+ANNE	(_hh_________)
+
+TOM	Trouve comment arriver à cette ventilation.
+
+BEN	(_hh_)
+
+BEN	D'accord.
+
+TOM	(_hh_)
+
+TOM	(h/_)D'accord.
+
+TOM	(h->___)
+
+TOM	(h->____)
+
+TOM	(h/________________h->_______h/______)
+
+INSERT	(APPEL TERMINE)
+
+(BOUCLE 76 - 01:50:31:21)
+		76
+
+BEN	(h->___)
+
+ANNE	(_tousse_tousse_)
+
+BEN	(_hh____________)
+
+BEN	(_hh_______________________)
+
+ANNE	(_hh____________)
+
+BEN	(_uhhhh________)
+
+BEN	(_uhh__argh___)
+
+ANNE	Ouais bravo!
+
+BEN	(arhhh_____!)
+
+BEN	(arh!!___)
+
+ANNE	(_hh_)
+
+BEN	Je vais jamais réuissir à monter là haut!
+
+BEN	(h/______)
+
+BEN	J'essaie l'échelle.
+
+BEN	Je vais voir si elle est sûre, d'accord? Tu restes ici.
+
+BEN	(_hh_______________________________________)
+
+ANNE	(_tousse___tousse__)
+
+(BOUCLE 77 - 01:51:13:07)
+		77
+
+BEN	(_hh__________________________________________________)
+
+BEN	(__tousse___tousse___)
+
+BEN	(_hh________________________)
+
+ANNE	(_hh_________________________)
+
+BEN	(_hh_________________________________________________________)
+
+ANNE	(_hh________________)
+
+BEN	(_hh__________)
+
+BEN	(huh!_)
+
+ANNE	(_hh_________________)
+
+ANNE	(_hh______________)
+
+ANNE	(_hh___uh!___)
+
+ANNE	(_hh_hh_hh______________)
+
+ANNE	(_hh__________)
+
+ANNE	(mh/____)
+
+BEN	(_hh_______________________)
+
+ANNE	(_hh_________________)
+
+ANNE	(_hh_)
+
+ANNE	(h/__)
+
+(BOUCLE 78 - 01:51:49:12)
+		78
+
+BEN	Allez, Anne, à toi maintenant, viens.
+
+ANNE	(mh/__)Non, Ben, je peux pas!
+
+BEN	Il faut pas avoir peur, d'accord?
+
+BEN	On va essayer d'y aller doucement.
+
+ANNE	(_sanglote___________________________)
+
+(BOUCLE 79 - 01:52:01:02)
+		79
+
+CAPT. FREDERICK	On doit faire descendre tous les ascenseurs.
+
+CAPT. FREDERICK	On doit s'assurer que personne d'autre ne meure à cause de la fumée.
+
+PAUL	D'accord.
+
+(BOUCLE 80 - 01:52:18:11)
+		80
+
+BEN	Monte l'échelle jusqu'à ce que tu sois au même niveau que moi, d'accord?
+
+ANNE	(_hh_________)
+
+BEN	Je vais t'aider à traverser comme j'ai fait.
+
+BEN	Tu crois que tu peux faire ça pour moi?
+
+ANNE	(_hh_____________________________)
+
+PAUL	(_hh_______________________)
+
+(BOUCLE 81 - 01:52:36:02)
+		81
+
+ANNE	(_hh_________________)
+
+ANNE	(AHHH!)
+
+ANNE	(_hh___________)
+
+ANNE	BEN!
+
+BEN	ANNE!
+
+ANNE	BEN! BEN!
+
+ANNE	BEN!
+
+BEN	ANNE!
+
+BEN	NON!
+
+BEN	(_hh_hh_hh_hh_hh_hh_hh__________________)
+
+BRIANNA	(Oh, )non!
+
+TOM	Quoi?
+
+BRIANNA	Ils vont bloquer les ascenseurs au rez-de-chaussée.
+
+TOM	(_hh____________)
+
+TOM	(_hh_hh_hh________)
+
+BRIANNA	(Oh, )non.
+
+BRIANNA	(_hh_hh_hh_____________________________________________________________________________________)
+
+TOM	Attend, qu'est-ce que tu vas faire?
+
+BRIANNA	(UH!_)
+
+BRIANNA	(_hh_hh__________________________________________________________)
+
+BRIANNA	(_hh_hh_______________)
+
+(BOUCLE 82 - 01:53:22:24)
+		82
+
+TOM	(_hh_hh___________h->_____)
+
+TOM	T'es sûre de ce que tu fais?
+
+BRIANNA	C'est la seule solution.
+
+BRIANNA	(uuhhhh!)
+
+BRIANNA	(_hh_hh_______________________)
+
+BRIANNA	(h/___)Viens nous retrouver.
+
+TOM	(_hh_hh__________________________)
+
+BRIANNA	(Ahhhh!___)
+
+BRIANNA	(_hh_)
+
+TOM	(Argh->___)
+
+TOM	(_hh_hh_____________________________)
+
+(BOUCLE 83 - 01:54:31:09)
+		83
+
+BRIANNA	(Ffff__)
+
+BRIANNA	(Ahh_)
+
+BRIANNA	(_hh_)
+
+BRIANNA	BEN!
+
+BRIANNA	ANNE!
+
+BEN	Maman!
+
+BEN	Maman!
+
+BRIANNA	Ne bougez pas, je suis en train de descendre!
+
+BEN	Maman...
+
+BEN	Tu sais, Anne...
+
+BRIANNA	Ne bouge pas!
+
+BRIANNA	(AHHHH!_)
+
+BRIANNA	(Uh!)
+
+(BOUCLE 84 - 01:54:57:05)
+		84
+
+BRIANNA	(AHHH!)
+
+BEN	Ne lâche pas!
+
+BRIANNA	(Uhhh!_)
+
+BRIANNA	(_hh_hh_______________)
+
+BRIANNA	(_hh_hh__________________)
+
+BEN	(_hh_hh______________________)
+
+BRIANNA	(_uh!!__)
+
+BEN	Maman!
+
+BRIANNA	Pas maintenant, Ben, attend une seconde.
+
+BRIANNA	(_uuhh__)
+
+BRIANNA	(UH!)
+
+BEN	Maman, non, tu vas tomber!
+
+BRIANNA	S'il te plait, ne dis rien! Laisse-moi...
+
+BRIANNA	(_hh_hh_hh__)
+
+BRIANNA	Laisse-moi me concentrer.
+
+BEN	(_hh_hh___)
+
+BRIANNA	Bon, alors...
+
+BEN	(_hh_hh_________________)
+
+BEN	(_hh_hh________________)
+
+BRIANNA	(_hh___AHH!___)
+
+BRIANNA	(_uhhh__)
+
+(BOUCLE 85 - 01:55:45:04)
+		85
+
+BEN	Maman...
+
+BEN	Maman, est-ce que ça va?
+
+BRIANNA	(h->____)Ouais!
+
+BRIANNA	(_hh_hh_)
+
+BRIANNA	Où est ta soeur?
+
+BEN	Elle est( euh_), elle est(_euh_)
+
+BEN	plus là!
+
+BRIANNA	(_hh_hh_________________)
+
+BRIANNA	Comment ça?
+
+BRIANNA	(h/___h->__)
+
+BRIANNA	Où est-ce qu'elle est?
+
+BRIANNA	Ben...
+
+BRIANNA	BEN!
+
+BEN	Mais... j'en sais rien! Elle(_euh_)
+
+BEN	quand les ascenseurs sont descendus, elle était sur le toit.
+
+BEN	Elle... elle est descendu avec...
+
+BEN	(_hh____)Tu crois qu'elle va bien?
+
+BRIANNA	(h/____h->_______)
+
+BRIANNA	(h/__________h->______________)
+
+BRIANNA	(_hh_hh______________)
+
+BRIANNA	Oui...
+
+BEN	(_hh_hh_______________________)
+
+BRIANNA	Elle va s'en sortir, tu verras.
+
+BRIANNA	T'inquiète pas...
+
+BRIANNA	(h/_____h->__________)
+
+BRIANNA	(h->______)
+
+(BOUCLE 86 - 01:56:45:00)
+		86
+
+ANNE	(_tousse_tousse_)
+
+ANNE	(_hh_hh_hh________________________________)
+
+ANNE	(_hh___ARHHH!___)
+
+ANNE	(ARHHH!_)
+
+ANNE	(Aïe!)
+
+ANNE	(Ah___)
+
+ANNE	(_hh_hh________)
+
+ANNE	(Ah_)
+
+ANNE	(_hh_)
+
+ANNE	(Ohh__)
+
+ANNE	(h->___)
+
+ANNE	(Uhh_)
+
+ANNE	(uh___)
+
+ANNE	(uhh___)
+
+ANNE	(ohh___)
+
+ANNE	(arh__)
+
+ANNE	(_hh___)
+
+(BOUCLE 87 - 01:57:23:18)
+		87
+
+ANNE	Y'a quelqu'un?
+
+ANNE	Est-ce qu'il y a quelqu'un?
+
+ANNE	(_hh_hh___________)
+
+ANNE	(_tousse_tousse_)
+
+ANNE	(_hh_hh_hh____)
+
+ANNE	Y'a quelqu'un?
+
+ANNE	Est-ce que quelqu'un peut m'aider?
+
+ANNE	S'il vous plait!
+
+ANNE	(_hh_hh________________)
+
+ANNE	Est-ce que quelqu'un m'entend?
+
+ANNE	(h->___)
+
+ANNE	(h->____________)
+
+(BOUCLE 88 - 01:58:09:00)
+		88
+
+AMB	(AMB FOULE)
+
+LT. NICK	Mon Capitaine.
+
+LT. NICK	L'équipe Alpha va atteindre le point d'origine dans quelques minutes.
+
+CAPT. FREDERICK	Très bien, Lieutenant.
+
+CAPT. FREDERICK	Comment se déroule l'évacuation?
+
+LT. NICK	Presque tout le monde est sorti de l'immeuble.
+
+CAPT. FREDERICK	Je compte sur vous!
+
+CAPT. FREDERICK	Jeanne, comment ça se passe au sol?
+
+LT. JEANNE	On a délimité la zone à cent mètres,
+
+LT. JEANNE	(h/_)
+
+LT. JEANNE	mais on n'arrive pas à maitriser la fuite de gaz au parking.
+
+CAPT. FREDERICK	(h->______)
+
+CAPT. FREDERICK	C'est qu'une question de temps avant que ça n'explose, Lieutenant!
+
+CAPT. FREDERICK	Vous devez vous assurer qu'il n'y a absolument personne aux sous-sols, compris?
+
+LT. NICK	Oui, chef!
+
+CAPT. FREDERICK	Parfait!
+
+CAPT. FREDERICK	Faisons pour le mieux.
+
+PAUL	Est-ce que les gens de Lando et Associés au soixantième étage sont tous sortis?
+
+LT. JEANNE	Il ne reste plus personne à l'intérieur.
+
+PAUL	(_hh__________________)
+
+PAUL	Heureusement.
+
+PAUL	(mh/__________________)
+
+(BOUCLE 89 - 01:58:54:17)
+		89
+
+ANNE	(_hh______________________________________________________________________________________)
+
+ANNE	(_tousse_tousse_tousse______)
+
+ANNE	(_hh_______________________)
+
+ANNE	(_Oh___!_Arh___)
+
+ANNE	(_ah__hh___________)
+
+(BOUCLE 90 - 01:59:20:19)
+		90
+
+BEN	(_hh______________________)
+
+BRIANNA	Ben?
+
+BRIANNA	(h->__)
+
+BRIANNA	Ben?
+
+BRIANNA	On n'peut pas rester ici.
+
+BRIANNA	Tu crois que tu arriverais jusqu'à moi?
+
+BEN	Non, je peux pas.
+
+BEN	(_h_)
+
+BEN	(_hh_)
+
+BEN	(_hh_________)
+
+BRIANNA	(_hh___________________________)
+
+(BOUCLE 91 - 01:59:44:18)
+		91
+
+TOM	(_hh_____cours + tousse________________________)
+
+TOM	(Oh, )non!
+
+TOM	(_hh____________)
+
+TOM	(BF_h->___)
+
+TOM	(_hh_hh_hh_hh_hh_hh______________________________________)
+
+TOM	Allez.
+
+TOM	Faut descendre en courant.
+
+TOM	Faut descendre en courant.
+
+TOM	(_hh_hh__________________)
+
+TOM	(_tousse_tousse_tousse__________________________________________________________________)
+
+TOM	(_tousse_tousse_tousse________________________________________________________________________________________________________________)
+
+TOM	(_Ahh!__ohh____!)
+
+TOM	(_tousse_tousse___________________)
+
+(BOUCLE 92 - 02:00:26:19)
+		92
+
+TOM	(_hh_hh_____________________________)
+
+TOM	(Huh!)
+
+TOM	(h->___)
+
+TOM	(_tousse_tousse______________________________________________________________________________________________________________________________________)
+
+TOM	(h->___________!)
+
+TOM	(h/__tousse_tousse_____)
+
+TOM	(h->__)Très mauvaise idée.
+
+TOM	(_hh_hh_hh_hh_hh_hh_____________)
+
+(BOUCLE 93 - 02:01:04:23)
+		93
+
+PILOTE HELICO H	Oscar Neuf-Neuf-Cinq, en approche de l'héliport UBX, problème de stabilité du à l'incendie.
+
+PILOTE HELICO H	Il faut dire à Monsieur Beaumont qu'on repart tout de suite.
+
+INSERT	(ATTENTION - SURFQCE CHAUDE)
+
+(BOUCLE 94 - 02:01:22:17)
+		94
+
+STEELE	D'accord.
+
+STEELE	L'hélico est là.
+
+BEAUMONT	J'ai presque fini.
+
+BEAUMONT	Qu'est-ce qui va les empêcher de trouver le corps de Madame Hoff dans les gravats?
+
+STEELE	On sera déjà loin si jamais ça arrive.
+
+STEELE	En plus...
+
+STEELE	avec de la chance, ils feront pas le rapprochement.
+
+BEAUMONT	On a failli réussir!
+
+STEELE	Oui, allons nous en.
+
+STEELE	Allez-y!
+
+TOM	(_hh______________________________________)
+
+STEELE	Allez, venez.
+
+TOM	(_hh________________)
+
+TOM	(Oh, )non!
+
+TOM	(Oh )non!
+
+TOM	(_tousse_tousse_tousse___________________)
+
+TOM	(_tousse_tousse_tousse________________________________________)
+
+(BOUCLE 95 - 02:02:13:07)
+		95
+
+TOM	(_tousse_tousse_tousse________________)
+
+TOM	(_tousse_tousse_tousse____________________________________________________)
+
+(BOUCLE 96 - 02:02:36:12)
+		96
+
+PILOTE HELICO H	Allez, vite! Montez! Montez!
+
+PILOTE HELICO H	Allez!
+
+BEAUMONT	(_hh__________________)
+
+PILOTE HELICO H	Il faut qu'on décolle rapidement. Attachez vous.
+
+BEAUMONT	(_hh_________________)
+
+STEELE	Allez, vite! Sortez nous d'ici!
+
+PILOTE HELICO H	Oscar Neuf-neuf-cinq, en départ de la Tour UBX pour l'aéroport d'Anvers. Demande autorisation...
+
+STEELE	Allez!
+
+PILOTE HELICO H	(Arhh____________!)
+
+STEELE	(_hh_hh_hh_hh_________________)
+
+STEELE	(Ah!)
+
+BEAUMONT	(Arhhh____!)
+
+PILOTE HELICO H	(Arhhhhh!)
+
+STEELE	(Arhhhh!___)
+
+BEAUMONT	(Ahhhh!_____)
+
+PILOTE HELICO H	On va s'écraser! (h/_)Je répète, on va s'écraser!
+
+(BOUCLE 97 - 02:03:25:15)
+		97
+
+CAPT. FREDERICK	Tout le monde à couvert!
+
+AMB	(AMB FOULE)
+
+AMB	(AMB FOULE PANIQUE)
+
+STEELE	(ARHHH!!!_________________________________________________________)
+
+PILOTE HELICO H	(Ahh!_________________________________________________)
+
+PILOTE HELICO H	(Ahh__)!
+
+STEELE	(ahh_____________________________!)
+
+BEAUMONT	(Ahhhhhhhhhh_)
+
+PILOTE HELICO H	(ahhh___________)
+
+(BOUCLE 98 - 02:03:48:19)
+		98
+
+CAPT. FREDERICK	(h/_____________)Noooooooooooon!
+
+CAPT. FREDERICK	(_hh_hh_hh_hh_hh_)
+
+(BOUCLE 99 - 02:04:34:13)
+		99
+
+LT. NICK	(_hh_hh_______)Il nous faut de l'oxygène!
+
+LT. JEANNE	Il était où?
+
+LT. JEANNE	Vous inquiétez pas, monsieur, on va vous aider.
+
+LT. JEANNE	On va vous laisser reprendre votre souffle, ensuite on va vous sortir d'ici.
+
+TOM	(_hh_hh______________)
+
+TOM	(_hh_hh____________)
+
+TOM	Allez...
+
+TOM	(_hh______hh___)
+
+LT. NICK	Non monsieur, laissez. Calmez vous, calmez-vous.
+
+LT. NICK	Tout va bien.
+
+TOM	(h/____)Non! Non!
+
+TOM	Non, arrêtez!
+
+TOM	Non!
+
+TOM	Non, non.
+
+TOM	(_hh_)Ma... femme et...
+
+TOM	enf...
+
+LT. NICK	Qu'est-ce que vous dites?
+
+TOM	(_tousse_)Ma femmes et les enfants...
+
+TOM	(_hh____)
+
+TOM	Ils sont... dans les cages d'ascenseurs.
+
+LT. JEANNE	Dans les cages d'ascenseurs?
+
+TOM	Ouais.
+
+TOM	(_hh_hh_)Allez, aidez-moi.
+
+(BOUCLE 100 - 02:05:22:01)
+		100
+
+TOM	On doit les retrouver.
+
+LT. JEANNE	Dans quelle cage?
+
+TOM	Je vais vous montrer.
+
+LT. NICK	Non, on doit vous évacuer!
+
+TOM	Non!
+
+TOM	Non, vous ne savez pas où ils sont!
+
+LT. NICK	Vous n'avez pas d'équipement...
+
+LT. NICK	et vous avez besoin qu'on vous soigne.
+
+TOM	Attendez...
+
+TOM	(h/__)c'est ma famille!
+
+LT. NICK	Vous pouvez les aider en nous laissant faire notre travail!
+
+TOM	(nez_h/_________________h/___)
+
+TOM	Non!
+
+TOM	(_hh_hh_______________)
+
+TOM	Je dois y aller!
+
+LT. JEANNE	On n'a pas le temps pour ça!
+
+LT. NICK	L'incendie est dans les murs.
+
+LT. NICK	Il est imprévisible et dangereux!
+
+LT. NICK	On ne pourra pas vous protéger.
+
+LT. NICK	Vous êtes sur de vous?
+
+TOM	J'en suis certain.
+
+TOM	Oui.
+
+TOM	On n'a plus beaucoup de temps.
+
+TOM	Ils sont aux alentours du vingtième étage,
+
+TOM	(h/__)dans la cage d'ascenseur sud.
+
+LT. NICK	On prend l'escalier.
+
+TOM	D'accord.
+
+(BOUCLE 101 - 02:06:31:01)
+		101
+
+LT. NICK	Passez vite!
+
+LT. JEANNE	C'était très courageux!
+
+LT. NICK	Et assez stupide!
+
+TOM	(_tousse_tousse_)
+
+LT. NICK	Vous avez dit "au vingtième étage"?
+
+LT. NICK	Plus que deux étages à descendre.
+
+LT. NICK	Allons-y, d'accord?
+
+LT. NICK	(_tousse_tousse_)
+
+LT. JEANNE	C'est chaud.
+
+LT. NICK	C'est le point d'origine.
+
+LT. NICK	Tout a dû se consumer déjà.
+
+(BOUCLE 102 - 02:07:24:17)
+		102
+
+TOM	(_tousse_tousse_)
+
+LT. JEANNE	Ils seraient dans quelle cage d'ascenseur?
+
+LT. JEANNE	Sud?
+
+TOM	Oui.
+
+LT. NICK	Attention!
+
+LT. JEANNE	(Ahhh!!___)
+
+LT. NICK	(Oh )non, Jeanne!
+
+LT. JEANNE	(Ahhh!!_____)
+
+LT. JEANNE	(Uh___)
+
+TOM	(mhuh!_)
+
+(BOUCLE 103 - 02:07:55:11)
+		103
+
+BRIANNA	(_hh_hh_____)
+
+BRIANNA	Ben, regarde moi!
+
+BRIANNA	Regarde moi!
+
+BEN	(_hh_hh_hh_hh__________________)
+
+BRIANNA	Ben, tu dois venir jusqu'ici.
+
+BEN	(h/_)J'arriverai pas, maman,(_h/_)je sais que j'y arriverai pas!
+
+BRIANNA	(uh__)
+
+BRIANNA	(_hh_hh_____________h->____)
+
+BRIANNA	(h/____________h->____________)
+
+BRIANNA	(h->__________)
+
+BRIANNA	(_hh_hh______________________________)
+
+(BOUCLE 104 - 02:08:22:18)
+		104
+
+BRIANNA	Ben...
+
+BRIANNA	(hé...)
+
+BRIANNA	Tu te souviens quand on était en vacances...
+
+BRIANNA	sur la côte?
+
+BRIANNA	Tu te souviens de la villa qu'on louait au bord de la falaise?
+
+BRIANNA	On pique-niquait sur la plage chaque jour,
+
+BRIANNA	et toi et Anne, vous adoriez jouer?
+
+BEN	(_hh_hh____________________________)
+
+BRIANNA	Tu t'en souviens?
+
+BRIANNA	Et il y avait deux gros rochers sur cette plage où on était.
+
+BRIANNA	Tu les trouvais tellement immenses.
+
+BRIANNA	En vrai, ils étaient pas si immenses que ça, juste plus gros que toi.
+
+BRIANNA	Tu te mettais debout sur l'un et je me mettais debout sur l'autre,
+
+BRIANNA	et je te tendais la main...
+
+BRIANNA	(_hh_hh________)
+
+(BOUCLE 105 - 02:08:58:24)
+		105
+
+BRIANNA	... et toi, tu te penchais pour l'attraper.
+
+BRIANNA	(h/_)Attrape ma main et saute vers moi!
+
+BRIANNA	Tu te souviens que Anne était toujours terrifiée,
+
+BRIANNA	mais toi, toi tu trouvais que c'était extrêmement amusant.
+
+BEN	Je la traitais de trouillarde.
+
+BRIANNA	Oui.
+
+BRIANNA	Elle avait peur que tu te fasses mal.
+
+BEN	Oui.
+
+BEN	t'as raison.
+
+BRIANNA	Allez.
+
+BRIANNA	Ben.
+
+BRIANNA	Allez...
+
+(BOUCLE 106 - 02:09:40:05)
+		106
+
+BRIANNA	(_hh________)
+
+BRIANNA	(_hh_hh_____________)
+
+BEN	(Ahhhhhhhhhhhh__________)
+
+BRIANNA	(AHH!__)
+
+BRIANNA	(Ahhh__hh___)
+
+(BOUCLE 107 - 02:10:17:21)
+		107
+
+BEN	(_hh_hh________________)
+
+BRIANNA	Ben!
+
+BRIANNA	Tiens bon!
+
+BEN	Me lâche pas!
+
+BEN	(_hh_hh__________)
+
+BEN	(OH )Non!
+
+BEN	(_hh_hh_______________________________)
+
+BRIANNA	(_hh_hh_____________)
+
+BRIANNA	(Ahh__________)
+
+BEN	J'arrive pas à atteindre l'échelle!
+
+BRIANNA	Si, tu peux y arriver!
+
+BEN	(_hh_hh__________)
+
+BEN	Non, c'est trop loin!
+
+BRIANNA	(Ahh->____)
+
+BEN	J'y arrive pas!
+
+BRIANNA	(Ah___)
+
+BEN	(_hh________________)
+
+BRIANNA	(_hh_____)
+
+BRIANNA	Ben!
+
+BEN	Maman, j'y arrive pas!
+
+BRIANNA	Allez!
+
+BEN	J'arrive pas!
+
+BEN	(_hh_hh__________________________________)
+
+BRIANNA	(_Ahhh_____ah______________)
+
+BEN	J'peux pas.
+
+BRIANNA	(Ahh!)
+
+(BOUCLE 108 - 02:10:50:12)
+		108
+
+TOM	(_hh___efforts_______)
+
+LT. NICK	(_hh_hh____________________________________________)
+
+BRIANNA	(Ahh__hh__hh_____)
+
+TOM	Brianna!
+
+TOM	(_hh_______________)
+
+TOM	Brianna!
+
+TOM	(_hh_______________)
+
+LT. NICK	(_hh_hh_______________________)
+
+BEN	Papa!
+
+TOM	C'est pas vrai!
+
+BRIANNA	(Ahhh!_)
+
+TOM	Ben!
+
+TOM	(_hh_hh_)
+
+TOM	Ben!
+
+BEN	(_hh_hh_________)
+
+TOM	Non, non!
+
+TOM	Allez, Ben, donne la main!
+
+LT. NICK	Prenons ça!
+
+BEN	Je tiens plus!
+
+TOM	Attend une seconde!
+
+BRIANNA	(AHh_______)
+
+TOM	Attendez!
+
+BEN	(_hh_hh____________________)
+
+TOM	(_hh_hh____________efforts__________________)
+
+LT. JEANNE	(Mmhh__________)
+
+BRIANNA	(Ahh___________)
+
+BEN	(_hh_h_____________________________)
+
+TOM	Allez! Poussez!
+
+BEN	(_hh_hh_____________________)
+
+TOM	(Arh__________arh___________________)
+
+BEN	(_hh_hh__________)
+
+(BOUCLE 109 - 02:11:28:15)
+		109
+
+TOM	(_hh____h/_______)
+
+BEN	(_hh_________________________________________________________)
+
+TOM	(_hh_hh__________________________)
+
+TOM	Je suis là!
+
+TOM	(_hh_____)
+
+TOM	Ben!
+
+BRIANNA	(arh___________)
+
+BEN	(_hh_hh_____________________________________)
+
+TOM	Ben!
+
+TOM	Allez, viens!
+
+TOM	(_hh_hh______)
+
+BEN	(_hh_hh_)
+
+BRIANNA	(Ahh!)
+
+TOM	(_hh_hh______)C'est bon!
+
+TOM	(_hh_hh___________)
+
+TOM	(_hh______)
+
+LT. NICK	(_hh_____________)
+
+TOM	(_hh_hh___)
+
+BEN	(_hh__hh___sanglots_______________________)
+
+TOM	Ben, t'es sauvé!
+
+TOM	(_hh_hh__________________________________)
+
+BRIANNA	(Ah!__)
+
+BRIANNA	(_hh_hh____)
+
+(BOUCLE 110 - 02:12:07:20)
+		110
+
+TOM	Ben,
+
+TOM	où est Anne?
+
+BRIANNA	(h/____)
+
+BRIANNA	Oh chéri!
+
+BEN	Maman!
+
+BRIANNA	Ben!
+
+TOM	Brianna, qu'est-ce qui est arrivé à Anne?
+
+BRIANNA	La dernière fois que Ben a vu Anne, elle se tenait aux câbles de l'ascenseur quand ils les ont fait descendre.
+
+LT. NICK	Ya plus de vingt étages jusqu'au sous-sol.
+
+BRIANNA	(mh/__)
+
+TOM	On doit descendre au sous-sol la retrouver.
+
+LT. NICK	Il est absolument interdit d'aller au sous-sol, y'a une énorme fuite de gaz.
+
+LT. NICK	Tout l'immeuble peut exploser d'une minute à l'autre.
+
+BRIANNA	Lieutenant, il faut qu'on la retrouve quoiqu'il en soit!
+
+LT. NICK	Il y a une fuite de gaz dans un immeuble en flammes. Est-ce que vous comprenez le danger, madame?
+
+LT. NICK	Il faut qu'on vous évacue tout de suite!
+
+LT. NICK	On enverra une équipe séparée pour la retrouver dès que la fuite sera maitrisée.
+
+BRIANNA	Ecoutez-moi bien, ma fille est au sous sol et je compte bien aller la retrouver.
+
+LT. NICK	Il n'y a aucun moyen d'y accéder, les étages inférieurs ont été condamnés.
+
+(BOUCLE 111 - 02:12:49:03)
+		111
+
+BRIANNA	Si, les cages d'ascenseurs.
+
+LT. NICK	Quoi?
+
+BRIANNA	Ma fille est en train de nous attendre au fond des cages d'ascenseurs,
+
+BRIANNA	(h/__)et je vais descendre la retrouver. Alors donnez-moi une corde et de l'oxygène,
+
+BRIANNA	et aussi une paire de gants tout de suite!
+
+LT. NICK	Vous êtes folle ou quoi, vous n'pouvez pas descendre vingt étage dans une cage d'ascenseur!
+
+TOM	Ecoutez-moi,
+
+TOM	ma femme fait de la varappe depuis qu'elle est petite,
+
+TOM	elle a grimpé le mont Eiger deux fois sans assistance.
+
+LT. NICK	Jeanne...
+
+LT. NICK	donnons lui ce qu'elle veut.
+
+LT. JEANNE	Oui, chef.
+
+BRIANNA	(mh/_________)
+
+BRIANNA	(_hh____)
+
+BRIANNA	Je t'aime Ben.
+
+BRIANNA	T'inquiète pas, je vais la retrouver.
+
+TOM	Chérie...
+
+BEN	Je sais...
+
+TOM	Tiens.
+
+(BOUCLE 112 - 02:13:28:06)
+		112
+
+TOM	Bonne chance.
+
+LT. NICK	Il y a des chances que la radio ne fonctionne pas en bas,
+
+LT. NICK	mais la balise fonctionnera.
+
+LT. NICK	Il y a cinquante mètres de corde,
+
+LT. NICK	Il y a environ quatre-vingt dix mètres jusqu'en bas.
+
+BRIANNA	Je comptais pas m'arrimer à l'immeuble.
+
+TOM	(h/____)
+
+BEN	(_hh_hh___________________)
+
+TOM	(_hh_hm_)
+
+TOM	(mh/____)
+
+TOM	ça va là?
+
+(BOUCLE 113 - 02:14:50:24)
+		113
+
+BEN	Tout ça, c'est ma faute.
+
+TOM	Non, t'as rien fait.
+
+TOM	C'est pas ta faute.
+
+BEN	Si. Rien de tout ça ne serait arrivé si on était pas venu te voir.
+
+TOM	Vous étiez venu pourquoi?
+
+BEN	On a trouvé la preuve que les photos de maman avec ce type étaient truquées.
+
+BEN	On venait te le dire.
+
+LT. NICK	Allez, venez,
+
+LT. NICK	on doit évacuer les lieux.
+
+BEN	(_hh_____________________________)
+
+TOM	(_hh_hh_________________________________________________________________h->_______)
+
+TOM	(_hh_hh________________)
+
+(BOUCLE 114 - 02:15:26:06)
+		114
+
+AMB	(BROUHAHA FOULE)
+
+CAPT. FREDERICK	Bien reçu.
+
+BEAUMONT	(_hh_hh_____________________________________)
+
+NAT. VILA	On voit qu'il y a un survivant après l'accident d'hélicoptère.
+
+NAT. VILA	Et je viens juste d'apprendre que le survivant est Lucas Beaumont, l'homme responsable de la construction de cette tour.
+
+NAT. VILA	Monsieur Beaumont a peut-être survécu l'accident mais il ne survivra sûrement pas à l'enquête sur la Tour UBX.
+
+(BOUCLE 115 - 02:15:56:16)
+		115
+
+POMPIER H	Mon capitaine,
+
+POMPIER H	on vient de trouver le corps d'une femme coulé dans le béton.
+
+CAPT. FREDERICK	Quoi, vous en êtes sûr?
+
+POMPIER H	Affirmatif, mon capitaine,
+
+POMPIER H	elle se trouve entre le rez-de-chaussée et le premier étage du parking.
+
+POMPIER H	Elle est dans le cratère que la chute du système d'air conditionné a créé devant l'accueil.
+
+CAPT. FREDERICK	C'est quoi cette histoire?
+
+POMPIER H	J'ai retrouvé ce badge, c'était sur le corps.
+
+CAPT. FREDERICK	Evelyne Hoff.
+
+CAPT. FREDERICK	Qui est-ce?
+
+NAT. VILA	Evelyne Hoff?
+
+NAT. VILA	C'est bien ce que vous avez dit?
+
+NAT. VILA	Elle a mystérieusement disparue il y a un an.
+
+CAPT. FREDERICK	Et vous savez ça comment?
+
+NAT. VILA	Quand même, c'est mon travail, et c'était au journal.
+
+NAT. VILA	Elle était inspectrice des normes de sécurité sur cette tour, et elle a disparue soudainement.
+
+BEAUMONT	(_h_hh__h__h_h___hhh__________________________________________)
+
+(BOUCLE 116 - 02:17:40:23)
+		116
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+BRIANNA	Anne, où es-tu?
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+(BOUCLE 117 - 02:18:46:13)
+		117
+
+BRIANNA	ANNE!
+
+BRIANNA	ANNE!
+
+(BOUCLE 118 - 02:18:53:18)
+		118
+
+LT. JEANNE	(_hh_hh_hh_hh___________________________________________)
+
+TOM	(_hh_hh_hh_hh___)On doit envoyer tout de suite une équipe pour les retrouver!
+
+LT. NICK	Pas le temps, on doit sortir de la zone d'explosion!
+
+TOM	Non, mais comment ça, il faut envoyer une équipe!
+
+LT. NICK	Le gaz peut s'enflammer à tout moment.
+
+LT. NICK	Vite, on doit se mettre à l'abri!
+
+TOM	Non attendez, ma femme et ma fille sont dans cet immeuble! Vous devez les sortir de là!
+
+LT. NICK	Ecoutez-moi!
+
+LT. NICK	Je n'peux rien faire pour votre femme et votre fille sans risquer la vie d'autres gens!
+
+TOM	Laissez-moi passer!
+
+BEN	Non!
+
+TOM	Lâchez-moi!
+
+TOM	Lâchez-moi!
+
+TOM	Ma femme et ma fille sont encore au sous sol!
+
+BEN	(_hh______________)
+
+TOM	Lachez-moi!
+
+(BOUCLE 119 - 02:19:30:08)
+		119
+
+ANNE	(uh->______)
+
+ANNE	(_hh___)
+
+BRIANNA	(h/____)Anne!
+
+BRIANNA	Anne!
+
+BRIANNA	(_hh_hh__________)
+
+BRIANNA	(_hh_hh___________________________________________________________)
+
+BRIANNA	(Ooh__)non!
+
+BRIANNA	(_hh_h___________________________________)
+
+BRIANNA	(_hh_hh__________)
+
+BRIANNA	Respire, ma chérie.
+
+BRIANNA	Respire...
+
+(BOUCLE 120 - 02:20:06:24)
+		120
+
+BRIANNA	Allez, respire!
+
+ANNE	(h/______________________!)
+
+BRIANNA	(Hoh!___________)
+
+BRIANNA	(Ahahahaha__________________)
+
+ANNE	(mhh__)
+
+BRIANNA	Je suis là!
+
+BRIANNA	Maman est là!
+
+ANNE	(_hh___h/_______)
+
+ANNE	(_hh_hh_hh_hh________________________________________________________________________________________)
+
+BRIANNA	C'est bien!
+
+BRIANNA	Respire, allez,
+
+BRIANNA	continue à respirer.
+
+BRIANNA	T'es géniale!
+
+ANNE	(_hh_hh_____________________________)
+
+BRIANNA	Si tu peux...
+
+BRIANNA	lève toi.
+
+BRIANNA	Assieds-toi.
+
+ANNE	(_hh_hh___________________________________________________________________________)
+
+ANNE	(_hh__________)
+
+BRIANNA	(X)
+
+BRIANNA	(h/____)T'as tout fait comme il faut.
+
+BRIANNA	(_hh_hh_)
+
+BRIANNA	(X)
+
+BRIANNA	T'as bien fait de te cacher ici.
+
+BRIANNA	(_sanglote______)
+
+BRIANNA	Je suis fière de toi, t'es vraiment très courageuse!
+
+BRIANNA	(h/____!)
+
+BRIANNA	C'est bien... continue à respirer.
+
+(BOUCLE 121 - 02:20:57:09)
+		121
+
+BRIANNA	(h/__)
+
+BRIANNA	Alors...
+
+BRIANNA	(h/_____)
+
+BRIANNA	Voyons...
+
+BRIANNA	(huh/___)
+
+BRIANNA	Anne, écoute-moi...
+
+BRIANNA	on doit absolument sortir d'ici,
+
+BRIANNA	ensemble, toutes les deux.
+
+BRIANNA	Aussi vite que possible!
+
+BRIANNA	(h/___m)
+
+BRIANNA	Tu comprends ce que je veux dire?
+
+BRIANNA	Il va falloir qu'on fasse vite.
+
+BRIANNA	Je vais enlever le masque,
+
+BRIANNA	d'accord.
+
+BRIANNA	On y va.
+
+BRIANNA	T'es prête?
+
+ANNE	(h/___!)
+
+BRIANNA	Allez.
+
+BRIANNA	Tu peux te lever?
+
+BRIANNA	Allez.
+
+BRIANNA	(h/___)On y va, c'est bien.
+
+BRIANNA	T'inquiète, je te tiens.
+
+BRIANNA	Je te tiens.
+
+BRIANNA	(X)
+
+(BOUCLE 122 - 02:21:44:03)
+		122
+
+AMB	(BROUHAHA FOULE__)
+
+TOM	Non.
+
+TOM	(_hh_hh__________________________________________)
+
+TOM	(_hh_hh______________________________________________________)
+
+TOM	(Uh!)
+
+BEN	(h/___)
+
+BEN	(_hh_)
+
+TOM	(_hh_)
+
+(BOUCLE 123 - 02:22:29:19)
+		123
+
+AMB	(BROUHAHA)
+
+TOM	(_hh_hh________________)
+
+TOM	(_hh________________)
+
+BEN	(_h/____________)
+
+BEN	Non!
+
+BEN	(_hh_)
+
+BEN	Maman! Non!
+
+TOM	Ben, arrête!
+
+AMB	(RADIO POLICE?_)
+
+TOM	(_hh_______________________)
+
+BEN	(_hh_sanglote______________________________________________________________________________________________________________)
+
+TOM	(_hh_hh__________________________)
+
+TOM	(_hh_hh____)
+
+TOM	Je suis désolé.
+
+TOM	Je suis tellement désolé.
+
+TOM	(snif)
+
+BEN	(_hh_____________sanglote______________________)
+
+TOM	(h/____)
+
+TOM	J'suis désolé.
+
+TOM	(_hh_hh___________________)
+
+(BOUCLE 124 - 02:23:09:17)
+		124
+
+TOM	(_hh_hh______________________)
+
+BEN	(_hh_______hh_____________hh___________)
+
+TOM	Ca va aller.
+
+TOM	(h/_____h->_____)
+
+BEN	Attend...
+
+BEN	Papa...
+
+TOM	Oui.
+
+BEN	(_hh_hh___________________)
+
+TOM	(_hh_hh________________________)
+
+TOM	(_hh____________________)c'est pas vrai!
+
+(BOUCLE 125 - 02:23:46:10)
+		125
+
+AMB	(BROUHAHA FOULE)
+
+BRIANNA	(_hh__hh___)
+
+TOM	(h/___)
+
+TOM	Bri-Brianna!
+
+TOM	Bri...
+
+TOM	Brianna!
+
+NAT. VILA	Allez, viens!
+
+NAT. VILA	Dépêche toi, vite!
+
+BRIANNA	(_hh_hh_hh____________)
+
+BEN	Anne! Maman! Vous êtes vivantes!
+
+ANNE	(_hh_______________________________________)
+
+BRIANNA	(_hh_hh___________________________)
+
+BEN	(_hh_hh_______________________)
+
+BRIANNA	(Ohho__________)
+
+BRIANNA	(_hh_hh_______________h/____)
+
+TOM	(Oh )merci!
+
+NAT. VILA	Je dois leur parler!
+
+BRIANNA	(mmm__________)
+
+TOM	J'ai cru qu'on vous avait perdues à tout jamais!
+
+BRIANNA	(_hh_hh_hh_hh___________)
+
+TOM	(_hh_hh_hh_hh___)
+
+TOM	(Hé!)
+
+TOM	(_hh_hh______________)
+
+BRIANNA	(X)
+
+BRIANNA	(mh/___hh____h->___hh___h___)
+
+TOM	(_hh_hh_________)
+
+BRIANNA	(h/__________h->_____________)
+
+TOM	J'ai jamais cessé de t'aimer ma chérie!
+
+BRIANNA	(h->_____)
+
+ANNE	(_hh_)
+
+BEN	(_hh_______)
+
+ANNE	(mh/_____)
+
+TOM	Je suis vraiment désolé pour tout ce que j'ai dit et fait,
+
+TOM	(h/____)
+
+TOM	(h->__)
+
+TOM	T'avais raison, t'as toujours eu raison.
+
+TOM	(h/______)
+
+TOM	Est-ce que tu m'pardonnes?
+
+BRIANNA	(Ah__mmmmm__)
+
+BRIANNA	(X)
+
+BRIANNA	(mmmmmmm_)
+
+BRIANNA	(X)
+
+(BOUCLE 126 - 02:24:39:17)
+		126
+
+ADRIA	Paul!
+
+ADRIA	(_hh_)
+
+ADRIA	Paul!
+
+PAUL	Adria!
+
+ADRIA	(_hh________)
+
+PAUL	(_hh_hh_)
+
+ADRIA	(_sanglote_________)
+
+PAUL	(mm______________)
+
+ANNE	Attend.
+
+BRIANNA	(_hh___)
+
+PAUL	(mm_)
+
+ANNE	Il voulait que je vous donne ceci.
+
+ANNE	(_hh________)
+
+PAUL	(haha_)
+
+ADRIA	(h->____)
+
+ADRIA	(Oh )merci.
+
+(BOUCLE 127 - 02:25:21:02)
+		127
+
+BRIANNA	(_hh_hh_____)
+
+TOM	(_haha_)
+
+TOM	Allez, venez.
+
+TOM	(_hh_____________________)
+
+BRIANNA	(mh/_____________)
+
+ADRIA	(_hh__________)
+
+TOM	(haha_)
+
+TOM	Ah, les jeunes.
+
+BRIANNA	(hmm)
+
+BRIANNA	Oui...
+
+BRIANNA	on n'a rien à leur envier.
+
+BRIANNA	(_hahaha_)
+
+TOM	(_hahaha_)

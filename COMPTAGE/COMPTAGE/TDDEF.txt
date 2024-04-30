@@ -1,0 +1,4570 @@
+TAKE DOWN VO TCI-H264
+09/05/2017
+
+(BOUCLE 1 - 01:00:40:05)
+		01
+
+AMB	(AMB FETE)
+
+BLACK CHAPEAU	Ouais, vas-y, encore un autre.
+
+MAN PLAGE 1	Hé, ça va mec?
+
+KYLE	Oui, bien, et toi?
+
+MAN PLAGE 1	Nickel!
+
+GIRL PLAGE 1	Salut Kyle!
+
+KYLE	Ca va mec?
+
+MAN PLAGE 2	Ouais!
+
+(BOUCLE 2 - 01:01:18:02)
+		02
+
+AMB	(AMB FETE CONTINUE)
+
+BARMAID	Salut Kyle, je te serre un shot?
+
+GIRL PLAGE 2	Hé, Kyle, t'es ici tout seul ce soir?
+
+MAN PLAGE 3	Non mais, tu fais quoi là?
+
+MAN PLAGE 3	Tu restes avec moi, compris?
+
+(BOUCLE 3 - 01:01:59:19)
+		03
+
+KYLE	Qui se pointe à une fête en écoutant sa musique?
+
+AMY	Quoi?
+
+KYLE	(_hh_____________)
+
+KYLE	Je disais: qui se pointe à une fête en écoutant sa musique?
+
+AMY	Je trouve ma musique meilleure!
+
+KYLE	Tu sais... si tu continues à te torcher à la vodka, t'entendras bientôt plus rien!
+
+AMY	Crois-moi,
+
+AMY	je serais jamais assez déchirée ce soir.
+
+AMY	(_h/_________________)
+
+AMY	(_h_______________)
+
+KYLE	J'ai quelque chose qui pourrait t'aider?
+
+(BOUCLE 4 - 01:02:33:21)
+		04
+
+AMY	Ce weekend, c'est mon dernier weekend de liberté pendant, genre trois mois.
+
+KYLE	(Puf)
+
+KYLE	(Fffff)
+
+KYLE	Ah ouais?
+
+KYLE	(Ffff)
+
+KYLE	Pourquoi?
+
+KYLE	(ffff)
+
+AMY	(Mmmm____)
+
+AMY	Ma mère a décidé de me punir.
+
+KYLE	Pourquoi?
+
+AMY	(fff__________FFFF_uh_)
+
+AMY	J'ai poignardé mon beau-père.
+
+AMY	(h/____mmhmm_)
+
+KYLE	(_hahaha_____________)
+
+KYLE	Ouais, c'est ça!
+
+AMY	(ffff_________________)
+
+AMY	(fff___hahhaha____________)
+
+KYLE	C'est pas drôle!
+
+AMY	C'était vraiment trop facile!
+
+AMY	(_hahah_)
+
+KYLE	Qui dit ce genre de chose?
+
+KYLE	T'es une vraie cinglée.
+
+AMY	(_haha_)
+
+KYLE	(_haha_)
+
+(BOUCLE 5 - 01:03:18:01)
+		05
+
+AMY	(_h/__)Désolée de te décevoir, mais
+
+AMY	(_ffff_________)
+
+AMY	j'suis saine d'esprit...
+
+AMY	(_fffff___)
+
+AMY	à l'inverse de ma mère qui a épouser le premier étranger venu qu'elle a rencontré après la mort de mon père en lui donnant les pleins pouvoirs.
+
+AMY	(h/_________________)
+
+AMY	Passons.(_hahaha___)
+
+AMY	(X)
+
+AMY	(X)
+
+AMY	(_ahahah_)
+
+AMY	(h/___________)
+
+AMY	J'm'appelle Amy au fait.
+
+KYLE	Amy...
+
+KYLE	et moi, c'est Kyle.
+
+AMY	(ffff______________)
+
+KYLE	Kyle Hartmann.
+
+AMY	(ffffffff______________________________)
+
+KYLE	Tu veux qu'on s'en aille?
+
+AMY	Oui, volontiers.
+
+(BOUCLE 6 - 01:04:34:11)
+		06
+
+KYLE	(OH!)
+
+AMY	(Oh!)
+
+AMY	(Ahh!)
+
+KYLE	Accroche-toi!
+
+AMY	(Ahhh____)
+
+KYLE	(Ahhh!)
+
+AMY	(Ahhh!)
+
+AMY	(Ahhh!)
+
+(BOUCLE 7 - 01:05:30:13)
+		07
+
+MARCOS	Allo.
+
+MR. HARTMANN	Où êtes-vous?
+
+MARCOS	En route pour le tribunal pour enfant.
+
+MARCOS	Vous inquiétez pas, tout est réglé.
+
+MARCOS	Ca vous a coûté cent mille dollars, mais les charges pour "ivresse au volant" ont disparus.
+
+MR. HARTMANN	Et la fille?
+
+MARCOS	Les résultats de sa toxicologie sont très élevés.
+
+MARCOS	Les parents veulent taire l'incident autant que nous.
+
+MARCOS	Elle va bien,
+
+MARCOS	elle a seulement quelques contusions.
+
+MARCOS	(BF_h->___)
+
+MR. HARTMANN	(h/_____)Surtout, n'ayez jamais d'enfants, Marcos.
+
+MR. HARTMANN	(BF_hm->__)
+
+MR. HARTMANN	(uh_)Le rendez-vous avec la COB a été reporté à jeudi.
+
+MR. HARTMANN	(h/_)
+
+MR. HARTMANN	Ils veulent réexaminer les détails de la fusion demain.
+
+MARCOS	Qu'ils le fassent.
+
+MARCOS	Ils ne trouveront toujours rien comme les quatre dernières fois.
+
+MARCOS	Vous verrez, ils l'approuveront.
+
+MARCOS	(h/_)
+
+MARCOS	Tout ce qu'il vous faut faire, c'est verrouiller les fonds avec Westcom.
+
+MR. HARTMANN	(h/______________)Je vous remercie de vous être chargé de ça.
+
+MARCOS	C'est pour ça que vous me payez.
+
+MARCOS	Concentrez-vous sur la fusion,
+
+MARCOS	je vais gérer Kyle à ma façon.
+
+(BOUCLE 8 - 01:06:28:01)
+		08
+
+MAN TELEPHONE	J'ai besoin que vous me convoquiez les parents de Jeff cet après-midi. J'ai besoin de revoir leurs attestations et de savoir ce qui s'est vraiment passé.
+
+KYLE	Pourquoi c'était si long?
+
+MAN TELEPHONE	(RADIO POLICE______________________________________________________________________________)
+
+INSERT	(COMTE DE NASSAU, LONG ISLAND, ETAT DE NEW YORK)
+
+MARCOS	On s'est dit qu'une pause te ferait de bien.
+
+KYLE	Pendant sept jours! T'as déjà vu les gens là dedans? Tu sais ce qui aurait pu m'arriver?
+
+MARCOS	Heureusement que je connais le juge sinon t'aurais passé beaucoup plus de temps que ça.
+
+NDA	(____FA_______)
+
+KYLE	Où est mon père?
+
+MARCOS	Il en a jusque là.
+
+KYLE	Ca va, c'était juste un accident.
+
+KYLE	J'ai esquivé un chien.
+
+MARCOS	Ton taux d'alcoolémie dit qu'il y avait trois éléphants roses en plus du chien!
+
+NDA	(_______FA______)
+
+KYLE	Mon téléphone est où?
+
+MARCOS	T'en as pas besoin là où tu vas?
+
+NDA	(______FA________)
+
+KYLE	Ca veut dire quoi, ça?
+
+MARCOS	Ca veut dire que ton père en a marre de devoir toujours régler tes problèmes.
+
+MARCOS	(mh/__)
+
+MARCOS	Il te donne une dernière chance. Si tu déconnes cette fois-ci, il te coupera les vivres pour toujours.
+
+KYLE	N'importe quoi.
+
+MARCOS	La paperasse est déjà prête, tu veux la voir?
+
+MARCOS	Allô?
+
+MARCOS	Vous voulez lui parler?
+
+MARCOS	Oui.
+
+(BOUCLE 9 - 01:07:18:14)
+		09
+
+KYLE	Allô?
+
+MR. HARTMANN	Tu as réellement abandonné cette fille?
+
+KYLE	C'est pas ça, l'histoire.
+
+MR. HARTMANN	Alors, t'es un trouillard.
+
+KYLE	Si tu veux, je peux tout t'expliquer.
+
+MR. HARTMANN	J'en ai plus qu'assez de tes explications.
+
+MR. HARTMANN	(h/___)
+
+MR. HARTMANN	Tu fais ce que Marcos te demande...
+
+MR. HARTMANN	ou tu te débrouilles tout seul.
+
+KYLE	Dans ce cas, j'irai vivre chez maman.
+
+MR. HARTMANN	La pension alimentaire de ta mère s'arrête l'année prochaine,
+
+MR. HARTMANN	Tu crois qu'elle aura les moyens d'entretenir ton train de vie?
+
+MR. HARTMANN	Ceci est la dernière des dernières chances que je te laisse.
+
+MR. HARTMANN	Ne la gâche pas.
+
+(BOUCLE 10 - 01:07:58:02)
+		10
+
+KYLE	Allô...
+
+KYLE	Merde.
+
+KYLE	(h/_)C'était son idée ou la tienne?
+
+MARCOS	Disons que la décision était commune.
+
+KYLE	(h/______h->___)
+
+KYLE	Tu sais que t'es rien d'autre que son pantin.
+
+KYLE	T'es là pour faire son sale boulot, et quand il en aura fini avec toi, il te jettera comme tous les autres.
+
+MARCOS	C'est très simples, Kyle,
+
+MARCOS	tu fais c'que je te dis,
+
+MARCOS	ou tu repars en taule.
+
+MARCOS	C'est toi qui choisi.
+
+MARCOS	L'un ou l'autre, ça m'ait complètement égal.
+
+KYLE	(_hh_hh___________________________)
+
+(BOUCLE 11 - 01:08:36:16)
+		11
+
+MR. HARTMANN	(mh/_______)
+
+MR. HARTMANN	(nez_h->________________)
+
+(BOUCLE 12 - 01:09:15:16)
+		12
+
+KYLE	(mh/________h->______)
+
+INSERT	(Ile de Soay, Ecosse___________________________________)
+
+(BOUCLE 13 - 01:09:40:14)
+		13
+
+MR. CLOSE	Bienvenue à l'île de Soay, Monsieur Hartmann.
+
+MR. CLOSE	(h/__)Je suis Monsieur Close, directeur principal.
+
+MR. CLOSE	Voici Monsieur Maxwell,
+
+MR. CLOSE	instructeur de survie en plein air.
+
+KYLE	J'ai pas besoin de votre instruction, je sais me débrouiller tout seul.
+
+MR. MAXWELL	(tsk)
+
+MR. MAXWELL	C'est peut-être le cas chez vous, mais ici, avec ce genre d'attitude, vous pourriez facilement mourir.
+
+MR. CLOSE	Vous êtes dans un autre monde ici, Monsieur Hartmann.
+
+MR. CLOSE	Pour chaque choix que vous faites, il y aura des conséquences.
+
+MR. CLOSE	Règle numéro Un:
+
+MR. CLOSE	aucun mensonge.
+
+MR. CLOSE	Règle numéro Deux: respect des instructeurs et des autres élèves.
+
+MR. CLOSE	Règle numéro Trois: pas de sexe.
+
+MR. CLOSE	Règle numéro Quatre:
+
+MR. CLOSE	pas de bagarre.
+
+MR. CLOSE	Règle numéro Cinq: être toujours ponctuel à tout moment.
+
+MR. CLOSE	Je répète, règle numéro Trois: pas de sexe.
+
+(BOUCLE 14 - 01:10:25:10)
+		14
+
+MR. MAXWELL	L'entraînement que vous allez suivre a été spécialement conçu pour donner aux gens comme vous, Monsieur Hartmann, les enfants gâtés, archi privilégiés des ultra riches, une dernière chance de devenir quelqu'un.
+
+MR. MAXWELL	Cette île sera votre demeure pour les trois prochains mois.
+
+MR. MAXWELL	Je vous conseille de suivre les règles aveuglément et à la lettre...
+
+MR. MAXWELL	ou vous en subirez les conséquences.
+
+(BOUCLE 15 - 01:10:54:14)
+		15
+
+MR. MAXWELL	Monsieur Herrick?
+
+MR. MAXWELL	je vous laisse Monsieur Hartmann pour que vous puissiez le briefer.
+
+MR. MAXWELL	Assurez-vous qu'il soit aux faits.
+
+KYLE	C'est quoi tous ces gardes? On est dans une prison de haute sécurité ou quoi?
+
+HERRICK	(Hah->__)
+
+HERRICK	Réfléchis, mec.
+
+HERRICK	On est des gosses de riches,
+
+HERRICK	des biens très précieux, des bons au porteur humains.
+
+HERRICK	Ils sont aussi là pour d'autres raisons,
+
+HERRICK	comme, si on essaie de fuguer ou on s'égare.
+
+HERRICK	Si tu veux prendre une douche chaude, tu dois fendre ton bois pour la chaudière.
+
+HERRICK	Tiens.
+
+HERRICK	Vas-y, essaye.
+
+HERRICK	On dirait qu'il t'en faut une.
+
+KYLE	Non,
+
+KYLE	je voudrais pas casser ton rythme.
+
+KYLE	T'as l'air de t'éclater.
+
+(BOUCLE 16 - 01:11:36:04)
+		16
+
+HERRICK	Tu sais mec, jouer les sales gamins, ça marche pas ici.
+
+HERRICK	Si tu fais pas ta part, on en subit tous les conséquences.
+
+KYLE	(h/__________h->_____)
+
+HERRICK	(Uhuh/___)
+
+HERRICK	Voilà.
+
+(BOUCLE 17 - 01:12:04:24)
+		17
+
+HERRICK	Alors...
+
+HERRICK	(h->__)toi, t'es là, et moi, j'suis là.
+
+KYLE	Quoi, on partage la chambre?
+
+HERRICK	Ouais,
+
+HERRICK	j'ai d'la chance, non?
+
+KYLE	C'était quoi ton crime?
+
+HERRICK	Le jeu.
+
+HERRICK	Le montant de mes pertes a faillit ruiner mes parents.
+
+HERRICK	(h/_____)
+
+HERRICK	Le diner est à dix-neuf heure.
+
+HERRICK	Ils aiment pas quand on est en retard.
+
+KYLE	Oui, j'm'en fous.
+
+KYLE	(h/_________)
+
+KYLE	(nez_h->______)
+
+KYLE	(Uh->_______________)
+
+KYLE	(fffffff________)
+
+KYLE	(tsk)
+
+KYLE	Merde.
+
+KYLE	(h/_________nez_h->______)
+
+(BOUCLE 18 - 01:13:20:11)
+		18
+
+DORSEY	(Uhuh!)
+
+DORSEY	(Uhuh)
+
+DORSEY	(hah)
+
+SPECK	Vous m'avez l'air un peu vaseux Sergent Dorsey.
+
+SPECK	(h/__)On dirait que ces trois ans de prison vous ont ramolli.
+
+DORSEY	(Hah!)
+
+DORSEY	Si je me souviens bien, c'était toi qui vomissez par dessus bord dans le Golfe Persique,
+
+DORSEY	Chef!(_hahaha_)
+
+SPECK	Comment ça va?
+
+DORSEY	Bien.
+
+DORSEY	(h->____)
+
+DORSEY	C'est qui, la fille?
+
+SPECK	Rachel Hennie,
+
+SPECK	chargée des systèmes de communications.
+
+DORSEY	La fille de Stig Hennie?
+
+DORSEY	T'es pas sérieux?
+
+SPECK	Crois-moi,
+
+SPECK	c'est inné chez elle.
+
+SPECK	(mh/______)Quand les choses s'enveniment, elle s'est encaisser.
+
+(BOUCLE 19 - 01:14:00:19)
+		19
+
+DORSEY	C'est qu'une bande de gamins?
+
+DORSEY	Pourquoi autant de précaution?
+
+SPECK	Il faut c'qu'il faut pour sortir de là indemne.
+
+SPECK	On fait comme on a toujours fait.
+
+SPECK	J'suis pas devenu enfant de coeur en t'attendant.
+
+DORSEY	C'est bon à savoir.
+
+DORSEY	Et c'est qui qui paye tout ça?
+
+SPECK	Disons que c'est quelqu'un qui a beaucoup à perdre.
+
+DORSEY	(h->____)
+
+DORSEY	Quand est-ce qu'on bouge?
+
+DORSEY	Dès qu'on m'appelle.
+
+(BOUCLE 20 - 01:14:30:18)
+		20
+
+MR. CLOSE	Règle numéro cinq,
+
+MR. CLOSE	Monsieur Hartmann.
+
+MR. CLOSE	Il est maintenant dix-neuf heure quinze.
+
+KYLE	Désolé, (h/_)je me suis endormie.
+
+KYLE	Je suis encore à l'heure de New York.
+
+AMY	Tu racontes que des conneries.
+
+MR. CLOSE	S'il vous plaît, Mademoiselle Tilton.
+
+MR. MAXWELL	Un peu d'exercice devrait remédier à votre jetlag, Hartmann.
+
+KYLE	Vous êtes sérieux?
+
+MR. MAXWELL	Aucun élève ne dinera tant que vous n'avez pas fini.
+
+MR. MAXWELL	Sortez.
+
+MR. MAXWELL	Sortez!
+
+AMY	(h/___hm->_____)
+
+(BOUCLE 21 - 01:15:23:22)
+		21
+
+MR. MAXWELL	Alors...
+
+MR. MAXWELL	jusqu'en haut des marches, trois aller-retour,
+
+MR. MAXWELL	à pas de course.
+
+MR. MAXWELL	(Ah-ah-ah!)
+
+MR. MAXWELL	une sur chaque épaule.
+
+MR. MAXWELL	Et c'est parti!
+
+MR. MAXWELL	Plus vite que ça!
+
+KYLE	(_hh___________________________________________________________________Ah!____________________________________________________________________________________Hah!_______Uhuh!________Huh!______________________________Ah!_______________________________________________Hoooooh______________________________________________)
+
+MR. MAXWELL	Allez, Hartmann!
+
+MR. MAXWELL	Dépêchez-vous!
+
+MR. MAXWELL	Encore une fois.
+
+MR. MAXWELL	Allez, vous pouvez y arriver.
+
+(BOUCLE 22 - 01:16:08:23)
+		22
+
+KYLE	(_hh___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+MR. MAXWELL	Bravo.
+
+MR. MAXWELL	Mettez les cordes dans la réserve à côté du bâtiment principal.
+
+MR. MAXWELL	(h/__)Le plus vite c'est fait, le plus vite on dine.
+
+MR. MAXWELL	Les premières impressions dûrent toujours, Hartmann.
+
+KYLE	(h->__)
+
+KYLE	(h/___h->____h/____h->____h/____h->______)
+
+KYLE	(h/___h->____)
+
+KYLE	(h/____h->____h/____h->______)
+
+(BOUCLE 23 - 01:16:47:11)
+		23
+
+KEIKO	(mh/___)
+
+MR. CLOSE	Alors...
+
+MR. CLOSE	maintenant que ça, c'est fait,
+
+KYLE	(_hh____________________________________________)
+
+MR. CLOSE	présentez vous un par un.
+
+THORNTON	Alors, j'suis James Thornton,
+
+THORNTON	Lexington, Kentucky.
+
+KEIKO	Keiko Oshimoto,
+
+KEIKO	Tokyo, Japon.
+
+PALOMA	Paloma Nava,
+
+PALOMA	Sao Paulo, Brazil.
+
+(BOUCLE 24 - 01:17:17:24)
+		24
+
+AMY	(h/____)Amy Tilton,
+
+AMY	Boston.
+
+AMY	(h/__)et Les Hamptons, où plus récemment j'ai été laissée pour morte par cet enfoiré qui s'est enfuis comme un lâche.
+
+KYLE	Je n'me suis pas enfuis.
+
+KYLE	J'ai(_euh____)
+
+KYLE	J'étais complètement déchiré, d'accord?
+
+KYLE	J'ai tapé la tête contre...
+
+AMY	Tu m'as laissé sur place!
+
+AMY	Voilà ce qui s'est passé.
+
+MARSAC	C'est vraiment pas cool, mec.
+
+MARSAC	Tu laisses une femme en détresse et tu détalles comme un lapin.
+
+AMB	(rire H tous_____)
+
+KYLE	Mais qu'est-ce que tu connais, toi, de ma vie!
+
+AMB	(Ho oh oh H tous_____)
+
+MARSAC	(Ho ho ho_)mec, du calme!
+
+MARSAC	J'te charrie, c'est tout.
+
+HERRICK	(ahah)
+
+MARSAC	Je(_mm_), j'suis sur que t'avais tes raisons.
+
+AMY	Ouais,
+
+AMY	c'est parce que c'est un enfoiré de mauviette!
+
+THORNTON	(_rire__________________)
+
+MARSAC	(_rire_______________)
+
+MR. MAXWELL	C'est bon! Ca suffit!
+
+KYLE	(h/___h->___)
+
+MR. MAXWELL	C'est terminé.
+
+(BOUCLE 25 - 01:17:58:24)
+		25
+
+KYLE	(_hh_____________________)
+
+MR. MAXWELL	J'ai une question à vous poser:
+
+MR. MAXWELL	(h/_)Quels... points communs pensez-vous tous avoir?
+
+FAYED	Je sais que je n'ai rien en commun avec ces personnes.
+
+FAYED	Mes vêtements sont tous en pure soie sauvage.
+
+THORNTON	(hah->__)
+
+MARSAC	On s'en foût que tu pètes dans la soie sauvage, ta majesté.
+
+KEIKO	(_ahhaahaha_)
+
+THORNTON	(_ahhaahaha_)
+
+HERRICK	(_hahaha____)
+
+PALOMA	(_ahhaahaha_)
+
+MR. MAXWELL	Vous êtes gâtés pourris,
+
+MR. MAXWELL	émotionnellement délaissés,
+
+MR. MAXWELL	en quête permanente de stimulations à travers la technologie, l'alcool, la drogue, le sexe, les voitures et l'argent.
+
+MR. MAXWELL	Vous n'arriverez à découvrir qui vous êtes, que si on vous enlève tout ça.
+
+THORNTON	Mais, mais, si ça se trouve, c'est exactement qui nous sommes...
+
+THORNTON	enfin...
+
+(BOUCLE 26 - 01:18:32:24)
+		26
+
+MR. MAXWELL	(h/__)
+
+MR. MAXWELL	Et c'est cette personne que vous voulez être?
+
+MR. MAXWELL	Vous voulez être cet homme qui encastre sa voiture dans une terrasse de brasserie, et envoie un jeune garçon à l'hôpital, parce qu'il était trop occupé à texter pour regarder la route?
+
+MR. MAXWELL	Est-ce réellement cet évènement qui va vous définir?
+
+THORNTON	(Uhuhuh)
+
+THORNTON	(h/_)Le gamin, le gamin allait bien.
+
+MR. MAXWELL	Vous êtes tous là pour la même raison:
+
+MR. MAXWELL	Vous avez déconné à mort.
+
+MR. MAXWELL	Mais...
+
+MR. MAXWELL	il y a de l'espoir.
+
+MR. MAXWELL	Quelque part, au fond de vous, dans votre ADN, il y a cet 'instinct de survie'.
+
+MR. MAXWELL	Votre temps ici servira à faire éclore cet instinct,
+
+MR. MAXWELL	à découvrir qui vous êtes vraiment et à vous aider à forger de vraies connections au monde qui vous entoure
+
+MR. MAXWELL	et les uns aux autres.
+
+MR. MAXWELL	Vous apprendrez à vous respecter vous-mêmes ainsi que les autres.
+
+MR. MAXWELL	Vous apprendrez à être responsable de vos actions.
+
+(BOUCLE 27 - 01:19:25:03)
+		27
+
+MR. MAXWELL	On vous donne l'opportunité de vous resetter,
+
+NDA	(prononcer: ri-sèter)
+
+MR. MAXWELL	de redémarrer.
+
+MR. MAXWELL	Et si vous n'arrivez pas à suivre, on vous laissera derrière nous.
+
+MR. MAXWELL	Bon... puisque c'est le dernier repas fait maison que vous allez avoir cette semaine,
+
+MR. MAXWELL	mangez!
+
+THORNTON	(Hoh!)
+
+AMB	(MINI AMB THORNTON, PALOMA, MARSAC + BRUIT DE BOUCHES)
+
+(BOUCLE 28 - 01:19:55:17)
+		28
+
+AMB	(AMB RECEPTION)
+
+MR. HARTMANN	Aussi longtemps que nous soutiendrons les jeunes artistes, les institutions, telle que celle-ci, fleuriront et se développeront...
+
+FRANZ	Excusez-moi, Monsieur Hartmann...
+
+FRANZ	Joe Franz, du journal Metro News.
+
+MR. HARTMANN	Qui vous a laissé entrer?
+
+FRANZ	Northern Core est sur le point de devenir Hartmann Global Holdings. C'est énorme!
+
+MR. HARTMANN	Excusez-moi une minute.
+
+FILLE FETE 1	Oui.
+
+(BOUCLE 29 - 01:20:20:11)
+		29
+
+BLACK FETE 1	Oui, je suis d'accord.
+
+MR. HARTMANN	Je suis curieux,
+
+FEMME FETE 1	C'est faux.
+
+BLACK FETE 1	Ah, tu crois?
+
+MR. HARTMANN	comment un gratte-papier de bas étages comme vous fait pour dégotter ce genre d'info?
+
+FRANZ	J'ai mes sources,
+
+FRANZ	(h/_)et elles me disent que le future président de Hartmann Global Holdings a soudoyé un juge pour éviter la prison à son fils.
+
+MR. HARTMANN	(h/_____)
+
+MR. HARTMANN	Attention,
+
+MR. HARTMANN	il se pourrait que cela soit faux.
+
+FRANZ	Vos actions pourraient chuter avec une telle rumeur et vous le savez.
+
+FRANZ	Peut-être que la fusion serait remise en question.
+
+FRANZ	(h/_)J'ai ouï dire que si cette fusion tombez à l'eau,
+
+FRANZ	vous seriez ruiné.
+
+MR. HARTMANN	(h/_)Vous avez peut-être découvert un de mes petits secrets, Monsieur Franz,
+
+MR. HARTMANN	mais si vous vous amusez à le dévoiler, je me ferais fort de dévoiler les votres les uns après les autres.
+
+MR. HARTMANN	(tss____)
+
+MR. HARTMANN	J'ai des dizaines d'avocats du contentieux et plus encore de détectives,
+
+MR. HARTMANN	qui meurent d'envie de détruire votre misérable petite vie
+
+MR. HARTMANN	et la réduire en miettes sans le moindre effort.
+
+MR. HARTMANN	Rentrez chez vous.
+
+INSERT	Nous avons analysé votre proposition financière... Désolé Bobby... Westcom n'est pas intéressé.
+
+(BOUCLE 30 - 01:21:49:09)
+		30
+
+KYLE	(mh/__hh_____________________________)
+
+HERRICK	T'ira pas loin.
+
+HERRICK	(h/_haha_______)
+
+HERRICK	(h->___um)
+
+(BOUCLE 31 - 01:22:23:00)
+		31
+
+KYLE	(_hh_______________________________________________)
+
+(BOUCLE 32 - 01:22:51:04)
+		32
+
+CROFT	Belle matinée pour une fugue, n'est-ce pas Monsieur Hartmann?
+
+CROFT	(h/______)ceci dit, je tenterais pas la traversée.
+
+CROFT	Je m'appelle Croft, je suis chef de la sécurité.
+
+KYLE	(mh/_____)
+
+CROFT	Cette île est à environ cent kilomètres du bout de terre le plus proche.
+
+CROFT	L'Atlantique Nord n'a rien à voir avec la douceur des Hamptons.
+
+KYLE	(mh/__)J'ai mon propre argent, vous savez.
+
+KYLE	Je peux vous payer pour me sortir de là.
+
+CROFT	(Ah, )oui?
+
+KYLE	Ouais.
+
+CROFT	Désolé, mais je vais devoir refuser votre offre.
+
+CROFT	Allez... retournez dormir, fiston,
+
+CROFT	et j'oublierai toute cette conversation.
+
+KYLE	(_hh_________________)
+
+CROFT	(BF_humpf)
+
+(BOUCLE 33 - 01:23:36:24)
+		33
+
+SPECK	On partira tous d'ici, ensuite on prendre des zodiacs, puis on grimpera.
+
+DORSEY	Et les conditions météo?
+
+SPECK	D'après la Météo Marine, il y aura de la houle...
+
+SPECK	dans soixante-douze heures.
+
+SPECK	On sera à mi-chemin vers la Norvège d'ici là.
+
+SPECK	(mh/_____________)
+
+DORSEY	Y'a qui avec nous?
+
+SPECK	Des ex marines avec qui j'ai bossé quand t'étais en taule.
+
+SPECK	De vrais pros,
+
+SPECK	efficaces,
+
+SPECK	Ils ont sept gardes professionnels là haut.
+
+SPECK	On va arriver de nuit, mais c'est rien qu'on n'a pas déjà fait.
+
+SPECK	C'est LE coup.
+
+SPECK	Si on le réussi,
+
+SPECK	on n'aura plus besoin d'être des mercenaires.
+
+DORSEY	Ouais, bien sûr.
+
+DORSEY	T'arrêtera jamais.
+
+DORSEY	Tu adores le risque.
+
+(BOUCLE 34 - 01:24:19:23)
+		34
+
+HENNIE	(tsk_h/_)
+
+HENNIE	Tout est arrangé.
+
+HENNIE	Une fois le compte acheminé à travers le proxy, les fonds seront intraçables.
+
+SPECK	(mh/_)
+
+SPECK	J't'ai dit que c'était la meilleure.
+
+SPECK	(BF_mh_)
+
+HENNIE	Qu'est-ce qui va pas?
+
+HENNIE	T'as donné ta langue au chat?
+
+DORSEY	C'est quoi?
+
+HENNIE	C'est une base de données.
+
+HENNIE	On y trouve tous les renseignements qu'on veut sur les petits morveux là haut.
+
+DORSEY	Il vient d'où l'argent de ces familles?
+
+SPECK	Les pères le volent...
+
+SPECK	et appellent ça 'la libre entreprise'.
+
+SPECK	Ils ont jamais bossés de leur vie.
+
+DORSEY	(Arh,_)les cons de riches.
+
+HENNIE	Je veux bien que tu me montres ce qu'est un con de riche quand tu le seras aussi.
+
+(BOUCLE 35 - 01:25:00:21)
+		35
+
+DORSEY	(h/_________)
+
+DORSEY	C'est quoi les parts?
+
+SPECK	(h/_)Dix pourcent.
+
+DORSEY	De combien?
+
+SPECK	Un milliard de dollars.
+
+HENNIE	(h/___)
+
+HENNIE	C'est aussi mille millions...
+
+HENNIE	si t'arrive pas à imaginer un milliard!
+
+SPECK	Plus grosse rançon de tous les temps, mon pote.
+
+(BOUCLE 36 - 01:25:26:21)
+		36
+
+PALOMA	C'est quoi ça?
+
+MR. MAXWELL	Bon...
+
+MR. MAXWELL	vous allez vivre en extérieur pendant une semaine, alors choisissez ce qu'il vous fait pour survivre.
+
+FAYED	Je refuse de porterais pas les bottes d'un autre homme.
+
+MR. MAXWELL	Allez-y pieds-nu, c'est vous qui choisissez.
+
+MR. MAXWELL	C'est la situation idéale pour réfléchir aux conséquences des causes à effets.
+
+MR. MAXWELL	Si vous choisissez mal, (h/__)vous subirez les conséquences.
+
+MR. MAXWELL	(h/____)
+
+MR. MAXWELL	Alors...
+
+MR. MAXWELL	"La faune et la flore comestible des Iles britanniques", c'est vraiment quelque chose de passionnant!
+
+PALOMA	(BF_rire_)
+
+KEIKO	(_haha_)
+
+MR. MAXWELL	Familiarisez-vous avec les aliments que vous pouvez récolter,
+
+MR. MAXWELL	y'a pas de plateau-repas ici.
+
+MR. MAXWELL	Vous mangerez ce que vous pouvez cueillir,
+
+MR. MAXWELL	attraper,
+
+MR. MAXWELL	ou tuer...
+
+MR. MAXWELL	une fois vos réserves épuisées, bien entendu.
+
+AMY	(Mmm__)
+
+AMY	Je refuse de tuer quoique ce soit.
+
+MR. MAXWELL	C'est une question de cause à effet, mademoiselle Tilton.
+
+MR. MAXWELL	Libre à vous de mourir de faim alors que vos camarades mangeront.
+
+(BOUCLE 37 - 01:26:22:23)
+		37
+
+AMB	(LEGER BROUHAHA TOUS)
+
+KEIKO	(_hahaha_)
+
+MARSAC	(Ahh__)c'est mignon!
+
+MARSAC	(Hé, )Herrick!
+
+MARSAC	t'aimes parier, non?
+
+HERRICK	Ca dépend qui veut savoir.
+
+MARSAC	On parie qui sera le premier à enfreindre la règle numéro trois?
+
+THORNTON	Tu sais ce que moi je parie,
+
+HERRICK	(_ahahahah_)
+
+THORNTON	(h/___)j'parie qu'un de ces jours, ta grande gueule t'attire des ennuis.
+
+FAYED	(_hh_hh_)
+
+MARSAC	(BF_Hmm_)
+
+MARSAC	(BF_rire_)
+
+MARSAC	(h/_Oh, )Thornton...
+
+MARSAC	(h/__)c'est déjà fais, mec.
+
+MARSAC	Pourquoi tu crois que j'suis là?
+
+MARSAC	(X)
+
+HERRICK	Détends-toi.
+
+HERRICK	(Hé, )Kyle.
+
+HERRICK	Tu devrais garder ça sur toi,
+
+HERRICK	étant donné que t'as décidé de rester avec nous.
+
+KYLE	(h/____________h->_____________)
+
+(BOUCLE 38 - 01:27:42:18)
+		38
+
+FAYED	(_hh_hh______________________________________________)
+
+FAYED	Mon père ne m'a pas envoyé ici pour être une bête de somme.
+
+FAYED	(_hh_hh_____________)
+
+MARSAC	Alors, il t'a envoyé ici pour quoi, Fayed?
+
+MARSAC	A part nous bassiner avec tes conneries de royauté.
+
+FAYED	(Urh___)
+
+PALOMA	(_ahahaha_)
+
+AMY	(_hm_)
+
+FAYED	Tu sais, j'ai vraiment de la peine pour toi, Marsac.
+
+MARSAC	(Oh?)
+
+FAYED	Grandir sans avoir de parents,
+
+FAYED	personne pour t'apprendre le respect
+
+KYLE	(__hh______________________)
+
+FAYED	de tes supérieurs.
+
+MARSAC	C'est une leçon que t'as raté aussi,
+
+MARSAC	mais je vais te l'apprendre maintenant!
+
+HERRICK	(Hé hé hé hé hé hé hé!) Arrête! Non!
+
+THORNTON	Non! Non, arrête! Ca suffit! Ca suffit!
+
+MARSAC	Allez, vient! Vient!
+
+FAYED	(Hé!)
+
+FAYED	Non, laisse moi!
+
+MARSAC	Je vais le démolir!
+
+THORNTON	Laisse tomber!
+
+FAYED	Je vais lui montrer!
+
+MR. MAXWELL	Ca suffit!
+
+MR. MAXWELL	Règle numéro quatre:
+
+MR. MAXWELL	pas de bagarre.
+
+MR. MAXWELL	(h/___)Il est temps d'y aller.
+
+(BOUCLE 39 - 01:28:29:15)
+		39
+
+MR. MAXWELL	Alors...
+
+MR. MAXWELL	Monsieur Herrick.
+
+MR. MAXWELL	C'est vous le premier.
+
+MARSAC	Vas-y Herrick!
+
+HERRICK	Trop facile!
+
+HERRICK	Je vais vous épater!
+
+MR. MAXWELL	Attention, ça rebondit!
+
+MR. MAXWELL	Allons-y, mesdames,
+
+MR. MAXWELL	Toutes les deux, ensemble, l'union fait la force!
+
+MR. MAXWELL	Tout doucement.
+
+MR. MAXWELL	Vous êtes très synchrones, c'est bien.
+
+MR. MAXWELL	(_hahahaha_)
+
+(BOUCLE 40 - 01:28:55:19)
+		40
+
+AMY	(_hh_hh_______________)
+
+MR. MAXWELL	Mademoiselle Tilton.
+
+KYLE	Fais attention à toi, d'accord?
+
+MARSAC	Allez, montre nous ce que tu sais faire!
+
+MARSAC	Vas-y.
+
+AMY	Des années de cours de danse classique.
+
+MR. MAXWELL	Vous êtes très agile.
+
+AMY	(_rire_)
+
+HERRICK	Montre ce que tu sais faire, Amy!
+
+AMY	Pas de soucis!
+
+AMY	(_haha_)
+
+AMY	Je vais vous montrer comment on fait les mecs.
+
+MR. MAXWELL	C'est très bien.
+
+AMB	(AMB BRAVO TOUT LE MONDE)
+
+MR. MAXWELL	Quelle grace, mademoiselle Tilton!
+
+MARSAC	(Ah____!) Bravo, quelle élégance.
+
+THORNTON	Oui, très joli!
+
+FAYED	C'est parfait!
+
+MARSAC	Quel talent!
+
+MR. MAXWELL	C'est très réussi!
+
+HERRICK	(_siffle_______)
+
+KEIKO	(_rire____)
+
+KEIKO	(Hoohoo!)
+
+MARSAC	Je sais faire la même chose!
+
+(BOUCLE 41 - 01:29:29:23)
+		41
+
+MR. MAXWELL	Alors, qui est le suivant?
+
+MR. MAXWELL	Monieur Hartmann?
+
+MR. MAXWELL	Vous avez l'air un peu pale.
+
+HERRICK	(Hé )Marsac, quatre contre un qu'il reste bloqué!
+
+MARSAC	D'accord, parie tenu.
+
+MARSAC	(_rire________)
+
+MR. MAXWELL	C'est très bien, Hartmann, tout en douceur.
+
+MARSAC	(Ohho_)
+
+FAYED	Il a les jambes en caoutchouc.
+
+MARSAC	Rien de telle qu'une peur viscérale pour te remettre les idées en place, n'est-ce pas, Hartmann?
+
+FAYED	(_haha_)
+
+THORNTON	Attention, j'arrive derrière toi.
+
+KYLE	Non!
+
+THORNTON	Ca va, c'est bon.
+
+KYLE	Non, non, s'il te plait!
+
+MR. MAXWELL	Ca va aller, monsieur Hartmann.
+
+MR. MAXWELL	Allez-y doucement, Thornton!
+
+MARSAC	(Oh!)
+
+MR. MAXWELL	Ca, c'est pas doucement, Thornton!
+
+MR. MAXWELL	Thornton!
+
+MR. MAXWELL	Ca suffit!
+
+MR. MAXWELL	Ca suffit!
+
+MR. MAXWELL	Attention, les garçons, ressaisissez-vous!
+
+KYLE	(ah_ah_)
+
+MARSAC	Attention!
+
+MR. MAXWELL	Thornton!
+
+KYLE	T'es en train de faire quoi là?
+
+THORNTON	J'essaie de traverser! Allez!
+
+(BOUCLE 42 - 01:30:16:08)
+		42
+
+MR. MAXWELL	Thornton, ne bougez plus. Hartmann, traversez seul.
+
+HERRICK	Doucement les filles!
+
+FAYED	Soyez gentils, d'accord?
+
+MARSAC	(_rire_)
+
+MARSAC	Allez, Thornton, elle t'attend de l'autre côté, mec!
+
+THORNTON	Ta gueule, Marsac!
+
+MR. MAXWELL	C'est très bien, Hartmann, venez.
+
+MR. MAXWELL	Bravo! Bel effort!
+
+MR. MAXWELL	C'est ça.
+
+MR. MAXWELL	Par ici.
+
+KYLE	Ca va, c'est bon!
+
+FAYED	Tu t'es bien moqué des autres, voyons comment tu fais.
+
+MARSAC	(_crache_)
+
+MR. MAXWELL	Allez, le clown de service.
+
+THORNTON	Ca va?
+
+THORNTON	C'était juste pour rire, tu sais.
+
+MR. MAXWELL	Au suivant,
+
+KYLE	T'es vraiment nul!
+
+MR. MAXWELL	Monsieur Marsac!
+
+MR. MAXWELL	On y va!
+
+MR. MAXWELL	C'est très bien, continuez.
+
+MR. MAXWELL	C'est très bien, les garçons.
+
+(BOUCLE 43 - 01:30:57:24)
+		43
+
+MR. MAXWELL	Alors,
+
+MR. MAXWELL	vous devez penser comme votre proie.
+
+MR. MAXWELL	Si vous connaissez l'animal,
+
+MR. MAXWELL	les traces qu'il laisse et les chemins qu'il prend,
+
+MR. MAXWELL	vous saurez où il faut placer votre collet.
+
+PALOMA	Un lapin, partagé en neuf, c'est un amuse-bouche, pas un repas.
+
+PALOMA	Est-ce que ça vaut la peine?
+
+MR. MAXWELL	(mm/__huh_________________)
+
+MR. MAXWELL	Aucun animal, dans la nature, est impossible à piéger.
+
+MR. MAXWELL	Peu importe la taille,
+
+MR. MAXWELL	il suffit de placer le bon piège au bon endroit.
+
+(BOUCLE 44 - 01:31:37:19)
+		44
+
+MR. MAXWELL	Il faut la tenir d'une main ferme.
+
+MR. MAXWELL	ensuite vous tirez vers l'arrière,
+
+MR. MAXWELL	vous visez et vous lachez.
+
+KEIKO	C'est dur!
+
+HERRICK	Hartmann!
+
+HERRICK	Allez, debout la dedans! On a une journée chargée!
+
+KYLE	(Uh->______________)
+
+KYLE	C'est quoi ton problème, Herrick!
+
+KYLE	T'as rien de mieux à faire?
+
+HERRICK	Allez!
+
+HERRICK	(Uh_hah!)
+
+KYLE	T'es malade!
+
+KYLE	T'es vraiment un gros con, tu le savais?
+
+HERRICK	J'étais simplement en train de te rendre service.
+
+HERRICK	Tout le monde est déjà debout.
+
+HERRICK	Tu sais c'qui se passe quand on est en retard.
+
+HERRICK	Quel con!
+
+HERRICK	(_hh_hh_______________________)
+
+(BOUCLE 45 - 01:32:11:08)
+		45
+
+MR. MAXWELL	Hartmann!
+
+MR. MAXWELL	Je vais défaire le mousqueton!
+
+KYLE	Non, non, non, non, non, non!
+
+MR. MAXWELL	Comme ça vous pouvez grimper de vous même.
+
+KYLE	Non, non, non, ne faites pas ça!
+
+HERRICK	On n'a qu'à le laisser se démerder!
+
+HERRICK	(mh/__)
+
+FAYED	J'ai déjà vu des ânes à trois pattes avancer plus vite que lui!
+
+PALOMA	(_hahaha_)
+
+FAYED	Hein?
+
+HERRICK	(_haha_)
+
+FAYED	Yallah, imshi Hartmann!
+
+P2	Allez, dépêche toi, Hartmann!
+
+PAULSON	N'oublie pas ce que je t'ai montré.
+
+PAULSON	regarde où tu vas mettre la main et le pied, visualise comment le faire, et fais le.
+
+KYLE	(_hh_hh_____________)
+
+MARSAC	Allez, Princesse, tu mets une main devant l'autre, c'est pas compliqué!
+
+KYLE	(uh_)
+
+KYLE	Ca va aller.
+
+KYLE	(_hh_hh________________________)
+
+PALOMA	(Brazilien indistinct - à repiquer?)
+
+P2	Allez, Kyle, on t'attend!
+
+THORNTON	C'est bon, on peut y aller?
+
+MR. MAXWELL	D'accord.
+
+MR. MAXWELL	On lui donne dix minutes pour décider s'il grimpe ou s'il fini sa vie accroché à la falaise.
+
+KYLE	Non. Non, non, non, attendez, attendez!
+
+MR. MAXWELL	Allez-y les enfants.
+
+KYLE	(_hh_hh__________)
+
+KYLE	Attendez!
+
+KYLE	(_________________hh_hh____)
+
+KYLE	Merde!
+
+(BOUCLE 46 - 01:32:58:06)
+		46
+
+KYLE	(_hh_hh__________________________________)
+
+AMY	Maintenant, tu sais ce que ça fait d'être abandonné.
+
+KYLE	(_haha_)
+
+AMY	C'est pas génial, n'est-ce pas?...
+
+AMY	de pas savoir si quelqu'un va revenir t'aider?
+
+KYLE	(Oh, )non.
+
+KYLE	S'il te plaît, non revient!
+
+KYLE	(_hh_hh_hh________________________________________________)
+
+KYLE	Ecoute, j'arrive pas à bouger!
+
+KYLE	(_hh_)
+
+KYLE	(_hh_hh_)
+
+AMY	Bon, alors, écoute-moi, il faut juste que tu...
+
+AMY	(h/___)
+
+AMY	respire!
+
+AMY	Fais semblant que c'est le(_mh/____)mur d'escalade à Chelsea Piers.
+
+KYLE	(h/__pff->____)
+
+KYLE	(_hh_hh_)
+
+AMY	Tu peux y arriver.
+
+KYLE	Merde.
+
+KYLE	(uh!_)
+
+KYLE	(urh__arhh!___)
+
+KYLE	(_hh_)
+
+KYLE	(_hh_)
+
+KYLE	(_hh_)
+
+KYLE	(huh!_)
+
+(BOUCLE 47 - 01:33:45:02)
+		47
+
+KYLE	(_hh_hh_)
+
+KYLE	(_hh_)
+
+KYLE	(_hh_hh__________________________________________)
+
+AMY	Tu vois?!
+
+KYLE	(_hh________hh______________hh____________)
+
+AMY	La peur n'est que dans ta tête.
+
+AMY	(h/______)Allons-y.
+
+KYLE	(_hh_hh_hh_hh______________________)
+
+KYLE	(Fff->_______)
+
+KYLE	(_hh_hh_____________)
+
+(BOUCLE 48 - 01:34:05:05)
+		48
+
+KYLE	(_hh_hh____________)
+
+KYLE	(Hé!)
+
+KYLE	Merci pour le coup de main.
+
+KYLE	J'suis pas un grand fan des hauteurs.
+
+AMY	Tout le monde a peur de quelque chose.
+
+KYLE	(Hé!_)
+
+KYLE	(Hé!_)
+
+KYLE	Amy,
+
+KYLE	s'il te plait,
+
+KYLE	j'te jure,
+
+KYLE	j'ai aucun souvenir de c'qui s'est passé ce soir là.
+
+KYLE	Je me souviens qu'on s'est mis la tête à l'envers et qu'on s'est éclaté, mais...
+
+KYLE	j'ai absolument aucun souvenir de l'accident!
+
+KYLE	j'sais pas si je m'suis enfuis.
+
+AMY	(mts)
+
+AMY	(h/____um)
+
+AMY	on devrait...
+
+AMY	rattraper Maxwell avant qu'il pose les pièges.
+
+KYLE	Ouais.
+
+(BOUCLE 49 - 01:34:49:05)
+		49
+
+AMY	Tu fabriques quelque chose?
+
+KYLE	Oui.
+
+KYLE	C'est un(_um)
+
+KYLE	une mouche de pêche.
+
+KYLE	Mon père m'a appris à les faire quand j'étais gamin.
+
+KYLE	C'était dans une autre vie.
+
+KYLE	(mh/__->___________)
+
+KYLE	(nez_h->____)
+
+AMY	Regarde autour de toi,
+
+AMY	c'est beau, tu trouves pas?
+
+AMY	l'air frais...
+
+AMY	les arbres...
+
+AMY	y'a pas de grattes-ciel, y'a pas d'enseignes au néon, y'a pas de pollution.
+
+AMY	Tu serais où là si t'étais pas ici?
+
+AMY	Avec des inconnus en train de te mettre minable?
+
+AMY	(hah->_)
+
+KYLE	(mts_)
+
+AMY	Ici, on a tout cet espace pour réfléchir. Je trouve ça pas mal.
+
+(BOUCLE 50 - 01:35:36:09)
+		50
+
+KYLE	Maxwell commence à déteindre sur toi.
+
+AMY	(h/__)
+
+AMY	Ou peut-être je dois faire le point sur pas mal de choses.
+
+KYLE	Le point sur quoi?
+
+AMY	Dans cinq jours, j'hérite de l'argent que mon père m'a laissé à sa mort.
+
+AMY	et(_euh_), à vrai dire, ça me terrifie.
+
+AMY	J'veux pas le décevoir.
+
+AMY	J'ai peur de tout foirer.
+
+AMY	(mh/__________)
+
+AMY	Voilà ce qu'il m'a donné avant de mourir.
+
+KYLE	"Tu as pleuré à ta naissance et le monde s'est réjoui.
+
+KYLE	Vit ta vie afin, qu'à ta mort, le monde pleure et tu te réjouies."
+
+AMY	C'est un vieux dicton Cherokee.
+
+AMY	J'ai(_euh_), envie que ma vie compte pour quelque chose.
+
+AMY	(nez_hm_)
+
+(BOUCLE 51 - 01:36:31:04)
+		51
+
+KYLE	Donc, tu déprimes parce que t'as tout cet argent et tu sais pas comment le dépenser.
+
+AMY	(BF_mmhah_)
+
+AMY	(hah_)
+
+AMY	j'aurais cru que toi, au moins, tu me comprendrais.
+
+AMY	J'ai du me tromper.
+
+AMY	Monsieur Maxwell?
+
+AMY	Vous pouvez me montrer comment faire?
+
+MR. MAXWELL	Oui, bien sur. Vous étes prête?
+
+AMY	(_rire_)Oui.
+
+MR. MAXWELL	Bon, alors, prenez un arc,
+
+MR. MAXWELL	on va s'entrainer par là-bas.
+
+AMY	Vous voulez que je prenne ce carquois?
+
+PALOMA	(_hh_hh_______________)
+
+MR. MAXWELL	Non, on va commencer avec une flèche et on voit.
+
+AMY	Oui, d'accord.
+
+MR. MAXWELL	Il faut déjà que vous vous habituez à l'arc.
+
+AMY	(_rire_)
+
+MR. MAXWELL	Alors, mettez votre main ici et tendez la corde avec l'autre.
+
+(BOUCLE 52 - 01:37:21:13)
+		52
+
+HERRICK	(Hah->__)
+
+HERRICK	(_rire_)
+
+MR. MAXWELL	Hartmann,
+
+MR. MAXWELL	je veux que tu lui tranche la gorge.
+
+KYLE	(_hh_______________________________)
+
+MR. MAXWELL	Je sais que c'est pas facile de tuer quelque chose, mais parfois c'est la seule solution pour survivre.
+
+KYLE	J'y arriverai.
+
+KYLE	(_hh_hh______________)
+
+KYLE	(_hh_hh_________________)
+
+KYLE	(_hh_hh__________________________________________________)
+
+(BOUCLE 53 - 01:38:12:20)
+		53
+
+KYLE	(_hh_hh___________________________________)
+
+AMY	(mh/__fff->___________)
+
+AMY	Génial, on vient de tuer Bambi.
+
+KYLE	(_hh_hh_____________________________)
+
+(BOUCLE 54 - 01:38:25:17)
+		54
+
+KEIKO	(_hh_hh__________________)
+
+KEIKO	Je voudrais remercier cette magnifique créature a qui on a du ôter la vie,
+
+KEIKO	et... à cette terre.
+
+KEIKO	Je voudrais aussi tous vous remercier.
+
+KEIKO	On m'a envoyé, dans cette pension, car on devait me punir.
+
+KEIKO	Mais, pour la première fois de ma vie, je me sens libre,
+
+KEIKO	et ma vie n'appartient qu'à moi.
+
+KEIKO	Et... tout cela, ce n'est que grâce à vous.
+
+KEIKO	(_euhm__hh_)
+
+KEIKO	Il importe peu qui sont nos parents, on peut ne pas être comme eux.
+
+KEIKO	On doit prendre en charge nos vies.
+
+KEIKO	On doit être libre.
+
+MR. MAXWELL	C'est bien ce que vous avez dit.
+
+HERRICK	Bravo Keiko.
+
+(BOUCLE 55 - 01:39:16:18)
+		55
+
+MR. MAXWELL	Allez tout le monde,
+
+MR. MAXWELL	régalez-vous.
+
+AMB	(AMB TOUS_________)
+
+MARSAC	(Oh )oui!
+
+FAYED	C'est bon.
+
+KEIKO	(BF_hmm_)
+
+MARSAC	J'avais tellement faim. C'est délicieux.
+
+FAYED	(Arh____)C'est quand même un peu dur.
+
+MARSAC	(_oh ho ho ho ho ho!___)
+
+AMY	(_hh_hh______ahahah_)
+
+MR. MAXWELL	Mais non, c'est pas dur, c'est tendre.
+
+MR. MAXWELL	Oui.
+
+THORNTON	Peu importe, c'est de la nourriture.
+
+HERRICK	C'est tendre comme vous, Maxwell?
+
+MR. MAXWELL	(_ahahahaha_)
+
+KYLE	(_mâche__________)
+
+AMY	J'aurais jamais cru manger ça un jour.
+
+FAYED	Marsac?
+
+KYLE	(_hh_)
+
+FAYED	Est-ce que c'est mieux que la bouillie qu'on te servait à l'orphelinat!
+
+AMY	(hoohoohoohoo____)
+
+MARSAC	Alors ça c'est pas drôle du tout!
+
+KEIKO	(_hahaha_)
+
+AMB	(TOUS RIRES_)
+
+KYLE	(_hh_mâche_hh_______)
+
+MARSAC	Allez, un peu de musique!
+
+AMB	(_rire_)
+
+KEIKO	Oui...
+
+KEIKO	De la musique!
+
+AMB	(AMB FETE TOUS ___________ BONNE CHANCE!________)
+
+(BOUCLE 56 - 01:39:50:05)
+		56
+
+PALOMA	(Ooouuhh!___)
+
+MARSAC	(h/___OOUUHH!)
+
+MARSAC	(Hooh!)
+
+MR. MAXWELL	(_rire_____)
+
+MARSAC	(Hooh!)
+
+PALOMA	C'est n'importe quoi!
+
+MARSAC	(Hooooh!)
+
+KEIKO	(_rire______________________________________________________________________)
+
+AMY	(Ah!________________________)
+
+MARSAC	(ra ra ra ra ra ra ra ra)
+
+MARSAC	(Rah haha!)
+
+AMY	(_rire_)
+
+MARSAC	(_rire_)
+
+MARSAC	(_ahoouu________________________________________________________________________________________________________)
+
+HERRICK	(_ahou_______________________________________________________________)
+
+KEIKO	(_ahou______________________________________________________________)
+
+AMY	(_ahou___________________________________________________________________________________)
+
+PALOMA	(_ahou_________________________________________________________)
+
+MARSAC	(_ouhou___ouhou___ouhou_____________)
+
+MARSAC	(__ouh!_)
+
+MARSAC	(_ouh__ouh__ouh__!___________________________________________________________________)
+
+KEIKO	(_rire___________)
+
+THORNTON	(_rire______________)
+
+HERRICK	(_rire_)
+
+AMY	(_hahaha_____)
+
+AMB	(AMB _________________________________________)
+
+FAYED	Non! C'est moi le seul vrai Roi de la Jungle!
+
+MARSAC	(Ah!)
+
+AMY	(Aah!_)
+
+AMB	(Ah! attention! Ca va?_______+ rires____________)
+
+MARSAC	Allez! Viens avec moi!
+
+PALOMA	(Ah___________!)
+
+MARSAC	(_Arh__________________haha__________________arh__________________________)
+
+KEIKO	(_rire___________)
+
+AMY	(_hh__Ahh!_______)
+
+MARSAC	C'est moi le Roi de la Jungle!
+
+HERRICK	(_Ah________________________pose moi_________________________________________________________________________________________)
+
+MR. MAXWELL	Attention, pose la!
+
+MARSAC	(_rire____________________)
+
+MARSAC	(_arhh_________ohhoohhoo___________________)
+
+(BOUCLE 57 - 01:41:10:00)
+		57
+
+AMB	(LEGERE AMB DU GROUPE)
+
+(BOUCLE 58 - 01:41:18:20)
+		58
+
+SPECK	On est en position.
+
+SPECK	Vous nous donnez le feu vert ou pas?
+
+SPECK	Bien compris.
+
+SPECK	(h->_____________________)
+
+(BOUCLE 59 - 01:41:42:12)
+		59
+
+KYLE	Tu déprimes pour ton anniversaire?
+
+AMY	Oui, en quelques sortes.
+
+AMY	Je pensais à mon père, c'est tout.
+
+KYLE	C'est aujourd'hui qu'il me donne son dernier cadeau.
+
+KYLE	C'est une drôle d'impression, tu sais?
+
+KYLE	(h->______________)
+
+KYLE	Crois-moi...
+
+KYLE	ton père croyait en toi.
+
+KYLE	C'est pour ça qu'il t'as donné cette note.
+
+KYLE	Il savait que, lorsque tu prendrais cet argent, tu saurais comment faire une différence.
+
+KYLE	Il faut...
+
+KYLE	que tu commences à croire en toi.
+
+(BOUCLE 60 - 01:42:18:20)
+		60
+
+KYLE	Et... détester ton beau-père parce que c'est pas ton vrai père, ça va te pourrir la vie.
+
+AMY	(BF_hm->___)
+
+KYLE	La colère et la haine font ça.
+
+KYLE	Crois-moi, je connais bien.
+
+KYLE	Peut-être que Maxwell a raison, on a tous droit à une seconde chance.
+
+MARSAC	(tsh tsh tsh tsh tsh tsh)
+
+(BOUCLE 61 - 01:42:46:09)
+		61
+
+PALOMA	(Hé___hé___)
+
+MR. MAXWELL	(h/___hahaha_)
+
+MARSAC	(_ahahah_)
+
+PALOMA	(mho__hohoho__)
+
+KEIKO	(_rire_______________________)
+
+MARSAC	Allez, vas-y, Maxwell!
+
+MR. MAXWELL	(_hh_hh___________)
+
+FAYED	(Hé, )c'est bien, bravo!
+
+(BOUCLE 62 - 01:43:38:02)
+		62
+
+DORSEY	Est-ce que t'es prête?
+
+SPECK	(h/__)On a le feu vert.
+
+(BOUCLE 63 - 01:44:10:12)
+		63
+
+AMB	(AMB GAMINS BROUHAHA)
+
+KEIKO	(_hh_hh__________)
+
+AMY	(_rire____________)
+
+MARSAC	Pas mal!
+
+HERRICK	(_rire_)
+
+MARSAC	(wouah_hahaha_)
+
+KEIKO	C'était bien joué.
+
+HERRICK	(_hahah_)
+
+PAULSON	Alors, mesdames et messieurs,
+
+PAULSON	s'il vous plait...
+
+PAULSON	asseyez-vous.
+
+AMB	(LEGER BROUHAHA)
+
+(BOUCLE 64 - 01:44:53:09)
+		64
+
+SPECK	Bougez-vous!
+
+(BOUCLE 65 - 01:45:26:04)
+		65
+
+NDA	(repiquable)
+
+(BOUCLE 66 - 01:45:51:06)
+		66
+
+HENNIE	Homme à terre!
+
+MR. MAXWELL	...and the cold north wind doth blow,
+
+PAULSON	...and the cold north wind doth blow,
+
+MR. CLOSE	...and the cold north wind doth blow,
+
+(BOUCLE 67 - 01:45:56:18)
+		67
+
+MR. MAXWELL	it stings the toes and bites the nose,
+
+MR. CLOSE	it stings the toes and bites the nose, as over the grounds we go.
+
+PAULSON	it stings the toes and bites the nose, as over the grounds we go.
+
+PALOMA	(_hh_______________)
+
+THORNTON	(_hh___rire___________________)
+
+MARSAC	(_hh_rire________)
+
+MR. MAXWELL	as over the grounds we go.
+
+MR. MAXWELL	Et Bon Anniversaire à Amy!
+
+MARSAC	(Ohh___)c'est génial!
+
+AMY	(_rire__________________________________________________________)
+
+MARSAC	Ouais!
+
+THORNTON	Ouais Bravo!(_ ouais_______________________________________________________________________)
+
+KYLE	Ouais!
+
+MARSAC	(ou ou ou ou ou ou ou ou ou ou!)
+
+PALOMA	(_rire________ouais________________________________________________)
+
+KEIKO	(_rire_________________________________________________)
+
+HERRICK	(ouais________________________________________________)
+
+PAULSON	(_woohoohoo____________________________________________________________)
+
+MARSAC	(Woohoooo_________________________________)
+
+HERRICK	(_siffle___________________)
+
+AMY	Vous étes vraiment pas cool Monsieur Maxwell.
+
+KEIKO	(_rire_)
+
+MR. MAXWELL	Je prends ça pour un compliment, mademoiselle Tilton!
+
+HERRICK	(_rire________)
+
+MARSAC	(_hahaha_)
+
+THORNTON	(_rire_______________)
+
+AMY	(_haha_mm_)
+
+(BOUCLE 68 - 01:46:25:05)
+		68
+
+FAYED	Garçon,
+
+FAYED	je voudrais une bouteille de votre meilleur champagne.
+
+AMB	(BROUHAHA)
+
+KYLE	Je vais aller aux toilettes.
+
+MR. CLOSE	Je crois justement qu'il nous reste du mousseux.
+
+HERRICK	Non, pas d'imitation Monsieur Close!
+
+KYLE	Je reviens tout de suite.
+
+MR. CLOSE	Bon, tant pis.
+
+AMB	(TOUS RIENT)
+
+MR. MAXWELL	Bon appétit!
+
+MARSAC	(huh!_)
+
+AMB	(TOUS OUAIS BRAVO!____T'es trop fort - recommence - ouais recommence________)
+
+PAULSON	Hé, vous avez fini avec ça?
+
+HERRICK	J'ai pas eu de sauce.
+
+AMB	(AMB DINER_________________)
+
+THORNTON	Oui?(_haha_)
+
+HENNIE	Allez tout le monde, souriez!
+
+(BOUCLE 69 - 01:46:50:00)
+		69
+
+AMB	(AMB CRIS + PANIQUE________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________)
+
+AMY	(OH!_)
+
+KEIKO	(Oh!)
+
+MR. CLOSE	(OH!)
+
+KYLE	(HUh!)
+
+DORSEY	Silence!
+
+COMANDO H1	Tuez-le! Allez, par là bas!
+
+DORSEY	A terre! Allonge toi par terre!
+
+KEIKO	(Ah____________)
+
+MR. MAXWELL	Allez, vite, mets-toi derrière moi!
+
+HERRICK	(_hh_hh____)
+
+MR. MAXWELL	Non, ne tirez pas! on va faire...
+
+MR. MAXWELL	(Uh! UHH!)
+
+KEIKO	(AHHH!_)
+
+KEIKO	(Cris d'hystérie____non!!____ahh!________________________________________)
+
+HENNIE	Par là bas!
+
+HENNIE	Va de l'autre côté!
+
+DORSEY	Bouge-toi!
+
+HENNIE	A terre!
+
+FAYED	D'accord, d'accord!
+
+DORSEY	Allez, dépêche toi d'aller la bas!
+
+HENNIE	A terre!
+
+SPECK	Dites à mademoiselle Oshimoto de fermer sa grande gueule!
+
+AMY	Hé!
+
+AMY	(Shh___sshhh____shh____sshh____)
+
+AMB	(AMB SE CALME _____SANGLOTS____________________________________________________________________________________________________)
+
+MARSAC	Maxwell!
+
+MARSAC	Maxwell?!
+
+SPECK	TOI!
+
+MARSAC	(Ah!)
+
+SPECK	A terre!
+
+SPECK	Viens ici!
+
+MARSAC	D'accord, d'accord!
+
+KYLE	(Huh!_)
+
+SPECK	Vite!
+
+AMY	(Shh_sshhh___shhh______)
+
+KEIKO	(_hh_hh_hh___________)
+
+HENNIE	A genoux!
+
+PALOMA	(_hh_hh_hh_hh___________________________)
+
+SPECK	Ferme ta putain d'gueule!
+
+KYLE	(_hh___________________)
+
+HENNIE	Personne d'autre ne mourra si vous faites exactement c'qu'on vous dit!
+
+SPECK	P'tain, faites c'qu'on vous dit, d'accord?
+
+(BOUCLE 70 - 01:47:35:06)
+		70
+
+SPECK	Il manque Hartmann!
+
+KEIKO	(_hh_hh_hh_hh__________________________)
+
+SPECK	(h/__)Où est-ce qu'il est?
+
+PALOMA	(h/_)Ils ont enlevés leurs masques!
+
+SPECK	Tais-toi!
+
+PALOMA	(_hoho_)
+
+PALOMA	(Arh___)
+
+PALOMA	(_hh_hh_hh_hh_______________________)
+
+THORNTON	(shhh_______________)
+
+MR. CLOSE	(_hh___)Il n'est pas venu pour le diner.
+
+AMY	(_hh_hhh__________________)
+
+KEIKO	(_hh_hh_h_hhh_hh_h_h_h_)
+
+MARSAC	(_hh_hh_)
+
+MR. CLOSE	Il est souvent en retard.
+
+SPECK	Vous êtes censé savoir où tout le monde se trouve à tout moment, Monsieur Close.
+
+KEIKO	(_hh_hh__hh_hh_h_hh_h_h_h_h_h)
+
+MR. CLOSE	(uh)
+
+KEIKO	(ahh_______________________________)
+
+AMB	(_______________________________________________________________________________________________________________________________________)
+
+AMY	(AHHH_______ahh______________________)
+
+PALOMA	(_hh_hh___AHH!___________________)
+
+HERRICK	Oh non!
+
+MARSAC	(_sanglots_____________________________________________________________)
+
+KEIKO	(_hh_sanglots_______________________________________________________________________________________________________________________________________)
+
+AMY	_______________________________________________________________________________________________________________________________________)
+
+SPECK	(h/___________)Est-ce que quelqu'un sait où il se trouve?
+
+(BOUCLE 71 - 01:48:27:07)
+		71
+
+KYLE	(_hh______________________________________________________________________________________________________________________________)
+
+NDA	(OU REPIQUABLE)
+
+(BOUCLE 72 - 01:48:35:22)
+		72
+
+AMB	(AMB TOUT LE MONDE EFFRAYE)
+
+HENNIE	(h/___)J'ai pas du tout envie de faire mal à quelqu'un.
+
+THORNTON	(_hh_hh_hh_)Non!(________ohh_ohh_________hh_hh_hh_hh_)
+
+HENNIE	S'il vous plait, ne m'obligez pas à le faire!
+
+KEIKO	(_hh_hh_hh_hh_hh_h_hh_h___)
+
+AMY	(h/___)Il est dans sa chambre.
+
+MARSAC	(_hh_hh_)
+
+AMY	Je l'ai vu là la dernière fois.
+
+SPECK	Go!
+
+HERRICK	(_hh_hh___)
+
+MARSAC	(_hh_hh_hh_)
+
+P2	Espèce de lâche.
+
+FAYED	(_arabic_pas de trad_)
+
+SPECK	Tais-toi! Tu partages la chambre d'Hartmann, il est où?
+
+HERRICK	(_hh_hh_hh_)
+
+SPECK	hein?
+
+HERRICK	Il est parti...
+
+KEIKO	(_hh_hh_hh_hh_hh_)
+
+AMY	On n'va rien vous dire!
+
+HERRICK	(_hh_hh_)
+
+KEIKO	(_hh_hh_______________________)
+
+SPECK	(_hh_hh_hh_hh___________________)
+
+SPECK	Vous croyez vraiment que ce lache ferait la même chose pour vous ou vous avez la mémoire courte?
+
+KEIKO	(_hh_hh_hh___________________________)
+
+AMY	Vous n'avez aucune idée de qui il est.
+
+KEIKO	(_hh_hh__________________________________________________________________________________)
+
+HENNIE	Tout ce qui nous voulons c'est nous assurer qu'il va bien.
+
+HENNIE	Il fait froid dehors,
+
+HENNIE	c'est dangereux.
+
+HENNIE	Réfléchissez, pourquoi est-ce qu'on aurait envie de vous faire du mal?
+
+HENNIE	Si vous êtes mort, vous ne valez rien.
+
+KEIKO	(_hh_hh____________________________________)
+
+KEIKO	(_hh_hh______________________________________________________________)
+
+SPECK	Mettez les en lieu sûr.
+
+(BOUCLE 73 - 01:49:40:12)
+		73
+
+KYLE	(_hh_hh_hh________________________________)
+
+KYLE	(h->___)
+
+KYLE	(_hh_hh________________uh!_)
+
+KYLE	(h->___)
+
+KYLE	(_h_hh_hh_________)
+
+(BOUCLE 74 - 01:49:54:12)
+		74
+
+SPECK	Oui, je sais à quel point ça complique les choses.
+
+SPECK	On le trouvera.
+
+SPECK	C'est juste un petit contre-temps qui se réglera très vite.
+
+SPECK	Oui.
+
+SPECK	Entendu.
+
+SPECK	(h/_______)Il faut trouver Hartmann et me le ramener tout de suite.
+
+SPECK	On a pas beaucoup de temps.
+
+DORSEY	D'accord.
+
+DORSEY	C'est qu'un gamin effrayé.
+
+DORSEY	On s'en charge.
+
+SPECK	Très bien.
+
+(BOUCLE 75 - 01:50:17:20)
+		75
+
+KEIKO	(_hh_hh____________________)
+
+THORNTON	(Hé...)
+
+KEIKO	(_hh_hh________)
+
+KEIKO	(_hh_hh_____________________)
+
+THORNTON	Est-ce que ça va?
+
+HERRICK	On va tous s'en sortir.
+
+HERRICK	(h/_)Nos parents vont payer ces mecs et on va tous rentrer chez nous.
+
+MARSAC	Vos parents...
+
+MARSAC	moi, j'ai pas de parents.
+
+MARSAC	(Hah!_)J'ai un conseil d'administration.
+
+MARSAC	Vous croyez vraiment que ces mecs sont assez crétins pour demander une rançon à des avocats?
+
+PALOMA	Qu'est-ce que tu veux dire?
+
+MARSAC	C'est simple, je suis tout seul.
+
+MARSAC	Donc, si vos parents ont besoin d'être persuadés, devinez qui prendra la première balle.
+
+(BOUCLE 76 - 01:50:55:15)
+		76
+
+FAYED	Ils en arriveront pas là.
+
+FAYED	(h/____)
+
+FAYED	Je suis sûr que nos parents payeront ta part.
+
+THORNTON	Ouais...
+
+THORNTON	(_hh_hh_____)
+
+THORNTON	(mts)
+
+THORNTON	espérons que ça n'cause aucun problèmes.
+
+HERRICK	(Hé!)
+
+MARSAC	(Oh, )putain, quoi? Maintenant j'suis un problème parce que mes parents sont morts, c'est ça, mec?
+
+FAYED	(Hé! ) Arrête de dire n'importe quoi.
+
+THORNTON	(Shh_______)
+
+THORNTON	Putain( shhh___________)
+
+HERRICK	Du calme, il a absolument pas dit ça, alors arrête de faire ton intér...
+
+FAYED	Marsac, arrête, on va pas les laisser te tuer, t'as compris?
+
+MARSAC	Je suis calme et j'ai très bien compris c'qu'il voulait dire!
+
+AMY	Fermez vos putains de gueules!
+
+AMY	Taisez-vous, ça suffit!
+
+AMY	On doit rester solidaire.
+
+HERRICK	(h/___hah_____hh____)
+
+HERRICK	T'as qu'a le dire à Kyle...
+
+HERRICK	dès qu'il sortira du trou dans lequel il se cache.
+
+AMY	Il a fait ce que chacun d'entre nous aurait fait.
+
+HERRICK	(Mm_)non!
+
+AMY	En plus,
+
+AMY	il nous est plus utile là dehors qu'ici, attaché avec nous!
+
+AMY	Si c'est faisable, il nous aidera.
+
+AMY	Je sais qu'il le fera.
+
+AMY	(h/___________h->_______)
+
+HERRICK	(h/_)J'espère vraiment qu'il va pas te décevoir.
+
+HERRICK	Merde!
+
+HERRICK	(h/_______nez h->____)
+
+(BOUCLE 77 - 01:51:53:00)
+		77
+
+NDA	(REPIQUABLE)
+
+KYLE	(Uh____)
+
+KYLE	(_hh_brrrhhh_________________________________________________________________________________________)
+
+(BOUCLE 78 - 01:52:46:17)
+		78
+
+KYLE	(_hh_sanglots_____________________________________________________________________________________)
+
+NDA	(REPIQUABLE)
+
+(BOUCLE 79 - 01:53:00:17)
+		79
+
+KYLE	(_hh_hh________________________________________________________________________________)
+
+KYLE	(_hh_hh__________________________________________________________________________________________________)
+
+KYLE	(_hh_hh__________________________________________________________________________________________________________)
+
+(BOUCLE 80 - 01:53:40:07)
+		80
+
+AMB	(REPIQUER AMB BOUCLE 69)
+
+PAULSON	(Ah!_)
+
+MR. HARTMANN	C'est quoi cette histoire!
+
+SPECK	A tous les parents,
+
+SPECK	nous avons vos enfants.
+
+SPECK	Ils sont en vie et le resteront seulement si vous suivez nos instructions à la lettre.
+
+SPECK	Demain, à dix-huit heure, heure de la côte Est des Etats-Unis, vous vous rendrez tous dans un lieu sécurisé,
+
+SPECK	dont les coordonnées seront envoyés à Monsieur Hartmann.
+
+SPECK	Là, vous attendrez notre prochain appel.
+
+SPECK	Monsieur Hartmann, il est de votre responsabilité d'organiser le transport.
+
+SPECK	Toute personne ne daignant pas venir,
+
+SPECK	condamnera son enfant à une mort certaine.
+
+AMB	(REPIQUER PASSAGE HYSTERIQUE DE KEIKO)
+
+SPECK	La rançon est de un milliard de dollar et c'est non-négociable.
+
+MR. HARTMANN	(h/_________________________________________________)
+
+MR. HARTMANN	(h->_________________________________)
+
+(BOUCLE 81 - 01:54:28:17)
+		81
+
+MR. HARTMANN	J'ai pas vu Kyle.
+
+MARCOS	Vous voulez faire quoi?
+
+MR. HARTMANN	Ils ont toutes les cartes en main.
+
+MR. HARTMANN	(mh/_______)
+
+MR. HARTMANN	On fait ce qu'ils demandent.
+
+(BOUCLE 82 - 01:55:20:12)
+		82
+
+KYLE	(_hh_hh___hh_hh___hh_hh____)
+
+KYLE	(huh!)
+
+KYLE	(_hh_hh_hh_____________________)
+
+KYLE	(h->__UH!______)
+
+CROFT	Attend, non, Hartmann, c'est moi, c'est Croft!
+
+KYLE	Ne bouge pas ou je t'éclate!
+
+CROFT	Merde, j'ai eu la...
+
+KYLE	J'ai dit: N'bouge pas!
+
+CROFT	D'accord.
+
+CROFT	J'ai cru que t'étais l'un d'entre eux.
+
+CROFT	Ils ont massacrés tout le monde dans le bunker là haut.
+
+KYLE	(_hh_hh___hh_hh___hh_hh___)
+
+KYLE	Alors pourquoi t'es pas mort aussi?
+
+CROFT	(_hh_hh_hh_hh____)
+
+CROFT	Quand j'ai vu, je suis parti en courant.
+
+CROFT	J'suis pas un héro, d'accord!
+
+KYLE	(_h/___h->___h/___h->___)
+
+KYLE	(h->___)
+
+KYLE	(h->___)
+
+KYLE	(h->_____)
+
+KYLE	Alors, quoi, t'as rien fait?
+
+CROFT	A quoi sert un flingue contre tous ces hommes!
+
+CROFT	(_hh_hh___)
+
+CROFT	Je pense que notre meilleure chance est d'aller jusqu'au bateau.
+
+CROFT	Espérons qu'il soit encore en un seul morceau!
+
+CROFT	On peut aller chercher des secours au moins!
+
+(BOUCLE 83 - 01:56:08:20)
+		83
+
+KYLE	(_h->___h/____h->______h/____h->______)
+
+KYLE	D'accord.
+
+KYLE	Il faut y aller maintenant.
+
+KYLE	(h->____)
+
+CROFT	C'est bon, je l'ai.
+
+CROFT	On est en route.
+
+CROFT	Les affaires sont les affaires.
+
+CROFT	Tu vas faire une video pour tes parents,
+
+CROFT	on est payé,
+
+CROFT	et tes nouveaux copains peuvent rentrer chez eux.
+
+CROFT	Avance!
+
+KYLE	(_hh_hh________________)
+
+CROFT	Allez, avance.
+
+(BOUCLE 84 - 01:57:03:23)
+		84
+
+KYLE	(Uh!)
+
+CROFT	Arrête!
+
+CROFT	(_uh__hh_hh_____)
+
+CROFT	Non, arrête!
+
+KYLE	(uh!)
+
+CROFT	(Ah, )merde!
+
+KYLE	(Uh!)
+
+KYLE	(uh!)
+
+CROFT	(Arh!_)
+
+KYLE	(uh)
+
+CROFT	(_hh_hh_)
+
+KYLE	(_hh_hh______)
+
+KYLE	(UH!)
+
+CROFT	(Ah!)
+
+KYLE	(_hh_hh____)
+
+KYLE	(Ah!)
+
+CROFT	(rrrhhh)
+
+KYLE	(_hh_hh_______)
+
+CROFT	(_hh_hh___________)
+
+KYLE	(Ah!!)
+
+CROFT	(urhh!_)
+
+KYLE	(Ahh!)
+
+KYLE	(_hh_hh_________)
+
+CROFT	(_hh_hh________________)
+
+KYLE	(Ah!_uuhhh!__)
+
+KYLE	(UH!)
+
+CROFT	(AHH!)
+
+CROFT	(uhh!)
+
+CROFT	(Ah____NOOOOOONNN!!____)
+
+KYLE	(Ahhh!!!___)
+
+KYLE	(_hh_hh_hh_hh_hh_____________________________________________________________________________________________________________________________________________________________)
+
+KYLE	(h->__)
+
+KYLE	(h->___)
+
+KYLE	(h->___)
+
+KYLE	(_hh_hh____)
+
+KYLE	(_hh_hh_hh_hh___________________________________________________________________________________)
+
+INSERT	(LIEU DE RENDEZ-VOUS DES PARENTS, JORDANA DEL MUERTO, NOUVEAU MEXIQUE)
+
+(BOUCLE 85 - 01:58:21:16)
+		85
+
+EMILY	Pourquoi nous enverraient-ils ici?
+
+AHMED	Parce que c'est au milieu de nulle part.
+
+FRANCES	...tu vois, je le savais, il fallait appeler le FBI au moment où on a su pour le kidnapping.
+
+THOMAS	Mais ma chérie, tu peux pas dire...
+
+FRANCES	Ne me dit pas ce que j'ai le droit de faire ou pas!
+
+THOMAS	Bienvenue!
+
+THOMAS	Je suis Thomas Herrick et voici ma femme Frances.
+
+FRANCES	(h/__)Pourquoi avez-vous mis si longtemps?
+
+JONATHAN	(h/___)Jonathan Tilton Schofield et voici ma femme Emily.
+
+JONATHAN	On a fait aussi vite que possible.
+
+THOMAS	Perdez pas votre temps, y'a pas d'électricité.
+
+THOMAS	(hah)
+
+THOMAS	Je comprends pas,
+
+THOMAS	pourquoi ils s'embêteraient à équiper une salle si on peut rien allumer!
+
+MR. HARTMANN	C'est peut-être pas le cas.
+
+JONATHAN	Il doit sûrement y avoir un groupe électrogène.
+
+MR. HARTMANN	(h/___)
+
+JONATHAN	(h/______)
+
+JONATHAN	Il suffit de chercher.
+
+JONATHAN	Monsieur Thornton,
+
+JONATHAN	vous me donnez un coup de main?
+
+MR. THORNTON	Bien sûr.
+
+MR. THORNTON	Ca fait un sacré bout d'temps que je m'suis pas salie les mains comme ça.
+
+MR. THORNTON	(h/______)
+
+MR. THORNTON	(BF_h->___)
+
+(BOUCLE 86 - 01:59:20:20)
+		86
+
+LISA	Alors...
+
+MR. HARTMANN	(h/_________________)
+
+LISA	t'es toujours convaincu que punir notre fils en l'envoyant à l'autre bout du monde est une bonne idée?
+
+MR. HARTMANN	C'était pas ta décision à prendre que je sache.
+
+LISA	Moi, je ne l'aurais jamais envoyé là bas!
+
+LISA	Jamais!
+
+LISA	Lisa Hartmann,
+
+LISA	je suis la mère de Kyle.
+
+FRANCHESCA	Franchesca, la mère de Paloma.
+
+EMILY	Emily Tilton-Schofield, je suis la mère d'Amy.
+
+FRANCHESCA	Vous êtes arrivée quand?
+
+LISA	Il y a environ une heure.
+
+LISA	J'ai voyagé avec les Herrick.
+
+LISA	J'ai fait le tour, il n'y a vraiment pas grand chose.
+
+LISA	Il y a des toilettes, une bouilloire,
+
+LISA	mais pas de nourriture.
+
+LISA	Ils veulent pas qu'on soit trop à l'aise.
+
+(BOUCLE 87 - 02:00:01:10)
+		87
+
+FRANCES	On n'aurait jamais du accepter de venir ici.
+
+FRANCES	Je pense qu'il faudrait envisager au moins la possibilité de faire appel à des professionnels des demandes de rançons.
+
+JONATHAN	On a trouvé comment allumer l'électricité.
+
+MR. HARTMANN	J'entends ce que vous dites Madame Herrick,
+
+MR. HARTMANN	mais contacter le F B I n'est en aucun cas une option.
+
+MR. HARTMANN	(h/_)Si on décide de les appeler, on est en train de signer l'arrêt de mort de nos enfants.
+
+FRANCES	Où sont les autres parents?
+
+MR. HARTMANN	Marsac est sous tutelle jusqu'à ses trente ans.
+
+MR. HARTMANN	Aucun parents avec qui négocier.
+
+MR. HARTMANN	On va peut-être avoir un soucis avec Oshimoto.
+
+MR. HARTMANN	Je crois pas qu'il accepte de payer.
+
+FRANCES	(Oh, )mon dieu!
+
+EMILY	Quoi? Comment ça?
+
+FRANCHESCA	Il va payer, c'est sa fille tout de même!
+
+MR. HARTMANN	J'ai mis mon meilleur homme sur le coup, alors...
+
+MR. HARTMANN	ce n'sera pas un problème.
+
+JONATHAN	On devra payer alors...
+
+MR. THORNTON	Mais si c'en est un?
+
+MR. THORNTON	Qui va vouloir payer la différence?
+
+AHMED	(h/_______)Je veux bien couvrir la part de Monsieur Oshimoto,
+
+AHMED	si on en arrive là.
+
+FRANCHESCA	Si on rassemble nos fonds, je suis certaines qu'on pourra couvrir la part de Marsac.
+
+FRANCES	Pourquoi?
+
+FRANCES	Ca nous laisserait sans un sou!
+
+(BOUCLE 88 - 02:00:53:06)
+		88
+
+DORSEY	Ca a pris du temps, mais je viens de trouver Croft.
+
+DORSEY	Il est mort.
+
+DORSEY	Il a le coup brisé.
+
+SPECK	Tu crois que c'était Hartmann?
+
+DORSEY	Qui d'autres?
+
+DORSEY	J'ai trouvé l'arme de Croft au fond du bassin.
+
+DORSEY	Il manque sa radio.
+
+DORSEY	Je continue à chercher?
+
+SPECK	Non.
+
+SPECK	Il va faire nuit, vaut mieux rentrer.
+
+SPECK	Croft a été tué.
+
+SPECK	(h/_)Il a du se faire avoir.
+
+HENNIE	Tu veux que j'aille aider Dorsey?
+
+SPECK	Non.
+
+SPECK	(h/___)Il retourne au bunker.
+
+SPECK	On suis notre plan pour l'instant.
+
+SPECK	Fait les enregistrements.
+
+SPECK	Il nous les faudra.
+
+(BOUCLE 89 - 02:01:40:23)
+		89
+
+SPECK	(h/____)Hartmann?
+
+SPECK	(h/______________)Tu m'entends?
+
+SPECK	Si c'est le cas...
+
+SPECK	je dois te féliciter.
+
+SPECK	T'as descendu l'un de mes meilleurs hommes.
+
+SPECK	Mais là, ça suffit.
+
+SPECK	Si tu te rends maintenant,
+
+SPECK	on peut en finir plus rapidement.
+
+SPECK	Tout le monde pourra rentrer chez lui sain et sauf.
+
+SPECK	L'autre solution, c'est "je te traques à travers l'île"...
+
+SPECK	et je m'arrêterai pas tant que t'es pas mort.
+
+SPECK	Peut-être que je parle dans le vide.
+
+SPECK	Kyle?
+
+SPECK	Kyle...
+
+(BOUCLE 90 - 02:02:42:15)
+		90
+
+FAYED	(_hh_hh_hh_hh_)
+
+FAYED	Ils veulent que je fasse
+
+FAYED	(_hh_hh_hh_hh_)
+
+FAYED	cet enregistrement pour vous,
+
+FAYED	(_hh_h/___)
+
+FAYED	s'il vous plaît, sauvez-moi.
+
+FAYED	(h->_)
+
+MARSAC	J'suis pas comme les autres ici, j'ai personne à qui demander de l'aide, je sais pas c'que vous voulez que j'leur dise.
+
+MARSAC	(Oh!)
+
+DORSEY	Parle, enfoiré!
+
+MARSAC	(_mm_mm_mm____)
+
+KEIKO	(h/___)S'il vous plaît,(_h/__)faites ce que ces personnes vous demandent.
+
+KEIKO	Donnez nous une chance de nous racheter.
+
+THORNTON	S'il vous plaît, faites tout ce que ces gens vous disent de faire.
+
+THORNTON	(_h_h_h_h_h_)
+
+P2	Je veux rentrer à  la maison et... Je t'embrasse très fort. Je t'aime.
+
+PALOMA	Eu quero valtar para casa e... Te dar um grande abraço, te adoro!
+
+HENNIE	Ca va être à toi, ma chérie.
+
+HERRICK	Pourquoi elle ferme cette putain de porte. Pourquoi elle ferme cette putain de porte!
+
+DORSEY	La ferme!
+
+DORSEY	Je t'ai dit de la fermer, putain!
+
+(BOUCLE 91 - 02:03:19:24)
+		91
+
+AMY	(_hh_)
+
+HENNIE	Je veux juste que tu sois jolie pour ton gros plan, Amy.
+
+AMY	(_hh_)
+
+HENNIE	(h/___)Tu sais,
+
+HENNIE	(h/_____)on est pas si différentes toutes les deux.
+
+HENNIE	(h/__)Peut-être que, dans d'autres circonstances, on aurait même pu êtes amies.
+
+HENNIE	(hmm)
+
+HENNIE	C'est plutôt cool de tomber amoureuse d'un mec dans un endroit pareil.
+
+HENNIE	Oui,
+
+HENNIE	crois-moi, (h/____)je sais à quel point c'est difficile de trouver quelqu'un avec qui on clique.
+
+AMY	Tu crois vraiment que je suis assez stupide pour te faire confiance?
+
+AMY	Il n'y a pas la moindre chance, quelques soient les circonstances, que toi et moi puissions être, un jour, autre chose que des ennemies.
+
+(BOUCLE 92 - 02:03:59:24)
+		92
+
+HENNIE	Tu sais,
+
+HENNIE	je sais tout ce qu'il faut savoir sur toi,
+
+HENNIE	je connais tous tes petits secrets:
+
+HENNIE	la drogue, les coups d'un soir,
+
+AMY	(AH!_)
+
+HENNIE	Sois une gentille fi-fille et dit bonjour à maman!
+
+AMY	(h/__________________)
+
+(BOUCLE 93 - 02:04:15:22)
+		93
+
+KYLE	(_hh_hh_hh_____________________________)
+
+(BOUCLE 94 - 02:05:07:17)
+		94
+
+SPECK	Tilton t'a dit quelque chose?
+
+HENNIE	Non, pas encore.
+
+HENNIE	Je pourrais lui forcer la main.
+
+HENNIE	On va tous les éliminer à la fin, non?
+
+SPECK	Bien sur.
+
+SPECK	Gardons-les dans la réserve pour l'instant.
+
+SPECK	J'ai notre associé qui pose des questions et j'ai aucune réponse.
+
+SPECK	(h/__)Hartmann est important.
+
+SPECK	Si on le trouve pas, ça va compliquer les choses.
+
+HENNIE	On peut toujours s'en aller.
+
+HENNIE	Et si jamais ça chauffe trop...
+
+SPECK	Non.
+
+SPECK	Jamais dl'a vie!
+
+SPECK	L'enjeu est trop important. En plus, je veux voir la tête de ce p'tit con quand je le balancerais de la falaise.
+
+SPECK	Ces gens sont des parasites.
+
+SPECK	Ils méritent pas d'vivre.
+
+SPECK	C'est l'heure,
+
+SPECK	(h/____)faut que j'appelle.
+
+(BOUCLE 95 - 02:05:49:13)
+		95
+
+EMILY	Vous avez amené des armes?
+
+EMILY	Pourquoi feriez-vous ça?
+
+MR. THORNTON	On est des cibles faciles dans cet hangar.
+
+MR. THORNTON	J'vais tout de même pas rester ici sans d'quoi me défendre.
+
+MR. THORNTON	(h/____)
+
+MR. THORNTON	une carabine de chasse gros gibier,
+
+MR. THORNTON	(h/_)et deux fusils juxtaposés.
+
+AHMED	Répondez.
+
+(BOUCLE 96 - 02:06:16:06)
+		96
+
+SPECK	On dirait qu'il manque des gens à l'appel. Mes instructions étaient pourtant très claires.
+
+MR. HARTMANN	Oshimoto a été retardé,
+
+MR. HARTMANN	(h/_____)et Marsac est orphelin.
+
+SPECK	Je suppose que vous avez prévu comment payer la différence?
+
+MR. HARTMANN	Ca ne vous regarde absolument pas.
+
+MR. HARTMANN	(h/_)et je ne discuterai pas de la rançon avec vous, tant que je n'aurais pas vu mon fils.
+
+SPECK	Votre fils est parti en courant quand il a vu ses amis en danger.
+
+SPECK	Trouillard, une fois, trouillard toujours, n'est-ce pas?
+
+SPECK	Ceci n'est pas une négociation. J'étais très sérieux quant aux conséquences du non-respect des termes et conditions.
+
+MR. HARTMANN	Moi aussi, je suis très sérieux.
+
+MR. HARTMANN	Si vous ne donnez pas une preuve de vie,
+
+MR. HARTMANN	vous n'aurez pas un sou.
+
+(BOUCLE 97 - 02:06:55:00)
+		97
+
+MR. THORNTON	Hartmann!
+
+EMILY	Non!
+
+THOMAS	Qu'est-ce que vous avez fait Hartmann?
+
+AHMED	Vous n'avez aucun droit!
+
+EMILY	Pourquoi vous avez fait ça?
+
+FRANCHESCA	Vous étes fou ou quoi? Qu'est-ce qui vous prend?
+
+EMILY	Vous n'avez pas le droit de parler en notre nom!
+
+JONATHAN	(h->_________)
+
+MR. HARTMANN	Je suis certain qu'il rappellera.
+
+AHMED	Vous êtes inconscient!
+
+MR. HARTMANN	Mon fils ne figure pas dans les vidéos.
+
+AHMED	Mais il y a d'autres vies en jeu, vous savez!
+
+JONATHAN	Je trouve que Monsieur Hartmann a raison.
+
+JONATHAN	Je pense aussi qu'ils vont rappeler avec la preuve que tous nos enfants sont bien en vie.
+
+JONATHAN	(h/____)
+
+JONATHAN	C'est qu'une question de temps.
+
+(BOUCLE 98 - 02:07:26:21)
+		98
+
+KYLE	Maxwell!
+
+KYLE	(h->__)
+
+KYLE	(h->____)
+
+KYLE	(_hh_hh_hh_hh_)
+
+KYLE	(_hh_hh_hh_hh_____________)
+
+KYLE	(rhh->_____)
+
+(BOUCLE 99 - 02:07:53:08)
+		99
+
+DORSEY	(mha/____fff->_____)
+
+DORSEY	(_fffff____________)
+
+DORSEY	(fff->___)
+
+(BOUCLE 100 - 02:08:26:18)
+		100
+
+SPECK	Dorsey?
+
+SPECK	Rentre tout de suite.
+
+(BOUCLE 101 - 02:08:37:10)
+		101
+
+KYLE	(_hh_efforts_hh_)
+
+KYLE	(_hh_hh_hh_hh_)
+
+KYLE	(_hh_efforts_hh_____________)
+
+KYLE	(_hh_)
+
+(BOUCLE 102 - 02:08:59:22)
+		102
+
+HERRICK	Merde!
+
+KYLE	(Huh!)
+
+AMY	(uh!_hah!)
+
+MARSAC	(uh!)
+
+HERRICK	(uh!)
+
+FAYED	(uh!)
+
+KEIKO	(uh!)
+
+PALOMA	(uh!)
+
+PALOMA	C'est pas vrai! J'y crois pas!
+
+AMB	(TOUS: OUAIS GENIAL____)
+
+KYLE	(Shhh!___)
+
+PALOMA	Kyle!
+
+HERRICK	Alors ça, j'aurais pas cru!
+
+AMY	T'es revenu!
+
+KYLE	Ouais.
+
+KYLE	(_hh_hh_hh_hh_hh_____________________)
+
+AMY	Qu'est-ce que je suis contente de te voir!
+
+PALOMA	(uh!)
+
+KEIKO	(_hh_hh__________________________________)
+
+MARSAC	Détache moi!
+
+AMY	(_hh_____________________________)
+
+FAYED	Détache moi!
+
+HERRICK	Je t'aurais cru à mi-chemin pour les Hamptons, mec.
+
+FAYED	T'étais passé où?
+
+KYLE	J'espère que t'avais pas parié là dessus!
+
+FAYED	Allez, vite.
+
+HERRICK	Non!
+
+AMY	(h/___)
+
+PALOMA	C'est bon, je te détache!
+
+KEIKO	(_hh_hh_hh___________)
+
+PALOMA	(_hh_hh_hh_______)
+
+PALOMA	(Ah____)
+
+KYLE	Ecoute, t'es plus doué que moi pour ce genre de chose.
+
+HERRICK	(_hh_hh__)
+
+AMB	(BROUHAHA DES 3 FILLES + MARSAC/FAYED__________________________________________________________________________________________________________________________)
+
+HERRICK	(_hh_hh_______________________________)
+
+KYLE	Il faut prendre tout ce qu'on peut ici et s'en aller.
+
+KYLE	Ces gens-là n'plaisantent pas.
+
+KYLE	Ils vont tous nous tuer,
+
+KYLE	avec ou sans rançon!
+
+HERRICK	(h/_____)
+
+HERRICK	(h->__)d'accord.
+
+HERRICK	(_hh_hh_____________)
+
+HERRICK	Ecoutez-moi tous,
+
+HERRICK	prenez tout ce que vous pouvez, nourriture, équipements, il faut qu'on aille, vite!
+
+HERRICK	Marsac,
+
+MARSAC	(_hh_hh_)
+
+KYLE	On y va!
+
+(BOUCLE 103 - 02:09:42:10)
+		103
+
+SPECK	Je refuse de laisser ce p'tit con transformer mon opération en cirque!
+
+SPECK	(h/__)Apporte-moi Tilton!
+
+SPECK	Si elle sait quelque chose, elle va nous le dire tout d'suite.
+
+SPECK	Qu'est-ce qu'il y a?
+
+(BOUCLE 104 - 02:10:04:02)
+		104
+
+HENNIE	(h/_____________________________________________________________)
+
+(BOUCLE 105 - 02:10:11:12)
+		105
+
+KYLE	(_hh_hh_hh__________________________________________________________)
+
+AMY	(_hh_hh___________________________________________________)
+
+KYLE	Alors, Marsac, Fayed, toi, Amy, Keiko,
+
+KYLE	allez au nord vers la vieille ferme.
+
+KYLE	Vous serez à l'abri là haut.
+
+THORNTON	Non, on va pas se séparer. Pourquoi faire?
+
+KYLE	Parce que c'est plus difficile de traquer deux groupes, d'accord?
+
+KYLE	Alors, rester hors de vue et effacer vos traces.
+
+KEIKO	(_hh_hh_hh_h_________________________)
+
+HERRICK	Il faut qu'on s'en aille tout de suite!
+
+AMY	Oui, d'accord.
+
+KEIKO	(_hh_hh__)A tout à l'heure.
+
+KEIKO	(mh/___)
+
+KEIKO	Au revoir.
+
+(BOUCLE 106 - 02:10:45:10)
+		106
+
+SPECK	C'est qu'un gamin effrayé?!
+
+SPECK	Il a réussi à tuer l'un de nos meilleurs hommes et à libérer sept otages sous notre putain de nez!
+
+DORSEY	Ils ont pu aller bien loin. On va les traquer, puis on va les ramener.
+
+HENNIE	Ils ont aucun moyen de quitter l'île. Il faut juste arriver à les débusquer.
+
+SPECK	Alors fais-le!
+
+SPECK	Je veux qu'on les retrouve avant l'aube et j'veux plus de mauvaises surprises!
+
+(BOUCLE 107 - 02:11:10:13)
+		107
+
+MARSAC	(_hh_hh______________)
+
+FAYED	(_hh_hh__________________________________________________________________________________)
+
+AMY	(_hh_hh___________________________________________________________________________________________)
+
+KEIKO	(_hh_hh_________________________________________________)
+
+KEIKO	(_hh_hh_)
+
+KEIKO	(AH!)
+
+KEIKO	(ho_sanglots_______)
+
+AMY	(Ohh__)
+
+AMY	(_hh_hh_)Est-ce que ça va?
+
+KEIKO	(h/_)Oui, je vais bien.
+
+KEIKO	J'arrive.
+
+KEIKO	D'accord?
+
+AMY	D'accord.
+
+KEIKO	(_hh_hh__________________________________________________________________________________________________________________)
+
+KEIKO	(_hh_hh____________________________________________________________________________)
+
+(BOUCLE 108 - 02:11:53:10)
+		108
+
+THOMAS	(_hh_____________________________)
+
+FRANCES	S'ils allaient rappeler, ils l'auraient déjà fait.
+
+FRANCHESCA	Ils sont peut-être en train de chercher le garçon.
+
+FRANCES	(h/___)Ou peut-être qu'ils ont perdus patience.
+
+FRANCES	On perd du temps à attendre.
+
+FRANCES	(h/________)
+
+AHMED	(_hh_hh___________________________________)
+
+(BOUCLE 109 - 02:12:18:14)
+		109
+
+MR. HARTMANN	(h/__________)Des nouvelles d'Oshimoto?
+
+MARCOS	Pas encore,
+
+MARCOS	mais j'ai analysé les chiffres:
+
+MARCOS	bon, on a le cash pour la rançon, mais si on sort cet argent de la société, ça va tuer la fusion,
+
+MARCOS	ce qui nous laisserait dans une position éventuellement difficile.
+
+MR. HARTMANN	(h/_______________)
+
+MR. HARTMANN	vous voulez dire que je serais éventuellement ruiné,(h/______)et vous éventuellement sans emploi.
+
+MR. HARTMANN	(Hm?)
+
+MARCOS	Allons, ne soyons pas aussi mélodramatique. Il y a toujours des solutions.
+
+MR. HARTMANN	Westcom a décliné, Marcos.
+
+MR. HARTMANN	(h/___)Sauf si je peux trouver deux cent cinquante millions de dollars,
+
+MR. HARTMANN	la fusion est déjà morte, avec ou sans rançon.
+
+MR. HARTMANN	(h/___________)
+
+MR. HARTMANN	Appelez-moi si vous avez des nouvelles Oshimoto.
+
+KYLE	(_hh_hh_______________________________________________________________________)
+
+(BOUCLE 110 - 02:13:48:06)
+		110
+
+HERRICK	(_hh_hh_________________)
+
+HERRICK	(fff)
+
+HERRICK	(_hh_hh______________________)
+
+PALOMA	(_hh_h_________________)
+
+THORNTON	(_hh_hh_________________________________)
+
+(BOUCLE 111 - 02:14:12:17)
+		111
+
+HENNIE	(Ah!_____AH!_________)
+
+HENNIE	(Ah!__________)
+
+HENNIE	(AHHHHH!!!________________________________________)
+
+KYLE	(_hh_hh_)On continue.
+
+HENNIE	(h/____sssss___)
+
+HENNIE	(yaaahh___________)
+
+HENNIE	(AHHHHHHHH!!!!_________)
+
+HENNIE	(Haha!!)
+
+(BOUCLE 112 - 02:14:34:02)
+		112
+
+JONATHAN	(Pfff->________)
+
+JONATHAN	Vous tenez le coup?
+
+MR. HARTMANN	(h/_____)Tout autant que vous tous.
+
+MR. HARTMANN	J'attends que le téléphone sonne.
+
+MR. HARTMANN	Ecoutez, je sais que c'était risqué...
+
+MR. HARTMANN	mais je dois aussi m'assurer que mon fils aille bien.
+
+JONATHAN	(Mmhm)
+
+MR. HARTMANN	C'est tout c'qu'un parent (h/_)doit faire dans la vie:
+
+MR. HARTMANN	(h/_)protège nos enfants...
+
+MR. HARTMANN	non?
+
+JONATHAN	Nos enfants?
+
+JONATHAN	(_hh_)
+
+JONATHAN	(_rire_)
+
+JONATHAN	C'est drôle.
+
+MR. HARTMANN	Qui y'a-t-il de drôle?
+
+JONATHAN	Non, c'est rien.
+
+MR. THORNTON	Whisky?
+
+(BOUCLE 113 - 02:15:13:07)
+		113
+
+JONATHAN	En fait,( uh_)
+
+JONATHAN	Ma Amy est la fille qui(_uh_)
+
+JONATHAN	était avec Kyle le soir de son accident.
+
+JONATHAN	(mh/_)
+
+JONATHAN	C'est moi qui était d'accord pour taire l'affaire quand vous avez soudoyé ce juge.
+
+JONATHAN	Vous n'pouviez pas savoir. Après tout, vous aviez votre meilleur homme sur le coup. Ca doit être agréable d'avoir quelqu'un comme Shah pour se salir les mains à votre place.
+
+JONATHAN	Je suppose que c'est également pour ça que vous avez été désigné comme point de contact...
+
+JONATHAN	parce que vous avez la réputation d'obtenir ce que vous voulez.
+
+MR. HARTMANN	Oui.
+
+MARCOS	Oshimoto m'a rappelé.
+
+MR. HARTMANN	(h/___)Je vous mets sur haut-parleur.
+
+(BOUCLE 114 - 02:15:51:04)
+		114
+
+MARCOS	Les hommes d'Oshimoto ont déterminés la probabilité de survie de sa fille à trente pourcent.
+
+MARCOS	Il se retire.
+
+MARCOS	(mh/___)Il refuse de payer.
+
+MR. HARTMANN	Ils se basent sur quoi?
+
+MARCOS	Les kidnapping de ces dix dernières années.
+
+MARCOS	Peut-être qu'il a pas tort.
+
+MR. THORNTON	Donc, c'que vous dites, c'est que, puisqu'on peut pas les croire, faut pas les payer?
+
+JONATHAN	(nez_h/_______h->_______)
+
+MARCOS	C'est pas à moi de le dire.
+
+MARCOS	Mais...
+
+MARCOS	on pourrait leur forcer la main.
+
+MARCOS	En tout état de cause, ils mettront pas à exécution leur menace.
+
+MARCOS	Tuer des enfants?...
+
+MARCOS	Dans quel but?
+
+(BOUCLE 115 - 02:16:29:00)
+		115
+
+MR. HARTMANN	Et s'ils mettent leurs menaces à exécution?
+
+MARCOS	Soyons honnête deux secondes...
+
+MARCOS	ces enfants...
+
+MARCOS	ne vous ont causés que des soucis.
+
+MARCOS	Peut-être que ça arrangerez tout le monde?
+
+MR. HARTMANN	Marcos?
+
+MR. HARTMANN	Vous vous souvenez de notre conversation où vous aviez peur d'être sans emploi?
+
+MARCOS	Oui.
+
+MR. HARTMANN	C'est maintenant le cas.
+
+(BOUCLE 116 - 02:17:12:23)
+		116
+
+KYLE	(_hh_hh______________________________________)
+
+PALOMA	(_hh_hh_______________________________)
+
+KYLE	Salut.
+
+KYLE	(_hh_hh______________)
+
+KYLE	Qu'est-ce qui va pas?
+
+AMY	C'est Keiko...
+
+THORNTON	(Oh, )non, qu'est-ce qui lui est arrivée?
+
+AMY	(mh/__hh_hh_)
+
+AMY	Elle nous a pas dit qu'elle s'était blessée.
+
+AMY	Elle voulait pas nous faire perdre de temps.
+
+THORNTON	Comment ça?
+
+AMY	On n'a pas pu arrêter l'hémorragie.
+
+AMY	Elle est morte.
+
+THORNTON	(h/____)
+
+AMY	(_hh_hh____)
+
+AMY	Je suis désolée.
+
+THORNTON	Quoi?
+
+THORNTON	(_hh_h__)
+
+THORNTON	Qu'est-ce que tu racontes...
+
+THORNTON	elle peut pas être morte. Non!
+
+HERRICK	Thornton!
+
+AMY	(_hh_hh_hh_________)
+
+(BOUCLE 117 - 02:17:51:05)
+		117
+
+HERRICK	(_hh_hh_hh_hh______________________)
+
+KYLE	(_hh_hh_hh__________________________________________)
+
+PALOMA	(_hh_hh_______________________________________________)
+
+AMY	(_sanglots____)
+
+THORNTON	(_sanglots_____________)
+
+THORNTON	(h/_______________________)
+
+THORNTON	(h->_________________________)
+
+THORNTON	(h/_____________)
+
+HERRICK	(_hh_____________________________)
+
+MARSAC	(_hh_hh______________________________________________________________)
+
+THORNTON	(_sanglots_______________________)
+
+AMY	(_sanglots____________________)
+
+KYLE	(_hh_________h/___________________)
+
+KYLE	(nez_h->_____)
+
+KYLE	(nez_h/____________________)
+
+KYLE	(h->__________)
+
+KYLE	(_hh_hh______________________________________________________)
+
+AMY	Kyle!
+
+(BOUCLE 118 - 02:19:03:05)
+		118
+
+HENNIE	Kyle Hartmann...
+
+HENNIE	t'imagines pas à quel point j'avais hâte de te rencontrer.
+
+KYLE	(Ah, )ouais, mais je n'peux pas en dire autant de toi.
+
+HENNIE	(Oh, )t'es dûr.
+
+HENNIE	Maintenant je veux que tu lâches ton arc.
+
+AMY	(_hh_hh_hh________________)
+
+HENNIE	Lâche ton arc!
+
+HENNIE	A genoux!
+
+HENNIE	A genoux!
+
+HENNIE	Sinon, je te tue!
+
+HENNIE	(_hh_hh_)
+
+HENNIE	Les mains derrière le dos.
+
+HENNIE	J'ai hâte de voir le visage d'Amy quand je lui apporterai la tête de son petit ami sur un plateau.
+
+HENNIE	plutôt poétique, tu trouves pas?
+
+HENNIE	c'est limite biblique!
+
+(BOUCLE 119 - 02:19:50:12)
+		119
+
+AMY	(Arhah!____)
+
+HENNIE	(Ah_______________)
+
+AMY	(Ah____Ah_____)
+
+AMY	(Ah!_uh_)
+
+AMY	(AHHH!!!___)
+
+AMY	(AH!_________AIE!!___________)
+
+HENNIE	(_hh_______)
+
+AMY	(AAAHHH!!____)
+
+AMY	(_hh_hh_)
+
+HENNIE	(_hh_)
+
+AMY	(_ahah_)
+
+AMY	(__yah!_)
+
+HENNIE	(Ahhh____uh!___)
+
+HENNIE	(Arhhh!!_____)
+
+KYLE	(mm____hh___)
+
+HENNIE	(_hah__uh!_)
+
+AMY	(_hh_hh____)
+
+HENNIE	(ARH!!__)
+
+HENNIE	(RHA!___)
+
+AMY	(AH!___)
+
+HENNIE	(_hh_hh___)
+
+AMY	(_hh_hh_hh_)
+
+HENNIE	(_hh_hh_)
+
+AMY	(_hh_hh_hh_hh_)
+
+AMY	(ARRRHH____)
+
+HENNIE	(Uh_____)
+
+AMY	(_hh_hh_)
+
+HENNIE	(_hh_hh__)
+
+AMY	(AH!___)
+
+AMY	(ARGH!___)
+
+AMY	(_uh_uh_uh___________________)
+
+HENNIE	(_uh)
+
+KYLE	(_hh_hh_hh__________________)
+
+AMY	(RHA!_____________)
+
+AMY	(AHhh___)
+
+AMY	(uh!)
+
+AMY	(Arh__uh___)
+
+AMY	(Ahhhh______________)
+
+AMY	(AHHH!!__________)
+
+KYLE	(_hh_hh______)
+
+AMY	(AH!!____)
+
+AMY	(ARH!___)
+
+AMY	(_hh_hh_____________)
+
+HENNIE	(_mm____ah!___)
+
+AMY	(_hh_hh_hh___________________)
+
+AMY	(_mm_mm__)
+
+HENNIE	(_hh___)
+
+AMY	(AHHHH!!!___)
+
+HENNIE	(_ugh_ugh_ugh________________________________________)
+
+AMY	(_hh_hh________)
+
+KYLE	(_hh_hh___hh_hh____hh_hh_____)
+
+AMY	(_hh_hh_sanglots/douleurs__________________________________________________________________________________________________________)
+
+AMY	(_hah_hah_)
+
+AMY	(AHHHHH!!!___________________)
+
+AMY	(_ah__huh___huh___)
+
+AMY	(huh_)
+
+AMY	(huh_)
+
+(BOUCLE 120 - 02:21:08:05)
+		120
+
+KYLE	C'est bon, t'es prête?
+
+AMY	(h->__)Vas-y, dépêche toi.
+
+AMY	Un...
+
+AMY	Deux...
+
+KYLE	Deux...
+
+AMY	Trois...
+
+KYLE	Trois...(_uh_uh_uh_uh_)
+
+KYLE	(UH!_)
+
+AMY	(AH!___uh__uh__hh_hh_________oh___)
+
+KYLE	(Hé!___Hé!___Hé!___)
+
+KYLE	Reste avec moi, tu t'en sors bien!
+
+AMY	(ohh___ohh___ohh_______________)
+
+KYLE	C'est presque fini.
+
+AMY	Je crois que je fais une expérience extracorporelle!
+
+KYLE	Mais qu'est-ce qui va pas? Pourquoi tu risquerais ta vie comme ça!
+
+AMY	T'as risqué ta vie pour nous aider...
+
+AMY	je voulais en faire autant pour toi.
+
+KYLE	(X)
+
+KYLE	T'es vraiment cinglée!
+
+AMY	T'as peut-être raison.
+
+(BOUCLE 121 - 02:21:53:06)
+		121
+
+CHAMBLISS	Ici l'Agent Spécial du FBI Jess Chambliss.
+
+CHAMBLISS	Pas de soucis, la ligne est sécurisée.
+
+CHAMBLISS	(mh/__)Nous savons que vous êtes inquiet pour la sécurité de vos enfants,
+
+CHAMBLISS	mais vous avez eu raison de nous contacter.
+
+FRANCES	Je suis désolé pour votre fils, Monsieur Hartmann,
+
+FRANCES	quelqu'un devait faire quelque chose.
+
+CHAMBLISS	Nous travaillons avec les autorités Britanniques et nous mettons au point un plan pour sauver vos enfants.
+
+MR. HARTMANN	Un plan?
+
+MR. HARTMANN	Quel plan?
+
+CHAMBLISS	(h/__)Je n'suis pas habilitée à en discuter, monsieur Hartmann.
+
+MR. HARTMANN	Je vais demander à ce que mon jet soit ici dans l'heure...
+
+MR. HARTMANN	et je serais en Ecosse en moins de sept.
+
+(BOUCLE 122 - 02:22:24:19)
+		122
+
+CHAMBLISS	Monsieur Hartmann, je vous conseille vivement de rester où vous êtes.
+
+CHAMBLISS	Si vous y allez, non seulement vous mettez en danger votre vie mais également le succès de la mission.
+
+MR. HARTMANN	J'en ai assez de laisser la vie de mon fils aux mains d'autres personnes.
+
+MR. HARTMANN	Je n'vais pas rester planté ici à attendre que vous me donniez de mauvaises nouvelles.
+
+CHAMBLISS	Monsieur Hartmann...
+
+JONATHAN	Attendez!
+
+CHAMBLISS	Monsieur Hartmann!
+
+JONATHAN	Je voudrais venir aussi...
+
+JONATHAN	dès fois que je peux aider.
+
+LISA	Tu vas faire quoi une fois là bas?
+
+MR. HARTMANN	Tout ce qu'il faudra.
+
+(BOUCLE 123 - 02:22:50:11)
+		123
+
+AMY	(_hh_hh_hh___________________________________________________)
+
+KYLE	(_hh_hh_________________________________________________________________)
+
+AMY	Je dois faire une pause, Kyle.
+
+AMY	(h/_________)
+
+KYLE	D'accord,
+
+AMY	(hah->__)
+
+KYLE	mais ici, c'est pas le bon endroit.
+
+AMY	(h/___h->___h/___)
+
+AMY	Alors, il faut que t'avances sans moi.
+
+AMY	Je peux les ralentir et te donner le temps qu'il te faut.
+
+AMY	(_hh_hh______________)
+
+KYLE	Amy...
+
+KYLE	Il est hors de question que je te laisse ici!
+
+KYLE	D'accord?
+
+KYLE	Je t'laisserais pas cette fois.
+
+KYLE	(h->___h/___)
+
+KYLE	Et comme ça? C'est mieux?
+
+(BOUCLE 124 - 02:23:38:23)
+		124
+
+DORSEY	Soit pas idiot!
+
+DORSEY	Une arme automatique contre un arc et des flèches?
+
+DORSEY	Je veux que tu les jettes à terre tout de suite!
+
+DORSEY	Allez!
+
+HERRICK	D'accord! C'est bon, c'est bon, ça va!
+
+DORSEY	Mets-toi là où je peux te voir!
+
+DORSEY	Toi!
+
+DORSEY	Pose ton arme tout de suite!
+
+THORNTON	Non.
+
+DORSEY	Comment ça tu me dis 'non'!
+
+THORNTON	(h/___)Je te dis 'non'!
+
+THORNTON	J'vais pas lacher mon arme.
+
+DORSEY	Pourquoi tu veux absolument compliquer les choses?
+
+DORSEY	Lache ton arme ou j'fais exploser ta putain de tête!
+
+(BOUCLE 125 - 02:24:14:12)
+		125
+
+DORSEY	Tout le monde, restez où vous étes!
+
+DORSEY	(_h->__hh_hh_hh_hh_)
+
+THORNTON	Tu vas faire quoi... si on te fonce dessus en même temps?
+
+THORNTON	Tu vas tous nous tuer?
+
+DORSEY	(h->__h/__)
+
+DORSEY	J'ai tué tellement d'personnes que je les comptes plus!
+
+DORSEY	(h/___)
+
+DORSEY	Quatre de plus, ça m'dérange pas du tout.
+
+DORSEY	(_hh_hh_hh_hh__________)
+
+DORSEY	Ne bouge plus!
+
+DORSEY	(ff->_h/___ff->___)
+
+KYLE	Si tu nous tires dessus,
+
+KYLE	t'auras rien du tout!
+
+KYLE	Pas de rançon!
+
+DORSEY	(_hh_hh_hh_hh_hh_____)
+
+THORNTON	C'est bien pour ça que t'es venu ici.
+
+THORNTON	(_hh_)
+
+THORNTON	Tu veux repartir sans rien, c'est ça?
+
+DORSEY	Je crois qu'on peut se payer le luxe de tuer l'un d'entre vous.
+
+DORSEY	(_hh_hh_)
+
+DORSEY	Alors?
+
+DORSEY	Comme ça on verra qui est réellement le plus courageux.
+
+DORSEY	(UH!__)
+
+DORSEY	(ah___)
+
+DORSEY	(uhff__)
+
+DORSEY	(_uhh_uhh_uhh_uhh______)
+
+THORNTON	(_hh_hh_hh_hh______)
+
+(BOUCLE 126 - 02:25:36:24)
+		126
+
+DORSEY	Vas-y, tue-moi.
+
+(BOUCLE 127 - 02:25:54:06)
+		127
+
+PALOMA	On a entendu tirer.
+
+HERRICK	(_hh_hh_hh_hh__________________________________________________________________________________________)
+
+KYLE	Deux d'entre eux ont été tués.
+
+THORNTON	Il en reste encore un.
+
+KYLE	(h->___)
+
+HERRICK	(h->_____)Il va sûrement nous traquer comme il a dit.
+
+HERRICK	(_hh_hh_hh_hh_hh_hh_hh_hh__________________)
+
+KYLE	(_hh_hh_hh_hh_____________________________________)
+
+KYLE	On l'attendra.
+
+(BOUCLE 128 - 02:27:23:04)
+		128
+
+FAYED	Hartmann?
+
+FAYED	Je comprends pas pourquoi tu veux qu'on t'attrape vivant.
+
+MARSAC	Tu sais qu'on a récupéré un flingue?
+
+MARSAC	Tout ce qu'on doit faire, c'est attendre qu'il arrive et lui faire la peau.
+
+AMY	Pas si on n'est pas obligé.
+
+MARSAC	Bien sur qu'on est obligé!
+
+MARSAC	On doit le tuer lui, avant qu'il nous tue.
+
+MARSAC	Pourquoi on est en train d'en discuter?
+
+KYLE	Parce que c'est pas qui nous sommes.
+
+KYLE	On est pas de tueurs.
+
+KYLE	Tout ce qu'on a fait, c'était de la légitime défense.
+
+KYLE	Mais cette fois-ci, c'est différent, on a un choix.
+
+MARSAC	(_hh_hh_hh_hh_)
+
+MARSAC	Merde!
+
+(BOUCLE 129 - 02:28:04:09)
+		129
+
+AMY	(Hé! )Tuer quelqu'un, c'est pas aussi facile que tu crois, Marsac.
+
+MARSAC	(h->___)
+
+HERRICK	(_hh_hh_)
+
+HERRICK	D'accord, Kyle,
+
+HERRICK	c'est quoi ton plan?
+
+KYLE	C'est comme disait Maxwell...
+
+KYLE	si on sait tendre le bon piège,
+
+KYLE	au bon endroit, on peut tout attraper.
+
+KYLE	Est-ce que quelqu'un sait faire fonctionner un de ces truc?
+
+HERRICK	J'ai jamais utiliser d'armes à feu, j'sais même pas c'que c'est.
+
+THORNTON	C'est un fusil d'assaut M16, calibre Deux Cent Vingt Trois,
+
+THORNTON	automatique, le chargeur contient trente balles mais le fusil peut tirer jusqu'à huit cent balles minute.
+
+THORNTON	Mon père en a un dans sa collection.
+
+KYLE	Bon, ben, c'est toi qui t'y colle.
+
+(BOUCLE 130 - 02:29:02:06)
+		130
+
+THORNTON	(_hh_hh____________________)
+
+KYLE	Alors...
+
+KYLE	tu restes planqué tant qu'il est pas passé.
+
+KYLE	Dès que tu le vois, tu le suis à une bonne distance.
+
+KYLE	S'il revient sur ses pas, tirs quelques balles en l'air, ça le remettra dans la bonne direction.
+
+KYLE	D'accord?
+
+THORNTON	(snif)
+
+KYLE	C'est bon pour toi?
+
+THORNTON	(_hh_hh________________________________)
+
+KYLE	Génial.
+
+(BOUCLE 131 - 02:30:38:10)
+		131
+
+THORNTON	(BF_MMMARHHHH!!!_____)
+
+THORNTON	(MMMAHH!__)
+
+THORNTON	(MMMM)
+
+THORNTON	(MMMM_hh_hh_hh_)
+
+MARSAC	Non, Amy! Non!
+
+THORNTON	(mmm__mmmm___mmmm_)
+
+AMY	(ohh__)
+
+THORNTON	(_mmhh___mmhh___)
+
+SPECK	Je suppose que c'est pas ce que vous aviez prévus!
+
+SPECK	Jetez-les tout d'suite!
+
+THORNTON	(mmmm)
+
+MARSAC	(_hh_hh_)
+
+SPECK	Jetez-les!
+
+MARSAC	(_hh_hh_hh_hh_)
+
+(BOUCLE 132 - 02:31:14:06)
+		132
+
+SPECK	Hartmann!
+
+SPECK	Tu crois pas qu'il serait temps qu'on se rencontre?
+
+SPECK	On arrête de jouer maintenant!
+
+SPECK	On dirait que t'as été pas mal occupé!
+
+SPECK	Et t'as un joli taux de morts à ton actif, maintenant.
+
+SPECK	A vrai dire,
+
+SPECK	j'devrais te remercier.
+
+SPECK	Grace à toi, j'suis tout seul.
+
+SPECK	J'suis plus obligé de partager la rançon!
+
+KYLE	Tu crois toujours qu'ils vont te payer?
+
+SPECK	(_hh_hh_)
+
+SPECK	Je sais très bien qu'ils vont payer chaque dollar...
+
+SPECK	(h/______)parce que vos parents ont déjà tellement investis en vous.
+
+(BOUCLE 133 - 02:31:48:00)
+		133
+
+SPECK	Alors,
+
+SPECK	(h/______)
+
+SPECK	si toi, Kyle...
+
+SPECK	tu descends pas ici tout d'suite avec tes potes,
+
+SPECK	(h/__)j'vais faire exploser la tête de la p'tite amie.
+
+AMY	(_hh_hh_____)
+
+SPECK	J'prendrais pas autant de temps pour m'décider.
+
+SPECK	(Urgh!_)
+
+SPECK	(_uh__uhuhuh____)
+
+AMY	(Wouah!_)
+
+SPECK	(_hh_hh_)
+
+KYLE	(uh)
+
+SPECK	(uh)
+
+AMY	(UH!)
+
+KYLE	COURS!
+
+AMY	(_hh_hh____)
+
+(BOUCLE 134 - 02:32:47:24)
+		134
+
+MARSAC	(AHHH!!!___uh___)
+
+AMY	Marsac!
+
+AMY	NON!
+
+PALOMA	(Uh!____)
+
+SPECK	Merde!
+
+SPECK	(UH!)
+
+SPECK	(h->___)
+
+PALOMA	(_hh_hh_hh_)
+
+SPECK	Hartmann!
+
+FAYED	Marsac!
+
+(BOUCLE 135 - 02:33:19:20)
+		135
+
+SPECK	(_hh_)
+
+KYLE	(Yihah!)
+
+SPECK	(Ahh__)
+
+KYLE	(Yahhh_____)
+
+KYLE	(uh)
+
+KYLE	(uh)
+
+KYLE	(uhah!)
+
+KYLE	(uh)
+
+SPECK	(ouhah)
+
+KYLE	(uh)
+
+SPECK	(uh)
+
+SPECK	(rhhh_________________)
+
+KYLE	(_uh_____)Lache moi(_uh______)arrête.
+
+KYLE	(_hh_hh_______________________)
+
+SPECK	(_rrr____________)
+
+SPECK	C'est pas un jeu!
+
+KYLE	(_uh!_)
+
+KYLE	(uh_)
+
+SPECK	(ouah!)
+
+KYLE	(_arh___)
+
+SPECK	(huh!)
+
+KYLE	(uhh_)
+
+KYLE	(uh)
+
+KYLE	(uhhh__)
+
+SPECK	(arhh!)
+
+SPECK	(mhh_)
+
+SPECK	(ahh!)
+
+KYLE	(uhhh_)
+
+KYLE	(urgh______________________________)
+
+KYLE	(yuh!)
+
+KYLE	(uh!)
+
+KYLE	(uh)
+
+KYLE	(uhhh_)
+
+SPECK	(rrrhhh__ahhh______________)
+
+KYLE	(_hh_hh______)
+
+KYLE	(uh_)
+
+SPECK	(yiha!)
+
+KYLE	(uhh)
+
+SPECK	(hmm)
+
+KYLE	(ahhh!!!)
+
+SPECK	(yiah!)
+
+KYLE	(_hh_hh_)
+
+SPECK	(huh!)
+
+KYLE	(ahh!!)
+
+KYLE	(uhhh___)
+
+KYLE	(_hh_)
+
+SPECK	(mmhh)
+
+KYLE	(_uhhh__hh__hh___)
+
+KYLE	(_hh_hh__)
+
+SPECK	(_hh_ARH!_)
+
+SPECK	(ARHH!!_)
+
+(BOUCLE 136 - 02:34:19:16)
+		136
+
+KYLE	(_hh_hh__ARH!_)
+
+SPECK	(ARH!!___)
+
+KYLE	(Yiah!)
+
+KYLE	(_hh_hh_hh_)
+
+SPECK	(_hh__________)
+
+KYLE	(uhh!___)
+
+SPECK	(_hh_hh_________________________)
+
+KYLE	(_hh_hh___________UH!_____)
+
+KYLE	(_urhhh____________)
+
+SPECK	(Houah!!!_)
+
+KYLE	(Uh!)
+
+KYLE	(_uh______)
+
+SPECK	(Yah!)
+
+KYLE	(uh__)
+
+KYLE	(_hh__urh__urh_____________________________________________________________________________________________________)
+
+SPECK	(Arhh_________________________)
+
+KYLE	(_hh_hh_hh_____________________)
+
+KYLE	(UH!)
+
+SPECK	(ARH!_)
+
+KYLE	(UH!)
+
+SPECK	(Ahh_)
+
+KYLE	(uh)
+
+SPECK	(ARH!!_)
+
+KYLE	(URRHHH___)
+
+SPECK	(ARHHHHHHH!!!)
+
+KYLE	(_hh_hh______________________________________)
+
+(BOUCLE 137 - 02:35:10:18)
+		137
+
+AMY	(_hh_hh___________________________________)
+
+AMY	(_hh_hh_______)
+
+KYLE	(_hh_hh_hh__________________________________________)
+
+(BOUCLE 138 - 02:35:43:15)
+		138
+
+AMB	(RADIO POLICE INDISTINCT + BROUHAHA FOULE_________________)
+
+FEMME INSPECTOR	Toutes les preuves doivent être mis sous scellées et envoyés à Scotland Yard.
+
+CHEF POLICIER	Je veux que cette île soit passée au peigne fin!
+
+FAYED	Attention.
+
+MARSAC	(Oh )ça fait mal.
+
+KYLE	(_hh_hh____________________________________________________)
+
+KYLE	(_hh_hh_________________________________)
+
+KYLE	(_hh____)
+
+MR. HARTMANN	(_hh_hh________________________________)
+
+MR. HARTMANN	(_hh_hh_hh_hh_________________)
+
+KYLE	(mh/______________________)
+
+MR. HARTMANN	(_hh_hh___________________________________)
+
+(BOUCLE 139 - 02:36:39:02)
+		139
+
+KYLE	(h->___)
+
+AMY	Votre fils était plutôt incroyable ces derniers jours, Monsieur Hartmann.
+
+MR. HARTMANN	(h/___)
+
+MR. HARTMANN	Je crois qu'il était pas seul à l'être.
+
+MR. HARTMANN	Vous étes Amy, n'est-ce pas?
+
+MR. HARTMANN	Ravi de vous rencontrer enfin en personne.
+
+AMY	Oui, moi aussi.
+
+AMY	(Uh___)Je vais vous laisser discuter entre vous.
+
+KYLE	(HAH!__)
+
+(BOUCLE 140 - 02:37:13:01)
+		140
+
+AMB	(AMB BROUHAHA / RADIO POLICE CONTINUE________________)
+
+AMY	J'arrive pas à croire que tu sois venu.
+
+JONATHAN	Je tiens beaucoup à toi, Amy.
+
+JONATHAN	Plus que tu ne le crois.
+
+(BOUCLE 141 - 02:37:52:19)
+		141
+
+MR. HARTMANN	C'est difficile à croire que cet homme Speck a planifié cette opération seul.
+
+JONATHAN	La seule chose dont on est sûr, c'est qu'il ne reste personne à interroger.
+
+JONATHAN	(mh/_)
+
+AMY	Tu devrais répondre, Jonathan.
+
+AMY	(mh/_____)
+
+AMY	Tu veux nous dire pourquoi les derniers sept appels reçus sur le téléphone satellite de Speck viennent de celui que tu tiens?
+
+JONATHAN	(_hh_hh____________)
+
+JONATHAN	(euh______)
+
+AMY	T'arrivais pas à mettre tes sales mains sur la fortune de mon père, alors t'as décidé de trouver un autre moyen, c'est ça?
+
+(BOUCLE 142 - 02:38:33:05)
+		142
+
+JONATHAN	Quoi? Je sais pas du tout de quoi elle parle, elle est hystérique.
+
+MR. HARTMANN	(UH!)
+
+JONATHAN	(_hh_)
+
+MR. HARTMANN	D'innocentes personnes sont mortes à cause de vous!
+
+JONATHAN	(_hh_hh_)
+
+AMY	Mon père m'a toujours dit de vivre ma vie en essayant de faire changer les choses.
+
+JONATHAN	(_hh_hh_hh_hh_)
+
+AMY	Grace à toi, je sais pourquoi.
+
+JONATHAN	(_hh_hh________________)
+
+AMB	(RADIO POLICE INDISTINCT_______)
+
+JONATHAN	(h/__)
+
+JONATHAN	Je n'ai rien fait! Elle a tout inventé!
+
+JONATHAN	Elle ne m'a jamais aimé. C'est n'importe quoi cette histoire!
+
+KYLE	(_hh_hh______________________________________________________)
+
+KYLE	Ca va?
+
+(BOUCLE 143 - 02:39:20:24)
+		143
+
+INSERT	(GENERIQUE FIN)
+
+(BOUCLE 144 - 02:43:16:00)
+		144
+
+INSERT	(DI)

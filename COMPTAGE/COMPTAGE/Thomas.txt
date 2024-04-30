@@ -1,0 +1,2025 @@
+THOMAS the great race
+Propositions de titres : Le grand tournoi des locos/ Thomas et le tournoi des locos/ La grande course
+
+ (BOUCLE 1 - 10:00:01:08)
+		01
+
+Clarabelle	Le soleil brille ce jour-là au-dessus de la petite ile de Chicalor.
+
+Narrator	Thomas tracte tranquillement le train local, qui s'arrête à chaque gare de la ligne principale reliant les Quatre Vents à la Ville des Vicaires.
+
+Thomas	(hh) (hh)
+
+
+(BOUCLE 2 - 10:00:35:23)
+		02
+
+Annie	Clarabelle! Ce n'est pas...?
+
+Clarabelle	Non! C'est une magnifique journée Annie! Ecoute! Que c'est beau, le chant des oiseaux!
+
+Annie	Oui! Bien sûr! Cui, cui , cui! Cui, cui, cui!
+
+Thomas	Qu'est-ce que vous racontez  comme bêtise toutes les deux derrière? Moi, je n'entends pas les ... (hhh) Gordon! (h)
+
+Annie	Non, Thomas! Pas question!
+
+Clarabelle	Tu ne vas pas faire la course!
+
+Annie	Il est censé être lent, ce train!
+
+Thomas	(éclats de rire) On va seulement jusqu'à l'aiguillage, d'accord? Le premier à le franchir gagne la course!
+
+Annie	Non!
+
+Clarabelle	Non! (h)
+
+Thomas	Et c'est Thomas  le champion qui s'élance en tête! La petite locomotive, numéro un dans le cœur des fans, roule et fonce à toute vapeur…
+
+Gordon	L'express passe avant tout!
+
+Thomas	…pour battre la grande tortue bleu ciel: Gordon! (hh)
+
+(BOUCLE 3 - 10:01:26:21)
+		03
+
+Thomas	Thomas appuie à fond sur ses supers pistons! Sa chaudière est au maximum!
+
+Clarabelle	Ah!
+
+Thomas	C'est la dernière ligne droite! Plus que quelques mètres! Et c'est gagné! (Ha ha ha!) hou hou hou! C'est moi le vainqueur! Haha! Pas d'chance Gordon! (rire)
+
+Gordon	Oh!
+
+(BOUCLE 4 - 10:01:45:12)
+		04
+
+Narrator	Quand Thomas arrive à la ville des vicaires, le dernier arrêt sur la ligne principale, il a toujours le piston sur l'accélérateur! Or, il est censé rouler lentement!
+
+Voix haut-parleur	Le train local entre en gare. Veuillez-vous éloigner du quai, merci.
+
+Annie	Oh!
+
+Clarabelle	Eho!
+
+Thomas	Ahahou!
+
+Clarabelle	Ah!
+
+Thomas	Ah! Un jour, je ferai la course, je traverserai cette gare, j'irai sur le continent en traversant le pont et je reviendrai ici!
+
+Clarabelle	Pas aujourd'hui en tout cas! Ce train s'arrête ici!
+
+Thomas	Oh! Oh wahou! C'est qui la locomotive avec les deux tenders?
+
+(BOUCLE 5 - 10:02:29:15)
+		05
+
+Thomas	Salut! Tu travailles pour un autre chemin de fer? Moi, j'ai été fabriqué sur le continent! Et une fois, bon… c'était il y a longtemps, j'ai eu la chance d'y retourner avec les célèbres locomotives de Chicalor!
+
+Flying Scotsman	Sérieusement? Je ne savais pas qu'il y avait des locomotives célèbres dans le coin! Oh! Bonjour Gordon!
+
+Thomas	Ah vous vous connaissez?
+
+Gordon	Oui Thomas, on se connait! On se connait très bien! Je te présente mon grand frère. On le surnomme l'écossais volant!
+
+Flying Scotsman	Oui, oui, très juste! Ce surnom, ça fait très "pilote de course célèbre"!
+
+(BOUCLE 6 - 10:03:03:12)
+		06
+
+Gordon	(h)
+
+Flying Scotsman	Oh Gordon! Tu ne connais pas la grande nouvelle?
+
+Gordon	(hh)
+
+Flying Scotsman	J'ai été invité à participer au Grand Tournoi des Locos  sur le continent! Et c'est moi qui vais gagner!
+
+Gordon	Hein?
+
+Thomas	Le Tournoi des locos? Je ne connais pas!
+
+Flying Scotsman	C'est une suite d'épreuves qui permet de désigner lequel d'entre nous est le plus rapide, le plus génial... le grand champion quoi! Mais je ne suis pas sûr que quelqu'un de Chicalor se soit inscrit!
+
+Gordon	Je n'ai pas envie d'y aller de toute manière! Surtout si c'est avec des types dans ton genre, incapables de parler d'autres choses que leur petite vie formidable sur le continent!
+
+Thomas	Eh bien... moi, ça m'dit beaucoup!
+
+Flying Scotsman	Comme je te comprends  Thomas! Avec un peu de chance, peut-être que tu iras. L'écossais volant passe avant tout!
+
+Gordon	Oh!
+
+Thomas	Ah!
+
+(BOUCLE 7 - 10:04:17:21)
+		07
+
+Thomas	Oh oh regardez!    Voilà l'affiche du Grand Tournoi des Locos! (hhh)
+
+NOTE	(Chanson n°1)
+
+Fat controller	Oh!
+
+Gordon	(éclats de rire)
+
+(BOUCLE 8 - 10:04:49:08)
+		08
+
+Fat controller	Hmm! Bonne question, ça!
+
+Gordon	Euh...Ca veut dire que vous ne me choisirez pas Monsieur?
+
+Gordon	Oh!
+
+Philip	Aaaah!
+Thomas			Ah !
+			
+(BOUCLE 9 - 10:05:34:11)
+		09
+
+Cranky	Moi, en tout cas, je ne vais nulle part!
+
+Fat controller	Ooooh!
+
+(BOUCLE 10 - 10:06:08:17)
+		10
+
+Thomas (fin chanson)	Dites, J'y vais ou pas au tournoi des locos?
+
+G+J+D	(rires moqueurs)
+
+Gordon	Ohoh Thomas! Pourquoi notre chef bien-aimé inscrirait-il une petite locomotive comme toi au Grand Tournoi des Locos?
+
+Fat controller	Mais je n'ai pas encore choisi qui j'allais inscrire! Et en tout cas,  certains vont devoir rester travailler sur Chicalor. Je vous rappelle que l’on a des trains à faire rouler! Je répète: on a des trains à faire rouler!
+
+Henry	Désolé!
+
+Diesel	Exact! Oui!
+
+James	Je vais travailler.
+
+(BOUCLE 11 - 10:06:48:22)
+		11
+
+Percy (chantonne)	Tralalala au tournoi des locos!
+
+Thomas	Je sais ce que je ferai pendant que les autres seront au tournoi des locos!
+
+Percy	(hh) Ah oui? Quoi?
+
+Thomas	Je déplacerai encore des wagons! Oh! (il imite le gros contrôleur) Certains vont devoir rester travailler sur Chicalor! Blablabla ! On a des trains à faire rouler!
+
+Percy	Ahahah! Tu  sais, tu as un don naturel pour préparer les trains!
+
+Thomas	Merci mais je m'en passerais bien! Je préfèrerais aller au Grand Tournoi des Locos!
+
+Philip	(hah) Si tu y tiens tellement Thomas, tu vas devoir mettre toute ta volonté dans ce projet!
+
+(BOUCLE 12 - 10:07:27:15)
+		12
+
+Philip	C'est comme ça que j'ai battu Gordon! J'ai fixé un point sur la voie…
+
+Gordon	Fonce!
+
+Philip	… et ensuite j'ai foncé! Tchou-tchou! (tiketiketiketiketiketike ahhhhh) Gordon a beau être grand et très costaud ahaha, c'est quand même moi qui ai gagné!
+
+Percy	Ahah! C'est parce que tu faisais la course tout seul! Gordon n'était même pas au courant Philip!
+
+Philip	Oh, j'aimerais bien que vous arrêtiez tous de dire ça! C'est un détail! L'important c'est de savoir qu'on peut tout réussir si on le veut très  très fort. La volonté, c'est ça le vrai secret!
+
+Percy	(hh)
+
+Thomas	(hh)
+
+Philip	Oh flute! Pardon!
+
+(BOUCLE 13 - 10:08:13:21)
+		13
+
+Narrator	Le lendemain matin, Thomas s'est réveillé de très bonne humeur.
+
+Thomas	Et si Philip avait raison. Peut-être que je peux avoir tout ce que je veux! Si j'arrive à rouler aussi vite que l'écossais volant, le gros contrôleur m'inscrira au Tournoi!
+
+Annie	Hou! Tu n'as pas le même moteur que lui, enfin!
+
+Caitlin	Salut Thomas!
+
+Thomas	Oh! Caitlin! Et si j'avais la même forme aérodynamique! Ça me permettrait de rouler plus vite encore!
+
+Annie	(rire)
+
+Clarabelle	(rire) C'est n'importe quoi!
+
+Annie	C'est n'importe quoi!
+
+Clarabelle	Sois un peu réaliste! Houuu!
+
+Annie	Houuu!
+
+NOTE	(chanson N°2)
+
+(BOUCLE 14 - 10:09:06:05)
+		14
+
+Man	Oh!
+
+Woman	Ah!
+
+Clarabelle	Ah! Oh!
+
+Annie	Ah!
+
+Thomas	Houhouhou! Ah! Wouah! Oh! Formidable! Wahou!
+
+Clarabelle	Oh!
+
+Thomas	J'adore!
+
+(BOUCLE 15 - 10:09:57:12)
+		15
+
+Caitlin	Oh!
+
+Connor	Oh!
+
+Bertie	Ah!
+
+Gordon	Oh! (hh)
+
+James	Ah! Ah!
+
+Thomas	Whoaaah!
+
+(BOUCLE 16 - 10:10:25:15)
+		16
+
+Fat controller	Ahem ahem!
+
+Thomas	Oh! (h) Pardon Monsieur (aha)! Je crois que j'ai un peu trop appuyé sur l'accélérateur!
+
+Fat controller	Oui Thomas! On peut dire ça, en effet!
+
+Thomas	Mais j'ai eu une idée!
+
+Fat controller	(hh)
+
+Thomas	Si vous choisissez une locomotive, euh comme moi disons, (h)  et si vous demandez à l'atelier d'améliorer son aérodynamisme, en transformant sa silhouette…
+
+Clarabelle	Oh!
+
+Thomas	… alors cette locomotive aura toutes les chances de gagner une épreuve! Ahah!
+
+Fat controller	Bien vu! C'est une excellente idée! Bravo!
+
+Clarabelle	Quoi?
+
+Annie	Ah bon? Vous êtes sûr de ça Monsieur?
+
+Fat controller	Ohoh bien évidemment Annie! Thomas a bien raison! Et... une fois qu'il sera passé à l’atelier, Gordon roulera aussi vite qu'une fusée!
+
+Thomas	Oh!
+
+Fat controller	Qu'est-ce que tu en penses Gordon?
+
+Voix haut-parleur	N'oubliez pas de composter vos billets avant de monter dans le train.
+
+(BOUCLE 17 - 10:11:22:03)
+		17
+
+Narrator	Mais le travail ne doit pas pâtir de toute l'excitation causée par le Tournoi, et sur le port de Brendham, tout le monde prend sa tâche au sérieux!
+
+Cranky	Attention Diésel. Elle est très grosse, cette caisse! Est-ce qu'elle te convient?
+
+Diesel	Oh non non non pas celle-là, Cranky! J'en voudrais une plus grosse! Oh! Oh, euh! Celle-là! Haha oui! Celle-là!
+
+Cranky	Je peux savoir ce que tu fabriques avec toutes ces caisses?
+
+Diesel	Ça ne te regarde pas, ce que je fais avec! C'est une surprise! Héhéhéhé!
+
+Cranky	Oh! Quel ronchon! Oh!
+
+(BOUCLE 18 - 10:12:00:02)
+		18
+
+Cranky	Ça n'a pas l'air d'aller!
+
+Thomas	J'ai eu une idée géniale pour participer au Tournoi des Locos mais le gros contrôleur a refusé que j'aille faire refaire toute ma carrosserie!
+
+Cranky	(il éclate de rire)
+
+Thomas	Oh!
+
+Cranky	Oh oh oh Thomas! Elle est bien bonne! Depuis quand on refait toute sa carrosserie? (rire)
+
+Thomas	Arrête de te moquer de moi, Cranky! (hh)
+
+Dock manager	(hh)
+
+Man2	Oh!
+
+Man	(hh)
+
+(BOUCLE 19 - 10:12:29:01)
+		19
+
+Etienne	On est censé aller où?
+
+Big Bully	Ah ah ahh!
+
+AMB nelles locos	(ah il était temps qu'on arrive/bonjour bonjour/Comme c'est mignon! / On va pouvoir se dégourdir les pistons! Etc...)
+
+Ashima	Tout a l'air tellement différent par ici!
+
+Axel Belgian	Oh, ça va? Euh, bonjour!
+
+Gina italienne	Allez, on avance, merci!
+
+Dock manager	Hé! Arrêtez! Stop!
+
+Big Bully	Oh, attention!
+
+Dock manager	Et vous allez où, je peux savoir?
+
+Axel Belgian	(hh) Au Grand Tournoi des Locos, évidemment!
+
+Thomas	Ah!
+
+Dock manager	C'est une erreur, les épreuves n'ont pas du tout lieu ici, mais sur le continent! Là, vous êtes sur l'ile de Chicalor!
+
+Axel Belgian	(hh) On est sur l'ile de... (hh) Oups!
+
+(BOUCLE 20 - 10:13:05:13)
+		20
+
+Axel Belgian	On s'est trompé!
+
+Big Bully	Hééé!
+
+Gina italienne	Tout le monde doit remonter à bord!
+
+AMB nelles locos	(Quoi? C'est une plaisanterie! Demi-tour!)
+
+Raoul Brazilian	Plus vite! Plus vite!
+
+AMB nelles locos	(quelle mauvaise organisation/on devrait se plaindre/ marche arrière toutes!)
+
+Ashima	J'arrive! Attendez-moi!
+
+Thomas	Vous allez  au tournoi? (hh) Alors vous allez tous vous installer sur ...
+
+Big Bully	Laisse-nous passer, tu vois bien que tu gênes! Regarde donc où tu mets tes roues, crevette!
+
+Thomas	C'est celui qui recule qui fait attention! Oh oh! Pourquoi je ne viens pas avec vous? Il y a de la place pour une autre locomotive!
+
+Gina italienne	Il manque quelqu'un on dirait!
+
+Big Bully	(rire)
+
+Thomas	Aïe!
+
+Ashima	Pardon!
+
+Thomas	Oh! NON! NON! Ahhh! (hh)
+
+Porter	Thomas!
+
+Thomas	Au secours! Vite!
+
+Man2	Venez nous aider!
+
+Thomas	Ahh! Oh! Aaaah! Je vais tomber!
+
+Dock manager	Vas-y! Marche avant!
+
+Thomas	(cris de panique) Ahh ah woah! (continue de crier) Woah! Ah ouf! Hou!
+
+(BOUCLE 21 - 10:14:00:15)
+		21
+
+AMB men	Hourrah!
+
+Thomas	Ah! Oh!
+
+Salty	Il a eu chaud!
+
+Porter	Oh quel sauvetage!
+
+Thomas	Vous êtes drôlement mal-élevées comme locomotives! On croirait qu'elles sont à vous, ces voies! Pourquoi vous auriez un traitement de faveur? Vous croyez peut-être que vous êtes meilleurs parce que vous...
+
+Ashima	Je suis vraiment désolée. Je ne voulais pas te rentrer dedans, c'est un accident. Je n'avais pas remarqué que tu étais derrière moi.
+
+Salty	Euh,  merci de m'avoir sauvé ! Moi je m'appelle Thomas! Et toi?
+
+Thomas	Salty!
+
+Salty	(rire) Ne dis pas de bêtise Thomas! (rire) Elle ne peut pas s'appeler Salty! C'est mon nom!
+
+Ashima	(rire)
+
+Salty	(rire)
+
+Ashima	Moi je m'appelle Ashima!
+
+Thomas	Ben... euh... En fait... (h) Donc euh... C'est pas tout ça, j'ai du travail!
+
+Porter	Thomas! Oh woah!
+
+Ashima	(rire)
+
+Thomas	Certains d'entre nous ont des trains à faire rouler !
+
+(BOUCLE 22 - 10:15:02:16)
+		22
+
+Narrator	Et voilà Thomas de retour aux hangars, pour déplacer encore d'autres wagons!
+
+Percy	Ça n'a pas de sens! Pourquoi elle a voulu te pousser dans l'eau?
+
+Thomas	Mais je n'en sais rien! Peut-être qu'elle était jalouse!
+
+Percy	(h)
+
+Thomas	Ou alors... C'est juste une brute, tout simplement!
+
+Percy	Mais... alors... pourquoi venir à ton secours?
+
+Thomas	Aucune idée! Je ne la connais pas, cette fille!
+
+Philip	Moi, si j'étais toi Thomas, j'essayerais de la tenir à distance! Ce genre de locomotive n'attire que des ennuis.
+
+(BOUCLE 23 - 10:15:51:20)
+		23
+
+Narrator	Cet après-midi-là, Thomas est à nouveau en charge du train local en compagnie d'Annie et de Clarabelle.
+
+Thomas	Oh oh non (h)! C'est elle!
+
+Annie	Qui ça?
+
+Clarabelle	Qui ça?
+
+Ashima	Oh Thomas! Thomas! Ahh!
+
+Thomas	(hh)
+
+Ashima	Ah, re-bonjour donc! (hh)
+
+Thomas	Salut! (hh) Je croyais que tu participais au Tournoi des Locos.
+
+Ashima	Oui c'est vrai! Mais j'ai raté le ferry. Et je ne sais pas quelle voie mène là-bas!
+
+Annie	Oh, Thomas aussi veut aller au Grand Tournoi des Locos!
+
+Clarabelle	Oh, Thomas aussi veut aller au Grand Tournoi des Locos!
+
+Annie	Alors pourquoi vous n'iriez pas ensemble?
+
+Thomas	Eh bien euh, je ne crois pas que ce soit une bonne idée Annie! Ça m'étonnerait qu'on me choisisse! Oh! Il va falloir que tu trouves quelqu'un d'autre pour t'accompagner!
+
+(BOUCLE 24 - 10:16:42:03)
+		24
+
+Thomas	Vous n'auriez jamais dû lui dire que je voulais aller au Tournoi avec les autres.
+
+Clarabelle	Mais c'est vrai pourtant
+
+Annie	Mais c'est vrai pourtant!
+
+Thomas	Oui! Qu'est-ce qu'elle a de spécial, cette fille-là? Elle n'est ni rapide, ni grande, ni forte! Pourquoi elle peut y aller, elle, c'est trop injuste?
+
+Clarabelle	Peut-être, mais sa peinture est vraiment superbe!
+
+Annie	Je suis d'accord, elle est sublime! Oh! Toutes ces belles couleurs!
+
+Thomas	De belles couleurs? Une sublime peinture? La belle affaire! Moi aussi je peux me faire repeindre si je veux! (oh)
+
+Narrator	Une nouvelle idée fuse alors dans la cheminée de Thomas!
+
+Annie	Thomas!
+
+Clarabelle	Thomas!
+
+(BOUCLE 25 - 10:17:23:16)
+		25
+
+Narrator	De son côté, Ashima se sent un peu perdue. Elle doit absolument aller sur le continent.
+
+Ashima	Oh! Excuse-moi?
+
+Narrator	Le souci c'est qu'elle ne sait pas comment!
+
+Ashima	Bonjour!
+
+Narrator	Ni à qui demander.
+
+Ashima	Ça s'annonce mal! (h) Ah! Thomas! Attends! Où tu vas?
+
+Thomas	Je suis occupé!
+
+Ashima	Mais dis-moi juste comment on fait pour... quitter cette ile et aller sur le continent?
+
+(BOUCLE 26 - 10:18:10:03)
+		26
+
+Ashima	(h) Bonjour. Vous ne seriez pas les wagons de Thomas?
+
+Clarabelle	Oui c'est exact! Disons plutôt, on l'était!
+
+Annie	Il a annulé notre train et il nous a abandonné sur cette voie de garage!
+
+Ashima	Il avait l'air d'être très pressé, vous savez où il est allé?
+
+Annie	Non, justement!
+
+Clarabelle	Non, justement!
+
+(BOUCLE 27 - 10:18:31:01)
+		27
+
+Gordon	(chantonne la chanson n°2) (tom)
+
+Kevin	Youpi!
+
+Gordon	Tout changer
+
+Kevin	(rire) Oh! Euh...Gordon!
+
+Gordon	(tralala tom tom)
+
+Kevin	Oh! Woah!
+
+Gordon	OH! J'aimerais bien que tu te presses un peu! A ce rythme-là, je ne serais jamais prêt pour le Grand Tournoi des Locos!
+
+Victor	Ce n'est pas facile de changer la forme d'une locomotive à vapeur, Gordon. Tu vas devoir être patient.
+
+Thomas	Victor! Victor! Je viens te confier une mission! Je veux une nouvelle peinture! J'aimerais avoir surtout des éclairs jaunes et des petits carrés noirs et blancs et... euh... pour le reste étonne-moi!
+
+Gordon	Ahem ahem ahem!
+
+Victor	Hélas, nous sommes déjà très occu...
+
+Thomas	C'est important Victor! C'est pour le Grand Tournoi des Locos!
+
+(BOUCLE 28 - 10:19:21:20)
+		28
+
+Narrator	Au même moment, Diésel est aussi en train de fomenter un plan.
+
+Diesel	On va devoir faire tout ce qui est en notre pouvoir Paxton!
+
+Paxton	Oh euh d'accord Diésel. Mais j'ai un peu de mal à comprendre, désolé!
+
+Diesel	Mon plan c'est de faire en sorte que l'on vous prenne pour des wagons! Enfin, MES wagons! Comme ça, les gens croiront que je tracte un train extrêmement lourd, sans aucune aide! Si le gros contrôleur pense que je suis plus costaud qu'Henry, il me choisira, moi, pour participer au Tournoi des Locos à sa place! (rire diabolique) Je suis plein de surprises.
+
+Paxton	Oh tu vas chanter Diésel?
+
+NOTE	(Chanson N°3)
+
+(BOUCLE 29 - 10:20:14:19)
+		29
+
+Den	Oh!
+
+Paxton	Eh, c'est tout noir là-dedans!
+
+(BOUCLE 30 - 10:20:55:17)
+		30
+
+Diesel	(rire diabolique)
+
+(BOUCLE 31 - 10:21:18:19)
+		31
+
+Dart	Pardon!
+
+Paxton	Aaah! Qui me pousse?
+
+Den	Oh!
+
+Diesel	(Hihihi) (rire diabolique) Oh! NON! Hé! Revenez ici! Attendez-moi!
+
+(BOUCLE 32 - 10:21:46:04)
+		32
+
+Narrator	A l'atelier de Victor, tout a été mis en place pour que la carrosserie de Thomas soit repeinte quand tout à coup...
+
+Fat controller	Bonjour Kevin, bonjour Victor. Je passe juste voir où vous en êtes avec la nouvelle carrosserie de Gordon.
+
+Thomas	Oh non! (h) Pas maintenant!
+
+Fat controller	Oh! Thomas?
+
+Thomas	Surprise! Hah! Je ne voulais pas vous le dire avant, Monsieur. J'ai une nouvelle super idée pour le Tournoi des Locos! Pourquoi vous n'envoyez pas une locomotive avec une décoration originale?
+
+Fat controller	Oh oui! Il faut penser au prix de la plus belle carrosserie!
+
+Thomas	(hh)
+
+Fat controller	Tu as raison!
+
+Thomas	(ah)
+
+Fat controller	Ah, oh! Mais euh tu ne devrais pas être au travail sur ta ligne, toi?
+
+(BOUCLE 33 - 10:22:39:10)
+		33
+
+Thomas	Annie! Clarabelle! Me revoilà! Pardon pour le retard mais j'ai fait un saut à l'atelier de Victor pour voir ... Annie? Clarabelle? Emilie!
+
+Emilie	Thomas! Tu connais la nouvelle? Le gros contrôleur veut que ma carrosserie soit toute redécorée!
+
+James	Salut vous deux! Vous ne savez pas la meilleure? Le gros contrôleur a décidé que j'allais être repeint!
+
+Emilie	Toi aussi?
+
+Thomas	Quoi?
+
+Emilie	Tu vas participer au Grand Tournoi des Locos alors!
+
+James	Oui, évidemment! Quelle joie! Ce ne sera pas pareil si je n'y vais pas!
+
+Emilie	(hh) Oh, wahou! Moi aussi, je viens!
+
+James	Ahaha apparemment Thomas nous a devancés à l'atelier de peinture.  Le résultat est vraiment très décevant!
+
+Thomas	(hh hh)
+
+(BOUCLE 34 - 10:23:34:00)
+		34
+
+Thomas	Ça c'est juste un accident! Vous n'avez pas vu Annie et Clarabelle par hasard? Je les avais laissées là mais...
+
+Emilie	Oh, je les ai croisées! Elles étaient avec la petite nouvelle. Tu sais? La jolie mauve qui vient d'Inde!
+
+Thomas	Ashima?
+
+Emilie	Oui, c'est elle! Elle est géniale! Ahaha on y va James! A plus tard, Thomas!
+
+(BOUCLE 35 - 10:23:56:07)
+		35
+
+A+C	(rires jusqu’à narrator)
+
+Narrator	Ashima a ramené Annie et Clarabelle sur la ligne secondaire de Thomas, et grâce à elles, le trafic a enfin repris!
+
+Ashima	Oh!
+
+Thomas	Ashima!
+
+A+C	Thomas!
+
+Clarabelle	(h)
+
+Thomas	Philip a raison!
+
+Annie	Oh!
+
+Thomas	Les machines comme toi ne causent que des ennuis.
+
+Ashima	Oh!
+
+Thomas	Qui t'a autorisé à rouler avec  MES wagons?
+
+Clarabelle	Comment ça, TES wagons? (h) On ne t'est pas réservées! On a le droit de choisir notre locomotive, hein Annie?
+
+Annie	Tout à fait! Et qu'est-ce qu'il y avait de si important pour nous laisser sur une voie de garage?
+
+Thomas	(hh hh)
+
+Annie	Oui tu  nous as laissées toutes seules loin...
+
+Clarabelle	Et au milieu de nulle part!
+
+Annie	Aux Marrons!
+
+Clarabelle	Oui, au milieu de nulle part!
+
+(BOUCLE 36 - 10:24:50:23)
+		36
+
+Thomas	J'ai juste... Oh! Désolé mais euh... Y avait quelque chose qui me tenait à cœur.
+
+Annie	Oh! Démarre Ashima! On a du travail!
+
+Thomas	Je voulais juste être repeint! (Ah) Je me disais que le gros contrôleur me ferait participer au tournoi si ma carrosserie se démarquait des autres!
+
+Ashima	Qu'est-ce que tu veux dire Thomas? (h) Tu veux dire... comme moi?
+
+Thomas	Non! (h) Non, pas du tout! Enfin... (h) si! (h) T'as raison!
+
+Ashima	(rire) Tu es très rigolo, je ne sais pas si on te l'a déjà dit!
+
+NOTE	(chanson N°4)
+
+Thomas	Oh!
+
+(BOUCLE 37 - 10:26:12:02)
+		37
+
+Thomas	Je ne m’aime pas comme je suis! Ah! Ah! Bien sûr!
+
+(BOUCLE 38 - 10:27:11:20)
+		38
+
+Thomas	Ah!
+
+(BOUCLE 39 - 10:28:07:03)
+		39
+
+Ashima	Thomas? Est-ce que tu es doué pour déplacer et trier des wagons?
+
+Thomas	Oui!
+
+Voix haut-parleur	N'oubliez pas de composter vos billets avant de monter dans les trains.
+
+Thomas	J'ai un vrai don! Mais pourquoi tu me demandes ça?
+
+Ashima	Parce qu'à ta place je m'inscrirais à l'épreuve des wagons. Tous les meilleurs préparateurs de train participent à la compétition.
+
+Thomas	C'est vrai?
+
+(BOUCLE 40 - 10:28:34:10)
+		40
+
+Narrator	Le lendemain matin, c'est avec un grand sourire que Thomas quitte la gare de triage.
+
+Thomas	Je dois m'entrainer pour mon épreuve. Le gros contrôleur sait que dans ce domaine, je suis expert!
+
+Narrator	Il arrive à toute vapeur aux Quatre Vents, pressé de se mettre au travail!
+
+Thomas	Oh! Hé!
+
+Diesel	Oh pardon, je suis désolé! Je ne l'ai pas fait exprès, tu t'en doutes Thomas. C'est vrai qu'on ne m'attend pas là où je suis. Et oui, je suis plein de surprises!
+
+Thomas	(hh)
+
+Diesel	Oups! (rire)
+
+Thomas	Qui va tracter tous ces wagons?
+
+Diesel	Moi, bien sûr! Mais une fois que le gros contrôleur sera arrivé. Je dois lui montrer à quel point je suis costaud afin qu'il me choisisse pour le tournoi!
+
+Thomas	Mais du coup,  personne ne peut ni entrer ni sortir de la zone et j'ai des wagons qui m'attendent!
+
+Diesel	On ne t'a jamais appris qu'il fallait être patient Thomas!
+
+(BOUCLE 41 - 10:29:25:17)
+		41
+
+Narrator	Thomas n'a pas le temps d'être patient! La date du tournoi approche et le gros contrôleur est justement en train de choisir quelles locomotives il va inscrire.
+
+Fat controller	Ah! Percy! J'ai besoin de parler à Thomas. Tu ne sais pas où il est par hasard?
+
+Voix haut-parleur	Le petit Paul attend ses parents au guichet avec le chef de gare.
+
+Percy	Je crois qu'il est parti aux hangars Monsieur, pour s'entrainer.
+
+Voix haut-parleur	Le train pour Tit'mouss partira dans sept minutes.
+
+Fat controller	Hmm.
+
+(BOUCLE 42 - 10:29:47:13)
+		42
+
+Narrator	Comme Diésel refuse de bouger un seul de ses  nombreux wagons, Thomas décide de le faire à sa place, quitte à se faire disputer après!
+
+Ashima	Salut Thomas!
+
+Thomas	Salut Ashima! J'ai prévu de m'entrainer aujourd'hui. Mais avant, je dois surtout dégager le passage.
+
+Ashima	Oh! Ces wagons se déplacent tous seuls.
+
+Thomas	C'est exact! Je vais les déplacer tout seul!
+
+Paxton	Oh! C'est le signal de Diésel.
+
+Den	Je ne savais pas que Diésel avait un sifflet!
+
+Dart	Peut-être qu'on entend les sons déformés quand on est caché!
+
+Paxton	Bon allez, on pousse!
+
+Thomas	Oh!
+
+(BOUCLE 43 - 10:30:25:00)
+		43
+
+Thomas	Pincez-moi, je surchauffe! Soit ces wagons sont beaucoup plus légers que je ne le croyais, soit ils sont capables de se déplacer sans aide! Whoaoh! Ne poussez pas!
+
+Fat controller	Ah! Bravo! Regardez-moi ça! Je savais que Thomas était très doué mais je ne me doutais pas qu'il était si fort.
+
+Thomas	Whooooah!
+
+Diesel	Non, Thomas! Qu'est-ce que tu fabriques? Tu vas tout faire rater!
+
+Thomas	(hh) Non! Arrêtez!
+
+Ashima	Thomas! Attention!
+
+Thomas	Aaaaaah!
+
+Norman	Aaaah!
+
+(BOUCLE 44 - 10:31:08:06)
+		44
+
+Narrator	Le jour du Grand Tournoi des Locos est enfin arrivé. Et le gros contrôleur a finalement choisi qui il allait y envoyer.
+
+James	Voilà!
+
+Henry	Oh! Vous êtes vraiment magnifiques! Ah!
+
+Philip	Je viens avec vous! C'est moi qui porterai le drapeau!
+
+Victor	Gordon, tiens-toi tranquille! Les mécaniciens doivent encore faire les dernières vérifications!
+
+Gordon	Non, non, ça prend  beaucoup trop de temps!
+
+Emilie	(hh) Oh!
+
+Gordon	Tout le monde est prêt sauf moi! C'est un scandale!
+
+Henry	Oh!
+
+Victor	Gordon!
+
+Henry	Oh!
+
+Victor	Attends!
+
+Gordon	Non! Je refuse d'attendre! Moi, j'ai une course à gagner! Ah!
+
+(BOUCLE 45 - 10:31:54:10)
+		45
+
+Emilie	Wahoua!
+
+Henry	Ah!
+
+Philip	C'est quoi, Gordon? Là, la chose en rouge!
+
+Gordon	Ca euh, c'est mon nouvel emblème! Je ne veux plus qu'on m'appelle Gordon dorénavant! Désormais, je ne serai plus connu que sous le nom de "l'étoile filante!"
+
+Philip	Wahou! Salut étoile filante!
+
+Gordon	Très bien! Tu as tout compris! C'est mon frère qui va faire une drôle de tête quand il   me verra!
+
+(BOUCLE 46 - 10:32:25:17)
+		46
+
+Narrator	A l'atelier des diésels, pendant ce temps-là, Diésel a ses propres soucis.
+
+Diesel	Vous auriez dû vous rendre compte que c'était Thomas qui vous tractait et pas moi!
+
+Paxton	Oh! Ah!
+
+Diesel	Ça ressemble vraiment au son d'un sifflet ça, vous en êtes sûrs? Bip bip?
+
+Paxton	Mais on entend moins bien quand on est caché dans une caisse en fait!
+
+Den	Et on n'y voit rien! Ah!
+
+Diesel	Stop!
+
+Den	(hh)
+
+Diesel	Plus d'excuses, compris? Si j'avais été dans la caisse, j'aurais été tout à fait capable de... Aïe!
+
+P+D+D	(ils éclatent de rire)
+
+Diesel	Sortez-moi de là! Remontez-la!
+
+P+D+D	(re-rires) Oh!
+
+Den	Waaahou!
+
+Dart	Il a disparu!
+
+Paxton	C'est vrai qu'il est doué pour les surprises, hein?
+
+Diesel	N'importe quoi!
+
+Paxton	Ah?
+
+Diesel	Faites-moi tout de suite redescendre! C'est un ordre! AÏE! (efforts) Aidez-moi à sortir de cette caisse!
+
+P+D+D	(rires) (rires)
+
+Diesel	Oh! Ouille ouille ouille!
+
+Paxton	Oh! (hh)
+
+(BOUCLE 47 - 10:33:33:12)
+		47
+
+Fat controller	Nous savons tous très bien à quel point tu aimerais participer au Grand Tournoi des Locos Thomas…
+
+Diesel	Sortez-moi de là!
+
+Fat controller	…mais tu n'aurais dû te mettre dans la tête de tracter tous ces wagons tout seul!
+
+Diesel	Faites ce que je vous dis!
+
+Fat controller	(hh) C'est normal que tu aies eu accident avec!
+
+Thomas	Oui Monsieur! Je vous demande pardon. Mais c'est moins grave que ça en a l'air.
+
+Fat controller	Bien sûr, je ne m'étais pas rendu compte à quel point tu étais fort! Je voulais t'inscrire à l'épreuve de préparation des trains.
+
+Thomas	Je vais disputer une épreuve? Merci Monsieur! Organiser les wagons, c'est ma spécialité! J'adore!
+
+Fat controller	Mais le problème... c'est que tu n'es plus en état du tout! Tu as besoin d'être réparé et les autres participants ne pourront pas t'attendre.
+
+Thomas	Ahahah aucun souci Monsieur! C'est seulement des égratignures et quelques bosses.
+
+(BOUCLE 48 - 10:34:20:02)
+		48
+
+Thomas	Je peux toujours déplacer des wagons. J'ai un don pour ça!
+
+Fat controller	Oui je sais bien Thomas! Mais c'est Percy qui représentera Chicalor à l'épreuve de préparation des trains.
+
+Thomas	Oh!
+
+Percy	Hein? Moi?
+
+Thomas	Mais...
+
+Fat controller	C'est comme ça Percy! Allez, en avant! Les autres doivent nous attendre.
+
+Percy	Oh Thomas! Je n'ai pas envie d'aller au tournoi! (hh) Tu sais  bien mieux préparer les trains que moi! Oh euh, tu ne peux pas y aller et ça me désole!
+
+Ashima	Moi aussi, je suis triste pour toi!
+
+Percy	(hh)
+
+Thomas	Oh!
+
+Percy	Oh!
+
+Thomas	Ashima?
+
+Gordon	Tu viens Percy? On t'attend, nous!
+
+Percy	Oh!
+
+(BOUCLE 49 - 10:34:55:03)
+		49
+
+Ashima	C'est vraiment très injuste, toute cette histoire! Ce n'est pas de ta faute si tu as eu cet accident. Le comportement de ces wagons n'avait rien de normal!
+
+Fat controller	Tout le monde est prêt?
+
+Ashima	Oh!
+
+Fat controller	En route pour le Tournoi des Locos!
+
+Ashima	Je crois que je ferais bien de les suivre. Je n'ai pas envie de rester encore derrière. Au revoir Thomas.
+
+Thomas	Au revoir Ashima. Et bonne chance! Oh!
+
+(BOUCLE 50 - 10:35:29:23)
+		50
+
+Philip	C.H.I.C.A.L.O.R, c'est qui les meilleurs? C'est nous!
+
+AMB foule	(Ambiance hourrah coucou etc... pendant toute la scène des arrivées jusqu'à 10.35.43.11))
+
+Philip	C'est Chicalor qui va gagner! Oui, parce que c'est nous les meilleurs!
+
+AMB foule	(Ambiance déchainée du public)
+
+Announcer	Vous avez des cafétérias et dans la tente principale, vous trouverez l'accueil et le bureau  d'informations.
+
+Philip	Wahou!
+
+Emilie	Wahou!
+
+Gordon	Oh!
+
+Announcer	Soyez tous les bienvenus! Nous avons plusieurs épreuves au programme aujourd'hui, et nous avons la chance d'accueillir des locomotives extraordinaires provenant des quatre coins du globe.
+
+James	(hh)
+
+Percy	Oh!
+
+Announcer	Promenez-vous le long des rails et prenez le temps d'aller les admirer. C'est un jour que vous n'oublierez pas de sitôt!
+
+(BOUCLE 51 - 10:36:22:23)
+		51
+
+Ashima	Ca y est! On y est! Alors... Bonne chance les amis! Que la meilleure locomotive gagne!
+
+Emilie	Merci Ashima. A toi aussi, bonne chance!
+
+Announcer	Nous commencerons les compétitions par l'épreuve de force qui se tiendra dans la zone sud-ouest à midi et demie.
+
+Henry	(hh)
+
+Announcer	Nous enchainerons par la parade des locomotives décorées qui défilera dans la zone principale à partir de treize heures.
+
+Emilie	Ah!
+
+James	Ah!
+
+(BOUCLE 52 - 10:36:52:11)
+		52
+
+Emilie	(hh)
+
+Gordon	Euh et moi, je suis censé aller où?
+
+Announcer	Ensuite, vous pourrez assister à la Grande Course, notre célèbre épreuve de vitesse.
+
+Gordon	(hh)
+
+Announcer	Va-t-on battre des records aujourd'hui?
+
+Gordon	(hh)
+
+Announcer	Pour le savoir, il va falloir patienter encore un peu, Mesdames et Messieurs.
+
+Gordon	Salut grand frère!
+
+Flying Scotsman	(h) Gordon? C'est bien toi? J'ai presque du mal à te reconnaitre.
+
+Gordon	Je m'appelle l'étoile filante maintenant.
+
+Flying Scotsman	Ohohohoh! Ne sois pas ridicule!
+
+Gordon	Hah! Tu me trouveras beaucoup moins ridicule quand je passerai la ligne en tête! (Hmh!) (hh) Ooooh!
+
+Announcer	Nous avons de sérieux concurrents et la lutte promet d'être serrée, vous pouvez me faire confiance.
+
+AMB foule	(ambiance sur VI?)
+
+Announcer	D'ailleurs, l'atmosphère sur la zone de départ est déjà très électrique!
+
+(BOUCLE 53 - 10:37:39:06)
+		53
+
+Narrator	Sur Chicalor, dans l'atelier de réparation, le pauvre Thomas  a le moral dans les pistons.
+
+Victor	Si ça peut te consoler, tu n'es pas le seul à être resté sur Chicalor. Regarde-moi! Je suis là! Et il y a plein d'autres locomotives qui travaillent sans faire d'histoire.
+
+Kevin	Patron? Euh...Excuse-moi!
+
+Victor	Les trains du gros contrôleur doivent rouler et il compte sur nous.
+
+Kevin	S'il te plait. J'ai une question.
+
+Victor	Qu'y a-t-il de si important que tu viennes me déranger?
+
+Kevin	Euh... Euh ça... qu’est-ce que c'est?
+
+Victor	Ça c'est la soupape de sécurité de Gordon!
+
+Kevin	Oui! C'est bien ce que je me disais!
+
+(BOUCLE 54 - 10:38:14:12)
+		54
+
+Victor	Oh! Oh non! C'est pas vrai!
+
+Thomas	(hh)
+
+Victor	Le moteur de Gordon n'a donc pas été remonté correctement! Je lui avais pourtant dit d'attendre pour vérifier! Sans soupape de sécurité, il risque la surchauffe! Surtout si son moteur est poussé au maximum! Gordon a besoin de cette pièce maintenant!
+
+Thomas	Apporte-la lui Victor! Et fonce!
+
+Victor	C'est impossible Thomas! Le seul qui peut y arriver à temps c'est toi!
+
+Thomas	Hein?
+
+(BOUCLE 55 - 10:38:44:19)
+		55
+
+Narrator	Alors même qu'il n'a pas été réparé, Thomas file à fond les wagons apporter à Gordon la soupape qui lui manque.
+
+Thomas	Oh! (hh)
+
+Narrator	Il traverse à toute vapeur la gare de la ville des Vicaires pour aller vers le pont. Et c'est la catastrophe!
+
+Thomas	Oh! Oh non! Ah! Faut que je traverse! Ce n'est pas le moment d'hésiter! Yah! Aaah! Hah!
+
+(BOUCLE 56 - 10:39:24:09)
+		56
+
+Thomas	(hh) Ahahahaha! J'ai réussi! J'ai réussi! Wouhouhou!
+
+Samson	Thomas?
+
+Thomas	Oh oh! Pincez-moi, je surchauffe! Oh! Je roule sur la mauvaise voie!
+
+Connor	Vite, écarte-toi!
+
+Man2	Oh! (hh)
+
+Thomas	Oh! Aaaah! Hiro!
+
+Hiro	Ah!
+
+Man2	(efforts)
+
+Thomas	(cris de panique) Sidney!
+
+Sidney	Ah!
+
+Man2	Oh!
+
+Thomas	Waouh! Oh! Hou! Je vais rester sur la bonne voie!
+
+Man2	Ouf!
+
+(BOUCLE 57 - 10:40:09:01)
+		57
+
+
+Announcer	Madame Blanche est attendue à la cafétéria qui se trouve sur la voie numéro cinq.
+
+Fat controller	Voilà.
+
+Announcer	Madame Blanche est attendue à la cafétéria de la voie numéro cinq.
+
+Percy	Oh! Pourquoi le gros contrôleur m'a inscrit au tournoi? J'ai aucune chance de gagner mon épreuve!
+
+Gordon	Moi, j'ai l'intention de gagner la mienne! (hh)
+
+Philip	J'ai trouvé ta voie pour la Grande Course! Suis-moi étoile filante! Je t'emmène. (hhh) Oh! T'étais là? Désolé!
+
+Big Bully	Ouais, tu ferais mieux de regarder où tu roules, la crevette, ou tu risques de finir au recyclage!
+
+Philip	(hh)
+
+Percy	Oh!
+
+Gordon	Oh!
+
+Big Bully	(rire diabolique)
+
+(BOUCLE 58 - 10:40:50:00)
+		58
+
+
+Narrator	C'est à ce moment-là que Thomas fait son entrée.
+
+Thomas	Nom d'un tchou-tchou! Cet endroit est encore plus grand que dans mes rêves! Y'a tellement de locomotives. Comment retrouver... Gordon? Gordon!     Ouf j'ai réussi à te trou... Oh! Tu n'es pas Gordon?
+
+Frieda German	Hah! J'ai une tête à m'appeler Gordon? Mon nom c'est Frieda!
+
+Thomas	(hh)
+
+Announcer	Ca y est Mesdames et Messieurs, la compétition est lancée avec la fameuse épreuve de force!
+
+AMB foule	(Hourrah bravo etc...)
+
+Announcer	Et c'est parti! Vous avez devant vous les locomotives les plus puissantes du monde du rail!
+
+Percy	Courage Henry!
+
+Announcer	Elles doivent tracter un chargement qui laisserait sur place n'importe quelle autre de leurs collègues!
+
+Loco rayée	(efforts)
+
+Henry	Oh (ggggg)
+
+Percy	Tire! Tire!
+
+Henry	(efforts)
+
+AMB foule	(bravos et cris d'encouragement)
+
+Announcer	Admirez la force de leurs pistons! Réunissez-les et vous pourrez déplacer des montagnes!
+
+(BOUCLE 59 - 10:41:45:20)
+		59
+
+Thomas	Gordon! Gordon! Non, reste là! J'ai quelque chose à te dire. C'est urgent! Gordon!
+
+Rajiv	(hh)
+
+Thomas	Gordon! (hh) Reviens!
+
+Emilie	Thomas? Qu'est-ce que tu fabriques ici?
+
+Thomas	(hh)
+
+James	Thomas? Salut!
+
+Thomas	Euh, j'essaye de ... de rejoindre Gordon. Je dois lui expliquer un truc important.
+
+Man	Vous comprenez.
+
+Woman	Voilà.
+
+Fat controller	Hmmm. Hmm. Hihihi!
+
+(BOUCLE 60 - 10:42:21:07)
+		60
+
+Fat controller	(hh)
+
+Philip	Alors, comment ça s'est passé? Tu as gagné l'épreuve Henry?
+
+Henry	Non! Je...je suis cinquième!
+
+Philip	Wahou! C'est génial!
+
+Henry	Sur cinq concurrents au total.
+
+Philip	Oh!
+
+Announcer	On vient tout juste de me remettre la décision des juges: Le prix de la plus belle carrosserie est décerné à...
+
+Rajiv	(hh)
+
+Emilie	Ah!
+
+James	Oh! Quel honneur! Merci c'est trop gentil!
+
+Announcer	…notre concurrent indien…
+
+James	Hein? Indien?
+
+Announcer	Rajiv!
+
+AMB foule	(hourrah bravos etc...)
+
+Announcer	Sa carrosserie est tout simplement magnifique!
+
+Rajiv	Ah!
+
+Chinois	Oh!
+
+Announcer	C'est amplement mérité, bravo Rajiv!
+
+Chinois	Oh!
+
+Rajiv	(hh) (hh)
+
+James	N'importe quoi! Ce prix aurait dû être pour moi!
+
+(BOUCLE 61 - 10:42:59:17)
+		61
+
+Emilie	Dis donc Ashima! Pourquoi tu n'es pas venue à la parade?
+
+Ashima	Ahaha! Je vais faire l'épreuve de préparation de trains. Ce n'est pas parce que je suis bien décorée que je ne peux rien faire d'autre.
+
+Thomas	(hh) Henry! Percy! Philip!
+
+Percy	Oh!
+
+Percy	C'est Thomas!
+
+Philip	Coucou Thomas!
+
+Thomas	Je dois retrouver Gordon au plus vite! C'est très très important!
+
+Percy	Oh!
+
+Thomas	Tout à l'heure je l'ai vu mais là je ne sais pas où il est.
+
+Philip	C'est pourtant évident, la course va commencer, t'as pas entendu? La Grande Course devrait commencer dans deux...
+
+Announcer	La Grande Course devrait commencer dans deux minutes, Mesdames et Messieurs.
+
+Thomas	Non!
+
+Percy	Comment tu fais pour l'imiter, Philip?
+
+Thomas	Faut qu'on l'arrête! Il n'a pas de soupape de sécurité, sa chaudière risque d'exploser!
+
+Philip	Tu plaisantes? Oh non! Suivez-moi!
+
+(BOUCLE 62 - 10:43:54:04)
+		62
+
+Announcer	Les concurrents sont maintenant en place sur la ligne de départ. Admirez ces locomotives!
+
+AMB foule	(ambiance foule déchainée, sur VI?)
+
+Announcer	Vous avez devant vous les plus rapides des chemins de fer du monde entier. Sur la voie numéro un, voici Etienne, le diésel électrique français qui va tenter de battre aujourd'hui son propre record du monde. A côté, vous avez Spencer, le concurrent local acclamé par ses supporters déchainés!
+
+Spencer	Ah!
+
+AMB foule	(ambiance bravos plus forts)
+
+Spencer	(rire) Non, non!
+
+Announcer	Il est très connu dans la région et a son propre fan-club.
+
+Spencer	Oh c'est trop!
+
+Announcer	Lui aussi tentera de battre son record. Sur la voie numéro trois, vous avez Axel un concurrent qui vient tout droit de Belgique!
+
+Flying Scotsman	Bonne chance à toi p'tit frère!
+
+Gordon	Ce n’est pas sur la chance que je compte pour gagner, moi!
+
+Announcer	Et vous pouvez compter sur lui pour donner du fil à retordre à ses petits camarades!
+
+Thomas	Gordon!
+
+(BOUCLE 63 - 10:44:35:05)
+		63
+
+Thomas	Gordon!
+
+Announcer	A sa gauche, je vous présente le célèbre écossais volant dont la réputation n'est plus à faire!
+
+Thomas	Heureusement je t'ai trouvé!
+
+Gordon	Stop! Tu t'es trompé! Mon nom c'est étoile filante!
+
+Announcer	Vous avez tous suivi ses exploits à la télévision lors des derniers championnats.
+
+Thomas	D'accord, désolé Gordon! Pardon, étoile tombante. Voilà, je suis venu t'avertir!
+
+Announcer	Et enfin, tout au  bout, vous avez Gordon de la petite ile de Chicalor.
+
+Thomas	Victor dit que tu n'as pas de soupape de sécurité dans le moteur.
+
+Announcer	Méfiez-vous car il pourrait bien vous réserver des surprises, celui-là!
+
+Gordon	Tu me déranges Thomas! Je n'ai pas le temps de discuter,
+
+Thomas	(h)
+
+Gordon	la course va commencer...
+
+Thomas	(h)
+
+AMB foule	(ambiance foule en délire sur VI?)
+
+Gordon	…maintenant!
+
+Thomas	Non Gordon! Reviens! Faut que tu t'arrêtes!
+
+(BOUCLE 64 - 10:45:02:22)
+		64
+
+Announcer	Oh regardez! Nous avons un participant de dernière minute!
+
+AMB foule	(ils éclatent de rire)
+
+Thomas	Tu risques d'exploser! Ta chaudière va surchauffer!
+
+Gordon	Oh Thomas!
+
+NOTE	chanson N°5
+
+Axel Belgian	Ah!
+
+Flying Scotsman	(hh)
+
+Spencer	Oh!
+
+(BOUCLE 65 - 10:45:48:21)
+		65
+
+Gordon	Oh!
+
+Announcer	Etienne et Spencer mènent la course en tête, mais après un départ brouillon, l'étoile filante les suit de très près.
+
+Gordon	(efforts)
+
+Flying Scotsman	Gordon!
+
+Announcer	Il a réussi à dépasser Axel et l'écossais volant…
+
+Flying Scotsman	Gordon!
+
+Gordon	Ce n’est pas mon nom!
+
+Announcer	…et maintenant il se rapproche de plus en plus d'Etienne et de Spencer.
+
+Flying Scotsman	Je t'en supplie, stop! Ecoute-moi Gordon! Y'a un truc qui cloche!
+
+Gordon	Non, pas question! Moi, je fonce!
+
+Announcer	Je ne sais pas ce qui se passe mais il semblerait que l'étoile filante ait des petits problèmes mécaniques.
+
+Thomas	(hh)
+
+Henry	Oh!
+
+Philip	Oh!
+
+Percy	(h)
+
+Philip	Oh!
+
+Henry	Oh!
+
+Percy	Oh!
+
+Gordon (chante)	Vroum! L'étoile filante déboule d’un coup! Vroum je vais tous vous mettre à genoux !
+
+Announcer	Ça m'a l'air mal parti!
+
+Gordon	mais vous ne verrez mes amis qu’un trait ohohohohoh
+
+(BOUCLE 66 - 10:46:27:22)
+		66
+
+Gordon	Ahhhh! (gggggg ah)
+
+Announcer	C'est terrible: sa chaudière a explosé!
+
+AMB foule	Ohhh! Ohhh!
+
+Fat controller	Oh! (hh)
+
+Announcer	Il perd de la vitesse.
+
+Gordon	Oh!
+
+Flying Scotsman	Oh!
+
+Announcer	L'étoile filante est forcée de déclarer forfait. C'est une tragédie!
+
+Gordon	Oh! Quelle humiliation!
+
+Announcer	C'est maintenant Spencer qui est en tête! Suivi d'Etienne, d'Axel et de l'écossais volant. Et alors qu'ils approchent de la ligne d'arrivée, Spencer semble invincible! Non attendez, Etienne surgit sur le côté!
+
+Etienne	(hh)
+
+Spencer	Ah!
+
+Etienne	Au revoir!
+
+Spencer	Oh!
+
+Announcer	Plus que quelques mètres et c'est Etienne qui franchit la ligne d'arrivée le premier!
+
+AMB foule	(ambiance foule en délire)
+
+Announcer	Le diésel électrique français vient en plus d'établir un nouveau record du monde, ce qui me fait dire: Respect! (hhh)
+
+(BOUCLE 67 - 10:47:19:24)
+		67
+
+Emilie	Courage Percy! Tu es notre seul espoir! Chicalor n'a gagné aucune épreuve!
+
+Percy	Non (h), écoutez je refuse! Je suis trop nerveux! Et de toutes manières, Thomas est là!  C'est lui qui devrait faire l'épreuve de préparation des trains, pas moi!
+
+Philip	Oh, il est là! Thomas! Thomas! Oh oh!
+
+Big Bully	Oh! Encore toi!
+
+Philip	Euhm... Désolé?
+
+Big Bully	Arghhh!
+
+Philip	Ah! Ah! Aaaaah!
+
+Italian shunter	Ah! Nom d'une pizza!
+
+Philip	Ah!
+
+Big Bully	Oh! Pouah! Là, crevette, c'en est trop!
+
+Philip	Aaaaaah!
+
+(BOUCLE 68 - 10:48:09:20)
+		68
+
+Percy	Donc, les wagons sont éparpillés sur toute la zone, Thomas.
+
+Emilie	C'est exact. Il y a plusieurs sortes: wagons plats, couverts ou citernes. Et tu dois en avoir trois de chaque sur ta voie.
+
+Thomas	(h)
+
+Philip	Ah!
+
+Emilie	Plus un fourgon-frein et... Est-ce que tu m'écoutes Thomas, il faut que tu sois prêt!
+
+Thomas	Oh! Moi? Pourquoi moi? C'est Percy qui dispute l'épreuve, pas moi!
+
+Percy	Non! Thomas, moi je refuse! Je vais perdre c'est sûr!
+
+Thomas	Non, c'est pas vrai! Tu peux y arriver si tu le veux réellement! Alors... aie confiance en toi!
+
+Percy	J'ai confiance en moi Thomas! Et aussi je suis sûr que c'est toi qui dois y aller. Je le souhaite de toutes mes forces!
+
+(BOUCLE 69 - 10:48:51:09)
+		69
+
+Thomas	Mais regardez-moi! J'ai des tâches de peinture partout.
+
+Emilie	Allez! S'te plait! Chicalor n'a plus que toi!
+
+Announcer	Le Tournoi n'est pas terminé, Mesdames et Messieurs. Vous allez assister à la toute dernière épreuve !
+
+Thomas	D'accord! Je vais y aller. Mais... ça m'étonnerait que je gagne.
+
+Percy	Toi? Mais... Tu vas quand même tout faire pour! N'est-ce pas Thomas?
+
+AMB foule	(ambiance sur VI?)
+
+Announcer	Et c'est parti pour l'épreuve de préparation des trains. Des wagons ont été éparpillés sur les voies et il va falloir les aligner. Non seulement les concurrents vont devoir être rapides et organisés, mais il va falloir aussi qu'ils fassent les bons choix!
+
+Ashima	Oh!
+
+Thomas	(hh)
+
+Ashima	Thomas! Tu es là?
+
+(BOUCLE 70 - 10:49:35:16)
+		70
+
+Announcer	Les cinq locomotives vont bientôt s'élancer.
+
+Emilie	Concentre toi Thomas! Ça va commencer! C'est notre dernière chance de médaille.
+
+Announcer	Attention, prêts?
+
+AMB foule	(ambiance foule en délire)
+
+Announcer	Cette épreuve promet d'être passionnante.
+
+Percy	Vas-y Thomas on est avec toi!
+
+Announcer	Tous les concurrents sont bien décidés à remporter la victoire!
+
+Ashima	Ahah!
+
+Henry	Thomas!
+
+Emilie	Les wagons-plats!
+
+Announcer	Attention, il y a un ordre à respecter.
+
+Emilie	Commence par les wagons-plats! Devant toi!
+
+Raoul Brazilian	Change!
+
+Announcer	Chaque locomotive est aidée par son aiguilleur qui lui permet de changer de voie.
+
+Raoul Brazilian	Ahaha!
+
+Thomas	Quoi? Hé! J'le voulais, ce wagon!
+
+Ashima	C'est une compétition j'te rappelle. Et c'est une course. Change!
+
+Announcer	Pour l'instant, rien n'est joué.
+
+Russian shunter	Change! (ggr)
+
+Gina italienne	Change! (hh)
+
+Thomas	Change!
+
+Announcer	Le rôle des aiguilleurs est primordial!
+
+Emilie	C'est bien Thomas!
+
+Percy	Continue comme ça!
+
+James	Bravo, on compte sur toi, vas-y!
+
+Emilie	Tu peux le faire!
+
+Percy	Fonce!
+
+Thomas	Change!
+
+(BOUCLE 71 - 10:50:20:13)
+		71
+
+Henry	C'est toi le meilleur!
+
+Ashima	Change!
+
+Announcer	Ici, personne n'a la priorité!
+
+Raoul Brazilian	Change! (rire)
+
+Announcer	Thomas est tout simplement impressionnant!
+
+Thomas	(hh)
+
+Announcer	Il se faufile partout! La petite locomotive bleue a déjà pas mal d'avance sur ses concurrents!
+
+Emilie	Vas-y Thomas!
+
+Percy	Oui, plus vite!
+
+James	Fonce Thomas!
+
+Henry	C'est bien!
+
+Emilie	Oui, fonce!
+
+Announcer	Attention, il y a quelqu'un sur la voie!
+
+Thomas	Oh! Qu'est-ce que tu fais?
+
+Announcer	Cette locomotive n'a rien à faire sur les rails pendant cette épreuve!
+
+Philip	J'essaye de lui échapper! Change!
+
+Announcer	Et en voilà une autre!
+
+Big Bully	Ah!
+
+Announcer	L'arbitre doit intervenir! Faites- les sortir de la zone!
+
+Big Bully	(hh) Ah!
+
+Thomas	Philip! Attention!
+
+Ashima	Oh!
+
+(BOUCLE 72 - 10:50:56:08)
+		72
+
+Big Bully	Oh, pauvre crevette! On dirait que la compétition est finie pour toi! Ahahah!
+
+Philip	Euh...oui! Ahahah mais ce n'était pas une vraie course! C'était, c'était pour de faux! Même... si au départ, j'ai cru le contraire!
+
+Big Bully	Ah ah ah ah!
+
+Philip	Tu ne vas rien me faire hein?
+
+Big Bully	Quoi?
+
+Thomas	Tu laisses mon ami tranquille d'accord? Gros méchant! (gggg ah!) (efforts)
+
+Big Bully	Donc,
+
+Thomas	(efforts)
+
+Big Bully	tu veux jouer au plus fort avec moi? T'es sûr?
+
+Ashima	Oui! Tire Thomas, tire!
+
+Thomas	(efforts soutenus)
+
+Big Bully	Oh oh!
+
+Ashima	(efforts)
+
+Big Bully	Vous me faites peur! (rire)
+
+Thomas	(ggg) Change!
+
+Big Bully	(rire)
+
+(BOUCLE 73 - 10:51:36:06)
+		73
+
+Big Bully	Hein?
+
+Thomas	(ggg) Fonce Philip!
+
+Ashima	(efforts)
+
+Thomas	(efforts)
+
+Big Bully	Hé!
+
+Philip	Nananère!
+
+Thomas	(efforts)
+
+Ashima	(efforts)
+
+Big Bully	(efforts) Ah! Woh! (oh oh oh oh!) Oooh! Aaaah! Eh, enlevez-moi de là!
+
+Philip	Bien fait, méchant gorille!
+
+Big Bully	Oh!
+
+Ashima	Thomas! Pousse-toi!
+
+Thomas	Oh!
+
+Ashima	(efforts)
+
+Thomas	Oh!
+
+Man	Oh!
+
+AMB foule	(l'ambiance revient, sur VI? ou pas?)
+
+Thomas	Merci!
+
+Ashima	Non ne me remercie pas Thomas! Après tout... je vais donner mon maximum pour te battre  dans l'épreuve!
+
+Thomas	Tu n'oseras pas!
+
+Ashima	Tu me connais mal!
+
+Big Bully	Hé! Vous avez l'intention de m'aider à sortir ou pas!
+
+(BOUCLE 74 - 10:52:23:08)
+		74
+
+Russian shunter	Change!
+
+Announcer	Regardez Ivan, le concurrent russe!
+
+Gina italienne	Change!
+
+Announcer	Et Gina l'italienne!
+
+Raoul Brazilian	Change!
+
+Gina italienne	(hh)
+
+Announcer	Et Raoul le brésilien!
+
+Ashima	Change! Sans parler d'Ashima et de Thomas!
+
+Thomas	Change!
+
+Philip	Plus vite Thomas!
+
+James	Oui!
+
+Emilie	Fonce Thomas!
+
+James	Oui!
+
+Percy	On compte sur toi!
+
+Emilie	Tu vas gagner!
+
+Announcer	Personne n'a baissé les pistons, ils veulent tous la victoire!
+
+Ashima	Il me manque juste le fourgon-frein.
+
+Thomas	Ahahah  on est à égalité alors!
+
+Announcer	Thomas et Ashima foncent chercher leur dernier wagon!
+
+Thomas	Change!
+
+Ashima	Change!
+
+Announcer	La première locomotive à placer son fourgon-frein remportera le trophée! Et c'est Thomas qui est en tête!
+
+Thomas	Oh!
+
+Announcer	Suivi de très près par Ashima!
+
+Thomas	Ashima!
+
+Announcer	Oh la la quel suspense!
+
+Thomas	Attention! Ta voie est bloquée!
+
+Ashima	Ah!
+
+Thomas	Change! Change!
+
+(BOUCLE 75 - 10:53:01:21)
+		75
+
+Announcer	Incroyable, il change de voie!
+
+Ashima	Thomas? (h) Qu'est-ce que tu as en tête?
+
+Emilie	Non!(h)
+
+James	Oh!
+
+Percy	Oh!
+
+Emilie	Thomas!
+
+AMB foule	(cris déchainés)
+
+Percy	Thomas!
+
+Fat controller	Oh!
+
+Announcer	Thomas fonce droit sur le wagon plat qui a déraillé.
+
+Ashima	Ah!
+
+Announcer	Il s'est sacrifié pour éviter un accident à Ashima, qui passe en tête! Et c'est elle qui gagne! La jolie petite locomotive indienne remporte l'épreuve!
+
+Ashima	Oh! Oh!
+
+Emilie	C'est lui qui gagnait!
+
+Percy	(h) (h)
+
+Philip	Je lui avais dit de se méfier de cette fille.
+
+Announcer	C'est un final d'exception! A la dernière minute, Thomas, de Chicalor, a décidé de déclarer forfait pour faire gagner son amie Ashima! C'est un geste qui l'honore!
+
+(BOUCLE 76 - 10:53:34:05)
+		76
+
+Ashima	Comment? Tu... Tu l'as fait exprès?
+
+Thomas	Pardon! Mais (h) je n'ai pas eu le choix. Ta voie était bloquée!
+
+Ashima	Mais... ça m'aurait été égal si tu avais été premier!
+
+Announcer	Une petite minute Mesdames et Messieurs.
+
+Ashima	Oh!
+
+Thomas	Oh!
+
+Announcer	Les...les juges veulent modifier le classement. Oh Mesdames et Messieurs, c'est assez euh c'est assez exceptionnel. Les...les juges ont une annonce très importante à faire!
+
+Juge	Au regard des évènements  qui se sont déroulés à la fin de cette dernière épreuve, nous trouvons plus juste qu'il soit déclaré deux vainqueurs!
+
+Philip	Oh!
+
+James	Oh!
+
+(BOUCLE 77 - 10:54:11:07)
+		77
+
+Emilie	Oh!
+
+Announcer	Ashima!
+
+AMB foule	(sur VI?)
+
+Announcer	Notre jolie petite concurrente venue d'Inde et qui a été la plus rapide.
+
+Ashima	Oh!
+
+Announcer	Et... en récompense pour son sacrifice et les efforts fournis afin de sauver son amie... Thomas…
+
+AMB foule	(sur VI?)
+
+Announcer	…la locomotive à vapeur de Chicalor!
+
+Thomas	(hh)
+
+Percy	Hourrah!
+
+Emilie	Bravo!
+
+Henry	Oui!
+
+Emilie	Champion!
+
+Philip	Ouais!
+
+Percy	Ah!
+
+James	Oui!
+
+Ashima	Félicitations Thomas!
+
+Thomas	Ah! Ahahah! Bravo à toi aussi la championne!
+
+Fat controller	Dis donc mon petit Thomas...
+
+Thomas	Oh!
+
+Ashima	(hh)
+
+Thomas	(hh)
+
+Fat controller	Comment se fait-il que je n'ai su que tu étais ici qu'au moment où l'épreuve a commencé?
+
+Thomas	Au départ, je devais juste livrer une soupape à Gordon  mais c'était trop tard.
+
+(BOUCLE 78 - 10:54:45:18)
+		78
+
+Thomas	Ensuite, Percy m'a supplié de prendre sa place!
+
+Fat controller	Et toi... tu t'es dit qu'il fallait être utile et efficace. C'est bien ce que tu t'es dit? Euh... Eh bien, toutes mes félicitations Thomas! Je suis tellement fier! (hh)
+
+Philip	Hourrah!
+
+Emilie	C'est le meilleur!
+
+Henry	Bravo!
+
+Percy	C'est juste du Thomas tout craché, n'est-ce pas Chef?
+
+Thomas (chante en bleu)	 Sois toi-même avant tout, ahah, c’est bien ça qui est ton meilleur atout lAhahah! (hh) Mais euh Où est Ashima? Elle n'a pas dit au revoir!
+
+(BOUCLE 79 - 10:55:20:19)
+		79
+
+Announcer	C'était donc notre dernière épreuve pour aujourd'hui, Mesdames et Messieurs. Mais vous pouvez discuter avec les locomotives qui se feront un plaisir de répondre à vos questions;
+
+Flying Scotsman	Hé, étoile filante!
+
+Gordon	Non, appelle-moi Gordon. Je donnerais n'importe quoi pour retrouver mon ancienne silhouette!
+
+Flying Scotsman	C'est dommage pour la course, petit frère! Mais je trouve que les locomotives de Chicalor sont bien plus coriaces que je ne le pensais.
+
+Gordon	(hh) Oh! Pourquoi tu te sens toujours obligé de dire de moi que je suis  petit ? On fait exactement la même taille!
+
+Flying Scotsman	(rire)
+
+Gordon	Oh! Oh!
+
+(BOUCLE 80 - 10:56:10:09)
+		80
+
+Philip	Je l'ai cherchée partout Thomas! Mais je ne l'ai pas trouvée.
+
+Emilie	Oui on ignore où elle est allée.
+
+Fat controller	Allez les amis! Faites le plein de charbon s'il vous plait. Il est temps de retourner sur Chicalor. On a plein de trains à faire rouler! (hh)
+
+Emilie	Oui chef!
+
+Philip	Bien sûr chef!
+
+Thomas	(soupir)
+
+Ashima	(chantonne sa chanson jusqu'à 10.56.40.05)
+
+Thomas	Oh! Ashima! Je te croyais partie. Très loin.
+
+Ashima	Tu pensais que j'oublierai te dire au revoir? Vraiment?
+
+(BOUCLE 81 - 10:56:49:13)
+		81
+
+Ashima	Mais... C'est vrai que je dois prendre le ferry et rentrer chez moi.
+
+Thomas	Oh! Mais ça veut dire qu'on n'va pas se dire au revoir tout de suite! (hh) Tu peux aller sur Chicalor et prendre le ferry de là-bas plus tard.
+
+Ashima	(hh)
+
+Thomas	Il s'arrête au port de Brendham, tu te rappelles?
+
+Ashima	Bonne idée! Tu es malin...
+
+Thomas	(h)
+
+Ashima	…quand tu le veux bien!
+
+Thomas	(h)
+
+NOTE	(chanson N°6)
+
+(BOUCLE 82 - 10:57:23:05)
+		82
+
+Thomas	(h) (h) (ah) (h)
+
+(BOUCLE 83 - 10:58:13:13)
+		83
+
+AMB foule	(à refaire? sur VI?)
+
+
+(BOUCLE 84 - 10:58:40:13)
+		84
+
+Paxton	Essaye une autre caisse pour voir. Non!
+
+Cranky	Ooooh!
+
+Paxton	Il n'est pas caché sous celle-là.
+
+Cranky	Ça commence à bien faire!
+
+Paxton	Et là?
+
+Cranky	Elle est assez grosse.
+
+Paxton	Euh... Non. Raté!
+
+Cranky	Et tu es sûr qu'il est forcément là?
+
+Paxton	Oui. On l'a suivi tout du long! Il faut chercher une caisse qui parle!
+
+Dart	Diésel!
+
+Den	Diésel!
+
+Cranky	Une seconde! Hé, revenez! Vous allez où là?
+
+Den	Diésel!
+
+Dart	Excuse-moi! Diésel!
+
+Paxton	Diésel? (h) Crie pour qu'on t'entende!
+
+Den	Diésel!
+
+(BOUCLE 85 - 10:59:35:18)
+		85
+
+Diesel	Je suis là! Aaah! Oh! Je suis plein de surprises!
+
+NOTE	(générique de fin- chanson n°7)
+
+FIN
+
+
+1
+
+

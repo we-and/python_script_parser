@@ -1,0 +1,560 @@
+
+
+RE.ZERO 10
+
+
+
+
+
+
+1 (00:00:02:00)
+
+REM	Vous comptez vraiment l'abandonner ? On ne peut rien faire pour le sauver ?
+
+BÉATRICE	... seule solution. Agis comme bon te semble.
+
+REM	Je le sauverai, je le jure.
+
+NATSUKI SUBARU	(oh) Encore un plafond inconnu. (effort!) (hm!) (oh?) (ohoh) (douleur) Quelqu'un m'a sauvé la vie et m'a soigné in extremis. Émilia. Comme si j'en avais pas assez, j'ai une nouvelle dette envers elle.
+
+PACK	Je n'en suis pas si sûr.
+
+NATSUKI SUBARU	(hm?)
+
+
+2 (00:00:56:00)
+
+PACK	Tu as accompli un sacré exploit, à la hauteur de tes efforts. Elle n'a aucune raison de voir ça comme une dette.
+
+NATSUKI SUBARU	Pack.
+
+PACK	Salut, Subaru.
+
+NATSUKI SUBARU	Moi, j'ai fait un exploit ? Franchement, c'est n'importe quoi. La seule chose dont je me souviens, c'est de m'être fait machouiller par des clébarts.
+
+PACK	Machouiller, c'est trop mignon comme mot. Mais en réalité, moucha bolémiche botu botu mitche balé boucha ! ... ça ressemblait à ça.
+
+NATSUKI SUBARU	Comment j'ai pu survivre à un tel vacarme ? Même avec cinq bras de plus, j'aurais dû y rester.
+
+PACK	Exact. C'est pour ça que la jumelle aux cheveux bleus était mal en point en rentrant.
+
+NATSUKI SUBARU	(huh!)
+
+PACK	T'inquiète pas pour elle, sa transformation a accru ses capacités de régénération. Elle n'avait pratiquement plus rien quand vous êtes arrivés au village.
+
+NATSUKI SUBARU	(ah) Me fous pas la trouille comme ça ! Au moins, Rem est revenue vivante, c'est l'essentiel.
+
+
+3 (00:01:50:00)
+
+NATSUKI SUBARU	Et la malédiction des enfants ? S'il te plait, dis-moi qu'elle est levée.
+
+PACK	Ne t'inquiète pas pour eux. Betty et moi avons définitivement réglé ça. Mais sans toi, on aurait pas pu les sauver. Clap, clap, clap !
+
+NATSUKI SUBARU	(ah) Émilia est restée ici toute la nuit ?
+
+PACK	Oui. Mais pour te soigner, elle a été contrainte de puiser dans l'od. Laisse-la se reposer un peu.
+
+OUT (00:02:13:01)
+
+
+4 (00:04:59:00)
+
+RAM	Bals. Tu te sens mieux ?
+
+NATSUKI SUBARU	Ram. Je sais pas trop quoi dire, pour Rem, je suis vraiment désolé. (oh)
+
+RAM	Il n'y a pas une partie de ton corps qui n'ait été blessée, mais ça ne t'empêche pas de réclamer ta gamelle.
+
+NATSUKI SUBARU	(hm hm)
+
+RAM	Les câlins des chiens t'ont rendu canin ?
+
+NATSUKI SUBARU	Ça veut dire quoi, que j'ai une tête de clébard ?
+
+RAM	Avale ça.
+
+NATSUKI SUBARU	(hm?) Ouille, ouille, ouille ! (oh!) (hm!) (hm!) (hm!) (hm!) (hm!)
+
+RAM	C'est délicieux, non ?
+
+NATSUKI SUBARU	(hm!) J'ai cru étouffer !Même si c'est délicieux !
+
+RAM	Ça sort du four. Ou plutôt, ça sort du cuiseur.
+
+NATSUKI SUBARU	Pas de quoi faire la fière !
+
+RAM	Je t'en donne une autre si tu veux bien la fermer au moins une seconde. Ceci dit, je tiens aussi à te remercier du fond du coeur pour hier. T'es un gentil toutou.
+
+NATSUKI SUBARU	Le respect et toi, ça fait vraiment deux. Mais au fait, pourquoi tu me remercies ?
+
+
+5 (00:05:55:00)
+
+NATSUKI SUBARU	(oh?)
+
+RAM	Les malheurs des sujets retombent toujours sur le maître. Si les enfants avaient péri à cause des Ulgalm, ça aurait été catastrophique. Bref, tu as agi comme il fallait.
+
+NATSUKI SUBARU	Des Ulgalms ? C'est comme ça que vous appelez ces molosses ?
+
+RAM	C'est leur nom. En tout cas, tout est rentré dans l'ordre. On a réparé la barrière qui protège le village. J'ai passé toute la nuit à vérifier qu'elle est bien inviolable. Aucun Ulgalm ne peut pénétrer dans le village. Tu n'as plus à t'inquiéter.
+
+OUT (00:06:38:00)
+
+
+6 (00:06:44:00)
+
+NATSUKI SUBARU	(ah) (oh?) Béato ? Salut ! J'ai appris que tu avais sauvé les enfants. Je te remercie.
+
+BÉATRICE	Pas de merci. J'ai consenti à le faire uniquement parce que mon chou me l'avait demandé. Sinon, tu as une minute à me consacrer ?
+
+NATSUKI SUBARU	(oh?) Si c'est pour discuter, je comprends pas pourquoi que tu m'as amené aussi loin.
+
+BÉATRICE	J'ai quelque chose de grave à te dire : tu vas mourir dans moins de douze heures.
+
+NATSUKI SUBARU	(ah?) (hm)
+
+BÉATRICE	Je pensais que la nouvelle t'aurais secouée. Je t'imaginais déjà en train de pleurnicher.
+
+NATSUKI SUBARU	J'en déduis que la malédiction n'a pas été levée.
+
+BÉATRICE	Le problème, c'est que tu as reçu plusieurs autres malédictions en affrontant la meute de molosses de magie.
+
+
+7 (00:07:37:00)
+
+NATSUKI SUBARU	Je peux connaître la raison qui t'empêche de les conjurer ?
+
+BÉATRICE	L'explication est toute simple. Tu as accumulé tellement de malédictions qu'elles sont devenues trop compliquées à enlever.
+
+NATSUKI SUBARU	Elles se sont entassées ?
+
+BÉATRICE	Tu sais, enlever une malédiction, c'est un peu comme tirer sur un lacet pour le défaire. Mais tu as accumulé tellement de malédictions qu'elle se sont entremêlées, tant et si bien qu'il devient impossible de les défaire.
+
+NATSUKI SUBARU	Je comprends que ce soit compliqué, mais je comprends pas pourquoi il me reste douze heures.
+
+BÉATRICE	D'ici douze heures, les molosses devraient avoir aspiré tout ton mana.
+
+NATSUKI SUBARU	Crotte.
+
+BÉATRICE	C'est ce à quoi servent les malédictions : à voler le mana des victimes. Pour faire court, tu sers de repas à ces adorables bébêtes.
+
+NATSUKI SUBARU	Ils attaquent pour se remplir le ventre. Ces bestioles se prennent vraiment pas la tête. Et encore, je peux m'estimer heureux qu'elles ne fassent qu'un seul repas par jour.
+
+
+8 (00:08:31:00)
+
+BÉATRICE	Dis donc...
+
+NATSUKI SUBARU	Quoi ?
+
+BÉATRICE	J'ai l'impression que tu n'as pas peur. Tu m'as bien écoutée quand je te disais que tes heures étaient comptées ?
+
+NATSUKI SUBARU	Oh, bien sûr que j'ai les jetons. Mais je sais aussi que j'ai de la chance, parce que tu es beaucoup trop gentille pour me laisser tomber sans rien faire.
+
+BÉATRICE	Arrête ton char ! Tu ne me connais pas ! Tu ne sais rien de moi !
+
+NATSUKI SUBARU	Je te connais sur le bout des doigts, je te connais même quatre fois plus que tu le crois.
+
+BÉATRICE	Je ne comprends rien à ton charabia. Ce que je voulais te dire, c'est que tu as peu de chance de survivre.
+
+NATSUKI SUBARU	Si j'ai peu de chance, ça veut dire que j'ai quand même une chance ; dis m'en plus.
+
+BÉATRICE	Les molosses se nourrissent via la malédiction. Celui qui t'a mordu se nourrit de toi, mais si il meurt, la malédiction est automatiquement levée.
+
+NATSUKI SUBARU	C'est pas si compliqué. Si j'arrive à vaincre le molosse qui m'a maudit, je serais libre. Le problème, c'est qu'ils sont plusieurs à m'avoir maudit.
+
+BÉATRICE	C'est la raison pour laquelle mon chou n'a rien dit à la gamine.
+
+
+9 (00:09:30:00)
+
+NATSUKI SUBARU	Pas étonnant. Si Émilia l'apprenait, elle réagirait au quart de tour. Ça me déplairait pas, mais j'aurais trop les chocottes. Même pour un ogre, tous les tuer, ça serait limite mission impossible. Il ne me reste plus qu'à aban-
+
+REM	Vous comptez vraiment l'abandonner ? On ne peut rien faire pour le sauver ?
+
+BÉATRICE	On dirait que tu mal à la tête. C'est normal quand on est maudit. C'est la seule solution, agis comme bon te semble.
+
+REM	Je le sauverai, je le jure.
+
+NATSUKI SUBARU	Pitié, non. Et Rem ? Où est-elle ? Béato... Béatrice ! Dis-moi où est Rem ?
+
+BÉATRICE	Elle a fait ce que tu aurais sans doute fait à sa place.
+
+RAM	C'est inadmissible ! Vous auriez dû m'avertir !
+
+NATSUKI SUBARU	(oh?!) Ram !?
+
+RAM	Dame Béatrice, Rem s'est-elle rendue seule dans la forêt ?
+
+REM	(halète)
+
+
+10 (00:10:27:00)
+
+REM	Je n'ai pas le choix. Je dois le faire, même seule. Personne d'autre n'a besoin de souffrir ! !
+
+NATSUKI SUBARU	Pourquoi ? Qu'est-ce qui a poussé Rem à prendre autant de risques pour moi ?
+
+RAM	(huh!)
+
+NATSUKI SUBARU	(oh!) Ram ! Attends une seconde !
+
+RAM	Lâche-moi, Bals ! (hhh) Je suis en colère et si je m'énerve, je vais te faire très mal !
+
+NATSUKI SUBARU	Si tu veux sauver Rem, et si t'as un tant soit peu confiance en moi, essaye de m'écouter ! Tu sais où elle se trouve ?!
+
+RAM	Je la trouverai grâce à mon don de clairvoyance.
+
+NATSUKI SUBARU	C'est quoi, ça ?
+
+RAM	Je peux voir à travers les yeux des animaux, à partir du moment où ils sont harmonisés avec moi.
+
+NATSUKI SUBARU	Tu te sers d'eux comme si c'était des caméras de surveillance ? Si ça permet de retrouver Rem, c'est parfait. Au fait, t'es livrée avec l'option combat ?
+
+
+11 (00:11:15:00)
+
+RAM	Je comprends pas pourquoi tu me demandes ça.
+
+NATSUKI SUBARU	Parce que j'ai l'intention de t'accompagner dans la forêt.
+
+RAM	Tu comptes me suivre ?
+
+NATSUKI SUBARU	Et ouais. Même si je risque d'être un fardeau plutôt qu'autre chose.
+
+RAM	Moi, je suis incapable de me transformer et de combattre comme Rem.
+
+NATSUKI SUBARU	Vous êtes jumelles, non ? Si Rem est un ogre, ça devrait aussi être ton cas.
+
+RAM	! Contrairement à Rem, je ne suis qu'une sans-corne, et ça change tout.
+
+NATSUKI SUBARU	(oh?)
+
+RAM	Néanmoins, j'ai acquis quelques solides bases en magie du vent.
+
+NATSUKI SUBARU	(oh oh?!)
+
+BÉATRICE	Tu sais que pour ramener la petite sœur, tu vas être obligé de sacrifier ta vie. J'espère que tu en es bien conscient.
+
+NATSUKI SUBARU	Je vais mettre les choses au clair, une bonne fois pour toute. C'est vrai qu'à force de crever, on peut être tenté d'abandonner. Mais on a qu'une vie et elle est précieuse. Je l'ai compris en vous voyant vous acharner pour me sauver. C'est pourquoi je vais me défoncer, quitte à être pitoyable.
+
+
+12 (00:12:14:00)
+
+NATSUKI SUBARU	On va renverser la situation ! Après tout, j'ai bien réussi à me remettre de mes blessures. Et franchement, je suis bien trop gourmand pour ne pas vivre moi-même la suite des événements ! On y va, Ram ! C'est parti pour le dernier duel ! Le destin n'a qu'à bien se tenir !
+
+OUT (00:12:37:06)
+
+
+13 (00:14:07:00)
+
+NATSUKI SUBARU	(essouflé)
+
+RAM	Quand il s'agit de parler, t'es le plus fort du monde. Mais regarde-toi. Le fardeau que tu évoquais tout à l'heure, on y est. J'ai du mal à cacher ma déception.
+
+NATSUKI SUBARU	Tes dure, là. Je sors à peine du lit, je suis épuisé et en plus je manque de sang. Le pire, c'est qu'on est parti en coup de vent, sans qu'Émilia ait le temps de me dire d'être prudent.
+
+RAM	La petite prière qu'elle a fait hier a bien fonctionné, et elle est toujours valable.
+
+NATSUKI SUBARU	Ah bon ? C'est comme ça que ça marche ?
+
+RAM	Peu importe, puisque dame Émilia n'est pas la seule à te soutenir.
+
+NATSUKI SUBARU	T'as raison. J'ai reçu beaucoup de soutien ces derniers temps.
+
+TYPE À L'ÉPÉE (EP9)	Prends-la, elle est à toi.
+
+
+14 (00:14:46:00)
+
+TYPE À L'ÉPÉE (EP9)	C'est la meilleure lame du village.
+
+NATSUKI SUBARU	Merci beaucoup.
+
+TYPE À L'ÉPÉE (EP9)	Retrouve-la.
+
+LUCAS (CHATAIN)	Subaru !
+
+NATSUKI SUBARU	(oh?)
+
+ENFANTS	(courent en riant) Subaru !
+
+NATSUKI SUBARU	Dites donc, les enfants ! Vous avez vite récupéré !
+
+ENFANTS	(rires)
+
+BOUBOULE (MILD)	Où tu vas, hein ?
+
+PÉTRA (NOEUD)	Tu retournes dans la forêt ?
+
+LUCAS (CHATAIN)	Non. Reste ici, Subaru !
+
+NATSUKI SUBARU	Ça va les enfants, vous inquiétez pas pour moi. Je vais nulle part.
+
+BOUBOULE (MILD)	Alors pourquoi t'as une épée ?
+
+NATSUKI SUBARU	Oh, celle-là ?
+
+TYPE À L'ÉPÉE (EP9)	C'est un présent de la part de tout le village.
+
+PÉTRA (NOEUD)	Tiens, un autre cadeau !
+
+NATSUKI SUBARU	Hé ! Molo !
+
+ENFANTS	(rires taquins)
+
+LUCAS (CHATAIN)	Moi aussi j'ai un cadeau !
+
+NATSUKI SUBARU	(hm!) Un bonbon et une jolie pierre. Oh, il y a autre chose. ! Une grosse chenille ! Sales mioches, ils sont pires que moi à leur âge ! Il faut jamais baisser sa garde avec eux !
+
+RAM	Je sais que qui aime bien châtie bien, mais je n'arrive pas à comprendre ce qu'ils te trouvent.
+
+NATSUKI SUBARU	Ma véritable nature, noble et sauvage, brille de mille feux dans leurs petits yeux innocents. Et d'après ce que j'ai vu, ils ont d'autres idoles que moi. Tu as capté, non ?
+
+
+15 (00:15:44:00)
+
+RAM	J'ai vu ça.
+
+ENFANTS	(rires)
+
+BOUBOULE (MILD)	Tiens, prends mon cadeau.
+
+PÉTRA (NOEUD)	Et ça aussi.
+
+NATSUKI SUBARU	Hé, t'es bête ou quoi ?! Mets pas de la terre dans mes poches !
+
+LUCAS (CHATAIN)	C'est bon la terre !
+
+RAM	! (hm!)
+
+LUCAS (CHATAIN)	(rire)
+
+PÉTRA (NOEUD)	Ramie !
+
+LUCAS (CHATAIN)	(rire)
+
+RAM	(oh?)
+
+PÉTRA (NOEUD)	(hhh) On voudrait remercier Remie pour ce qu'elle a fait, alors ramène-la ici, d'accord ?
+
+LUCAS (CHATAIN)	(rire)
+
+PÉTRA (NOEUD)	Promets-le, Ramie !
+
+RAM	(oh?)
+
+PÉTRA (NOEUD)	(p'tit rire)
+
+RAM	(hm) Je vais utiliser ma clairvoyance. Ça sera rapide.
+
+OUT (00:16:12:00)
+
+
+16 (00:16:29:00)
+
+RAM	Bals, reste sur tes gardes, on nous observe.
+
+NATSUKI SUBARU	Quoi ?
+
+RAM	Derrière toi !
+
+NATSUKI SUBARU	De quoi ? (oh?)
+
+RAM	Un autre arrive ! Fais attention !
+
+NATSUKI SUBARU	(oh oh oh oh oh oh!) (hhh) (oh) Mais !? Tu pourrais m'attendre quand même ! T'es vraiment pas cool ! (hhh)
+
+RAM	C'est étrange. Je ne comprends pas pourquoi les molosses deviennent fous de rage chaque fois qu'ils te voient. Il doit bien y avoir une raison. C'est peut être parce que tu es le plus faible.
+
+NATSUKI SUBARU	Quand tu décides d'être vache, t'y vas pas avec le dos de la cuillère !
+
+RAM	Ou parce que tu es sans défense ?
+
+NATSUKI SUBARU	Faible ou sans défense, je vois pas trop la différence. Ça, c'est du harcèlement psychologique. Au fait, j'ai pas vraiment compris le concept de sans-corne, tu peux m'expliquer ?
+
+
+17 (00:17:23:00)
+
+RAM	Tout est dans le nom. On donne ce surnom aux ogres qui ont perdu leur corne. J'ai perdu ma seule corne suite à un petit accident. Depuis, je compte sur Rem pour absolument tout.
+
+NATSUKI SUBARU	C'était la question à ne pas poser, hein ?
+
+RAM	Pourquoi ?
+
+NATSUKI SUBARU	Eh bien, même si j'ai du mal à capter l'importance que peut avoir la corne d'un ogre, à t'entendre, cette perte a pas l'air d'être anecdotique. C'est pas une dent de lait, quoi. Et en plus, j'ai manqué de délicatesse.
+
+RAM	Avec le temps, je me suis habituée à vivre sans. J'ai appris des choses et sauvé des vies en perdant ma corne. D'un autre côté, Rem n'est absolument pas de cet avis.
+
+NATSUKI SUBARU	(ah?)
+
+RAM	Normalement, les ogres en possèdent deux, mais les jumeaux naissent avec une seule corne chacun. La communauté les déteste,
+
+REM	!
+
+
+18 (00:18:21:00)
+
+REM	((halète, possédée)
+
+RAM	et les élimine dès la naissance. Mais nous avons survécu. La corne permet de réveiller l'instinct meurtrier d'un ogre, et elle absorbe aussi le mana ambiant pour augmenter sa puissance. Mais si l'ogre utilise trop longtemps sa corne, son corps le supporte mal.
+
+REM	(huh!) (huh!) (hhh!) (huh!) (rire dément)
+
+RAM	Je refuse qu'elle souffre.
+
+NATSUKI SUBARU	Tu es donc inquiète pour ta soeur.
+
+RAM	Bien sûr que je suis inquiète. Même si elle est beaucoup plus forte que moi, c'est loin d'être une raison suffisante pour que je sois sereine.
+
+NATSUKI SUBARU	(hm!)
+
+RAM	Même si ma soeur est capable de tout faire mieux que moi, je suis sa grande sœur et je veille sur elle. Et ça, c'est quelque chose qui ne changera jamais.
+
+NATSUKI SUBARU	(oh?) Ne t'inquiète pas, j'ai un plan redoutable en tête. Je te promets qu'on va retrouver Rem et la ramener saine et sauve au manoir.
+
+RAM	(hm hm)
+
+
+19 (00:19:19:00)
+
+NATSUKI SUBARU	Si mon raisonnement se tient, les molosses vont nous tomber dessus. L'odeur de la mort réversible ne manquera pas de les attirer. Ram, je dois t'avouer que je suis moi même- (souffrant)
+
+RAM	C'est quoi ?
+
+NATSUKI SUBARU	(petit rire) J'ai fait un pari avec moi même qui m'a valu une petite pointe de douleur.
+
+RAM	Qu'est-ce que tu as fait ? Le vent se lève et l'odeur des chiens se rapproche. Ils viennent vers nous en meute, ! et Rem est toujours introuvable !
+
+NATSUKI SUBARU	T'inquiète pas pour elle. Elle va pas tarder à pointer le bout de son nez.
+
+RAM	Comment tu le sais ?
+
+NATSUKI SUBARU	C'est bien simple, j'utilise l'odeur de la Sorcière.
+
+RAM	(oh?)
+
+NATSUKI SUBARU	Le but de Rem est d'exterminer tous les molosses de magie. Mon odeur de sorcière va les appâter et les forcer à m'attaquer. Et comme Rem poursuit ces monstres, elle ne tardera pas à apparaitre. Mon plan s'intitule " Subaru Natsuki, appât de service " !
+
+OUT (00:20:12:16)
+
+
+20 (00:20:14:00)
+
+NATSUKI SUBARU	Ram, je compte sur toi pour retenir ces sales bêtes. Allez ! C'est à toi de jouer, ma grande !
+
+RAM	Quand nous serons sortis de ce bourbier et que tu repenseras à ta stratégie, tu auras envie de te tuer !
+
+REM	(oh?)
+
+NATSUKI SUBARU	(course effrénée) Je compte sur toi et voilà, regarde où on en est ! (course effrénée)
+
+RAM	Je me suis battu autant que je pouvais. Mais que veux-tu ? J'ai un petit souci d'endurance qui m'handicape.
+
+NATSUKI SUBARU	Bordel ! ! ! Bon sang ! waho ! Wha ! (huh!) J'en ai plus que marre !
+
+
+21 (00:21:01:00)
+
+NATSUKI SUBARU	On a raté de peu un aller simple pour le paradis.
+
+RAM	On ne survivrait sans doute pas à une telle chute. (hhh) Bals, tu peux nous remonter ?
+
+NATSUKI SUBARU	Il y a toujours moyen de nous remonter, l'ennui c'est que les molosses nous attendent en haut. (oh!?) ! La lame s'est brisée ! (ah!!!)
+
+RAM	Elfula !
+
+NATSUKI SUBARU	Ouh ! ! ! Oïe, oïe, oïe ! (huh!) (ah) C'était moins une. Ça va Ram ? Tu gères toujours la fougère, ma grande ? Tiens donc ? Ram, réponds-moi. Hé Oh ?! Bon sang, non. Me fais pas ça. (angoisse et frustration) Tu pouvais pas choisir un autre moment pour tomber dans les pommes ? (reac ?) (oh?) (hm!) Rem !
+
+
+22 (00:21:58:00)
+
+REM	(hm)
+
+NATSUKI SUBARU	Tu es vivante ! Nous sommes sauvés. (ah!) Oh non ! Elle peut pas contrôler sa nature d'ogre ! Réveille-toi, Rem ! Tu te souviens de moi ?! Je suis Subaru Natsuki, l'apprenti domestique ! C'est vrai que je vous ai causé pas mal de problèmes, au manoir Roswaal ! Mais sérieux, avoue qu'on se fend bien la poire ensemble ! (huh!) (véner) Tu sais que c'est malpoli de fracasser une bouche qui te parle !
+
+REM	(huh!) (huh!)
+
+NATSUKI SUBARU	Ouille ouille.
+
+REM	(fureur guerrière)
+
+NATSUKI SUBARU	(huh) ! Profitons-en pour fuir.
+
+
+23 (00:22:55:00)
+
+REM	(reac?) (huh!) ! (ah!) ! (ah!) (huh!)
+
+NATSUKI SUBARU	Non, je peux pas l'abandonner à ces monstres ! Affirme-toi, Subaru ! Les hommes ont du cran, les femmes ont du charme ! Donc... ! Tire pas cette tête, Rem, et souris ! Je suis moi même- (oh?)
+
+REM	(grogne) Rha!!!
+
+NATSUKI SUBARU	Ouh ? (hh!)
+
+REM	(huh!) ! Yah !
+
+NATSUKI SUBARU	(rage) (court)
+
+RAM	La corne.
+
+NATSUKI SUBARU	T'as fini ta sieste ? (court)
+
+RAM	J'ai senti que c'était le meilleur moment pour récupérer.
+
+NATSUKI SUBARU	L'intuition féminine, quelle arnaque ! Tu parlais de corne ?!
+
+RAM	C'est elle qui transforme Rem en ogre. Elle reprendra ses esprits si tu frappes très fort dessus.
+
+REM	(huh!) wha !
+
+NATSUKI SUBARU	T'es sûre ?!
+
+REM	(efforts-bagarre)
+
+
+24 (00:23:52:00)
+
+RAM	A cent pour cent. Enfin, j'espère.
+
+NATSUKI SUBARU	Moi, j'espère que t'es sûre de toi !
+
+REM	(huh!)
+
+NATSUKI SUBARU	J'ai bien compris qu'il faut la toucher au front, mais ça semble impossible.
+
+RAM	Avec un peu de courage et de réflexion, tu y arriveras.
+
+NATSUKI SUBARU	Dacodac, missis, j'ai d'ailleurs une petite idée qui pourrait fonctionner, mais elle risque de t'énerver.
+
+RAM	Vas-y, fait. Si Rem revient à elle, je ne t'en tiendrai pas rigueur.
+
+NATSUKI SUBARU	Ah ouais ?
+
+RAM	Promis juré.
+
+NATSUKI SUBARU	Tu jures sur la tête du clown ?
+
+RAM	Ça sent le plan foireux. Mais ça marche, je le jure sur maître Roswaal.
+
+NATSUKI SUBARU	Très bien ! ! (ah oh!)
+
+RAM	(ah!) (oh!)
+
+NATSUKI SUBARU	Wha !
+
+REM	(reac?)
+
+RAM	(huh!)
+
+NATSUKI SUBARU	(huh!) Elle m'a foutu la trouille ! Il m'a manqué un p'tit un chouïa de courage ! Yah !
+
+OUT (00:24:53:12)
+
+
+25 (00:25:11:00)
+
+NATSUKI SUBARU	Si je laisse échapper cette chance, c'est mort ! Souris, Rem ! Aujourd'hui, je me sens plus ogre, (!) qu'un vrai ogre ! (ah!)
+
+INSERT	UNE MÉTHODE D'OGRE

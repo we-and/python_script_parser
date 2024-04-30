@@ -1,0 +1,5669 @@
+
+
+Hammerhead	He's on the move, everything's coming to a head now.
+
+
+Gojun Pye	I've sent a team.
+
+
+Hammerhead	A team? You mean that fledgling magician and her mangy crew? Did you know they're calling themselves the Redthorns?
+
+Gojun Pye	Just like old times. The Darkspore wants to be whole, and all the heroes put together, the living and the dead ones, couldn’t keep it apart now.
+ 
+Gojun Pye	I have faith in Marek.
+
+Hammerhead	You had faith in Szorlok once too. What makes her any different? Even if you had the final piece, what then? You haven't got any plan what to do with it.
+
+Gojun Pye	I'll give it to the gods, they can protect it.
+
+Hammerhead	The gods. How long before they toss that trinket? Find a way to destroy it, or you got nothing. Until then, you’re just buying time.
+
+Gojun Pye	I had a vision. I saw Szorlok and his undead armies, marching death across the land, from East to West, until the last living cities ran into the sea. I also saw a dwarf, without a face, wearing an iron crown.
+
+Hammerhead	What else did you see? You know my mind. I'm after that crown. You help me get it, and I’ll help you find the Hammer of Tek. The one weapon that could destroy the Darkspore, once and for all.
+
+Gojun Pye	The Hammer of Tek is gone, no one knows where. And no mortal can wield it.
+
+Hammerhead	Well, with the Iron Crown of the Dwarves, I could.
+
+Gojun Pye	Szorlok has the Iron Crown.
+
+Hammerhead	That he does.
+
+Gojun Pye	You'd trade anything for that crown, wouldn't you? But not to find the Hammer, or fight against Szorlok. Your plan is to unite the dwarves again and rule as their king.
+
+Hammerhead	You've had your chance. Your team gave three pieces to Szorlok already. I'll do what pleases me, just as you have. I've already taken steps.
+
+Gojun Pye	As have I.
+
+Hammerhead	Cunning as a snake.
+
+Torsten	Going into the woods.
+
+
+
+
+
+Rezzyk	Caia-bekk, you're up. Let's have a look.
+
+Zombie Girl	Water, you wench! I'm so thirsty I could drink sand! 
+
+The Admiral	Oh, I'm brewing a batch of my finest, when it's ready you can have all you like. 
+
+Zombie Girl	You dare to touch me! My father is surely sending heroes after me, and he will have you flogged to death! I can't wait to see you bleed out in the square! I'll spit on your corpse, you bastard. 
+
+The Admiral	What a lovely creature you are. Don't worry, soon enough, I'll tame you just like my other girls.
+Zombie Girl	Don't you dare compare me to those witless whores!
+
+The Admiral	Charming.
+
+Marek	If you want to live, drop your weapons and get away from the wagon.
+
+The Admiral	It's an ambush. Keep her alive, kill the others.
+
+Wagon Captain	Grab her, boys.
+
+The Admiral	Ahh!
+
+The Admiral	Bah, kill them all!
+
+Wagon Captain	Get her, get her!
+
+Thane	Ahh!
+
+Rezzyk	Amateurs.
+
+Torsten	Do you care to wager?
+
+Rezzyk	 if they even get inside. Another  if they get the shard.
+
+Torsten	I'll take it.
+
+Dagen	That's the problem with crossbows, gentlemen. Slow reload time.
+
+The Admiral	Driver, run her down.
+
+Thane	Oh fyke!
+
+Wagon Bandit	I'm gonna kill you, you bastard!
+
+Dagen	Come on, Thane, keep up. No, no, hey this is your stop, eh. Come on Thane, come on. Come on boy. No!
+
+Torsten	Amateurs.
+
+Rezzyk	You might as well pay up now. They're going to blow it.
+
+Dagen	Welcome back.
+
+Marek	Keep up!
+
+
+
+Dagen	What is it Thane?
+
+Thane	I have.
+
+
+Dagen	Can you go help Marek up front? You're no use to me back here.
+
+Thane	I have keys!
+
+Dagen	Oh, why didn't you say so?
+
+Dagen	That's enough from you.
+
+Stay down.
+
+Dagen	I'll take these, thank you.
+
+Dagen	Right.
+
+Thane	Move. He's almost in.
+
+
+Dagen	Still got it.
+
+
+
+
+
+Torsten	They're inside, pay up.
+
+Dagen	Oh yes, you, you do know how to travel.
+
+The Admiral	Yes. Have a seat.
+
+Dagen	I shall.
+
+The Admiral	Something to drink?
+
+Dagen	Please.
+
+The Admiral	Ah.
+
+Marek	Give me the Darkspore.
+
+The Admiral	When you're dying, and you're bleeding out wishing you'd done things differently, I want you to remember this moment, when I gave you one last chance to walk away.
+
+Dagen	Hold on, hold on. We're not here to kill you, we just want the Darkspore.
+
+Marek	Yes, we will kill you, unless you give us what we want.
+
+Dagen	Yeah, like the lady says.
+
+The Admiral	Hm, you've mistakenly robbed The infamous Admiral Borlund Hess. This is my wagon, my women, my Darkspore, and you squandered your one last opportunity to walk away.
+
+Marek	Yes, we know, you're smart, powerful, we're going to regret it, but this is our wagon now, and it's time for you to leave.
+
+The Admiral	Okay. I'm gonna give you a choice. We can fight this to the death, or we can stop the wagon, and I can walk out with my last shreds of dignity. Either way, I'm not stepping off my own fyking war wagon at full speed.
+
+Dagen	I, I'm good with the second option.
+
+Marek	Thane!
+
+Dagen	At least the weather's nice. Good day for a walk.
+
+Marek	I shouldn't have touched it.
+
+Dagen	Nonsense, you were brilliant sweetheart, we got it.
+
+Torsten	It's not over yet.
+
+Szorlok	Your necromancer's touch awakened the final piece. I must thank you. Without your aid, I may never have found it. To show you my gratitude, I'll give you another chance. Join me, and your friends may live. You think you can defeat me? Even with three pieces, I command the denizens of the pit. I call you forth from the grave, assassins of old, Multu-gahnuken! You once served the Lich King Vekru Nom, and now you serve me. The last piece. I can sense its power. Power over death. Immortality is mine at last. Bring me the Darkspore!
+
+Gojun Pye	Marek, take the Darkspore where the Gods can protect it.
+
+Szorlok	She's not taking it anywhere. All of you together are still no match for me.
+
+Gojun Pye	Marek, I believe in you.
+
+Szorlok	No!
+
+Marek	Gojun, no!
+
+Marek	Obey me. I am Marek, a true born necromancer. Szorlok is gone, you are mine to command.
+
+Assassin	Marek. You have no authority. The Darkspore speaks, and it does not call you master.
+
+Marek	Worth a try.
+
+Dagen	Thanks very much.
+
+Thane	This isn't going well.
+
+Dagen	Do you have any ideas?
+
+Marek	Hold them off!
+
+Marek	We're leaving.
+
+Dagen	Go Marek, go!
+
+Thane	What were those things?
+
+Dagen	I'd rather not know.
+
+Torsten	And that's the other half. You know, I like this team. They're full of surprises.
+
+Right Hand Bandit	The wind is against us, Admiral.
+
+Admiral	Patience, the wind is ever changing.
+
+Dagen	Well, aside from nightmarish demons, from an entirely different dimension, I'd say that went rather well. Also, unless anyone can boast a number higher than seven, I do believe I'm the winner. Marek, you owe me a kiss. Thane,  silver will do just fine.
+
+Thane	You didn't kill seven. I killed six, you killed three, maybe four.
+
+Dagen	You're serious? Three on the side, three on the back, that's six. One off the roof makes seven. 40  silver please
+
+Thane	He wasn't dead.
+Dagen	His head hit the road full in the face.
+
+Thane	I saw him get up.
+
+Dagen	Then he was twitching from death throes. Marek, you owe me that kiss, Thane,  silver.
+
+Marek	Thane's always been a man of his word.
+
+Dagen	Are you calling me a liar?
+
+Marek	No, of course not. But you are a very good thief. Not what you would call an honest trade.
+
+Dagen	Be that as it may, I will pretend I didn't hear that.
+
+Thane	Marek, where are we going?
+
+Marek	Gojun said to take the Darkspore, someplace where the gods can watch over it.
+
+Dagen	Uh-huh, so where are we going?
+
+Marek	Well he couldn't say, because Szorlok was right there listening.
+
+Dagen	Oh, hello. I am so very sorry. Our deepest apologies. We've been very preoccupied.
+
+Zombie Girl]	Bastard! Some rescue! When my father finds out how ill-treated I've been. Don't just sit there! Untie me, you half-breed. Disgusting, pointed devil ears. You, peasant wench, go get me something to drink before my mouth turns to dust.
+
+Marek	Pardon me?
+
+Zombie Girl	Oh, fyke, get out of my way, I'll do it myself. What does that depraved ogress have for a lady to drink around here?
+
+Dagen	I think, that maybe we got off on the wrong foot. Let's start over, I'm Dagen, and you must.
+
+Zombie Girl	Don't you dare touch me, you are lower than a dog.
+
+Dagen	I could use a drink myself.
+
+Zombie Girl	Ha, that black crystal really gave it a nasty kick.
+
+Marek	Black crystal, Dagen!
+
+Zombie Girl	You impudent peasant! I will see to it that you.
+
+Dagen	I didn't swallow, I didn't swallow, I didn't swallow, I didn't swallow!
+
+Dagen	What's happened to her?
+
+Marek	She's brain-dead, like the others.
+
+Dagen	Yes, well in her case, it's quite an improvement, isn't it? Uh, Marek, Marek, it's, she's looking at me. Marek? No, no
+
+Marek	 It's the Darkspore, she's drawn to it. She likes you.
+Dagen	Of course, I mean females of all races, and states of mind, are drawn to. I mean she's not immune to all of this.
+
+Marek	It's adorable.
+
+Thane	What's taking so long? Marek kill her too?
+
+Dagen	Um, no, no, she's still alive. Sort of, I think.
+
+Marek	Sorry. I'm not much of a healer. Not like Teela.
+
+Thane	No one will ever be like Teela. Even as you took her life, she healed your leg.
+
+Teela	I'm here. Thane, it's me.
+
+Marek	What was that?
+
+Thane	What was what?
+
+Thane	You. Are you alright?
+
+Teela's voice	Go South to the Temple of the Owl. You will find me there.
+ 
+Thane	How did you do that?
+
+Marek	What?
+
+Thane	It's not funny.
+
+Marek	What are you talking about?
+
+Thane	Go South, to the Temple o the Owl.
+
+Marek	What are you saying?
+
+Thane	You said it with Teela's voice.
+
+Marek	Thane, stop, you're scaring me.
+ 
+Thane	What exactly did you do to her?
+
+Marek	I channeled her life force.
+It consumed here entirely.
+
+Thane	She's there.
+Somehow she's inside of you.
+She spoke to me.
+
+Marek	Thane, she's gone.
+Don't do this to yourself.
+
+Thane	You did this to me! You took her from me! The Temple of the Owl, what is it?
+
+
+Marek	It's a place.
+
+Thane	Tell me!
+
+Marek	I read about it once.
+A Temple of a Silver Owl.
+In Gojun's library.
+It's a holy site, a mythical place
+between this world and
+the Realm of the Gods.
+A place where the gods can watch over it.
+
+Thane	Is it to the South?
+
+Marek	But it's just a myth,
+it's not a real place.
+
+Thane	Is it to the South?!
+
+Marek	Beyond the White Waste, yes.
+
+Thane	That's where we're going.
+
+Marek	Thane, I,
+I think that maybe.
+
+Thane	That's where Gojun
+Pye meant for us to go.
+Now Teela is guiding us there.
+
+Marek	Thane, I must have
+just thought it out loud
+
+Thane	If there's a chance,
+she's there.
+That she's alive somehow.
+There's nothing that will
+keep me from reaching her.
+Nothing.
+
+Marek	Gojun where are you?
+
+Szorlok	What is this place?
+
+Gojun Pye	We are banished to a
+dimension of shadow and ash.
+Where nothing has ever lived.
+Nothing for you to feed on.
+
+Szorlok	You fool!
+What have you done?
+
+Gojun Pye	You have no power here, necromancer.
+
+Szorlok	So this is your plan?
+How long do you think
+you can keep me here?
+
+Gojun Pye	I was planning on forever. Though I'm not sure time has any meaning in this particular realm.
+
+Szorlok	Clever,
+so, what now?
+
+Gojun Pye	Well I thought maybe
+we could sit and chat.
+Reminisce about days gone by.
+
+Szorlok	Or I could just kill you.
+
+Gojun Pye	That depends how good
+your channeling magic is.
+Do you even carry components?
+Szorlok	Gojun, how soon you forget.
+I am a master of all magics!
+
+Caia Bekk	Help me, please! Help!
+I can't move.
+I'm having trouble breathing.
+
+Dagen	It's alright, it's alright.
+I'm here to help you.
+
+Caia Bekk	Oh thank you.
+I knew someone would come.
+
+Marek	Something's not right.
+
+Caia Bekk	You're my only hope. Please.
+
+Marek	Dagen, wait!
+
+Dagen	Hey, it's alright.
+It's alright.
+
+Caia Bekk	Thank you Dagen. You're truly my hero.
+
+Dagen	I'm your hero.
+
+Marek	Dagen!
+
+Dagen	I'm her hero.
+
+Marek	You idiot! Thane!
+
+Dagen	Oh!
+
+Marek	Give us back the Darkspore,
+and we'll let you live.
+Never mind, I'd rather kill you.
+
+Dagen	Wait!
+
+Dagen	Rezzyk?
+
+Marek	You know him?
+
+Dagen	No.
+
+
+Thane	Two blades are no match for shield and sword.
+
+Torsten	Shields are for cowards who
+need something to hide behind.
+
+Thane	Says the man in retreat!
+
+Torsten	To kill a tortoise, you must simply find his soft spot.
+
+Dagen	Hey, listen, listen.
+Not to start pointing fingers,
+but she really is entirely to blame.
+Wouldn't take no for an answer.
+She's not even my type,
+she's all skin and bones.
+
+Rezzyk	Shut up, thief!
+
+Dagen	Oh!
+Listen, listen, if this is about
+that silver horn I borrowed
+I was going to give it back.
+Not that! Marek, switch!
+
+
+Caia Bekk	Your lover and I have a powerful connection. My charm has never worked so quickly.
+
+Marek	He's not my lover! How's that for connection?
+
+Dagen	Marek! That was a dirty, dirty trick to play, love.
+
+Marek	Why do you want the Darkspore?
+
+Rezzyk	Your team has failed enough.
+
+Marek	My team is sent by Gojun Pye. We have to stop Szorlok.
+
+Rezzyk	Hammerhead	 told me you'd say that.
+
+Marek	Hammerhead	?
+
+Rezzyk	How many times are you
+going to give another piece
+to Szorlok before you bow out?
+Just walk away, we'll take it from here.
+
+Marek	Not unless you can tell me why Hammerhead	 wants the Darkspore.
+
+Rezzyk	And you'll walk away?
+
+Marek	If it's a good reason.
+
+Rezzyk	All right.
+I'll tell you what I know.
+He was drunk, I overheard
+him muttering to himself,
+something about an Iron Crown.
+
+Marek	That's it?
+It's not much to go on.
+I need to know his real intensions.
+
+Rezzyk	Diplomacy's not my best attribute.
+
+Caia Bekk	Men are fools.
+
+Dagen	I'm only half man.
+And half elf.
+A thief, by trade, or
+didn't Rezzyk tell you?
+Very sticky fingers.
+I have the Darkspore, let's move!
+
+Caia Bekk	Rezzik!
+
+Rezzyk	Horses!
+
+Dagen	Hurry up.
+
+Thane	Why didn't you do that?
+
+Dagen	See, all fixed.
+No harm done.
+
+Marek	There would have been nothing to fix,
+if you could only keep your
+animal urges under control.
+
+Dagen	Animal urges?
+
+Marek	Never mind, drive.
+
+Dagen	Managed to snag this, from her bosom.
+
+Marek	Her bosom? How did you manage?
+
+Dagen	Well.
+Marek	Never mind, I don't, I don't want to know. White Dragon eggshells. This is worth a fortune!
+
+
+Dagen	Like I said, no harm done.
+
+Marek	You were saying?
+
+Dagen	Uh.
+
+Thane	Anybody with range wanna get back here?
+
+
+Rezzyk	Surrender! It's over!
+
+ 
+Thane	Are you gonna shoot back at them?
+
+Marek	I'm out of batwing resin!
+
+Thane	What?
+
+Marek	On my staff!
+
+Rezzik	You're finished!
+
+Marek	Get up, get up!
+
+Marek	Is that all you've got?
+
+Rezzyk	We're gonna spill your guts out!
+
+Dagen	Woo-hoo!
+
+Caia Bekk	Ugh!
+
+Torsten	What now?
+
+Rezzyk	We take the long way around.
+This isn't nearly over.
+
+Thane	Why do we have so many enemies?
+
+Marek	Dagen, tell us about the ax man.
+The ax man is Rezzyk Maul,
+a notorious mercenary.
+
+Marek	He mentioned a woman?
+
+Dagen	Yes he did.
+Well, she's nobody.
+I mean she's not nobody,
+she's wealthy daughter of a nobleman.
+High society, very well endowed.
+With gold, and nothing else.
+
+
+
+
+
+Well you can't blame the girl
+
+for taking a liking to me
+
+
+
+
+
+over that barbarian.
+
+
+
+
+
+He doesn't even bathe properly.
+
+
+
+
+
+Sorry, she has good taste.
+
+
+
+
+
+Ah, you're not blaming this on me?
+
+
+
+
+
+Marek	No, of course not,
+
+you self obsessed libertine.
+
+
+
+
+
+They're after the Darkspore.
+
+
+
+
+
+Dagen	Oh.
+
+
+
+
+
+Ah!
+
+
+
+
+
+Marek	And that is for
+
+falling all over yourself
+
+
+
+
+
+to rescue that magician
+
+Thane	Why do they want the Darkspore?
+
+
+
+
+
+Marek	They're working for Hammerhead	.
+
+
+
+
+
+Dagen	Well that's perfect.
+
+
+
+
+
+It's all a big misunderstanding then.
+
+
+
+
+
+Marek	No.
+
+
+
+
+
+Hammerhead	 hired them
+
+because we keep failing.
+
+
+
+
+
+Dagen	Well that's even more perfect.
+
+
+
+
+
+We take the Darkspore to Hammerhead	
+
+
+
+
+
+and we get a big sack of gold.
+
+
+
+
+
+Thane	You're not suggesting
+
+we hand over the Darkspore
+
+
+
+
+
+to that snake of an innkeeper for money?
+
+
+
+
+
+Dagen	Go on.
+
+
+
+
+
+Marek	He's more likely to sell it to Szorlok
+
+
+
+
+
+than to hide it from him.
+
+
+
+
+
+Marek	I think Hammerhead	 wants to trade
+
+
+
+
+
+the Darkspore for the Iron Crown.
+
+
+
+
+
+Thane	The Iron Crown.
+
+
+
+
+
+Marek	The Iron Crown that would
+
+make him king of the dwarves.
+
+
+
+
+
+Dagen	Well that's very lovely for Hammerhead	,
+
+
+
+
+
+but I don't see what it has
+
+to do with the Darkspore.
+
+
+
+
+
+Marek	When the Golgotians
+
+conquered and scattered
+
+
+
+
+
+the dwarves centuries ago.
+
+Dagen	Golgotians?
+
+
+
+
+
+Marek	They captured the Iron Crown.
+
+
+
+
+
+Dagen	Golgotians are Szorlok's people.
+
+
+
+
+
+Marek	No, not his people, allies.
+
+
+
+
+
+Dagen	Oh.
+
+
+
+
+
+Marek	But in any case,
+
+
+
+
+
+Szorlok may have the Iron Crown.
+
+
+
+
+
+Dagen	You think Szorlok wants
+
+to be king of the dwarves?
+
+
+
+
+
+Marek	Dagen, let me finish.
+
+
+
+
+
+There's a legendary hammer.
+
+
+
+
+
+The Hammer of Tek.
+
+
+
+
+
+Thane	The Hammer that forged the world?
+
+
+
+
+
+Marek	Legend has it that the Hammer of Tek
+
+
+
+
+
+cannot be held by any mortal hands,
+
+
+
+
+
+except one who wears the Iron Crown.
+
+
+
+
+
+Thane	It's a wonderful children's story.
+
+
+
+
+
+Dagen	Yes, well assuming that it's real,
+
+
+
+
+
+Tek's Hammer could destroy anything.
+
+
+
+
+
+Which includes the Darkspore,
+
+
+
+
+
+so maybe Hammerhead	 wants
+
+to get the Iron Crown
+
+
+
+
+
+so that he can get the Hammer,
+
+
+
+
+
+and destroy the Darkspore
+
+for once and for all.
+
+
+
+
+
+Which on all accounts,
+
+is a very real plan.
+
+
+
+
+
+No more running and hiding.
+
+
+
+
+
+Thane	You're talking about
+
+handing over the last piece
+
+
+
+
+
+of the Darkspore.
+
+
+
+
+
+Now unless I'm mistaken, that
+
+makes Szorlok the Lich King.
+
+
+
+
+
+The whole world becomes undead.
+
+
+
+
+
+Marek	Yes, even if we did have the Iron Crown,
+
+
+
+
+
+and found the Hammer of Tek.
+
+
+
+
+
+Destroying the Darkspore
+
+may be impossible.
+
+
+
+
+
+Just because you have a sword,
+
+
+
+
+
+doesn't mean you can slay a dragon.
+
+
+
+
+
+Dagen	Yes, but I still think we
+
+should take it to Hammerhead	,
+
+
+
+
+
+and at least see what his intentions are.
+
+
+
+
+
+Thane	Gojun said to take the Darkspore
+
+
+
+
+
+to where the gods can protect it.
+
+Dagen	Look, Thane!
+
+
+
+
+
+Gojun is not here right now!
+
+
+
+
+
+Thane	We're gonna go with Gojun's plan
+
+Dagen	He's gone, he's probably dead.
+
+
+
+
+
+Thane	Teela will take us to the
+
+temple. Dagen	Alright
+
+I'm sorry Marek, but that's
+
+
+
+
+
+how it is, I vote Hammerhead	
+
+Marek	Enough!
+
+
+
+
+
+Listen to you two.
+
+
+
+
+
+This is not a vote!
+
+
+
+
+
+Right now, we gonna follow the road.
+
+
+
+
+
+This road, the only road.
+
+
+
+
+
+I need time to rest and think.
+
+
+
+
+
+Don't eat that.
+
+
+
+
+
+Dagen	Sorry Thane, did--
+
+
+
+
+
+Did you say Teela will guide us?
+
+
+
+
+
+You're not worshiping her now?
+
+
+
+
+
+Wait, you're not, right?
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Marek	Not now Thane.
+
+
+
+
+
+Thane	We need to speak to her.
+
+
+
+
+
+Marek	She's dead.
+
+
+
+
+
+Thane	Somehow she's inside of you.
+
+
+
+
+
+I have to believe.
+
+
+
+
+
+Marek	You'll believe anything
+
+that might bring Teela back.
+
+
+
+
+
+But you don't know how necromancy works.
+
+
+
+
+
+I remember it, every detail.
+
+
+
+
+
+I killed her,
+
+
+
+
+
+I sucked every drop of her life force
+
+
+
+
+
+and used it to destroy.
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Thane	We have to get her out of you.
+
+
+
+
+
+For your sake, and for hers.
+
+
+
+
+
+Marek	Get some sleep, Thane.
+
+
+
+
+
+You need it.
+
+
+
+
+
+(somber music)
+
+
+
+
+
+(groaning)
+
+
+
+
+
+Dagen	You and me both sweetheart.
+
+
+
+
+
+We're not gonna let the
+
+crazies get to us, right?
+
+
+
+
+
+We're gonna keep it together.
+
+
+
+
+
+Right?
+
+
+
+
+
+Can you understand anything I'm saying?
+
+
+
+
+
+Just raise your hand or
+
+something if you can, yeah?
+
+
+
+
+
+Okay.
+
+
+
+
+
+Alright, look, one time Thane
+
+told me Marek was upstairs.
+
+
+
+
+
+I went there, it was
+
+Hammerhead	's room instead.
+
+
+
+
+
+It was all very embarrassing,
+
+he was not impressed.
+
+
+
+
+
+(sighs)
+
+
+
+
+
+Dagen	Feels rather good.
+
+
+
+
+
+You're an excellent listener.
+
+
+
+
+
+Come on, come here.
+
+
+
+
+
+That's alright, come on.
+
+
+
+
+
+There you are.
+
+
+
+
+
+Hey, no!
+
+
+
+
+
+Absolutely not, none of that!
+
+
+
+
+
+That's good, there you go, stay there.
+
+
+
+
+
+[Teela’s voice] Thane.
+
+
+
+
+
+Thane.
+
+
+
+
+
+(hopeful music)
+
+
+
+
+
+Thane	Teela.
+
+
+
+
+
+Dagen	Thane, it's your turn.
+
+
+
+
+
+Oh.
+
+
+
+
+
+Marek	What are you doing?
+
+
+
+
+
+Get away from me!
+
+
+
+
+
+Teela	Let me out!
+
+
+
+
+
+Marek	I'm not her.
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Marek	Dagen.
+
+
+
+
+
+Dagen	You don't need to say anything.
+
+
+
+
+
+Gods know I've been begging
+
+for a kiss from you,
+
+
+
+
+
+a little sign of affection, something,
+
+
+
+
+
+and it was Thane all along.
+
+
+
+
+
+It's fine, go back to him, have at it.
+
+
+
+
+
+I won't get in the way.
+
+
+
+
+
+Marek	You're impossible.
+
+
+
+
+
+Dagen	I'm impossible?
+
+
+
+
+
+Do what you want, I'm done
+
+with you, you crazy girl!
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Dagen	We need to refuel.
+
+
+
+
+
+Marek	We're almost to the White Waste.
+
+
+
+
+
+The Temple of the Owl
+
+is somewhere out there.
+
+
+
+
+
+Dagen	Well, keep that.
+
+
+
+
+
+Marek	Dagen.
+
+
+
+
+
+Dagen	You little lovebirds,
+
+
+
+
+
+feel free to wander this barren wasteland.
+
+
+
+
+
+Me and Zombie Girl,
+
+we're going back to town
+
+
+
+
+
+for a couple of nice drinks.
+
+
+
+
+
+Marek	Dagen, it's not what you think.
+
+
+
+
+
+Dagen	Your team is a failure, Marek.
+
+
+
+
+
+Thane	He needs to know.
+
+
+
+
+
+Dagen	Know what?
+
+
+
+
+
+Thane	Teela is inside of her.
+
+
+
+
+
+They're sharing the same body
+
+
+
+
+
+Marek	No, it's my body.
+
+
+
+
+
+Somehow Teela controls me sometimes.
+
+
+
+
+
+Dagen	Thane, this is weird,
+
+and sick, and twisted,
+
+
+
+
+
+and wrong, and Marek,
+
+
+
+
+
+quite frankly I'm surprised
+
+you're playing along with it.
+
+
+
+
+
+Thane	Stop holding her back.
+
+
+
+
+
+Marek	Listen, Thane, just shut up about it.
+
+
+
+
+
+Thane	Teela, it's me, Thane.
+
+Marek	What are you doing, stop!
+
+
+
+
+
+Teela	Marek.
+
+
+
+
+
+(screams)
+
+
+
+
+
+Dagen	Hey! Stop it, leave her alone!
+
+Thane	Teela listen to me, we need you.
+
+
+
+
+
+Follow my voice.
+
+
+
+
+
+Teela, come!
+
+
+
+
+
+[Teela's voice] Time is running out.
+
+
+
+
+
+Make haste, to the Temple.
+
+
+
+
+
+They're coming.
+
+
+
+
+
+Run for your lives.
+
+
+
+
+
+Run, run.
+
+
+
+
+
+Dagen	What have you done to her?
+
+
+
+
+
+Thane	It's Teela.
+
+
+
+
+
+Her spirit is inside of her.
+
+
+
+
+
+Run, why?
+
+
+
+
+
+Why run?
+
+
+
+
+
+[Teela's voice] Death.
+
+
+
+
+
+Dagen	I liked it better when she said run.
+
+
+
+
+
+(hissing)
+
+
+
+
+
+Dagen	Thane, now that you figured
+
+out how to talk to Teela,
+
+
+
+
+
+you think we could get Marek back?
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Thane	Hang on!
+
+
+
+
+
+Marek	What is it?
+
+
+
+
+
+Dagen	Faster Thane!
+
+
+
+
+
+Thane!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Marek	Thane!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Dagen	Thane, they're coming, use the bottles!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Thane	Are they gone?
+
+
+
+
+
+(shrieks)
+
+
+
+
+
+(screams)
+
+
+
+
+
+Hang on!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+(hissing)
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+(hisses)
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+(laughs)
+
+
+
+
+
+(yells)
+
+
+
+
+
+Marek	Thane!
+
+
+
+
+
+Turn around, we lost Dagen!
+
+
+
+
+
+
+
+
+
+
+
+(growls)
+
+
+
+
+
+Dagen	You are brilliant!
+
+
+
+
+
+Come on!
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+Come on, come on that's it!
+
+
+
+
+
+That's it, perfect, take my hand!
+
+
+
+
+
+My hand, come on!
+
+
+
+
+
+Thane, slow down!
+
+
+
+
+
+Take my!
+
+
+
+
+
+Thane!
+
+
+
+
+
+Thane, stop!
+
+
+
+
+
+We have to turn back!
+
+
+
+
+
+Marek	No Thane, keep going!
+
+
+
+
+
+Dagen	Thane, you stop this thing!
+
+
+
+
+
+Stop!
+
+
+
+
+
+Marek	There's nothing we can do.
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Dagen	Stop.
+
+
+
+
+
+Gojun Pye	Accept your fate Szorlok,
+
+
+
+
+
+we are both here forever.
+
+
+
+
+
+
+
+
+
+
+
+Well, components are running low,
+
+
+
+
+
+and channeling is depleted.
+
+
+
+
+
+-Szorlok	 Yes, soon there will
+
+be no magical reserves
+
+
+
+
+
+for you to draw upon,
+
+
+
+
+
+and then you will die.
+
+
+
+
+
+Gojun Pye	Whether I live or die doesn't matter.
+
+
+
+
+
+You and the Darkspore will
+
+be stuck here forever.
+
+
+
+
+
+Szorlok	It's strange to me you seem so certain.
+
+
+
+
+
+You cannot really be that stupid, can you?
+
+
+
+
+
+Gojun Pye	Keep talking Szorlok,
+
+
+
+
+
+every moment that goes by,
+
+
+
+
+
+Marek is further from your grasp.
+
+
+
+
+
+Szorlok	I need not grasp anything.
+
+
+
+
+
+She will come to me.
+
+
+
+
+
+Just as her mother did.
+
+
+
+
+
+Gojun Pye	She's stronger than her mother.
+
+
+
+
+
+
+
+
+
+
+
+Szorlok	Oh yes, I am counting on it.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Marek	Dust storm away to the West.
+
+
+
+
+
+It should just miss us.
+
+
+
+
+
+Thane	How far to the Temple?
+
+
+
+
+
+Marek	I don't know.
+
+
+
+
+
+Dagen	Could go on forever.
+
+
+
+
+
+We'll never find it, not
+
+before we run out of fuel,
+
+
+
+
+
+water, or both.
+
+
+
+
+
+Thane	Teela said she would take us there
+
+
+
+
+
+Marek	Don't say her name.
+
+
+
+
+
+I'm sorry we couldn't go back.
+
+
+
+
+
+It was too late to save her.
+
+
+
+
+
+(horse neighs)
+
+
+
+
+
+Thane	Wait.
+
+
+
+
+
+(horse neighs)
+
+
+
+
+
+Thane	Dagen's friends are back.
+
+
+
+
+
+Marek	I've never fully tested my range.
+
+
+
+
+
+(zaps)
+
+
+
+
+
+
+
+
+
+
+
+(zaps)
+
+
+
+
+
+Thane	Don't waste it, wait for a good shot.
+
+
+
+
+
+
+
+
+
+
+
+Thane	Never mind, fire away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dagen	Is everything under control up there.
+
+
+
+
+
+
+
+
+
+
+
+Thane	Don't listen to me, do whatever works.
+
+
+
+
+
+Marek	You're too big of a
+
+target, go get Dagen.
+
+
+
+
+
+Thane	Good idea.
+
+
+
+
+
+Don't lose my shield.
+
+
+
+
+
+(yells)
+
+
+
+
+
+Dagen	How we doing?
+
+
+
+
+
+Marek	I just missed you, that's all.
+
+
+
+
+
+Dagen	Ah.
+
+
+
+
+
+(yells)
+
+
+
+
+
+Rezzyk	Caia, now!
+
+
+
+
+
+(yells)
+
+
+
+
+
+Marek	She has blackvine, very expensive.
+
+
+
+
+
+Dagen	See, that's what I've always said.
+
+
+
+
+
+We need more gold!
+
+
+
+
+
+[Caia Bekk] Faster you fools!
+
+
+
+
+
+Rezzyk	Come on.
+
+
+
+
+
+Marek	Is that good or bad?
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Dagen	Based on past experience,
+
+
+
+
+
+I'd say it's always bad.
+
+
+
+
+
+Hey!
+
+
+
+
+
+Rezzyk	I'm not falling for that old trick.
+
+
+
+
+
+(laughs)
+
+
+
+
+
+The Admiral	Kill, kill, kill!
+
+
+
+
+
+No survivors, boys!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Go!
+
+
+
+
+
+(laughs)
+
+
+
+
+
+Dagen	It's her, it's the bloody Admiral.
+
+
+
+
+
+(laughs)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+(yells)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Dagen	Yes!
+
+
+
+
+
+(screams)
+
+
+
+
+
+Dagen	Oh brilliant!
+
+
+
+
+
+The Admiral	Oh, fyke.
+
+
+
+
+
+Step aside, time to die.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+The Admiral	Gotcha.
+
+
+
+
+
+Sweet mother of vengeance.
+
+
+
+
+
+[Right Hand Bandit] Admiral, Admiral.
+
+
+
+
+
+The Admiral	Fyke, boys!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Szorlok	Tell me, if you're so convinced
+
+we are stuck here to die,
+
+
+
+
+
+then why is it you care
+
+if your pitiful team
+
+
+
+
+
+reaches their goal?
+
+
+
+
+
+I am defeated, nothing else matters,
+
+
+
+
+
+wouldn't you say?
+
+
+
+
+
+Gojun Pye	Even one piece of the Darkspore
+
+
+
+
+
+has enough evil in it
+
+to be worth protecting.
+
+
+
+
+
+Szorlok	No, no that's not it.
+
+
+
+
+
+You know how this ends,
+
+
+
+
+
+and yet you still chose this path.
+
+
+
+
+
+Tell me, why?
+
+
+
+
+
+Gojun Pye	Even if I told you,
+
+
+
+
+
+you could never understand my way.
+
+
+
+
+
+That is why you will fail in the end.
+
+
+
+
+
+Szorlok	No, I can see now that I merely
+
+
+
+
+
+overestimated your intellect.
+
+
+
+
+
+Your plan is ill conceived.
+
+
+
+
+
+Which you will soon discover.
+
+
+
+
+
+Gojun Pye	Then go on, what are you waiting for?
+
+
+
+
+
+(sobbing)
+
+
+
+
+
+Dagen	Marek.
+
+
+
+
+
+You still, you still owe me a kiss.
+
+
+
+
+
+(coughs)
+
+
+
+
+
+Marek	Shh, hey don't say that.
+
+
+
+
+
+You're not dying.
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Thane	Marek.
+
+
+
+
+
+Marek	No.
+
+
+
+
+
+Dagen.
+
+
+
+
+
+(sobbing)
+
+
+
+
+
+Dagen.
+
+
+
+
+
+Dagen!
+
+
+
+
+
+Thane	Stop!
+
+
+
+
+
+Marek	Dagen!
+
+
+
+
+
+(sobbing)
+
+
+
+
+
+Teela!
+
+
+
+
+
+Teela, help him!
+
+
+
+
+
+Teela, heal him!
+
+
+
+
+
+Thane	Oh Marek, she can't bring him back.
+
+
+
+
+
+(sobbing)
+
+
+
+
+
+Marek	Teela help him,
+
+
+
+
+
+or I'll hurt Thane!
+
+
+
+
+
+Don't make me do it!
+
+
+
+
+
+Teela	Dagen.
+
+
+
+
+
+(gasps)
+
+
+
+
+
+Dagen	What happened?
+
+
+
+
+
+Thane	She made Teela bring you back.
+
+
+
+
+
+It may have been too much for her.
+
+
+
+
+
+Dagen	I was dead, I was dead.
+
+
+
+
+
+Thane	We have to get Marek to that temple.
+
+
+
+
+
+She can't go on with Teela inside of her.
+
+
+
+
+
+It's going to kill her, or me.
+
+
+
+
+
+Dagen	Marek, It's me, it's me, yes.
+
+Marek	Dagen.
+
+
+
+
+
+Dagen	You managed to keep
+
+me around a bit longer.
+
+
+
+
+
+Thane	Don't explain.
+
+
+
+
+
+Dagen	Explain what?
+
+
+
+
+
+Thane	She's willing to sacrifice
+
+anything to bring you back.
+
+
+
+
+
+That's all.
+
+
+
+
+
+(horse neighs)
+
+
+
+
+
+Marek	It's probably just the wind.
+
+
+
+
+
+Marek	You don't think those demons could
+
+
+
+
+
+run through that storm do you?
+
+
+
+
+
+Dagen	They don't seem to stop
+
+at much of anything else.
+
+
+
+
+
+Rezzyk	Mind if we join you?
+
+
+
+
+
+The artifact, let's have it.
+
+
+
+
+
+
+
+
+
+
+
+Torsten	So that's what brings people
+
+back from the dead, huh?
+
+
+
+
+
+Is that how you got your thief back?
+
+
+
+
+
+Marek	It doesn't raise the dead to the living,
+
+
+
+
+
+it turns them undead.
+
+
+
+
+
+Torsten	Oh, well that sounds bad.
+
+
+
+
+
+You know, that reminds
+
+me of that one time.
+
+
+
+
+
+Rezzyk	How do you use it?
+
+
+
+
+
+Marek	You don't, it uses you.
+
+
+
+
+
+It's a piece of the Lich King’s heart,
+
+
+
+
+
+and its power can only
+
+be used by a necromancer.
+
+
+
+
+
+Like me.
+
+
+
+
+
+Rezzyk	Hammerhead	's no necromancer.
+
+
+
+
+
+Marek	He'll trade it to a necromancer,
+
+
+
+
+
+for the Iron Crown of the Dwarves.
+
+
+
+
+
+Rezzyk	I've known Hammerhead	 a
+
+long time, he's no fool.
+
+
+
+
+
+Marek	He's no fool,
+
+
+
+
+
+but he may not believe there's
+
+any way to stop Szorlok,
+
+
+
+
+
+so he'll profit any way he can.
+
+
+
+
+
+Rezzyk	Yes, that is his way.
+
+
+
+
+
+Marek	Know this.
+
+
+
+
+
+The Darkspore is a
+
+weapon with one purpose.
+
+
+
+
+
+Death.
+
+
+
+
+
+If Szorlok gets that last piece,
+
+
+
+
+
+nothing will matter.
+
+
+
+
+
+Not your gold, not
+
+Hammerhead	's crown, nothing.
+
+
+
+
+
+(laughs)
+
+
+
+
+
+What's so funny?
+
+
+
+
+
+Rezzyk	Your dedication to Gojun's crusade.
+
+
+
+
+
+Marek	We can't let Szorlok get the Darkspore.
+
+
+
+
+
+We're all responsible for it.
+
+
+
+
+
+[Caia Bekk] That's your quest, not ours.
+
+
+
+
+
+Torsten	We're mercenaries, true enough,
+
+
+
+
+
+but we never take work
+
+we don't believe in.
+
+
+
+
+
+Hammerhead	's ways may not
+
+be in line with yours,
+
+
+
+
+
+but what would you do that's any better?
+
+
+
+
+
+Thane	We're taking it to a
+
+temple to keep it safe.
+
+
+
+
+
+Anything's better than
+
+letting Szorlok have it.
+
+
+
+
+
+Rezzyk	I'm done talking, it's settled.
+
+
+
+
+
+Thane	You're making a mistake.
+
+
+
+
+
+[Caia Bekk] Our only mistake is letting you live.
+
+
+
+
+
+If I had it my way, you'd all be dead
+
+
+
+
+
+with a lot less discussion about it!
+
+
+
+
+
+Rezzyk	We'll drop your weapons at a safe place,
+
+
+
+
+
+but don't bother coming after us.
+
+
+
+
+
+We ride much faster than
+
+this contraption ever could.
+
+
+
+
+
+You have too much doubt in yourself.
+
+
+
+
+
+Make your own path.
+
+
+
+
+
+If you do wrong, at least
+
+you made a real choice.
+
+
+
+
+
+Don't go wrong following someone else.
+
+
+
+
+
+[Caia Bekk] Don't cry, Redthorns.
+
+
+
+
+
+You're lucky to be alive.
+
+
+
+
+
+
+
+
+
+
+
+(shreiks)
+
+
+
+
+
+(yells)
+
+
+
+
+
+Marek	We have to help them.
+
+
+
+
+
+Dagen	What?
+
+
+
+
+
+Thane	Come on.
+
+
+
+
+
+Dagen	Can't we just watch for a minute?
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+(yells)
+
+
+
+
+
+(hisses)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Dagen	Marek.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Rezzyk	Go on you fools.
+
+
+
+
+
+You owe us nothing, get
+
+away while you still can!
+
+
+
+
+
+We can't win, not without
+
+Thorsten and Caia!
+
+
+
+
+
+
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+Thane	Dagen, switch!
+
+
+
+
+
+Dagen	I will not switch!
+
+
+
+
+
+I was dead, I have earned the right
+
+
+
+
+
+to fight the thing that only has one arm!
+
+
+
+
+
+(hissing)
+
+
+
+
+
+Thane, Thane, switch!
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+Marek	Are we really going to do this?
+
+
+
+
+
+Rezzyk	What's the plan?
+
+
+
+
+
+Marek	I'm going to take the Darkspore
+
+
+
+
+
+to the Temple of the Owl,
+
+and you can either help me,
+
+
+
+
+
+or you can die trying to stop me.
+
+
+
+
+
+Rezzyk	That was some quick thinking,
+
+
+
+
+
+but your team needs a leader,
+
+
+
+
+
+and you keep waiting for
+
+somebody to give you the answers.
+
+
+
+
+
+Hammerhead	, Gojun, they
+
+won't lead your team.
+
+
+
+
+
+Their time has past.
+
+
+
+
+
+Marek	Thank you.
+
+
+
+
+
+Rezzyk	Ha, don't thank me.
+
+
+
+
+
+We may all yet live to be enemies again.
+
+
+
+
+
+Let's go.
+
+
+
+
+
+Thane	There's our guide!
+
+
+
+
+
+I knew she wouldn't let us down.
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+
+
+
+
+
+
+(heavy breathing)
+
+
+
+
+
+
+
+
+
+
+
+Gojun Pye	There's nothing left to channel.
+
+
+
+
+
+Looks like we're down
+
+to brute strength now.
+
+
+
+
+
+Szorlok	You always had me
+
+out-matched physically,
+
+
+
+
+
+but I never had too much
+
+trouble outsmarting you.
+
+
+
+
+
+
+
+
+
+
+
+Gojun Pye	You always were a cheater.
+
+
+
+
+
+Szorlok	There are no cheaters, only
+
+the victors and the dead.
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+Dagen	You all right?
+
+
+
+
+
+Marek	He was right, you know.
+
+
+
+
+
+Dagen	About what?
+
+
+
+
+
+Marek	I'm not a leader.
+
+
+
+
+
+Dagen	Really?
+
+
+
+
+
+Why do I keep following you then?
+
+
+
+
+
+Why does Thane keep following you?
+
+
+
+
+
+Marek	I don't know.
+
+
+
+
+
+Maybe because you like pain and suffering?
+
+
+
+
+
+Dagen	Don't jest.
+
+
+
+
+
+Not about this.
+
+
+
+
+
+We follow you for the same
+
+reason Gojun Pye	 does.
+
+
+
+
+
+Marek	What?
+
+
+
+
+
+Dagen	Marek, Gojun doesn't
+
+see you as a follower.
+
+
+
+
+
+He's looking to you for answers.
+
+
+
+
+
+He believes that you can
+
+succeed where he can't.
+
+
+
+
+
+Marek	Don't be stupid, Gojun is
+
+more powerful than I ever.
+
+
+
+
+
+Dagen	Do you really believe it's still
+
+
+
+
+
+about being more powerful?
+
+
+
+
+
+It's never been that way
+
+with us, it never will be.
+
+
+
+
+
+That's not how we're
+
+going to defeat Szorlok.
+
+
+
+
+
+Marek	Then how?
+
+
+
+
+
+What do we do?
+
+
+
+
+
+Dagen	Don't honestly know.
+
+
+
+
+
+But I do believe, that
+
+when the time comes,
+
+
+
+
+
+you'll have the answer.
+
+
+
+
+
+You always do, that's why we follow you.
+
+
+
+
+
+'Cause we believe in you.
+
+
+
+
+
+Marek	How are you so hopeful
+
+all of the sudden?
+
+
+
+
+
+Dagen	Well I died,
+
+
+
+
+
+and I was brought back to life
+
+
+
+
+
+by a beautiful girl
+
+possessed by a goddess,
+
+
+
+
+
+so the worst has to be behind me, right?
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+The Admiral	Impossible.
+
+
+
+
+
+What's the world coming to
+
+when you can't kill a man
+
+
+
+
+
+and be sure he'll stay dead?
+
+
+
+
+
+[Right Hand Man] He's a reprobate, he's got no shame.
+
+
+
+
+
+Uh, downright disingenuous.
+
+
+
+
+
+The Admiral	Watch 'em.
+
+
+
+
+
+(gasps)
+
+
+
+
+
+[Teela's voice] This is holy ground.
+
+
+
+
+
+Leave the wagon here.
+
+
+
+
+
+(gasps)
+
+
+
+
+
+Dagen	Thane, stop the wagon.
+
+
+
+
+
+This is it, we're here.
+
+
+
+
+
+
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+
+
+
+
+
+
+Szorlok	That's it, fight me
+
+with all your strength.
+
+
+
+
+
+(yells)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Good, now, let me show you
+
+the error of your ways,
+
+
+
+
+
+as I return to our world and
+
+usher in a new age of order,
+
+
+
+
+
+my order.
+
+
+
+
+
+Gojun Pye	There's no magic, you can't go back.
+
+
+
+
+
+Szorlok	Yes, because, how did yo put it?
+
+
+
+
+
+There is no living
+
+thing for me to feed on.
+
+
+
+
+
+Well there is one living thing.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+You're too tired, old friend.
+
+
+
+
+
+You've already used the
+
+last of your strength.
+
+
+
+
+
+Now, give me your life
+
+force, you cannot resist.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+Thane	No, it can't be gone.
+
+
+
+
+
+No!
+
+
+
+
+
+Marek	The closer we get, the weaker I become.
+
+
+
+
+
+Dagen	If it gets much worse,
+
+we are turning back.
+
+
+
+
+
+I don't care if you think.
+
+Thane	There!
+
+
+
+
+
+(enchanted music)
+
+
+
+
+
+We're coming, Teela!
+
+
+
+
+
+[Right Hand Bandit] Admiral.
+
+
+
+
+
+The Admiral	What?
+
+
+
+
+
+[Right Hand Bandit] They've disappeared.
+
+
+
+
+
+They're gone.
+
+
+
+
+
+The Admiral	What are you talking about,
+
+
+
+
+
+what are you talking about!?!
+
+
+
+
+
+I told you to keep an eye on them,
+
+
+
+
+
+and you can't find them from up here?!
+
+
+
+
+
+I'll throw you overboard,
+
+
+
+
+
+and you'll find them from down there!
+
+
+
+
+
+[Right Hand Bandit] I know they were somewhere,
+
+
+
+
+
+somewhere around here.
+
+
+
+
+
+Thane	There, there it is!
+
+
+
+
+
+Teela, we're here.
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+Friend or foe?
+
+
+
+
+
+Dagen	Let's ask him.
+
+
+
+
+
+Hey, you there!
+
+
+
+
+
+We're friends with Teela.
+
+
+
+
+
+You know, Teela?
+
+
+
+
+
+See how friendly he is?
+
+
+
+
+
+Any ideas?
+
+
+
+
+
+Thane	Don't show fear.
+
+
+
+
+
+Dagen	You should have said that first.
+
+
+
+
+
+(yells)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+The Admiral	Kill, kill, kill.
+
+
+
+
+
+(laughs)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+(laughs)
+
+
+
+
+
+(laughs)
+
+
+
+
+
+Ah, yes!
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+[Skydiving Bandit] I'll get him sir.
+
+
+
+
+
+(yells)
+
+
+
+
+
+(screams)
+
+
+
+
+
+(screams)
+
+
+
+
+
+(yells)
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+The Admiral	Get me closer,
+
+
+
+
+
+I want them to see my face,
+
+as they die by my hand.
+
+
+
+
+
+[Right Hand Bandit] Yes.
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+Dagen	Marek?
+
+
+
+
+
+Marek, can you fight?
+
+
+
+
+
+Marek?
+
+
+
+
+
+Thane, tell your lady 
+
+we need our wizard back
+
+
+
+
+
+or this is going to be over very quickly.
+
+Thane	Need a little help.
+
+
+
+
+
+Dagen	Whoever you are, you need to help us,
+
+
+
+
+
+or we are going to die!
+
+
+
+
+
+(screams)
+
+
+
+
+
+[Teela’s voice] Let me out!
+
+
+
+
+
+(Teela whispering)
+
+
+
+
+
+(yells)
+
+
+
+
+
+(screams)
+
+
+
+
+
+(laughs)
+
+
+
+
+
+The Admiral	That's right, look up,
+
+
+
+
+
+and see the end of your
+
+insignificant little lives.
+
+
+
+
+
+(menacing music)
+
+
+
+
+
+Gojun Pye	Either way, you lose.
+
+
+
+
+
+
+
+
+
+
+
+(somber music)
+
+
+
+
+
+Szorlok	Yes, all mine.
+
+
+
+
+
+I feast on the soul of
+
+the mighty Gojun Pye	.
+
+
+
+
+
+The sweet succulence of victory.
+
+
+
+
+
+(yells)
+
+
+
+
+
+
+
+
+
+
+
+Marek	Gojun.
+
+
+
+
+
+Szorlok	You served your purpose, old friend.
+
+
+
+
+
+Marek	No!
+
+
+
+
+
+(somber music)
+
+
+
+
+
+The Admiral	Bloody warlock, again!
+
+
+
+
+
+Szorlok	He left me no choice.
+
+
+
+
+
+In his last moments,
+
+
+
+
+
+I looked into his mind.
+
+
+
+
+
+You, were his final thought.
+
+
+
+
+
+Marek	If I have my way, I'll
+
+be your dying thought too.
+
+
+
+
+
+(crackling)
+
+
+
+
+
+Marek	You murder for pleasure.
+
+
+
+
+
+Szorlok	Only to fulfill my rightful purpose.
+
+
+
+
+
+The Admiral	Fyke him, he's pissin'
+
+all over my party.
+
+
+
+
+
+Make it a double.
+
+
+
+
+
+Szorlok	I'll take back what is mine.
+
+
+
+
+
+Stolen from me by betrayal,
+
+
+
+
+
+and finally returned to
+
+its rightful possessor.
+
+
+
+
+
+Yes, come to me.
+
+
+
+
+
+(laughs)
+
+
+
+
+
+The Admiral	Fyke!
+
+
+
+
+
+Marek	Run!
+
+
+
+
+
+Szorlok	You cannot hide from me, Marek!
+
+
+
+
+
+There is no escape!
+
+
+
+
+
+(thrilling music)
+
+
+
+
+
+
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+(heavy breathing)
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+(breathing heavily)
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+(gasp)
+
+
+
+
+
+Thane	Teela?
+
+
+
+
+
+[Teela as Ana-Sett] Touch me not.
+
+
+
+
+
+Thane	Teela?
+
+
+
+
+
+[Teela as Ana-Sett] Teela is with me.
+
+
+
+
+
+We are the goddess Ana-Sett,
+
+
+
+
+
+reborn to dwell in the
+
+world among mortals.
+
+
+
+
+
+Marek	What about the Darkspore?
+
+
+
+
+
+How will you help us?
+
+
+
+
+
+You lead us here, for what?
+
+
+
+
+
+[Teela as Ana-Sett] You may impart the Darkspore to me.
+
+
+
+
+
+Marek	But can you keep it safe?
+
+
+
+
+
+[Teela as Ana-Sett] Not here.
+
+
+
+
+
+I will fly from the
+
+temple, away from Szorlok.
+
+
+
+
+
+Marek	Szorlok, he'll break through.
+
+
+
+
+
+More running and hiding.
+
+
+
+
+
+Thane	It's what Gojun Pye	 wanted us to do.
+
+
+
+
+
+It's why we're here.
+
+
+
+
+
+Marek	It doesn't feel right.
+
+
+
+
+
+It's what we've always done.
+
+
+
+
+
+Thane	We have no other choice.
+
+
+
+
+
+Marek	Unless, Ana-Sett, where
+
+is the Hammer of Tek?
+
+
+
+
+
+Is it real?
+
+
+
+
+
+[Teela as Ana-Sett] The Hammer is real, but it is lost.
+
+
+
+
+
+Thane	You wouldn't give
+
+Szorlok the last piece,
+
+
+
+
+
+not for a faint hope on some magic hammer.
+
+
+
+
+
+Gojun Pye	 wanted you to
+
+give it to the goddess.
+
+
+
+
+
+Marek	We'll never beat Szorlok
+
+unless we stop running.
+
+
+
+
+
+Gojun is gone.
+
+
+
+
+
+I can't follow his lead anymore.
+
+
+
+
+
+Szorlok	So, you would entrust
+
+the Darkspore to Ana-Sett.
+
+
+
+
+
+She cannot hide forever.
+
+
+
+
+
+I will hunt her down.
+
+
+
+
+
+I will make her suffer
+
+as any goddess should.
+
+
+
+
+
+Marek	I didn't come here to
+
+listen to more hollow mockery.
+
+
+
+
+
+I'm here to make an offer.
+
+
+
+
+
+You have the Iron Crown?
+
+
+
+
+
+Yes, I know of Hammerhead	's treachery,
+
+
+
+
+
+but are you bold enough to
+
+make the same trade, with me?
+
+
+
+
+
+Szorlok	You cannot fool me Marek.
+
+
+
+
+
+You seek the Hammer of Tek,
+
+
+
+
+
+and you would wish to destroy
+
+the greatest magic of all time
+
+
+
+
+
+and forsake your destiny as a necromancer.
+
+
+
+
+
+Marek	Call it what you will,
+
+
+
+
+
+but I'm letting you
+
+choose your own downfall.
+
+
+
+
+
+Give me the crown, and you
+
+can have the Darkspore now,
+
+
+
+
+
+or you can chase Ana-Sett
+
+the world over for it,
+
+
+
+
+
+and keep the Crown.
+
+
+
+
+
+Who knows, maybe you'd make
+
+a good King of the Dwarves?
+
+
+
+
+
+Szorlok	It's fitting you would
+
+bring me this piece.
+
+
+
+
+
+Your mother once brought
+
+me that same shard.
+
+
+
+
+
+Marek	You lie!
+
+
+
+
+
+Szorlok	You know it's true.
+
+
+
+
+
+The Darkspore flows
+
+through your very veins.
+
+
+
+
+
+She clutched the Darkspore to her chest
+
+
+
+
+
+as you grew in her belly.
+
+
+
+
+
+Month, after month, you drew
+
+in the Darkspore's power.
+
+
+
+
+
+Swam in its shadow.
+
+
+
+
+
+Marek	Make your choice.
+
+
+
+
+
+
+
+
+
+
+
+Szorlok	At last.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Szorlok	I am death!
+
+
+
+
+
+I am the Lich King reborn!
+
+
+
+
+
+Witness the birth of a god!
+
+
+
+
+
+You foolish child.
+
+
+
+
+
+You have sealed the fate of
+
+everything that draws breath,
+
+
+
+
+
+so begins the Age of Death.
+
+
+
+
+
+Dagen	Doesn't look too bad so
+
+far, this Age of Death.
+
+
+
+
+
+Ana-Sett	You have made
+
+an unexpected choice, Marek.
+
+
+
+
+
+The Lich King will not delay.
+
+
+
+
+
+His armies will rise from
+
+
+
+
+
+the graves of ancient battlefields.
+
+
+
+
+
+They will march on the
+
+lands of the living.
+
+
+
+
+
+If you seek the Hammer,
+
+you must make haste.
+
+
+
+
+
+Marek	We will, where do we start?
+
+
+
+
+
+I only know the Hammer was
+
+used by Tek, god of the forge.
+
+
+
+
+
+Ana-Sett	When Tek battled the
+
+Lich King Vekru Nom,
+
+
+
+
+
+he was struck down at the
+
+hill known as Battlegrave.
+
+
+
+
+
+Tek fell to his death, swallowed
+
+deep in the Underworld.
+
+
+
+
+
+The realm of the dead.
+
+
+
+
+
+He took the Hammer
+
+there, and cannot return.
+
+
+
+
+
+Marek	There's a first time for everything.
+
+
+
+
+
+Thane	I'm staying.
+
+
+
+
+
+Dagen	That's not exactly Teela, Thane.
+
+
+
+
+
+Thane	It is, and it isn't,
+
+
+
+
+
+but I dedicate myself to her,
+
+
+
+
+
+my life and my sword.
+
+
+
+
+
+Ana-Sett	Rise, Paladin.
+
+
+
+
+
+Teela	I haven't forgotten, I am here.
+
+
+
+
+
+Thane, I am yours as long as you are mine.
+
+
+
+
+
+Dagen	There she is, Teela my love.
+
+
+
+
+
+That's Teela alright.
+
+
+
+
+
+Marek	Teela, I'm sorry for what I did.
+
+
+
+
+
+Teela	Oh, don't be sorry.
+
+
+
+
+
+Yours is the hardest path and the darkest,
+
+
+
+
+
+and it will grow darker
+
+still before the end.
+
+
+
+
+
+Dagen	Thane,
+
+
+
+
+
+have a good time.
+
+
+
+
+
+You deserve it.
+
+
+
+
+
+Thane	Watch out for her.
+
+
+
+
+
+Marek	You are my first, and truest friend.
+
+
+
+
+
+Thane	Marek, I have always believed in you.
+
+
+
+
+
+If anyone will do it, you will.
+
+
+
+
+
+Teela	Thane and I will gather
+
+resistance to slow Szorlok.
+
+
+
+
+
+We will warn the people,
+
+save as many lives as we can.
+
+
+
+
+
+Marek	Dagen and I will get that
+
+Hammer, or we'll die trying.
+
+
+
+
+
+
+
+
+
+
+
+I've made a terrible mistake.
+
+
+
+
+
+I've traded the fate of the
+
+world for this hunk of metal.
+
+
+
+
+
+Dagen	Someone had to choose, Marek.
+
+
+
+
+
+Marek	Why me?
+
+
+
+
+
+Why not someone else?
+
+
+
+
+
+Dagen	Because you're the
+
+only one crazy enough,
+
+
+
+
+
+to choose the impossible.
+
+
+
+
+
+(enchanting music)
+
+
+
+
+
+Dagen	Just like that, Thane
+
+and Teela, gone in a flash.
+
+
+
+
+
+You know, they're probably
+
+at some gloriously
+
+
+
+
+
+seedy tavern by now, sipping drinks.
+
+
+
+
+
+You've teleported before
+
+Marek, what gives?
+
+
+
+
+
+Marek	Her magic's not like mine.
+
+
+
+
+
+You have to be sanctified.
+
+
+
+
+
+Dagen	Well in that case, you can keep it.
+
+
+
+
+
+I'd rather walk.
+
+
+
+
+
+How funny would it be, if we
+
+died of thirst after all this.
+
+
+
+
+
+Marek	Stop.
+
+
+
+
+
+Dagen	Stop what?
+
+
+
+
+
+Marek	Talking.
+
+
+
+
+

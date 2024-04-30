@@ -1,0 +1,589 @@
+
+
+[ TITRE A RENSEIGNER ]
+
+
+
+
+
+
+1 (00:00:00:01)
+
+SUBARU	(ah) (h) (ah) (h) (h) (h) Ah, mon bras! C'est bon, il est là. (h) Je suis encore revenu dans le passé. Même si j'ai bien peur... Que ça soit plus compliqué que ça.
+
+
+2 (00:00:19:09)
+
+SUBARU	(h)
+
+REM	(h)
+
+RAM	(h)
+
+SUBARU	Ah, pardon pour ça. Et bonjour.
+
+REM	(h)
+
+RAM	(h)
+
+SUBARU	(h) (h) Ah oui, vous m'avez encore oublié je parie. Désolé pour le dérangement, Natsuki Subaru repart à l'attaque!
+
+REM	(h)
+
+RAM	(h)
+
+SUBARU	Ceci dit, on est quel jour ? Et il est quelle heure?
+
+OUT (00:00:42:06)
+
+
+3 (00:03:22:18)
+
+SUBARU	Mon séjour au manoir Roswaal va se répéter pour la troisième fois. Je suis donc déjà mort deux fois. Récapitulons ce que j'ai appris au prix de ces deux morts. Cette langueur affreuse que j'ai ressentie lors du second cycle, c'est sans doute ça qui a causé ma première mort. Mais la seconde... C'était clairement une attaque. Est-ce que j'étais la cible, ou c'était encore quelqu'un venu voler l'insigne d'Emilia?
+
+
+4 (00:03:47:06)
+
+SUBARU	Je suis mort trop tôt, j'en aucune idée. Je ne sais même pas quelle arme il utilise ou à quoi il ressemble. Hé bah, je suis vraiment mort pour rien, il y a pas à dire.
+
+BEATRICE	Tu m'énerves à faire les cent pas comme ça, arrête tout de suite ou je te jette dehors.
+
+SUBARU	Ah, pardon. Je ne voulais pas te déranger, mais faire les cents pas ça m'aide à mettre mes idées au clair. Mais tu peux bien endurer ça pour moi, non? On est amis après tout.
+
+BEATRICE	Je me demande ce qui te fait penser ça. Après tout ce n'est jamais que notre seconde rencontre.
+
+SUBARU	(h) (mpf) Allez, je ne te dérangerai pas, tu n'as qu'à me servir une tasse de thé et me laisser décompresser un peu.
+
+BEATRICE	Je te conseille d'arrêter de rêver tout de suite. Grah! Qu'est-ce que tu peux être pénible!
+
+
+5 (00:04:31:07)
+
+SUBARU	Dis, de quoi il parle ton livre?
+
+BEATRICE	C'est un ouvrage sur l'art de chasser des insectes papillonnant dans notre espace vital.
+
+SUBARU	(oh) Quoi, il y en a un dans la bibliothèque? C'est pas mon truc les insectes. Il est pas trop gros j'espère.
+
+BEATRICE	Bon, il serait quand même temps que tu t'en ailles. Je ne sais pas si tu as remarqué, mais tes mains ne tremblent plus, tu as réussi à refouler ta peur.
+
+SUBARU	(hm) Tu avais remarqué?
+
+BEATRICE	Tu me feras le plaisir de ne plus me prendre pour ton doudou et de m'utiliser pour calmer tes mauvais rêves à l'avenir.
+
+SUBARU	Y a pas à dire, tu as un coeur de pierre. Mais ça m'a vraiment soulagé, alors à la prochaine.
+
+BEATRICE	Tu me dérangeras autant la prochaine fois. Alors pas la peine de revenir.
+
+SUBARU	(hm?)
+
+BEATRICE	Allez, psst! Psst!
+
+SUBARU	Quoi, "psst" je suis pas un- (oh) Attends, c'était moi le moustique de ton livre?
+
+BEATRICE	(grr) Mais tu vas finir par sortir d'ici, oui?
+
+SUBARU	(huh?) (hah) (ah) Ouille!
+
+
+6 (00:05:21:21)
+
+SUBARU	(h) Ouille... (ah) (h) Ce parterre, vient de me sauver la vie, quelle chute!
+
+EMILIA	Euh... C'est le bon moment pour te demander si ça va?
+
+SUBARU	(ah) Ma petite Emi... Enfin un peu de gentillesse, qu'est-ce que ça fait du bien...
+
+EMILIA	Bah en fait... Rem a répandu de la fumier sur ce parterre hier, pour servir d'engrais...
+
+SUBARU	(wah) Non non non, c'est pas possible je suis tombé à côté, pas vrai, pas vrai?
+
+EMILIA	Regarde le bon côté des choses, peut-être que tu vas pousser et devenir grand comme un arbre.
+
+SUBARU	Faut l'avouer, ta manière de me consoler me fait encore plus mal, Emi...
+
+EMILIA	(ahah) Pack, réveille-toi.
+
+
+7 (00:06:01:16)
+
+PACK	(ah) (h) Bonjour, Lia.
+
+EMILIA	Bonjour, Pack. Désolé de te demander ça au réveil, mais est-ce que tu pourrais laver Subaru, s'il-te-plaît?
+
+PACK	Subaru?
+
+SUBARU	(h)
+
+PACK	Ah, je vois. Alors c'est parti! Zou!
+
+SUBARU	(oh?) (ah) (ohohohohohohoh)
+
+PACK	(ahahah)
+
+SUBARU	Ouhlà, oh, oh
+
+PACK	Et voilà, tout propre!
+
+SUBARU	(oh)
+
+PACK	Tu dois être content, non?
+
+SUBARU	(hah) (oh) (oh) (oh) (oh)
+
+
+8 (00:06:34:02)
+
+SUBARU	J'ai vu ma vie défiler devant mes yeux! Tu aurais pas pu y aller plus doucement? Tu as juste voulu t'amuser, avoue!
+
+PACK	Allons bon, pas du tout... (puhpuhpuh)
+
+SUBARU	Tiens!
+
+PACK	(ah)
+
+SUBARU	(ahah)
+
+PACK	Coup de poing vengeur!
+
+SUBARU	(oh) (ah)
+
+PACK	(ah)
+
+SUBARU	(grr)
+
+PACK	(ah) (ah)
+
+SUBARU	Ah, tu veux jouer à ça?
+
+PACK	(ah) (ah) (ah) (ah) (ahahahahahahah)
+
+SUBARU	Goûte à ma terrible technique secrète ! Les gratouilles tueuses de chat!
+
+PACK	Ah mais non!
+
+SUBARU	(oh)
+
+PACK	(ah) Coup de queue!
+
+SUBARU	(ah) Dis donc, toi!
+
+PACK	Et pour finir... Attaque des coussinets!
+
+SUBARU	Si tu crois... (grr)
+
+EMILIA	(ah)
+
+PACK	Prends ça ! Et ça, et ça et ça et ça!
+
+EMILIA	(ahahahahah)
+
+SUBARU	Hein?
+
+PACK	Hein?
+
+EMILIA	(ah) (ahah) Pardon vous déux mais j'en peux plus, qu'est-ce que vous fabriquez? (ahah) (hahah) J'en ai mal au ventre (ahah) tellement je ris, (ahah) c'est pas possible.
+
+
+9 (00:07:14:22)
+
+EMILIA	(ahah)
+
+SUBARU	(hinhin)
+
+PACK	(hinhin)
+
+SUBARU	J'ai pu rattraper une première impression complètement désastreuse, merci du coup de main, beau-papa.
+
+PACK	[voix grave, faussement couroucé] Comment ça, "Beau-papa" ? Je ne te donnerai pas la main de ma fille aussi facilement!
+
+EMILIA	Ah non, arrêtez! Vous êtes à mourir de rire, tous les deux! (ahah)
+
+PACK	Le sourire de Lia est le plus beau au monde, T'es d'accord avec moi, pas vrai Subaru?
+
+SUBARU	Oui. Aucun doute. Le sourire d'Emi est tellement radieux qu'il brille comme une étoile dans le ciel!
+
+EMILIA	Oh, Subaru, t'exagères. Et je voulais te demander depuis tout à l'heure... Pourquoi tu m'appelles Emi?
+
+SUBARU	(oh) (hm) Oh, c'est un petit surnom que je t'avais trouvé. C'est un moyen d'exprimer l'intimité entre deux personnes. Tu vois, Pack t'appelle Lia, non ? Bah c'est un peu pareil, mais entre amis.
+
+
+10 (00:07:57:17)
+
+EMILIA	Euh, Subaru... C'est gentil, mais je crois pas me souvenir qu'on soit aussi proches que ça.
+
+SUBARU	(wah) (tsc) Hé bah dis donc, tu mâches pas tes mots, mais c'est pas grave! C'est vrai que je m'avance un peu avec le surnom. Mais comme ça le jour où on sera suffisamment proches pour se donner des petits noms on sera habitués! Ça te va?
+
+EMILIA	(ah) (h) (h) Euh... Euh... (hm) D'accord. Cette proposition est acceptable.
+
+SUBARU	gné?
+
+EMILIA	(oh) Ah non, ne me fixe pas comme ça...
+
+SUBARU	Je pensais qu'elle allait me rembarrer, pourquoi elle a l'air toute contente? (oh) Monsieur Pack, quel est votre avis sur la question?
+
+PACK	On ne dirait pas comme ça, mais Emilia n'a jamais vraiment eu d'amis et elle a toujours rêvé qu'on lui donne des petits noms.
+
+SUBARU	J'en peux plus, elle est parfaite, parfaite je vous dis!
+
+
+11 (00:08:39:23)
+
+REM	Grande-soeur, grande-soeur ! On a à peine le dos tourné que notre invité s'est transformé en rat mouillé.
+
+RAM	Petite-soeur, petite-soeur ! On dirait qu'en un clin d'oeil notre invité est devenu un torchon sale.
+
+SUBARU	Pas la peine d'insister, j'ai compris que je ressemblais à un rat d'égout.
+
+REM	Maître Roswaal est rentré, vous êtes convié à sa table pour le déjeuner, nous vous prions de vous préparer pour l'occasion.
+
+RAM	Maître Roswaal est rentré, vous êtes convié à sa table pour le déjeuner, nous vous prions de vous préparer pour l'occasion.
+
+SUBARU	(h) Le temps passe vite. Le moment-clé de la première rencontre avec le seigneur du manoir, troisième édition. J'ai beau savoir que l'assassin attaque la nuit du quatrième jour, je ne peux pas en parler à Roswaal et aux autres. Je ne peux pas leur expliquer comment je l'ai appris. Tout ce que je réussirai à faire c'est éveiller leurs soupçons et les faire douter de moi. Les choses seraient différentes si je connaissais le visage de mon assaillant. Quand l'insigne a été volé, j'ai eu droit à quatre tentatives, ce n'est que ma troisième vie, je peux me permettre de la sacrifier pour récupérer des informations. Et pour ça le plus intelligent, c'est...
+
+
+12 (00:09:33:12)
+
+ROSWAAL	Tu peux demander tout ce que tu veux. Allons! Ne sois pas timide, exprime-toi et révèle-nous tes désirs.
+
+SUBARU	Dans ce cas... Je ne vais pas me faire prier, mon souhait est d'être hébergé quelques temps dans votre magnifique demeure.
+
+RAM	[baille] (h) (h)
+
+
+13 (00:09:52:09)
+
+SUBARU	Bon, c'est déjà ça de fait, mais comment je récupère des informations moi, maintenant ? Les interroger l'air de rien ne va pas être facile... (oh?) (ah!) C'est là où je suis tombé! (h)
+
+
+14 (00:10:05:02)
+
+SUBARU	(h) (ah) Désolé du dérangement. J'étais avec...
+
+REM	Il n'y a aucun problème, cher invité. Veuillez m'excuser.
+
+SUBARU	Ah, euh, un instant... J'ai même pas pu en placer une.
+
+
+15 (00:10:16:16)
+
+SUBARU	(h) Rien à signaler, tout a l'air normal. (ah) (h)
+
+ROSWAAL	Oh? De quoi parles-tu?
+
+SUBARU	Roswaal... Ne me surprends pas comme ça! J'ai eu une de ces frousses!
+
+ROSWAAL	(h)
+
+
+16 (00:10:36:06)
+
+SUBARU	(h) (ah) Entrez!
+
+RAM	Je vous ai fait du thé, cher invité.
+
+SUBARU	(ah) Merci. Tu veux rester le boire avec moi?
+
+RAM	C'est gentil, mais non merci, cher invité.
+
+SUBARU	Hé bé! Tu peux être plus familière avec moi, tu sais!
+
+RAM	(hm)
+
+
+17 (00:11:00:05)
+
+SUBARU	(h) On n'est que le premier jour, je ne peux pas en demander plus...
+
+
+18 (00:11:06:21)
+
+SUBARU	Salut!
+
+BEATRICE	Décidément tu n'as aucune manière. Au lieu de rentrer comme si tu étais chez toi tu pourrais frapper à la porte, tu sais? Maintenant déguerpis avant que je te fasse sortir.
+
+SUBARU	Ah! Attends, attends! Pouce! J'avais une question à te poser, s'il-te-plaît. Dis... Est-ce qu'il existe un sort d'épuisement qui soit capable de tuer un homme dans son sommeil?
+
+BEATRICE	Si je ne peux répondre que par oui ou par non... Oui, il existe.
+
+SUBARU	(h) Tu peux m'en dire plus?
+
+BEATRICE	Pour être précis on ne parlerait pas d'un sort, mais plutôt d'une malédiction. Il existe aussi des formules chamaniques qui peuvent causer ce genre d'effets.
+
+SUBARU	Et c'est différent?
+
+BEATRICE	Le chamanisme, contrairement à la sorcellerie, est une sous-catégorie de magie qui provient de Gusteco, un pays nordique. Ceci dit, les arcanes chamaniques sont bourrés de défauts et difficilement maîtrisables. Mais si tu ne veux pas t'embêter avec des malédictions, il existe une méthode plus simple.
+
+SUBARU	Ah bon ?
+
+
+19 (00:11:58:03)
+
+BEATRICE	Oui et c'est même une méthode que tu as déjà expérimentée personnellement.
+
+SUBARU	(h?) Non, mais tu déconnes... Tu es en train de me dire que ton sort de drain de mana peut être mortel?! (grr)
+
+BEATRICE	L'énergie vitale est liée à l'énergie magique, il est parfaitement possible de mourir d'épuisement si quelqu'un draine ton mana en continu.
+
+SUBARU	Non mais rassure-moi... C'est pas toi qui m'as tué, au moins? Si?
+
+BEATRICE	Malheureusement, j'ai bien trop de choses à faire dans cette bibliothèque, quand on a du travail on a (h) autre chose à faire (h) que t'ôter la vie... (ah) (ah)
+
+SUBARU	C'est ce le livre que tu veux?
+
+BEATRICE	(mpf)
+
+SUBARU	(ah) Et, euh... Ah oui! N'importe qui peut se gorger du mana des autres comme toi?
+
+BEATRICE	Ton expression me fait passer pour une vampire et je n'aime pas ça. Et personne dans ce manoir en est capable, pas même Roswaal, à part moi et mon frère.
+
+
+20 (00:12:45:16)
+
+SUBARU	Ah... Ça veut dire que c'est un talent sacrément rare... En tous cas vas-y doucement quand tu joues à la vampire, surtout avec moi. Vu que je manque de sang en ce moment, c'est un coup à ce que tu me tues sans faire exprès.
+
+BEATRICE	(ah) C'est vrai que j'avais pu reconstituer toutes tes tripes mais pas te rendre ton sang. Bah, estime-toi heureux, ce n'est pas comme si j'étais obligée de t'aider non plus.
+
+SUBARU	(h) Vu la manière dont tu le dis, on pourrait croire que c'est toi qui as guéri ma blessure, sauf que je sais que c'est Emilia qui m'a soigné! Tu essayes de t'attribuer ses mérites ? C'est pas beau, ça!
+
+BEATRICE	Notre royale demi-elfe manque encore de beaucoup d'expérience avant de pouvoir soigner un éventrement.
+
+SUBARU	Hein?
+
+BEATRICE	J'ai eu à finir le travail qu'elle et mon frère avaient commencé, et ça n'a pas été simple, la blessure était mortelle.
+
+SUBARU	Quoi? Non mais attends c'est pas possible, t'es pas sérieuse! (h) Ah, je vois, tu te réfugies dans le mensonge, c'est évident que tu mens, comme toute bonne petite menteuse, hein la menteuse? Menteuse.
+
+BEATRICE	Tu me fais regretter le mal que je me suis donné pour te rafistoler! J'aurai dû te laisser crever, dégage d'ici!
+
+SUBARU	(h) (ah)
+
+
+21 (00:13:47:19)
+
+SUBARU	(ah) (ah)
+
+EMILIA	Euh... Ça devient une habitude, ça va?
+
+OUT (00:13:52:21)
+
+
+22 (00:15:22:11)
+
+SUBARU	J'ai beau retourner ça dans tous les sens, les mots-clés sont clairement "malédiction" et le cliquetis de "chaîne" de l'assaillant. C'est comme ça que je suis mort les deux fois, je n'ai aucun autre indice. Même si j'ai bien quatre vies comme à la Capitale, et que je peux consacrer celle-là à la récolte d'informations, ce n'est pas une raison pour ne rien faire. J'ai pu demander à Pack de veiller sur Emilia, c'est le plus important.
+
+
+23 (00:15:45:04)
+
+PACK	D'accord. Ton histoire est bancale, mais je vois bien que ton inquiétude pour Lia est sincère.
+
+
+24 (00:15:52:12)
+
+SUBARU	Le matin du quatrième jour, je quitterai le manoir. Et... (h)
+
+RAM	Excusez mon intrusion, cher invité. Je vois que vous étudiez sérieusement.
+
+SUBARU	Dis donc, c'est fini tu te gênes plus ! Je suis quand même toujours un invité ici, ou je me trompe?
+
+RAM	Je dois avouer que maintenant je n'arrive plus qu'à vous voir autrement que comme un vagabond qui se fait passer pour un invité, cher invité.
+
+SUBARU	Merci pour le thé. (h) (slurp) Meh... Il est pas terrible.
+
+RAM	Vous mériteriez d'être puni, je vous ai servi le meilleur thé de tout le manoir. (h)
+
+SUBARU	Tu m'impressionnes bien plus que ton thé. J'admire surtout l'aisance avec laquelle tu t'installes et décides de t'octroyer une pause.
+
+RAM	Cher invité, dois-je vous rappeler que c'est vous qui m'avez demandé d'être plus familière avec vous, je ne fais qu'obéir.
+
+SUBARU	(h)
+
+
+25 (00:16:36:18)
+
+RAM	Alors? Où en êtes vous dans vos études?
+
+SUBARU	Hé bien... Pas mal. Je suis maintenant capable de lire un livre de contes. Ce qui est intéressant c'est que la morale diffère un peu de ce qu'on lit dans mon pays. J'ai l'impression de participer à un échange culturel. Tant que j'y pense, je devrais peut-être importer des récits de mon pays. L'Ogre rouge en pleurs, par exemple.
+
+RAM	(hh)
+
+SUBARU	(oh)
+
+RAM	L'Ogre rouge en pleurs?
+
+SUBARU	(h) Tu n'en as jamais entendu parler? Dans ce cas, je vais te la raconter. Il était une fois, dans un endroit lointain, un ogre rouge et un bleu. Ils s'entendaient à merveille et passaient leurs journées ensemble.
+
+
+26 (00:17:18:13)
+
+SUBARU	L'ogre rouge souhaitait sympathiser avec les humains du village. Toutefois, par peur, ces derniers n'osaient pas l'approcher. L'ogre bleu élabora un plan pour aider son compère rouge. "Je me déchaînerai dans le village, et toi tu viendras m'arrêter. Comme ça les humains te feront confiance." Le plan fut un succès. L'ogre rouge devint ami avec les humains. Mais plus le temps passait, plus quelque chose le tracassait. Il n'avait pas revu l'ogre bleu après leur petit stratagème. Un jour l'ogre rouge se rendit chez son camarade bleu. Cependant il n'y trouva qu'une lettre coincée contre une porte close.
+
+
+27 (00:18:05:12)
+
+SUBARU	Voici ce qu'elle disait : "Cher ogre rouge, je te souhaite de beaucoup t'amuser avec les humains et d'être heureux. Si je restais avec toi, ils pourraient te prendre pour un méchant ogre. Pour éviter ça j'ai décidé de partir en voyage. Je ne t'oublierai jamais, je te le promets. Adieu. Prends soin de toi, Signé :Ton ami pour la vie, l'ogre bleu. L'ogre rouge relut la lettre plusieurs fois en silence. Et il pleura toutes les larmes de son corps. Et c'est tout.
+
+
+28 (00:18:46:03)
+
+RAM	C'est une histoire bien triste.
+
+SUBARU	Oui, c'est vrai. Mais personnellement, je ne peux m'empêcher de la trouver attendrissante.
+
+RAM	Les personnages de cette histoire sont tous des idiots. L'ogre rouge, l'ogre bleu, et les villageois aussi. Enfin, c'est mon avis.
+
+SUBARU	Dis donc, tu as un avis sévère, sur la question ! Et tranché! Enfin, je comprends ce que tu veux, dire, tu n'as pas tort. Mais pour être honnête, j'adore cette histoire tout autant que je la déteste. Le sacrifice de l'ogre bleu est magnifique, mais à la fois stupide. Après tout, lui il n'obtient rien en retour. Personnellement, je préfère être récompensé pour mes efforts.
+
+RAM	(h) C'est comme ça que vous voyez l'ogre bleu? Moi c'est l'ogre rouge que je trouve bien plus incorrigible. C'est lui qui embarque le bleu dans ses histoires... mais... C'est son ami qui en paye le prix, pas lui.
+
+
+29 (00:19:36:04)
+
+SUBARU	Et donc, d'après toi, ils auraient dû faire quoi, nos deux ogres?
+
+RAM	Si l'ogre rouge voulait vraiment sympathiser avec les humains, il pouvait briser sa corne et aller au village. Avant que le bleu ne se sacrifie pour lui, le rouge aurait dû prendre sa décision.
+
+SUBARU	Décidément, tu es vraiment dure, toi!
+
+RAM	Ah, vous trouvez? Et vous, cher invité, lequel des deux ogres préféreriez avoir en ami?
+
+SUBARU	Je dois choisir l'un des deux?
+
+RAM	Si vous aviez à choisir entre un ogre rouge, rêveur qui dépend trop d'autrui et un ogre bleu, idiot et qui se sacrifie, lequel choisiriez-vous?
+
+SUBARU	(h)
+
+RAM	(h)
+
+
+30 (00:20:18:20)
+
+RAM	C'est la plus bête des réponses. En voulant sympathiser avec les deux, vous ne prouvez que votre indécision et votre frivolité, rien d'autre. C'est un choix que vous regretterez
+
+SUBARU	Si tu veux, mais il avait pas ce genre de connotations, ce conte.
+
+RAM	Laissons de côté les contes de votre pays, racontez-moi plutôt ce qui vous a marqué dans les contes de notre pays.
+
+SUBARU	Alors, voyons voir... Si je devais choisir les contes qui m'ont le plus captivé, je dirais l'histoire du dragon. Et celle de la sorcière. J'avais enfin trouvé l'origine du nom du royaume dragonique de Lugnica.
+
+RAM	Je vois.
+
+SUBARU	Le conte parle d'un serment entre le dragon et le roi. Ça a tout de suite attiré mon attention.
+
+
+31 (00:20:58:20)
+
+RAM	C'est normal, l'histoire tient plus de la légende que du conte, elle est réellement arrivée, après tout. Encore aujourd'hui, le noble dragon veille sur la paix du pays depuis la grande cascade au loin. Et il demeurera ainsi, jusqu'à ce qu'il accomplisse son serment avec la famille royale.
+
+SUBARU	Ah? Mais la famille royale de Lugnica s'est éteinte il y a peu,
+
+RAM	(h?)
+
+SUBARU	C'est bien ça, ou je me trompe?
+
+RAM	Non, pour une fois vous avez raison. La famille royale qui avait un serment avec le dragon s'est éteinte du jour au lendemain. Personne ne sait ce que le dragon désire de nos jours. Seuls les dieux savent comment il réagira à cette disparition. Ou plutôt, seul le dragon le sait, cher invité.
+
+SUBARU	(hm)
+
+
+32 (00:21:33:19)
+
+SUBARU	Au fait, Ram, A propos de la sorcière...
+
+RAM	Je ne souhaite pas en parler.
+
+SUBARU	(oh?)
+
+RAM	Je suis déjà restée trop longtemps. Cher invité, nous nous reverrons ce soir, quand je vous appellerai pour le dîner.
+
+SUBARU	(oh) D'accord.
+
+RAM	Une dernière chose. Ne racontez pas le conte des deux ogres à Rem. Ce n'est pas le genre d'histoire qu'elle apprécie.
+
+OUT (00:21:55:21)
+
+
+33 (00:22:02:21)
+
+SUBARU	"Une sorcière effrayante. Absolument terrifiante. Prononcer son nom suffit à vous faire peur. Alors tout le monde l'appela... La Sorcière de l'Envie.
+
+
+34 (00:22:17:18)
+
+EMILIA	Tu es sûr que ça va aller ? Un coche pourrait t'amener à la capitale, si tu préfères.
+
+SUBARU	Ne t'inquiète pas, j'aime voyager. Et je pars pour faire mes preuves, de toute façon. Quand je serai devenu fort, intelligent, riche et digne de toi, je reviendrai et je t'enlèverai sur mon cheval.
+
+EMILIA	Tu as bien pensé à prendre ton mouchoir? Et de l'eau? Tu as à une pierre Lagmite pour le feu? Oh, et... tu, tu peux dormir tout seul?
+
+SUBARU	Voilà qu'elle se comporte comme ma mère!
+
+ROSWAAL	Sur ces bonnes paroles... Au revoir, Subaru. Porte toi bien et ne perds pas nos cadeaux. Je t'en ai offert un peu plus que pour les visiteurs ordinaires, j'espère que tu apprécieras.
+
+SUBARU	(h) Je vois, c'est pour m'inciter à me taire sur ce que j'ai vu, non ? J'ai compris ne t'inquiète pas, je ne dirai rien, je le jure sur le dragon.
+
+ROSWAAL	Subaru, des fois je m'inquiète que ta franchise et ton insouciance me fasse perdre le goût des machinations. Dans ce pays, jurer sur le dragon est le plus fort et le plus sacré des serments, quoi qu'il arrive, ne l'oublie surtout pas.
+
+
+35 (00:23:10:21)
+
+SUBARU	Bien reçu. Et encore merci à vous deux, bien sûr. Surtout à Rem, pour ses repas tous plus délicieux les uns que les autres. Quant à Ram... euh... (ah!) Tu sais récurer les toilettes!
+
+REM	Grande-soeur, grande-soeur ! Notre invité est désespérément nul pour les compliments.
+
+RAM	Petite-soeur, petite-soeur! Notre invité n'a aucun talent en matière de compliments.
+
+SUBARU	Taisez-vous toutes les deux! J'étais pas inspiré, c'est tout! En tous cas, merci encore.
+
+REM	De rien.
+
+RAM	De rien.
+
+
+36 (00:23:38:14)
+
+SUBARU	(hm)
+
+EMILIA	Subaru!
+
+SUBARU	(oh) (hm)
+
+EMILIA	Merci encore pour tout. n'hésite pas à revenir si tu en as besoin.
+
+SUBARU	(hm) Bien sûr!
+
+EMILIA	(h)
+
+SUBARU	Merci pour tout, Emi!
+
+OUT (00:23:59:10)
+
+
+37 (00:24:17:03)
+
+SUBARU	Bien, c'est l'endroit parfait. On voit bien la chambre d'Emilia, d'ici. Et maintenant... Il ne me reste plus qu'à attendre l'assassin. Et à l'arrêter. Elles m'engueuleraient si elles me voyaient utiliser ce couteau pour le combat. Je veux bien qu'elles me grondent. J'ai tellement pas envie de mourir. Et je veux pas qu'ils meurent non plus. Tu le sais très bien, Subaru Natsuki. Quand tu reviens les autres oublient tout ce qui s'est passé. Mais pas toi. Toi tu te souviens de tout.
+
+
+38 (00:25:02:17)
+
+SUBARU	(ah), Oui, tiens. J'ai pas été faire les courses avec Rem cette fois. C'est normal, il y aura un couvert de moins ce soir. (h) Il reste du temps avant la tombée de la nuit. Concentre-toi, Natsuki Subaru! (h) (ah) (h) (ah) Evacuation d'urgence! (h) Je l'ai vu! J'en suis sûr, je l'ai vu! (h) C'est une balle avec une chaîne! Mais pourquoi il a été me suivre jusqu'ici? (h) (oh) (h) Il joue avec moi! Je sais pas comment il fait, mais il arrive à diriger ma fuite... (h)
+
+
+39 (00:25:49:15)
+
+SUBARU	(h) Allez, viens je t'attends! Je vais te montrer ma force de caractère! (h) (ah) (ah) Allez, montre moi ta face! Ne fais pas le timide, ordure! Je m'en suis donné du mal pour te démasquer!
+
+OUT (00:26:16:18)
+
+
+40 (00:26:30:15)
+
+REM	Si c'est ce que tu désires.
+
+SUBARU	(h) (h) (ah) (ah)
+
+REM	C'est toi qui l'as voulu, personnellement, j'aurai préféré que tu meures sans t'en rendre compte.
+
+SUBARU	(h) (h) C'est impossible. Rem.
+
+OUT (00:26:55:19)

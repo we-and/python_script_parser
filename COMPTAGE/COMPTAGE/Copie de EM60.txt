@@ -1,0 +1,1306 @@
+
+09/04/2016
+
+(BOUCLE 0 - 09:59:58:18)
+		00
+
+AMBIANCE	(Preview)
+
+MALOU	Mais il manque un type, Victor...
+
+VICTOR	Il a malheureusement filé...
+
+MALOU	C'est justement celui qui t'a poursuivie, Alice...
+
+BANDIDO_1	C'est toi, Alice.. ?  Ouvre bien les yeux...  Noca se s'arrêtera pas tant qu'il ne t'aura pas eue...
+
+VICTOR	Qu'est-ce que tu racontes ? Avance, avance et ferme-la... c'est compris ?
+
+MALOU	Emmène-le, emmène-le, emmène-le... !
+
+SHIRLEY	J'ai été invitée à être témoin lors du mariage du siècle, celui de...  Louiza et Laerté... Tu te rends compte, Helena... ?   Nous serons ensemble devant l'autel...
+
+AMBIANCE	(sonnerie portable_______)
+
+SHIRLEY	C'est ma belle-mère... Elle m'adore... elle ne me lâche pas...   Eh oui... Louiza va devoir affronter la compétition avec Shirley dans le coeur de Selma... ça ne va pas être facile... !
+
+LAERTE	Les gens finiront par accepter notre amour... Tu sais pourquoi... ?  Parce qu'il est véritable... Il est éternel...
+
+LOUIZA	J'espère que ce jour arrivera vite... pour enfin avoir un peu de paix...
+
+AMBIANCE	(GENERIQUE)
+
+(BOUCLE 1 - 10:02:15:03)
+		01
+
+LAERTE	Célia... ?
+
+CELIA	Ah, vous voilà enfin... !
+
+LAERTE	Comment va ma mère...  ? Je me suis fait un sang d'encre...  Mmm___ (X)
+
+CELIA	J'étais terriblement angoissée, Laerte...  Je l'ai prise en train de parler seule et elle a dit qu'elle parlait avec Monsieur Itamar...
+
+LAERTE	Elle ne devrait pas rester ici, il faut qu'elle vienne à Rio pour se faire soigner...  Elle est toujours enfermée dans sa chambre ?
+
+CELIA	Oui... mais elle va mieux maintenant... elle s'est calmée...  Sa seule et unique amie vient d'arriver...
+
+LAERTE	Qui ça... ?
+
+SELMA	Mon fils chéri___...  Mais c'est merveilleux...  de t'avoir ici avec moi...
+
+SHIRLEY	(REAC)
+
+LAERTE	Ahh_______ !  (REAC)
+
+SELMA	Mmm (X)  Oh... mon amour_____...
+
+LAERTE	Ma petite Maman...
+
+SHIRLEY	(REAC________)
+
+LAERTE	Shirley_______
+
+SHIRLEY	Mmmm______( X)  Mon amour, quelle surprise_____... ! Hi hi hi hi... !
+
+(BOUCLE 2 - 10:02:57:13)
+		02
+
+PEDRO	J'insiste pour te ramener chez toi...  ça ne me coûte rien, c'est sur mon chemin et c'est avec plaisir...
+
+DOULSSE	Bon... puisque tu insistes... , j'accepte...  Barbara ne devrait pas tarder à arriver à la maison pour son cours de Littérature...
+
+PEDRO	Aucun problème. Les jolies femmes... ne paient jamais leur transport avec moi...
+
+DOULSSE	Huh huh...  Je n'ai pas pris ma voiture parce que je devais aller dans 3 endroits juste avant. On ne peut pas se garer dans cette ville...
+
+PEDRO	Oui... c'est vrai... Et de nos jours, les voitures sont de plus en plus grosses...  La mienne, par contre... , je peux la garer n'importe où...  Hé hé... !
+
+ANDRE	(Hhh_____ )  Pourquoi tu es comme ça avec moi ?
+
+BARBARA	Je t'ai déjà dit tout ce que j'en pensais...
+
+ANDRE	Barbara...  ça ne fait pas très longtemps que mon histoire avec Louiza s'est terminée...  C'est normal de rechuter de temps en temps...
+
+BARBARA	Ah ?  Voilà ce que tu vas faire...  Résous d'abord tes problèmes et reviens me voir ensuite. Je ne suis pas ta deuxième option...  Qu'est-ce que tu veux, hein ?  M'utiliser pour oublier Louiza, je me trompe ?
+
+ANDRE	T'utiliser ? Moi... ?  Barbara, la dernière fois qu'on a parlé de ce sujet...  j'ai été très clair avec toi...  Je t'ai dit que je n'étais pas un type pour toi, j'étais sincère, mais maintenant, je...
+
+BARBARA	Maintenant quoi ?  Maintenant tu as changé d'avis... ?
+
+(BOUCLE 3 - 10:03:53:16)
+		03
+
+ANDRE	(REAC)
+
+LOUIZA	ça me donne la chair de poule rien que d'imaginer que tu pourrais ne pas être ici avec moi en ce moment...
+
+ALICE	Mhm...  Mais j'y étais seulement en tant qu'observateur...  Le chef des Opérations a bien voulu que j'y participe...
+
+LOUIZA	Alice... un jour tu finiras par me tuer... pas avec une arme... mais de peur...
+
+ALICE	Le pire de tout...  c'est que le type que j'avais aidé à capturer...  s'est échappé...  Et les autres m'ont dit qu'il allait me retrouver....
+
+LOUIZA	Huh... !  Quelle horreur , Alice...  Mais c'est tout de même à moitié bizarre, tu ne trouves pas ? Cette ordure ne sait pas où tu habites, il ne sait rien de toi, pas vrai ?  (Fff___)  Tu ne sens pas une odeur de brûlé ici... ?  Huh ! J'ai dû laisser le four allumé. Je suis tellement distraite...
+
+ALICE	Non, attends, attends, attends...  Ce n'est pas une odeur de brûlé...  c'est une cigarette...
+
+LOUIZA	Tu es folle, Alice ? Si personne ne fume dans... /
+
+ALICE	(chuchoté) Tais-toi...
+
+(BOUCLE 4 - 10:04:38:03)
+		04
+
+AMBIANCE	(bruit de porte qui s'ouvre... )
+
+LOUIZA	(REAC SUPRISE)
+
+ALICE	Mhm...
+
+NOCA	Qui t'as dit que je ne savais pas où tu habitais, ma jolie... ?
+
+LOUIZA	(REAC de peur...) Hhh...
+
+NOCA	Un de mes contacts du commissariat...  m'a donné ton adresse... ma belle...
+
+ALICE	Qu'est-ce que vous attendez de moi ?
+
+NOCA	C'est moi qui pose les questions, ici...  Tu veux quoi ? Parce que dans toute cette histoire, cet enfer a commencé...  quand tu as commencé à me suivre...
+
+ALICE	Ce n'est pas moi qui t'ai transformé en délinquant...
+
+NOCA	Mais personne ne se rappelait de moi, tu piges... ?  Et maintenant je suis fini à cause de toi...  J'ai fait de la prison... , la Police  est après moi...  Il va falloir que tu payes...  tout ce que tu m'as fait subir...
+
+LOUIZA	Monsieur...  pour l'amour du ciel...  je vous en supplie...  est-ce que vous voulez de l'argent____ ?
+
+NOCA	Pour commencer...  Viens là, toi...  ouvre ce sac...
+
+ALICE	Ah... !
+
+LOUIZA	(cri___ )
+
+NOCA	Dépêche... !  Et toi tu restes tranquillement où tu es... !
+
+LOUIZA	(REAC)
+
+NOCA	Plus vite...  Tiens, tiens_____!  Tu es de la Police...  Alors, Poulette...  maintenant c'est toi qui es du mauvais côté...
+
+ALICE	(REAC)
+
+(BOUCLE 5 - 10:05:42:14)
+		05
+
+SHIRLEY	Attention, n'espère pas m'accuser d'avoir préparé un coup monté parce que ton arrivée ici à Goyania est une surprise...
+
+SELMA	C'est vrai... moi j'ai téléphoné à Shirley...  C'est Célia qui t'a appelé parce qu'elle est indiscrète...
+
+CELIA	Parce que vous m'avez fait peur...  ça oui, Madame Selma...  parce que vous n'avez pas arrêter de parler toute seule...
+
+SELMA	Mhmmm....
+
+LAERTE	Mhm...  Parfait.. je veux bien croire qu'il y a eu une coïncidence d'intentions de la part de Shirley et de la mienne...  Hum...
+
+SHIRLEY	Mhm mhm mhm mhm mhm... !
+
+LAERTE	C'est vrai que j'ai cru que la situation serait pire et je suis venu en volant de Rio de Janeiro jusqu'ici...  en me sentant coupable...
+
+SELMA	Non, mon chéri. Tu ne dois pas te sentir coupable parce que je n'ai pas voulu venir habiter à Rio...  C'est moi qui ai fait ce choix, personne n'a rien à voir avec ça... Je suis revenue parce que je l'ai voulu... et parce que ma place est ici...
+
+LAERTE	(REAC)
+
+CELIA	Le problème est que Madame Selma était en train de parler avec le regretté Monsieur Itamar...
+
+SHIRLEY	Mhm..., (REAC) Parler avec quelqu'un qui est mort n'est pas le problème...  C'est une solution... pour remplacer le chagrin.   Et si j'étais dans sa situation... moi aussi je suis un peu tête en l'air parce que... parce que je parle avec... je parle seule quelques fois, ça me défoule...
+
+SELMA	Mais tu n'es pas du tout tête en l'air,  SHIRLEY Hi hi hi...  Ma petite...  tu parles avec les vipères, Shirley...
+
+SHIRLEY	Non, non... Mais les vipères m'écoutent et il arrive même parfois qu'elles me répondent également...
+
+SELMA	Mhm mhm mhm mhm !  Huh... !
+
+SHIRLEY	C'est parce que les vipères sont sourdes, tu le savais...  ?
+
+LAERTE	C'est sûrement pour ça que vous entendez aussi bien toutes les deux. Moi je me sens de trop dans vos conversations... Ah ah ah... !
+
+SHIRLEY	Ah ah ah ah... !
+
+LAERTE	(Fff___ REAC)
+
+SELMA	J'aimerais tout de même bien savoir pourquoi je fais ça, pourquoi ça m'arrive...  Je vous avoue qu'il y a des fois...  qu'il y a des fois où...  je le fais exprès pour ne pas vexer ou blesser quelqu'un...  ou pour une autre raison.    Les autres fois où ça m'arrive... c'est sans le vouloir... je n'ai pas la moindre idée d'où ça vient...
+
+(BOUCLE 6 - 10:07:18:12)
+		06
+
+SELMA	C'est pour ça que..., peut-être... , je dis bien peut-être...  je retournerai à Rio pour aller passer ces examens pour avoir...  une idée plus précise de ce que j'ai puisque Félipé m'a conseillé de le faire...
+
+SHIRLEY	Tu vois, Laerté ? Quelle excellente nouvelle... !  Quand on s'y attend le moins,  tout se transforme...  Comme l'eau en vin...  (REAC)  En parlant de ça... je crois qu'on a quelque chose à fêter...
+
+SELMA	Mhm... !
+
+LAERTE	Pour toi, Shirley, toutes les occasions sont à fêter... pas vrai ?
+
+SELMA	Parfait, fêtez ça entre vous... vous avez de l'énergie à revendre, moi je suis très fatiguée... , et je vais me retirer...
+
+LAERTE	Maman... je vais repartir tout de suite.  Je regrette... Je ne peux pas rester trop longtemps, le travail m'appelle...  Viens que je t'embrasse, Maman...
+
+SELMA	Mmm____  (X)
+
+LAERTE	(X)  Prends soin de toi, d'accord, je t'en supplie...
+
+SELMA	Mmmm________
+
+LAERTE	Tchao.  Qu'est-ce que tu as donc de spécial pour arriver à faire ce que tu veux avec ma mère, dis-moi... ?
+
+SHIRLEY	Quel dommage que ma spécialité ne couvre pas toutes les générations...
+
+LAERTE	Tu veux qu'on sorte ? On va boire quelque chose ?  J'ai encore un peu de temps avant de rentrer à Rio...
+
+(BOUCLE 7 - 10:08:18:13)
+		07
+
+LOUIZA	(REAC)  (REAC)
+
+NOCA	Maintenant, l'une de vous deux...  va être obligée de me faire sortir de Rio...
+
+ALICE	C'est avec moi que tu as un problème...  laisse-la tranquille...
+
+LOUIZA	Non, Alice...  je ne veux pas te laisser toute seule avec lui___...
+
+NOCA	Très bonne idée, la chialeuse...   Vous avez compris toutes les deux ?  Vous me trouvez une solution ensemble...
+
+LOUIZA	(REAC)
+
+ALICE	Ecoute bien ce que je vais te dire...  Prends-moi en otage... tu auras une chance de t'échapper...
+
+NOCA	Et ta copine, qu'est-ce que tu veux que j'en fasse... ?  La relâcher pour qu'elle appelle la Police ?
+
+LOUIZA	(H___)  Non... !  Non... !  Je veux venir avec vous... !
+
+NOCA	T'en a mis du temps... C'est comme ça que j'aime les filles... Bon, on y va. Ne dites plus rien. On s'en va...   Avancez... !
+
+ALICE	N'aie pas peur, Louiza...
+
+(BOUCLE 8 - 10:08:58:16)
+		08
+
+NOCA	Silence... !
+
+JULIANA	(en pleurs)
+
+AMBIANCE	(ouverture de porte)
+
+JULIANA	(___Hh)
+
+HELENA_3	Coucou, toi______ !  Je venais juste t'embrasser..._____
+
+JULIANA	(renifle)
+
+HELENA_3	Juliana...  moi qui croyais te trouver en pleine forme et heureuse...
+
+JULIANA	Je ne veux plus partir...  (sanglots) Je ne vais pas m'en aller d'ici...  (REAC)  (sanglots)
+
+HELENA_3	Juliana...  toi qui paraissais tellement décidée à partir...
+
+JULIANA	Tu crois que je veux quitter ma maison, Helena, tu crois que je veux... (REAC)  abandonner ce quartier, les personnes qui me sont proches, de vous... ,  les commodités que ma fille a ici... pour aller vivre dans cet endroit et risquer sa vie ?  (REAC)
+
+HELENA_3	Oh, Juliana, détends-toi_____...  Ecoute, tu m'as dit toi-même que tu voulais essayer un peu pour voir comment ça se passait, comment c'était...
+
+JULIANA	(REAC)
+
+HELENA_3	Et que tu pensais aller y passer un certain temps, comme pour des vacances...
+
+JULIANA	(__Hh)
+
+HELENA_3	Peut-être que Jaïro changera d'avis et que vous pourrez revenir ici...
+
+JULIANA	Tu ne connais pas Jaïro, Helena...  Il ne reviendra plus jamais vivre ici... , il est bien décidé...  Je suis réellement épuisée...  de faire autant de concessions... Je suis fatiguée d'être obligée de faire ses quatre volontés toute la journée...  (REAC)
+
+HELENA_3	Eh bien, n'y va pas... D'accord ?   Renonce à cette histoire de déménager..., hein ?   N'y va pas. Affronte ta décision et point barre...
+
+JULIANA	Helena, il va me tenir éloignée de ma fille... tu ne comprends pas ?  Je suis devant un mur...
+
+HELENA_3	(Ff__)  Tu l'es depuis longtemps, déjà, Juliana...  Rends-toi compte que tu n'as fait qu'empirer la situation en agissant comme tu l'as fais...
+
+JULIANA	(___Hh)
+
+HELENA_3	Il va falloir que tu cèdes cette fois-ci devant Jaïro, si tu veux rester aux côtés de Bia...  Il va falloir que tu ailles là où il veut aller...   Maintenant calme-toi, s'il te plaît... pour ce petit que tu portes en toi... regarde...
+
+JULIANA	Huh...  Huhhh...
+
+HELENA_3	Touche-le, tu sens comme il bouge... ?
+
+(BOUCLE 9 - 10:10:36:22)
+		09
+
+AMBIANCE	(ambiance : intérieur de voiture)
+
+NOCA	Avance, grouille-toi, accélère ! Accélère !
+
+ALICE	Tu veux que j'attire l'attention... ?
+
+NOCA	Merde... bordel... !  Regarde la route... !
+
+(BOUCLE 10 - 10:10:58:01)
+		10
+
+VICTOR	On a un autre message ?
+
+MALOU	Ils sont en train de quitter Rio. Prends de la vitesse, Victor. Il faut absolument qu'on empêche le pire d'arriver...  Fonce ! Fonce ! Dépêchons-nous !
+
+(BOUCLE 11 - 10:11:16:01)
+		11
+
+CHICA	(Hhh_______)  Comment doit se sentir Félipé... ?
+
+RICARDO	Chica..., essaie de te détendre un peu, mon amour...  Tu ne pourras jamais empêcher que tes enfants passent par certaines épreuves...
+
+CHICA	Mhm...
+
+RICARDO	Tout ce que Félipé entendra dire venant de cette femme, c'est bien..
+
+CHICA	Mhm...
+
+RICARDO	Cela va contribuer à son apprentissage de la vie...  Il va devoir découvrir... comment gérer sa situation...
+
+CHICA	Oui... Toi, tu es un père...   Et un père ressent les choses différemment d'une mère.   C'est une toute autre histoire...  Je vais appeler Louiza. Elle m'a demandé de lui donner des nouvelles...
+
+AMBIANCE	(sonnerie portable Louiza)
+
+NOCA	C'est quoi cette sonnerie... ?
+
+LOUIZA	Euh...  excusez-moi, c'est mon téléphone. Je ne savais pas que je l'avais...
+
+NOCA	Je te conseille pas de répondre, t'entends ?
+
+ALICE	Non, elle ne va pas le faire...
+
+NOCA	J'espère.  Allez, donne-moi ce téléphone...
+
+LOUIZA	Tenez...
+
+NOCA	(REAC)  Vous vous foutez de moi, ou quoi ?
+
+(BOUCLE 12 - 10:12:17:09)
+		12
+
+MALOU	C'est elle Victor, la plaque d'immatriculation coïncide... Vas-y, Fonce... !
+
+VICTOR	Accroche-toi, j'accélère...
+
+AMBIANCE	(sirène de voiture police - course )
+
+(BOUCLE 13 - 10:12:30:10)
+		13
+
+NOCA	Merde, c'est la Police... !
+
+ALICE	C'est sûrement pas pour nous...
+
+NOCA	J'espère pour vous deux.  Accélère, dépêche-toi... !
+
+ALICE	J'attire leur attention si j'accélère.
+
+NOCA	Avance, bon sang !
+
+(BOUCLE 14 - 10:12:59:12)
+		14
+
+NOCA	Descendez de la bagnole !
+
+VICTOR	Mains en l'air !  T'est cuit, Noca, relâche-la... !
+
+NOCA	Que personne ne bouge... !  J'vais pas le répéter deux fois...
+
+MALOU	Lâche-la, Noca, tu n'arriveras pas à nous échapper. Relâche-la !
+
+NOCA	Toi, tu restes ici...  !
+
+LOUIZA	(REACs)
+
+VICTOR	Ne fais pas de bêtise, pose ton arme !
+
+NOCA	Je vous préviens : que personne ne bouge... , sinon je tire... !
+
+LOUIZA	(REAC)
+
+VICTOR	Reste calme, ne tire pas, Noca...
+
+NOCA	Je vous préviens, que personne ne bouge. Je vous avais prévenu...
+
+LOUIZA	Ah_____________________ !
+
+NOCA	Ah___ !
+
+MALOU	Lâche-la !
+
+ALICE	(REACs_______________)
+
+MALOU	Lâche-la !
+
+VICTOR	T'as perdu ! T'as perdu ! Lâche ton arme ! . Les mains sur la voiture ! Les mains sur la voiture !
+
+MALOU	Va-t-en, Alice ! Eloigne-toi, Alice !
+
+VICTOR	Bouge pas !
+
+ALICE	(REAC)
+
+LOUIZA	(REAC)
+
+ALICE	(REACs)
+
+NOCA	(Hh____)
+
+LOUIZA	Oh la la !  Merci mon dieu... !
+
+ALICE	Non... merci à toi...
+
+LOUIZA	(pleurs)
+
+ALICE	(REACS)
+
+AMBIANCE	(sirène autre voiture de police jusqu'à la fin de cette boucle... )
+
+(BOUCLE 15 - 10:13:54:20)
+		15
+
+PROMOTOR	Mesdames et Messieurs...  je vais maintenant procéder à la lecture... de la sentence du docteur...  Félipé Fernandès.  Selon les lois qui régissent ce Conseil...  le docteur Félipé Fernandès...  RPPS numéro  Cinq Deux, Zéro Sept... , Sept Un...  Un, Sept, tiret Un...   est condamné à l'unanimité...  à une peine de restriction professionnelle...  qui sera publiée dans la presse... , comme prévu par l'article Vingt-deux... Point C...  du pré-cité décret légal...  pour infraction au code d'éthique médicale.  Cette séance plénière est close...
+
+REGINA	Mais c'est parfaitement absurde... !  Dans un pays où il y a autant de scandales, une notification ce n'est pas cher payé ! Ce n'est rien... !
+
+FERNANDO	C'est ce qui pouvait t'arriver de mieux...
+
+FELIPE	Je sais, Nando, je sais...
+
+REGINA	Ce médecin ne devrait plus jamais exercer... !
+
+FELIPE	Mais j'aurais dû écoper d'une peine beaucoup plus grave...
+
+REGINA	Plus jamais... ! Plus jamais... !
+
+FELIPE	Une seconde...
+
+(BOUCLE 16 - 10:14:43:16)
+		16
+
+FELIPE	S'il vous plaît, Madame...  est-ce que je peux vous parler ?
+
+REGINA	Non, non, non... Non, certainement pas...
+
+FELIPE	Une petite minute suffira...  Je voudrais vous présenter mes excuses pour ce qui est arrivé...  très sincèrement...
+
+REGINA	Si mon fils était mort...  croyez-vous que je vous pardonnerai... ?
+
+FELIPE	Mais votre fils n'est pas mort, Madame, sa convalescence se passe très bien...  Ecoutez-moi...  ce que je voulais vous dire...  c'est que ce qui s'est passé avec votre fils qui m'a conduit à aller me faire soigner... Avant cet accident, j'avais essayé d'arrêter de boire sans jamais y arriver. C'est cet accident qui a tout changé...
+
+REGINA	N'inversez pas les rôles. Mon fils a été victime de votre addiction, il n'est pas votre planche de salut.
+
+FELIPE	Je suis d'accord. Vous ne pouvez pas comprendre mon point de vue. Je voulais juste que vous sachiez que je regrette réellement ce qui s'est passé. Je n'étais pas moi-même...
+
+REGINA	J'ai appris que vous étiez alcoolique depuis l'adolescence...  C'est bien ça... ?  Vous auriez dû choisir une autre profession...  La Médecine, c'est sacré...
+
+FELIPE	(REAC)  Les médecins se trompent aussi, Madame. Les médecins peuvent également souffrir...  (__Hh)  Les médecins ont aussi des difficultés, ils doivent aussi passer par des épreuves comme n'importe quel être humain...
+
+REGINA	Trouvez donc autre chose à faire...  Changez de profession, trouvez-en une qui ne mettra pas en danger la vie des autres...
+
+FELIPE	(REAC)  (soupir______________)
+
+(BOUCLE 17 - 10:15:59:03)
+		17
+
+LAERTE	C'est aberrant, mon amour... Bon... Bon...  l'important c'est que tu sois rentrée à la maison... que tu sois en sécurité et Alice également, évidemment.  Reste là,  repose-toi... , N'ouvre la porte à personne, je ne vais pas tarder. D'accord ?  Non, je suis sur la route de l'aéroport...  Comment ça, avec qui ? Je suis seul, mon amour...   Avec un taxi...  Très bien...  J'arrive vite...  Je t'embrasse.  (___Hh H___)
+
+SHIRLEY	Toi et tes problèmes de toujours...
+
+LAERTE	Je dois y aller...
+
+SHIRLEY	Allons-y...  (REAC)  Je vais t'avouer quelque chose...  J'adore quand tu mens à ta petite...  Louiza, à Veronica et aux autres filles qui sont moins cotées...  Je ne sais pas si tu as embrassé cette fille qui t'accompagne maintenant au piano...
+
+LAERTE	Qu'est-ce que tu dis ? Tu es malade, Shirley... ?
+
+SHIRLEY	Si tu ne l'as pas embrassée, ça ne va pas tarder...  J'adore quand tu mens à toutes tes femmes parce que je me sens la propriétaire exclusive de ta vérité...  La vérité que tu ne dis qu'à moi...  alors que tes mensonges ne sont que pour elles... Les pauvres chéries...  (rire)  Je t'adore... ,  Je t'adore, je t'adore, je t'adore...  Je t'adore...  (baisers___)
+
+LAERTE	(baisers___)
+
+(BOUCLE 18 - 10:17:25:18)
+		18
+
+FELIPE	Je vous remercie pour votre appui ...  mais je n'approuve pas du tout votre façon de vous réjouir... J'aurais préféré avoir une peine plus...  plus dure, plus sévère...  disons... trente jours de prison, par exemple...  Vous savez pourquoi ? Parce que j'ai mis une vie en danger de mort...
+
+CHICA	Ah... Félipé,  ne recommence pas, veux-tu ? Tu as... Hhh... , tu as commis une erreur à cause de ta maladie...  mais tu es allé te faire soigner...
+
+FERNANDO	Je peux t'assurer et crois-moi, que ta peine a été plutôt sévère...  Une restriction professionnelle, dans un cas comme le tien,  n'est pas une peine légère...
+
+FELIPE	Maman et Helena, vous remercierez Rosa pour le gâteau et le café, mais je vais aller dans ma chambre.  Je vais...  m'allonger, essayer...   __H de dormir, peut-être...  J'ai besoin d'être seul...
+
+FERNANDO	Oui, va te reposer...
+
+CLARA	(Hhh_____)
+
+CHICA	Ce qui me préoccupe le plus... c'est l'état émotionnel dans lequel il est...  Il a peur d'affronter l'existence...
+
+RICARDO	C'est normal, Chica...  Ce n'est pas facile de passer...  par l'épreuve qu'il est en train de vivre...  Ce jugement a été un choc...
+
+VIRGILIO_3	Il faut donner du temps au temps... hein ?
+
+AMBIANCE	(sonnerie portable_____)
+
+CHICA	(__Hh FFfhhh_____)
+
+VIRGILIO_3	C'est Louiza...
+
+CHICA	Oh... ! J'avais dit que je l'appellerai mais je n'ai pas réussi à le faire...
+
+VIRGILIO_3	Allô, ma fille...  Il s'est passé quoi ?   Attends, Louiza, parle plus lentement... Répète... ?
+
+HELENA_3	Que se passe-t-il ?
+
+VIRGILIO_3	(REAC)
+
+(BOUCLE 19 - 10:18:54:13)
+		19
+
+VIRGILIO_3	Mais quelle folie totale... , toute cette histoire...  Quoi...  Si jamais il t'arrivait quelque chose de grave, je ne sais pas ce que je serais capable de faire...
+
+LOUIZA	(__Hh___)  Papa, c'était horrible...  Je continue à entendre la voix de cet homme sans arrêt dans ma tête...
+
+NEIDINIA	Ma chérie... je sais parfaitement ce que tu veux dire...  Mais Alice..., mon dieu...  qu'est-ce qu'elle est allée faire au commissariat à cette heure-ci ?
+
+LOUIZA	C'est le travail qu'elle a choisi de faire, Tatie...
+
+NEIDINIA	(soupir)
+
+LOUIZA	Elle devait l'accompagner à la prison...
+
+NEIDINIA	Ah oui...  Bon... Je vais... je vais allumer une bougie en remerciements...
+
+AMBIANCE	(Virgilio tapote sur la table)
+
+VIRGILIO_3	(REAC)  J'aimerais le tuer...
+
+LOUIZA	Et Maman... ?
+
+VIRGILIO_3	Qu'est-ce qu'il y a avec ta mère ?
+
+LOUIZA	Elle sait ce qui s'est passé... ?
+
+VIRGILIO_3	Elle sait, elle sait...  mais pas tout..  Plus tard, je lui donnerai les détails...  Mais elle sait déjà que tu vas bien...
+
+LOUIZA	(REAC)  Et malgré ça, elle n'a pas pu venir me voir...
+
+VIRGILIO_3	(REAC)
+
+LOUIZA	(renifle)
+
+VIRGILIO_3	Ma chérie, vous en reparlerez plus tard toutes les deux...
+
+LOUIZA	(REAC)  (REAC)  L'important c'est que tu sois ici...  (renifle)
+
+(BOUCLE 20 - 10:20:10:08)
+		20
+
+HELENA_3	Je n'arrive pas à croire que Louiza, alors qu'elle est adulte, me donne plus de travail que lorsqu'elle était petite, comme Bia...
+
+JULIANA	(REAC)   Elle est si jolie..., on dirait un ange...
+
+HELENA_3	(Hhh____)  Quand je... quand je pense...  à Louiza dans la mire d'un délinquant...  quelle horreur, ça me donne des douleurs dans le coeur...
+
+JULIANA	(REAC)  C'est exactement ce que je ressens quand je l'imagine vivre dans cet endroit sans moi...
+
+HELENA_3	Elle et Alice, regardez-moi ça...  Mais Virgilio m'a déjà assuré que tout allait bien... Que tout s'était...  bien fini...  Oui, mais moi... moi... moi je ne...  Tu sais comment sont les mères. Non ?  On doit voir son enfant, on doit le sentir, on doit être avec lui,  le voir  pour avoir la certitude que tout va bien.
+
+(BOUCLE 21 - 10:20:50:04)
+		21
+
+NEIDINIA	Ma fille, tu es beaucoup trop têtue, mais maintenant il faut que ça change.
+
+VIRGILIO_3	Vous avez toutes les deux... couru un danger considérable...
+
+NEIDINIA	Huh... !
+
+ALICE	Attendez, on ne peut pas mettre la main dans le feu sans en souffrir les conséquences...
+
+VIRGILIO_3	Si tu exerces une profession aussi dangereuse, il faut que tu sois un minimum épaulée...
+
+NEIDINIA	C'est vrai...
+
+ALICE	Lou...  je dois te faire des excuses...  Je n'ai jamais voulu te mêler une situation aussi risquée...  J'ai eu tort...
+
+LOUIZA	ça c'est bien terminé, Alice...  Si on y repense de façon rationnelle...  oui...  c'était bien que tu ne sois pas toute seule, n'est-ce pas ?  ça aurait pu se terminer beaucoup plus mal...
+
+NEIDINIA	Ah... Ne m'en parle pas...
+
+VIRGILIO_3	Maintenant qu'on  a  évité le pire, Alice, je veux savoir concrètement ce que tu fais exactement dans cette Académie, qui sont tes instructeurs, je veux tout savoir dans les moindres détails.
+
+NEIDINIA	Très bonne idée...
+
+ALICE	D'accord. Je te dirai tout, Tonton. Si tu veux, je peux t'amener à l'Académie pour que voies comment ça se passe...
+
+VIRGILIO_3	Parfait...  Huh...  Et comment je fais maintenant avec l'inquiétude de vous savoir toutes seules ici... ?
+
+NEIDINIA	Je vais passer la nuit avec elles, Virgilio...
+
+VIRGILIO_3	J'apprécie beaucoup ton aide, Neidinia...  Tu es un amour...  Prenez soin de vous et reposez-vous, d'accord ?  Il faut que je parte...  S'il se passe quelque chose de bizarre, vous m'appelez tout de suite pour me le dire, c'est bien d'accord, Louiza ?
+
+HELENA_3	Oui, Papa...
+
+AMBIANCE	(sonnette____)
+
+LOUIZA	Ahhhh___ !
+
+LAERTE	Je suis venu aussi vite que j'ai pu, mon amour...
+
+LOUIZA	Que c'est bon de te voir...
+
+VIRGILIO_3	FFf___ Je vais y aller ma chérie...  (X)  Bonne fin de soirée...
+
+LAERTE	(Fff____) (soupir)  Je ne veux plus jamais être loin de toi...
+
+LOUIZA	(REAC)
+
+LAERTE	Plus jamais...
+
+(BOUCLE 22 - 10:22:23:16)
+		22
+
+JULIANA	Jaïro, une dernière tentative. On va discuter...
+
+JAIRO	Non... Commence pas avec tes drames, je suis décidé. Viens pas avec tes pleurnicheries de bonne femme parce que ça me laisse froid. Soit tu me donnes Bia, soit je te la prends par la force.
+
+JULIANA	(REAC)  Jaïro, cette séparation ne sera pas bonne pour elle...
+
+JAIRO	C'est qu'un bébé,  d'ici peu elle ne se souviendra plus de toi.
+
+JULIANA	Ne fais pas ça...
+
+JAIRO	Bon, passe-la moi, tu vas finir par la blesser...
+
+JULIANA	Ne fais pas ça...  Ne fais pas ça... Attends,
+
+JAIRO	Viens, Bia...
+
+JULIANA	ne fais pas ça... je t'en prie...
+
+JAIRO	Ecoute, celle qui a décidé de ne pas venir avec nous, c'est toi...  parce que t'es qu'une bourgeoise gâtée pourrie.
+
+JULIANA	Quel type de vie j'aurais dans cet endroit... ?
+
+JAIRO	Arrête ta comédie, j'ai plus la patience pour ça... . T'as fais un choix, maintenant tu l'assumes...
+
+JULIANA	(pleurs)  Pour l'amour du ciel, ne fais pas ça avec moi... !  Ne fais pas ça avec elle... !  C'est encore un de tes caprices. Tu sais que c'est mieux pour elle de rester ici avec moi...
+
+JAIRO	Comment ça ?   C'est bon ni pour elle... , ni pour toi...
+
+JULIANA	Jaïro, ne fais pas ça...
+
+JAIRO	Ecoute bien, quand tu voudras la voir, t'as qu'à venir là-bas... Tu seras bien reçue.
+
+JULIANA	(REAC)
+
+JAIRO	Maintenant, tu restes ici.
+
+JULIANA	Aïe...  Jaïro... ?  Jaïro... !  Attends, Jaïro...
+
+JAIRO	Qu'est-ce qu'il y a encore... ?
+
+IOLANDA	Emporte son oreiller
+
+JULIANA	Si elle ne dors pas avec... , il lui manquera.
+
+JAIRO	C'est une toquade, ma fille en a pas besoin.. Je l'emmène seulement parce qu'elle n'aime pas ta prison dorée.
+
+JULIANA	Tu fais un caprice...  C'est un caprice...  tu nous fait autant souffrir l'une que l'autre...  Tu es un irresponsable, Jaïro...  Ne crois pas que je n'ai pas de droits parce que je sais que j'en ai... !
+
+JAIRO	Tout ce qui se passe c'est de ta faute...  On avait dit que tu venais pour voir comment c'était à la communauté,  mais tu as fait marche arrière.  J'aurai l'air de quoi maintenant devant les gens, là-bas, hein ?
+
+JULIANA	Reviens, on va discuter, Jaïro...
+
+JAIRO	Si tu as envie de venir là-bas, on discutera...  Je suis pas le genre d'homme à manquer à ma parole.  Maintenant laisse-moi partir sinon je vais prendre mon train.
+
+JULIANA	Jaïro...  (REAC)  Attends...  (pleurs)
+
+GUIOMAR	Madame Juliana...  venez...  Il... il va voir la réalité... et il reviendra...   ,, ÉL SE VA A DAR CUENTA, ÉL VA A VOLVEL, ÉL SE VA A DAR CUENTA, ÉL VA A VOLVERÉL, ÉL SE VA A DAR CUENTA, ÉL VA A VOLVER
+
+JULIANA	Oh... !  (sanglots)
+
+GUIOMAR	Venez..., Madame...
+
+(BOUCLE 23 - 10:23:58:13)
+		23
+
+SHIRLEY	Tu viens avec moi... ?
+
+SELMA	C'est incroyable, je n'ai jamais vu une belle-fille qui prend autant de plaisir à être en compagnie de sa belle-mère...
+
+SHIRLEY	C'est sûrement parce que je ne suis pas ta belle-fille officielle...
+
+SELMA	C'est vrai..., oui...
+
+SHIRLEY	On dit que tout change après le mariage... Non... non... mais je te promets que ça n'arrivera pas dans notre cas...
+
+SELMA	(Mhm____)
+
+SHIRLEY	Quand je pense que j'ai presque réussi à prendre une photo avec lui avec son portable... mais... (REAC)  Laerté bougeait beaucoup trop...  Quel dommage...  Je voulais la divulguer sur les réseaux sociaux...  pour que tous mes amis et principalement mes ennemis...  puissent partager nos moments d'intimité... (rire____________)
+
+SELMA	Tu voulais, tu voulais divulguer des photos de vous deux ensemble, c'est bien ça ?
+
+SHIRLEY	Oh... Divulguer... divulguer c'est une façon de dire...  Je ne voulais l'envoyer qu'à deux personnes...  A Dieu et à tout le monde...
+
+SELMA	Hum...
+
+CELIA	(rire______________________________)
+
+SELMA	(rire fermé___________)
+
+SHIRLEY	Ah_________, je viens d'avoir une super idée...
+
+SELMA	Et laquelle... ?
+
+SHIRLEY	Ah_____ !
+
+SELMA	Ahhh, Seigneur..., elle me fait peur avec ses inventions...
+
+SHIRLEY	Viens là, viens là, viens là, viens là, viens là...  Viens, Belle-maman...  Viens là____, on va se prendre en photo.
+
+SELMA	Huh...
+
+SHIRLEY	Une seconde...  (REAC)  Rapproche-toi de moi...  Regarde l'appareil, et envoie un bisou...
+
+SELMA	Un bisou... ?
+
+SHIRLEY	(X)  Bisou, bisou, bisou....  (REAC rire... )
+
+SELMA	Mhm mhm ?
+
+SHIRLEY	Magnifique !
+
+(BOUCLE 24 - 10:25:08:02)
+		24
+
+ALICE	Bisou...  Dis à Laerté que je lui fais la bise, (X)... d'accord ?  (X)
+
+LOUIZA	Prends soin de toi...
+
+ALICE	Toi aussi, ma puce...  Tchao...
+
+LOUIZA	(REAC)  Elle est folle...  (REAC)
+
+AMBIANCE	(porte qui s'ouvre)  (BIP messagerie téléphone)  (porte qui se ferme)
+
+LOUIZA	(REAC)
+
+LAERTE	Parfait, maintenant je vais rester constamment là à te surveiller de près afin d'être certain que tout va pour le mieux.  Bon sang,  je n'aurais jamais dû me rendre à Goyania,  j'en suis malade...  Une fois de plus j'ai cédé au chantage émotionnel de ma mère... Mais je me suis promis que c'était bien la dernière fois que j'y allais...
+
+LOUIZA	ça reste à voir.  Tu as eu l'occasion de te divertir à Goyania... ?
+
+(BOUCLE 25 - 10:25:53:08)
+		25
+
+LOUIZA	Alors, Laerté... ?  Moi, ici, à deux doigts de perdre la vie avec une arme pointée sur moi et toi avec Shirley... ?  Et tu n'as même pas eu le courage de me le dire... ?  Regarde cette photo...  Il n'y a pas plus ridicule...  Ahh...  Les, les deux amours, tes deux amours...  Oh, que c'est mignon !  Et Shirley a écrit..., on va lire ce qu'elle a écrit...  "Le chéri de Shirley et de Maman... !   Tu viens à peine de quitter la maison que tu nous manque déjà énormément"... Oh... !  "Bisous”. Voilà !
+
+LAERTE	Mon amour, s'il te plaît, ne tire pas de conclusions avant de m'entendre...
+
+LOUIZA	J'en ai ma claque... !  Je suis fatiguée de vouloir faire ma vie avec un homme qui a un club de femmes folles et obsédées dans toutes les villes où il passe... !
+
+LAERTE	Tu exagères... tu exagère tout le temps...
+
+LOUIZA	Je n'exagère rien, Laerté, tu adores ça... !
+
+LAERTE	(soupir)
+
+LOUIZA	Tu adores qu'on te cajole...  Tu adores l'exhubérance de Shirley...  Tu adore être séduit, non ?   Tu adores échanger des regards langoureux  avec Livia...  Et ça t'excite de voir Véronica comme si tu n'étais pas juste son associé en affaire...
+
+LAERTE	Mon amour, chacune de ces relations a une importance particulière dans ma vie.
+
+(BOUCLE 26 - 10:26:44:16)
+		26
+
+LAERTE	Qu'est-ce que tu veux ? Que j'écarte ces personnes de moi ?
+
+LOUIZA	Qui a voulu que je m'écarte de mes amis, si ce n'est toi... !  Ou tu as oublié ce que tu as fait avec André ?  Je veux juste que tu sois loyal... et que tu sois sincère.
+
+LAERTE	Excuse-moi, tu ne peux pas m'accuser de cette façon...
+
+LOUIZA	Ah bon... !  Mhm... !
+
+LAERTE	J'ai rencontré Shirley à Goyania par pur hasard...
+
+LOUIZA	Mhm Mhm... !
+
+LAERTE	J'allais t'en parler...  Mais j'ai appris avant tout ce qui t'étais arrivé.. Mon amour, j'étais désespéré... Je mourais de peur de te perdre... !
+
+LOUIZA	Oh, Laerté, je t'en supplie, épargne-moi tes mensonges...  Ne me raconte surtout pas de salades... !  J'en ai ma claque... !  J'ai besoin d'un peu de temps. Je veux m'arrêter. Je veux  réfléchir. Je veux organiser mes idées.
+
+LAERTE	Ah, tu veux du temps. Non, excuse-moi, je ne suis pas un imbécile.  Tu es en train de me faire une scène...  parce que Shirley est allée aider ma mère et que je l'ai rencontrée par hasard ?
+
+LOUIZA	Et pourquoi tu ne te maries pas avec Shirley ? Marie-toi avec elle, Laerté... !
+
+LAERTE	(Hhh_____)
+
+LOUIZA	Fais-en ton épouse...  C'est fabuleux... !  Tu y gagnes une merveilleuse infirmière pour s'occuper de ta mère...  Huh !   C'est la mécène qui te donne du travail...  c'est la mère de ton fils, c'est ta copine pour aller faire la fête, et tout ce que je suis fatiguée de savoir.
+
+LAERTE	Ecoute,  je ne vais pas prendre en compte tout ce que tu viens de dire...  mais croire que tu me demandes un répit pour te remettre des émotions que tu as eu dernièrement.
+
+LOUIZA	(soupir_______)
+
+LAERTE	Mon amour... je vais sortir par cette porte...  et je vais te donner ce répit...  Et quand tu seras réellement en conditions pour discuter sincèrement avec moi, viens me trouver, s'il te plaît...  Mais discuter ainsi, c'est non...
+
+LOUIZA	(REAC)
+
+AMBIANCE	(ambiance stand de tir - coups de feu )
+
+(BOUCLE 27 - 10:28:19:00)
+		27
+
+VICTOR	Alors, alors... Qui sera ma nouvelle élève... Mhm ?
+
+ALICE	Victor...
+
+VICTOR	C'est bien de voir que tu es pleine d'assurance... pour changer...
+
+ALICE	Merci de m'avoir évité de finir entre les mains de ce délinquant...
+
+VICTOR	Tss...  Je l'aurais fait pour n'importe quelle personne de bien.  C'était mon devoir..., envers une collègue com'toi…
+
+(BOUCLE 28 - 10:28:38:08)
+		28
+
+LOUIZA	Je ne m'en suis pas encore remise. Alice, oui. Alice va parfaitement bien... En fait...
+
+CHICA	Merci, ma chérie...
+
+LOUIZA	il semble que ça a compté dans son dossier pour qu'elle continue dans ce métier de policier...
+
+CHICA	_h Oh, mon chéri, chacun de nous suit son chemin... Si elle croit avoir cette vocation...  eh bien prions pour qu'elle fasse une belle carrière... !
+
+LOUIZA	Tu dis ça parce que tu aimes les uniformes... je te connais...  Comme celui de ton commandant...
+
+CHICA	(elle boit)
+
+LOUIZA	(rire)
+
+CHICA	(rire)  (REAC)  Maintenant tu vas me dire la vérité...   Regarde-moi...  Je te sens tristounette...  Qu'est-ce que tu as ?  ça n'a pas uniquement à voir avec l'épisode que tu viens de de vivre avec Alice, n'est-ce pas ?
+
+LOUIZA	J'ai comme la sensation de...  toujours être en train de ramer contre la marée..., Mamie...  d'être toute seule... , que tout le monde est contre moi...  même toi, tu m'as abandonnée...
+
+CHICA	Non, non, ne dis pas ça...  Ne dis pas que je t'ai abandonnée, c'est pour ça que je suis ici.  Chérie, regarde-moi...  Je reconnais que j'ai été très dure avec toi  dans mes propos lors de notre dernière discussion...  mais tu le méritais vraiment, Louiza...
+
+(BOUCLE 29 - 10:29:42:06)
+		29
+
+CHICA	Ah la la...  Mais je reconnais aussi que tu n'es plus une petite fille, mon trésor...  Je ne peux plus me mêler de ta vie comme je le faisais avant...  Je ne peux plus essayer de changer le cours de ta vie d'adulte en te donnant des conseils...  (REAC)  Tu es devenue une femme... et...  Mmm_____
+
+LOUIZA	Tu le crois vraiment... ?
+
+CHICA	Mais oui...  Tu es une femme, mon trésor...  On va tourner cette page... D'accord ?
+
+LOUIZA	(REAC)
+
+CHICA	Parle-moi de ton mariage...  Parle-moi de tes amours, Louiza...  Mhm ?
+
+LOUIZA	Je ne sais plus rien, Mamie...  Je me suis fâchée avec Laerté...
+
+CHICA	Vous vous êtes disputés ?  Fâchés-fâchés ? Pourquoi vous vous êtes disputés ? Il n'y avait pas que de l'amour entre vous ?
+
+LOUIZA	Oh, que de l'amour, que de l'amour avec cette Shirley en plein milieu. Voilà...
+
+CHICA	(rire________________)  Ah... Shirley... Non... ! Shirley, non... !   Tu ne peux pas de disputer à cause de Shirley...  Shirley est née pour semer la discorde entre les personnes. Elle s'amuse beaucoup en faisant ça.  Tu ne peux rien y faire. Tu dois lui être supérieure, tu dois être élégante. Ne donne pas de pourvoir à ce type de personne.
+
+LOUIZA	Mais je ne lui donne pas de pouvoir, ce n'est pas moi qui lui donne du pouvoir, c'est Laerté qui lui en donne.
+
+CHICA	Ahh !  Aïe, mon poussin, il va falloir que tu apprennes à te battre avec ça.  Il faudra que tu fasses preuve de sang-froid...  parce qu'ils ont eu un enfant ensemble, et un enfant... est un lien indélébile entre deux personnes...  et elles resteront toujours en contact...
+
+(BOUCLE 30 - 10:31:00:15)
+		30
+
+CHICA	Sois élégante, comme je te l'ai dit...  Huh !  Garde la tête haute.  Oui ?  Mhm mhm mhm mhm... !
+
+LOUIZA	Mhm...
+
+CHICA	(X X X X)  Parle-moi, je veux te voir plus animée que ça. Parle-moi  Dis-moi tout des préparatifs de ton mariage. Les futures mariées adorent parler de leur robe...  Tu as déjà pensé à ta robe... ?
+
+LOUIZA	(____Hh)  Ma mère m'a donné la sienne...
+
+CHICA	Comment ça...
+
+LOUIZA	Ma chère maman...  m'a donné celle qu'elle a porté... pour son quasi-mariage avec Laerté...  Au début, j'ai cru que c'était un symbole de paix entre nous... Un cadeau qu'elle avait plaisir à m'offrir...  Mais ensuite elle m'a dit et redit que ce n'était pas du tout un cadeau, que c'était juste...  une alerte, un avertissement pour que je ne commette pas la folie que je me prépare à faire.  Et la bataille habituelle a recommencé...
+
+CHICA	Ah la la... comment est-ce possible...  (REAC)  Huh...  Bon, ma chérie, tu es, tu es...  __Hh MFf__ Tu vas porter la robe de mariée de ta mère...  ou ce qui serait mieux..   tu en choisis une autre. Je t'en achète une encore plus belle,  ça te dit ?  Mhm ?
+
+LOUIZA	Mhm...
+
+CHICA	Oh...  fais ce que ton coeur te dira...
+
+LOUIZA	Mhm...
+
+CHICA	Mhm ?
+
+LOUIZA	Mon coeur est en mille morceaux...
+
+CHICA	Oh... Louiza...
+
+LOUIZA	(soupir)
+
+CHICA	Mon petit coeur...  (X)
+
+LOUIZA	Je t'aime...
+
+(BOUCLE 31 - 10:32:28:12)
+		31
+
+FELIPE	(soupir)
+
+GABRIEL	J'ai cru que tu n'aurais jamais le courage de revenir ici...
+
+FELIPE	Je n'ai pas besoin de courage pour ça, Gabriel...  Je paie pour utiliser ce bureau...  Je travaille ici...
+
+GABRIEL	Tu travaillais ici...
+
+FELIPE	Ne joue pas à ça, par ce que je vais pas entrer dans ton jeu...  OK ?  Je suis venu prendre quelques affaires...  Fff______  Je ne sais... ni quand je reviendrai travailler... ni si je reviendrais dans cette clinique...
+
+GABRIEL	Oh, je m'en doutais...  Même si ta sanction a été légère, je sais que tu vas retomber...  Tu as rempli ta flasque... ?
+
+FELIPE	Arrête de jouer les sadiques...  T'es vraiment un salaud, Gabriel. Tu  prends plaisir à me voir affaibli en ce moment...
+
+GABRIEL	Je ne te comprends pas. Où sont tes sarcasmes... ?  Où est ton arrogance... ?  Huh ?
+
+FELIPE	(Hhh___)
+
+GABRIEL	Ou tu deviendras adulte quand Silvia t'aura plaqué ?
+
+FELIPE	(bâille... )  Je ne vais pas gâcher mon énergie avec toi, je te l'ai déjà dit, tu n'arriveras pas à me vexer...
+
+GABRIEL	(rire méchant)
+
+FELIPE	Tu es vraiment machiavelique... hein... ?  Gabriel, je l'avais déjà remarqué... Et... ? Je l'avais vu...  Mais je m'en sortirai,  tu peux en être certain.
+
+GABRIEL	Oh... ça doit être très humiliant de voir ton nom imprimé dans L'Officiel des Médecins pour un tel motif...
+
+(BOUCLE 32 - 10:33:40:06)
+		32
+
+GABRIEL	Une restriction professionnelle...  Bon sang, ça doit être très démoralisant...  Je préférerais voir mon nom imprimé dans les faits-divers de la Police, en tout cas...  Tu ne dis rien... ?  Hé... !
+
+AMBIANCE	(2 clac de doigts)
+
+GABRIEL	Hou hou... ?  Regarde-moi...  ça fait quoi de tomber aussi bas... ?
+
+FELIPE	(REAC)
+
+GABRIEL	Ouille !
+
+FELIPE	Je n'attends pas de réponse de ta part...   parce qu'à mon avis, c'est toi le perdant.. !  Gabriel, tu es un minable, tu es un grossier personnage, tu es le pire des collègues, tu es une mauvaise personne  !  ça ne t'a pas suffi d'avoir perdu le respect de Silvia, tu as tout perdu dans cette histoire.
+
+GABRIEL	Oh, si j'ai perdu le respect de Silvia, tu as gagné sa pitié...
+
+FELIPE	C'est parfait...  que quelqu'un aie pitié de moi. Parce ce que la pitié, la pitié est très proche de la compassion, Gabriel...  Maintenant, ce qu'il y a de pire...  c'est l'indifférence.  Les gens ressentent de l'indifférence pour les personnes méprisables,  et je crois que c'est ton cas...
+
+GABRIEL	Attends______... Félipé... tu vas me fapper___... ?  En plus de t'accuser pour injures, j'ajouterai coups et blessures, Félipé, et j'en finirai avec toi, imbécile...
+
+FELIPE	Parfait ! Ose, Gabriel, fais-moi un procès !  ça alors, toute cette comédie que tu nous fais... !  Tu te sens tellement supérieur...  et pourtant tu vis collé à mes basques... !  Le grand perdant ici, c’est moi... !   C'est moi, Gabriel...  Fiche-moi la paix, allez...
+
+GABRIEL	Ton jeu de pauvre innocent ne fonctionne pas avec moi, mon vieux...   ça fait très longtemps que je te supporte. Tu es un imbécile qui dégoûte ma femme...
+
+FELIPE	Huh !
+
+GABRIEL	Maintenant pour ce qui dépend de moi...  tu ne recevras plus jamais aucun patient ici...  ici...  ici, dans cette consultation...  à ce bureau-là...
+
+FELIPE	Hhh____
+
+GABRIEL	ici...  Tu n'auras plus jamais aucun patient...  plus un seul...  Rentre chez toi, poivrot...
+
+(BOUCLE 33 - 10:35:22:08)
+		33
+
+BRANCA	C'est une impression que j'ai ou vous êtes plus gentil aujourd'hui... ?
+
+GABRIEL	Huh huh... !
+
+BRANCA	Que se passe-t-il ?  Vous l'avez à nouveau séduite... ?
+
+GABRIEL	Eh_n__on.  Bien tenté mais vous avez perdu...
+
+BRANCA	Mhm...
+
+GABRIEL	J'ai tendance à être plus agréable après une victoire...  Voilà...  Eh bien non, je n'ai pas recollé les morceaux,  et je n'ai personne...
+
+BRANCA	Un homme aussi beau et compétent que vous est libre... ? ça mérite une célébration... !
+
+GABRIEL	Hi hi hi... !
+
+BRANCA	Hi hi... !  Mais, dites-moi... Pourquoi êtes-vous aussi content de vous ?
+
+GABRIEL	C'est simple...  la Justice rendue à l'encontre d'un ennemi que j'ai...
+
+BRANCA	Mmm_________
+
+GABRIEL	Vous voyez...  ça a été moins fort que je ne le pensais, mais qu'est-ce que c'est bon à vivre...
+
+BRANCA	Comme je vous comprends, Gabriel, je vous comprends parfaitement...  Croyez-moi...  Il n'y a rien de mieux que la victoire sur ceux qui nous ont humiliés...
+
+GABRIEL	C'est vrai...
+
+BRANCA	J'ai déjà vécu cette sensation à plusieurs reprises et je suis impatiente de la retrouver...
+
+GABRIEL	Hi hi... !
+
+BRANCA	Hi hi... !
+
+GABRIEL	Bon, si je peux, je veux bien vous passer un peu de ma joie aujourd'hui...
+
+BRANCA	Oh... vous m'en avez déjà passé... . Je vais devoir être en pleine forme parce que je dois visiter des lieux pour une session de photos que je vais faire...
+
+GABRIEL	Mhm mhm...
+
+BRANCA	En fait, je dois me montrer encore mieux que je ne le parais.
+
+GABRIEL	Je peux seulement vous garantir d'être parfaite jusqu'à demain...
+
+BRANCA	Oh...  J'en suis certaine... On n'a pas une session demain... ?
+
+GABRIEL	Oui, on en a une...
+
+BRANCA	Parfait... !
+
+GABRIEL	Huh...
+
+BRANCA	Zou… !  Prenez un verre avec moi... Zou...  ?
+
+ZULIECA	Oui,  Madame...
+
+GABRIEL	(REAC)
+
+BRANCA	Prépare ce"Dry Martini" que te t'ai appris à faire...
+
+GABRIEL	Non...  Non... Euh... non merci, pas pour moi...  Branca...  c'est étrange, mais,  (REAC) je ne bois pas quand je travaille...
+
+BRANCA	Ah... !  Eh bien, vous devrez faire une exception, quelle que soit la victoire qu'on a empochée, petite ou grande,  on ne peut pas la fêter à sec.
+
+GABRIEL	Très bien. J'accepte un jus de tomate bien préparé. C'est possible ?
+
+BRANCA	C'est possible...  Maintenant, Zou, rajoute-lui quatre petites gouttes de vodka parce que sinon les dieux ne vont pas lui pardonner.  Depuis quand on trinque sans alcool ?
+
+GABRIEL	Huh... !  Vous avez raison, oui...  D'accord...
+
+BRANCA	Alors...  On va célébrer ça... dans le grand style...  De plus, ce sera la première de beaucoup d'autres réjouissances...  Huh ?
+
+(BOUCLE 34 - 10:37:17:09)
+		34
+
+LAERTE	Alice... que je suis content de te trouver...
+
+ALICE	Salut... Qu'est-ce qu'il y a ? Un problème avec Louiza ? Dis-moi...
+
+LAERTE	(X)  (X)  J'en sais rien.  J'essaie de l'avoir sur son portable, mais je n'y arrive pas. J'ai appelé un million de fois mais elle ne répond pas...
+
+ALICE	Elle doit être en cours et son portable en mode silencieux.
+
+LAERTE	Elle a cours dans quelle salle ?
+
+ALICE	Là... celle d'en face...  Hé, non, attends, Laerté. Tu vas entrer dans la salle comme ça, dans tous tes états... ?
+
+LAERTE	Tu as raison, je lui parlerai plus tard...
+
+(BOUCLE 35 - 10:37:44:11)
+		35
+
+LAERTE	(REAC)
+
+ANDRE	Eh ben alors... ?  Tu n'es pas dans ton centre d'Arts, Laerté. Tu ne peux pas entrer ici comme si tu étais le maître du monde. Regarde devant toi quand tu marches...
+
+LAERTE	Ecoute, tu te montres toujours grossier avec moi. C'est impressionnant, à la fin...
+
+ANDRE	Tu me fais presque tomber et tu ne t'excuses pas et c'est moi qui suis grossier ?
+
+LAERTE	Tu crois que je l'ai fait exprès ? Je n'ai absolument rien contre toi.
+
+ANDRE	Tu sais ce que qu'il y a ? Je ne fais pas partie de ta légion d'admirateurs.
+
+LAERTE	Et toi, tu n'as encore pas accepté d'avoir été abandonné... c'est plutôt ça...
+
+ANDRE	Non, pas du tout...   J'ai beaucoup de peine  pour Louiza, parce que rien qu'à voir ton regard, on peu savoir qu'elle souffrira  beaucoup.
+
+LAERTE	(REAC)
+
+ANDRE	(REAC)
+
+(BOUCLE 36 - 10:38:21:13)
+		36
+
+JAIRO	Bon, alors...  pourquoi tu m'as fait quitter mon travail ?
+
+IOLANDA	Regarde Bia...
+
+JAIRO	Je la vois. Elle est allongée et elle dort tranquillement.
+
+IOLANDA	Mais elle a perdu du poids. Elle ne mange rien, juste quelques miettes. Elle n'a aucun appétit, Jaïro...
+
+JAIRO	Ni pour le sucre ? Donne-lui des aliments sucrés, ça nourrit aussi, le sucré.
+
+IOLANDA	Est-ce que tu es sourd ou tu m'amuse à faire celui qui ne comprend rien ?  Elle n'arrête pas de parler de Juliana.
+
+JAIRO	Parce que c'est une enfant.  Elle s'y habituera bientôt et je fais uniquement ça pour voir si Juliana cède. Pour voir si elle descend de son piédestal.  D'ici peu, elle viendra ici avec la queue entre les pattes et des remords, tu verras.
+
+IOLANDA	J'ai été une enfant et une mère. Aujourd'hui je suis grand-mère et je sais qu'elle est très attachée à Juliana.
+
+JAIRO	Tu devrais t'en occuper, te débrouiller pour remplacer Juliana. En fin de compte, une grand-mère, c'est deux fois une mère ?
+
+IOLANDA	Tu crois que je suis satisfaite de cette situation ?  Si Juliana veut rester chez elle, Jaïro, c'est son problème, tu comprends ?  Je ne vais pas  accepter que Bia continue de maigrir. On dirait un chiffon froissé. Et elle pourrait même tomber malade à cause de notre entêtement. Il n'en est pas question, Jaïro. Tu dois faire quelque chose.
+
+JAIRO	Bon sang, C'est pas mon boulot.   C'est à toi de résoudre ça.  (soupir)
+
+(BOUCLE 37 - 10:39:19:10)
+		37
+
+LOUIZA	Il est allé jusque devant la porte de ma salle de cours ?
+
+ALICE	Oui... Il te cherchait désespérément et je lui ai montré où se trouvait ta salle...
+
+LOUIZA	Attends, pourquoi il n'a pas frappé pour entrer et me demander de sortir ?
+
+ALICE	Parce que je ne l'ai pas laissé faire.  Louiza, je n'allais pas le laisser entrer en plein cours avec son beau visage défiguré par l'angoisse...  ç'aurait été le clown de l'année.
+
+LOUIZA	Je ne crois pas, pas du tout... ça aurait été une preuve d'amour...
+
+ALICE	Je constate que vous vous ressemblez, et beaucoup.  Si mon amoureux me faisait un truc pareil, je le détesterais.
+
+LOUIZA	Mais il n'est pas mon amoureux.  On est...  presque mari et femme. Puisqu'on va se marier.
+
+ALICE	Mhm mhm... Pour quelqu'un qui était prêt à étrangler son chéri il y a 2 heures, tu es devenue très compréhensive.
+
+LOUIZA	Oh, mais j'étais très fâchée contre Laerté, ça peut arriver...  Mais je suis heureuse à présent, depuis que je sais qu'il est venu jusqu'ici...  qu'il a essayé d'entrer dans la salle de cours...  Et cela signifie ...  qu'il m'aime...  Qu'il a peur de me perdre...
+
+ALICE	Telle que je te connais, tu vas sortir d'ici pour aller courir dans ses bras, on parie quoi ?
+
+LOUIZA	Je ne vais plus rien te raconter... parce que tu aurais dû le laisser entrer...  pour qu'il me fasse un million de déclarations d'amour devant tout le monde. Compris... ?  Je ne te dirai plus rien.  Tu m'as beaucoup déçue.
+
+ALICE	ça alors ! Je t'évite une situation terriblement honteuse... et maintenant tu te fâches avec moi... !  Quelle injustice ! Je ne mérite pas ça.
+
+(BOUCLE 38 - 10:40:21:10)
+		38
+
+FELIPE	Louana, je suis uniquement venu pour honorer mes compromis d'aujourd'hui.
+
+LOUANA	Vous me manquez beaucoup, Docteur...
+
+FELIPE	Content de le savoir... Mhm !   Je crois que ce chèque suffira pour couvrir mes dépenses...
+
+LOUANA	D'accord.
+
+RODRIGO	Docteur Félipé... ?
+
+FELIPE	(REAC)  Monsieur Rodrigo ?
+
+RODRIGO	ça va bien ?
+
+FELIPE	Très bien...
+
+RODRIGO	Je passais dans le quartier et j'en ai profité pour voir si je pouvais avoir une consultation avec vous, Docteur...
+
+FELIPE	Oui... mais...  vous n'allez pas bien ? C'est urgent ou pas... ?
+
+RODRIGO	J'ai une petite douleur sur ce côté et ça me gêne énormément...
+
+FELIPE	Huh... il faudrait que je voies ça...  Mais malheureusement, je... je...  je pars en voyage à l'instant et je ne peux pas vous prendre...  Mais on va s'arranger...  Louana... passe-moi un stylo s'il te plaît...
+
+LOUANA	Tenez, Docteur...
+
+FELIPE	Appelle ce numéro, s'il te plaît... demande le Docteur Horacio... dis-lui que Monsieur Rodrigo est un de mes patients, demande-lui qu'il lui donne un rendez-vous...  dans les meilleurs délais...
+
+LOUANA	Ne vous inquiétez pas, je m'en occupe.
+
+RODRIGO	Mais... vous partez longtemps en voyage, Docteur... ?
+
+GABRIEL	Le temps qu'il lui faudra pour ne plus avoir honte. Je ne sais pas si vous avez vu l'encart de la restriction professionnelle que le Conseil de l'Ordre  a fait publier dans la presse au sujet de votre médecin...
+
+FELIPE	Gabriel... je t'en prie...
+
+GABRIEL	Il vient d'être jugé... et condamné...  pour avoir exercé en état d'ébriété...  un patient qui est entre la vie et la mort.  Le Docteur Félipé est en train d'être connu sur la place publique pour ses erreurs de diagnostic...
+
+(BOUCLE 39 - 10:41:35:14)
+		39
+
+SILVIA	Veuillez m'excuser de vous interrompre...  mais j'ai déjà informé mes collègues...  qu'ils ne devraient  pas avoir de discussion devant nos patients...  Huh...
+
+RODRIGO	Ce qui a été dit sur vous est vrai, Docteur... ?
+
+FELIPE	Monsieur Rodrigo, je ne vais pas vous mentir...    parce que mon premier serment est de dire la vérité...
+
+LOUANA	Le Docteur Horacio vous attend à son cabinet...
+
+FELIPE	Je suis alcoolique...  et je suis en voie de guérison...   Je ne bois plus, mais ma maladie est incurable...  Je vais être obligé de me traiter le restant de mes jours pour éviter une rechute.
+
+(BOUCLE 40 - 10:42:09:19)
+		40
+
+AMBIANCE	(ouverture de porte)
+
+JULIANA	Jaïro____, où est ma fille ?
+
+JAIRO	T'appelle ça une manière de me recevoir ?
+
+JULIANA	Parle... et Bia... ?
+
+JAIRO	J'ai pas à te donner d'explications ni à faire ce que tu me dis.   Mais Bia a besoin de ton aide...
+
+JULIANA	Que se passe-t-il ? Que lui est-il arrivé... ?
+
+JAIRO	Bon, t'énerve pas... c'est juste qu'elle veut pas manger.
+
+JULIANA	Je le savais. Qu'est-ce que vous avez donné à ma fille, Jaïro ?  Je savais qu'elle n'irait pas bien sans ma protection,  sans ma tendresse... Jaïro, tu es un irresponsable.
+
+JAIRO	ça y est, Madame recommence ?   Baisse un peu le ton...  Tu peux ou tu peux pas aider ma fille ?  Après tu reviens ici, dans ton palais de cristal.
+
+JULIANA	Bien sûr que je vais venir... !  Guiomar, sors sa nourriture qui est dans le réfrigérateur. Donne-moi tout dans un sac isotherme...
+
+GUIOMAR	Oui, de suite, Madame...
+
+JULIANA	Je pars tout de suite...
+
+AMBIANCE	(entrée musique- flûte solo jusqu'au début de la boucle suivante)
+
+(BOUCLE 41 - 10:43:30:03)
+		41
+
+AMBIANCE	(Arrêt solo flûte X )
+
+LAERTE	Hahhh...  (soupir)  Tu veux me parler ?
+
+LIVIA	Oui...  Je me suis rendue compte que tu es arrivé stressé et je voulais savoir si tu allais bien,si tu avais besoin de quelque chose... Je suis restée pétrifiée sur place à t'écouter jouer...
+
+LAERTE	Je suis nul aujourd'hui, les notes m'échappent.  Pardonne-moi de t'avoir déçue.
+
+LIVIA	Tu ne m'as jamais déçue, ça n'arrivera jamais.  J'adore t'écouter jouer.   C'est magnifique...
+
+LAERTE	Tu veux m'accompagner... ?  Fais-moi cette faveur.  Tu arriveras peut-être à me faire oublier mes problèmes.
+
+LIVIA	D'accord. Ce serait un honneur de pouvoir y arriver...  Hi hi...
+
+LAERTE	Huh...
+
+AMBIANCE	(entrée duo flûte/piano)
+
+(BOUCLE 42 - 10:44:37:02)
+		42
+
+AMBIANCE	(arrêt flûte)
+
+LAERTE	Tss...  (soupir)  C'est impossible, je n'y arrive pas... Excuse-moi, tu n'y es pour rien. C'est juste moi...
+
+LIVIA	Je ne voudrais pas paraître indiscrète, mais tu t'es disputé avec Louiza... n'est-ce pas ?
+
+LAERTE	Un désacord déplorable...
+
+LIVIA	Je vois...  Notre énergie vitale disparaît à cause des disputes.  Tu es un grand artiste, tu es unique..., Laerté... Tu ne dois pas te laisser abattre ainsi...
+
+LAERTE	Merci pour ton affection...  Louiza...  Tu es enfin venue...
+
+LOUIZA	Je ne veux pas, je n'arrive pas à rester loin de toi...
+
+LAERTE	J'ai cru que tu allais renoncer à tout...
+
+LOUIZA	Non... j'avais perdu la tête... Hh___  (REAC soupir)
+
+AMBIANCE	(Coming next)
+
+(BOUCLE 43 - 10:45:33:04)
+		43
+
+SILVIA	Veronica est plutôt occupée, et tu n'as sans doute pas très envie de passer tes soirées tout seul, non?
+
+CADOU	Oh... tout va bien, c'est agréable parfois d'être un peu seul, et j’ai un livre super à terminer!
+
+SILVIA	Je vais peut-être en profiter pour grignoter quelque chose…
+
+CADOU	Très bonne idée, parfait, attends, tu vas avoir un aperçu de ce que j'ai préparé pour les garçons, ce ne sera pas long...
+
+SILVIA	J'ai faim....  (REAC)
+
+CHICA	-h -h -h c'est Ricardo…
+
+HELENA_3	Qu’est-ce qui s’est passé ? Calme-toi et dis-moi, dis-moi, raconte..
+
+CHICA	Au...        au...     _h au … Il a fallu qu’il fasse un atterrissage forcé dans le...  _hh le Mato Grosso... Il s'est… posé… posé en urgence...  je ne sais pas,  j‘ai vu ça au…  au journal...  à la télévision…
+
+HELENA_3	Mais est-ce que... est-ce qu'il est blessé?..
+
+CHICA	J’en sais rien, je... je ne pouvais pas rester toute seule, _h _h je suis venue directement chez toi.
+
+HELENA_3	Calme-toi, maman...
+
+VIRGILIO_3	Je vais allumer la télé.
+
+JULIANA	On ne va quand même pas laisser cette enfant souffrir parce qu’on a pris une décision!
+
+JAIRO	Comment on fait?
+
+JULIANA	hh__  Jaïro, s'il te plaît,   _h   laisse-moi garder… _h  Bia chez moi…  aujourd'hui et demain, pour compenser ces jours où elle a si peu mangé.
+
+JAIRO	Non, hors de question.
+
+JULIANA	S'il te plaît!
+
+IOLANDA	Jaïro, c’est pour son bien.  ... pour le bien de ta fille
+
+AMBIANCE	(Générique fin de l'épisode_60)

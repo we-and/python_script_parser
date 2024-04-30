@@ -1,0 +1,1207 @@
+LA ESCLAVA BLANCA CAP34 25 FPS-H264
+29/09/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Lopez2	Et maintenant ? Nous attendons quoi au juste dis-moi ?
+
+Nicolas	(h__) Nous devons voir ce qu'ils vont trouver chez l'avocat, et ensuite agir en conséquences.
+
+Lopez2	(h__) On n'aurait pas dû y aller nous aussi ?
+
+Nicolas	Moins nous avons de liens avec ce qui se passe en ce moment, mieux c'est. Granados peut être sur place parce que ça fait partie de son travail, ça se justifie. Il nous racontera.
+
+Lopez2	J'espère que nous n'allons pas perdre le contrôle. L'appréhension me rend déjà malade !
+
+Nicolas	Caicedo si nous avons réussi avec le Docteur Lopez, qui était notre ami, (h) comment pourrions nous échouer avec un groupe de noirs igno_rants et un avocat de pacotille qui se prend pour un révolutionnaire, hein ?
+
+(BOUCLE 2 - 00:01:44:24)
+		02
+
+Granados	J'ai ici un ordre signé de la main de monsieur le juge pour perquisitionner cette maison. Laissez nous passer. Fouillez partout ! Sous les meubles, partout. Aucun endroit ne doit être laissé au hasard.
+
+Felipe	(h___) (hh__)
+
+Granados	Fouillez absolument partout. Même sous le lit et le matelas ! Passez dans tous les recoins ! Allez, plus vite !
+
+Général	(hh__)
+
+Felipe	Profitez-en pour lire un peu.
+
+Général	Je sais que la manière est loin d'être la plus élégan_te, Felipe, mais...
+
+Felipe	Si au moins je savais ce que vous cherchez, je pourrais vous aider à le trouver.
+
+Général	Attendons simplement de voir le résultat de cette perquisition, d'accord ?
+
+(BOUCLE 3 - 00:02:52:19)
+		03
+
+Catalina	Calme-toi. Il n'y a aucune raison d'avoir peur. Tout va bien.
+
+Granados	Que donne la fouille ? Qu'est-ce que tu fais ici, le noir ? Tu sais ce qui s'est passé cette nuit ? Tu es sourd ou quoi, que s'est-il passé cette nuit ? Qu'est-ce que tu sais ?
+
+Catalina	Quelle bête vous a piqué, monsieur ! Vous ne pouvez pas interroger un homme libre, À moins que vous ayez un document officiel contre lui. Monsieur ! Vous en avez un ? Vous en avez un ?
+
+Granados	Vous avez trouvé quelque chose ? Allons continuer de fouiller dehors.
+
+Isaias	(fhh_) Merci. (h__) Merci beaucoup.
+
+Catalina	Tu vois, il ne s'est rien passé. Reste ici.
+
+(BOUCLE 4 - 00:03:44:01)
+		04
+
+Général	Granados, Vous n'avez rien à dire à ces messieurs dames ?
+
+Granados	Veuillez-nous excuser pour les désagréments. Et désolé d'avoir effrayé votre épouse.
+
+Felipe	C'est ma sœur.
+
+Catalina	Ravie de vous rencontrer. Catalina Restrepo. Les derniers jours ont été si agités, je n'ai pas pu être présentée.
+
+Général	Et le moment est mal choisi, les tensions sont exacerbées, mademoiselle.
+
+Felipe	Si vous avez fini, je ne vais pas vous retenir.
+
+Général	Granados, il est temps de partir. Mademoiselle, Felipe.
+
+Catalina	Au revoir.
+
+Granados	Dehors, soldats. Mademoiselle.
+
+Catalina	Au revoir.
+
+Felipe	(sourire)
+
+Catalina	(h)
+
+(BOUCLE 5 - 00:04:54:00)
+		05
+
+Granados	Tous ceux qui veulent entrer, vous les fouillez.
+
+Lopez2	Alors ?
+
+Granados	C'était les Restrepo, ça ne fait aucun doute, j'en suis sûr.
+
+Nicolas	Les ?
+
+Granados	Il se trouve que l'avocat a une sœur. Je viens de le découvrir. Et chez eux il y avait Isaias, l'esclave-traître des Lopez.
+
+Lopez2	Ils ne sont pas là pour lui. (mh_) Ce qu'ils veulent c'est nous, à cause de ce qu'a dit cet imbécile de Jaime au procès. (h__) (hh___) Et ce rancunier de Restrepo n'a pas pu nous vaincre avec les lois, alors il essaie de nous faire peur !
+
+Nicolas	Tout ce qu'ils ont ce sont de simples spéculations. Aucune preuve ne peut les mener à nous, aucune. Alors ne vous laissez pas avoir par la peur.
+
+Granados	Moi je n'ai pas peur. Mais je veux leur répondre, parce que notre survie est remise en cause.
+
+Nicolas	Attention à ce que tu vas faire, Francisco. (h__) La clé pour sortir intacts et libre de cette histoire, c'est d'arriver à rester unis.
+
+Granados	Rester unis, comme nous l'avons fait avec Arturo ?
+
+(BOUCLE 6 - 00:06:04:16)
+		06
+
+Nicolas	Et qu'est-ce que tu proposes que l'on fasse ?
+
+Granados	Nous allons tuer les Restrepo. Et les noirs qui sont mêlés à tout ça, quand ils ne pourront plus demander d'aide, nous les pourchasserons eux aussi, nous mettrons fin à tout ça.
+
+(BOUCLE 7 - 00:06:41:10)
+		07
+
+Gabriel	Isabelita. Bonjour.
+
+Isabel2	Bonjour Gabriel. Que fais-tu ici ?
+
+Gabriel	Je voulais te voir.
+
+Isabel2	Et les commères ont dû te parler de moi.
+
+Gabriel	J'ai entendu dire que tu ne voulais plus manger,
+
+Isabel2	(mhh__)
+
+Gabriel	et comme je ne t'ai pas vue depuis longtemps.
+
+Isabel2	Hum. (h__) Oui, c'est vrai, nous ne nous sommes pas vus depuis le jour du procès contre Jaime.
+
+Gabriel	Oui c'est ça.
+
+Isabel2	Et je suis très fière de toi, parce que tu t'es déclaré con_____tre ce fou à lier. Lui qui a tué Rosita et qui en plus veut aussi tuer mon frère.
+
+(BOUCLE 8 - 00:07:27:03)
+		08
+
+Gabriel	Je ne savais pas que tu avais un frère.
+
+Isabel2	Moi non plus.
+
+Adela	Ne dis pas de sottises Isabel.
+
+Isabel2	Ce ne sont pas des sottises, grand-mère. Et il est temps que tout le monde sache que j'ai un frère, et c'est Miguel.
+
+Gabriel	Miguel ? Celui qui a gagné le procès ?
+
+Isabel2	Hum hum. Lui-même. C'est pour ça que mon père ne peut pas le traiter comme les autres esclaves... et continuer à le punir ainsi. Voilà pourquoi je fais cette grève.
+
+Gabriel	C'est pour ça... que tu prends le risque de mourir de faim ?
+
+Isabel2	Oui.
+
+Adela	La visite est finie ! Ça ne sert à rien ! Merci Gabriel.
+
+Isabel2	Je ne mangerais pas que s'il reste.
+
+Adela	Alors mange ! Vas-y, mange ! Allez !
+
+(BOUCLE 9 - 00:08:32:20)
+		09
+
+Granados	Cette discussion est terminée.
+
+Nicolas	Écoute-moi, écoute-moi, tu ne peux pas faire ce qui te chante bon sang !
+
+Granados	Lâche-moi !
+
+Nicolas	Tu ne peux pas déclarer la guerre aux Restrepo, toute la ville partirait dans une chasse à la sorcière ! Ce serait stupide et ça nous porterait préjudice !
+
+Granados	Je ne sais pas d'où tu sors l'idée que tu es le chef et que tu peux me parler comme ça. Je prends mes propres décisions.
+
+Nicolas	Je te parle comme ça, parce que les décisions que l'on prend, je_ les ai examinées. Sans ça, Jaime Lopez nous aurait dénoncés.
+
+Granados	Mais j'ai mes propres idées, Caicedo a ses propres idées.
+
+Lopez2	La seule idée que j'ai c'est de m'en aller !
+
+Nicolas	Personne ne s'en va ! Nous allons remédier au problème. Nous allons chercher les alliés des Restrepo l'un après l'autre, et ensuite nous les liquiderons.
+
+Lopez2	Comment diable veux tu que l'on s'y prenne, hein ?
+
+Nicolas	Il faut que nous ayons des oreilles partout !
+
+Granados	Tu crois que ces gens pourraient se trahir entre eux ?
+
+Nicolas	(rire) Les esclaves sont des êtres miséra__bles, je suis sûr que certains parleraient pour quelques pièces.
+
+(BOUCLE 10 - 00:09:35:20)
+		10
+
+Ana	Tu peux entrer.
+
+Marcos	Je peux madame ?
+
+Ana	Oui.
+
+Marcos	Nous vous avons apporté à manger.
+
+Ana	(hh) Merci.
+
+Marcos	Excusez-nous... Nous sommes très inquiets pour vous. Pourquoi vous n'êtes pas sortie, ni pour le petit-déjeuner, ni... (h) pour le déjeuner ?
+
+Ana	(hh)
+
+Marcos	Vous allez bien ?
+
+Ana	Oui. Oui, je vais bien. Non, non Paca, je n'ai pas faim. Merci. (h___) Bon alors, racontez-moi. est-ce que vous savez qui a commandité cette action, qui a écrit sur nos portes ? (hh) Vous pouvez avoir confiance en moi. Moi je vous ai confié tous mes secrets.
+
+(BOUCLE 11 - 00:10:34:03)
+		11
+
+Ana	(h_) Je sais que vous courez un danger, c'est pour ça qu'il faut que vous écoutiez attentivement ce que je vais vous dire. (h__) J'ai des informations très importantes concernant mon mari qui pourraient intéresser la personne derrière ces actions.
+
+Paca	(h!)
+
+Ana	Paca attention.
+
+Granados	Qu'est-ce que vous faites ici avec mon épouse ?
+
+Ana	Ils m'ont juste apporté à manger.
+
+Granados	Avec la permission de qui ?
+
+Paca	Monsieur, ce n'est pas de la faute de madame, c'est que l'on voulait savoir comment elle allait. (h!)
+
+Granados	Il va falloir que je remette les points sur les i dans cette maison. Dehors. J'ai dit dehors !
+
+Marcos	Oui monsieur.
+
+Granados	Viens. Allez.
+
+(BOUCLE 12 - 00:11:34:05)
+		12
+
+Granados	Ces peintu__res, ces pamphlets de pacotille, ils ne peuvent pas nous effrayer. Parce que nous sommes les propriétaires et les maî_tres de ces terres, et cela ne changera jamais. Pour l'instant nous ne savons pas... qui sont ces gens qui essaient de vous bourrer la tête... avec toutes sortes de balivernes mais ils vont mourir, et bientôt. Parce que je déclare la fin de tous ceux assez bêtes pour croire en cette stupide révolution. Vous qui êtes là_, vous qui m'appartenez, vous devez être fidèles envers moi. Mais si certains d'entre vous avaient l'idée de me trahir, je tuerais d'abord leur famille, tous leurs enfants, avant de finir par les tuer. Parce que je ne tolèrerais... aucune trahison dans mon hacienda. Je me fais comprendre ?
+
+Cono	Oui maître.
+
+Esclaves (6)	Oui maître
+
+Marcos	Oui maître.
+
+Esclave F	(mhh) (hum)
+
+Esclave rouge	Je te tiens.
+
+(BOUCLE 13 - 00:13:04:23)
+		13
+
+Victoria	Dans la fosse où est Miguel, (h_) il y a un passage souterrain. Je suis allée voir s'il continuait sur plusieurs mètres.
+
+Thomas	(mhh) Comment ça ? Un tunnel ?
+
+Victoria	Il semblerait bien. Mais je ne sais pas où il mène... Qu'est-ce qu'il y a ? Vous ne saviez pas qu'il existait ?
+
+Siervo	Non demoiselle. Je ne savais pas... qu'il y avait un tunnel par ici, non.
+
+Thomas	(h_) Non moi non plus. (h__) Je sais qu'il y a des grottes dont les indigènes se servaient pour aller d'un... endroit à un autre sans être vus.
+
+Victoria	Non, ce n'est pas ça. Il est construit de l'intérieur. Je dois mettre la main sur des cartes, nous devons en apprendre plus.
+
+Milagro	Mais comment tu vas faire, tu n'as pas le droit te déplacer dans l'hacienda ? (h_) Si Don Nicolas se rend compte que tu...
+
+Victoria	Non. Je ne veux pas que tu t'inquiètes. Je sais que je ne dois plus me disputer avec lui. Il lèvera ma punition si je le lui demande quand il rentrera.
+
+Thomas	(mhh) Victoria, (h__) parfois il nous faut lâcher un peu de lest pour obtenir ce que nous voulons. (h__) (mhh) Fais très attention.
+
+Victoria	N'aies pas d'inquiétude papa. Je ferai attention. Milagro s'il te plaît, apporte à manger à Miguel, d'accord ? Il faut profiter de l'absence de Nicolas.
+
+Siervo	Faites très attention.
+
+Thomas	(mhh)
+
+Milagro	(h__) (hh) Un tunnel.
+
+Siervo	Un tunnel !
+
+Milagro	(h) Un tunnel. (h__)
+
+(BOUCLE 14 - 00:14:40:12)
+		14
+
+Edwin	(fhh)
+
+Marcos	Salut toi !
+
+Cono	Qu'est-ce que tu fais là ?
+
+Marcos	(rire) Ah bah t'es content de me voir.
+
+Cono	Pour sûr !
+
+Marcos	(rire__) Edwin. Tiens bois un peu. Ce dimanche nous avons une réunion avec la Cause.
+
+Edwin	Donc ce dimanche, pas de conseil ?
+
+Marcos	Exactement. Mais cette fois nous n'allons pas nous saouler, nous allons réfléchir ensemble à notre futur et celui de nos enfants. C'est ce que nous devons faire, si nous voulons que les choses changent. Redonne moi le bol... Tiens Maria, tu veux boire ?
+
+Maria	Ah, oui, merci beaucoup Marcos !
+
+Marcos	Hum.
+
+(BOUCLE 15 - 00:15:36:11)
+		15
+
+Granados	Plus. Quand tu as mangé avec eux, tu as découvert quelque chose ?
+
+Cono	Vous avez des esclaves qui vous respectent beaucoup, maître. Comme moi. (mhh)
+
+Granados	Qu'est-ce que tu dis ? Sois plus clair.
+
+Cono	Il y en a qui veulent faire partie de la révolution.
+
+Granados	Lesquels ?
+
+Cono	Moi je vous suis loyal, maître.
+
+Granados	Lesquels ? (hh) (h___) Tu dois me le dire maintenan__t pour que je puisse empêcher tout ça. (h_) Si tu ne me dis rien, je te considèrerais comme un traître toi aussi.
+
+Cono	Moi je vous suis fidèle, comme l'était feu mon père et mon grand-père, qui reposent en paix.
+
+Granados	Dis-moi tout alors.
+
+Cono	(mh) Hum. J'ai entendu Marcos passer un message pour une réunion dans la salle de conseil, mais ça sortait de nulle part, c'était la première fois qu'il en parlait.
+
+Granados	Très bien Cono, tu as bien fait de me le dire. Amène Marcos à l'éta_ble, et dis à Barrios de venir.
+
+Cono	Oui maître.
+
+Granados	(ahh____)
+
+(BOUCLE 16 - 00:16:44:10)
+		16
+
+Marcos	Maître...
+
+Granados	Tu vas découvrir ce qui arrive à ceux qui me trahissent.
+
+Marcos	Ah____ ! Ah ! Ah___ Ah____ !! Ah__ !! Non__ ! Ah !! (h__) Ah___ !! (h) Ah___ !! Ah__ !! Arrêtez, arrêtez ! (pleure) Arrêtez. (pleure) (pleure) (h___) Maître, je ne comprends pas, qu'est-ce que j'ai fait ? Pourquoi vous me faites ça ? Ah... (pleure)
+
+Granados	Tu ne comprends pas ?
+
+Marcos	(pleure)
+
+Granados	Peut-être que les coups t'aideront à comprendre.
+
+Marcos	(h______) (pleure)
+
+Granados	Tu vas parler,
+
+Marcos	(h_) (pleure__)
+
+Granados	Et tu vas tout me dire,
+
+Marcos	(h__)
+
+Granados	sale menteur !
+
+Marcos	(pleure) (h) (hh) (h__) (pleure__) Maître je ne sais rien. (pleure_) (h_) (pleure__)
+
+(BOUCLE 17 - 00:17:49:08)
+		17
+
+Julian	Tu me gâtes beaucoup trop, Milagro.
+
+Milagro	(sourire) (h__) Ce n'est pas pour vous, (h__) c'est pour Miguel. Le pauvre va mourir de faim s'il reste enfermé ici, comme mademoiselle Isabelita.
+
+Julian	Pourquoi est-ce que tu dis ça ?
+
+Milagro	La petite n'a rien mangé et rien bu depuis que Miguel a été enfermé ici. (h___) Elle proteste pour que son père le libère.
+
+Julian	(rire) (h___) Ah cette petite a du cran en fait.
+
+Milagro	(h) Je peux lui passer ça ?
+
+Julian	Je dois fouiller le sac d'abord.
+
+Milagro	Il y a un chausson,
+
+Julian	(hh)
+
+Milagro	(h__) du chorizo et une galette de maïs. (h) Dis donc ! (h_)
+
+Julian	C'était pour être sûr, je fais que mon travail.
+
+(BOUCLE 18 - 00:18:40:03)
+		18
+
+Milagro	Miguel !
+
+Miguel	(hh)
+
+Milagro	Miguel !
+
+Miguel	(hh) Milagro.
+
+Milagro	(sourire) Tiens, (h__) attrape-ça.
+
+Miguel	(h__) (hh) (h___) Il ne faut pas qu'on te voie, où tu te feras punir, Milagro. (h__) (hh_)
+
+Milagro	Ne t'inquiète pas pour moi. Julian est quelqu'un de bien, pas comme Morales. Il m'a laissée venir.
+
+Miguel	(h_) (hh)
+
+Milagro	Victoria veux que tu saches que la Cause est vivante.
+
+Miguel	Comment ça ? (h__) (hh)
+
+Milagro	Les rebelles ont peint sur les murs des haciendas, ils ont écrit "assassins". (h__) J'imagine que leurs fiers propriétaires sont terrifiés à l'idée qu'ils sont en danger.
+
+(BOUCLE 19 - 00:19:22:20)
+		19
+
+Milagro	(h) Atrape la nourriture.
+
+Miguel	(hh) (hh) (h__) (hh) Je suis content de l'apprendre. (hh) Il faut ammener notre lutte encore plus loin. (hh)
+
+Milagro	Mais nous ne savons pas comment.
+
+Miguel	(hh) (h__) Quel avantage avons-nous sur les maîtres, Milagros ? (h_)
+
+Milagro	Quel avantage pourrions-nous avoir, aucun !
+
+Miguel	Réfléchis bien. (hh) Nous connaissons toute leur vie, (h___) et nous sommes tout le temps avec eux ! (hh) (h__) (hh__) Au final, (hh) (h_) nous connaissons tous leurs petits secrets. Et ils se sont toujours trompés en nous considérant moins que des animaux qui ne comprennent rien.
+
+Milagro	Des informations, Mais oui ! (h__) Nous avons des informations.
+
+Miguel	Exact ! Fais passer le mot, (h) (hh__) que tous se rappellent que si l'on sait bien faire quelque chose, c'est voir (h) et écouter sans être remarqués. Les Restrepo ont eu la bonne idée de nous unir. (hh) Maintenant nous sommes plus forts car ensemble. (h__) (hh_) (hh) Allez pars Milagro, pars ! (hh)
+
+(BOUCLE 20 - 00:20:25:10)
+		20
+
+Paca	Madame... (h)
+
+Marcos	Ah____ !!
+
+Paca	Buvez cette infusion à la citronnelle pour calmer vos nerfs.
+
+Marcos	Ah ! Ah_____ !
+
+Ana	Qu'est-ce qui se passe dehors enfin ?
+
+Marcos	Ah___ !
+
+Ana	Paca, qui est-ce qui crie comme ça ?
+
+Marcos	Ah ! Ah____ !
+
+Paca	(mhh)
+
+Marcos	Ah_ !
+
+Paca	C'est le pauvre Marcos.
+
+Marcos	Ah__ ! Ah__ !
+
+Ana	Mais ils le torturent ?
+
+Marcos	Ah__ ! Ah____ !
+
+Paca	(mhh)
+
+Ana	Pourquoi ?
+
+Marcos	Ah__ !
+
+Paca	(h__) Quelqu'un a dit au maître que Marcos savait qui a peint sur les façades,
+
+Marcos	Ah ! Ah ! Ah__ !
+
+Paca	ils le tabassent dans l'éta_ble.
+
+Ana	(hh)
+
+Marcos	Ah__ !
+
+Ana	(mh__)
+
+Marcos	Ah____ !
+
+Paca	Ils lui font subir des choses horribles.
+
+Ana	Ah...
+
+Paca	(mh)
+
+Ana	(hh____)
+
+(BOUCLE 21 - 00:20:55:19)
+		21
+
+Marcos	(h) (tousse) (tousse)
+
+Granados	Parle ou je te tue sur le champ, sale traître.
+
+Marcos	(tousse) (h__) (hh) (h__________) Le traître ce n'est pas moi.
+
+Granados	Hum !
+
+Marcos	Ah____ ! (douleur____)
+
+Granados	Tu n'as pas le droit de le regar__der dans les yeux, (mhh____) (mh) (mhh) Lui c'est un homme fidèle, pas comme toi qui est un traître !
+
+Marcos	(h___)
+
+Granados	Tu ne lui arrives pas à la cheville !
+
+Marcos	(hh) (ah____) (gémit___)
+
+Granados	Maintenant dis-moi...
+
+Marcos	(hh)
+
+Granados	qui est le leader de la cause !
+
+Marcos	(h____) (gémit__)
+
+Granados	Dis le moi !
+
+Marcos	(h___) (hh) (gémit) (h______)
+
+(BOUCLE 22 - 00:21:28:16)
+		22
+
+Marcos	(h) (h) Qu'allez-vous faire ? (h_) Non maître, (h__) Non maître, non, non, non, no____________n. (h_____) J'ai déjà été marqué, avant par vous. (h__) Maître, par pitié, (h__) (h_) vous gagnerez quoi à recommencer ? Rien ! (tousse) (tousse)
+
+Granados	Donne moi un nom et je pose le fer.
+
+Marcos	(h____) (pleure) (h____) Ah___________________ !! Ah__ !! Non... Maître... (h__) (hh) (h___) Miguel. (h_) C'est Miguel. (mhh) (h_)
+
+Cono	Il a dit Miguel, maître.
+
+Granados	L'esclave des Parrenio ?
+
+Marcos	(h_) (agonise) (pleure__) (gémit) (pleure)
+
+Granados	Qui d'autre lui vient en aide ? Parce qu'il n'y a pas que Miguel.
+
+Marcos	(pleure)
+
+Granados	(h) Qui d'autre ? (h_) Dis-le moi ou je tue tes camarades ! Je vais tuer Paca, c'est ta sœur elle est comme toi ! Je vais la tuer, juré !
+
+Marcos	(ah) (gémit) Ah... (pleure_______) No______n. (h__) (h___) (hh) (hh) C'est Miguel qui dirige le mouvement depuis le tout début, c'est lui qui a organisé les vols qui ont eu lieu sur les routes, (h) (h_) l'enlèvement de la marquise, (h) (hh) (h__) c'était lui. (hh__) (h___) Je vous le jure c'était lui.
+
+(BOUCLE 23 - 00:22:40:15)
+		23
+
+Marcos	(h__)
+
+Granados	Felipe Restrepo,
+
+Marcos	(tousse) (h__) (sanglots___) (tousse) Ah... (h___)
+
+Granados	qu'est-ce que cet avocat a à faire avec les escla_ves ?
+
+Marcos	(arh____)
+
+Granados	Dis-moi.
+
+Marcos	(pleure___)
+
+Granados	Dis-moi.
+
+Marcos	(h__) (tousse) (tousse) (h) (hh__) (gémit)
+
+Granados	Réponds-moi.
+
+Marcos	(tousse) (hh____) (h) (hh)
+
+Cono	Maître...
+
+Granados	(hh_____)
+
+Cono	il en a déjà dit beaucoup.
+
+Granados	(hh) Je veux le nom de tous les rebelles. Dis-moi quand il sera réveillé.
+
+(BOUCLE 24 - 00:23:15:06)
+		24
+
+Victoria	(hh) (h) Il était temps que tu rentres Nicolas ! Je me faisais beaucoup de soucis ! Où étais-tu ?
+
+Nicolas	Je t'avais demandé de rester dans ta chambre. (h_) J'ai laissé des instructions très claires à respecter. Qui t'a laissé sortir ? (hh)
+
+Victoria	Ta mère.
+
+Nicolas	(h__) Elle est revenue sur mes ordres ?
+
+Victoria	(h___) (hh) Nous avions une raison importante, (h___) Isabelita allait de pire en pire, nous devions appeler Gabriel.
+
+Nicolas	(h__) (hh) Qu'est-ce que c'est ?
+
+Victoria	(hh__) (h__)
+
+(BOUCLE 25 - 00:23:42:02)
+		25
+
+Gabriel	Regarde Isabelita, les touches noires que tu vois ici, si on les joue de gauche à droite, on dit que ce sont des notes "dièse." Si on les joue de droite à gauche, on dit que ce sont des bémols.
+
+Isabel2	(h__) (h) Allez, Gabriel, joue un petit morceau. Hum ?
+
+Gabriel	D'accord. (mhh) (h)
+
+Isabel2	C'est vraiment très joli, (h_) c'est comme si tu avais des doigts d'anges.
+
+Victoria	Ce jeune homme est le seul qui a réussi à convaincre Isabelita de manger. Elle était très faible, et regarde-la maintenant. Elle a l'air en forme et plus heureuse que jamais.
+
+(BOUCLE 26 - 00:24:34:13)
+		26
+
+Nicolas	(fhh__) Tu vas passer ton temps à me rendre la vie impossible toi aussi mère ?
+
+Adela	Assieds-toi Nicolas.
+
+Nicolas	Si je décide que mon épouse doit rester enfermée, tu ne peux pas la faire sortir !
+
+Adela	Assieds-toi, s'il te plaît.
+
+Nicolas	(h___) (mhh___) (mh___) Quoi ?
+
+Adela	Tu crois que ça m'a plu de contredire tes ordres et faire appel à la marquise ?
+
+Nicolas	Ça ne t'a pas plus mais tu l'as fait !
+
+Adela	Seulement par nécessité ! Tu m'as laissé seule avec mille problèmes et je ne pouvais pas laisser Isabelita se rendre malade ! Cette enfant, c'est toute ma vie, Nicolas. Pour moi c'était pareil pour toi.
+
+Nicolas	Bien sûr que oui ! (h) Mais je ne peux pas permettre qu'elle fasse un caprice et obtienne ce qu'elle voulait !
+
+Adela	Non, ce qui s'est passé c'est que tu as oublié tes priorités à la seconde où est apparu l'autre minaudière d'Eugénia. Tu es restée avec elle ? N'est-ce pas ?
+
+Nicolas	(hh__) Mère, la priorité dans ma vie, c'est ma fille, (h_) et je ne permettrai à personne d'en douter.
+
+Adela	Bien, alors, agis en conséquence ! Parce qu'Isabelita est obsédée par l'idée que cet esclave est son frère, (h) et ça... c'est parce que, mon fils, tu___ as décidé de le raconter à tout le monde.
+
+Nicolas	Cette obsession va lui passer quand nous lui occuperons l'esprit avec autre chose.
+
+(BOUCLE 27 - 00:25:43:16)
+		27
+
+Adela	Pour ça, je dois reconnaître que Gabriel est utile. Prendre des cours de musique et passer du temps avec quelqu'un de son âge, (h___) ça peut en effet l'aider à oublier ce que nous voulons qu'elle oublie.
+
+Nicolas	Et puis après tout, ce jeune homme n'est pas n'importe qui.
+
+Adela	Tout à fait. C'est le fils du général !
+
+Nicolas	(mhh__) (mh___)
+
+(BOUCLE 28 - 00:26:06:16)
+		28
+
+Alonso	Comme nouvelle je n'aurais pas pu prétendre à mieux. Notre client au Portugal nous demande encore plus de caco en poudre.
+
+Eugénia	(h_) Et donc, qu'est-ce que ça signifie ?
+
+Alonso	Merci. (h__) Eh bien, qu'il faut acheter plus de matière première pour respecter la quantité demandée. (h) Et bien que le prix baisse un peu avec le volume, notre bénéfice va augmenter de manière considéra_ble.
+
+Eugénia	Ce qui veut dire que nous devons augmenter notre... investissement de départ.
+
+Alonso	Hum. Ça te pose problème ?
+
+Eugénia	(petit rire) Non pourquoi, ça devrait ?
+
+Alonso	Eh bien, en considérant ta situation avec ta belle-famille en Angleterre...
+
+Eugénia	Je t'ai déjà dit que ça n'affectait en rien mes finances.
+
+Alonso	Eh bien, parfait ! Que penses-tu de doubler notre investissement de départ, chacun à parts égales, encore une fois ?
+
+Eugénia	Hum. D'accord. Hum. (h__) Laisse-moi quelques jours, le temps de récupérer l'argent dans la capitale. (hh)
+
+Alonso	Hum hum. C'est parfait.
+
+Eugénia	Santé.
+
+Alonso	Hum. (h__) Santé, associée.
+
+Eugénia	(mhh__)
+
+Alonso	Hum. Excuse-moi.
+
+(BOUCLE 29 - 00:27:05:24)
+		29
+
+Eugénia	(fhh____)
+
+Bumba	Tu ne peux pas t'engager à investir de l'argent que tu n'as pas encore obtenu.
+
+Eugénia	(h__) C'est pour ça que je dois parler à Nicolas. Il faut que tu m'aides, Bumba. (fhh__)
+
+Bumba	(hh______)
+
+(BOUCLE 30 - 00:27:29:22)
+		30
+
+Thomas	Milagro, viens ici. Où étais-tu ?
+
+Milagro	(hh) J'apportais à manger à Miguel.
+
+Thomas	(mhh) (h__) Et l'homme qui le garde ne t'a pas posé de problème ? (hh) (h__) Julian.
+
+Milagro	Non papa. (hh) Julian n'est pas un mauvais homme. (h__)
+
+Thomas	Ça alors !
+
+Milagro	(h_) Papa, ce n'est pas ce que tu penses, crois-moi.
+
+Thomas	Dis-moi, je suis curieux je pense quoi selon toi ?
+
+Milagro	Tu le sais bien.
+
+Thomas	Non, je ne sais pas Milagro. Dis-moi ce à quoi je pense.
+
+Milagro	(mhh) (h) Je devrais juste te dire qu'il n'existe aucun homme pour moi, je serai pour toujours une femme seule.
+
+(BOUCLE 31 - 00:28:35:10)
+		31
+
+Nicolas	Alors Gabriel, tu peux continuer à donner des cours à ma fille Isabel ?
+
+Gabriel	Oui, oui monsieur, il n'y a pas de problème.
+
+Isabel2	Oh. (h) Merci papa ! (h_) (hh____)
+
+Nicolas	(h___)
+
+Isabel2	(contente)
+
+Nicolas	Je ferais tout pour te rendre heureuse mon amour.
+
+Isabel2	Ah... Et...
+
+Nicolas	(mh)
+
+Isabel2	pour mon frère Miguel ? (hh) Tu vas le libérer ?
+
+Nicolas	Ce n'est pas le moment d'en parler ma chérie. (h) Mais si c'est si important pour toi, j'y penserai.
+
+Isabel2	Hum hum.
+
+Nicolas	Reste dîner avec nous, Gabriel. (h) Ensuite je demanderai à ce qu'on te ramène à Santa Marta. D'accord ? (hh)
+
+Gabriel	Oui monsieur, merci.
+
+Isabel2	Hum !
+
+(BOUCLE 32 - 00:29:13:01)
+		32
+
+Ambiance	(bruit de fond brouhaha marché toute la boucle)
+
+Catalina	Angela, bien le bonsoir.
+
+Angela	Ah, Donia Catalina.
+
+Felipe	Comment ça va Angela ?
+
+Angela	Monsieur, (h) Vous voulez un jus, ou alors un petit chausson, un bon fruit frais ?
+
+Catalina	Je prendrais bien un petit fruit. Oui, celui-là, merci.
+
+Angela	Vous avez vu ce qu'on a fait ? Nous avons réussi à déstabiliser ces grands messieurs avec quelques lettres sur leur maison.
+
+Felipe	Ils ne savent pas quoi faire. Par exemple ce matin ils sont venus chez nous, ils ont fouillé partout, et ils n'ont évidemment rien trouvé qui nous lie à la cause, ils n'ont rien !
+
+Catalina	Rien.
+
+Angela	(h_) Les soldats du général sont venus ici aussi, (h) mais ils sont repartis les mains vides. (h) Ils sont restés toute la journée à examiner les étalages et les maisons des affranchis, (h___) mais, ils ne vont rien trouvé.
+
+Catalina	Merci.
+
+Angela	Vous savez ? (h__) Les peintures sont loin d'ici, sous terre, (h) et elles sont bien cachées.
+
+Felipe	Ah c'est parfait comme ça. Portons un toast à cette nouvelle.
+
+(BOUCLE 33 - 00:30:04:18)
+		33
+
+Ambiance	(bruit de fond brouhaha marché toute la boucle)
+
+Catalina	Il ne manque plus que Miguel soit enfin libéré. Il devrait être ici avec nous, au courant de tout ce qui se passe.
+
+Angela	Et nous avons besoin de notre leader.
+
+Catalina	À la santé de la cause, Angela.
+
+Angela	À vo_tre santé et merci pour tout, merci. (h__)
+
+Felipe	C'est très bon, mais il est déjà très tard, nous devons y aller. Merci beaucoup Angela.
+
+Angela	Monsieur, faites attention.
+
+Felipe	Oui Angela. Vous aussi. Allons-y.
+
+Catalina	Mais c'est qu'il est pressé. Pourquoi tu t'en vas comme ça avec autant d'entrain ? Ça me fait de la peine pour Angela, elle qui nous offre toujours quelque chose, et nous n'acceptons jamais rien.
+
+Felipe	Catalina, contente-toi d'avancer. Nous devons être prudents.
+
+(BOUCLE 34 - 00:30:42:00)
+		34
+
+Nicolas	(h) Je ne veux pas me disputer avec toi.
+
+Victoria	Je ne suis pas là pour ça. Ce qui se passe entre nous deux, les disputes et les menaces, ça ne peut plus durer.
+
+Nicolas	(mh___) (h_) Tu m'as menacé avec un couteau et ce devant ma mère et ma fille.
+
+Victoria	Et j'en suis profondément désolée, je me sens tout à fait honteuse.
+
+Nicolas	Est-ce que c'est vrai ? (h_) Serais-tu honnête avec moi ?
+
+Victoria	Je ne veux pas que cette maison devienne un enfer. Et avec les inscriptions, et les menaces qui pèsent sur l'Eden, cette famille a besoin d'être plus unie que jamais.
+
+Nicolas	Ça ne dépend que de toi.
+
+Victoria	Je m'en rends compte.
+
+(BOUCLE 35 - 00:31:45:00)
+		35
+
+Victoria	Mais tu as fait un grand pas en avant, tu as accepté de donner quelque chose à Isabelita, et dans ce geste j'ai vu l'homme bon et juste que tu es.
+
+Nicolas	Toute ma vie j'ai bataillé pour ça, mais ça me fru_stre énormément que tu me rejettes constamment Lucia. (mh___) J'en ressens une profonde douleur, (h__) parce que je voudrais que nous soyons... tranquilles, que nous vivions en paix.
+
+Victoria	Tout comme moi.
+
+Nicolas	(x)
+
+Victoria	Hum. Non, non, je ne peux pas. (hh)
+
+Nicolas	(mh_) Tu ne viens pas de dire que tu veux que l'on soit... (h_) une famille, un ménage harmonieux ?
+
+Victoria	Si. (h__) Mais c'est que je ne peux pas. Je suis dans un de ces jours... Tu vois ce que je veux dire.
+
+Nicolas	Hum hum. Oui. (h__) Bien sûr.
+
+Victoria	(mh_)
+
+Nicolas	(h__) Nous trouverons un autre moment.
+
+Victoria	Merci.
+
+(BOUCLE 36 - 00:32:58:16)
+		36
+
+Ambiance	(brouhaha fond toute boucle)
+
+Felipe	Bonsoir messieurs.
+
+Catalina	J'en voudrais une d'une couleur un peu plus vive.
+
+Homme rouge	Monsieur Felipe.
+
+Homme chapeau	Merci beaucoup Don Felipe.
+
+Vendeuse	Regardez j'ai celle-ci qui devrait vous plaire.
+
+Catalina	Ah oui elle est jolie.
+
+Vendeuse	Oui madame.
+
+Felipe	J'ai parlé avec eux.
+
+Vendeuse amb.	Regardez mes belles étoles.
+
+Catalina	Et que t'ont-ils dit ?
+
+Vendeur amb.	Voyez ces beaux paniers, je les ai tressés moi-même.
+
+Felipe	Plus ou moins comme tout le monde, la plupart des gens ici sont surexcités et optimistes,
+
+Vendeur amb.	J'en ai de toutes les tailles.
+
+Felipe	ce que nous avons fait leur a plu.
+
+Catalina	Et maintenant que faisons-nous ? (h_) Vous me l'emballez ? Je repasserai !
+
+Vendeuse	Oui pas de soucis.
+
+Vendeur amb.	Regardez, c'est un beau travail d'artisan ! J'ai des paniers parfaits pour faire le marché ou des grandes corbeilles.
+
+Felipe	Pour l'instant il faut attendre de voir ce que les esclavagistes vont faire. Et ensuite nous agirons en conséquence.
+
+Catalina	Ah, regarde-moi ce tissu.
+
+Felipe	Je suis un peu fatigué. Pourquoi ne pas renter à la maison ?
+
+Catalina	C'est une si belle soirée et tu veux rentrer à la maison ? Non, moi je veux continuer mon petit tour, tu peux rentrer toi.
+
+Vendeuse amb.	J'ai de beaux tissus pour vos vêtements !
+
+Felipe	Je n'aime pas que tu restes ici toute seule.
+
+Catalina	Comment ça?
+
+Vendeuse 2	Vous cherchez à décorer votre maison ? Regardez mes belles corbeilles !
+
+Catalina	C'est maintenant que tu joues le rôle du papa protecteur ? (rire___________)
+
+Felipe	(h__)
+
+Catalina	(hh___)
+
+Vendeuse 2	J'en ai des grandes et des petites !
+
+Felipe	Rentre avant la tombée de la nuit.
+
+Catalina	Oui monsieur.
+
+Felipe	Et fais attention.
+
+Vendeuse 2	Vous ne pouvez que trouver votre bonheur.
+
+Felipe	Parce qu'il y a un groupe de rebelles dans cette ville qui fait des siennes. (x) Ne rentre pas tard.
+
+Vendeuse 2	Regardez mes beaux paniers.
+
+Catalina	(h__) Ah non ! C'est exactement la taille dont j'ai besoin. Vous en auriez un juste un peu plus petit ? Hum non, ça ça ne va pas, c'est beaucoup plus petit. Je voudrais plutôt une corbeille comme ça, pour la mettre dans un coin.
+
+(BOUCLE 37 - 00:34:07:15)
+		37
+
+Ana	Où est Francisco, Paca ?
+
+Paca	(mhh) Il est retourné à l'étable.
+
+Ana	Comment ?
+
+Paca	(h__) (hh)
+
+Ana	Il est retourné torturer Marcos ? (h___) Pourquoi ?
+
+Marcos	Ah !
+
+Ana	(h__)
+
+Marcos	Ah_______ !!
+
+Ana	(hh) (h__) (hh_) (h__) Paca, nous devons faire quelque chose.
+
+Marcos	Ah ! Ah___ !
+
+Ana	(h__) Nous devons faire quelque chose pour l'aider mais je ne sais pas comment.
+
+Marcos	Ah ! Ah__ !
+
+Paca	Non non non, ne vous mêlez pas de ça.
+
+Ana	(ahh__)
+
+Marcos	Ah____ !!
+
+Paca	Si vous le faites, si vous vous interposez il serait capable de venir et ensuite il vous tuerait.
+
+Ana	(h__) Ah non, (h__) (hh__) je m'en fiche, (h__) je suis fatiguée d'être ici, (h_) je suis fatiguée de vivre ici...
+
+Marcos	Ah___ ! Ah !
+
+Ana	(h__) emprisonnée,
+
+Marcos	Ah !
+
+Ana	(h__) sans pouvoir faire quoi que ce soit, je me sens très lâche. (h__)
+
+Marcos	Ah____ !!
+
+Ana	Je me sens... (h__)
+
+Marcos	Ah__ !!
+
+Ana	je me sens... (h__) comme vous. Comme toi et comme Marcos. (h) Je suis une escla_ve, (h_) nous sommes les escla_ves de ce pauvre lâche. (h__) Parfois je voudrais... (h__)
+
+Paca	Vous voudriez quoi ?
+
+Ana	(h___) Non rien Paca. (h__) Que pourrait faire une pauvre femme comme moi ? Je suis incapable de l'affronter, je ne peux pas.
+
+(BOUCLE 38 - 00:35:18:00)
+		38
+
+Marcos	(h______) (pleure) Maître je vous en supplie, no__n... (h_______) Je ne sais pas qui d'autre fait partie de la Cause. Je vous le jure. (h) Ni qui a peint la nuit sur les portes et les murs des maisons. (pleure) Je vous ai déjà dit tout ce que je savais. (h_____) Je vous le jure, (h________) (hh) le leader c'est Miguel. (pleure______)
+
+Granados	Miguel est gardé au fond d'un trou, d'autres ont donc été peindre sur les façades et les portes des haciendas.
+
+Marcos	Ah... (h_______) Mais toutes les idées... (h_) viennent de lui. (hh) (pleure) (h__)
+
+(BOUCLE 39 - 00:35:53:06)
+		39
+
+Granados	Et les Restrepo ?
+
+Marcos	(pleure_______) (tousse) (gémit______)
+
+Granados	Hum ?
+
+Marcos	(pleure) (h________) (pleure________) (gémit_______________)
+
+Granados	Si tu sais pour Miguel,
+
+Marcos	(h_)
+
+Granados	tu sais qui sont ses complices.
+
+Marcos	(h__) (h__) Maître... (h__) Non____, je vous en supplie, non, maître, arrêtez. (h__) Ah_________________ !! (gémit) Ah______.
+
+Granados	Allez, parle.
+
+Marcos	(h__) (pleure_______________) Il était accompagné de deux autres personnes. (pleure______)
+
+Granados	Qui ça ?
+
+Marcos	(pleure) (mh) (mh__) (h) (hh__) (h__) Ruben et (hh) Juan. (tousse) (tousse)
+
+Cono	Ces hommes sont déjà morts, maître.
+
+Granados	Comme par hasard.
+
+Marcos	(hh)
+
+Granados	Laissez-le ici. (mhh__) Demain nous déciderons du sort de ce traître.
+
+(BOUCLE 40 - 00:36:54:13)
+		40
+
+Thomas	Milagro a parlé à Miguel.
+
+Noemi	Et qu'a-t-il dit ?
+
+Thomas	(h__) Qu'il faut profiter de ce que nous savons sur nos maîtres (h_) pour les faire tomber l'un après l'autre.
+
+Trinidad	Et comment doit-on faire, Thomas ?
+
+Thomas	(h___) Avec un réseau d'informations. Miguel a compris tout l'intérêt... de tout connaître de la vie des maîtres. (h_) C'est important. Et nous, nous savons tout de leurs affaires, de leurs vies amoureuses, ce qu'ils font porte fermée, tout !
+
+Candela	Alors, que doit-on faire pour emmerder ces bâtards Thomas ?
+
+Thomas	Répandre la parole, Candela. Répandre la parole. Venez, venez. Il faut dire à tous ceux qui sont avec nous, que nous possédons une arme puissante entre nos mains. Et il nous faut profiter de toutes les opportunités (h___) qui se présentent. D'accord ?
+
+Ambiance	(bruit de fond brouhaha discussins esclaves________________)
+
+(BOUCLE 41 - 00:38:05:05)
+		41
+
+Isabel2	Rémé... Gabriel va être mon professeur de musique. (h) Et rien que grâce au premier cours, j'ai déjà appris beaucoup.
+
+Rémédios	(sourire) Avec un professeur comme lui, moi aussi j'apprendrais beaucoup.
+
+Isabel2	Hum hum.
+
+Rémédios	(petit rire)
+
+Adela	Ah ! (h__) Rémédios... (h_)
+
+Hilaria	Excusez-moi. (h_) Maître, on vous demande.
+
+Nicolas	Qui donc ?
+
+Bumba	Bonsoir. Nicolas, Eugenia a besoin de vous en urgence.
+
+Adela	Nicolas ?
+
+Nicolas	Pourquoi donc ?
+
+Bumba	C'est un sujet d'affaires qui ne peut attendre.
+
+Victoria	Si Bumba a pris la peine de venir jusqu'ici, ce doit être important, non ?
+
+Nicolas	Veuillez m'excuser. (mh__) Quand les affaires appellent on ne les fait pas attendre.
+
+Gabriel	(h___)
+
+Victoria	Sois tranquille, nous comprenons parfaitement bien.
+
+Gabriel	Don Nicolas, nous pouvons partir ensemble.
+
+Nicolas	Non, non. Prends ton temps, finis ton verre. (h__)
+
+Bumba	(hh____)
+
+Adela	(h___) Ça c'est un comble ! (mhh__)
+
+(BOUCLE 42 - 00:39:01:12)
+		42
+
+Adela	Vous acceptez avec tant ... de tranquillité l'attitude de Nicolas, (h_) ça ne me semble pas normal.
+
+Victoria	(h) Ça ne vous semble pas normal que je soutienne mon mari dans ses affaires ?
+
+Adela	Vou savez bien qu'il ne traite d'aucune affaire avec cette femme.
+
+Victoria	(mhh) Je ne comprends pas.
+
+Adela	Une femme, décente, (h) ne doit pas offrir son mari sur un plateau d'argent à son amante. (h) Mais il semblerait que vous ça vous plaise qu'il elle voit une autre !
+
+Victoria	Adela ce mariage et le fruit d'un commun accord, (h) il n'a rien à voir avec l'amour ! S'il a trouvé une autre femme, ça me paraît bien.
+
+Adela	Ce n'est pas que vous aussi vous allez voir ailleurs peut-être ?
+
+Victoria	Adela je ne vous permets pas de me parler ainsi ! S'il vous plaît laissez-moi me reposer. C'est le minimum que je mérite après tout ce que m'a fait subir votre fils.
+
+(BOUCLE 43 - 00:39:45:07)
+		43
+
+Adela	Si vous ne donnez pas d'héritiers à Nicolas, ce mariage pourra être déclaré comme annulé. Ce que je préfèrerais si on en arrivait là !
+
+Victoria	Je ne comprends pas. Il y a peu c'est vous qui me demandiez mon aide.
+
+Adela	Ne croyez pas que parce que vous pouvez manipuler Isabel ou même Nicolas, parfois, vous allez y arriver avec moi. Je suis certaine que vous cachez quelque chose, et je vais le découvrir.
+
+Victoria	Non Adela, (mhh_) je ne cache rien.
+
+Adela	Oui.
+
+Hilaria	Excusez-moi, monsieur Granados vous attend en bas.
+
+Adela	Je vais le recevoir.
+
+Victoria	Non. Cette maison est à moi, et c'est mon devoir de le recevoir.
+
+Adela	(mfhh__)
+
+(BOUCLE 44 - 00:40:43:05)
+		44
+
+Victoria	(h__) Bonsoir.
+
+Granados	Marquise. Donia Adela. Et Nicolas ?
+
+Victoria	N'est pas là. Un problème à régler?
+
+Granados	Non, non, rien d'important, mais... c'est un sujet dont je dois discuter avec lui. Vous savez où il est ?
+
+Victoria	Oui, il est avec Eugénia, la veuve d'Anton, (h___) ils avaient des affaires à régler.
+
+Granados	Si vous permettez. Bonne nuit.
+
+(BOUCLE 45 - 00:41:19:20)
+		45
+
+Nicolas	(h) C'était ça l'urgence ? Que je te regarde boire.
+
+Eugénia	Je voulais te voir.
+
+Nicolas	Tu ne peux pas me faire venir ici avec des mensonges juste parce que tu veux me voir. J'ai cru qu'il t'était arrivé quelque chose de grave.
+
+Eugénia	Il m'est arrivée quelque chose de grave Nicola_____s. Tu me manquais beaucoup trop.
+
+Nicolas	(mh)
+
+Eugénia	(mhh) (x)
+
+Nicolas	(x) (mh____) (x)
+
+Eugénia	(x)
+
+Nicolas	(h__) (x)
+
+Eugénia	(x) Hum...
+
+Nicolas	(h__) Tu es impossible.
+
+Eugénia	(hh) (x)
+
+Nicolas	(x)
+
+Eugénia	(h__) Non, (rire___) si tu me traites avec douceur la plupart du temps je ne suis pas impossible.
+
+Nicolas	(mhh)
+
+Eugénia	(hh)
+
+Nicolas	(mh)
+
+Eugénia	(x)
+
+Nicolas	(x) (hh)
+
+Eugénia	Avec tout ce qui se passe dans cette ville,
+
+Nicolas	(hh)
+
+Eugénia	(h__) j'ai besoin de protection, d'un homme à la maison. (hh) (h__) (x)
+
+Nicolas	(x)
+
+Eugénia	(hh)
+
+Nicolas	Celui qui doit être protégé de toi c'est plutôt moi.
+
+Eugénia	(mhh) Hum. (x)
+
+Nicolas	(x) (hh__) (x)
+
+Eugénia	(x)
+
+Nicolas	Tu vas m'achever Eugénia.
+
+Eugénia	(mhh) (x)
+
+Nicolas	(x)
+
+Eugénia	Mais tu serais très heureux dans ce monde Nicolas.
+
+Nicolas	(x)
+
+Eugénia	(rire)
+
+Nicolas	(mhh) (x)
+
+Eugénia	Hum...

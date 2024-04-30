@@ -1,0 +1,23 @@
+FRED: {'Scene 1'}
+RUTH: {'Scene 1'}
+SONG: {'Scene 3', 'Scene 1'}
+JENNY: {'Scene 3', 'Scene 1', 'Scene 2'}
+EDDIE: {'Scene 1'}
+MIRANDA: {'Scene 3', 'Scene 1', 'Scene 2'}
+WADE: {'Scene 3', 'Scene 1', 'Scene 2'}
+EMILY: {'Scene 3', 'Scene 1', 'Scene 2'}
+SALLY: {'Scene 1'}
+OPERATOR: {'Scene 1'}
+TIMMY: {'Scene 1'}
+JIMMY: {'Scene 1'}
+DISPATCHER: {'Scene 1'}
+TODD: {'Scene 1'}
+NANCY: {'Scene 1'}
+CHUCK: {'Scene 1'}
+DAVIS: {'Scene 1'}
+CARLEIGH: {'Scene 1'}
+PARKER: {'Scene 1'}
+BEN: {'Scene 1'}
+STUDENT: {'Scene 1'}
+MIGUEL: {'Scene 1'}
+MEDIC: {'Scene 2'}

@@ -1,0 +1,903 @@
+LA ESCLAVA BLANCA CAP17
+02/09/2016
+
+INSERT	LA ESCLAVA BLANCA EP 17
+
+(BOUCLE 1 - 00:00:58:05)
+		01
+
+ALONSO	Attends, je voudrais te parler
+
+GENERAL	Je ne vois pas de quoi!
+
+ALONSO	J'ai appris que tu avais emprisonné un homme sans même le juger, ça ne ressemble pas à ta conception de la justice!
+
+GENERAL	Ce n'est pas un homme quelconque!
+
+ALONSO	Appele-le comme tu veux, vagabond, ou misérable mais n'importe quelle personne de cette ville a droit à un procès et tu le sais aussi bien que moi!
+
+GENERAL	Il s'agit de Gabriel! Ton petit frère, il est revenu!
+
+ALONSO	Tu as envoyé ton propre fils en prison? Un enfant qui attend depuis dix ans de revoir son père! Je t'en prie, tu ne peux pas le traîter de cette manière!
+
+GENERAL	Permets-moi d'en douter... qu'est-ce que tu en sais toi? Réponds-moi! Pourquoi crois-tu qu'il est là bas, hein? Pourquoi crois-tu qu'il est revenu?
+
+(BOUCLE 2 - 00:01:35:00)
+		02
+
+GENERAL	Parce qu'il n'a pas accompli son devoir! Cet individu a trahi sa patrie, c'est un déserteur! Et c'est pour ça qu'il passera dix ans en prison, qu'il sera exilé ou qu'il le paiera de sa mort!
+
+ALONSO	Qu'est-ce que tu vas faire? Tu vas le livrer au juge toi-même? Tu vas offrir la vie de ton fils à la patrie comme tu l'as fait avec celle de Joaquin?
+
+GENERAL	Tu veux que je te dise? Je n'ai pas envie de parler de tout cela avec toi!
+
+ALONSO	C'est vrai que tu détestes parler! Toi, tu sais décider de la vie des hommes et un point c'est tout! Mais puisque mon frère est revenu, je peux te dire que je vais lui apporter mon soutien, et je vais lui faire sentir, qu'ici, il a une famille!
+
+(BOUCLE 3 - 00:02:12:08)
+		03
+
+JAIME	Je veux bien retrouver et tuer Miguel! Je ne le supporte pas!
+
+GRANADOS	Non! C'est moi l'offensé, c'est à moi de rendre justice!
+
+DR ARTURO LOPEZ	Oui, c'est évident, bien sûr! Mais il faut faire très attention parce que cet homme est l'esclave préféré de Nicolas! Et il ne faut pas qu'il le sache!
+
+GRANADOS	Je n'en ai rien à faire de ce que pense Parrenio, cet esclave est entré sans mon autorisation à l'hacienda ! Quatre rhum et vite!
+
+LOPEZ2	Ca va, calmez-vous messieurs! (ah__) l'important, c'est d'agir avec prudence et réflexion! Et de dresser un plan étape par étape! (aha__) On pourrait lui tendre un piège en lui disant qu'on a du travail pour lui !
+
+JAIME	Et on lui fera creuser lui même sa tombe!
+
+LOPEZ2	Mais oui! Alors?
+
+ESCLAVE F	Tenez Capitaine!
+
+LOPEZ2	Bien, puisque nous sommes d'accord sur ce point... santé!
+
+(BOUCLE 4 - 00:03:05:23)
+		04
+
+ADELA	Notre père qui es aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté ... (ah___) Oui?
+
+VICTORIA	Adela!
+
+ADELA	Lucia, S'il vous plaît, je ne veux plus qu'on se dispute!
+
+VICTORIA	Je ne viens pas pour ça! Laissons derrière nous nos problèmes et nos différences! Et pardonnez-moi! C'était arrogant et orgueilleux de ma part! Je ne pensais qu'à l'aspect matériel... et Dieu m'a bien punie! (ah__) Et comme preuve de ma bonne volonté, je voudrais vous aider avec Isabel!
+
+ADELA	Comment?
+
+(BOUCLE 5 - 00:03:39:16)
+		05
+
+VICTORIA	(ah__) J'ai passé peu de temps avec elle, mais je sens qu'on a des affinités! Peut-être du fait de notre âge!
+
+ADELA	Isabel est une enfant qui ne ressemble à personne! C'est moi qui l'ai élevée et je sais qu'elle a perdu l'esprit!
+
+VICTORIA	Ca explique pourquoi elle a du mal à vous écouter! Quand on est très proche de quelqu'un... c'est facile d'en faire l'objet de notre colère et de notre ressentiment!
+
+ADELA	(ah__) (ah__)
+
+VICTORIA	Je peux peut être lui parler! Je lui dirai qu'elle fait beaucoup souffrir sa famille! Et qu'elle doit changer pour que tout rentre dans l'ordre!
+
+(BOUCLE 6 - 00:04:23:02)
+		06
+
+VICTORIA	Isabel?
+
+ISABEL2	Laissez-moi! Et sortez de ma chambre, je ne vous aime pas et vous le savez.
+
+VICTORIA	Effectivement! (ah__) Mais je pense que je suis la seule à oser vous parler avec honnêteté dans cette maison! Contrairement à votre père ou à votre grand mère! Ils n'ont pas arrêté de vous mentir depuis votre naissance! C'est pour ça que vous êtes en colère!
+
+ISABEL2	Je sais que je ne suis plus malade!
+
+VICTORIA	Non! Vous n'en avez pas l'air en tous cas!
+
+ISABEL2	Et vous, vous ne serez jamais ma mère!
+
+VICTORIA	Je ne prétends pas l'être!
+
+ISABEL2	Vous ne m'aimez pas?
+
+VICTORIA	(ah__) Non!
+
+(BOUCLE 7 - 00:05:00:20)
+		07
+
+VICTORIA	J'aime encore moins les enfants gâtés qui font souffrir leur famille! En tant qu'épouse de votre père, c'est mon devoir de veiller sur la famille! A vous de décider si vous voulez en faire partie ou pas! Ou si vous préfèrez qu'on vous envoie en ville... Où les bonnes soeurs ne vous laisseront pas sortir! C'est ça que vous voulez?
+
+ISABEL2	Non! Non, non, non, non, bien sûr que ce n'est pas ce que je veux! Je voudrais seulement qu'ils arrêtent de me dire des mensonges! Ils me répètaient depuis des années que si je sortais de chez nous j'allais mourir, mais c'était faux,  regardez, je suis sortie, j'ai mangé, j'ai même dansé, j'ai bu, et il ne m'est rien arrivé!
+
+(BOUCLE 8 - 00:05:35:05)
+		08
+
+ISABEL2	Je veux vivre normalement même si je dois me battre pour ça!
+
+VICTORIA	Je crois que tout dépend de votre façon de vous battre! Si vous continuez à agir comme vous le faites, vous ne ferez qu'aggraver votre situation! Je suis là pour vous aider! (hahah) Si vous faites ce que je vous dis... vous verrez que ça se passera beaucoup mieux! Et d'abord, on se tutoie!
+
+ISABEL2	(ah) Oui! (aha rire ahaha)
+
+(BOUCLE 9 - 00:06:13:20)
+		09
+
+VICTORIA	Je ne veux pas de cela moi non plus!
+
+ISABEL2	Mais alors pourquoi?
+
+REMEDIOS	Que faites-vous madame?
+
+ADELA	(oh) (aha__) (aha) Rien! Lucia est en grande discussion avec Isabel et je n'entends pas ce qu'elles se disent!
+
+REMEDIOS	Voyons ça!
+
+ADELA	Vous entendez quelque chose?
+
+REMEDIOS	Non, je n'entends rien!
+
+ADELA	Je ne tiens plus, il faut que je sache!
+
+(BOUCLE 10 - 00:06:40:23)
+		10
+
+ADELA	Je n'arrive pas à y croire! Tu as perdu la tête Isabel?
+
+VICTORIA	J'ai essayé de lui faire entendre raison, mais cette jeune fille est têtue!
+
+ISABEL2	(ah ah ah ah)
+
+ADELA	Donne-la moi pour couvrir la fenêtre!
+
+ISABEL2	Non grand mère... Mais non! J'ai seize ans maintenant, et j'ai tout à fait le droit d'être libre, d'ailleurs, je ne veux plus de ses jouets de fillette!
+
+ADELA	Non, tu ne peux pas, tu as une santé très  fragile, tu le sais depuis le temps!
+
+ISABEL2	Non, et j'ai bien vu que je n'avais eu aucun souci en sortant d'ici, contrairement à ce qu'on m'avait dit! Hmm?
+
+ADELA	(ah__) Ecoute bien, nous allons consulter d'abord un médecin,
+
+ISABEL2	(ah oh)
+
+ADELA	parce que nous ne savons pas encore s'il y aura des conséquences pour ta santé sur le long terme !
+
+ISABEL2	(aha) Non!
+
+(BOUCLE 11 - 00:07:13:16)
+		11
+
+NICOLAS	Qu'est-ce qui se passe ici?
+
+ADELA	Isabel est devenue folle!
+
+ISABEL2	(ahhaha) Non, au contraire!
+
+ADELA	Elle ment!
+
+ISABEL2	Non, vous avez inventé tous ces mensonges!
+
+ADELA	Mais non, pas du tout parce que...
+
+NICOLAS	Chut, chut, ça suffit! Arrêtez! (ah__) Allons en parler au salon calmement comme des adultes!
+
+ISABEL2	Très bien!
+
+NICOLAS	Comme des adultes, j'ai dit! Toi, tu restes ici! (ha__)
+
+VICTORIA	Ca ira!
+
+(BOUCLE 12 - 00:07:45:24)
+		12
+
+ADELA	Isabel ne se comporte pas bien! Elle devient malpolie... et hautaine! Elle ne fait pas attention à elle, en un mot, elle est rebelle!
+
+NICOLAS	Mère, pour commencer,il est évident, qu'Isabel va bien et ce qu'elle a fait n'était pas mortel pour elle !
+
+ADELA	Non! Mais elle a toujours été fragile et tu le sais toi aussi...
+
+NICOLAS	Nous avons toujours cru qu'elle était fragile, ce qui est totalement différent! Déjà quand sa mère est morte à cause de cette maladie nerveuse, nous lui avons prodigué trop de soins! (ah__) Il y a peut-être eu une erreur de diagnostic! La vérité, c'est qu'elle a passé une journée entière dehors, sous le soleil, qu'elle a rencontré des gens, (ha__) et même si je me suis inquiété, je la trouve mieux qu'avant!
+
+VICTORIA	Je suis tout à fait d'accord avec vous! Isabel n'a rien, elle n'est pas malade! Et si elle l'était, elle est guérie!
+
+ADELA	Non, non, non, non, non! Non! Ce ne sont que des spéculations! Attendons de voir ce qu'en dit Arturo Lopez!
+
+NICOLAS	Je lui ai demandé de venir! (ah__) Après ce qui vient de se passer, je m'inquiète plus pour son honneur que pour sa santé!
+
+VICTORIA	Nicolas! Isabel n'a rien fait de mal!
+
+ISABEL2	Ne les écoute pas Lucia! Je t' en supplie, promets-moi de ne pas les laisser me faire de mal! (snif) (ahah pleure ahaha) (snif)
+
+(BOUCLE 13 - 00:08:59:16)
+		13
+
+REMEDIOS	Tu peux m'expliquer pourquoi tu te mêles des histoires de Nicolas et de sa fille?
+
+VICTORIA	J'ai l'intention de détruire cette famille de l'intérieur! J'ai presque réussi à séparer Adela de sa petite fille chérie! Cette vipère se croit chez elle mais c'est chez moi ici! A partir d'aujourd'hui, je veux que les choses soient claires!
+
+REMEDIOS	Victoria, si Thomas a raison quand il dit que c'est toi l'héritière de tout ça, tu trouveras un moyen de le prouver! Et cette mise en scène ne sera pas nécessaire!
+
+VICTORIA	(ah___) Je veux rendre justice! Ma famille est morte en souffrant le martyr dans l'incendie! J'ai souffert moi aussi quand on m'a séparée de ma famille!
+
+REMEDIOS	Ce n'est pas la justice que tu cherches! C'est de la vengeance et le seigneur te punira pour ça!
+
+VICTORIA	Où il était quand Parrenio faisait souffrir ma famille? (ha)
+
+REMEDIOS	Ecoute-moi s'il te plaît, pourquoi on ne s'en tient pas au plan qu'on avait élaboré en Espagne? Libère tes proches, va-t-en avec eux et laisse cette haine derrière toi une fois pour toutes!
+
+VICTORIA	(ah__) Non! J'ai un nouveau plan! Je vais récupérer ce qui est à moi, et ensuite, déshonorer cette famille! Je vais libérer tous les esclaves! Pas seulement ceux de ma famille mais tous ceux de l'hacienda!
+
+(BOUCLE 14 - 00:10:10:10)
+		14
+
+DR ARTURO LOPEZ	Très bien, retiens ta respiration! (grr) Parfait! Maintenant, serre!
+
+ISABEL2	(ah ha__) (ha___)
+
+DR ARTURO LOPEZ	Relâche!
+
+ISABEL2	(pleure)
+
+DR ARTURO LOPEZ	Et maintenant, respire profondément!
+
+ISABEL2	(snif)
+
+DR ARTURO LOPEZ	Parfait! (aha) C'est fini!
+
+NICOLAS	Comment elle va Arturo?
+
+DR ARTURO LOPEZ	(ha__) Comment elle va? Je dirais qu'elle va bien! *Les battements de son coeur sont réguliers, elle a de belles couleurs, (ptt) elle respire normalement, elle a bronzé un peu mais ça n'a rien d'inquiétant!
+
+(BOUCLE 15 - 00:10:51:17)
+		15
+
+DR ARTURO LOPEZ	(ah__) Et quant à la réaction de sa peau du fait de son exposition au soleil: tout va bien, elle est normale! Ce qui veut dire... qu'il n'y aucune raison de s'inquiéter!
+
+NICOLAS	Et... elle est toujours... enfin, tu as compris?
+
+DR ARTURO LOPEZ	Nicolas! Mais oui, mon ami, ça va! Arrête de t'inquiéter, sa virginité est encore intacte! Il ne faut pas t'inquiéter autant que le jour de sa naissance!
+
+ISABEL2	(snif)
+
+(BOUCLE 16 - 00:11:45:11)
+		16
+
+GENERAL	Va-t-en! C'est très grave ce que tu as fait!
+
+GABRIEL	Je n'ai rien fait à cette jeune fille!
+
+GENERAL	Je veux parler de ta trahison envers la patrie, imbécile!
+
+GABRIEL	Je n'avais pas le choix! (hm?)
+
+GENERAL	J'espère  que tu n'as pas fui au combat au moins!
+
+GABRIEL	J'ai fui pour ne pas avoir à tuer! Je ne suis pas fait pour la guerre, Papa! Depuis que je suis petit, tu m'as imposé un destin qui n'est pas pour moi! Je ne suis pas Joaquin!
+
+GENERAL	Joaquin était un homme courageux! Un homme, un vrai, contrairement à toi! J'ai honte d'avoir un fils lâche comme tu l'es!
+
+(BOUCLE 17 - 00:12:22:06)
+		17
+
+GABRIEL	Tu aurais préféré que ton fils soit un assassin? Mais je ne le serai jamais! Je ne veux pas mourir, ni tuer des gens au nom d'une Patrie en laquelle tu crois, mais pas moi!
+
+GENERAL	Ce que tu as fait aura de graves conséquences! Tu dois le savoir!
+
+GABRIEL	Je vais te dire papa! (ah__) Tu as toujours essayé de diriger ma vie, je ne te demande pas de me comprendre, fais ce que tu as à faire! Moi, j'ai fait ce que je voulais! (ha____)
+
+(BOUCLE 18 - 00:13:08:04)
+		18
+
+ADELA	Isabel peut manger cela?
+
+NICOLAS	C'est bon Mère, ça suffit! Comment tu vas ma fille?
+
+ISABEL2	Comment veux-tu que j'aille papa? Il y a peu de temps, j'étais morte de honte avec le docteur Lopez et aujourd'hui, tu me laisses enfin dîner avec des gens normaux! Je ne sais jamais à quoi m'attendre avec toi!
+
+ADELA	On ne parle pas de cette manière à ses parents!
+
+NICOLAS	Mère, s'il te plaît!
+
+ADELA	Quoi?
+
+NICOLAS	C'est normal qu'elle soit en colère! Ma chérie, j'ai fait ce que n'importe quel père qui aime sa fille aurait fait à ma place!
+
+(BOUCLE 19 - 00:13:43:01)
+		19
+
+VICTORIA	Mais à partir de maintenant, vous pourrez lui faire confiance! N'est-ce pas?
+
+NICOLAS	Bien sûr que oui! J'y tiens beaucoup!
+
+ISABEL2	(hm) Je l'espère aussi! (ah__) Grand mère, tu ne veux plus manger?
+
+ADELA	Je n'ai plus faim!
+
+ISABEL2	(hm) Tu permets?
+
+NICOLAS	Quand nous aurons terminé, je veux que tu m'accompagnes! J'ai une annonce importante à faire! Ca peut paraître surprenant mais ta fuite m'a permis de découvrir beaucoup de choses!
+
+(BOUCLE 20 - 00:14:16:18)
+		20
+
+NICOLAS	Je sais que vous avez déjà tous... entendu parler d'elle! Mais peu d'entre vous l'avait vue! Je voudrais vous présenter ma fille, Isabel! A partir d'aujourd'hui, vous la verrez se promener... sous surveillance et accompagnée bien entendu... sur mes terres! Qui sont aussi les siennes! Parce qu'elle est mon héritière officielle. Cette maison, toutes les cultures, et vous tous, tout cela lui appartient
+
+REMEDIOS	Du calme trésor!
+
+ISABEL2	Merci beaucoup marquise!
+
+VICTORIA	Appelle-moi Lucia, ma chérie!
+
+NICOLAS	Et ce soir, (ah__) j'aimerais aussi adresser toute ma reconnaissance à Miguel!
+
+(BOUCLE 21 - 00:15:00:17)
+		21
+
+NICOLAS	Grâce à lui, cette maison connaît à nouveau la joie! (ah__) Je lui sais gré de son efficacité, et en remerciement de cette existence, de sacrifice, de préparation et d'efforts! J'ai décidé qu'à partir d'aujourd'hui, il sera le nouvel intendant de l'hacienda!
+
+ADELA	Tu es en train de commettre une grosse erreur.
+
+NICOLAS	Miguel sera en charge de l'aspect productif de l'Eden! Quant à Morales, il sera son bras droit! Maintenant, donne-lui les clefs!
+
+(BOUCLE 22 - 00:16:21:01)
+		22
+
+NICOLAS	Et à présent, réjouissons-nous! Vous pouvez faire la fête!
+
+(BOUCLE 23 - 00:16:34:18)
+		23
+
+NICOLAS	Je crois que nous avons bien mérité un verre!
+
+VICTORIA	(ah_) Remedios,vous êtes très fatiguée, la journée a été longue! Allez vous coucher!
+
+REMEDIOS	Si vous pemettez! Bonne nuit!
+
+VICTORIA	Bonne nuit!
+
+NICOLAS	(ah__) Je suis très heureux que vous ayez changé de comportement, Lucia! (h___) A présent... Il me semble que vous vous êtes adaptée à notre vie, (ah_) vous êtes plus... proche qu'avant! Et j'aime de plus en plus celle que vous êtes!
+
+VICTORIA	(ah_) Parlez-moi un peu de vous! Comment avez-vous eu l'hacienda? Vous en avez hérité?
+
+NICOLAS	(ha__) Non! Elle ne vous a rien dit votre mère? Elle m'a pourtant posé beaucoup de questions sur ma fortune!
+
+(BOUCLE 24 - 00:17:39:06)
+		24
+
+GABRIEL	(ah) Non! Ne me faites pas de mal!
+
+ALONSO	Non! Gabriel, Gabriel, ça va, calme-toi, c'est moi!
+
+GABRIEL	Pitié!
+
+ALONSO	(ah ha ah ha) C'est moi Gabriel! (ah) Ton frère! (hahaha)
+
+GABRIEL	(ha ah aha ) (aha aha aha) Alonso! (ah ha___) (ha) (aha aha aha aha___) (aha)
+
+ALONSO	Je te connais, je sais que tu es incapable de faire du mal à quelqu'un! (ah) Et je ne laisserai personne te faire du mal, tu restes avec nous cette fois!
+
+GABRIEL	(arg) (aha aha aha) (aha) (ah___ ha___) J'ai abandonné mon poste, Alonso! (aha__ aha___) (aha___)
+
+(BOUCLE 25 - 00:18:25:13)
+		25
+
+GABRIEL	(aha__) Tu sais ce que ça signifie pour papa qu'un Marquez abandonne la Milice?
+
+ALONSO	(aha__ aha__ aha__)
+
+GABRIEL	(aha__)
+
+ALONSO	(aha__)
+
+GABRIEL	Il ne voudra jamais que je reste!
+
+ALONSO	(aha__)
+
+GABRIEL	(ha__) (ah__)
+
+ALONSO	(aha___)
+
+GABRIEL	Le Général me déteste!
+
+ALONSO	(ha___) (aha___) Quand il t'a envoyé à l'internat, j'étais très jeune, je n'ai rien pu faire pour l'empêcher de nous séparer! Mais aujourd'hui, je le peux! Alors tu viens avec moi et ne t'en fais pas pour le Général, je suis habitué à ses colères! Et je t'offrirai un travail décent dans une de mes sociétés!
+
+GABRIEL	J'ai déjà un travail décent, (ah ah____) c'est pour que je me suis enfui! ( ah_ rire) (ah__)
+
+ALONSO	Viens, on s'en va! Allez, ramasse tes affaires!
+
+GABRIEL	(arg) (arg) (ah) (oh)
+
+(BOUCLE 26 - 00:19:14:21)
+		26
+
+NICOLAS	L'Eden est encore debout grâce au fruit de mon travail! (ptt) Elle appartenait à une famille espagnole! Mais malheureusement, ils sont tous mort suite dans une tragédie!
+
+VICTORIA	Une tragédie?
+
+NICOLAS	Un incendie! C'est arrivé il y a bien longtemps! On a jamais vraiment su si cétait un accident, ou... (ah___) s'il avait été provoqué par les esclaves, pour massacrer leurs maîtres! Et pour s'enfuir!
+
+(BOUCLE 27 - 00:19:50:12)
+		27
+
+NICOLAS	Je faisais partie du groupe de sauveteurs! On a rien pu faire pour leur sauver la vie!
+
+VICTORIA	Vous êtes venu les sauver?
+
+NICOLAS	Oui, bien sûr! Domingo Quintero était un ami... un grand ami! J'étais très affecté par sa mort! (ah__) Et par celle de sa famille aussi! (ah) Après l'incendie, l'Eden était en sale état! Sans propriétaires, et sans une personne pour l'entretenir,c'était la fin de l'exploitation! Elle était au bord du gouffre!
+
+VICTORIA	C'était une chance pour vous! Non?
+
+(BOUCLE 28 - 00:20:26:08)
+		28
+
+NICOLAS	Surtout une responsabilité envers la région, je l'ai fait en mémoire de ceux qui y avaient perdu la vie! Cette hacienda faisait la fierté de Don Domingo! (ah__) Je me suis engagé à la préserver en son honneur! Si je ne l'avais pas fait, (ah__) tous les esclaves que vous avez vus, auraient été vendus à différents propriétaires! Vous imaginez! (ah_) Leurs familles désunies! (ah_) Ca les aurait détruits! (ah__) Je n'en ai pas eu le courage!
+
+(BOUCLE 29 - 00:21:04:14)
+		29
+
+VICTORIA	(ah__ ah__) Excusez-moi! Mais toutes ces émotions m'ont beaucoup fatiguée, je crois que je ferais mieux d'aller dormir! (ha__)
+
+NICOLAS	Bien sûr! (ah___) Vous pouvez aller vous reposer! (x)
+
+VICTORIA	(ha__) (x)
+
+NICOLAS	Si vous saviez comme j'ai hâte de me marier avec vous!
+
+VICTORIA	Moi aussi Nicolas! (ha__) Moi aussi! (aha) Bonne nuit!
+
+(BOUCLE 30 - 00:21:55:08)
+		30
+
+VICTORIA	Il faut qu'on se marie et vite! J'irai voir Miguel, j'essayerai de lui expliquer pourquoi je le fais!
+
+REMEDIOS	Comment veux-tu qu'il comprenne pourquoi tu épouses un autre homme? Avec tout ce que ça implique!
+
+VICTORIA	Jamais mon mari ne me touchera!
+
+REMEDIOS	Victoria, un homme comme Nicolas n'acceptera jamais de se marier sans consommer!
+
+VICTORIA	Je ferai le stricte minimum pour qu'il reste le temps de me débarrasser de lui et de récuperer l'Eden!
+
+REMEDIOS	Tu n'écoutes pas ce que je te dis! Tu n'arriveras à rien de cette manière!
+
+VICTORIA	Tu ne devrais pas me juger! Qu'est-ce que tu sais de tout ça? Toi qui as vécu toute ta vie dans un couvent! Tu ne sais pas ce que ça fait de perdre sa famille!
+
+REMEDIOS	Je ne suis pas née dans un chou! J'ai une famille moi aussi, et des histoires à raconter! Tu crois que tu es la seule à avoir souffert?
+
+(BOUCLE 31 - 00:22:33:12)
+		31
+
+REMEDIOS	Toi au moins, tu pourras récupérer ce que tu as perdu!
+
+VICTORIA	Tu ferais mieux de t'en aller!
+
+REMEDIOS	Quoi?
+
+VICTORIA	Oui! Je veux que tu t'en ailles! Retourne en Espagne et fais ta vie loin de moi! Tu ne vas pas aimer ce que je vais faire! Je crois que tu auras du mal à le supporter!
+
+REMEDIOS	Je ne te comprends pas! Je crois que l'antidote qui t'a sauvé la vie t'a surtout empoisonné le coeur!
+
+(BOUCLE 32 - 00:23:10:12)
+		32
+
+ISABEL2	Et il y a aussi celles-là! Hilaria... je voudrais que tu les offres dès demain matin à tous les enfants que tu connais! (Hm?)
+
+HILARIA	(euh)
+
+ISABEL2	Prends-les!
+
+NICOLAS	Fais ce qu'elle te dit Hilaria! Elle est chez elle ici! Elle est ta maîtresse! (aha___)
+
+ISABEL2	(gr rgr___) Parfait, maintenant, il ne te reste plus qu'à faire sortir mon ami Gabriel de prison et... (ah__) je serai vraiment heureuse!
+
+NICOLAS	(ha__) Je ne peux rien faire en ce qui concerne..
+
+ISABEL2	(ah_) Bonne nuit papa!
+
+NICOLAS	(ha__)
+
+(BOUCLE 33 - 00:23:58:19)
+		33
+
+ADELA	(aha___) (ah___) (ha___)
+
+ISABEL2	"J'ai seize ans maintenant et j'ai tout à fait le droit d'être libre, d'ailleurs, je ne veux plus de ces jouets de fillette!"
+
+ADELA	Non, tu ne peux pas, tu as une santé très fragile, tu le sais depuis le temps!
+
+ISABEL2	Non et j'ai bien vu que je n'avais eu aucun souci en sortant d'ici contrairement à ce qu'on m'avait dit! (hmm?)
+
+ADELA	Viens, allons-nous....
+
+ISABEL2	Ne me touche pas! Grand mère! Tu m'as menti! Toi et mon père, vous m'avez menti trop longtemps mais je ne suis pas malade!
+
+(BOUCLE 34 - 00:24:32:08)
+		34
+
+REMEDIOS	(ahahaha)
+
+VICTORIA	Tu n'as pas le droit de me juger! Qu'est-ce que tu sais de tout ça? Toi qui as vécu toute ta vie dans un couvent!
+
+REMEDIOS	Tu crois que tu es la seule à avoir souffert? Toi au moins, tu pourras récupérer ce que tu as perdu!
+
+(BOUCLE 35 - 00:24:51:14)
+		35
+
+NICOLAS	J'aimerais aussi adresser toute ma reconnaissance à Miguel! J'ai décidé qu'à partir d'aujourd'hui... il sera le nouvel intendant de l'hacienda!
+
+VICTORIA	Tu ferais mieux de t'en aller!
+
+REMEDIOS	(h h  pleure)
+
+VICTORIA	Tu n'aimeras pas ce que je vais faire!
+
+(BOUCLE 36 - 00:25:19:08)
+		36
+
+AMB ESCLAVES	Ambiance fête jusqu'à la fin de la scène
+
+CANDELA	Merci Miguel, tu as mis notre maître de bonne humeur! On en avait bien besoin après toutes les larmes qu'on a versées ces derniers temps! (rire) Je dédie ce premier verre aux âmes endormies! A Rosita!
+
+AMB ESCLAVES	A Rosita!
+
+CANDELA	Et à Miguel!
+
+AMB ESCLAVES	Santé Miguel!
+
+MIGUEL	Ouais!
+
+AMB ESCLAVES	A ta santé!
+
+CANDELA	(rire)
+
+MILAGRO	Je voudrais te parler,Miguel
+
+MIGUEL	Qu'est-ce qui se passe?
+
+(BOUCLE 37 - 00:25:48:02)
+		37
+
+TRINIDAD	Tous ceux qui sont là savent bien que tu es le préféré du maître! Maintenant, tu vas devenir son nouvel intendant! (ah!) Toi! (ah) Tu as beaucoup de chance! Et on va l'utiliser pour tous les esclaves!
+
+MIGUEL	Tu crois que notre cause intéresse l'Eden? On ferait mieux de voir si les grands maîtres veulent nous aider sans nous porter préjudice! Pour le moment, on a aucun intérêt à trahir sa confiance Trinidad!
+
+(BOUCLE 38 - 00:26:26:20)
+		38
+
+TRINIDAD	Alors, c'est comme ça... depuis quand on fait dans l'émotion? (hm?) Et ta passion pour la liberté! Et ton engagement ? C'est terminé, tout est fini? (hm?) Et moi qui croyais qu'on pouvait faire confiance à ses amis esclaves! Tu me déçois beaucoup!
+
+AMB ESCLAVES	(ambiance chant et danse continue)
+
+(BOUCLE 39 - 00:27:19:08)
+		39
+
+JULIAN	Alors Morales... Moi qui pensais que vous alliez mourir de vieillesse et que vous resteriez le contremaître de cette hacienda! Je vois que j'avais tort! C'est un esclave qui va nous diriger maintenant vous et moi!
+
+MORALES	Jamais un esclave ne me donnera d'ordres! (ah_) Ne dis pas n'importe quoi Julian!
+
+JULIAN	Ah non? Mais c'est pourtant ce qui se passe! Vous lui avez donné les clefs du domaine, Morales! Vous avez entendu ce qu'a dit le patron? Ou je dois le répeter?
+
+(BOUCLE 40 - 00:27:57:11)
+		40
+
+MIGUEL	Ca me gêne que Morales nous prenne pour des lâches!
+
+TOMAS	Laisse-le penser ce qu'il veut! Tu ne vas quand même pas compliquer les choses pour lui faire plaisir!
+
+MILAGRO	On ne peut pas lui dire non plus qu'on va partir avec Victoria!
+
+TOMAS	Je vais être sincère avec toi! (ah__) Je veux la paix et rien d'autre... (ah__) je voudrais partir avec mes enfants, je veux partir très loin d'ici! Et tant pis pour ce que je pense de toi!
+
+MIGUEL	Tu ne crois pas qu'on devrait arrêter de se battre? Je n'ai rien contre toi, bien au contraire! Je t'aime et je te respecte comme un père, Tomas!
+
+TOMAS	Ce n'est pas vrai Miguel! Un fils n'aurait pas fait ça, il n'aurait pas déshonoré Rosita!
+
+MIGUEL	Je te le dis une bonne fois pour toutes: Rosita se faisait des illusions, elle s'est entichée de moi! Je n'ai rien fait de mal, rien dont je devrai me repentir ! Tu me connais...
+
+TOMAS	Non, non, je ne te connais pas!
+
+MILAGRO	Ca va, arrêtez!
+
+(BOUCLE 41 - 00:28:49:05)
+		41
+
+MILAGRO	La seule chose qui compte, c'est qu'on va partir avec Victoria dès que ce sera possible! On doit respecter le plan sans rien changer!
+
+MIGUEL	Ca fait un moment que j'y pense et je voudrais que vous le sachiez: je ne pourrai jamais m'en aller et laisser les autres esclaves sous la coupe d'un tyran comme Morales! Encore moins maintenant que j'ai un rôle qui pourrait nous aider!
+
+MILAGRO	Moi non plus je n'ai pas envie de laisser les autres! Mais on doit penser à nous, on est comme une famille! Et on ne doit pas prendre de risques, ou essayer de jouer les héros! Tu veux qu'ils nous tuent?
+
+MIGUEL	Non! Je veux aider Victoria parce qu'elle veut nous emmener dans un pays libre! Je l'aiderai jusqu'à ce qu'elle y arrive!
+
+TOMAS	Et qu'est-ce que tu feras ensuite?
+
+MIGUEL	Je vous rejoindrai quand j'aurai trouvé un moyen de libérer tout le monde! Quand je pourrai les emmener dans un pays ou ils seront totalement libres!
+
+(BOUCLE 42 - 00:29:53:00)
+		42
+
+JULIAN	(ahah rire ahah)
+
+MORALES	(ah snif) (snif) (snif)
+
+MIGUEL	Retournez d'où vous venez Morales!
+
+MORALES	(ha) (ah snif) Et si je ne veux pas, qu'est-ce que tu feras?
+
+MIGUEL	Je ne veux pas créer de problèmes ni de préoccupations à Don Nicolas!
+
+MORALES	(expire nez) Mon pauvre idiot ! J'ai l'impression que tu ne sais rien de rien!
+
+MIGUEL	Allez dormir l'ami!
+
+MORALES	(ahah rire haha) Non! (ahaha rire) Eh non, il ne le sait pas! (hahaha)
+
+MIGUEL	Je devrais savoir quoi? Soit vous parlez, soit vous partez, je suis fatigué!
+
+MORALES	(haha)
+
+(BOUCLE 43 - 00:30:48:05)
+		43
+
+MORALES	Tu ne t'es pas demandé pour quelle raison Don Nicolas te traîte différemment des autres? Sûrement pas parce que tu es le plus intelligent ou le plus courageux de nous tous! Non! Parce qu'aucun des gens de ta race n'a de valeur! C'est parce que tu es son bâtard et c'est tout! Le fils illégitime que Don Nicolas Parrenio a eu avec une esclave noire qu'il a violée jusqu'à ce qu'il n'en veuille plus! (ha___)
+
+MIGUEL	Qu'est-ce que vous dites,Morales?
+
+MORALES	C'est pour ça qu'il te traîte comme ça! Et qu'il accepte que tu fasses des choses que ne devrait pas faire un simple esclave comme toi! C'est pas parce que tu vaux mieux que moi! Ne te fais pas d'illusions, pauvre imbécile! (pfff) (ah) (snif) (snif) (ah__)
+
+(BOUCLE 44 - 00:32:00:17)
+		44
+
+DR ARTURO LOPEZ	Non ,une arme de ce genre peut tuer tout ce que tu veux!
+
+JAIME	Et celui-ci il serait parfait! Pourquoi pas ce pistolet?
+
+DR ARTURO LOPEZ	Non, non,non!
+
+GRANADOS	(ah)
+
+DR ARTURO LOPEZ	Il te faudrait quelque chose comme... ça y est j'ai trouvé: ce magnifique petit dragon!
+
+GRANADOS	(gr gr)
+
+DR ARTURO LOPEZ	(grgrgrgr) Et alors, Francisco, comment avance notre plan?
+
+GRANADOS	Caicedo a envoyé quelqu'un chercher Miguel! Pour qu'il vienne à son hacienda!
+
+JAIME	Et pourquoi pas chez nous, on a le meilleur endroit pour le...
+
+GRANADOS	Parce que l'hacienda de Caicedo, est celle qui est la plus éloignée de tout! Et on doit absolument intercepter Miguel sur un chemin où personne ne le verra!
+
+JAIME	On l'attaquera sur deux fronts! Ce sera parfait!
+
+GRANADOS	Arturo? C'est toi qui va intercepter Miguel! Il faut un adulte, est-ce que c'est clair?
+
+JAIME	Papa, tu m'avais promis que j'irai!
+
+DR ARTURO LOPEZ	Tais-toi maintenant! Ne t'en fais pas Francisco, ce sera fait!
+
+GRANADOS	Excusez-moi!
+
+(BOUCLE 45 - 00:32:57:22)
+		45
+
+JAIME	Papa! Laisse-moi le tuer! Tu as dit toi même que je tirais mieux qu'avant! Tu as vu l'autre jour quand j'ai abattu la chèvre de loin? Fais-moi confiance, laisse-moi tuer l'esclave!
+
+DR ARTURO LOPEZ	Ca suffit, inutile d'insister! Je ne le déciderai pas tout seul!
+
+JAIME	Mais si tu ne me fais pas confiance,ils ne me verront jamais comme un homme! Je t'apporterai le coeur de cet animal!
+
+(BOUCLE 46 - 00:33:29:24)
+		46
+
+REMEDIOS	Je ne m'en irai pas Victoria!
+
+VICTORIA	Comment Remédios?
+
+REMEDIOS	Je dis que je ne pars pas! Je reste ici, parce qu'il faut bien que quelqu'un te parle des erreurs que tu commets! Et ce n'est pas pour jouer les oiseaux de mauvais augure, mais quand une amie abandonne une amie parce que son amie lui dit que c'est pour son bien, alors que c'est pour son mal, enfin bref, je me comprends, comme tu le dis souvent!
+
+VICTORIA	(ah) Tu as terminé?
+
+REMEDIOS	Je crois que oui!
+
+VICTORIA	Pardonne-moi de t'avoir parlé comme ça!
+
+REMEDIOS	(hhh)
+
+VICTORIA	(ah) Tu es la meilleure amie du monde!
+
+REMEDIOS	(hh aha rire)
+
+VICTORIA	Je suis heureuse que tu restes! Parce que j'ai besoin de toi à mes côtés! (ah) Tu veux savoir de quoi j'ai parlé avec Nicolas?
+
+REMEDIOS	Oh oui, oui, raconte!
+
+VICTORIA	(ah__) Il m'a donné une autre version de ce qui s'est passé pendant l'incendie!
+
+REMEDIOS	Tu en es sûre?
+
+VICTORIA	Qu'est-ce que tu insinues? Que mon père a dit des mensonges?
+
+REMEDIOS	(oh) (ah) Victoria, ne commence pas, je ne veux pas qu'on se dispute! J'essaye de te dire qu'avant de te lancer dans cette vengeance, tu devrais déjà être complètement sûre de ce qui s'est passé à l'époque! J'ai trouvé une bonne excuse pour tu que ailles parler à Miguel!
+
+VICTORIA	(hhh)
+
+REMEDIOS	(ahah)
+
+(BOUCLE 47 - 00:34:41:13)
+		47
+
+SIERVO	Miguel... Le maître m'envoie te dire que tu dois aller au dressage et revenir très vite! Tu as d'autres responsabilités dans cette hacienda! Tu dois laisser de côté tes affaires!
+
+MIGUEL	Je vais d'abord en discuter avec Don Nicolas!
+
+SIERVO	Non, n'y va pas! Ah non! Il faut que tu ailles très vite à la Hacienda des Caicedo! Vas-y!
+
+(BOUCLE 48 - 00:35:07:10)
+		48
+
+VICTORIA	Et Miguel?
+
+HILARIA	Il est allé faire un travail dans une hacienda qui est très loin maîtresse!
+
+VICTORIA	Il n'était pas sensé nous emmener et nous attendre?
+
+HILARIA	C'est un nouveau cocher qui fera ce travail! A partir d'aujourd'hui, Miguel a d'autres travaux à faire, du fait de ses nouvelles fonctions! Le maître demande que vous l'attendiez ici s'il vous plaît!
+
+VICTORIA	Bon, très bien! (ha__) Je ne vois pas quand je pourrai parler à Miguel!
+
+(BOUCLE 49 - 00:35:43:06)
+		49
+
+MORALES	(ah) Qu'est-ce que... Purée! (aha aha) Don Nicolas! (aha) Je suis resté là! (h h h )
+
+NICOLAS	Morales!
+
+MORALES	(euh)
+
+NICOLAS	(ptt ah__) Je voudrais que tu retournes assumer tes fonctions! En attendant que Miguel rentre du travail!
+
+MORALES	(ah hhh)
+
+NICOLAS	Ne me déçois pas... ou je devrais me passer de toi une fois pour toutes!
+
+(BOUCLE 50 - 00:36:15:03)
+		50
+
+NICOLAS	Bonjour!
+
+VICTORIA	Bonjour!
+
+REMEDIOS	Bonjour Nicolas!
+
+NICOLAS	(ah__) Quel chance, vous êtes encore plus belle ce matin!
+
+VICTORIA	(hh) Merci! Et notre cocher habituel?
+
+NICOLAS	(ah__) Miguel a beaucoup plus de responsabilités qu'avant à l'hacienda! Il ne conduira plus le carrosse! Il y a quelques changements! Des changements positifs! Vous êtes d'accord?
+
+VICTORIA	Oui, bien sûr!
+
+NICOLAS	Allons-y!
+
+(BOUCLE 51 - 00:37:05:23)
+		51
+
+MIGUEL	(aha__ aha__) (aha__) (aha__ aha__)
+
+JAIME	Cours l'esclave! Je veux t'abattre pendant que tu cours!
+
+MIGUEL	(aha aha course aha aha aha)
+
+JAIME	Allez... Cours, je ne veux pas que tu sois facile à tuer ! (aha course ) Je vais t'attrapper! (ahah) Je vais te tuer et je tuerai tous les esclaves! (aha course ) Je vais t'attrapper!
+
+MIGUEL	(ahah course arg ahaha)
+
+(BOUCLE 52 - 00:37:41:15)
+		52
+
+NICOLAS	(ffff) (ah__) Vous ne trouvez pas que la Marquise est un peu lente?
+
+REMEDIOS	(ah___) C'est que...il faut du temps pour se confesser monsieur!
+
+NICOLAS	Vous parlez comme si elle avait beaucoup de péchés à confesser!
+
+REMEDIOS	Non, non! (haha) Elle ne vient pas seulement pour confesser ses péchés mais aussi pour écouter les conseils du prêtre,et finalement, c'est ce qui nous empêche de répéter nos erreurs!
+
+NICOLAS	Oui, je suis tout à fait d'accord! Le prêtre est assez bavard, si on ne l'arrête pas, il est capable de nous répéter la même chose cent fois! (ah)
+
+REMEDIOS	Et vous savez,maintenant que la Marquise voit enfin le bout du tunnel , je pense... qu'elle a beaucoup de choses à lui dire! Enfin, je crois!
+
+NICOLAS	(hh)
+
+(BOUCLE 53 - 00:38:38:15)
+		53
+
+JAIME	Tu commences à fatiguer? Je vais te descendre à petits feux parce que tu me fais courir!
+
+MIGUEL	(aha__ aha__) (ha) (ha) (aha) (aha aha) (aha) (aha) (aha) (aha euh)
+
+JAIME	T'as réussi à t'en sortir cette fois!
+
+MIGUEL	(ahaha course ahaha) (aha aha aha aha aha) (ahahahaha)
+
+(BOUCLE 54 - 00:39:13:09)
+		54
+
+VICTORIA	J'ai une question à vous poser! L'Eden a toujours appartenu aux Parrenio?
+
+PERE OCTAVIO	Mais pourquoi cette question?
+
+VICTORIA	J'ai entendu des gens parler d'autres propriétaires avant les Parrenio!
+
+PERE OCTAVIO	Oui! C'était les Quintero!
+
+VICTORIA	Qu'est-ce qui leur est arrivé? Pourquoi maintenant l'Eden appartient à Nicolas ? Mon Père? Qui étaient les Quintero?
+
+PERE OCTAVIO	Eh bien c'était... une famille espagnole comme tant d'autres ma fille... une famille noble dotée d'une grande fortune!
+
+VICTORIA	Qu'est-ce qui leur est arrivé?
+
+PERE OCTAVIO	(ah__)
+
+VICTORIA	C'est ma future demeure et je veux savoir ce qui est arrivé aux anciens propriétaires! J'ai entendu des histoires terribles à ce sujet!
+
+PERE OCTAVIO	(ah__) Ecoutez, je ne sais pas ce qu'on vous a raconté... ni ce que vous avez cru... les esclaves... racontent beaucoup de mensonges parfois!
+
+(BOUCLE 55 - 00:40:08:17)
+		55
+
+VICTORIA	Que voulez-vous dire?
+
+PERE OCTAVIO	Il semblerait qu'il y ait eu un incendie et que cet incendie ait peut-être été déclaré par eux mais on n'a jamais vraiment eu de preuves! Mais nous savons tous les deux, que ces pauvres gens, et je n'essaye pas de justifier leurs actes, ont bien souvent plus que de bonnes raisons, de se rebeller à cause des mauvais traitements qu'ils subissent depuis si longtemps!
+
+VICTORIA	Vous voulez dire que... les Quintero maltraitaient leurs esclaves?
+
+PERE OCTAVIO	Eh bien... je n'ai jamais vu de propriétaire d'hacienda ne pas abuser de son autorité envers eux!
+
+VICTORIA	(ah__)
+
+PERE OCTAVIO	J'imagine que l'un d'entre eux l'a fait et qu'un esclave a voulu se venger! Ou peut-être que non! C'est difficile de savoir ce qui s'est passé! Et de toute manière, il ne faut pas que vous vous inquiètiez pour tout ça parce que votre futur époux... n'a absolument rien à voir là-dedans, ma fille!
+
+(BOUCLE 56 - 00:40:57:17)
+		56
+
+JAIME	Où tu es l'esclave? Hein? Sors de ta cachette qu'on en finisse! Je vais te tuer! (aha aha aha aha aha) (aha aha ah__) (oh) (oh euh)
+
+MIGUEL	(arg aha ah aha) (ah) (ah ah arg) (oh)
+
+JAIME	(arg)
+
+MIGUEL	(ah) (ah)
+
+JAIME	C'est fini! A genoux sale esclave!
+
+MIGUEL	Je ne m'agenouillerai jamais devant qui que ce soit! Alors si vous voulez me tuer: faites-le en me regardant dans les yeux comme les gens courageux! Hein?
+
+JAIME	Mais d'abord, je vais te dire comment j'ai tué Rosita! On m'a dit que c'était ta fiancée!
+
+MIGUEL	Elle était de ma famille!
+
+JAIME	Encore mieux! Parce que tu tomberas à genoux quand tu sauras comment je l'ai tuée!
+
+(BOUCLE 57 - 00:41:48:12)
+		57
+
+JAIME	Au début, elle courait en me suppliant de ne pas la tuer pauvre idiote! Et après, je l'ai abattue et c'était tellement facile! Je l'ai acrochée à un arbre, au début, elle se balançait et après elle est devenue raide comme un bâton!
+
+MIGUEL	Taisez-vous pauvre fou! (arg) (ah__)
+
+JAIME	(arg)
+
+MIGUEL	Monstre!
+
+JAIME	(ah ahahahahaha)
+
+MIGUEL	Vous devriez avoir honte! Elle était de ma famille!
+
+JAIME	(arg)
+
+MIGUEL	C'est ça que vous voulez, hein?
+
+JAIME	(ah) (ah___) (ah__ ah___ ah__) (ah)
+
+MIGUEL	(aha aha ah aha) (hahaha)
+
+INSERT	LA ESCLAVA BLANCA EP 17 FIN

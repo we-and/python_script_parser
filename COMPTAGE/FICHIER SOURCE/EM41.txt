@@ -1,0 +1,1145 @@
+EM FAMILIA VO TCI EP 41-H264
+30/03/2016
+
+(BOUCLE 0 - 10:00:00:00)
+		00
+
+Louiza	Je suis une grande fille, Shirley.
+
+Shirley	Je sais que tu es une grande fille. Mais certaines grandes personnes sont plus compliquées qu'on ne le croit et bien plus tordues également. Et certaines histoires semblent te concerner alors qu'en réalité ce sont les histoires des autres. Fais attention de ne pas te laisser avoir. Ou tu souffriras.
+
+Selma	...quand j'vois à quel point elles se ressemblent- physiquement et moralement, je suis prête à parier qu'elle ont aussi le même coeur, et pire : la même âme. (h___/) (h_\) Et je dois t'avouer que je suis extrêmement triste. Ça me tue de savoir que cette malédiction va continuer, et je n'ai pas l'intention  de rester plus longtemps ici pour- pour voir une nouvelle Héléna envahir cette maison.
+
+Silvia	Malheureusement, les résultats n'sont pas bons. Vous ne semblez pas réagir aux médicaments, et votre état s'est dégradé depuis votre première hospitalisation. Pour cette raison, nous devons envisager la transplantation.
+
+(BOUCLE 1 - 10:02:12:07)
+		01
+
+Ambiance	(bruits de fond hôpital toute la boucle)
+
+Clara	(mh_____) (h____) (fhh___) (h___)
+
+Cadou	J'ai senti ta présence.
+
+Clara	(mh____) Je t'aime tant.
+
+Cadou	Et quelles sont... les nouvelles ?
+
+Clara	(h____) Je vais parler avec les médecins et ensuite tu pourras leur demander ce que tu veux, d'accord ? Ils t'expliqueront tout.
+
+Cadou	D'accord.
+
+Clara	Je reviens. (x) (x) (x)
+
+(BOUCLE 2 - 10:03:48:10)
+		02
+
+Marina	(mh____) Une minute.
+
+Vanessa	Déjà fatiguée ?
+
+Marina	Non, mais je vais bientôt m'arrêter.
+
+Vanessa	(h____) Voilà ce que nous allons faire, dix minutes de pause. Buvez un coup, allez aux toilettes, blablabla.
+
+Flavia	Venez, je vous montre les toilettes.
+
+(BOUCLE 3 - 10:04:09:10)
+		03
+
+Vanessa	(hh____________)
+
+Marina	Tu peux me laisser ? J'ai une migraine. Je reviens après.
+
+Vanessa	Je suis seulement venue parce que des femmes enceintes t'attendent, je te rappelle, Marina.
+
+Marina	(fhh_________)
+
+Vanessa	Certaines ont même déjà dit qu'elles allaient partir.
+
+Marina	Si elles le veulent,  qu'elles s'en aillent, je ne retiens personne, elles n'ont pas été payées ?
+
+Vanessa	Si, elles ont été payées, mais sûrement pas pour t'attendre indéfiniment.
+
+Marina	Ah je ne supporte pas quand tu fais ta super responsable... (hh)
+
+Vanessa	Je fais pas semblant, je suis super responsable.
+
+Marina	Tu me fais rire. Combien de fois tu es tombée dans ce lit, ivre de whisky en me laissant gérer le studio ?
+
+Vanessa	(h_) Non mais sérieusement, c'était une autre époque ! Non Marina ? Totalement différente ! Une époque où nous nagions dans l'argent et ou les clients se bousculaient à notre porte ! Ce qui n'est plus notre réalité actuelle.
+
+Marina	Ah, tu vas encore mettre sur le tapis notre "réalité actuelle" ?
+
+Vanessa	Oui, oui tout à fait je vais parler de notre réalité actuelle, parce que sait-on jamais, ça pourrait te réveiller !
+
+(BOUCLE 4 - 10:05:04:17)
+		04
+
+Marina	Si tu veux parler de temps passé et d'époque révolue, je crois que t'as pas compris que ta place n'est plus la même. Que notre histoire c'est du passé. Je suis avec une autre. J'ai trouvé l'amour de ma vie et j'ai enfin trouvé le bonheur ! Parce que j'ai des sentiments que je n'ai jamais ressenti, ni pour toi, ni pour personne d'autre. C'est pour ça que tu me punis, c'est ça ? C'est pour ça que tu me lâches pas et que tu bombardes Clara de tout et n'importe quoi, pourquoi ? Pour détruire mes sentiments pour elle. (h_) Ça ne va pas marcher Vanessa. Tu sais pourquoi ? Parce que je suis amoureuse, tellement amoureuse ! Comme je ne l'ai jamais été. Et toi, toi, tu n'es pas seulement jalouse, tu es envieuse. Tu m'envies parce que j'ai rencontré une autre personne, parce que tu n'as jamais rencontré personne pour me remplacer, tu n'as jamais aimé personne ! Tu n'as jamais pu me sortir de ta tête, Vanessa !
+
+Vanessa	La ferme !
+
+Marina	Ah !
+
+(BOUCLE 5 - 10:05:53:09)
+		05
+
+Vanessa	(mh__) (sniff) (hh__) Je n'envie pas ton amour, Marina. Je ne veux pas d'un amour comme ça, je ne veux pas être aimée de cette façon. (h____) Je veux un amour pour moi. Mais je veux d'un amour qui me rende heureuse. Un amour qui me rende sereine. Un amour qui me fasse me sentir bien, comme l'amour que nous avons partagé, quand tu étais amoureuse de moi. Cet amour que tu ressens pour Clara, il te fait souffrir. Tu es triste, tu es pleine d'amertume parce que tu ne peux pas avoir Clara comme tu voudrais, parce que tu dois la partager avec son mari. Ne viens pas me parler de bonheur. Parce que... tu n'es pas heureuse. Je vais t'attendre quinze minutes dans le studio. Si tu ne daignes pas venir, j'annulerai tout et tu pourras considérer ça comme ma démission car je ne reviendrais plus jamais.
+
+(BOUCLE 6 - 10:07:20:13)
+		06
+
+Rafaela	Où est-ce que tu vas ?
+
+Shirley	Faire un coucou à une amie là-bas.
+
+Viriato	Avec moi ici ?
+
+Shirley	Attendez-moi.
+
+Viriato	Je ne peux pas rater mon rendez-vous, ni arriver en retard.
+
+Shirley	J'en n'ai pas pour longtemps.
+
+(BOUCLE 7 - 10:07:44:14)
+		07
+
+Ambiance	(bruits de fond rue toute la boucle)
+
+Shirley	J'ado_____re quand tu me reçois avec un sourire. (rire)
+
+Helena	(h____) Tu vas bien Shirley ?
+
+Shirley	Tout va bien oui. (h____) Je n'ai qu'une minute, j'amène mon père chez le médecin et il ne peut pas être en retard.
+
+Helena	Il est beau ce bébé.
+
+Shirley	La maman est bien aussi ! Cette petite ne doit pas avoir plus de dix-huit ans.
+
+Helena	Oui, c'est vrai.
+
+Shirley	L'âge de ta fille. Tu as déjà imaginé Louisa comme ça, en train de pousser tes petits-enfants ?
+
+Helena	(h___) Enfin Shirley, sérieusement, elle... ne pense même pas à se marier pour l'instant.
+
+Shirley	Qui a dit qu'il fallait être marié ?
+
+Helena	Qu'elle vive avec quelqu'un déjà.
+
+Shirley	Tu sais, (h_) si j'étais toi je commencerais à acheter des vêtements, je penserais au berceau que je lui offrirais, parce que, je ne sais pas, mais je crois que ces jeunes avancent plus vite qu'on ne l'imagine.
+
+Helena	Qu'est-ce que tu veux dire, Shirley ?
+
+Shirley	Tu es la seule à ne pas voir que ta fille est amoureuse. C'est le grand sujet de conversation au centre d'art. (h_) Et tu sais, tous les bénissent. L'amour fait beaucoup de bien à ta fille, elle est encore plus belle.
+
+(BOUCLE 8 - 10:08:59:00)
+		08
+
+Ambiance	(bruits de fond rue toute la boucle)
+
+Viriato	Je ne dois pas être en retard !
+
+Shirley	Ah c'est pas vrai, le vieux devient fou. (réac) (h____) Au revoir. Mes vœux à Cadou.
+
+Rafaela	Tu tramais quoi encore ?
+
+Shirley	Rien du tout. J'ai mis un terme.
+
+Rafaela	Mis un terme à quoi ?
+
+Shirley	La joie de ma chère amie, la fille la plus belle de la ville de Goiania.
+
+(BOUCLE 9 - 10:09:35:07)
+		09
+
+Clara	Les jours précédents la transplantation ont été très durs pour moi.
+
+Ambiance	(bruits de fond hôpital ->)
+
+Clara	Tout paraissait interminable. J'ai même demandé à Silvia si c'était arrivé... qu'un patient meurt durant cette étape de préparation tellement l'attente peut être longue. (h______) Ah, nous n'avons fait que des allers-retours dans des hôpitaux et des laboratoires pour des examens qui n'en finissaient pas.
+
+Ambiance	(stop)
+
+Clara	Maintenant nous sommes à la maison, à attendre qu'on trouve un donneur. Cadou est calme et moi je reste à ses côtés vingt-quatre heures sur vingt-quatre, avec notre fils jamais loin de nous.
+
+Ivan	Pour aller chercher le trésor ils sont montés dans leur bateau...
+
+Clara	Tu sais, grâce à ça il se sent le mieux. Je pense beaucoup à toi, Marina. Je voudrais que tu sois avec moi, pour m'aider à me rassurer. (h_) Mais je suis confiante, bientôt tout sera arrangé et nous fêterons tous ensemble le rétablissement de Cadou et son nouveau cœur. Je te demande juste de ne pas venir ici parce que les membres de ma famille vont et viennent. Je ne veux pas qu'ils prennent ta présence comme une menace à mon mariage. Tu comprends ? Pas maintenant. Oh, en fait, je t'écris par mail parce que je ne peux pas être tout le temps avec mon téléphone. Gros bisous.
+
+(BOUCLE 10 - 10:10:49:02)
+		10
+
+Helena	(h_) C'est pas vrai.
+
+Virgilio	Qui est-ce que tu t'acharnes à vouloir appeler Helena ?
+
+Helena	Eh bien ta fille !
+
+Virgilio	Ah oui ? Je pensais que c'était ta_____ fille. Que s'est-il passé ? Hier elle m'a appelé pour me demander si...
+
+Helena	Ah, toi elle t'appelle, moi, elle me fuit !
+
+Virgilio	Mais pourquoi ?
+
+Helena	C'est plutôt facile à prévoir, non ? Elle me cache quelque chose, ça présage rien de bon.
+
+Virgilio	Ah tu penses toujours qu'elle te cache de mauvaises choses... (huh)
+
+Helena	Pourquoi sinon ? Elle se cache, non, Virgilio ? Elle avait prévu de me parler ici... mais évidemment c'est ce jour là qu'a eu lieu la fusillade devant notre porte... On s'était dit qu'on parlerait plus tard mais depuis, les jours ont passé, il y a eu l'hospitalisation de Cadou, toute la famille entière était mobilisée, et maintenant, elle me fuit !
+
+Virgilio	Nous sommes tous concernés par l'état de Cadou ! Et tu le sais très bien. Nous respirerons quand il pourra enfin avoir une greffe. Ensuite, après qu'il soit opéré, tout redeviendra normal. Louiza doit attendre ce moment elle aussi.
+
+Helena	(mhh) Parfois je me demande si tu es vraiment cet homme ingénu à la bonne foi inébranlable, ou si tu te moques de nous en faisant semblant de l'être.
+
+Virgilio	Mais...
+
+(BOUCLE 11 - 10:12:02:16)
+		11
+
+Virgilio	Mais... (rire__________)
+
+Helena	Ah...
+
+Virgilio	Quelle imagination tu as, Helena. Tu veux dire que ma vie est un mensonge ? Que je fais semblant d'être un homme que je ne suis pas, pour tromper les gens autour de moi ?
+
+Helena	Parfois on dirait.
+
+Virgilio	Ah !
+
+Louiza	Vous êtes bien sur le portable de Louiza, je ne suis pas disponible pour le moment alors laissez votre nom, numéro de téléphone et message après le bip, je vous rappelle au plus vite.
+
+Helena	(hh) Louiza, c'est moi. Écoute-moi, tu n'as vu aucun de mes appels ? Tu ne me rappelles pas, pourquoi ? Tu me fuis..?
+
+Virgilio	Calme-toi. Calme-toi.
+
+Helena	Mince !
+
+Virgilio	Calme-toi Helena ! Viens prendre un café avec moi. Allez, viens.
+
+Helena	Non... Non merci.
+
+Virgilio	Nous parlerons un peu.
+
+Helena	Laisse-moi tu veux. (hh) (sniff)
+
+(BOUCLE 12 - 10:12:45:06)
+		12
+
+Louiza	Maman. (mh) Tu me vois un peu surprise de te voir ici.
+
+Helena	La surprise est bonne ou plutôt mauvaise ?
+
+Louiza	(hh) Bonne voyons maman. Entre.
+
+Helena	Merci.
+
+Louiza	Pourquoi cette question ?
+
+Helena	Parce que quand tu... ne viens plus me voir ou ne réponds plus à mes appels, mes messa__ges, que tu ne viens plus me voir au travail ou à la maison, je crois que tu ne veux plus me parler, que tu ne veux plus me voir.
+
+Louiza	Je n'ai pas à te cacher quoi que ce soit. Ni à personne d'autre. Je n'ai pas voulu, venir chez toi pour avoir cette conversation parce que j'étais cer_tai___ne que tu allais me mettre dehors. Et je n'ai pas besoin de ça. Je ne veux pas avoir à raconter à mes enfants que j'ai été expulsée de chez mes propres parents pour avoir dit la vérité. Ici nous sommes chez moi, d'ici personne ne peut m'expulser. Je suis amoureuse... amoureuse de ton cousin Laerte.
+
+(BOUCLE 13 - 10:13:59:24)
+		13
+
+Louiza	Tu n'as rien à me dire maman ?
+
+Helena	Je veux te dire... que je veux que tu sois la plus heureuse. Mais malheureusement, je suis certaine que tu ne le seras pas.
+
+Louiza	Je vais tout faire pour te faire mentir maman. Je vais être heureuse !
+
+Helena	Nous verrons.
+
+Louiza	Nous verrons.
+
+(BOUCLE 14 - 10:15:30:23)
+		14
+
+Ambiance	(ambiance restaurant toute la boucle)
+
+Clara	Bon appétit mesdames.
+
+Cliente	Merci.
+
+Clara	Choisissez votre sandwich, je reviens vite. Rita !
+
+Rita	Oui Clara ?
+
+Clara	N'oublie pas de dire aux clients que la salade grecque n'est plus au menu. J'ai essayé de faire la sauce mais j'ai pas réussi ! Cadou l'a inventée, il est le seul à pouvoir la faire !
+
+Rita	D'accord. C'est dommage parce que la salade est un vrai succès. (hu!)
+
+Clara	Ah, bientôt Cadou sera de retour et nous remettrons la salade au menu. (x) (hh)
+
+(BOUCLE 15 - 10:15:58:00)
+		15
+
+Véronica	Un problème ?
+
+Clara	Non... Non, aucun. J'étais juste... (h___) en train de me rappeler du premier jour, quand Cadou a inauguré le bistrot. Comme il était heureux !
+
+Véronica	Oui, je me souviens. Je me souviens aussi du premier jour où il est venu me parler. Il était si passionné et enthousiaste ! (h___) (hh) Comment va-t-il ?
+
+Clara	Ah, il va assez bien. Chaque jour quand il se lève il croit qu'il ferait mieux de venir travailler, puis il renonce parce que n'importe quel... (h____) mouvement qu'il fait, même minime, minime oui, ça le fatigue beaucoup, il est exténué. Toute la journée, tu vois ? Et ça... pèse beaucoup sur son moral.
+
+Véronica	J'imagine oui. Mais bientôt il sera rétabli ! Après qu'ils auront fait la greffe, je suis sûre qu'il retrouvera sa force, tu vas voir.
+
+Clara	Mais en attendant on ne fait qu'espérer un donneur. Et on espère... (h_____) dans l'angoisse parce qu'on ne peut rien prévoir, hum, ça pourrait prendre du temps, beaucoup de temps.
+
+Véronica	Hum. Mais le contraire est vrai, ça peut arriver vite, qui sait ?
+
+Clara	Merci pour ton soutien. (hum) C'est très agréable de voir tant de gens demander des nouvelles de Cadou. (h____) Et je veux que ce restaurant continue de tourner à toute vapeur pour qu'il soit heureux, hein ?
+
+Véronica	(rire) (rire___)
+
+Clara	(rire) (x)
+
+Véronica	(x)
+
+Clara	À plus tard. Je vais aider Rita.
+
+Véronica	Si tu as besoin je suis là.
+
+Clara	Oui...
+
+Véronica	(mhh)
+
+(BOUCLE 16 - 10:17:11:04)
+		16
+
+Gabriel	Je ne t'ai jamais vu aussi mobilisée pour un patient comme aujourd'hui pour Cadou.
+
+Silvia	C'est vrai. Avec lui c'est différent, il est... il est devenu plus qu'un patient, c'est un... un ami, je l'apprécie beaucoup.
+
+Gabriel	J'avais remarqué.
+
+Silvia	Oui mais ce n'est pas... ce n'est pas non plus de l'amour ou une... romance, rien de tout ça. J'ai un sentiment, comment dire... (h__) d'amitié amoureuse. Je préfère le dire comme ça. Je l'apprécie beaucoup, oui. C'est un ami de qui j'aime être l'amie, c'est tout.
+
+Gabriel	(h__) Mais tu sais que ce genre de sentiment peut évoluer, n'est-ce pas ?
+
+Silvia	Je sais. Et que veux-tu que je fasse ? Que je laisse tomber mon patient, que je fui, ou quoi ?
+
+Gabriel	Que tu prennes tes précautions.
+
+Silvia	D'accord. Me voilà prévenue.
+
+(BOUCLE 17 - 10:18:02:03)
+		17
+
+Virgilio	Ce qui compte c'est que Cadou puisse attendre qu'un nouveau cœur batte dans sa poitrine.
+
+Benjamin	Il y a de l'espoir.
+
+Virgilio	Voilà.
+
+Rosa	D'accord, mais il doit attendre que tous ceux devant lui soient greffés ?
+
+Virgilio	Non. Non. (h_)  Si le cœur n'est pas compatible avec le premier de la liste, ils cherchent un patient dans l'ordre...
+
+Rosa	Ah oui.
+
+Virgilio	à qui le cœur conviendrait. Mais le donneur doit être en état de mort cérébrale. Le cerveau doit être mort mais le cœur doit encore battre. C'est la condition. Qu'y-a-t-il Helena ?
+
+Helena	Rien. (sniff) Je suis inquiète pour Cadou et cette greffe, c'est tout. (mh)
+
+Virgilio	Mon amour. Nous devons être forts pour aider Clara et Cadou à surmonter ce moment.
+
+Helena	Oui, je sais. Ne t'inquiète pas pour moi. Vous pouvez discuter, moi je... (sniff) je n'ai pas la tête à parler, encore moins écouter.
+
+Virgilio	D'accord. Reste ici. (x)
+
+Helena	(sniff)
+
+Virgilio	Reste ici tranquillement. D'accord ? Repose-toi, essaie de te détendre. Je vais à l'atelier avec papa. Allons à l'atelier.
+
+Benjamin	D'accord.
+
+Virgilio	Je vais y amener ce matériel. Je l'ai nettoyé.
+
+Helena	(sniff)
+
+Virgilio	Passons par derrière.
+
+Rosa	Ça c'est un vieux chagrin. Tu es peut-être inquiète pour Cadou mais ce chagrin-là est prêt à éclater. Je te connais, ma chérie.
+
+Helena	(sniff) (h____) (sniff) Laisse-moi tranquille, d'accord ?
+
+Rosa	Ah...
+
+Helena	(sniff) (sniff) (sniff)
+
+(BOUCLE 18 - 10:19:27:08)
+		18
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Laerté	Ça va ? Qu'est-ce qu'il y a ? Louiza... (mh____)
+
+Louiza	J'ai réussi à parler avec ma mère. Enfin, je... je me suis retrouvée avec elle. (h______) Elle est venue me voir.
+
+Laerté	Vous avez pu vous entendre ?
+
+Louiza	Non. Pas encore. (h___) Mais je crois que ça va finir par arriver, il le faut, non ?
+
+Laerté	Raconte-moi. Si tu le veux.
+
+Louiza	Non. (h___) Je veux juste que tu m'enlaces là, s'il te plaît.
+
+Laerté	Viens là. Ton cœur bat si vite. Reste ici. Reste ici autant que tu le veux.
+
+(BOUCLE 19 - 10:20:09:17)
+		19
+
+Louiza	Papa...
+
+Virgilio	Ah, ma chérie. Tout va bien ? Je suis si distrait que je ne t'ai pas entendu arriver.
+
+Louiza	Oui, moi aussi. (x) Je suis un peu un peu étourdie depuis que j'ai appris pour Cadou.
+
+Virgilio	Oui, et c'est pas tout en plus. Ton grand-père a décidé d'aller vivre à la maison de retraite.
+
+Louiza	Oui mais ça ce n'est pas un problème papa. Grand-père est lucide, dieu merci.
+
+Virgilio	Qu'y-a-t-il ? Dis-moi, Louiza. Parle-moi.
+
+Louiza	(hh) Tu sais qu'avec maman on s'est encore disputé ?
+
+Virgilio	Ah. Une nouvelle dispute, pour changer. Quel en était la raison cette fois ?
+
+Louiza	Ah, maman a eu peur papa... (h____) Elle est devenue... nerveuse quand je lui ai dit... que je sortais avec Laerté.
+
+Virgilio	Mais ce n'est pas une nouvelle très agréable à apprendre, non ? Honnêtement je dois te dire que... ça ne me plait pas à moi non plus.
+
+Louiza	Mais... (h) Tu es d'accord pour dire que c'est ma vie ? Papa, je suis majeure. Personne n'a à remettre en question ce que je décide dans ma vie ! Je ne commets aucun crime !
+
+Virgilio	Louiza, quand tu prends des décisions, personne ne peut revenir dessus, que l'on soit d'accord ou pas. Ce sont tes choix. Mais on peut les déplorer ! C'est le cas pour moi.
+
+Louiza	Papa...
+
+Virgilio	Vraiment.
+
+Louiza	Toi aussi...
+
+Virgilio	Ma fille, je connais cet homme depuis tout petit et il a toujours été égoïste, extrêmement égoïste. Ce n'est pas à cause de la différence d'âge. Je connais beaucoup de couples qui vivent heureux comme ça. C'est parce que je doute fortement qu'il ait autant changé de personnalité comme il te le montre maintenant.
+
+(BOUCLE 20 - 10:21:43:17)
+		20
+
+Louiza	Je suis amoureuse, papa.
+
+Virgilio	Tu es une enfant. Louiza, Je ne vais pas me mêler de ton projet de bonheur. Je peux seulement te donner un avertissement. Attention. Tu dois te montrer prudente.
+
+(BOUCLE 21 - 10:22:26:17)
+		21
+
+Virgilio	Je peux pas le croire. J'en reviens pas qu'avec tout ce qui se passe, les malheurs qui surviennent dans notre famille, tu sois ici, isolée à fouiller dans cette maudite boîte de malheur !
+
+Helena	J'ai discuté avec Luiza. Et l'autre diable de Laerté... a finalement obtenu ce qu'il voulait.
+
+Virgilio	(h_____) Louiza est venue me parler et elle m'a dit que vous aviez discuté. (h____)
+
+Helena	(sniff)
+
+Virgilio	(hh__)
+
+(BOUCLE 22 - 10:23:02:16)
+		22
+
+Virgilio	Helena, dis-moi, combien de temps comptes-tu garder cette position et insister pour...
+
+Helena	(sniff) (h___)
+
+Virgilio	vouloir maintenir notre fille le plus éloignée de nous. Voilà ce que tu es en train de faire tu es en train de pousser Louiza hors de nos vies !
+
+Helena	(h) Tu as douté de moi, tu as choisi de me tourner le dos. Tu m'as jeté la pierre, tu m'as traitée de folle quand je t'ai dit que cet homme tournait autour de notre vie, qu'il allait s'en prendre à nous ! Et qu'est-ce qui arrive maintenant ? J'en étais cer___taine ! J'en étais certaine depuis le début.
+
+Virgilio	Mais enfin, pourquoi est-ce que tu crois que t'avais raison ? Pourquoi ? Pourquoi si tu étais sûre de toi tu n'as pas contrôlée les sentiments de Louiza ? C'est pour ça ?
+
+Helena	(sniff)
+
+Virgilio	Tu crois que tu avais raison parce que tu n'as pas réussi à les maintenir loin de l'autre et qu'ils se sont trouvés ? Franchement Helena ! Louiza est aujourd'hui assez grande
+
+Helena	(sniff)
+
+Virgilio	pour prendre ses décisions, suivre le cours de sa vie, faire des choix. Tu as oublié qu'à son âge tu as fait quasiment la même chose ?
+
+Helena	(sniff)
+
+Virgilio	Tu es tombée enceinte et tu... tu voulais te marier avec Laerte contre l'avis de ta famille. Contre l'avis de tout le monde tu as voulu poursuivre une relation totalement obsessive, tu comprends ? (bégaie) Oh... Pourquoi ? Parce que tu croyais que tu serais heureuse ! Elle fait la même chose !
+
+Helena	Je ne comprends pas, ce n'est pas possible que tu ne te rendes pas compte de ce que je ressens. (h) Je ne... (h) Je ne peux pas croire que tu trouves norma__l que ta fille ait une relation avec un homme qui t'a pratiquement assassiné !
+
+(BOUCLE 23 - 10:24:40:20)
+		23
+
+Ambiance	(bruit de fond rue)
+
+André	Écoutez, on peut se répartir le travail non ? Chacun fait une partie puis on fera la conclusion ensemble.
+
+Barbara	Oui très bien. Nous pourrions parler du film aussi non ? Le processus de création est intéressant.
+
+Sandra	Oui. Ça me va.
+
+André	C'est le genre de chose que ma mère adore. Tu peux t'en charger, qu'est-ce que t'en penses ?
+
+Barbara	Hum hum. Je suis d'accord. (rire)
+
+André	Ah les filles, j'ai un coup de barre, j'ai mal dormi cette nuit.
+
+Barbara	Ah moi aussi j'ai besoin de me réveiller. Je vais chercher un café à la cafétéria, tu en veux un ?
+
+André	Non, t'inquiète, si j'en veux un j'irai me le chercher.
+
+Barbara	Hum. Tu en veux un ?
+
+Sandra	Non, non. Merci.
+
+(BOUCLE 24 - 10:25:14:14)
+		24
+
+Sandra	C'est une impression ou il se passe quelque chose entre toi et Barbara ?
+
+André	De mon côté il ne se passe rien.
+
+Sandra	Ouais... De ton côté je ne sais pas mais du sien...
+
+André	(h)
+
+Sandra	Tu as encore Louiza en tête ?
+
+André	Non, avec Louiza je suis juste inquiet. (h) Je sais qu'il va finir par la blesser, elle va droit dans le mur avec lui. Je l'ai prévenue. (h__) On continue ?
+
+(BOUCLE 25 - 10:25:41:21)
+		25
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Neidinia	(h_) Écoutez, il semblerait que vos prières aient été entendues !
+
+Wanda	Quoi ?
+
+Hamilton	De quoi ?
+
+Neidinia	Ah, devinez qui vient nous rejoindre !
+
+Hamilton	Qui ?
+
+Wanda	Qui ?
+
+Flora	Ah, Benjami________n !
+
+Roberto	Dis-nous, qui ?
+
+Tous (5)	(réac content/ applaudissements_______________)
+
+Rosa	(x) (rires________________________)
+
+Wanda	(rire________)
+
+Flora	(ah_________)
+
+Wanda	Oh______. (x) C'est une véritable bénédiction !
+
+Flora	(rires____)
+
+Hamilton	Enfin ! Un partenaire de poker ! (rires___)
+
+Flora	Ah, mais enfin tu ne penses qu'au jeu, quel arriéré tu fais !
+
+Hamilton	Et alors ?
+
+Wanda	Benjamin est un artiste, il ne va pas se mêler à tes activités de débauche.
+
+Hamilton	De débauche ? De quoi elle parle ? Ah ! Donne-moi un jeu plus innocent qu'un petit poker ?
+
+Flora	Ah, écarte-toi, écarte-toi il va nous jouer un morceau, allez  !
+
+Hamilton	Ah....
+
+Roberto	Ah oui...
+
+Virgilio	Neidinia... occupe-toi bien de lui pour moi s'il te plaît. Il a beaucoup de médicaments à prendre à des horai__res différents. Et sa physiothérapie, j'ai parlé avec son physiothérapeute pour qu'il vienne faire les séances ici.
+
+Neidinia	Oui... Ne t'inquiète pas. Tu sais qu'il sera très bien traité ici ! Sois tranquille.
+
+Roberto	(applaudit)
+
+(BOUCLE 26 - 10:26:45:06)
+		26
+
+Ambiance	(bruits de fond restaurant toute la boucle)
+
+Branca	J'ai besoin de savoir que tu es réellement disposée à faire ce que nous avons décidé.
+
+Claudia	Écoute Branca, je ne suis plus si en colère contre Ricardo. En fait, ça me fait même de la peine de saboter sa carrière de pilote.
+
+Branca	(mhh)
+
+Claudia	Mais je suis disposée à te venir en aide, oui. Tu sais te montrer persuasive.
+
+Branca	Hum.
+
+Claudia	Le problème c'est qu'avec une histoire d'harcèlement, ce sera ma parole contre la sienne. Et avec une enquête, Branca, on va découvrir qu'on s'est quitté en mauvais terme. On va croire que c'est un mensonge de femme délaissée.
+
+Branca	Ne t'inquiète pas de ces détails, je m'en occupe. Tu dois savoir que ce sera beaucoup plus que du harcèlement, ok ? Et aussi, tu auras de la compagnie, tu ne seras pas seule, nous avons un allié des plus stratégiques.
+
+Claudia	Et qui est-ce ?
+
+Branca	Non, ne t'encombre pas l'esprit avec ça. Pense à l'argent que tu vas gagner sans quasiment bouger le petit doigt . (mts) Pas de shopping hein ?
+
+(BOUCLE 27 - 10:27:34:24)
+		27
+
+Virgilio	Ah, je vais à Goiania mais je penserai à toi,  Cadou.
+
+Cadou	(ahh_)
+
+Virgilio	Tu vas voir, ce donneur va arriver mon vieux, plus vite que tu ne l'imagines.
+
+Cadou	(hh) Il le faut parce que dans l'état dans lequel je suis, (h__) (ahh) je vais pas tenir longtemps.
+
+Clara	Ah !
+
+Virgilio	Non pas de ça !
+
+Clara	Écoute, Cadou ! Où sont passé les pensées positives ?
+
+Virgilio	Oui, Clara a raison, mon vieux ! C'est important de garder le moral en tant que patient !
+
+Clara	Et le pire c'est qu'il le dit devant notre fils ! Le petit relève tout ! Tout le monde demande de tes nouvelles, Cadou.
+
+Cadou	(mhh)
+
+Clara	Il faut que tu nous aide à faire passer un courant de bonne humeur.
+
+Cadou	(h___) (hh____) Excuse-moi. Je promets que je vais essayer.
+
+Clara	(x)
+
+Cadou	(h__) (hh) Mais parfois je me sens désespéré. J'oublie qu'Ivan est là. (h___)
+
+Virgilio	Oui...
+
+Clara	(x)
+
+Cadou	Mais vous avez raison. Il ne devrait pas entendre ça.
+
+Virgilio	Dites, laissez-moi emmener Ivan avec moi à Goiania. Je veux y passer un peu de temps. Il y pêchera... il fera du cheval, ça pourrait lui faire du bien, non ?
+
+Clara	Oui, je crois que ça pourrait oui,
+
+Cadou	Oui...
+
+Clara	ça pourrait être bien oui c'est vrai. Le chéri est aussi sonné de voir son père...
+
+Cadou	(h____)
+
+Virgilio	Hum ?
+
+Clara	dans cet état.
+
+(BOUCLE 28 - 10:28:32:20)
+		28
+
+Cadou	Ouais... Je ne veux pas être séparé de lui trop longtemps, Virgilio.
+
+Virgilio	Non, on n'y restera pas longtemps. Je le ramènerai quand vous voulez ! C'est pour vous aider.
+
+Clara	Mais... tu es sûr que ça te gêne pas ?
+
+Virgilio	Ivan, me gêner ? C'est un amour cet enfant ! Au contraire, ça me fait très plaisir !
+
+Cadou	Lui aussi il adore son tonton Virgilio.
+
+Clara	(sourire)
+
+Virgilio	Ah...
+
+Cadou	C'est une bonne idée, tu as raison. L'environnement ici n'est pas le mieux pour lui. Tu es d'accord, ma chérie ? Il faut juste voir avec l'école, non ?
+
+Clara	Non. L'école est au courant de la situation. Je pense pas qu'il y ait de problème pour qu'Ivan rate quelques jours. Je crois que ce serait... (h_____) formidable pour lui.
+
+Virgilio	Ah.... C'est parfait.
+
+Clara	Merci.
+
+Virgilio	Je vais beaucoup m'amuser avec lui !
+
+Clara	(rire__) Merci beau-frère chéri.
+
+Virgilio	(rire_________________) Ah...
+
+Clara	(x)
+
+Cadou	(hh_) Merci.
+
+Virgilio	Hé mon vieux, courage !
+
+Cadou	Jusqu'au bout.
+
+(BOUCLE 29 - 10:29:21:02)
+		29
+
+Cadou	Ça va être super chouette avec ton oncle à Goiania ! Vas-y pour moi !
+
+Clara	Ah, j'aimerais tant pouvoir venir moi aussi. Là-bas tu pourras jouer, tu pourras courir, et monter à cheval ! Tu vas faire du cheval !
+
+Cadou	Oui...
+
+Ivan	Ah... Je sais très bien que vous voulez que j'y aille parce que papa est malade.
+
+Cadou	(h_)
+
+Clara	C'est vrai. C'est une raison oui.
+
+Cadou	(h_____)
+
+Clara	Papa est malade et... on ne peut pas aller se promener avec toi.
+
+Cadou	(mhh) Oui...
+
+Clara	On ne peut pas t'amener à la plage par exemple. Ce n'est pas juste que tu restes ici, tu ne crois pas ?
+
+Ivan	(h____) Je suis un homme, maman, je comprends.
+
+Cadou	Oui, et c'est pour ça, mon fils, que tu es le meilleur compagnon que ton oncle puisse avoir à Goiania. Ah, il compte sur toi pour être un cow-boy !
+
+Clara	Et il va t'apprendre à traire une vache, c'est génial !
+
+Ivan	Et tu crois que ça va me plaire ?
+
+Clara	Il faut essayer pour le savoir, non ? Je ne sais pas. Je pense que oui. Mais après je voudrais tout savoir ! (rire)
+
+Cadou	Et écoute... (h_____) (hh__) pendant que tu seras là-bas... papa va rester ici pour se reposer et ne rien faire avant ton retour. On est d'accord ?
+
+Ivan	Papa... un cœur peut se diviser en deux ?
+
+Cadou	(mh) Non mon chéri. Non. Pour l'instant non. Peut-être un jour !
+
+Ivan	(h_____) Sinon je partagerai le mien avec toi, parce qu'une partie est déjà à toi.
+
+(BOUCLE 30 - 10:31:17:21)
+		30
+
+Virgilio	Vas-y entre mon petit monsieur.
+
+Ivan	C'est dans cette maison que tu as grandi tonton Virgilio ?
+
+Virgilio	Oui, tout à fait, dans cette maison même. Rien n'a changé. Pose ton sac ici. Mais il doit y avoir un peu de poussière. Je vais voir si Celia peut faire un peu de ménage pour qu'on puisse rester ici.
+
+Celia	Ah____, mais je suis déjà là, et tout est propre !
+
+Virgilio	Ah ! Et comment as-tu su que nous arrivions ? Tu es devin, tu as deviné, c'est ça ?
+
+Celia	Madame Selma me l'a dit. Alors je suis venue faire du ménage et préparer à manger, parce qu'on m'a dit que dans les avions ils ne donnaient que des biscuits !
+
+Virgilio	Oui c'est vrai, ils ne donnent plus que ça. Et toi je sais que ta cuisine est délicieuse, hein ? J'en ai l'eau à la bouche !
+
+Ivan	Et moi aussi !
+
+Celia	(rire) Alors passez à table !
+
+Virgilio	Super !
+
+Celia	(rire)
+
+Ivan	(rire)
+
+(BOUCLE 31 - 10:31:55:05)
+		31
+
+Clara	(ah___) C'est l'heure du goûter ! De s'alimenter, de s'hydrater ! De reprendre des forces.
+
+Cadou	(h_) Pour être moins faible tu veux dire ?
+
+Clara	Ah, arrête, Cadou.
+
+Cadou	Hum... Le téléphone. Ah... Je crois qu'il est sur la table.
+
+Clara	Doucement !
+
+Cadou	Tiens.
+
+Clara	Doucement.
+
+Cadou	(h___)
+
+Clara	Du calme. Cadou, doucement !
+
+Cadou	Ah... Ah c'est pas vrai...
+
+Clara	Je vais répondre.
+
+Cadou	Je sers à rien... (h___)
+
+Clara	Sois patient, mon chéri.
+
+Cadou	(hh) (ah___)
+
+Clara	Sois patient.
+
+Cadou	(mh____)
+
+Clara	C'est Silvia. Allô, bonjour docteur Silvia, tout va bien ? Oui, Cadou est ici, oui. Quoi ? C'est pas vrai !
+
+Cadou	Qu'est-ce qu'il y a ?
+
+Clara	Ils ont trouvé un donneur ! Ce doit être l'hôpital qui appelle sur le fixe. Nous devons y être dans trente minutes.
+
+(BOUCLE 32 - 10:32:42:08)
+		32
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Louiza	Salut.
+
+Laerté	Je suis content de te voir.
+
+Louiza	Tu me manquais.
+
+Laerté	Cette bouche m'a manqué.
+
+Louiza	(x)
+
+Laerté	(x) (h___) Je reviens dans une minute.
+
+(BOUCLE 33 - 10:33:10:00)
+		33
+
+Shirley	J'admire le courage des amants interdits.
+
+Louiza	(h) Ça va Shirley ? Nous n'avons rien à cacher à personne.
+
+Shirley	Ce n'est pas ce que disent les mauvaises langues. Enfin dans ton cas, au vu des faits, ils vaudraient mieux dire, les "bonnes langues".
+
+Louiza	(h) Je ne sais pas de quoi tu parles, Shirley.
+
+Shirley	Ah non ? Belle ingénue, comme toutes les jeunes. Où est-ce de la ruse ? Ta mère est au courant de cette amourette ?
+
+Louiza	Ce ne sont pas tes affaires. (h) mais comme ça a l'air important pour toi, je vais te répondre. Oui ma mère est au courant, je lui ai parlé. J'ai aussi parlé avec mon père et tout le monde le sait dans ma famille. Je n'ai rien à cacher d'ailleurs je ne veux rien cacher.
+
+Shirley	Tu devrais.
+
+Louiza	(h) Shirley excuse-moi mais je ne veux pas de tes conseils, d'accord ? Tu apprécies Laerté.
+
+Shirley	(mhh) C'est pas tout à fait ça. Je l'aime. Je l'adore. Mais je sais reconnaître quand je dois me retirer. Mais ne t'y trompes pas, je n'ai pas joué toutes mes cartes, c'est un repli stratégique. Alors profite bien. Tant que c'est possible.
+
+(BOUCLE 34 - 10:34:16:24)
+		34
+
+Laerté	Tout va bien ici ?
+
+Louiza	Demande à ton amie ci-présente. Shirley.
+
+Shirley	Tout va bien mon amour. Je venais justement de dire à Louisa qu'il était temps pour moi de me retirer. Je rentre chez moi. Nous discuterons plus tard, mon bien-aimé, à propos de notre centre culturel. Notre sujet est que l'amour véritable ne finit jamais. Arrivederci. Quel amour cette Louisa, Laerté. Quel joli visage. Cette nuit-là nous aurions pu la concevoir, elle pourrait être notre fille. Arriverderci.
+
+Laerté	Au revoir Shirley.
+
+Shirley	(x) Au revoir.
+
+(BOUCLE 35 - 10:35:11:07)
+		35
+
+Louiza	(h__) (hh) (h____) Alors on fait tomber les masques c'est ça ? Quelle bonne femme ridicule, Laerté.
+
+Laerté	Oublie ça. Elle ne fait que parler, ça en reste là.
+
+Louiza	Et je vais devoir endurer sa présence constante ici ?
+
+Laerté	Désolé mais malheureusement elle a beaucoup aidé à monter ce centre.
+
+Louiza	Hum.
+
+Laerté	Mais elle est folle, faut pas y faire attention, tu peux me faire confiance.
+
+Louiza	(mh____)
+
+(BOUCLE 36 - 10:35:34:21)
+		36
+
+Ambiance	(bruits de fond hôpital toute la boucle)
+
+Clara	Le docteur Silvia devrait nous attendre ici, je lui ai parlé.
+
+Cadou	(h) Et le donneur, ma chérie ?
+
+Clara	On peut s'asseoir là.
+
+Felipé	Maintenant ils doivent être en train de faire les examens pour vérifier que l'organe est en bon état pour le don. Hum...
+
+Helena	Et quand pourrons-nous être certain qu'il est possible de faire cette... cette...
+
+Felipé	Helena, il faut d'abord qu'ils ouvrent le thorax du donneur pour vérifier l'état de son cœur, qu'il peut être greffé. Ensuite on pourra savoir.
+
+Cadou	(hh) (hh_) Rien que d'entendre qu'ils vont ouvrir le thorax...
+
+Clara	Calme-toi, Cadou, calme-toi.
+
+Felipé	Oh, Cadou, courage mon vieux ! Pas de ça, champion ! Tout le monde est avec toi ici ! Tu n'es pas tout seul. Et bientôt le docteur Silvia va venir te voir, elle va te donner toutes les informations pour la préparation préopératoire. Il ne faut pas t'inquiéter mon vieux. Allez, courage !
+
+Helena	Sois fort.
+
+Felipé	Allez. Tout est en règle ?
+
+Helena	Clara...
+
+Clara	Oui.
+
+Helena	Je vais appeler Virgilio.
+
+Clara	D'accord. Elle va bientôt arriver.
+
+Cadou	D'accord.
+
+(BOUCLE 37 - 10:36:25:05)
+		37
+
+Ambiance	(bruits de fond hôpital ->)
+
+Helena	Allô, Virgilio ? Salut. Alors... Tout indique qu'ils ont trouvé un donneur pour le cœur de Cadou.
+
+Ambiance	(stop)
+
+Virgilio	Quelle bonne nouvelle, Helena. Je suis content que les choses avancent.
+
+Helena	C'est tout ?
+
+Ambiance	(bruits de fond hôpital ->)
+
+Helena	Nous sommes ici à gérer la situation... et c'est tout ce que tu as à dire ? C'est de l'indifférence ?
+
+Ambiance	(stop)
+
+Virgilio	Mais comment veux-tu que je réagisse ? Que j'explose de joie ? Que je crie victoire devant le petit ? Tout est encore si incertain, Helena.
+
+Ambiance	(bruits de fond hôpital ->)
+
+Helena	Tu as raison oui. Mais au moins maintenant il y a une chance, non ? Parce que la liste de donneurs d'organes est très longue.
+
+Ambiance	(stop)
+
+Virgilio	J'espère que la suite va parfaitement bien se passer. Pour Cadou. (h______) Et appelle-moi, d'accord ? S'il se passe quelque chose, s'il y a du nouveau, appelle-moi. J'attendrai ton appel. Je trouverai comment parler à Ivan.
+
+Helena	D'accord. Bisous.
+
+Virgilio	À toi aussi.
+
+(BOUCLE 38 - 10:37:15:16)
+		38
+
+Ana	Et notre eau est très pure, elle vient d'une source qui puise au fond de la terre, tu le savais ?
+
+Ivan	Oui, j'ai senti qu'elle arrivait déjà tiède.
+
+Ana	Oui et un bain de cet eau, ça te détend jusqu'au au bout des doigts !
+
+Virgilio	Alors, qu'en dis-tu Ivan ? Tu veux prendre ce bain ou pas ?
+
+Ivan	Ah, il est tôt, je vais me salir dans la journée.
+
+Virgilio	Ah, d'accord, mais plus tard nous prendrons un autre bain, d'accord ?
+
+Ivan	Oui.
+
+Virgilio	Alors viens on va voir si tu as tout ce qu'il te faut dans la salle de bain. Et puis je dois avoir une conversation d'homme à homme avec toi, viens.
+
+(BOUCLE 39 - 10:37:42:23)
+		39
+
+Médecin	Asseyez-vous, s'il vous plaît. Voilà, doucement. Très bien. (hh) Inspirez.
+
+(BOUCLE 40 - 10:38:04:05)
+		40
+
+Ricardo	Selma tu es prête ? Tu y vas comme ça ? La climatisation là-bas est très forte, tu devrais prendre une veste.
+
+Selma	Prendre une veste pour aller où ? Pourquoi prendre une veste si je ne vais nulle part ?
+
+Ricardo	(euh)
+
+Chica	Allez, on y va, en route, on est en retard, tout le monde est déjà là-bas.
+
+Selma	Mais on est en retard pour aller où ?
+
+Chica	Mais enfin, à l'hôpital, je t'ai dit que Cadou allait être opéré ! On va lui greffer un nouveau cœur ! Tou_te la famille s'est réunie là-bas pour l'entourer d'ondes positives ! On y va, Selma !
+
+Selma	Non, je viens pas, je ne veux pas être mêlée à ces histoires d'ondes et de spiritisme ! C'est hors de question !
+
+Chica	Oh ! Mais... (oh) Tu vois, Ricardo, je t'avais dit qu'elle ne viendrait pas, qu'elle ne voudrait pas venir. J'ai appelé Rosa pour qu'elle reste avec elle chez Helena parce que je le savais.
+
+Rosa	Bonjour, ça va ? Venez, madame Selma, allons chez Helena.
+
+Selma	Alors, alors tu veux que je reste chez ta fille, chez Helena ? Tu t'en vas et tu me laisses dans la gueule du loup, c'est ça ?
+
+Chica	Ah mais Selma il n'y aura personne ! Il n'y aura que vous deux, personne n'est là-bas ! Que vous deux. Maintenant arrête, on y va.
+
+Selma	Et Rosa c'est une bonne compagnie ? De quoi je vais parler avec elle ?
+
+Chica	(h_)
+
+Rosa	(réac)
+
+Selma	On va parler de quoi Rosa ? De patates et de poireaux, c'est ça ?
+
+Chica	Ah, je sais pas... De n'importe quoi, débrouillez-vous ! De patates et de poireaux oui pourquoi pas. Ricardo aide-moi ! Regarde la télévision, comme tu veux, peu importe. On y va, s'il te plaît !
+
+Selma	Mais... Non... Enfin !
+
+Rosa	Oui...
+
+Ricardo	Oui, on y va, allez.
+
+Selma	Mais tu m'expulses, tu me mets dehors, c'est ça ?
+
+Ricardo	Viens Selma, viens.
+
+Selma	Tu veux me, me chasser de ta maison Chica ?
+
+Chica	Mais c'est pas vrai... Allez, on y va, on y va on est en retard.
+
+Selma	C'est pas croyable ! Je ne peux pas rester chez ma propre sœur...
+
+Chica	Non non. Nous en parlerons plus tard Selma.
+
+(BOUCLE 41 - 10:39:17:18)
+		41
+
+Flavia	Tout est prêt pour les photos d'aujourd'hui ?
+
+Marina	Justement, je dois vous parler, il faut annuler.
+
+Vanessa	Marina mais enfin, annuler une heure avant ? Tu as perdu la tête ?
+
+Marina	Essaie de le repousser à demain ou un autre jour. Dis que c'est pour cause de maladie dans la famille.
+
+Vanessa	De maladie dans la famille de qui ? Cadou, Cadou est un de ses parents maintenant ! Il est de ta famille, Cadou ?
+
+Marina	Tu oublies que mon cousin Ricardo est le beau-père de Cadou ! Clara vient de m'envoyer un message, apparemment ils ont trouvé un donneur !
+
+Vanessa	Marina laisse-moi t'expliquer quelque chose, modifier un horaire de séance à la dernière minute génère des coûts. Ça coûte de l'argent, argent que nous n'avons pas.
+
+Marina	(h_) Flavinia, je m'adresse à toi parce que je crois que Vanessa ne, ne m'entends pas. On annule, d'accord ? Dis que j'ai eu une urgence dans ma famille, qu'un parent va subir une greffe de cœur, rien que ça. Compris ? (x) Bisous, merci.
+
+(BOUCLE 42 - 10:39:59:14)
+		42
+
+Vanessa	(hh) Regarde comme je suis calme. (hh)
+
+Flavia	(hh) Vanessa, dis-moi pourquoi tu te disputes tout le temps avec elle ? L'artiste c'est Marina, le studio est à elle, l'argent, c'est le sien. Laisse-la décider quoi faire !
+
+Vanessa	Tu as raison, je devrais tout laisser en plan. Mais je ne peux pas ! Enfin, je sais pas, ma conscience professionnelle m'en empêche.
+
+Flavia	Excuse-moi mais tu dis qu'elle est obsédée par Clara, mais et toi ? C'est toi qui es obsédée par Marina. Arrête, c'est terminé. Tourne la page enfin ! T'as assez donné ! D'accord ? Je vais appeler Vérinia, pour annuler.
+
+Vanessa	Non non, on ne va pas renoncer à ces photos.
+
+Flavia	Comment ça ?
+
+Vanessa	C'est toi qui va faire ses photos.
+
+Flavia	Moi ?
+
+Vanessa	Hum hum.
+
+Flavia	T'es folle ou quoi ?
+
+Vanessa	Tu en as marre d'être l'assistante de Marina, je le sais. Tu connais ça comme ta poche, tu peux gérer, c'est une campagne hyper simple ! Tu les fais... en ensuite on empochera l'argent.
+
+Flavia	Ça va créer des problèmes.
+
+Vanessa	Lai_______sse, j'arrangerai ça avec Marina. D'accord ? Ça se trouve elle aimera notre initiative. Et tu  vas pouvoir récolter les lauriers.
+
+(BOUCLE 43 - 10:41:02:09)
+		43
+
+Clara	Je voudrais te couvrir de baisers mais je ne peux pas parce que l'infirmière a dit qu'ils ont fait la, l'asepsie totale, je crois donc je peux pas.
+
+Cadou	(amusé)
+
+Clara	Ça te plaît, hein ? Avoue !
+
+Cadou	(rire___)
+
+Clara	Tu aimes cet arrangement ?
+
+Cadou	Tu ne perds jamais l'occasion de plaisanter hein ?
+
+Clara	(rire_______) C'est que maintenant je suis confiante, tu vois. Je... je sens que nous sommes proches de notre fin heureuse. Je le sens.
+
+Cadou	Je pensais que ça ne prendrait jamais fin, je crois moi aussi qu'on va être heureux.
+
+Clara	Ça c'est mon Cadou.
+
+Cadou	Je t'ai toi, j'ai Ivan. Le destin sera juste avec moi, Clara. Je veux voir mon fils devenir un homme.
+
+(BOUCLE 44 - 10:41:40:02)
+		44
+
+Silvia	Alors... comment va mon patient ? Hum ? En forme ?
+
+Cadou	Moyen. Hé... tout est en ordre pour commencer ?
+
+Silvia	Détendez-vous. Nous devons suivre le protocole. Nous sommes en contact avec l'autre équipe. Dès qu'ils auront retiré le cœur du donneur, nous aurons quatre heures pour te le greffer.
+
+Clara	C'est si, si émouvant, non ? Parce que... je ne peux m'empêcher de penser à l'autre famille.
+
+Silvia	Oui, mais ils sont certainement heureux de pouvoir sauver une vie, face à l'inévitable. Maintenant nous devons juste nous assurer que le cœur est a__pte à une transplantation.
+
+Cadou	C'est un parcours du combattant, tous ces tests.
+
+Silvia	Mais on dit par ici que rien n'est pénible pour qui a des ailes !
+
+Clara	Hum. Mon ange...
+
+Silvia	(rire)
+
+Cadou	Aujourd'hui je ne veux pas être un ange. Je veux me sentir bien vivant. Je veux garder les pieds sur terre. Je suis confiant, vous savez. Tout va s'arranger.
+
+(BOUCLE 45 - 10:42:43:09)
+		45
+
+Infirmière	Tout est prêt.
+
+Silvia	Bonjour. Cadou, tout est prêt de notre côté. Nous attendons juste le feu vert de l'équipe du donneur.
+
+Felipé	Aujourd'hui nous inversons les rôles hein ? C'est moi qui vais rester pour te surveiller.
+
+Cadou	Heureusement que tu n'es pas chirurgien.
+
+Felipé	Hé, dis donc, attention, à ce que tu dis, bientôt tu seras endormi et qui sait de quoi je suis capable !
+
+Cadou	(rire)
+
+Silvia	Ah ! (rire)
+
+Felipé	(rire)
+
+Silvia	Je vais rester à vos côtés tout le temps, d'accord ? Tout va bien se passer.
+
+Felipé	Courage.
+
+Silvia	Ils vont bientôt t'anesthésier.
+
+Felipé	Courage champion ! Nous sommes avec toi. Ne t'inquiète pas. Détends-toi. Quand tu te réveilleras, tu auras une nouvelle vie. (sourire)
+
+Cadou	Vous demeurez dans mon grand cœur.
+
+Anesthésiste	Respirez fort. Dans le masque.
+
+(BOUCLE 46 - 10:43:56:06)
+		46
+
+Infirmière	Nous sortons avec le coeur. Nous devons prévenir l'équipe de réception que nous sortons avec le coeur.
+
+Rosa	Ayez la foi, madame Selma.
+
+Selma	Ah, par tous les saints.
+
+Rosa	Les saints font tant de miracles.
+
+Selma	Quels miracles ? Éteignez ça, éteignez ça Rosa, ce cierge, éteignez-moi ce cierge, déjà que je suis énervée, un cierge me fait penser aux défunts. Éteignez tout, maintenant.
+
+Rosa	Eh, c'est pas vrai !
+
+Chirurgien	L'équipe est déjà dans l'autre hôpital, pour la prise en charge, nous allons commencer ici, bistouri.

@@ -9,7 +9,7 @@ print("v1.3 ")
 if not os.path.exists(output_path):
     os.mkdir(output_path)
 uppercase_lines=[]
-current_scene_nb=""
+current_scene_id=""
 scene_characters_presence={}
 character_scene_presence={}
 
@@ -71,11 +71,17 @@ def extract_scene_name1(line):
         return match.group(1).strip()
     return None  # Return None if no match is found or the format is incorrect
 
-def extract_scene_name(line):
-    if matches_timecode_format(line):
-        return extract_scene_name1(line)
-    elif matches_timecode_format2(line):
-        return extract_scene_name2(line)
+def extract_scene_name(line,scene_separator):
+    if scene_separator=="NAME_PARENTHESIS_TIMECODE" or scene_separator=="PARENTHESIS_NAME_TIMECODE":
+        if matches_timecode_format(line):
+            return extract_scene_name1(line)
+        elif matches_timecode_format2(line):
+            return extract_scene_name2(line)
+    elif scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
+        return "Scene "+current_scene_count
+    else:
+        return "?"
+
 
 def is_matching_character_speaking(line):
     """Checks if the line indicates a character speaking."""
@@ -114,17 +120,51 @@ encoding="ISO-8859-1"
 
 wasEmptyLine=False
 
-def getmode():
-    mode="UNKNOWN"
+def count_consecutive_empty_lines(file_path, n):
+    """Counts occurrences of exactly n consecutive empty lines in a file."""
+    with open(file_path, 'r', encoding='utf-8') as file:
+        count_empty = 0
+        occurrences = 0
+        previous_empty = False
+
+        for line in file:
+            # Check if the current line is empty or contains only whitespace
+            if line.strip() == '':
+                count_empty += 1
+                previous_empty = True
+            else:
+                if previous_empty and count_empty == n:
+                    occurrences += 1
+                count_empty = 0
+                previous_empty = False
+
+        # Check at the end of the file if the last lines were empty
+        if count_empty == n:
+            occurrences += 1
+
+    return occurrences
+
+def getSceneSeparator(script_path):
+    mode=""
     # Open the file and process each line
     with open(script_path, 'r', encoding=encoding) as file:
         for line in file:
+            line = line.strip()  # Remove any leading/trailing whitespace
             if matches_timecode_format(line):
-                mode = "NAME_PARENTHESIS_TIMECODE"
+                return "NAME_PARENTHESIS_TIMECODE"
             elif matches_timecode_format2(line):
-                mode = "PARENTHESIS_NAME_TIMECODE"
+                return "PARENTHESIS_NAME_TIMECODE"
+
+    if mode=="":
+        n_sets_of_empty_lines=count_consecutive_empty_lines(script_path,2)
+        if n_sets_of_empty_lines>1:
+            return "EMPTYLINES_SCENE_SEPARATOR"
 
     return mode    
+
+
+current_scene_count=1
+scene_separator=getSceneSeparator(script_path)
 # Open the file and process each line
 with open(script_path, 'r', encoding=encoding) as file:
     for line in file:
@@ -134,12 +174,12 @@ with open(script_path, 'r', encoding=encoding) as file:
         
         if len(trimmed_line)>0:
             if is_scene_line(line) or (isEmptyLine and wasEmptyLine):
-                scene_name = extract_scene_name(line)
-                current_scene_nb=scene_name
+                current_scene_count=current_scene_count+1
+                current_scene_id = extract_scene_name(line,scene_separator)
                 print("---------------------------------------")
                 print(f"Scene Line: {line}")
             else:
-                    if current_scene_nb!=1:
+                    if current_scene_id!=1:
                         is_speaking=is_character_speaking(trimmed_line)
                         print("IsSpeaking "+str(is_speaking)+" "+trimmed_line)
                         if is_character_speaking(trimmed_line):
@@ -148,11 +188,11 @@ with open(script_path, 'r', encoding=encoding) as file:
                             if not character_name == None:
                                 if character_name not in scene_characters_presence:
                                     scene_characters_presence[character_name] = set()
-                                scene_characters_presence[character_name].add(current_scene_nb)
+                                scene_characters_presence[character_name].add(current_scene_id)
                                 
-                                if current_scene_nb not in character_scene_presence:
-                                    character_scene_presence[current_scene_nb] = set()
-                                character_scene_presence[current_scene_nb].add(character_name)
+                                if current_scene_id not in character_scene_presence:
+                                    character_scene_presence[current_scene_id] = set()
+                                character_scene_presence[current_scene_id].add(character_name)
         wasEmptyLine=isEmptyLine
 
 def sort_dict_values(d):

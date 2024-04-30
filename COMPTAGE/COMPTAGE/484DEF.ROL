@@ -1,0 +1,26 @@
+[BOUCLES]
+1\\
+2\3\
+3\1\
+[ROLES]
+1\Narrator\36\1771\110\
+2\James\1\9\100\
+3\Small man\15\714\110\
+4\Thomas\3\122\100\
+5\Reverend\8\388\110\
+6\Annie\1\31\100\
+7\Clarabel\1\44\100\
+8\Bert\35\1732\110\
+9\Driver de Bert\11\514\110\
+10\Mike\4\191\110\
+11\Driver de Mike\1\0\100\
+12\Driver de Rex\1\0\100\
+13\Rex\2\89\110\
+14\Amb kids\1\0\010\
+15\Smal Control\4\188\010\
+[PLATEAU]
+DATES=
+TITRE=
+EPISODES=
+DIALOGUISTE=
+DIRECTEUR=

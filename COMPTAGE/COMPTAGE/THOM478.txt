@@ -1,0 +1,227 @@
+THOMAS EP 478
+Titre VO : blown away
+ Propositions Titres VF : Emporté par le vent/ Skiff et la tempête/Un bateau bien courageux
+
+(BOUCLE 1 - 10:00:31:15)
+		01
+
+Narrator	Titre français à placer là.
+
+Narrator	La journée est presque terminée sur l'ile de Chicalor et une tempête s'annonce. Du coup, tout le monde essaye de rentrer à la maison le plus vite possible.
+
+Man2	(h)
+
+Man	Oh!
+
+Clarabelle	Oh!
+
+Narrator	Tous les gens veulent s'assurer que leurs proches, leur maison et eux-mêmes soient en sécurité quand la tempête arrivera! Les côtes sont les zones les plus exposées dans ces cas-là. C'est là que la tempête risque de faire le plus de dégâts.
+
+(BOUCLE 2 - 10:01:14:13)
+		02
+
+Man3	Oh!
+
+Woman	Oh!
+
+Narrator	Skiff et Capitaine Joe patrouillent dans le port de Calembour pour vérifier que tout est bien sécurisé.
+
+Man shop	(efforts) Non! Reviens! (hh)
+
+Skiff	(h)
+
+Man shop	(hh)
+
+Skiff	Cet homme a besoin d'aide Capitaine Joe! Oh! Prends une de mes rames pour l'attraper!
+
+Captain Joe	Bonne idée, merci!
+
+Man shop	Merci Joe!
+
+(BOUCLE 3 - 10:01:55:05)
+		03
+
+Oliver	Oh! Je suis étonné de te voir dehors par ce temps Skiff!
+
+Skiff	Capitaine Joe et moi, on aide les gens à se préparer pour la tempête qui arrive.
+
+Oliver	C'est très gentil de votre part! Mais... tu devrais rentrer chez toi!
+
+Duck	C'est exact! Tous les autres bateaux sont en train de s'abriter dans le port!
+
+Skiff	Oh j'irai quand on aura rapporté cette pancarte! Mais on doit s'assurer que les gens sont bien à l'abri avant! Et à ce sujet, Oliver et toi vous êtes dehors!
+
+Oliver	Oui mais nous sommes beaucoup plus gros et plus costauds que toi Skiff!
+
+Duck	C'est vrai! On n'a rien d'un léger petit voilier! Et on a encore du travail, nous!
+
+Oliver	On doit faire plusieurs tournées avant de rentrer dans nos box!
+
+Duck	Sois prudent, petit bateau!
+
+(BOUCLE 4 - 10:02:49:10)
+		04
+
+Captain Joe	Ne fais pas cette tête! S'ils t'ont dit  ça c'est juste parce qu'ils s'inquiètent pour toi, j'en suis sûr!
+
+Skiff	J'admets que je ne suis qu'un petit bateau, mais en prévision de la tempête, j'ai aidé plein de gens !
+
+Captain Joe	Ca, j'confirme! Et maintenant, on va  te mettre à l'abri avec les autres! Hah ce serait dommage que tu t'envoles à cause du vent!
+
+Skiff	Oh rien ne me ferait plus peur!
+
+Museum man	Oh! Joe! (h/) Vous êtes là! (h/) Je me fais du souci pour le bateau pirate!
+
+Captain Joe	Moi aussi! On va aller l'inspecter depuis le haut du phare! Les vents sont de plus en plus forts et on a intérêt à s'assurer que tout va bien!
+
+(BOUCLE 5 - 10:03:30:10)
+		05
+
+Narrator	De leur côté, Montaigu et Oliver travaillent sans relâche,  transportant un maximum de gens.
+
+Duck	Ca y est? Tu as terminé?
+
+Oliver	Oui, presque! Encore un aller-retour jusqu'à Tit'mouss et j'arrête!
+
+Duck	Comme moi! Je fais un arrêt à Calembour et je rentre! Pourvu qu'on soit tous les deux dans nos box quand la tempête éclatera!
+
+Oliver	Espérons-le! (hhhh)
+
+(BOUCLE 6 - 10:03:56:05)
+		06
+
+Narrator	La tempête tant redoutée finit par se déchainer. Skiff fait de son mieux pour résister aux vents!
+
+Skiff	Wah!
+
+Narrator	Et c'est la catastrophe!
+
+Skiff	Oh non! Ma voile s'est détachée! (h) Joe! Joe! Oh zut, il ne m'entend pas! C'est pas grave Skiff! Pas de panique! Tout va bien finir par s'arranger! Ohh (hh)! Ahh(____)!
+
+Narrator	Balloté par les vents, le pauvre Skiff se sent  impuissant face à la violence de la tempête!
+
+Skiff	Ohhh! (hh) Oh Joe! Où es-tu? Les locomotives avaient raison! Je ne suis malheureusement qu'un petit bateau! Et j'ai peur! (h)
+
+(BOUCLE 7 - 10:04:45:04)
+		07
+
+Narrator	Et c'est à nouveau la catastrophe!
+
+Skiff	Ohh___! Oh__! Ahoh! Oh  oh oh__ nooon! Ahhh___! Joe! JOE! AHHH____! A l'aiiiide! Au secours! Hé! Je n'ai pas d'freins! Oh! Ohhh! Ah! Ouille! (hh) Ohhh!
+
+(BOUCLE 8 - 10:05:25:11)
+		08
+
+Narrator	Montaigu a enfin fini de travailler et il fait demi-tour pour retourner à Tit'mouss. Mais il ne sait pas qu'un arbre est tombé sur la voie, lui bloquant le passage! Tout comme Oliver, qui rentre à son hangar en compagnie de Toad, dans le sens opposé!
+
+Duck	(h) Oh! (h) Je n'y vois pas grand-chose avec toute cette pluie! J'ai hâte d'être chez moi au sec!
+
+Toad	Oh! Dites, le vent est de plus en plus fort, Monsieur Oliver!
+
+Oliver	Sois patient Toad, on n'est pas loin! Oh allez, courage! C'est tout près!
+
+Skiff	Oh! J'suis trop bête! Qui va venir jusqu'ici et me sauver avec ce temps! (hh)
+
+(BOUCLE 9 - 10:06:07:06)
+		09
+
+Skiff	Oh non, c'est Montaigu qui siffle! Et il sera là dans une minute! Il va  s'encastrer dans l'arbre! C'est encore pire que ça! Oh! Il va me heurter, moi! (hh) (hh) (mm) Hé!(hh) Montaigu!
+
+Narrator	Hélas, les paroles de Skiff sont emportées par le vent.
+
+Skiff	Montaigu! Oh non (h)! Il ne m'entend pas! Qu’est-ce que je pourrais bien faire d'autre? (H/ ggg h\) (gg h) (h/) Oh (h)! Ma voile! Si j'arrive à libérer ma voile, alors peut-être que je pourrais envoyer un signal! (efforts__________hh) Mais... j'entends quelqu'un d'autre siffler! Oh! C'est forcément Oliver!
+
+(BOUCLE 10 - 10:06:53:23)
+		10
+
+Skiff	Ah ho! (h) J'dois (h) me lever! (hh ah) Oh! (rire____) STOOOP!
+
+Duck	Oh! (efforts)
+
+Oliver	Keske c'est? (efforts____)
+
+Toad	Quoi, Monsieur Oliver? Dites-moi ce qui se passe?
+
+Skiff	(hh)
+
+Duck	Ohh, non (hh)! (efforts bf)
+
+Skiff	(hh)
+
+Oliver	(efforts_________)
+
+Skiff	Oui ouf!
+
+(BOUCLE 11 - 10:07:37:00)
+		11
+
+Skiff	(hh)
+
+Oliver	(hh) Skiff? C'est toi non?
+
+Duck	Mais qu’est-ce que tu fais?
+
+Skiff	Ma voile s'est déployée, la corde de mon ancre s'est cassée, et le vent m'a poussé sur la voie jusque-là!
+
+Duck	Heureusement pour nous  en tout cas! Sans ton intervention, on se serait fracassé contre cet arbre!
+
+Skiff	Oh (oh hh)! J'ai eu tellement peur! Je ne savais pas comment vous prévenir parce que ma voile était coincée sous moi! Et puis, en me tortillant j'ai enfin réussi à me lever!
+
+Oliver	Tu nous as sauvés Skiff! Tu es le petit bateau le plus courageux que j'ai jamais connu!
+
+Duck	T'es un héros! Merci beaucoup Skiff! On n'oubliera jamais cette nuit!
+
+(BOUCLE 12 - 10:08:17:02)
+		12
+
+Narrator	Le lendemain matin, la tempête n'est plus qu'un mauvais souvenir,  même si les locomotives sont déjà au travail pour réparer les dégâts qu'elle a causés.
+
+Winston	Ah! (h)
+
+Fat control	(efforts) Ma parole Skiff! (h/) Tu as empêché un terrible accident de se produire! Oh!
+
+Skiff	Heureusement qu’ma corde a cassé, Monsieur!
+
+Fat control	Oh oh! Ca ne change rien au fait que tu es un héros! Toad, Oliver et Montaigu trouvent que tu mérites une récompense!
+
+Skiff	Une récompense? Vraiment?
+
+Duck	Oh oui!
+
+Oliver	Absolument!
+
+Fat control	Et je suis d'accord! Tu es le petit bateau le plus courageux qui ait jamais voyagé sur mer ou sur terre!
+
+D+O	Ou les deux! (rires)
+
+Duck	Acclamons notre ami!
+
+Skiff	(hh)
+
+Duck	Pour Skiff:
+
+T+O+FC	Hourrah!
+
+Duck	Hourrah!
+
+Harvey	Hourrah!
+
+Duck	Pour Skiff: Hourrah!
+
+T+O+FC	Hourrah!
+
+Harvey	Hourrah!
+
+Duck	Pour Skiff: Hourrah!
+
+T+O+FC	Hourrah!
+
+Harvey	Hourrah!
+
+
+
+
+
+1
+
+

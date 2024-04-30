@@ -1,0 +1,2880 @@
+HOLIDAY
+11/11/2017
+
+(BOUCLE 1 - 01:00:49:11)
+		01
+
+JOY	(hh_) (hh_) (souffle_____) (mmh_) (mm_) (hh_) (_h) (hm_) Salut... C'est l'heure. (_h) (h_)
+
+(BOUCLE 2 - 01:01:20:17)
+		02
+
+__ROD	Bien...
+
+EVE	Prêt?
+
+__ROD	Prêt, et toi?
+
+EVE	Oui, allons-y!
+
+__ROD	C'est parti.
+
+JOY	L'herbe est décidément plus verte chez eux.
+
+(BOUCLE 3 - 01:01:27:22)
+		03
+
+JOY	(h_) Hé! Allez, bouge-toi , allons-y, la journée commence! Courage!
+
+(BOUCLE 4 - 01:01:45:02)
+		04
+
+__ROD	Ouh!
+
+EVE	(hah_) (rire_)
+
+__ROD	Tu vois? (h_)
+
+EVE	(_h)
+
+__ROD	On ne bat pas un vieux comme ça.
+
+EVE	Oh j'm'en rends compte.
+
+__ROD	Allez, Remonte doucement pour récupérer , d'accord?
+
+EVE	Oui.
+
+__ROD	N'oublie pas de t'étirer, hein!
+
+EVE	Jamais!
+
+__ROD	C'est bien.
+
+(BOUCLE 5 - 01:01:55:23)
+		05
+
+JOY	Tout le monde debout, c'est l'heure! Lève-toi on est en retard!
+
+ZACK	Va-t'en!
+
+JOY	Ouvre tes p'tits yeux!
+
+MILES	Je dors...
+
+JOY	(_hh_) P'pa!
+
+BOB	(Ahh_)
+
+JOY	Bonjour!
+
+BOB	D'accord... Laisse-moi encore 5 minutes.
+
+JOY	Alors je vais sous la douche! (hh_) Il est cuit, Miles.
+
+MILES	Qu'est-ce que t'en sais?
+
+ZACK	(Mmmmh_)   Hé, est-ce que tu m'fais une omelette?
+
+JOY	Sûrement pas.
+
+ZACK	Pourquoi? Tu prépares le p'tit déj de papa quasiment tous les jours.
+
+JOY	Papa paie les factures.
+
+MILES	Tu veux un peu de mon bacon?
+
+ZACK	Je ne mange pas de viande, merci.
+
+JOY	(hh_) C'est cuit, Miles.
+
+MILES	Je l'aime super croustillant.
+
+JOY	Voilà! Alors, tu me crois maintenant? Recule, l'huile est bouillante.
+
+(BOUCLE 6 - 01:02:36:20)
+		06
+
+BOB	Vous vous moquez de moi? Qu'est-ce qui ne va pas, les enfants?
+
+JOY	Il ne recommencera  pas, il a compris cette fois.
+
+ZACK	Nous n'aurions pas ce genre de problème si dans la famille on ne mangeait de chair animale.
+
+BOB	Oh merci, monsieur Gandhi. Ah! Chaud, chaud, chaud.
+
+(BOUCLE 7 - 01:02:53:16)
+		07
+
+BOB	(hh_) Ce truc va me rendre fou, Joy, s'il te plaît.
+
+MILES	(tousse__)
+
+JOY	Je m'en occupe.
+
+BOB	Hé, qu'est-ce qui est bon au petit-déjeuner? Je vais vous le dire. Des céréales. Vous savez pourquoi? ça ne prend jamais feu, jamais.
+
+JOY	Papa, c'est les piles, je vais les changer...
+
+ZACK	(h)Bonne idée.
+
+JOY	Ah, il faudra penser à en acheter. (ha_)
+
+BOB	Joy.
+
+JOY	Je sais.     Lévi. Tu la boucles. Merci. (ha_) Miles...
+
+MILES	On a des doughnuts?
+
+JOY	Euh... Non, mais tu peux prendre tes vitamines.  Tiens, ouvre la bouche.
+
+MILES	J'suis obligé?
+
+JOY	Mâche. Ah Ne triche pas comme la dernière fois.
+
+BOB	Hé, Joy... Joy...
+
+JOY	Oui, papa?
+
+BOB	Il faudrait que tu emmènes le chien se promener... et euh... sois bien sûre (_h) qu'il  fait le numéro un (_h) et le numéro deux.
+
+JOY	Pourquoi ça tombe sur moi à chaque fois papa ?
+
+(BOUCLE 8 - 01:03:37:01)
+		08
+
+ZACK	Parce que c'est ton chien.
+
+JOY	Il est à la famille, Zack..
+
+ZACK	C'est toi qui l'as adopté.
+
+JOY	Ecoute, à l'époque j'avais juste 4 ans,   et puis c'est maman, techniquement, qui l'a adopté. Miles, mon ange, c'est toi qui vas y aller.
+
+MILES	Moi?
+
+JOY	Ouais.
+
+MILES	J'étais même pas né!
+
+ZACK	(rire_)
+
+BOB	C'est toi qu'il préfère. Il y a toujours un numéro 1 et un numéro 2.
+
+JOY	(_h)  Sacré bol!
+
+BOB	Merci... (petit rire)
+
+JOY	Pendant ce temps-là,  préparez-vous tous les deux.. Lévi! On y va!
+
+BOB	On dit merci à sa soeur.
+
+ZACK	Merci Joy!
+
+MILES	Merci Joy!
+
+BOB	Est-ce que quelqu'un aurait vu mes clés?
+
+MILES	(respi essouflé____)   Pourquoi t'as mis si longtemps? Papa ne trouve pas les clés de la voiture!
+
+JOY	D'accord,tout d'abord baisse la voix,  ensuite en rentrant il avait son coupe-vent, vérifie les poches.
+
+BOB	On a une grave crise "clés de voiture".
+
+JOY	Je sais, je sais, Miles s'en occupe.
+
+MILES	J'ai trouvé les clés!
+
+BOB	Ahh !
+
+JOY	Ahh Génial...
+
+BOB	Bravo fiston!
+
+JOY	Hep! Pas par là. Zack !
+
+BOB	Allez! Allez!     Vite!
+
+ZACK	Courir ou non, ça ne nous aidera pas...
+
+BOB	Oh-oh, quelle sagesse, quelle attitude positive. On y va!
+
+JOY	(hh_) Oh, non...
+
+BOB	Allez, allez, allez!
+
+(BOUCLE 9 - 01:04:30:19)
+		09
+
+ZACK	Pourquoi tu cours?
+
+JOY	Papa! Tu n'as pas besoin de ça?
+
+BOB	(Ahh_)
+
+JOY	(hh_) Lévi, C'est toi  le responsable maintenant. (hh_)
+
+BOB	(souffle_)
+
+JOY	Attends, fais voir.
+
+BOB	Merci
+
+JOY	De rien.
+
+BOB	Ouh_  C'est parti! ça te gêne pas?
+
+ZACK	Pas du tout.
+
+MILES	T'as fait réparer la voiture?
+
+BOB	C'est sur ma liste... (Mfh_)
+
+JOY	J'étais censée monter devant.
+
+BOB	Oh, c'est si grave que ça?
+
+ZACK	Je sais mais je suis plus grand que toi.
+
+BOB	Silence.
+
+JOY	(hh_)
+
+ZACK	(hh_)
+
+BOB	Croisons les doigts.
+
+JOY	(hha_)
+
+MILES	Je ne comprends toujours pas pourquoi vous n'y allez pas ensemble.
+
+ZACK	Les Wellman et nous ne sommes pas du même monde.
+
+MILES	ça veut dire quoi?
+
+JOY	Elle est bien trop cool pour nous.
+
+BOB	Ne dis pas de bêtise, y'a pas plus cool que nous. Regardez... Ohhh! Cool non? C'est bon, allons-y! Ah! Mince!
+
+MILES	Tu pourrais acheter une autre voiture?
+
+BOB	Je n'aurais pas dû faire le fier. (ha_)
+
+(BOUCLE 10 - 01:05:50:06)
+		10
+
+ZACK	N'oublie pas. Je ne te connais pas.
+
+JOY	Pourquoi tu ne serais pas comme les autres après tout.
+
+AMBIANCE	(rires filles_____)
+
+EVE	(rire_) (_h) J'vous jure qu'un jour j'arriverai à battre mon père... enfin peut-être... (rire___) (_h) Je l'adore, il est tellement gentil avec moi...
+
+AMBIANCE	(rire filles_____)
+
+EVE	(rire___) C'est la classe, non?
+
+(BOUCLE 11 - 01:06:22:13)
+		11
+
+SAM	Salut.
+
+JOY	Salut. Oh, comment tu peux boire ça?
+
+SAM	J'ai pas dormi de la nuit.
+
+JOY	(hah_)
+
+SAM	Tu veux savoir combien le proviseur Klozmier a de crédits?
+
+JOY	Non merci... Le hacking est illégal.
+
+SAM	C'est ton problème, tu ne sors pas des sentiers  battus.
+
+JOY	(rire_) D'accord  ça c'est pas un problème. Parce que (_h)  toi tu t'abîmes le dos et...   les yeux, aussi, alors que moi j'active mon cerveau droit et laisse parler mon inconscient. Tiens, prends une carte.
+
+SAM	(hh_) ma mère m'a déjà lu mon horoscope au petit-déj.
+
+JOY	Oh ces cartes, n'ont rien à voir avec ça.
+
+SAM	C'est tout aussi ridicule.
+
+JOY	L'inconscient  modifie souvent le cours de nos actions.
+
+SAM	C'est pour ça que j'ai toujours la même carte?
+
+JOY	(mmh_) Si seulement...
+
+SAM	A toute.
+
+JOY	A toute.
+
+SAM	(mfh_)
+
+(BOUCLE 12 - 01:07:32:02)
+		12
+
+JOY	Tom Addison... (hha_)
+
+MONTANA	Il est trop canon!
+
+JOY	Il est totalement parfait. (_h) Il sent bon comme une tarte aux pommes chaude...
+
+MONTANA	Genre, tu as déjà été assez près de lui pour sentir son parfum!
+
+JOY	Oh pas la peine... Ce genre de senteur ça se déplace... (h_)
+
+BRIE	(rire____)
+
+CHANEL	(rire_)
+
+BRIE	(crrr_)
+
+CHANEL	(hhh_)
+
+MONTANA	çC'est vraiment arrivé?
+
+JOY	(huh-huh)
+
+MONTANA	Oh non!
+
+JOY	Bouge.
+
+(BOUCLE 13 - 01:08:13:02)
+		13
+
+BRIE	Tu as vu un peu le cinéma?
+
+CHANEL	Oui, ridicule.
+
+JOY	(_hh) (mfh_)
+
+MONTANA	Qu'est-ce que tu fais?
+
+JOY	Je visualise   la paix dans le monde.
+
+MONTANA	Tu n'as qu'un mot à dire et je brûle ses cheveux!
+
+JOY	N'hésite pas, fais-le!
+
+MONTANA	Ne le prends pas au pied de la lettre.
+
+JOY	Tu m'expliques?
+
+MONTANA	Je suis derrière toi. Mais c'est un concept.
+
+JOY	(mfh_ rire_)
+
+M. ELDERBERRY	Bonjour à tous, les musiciens. Comment vous vous débrouillez avec vos partitions?
+
+JOY	Bien.
+
+AMBIANCE	(brouhaha élèves G/F______________________________
+
+MONTANA	ça va.
+
+JOY	Je m'éclate en fait.
+
+CHANEL	Je meurs d'ennui... ça craint.
+
+BRIE	Mmm Je hais ce triangle.
+
+M. ELDERBERRY	Ohhh? huh_ Je vois... Joy?
+
+JOY	Oui?
+
+M. ELDERBERRY	Voudriez-vous jouer pour nous?
+
+JOY	Bien sûr.
+
+BRIE	(ha_) Joy veut jouer avec Tom Addison. Surtout si elle peut mettre la main sur son instrument.
+
+JOY	Cheveux! tout de suite!
+
+M. ELDERBERRY	ça suffit, Brie. Continuez...
+
+JOY	Oui. (mtt_)
+
+(BOUCLE 14 - 01:09:17:22)
+		14
+
+M. ELDERBERRY	(hh_) Splendide... Splendide! (_h) Je pense que vous ne serez pas surprise si je veux que ce soit vous qui fassiez le solo pour le concert de Noël.
+
+JOY	Ohh_ (hh_)
+
+BRIE	Hum, mademoiselle Hockstatter était déjà solo pour Halloween, il me semble?
+
+M. ELDERBERRY	On ne fait pas un solo avec un triangle, Brie...
+
+BRIE	Oh, je ne voulais pas parler de moi monsieur Elderberry, (_h) je dis simplement  que d'autres élèves devraient avoir leur chance.
+
+M. ELDERBERRY	Joy fera le solo. Continuez.
+
+JOY	Très bien
+
+(BOUCLE 15 - 01:10:02:13)
+		15
+
+ZACK	Joy... Te voilà enfin ! Est-ce que tu as les clés?
+
+JOY	Ah... Non, j'ai donné les miennes à Miles.
+
+ZACK	Oh, non... En plus on est mardi, il est au centre de plein air.
+
+JOY	Club de  scouts
+
+ZACK	C'est pareil, non?
+
+JOY	Pas du tout.
+
+ZACK	Oh si... Oh! Tu sais ce que ça veut dire, hein? Faut que tu entres par la chatière.
+
+JOY	La quoi?
+
+ZACK	La chatière du chien
+
+JOY	Non!... Non! A présent je suis trop grosse!
+
+ZACK	Mais non, pas du tout, et de toutes façons y'a pas d'autre solution!!
+
+JOY	Eh, je répète, j'ai dit non!
+
+ZACK	Bon, cette porte est fermée, (hh_) et comme papa ne sera pas là avant... 3... voire 5 heures, alors si d'ici là tu changes d'avis, dis-le moi.
+
+JOY	(hh_) J'ai une idée.
+
+ZACK	Quoi?...
+
+(BOUCLE 16 - 01:10:44:00)
+		16
+
+JOY	Regarde... Choisis-en une.
+
+ZACK	(rire_) Pas question..
+
+JOY	Tu n'as pas envie d'en savoir un peu plus sur ta vie?
+
+ZACK	Ma vie?
+
+JOY	Ouais!
+
+ZACK	Ma vie? Bon, écoute. On est venus au monde, on a grandi, maman nous a quitté, et... (_h) papa est en dépression chronique. Quel passage te manque?
+
+JOY	Ah, je croyais juste que... (_h) que ça pourrait t'intéresser de ... (hh_) (mmhh_) (_h) d'approfondir la compréhension de ta situation actuelle.
+
+ZACK	(h_) Oh, notre situation est très simple, (_h) le truc c'est qu'on est enfermés dehors petite soeur. Et c'est pas tes absurdes petites cartes qui y changeront quelque chose.
+
+JOY	Changer Je l'ai tirée deux fois aujourd'hui.
+
+ZACK	(_h) Tu la mets au milieu des chaussettes de Miles, ça lui servira de pense-bête.
+
+JOY	(h_ mmm) Famille.
+
+ZACK	(mfh_) (mts) si seulement c'était si facile. (_hh souffle_) Allez, par pitié, s'il te plaît, essaie de glisser ton petit derrière par la porte du chien.
+
+(BOUCLE 17 - 01:11:47:11)
+		17
+
+JOY	(effort___) Lévi, Lévi, non, Lévi... Oh...  pas ça!... Lévi!  Couché!  Couché! (ha_) (_h) (h_)
+
+ZACK	Tu y es presque!  Allez, un dernier petit effort!
+
+JOY	(ha_ha_)
+
+ZACK	Hé, pourquoi t'essaies pas un de tes trucs du yoga pour respirer?
+
+JOY	(h_) (gémit_) (_hha) Arrête, je ne fais pas de yoga!
+
+ZACK	Hé bien tu devrais !
+
+JOY	(expi_) Aoh! Tu crois que ça m'aide? (effort_) (ha_) Je t'avais dit que ça marcherait pas! (ha_) Zack...
+
+ZACK	Tu as l'air d'un trophée de chasse...
+
+JOY	(h_) T'as trouvé une fenêtre ouverte?
+
+ZACK	Non. J'ai trouvé une clé.
+
+JOY	Et où tu l'as trouvée?
+
+ZACK	Tu te souviens,la dernière fois,  tu as dit que je ferais bien de cacher une clé quelque part dehors?
+
+JOY	Ouais.
+
+ZACK	Eh bien j'ai caché une clé quelque part.
+
+JOY	C'est vraiment très drôle! Sors-moi de là immédiatement!
+
+ZACK	J'ai l'air d'un pompier?
+
+(BOUCLE 18 - 01:12:53:18)
+		18
+
+JOY	(soupir) Oui mon beau. Encore un jour de passé, hein? Encore un jour de passé. (soupir) (soupir) (hm_ ) Maman...
+
+(BOUCLE 19 - 01:13:47:09)
+		19
+
+MILES	Tu as une minute?
+
+JOY	Qu'est-ce qui se passe?
+
+MILES	On aura un sapin cette année?
+
+JOY	Waoh, euh... ben c'est pas génial pour l'environnement. Et en plus c'est cher.
+
+MILES	J'aimerais en avoir un.
+
+JOY	(mts_)
+
+MILES	Maman, c'était un de ses trucs préférés.
+
+JOY	Oh, maman avait plein de trucs préférés...
+
+MILES	Oui, mais... Elle adorait faire un sapin.
+
+JOY	Moi non... D'accord? (_h) Je veux que tu ailles te mettre au lit maintenant. Tu devrais dormir à cette heure-ci.
+
+MILES	D'accord...
+
+(BOUCLE 20 - 01:14:32:13)
+		20
+
+MILES	Pardon Joy.
+
+JOY	(mfh_) Grimpe... Tu sais quoi?
+
+MILES	Quoi?
+
+JOY	(mts) Oui... cette année on fera un très joli sapin de Noël chez nous. Je m'en occupe, trésor.
+
+MILES	Merci.
+
+JOY	Bon, (_h) c'est l'heure de dormir, range ton uniforme, ne m'oblige pas à répéter d'accord?
+
+MILES	D'accord
+
+JOY	C'est gentil.
+
+MILES	Merci beaucoup
+
+JOY	Bonne nuit.
+
+MILES	Bonne nuit.
+
+(BOUCLE 21 - 01:15:10:12)
+		21
+
+ZACK	Je ne comprends pas pourquoi!
+
+JOY	Tu as fini ton petit-déjeuner?
+
+BOB	5 dollars ! Comme si j'avais une planche à dollar?
+
+MILES	Ouiii !
+
+ZACK	Une ...planche à dollars...
+
+JOY	Tu t'es brossé les dents?...
+
+BOB	Oui, une planche à billets
+
+MILES	Mais oui, bien sûr...
+
+JOY	Fais-voir. Tu as encore de la confiture sur la bouche!
+
+MILES	Mmmm Nooon!
+
+JOY	Tu dois te brosser les dents après le petit-déj!
+
+(BOUCLE 22 - 01:15:24:05)
+		22
+
+AMBIANCE	(brouhaha étudiants sur le campus__________________________)
+
+ZACK	Bonne nouvelle ...   tu es encore à moitié endormie.
+
+JOY	Mauvaise nouvelle... tu es encore un enfant
+
+ZACK	(hha_)
+
+JOY	(hh_) Oh non! Ma clarinette!
+
+ZACK	C'est pas mon problème.
+
+JOY	(h_) Papa! Papa! Papa! Ma clarinette est restée dans la voiture!
+
+(BOUCLE 23 - 01:15:54:07)
+		23
+
+JOY	(respi course effort_________ Papa! Ma clarinette est dans la voiture! (hha_) (inspi_ expi_) (inspi_) (expi) (respi course effort___________________________________________________________________________________________________________________________________________) Papa! Arrête-toi! ho_ Papa ! Papa! (hh_) (_h)
+
+EVE	(respi affolée___________________________________________________________________________________)
+
+JOY	Qu'est-ce qui m'est arrivé?
+
+EVE	Joy...  Crois-moi j'suis désolée... (_h) Oh j'ai, j'ai pas eu le temps, j'suis vraiment désolée... Oh...
+
+JOY	Aide-moi
+
+EVE	(snif_) (expi_ inspi_ expi_)
+
+(BOUCLE 24 - 01:17:02:08)
+		24
+
+EVE	Joy! Joy!   Lève-toi!
+
+JOY	(inspi_  expi_) Qu'est-ce que..(h_). Pourquoi j'suis là?
+
+EVE	Tu courais. Et tu es tombée.
+
+JOY	Ah bon, je courais? (h_) Oui je voulais rattraper papa.
+
+EVE	Tu te paies ma tête? C'est ça? Je t'avais dit qu'on ne devait pas faire la course.
+
+JOY	On faisait la course?
+
+EVE	Arrête de faire l'imbécile, Joy. Je déposerai ton sac à dos près des portes.
+
+JOY	(hh_) ça alors... (hha_) Wah_ (_h) C'est à moi? (_h) (h_) Attends! Non, non, non, où est-ce que tu vas? Qu'est-ce qui m'est arrivé? (hh_) (h_) (h_) Aouch! (h_) (h_) Wouh!
+
+(BOUCLE 25 - 01:18:18:22)
+		25
+
+AMBIANCE	(brouhaha étudiants G/Fcampus____________
+
+JOY	(hha_) Quelle histoire! (Ohh_) Montana! Salut! (h_) Mon sac... Mon sac... Euhm... C'est celui-là?
+
+TOM	Où tu comptes aller comme ça?
+
+JOY	(surprise_) (_h_h) (hha_) Tom Addison?
+
+TOM	Tu es...  fâchée contre moi?
+
+JOY	Quoi?
+
+TOM	Ouais, t'es toute bizarre...
+
+JOY	Je euh_ (_h) Ah bon?
+
+TOM	Allez, fâche-toi autant que tu veux, mais c'est pas ma faute si tu as un corps si parfait.
+
+JOY	(rire_) Moi? (_h) (h_)
+
+TOM	Joy, tu as repris de ces super-vitamines, c'est ça?
+
+JOY	J'en sais rien... (_h) J'ai pris quelquechose en tous cas. (_h)
+
+TOM	Oh je sais c'que tu as. C'est la bague qui t'a contrariée.
+
+JOY	Est-ce que tu es sérieux?
+
+TOM	C'était juste pour que tout le monde sache qu'on est un vrai couple.
+
+JOY	(h_)(_h)
+
+TOM	Allons-y.
+
+JOY	(_h) Un couple? (_h)
+
+(BOUCLE 26 - 01:19:21:09)
+		26
+
+AMBIANCE	(brouhaha élèves G/F________________________________________________________________________________
+
+TOM	Ouais_
+
+JOY	(souffle)
+
+TOM	Ouais... (_h) J'veux pas aller en cours.
+
+JOY	Non?
+
+TOM	Non, je veux rester avec toi.
+
+JOY	Oh_ Oh...
+
+TOM	(X)
+
+JOY	(h_) (h_) C'est... ouh...
+
+TOM	On se voit dans 2 heures bébé.
+
+JOY	(rire niais_) (_h) (h_)(_h) (h_) (glousse_) (_h) Oh mon dieu, c'est pas vrai, c'est pas vrai, c'est pas vrai, c'est pas vrai!! (_h) Aoh! (_h) Ressaisis-toi. (_h_h_h) c'est pas vrai!
+
+(BOUCLE 27 - 01:20:12:22)
+		27
+
+BRIE	Quand j'ai vu cette couleur, j'ai vraiment craqué...
+
+CHANEL	C'est sûr!
+
+BRIE	Salut ma belle!
+
+CHANEL	Trop top!
+
+BRIE	Trop mignonne.
+
+JOY	Moi?
+
+BRIE	Alors on va où ce week-end?
+
+CHANEL	Ah, peut-être qu'on pourrait faire les boutiques de Westside.
+
+JOY	(h_)
+
+CHANEL	Northside plutôt?
+
+JOY	Pardon?
+
+BRIE	Southside j'parie?
+
+CHANEL	Eastside Plazza.
+
+JOY	Y'a une différence?
+
+BRIE	Attends,           t'es pas obligée de décider maintenant, réfléchis, on adorerait y aller avec toi.
+
+CHANEL	Oui, c'est ça, réfléchis, peu importe après tout.
+
+BRIE	D'accord? Bon, à toute à l'heure.
+
+CHANEL	Bisous!
+
+BRIE	Bisous!
+
+CHANEL	(X)
+
+BRIE	(X)
+
+JOY	C'est quoi, c'est quoi ce bazar? (_h) J'comprends rien.
+
+(BOUCLE 28 - 01:20:48:17)
+		28
+
+JOY	Varsity Volley-ball (_h) Hmm pas mal.
+
+(BOUCLE 29 - 01:21:19:20)
+		29
+
+JOY	(hha_) Désolée d'être en retard. (h_) Hum (h_) Bon... Monsieur Elderberry  (hh_)   j'ai dû laisser mon instrument dans la voiture.
+
+M. ELDERBERRY	Excusez-moi?
+
+JOY	Désolée, ma... clarinette.
+
+BRIE	(h_) Tu es drôlement insolente.
+
+JOY	Première clarinette. Je joue le solo.
+
+M. ELDERBERRY	Non... Du tout.
+
+JOY	Comment ça? Vous me taquinez, non?
+
+M. ELDERBERRY	(rire_) Non, pas du tout. Vous n'appartenez pas à cette classe.
+
+JOY	Mais... C'est ici l'orchestre? Mon nom à moi c'est Joy. Pas vrai?
+
+M. ELDERBERRY	Dépêchez-vous de trouver votre place, jeune fille. Nous avons beaucoup de travail .
+
+(BOUCLE 30 - 01:22:13:03)
+		30
+
+NURSE	Votre température est normale.
+
+JOY	Elle est normale? Je... Je ne...       je ne me sens pas normale. Et je n'ai pas l'air normal, ça c'est sûr.
+
+NURSE	Je devrais appeler votre mère.
+
+JOY	(rire_) Alors bonne chance. (_h rrhhh_)
+
+NURSE	Quel numéro j'essaie en premier?
+
+JOY	euhm... 325-01-00
+
+NURSE	Euh... Je vois 3 numéros mais celui-là n'est pas sur la liste.
+
+JOY	Oh! eske...  je peux voir?
+
+NURSE	Oui.
+
+JOY	Merci. Joy... Wellman ? Joy... Wellman Joy Wellman. (_h) (ha_) Je suis Joy Wellman!
+
+(BOUCLE 31 - 01:23:09:20)
+		31
+
+MARCIE	Ne te presse pas chérie, va doucement. (_sss) Comment tu te sens?
+
+JOY	(_h) Honnêtement? (_h) Je crois que j'hallucine.
+
+MARCIE	Okay.   C'est peut-être la fièvre. Ou peut-être que tu as trop couru.
+
+JOY	Oui! Je courais. (_h) quand quelque chose de bizarre est arrivé.
+
+MARCIE	Je le savais, je l'avais dit à ton père, tes séances de musculation sont trop dures.
+
+JOY	Musculation? Je peux poser une question?
+
+MARCIE	Oui.
+
+JOY	Où est-ce que tu m'emmènes?
+
+MARCIE	A la maison.
+
+JOY	Chez... moi, dans Elm street.
+
+MARCIE	Oui, là où tu vis depuis toujours.
+
+JOY	242 Elm Street.
+
+MARCIE	244 Elm Street. Doux Jésus, allons-y.
+
+(BOUCLE 32 - 01:23:56:03)
+		32
+
+JOY	C'est sûr, cette voiture je l'adore
+
+MARCIE	Ne recommence pas avec ça, tu sais que papa a dit qu'à 16 ans tu auras exactement la même que celle d'Eve.
+
+JOY	Pour de vrai?
+
+MARCIE	Tant que tu joues avec la première équipe de la ville.
+
+JOY	Oui! (_h) (h_) Tu sais, c'est cool de me ramener, merci.
+
+MARCIE	C'est normal, ma lumineuse et tendre étoile...
+
+JOY	La plus étincelante du ciel?
+
+MARCIE	Eh bien... Ta grande soeur aussi est ma lumineuse et tendre étoile. Enfin.... certains jours...
+
+JOY	(h_) (_h) Avoir une soeur c'est trop cool. (_h) J'ai toujours rêvé d'avoir une soeur. (rire_)
+
+MARCIE	ça c'est élégant....
+
+JOY	Et Tom? Tom Addison C'est mon petit ami, hein?
+
+(BOUCLE 33 - 01:24:41:20)
+		33
+
+MARCIE	(_h) Joy... Es-tu enceinte?
+
+JOY	Oh... Quoi? Non, non!
+
+MARCIE	Parce que si c'est  ça il faut m'le dire...
+
+JOY	Quoi? Non! Non non non non... non je (_h) je l'jure, si (_h) j'l'ai même jamais embrassé!
+
+MARCIE	Je préfère!
+
+JOY	(rire)
+
+MARCIE	Ne me fais pas de frayeur, Joy. Ouh...
+
+JOY	(_h) Donc c'est vraiment mon petit-ami (_h)
+
+MARCIE	(_h)  Je n'approuve pas que vous alliez tous les deux dans son cabanon, je crois avoir été très claire là-dessus.
+
+JOY	Son cabanon? Juste lui et moi?
+
+MARCIE	Tu as dit que sa cousine venait avec vous.
+
+JOY	Oui, oui.
+
+MARCIE	T'es sûre?
+
+JOY	J'suis sûre. Oui. (h_)
+
+(BOUCLE 34 - 01:25:22:22)
+		34
+
+MARCIE	Joy?  Sors de la voiture, viens.
+
+JOY	(mfhh)
+
+MARCIE	Tu viens?
+
+JOY	Les Wellman
+
+(BOUCLE 35 - 01:26:08:24)
+		35
+
+MARCIE	Le vert et rouge, c'est un peu vu et revu, non?
+
+JOY	(hh__)
+
+MARCIE	ça va?
+
+JOY	Oui c'est juste que... Tout est tellement joli ici...
+
+MARCIE	ça renouvelle l'esprit de Noël, tu ne trouves pas?
+
+JOY	Oh, mon nom est sur une chaussette! (_h)
+
+MARCIE	Evidemment chérie.
+
+JOY	(h_)
+
+MARCIE	(h_) (_ h) Rien n'a changé. A moins que tu ne remarques que j'ai suspendu de nouvelles guirlandes.
+
+JOY	Oui. C'est peut-être bien ça.
+
+MARCIE	Le turquoise est une couleur gaie, n'est-ce pas? Tu veux manger quelque chose?
+
+(BOUCLE 36 - 01:26:47:10)
+		36
+
+JOY	Oh... Je ne me souviens pas de la dernière fois qu'on m'a fait une telle proposition.
+
+MARCIE	Ne sois pas sarcastique, tu dois suivre ton régime d'entrainement.
+
+JOY	Exact.
+
+MARCIE	Tu veux boire quelque chose?
+
+JOY	euhm.... Y'a du jus d'orange?
+
+MARCIE	Oui, bien sûr.
+
+JOY	Oh non, tiens,   de cranberry
+
+MARCIE	Si tu veux.
+
+JOY	Ou alors euhm Goyave?
+
+MARCIE	Il est au frais
+
+JOY	(h_) C'est la porte du royaume magique. (h_) Du calme. Donc, euhm... Tu es toujours là quand je rentre, n'est-ce pas?
+
+MARCIE	Oui, bien sûr.
+
+JOY	Et c'est toi qui cuisine  toujours tout ce que je mange, non?
+
+MARCIE	Oui, j'essaie. On est très exigeants envers ta santé, ton père et moi.
+
+JOY	(h_) Attends, C'est toi aussi qui fais le ménage, la lessive, ce genre de choses?
+
+MARCIE	Oui, mais... Pourquoi tu me demandes tout ça?
+
+JOY	Je... veux te dire merci. (_h)  C'est tout, on ne te le dis pas assez souvent sans doute On devrait.
+
+MARCIE	C'est vrai. Tu devrais monter dans ta chambre et t'allonger un peu.
+
+JOY	Oui, tu as raison.
+
+(BOUCLE 37 - 01:27:53:19)
+		37
+
+JOY	(_h) Maman
+
+MARCIE	Oui chérie?
+
+JOY	(_h) (h_) Rien, je... je vais me reposer.
+
+MARCIE	Essaie de faire une sieste.
+
+JOY	Oui... (h_) Tu as vraiment le sens ...de l'organisation.
+
+MARCIE	Je sais.
+
+JOY	Ouais (_h) Tu ne veux pas que je t'aide un peu?
+
+MARCIE	Ne t'occupe pas de ça ma chérie, repose-toi.
+
+JOY	Et voilà. C'est bon.
+
+MARCIE	Bon, je vais le boire...
+
+(BOUCLE 38 - 01:28:47:06)
+		38
+
+JOY	Waoh... Ahh (respi_ réacs____________________________________________________________) Yess! (rire_) Waoh_  C'est quoi, ça?  (hh_) (rire_) Ahh_ Ouh_ (rire_______) Ahh_ (rire- réacs joie____ (hh_)
+
+(BOUCLE 39 - 01:29:34:12)
+		39
+
+JOY	Hhaa_____ Hiii (rire_) (rire_) (respi- réacs________________
+
+(BOUCLE 40 - 01:30:29:15)
+		40
+
+JOY	(_h) ah! (rire___)
+
+EVE	Dis-donc!
+
+JOY	Eve!
+
+EVE	Il paraît que tu es rentrée tôt de l'école aujourd'hui
+
+JOY	Oui...
+
+EVE	C'est pas juste.
+
+JOY	Oh...
+
+EVE	On est des soeurs. N'est-ce pas? On doit toujours être à égalité.
+
+JOY	Oui. (_h) des soeurs... J'ai toujours rêvé d'avoir une soeur. (_hh)
+
+EVE	Tu te moques de moi?...
+
+JOY	Quoi? Non, non, je ne ferais jamais ça...
+
+EVE	Non, non, ah, je ne ferais jamais ça!
+
+JOY	Désolée, est-ce que j'ai dit ça comme ça? (_h) Ma voix devient aigüe quand je suis nerveuse.
+
+EVE	(_h) Maintenant j'aimerais bien faire un voeu pour Noël.
+
+JOY	Ah oui? Et qu'est-ce que tu voudrais?
+
+EVE	C'est pas pour moi. C'est pour toi.
+
+JOY	Qu'est-ce que c'est? (h_)
+
+EVE	Un vrai congé. Dont tu ne reviendrais jamais plus de ta vie!
+
+JOY	Oh
+
+(BOUCLE 41 - 01:31:24:08)
+		41
+
+__ROD	Northlake c'est l'idéal pour John, il  entraine ses 5 fils là-bas.
+
+MARCIE	Nous sommes à côté, tu as aussi un club de voile ici, et deux merveilleuses filles.
+
+__ROD	Au moins une est merveilleuse.
+
+MARCIE	Ne laisse pas tomber Eve!
+
+__ROD	C'est ce que tu disais pour Joy, quand on aurait presque dit qu'elle se droguait.
+
+MARCIE	Joy n'aurait jamais fait ça.
+
+__ROD	Pas toujours évident de trouver la bonne solution. Bon. Je vais réfléchir à tout ça.
+
+(BOUCLE 42 - 01:31:46:00)
+		42
+
+JOY	Non?  Sérieusement?          (rire_) Oh euhm... je dois raccrocher. Et encore merci de m'avoir appelée, Brie. Bye.
+
+__ROD	Tiens, glucides plus protéines Comment va ma sportive?
+
+JOY	Bien.
+
+__ROD	Tant mieux.  On s'est inquiétés.
+
+JOY	Mais je me sens bien maintenant. En fait,          je me sens mieux que bien, (_h) J'ai la pêche!
+
+__ROD	J'aime entendre ça. Dis-moi, euh... tu es inquiète pour le volley-ball?
+
+JOY	Ah non je...  ne crois pas.
+
+__ROD	Je sais que ces... championnats parfois ont tendance à...   à te déstabiliser.
+
+JOY	(_h) C'est tellement étonnant d'avoir l'impression de faire partie de  tout.
+
+__ROD	Bien sûr,  être capitaine implique plus de responsabilités.
+
+(BOUCLE 43 - 01:32:28:21)
+		43
+
+JOY	Euh... dis-moi... est-ce que je peux te demander... un truc?
+
+__ROD	Bien sûr. Vas-y.
+
+JOY	Hum... Est-ce que...       j'ai toujours été...   bonne en volley-ball?
+
+__ROD	Joy, qu'est-ce qui... t'arrive?
+
+JOY	C'est très surprenant, c'est tout... (_ h) qui l'aurait cru, j'étais à peine coordonnée.
+
+__ROD	Waoh, nous avons travaillé dur pour en arriver là aujourd'hui.
+
+JOY	Oh j'imagine. Et tout le monde sait qui je suis à l'école.
+
+__ROD	Tu es un leader.
+
+JOY	J'ai bien reçu une centaine de textos aujourd'hui.
+
+__ROD	Allez, je veux que tu dormes tôt ce soir, pas de téléphone. J'ai prévenu Tom que tu avais besoin de repos.  Je veux que tu éteignes dès que tu as dîné.
+
+JOY	D'accord. Hum... Attends, attends, pour mes devoirs je fais comment?
+
+__ROD	Les devoirs? Ecoute, (_h) si un de tes profs te fait une réflexion demain, j'interviendrai.
+
+JOY	Cool.
+
+__ROD	Oh, et demain matin, retour au programme normal.
+
+JOY	Tu crois?
+
+__ROD	Oui
+
+(BOUCLE 44 - 01:33:22:20)
+		44
+
+__ROD	Ouh ! Debout, et avec le sourire!
+
+JOY	(hh_) Attends...
+
+__ROD	Allez, on a 8 kilomètres à faire avant que la planète ne se réveille! Debout ma petite sportive!  Wouh, wouh, wouh!  C'est parti!
+
+JOY	(_h_h_h ) Ahh! (h_) (_h) mais... (h_) Quelle heure est-il? Oh! (h_)
+
+__ROD	On y va!
+
+JOY	5 heures 35? (hha_) D'accord...    D'accord, j'arrive J'arrive
+
+(BOUCLE 45 - 01:33:55:22)
+		45
+
+__ROD	Quel parcours tu veux faire?
+
+JOY	Euh... le plus court?
+
+__ROD	Nan! Le plus long, par le parc.
+
+JOY	Par le parc?
+
+__ROD	Est-ce que ça va?
+
+JOY	(cris de joie______)   Je sais vraiment courir! (rire___)    Allez, suis-moi!
+
+__ROD	Okay! (respi course______) Premier arrivé?
+
+JOY	Allez!
+
+__ROD	Okay!
+
+(BOUCLE 46 - 01:34:33:08)
+		46
+
+JOY	respi_ petits cris_______ (_h) J'ai gagné! (rire__)
+
+__ROD	(respi essoufflé__________________)
+
+JOY	(_h) J'ai couru si lontemps! C'était génial! (_h_h) Et je t'ai battu, toi!
+
+__ROD	Oui... Tu n'y arrivais pas.
+
+JOY	(rire_ _h) C'est vrai?
+
+__ROD	Non. (petits bruits récupération________________________________________________________)
+
+JOY	Oh. Ohh  ouais! Euh tu sais quoi? (_h) Peut-être que c'est tout le sommeil que j'ai eu en plus hier. Je parie que tu me battras demain.
+
+__ROD	Ouais. On verra. Bon, tu veux... prendre ton petit-déjeuner? Ahh_ (huh_     huh        )
+
+JOY	Hum J'arrive dans une minute.
+
+__ROD	Oui_ Oui_
+
+JOY	Est-ce que ça va?
+
+__ROD	Ouais!     ouais...
+
+(BOUCLE 47 - 01:35:21:07)
+		47
+
+JOY	Lévi, arrête!    Shhh  Salut. Oh oui, c'est bon (rire___) Tu exagères... (h_) Je sais c'est moi ta préférée... (rire______)
+
+ZACK	Hé!
+
+JOY	Zack...
+
+ZACK	Casse- toi de ma propriété!
+
+JOY	Excuse-moi?...
+
+ZACK	Je veux que ni toi, ni ton petit survêt moulant ne vous approchiez de mon chien. Il mord! Quoi, t'as déjà oublié?
+
+JOY	(hh_) C'est pas vrai, ne dis pas ça!
+
+ZACK	Alors pourquoi ta famille porte plainte contre lui auprès de la commission de santé?
+
+JOY	Je-je ne savais pas ça.
+
+ZACK	J'en ai rien à faire. Barre-toi, sinon j'appelle les flics. Allez!
+
+JOY	Désolée.
+
+(BOUCLE 48 - 01:36:02:00)
+		48
+
+JOY	(h_)
+
+EVE	(soupir__)
+
+MARCIE	L'entrainement s'est bien passé?
+
+JOY	Oui c'était génial...
+
+EVE	Joy et moi prenons le même petit-déjeuner, il faut qu'on soit à égalité.
+
+JOY	Merci.
+
+MARCIE	7 heures 35, aboiement avec de brèves interruptions
+
+JOY	Que se passe-t-il?
+
+EVE	Quand a lieu la prochaine audition?
+
+MARCIE	Dans 3 semaines. Le juge a ordonné une chirurgie des cordes vocales, et s'ils ne s'exécutent pas, il faudra le faire piquer .
+
+EVE	(rire_)
+
+JOY	Mais... Vous êtes en train de parler du chien des Hockstatter? Lévi?
+
+(BOUCLE 49 - 01:36:37:20)
+		49
+
+MARCIE	Il est très important qu'on se débarrasse de ce chien.
+
+JOY	Pourquoi?
+
+EVE	(hh_ inspi_ souffle avec les lèvres)
+
+JOY	Elle va bien?
+
+MARCIE	Tu sais, le chien des Hockstatter déclenche des crises d'angoisse chez ta soeur.
+
+EVE	(h_) tu le sais.
+
+JOY	Oh.
+
+EVE	(inspi__)
+
+MARCIE	Les matins sont difficiles pour ta soeur. Mais on ne peut pas dormir tous les jours jusqu'à midi...
+
+EVE	Non
+
+MARCIE	Non... Les cures ne sont pas reservées aux seuls toxicomanes, Joy.
+
+EVE	Non.
+
+JOY	Je sais, oui... Evidemment que non. Tu en as besoin?
+
+EVE	Ne me touche pas.
+
+MARCIE	Tu pourrais monter.... ton assiette, et manger pendant que tu te prépares, ta soeur va t'emmener à l'école. (hh)
+
+JOY	(hhé_)
+
+MARCIE	J'ai besoin du couteau, pardon...
+
+(BOUCLE 50 - 01:37:18:07)
+		50
+
+JOY	Eve, puisqu'on est toutes les deux... Je veux que tu saches que tout ce que j'ai est à toi... Tu sais, je veux absolument tout partager avec toi.
+
+EVE	Le Docteur Mike... dit que je dois être maître de mon destin.
+
+JOY	Oh, c'est une bonne idée.
+
+EVE	(_h) mais je ne sais pas comment.
+
+JOY	Bon, est-ce que... je peux faire quelque chose?
+
+EVE	Oui.
+
+JOY	(h_)
+
+EVE	(_h) tu peux sortir de ma voiture!
+
+JOY	Quoi? (_hh) Oh...
+
+EVE	Vas-y!
+
+JOY	Pardon.
+
+(BOUCLE 51 - 01:37:56:10)
+		51
+
+JOY	Salut.
+
+TOM	Voilà ma Joy. Salut bébé.
+
+JOY	(rire_) Salut Tom Addison. (glousse_) (X)
+
+TOM	(X) (hh_)
+
+JOY	(glousse_)
+
+TOM	Tu te sens mieux?
+
+JOY	Mm-mh (glousse_) (snif_)
+
+TOM	Tu sais que...   tu m'as manqué hier soir, et pas qu'un peu!
+
+JOY	(h_) Mais... A moi aussi
+
+TOM	Je n'arrêtais pas de penser à ce cabanon, avec toi... J'étais brûlant, j'avais l'impression de devenir fou. (rire_)
+
+JOY	(rire_) (_h) mais... (_h) Tu te sens mieux maintenant?
+
+TOM	Oui si toi tu vas bien.
+
+JOY	Oui. Je vais très bien.
+
+TOM	Génial! (rire___)
+
+JOY	Salut. (_h)
+
+(BOUCLE 52 - 01:38:49:15)
+		52
+
+TOM	Tu n'as pas vu un autre garçon hier soir, hein?
+
+JOY	Quoi? Non!
+
+TOM	Tu le jures?
+
+JOY	Oui, j'te jure. J'étais malade, en plus pourquoi... pourquoi je ferais un truc pareil?
+
+TOM	Si-si-ja-jamais je découvrais que tu étais avec quelqu'un d'autre, je...
+
+JOY	Tom, Tom. Ecoute, tu es le seul qui compte à mes yeux.
+
+TOM	Ah oui?
+
+JOY	Oui.
+
+TOM	(h_) Dis-le encore.
+
+JOY	(rire_)
+
+TOM	(rire___)
+
+JOY	(gorge_) li-littéralement?
+
+TOM	Oh ouais.
+
+JOY	Oh. euhm... (hum_) (_h) Tu es le seul qui compte à mes yeux.
+
+TOM	(h_) Ah, je l'adore! (h_)
+
+JOY	(rire_)
+
+TOM	Tu pourrais le dire plus fort?
+
+JOY	J'ai une idée! Je vais le marquer sur une feuille, tu pourras le lire quand tu auras envie.
+
+TOM	huh Okay
+
+JOY	(h_) euhm Voilà.
+
+(BOUCLE 53 - 01:39:37:13)
+		53
+
+TOM	(_h hmm)
+
+JOY	(h_)
+
+TOM	(rire_)
+
+JOY	ça y est...
+
+TOM	(h_)
+
+JOY	Bon, je crois...
+
+TOM	(hh_)
+
+JOY	on devrait peut-être y aller.
+
+TOM	Oui, alors... on se voit après les cours...
+
+JOY	D'accord
+
+TOM	Euh, où penses-tu aller comme ça?
+
+JOY	Quoi?
+
+TOM	T'as entrainement avec l'équipe de volley en première heure.
+
+JOY	(h_) Exact! Ouais! (_h expi-nez_) ça devrait être intéressant... (réac_)
+
+TOM	Pense à moi. (rire_)
+
+JOY	(petit rire_)
+
+TOM	(hm-hm-hm) (_hh) Oui?
+
+JOY	Oui.
+
+(BOUCLE 54 - 01:40:14:21)
+		54
+
+JOY	(inspi_) (mhh_) (_h) Tu as passé la nuit à lancer des cyber attaques?
+
+SAM	Excuse-moi?
+
+JOY	(h_) T'inquiète C'est notre secret.
+
+SAM	On a un secret, nous?
+
+JOY	(h_) Sam. C'est moi, Joy. On est allés au bowling pour Halloween, t'as oublié? On a tous les deux attrapé la varicelle de Ronnie Oldhauser quand on était au CE 2!
+
+SAM	(hh_) Alors là j'sais pas ce que tu racontes.
+
+JOY	Enfin, on-on a (_h) réalisé un projet de service communautaire au refuge d'animaux l'été dernier! On a passé 1 mois sans rien manger d'orange en CM2 !
+
+(BOUCLE 55 - 01:40:56:07)
+		55
+
+JOY	On a fait de la Céramique... on a (_h) peur des araignées tous les deux.
+
+SAM	Euh... pas moi, j'ai pas peur des araignées.
+
+JOY	Si voyons... Si tu veux... ça reste entre nous. Ecoute, (_h) on aime regarder les mêmes séries, non? (_h) (_h) et on lit souvent les mêmes livres, et.... et, et tu... (_h) tu  étais là pour moi... tu étais là quand maman est tombée malade. (_h) Tu t'en souviens quand même, non?
+
+SAM	Ecoute, on va à l'école ensemble depuis qu'on a 5 ans.
+
+JOY	Exact.
+
+SAM	Tu ne m'as pratiquement jamais adressé la parole. On devrait continuer comme ça.
+
+JOY	(h_) (h_) (_h h_)
+
+(BOUCLE 56 - 01:41:48:17)
+		56
+
+AMBIANCE	(entrainement  volley-ball Filles___________________________________
+
+JOY	(h_) okay...
+
+GIRLS VOLLEY	Joy ! Joy ! (réacs____________
+
+COACH WEBER	Approchez les filles! Alors... Joy tu vas bien aujourd'hui?
+
+JOY	Oui!
+
+COACH WEBER	parce que si tu nous couves quelque chose, tu dois me le dire, et on étouffera ça dans l'oeuf.
+
+JOY	Non, j'vais bien.
+
+COACH WEBER	Tant mieux, superstar. Pfrrr
+
+JOY	(hh_)
+
+COACH WEBER	Bien, dans 2 jours nous allons affronter les Churchill en finale du championnat, et l'année a été dure, j'en suis consciente. Nous avons affronté certains adversaires impressionnants. Alors demandez-vous : pourquoi avons-nous été capables de gagner? hmm?
+
+GIRL VOLLEY	Parce que nous avons Joy?
+
+COACH WEBER	Oh, d'accord. C'est vrai. Je n'attendais pas cette réponse, mais oui!  Oui! Elle est une actrice importante (_h) de notre - mon, notre succès.
+
+JOY	Ah oui?
+
+COACH WEBER	Absolument. C'est reparti. Ne me fais pas attendre, donne-m'en un.
+
+JOY	Encore!
+
+COACH WEBER	(rire_) (_hh) Mais moi, Je dirais travail d'équipe. D'accord? Former un bloc en étant solidaires. comme ça.
+
+(BOUCLE 57 - 01:43:02:01)
+		57
+
+COACH WEBER	J'aimerais constater que vous êtes d'accord avec ça.  Allez, faisons un match amical pour s'échauffer, venez ici mesdames!
+
+JOY	Oui!
+
+GIRLS VOLLEY	1...2...3... Break!
+
+COACH WEBER	1, 2, 3, Break!
+
+JOY	Break! (hh_)
+
+COACH WEBER	Assure.
+
+JOY	Break (petit rire_)
+
+COACH WEBER	Joy!
+
+JOY	Mmh__
+
+COACH WEBER	(bruit_) C'est à toi.
+
+JOY	yep
+
+COACH WEBER	Ah ah ah ! Adorable. Soyez dynamiques les filles!
+
+JOY	Allez! (h_)
+
+COACH WEBER	Faites tourner! Appelez-le ballon!
+
+JOY	(effort_) (h_) (_h) Yess!
+
+(BOUCLE 58 - 01:43:50:07)
+		58
+
+AMBIANCE	(brouhah étudiants G/F_________________
+
+GIRLS VOLLEY	(brouhaha sortie vestiaire____)
+
+JOY	Vous avez super bien joué, aujourd'hui! Toi, t'étais incroyable! euhm, Alors, c'est demain la finale, il va falloir... Je, j'ai... On se retrouve tout à l'heure... Je dois passer à la bibliotheque.
+
+GIRL VOLLEY	C'est ça, oui...  Tu vois Tom dans la réserve, sans doute...
+
+JOY	(hmm) très drôle!
+
+GIRLS VOLLEY	(rires_______________
+
+JOY	Bye.
+
+(BOUCLE 59 - 01:44:28:06)
+		59
+
+JOY	Salut! J'adore tes chaussures. (h_) Non, non, c'est vrai. (_h)  Tu sais que je ne vais plus au cours de musique maintenant... (_h) mais je suppose que toi non plus... Tu n'as jamais vraiment aimé le haut-bois. (_h) Hé, euh...  tu veux savoir un secret? Tom Addison, Il sent vraiment la tarte aux pommes chaude.
+
+MONTANA	Qu'est-ce que tu m'veux?
+
+JOY	On était amies voyons.
+
+MONTANA	Sur une autre planète?
+
+JOY	Oui, c'est un peu ça, en fait.
+
+MONTANA	Je n'ai pas joué de haut-bois depuis l'école primaire. Pourquoi tu viens me parler?
+
+JOY	(_h) je pensais que peut-être on pourrait, j'sais pas, faire des trucs ensemble, toi et moi... J'ai l'impression qu'on s'entendrait bien... C'est vrai! On peut quand même essayer? Si ça te dit... D'accord?
+
+MONTANA	Je pourrais te dénoncer pour harcèlement.
+
+JOY	(hmm) C'est gentil.
+
+(BOUCLE 60 - 01:45:35:09)
+		60
+
+AMBIANCE	Applaudissements, réacs supporter sur toute la boucle __________________________________________________  _
+
+COACH WEBER	Merci................................    merci.............. Okay, quelqu'un a l'esprit d'école parmi vous?
+
+AMBIANCE	(réacs supporter_________________________________________________
+
+JOY	Ouais!
+
+BRIE	Ouais!
+
+CHANEL	Ouais!
+
+COACH WEBER	Je n'entends rien! Woh woh... Voilà c'est mieux comme ça! C'est mieux comme ça. Joli travail. Demain, l'équipe fille de volley-ball joue contre Churchill en finale de la coupe du Championnat d'état.
+
+AMBIANCE	(fin ambiance)
+
+COACH WEBER	Et on va les écraser juste comme ça ! J'ai raison ou pas?
+
+AMBIANCE	(réacs________
+
+COACH WEBER	Oui, j'ai raison!
+
+TOM	OUh.................... WaouH.........
+
+JOY	WOUH................
+
+COACH WEBER	Merci, merci. Et maintenant je veux vous présenter quelqu'un, une de nos athètes qui va dire quelques mots, et cette personne est... c'est...    Oh, bon sang, elle est le... pilier de notre équipe, et....      à chaque match elle nous sort de situations critiques, elle joue pour toute l'équipe, elle aide tout le monde,    pas que moi, mais moi c'est sûr!
+
+(BOUCLE 61 - 01:46:29:03)
+		61
+
+COACH WEBER	Je sais que vous savez de qui je parle (snif_) je ne devrais pas pleurer... (snif_)   Bref, je l'aime,  et je sais que vous l'aimez aussi! Elle est seulement en seconde année, mais c'est de loin la star de toute la ligue! Vous savez de qui je parle alors faites du bruit...  pour Joy Wellman!
+
+JOY	Quoi?
+
+TOM	baiser
+
+COACH WEBER	Viens ... Allez, Joy, tu ne feras croire à  personne que tu es timide.
+
+JOY	Mais je, euh...
+
+COACH WEBER	Viens là ma jolie.
+
+TOM	Wouh !
+
+JOY	Oh mon dieu.
+
+COACH WEBER	Allez, on y va! (Grrrrrr)  Je voudrais ne plus jamais te lâcher! (rire_)  Tu sens bon, tes cheveux sont si doux... Elle peut tout faire!
+
+(BOUCLE 62 - 01:47:17:12)
+		62
+
+JOY	(_h)  Tom... (h_)
+
+COACH WEBER	(hm)
+
+JOY	(_h euhm) (h_) (h_) (h_)
+
+COACH WEBER	Oui_ Jusqu'ici tout va bien.
+
+JOY	J'suis désolée.
+
+COACH WEBER	Tu sais quoi? Dis à tout le monde le fond de tes pensées! Ouaip
+
+JOY	(h_) (h_) Sam...  Walker.... sort avec Mimi Taggelmeier? (_hh) C'est quoi cette histoire?
+
+AMBIANCE	(réacs public H/F_ rires_ commentaires____________________
+
+JOY	(_h) Je suis désolée.
+
+(BOUCLE 63 - 01:48:21:06)
+		63
+
+COACH WEBER	Non, tu étais très bien.
+
+JOY	C'est gentil, mais je... je ne crois pas que je sois faite pour parler en public
+
+COACH WEBER	Arrête, c'est pas ta faute, c'était l'assistance. Ils étaient puants, crois-moi. En plus, la pression te provoque des réactions bizarres. Essaie juste d'oublier tout ça.
+
+JOY	(mfh_) Merci coach Weber.
+
+COACH WEBER	De rien. Et... Appelle-moi coach.
+
+(BOUCLE 64 - 01:48:38:01)
+		64
+
+JOY	Coucou.
+
+MARCIE	Alors, c'était comment?
+
+JOY	C'était bien... (petit rire) (_h) Hé, pourquoi c'est pas Eve qui me ramène?
+
+MARCIE	Vos emplois du temps sont différents, tu le sais.
+
+JOY	Exact.
+
+MARCIE	Elle commence ses cours de Kickboxing cet après-midi.
+
+JOY	Oh...
+
+MARCIE	Est-ce que...
+
+JOY	Kickboxing...
+
+MARCIE	Tu voulais qu'elle vienne avec toi chez le docteur Mike?
+
+JOY	Oh non. Non. (_h) Sauf si c'est ELLE qui veut m'accompagner chez le docteur Mike. (_h) Rappelle-moi qui est le docteur Mike.
+
+MARCIE	C'est le spécialiste chargé de ta préparation physique.
+
+JOY	Ah oui?
+
+MARCIE	Et ton coach de vie aussi.
+
+JOY	Donc le sport c'est ma vie en fait.
+
+MARCIE	Oui...
+
+JOY	(h_)
+
+MARCIE	On pourrait dire ça.
+
+(BOUCLE 65 - 01:49:23:11)
+		65
+
+DR MIKE	Alors comment s'est passé le week-end?
+
+JOY	Plutôt mitigé
+
+DR MIKE	Est-ce que vous avez des soucis avec votre famille? Vous pouvez tout dire au docteur Mike.
+
+JOY	(h_) (_h) Le docteur Mike me prend pour une barjo.
+
+DR MIKE	Et vous, vous vous sentez barjo? "se sent -  un peu -  barjo"
+
+JOY	(_h) Est-ce que vous...   ne cessez jamais de prendre des notes?
+
+DR MIKE	Oh (rire_) (_h) Je ressens comme une pointe d'hostilité...
+
+JOY	(h_)
+
+DR MIKE	Bien... Et vos sentiments à l'encontre de   Tom?
+
+JOY	Tom? Alors, là, je... Je n'arrive pas à croire à quel  point il m'aime .
+
+DR MIKE	Ah-ah?
+
+JOY	Mais oui... (rire) c'est dingue.
+
+DR MIKE	Il met toujours la pression pour avoir des relations sexuelles?
+
+JOY	Excusez-moi.
+
+(BOUCLE 66 - 01:50:06:04)
+		66
+
+DR MIKE	Vous n'êtes pas obligée d'aller au cabanon si vous n'en avez pas envie.
+
+JOY	(rire____) je ne... (_h) je ne... je n'ai pas tellement envie de parler de ça maintenant. Pas du tout.
+
+DR MIKE	Oh, d'accord... Okay.. Alors, donc, comment ça se passe avec votre... soeur aînée?
+
+JOY	Eve.
+
+DR MIKE	Euh... vous avez une autre soeur aînée?
+
+JOY	Oui. C'est quoi cette histoire avec ma soeur?
+
+MILES	On veut tester le docteur Mike aujourd'hui? (rire_)
+
+JOY	(h_) J'ai toujours pensé qu'elle était si épanouie.
+
+DR MIKE	(_h) Eve a l'impression de vivre dans votre ombre. (_h) Et votre réussite lui donne un sentiment d'infériorité. (_h)  Certaines personnalités ont un caractère...  mieux adaptés à ... un enfant unique.
+
+JOY	ça craint.
+
+DR MIKE	Oui, c'est vrai. Et vous ne devez pas oublier de donner à Eve sa propre lumière.
+
+JOY	Oui_ J'essaierai.
+
+(BOUCLE 67 - 01:51:04:17)
+		67
+
+DR MIKE	Excellent!   ça progresse!
+
+JOY	Sans blague.
+
+DR MIKE	(rire__) Bon, essayons quelques associations de mots, je vois que vous êtes très réceptive aujourd'hui.
+
+JOY	Allons-y.
+
+DR MIKE	dites juste ce qui vous passe par la tête. Prête?
+
+JOY	Oui.
+
+DR MIKE	C'est parti. Bam.
+
+JOY	Sam.
+
+DR MIKE	Sam?
+
+JOY	Oui, il, euhm... (_h) On est dans la même école. C'est mon poto.
+
+DR MIKE	Poteau?
+
+JOY	Un... poto... Mon meilleur ami.
+
+DR MIKE	Oh! Je vois.
+
+JOY	Enfin c'est ce qu'il était avant...
+
+DR MIKE	Okay. On continue, on va en essayer un autre, d'accord?
+
+JOY	Oui.
+
+DR MIKE	Ne pensez à rien.
+
+JOY	(snif_)
+
+DR MIKE	Prête? (souffle_)
+
+JOY	Loin
+
+DR MIKE	Vraiment?
+
+(BOUCLE 68 - 01:51:59:00)
+		68
+
+MARCIE	Alors, le docteur Mike?
+
+JOY	Génial... (_h) Il voudrait que tu prennes rendez-vous avec lui.
+
+MARCIE	Moi? Tu devrais faire les poids et ensuite ton cardio.
+
+JOY	Attends. Je ne devrais pas... faire mes devoirs d'abord?
+
+MARCIE	L'entrainement d'abord. Les devoirs s'il te reste du temps. Tu connais les règles.
+
+JOY	(h_) Evidemment. Ouais. (rire_)
+
+MARCIE	Essaie d'aller jusqu'à 110!
+
+(BOUCLE 69 - 01:52:32:05)
+		69
+
+JOY	(h_) Wow_ (h_) (inspi-dents) (Mmh_) Miles ? Mais qu'est ce que... (_hh) Oh, alors là je rêve!
+
+(BOUCLE 70 - 01:53:17:17)
+		70
+
+JOY	Hé! Mais ! Ce sont les décorations de notre mamie!
+
+MILES	Comment tu sais que ça appartient à notre mamie? Tu nous espionnes ou quoi?
+
+JOY	(_h) Quoi? (_h) Pose... ça... tout de suite. (_h) Mais qu'est-ce que tu fais?! (h_) (effort) (hha_) (_h_h) (_h) Tu as quelque chose à dire pour ta défense?
+
+MILES	Tu vas avoir de gros  problèmes figure-toi!
+
+JOY	(_h) Quoi?
+
+MILES	Je vais dire à mon père ce que tu as fait.
+
+JOY	Oh,  tu vas lui dire ce que  moi j'ai fait!
+
+MILES	Ouais!
+
+JOY	Dis-lui donc ce que toi tu as fait, hein?! (_h) Tu n'as pas le droit de jouer avec les allumettes, je te l'ai toujours dit ! Et reste-là!!
+
+MILES	Va te faire voir!
+
+JOY	(h_)
+
+(BOUCLE 71 - 01:54:10:16)
+		71
+
+MARCIE	(chantonne___) Où étais-tu?
+
+JOY	Un... petit garçon avait lancé son ballon dans le jardin.
+
+MARCIE	Et tu lui as rendu?
+
+JOY	Oui...
+
+MARCIE	Joy! Tu sais qu'on est en procès avec ces gens!
+
+JOY	Ah, pardon, je...   je n'ai pas réfléchi.
+
+MARCIE	(h_) Tu ferais mieux de retourner à tes exercices, ton père vient de rentrer.
+
+JOY	(h_) oui, j'y vais (_h) Oh, les poids, vite! Vite, vite, vite! Allez! (mmh_) 101... 102... (_h) Oh...  Salut! Je termine les poids.
+
+__ROD	Bien. Où est Eve?
+
+JOY	Euh... A son premier cours de Kickboxing.
+
+__ROD	Ah, c'est toujours mieux que toutes ces heures passées à lancer la hache. (mmh)
+
+JOY	(_h)
+
+(BOUCLE 72 - 01:54:57:04)
+		72
+
+JOY	(h_) (_h) Regarde... (_h) regarde pas... (h_) Pauvre papa... (h_) papa (_h h_) Qu'est-ce qui se passe?
+
+(BOUCLE 73 - 01:55:37:11)
+		73
+
+JOY	uh-huh... uh- huh Wow, c'est dingue...
+
+__ROD	Joy.
+
+JOY	huh
+
+__ROD	Tout va bien?
+
+JOY	Oh! Euhm... Tom, mon père veut me parler, quitte pas.
+
+__ROD	Tu as pris ton sachet de vitamines?
+
+JOY	Oui. Et j'ai mis de la glace sur mes genoux, et terminé ma boisson protéinée. (_h) Est-ce qu'on va courir demain ?
+
+__ROD	(h_) A ton avis?
+
+JOY	C'est toi qui décide.
+
+__ROD	Excellente réponse.
+
+JOY	D'accord.
+
+__ROD	Dors bien la sportive.
+
+(BOUCLE 74 - 01:56:17:21)
+		74
+
+MARCIE	Bonsoir Eteins vite.
+
+JOY	Maman Est-ce que j'ai déjà joué d'un instrument?
+
+MARCIE	Tu adorais la musique quand tu étais petite. Toujours en train de chanter, de t'inventer des instruments!
+
+JOY	(mfh_)
+
+MARCIE	On aurait dit les frères Jonas! Enfin, tu n'as pas de frère, et tu n'es pas un garçon, non plus... Mais tu aimais la musique.
+
+JOY	D'accord. Dans ce cas, tu n'as jamais pensé à me faire prendre des cours?
+
+MARCIE	Joy, avec ton emploi du temps?
+
+JOY	Oui, je sais, je m'disais juste que si...
+
+MARCIE	Tu sais ce que ton père dit toujours? Personne n'a jamais eu besoin de boisson énergétique pour jouer du violon.
+
+JOY	Je vois.
+
+MARCIE	Raccroche le téléphone.
+
+JOY	J'demande que ça. (_h) (gorge_) Hé, Tom, tu sais... on parle depuis une heure, okay, je... mes parents veulent que je dorme. Non, je sais mais de toutes façons tu vas me voir demain. Oui. Oui tu es le meilleur. Tu es le seul, (_h) tu es un vrai prince. Oui, d'accord. Tu me manques, mais je vais raccrocher maintenant, il faut que je te laisse, je raccroche, oui, toi aussi tu me manques... moi encore plus, On se voit demain.
+
+(BOUCLE 75 - 01:57:24:12)
+		75
+
+JOY	(snif_) (h_) (gémit_) expi-nez_) (h_) (mmh) (_h) Qu'est-ce que... (_h) (h_)
+
+(BOUCLE 76 - 01:58:12:12)
+		76
+
+JOY	Lévi, boucle-la... Ahh_   Excusez-moi Que se passe-t-il?
+
+OFFICER CROWLEY	Rien de très grave.
+
+JOY	Euh.... écoutez...  je connais les Hockstatter depuis toujours. Est-ce que tout va bien?
+
+OFFICER CROWLEY	Oui, tout va bien.
+
+JOY	Si tout allait bien, vous ne seriez pas là à cette heure de la matinée.
+
+OFFICER CROWLEY	Vous ne jouez pas au volley-ball avec Roosevelt?
+
+JOY	Oui.
+
+OFFICER CROWLEY	Et vous courez aussi le relais, (_h) oui, oui, oui, c'est vous la fille qui avez réalisé ce temps incroyable au 100 m
+
+JOY	En effet. (h_) (_h) Alors, est-ce que vous... pouvez me dire ce qui se passe?
+
+OFFICER CROWLEY	Bon, (_h) L'adolescent qui vit ici a filé cette nuit.
+
+JOY	Zack. Vous êtes, vous êtes sûr?
+
+OFFICER CROWLEY	Oui, il a laissé un mot. Mais ne vous en faites pas, la plupart de ces gosses reviennent d'eux-même. Et on est sur le coup.
+
+JOY	(h_) (h_)
+
+(BOUCLE 77 - 01:59:02:04)
+		77
+
+__ROD	Joy!
+
+JOY	Désolée.
+
+__ROD	Qu'est-ce que ça veut dire?
+
+JOY	Zack Hockstatter s'est enfui cette nuit.
+
+__ROD	Oh! Et tu vas risquer un coup de froid ou pire en courant dans tous les sens en petite tenue?
+
+JOY	Non, en fait j'ai vu la police, alors j'ai voulu savoir de quoi il s'agissait.
+
+__ROD	(hha_) ça ne me surprend pas que ce gosse ait fugué, il a une telle expression de haine sur le visage,  à longueur de temps.
+
+JOY	Ne dis pas ça, ce n'est pas son  genre. (_h) Il est inventif, et, et il est marrant, et il est gentil aussi, parfois... (_h) tout n'a pas été facile depuis que sa mère est morte.
+
+__ROD	Joy, d'où sors-tu tout ça?
+
+JOY	Je trouve que c'est pas bien de dire des choses méchantes sur les gens.
+
+MARCIE	(pleure/gémit_____________
+
+__ROD	Qu'est-ce que tu as Marcie?
+
+MARCIE	(_h_h) (bafouille________).
+
+__ROD	Qu'est-ce qui se passe?
+
+MARCIE	(pleure__________) Eve s'est enfuie...   Elle a laissé un mot...
+
+__ROD	Quoi?
+
+(BOUCLE 78 - 02:00:03:17)
+		78
+
+MARCIE	(pleure doucement___________________________)
+
+__ROD	D'accord. Merci. Le docteur Mike pense que ça a quelque chose à voir avec ton match de volley-ball. Il pense qu'on est plus ou moins dans la même situation qu'avec le championnat de softball.
+
+JOY	Exact. Et même quand je jouais au softball
+
+MARCIE	Elle avait mis le feu au garage...
+
+JOY	Comment peut-on oublier ça?
+
+MARCIE	(_h) Qu'est-ce que le docteur Mike nous conseille de faire?
+
+__ROD	Il ne veut pas qu'on appelle la police.
+
+JOY	Pourquoi?
+
+__ROD	Voyons, elle est en probation, depuis qu'elle a mis le feu à la maison.
+
+MARCIE	Ils pourraient la priver de ses plus belles années....
+
+__ROD	Exactement.
+
+JOY	Exact. Tout ça c'est  ma faute. (_h)
+
+MARCIE	Non, ma chérie, non, ne dis pas ça.
+
+JOY	Oh si, crois-moi, c'est de ma faute.
+
+__ROD	Pour l'instant, l'important c'est de rester confiant,   d'accord? .
+
+JOY	Attendez... (_h)        (mts) Et si on allait voir à côté? (_h) Il ne faut pas l'oublier, Zack est parti aussi, ça   ne peut pas être une coïncidence.
+
+__ROD	(Le docteur Mike suggérait d'interroger les voisins )
+
+JOY	Tu vois, génial.
+
+MARCIE	Oh mon dieu...   C'est tellement évident!
+
+JOY	Quoi?
+
+MARCIE	Elle a été kidnappée par le psychopate d'à côté.
+
+(BOUCLE 79 - 02:01:02:23)
+		79
+
+__ROD	Bingo!
+
+JOY	Quoi?
+
+MARCIE	Ma petite fille... Je m'en doutais...
+
+JOY	Mais sa voiture n'est plus là.
+
+__ROD	C'est évident, il a volé la voiture d'Eve pour l'emmener.
+
+JOY	Elle a laissé un mot,  ça n'a aucun sens!
+
+__ROD	Il lui a fait écrire sous la contrainte.
+
+JOY	Quoi?
+
+MARCIE	Tu crois qu'il lui a mis une arme sur la tempe?
+
+JOY	Non, Zack ne ferait jamais ça.
+
+__ROD	Tu sais quoi, on va y aller tout de suite!
+
+MARCIE	Ce sale petit crétin.
+
+__ROD	Allons-y !
+
+JOY	Moi aussi?
+
+__ROD	Joy!  Dépêche-toi!
+
+JOY	(_h_h_h) j'arrive
+
+(BOUCLE 80 - 02:01:27:20)
+		80
+
+JOY	Shhh Hé ! Non, non! non, oublie la balle. Pas la balle On s'connait pas, tu comprends?
+
+__ROD	Ce cinglé de chien a vraiment l'air de bien t'aimer.
+
+JOY	Ouais, c'est trop bizarre... Shhhhh Hé! Pas de-ça, d'accord?
+
+__ROD	Nous voulons parler à ton père.
+
+MILES	soupire_
+
+(BOUCLE 81 - 02:02:00:19)
+		81
+
+BOB	(h_) (h_) Bonjour. Désolé, je vous fixais... Quelque chose m'est tellement familier chez vous.
+
+JOY	Je suis... Je suis votre voisine la plus proche. (h_)
+
+BOB	Non, ça n'a rien à voir du tout... Ah, j'y suis! Ce sont vos yeux! Regarde, elle a les yeux de mon grand frère.
+
+JOY	Oncle Timmy.
+
+BOB	Oui... Comment vous savez ça?
+
+__ROD	Il faut qu'on parle.
+
+BOB	Oui... D'accord. Euh... Entrez.
+
+JOY	Pose-moi ça.
+
+(BOUCLE 82 - 02:02:38:09)
+		82
+
+__ROD	(h_) Il parait que votre fils, Zack, a disparu.
+
+BOB	Vous savez où il est?
+
+MARCIE	Comment le saurait-on?
+
+__ROD	Notre fille aînée, Eve, a également disparu cette nuit.
+
+BOB	Oh! Euh... Peut-être sont-ils partis ensemble?
+
+__ROD	Nous pensons que votre fils a enlevé notre fille.
+
+BOB	Pardon?
+
+__ROD	Vous avez bien entendu.
+
+BOB	Mon fils ne connait même pas votre fille, il est scolarisé à domicile, il sort à peine de la maison!
+
+JOY	Quoi? Il est scolarisé à la maison? C'est pour ça que je ne le vois jamais à Roosevelt.
+
+MILES	Zack et Eve s'appellent sur Face Time depuis des mois. Ils ont aussi des noms de code. Lui c'est Dark Vador et elle c'est Lizzie Borden!
+
+MARCIE	Vous voyez.
+
+BOB	Bon, mais ça ne veut pas dire qu'il l'a enlevée.
+
+JOY	C'est peut-être comme Roméo et Juliette.
+
+__ROD	Ce serait plutôt du style "Nés pour tuer".
+
+MARCIE	oh, c'est le film préféré de notre fille.
+
+BOB	okay. Il semblerait effectivement qu'ils sont partis ensemble.
+
+(BOUCLE 83 - 02:03:26:10)
+		83
+
+BOB	Elle a laissé un mot?
+
+JOY	(_h) En fait, euh...
+
+__ROD	Nous ne ...            sommes pas venus ici pour subir un interrogatoire. Nous voulons des informations.
+
+MARCIE	J'aimerais voir la chambre de votre fils. Il y a peut-être  un indice.
+
+__ROD	Oui.
+
+BOB	D'accord Euh... Si vous voulez me suivre...
+
+__ROD	Ahh_  C'est pas trop tôt!
+
+BOB	Il y a un peu de désordre.
+
+__ROD	"Un peu" de désordre?
+
+BOB	Oui, un petit peu.
+
+__ROD	Ahh_
+
+MILES	Relax!
+
+BOB	Si j'étais vous je ne m'appuierais pas sur la rampe, elle risque de céder.
+
+__ROD	A ce point-là, Bob?
+
+BOB	Ouaip Ouaip Oui, euh...    euh......   je sais,   nous avons un peu de retard pour le ménage.
+
+JOY	C'est rien.
+
+(BOUCLE 84 - 02:04:00:15)
+		84
+
+MARCIE	(cris__________)
+
+BOB	Oh, euh...
+
+JOY	_hh Ohh_  Qu'est-ce qui se passe ici?
+
+BOB	Rien, rien... tout, tout va bien.  Ils sont inoffensifs... ils sont même très gentils.en fait.
+
+MILES	C'est des rats de laboratoire, on les élève pour les vendre
+
+MARCIE	beurk
+
+BOB	Ah? C'est-à dire, j'ai été,  euh...    licencié l'année dernière, je travaillais pour une agence de pub, et donc, euh... on fait ça pour la recherche, ça met un peu de beurre dans les épinards.
+
+MILES	Je voulais élever des lamas, mais...    c'est un peu gros.
+
+__ROD	Quoi?
+
+BOB	Merci Miles, c'est bon.    Alors, euh....   , voilà, allez-y, c'est là, c'est la chambre de Zack, je vous en prie, entrez.
+
+MILES	Oui, mais...
+
+JOY	(respi)
+
+(BOUCLE 85 - 02:04:35:12)
+		85
+
+JOY	Punaise, c'est quoi tout ça?
+
+MILES	Son groupe préféré c'est Satan Sandal
+
+JOY	ça me donne la nausée.
+
+BOB	C'est assez triste je sais... Pas vraiment grand public... ça sent pas mal la chaussette, à vrai dire, alors.... ça vous suffira.?
+
+__ROD	Oui, nous en avons assez vu, Bob.
+
+BOB	Bien,    je vous raccompagne....
+
+__ROD	J'ai encore des questions à vous poser,     un tas de questions..
+
+BOB	N'hésitez pas, si je peux vous aider...
+
+__ROD	Oh, c'est aimable...
+
+(BOUCLE 86 - 02:05:02:21)
+		86
+
+MARCIE	(cri__)  Ahh!  Non, non! (cris________________
+
+BOB	Ohhhh !
+
+__ROD	Ohhhh!
+
+JOY	Ohhhh ! Miles!
+
+BOB	Miles!
+
+MARCIE	Ahh !  Mon dos!... Et mon cou!... Et mon coude!
+
+__ROD	Je savais qu'on aurait jamais dû venir ici!
+
+BOB	Personne ne vous l'a demandé! Je vais appeler la police, et leur parler d'Eve.
+
+__ROD	Je vous l'interdis!
+
+MARCIE	Non!
+
+MILES	Ils s'appellent sel et poivre...   Qui veut leur dire bonjour?
+
+BOB	Miles!
+
+MARCIE	Je veux sortir d'ici! Par pitié!
+
+BOB	Au revoir!   Revenez quand vous voulez!
+
+MARCIE	J'ai mal! Vous aurez des nouvelles de mon avocat!
+
+BOB	C'est les yeux... (hh_) Miles...
+
+(BOUCLE 87 - 02:05:41:08)
+		87
+
+JOY	Vraiment je ne vois pas pourquoi je n'aiderais pas à la retrouver.
+
+__ROD	Tu ne peux rien faire... En plus, les athlètes doivent être à l'école, ou ils ne jouent pas. Tu le sais bien.
+
+JOY	Oui.
+
+__ROD	Là, j'emmène ta mère à l'hopital pour des radios. Puis nous parlerons à nos avocats.
+
+JOY	Papa... Tu vas leur faire un deuxième procès... (_h) Ils n'ont pas l'air d'en avoir les moyens.
+
+__ROD	Au pire des cas on les accule à la faillite, ils plongent et ils déménagent. Au mieux, ce que je souhaite, ils ont une bonne assurance, nous récupérons du cash, et nous partons.
+
+JOY	(hh_)
+
+__ROD	En tous cas nous ne les voyons plus.
+
+JOY	En fait, (_h) (h_) (_h) j'aimerais qu'on puisse tous s'entendre. Remets-toi vite maman.
+
+MARCIE	Ohhh...    Merci chérie, oh.. ahh (_shhhh)
+
+__ROD	Chérie, ça ne peut pas te faire si mal que ça.
+
+MARCIE	(ahh_) Si ça peut.
+
+(BOUCLE 88 - 02:06:24:16)
+		88
+
+JOY	(souffle_) Salut Sam. Ecoute, Je suis vraiment navrée pour hier, okay? Je ne voulais pas t'humilier, Ni Mimi.
+
+SAM	Elle a rompu avec moi.
+
+JOY	Oh mon dieu! (h_)
+
+SAM	Tu veux dire ça aussi devant toute l'école? Histoire de les faire rire?
+
+JOY	Sam c'est bon.... Je suis rééllement désolée. Sam il faut qu'on parle.
+
+(BOUCLE 89 - 02:06:59:13)
+		89
+
+COACH WEBER	Je sais, elle nous déçoit, je sais,  c'est brutal.
+
+JOY	Hey!
+
+COACH WEBER	Stop!
+
+JOY	Quoi?
+
+COACH WEBER	Joy il faut qu'on parle.
+
+JOY	D'accord.
+
+COACH WEBER	Tu veux que ça se passe  au bureau, ou devant ton équipe?
+
+JOY	(h_) Allez-y.
+
+COACH WEBER	(_h)    Tu ne joues pas le match ce soir. Qu'est-ce que tu en dis?
+
+JOY	Pardon? Mais, qu'est-ce que j'ai fait?
+
+COACH WEBER	Demande-toi plutôt ce que tu n'as pas fait, Joy. Dans ce système, la seule condition pour rester dans une équipe c'est le passage en classe supérieure, et tu le sais.
+
+JOY	Une minute, euh... (h_) A condition de passer en classe supérieure? Pour jouer elles doivent juste avoir un C de moyenne!
+
+GIRLS VOLLEY	(réacs)
+
+COACH WEBER	Oh mon dieu! Oh mon dieu...
+
+(BOUCLE 90 - 02:07:38:24)
+		90
+
+COACH WEBER	Tu sais quoi?
+
+JOY	(mfh_) (_h) Et je n'ai pas un "C" de moyenne.
+
+COACH WEBER	Elle rend vraiment les choses difficiles, non?.
+
+JOY	(h_)
+
+GIRLS VOLLEY	réacs
+
+JOY	Vous plaisantez, là, n'est-ce  pas? Mais! Je suis intelligente! Je préfère utiliser un stylo à plume en maths, parce que ne vous méprenez pas,  je réfléchis, (mm?) J'ai le tableau d'honneur!
+
+COACH WEBER	Tu es folle, okay?  Tu es sérieuse?
+
+JOY	Je sais des choses! Des tas de choses.
+
+COACH WEBER	Très bien. Tu t'es mise, tu as mis l'équipe, et l'école tout entière dans une terrible situation. Et ton père ne pourra pas t'en sortir cette fois.
+
+JOY	(h_)
+
+COACH WEBER	Qu'as-tu à dire pour ta défense, Joy? On est toute ouïe.
+
+JOY	(mfh_) J'ai super mal à la tête. (_h)
+
+COACH WEBER	Pas mon problème. Je suis super déçue.
+
+JOY	(hh_)
+
+COACH WEBER	Joy.
+
+JOY	(mfh_)
+
+COACH WEBER	Joy ! Incroyable!
+
+(BOUCLE 91 - 02:08:35:06)
+		91
+
+JOY	Ecoutez... Je suis sincèrement désolée. Ahh_ (soupir_)
+
+P.A.system	N'oubliez pas d'acheter vos billets pour le match du championnat d'état! Soutenez votre équipe!
+
+(BOUCLE 92 - 02:09:10:22)
+		92
+
+JOY	Monsieur Elderberry! Monsieur Elderberry! (_h) J'aimerais bien jouer de la clarinette.
+
+M. ELDERBERRY	La clarinette n'est pas le plus facile des instruments. Peut-être devriez-vous demander à vos parents de vous offrir des cours de piano.
+
+JOY	J'en ai déjà suivi.
+
+M. ELDERBERRY	Donc vous jouez du piano?
+
+JOY	Il y a une éternité... Presque dans une autre vie.
+
+M. ELDERBERRY	Vous lisez la musique?
+
+JOY	Avant, oui. Je ne sais plus mais je peux m'y remettre très vite. A partir d'aujourd'hui.
+
+M. ELDERBERRY	(soupir_)
+
+JOY	Il n'est pas trop tard pour suivre le cours?
+
+M. ELDERBERRY	(mts) Je pars à la retraite le semestre prochain.   Le prochain professeur devrait avoir plus de....  d'énergie. Vous lui en parlerez
+
+JOY	Vous allez partir?
+
+M. ELDERBERRY	Enseigner à des adolescents sans oreille conduit à la dépression. Une condamnation à perpétuité de fausses-notes. Et je n'en peux plus. Bye Bye.
+
+JOY	(_h)
+
+M. ELDERBERRY	Mais qui c'était celle-là?
+
+(BOUCLE 93 - 02:10:01:05)
+		93
+
+JOY	(snif) Hey... Montana! (_h)
+
+TOM	Oh, bébé, (_h_h_h) On devait se voir à l'interclasse.
+
+JOY	Ahh Oui,
+
+TOM	J'étais tellement inquiet!
+
+JOY	je sais. Pardon, euhm...
+
+TOM	(hha_)
+
+JOY	C'est...   (h_)  un peu difficile. Eve est partie de la maison cette nuit. Et le garçon qui vit à côté aussi.
+
+TOM	Le garçon d'à côté?
+
+JOY	Oui. Zack. Hockstatter. Il est scolarisé à domicile, tu ne dois pas le connaître.
+
+TOM	Donc tu te soucies plus d'un vulgaire voisin que de moi.
+
+JOY	Pardon? Je n'ai pas dit ça, j'ai dit que lui et Eve avaient disparu.
+
+TOM	Oh, d'accord, je viens d'inventer ce garçon qui vit à côté de chez toi et te bouleverse. Tu veux peut-être aller dans son cabanon! C'est peut-être déjà fait!
+
+JOY	Oui! Tom, tu peux te calmer s'il te plaît. (_h) c'est pas du tout  ça,   okay?
+
+TOM	(_h_h_h) (h_) Ne fais pas comme si ça ne voulait rien dire pour toi, de sortir avec le gars le plus mignon de l'école! Moi!
+
+JOY	(mts) (snif) Je voudrais te demander une chose, euhm (mtt) (_h) Est-ce que le fait que Eve soit partie de la maison a quelque chose à voir avec toi?
+
+(BOUCLE 94 - 02:11:06:23)
+		94
+
+TOM	Qu'est-ce que t'as dit?
+
+JOY	euhm...
+
+TOM	Réponds-moi!
+
+JOY	(_h) Oh non! (h_)
+
+MONTANA	Il est vivant?
+
+JOY	euh... Il.... respire encore.
+
+MONTANA	Il est tellement séduisant----------
+
+JOY	Ouais. Quand sa bouche est fermée il est irrésistible... (mmh_) (_h) Hé, euh... Tu as pris des cours de secourisme l'été dernier, non?
+
+MONTANA	(_h) Son rythme cardiaque est normal.
+
+JOY	Oh... Ben alors... Fais-lui du bouche à bouche.
+
+TOM	(tousse) (tousse) (respi__)
+
+JOY	Bien joué... Oh, Bonne chance.
+
+MONTANA	(h_)
+
+(BOUCLE 95 - 02:12:20:23)
+		95
+
+GIRL	Vous êtes au courant? (_h) Eve Wellman et un dénommé  Zack Hockstatter sont barricadés dans une supérette sur Emerad street!
+
+AMBIANCE	(réac G/F surprise_____
+
+JOY	(_h) Oh mon dieu. Allez...  allez... huh Faut qu'j'me change!. hha_ Vite ! Ahh Vite! (souffle_) Allez! (respi________ réacs________________C'est parti __ Allez ! Pardon! (respi course_____________________________________________________________________________
+
+(BOUCLE 96 - 02:13:24:05)
+		96
+
+OFFICER CROWLEY	Si vous sortez tout de suite il ne vous arrivera rien!
+
+VOIX RADIO	Agent Crowley, quelle est votre position?
+
+OFFICER CROWLEY	Nous les avons localisés mais ils ne veulent pas sortir, nous envoyons une équipe du SWAT Hé, hé! Vous ne pouvez pas aller plus loin!
+
+JOY	Ma grande soeur...  et mon frère sont à l'intérieur! (_h_h_h) Zack! (_h) Eve!
+
+MARCIE	Laissez-moi entrer, ma fille est à l'intérieur. S'il vous plaît, je...
+
+__ROD	Qu'est-ce qui se passe maintenant?
+
+(BOUCLE 97 - 02:13:54:08)
+		97
+
+BOB	Mon
+
+JOY	Dieu merci vous allez bien.
+
+EVE	Qu'est-ce que tu fais ici?
+
+JOY	Moi? (_h) Mais pourquoi vous êtes là?
+
+ZACK	Quelqu'un a pensé avoir besoin de provisions pour notre petit road trip, et d'un seul coup, on était encerclés par les flics!
+
+JOY	Road trip? Attends,  c'est le fusil à plombs de papa?
+
+ZACK	Mon père ou le tien?
+
+JOY	Oh zut
+
+EVE	ce n'est qu'une carabine à plombs? Tu as menti sur quoi d'autre?
+
+ZACK	Je ne t'ai menti sur rien du tout!
+
+JOY	J'arrive pas à croire que vous vous êtes tous les deux sauvés de chez vous!
+
+EVE	Je ne me suis pas sauvée de chez moi! Okay? C'est toi que je voulais fuir!
+
+JOY	Oh c'est très gentil, merci.
+
+ZACK	Je sens que ça pourrait mal tourner.
+
+JOY	Pourrait? C'est trop tard!
+
+EVE	Ecoute, Joy...    Tu dois nous aider maintenant.
+
+JOY	Et comment?
+
+EVE	Ils t'écouteront, toi, (h_) t'as qu'à leur dire qu'il s'agit d' un malentendu, c'est tout.
+
+JOY	Un malentendu? Tout ça, c'est un malentendu, tu crois?
+
+EVE	Je pense ...que tu m'dois bien ça. Je suis ta soeur.
+
+JOY	(_h) Attendez... Vous pouvez mettre plus fort? Désolée (_h) Tu peux mettre plus fort?
+
+ZACK	Qu'est-ce qu'il faut mettre plus fort?
+
+JOY	La musique. (_h) Tu peux monter le son?
+
+ZACK	Joy, c'est pas vraiment le moment de jouer les Dijay.
+
+JOY	Zack, je te dis que je connais cette chanson!
+
+EVE	Mais tout le monde connait cette chanson.
+
+JOY	Non, je l'ai apprise avec ma clarinette Ils ont ce genre de cartes?
+
+(BOUCLE 98 - 02:15:12:11)
+		98
+
+OFFICER CROWLEY	Pourquoi vous ne nous dites pas exactement ce que vous voulez?
+
+__ROD	Je veux aller chercher ma fille!
+
+MARCIE	S'il vous plaît
+
+(BOUCLE 99 - 02:15:17:17)
+		99
+
+JOY	Ces cartes... gardent nos secrets.
+
+ZACK	Qui te dit que nous avons des secrets?
+
+EVE	C'est sûrement pas elle qui va nous aider, crois-moi.
+
+ZACK	Joy, tu peux te concentrer sur le problème actuel?
+
+JOY	Ah mais c'est ce que j'essaie de faire! Prends une carte.
+
+ZACK	Pas question.
+
+EVE	(h_) okay, j'vais le faire, j'en choisis une.
+
+JOY	Merci.
+
+EVE	Famille.
+
+ZACK	Ouais, la source de tous nos problèmes.
+
+JOY	Oui...
+
+EVE	Ouais t'as raison.
+
+JOY	Okay, Zack,   prends une carte.
+
+ZACK	Non...
+
+JOY	Pas de souci. J'le fais pour toi. L'amour.
+
+ZACK	C'est pas mon truc.
+
+EVE	Sérieux? (h_)
+
+(BOUCLE 100 - 02:15:51:22)
+		100
+
+JOY	Changer.
+
+AMBIANCE	(rumeur rue/police________________
+
+JOY	Oh non...
+
+EVE	(tousse____
+
+ZACK	(tousse______
+
+JOY	Zack...  Eve... (tousse____________________________)
+
+ZACK	Tu le crois maintenant qu'on est cuits!
+
+(BOUCLE 101 - 02:16:20:07)
+		101
+
+DR MIKE	Vous m'entendez Joy?  Clignez des yeux si vous m'entendez. Vous comprenez ce que je dis?  Clignez des yeux si vous m'entendez.
+
+JOY	Sam J'ai envie de discuter avec toi.. (h_)
+
+DR MIKE	(hh_)
+
+JOY	Où suis-je?
+
+DR MIKE	(_h)  Vous êtes à l'hopital,  vous avez eu un accident,  mais vous allez bien.
+
+JOY	Je ne me sens pas bien.
+
+DR MIKE	Non... Mais ça va, je vous le promets.
+
+JOY	Je ne... Je ne me souviens de rien.
+
+DR MIKE	Vous savez qui vous êtes?
+
+JOY	Non.
+
+DR MIKE	Ne vous inquiétez pas. (_h) Je vais aller chercher quelques personnes. Je crois que ça vous aidera.
+
+JOY	D'accord.
+
+DR MIKE	(h_)
+
+JOY	(respi_____________
+
+(BOUCLE 102 - 02:17:25:20)
+		102
+
+JOY	(respi___________________ (h_) (_h) (langue) (respi_______________)
+
+SAM	(souffle nez)
+
+(BOUCLE 103 - 02:18:08:10)
+		103
+
+DR MIKE	Vous vous souvenez maintenant?
+
+JOY	(respi____ Je suis Joy. (respi__________ Joy Hockstatter.
+
+BOB	Ahh
+
+__ROD	hhh
+
+EVE	(rire)
+
+MARCIE	Oui
+
+ZACK	(rire)
+
+SAM	(rire)
+
+JOY	(h_) Papa (rire_) (respi__________)
+
+BOB	(X)
+
+JOY	Salut Coucou mon grand. Miles... (X) (h_) Hé...
+
+MILES	Tu m'as manqué
+
+JOY	Toi aussi tu m'as manqué. (_hh) (h_)
+
+(BOUCLE 104 - 02:18:56:02)
+		104
+
+BOB	Alors? Bon, on t'a récupérée juste à temps pour Noël, ma grande.
+
+JOY	Mais... Elle vient d'où cette banderolle?
+
+BOB	Oh, ça? Des filles de l'école l'ont apportée la semaine dernière.
+
+MILES	Elles sont cheerleaders
+
+JOY	(mfh_) rire)
+
+BOB	Oui, elles étaient gentilles dans l'ensemble, enfin l'une d'entre elles était un peu... méprisante.
+
+JOY	Ah, Brie
+
+BOB	Oui, c'est ça, celle qui portait le nom d'un fromage...
+
+MILES	(rire__)
+
+BOB	Bon, mais, Montana est arrivée, elle l'a vite éclipsée.
+
+MILES	Oui, et un footballeur aussi est passé.
+
+MONTANA	C'est vrai, j'oubliais...   Tom... Tom Adi...?
+
+JOY	Tom Addison est venu me voir?
+
+BOB	Ce nom-là, oui.
+
+MILES	Oui,   il a dit qu'il obtiendrait des crédits pour le service communautaire
+
+JOY	Génial. (rire_)
+
+MILES	Je vais aller allumer les guirlandes de notre sapin de Noël.  Joy, tu n'imagines pas comme il est cool! Tu vas voir!
+
+JOY	J'ai trop hâte.
+
+BOB	D'accord, fais bien attention.
+
+MILES	Oui, à tout de suite.
+
+(BOUCLE 105 - 02:20:03:05)
+		105
+
+JOY	(_h) hha_ Eh? Qu'est-ce qu'ils font ensemble?
+
+BOB	Ils ont passé beaucoup de temps ensemble à l'hopital, je suppose que quelque chose a fait "click" (rire_)
+
+JOY	(h_) Wow!
+
+BOB	Oui, allons leur dire bonjour.
+
+JOY	Oui.
+
+(BOUCLE 106 - 02:20:20:23)
+		106
+
+JOY	Salut grand frère. (rire_______)
+
+ZACK	Tu vas bien?
+
+JOY	Oui... (h_)
+
+ZACK	T'as l'air d'aller beaucoup  mieux!
+
+JOY	Merci.
+
+EVE	(h_) Approche! (rire_)
+
+ZACK	Allez, ça suffit, je n'arrive pas à supporter tant de charge émotionnelle...
+
+JOY	Je sais.
+
+ZACK	Joy?
+
+JOY	Oui?
+
+ZACK	C'est génial  que tu sois de retour.
+
+JOY	(hh_)
+
+BOB	Je suis heureux de te revoir à la maison. Nous t'aimons tous.
+
+JOY	Moi aussi. Toi. (X)
+
+BOB	Je porte tes affaires à l'intérieur
+
+JOY	Papa tu m'as manqué.
+
+BOB	Moi aussi, toi..
+
+JOY	(_h h_)
+
+(BOUCLE 107 - 02:21:39:21)
+		107
+
+__ROD	ça y est! De retour à la maison!
+
+JOY	Enfin!
+
+__ROD	Comment tu te sens?
+
+JOY	Bien. Vraiment très bien en fait.
+
+__ROD	Marcie va être si contente que tu sois rentrée.    Mais elle a adoré s'occuper de Lévi.
+
+JOY	(rire_) Lévi! Viens-la mon beau... rire_) ahh... mmoua... Mon chien...
+
+MARCIE	Bienvenue
+
+JOY	Merci. C'est tellement bon d'être de retour. C'est vrai, Vous m'avez tous manqué. (_h) Tellement (h_)
+
+MARCIE	Je connais quelqu'un qui est prêt pour sa promenade.     Je l'ai accompagné depuis l'accident.
+
+__ROD	(rire_)
+
+MARCIE	Miles et moi y allions ensemble.
+
+JOY	Wow! Vous savez, je... je m'demandais... vous voudriez venir avec moi un de ces jours?
+
+MARCIE	Oui. J'aimerais bien.
+
+JOY	Moi aussi.
+
+__ROD	On se verra demain pour le dîner de Noël.
+
+JOY	On va faire le repas de Noël ensemble?
+
+MARCIE	Oui. J'ai toujours rêvé d'avoir plus de monde autour d'une table de fête. Et finallement mon rêve devient réalité. A tout à l'heure.
+
+__ROD	Alors à demain.
+
+(BOUCLE 108 - 02:22:52:06)
+		108
+
+SAM	Bonjour
+
+MARCIE	Bonjour Sam
+
+JOY	Salut.
+
+SAM	Salut Tiens...
+
+JOY	Ah-ah (snif_) c'est gentil
+
+SAM	(h_h_)
+
+JOY	Alors, euhm... T'es vraiment venu me voir tous les jours à l'hopital.
+
+SAM	(hh_) Oui.
+
+JOY	C'est plutôt cool.
+
+SAM	J'ai accompli pas mal de boulot.
+
+JOY	Ah oui?
+
+SAM	Leur système de sécurité n'est pas extra.
+
+JOY	Oh ça existe quelque part? Dans la vraie vie?
+
+(BOUCLE 109 - 02:23:37:05)
+		109
+
+SAM	(hh_) Joy
+
+JOY	Oui?
+
+SAM	J'veux bien tirer une de tes cartes, si tu me le demandes.
+
+JOY	Non. C'est cool.
+
+SAM	(mfh_) J'ai tiré plein de fois la même carte. ça me faisait un peu flipper.
+
+JOY	C'est vrai?
+
+SAM	J'suis tranquille maintenant.
+
+JOY	Moi aussi. Joyeux Noël Sam
+
+SAM	Joyeux Noël.
+
+JOY	(s'embrassent_______________
+
+(BOUCLE 110 - 02:24:29:08)
+		110
+
+AMBIANCE	(TOUS : rires________brouhaha joyeux ____    toute la boucle____
+
+MARCIE	C'est bien.
+
+MILES	--------
+
+JOY	(ambiance Noël, rires, etc.....)
+
+SAM	On surveille...
+
+JOY	Ah, c'est peut-être une surprise...
+
+EVE	(rire__)
+
+ZACK	(rire__)
+
+BOB	Comme ça?
+
+JOY	C'est vraiment une bonne idée ce repas de Noël......
+
+__ROD	Tout le monde travaille!
+
+JOY	(X) Joyeux Noël papa. (rire______)
+
+BOB	J'espère qu'on a rien oublié.
+
+JOY	Merci...  C'est le plus beau des cadeaux que je pouvais espérer... Là-bas, regarde... Ahh_
+
+AMBIANCE	'TOUS : applause__ brouhaha___

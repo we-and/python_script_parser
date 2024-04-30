@@ -1,0 +1,1131 @@
+
+
+[ AGENT EP 1 ]
+
+
+
+
+
+
+1 (10:00:00:00)
+
+
+2 (10:00:13:09)
+
+
+3 (10:01:32:22)
+
+JERRY	Bonjour monsieur.
+
+BLAZE	Bonjour.
+
+JERRY	Vous cherchez votre voiture?
+
+BLAZE	Oui.
+
+JERRY	Suivez-moi. A la seconde où je l'ai vue, je m'suis dit…  je veux voir à qui elle appartient.
+
+BLAZE	Mais... comment avez-vous su que c'était moi?
+
+JERRY	Une MG Midget,  un Roadster décapotable rouge... ça devait être en mille neuf cent soixante...
+
+BLAZE	-71 - Et elle était "rouge cerise".
+
+JERRY	Vous voyez, que j'peux vous aider. (_h) Oui, parce que ça sort du commun, exactement comme vous, Monsieur Blaze.
+
+BLAZE	Comment connaissez-vous mon...       nom ?
+
+
+4 (10:02:20:22)
+
+BLAZE	Oh pardon, euh...
+
+JERRY	Ne vous en faites pas pour ça. La prochaine fois.
+
+BLAZE	Comment savez-vous qu'il y aura une prochaine fois?
+
+JERRY	Vous reviendrez. (hm)
+
+BLAZE	(_h)
+
+NATALIE	Le moment est venu….
+
+OUT (10:03:02:02)
+
+INSERT	------------31 January – Tuesday------------
+
+
+5 (10:03:52:13)
+
+LESEGO	Uh huh?
+
+BLAZE	Ouais.
+
+LESEGO	Uh uh.
+
+BLAZE	Ouais.
+
+LESEGO	Uh uh.
+
+BLAZE	Ouais.
+
+LESEGO	Oh laisse-moi deviner, Gloria Gaynor a encore frappé, c'est jamais qu'une chanson.
+
+BLAZE	Oui, mais tu sais comme j'aimais cette chanson.
+
+LESEGO	Passe à aut'chose, mec.
+
+BLAZE	Mais non, elle me poursuit.
+
+LESEGO	C'est juste une putain de coïncidence.
+
+BLAZE	Mais tu sais quoi, Lesego, à chaque fois, à chaque putain de fois, cette chanson me fait penser à toi et Delilah!
+
+LESEGO	Et le pauvre gars, tu  y as pensé au pauvre gars ? (rire_) J'rigole, mec, cool... C'était fini avec cette meuf de toutes façons, non? Bon, (gorge) j'ai besoin de toi à l'entraînement aujourd'hui.
+
+BLAZE	Désolé, mais... j'ai trop de trucs à faire aujourd'hui.
+
+LESEGO	Hé t'as oublié ou quoi? Qui met du beurre dans tes épinards?
+
+BLAZE	Ah, bon sang, tu sais quel jour on est?
+
+LESEGO	80 pour cent de tes revenus viennent d'un seul bonhomme. Et dis-moi, c'est qui ce joueur, hein, c'est qui? À l'entraînement. Toute la journée.
+
+OUT (10:04:51:22)
+
+
+6 (10:05:25:14)
+
+BLAZE	Tu crois qu'on ne t'avait pas vu venir?
+
+JEAN-PIERRE	(rire______) Qui est, euh... Natalie?
+
+BLAZE	Je sais que tu essaies de me voler tous mes clients.
+
+JEAN-PIERRE	Oui, mais la dernière fois que j'ai vérifié t'en avais que deux, alors...
+
+BLAZE	Trois. A partir d'aujourd'hui.
+
+JEAN-PIERRE	Trois? Ah... Hervé Touré, Ouais, ouais, ouais, le nouveau grand espoir, l'Iniesta Africain... mais tu ne l'as pas encore signé, je crois?
+
+BLAZE	Non.
+
+JEAN-PIERRE	Non.
+
+BLAZE	C'est tout comme.
+
+JEAN-PIERRE	Ah oui? Comme Willian à Liverpool? On sait tous ce qui s'est passé.
+
+BLAZE	Eh bien il est allé à Chelsea, finalement.
+
+JEAN-PIERRE	Précisément. Tu vois, moi, je suis le Roman Abramovich des Agents, okay. J'obtiens qui je veux, quand je veux, comme je veux. Et je vais te réduire à néant, Blaze, je vais te détruire, juste pour le plaisir, juste pour montrer au monde à quel point tu es insignifiant dans cette partie.
+
+
+7 (10:06:20:07)
+
+JEAN-PIERRE	Tu sais pourquoi... je vais te détruire? Tu sais pourquoi je peux te détruire?
+
+BLAZE	Pourquoi?
+
+JEAN-PIERRE	Parce que je roule en Porsche et que tu roules dans une MG de merde qui date du putain d'âge de pierre. Non, parce que tu roules dans la petite MG de merde datant de l'âge de pierre de Natalie. Voilà pourquoi. Ah-ah-ah-ah.... Oh... et aussi... parce que les gros poissons mangent les petits, Baffour!
+
+BLAZE	J't'aurais pas cru fan de Radiohead, Frenchy
+
+JEAN-PIERRE	(texte en français) (Tu sais que t’es un putain d’amateur ?  Tu sais que j’baise ta mère et que j’t’encule, fils de pute, tu le sais ça ou pas ?)    Et puis ce soir ta carrière ne sera plus qu'un souvenir.
+
+BLAZE	C'est vintage.
+
+JEAN-PIERRE	Ouais, c'est toi qui est vintage.
+
+
+8 (10:07:11:22)
+
+GODI	Je t'appelle depuis 4 heures du matin, où étais-tu passé?
+
+BLAZE	Oui, désolé,   je... je sais bien.
+
+GODI	Tu peux me dire ce qui se passe?
+
+BLAZE	C'est une longue histoire.
+
+GODI	Shou_____
+
+BLAZE	Même moi je ne me souviens pas de grand-chose. (hh_) son visage...
+
+GODI	(hhh____) Et regarde tes vêtements! Est-ce que ce sont... ceux d'hier?
+
+BLAZE	J'ai pas eu le temps de passer me changer.
+
+GODI	Non, c'est pas vrai, il te manque des boutons! (_h)
+
+BLAZE	Oui.
+
+GODI	Pourquoi avoir choisi aujourd'hui, justement aujourd'hui?
+
+BLAZE	Je n'avais pas prévu ça, tu comprends?
+
+GODI	(hhuh_) Un verre, c'est déjà un verre de trop, Slindile, Bon, Chris veut te voir, de toute urgence. Qu'est-ce que tu attends?
+
+OUT (10:07:56:11)
+
+
+9 (10:08:35:18)
+
+NIKKI	Bonne chance.
+
+CHRISTOPHER	Tu es en retard. Et tu ne ressembles à rien.
+
+BLAZE	Si tu veux me parler de J.P. , je sais. Et je suis ravi, okay?
+
+CHRISTOPHER	Tu ne devrais pas pourtant.
+
+BLAZE	C'est toi qui as embauché ce foutu emmerdeur.
+
+CHRISTOPHER	Et pourquoi à ton avis, Blaze? Parce que depuis 18 mois que cette entreprise a été créée, tu as ramené en tout et pour tout 2 clients... 2 !... J.P. est là depuis 3 mois, et il en est à seize.
+
+BLAZE	Il en avait déjà 10 en arrivant. Okay? Et tu crois qu'il en a quelque chose à faire des clients qu'il représente?
+
+CHRISTOPHER	Je m'en fous que tu te soucies des tiens. On parle de résultats, et t'en as pas. Là, on parle de gagner, et toi mon cher tu es occupé à perdre.
+
+
+10 (10:09:20:16)
+
+BLAZE	J'ai le meilleur buteur de tout le pays.
+
+CHRISTOPHER	Dont tu rêves de te séparer.
+
+BLAZE	Comme si tu ne comprenais pas pourquoi.
+
+CHRISTOPHER	Oh, Sly, épargne moi tes pleurnicheries, on a tous notre croix à porter, hein? Quand je t'ai donné le capital pour démarrer cette agence, ton objectif, ton propre objectif, c'était 8 clients
+
+BLAZE	Oui, on évolue moins vite que prévu, mais on va y arriver, c'est...
+
+CHRISTOPHER	Le temps des "on va y arriver" est dépassé... Tu as un peu plus de18 heures avant la fermeture du Mercato. Premièrement, tu vas garder Lesego comme client. Deuxièmement, tu vas garder Vuyo comme client, et troisièmement, tu vas conclure ce foutu contrat avec Hervé.
+
+BLAZE	Oui, je vais le signer .
+
+CHRISTOPHER	Oh, t'as intérêt, mec. Parce qu'on a déjà investi 200 mille sur lui, tu m'suis, mec? Ou sinon c'est un fiasco de merde.
+
+BLAZE	Ah, ou sinon?
+
+CHRISTOPHER	Sinon, ferme ta gueule et écoute Blaze. Sinon,  toi et moi on arrête. Je ferme l'Agence. Tu veux passer ta vie au rez-de-chaussée, libre à toi, moi, tu vois, je (_h) préfère les sommets, être tout en haut.
+
+
+11 (10:10:08:01)
+
+NIKKI	J'ai Thierry Henry sur la une.
+
+CHRISTOPHER	Merci Nikki . Passez-le moi dans 10 secondes. L'heure est venue pour toi de rendre des comptes. Bonne chance. Tic-Tac... Magne-toi! Thierry... comment ça s'passe à Bruxelles?
+
+
+12 (10:10:33:11)
+
+GODI	Shanmugam, s'il vous plaît, vous savez bien que nous ne faisons aucun commentaire sur la vie privée de nos joueurs. Vous voulez notre réponse officielle? Notre réponse officielle est : "Sans commentaire". Godi Zulu, Ace Management. (rire______________) Vuyo... l'avenir de Vuyo est à l'Apollo FC... et toutes les rumeurs suggérant le contraire sont fausses, okay? Merci. Bye. Alors... que se passe-t-il?
+
+BLAZE	Nous avons un peu plus de 18 heures pour tenir nos joueurs loin de Jean-Pierre, et nous devons signer ce contrat avec Herve...
+
+
+13 (10:11:11:20)
+
+GODI	Ou sinon quoi?
+
+BLAZE	Ou sinon on est tous les deux à la rue, en quête d'un autre job, c'est ça, le "quoi"..
+
+GODI	J'allais partir de toutes façons. Si j'ai accepté ce job, c'est parce que je croyais en toi, mais comment continuer, quand toi-même tu ne crois plus en toi? Le Blaze qui m'a engagée était un battant, quand as-tu perdu cette belle énergie, champion?
+
+BLAZE	Je l'ai toujours, championne.
+
+GODI	(hmmm) On verra. Je t'accorde le bénéfice du doute jusqu'à ce soir.
+
+BLAZE	Bien. C'est tout ce qu'il me faut.
+
+GODI	Oui, mais commençons par le commencement, les vautours tournent autour de Vuyo.
+
+BLAZE	Oui, je sais. (_h) Je dois juste les maintenir à distance, rien de plus. Et j'ai un plan.
+
+GODI	C'est vrai?
+
+BLAZE	Quoi?
+
+GODI	Kimmy... qui le trompe avec un joueur de son équipe?
+
+BLAZE	(_h) Oui. C'est vrai. Mais... on va enterrer l'affaire avant qu'elle ne fuite.
+
+GODI	Ben ça va pas être simple, vu que tu étais témoin à leur mariage.
+
+BLAZE	Godi, je n'ai pas de temps à perdre. Je dois prendre une douche et me changer.
+
+GODI	Ouais. Je confirme, c'est nécessaire. Allez! Et reviens quand tu seras prêt à te battre!
+
+
+14 (10:12:18:13)
+
+ZOE	T'as une sale gueule...
+
+BLAZE	Je sais.. (_h) En fait je rentrais chez moi quand tu as appelé.
+
+ZOE	On décide quoi pour Vuyo?
+
+BLAZE	Garde-le.
+
+ZOE	Et en quel honneur? Sa femme a une liaison avec mon milieu de terrain défensif remplaçant.
+
+BLAZE	Zoé, le mot-clé, c'est "remplaçant", là
+
+ZOE	Quoi qu'il en soit, ça crée des tensions dans les vestiaires, et c'est impensable, donc...
+
+BLAZE	Vends Pascal. Problème résolu.
+
+ZOE	J'aimerais que ce soit aussi simple. Devine qui est son agent?
+
+BLAZE	Tu te fous de moi? J.P.? Et ça le gêne pas de toucher sa comm alors que son joueur est sur le banc?
+
+ZOE	Il est évident que les offres ne pleuvent pas pour lui... mais... si quelqu'un voulait en faire une...
+
+
+15 (10:13:00:04)
+
+BLAZE	Combien tu veux?
+
+ZOE	(_hhh) Eh bien, c'est un bon petit joueur, et je ne pourrais le remplacer que la saison prochaine.
+
+BLAZE	Alors on parle de combien? Trois? 400 000?
+
+ZOE	Pas mal. Plus les apparitions et les titres, évidemment.
+
+BLAZE	A hauteur de?...
+
+ZOE	Je lui ai parlé de 200 000. Donc, 600 000 en tout. Et je te laisse négocier ta commission avec Pascal. Dans ce cas je garde Vuyo. Mais, Blaze, régle sa vie sentimentale.
+
+BLAZE	Je m'en occupe, okay?
+
+ZOE	ça n'est pas vraiment l'impression que tu donnes.
+
+
+16 (10:13:43:04)
+
+BLAZE	C'est quoi ça?
+
+ZOE	On me réserve toujours une chambre ici, profites-en pour te rafraîchir et soigner un peu ton look.
+
+BLAZE	C'est gentil.
+
+ZOE	Andréa! Andréa, pourriez-vous demander que l'on monte un costume pour mon cher ami Blaze?
+
+BLAZE	Il peut faire voiturier aussi?
+
+ZOE	Donne-lui tes clés. Quelle insolence.
+
+BLAZE	Et tout ce cirque... C'est le signe de ta grande bonté de coeur?
+
+OUT (10:14:14:24)
+
+
+17 (10:16:42:18)
+
+PASCAL	(mmmmm) Chérie?
+
+KIM	Pascal... hum, Faut que j'y aille, désolée.
+
+PASCAL	Qu'est-ce que tu as de si important à faire?
+
+KIM	Ma vie,
+
+PASCAL	(rire_) Arrête... Viens, elle attendra encore un peu.
+
+
+18 (10:17:38:01)
+
+GODI	Uh huh, (rire_) oui, okay, oui, nooo comment. Oui. (huh_) Hey!... Guerrier!
+
+BLAZE	Ohhh ! What is it good for?
+
+GODI	'Absolutely nothing'
+
+BLAZE	"Sing it again" (huh_)
+
+GODI	(huh_)
+
+BLAZE	Mais... la version des... Temptations, pas celle d'Edwin Starr, bien sûr, y'a pas photo
+
+GODI	(hh_) Tu dis ça uniquement parce que la culture populaire adorait la version de Starr, (_h) ça ne ne veut pas dire qu'elle était mauvaise.
+
+BLAZE	Un conseil, retire cette affirmation, si tu veux encore bosser ici, immédiatement.
+
+GODI	Ouhhh... (rire____)
+
+BLAZE	Passe-moi les frères Baresi sur la une, s'il te plaît.
+
+GODI	Antonio ou Léon?
+
+BLAZE	Peu importe. Non, attends... Léon.
+
+GODI	Bah, de toutes façons tu les auras sûrement tous les deux. Léon ...
+
+BLAZE	Passe-le moi.
+
+
+19 (10:18:25:05)
+
+BLAZE	Leon, mon ami, c'est comment, Durban?
+
+LEON	Chaud, humide, et ça grouille de gonzesses.
+
+BLAZE	Heureux de l'entendre.
+
+ANTONIO	Tu sais quoi, abrège ton baratin, Blaze.
+
+BLAZE	Antonio, c'est toi? Vous m'avez mis sur haut-parleur?
+
+LEON	Oui, tu es sur haut-parleur.
+
+ANTONIO	Oui, tu es sur haut-parleur.
+
+BLAZE	Ecoutez, tout le monde dit que vous cherchez un milieu de terrain défensif, c'est vrai?
+
+LEON	Laisse-moi deviner, tu vas nous vendre le prochain Patrick Viera, c'est ça?
+
+BLAZE	Non, encore mieux, j'ai Pascal, le plus sous-estimé des milieux de terrain, très technique.
+
+ANTONIO	Jamais entendu parler.
+
+LEON	Antonio, c'est ce gamin de l'Apollo FC. Il est resté sur le banc presque toute la saison passée.
+
+ANTONIO	Pascal?
+
+BLAZE	Oui, il est trop bien pour l'Apollo, je pense qu'il mérite d'être titulaire dans votre équipe.
+
+LEON	Dans le peu de matches qu'il a disputé la saison dernière, il était bien. Bonne résistance, très mobile...
+
+ANTONIO	(ahh_) Ouais... Léon, tu sais quoi, j'suis pas convaincu...
+
+BLAZE	L'Apollo est vendeur.
+
+ANTONIO	On est sur le point de conclure avec quelqu'un d'autre.
+
+LEON	C'est fait à 95 pour cent , Blaze.
+
+BLAZE	Je comprends, et sauf votre respect, je dis juste que vous ne devriez pas mettre tous vos oeufs dans le même panier, c'est le dernier jour du marché d'échanges, non?
+
+
+20 (10:19:31:14)
+
+COMPUTER/SIRI	"Appel entrant de Blaze" 
+
+JADE                                      Réponds.
+
+JADE	Blaze, est-ce que la malédiction de Janvier va prendre fin maintenant pour le LFC?
+
+BLAZE	Je n'sais pas, Jade. Mais que veux-tu que j'te dise? Eliminé de deux Coupes en l'espace d'une semaine, y'a plus qu'à espérer être dans le Top 4.
+
+JADE	Ouais ben à ce rythme, on atteindra même pas le Top 6
+
+BLAZE	Attendons le retour de Mané de la Coupe d'Afrique
+
+NOTE	l'AFCON ?
+
+BLAZE	J'sais pas, on-on a besoin de lui.
+
+JADE	Ouais, espérons que d'ici là on sera toujours dans la course. Au fait, pas mal tes lunettes. Vintage, comme toi.
+
+BLAZE	Bon, sinon je t'appelais parce que ... Kim a une liaison avec
+
+
+21 (10:20:09:06)
+
+JADE	avec Pascal.
+
+BLAZE	Comment tu le sais?
+
+JADE	Pas de questions, aucun mensonge.
+
+BLAZE	Vuyo a appelé, elle n'est pas rentrée cette nuit.
+
+JADE	Bien sûr, elle est chez Pascal. Notre journaliste les a vus sortir de boîte ensemble cette nuit.
+
+BLAZE	Ah, merde. Vous l'avez déjà publié?
+
+JADE	Je lui ai dit d'attendre
+
+BLAZE	La presse à scandale va s'en donner à coeur joie.
+
+JADE	Nan, ça ne fait pas encore la Une. Tu peux encore étouffer l'affaire.
+
+BLAZE	Donne-moi un peu de temps. 
+
+JADE                                     Tu as un peu plus de 15 heures.
+
+
+22 (10:20:37:16)
+
+BLAZE	Je vois que tu travailles ton contrôle de balle.
+
+HERVE	Hey. A quoi ça ressemble?
+
+BLAZE	On dirait Maradona	se préparant à affronter l'Allemagne en finale de la Coupe du Monde 86.
+
+HERVE	Ils ont gagné ?
+
+BLAZE	A ton avis? Et sans la "main de dieu" cette fois. On y va?
+
+HERVE	Ouais, j'voudrais juste jouer encore un peu.
+
+BLAZE	Ce qui veut dire qu'on est là pour la journée. Tu n'as qu'à emporter le ballon.
+
+HERVE	Pourquoi y'a urgence?
+
+BLAZE	Tu n'as pas encore de contrat.
+
+HERVE	Tu disais que c'était sûr.
+
+BLAZE	Oui, mais, rien n'est sûr tant que tu n'as pas signé le contrat.
+
+HERVE	Et si je signe pas?
+
+BLAZE	Hervé, j'ai fait un aller-retour à Abidjan, parce que je pense qu'on a une vraie chance ici, okay?
+
+HERVE	Tu as dit hier que tu venais me chercher dans l'après-midi, pour... m'emmener signer un contrat avec le Marlboro United.
+
+BLAZE	Oui, hier c'était hier. D'accord? Aujourd'hui, tu viens avec moi au bureau, et on ne bougera pas tant que le contrat n'est pas signé. On y va?
+
+
+23 (10:21:38:01)
+
+BLAZE	Assieds-toi.
+
+GODI	Et ensuite?
+
+BLAZE	Tu n'as plus qu'une seule priorité, s'il te plaît, ne laisse pas Hervé échapper à ta vue..
+
+GODI	Tu t'inquiètes à cause de J P?
+
+BLAZE	Qui d'autre? Il faut qu'il soit occupé. Peux-tu dégager la salle de réunion, et le laisser jouer avec son ballon?
+
+GODI	Oh, et qui va payer pour les vitres cassées?
+
+BLAZE	Marlboro.
+
+GODI	(hmm) Super.
+
+BLAZE	Tu as l'adresse de Pascal?
+
+GODI	Bam!
+
+BLAZE	Merci.
+
+GODI	Et tu vas en faire quoi?
+
+BLAZE	Sauver le mariage de Vuyo.
+
+GODI	(hm) Peut-être qu'ils feraient mieux de se séparer? J'veux dire, ça peut arriver.
+
+BLAZE	Non, c'est juste qu'ils ont choisi la facilité, ils ont besoin de quelqu'un pour leur rappeler. Merci.
+
+
+24 (10:22:34:24)
+
+BLAZE	Dites,
+
+MONTE	Yoh yoh yoh yoh... c'est vraiment vous.
+
+BLAZE	Oui, c'est moi.
+
+MONTE	Vous êtes Blaze, hein... Vous étiez mon joueur préféré. Je m'souviens du but que vous avez marqué avec le Marlboro United (_h) celui pendant le temps additionnel, contre Amazulu! Yoh ta Blaze.
+
+BLAZE	Bob Sauve la demi-finale du Super Bowl, non?
+
+MONTE	Tjo ta-Blaze tjo Quel but... comme une flèche sur le coin supérieur  ta-Blaze.
+
+BLAZE	(rire_____)
+
+MONTE	Ecoutez Blaze, monsieur, je peux faire une photo avec vous?
+
+BLAZE	Oui. Bien sûr.
+
+MONTE	Vous me signez un autographe? Avec un sourire, hein?
+
+
+25 (10:23:30:19)
+
+MONTE	Merci monsieur Blaze.
+
+BLAZE	C'est quoi votre nom?
+
+MONTE	Monte.
+
+BLAZE	(incompréhensible_________________) Monte,
+
+MONTE	Monsieur?
+
+BLAZE	vous m’accorderiez une faveur?
+
+MONTE	Bien sûr monsieur
+
+BLAZE	Vous pourriez me laisser entrer, sans appeler Pascal?
+
+MONTE	Ah... pardon, mais, c'est contraire au règlement, Je dois l'appeler d'abord. Sauf… sauf si vous faites quelque chose pour moi?
+
+BLAZE	D’accord. Si je peux.
+
+MONTE	Ce boulot dans la sécurité, c’est dangereux... Vous avez bien vu, je suis quelqu’un de sérieux, monsieur, oh monsieur, vous pourriez me trouver un job dans votre partie?
+
+BLAZE	Oui.
+
+MONTE	Oh... Ecrivez votre adresse mail et votre téléphone s’il vous plaît.
+
+
+26 (10:24:28:04)
+
+
+27 (10:24:52:17)
+
+
+28 (10:25:19:08)
+
+PASCAL	(hh_) ça va bientôt être ton tour... (rire____) (hh___) Il en reste encore un peu.
+
+KIM	(gémit___)
+
+PASCAL	C'est quoi ce bordel?
+
+KIM	(hh_) Blaze.
+
+BLAZE	Kimmy, tu peux aller m'attendre en bas?
+
+KIM	Pourquoi? Pourquoi j'ferais ça?
+
+BLAZE	Parce que j'étais témoin à ton mariage, peut-être pour ça.
+
+PASCAL	(_h) Mais maintenant elle est avec moi, et elle est bien.
+
+BLAZE	Ecoute, ne te mêle pas de ça.
+
+KIM	Blaze, c'est mort avec lui, alors... je ne vois pas pourquoi t'es là.
+
+
+29 (10:26:07:02)
+
+BLAZE	Je suis ton ami, Kim... et je ne veux que ton bien. Descends.. Il faut qu'on parle.
+
+PASCAL	T'es complètement cinglé? Tu sais quoi, je crois que je vais appeler la police.
+
+BLAZE	Dis-moi, ça te plaît de rester sur le banc toute la saison, et de toucher ton chèque juste pour t'entraîner?
+
+PASCAL	Oui, je sais, c'est- c'est comme ça, okay? je n' peux rien y faire.
+
+
+30 (10:26:54:11)
+
+BLAZE	Si tu avais un agent digne de ce nom, tu serais déjà titulaire dans une véritable équipe. .
+
+PASCAL	Oui, mais Jean-Pierre dit que j'ai toutes mes chances.
+
+BLAZE	Zoé n'est pas de cet avis. Donc, sauf en cas de blessure grave, tu... tu n'es pas prêt de jouer.
+
+PASCAL	J'en prends le risque.
+
+BLAZE	Très bien. Je peux t'obtenir un très bon contrat avec le Berea FC. (_h) Cette équipe a le vent en poupe. Basée à Durban. Tu pourrais reconstruire ta carrière, et ta vie, sur la côte.  Y'a pire, non? Mais si tu préfères rester et creuser ta propre tombe avec J. P. c'est... c'est ton choix.
+
+PASCAL	(souffle) Combien?
+
+BLAZE	600 000. Y compris les primes et les apparitions exceptionnelles
+
+
+31 (10:27:34:06)
+
+PASCAL	Et c'est du sûr ou quoi?
+
+BLAZE	Autant qu'on peut être sûr, mais si... si tu me donnes le feu vert, je peux y arriver.
+
+PASCAL	T'as intérêt sinon, à moi la petite femme de Vuyo, Kim.
+
+BLAZE	Faut l'oublier. C'est du passé maintenant. Et, cadeau, je ne dirai rien à Zoé de tes... habitudes.
+
+PASCAL	Parfait. Okay.
+
+BLAZE	A une condition, que tu vires ça. Je ne plaisante pas, tu vires cette merde de ta vie. T'es footballeur professionnel faut pas l'oublier.
+
+PASCAL	Okay. Okay.
+
+BLAZE	Génial. (_h) On s'est bien compris tous les deux.
+
+
+32 (10:28:25:05)
+
+BLAZE	Pourquoi tu n'as rien dit?
+
+KIM	Parce que,  Blaze. Je ne voulais pas te décevoir... et j'avais pas besoin de ton jugement.
+
+BLAZE	Kim, je ne suis pas là pour te juger. Je veux que ça aille bien, pour toi et Vuyo.
+
+KIM	Ben on a du mal.
+
+BLAZE	Si vous voulez vraiment vous séparer, divorcer, je peux vous aider.
+
+KIM	Ah ouais?
+
+BLAZE	Je n'ai qu'à appeler Jade. Tout le pays, le monde entier, sera au courant, et votre mariage... terminé.
+
+KIM	Peut-être que... ce serait la meilleure chose.
+
+BLAZE	Pourquoi t'as commencé cette histoire avec Pascal?
+
+KIM	Tu penses que moi, j'ai commencé toute cette merde? Tu devrais demander à ton cher ami Vuyo. (hm)
+
+BLAZE	Il a fait quoi?
+
+KIM	Ah... Faut qu'il baise les petites putes dans tout le pays, à chaque fois qu'il joue en extérieur, à chaque fois, Blaze.
+
+BLAZE	Tu en es sûre?
+
+KIM	Ouais. Donc j'ai fait la même. Tout le monde peut jouer à ce jeu.
+
+BLAZE	Donc tu n'as fait ça que pour te venger.
+
+KIM	Ben ouais, au début. Maintenant, j'ai l'impression que je veux toujours vivre avec ce fils de pute.
+
+BLAZE	Allons-y.
+
+
+33 (10:29:42:02)
+
+KIM	T'as vu... T'as vu ce que je dois supporter... un môme... Je croyais t'avoir dit de ne pas fumer cette merde dans la maison, Vuyo.
+
+VUYO	T'as pas à me dire c'que j'ai à faire.
+
+BLAZE	Vuyo... Eteinds-la.
+
+VUYO	Je suis censé faire quoi? A ton avis Blaze? Tu ferais quoi si ta femme se tapait ton coéquipier?
+
+BLAZE	Je ne prends pas parti. D'après ce que j'entends, vous êtes tous les deux à blâmer.
+
+
+34 (10:30:20:08)
+
+KIM	Uh huh, uh huh, uh huh, demande-lui... demande-lui qui a commencé
+
+VUYO	ça ne s'est passé qu'une fois !  Une fois!
+
+KIM	Tu mens... Pourquoi tu t'accroches autant à tes mensonges? De toutes façons j'en ai plus rien à foutre maintenant. Sa carrière est plus importante que moi, je passe toujours en deuxième position.
+
+VUYO	Qui t'a acheté le studio que tu voulais?
+
+KIM	C'est pas parce que tu as dépensé de l'argent pour ça que tu t'intéresses à ce que je fais, t'en as rien à battre, Vuyo.
+
+BLAZE	Vuyo, c'est vrai que c'est une excellente photographe. Ce serait cool de montrer un peu d'intérêt pour ce qu'elle fait.
+
+VUYO	Tu crois qu'elle s'intéresse à ma carrière? Elle s'en sert juste comme d'un bâton pour me battre.
+
+BLAZE	Ecoutez, on est où, là? (_h) parce que celui qui t'parle, c'est pas ton agent, mais ton témoin de mariage. Bon sang, tu sais ce que tu m'as dit en attendant Kim à la Mairie?
+
+VUYO	J'ai dit quoi?
+
+
+35 (10:31:14:05)
+
+BLAZE	"Je suis l'homme le plus chanceux du monde". Oui, c'était ringard comme pas deux, mais tu le pensais! Qu'est-ce qui s'est passé? Et toi, Tu sais ce que tu m'as dit le jour où tu as rencontré Vuyo? Tu m'as regardé, et tu m'as dit : « J'veux pécho cet homme-là. » C'était tes mots, jeune fille, pas les miens! Vous devriez vous aimer, et construire votre avenir. Faites de moi un oncle, un... un parrain, c'est pas difficile! Maintenant c’est l’agent qui parle. On va devoir affronter l'Apollo FC, cet après-midi, et si ne te pointes pas avec Kim à ton bras, Zoé va t'éjecter, à la première occase. J'ai fait de mon mieux. Le reste dépend de vous. Alors faites un effort! J'suis pas un foutu conseiller conjugal.
+
+
+36 (10:32:07:18)
+
+JADE	Oui... oui, je sais, mais tu ne peux pas douter de toi, Bax. Ecoute, quand tu es venu chercher les gars du Kaizer, tu as doublé tes gains dès ta première saison.
+
+COMPUTER/SIRI	Apple entrant de Blaze.
+
+JADE	Réponds. Ecoute Bax, je vais devoir te rappeler, okay? Mais fais-moi confiance, les Bafana auraient de la chance de te voir arriver après Shakes. Okay. A bientôt.
+
+BLAZE	Stuart Baxter?
+
+JADE	Il m'appelle parfois pour des conseils.
+
+BLAZE	Je suppose qu'il va encore faire un malheur avec les Bafana.
+
+JADE	Ne parle pas trop fort.
+
+BLAZE	Mon petit doigt m'a dit que le Béréa FC cherchait un milieu défensif. J'ai besoin d'un nom.
+
+JADE	Frankie Berahino
+
+BLAZE	Le Burundais international?
+
+JADE	Ouaip. Lui-même.
+
+BLAZE	Comment s'appelle son représentant?
+
+JADE	C'est un Letton... Quitte pas. Je vais chercher son nom.
+
+
+37 (10:32:56:24)
+
+JADE	Victor Schmeltz.
+
+BLAZE	C'est l'agent?
+
+JADE	Je pense que c'est le manager.
+
+BLAZE	Comme si y'avait une différence.
+
+JADE	Okay, rewind... Pourquoi ça t'intéresse?
+
+BLAZE	J'ai un acheteur pour Pascal, je sauve la carrière et le couple de Vuyo. Je fais d'une pierre deux coups.
+
+JADE	Aah, je vois, tu veux faire capoter l'accord avec Berahino, et négocier Pascal à la place.
+
+BLAZE	Ah-ah un but en or bébé.
+
+JADE	Tu ferais bien de courir vite, d'après ce que je sais, l'affaire est à 95 pour cent conclue.
+
+BLAZE	Je ne m'intéresse qu'aux 5 pour cent restant.
+
+
+38 (10:33:37:01)
+
+CHRISTOPHER	Douze heures heures, quarante cinq minutes et vingt trois secondes. Enfin il a l'allure d'un véritable agent. N'aie pas l'air si malheureux, non plus , Liverpool remportera à nouveau le titre un de ces jours. ça ne fait jamais que vingt huit ans.
+
+BLAZE	Vingt-sept, et on est en grande forme cette saison. Que sais-tu d'un certainVictor Schmeltz?
+
+CHRISTOPHER	Un sacré numéro. Un pilier. A l'oeuvre depuis des décennies.
+
+BLAZE	Donc tu le connais ou tu le connais bien?
+
+CHRISTOPHER	Nous avons été en affaire pour quelques-uns de ses joueurs.
+
+BLAZE	Comment je pourrais le décider à revenir sur son engagement?
+
+CHRISTOPHER	En lui offrant quelque chose qu'il n'a trouvé nulle part ailleurs.
+
+BLAZE	Qui est?
+
+CHRISTOPHER	Un remède pour ses "maux de dos chroniques bénins ".
+
+BLAZE	Maux de dos bénins?
+
+CHRISTOPHER	Ouais. Des douleurs fantômes. Il a consulté tous les plus grands spécialistes du pays. Il a dépensé des fortunes en suivant toutes sortes de traitements. Il a toujours ses douleurs. Il passe la plupart de son temps dans un spa, où on lui fait des massages. Pas ce genre-là.
+
+
+39 (10:34:39:16)
+
+BLAZE	ça n'est pas très encourageant tout ça.
+
+CHRISTOPHER	Tu as peut-être des prêtres, des guérisseurs ou des maîtres Reiki dans ton répertoire?
+
+BLAZE	Merci. ça m'aide. Douze heures, et...?
+
+CHRISTOPHER	quarante-sept minutes et dix secondes.
+
+BLAZE	J't'ai eu!
+
+
+40 (10:35:02:12)
+
+BLAZE	Mila?
+
+MILA	Ca va Sli....
+
+BLAZE	T'es occupée?
+
+MILA	Euh... ouais. Je viens de commencer ce nouveau stage, tu te souviens?
+
+BLAZE	Ah oui, oui, c'est vrai et ça se passe comment?
+
+MILA	Je passe mon temps à la photocopieuse, donc c'est super chiant. Mais... on doit tous en passer par là, non?...
+
+BLAZE	Ouais... Ecoute, mon p'tit chou, j'ai besoin de toi.
+
+MILA	Pour ta mère? Son arthrite la refait souffrir?
+
+BLAZE	Non, maman va bien. Mieux que jamais, d'ailleurs, et c'est grâce à toi. Mais il y a un lien.
+
+MILA	Tantine Magoba?
+
+BLAZE	Avec mon appel. Avec tes talents de grand manitou.
+
+MILA	N'emploie pas ce terme, s'te plaît. j'ai été élevée en vraie catholique.
+
+BLAZE	Ton arrière grand-père Japonais serait très déçu s'il t'entendait.
+
+
+41 (10:35:51:24)
+
+MILA	Mais ma mère, en revanche, sera... pleine de fierté.
+
+BLAZE	Mon p'tit chou, je sais qu'il n'y a aucune garantie, mais j'ai vraiment besoin de toi sur ce coup.
+
+MILA	Bon, j'ai bien suivi un cours de Reiki, en... Virginie Occidentale mais c'était plus pour mon père en fait.
+
+BLAZE	Et tu as réussi haut la main!
+
+MILA	Ouais, j'ai peut-être aidé quelques personnes ici et là, mais ça ne veut pas dire que j'ai un don quelconque, ou une vocation, peu importe comment on appelle ça.
+
+BLAZE	Tout ce que je te demande, c'est d'essayer. Okay?
+
+MILA	C'est pour qui?
+
+BLAZE	Un associé. Il a des problèmes avec une vieille blessure au dos. 
+
+MILA                                    C'est pour ton boulot? 
+
+BLAZE                              Ecoute, il négocie pour des joueurs, oui, et je dois lui offrir un truc, pour le décider à revenir sur un accord.
+
+MILA	Tu me prends pour une conne?
+
+BLAZE	Mais non, bien sûr que non mon p'tit chou.
+
+MILA	Mon pote, c'est pour ça que j'suis venue à Joburg,  pour éviter ce genre d'appel. Et parce que tu vois, j'espère bien... suivre ma vraie vocation. Je suis actrice.
+
+BLAZE	Oui, je sais, et je comprends, okay.
+
+MILA	Je ne peux pas tout laisser tomber.
+
+BLAZE	Et je te revaudrai ça.
+
+MILA	Tu sais quoi, je suis désolée mais la réponse est... "mauvais timing".
+
+
+42 (10:37:01:06)
+
+MILA	Sérieux, mec? Sérieux?
+
+BLAZE	Je ne serais pas là si tu n'étais pas mon dernier recours.
+
+
+43 (10:37:26:21)
+
+ZOE	Nicki, plus fort. Christopher, je savais que tu allais appeler.
+
+CHRISTOPHER	Et je savais que tu allais décrocher, Zo
+
+ZOE	Je suppose que tu veux me parler de ce cher Blaze?
+
+CHRISTOPHER	S'il n'atteint pas ses objectifs avant ce soir,	il sera tout à toi, chérie.
+
+ZOE	Blaze, est le cadet de mes soucis.
+
+CHRISTOPHER	Ne me raconte pas d'histoire, Zoé, tu as flashé sur lui le premier jour où tu l'as vu.
+
+ZOE	Et ce que je ne m'explique pas, c'est pourquoi il est si désespérément loyal envers toi, alors que tu le traites comme un chien.
+
+CHRISTOPHER	Peut-être que ce potentiel que nous avons vu en lui n'était rien d'autre que ça... rien que du potentiel.
+
+
+44 (10:38:21:13)
+
+MILA	Où allons-nous?
+
+BLAZE	On raconte que ce type passe ses journées au Spa et qu'il gère ses affaires entre deux massages. Pas ceux auxquels tu penses.
+
+MILA	Je ne vois toujours pas ce que ça peut me rapporter..
+
+BLAZE	Je t'aiderai à mettre le pied à l'étrier.
+
+MILA	Vraiment? Tu ferais ça?
+
+BLAZE	Oui. Je ferais ça.
+
+MILA	Tu vois, le truc c'est que... je suis actrice, mais ça ne veut rien dire tant que je ne bosse pas, alors je dois avoir un agent, sinon je compte juste pour du beurre. Tu dois prouver que t'as pas besoin d'un agent pour en avoir un, c'est comme obtenir un prêt avec les banques.
+
+BLAZE	Je suis sûr d'avoir un contact.
+
+MILA	Cest toi, le contact Je veux que tu me représentes.
+
+BLAZE	Je ne suis pas agent d'acteurs.
+
+MILA	Non, mais il faut un début à tout, tu ne crois pas? Tu es d'accord pour essayer?
+
+BLAZE	D'accord.
+
+MILA	Yesss!
+
+
+45 (10:39:11:11)
+
+ZOE	Christopher, on dirait que tu souhaites qu'il échoue?
+
+CHRISTOPHER	Zo... tu crois sans doute en lui, mais... je sais qui il est. Je le connais bien.. C'est un homme qui est brisé... et quoi qu'il fasse il est brisé.
+
+ZOE	Dans ce cas, tu n'as qu'à le réparer.
+
+CHRISTOPHER	C'est malheureusement impossible.
+
+
+46 (10:39:38:19)
+
+VICTOR	Mais vous faites...
+
+BLAZE	Victor, je sais que vous ne me connaissez pas, mais... à partir d'aujourd'hui vous ne voudrez plus vous passer de moi.
+
+VICTOR	Qui êtes-vous?
+
+MILA	Mila, et je pense pouvoir vous aider pour votre dos, monsieur. .
+
+BLAZE	Pour votre gouverne, je travaille avec Christopher Kilembe...
+
+VICTOR	Oh, vous connaissez Chris?
+
+BLAZE	C'est mon partenaire. Et je crois savoir que vous avez fait des affaires ensemble à une époque. Dans quelle mesure pouvez-vous confirmer que Beharino va traiter avec le Béréa FC?
+
+VICTOR	C'est déjà fait. 
+
+BLAZE                                   L'avez-vous enregistré en ligne sur le site de la FIFA? 
+
+VICTOR                                 Pas encore.
+
+BLAZE	Donc la transaction n'est pas officielle?
+
+
+47 (10:40:19:14)
+
+BLAZE	Et si je vous disais que Mila pourrait vous débarrasser de vos douleurs?
+
+VICTOR	Ecoutez, j'ai fait venir des gens du monde entier. Rien, nada. Alors dites-moi, ce n'est pas cette petite fille qui va...
+
+BLAZE	Ce n'est pas une petite fille. Elle a la touche magique. J'ai pu le constater. Elle a guéri ma mère de son arthrite chronique des jambes. Elle a aussi guéri son oncle, paralysé après une chute de.... 8 étages? quand il travaillait sur un chantier. Les médecins disaient qu'il ne remarcherait plus, mais..., cette femme, c’est un maître Reiki.
+
+
+48 (10:41:01:13)
+
+MILA	Il me prête des qualités divines, pour lui je suis une sorte de prophète. Il n'en est rien. Mais à ce stade, qu'avez-vous à perdre, monsieur?
+
+VICTOR	Appelez-moi Vic.
+
+MILA	Victor, accordez-moi une heure ou deux, maximum, et je serai alors en mesure de savoir si je peux vous aider ou pas.
+
+BLAZE	Qu'en pensez-vous, Vic?
+
+VICTOR	Que vais-je dire au joueur?
+
+BLAZE	Vous direz au joueur que la stabilité, c'est ce dont il a le plus besoin aujourd’hui.
+
+VICTOR	Okay. Je vais vous dire une chose. Si vous voulez que je revienne sur mon offre, il faudra une amélioration marquante. Est-ce que tout est bien clair?
+
+
+49 (10:41:44:16)
+
+LESEGO	Yo! Quoi de neuf?
+
+BLAZE	C'est la folie, Les.
+
+LESEGO	Eh ben ça risque de le devenir encore plus.
+
+BLAZE	C'est-à-dire?
+
+LESEGO	Nina vient de me dire qu'elle rentrait plus tôt de Cape Town, les séances photos sont terminées, son avion atterrit à 2 heures, il faut que tu ailles la chercher.
+
+BLAZE	Tu sais qu'il y a des Uber?
+
+LESEGO	Non, la question n'est pas là.
+
+BLAZE	Pourquoi tu ne lui enverrais pas un Uber?
+
+LESEGO	Parce qu'il faut que tu t'occupes d'elle, je ne peux pas la laisser venir direct dans ma chambre d'hôtel, t'as capté?
+
+BLAZE	J'ai capté, oui, malheureusement je ne peux pas t'aider. Je suis ton agent, je ne suis pas ton boy.
+
+LESEGO	Oh, ben si tu m'y obliges, je vais aller chercher un agent qui me rendra service, tu crois que je n'ai pas de propositions?
+
+BLAZE	Tu me fais chanter, maintenant?
+
+LESEGO	J'ai besoin d'un agent qui me soutienne, dans tous les cas. 
+
+BLAZE                                Envoie-moi les détails du vol. 
+
+LESEGO                               Ahhh, bravo, bravo. Merci. Maestro, gardez-moi ça.
+
+
+50 (10:42:39:22)
+
+GODI	Hé... attends! Viens là...
+
+BLAZE	Qu'est-ce qu'il y a?
+
+GODI	Y'a une dame qui t'attends dans le bureau. Elle dit que c'est personnel.
+
+BLAZE	Ah oui?
+
+GODI	Sympa, non?
+
+BLAZE	Merci. Je vais m'en occuper, merci. J'ai dit "JE" vais m'en occuper, merci. Moi.
+
+
+51 (10:43:13:03)
+
+LESEGO	Woh! Waoh! Tequila, Tequila. Comme au bon vieux temps. Toi et moi, entre potes. Oooooh Yé ! Yesss On va tout niquer! Ouais, tout niquer. tu checkes mec? Ahh Voilà ! Mate, mate, mate... à 9 heures. Wow!
+
+BLAZE	Je suppose que tu attends qu'elle te regarde, même si tu as déjà une copine.
+
+LESEGO	J'ai pas envie d'attendre. J'prends les devants.
+
+
+52 (10:44:04:19)
+
+BLAZE	Alors? Le bide?
+
+LESEGO	Non, non, elle se donne des airs. Je l'aurai à l'usure, avant la fin de la nuit
+
+BLAZE	Elle ne t'a pas calculé, pourquoi refuses-tu de l'admettre?
+
+LESEGO	Je crois qu'elle a trop bu.
+
+
+53 (10:44:47:20)
+
+LESEGO	Uh uh. Uh uh, cette bonne vieille Gloria Gaynor. ça ne veut rien dire, mec.
+
+BLAZE	Il n’y a pas de hasard.
+
+LESEGO	Oh, merde.
+
+BLAZE	Assieds-toi.
+
+LESEGO	Pourquoi?
+
+BLAZE	Laisse faire les choses.
+
+LESEGO	Tu crois que ça va marcher?
+
+BLAZE	On verra.
+
+LESEGO	Toi, laisse faire!
+
+
+54 (10:45:21:07)
+
+BLAZE	Salut. Est-ce que mon ami t'ennuyait?
+
+NATALIE	Il commençait, oui.
+
+BLAZE	Je suis désolé, je ne permettrai pas... que ça se reproduise, okay?
+
+NATALIE	Il faisait comme si je le connaissais.
+
+BLAZE	Oui, il est assez relou, dans l'genre.
+
+NATALIE	Il est censé être célèbre?
+
+BLAZE	Pas "censé", en fait, il l'est. Mais ça reste un relou.
+
+NATALIE	(rire______) Tu devrais mieux choisir tes amis.
+
+BLAZE	Ou je devrais mieux choisir mes clients.
+
+NATALIE	(rire__) C'est quoi mon prénom?
+
+BLAZE	J'en sais rien je ne te l'ai pas demandé.
+
+NATALIE	Devine.
+
+BLAZE	Shannon?
+
+NATALIE	(rire_____) Là tu gèles.
+
+BLAZE	Megan?
+
+NATALIE	(_hh) Tu t'éloignes!
+
+BLAZE	Natasha?
+
+NATALIE	Tu chauffes...
+
+OUT (10:46:21:08)
+
+NOTE	FIN EPISODE

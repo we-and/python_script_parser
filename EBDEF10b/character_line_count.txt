@@ -1,0 +1,28 @@
+Nicolas: 59
+Adela: 26
+Isabel 2: 8
+Remedios: 35
+Victoria: 58
+Eugénia: 15
+Assemblée: 1
+Alonzo: 4
+Trinidad: 17
+Miguel: 31
+Ana: 10
+Granados: 5
+Père Octavio: 8
+Rosa: 18
+Femme au chapeau: 1
+Homme Granados: 1
+Morales: 32
+Milagro: 36
+Auteur: 1
+Voix: 1
+Marqueze général: 1
+Esclave gauche: 1
+Candélà: 8
+Esclave 2: 3
+Thomà: 22
+Esclaves: 1
+Hilaria: 6
+Siervo: 2

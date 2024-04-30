@@ -1,0 +1,1680 @@
+NetflixFinalProxy_1372174_TheWorthy
+01/08/2017
+
+(BOUCLE 1 - 00:00:41:19)
+		01
+
+EISSA	Mon père parlait rarement de ce qui lui arrivait ... si ce n'est cette fois-là, Alors qu'il roulait de la ville vers la province, il décida de prendre un auto-stoppeur à bord de son camion.
+
+SHUAIB	Allez-y !
+
+EISSA	Il était comme ça mon père. Toujours prêt à rendre service. L'homme ne ressemblait pas aux autres auto-stoppeurs. Il demanda à mon père de le déposer à la sortie 77. Une sortie qui ne menait nulle part ... Et avant de partir, l'homme mit mon père en garde :
+
+ADAM	Méfiez-vous des drapeaux noirs ! Ils ne sont loyaux qu'à ceux qui appartiennent à leur espèce, et à eux seuls..
+
+EISSA	Il conseilla ensuite à mon père de rassembler des provisions et de s'enfuir. Il devait trouver un endroit sûr afin de protéger sa famille.
+
+Insert	Sortie 77. Zone industrielle.
+
+EISSA	Un endroit loin de tout, où il ne pourrait rien leur arriver. Alors, c'est exactement ce que mon père a fait.
+
+Auteur	(ou Oracle, Devin ...)
+
+EISSA	Le Prophète ... c'est le nom que mon père avait donné à cet homme. Puisqu'il avait effectivement tout prévu ...
+
+Insert	THE WORTHY
+
+(BOUCLE 2 - 00:02:11:14)
+		02
+
+EISSA	Peu de temps après cette rencontre,                       des groupes para-militaires dont celui des "Drapeaux Noirs" commencèrent à se faire la guerre pour devenir les maîtres du pays. Ils détruisirent tout ce qu'ils trouvaient sur leur chemin. C'était véritablement le chaos total ! Tous ceux qui réussissaient à leur échapper quand ils croisaient leur chemin, finissaient par mourir de leurs blessures ou bien affamés et cachés au fond de leurs maisons. En tout cas, une chose est sûre ... tous ces pauvres gens avaient quelque chose en commun ... ils mouraient terrorisés. Affamés. Et malheureusement, la situation s'est encore dégradée ... les milices avaient réussi à contaminer l'eau courante. Si on en buvait une seule goutte, notre système immunitaire pouvait être aussitôt détruit. C'est à ce moment-là qu'on a vraiment vécu l'enfer sur terre. Des villes entières ont été définitivement rayées de la carte. On n'avait plus confiance en rien ni en personne, reclus dans notre abri de fortune. L'enfer sur terre, je vous dis ... La terre qui avait vu naitre toutes les religions n'était plus qu'un vaste abîme de confusion. Ceux d'entre nous qui avaient réussi à survivre jusque-là, n'avaient plus que leur foi en l'humanité pour tenter d'y croire encore.
+
+(BOUCLE 3 - 00:03:43:00)
+		03
+
+EISSA	(ah!) Laisse tomber.
+
+DAOUD	Tu comprends ce que je ressens ?
+
+EISSA	Mais oui ! C'est pour ça que je te dis de laisser tomber. (euh) Mon père ne te laissera jamais l'approcher.
+
+DAOUD	Je m'en moque. Je vais aller parler à ton père. D'homme à homme.
+
+EISSA	(ah!)
+
+DAOUD	Tu me crois pas capable de le faire ?
+
+EISSA	(h/) (h/) Echec et mat !
+
+DAOUD	J'avais la tête ailleurs, désolé !
+
+EISSA	(ah ah ah ah ah ah !)
+
+(BOUCLE 4 - 00:04:45:20)
+		04
+
+EISSA	(h/) Papa ! (h/) Papa !
+
+SHUAIB	Sois loué, Dieu tout puissant pour cette journée qui s'est terminée sans encombres pour nous.
+
+Auteur	(il murmure ..............................................................)
+
+EISSA	Papa, on a de la visite !
+
+SHUAIB	Combien de personnes ?
+
+EISSA	J'ai vu qu'un seul homme !
+
+SHUAIB	Va chercher des renforts ! Et tu nous couvres quand tu remontes là-haut !
+
+(BOUCLE 5 - 00:05:24:10)
+		05
+
+JAMAL	Shuaib !
+
+SHUAIB	C'est pas le moment, on verra ça plus tard, Jamal !
+
+MARYAM	Papa ! Laisse-moi t'accompagner !
+
+SHUAIB	Hors de question !
+
+MARYAM	Papa !
+
+SHUAIB	Maryam !
+
+MARYAM	Cesse de me traiter comme une enfant ! Je veux être à tes côtés dans cette lutte !
+
+SHUAIB	Mais tu l'es déjà, chérie ! Je ne connais personne de plus courageux que toi. C'est pour ça que je veux que tu restes ici pour surveiller ce qui se passe.
+
+MARYAM	(h\)
+
+SHUAIB	Et souviens-toi, deux coups de feu, ça va et
+
+MARYAM	Trois, il y a un problème.
+
+SHUAIB	... (mmmm/)
+
+(BOUCLE 6 - 00:06:37:04)
+		06
+
+TEEN GIRL	(h/)
+
+Auteur	(elle pleure ...)
+
+TEEN GIRL	(hh h h h h h h h) (h/) (h/)
+
+SHUAIB	Elle est blessée ?!
+
+QAIS	J'aime pas ça ...
+
+TEEN GIRL	(ah ah ah ah ah ah !) J'vous en supplie, aidez-moi !
+
+QAIS	C'est un piège, j'en suis sûr.
+
+TEEN GIRL	(ah!) (ah ah ah ah ah ah !) (ah ah ah ah ah ah !) Aidez-moi !
+
+SHUAIB	Approche !
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	Viens !
+
+QAIS	C'est un piège. J'suis sûr qu'il y a quelqu'un d'autre.
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	Penses-tu ! Elle a l'âge de ma fille, c'est une gamine !
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+QAIS	Ne lui ouvre pas, Shuaïb.
+
+TEEN GIRL	Je vous en supplie, aidez-moi ! (h/) Sinon, tuez-moi !
+
+SHUAIB	(h/) Je vais lui ouvrir ! (h/) Tiens ça !
+
+(BOUCLE 7 - 00:07:29:22)
+		07
+
+EISSA	Mais qu'est-ce qu'il fabrique ?
+
+DAOUD	T'inquiète pas ! Ton père est malin, il sait ce qu'il fait.
+
+QAIS	Shuaib!
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	Tu refermeras dès qu'on sera revenus.
+
+QAIS	(h/) Shuaib...
+
+(BOUCLE 8 - 00:08:24:00)
+		08
+
+Auteur	(out chanson et pleurs) (fin de l'out chanson)
+
+RAED	(ah ah ah ah ah ah !)
+
+Auteur	(il rit méchamment)
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+RAED	Si j'étais toi,
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+RAED	je resterais où je suis, sans bouger.
+
+TEEN GIRL	(hhhhhhhhh)
+
+RAED	Baisse ton arme, allez !
+
+SHUAIB	Donne-moi la fille.
+
+TEEN GIRL	(ah!)
+
+RAED	J't'ai dit de baisser ton arme !
+
+SHUAIB	Vite ! Donne-la petite !
+
+TEEN GIRL	(ah!)
+
+RAED	J'vais pas te le redire cinquante fois !
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	(h/) (h\) (h/) (h\) (h/)
+
+EISSA	(h/) (h/)
+
+TEEN GIRL	(h h h h h h h h h h h h h h h)
+
+RAED	Jette ton arme !
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	C'est hors de question.
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+RAED	Comment tu t'appelles ?
+
+SHUAIB	Ca te regarde pas.
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+RAED	(mm)
+
+SHUAIB	Tu appartiens à quelle milice ?
+
+RAED	(euh)
+
+TEEN GIRL	(ah!)
+
+RAED	Ca te regarde pas.
+
+TEEN GIRL	(h h h h h h h h h h)
+
+(BOUCLE 9 - 00:09:29:00)
+		09
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+RAED	(ah ah ah ah ah ah !)
+
+Auteur	(il rit)
+
+SHUAIB	(h/)
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	On m'appelle Abu Eïssa.
+
+RAED	Et moi, je suis ... (mm) le vagabond !
+
+TEEN GIRL	(h h h h h h h h h h h)
+
+RAED	Je suis avec aucune milice !
+
+SHUAIB	Qu'est-ce qui t'amène ? Qu'est-ce que tu veux ?
+
+TEEN GIRL	(ah!) (h h h h h h h h h h h h h h h h h h)
+
+RAED	De l'eau. Je veux de l'eau.
+
+TEEN GIRL	(ah!) (h h h h h h h h h h h h h h h h h h h)
+
+SHUAIB	(h/) Je vais t'en donner un bidon. Et tu me donnes la fille.
+
+TEEN GIRL	(h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h)
+
+RAED	(ah!) (ah ah ah ah ah ah !) Franchement, ce que tu peux être généreux ! (h/) Avec ce magnifique chêteau d'eau qui est à toi, tout ce que tout ce que tu trouves à me donner, c'est un malheureux bidon ?
+
+TEEN GIRL	(ah ah ah ah ah ah !)
+
+SHUAIB	J'suis pas tout seul à l'utiliser.
+
+TEEN GIRL	(hh\)
+
+RAED	Et je peux aussi te rajouter un joli cadeau en plus de la fille.
+
+TEEN GIRL	(h/) (h h h h h h h h h h h h h h h h h h h h h) (ah ah ah ah ah ah !)
+
+SHUAIB	Qu'est-ce que c'est ?
+
+RAED	J'ai des balles, si tu veux.
+
+TEEN GIRL	(ah!) (h h h h h h h h h h h h h h h)
+
+SHUAIB	Du 9 millimètres ?
+
+(BOUCLE 10 - 00:10:28:03)
+		10
+
+TEEN GIRL	(h h h h h h h h h h h h h h h h h h h h h h)
+
+RAED	Non. Mais je possède du 22 millimètres.
+
+SHUAIB	Et du 7. 62, tu en as ?
+
+TEEN GIRL	(h/) (h/)
+
+RAED	Non, ça, j'en ai pas mais (h/)
+
+TEEN GIRL	(h/)
+
+SHUAIB	(eh!)
+
+TEEN GIRL	(ah!)
+
+RAED	Abu Eïssa, du calme, ça va, tout va bien ! J'vais te faire un beau cadeau !
+
+TEEN GIRL	(ah!)
+
+DAOUD	Pas tout de suite  !
+
+EISSA	(h/) (h/) (h/)
+
+RAED	Regarde tout ce que j'ai ! T'as vu ça, un peu ? Elles sont faciles à utiliser. Si t'as pas d'armes, tu peux te servir de la poudre qui est à l'intérieur !
+
+TEEN GIRL	(h/) (h/) (h h h h h h h h h)
+
+RAED	Tu vas faire des dégâts  !
+
+SHUAIB	Non, j'en veux pas.
+
+TEEN GIRL	(h h h h h h h h h h h h h)
+
+SHUAIB	Voilà ce que j'te propose : je vais te donner trois bidons d'eau potable (...) et tu me donnes la fille.
+
+TEEN GIRL	(h h h h h h h h h)
+
+SHUAIB	après ça, toi et tes maudits amis          vous ne revenez jamais par ici.
+
+TEEN GIRL	(ah ah ah ah h h h h h h h h h h h h h)
+
+SHUAIB	T'as pas vraiment le choix !
+
+RAED	(euh) Calme-toi, calme-toi.
+
+SHUAIB	Sinon, il risque d'y avoir des dégâts !.
+
+(BOUCLE 11 - 00:11:25:22)
+		11
+
+RAED	(h......../) T'as raison ! Il risque d'y avoir de sacrés dégâts ...
+
+TEEN GIRL	(ah!)
+
+QAIS	Shuaib!
+
+SHUAIB	(ah!)
+
+QAIS	(ah!)
+
+RAED	(ah!)
+
+SHUAIB	(ah!)
+
+RAED	(ah!)
+
+SHUAIB	(ah!)
+
+RAED	(ah!)
+
+EISSA	Punaise ! J'arrive pas à les distinguer l'un de l'autre !
+
+SHUAIB	(ah!) (ah!) (ah...................!) (ah!) (ah!)
+
+RAED	(ah!) (ah ah ah ah ah ah !)
+
+SHUAIB	(ah!) (ah ah ah ah ah ah !) (ah!)
+
+RAED	Tu vas mourir !
+
+DAOUD	Il est là !
+
+SHUAIB	(ah ah ah ah ah ah !)
+
+RAED	(ah!)
+
+SHUAIB	(ah!)
+
+EISSA	(h/)
+
+QAIS	(ah ah ah ah ah ah !) (ah ah ah ah ah ah !) (h/) (h/)
+
+(BOUCLE 12 - 00:12:47:13)
+		12
+
+QAIS	Shuaïb!
+
+EISSA	(h/)
+
+RAED	Khaled ? Gabba?
+
+EISSA	Allez, Papa, fais quelque chose ! (h\) (h\)
+
+RAED	Dis-leur de jeter leurs armes sinon je les ah !
+
+EISSA	(ah!)
+
+SHUAIB	(ah!) Ca va ?
+
+QAIS	Oui, oui, ça va.
+
+MUSSA	Tirez pas !! (h/) (h/) J'ai rien à voir là-dedans ! J'ai entendu les coups de feu ! Je suis de votre côté, les gars.
+
+SHUAIB	Qu'est-ce qui t'amène ?
+
+MUSSA	Je cherche un refuge. (h h h h) La région est infestée de voyous prêts à tout ! (h/) J'espèrais juste que vous alliez pas me tirer dessus !
+
+SHUAIB	Tu es seul ?
+
+MUSSA	(h/) (h\) Gülbin! (h\) (h/)
+
+SHUAIB	Vous n'êtes que tous les deux ?
+
+MUSSA	Oui, y'a qu'elle et moi. (h/)
+
+Auteur	(Gulbin parle en kurde, il est important qu'on pense qu'elle ne comprend pas l'arabe pour l'instant)
+
+MUSSA	(h/) (Mussa lui répond en kurde également) (mmm/) (mmm\) (h/)
+
+(BOUCLE 13 - 00:14:04:12)
+		13
+
+MUSSA	Ca vous ennuie si je reprends mon couteau ? (h/) (h\) (h\) (h/) (h\) (h/) (h/) Tu dis bonjour aux hommes qui m'ont tiré dessus   ? J'oublie toujours que Gulbin ne parle pas notre langue. Elle est kurde. Moi, je le parle un peu.
+
+Auteur	Mussa parle kurde à Gülbin. Gülbin parle kurde.
+
+(BOUCLE 14 - 00:14:57:18)
+		14
+
+EISSA	Papa !
+
+SHUAIB	Tout va bien.
+
+EISSA	(h\) Tu n'es pas blessé ?
+
+SHUAIB	Si tu savais mieux tirer,           tu aurais tué ce pauvre homme.
+
+EISSA	(h/) Je croyais qu'il était avec celui qui
+
+SHUAIB	Je sais ce que tu croyais !
+
+EISSA	(...)
+
+SHUAIB	Mais ce n'est pas grave ! Moi, je m'appelle Shuaïb. Lui, c'est Quaïs.
+
+MUSSA	Moi, j'm'appelle Mussa.
+
+EISSA	(h/) C'est toi qui as sauvé mon père. Je te remercie.
+
+SHUAIB	Suivez-nous ! On va nettoyer tes blessures à l'intérieur.
+
+(BOUCLE 15 - 00:15:53:21)
+		15
+
+SHUAIB	Mon fils, Eïssa, était capitaine de son équipe de foot.
+
+MUSSA	(mm)
+
+SHUAIB	Il a été sacré meilleur buteur deux années d'affilée.
+
+MUSSA	Pas mal ! Bravo ! Je vois que vous avez perdu des proches ...
+
+SHUAIB	Malheureusement, c'est le lot de tout le monde ici ... Enterre la jeune fille demain à la première heure.
+
+QAIS	Entendu.
+
+(BOUCLE 16 - 00:16:51:18)
+		16
+
+MARYAM	(h/)
+
+SHUAIB	Ce n'est pas mon sang, rassure-toi. Mussa, voici ma fille, Maryam.
+
+MUSSA	Bonjour Maryam !
+
+SHUAIB	Daoud...
+
+DAOUD	Oui !
+
+SHUAIB	c'est un artiste !
+
+DAOUD	Je suis graphiste en fait, je fais du dessin d'animation, je travaille beaucoup pour la télé.
+
+SHUAIB	C'est un artiste. Zaineb, Bilal, on a des invités.
+
+MUSSA	Moi, c'est Mussa, et elle, Gulbin.
+
+ZAINEB	Bonjour.
+
+BILAL	Bienvenue.
+
+ZAINEB	Notre maison est immense. Faites comme chez vous.
+
+(BOUCLE 17 - 00:17:53:15)
+		17
+
+MUSSA	Mais qu'est-ce que c'est que cet endroit ?
+
+SHUAIB	Avant, ils construisaient des ailes d'avion ici.
+
+MUSSA	Ca fait longtemps que vous êtes arrivés ?
+
+SHUAIB	Trois cent dix-huit jours.
+
+Auteur	(leur conversation est inaudible .......................................................)
+
+JAMAL	Non mais tu es devenu fou ? Tu accueilles n'importe qui chez nous, maintenant ?!
+
+SHUAIB	Calme-toi Jamal, ne t'énerve pas, s'il te plait ! Je ne te permets pas de parler sur ce ton !
+
+JAMAL	Mais enfin, est-ce que tu te rends compte que c'est de la folie d'agir ainsi ?
+
+SHUAIB	Calme-toi et après, si tu veux, on en reparlera calmement. (h\)
+
+EISSA	Est-ce que tout va bien ? Pas de soucis ?
+
+(BOUCLE 18 - 00:18:54:11)
+		18
+
+SHUAIB	Toi, tu as quelque chose à me dire ?
+
+EISSA	Mussa, il devrait rester avec nous.
+
+SHUAIB	Lui tout seul ? (mm)
+
+Auteur	(rire BF)
+
+SHUAIB	(h/) Eissa, nous ne savons pas qui sont ces personnes ! Et nous ignorons quelles sont leurs intentions.
+
+EISSA	Mais cet homme t'a sauvé la vie ! Nous n'avons pas besoin d'en savoir plus.
+
+SHUAIB	Nous devons quand même rester prudents. Ce monde est dangereux.
+
+EISSA	La prudence n'a pas empêché Maman de mourir empoisonnée par l'eau.
+
+SHUAIB	J'ai fait tout ce qui était possible afin de la sauver !
+
+EISSA	Si on veut s'en sortir vivants, il va falloir être malins.
+
+SHUAIB	(mmm/) Le Prophète m'a conseillé d'être prudent.
+
+EISSA	(h/)
+
+SHUAIB	Et de faire confiance à Dieu.
+
+EISSA	Tu dis que tu crois en Dieu et pourtant, tu refuses de penser à l'avenir. Nous devons nous tenir prêts. Nous ne pouvons pas subir ce destin qui semble s'imposer à nous.
+
+SHUAIB	Ca suffit, Eïssa.
+
+EISSA	Mais enfin, tu dois comprendre qu'il ne faut
+
+SHUAIB	Ca suffit, j'ai dit !
+
+EISSA	(...)
+
+(BOUCLE 19 - 00:20:08:16)
+		19
+
+MARYAM	Do you speak English?
+
+MUSSA	(h.........../) Elle ne parle que le kurde.
+
+SHUAIB	Tu m'as sauvé la vie et je t'en suis très reconnaissant. (h/) Si tu veux, vous pouvez rester quelques jours parmi nous mais pas plus. A moins que vous n'ayez vraiment nulle part où aller. Si vous restez,     ce sera à certaines conditions, vous devrez faire ce que je dis.
+
+MUSSA	(h............../) En général, on laisse les invités se restaurer avant de leur proposer de rester, enfin, c'est ce qu'il me semble. Je me trompe ?
+
+(BOUCLE 20 - 00:21:09:00)
+		20
+
+SHUAIB	Comment vous êtes vous rencontrés ?
+
+MUSSA	(mm) Je l'ai croisée dans un quartier qui avait été déserté par ses habitants. (h/) Elle s'y cachait depuis la mort de son mari quelques mois plus tôt. Il avait été lâchement assassiné. Et depuis ce jour, on est ensemble. Ce doit être le destin qui nous a réunis.
+
+Auteur	Il parle kurde.
+
+MARYAM	Comment a-t-il été tué ?
+
+MUSSA	Il a été démembré. (h/) Ecartelé comme un animal. Et ensuite, ils ont dépecé chaque partie de son corps. C'était des sauvages qui s'étaient auto-proclamés (...) soldats ! (h..................../) C'était eux qui décidaient de tuer leurs prisonniers (...) ou de les épargner. Par chance, Gulbin a réussi à leur fausser compagnie. Et je l'ai rencontrée peu de temps après ...
+
+(BOUCLE 21 - 00:23:01:19)
+		21
+
+RAYA	Je trouve que mes cicatrices sont belles, moi. Tu peux lui traduire ?
+
+Auteur	(Mussa traduit en kurde)
+
+RAYA	Quand ça a commencé, j'étais institutrice dans une petite école. Les rebelles sont arrivés et ils nous ont tous pris en otages. Moi, je me suis pas laissée faire et je me suis jetée sur un de ces barbares. Mais il y en a d'autres qui sont arrivés. Ils m'ont tous violée l'un après l'autre. (h/) C'était de vrais animaux. A la fin, ils m'ont jeté de l'acide sur le visage. Mais j'ai survécu. C'était le prix à payer pour rester en vie, et s'il fallait le refaire, je le referais sans la moindre hésitation.
+
+(BOUCLE 22 - 00:24:00:17)
+		22
+
+IDREES	(X) Moi, je suis directeur de théatre, (h/) enfin, je l'étais dans une autre vie. (h/) J'avais pour habitude de demander à mes étudiants d'être bienveillants quand l'un de leurs camarades passait sur scène. (h/) J'aimerais qu'aujourd'hui, ils soient à nouveau tous à mes côtés, (...) pour admirer Raya. C'est l'exemple parfait du courage, de ce qu'on peut réussir à faire grâce à l'amour. Elle a réussi à survivre à la brutalité des humains avec courage. En se disant que demain était possible. Alors, évidemment, je suis tombé amoureux d'elle. Et après,                 plusieurs semaines de tergiversations et de questionnement, (h/) notre cher ami Shuaïb (h/) a accepté de nous marier.
+
+Auteur	chant en arabe.
+
+(BOUCLE 23 - 00:26:53:19)
+		23
+
+MARYAM	Il y a quelque chose qui ne me plait pas.
+
+SHUAIB	De quoi ?
+
+MARYAM	(h/) Gulbin a l'air d'avoir très peur de Mussa.
+
+SHUAIB	Pourquoi est-ce que tu dis ça ?
+
+MARYAM	Il suffit de la regarder, elle a toujours l'air d'être terrorisée quand il se trouve près d'elle. Je trouve qu'il a une attitude étrange, il fixe les gens d'une drôle de façon.
+
+EISSA	(h/) Je te rappelle qu'il a sauvé la vie de notre père.
+
+MARYAM	Oui, ça, je le sais. Mais il faut rester vigilants.
+
+EISSA	C'est notre devoir de l'héberger.
+
+MARYAM	Mais enfin, qu'est-ce que tu sais sur cet homme ?
+
+EISSA	Nous lui sommes redevables !
+
+MARYAM	Nous avons déjà fait plus que nous le devions pour ces gens !
+
+SHUAIB	Maryam ! J'ai donné jusqu'à demain à Mussa pour décider s'ils allaient rester ou non avec nous.
+
+MARYAM	Gulbin a p't'être envie de rester sans oser le dire !
+
+SHUAIB	Allez vous reposer. (h/) Nous aurons toutes les réponses à nos interrogations dès demain. Bonne nuit, mes enfants.
+
+MARYAM	Bonne nuit.
+
+EISSA	Bonne nuit, Papa.
+
+(BOUCLE 24 - 00:27:58:17)
+		24
+
+JAMAL	Le couteau.
+
+MARYAM	Tu peux m'expliquer pourquoi tu lui fais tellement confiance ?
+
+EISSA	Tu peux m'expliquer pourquoi tu veux toujours avoir raison ?
+
+MARYAM	Ah ! Et toi, tu veux pas avoir raison ? Espèce d'imbécile !
+
+EISSA	Si tu me traites encore d'imbécile, je raconte à Papa que t'es amoureuse de Daoud.
+
+MARYAM	Tu ferais pas ça ? Ce serait vraiment nul et tu le sais.
+
+EISSA	(h/) J'te signale que c'est toi qui as commencé. Et tu sais très bien que je n'irai jamais rien dire à Papa. (mmm\)
+
+(BOUCLE 25 - 00:29:39:22)
+		25
+
+SHUAIB	(h.......\) J'espère que la nourriture t'a plu.
+
+MUSSA	(h/) C'était délicieux. Ca fait longtemps que j'avais pas mangé comme ça. (mm)
+
+SHUAIB	(h..../) Est-ce que tu tiens vraiment à garder ton couteau avec toi ?
+
+MUSSA	Ca te contrarie que je le garde ?
+
+SHUAIB	(h/) Pas vraiment mais tu vois, nous gardons toutes nos armes enfermées dans un placard qui reste verrouillé en permanence sauf en cas de besoin, bien sûr. Et je suis le seul à en posséder la clef. Tu as vu que je ne porte aucune arme.
+
+MUSSA	(h....../) Ce qui vaut pour les autres                 vaut également pour moi. (...)
+
+SHUAIB	(mm)
+
+MUSSA	Non ! Non !
+
+(BOUCLE 26 - 00:30:40:09)
+		26
+
+MUSSA	(h/) Tu doutes de moi peut-être ?
+
+SHUAIB	Mais pas du tout !
+
+MUSSA	Je suis sûr que je te fais peur, parce que tu ne me connais pas. (h/) Ce couteau et moi, nous nous sommes de vieilles connaissances. A la vie à la mort. Alors qu'est-ce que tu proposes qu'on fasse puisque tu es le chef ici ? Est-ce que tu me fais confiance (...) et je le garde avec moi ? (h/) Je dois aussi te faire confiance. (ah!) (h/) comment être sûr que tu ne vas nous tuer pendant notre sommeil ?
+
+SHUAIB	(h/) Si j'avais l'intention de vous tuer, toi et Gulbin, jamais je ne vous aurais nourris ce soir.
+
+MUSSA	(mmmmmmmm!)
+
+Auteur	(rire BF)
+
+MUSSA	(h/) Sauf si tu voulais nous engraisser comme une chèvre avant le sacrifice ! C'est sûrement ça que tu veux ?
+
+SHUAIB	Alors, là, tu te trompes complètement. Je ne suis pas du genre à prendre les gens en traitre.
+
+MUSSA	Tu es certain de ce que tu avances ?
+
+SHUAIB	Ecoute-moi bien, Mussa ! Je ne sais pas si tu as décidé ou non de rester ici, quoiqu'il en soit, sache que vous êtes toujours les bienvenus sous ce toît. Et quand on est chez quelqu'un, on obéit aux règles fixées par le chef de famille. Ton couteau sera donc enfermé dans le placard, point final !
+
+MUSSA	(mmmmmmmmmmmmm ah ah ah ah ah ah ah ah ah ah ah ah !)
+
+(BOUCLE 27 - 00:32:16:13)
+		27
+
+MUSSA	(ah ah ah ah ah ah !) (h/) Tu ne vois donc pas que je ne cherche qu'à plaisanter ? (h/) Ce couteau (...) (h/) est la prunelle de mes yeux.
+
+SHUAIB	(ah!) (mmm)
+
+MUSSA	(ah........................................................................... !)
+
+SHUAIB	(ah!) (ah!)
+
+Auteur	(réacs de douleur de Shuaïb ...................................................................................................................................................................................................................................................................................)
+
+MUSSA	Tu te rends compte que tu n'es que le chef d'un bataillon de bras cassés ?
+
+SHUAIB	(h/) (h/)
+
+MUSSA	(ah ah ah ah ah ah !)
+
+SHUAIB	(h/) (h/) (h/)
+
+MUSSA	Tu ne devrais pas donner ta confiance aussi facilement. La confiance, ça doit se mériter. (h/) Je sais où vous conservez votre eau, votre nourriture et vos armes. Alors adieu ! (...) chefaillon ... Tu es méprisable ...
+
+SHUAIB	(ah!)
+
+GULBIN	(h h h h h h h h h h h h)
+
+(BOUCLE 28 - 00:33:35:18)
+		28
+
+MUSSA	Je suis l'Alpha et l'Oméga. Je suis le début et la fin ! Le temps est enfin venu de séparer les forts des faibles. Les misérables ... des respectables !
+
+QAIS	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !) (ah!) (ah!) (ah!)
+
+EISSA	Quaïs !
+
+GULBIN	(ah!) (ah!) Non ! (ah!)
+
+RAYA	Lâche-là !
+
+GULBIN	(h h h h h h h h h h h h h)
+
+RAYA	Lâche-là !
+
+Auteur	(il parle en kurde............................................)
+
+RAYA	Apportez-moi une serviette ! (ah!) Un tee-shirt, des chiffons, n'importe quoi ! Faites vite !
+
+SHUAIB	(ah!)
+
+MARYAM	Nooon !
+
+SHUAIB	(h/)
+
+EISSA	P'pa ! Reste avec nous !
+
+SHUAIB	(h/)
+
+EISSA	Ne pars pas !
+
+SHUAIB	(h/)
+
+EISSA	Je t'en supplie, ne nous quitte pas !
+
+SHUAIB	(h\)
+
+EISSA	On est là, on est là !
+
+SHUAIB	Maryam,
+
+EISSA	On t'écoute !
+
+SHUAIB	Eïssa,
+
+EISSA	Reste avec nous !
+
+SHUAIB	(ah!)
+
+EISSA	(ah !)
+
+SHUAIB	Je suis désolé ! (h/) (h/) (h/) (ah!) (ah!)
+
+EISSA	Non ! Nooooooooooooooooooon ! Papa !
+
+(BOUCLE 29 - 00:34:45:21)
+		29
+
+EISSA	(h/) (h/)
+
+JAMAL	Voilà ce qui arrive quand on fait confiance aux étrangers.
+
+EISSA	(h/) (h/) (h/) (h/)
+
+MARYAM	C'est ta faute.
+
+EISSA	(h/) (h/) (h/) (h/) (h/) (h/) Daoud ! (h/) (h/) (ah!) (ah!)
+
+ZAINEB	Eïssa !
+
+EISSA	(ah!)
+
+ZAINEB	Attends Eïssa !
+
+EISSA	(ah!) (h/)
+
+ZAINEB	Daoud !
+
+EISSA	(h/) (h/)
+
+DAOUD	Eïssa !
+
+EISSA	Où es-tu ? Montre-toi salopard !
+
+QAIS	Eïssa !
+
+EISSA	Où tu es ? Reviens !
+
+MARYAM	Mais qu'est-ce que tu vas faire ? Calme-toi, ça ne sert à rien !
+
+EISSA	Laisse-moi passer !
+
+MARYAM	Ne fais rien que tu pourrais regretter !
+
+EISSA	Pousse-toi !
+
+Auteur	Gulbin parle kurde
+
+EISSA	Ecarte-toi ! Va-t-en ! Laissez-moi ! Qu'est-ce qu'il y a ? Qu'est-ce que vous avez à me regarder ? Vous vous rendez compte de ce qu'il a fait ? (h/) (h/) Qu'est-ce qu'on va devenir ? Qu'est-ce qu'on va devenir ?
+
+MARYAM	Tu ne vas rien faire ! Tu vas rester là !
+
+EISSA	(h/) (h/) (h/) J'vais le tuer !
+
+MARYAM	Tu ne vas rien faire !
+
+EISSA	Je vais le tuer !
+
+MARYAM	Non, tu vas pas le tuer !
+
+EISSA	(h/)
+
+MARYAM	Allons plutôt nous recueillir.
+
+EISSA	(h/) (h/) (h/) (h/) (euh) (h/) (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+(BOUCLE 30 - 00:37:09:05)
+		30
+
+DAOUD	Ca va aller. Mussa a dû se sauver. Il faut te reposer.
+
+MARYAM	Ne t'inquiète pas. Ne pars pas.
+
+Auteur	Elle se met à pleurer.
+
+MARYAM	(ah!) (ah............/) (ah!)
+
+DAOUD	Qu'il repose en paix.
+
+MARYAM	(ah!) (ah!) (ah!)
+
+(BOUCLE 31 - 00:39:08:18)
+		31
+
+MARYAM	Qu'est-ce qu'on va devenir ?
+
+EISSA	(ah\) J'sais pas. On va continuer notre vie. Notre père prenait soin de nous ... mais il n'avait pas imaginé qu'il partirait aussi vite ...
+
+MARYAM	Tu crois vraiment qu'il s'est enfui ?
+
+EISSA	Mussa? J'en sais rien ...
+
+MARYAM	J'pensais pas ce que je t'ai dit hier. C'est pas ta faute s'il est mort.
+
+(BOUCLE 32 - 00:40:21:20)
+		32
+
+QAIS	Tu es un mec bien, Eïssa.
+
+EISSA	(mm) Mon père rirait s'il t'entendait.
+
+QAIS	Ton père était fier de toi, il racontait à tout le monde que tu étais une star du foot.
+
+EISSA	(mm) Oui, c'est vrai qu'il était fier de moi. Sauf qu'il me traitait toujours comme un gosse.
+
+QAIS	Désormais, tu es devenu un homme. Tous les gens qui vivent ici comptent sur toi. Et sur ta soeur. On vous fait confiance ! C'est à ton père que je dois d'être en vie. Alors, tu peux tout me demander. Paix à son âme.
+
+EISSA	Paix à son âme.
+
+(BOUCLE 33 - 00:41:31:16)
+		33
+
+Auteur	Gulbin parle kurde
+
+EISSA	Quoi ? Je les laverai plus tard.
+
+Auteur	Gulbin parle kurde
+
+MARYAM	Qu'est-ce qu'il y a ?
+
+EISSA	Il n'y a plus d'eau !
+
+MARYAM	Comment ça ?
+
+EISSA	(h/) (mmmmmmmmmmmmmm\) On s'est fait avoir. On nous a coupé l'eau. Je vais au château d'eau.
+
+MARYAM	Dans ce cas, je t'accompagne.
+
+EISSA	Non.
+
+MARYAM	C'est trop dangereux, il est hors de question que tu y ailles tout seul.
+
+EISSA	Daoud, Quaïs, venez, on y va !
+
+QAIS	On va où ?
+
+EISSA	(h/) Au château d'eau, voir ce qui se passe.
+
+IDREES	Reste ici, Quaïs.. J'y vais. J'vous accompagne.
+
+EISSA	D'accord.
+
+MARYAM	Eïssa !
+
+EISSA	Ne t'inquiète pas ! Il faut que l'un de nous reste ici.
+
+MARYAM	Entendu.
+
+EISSA	(h\)
+
+MARYAM	Tu es toujours fâché contre moi ?
+
+EISSA	(tt/) N'oublie pas de fermer à clef derrière nous. Deux coups et tout va bien.
+
+MARYAM	Trois et il y a un problème. T'inquiète pas.
+
+EISSA	(mm)
+
+(BOUCLE 34 - 00:43:31:12)
+		34
+
+DAOUD	Si on courait ?
+
+EISSA	Ca changera rien. Garde ton énergie. Et ton courage. Tiens-moi ça.
+
+IDREES	Eïssa, attends ! Laisse-moi y aller, j'vais monter.
+
+EISSA	Non, j'y vais.
+
+IDREES	(h/) Non, je veux y aller ! Ton père disait qu'il fallait se choisir ses défis. Celui-là (...) est pour moi. (h/) (ah!) (ah!) J'vais avoir besoin d'un p'tit coup de mains, les garçons ! (h/) (ah!) (h/)
+
+DAOUD	Idrees. Sois prudent.
+
+(BOUCLE 35 - 00:44:54:17)
+		35
+
+IDREES	(h/) (ah!) (ah!)
+
+Auteur	(effort)
+
+IDREES	(ah!) (ah!) (mm)
+
+Auteur	(effort) effort
+
+IDREES	(ah!)
+
+EISSA	Idrees ! Dépêche-toi !
+
+(BOUCLE 36 - 00:46:10:21)
+		36
+
+EISSA	(ah!)
+
+DAOUD	(ah!)
+
+IDREES	(h/) (ah!) (ah!) (ah ah ah ah ah ah !)
+
+DAOUD	(h/) (h/) (h/)
+
+EISSA	Daoud !
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaah!)
+
+EISSA	Daoud!
+
+DAOUD	(ah!) (ah ah ah ah ah ah !)
+
+EISSA	J'suis là, t'inquiète !
+
+MARYAM	(h h h h h h  h h h h h h h h h h h h) Daoud !
+
+EISSA	J'suis là !
+
+QAIS	Attends Maryam !
+
+EISSA	Ca va aller !
+
+MARYAM	(h h h h h h h h h h)
+
+DAOUD	(ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+(BOUCLE 37 - 00:47:31:00)
+		37
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+MARYAM	(ah!) (ah!)
+
+DAOUD	(ah ah ah ah ah ah !)
+
+QAIS	Portons-le, Eïssa !
+
+MARYAM	(ah!)
+
+(BOUCLE 38 - 00:48:18:21)
+		38
+
+DAOUD	(ah ah ah ah ah ah !)
+
+QAIS	Essaye de te calmer, Daoud.
+
+DAOUD	(ah!) (ah!)
+
+MARYAM	Il faut stopper l'hémorragie !
+
+DAOUD	(ah!) (ah ah ah ah ah ah !)
+
+BILAL	C'est de ça dont Mussa parlait ? Séparer les misérables des respectables ?
+
+DAOUD	(ah!)
+
+ZAINEB	Mais qu'est-ce que nous allons devenir ?
+
+DAOUD	(ah!) (ah ah ah ah ah !!)
+
+ZAINEB	Qu'est-ce qu'il va faire de nous tous ?
+
+JAMAL	Tu ne vois donc pas ce qui va arriver ?
+
+DAOUD	(ah ah ah ah ah ah ah aha ah ah ah ah ah ah !)
+
+JAMAL	Il va nous massacrer.
+
+MARYAM	Donne-moi ta ceinture, ça ne tient pas !
+
+EISSA	(h/) (h/)
+
+QAIS	Ca va aller, sois courageux.
+
+DAOUD	(h/) (ah!) (ah!) (ah!) (ah!)
+
+MARYAM	De l'eau !
+
+ZAINEB	Mais y'en a plus.
+
+DAOUD	(ah ah ah ah ah ah !)
+
+BILAL	Et si jamais il revenait ici ?
+
+DAOUD	(ah ah ah ah ah ah !)
+
+GULBIN	(ah!)
+
+JAMAL	Où t'en vas-tu comme ça ? (hein ?)
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+JAMAL	Dis-moi ce que tu nous caches ?
+
+GULBIN	(ah!)
+
+JAMAL	Dis-le ! Tu vas parler, ordure !?
+
+DAOUD	(ah ah ah ah ah ah !)
+
+EISSA	Ca suffit ! Laisse-la tranquille ! Si tu as quelque chose à lui reprocher, viens me le dire à moi !
+
+DAOUD	(ah ah ah ah ah ah !)
+
+JAMAL	Pourquoi est-ce que tu la défends ? Après ce qu'elle a fait.
+
+EISSA	Je te signale qu'elle, elle n'a rien fait !
+
+DAOUD	(ah ah ah ah ah ah !)
+
+MARYAM	Eissa! C'est pas le moment de se quereller !
+
+DAOUD	Au secours, faites quelque chose !
+
+JAMAL	Tu devrais avoir honte de toi.
+
+DAOUD	J'vous en supplie !
+
+EISSA	Ferme-là !
+
+DAOUD	(ah ah ah ah ah ah !)
+
+MARYAM	C'est pas vrai ! L'hémorragie continue !
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+EISSA	(h/) (h/) Faites un feu, vite !
+
+QAIS	Tiens-le !
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+EISSA	(h/) Ca suffit ! Je suis là !
+
+MARYAM	(ah!) Calme-toi !
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+EISSA	Bilal, viens m'aider ! On est tous là, Daoud ! Tiens-le bien !
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+(BOUCLE 39 - 00:49:37:11)
+		39
+
+DAOUD	Eissa ! Eïssa ! Fais pas ça !
+
+MARYAM	Daoud!
+
+DAOUD	J't'en supplie !
+
+MARYAM	Calme-toi, Daoud !
+
+DAOUD	Non, Eïssa, noooon !
+
+EISSA	Couvrez-lui les yeux !
+
+DAOUD	Fais pas ça, j't'en suppliiiiie !
+
+MARYAM	Ca va aller, j'te le promets !
+
+JAMAL	Au-dessus du genou, faut couper.
+
+DAOUD	(mm) (h/) (h............................................../)
+
+JAMAL	Crois-moi ...
+
+DAOUD	(h/) (h/) (h/) (h/) (ah ah ah ah ah ah !) (ah!) (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !) (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+MARYAM	(h h h h h h h h h h h h h h h h h h h h h h h h h h h  h h)
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+JAMAL	Tenez-le bien.
+
+DAOUD	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+(BOUCLE 40 - 00:51:12:06)
+		40
+
+MARYAM	Jamal... Donne ! Donne ! (h/) Cette eau est pour Daoud !
+
+JAMAL	Ce que je vais te dire ne va pas te plaire mais tu dois te douter qu'on ne peut plus rester ici. et Daoud, (...) il n'est pas en état d'être déplacé. Tu sais qu'il a perdu énormément de sang. Mais nous devons d'abord penser à ceux qui vont survivre.
+
+MARYAM	Qu'est-ce qui te fait croire que tu vas être de ceux-là ?
+
+JAMAL	C'est une menace ? Nous allons tous mourir un jour.
+
+MARYAM	Tu n'es qu'un sale égoïste, tu me dégoûtes.
+
+JAMAL	Tu as raison. C'est l'égoïsme (...) qui fera que certains survivront. C'est pas avec de bons sentiments qu'on s'en tirera ne serait-ce qu'une semaine sans avoir un peu d'eau ! (h/) (h/)
+
+MARYAM	(ah ah ah ah ah ah !)
+
+JAMAL	(h/)
+
+MARYAM	(ah!)
+
+JAMAL	(ah!) Dégage !
+
+GULBIN	(ah!)
+
+EISSA	Qu'est-ce que tu fais, Jamal ?
+
+JAMAL	(h/) C'est elle qui a commencé ! Mais ça, tu l'as pas vu évidemment !
+
+EISSA	J'ai tout entendu !
+
+JAMAL	(h/) Oui et alors ? C'est pas toi le chef, ici !
+
+EISSA	Va-t-en !
+
+(BOUCLE 41 - 00:52:25:06)
+		41
+
+JAMAL	(h/) Alors, voilà que c'est toi qui donne les ordres aujourd'hui ?
+
+EISSA	Tu n'es plus le bienvenu parmi nous. Ici, nous nous entraidons. Si tu veux te battre pour toi, alors, va le faire loin de nous !
+
+JAMAL	(h/) est-ce que tu crois vraiment (...) que vous allez réussir à vous en sortir sans moi ici ? (hein ?)
+
+EISSA	C'est bon, va-t-en.
+
+JAMAL	Et si jamais je refuse de partir, tu fais quoi ?
+
+EISSA	Dégage !
+
+JAMAL	(ah!)
+
+Auteur	Réacs de bagarre.
+
+JAMAL	(ah!) (ah!)
+
+EISSA	(ah!) (ah!)
+
+JAMAL	(h/) (h/) (h/) (h/) Nous n'allons quand même pas obéir à un gamin dont le seul fait d'armes est d'avoir été capitaine d'une équipe de foot ? (h/) (h\) Désormais, je serai le chef ici. Il me semble que c'est beaucoup plus logique que d'obéir à un ado qui n'a aucune idée des difficultés qu'il va devoir affronter. Et la première chose que je vais faire, c'est de virer cette étrangère de chez nous !
+
+EISSA	Je t'interdis de toucher un seul de ses cheveux !
+
+JAMAL	(h/) Viens ici, toi ! Fous le camp ! N'approche pas, Eïssa ! Si je fais ça, c'est pour le bien de tous ! Je vais vous sauver.
+
+EISSA	Tu n'es pas un chef. Tu ne le seras jamais. Tu le sais. Tu n'en n'as pas l'étoffe !
+
+JAMAL	Et qu'est-ce que t'en sais ? Te souviens-tu (...) que ton père me demandait toujours mon avis avant de décider ?
+
+(BOUCLE 42 - 00:53:52:22)
+		42
+
+JAMAL	En réalité, je suis votre chef depuis plus longtemps que vous l'imaginez !
+
+EISSA	Un vrai chef est prêt à mourir pour les autres. Penses-tu en être capable ?
+
+JAMAL	Qu'est-ce que tu en sais ? Qui as-tu été capable de protéger ? En tout cas, certainement pas ton propre père. Que faisais-tu quand il a été lâchement assassiné ici devant tout le monde ? (hein ?) (h\) Qui a accueilli l'ennemi à bras ouverts ? Rappelle-moi qui a insisté pour qu'il reste parmi nous ?!
+
+EISSA	Et toi, comment es-tu arrivé ici ? (hein ?) Toi qui t'es enfui en abandonnant ta famille ?
+
+JAMAL	Je t'interdis de dire ça !
+
+EISSA	Tout ce que tu as voulu sauver, ce sont tes bouquins ! (hein ?)
+
+JAMAL	(h/) Si tu avances encore, je t'explose la tête sans hésiter une seconde !
+
+EISSA	Notre chef, ce n'est pas toi. Tu ne le deviendras jamais. Et ça, mon père me l'avait dit !
+
+JAMAL	(ah!)
+
+(BOUCLE 43 - 00:55:09:23)
+		43
+
+JAMAL	(h/) (h/) Pourquoi (...) pourquoi vous me regardez comme ça ? (h/) vous allez laisser ce tocard décider de tout ? Quelle folie vous ferait agir ainsi ? C'est parce que c'est le fils de Shuaïb ? (euh) je savais qu'il n'y avait aucune balle dans mon revolver. J'ai fait ça histoire de l'effrayer.
+
+BILAL	Eïssa, nous restons avec toi.
+
+ZAINEB	Raye-nous de ta vie, Jamal. Et essaye de rester en vie.
+
+(BOUCLE 44 - 00:56:35:09)
+		44
+
+JAMAL	Et ils ne furent plus que sept ...
+
+QAIS	C'est à dire ?
+
+JAMAL	Vous êtes tombés dans le piège. Mussa va vous éliminer l'un après l'autre. Tous autant que vous êtes. Vous allez tous y passer. Si vous voulez survivre, vous allez devoir sortir de ce trou à rats pour trouver enfin de l'eau. Je suis sûr qu'on va très vite se revoir. Bien plus vite que vous ne pensez.
+
+EISSA	Tu crois que j'aurais dû l'autoriser à rester ?
+
+QAIS	Je crois, hélas, que le plan de Mussa est en train de fonctionner. Rentrons.
+
+(BOUCLE 45 - 00:57:45:23)
+		45
+
+EISSA	Maryam ! (h\) Jamal a raison. On ne pourra pas survivre ici si on n'a pas d'eau.
+
+MARYAM	Et Daoud ?
+
+EISSA	(h\) Ca va être difficile de l'emmener.
+
+MARYAM	Alors, qu'est-ce qu'on fait ?
+
+EISSA	Il faut élaborer un plan. Nous n'avons pas le choix, il faut trouver de l'eau. Mais j'imagine que c'est ce que Mussa attend de nous ... nous devons nous tenir prêts au combat. Si c'est la guerre qu'il veut, c'est la guerre qu'il va avoir.
+
+(BOUCLE 46 - 00:59:11:23)
+		46
+
+MARYAM	Nous faisons ce qui est juste. Nous n'avons pas le choix.
+
+EISSA	(mmmmmm\) Tu es prêt ?
+
+QAIS	Je suis prêt.
+
+GULBIN	Eïssa ! (X)
+
+RAYA	Je viens avec vous !
+
+EISSA	Quoi ?
+
+MARYAM	Mais rien ne t'y oblige !
+
+RAYA	C'est décidé, je viens !
+
+(BOUCLE 47 - 01:00:28:21)
+		47
+
+BILAL	Maryam. Nous sommes très fatigués. Est-ce que tu pourrais nous remplacer un peu à la surveillance ?
+
+MARYAM	(h/) Il est hors de question que je laisse Daoud.
+
+Auteur	Gulbin parle kurde.
+
+BILAL	On peut lui faire confiance ?
+
+ZAINEB	(h/) C'est ce qu'on fait depuis longtemps déjà !
+
+Auteur	Gulbin parle kurde.
+
+ZAINEB	Allons-y !
+
+(BOUCLE 48 - 01:01:23:12)
+		48
+
+EISSA	Chut !
+
+(BOUCLE 49 - 01:03:26:15)
+		49
+
+EISSA	(eh!) Par ici !
+
+(BOUCLE 50 - 01:03:46:20)
+		50
+
+EISSA	Donne ta gourde !
+
+RAYA	(ah!)
+
+EISSA	(ah ah ah ah ah ah ah !)
+
+(BOUCLE 51 - 01:04:34:03)
+		51
+
+QAIS	(eh!) La grille est ouverte !
+
+(BOUCLE 52 - 01:05:29:16)
+		52
+
+RAYA	(aaaaaaaaaaaaaaah !) (ah!) (ah ah ah ah ah ah !)
+
+QAIS	Raya!
+
+EISSA	Raya! Est-ce que ça va ?
+
+Auteur	On entend un chant en arabe en fond sonore.
+
+RAYA	(ah!)
+
+EISSA	Raya !
+
+RAYA	(ah!)
+
+Auteur	C'est le chant que Mussa a enregistré avec sa montre un peu plus tôt quand Idrees chantait.
+
+RAYA	(ah!) (ah!) (ah!) (h/)
+
+EISSA	Raya !
+
+QAIS	Tu es blessée ?
+
+RAYA	(ah!) (ah!)
+
+QAIS	Est-ce que ça va ?
+
+RAYA	Jamal est ici.
+
+EISSA	Raya ! Raya ! Dis quelque chose !
+
+JAMAL	(mm) (mm) (mm)
+
+EISSA	Tu vois une sortie quelque part ?
+
+Auteur	On entend quelques rares réacs de douleur de Jamal derrière.
+
+(BOUCLE 53 - 01:07:26:19)
+		53
+
+QAIS	(ah!)
+
+JAMAL	(mmmmmm mmmmmmmmmmmmmmmmm         mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm !) (mmmmmmmmmmmmmmmmmmmmmmmmm)
+
+EISSA	J'suis sûr que c'est un piège.
+
+RAYA	On ne peut pas le laisser ici.
+
+EISSA	Pourquoi Mussa ne l'a pas tué ?
+
+QAIS	Il veut s'en servir.
+
+EISSA	Pour quoi faire ? Un appât ? Pour nous attirer ici ?
+
+QAIS	Il n'y a qu'un moyen de le savoir.
+
+JAMAL	(mmmmmmmmmmmmmmmmmmm) (mmmmmmmmmmmmmm) (mmmmmmmmmmmmmmmmmmmmmm) (mmmmmmmmmmmmmmmmmmmmmmm) (mmmmmm) (h/) (h/) (ah!) (ah!)
+
+(BOUCLE 54 - 01:08:32:10)
+		54
+
+EISSA	Jamal !
+
+JAMAL	(ah ah ah ah ah ah !)
+
+EISSA	Qu'est-ce qu'il a ?
+
+QAIS	Il lui a coupé la langue.
+
+RAYA	J'ai entendu du bruit.
+
+JAMAL	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+EISSA	Jamal ! Tais-toi !
+
+JAMAL	(mmmmmmmmmmmm  mmmmmmmmmmmmmm !)
+
+RAYA	(oh!) C'est pas vrai !
+
+JAMAL	(mmmmmmmmmm aaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+QAIS	Raya, trouve quelque chose pour le nettoyer.
+
+EISSA	Jamal, essaye d'arrêter de crier !
+
+JAMAL	(mmmmmmm) (mmmmmmmmmm)
+
+EISSA	Calme-toi, Jamal.
+
+JAMAL	(mmmmmmmmmmmm) (mmmm) (mmmmmmmmmmm)
+
+QAIS	Eissa.
+
+JAMAL	(mm) (mmmmmmmmmm)
+
+QAIS	On peut pas l'emmener. Il nous ralentirait trop
+
+JAMAL	(mmmmmmmm   mmmmmmmmmmmm  mmmmmmm)
+
+QAIS	(...) si on devait le porter.
+
+EISSA	On peut pas le laisser ici. (mmmmmmm)
+
+JAMAL	(mmmmmmmmmm  mmmmmmmm  mmmmmmmmm) (mmmmmmmm) (mmmmmmmmmmmmmmmm mmmmmmmmm mmmmmmmmmmm mmmmmmmmm)
+
+EISSA	On va le porter !
+
+RAYA	Qu'est-ce que tu fais ? Qu'est-ce que tu fais ?
+
+QAIS	(chhhhhhhhhhhhhut !)
+
+EISSA	Pardonne- moi, Jamal.
+
+(BOUCLE 55 - 01:10:58:12)
+		55
+
+EISSA	Dépêchons-nous, le feu arrive !
+
+RAYA	Vas-y, ouvre !
+
+EISSA	(aaaaaaaaaaaaaaaah !) (h............./)
+
+QAIS	Le feu se rapproche !
+
+EISSA	(h/) (h/)
+
+QAIS	Pousse-toi ! Pousse-toi ! Dégage !
+
+Auteur	Réacs  d'effort.
+
+EISSA	(h/) (h/) (h/) (h/) (h/)
+
+RAYA	(aaaaaaah !)
+
+EISSA	(h/) (h/)
+
+RAYA	Dépêche-toi ! (h/)
+
+EISSA	(ah!) Viens m'aider ! (h/) (h/)
+
+QAIS	(h/)
+
+EISSA	(ah!) (aaaaaaaaaaaah !) (Aaaaaaaaah ! Aaaaaaaaaah !)
+
+RAYA	Vite, ouvrez cette foutue porte !
+
+EISSA	(Aaaaaaaaaaaah !) (aaaaaaaaaaah !)
+
+RAYA	(ah!) Au secours !
+
+EISSA	Raya! Donne ta main !
+
+RAYA	(h h h h h h h h h h h h h h h h h) Eïssa ! (aaaaaaaah !) (ah!) (ah!) (ah!) (aaaaaaaaaaaaaaaah !)
+
+EISSA	Essaye de t'avancer !
+
+RAYA	(ah!) (h h h  h h h h h)
+
+EISSA	(ah!)
+
+RAYA	(ah!)
+
+EISSA	(ah!) (aaaaaaaah!)
+
+RAYA	(ah!) (ah!) (aaaaaaaaaaaaaaah !) (h/) (aaaaaaaaaaaaaah !)
+
+EISSA	Raya! Raya !
+
+RAYA	(ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+(BOUCLE 56 - 01:12:50:22)
+		56
+
+DAOUD	Maryam,
+
+MARYAM	Oui, dis-moi.
+
+DAOUD	Maryam, j'voudrais de l"eau !
+
+MARYAM	(h/) il n'y en a plus.
+
+ZAINEB	(aaaaaaaaaaaaaaaaaaaaaaaah !)
+
+MARYAM	Bilal ?
+
+ZAINEB	(ah!)
+
+MUSSA	Maryam ! Ton heure est venue !
+
+MARYAM	(h/)
+
+(BOUCLE 57 - 01:13:22:03)
+		57
+
+Auteur	On entend Eïssa et Qaïs respirer.
+
+EISSA	Gülbin, Gülbin ! (h/) (h/)
+
+GULBIN	Maryam ! (h/) (h/) (h/) (h/) (mm) Mar ryam. (h h h h h h h h h h h h h h h h h h)
+
+QAIS	C'est grave.
+
+EISSA	Reste avec elle !
+
+QAIS	Où tu vas ?
+
+(BOUCLE 58 - 01:16:01:12)
+		58
+
+MUSSA	Toi seul pourras la sauver, Eïssa.
+
+MARYAM	(h/)
+
+EISSA	(h/) (h/) Qu'est-ce que tu attends de moi ?
+
+MUSSA	Je veux que tu oublies l'ancien monde. Je veux que tu abandonnes les règles qui obligeaient le peuple à vivre dans la médiocrité. A supporter la petitesse.. Nous allons créer le chaos.
+
+MARYAM	(mm)
+
+MUSSA	Le chaos... le plus grand cadeau que l'humanité ait jamais eu.
+
+EISSA	T'as pas le droit de parler au nom de l'humanité !
+
+MUSSA	(mm) (hhhhhh\)
+
+EISSA	(h/)
+
+(BOUCLE 59 - 01:17:02:00)
+		59
+
+MUSSA	Tu n'as pas tout saisi ? Le monde était en train d'agoniser sous la pression des gens incapables. Des inutiles ... de ceux qui n'ont aucun but. Ma mission aujourd'hui, mon objectif c'est de t'aider à comprendre ça ...
+
+MARYAM	(mm)
+
+MUSSA	Lequel d'entre vous va survivre, à toi de décider,
+
+(BOUCLE 60 - 01:18:27:03)
+		60
+
+EISSA	Maryam! Ne t'inquiète pas, j'arrive !
+
+(BOUCLE 61 - 01:19:03:14)
+		61
+
+EISSA	Maryam !
+
+(BOUCLE 62 - 01:19:37:23)
+		62
+
+MUSSA	Tu es libre désormais, Eïssa. Ceci est l'origine ainsi que la fin.
+
+EISSA	(h h h h h h h h h h h h h h h h h)
+
+MUSSA	(ah ah ah ah !)
+
+Auteur	rire BO.
+
+MUSSA	(ah!) Juste avant que je coupe la langue de Jamal, il m'a révélé qu'il n'y avait pas de balles dans son arme.
+
+EISSA	Comment sais-tu que c'était vrai ? (h\)
+
+(BOUCLE 63 - 01:21:07:00)
+		63
+
+EISSA	(h\) (h\) (h\) Misérable (...)
+
+(BOUCLE 64 - 01:21:47:20)
+		64
+
+EISSA	(h/) (h/) Où est Qaïs ? (h/) (h/) (h/)
+
+GULBIN	Qaïs était un bon soldat (...)
+
+EISSA	(h/)
+
+GULBIN	mais sa mission était terminée.
+
+EISSA	(h/)
+
+GULBIN	Il était intelligent (...) mais ce n'était pas un leader. On n'a pas besoin de poids comme lui.
+
+EISSA	(h/) (ah!) (h......................../) Pourquoi ? (h/)
+
+GULBIN	Tu méritais de vivre plus que tous les autres. Mussa était censé allumer le feu pendant que je restais en retrait et que je regardais (...) l'homme qui (...) qui deviendrait un guide pour tous les autres. Franchement, très peu passaient le test. (mm) mais j'avais foi en toi et je savais que j'serais pas déçue.
+
+(BOUCLE 65 - 01:22:54:12)
+		65
+
+GULBIN	(h/) Tu as réussi l'épreuve du feu.
+
+EISSA	Ma famille a été tuée ! (ah!) (aaaaaaah!)
+
+GULBIN	C'est parce qu'ils étaient faibles.
+
+EISSA	(ah!) (h h h h h h h h h h h)
+
+GULBIN	Maintenant, c'est à toi de décider, si je te laisse en vie,
+
+EISSA	(ah!)
+
+GULBIN	tu peux essayer de me tuer, ou bien de me suivre.
+
+EISSA	(ah!)
+
+GULBIN	Tous les gens comme nous vont se réunir prochainement. Rejoins-nous ! Viens rencontrer mes amis. Pourquoi ne pas transformer le monde ensemble ?
+
+EISSA	(ah................!) (ah!) (ah!) (ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+GULBIN	(ah!)
+
+EISSA	(ah!)
+
+GULBIN	Tu ne crains plus rien.
+
+EISSA	(ah!)
+
+GULBIN	Mais ma mission n'est pas finie. Il faut que je m'en aille. Nous allons t'attendre.
+
+EISSA	(ah!)
+
+GULBIN	Rendez-vous là où tout va recommencer !
+
+EISSA	(ah!)
+
+Insert	Zone industrielle. Sortie 77.
+
+(BOUCLE 66 - 01:26:44:00)
+		66
+
+ADAM	Ce sont eux qui vous ont tous exterminés, n'est-ce pas ?
+
+EISSA	Qui sont-ils ?
+
+ADAM	L'Alpha et l'Oméga.
+
+EISSA	J'ignore ce que ça veut dire.
+
+ADAM	L'Alpha et l'Oméga. Le début et la fin. Le premier et le dernier. L'Alpha et l'Oméga. C'était notre nom et notre symbole. Avant, c'était nous, ça. Le symbole te dit quelque chose ?
+
+(BOUCLE 67 - 01:27:50:23)
+		67
+
+EISSA	Est-ce que vous êtes l'un d'entre eux ?
+
+ADAM	Nous avons partagé les mêmes croyances un certain temps.
+
+EISSA	Et à quoi, est-ce qu'ils croient ? Quel est leur but exactement ?
+
+ADAM	(h/) Ils pensent que la fin est inévitable. Le monde tel qu'il est va bientôt s'éteindre. Ca va s'arrêter. Ce monde va cesser d'exister. C'est la fin de la civilisation que nous avons connue. L'objectif de ces personnes (...) (h/) notre objectif, devrais-je dire, était de trouver parmi les cendres de ce monde (h/) des survivants qui reconstruiraient un nouveau monde à notre image.
+
+EISSA	(h/) Mais vous les avez quittés (...)
+
+(BOUCLE 68 - 01:28:56:14)
+		68
+
+ADAM	Au début, j'étais convaincu que ce que nous faisoins était noble, que nous allions choisir des gens qui auraient une grande moralité    et qui sauraient faire preuve d'empathie. (h/) Des gens qui qui sauraient toujours garder leur humanité (h/) quelles que soient les circonstances. Mais au fil du temps, les choses se sont modifiées, Au fur et à mesure que le chaos s'abattait sur nous, les gens ont commencé à perdre le sens des valeurs, nous ne reconnaissions plus les gens que nous avions choisis. C'est là que j'ai su que je devais partir. Quand je les ai entendus dire et répéter cette phrase Le temps est enfin venu de séparer les forts des faibles (...)
+
+(BOUCLE 69 - 01:29:53:04)
+		69
+
+ADAM	Ton père (h/) était un homme bon. Je l'ai averti du danger seulement il ne m'a pas écouté, il est retourné chez vous pour vous sauver ta soeur et toi. (pff!)
+
+Insert	SHUAÏB.
+
+(BOUCLE 70 - 01:32:14:22)
+		70
+
+EISSA	Mon père était intimement convaincu que "le Prophète" possédait toutes les réponses ... mais il se trompait. L'Alpha et l'Oméga. Telle est notre histoire ... je vous retrouverai quelque part dans la Médina ... la fin du monde vous appartient ... mais le début  ... nous verrons bien à qui il appartient.

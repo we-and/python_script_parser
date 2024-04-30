@@ -1,0 +1,860 @@
+EL SECRETO 122
+05/05/2017
+
+(texte)	PREVIEW
+
+(BOUCLE 1 - 10:04:47:08)
+		01
+
+TRISTAN	Ne te tourmente plus pour Alberto... Maintenant tu dois seulement penser à moi et à Martin.
+
+PEPA	Nous devons aller le voir le plus tôt possible et lui dire que plus rien ne nous empêchera d'être ensemble.
+
+TRISTAN	Nous devons être patients, il est plus en sécurité à l'école à la pension/à l’internat pour l'instant.
+
+PEPA	(_h) Quand viendra enfin le jour où nous pourrons vivre en paix, Tristan?
+
+TRISTAN	Bientôt, Pepa, je te promets que nous  ...
+
+PEPA	Non, ne me promets rien... Tout ce que je veux, c'est que quoiqu'il arrive, rien ne te fasse douter de ton amour pour moi.
+
+TRISTAN	Je n'ai jamais douté. La première fois que je t'ai vue près de ce lac, j'ai pensé que tu étais une apparition.
+
+TRISTAN/PEPA	(s'embrassent_________________________)
+
+PEPA	Surveille tes mains, fripon!  Tu veux que la garde civile nous voit, peut-être, et nous accuse en plus d'outrage à la pudeur?
+
+TRISTAN	Je me laisserais volontiers enfermer à condition que tu sois ma compagne de cellule.
+
+PEPA	Ne plaisante pas avec les autorités, soldat, toi, on te conduit directement devant le peloton d'exécution.
+
+(BOUCLE 2 - 10:05:55:05)
+		02
+
+TRISTAN	Bon, dans ce cas ils devront exécuter ma dernière volonté. Je brûle d'envie de sentir ta peau sous mes caresses...
+
+TRISTAN/PEPA	(s'embrassent_________)
+
+PEPA	Si tu brûles tant que ça, le mieux serait que tu plonges dans la rivière, parce que je dois aller voir Soledad, avant la tombée de la nuit.
+
+TRISTAN	(baisers_____________________)
+
+PEPA	(rire_____)
+
+TRISTAN	Bon, Priorité aux priorités... de toutes façons, on a la vie devant nous, non ?
+
+TRISTAN/PEPA	(X)
+
+CARLOS	Profitez de vos rendez-vous secrets pendant que vous le pouvez, bientôt vous vous retrouverez plongés...  en enfer!
+
+(texte)	GENERIQUE
+
+(BOUCLE 4 - 10:07:39:18)
+		04
+
+GERARDO	Qu'est-ce que tu lui as dit?!
+
+VIRTUDES	Je te l'ai déjà dit... que j'avais fait semblant!
+
+GERARDO	Ce que je veux savoir c'est pourquoi tu lui as raconté? ça t'apporte quoi de lui avoir dit, hein?
+
+VIRTUDES	Mais bon sang qu'est-ce que ça change, Gerardo? Sebastian le sait maintenant,  il va nous sûrement nous dénoncer! Il faut qu'on parte d'ici le plus vite possible!
+
+GERARDO	Laissez-nous! N'élève plus jamais la voix sur moi devant mes hommes, Virtudes, surtout quand c'est toi qui es responsable de ce contretemps!
+
+VIRTUDES	(mfh_) Vraiment?
+
+(BOUCLE 5 - 10:08:24:16)
+		05
+
+GERARDO	Pourquoi tu ne l'as pas fermé avec Sebastian?!
+
+VIRTUDES	Parce que j'en ai assez de mentir et de me prostituer, Gerardo!
+
+GERARDO	Tu sais que c'est pour la cause. On se sacrifie tous pour elle! Et grâce à Sebastian, on devait rester à Puente Viejo aussi longtemps que possible, mais tu as tout fichu par terre en ne sachant pas tenir ta langue!
+
+VIRTUDES	Il me demandait l'argent. S'il ne le rend pas, il sera renvoyé de la conserverie, j'avais peur qu'il vienne ici!
+
+GERARDO	Cela aurait été le meilleur moyen de mettre fin à nos ennuis, tu ne crois pas?
+
+VIRTUDES	(_h) Pourquoi ne pas partir de Puente Viejo et oublier tout ça une fois pour toutes?
+
+GERARDO	C'est ce qu'on va faire, mais avant on fera en sorte que Puente Viejo n'oublie jamais qui nous sommes.
+
+VIRTUDES	Tu as toujours l'intention d'assassiner Don Anselmo?
+
+GERARDO	Je te l'ai déjà dit, nous n'assassinons personne. Nous exécutons ceux qui le méritent. Et par exemple un chien dont la trahison a tué beaucoup de mineurs dans les Asturies. Il l'aura bien mérité.
+
+(BOUCLE 6 - 10:09:30:05)
+		06
+
+MAURICIO	Bonsoir madame.
+
+FRANCISCA	(_h) je devrais être en train de me reposer depuis un moment, contremaître.   (_h) Où étais-tu passé?
+
+MAURICIO	Je suis désolé, madame, euhm J'étais sur le point de passer un bon moment quand j'ai reçu votre message.
+
+FRANCISCA	Je ne veux même pas imaginer avec quel genre de dame tu allais te livrer à ces joutes ... (_h)  Ferme la porte!
+
+MAURICIO	Que se passe-t-il, madame?
+
+FRANCISCA	(_h) Ce qui se passe c'est que dans ce village, on me manque de respect depuis un bout de temps, Mauricio. Dois-je te rappeler que Venancio et ses brutes ont bien failli me faire sauter la cervelle, à moi, et à mon fils? Et le pire,   c'est qu'ils vont s'en tirer sans être punis.
+
+MAURICIO	Je croyais que les autorités devaient s'en charger.
+
+FRANCISCA	Tu t'es trompé. Sanz s'obstine à être fidèle à la parole donnée à ces agitateurs. Quant au maire, n'y pensons pas,  il n'a absolument aucune autorité. (_h)  Non, la seule chose qui puisse nous aider,      ce serait qu'on s'occupe de Venancio nous-mêmes.
+
+MAURICIO	Jusqu'à quel point, madame?
+
+(BOUCLE 7 - 10:10:35:24)
+		07
+
+FRANCISCA	(_h) Jusqu'à ce qu'il se souvienne bien qu'avec Francisca Montenegro, on ne rigole pas . On ne peut pas pénétrer chez elle sans y être invité, qui plus est en pointant une arme sur elle.
+
+MAURICIO	Demain j'exécuterai moi-même cette besogne Donia Francisca.
+
+FRANCISCA	Je le regrette sincèrement, mais je suis obligée de te priver de ce plaisir. Ni toi,  ni tes hommes ne lui poserez une main dessus.
+
+MAURICIO	Alors qui le fera?
+
+FRANCISCA	(inspi-nez_____) Je ne veux pas que cet insupportable commandant Sanz se remette à mes trousses au nom d'une justice mal comprise. (_h) Il faut donc que ce soit...       quelqu'un...   que ce misérable ne pourra pas dénoncer. (_h) Et donc, ça suppose que celui qui le fera sera complètement seul.en fait après tu vois que Mauricio demande à 3 mecs de le faire ça fait donc bizarre, ce qu’elle doit vouloir dire c’est que la ou les personnes ne doivent pas avoir de lien avec elle
+
+MAURICIO	Je m'en occupe, madame. (_h) Ce malheureux n'aura pas le courage d'ouvrir la bouche.
+
+FRANCISCA	(_h) Autre chose, Mauricio. (_h) En ce qui concerne le rejeton du maire, c'est terminé le régime de faveur.... Dès demain il devra être traité comme les autres ouvriers.on parle plutôt de paysans
+
+MAURICIO	(hmm) Je vous en suis reconnaissant. Autre chose, madame?
+
+(BOUCLE 8 - 10:11:40:22)
+		08
+
+MAURICIO	Monsieur...
+
+TRISTAN	Mauricio... Encore dans la paperasse?
+
+FRANCISCA	Je n'ai pas le choix, les affaires de la propriété ne nous laissent pas le temps de respirer. (_h) Est-ce que tu as des nouvelles de Soledad?
+
+TRISTAN	Je viens d'accompagner Pepa chez elle, elle surveille la tournure que prend sa grossesse.
+
+FRANCISCA	Est-ce qu'elle va mal?
+
+TRISTAN	Non, ne vous inquiétez pas. On dirait d'ailleurs que c'est tout ce qui va bien pour elle... Votre fille vit un martyre, et je ne peux pas l'aider.
+
+FRANCISCA	(_h) C'est entre les mains de dieu, maintenant. Lui seul pourra la sortir de l'ornière dans laquelle elle s'est embourbée.
+
+TRISTAN	Elle ne veut parler à personne.
+
+FRANCISCA	Elle verra bientôt la lumière. (_h) et alors nous l'accueillerons les bras grands ouverts à la maison. Où trouverait-elle meilleur réconfort... que dans sa famille?
+
+(BOUCLE 9 - 10:12:38:05)
+		09
+
+PEPA	Tu as ressenti de la gêne ces derniers jours?
+
+SOLEDAD	Non. (inspi______)
+
+PEPA	Soledad? Ton attitude ne t'est pas bénéfique.
+
+SOLEDAD	Excuse-moi si tu me trouves nunuche... de souffrir parce que mon mari m'a brisé le coeur.
+
+PEPA	Personne ne te juge pour ça,        mais tu dois lutter bec et ongles pour le surmonter.
+
+SOLEDAD	Pourquoi je devrais lutter? Il ne me reste rien.
+
+PEPA	Tu as un enfant dans ton ventre qui compte sur toi pour le mener à bon port. Pour lui tu dois te rétablir, parce qu'il fait partie de toi, et le perdre serait infiniment plus douloureux que... que la trahison d'un homme. Je peux te l'assurer.
+
+(BOUCLE 10 - 10:13:25:00)
+		10
+
+SOLEDAD	Je ne peux pas. Je ne suis pas aussi courageuse que toi. Les forces me manquent par moment,  j'ai juste besoin de... me reposer et de mourir.
+
+PEPA	Alors vas-y, si c'est ce que tu veux, meurs... mais après la naissance de ton enfant. Accroche-toi à ton état pour rester en vie, Soledad, et si ce n'est pas pour toi, fais-le pour cette innocente créature qui ne demande qu'à vivre... Promets-moi que tu vas te battre. Tu dois bien manger,  et faire une promenade tous les jours, pour t'évader de tout. Pour oublier l'espace d'un instant l'inqualifiable ingratitude des hommes.
+
+SOLEDAD	Jamais je n'aurais pensé que Juan était comme ça... pas lui...
+
+(BOUCLE 11 - 10:14:12:22)
+		11
+
+PEPA	Certains hommes ne sont pas ce qu'ils paraissent... Ils se laissent emporter ... par leurs faiblesses et leurs peurs... Je suis désolée que Juan se soit révélé être de ceux-là. Et... Finalement tu vas déménager?
+
+SOLEDAD	(expi_) Je sais qu'ici on m'aime bien. et que je ne pourrais pas être mieux entourée, (_h) mais... j'ai le coeur serré de voir l'amertume que je provoque chez eux.
+
+PEPA	Il vaudrait peut-être mieux que... que tu échappes à cette ambiance, Que tu souffles un peu et que tu penses plus à toi et à ton enfant à naître.
+
+SOLEDAD	(_h) (h_)
+
+(BOUCLE 12 - 10:15:17:17)
+		12 laors dans cette boucle et celle d’après j’ai un probleme de tu/vous, en me basant sur ce qu’on a déjà dans la tableau il serait logique que Mauricio tutoie ses subordonnés et que eux le vouvoient, je vais demander à Celine de regarder dans les scripts précédents donc ça c’est en attente
+
+RAMIRO	Kesk'ils regardent?
+
+ALFONSO	Moi aussi j'les ai remarqués, on dirait qu'il se mijote quelque chose.
+
+HIPOLITO	Je pense qu'ils organisent une révolte, et cette fois on va être pris au milieu, je... je crois qu'on ferait bien de jouer des flûtes...(jolie expression je ne connaissais pas)
+
+ALFONSO	C'est Venancio?
+
+RAMIRO	Sinon c'est son frère jumeau.
+
+ALFONSO	Venancio ? J'suis surpris de te revoir dans le coin.
+
+VENANCIO	Pas tant que moi tu peux me croire. Mais les camarades m'ont dit que Mauricio m'avait fait rappeler, et par les temps qui courent, on ne refuse pas un salaire.
+
+RAMIRO	Après ce qui s'est passé au manoir?...
+
+VENANCIO	Justement c'est pour ça qu'ils m'ont appelé. A partir d'aujourd'hui on ne nous traitera plus en esclaves.
+
+MAURICIO	Bon, ça suffit les blablas, bande de tire-au-flanc! (_h) (petit rire)  Allez! Je vois qu'il ne manque personne aujourd'hui. Espérons que tu seras plus efficace avec la houe qu'avec le fusil.
+
+VENANCIO	Tu sais pourquoi je suis venu. S'il y a du travail, j'ai deux bras pour l'accomplir.
+
+MAURICIO	On va voir si tu les auras jusqu'au bout... Je vais répartir les tâches.
+
+(BOUCLE 13 - 10:16:15:18)
+		13
+
+HIPOLITO	Ah ! Avant tout Mauricio, j'aimerais adresser quelques mots au groupe. (hmm-mm) Voyons, c'est bien connu de tous, dernièrement les eaux sont plus tumultueuses que durant le frai de la truite... mais il serait juste que le geste de Mauricio, de réintégrer Venancio, soit salué par de chaleureux applaudissements... Allons... pour-pourquoi vous êtes timides?... Allez! Pour... Pour qu'à partir de maintenant règne la paix sur cette terre bénie... Pas vrai, Mauricio, toi tu as vous avez tourné la page?... Ahhh!!!
+
+MAURICIO	Je n'ai pas besoin d'applaudissements, l’ouvrier.on parle plutôt de paysans! Et la prochaine fois que tu poses la main sur moi, je te la coupe et je la donne à manger aux cochons. Tu m'as bien compris?
+
+HIPOLITO	Oui très bien monsieur...
+
+MAURICIO	Tu vas travailler avec les Castaneda, vous arracherez les mauvaises herbes des cultures. Si tu restes à la traîne, vous n'aurez tous que la moitié d'un salaire. C'est clair?
+
+(BOUCLE 14 - 10:17:07:10)
+		14
+
+MAURICIO	Toi tu descends sur la berge de la rivière, pour ouvrir un nouveau chemin.
+
+RAMIRO	Vous l'envoyez là-bas tout seul? (Si lui le vouvoie, les autres aussi, forcément)
+
+MAURICIO	Occupe-toi de tes oignons, fainéant, mais si ça t'inquiète tant que ça, les camarades l'accompagneront. Et maintenant on s'dépêche! Au travail j'ai dit! Au travail!
+
+HIPOLITO	(_h_h_h_h) Bon... Keski faut faire?
+
+(BOUCLE 15 - 10:17:51:09)
+		15 moi je pense qu’il faut créer un personnage « 3 hommes » pour faire des respis
+
+MAURICIO	Je crois qu'ici c'est parfait...
+
+VENANCIO	ça n'a aucun sens...  Pourquoi ouvrir un chemin ici?
+
+MAURICIO	J'ai dit ça, moi? Excuse-moi je crois que j'me suis trompé... (_h) Ce que je voulais dire c'est qu'ici c'est toi qu'on va mettre sur le bon chemin.
+
+VENANCIO	(cri douleur_)
+
+MAURICIO	Allez, tabassez-le!
+
+VENANCIO	(_h_h_h) Vous faites quoi?(respi__) (respi effort_______________________________________________________________________________________________)
+
+MAURICIO	Tu croyais qu'ils allaient suivre un crève-la-faim comme toi, Venancio? S'ils veulent donner à manger à leurs enfants, (_h) ils savent à qui ils doivent rester fidèles.
+
+VENANCIO	Espèces de bâtards! (_h_h_h) Don Tristan avait donné sa parole, il n'y aurait pas de représailles!
+
+MAURICIO	Ne me dis pas que tu y as cru!
+
+VENANCIO	(respi effort______________________________________________________________________)
+
+MAURICIO	Tu croyais vraiment que tu allais t'en tirer comme ça? Comme tu vois, ce sont tes propres camarades qui vont te donner une leçon.  Tu auras le courage de les dénoncer ?  Et  de te retrouver seul? (_h) Tu n'aurais plus qu'à t'enfuir de Puente Viejo comme un rat dans ce cas.
+
+VENANCIO	J'ai toujours lutté pour vous, non?
+
+(BOUCLE 16 - 10:18:50:10)
+		16
+
+MAURICIO	La vie est injuste. Donia Francisca tient à ce que tu saches qu'elle n'apprécie pas qu'on entre chez elle pour la menacer d'une arme.
+
+VENANCIO	Je le referai!
+
+MAURICIO	Je crains que tu ne puisses pas... Brisez-lui les 2 bras tout de suite (_h) Vous m'avez entendu, ou pas?
+
+VENANCIO	(_h_h_h) Lâchez-moi! (_h) Lâchez-moi! (_h_h_h)
+
+MAURICIO	Maintenant soit vous êtes avec la patronne, soit vous êtes contre elle...
+
+VENANCIO	(respi_____________________________________________________________________________________)
+
+MAURICIO	Parce qu'elle m'a bien dit qu'aujourd'hui plus que jamais, elle sera implacable envers tous ses ennemis Vous vous décidez?
+
+(BOUCLE 17 - 10:19:39:04)
+		17
+
+RAMIRO	Hipolito, arrête de faire l'idiot et fais des étirements si tu ne veux pas te casser le dos!
+
+ALFONSO	Et fais attention avec la binette, il faut arracher les racines.
+
+HIPOLITO	Oh, ben j'étais en train de réfléchir, c'est pas si mal cette occupation, hein?   (_h) Bien sûr le salaire est un peu faible, mais...    (_h) le fait d'être au contact de la nature ça remplace tout...
+
+ALFONSO	Hipolito, cesse de jacasser, garde tes forces ou c'est la nature comme tu dis, qui va te fusiller.
+
+HIPOLITO	C'est pas si difficile, c'est juste une question de maestria.
+
+RAMIRO	ça ne fait que 10 minutes, jeune homme,                      quand ça fera 12 heures on en reparlera...
+
+HIPOLITO	Bah, franchement, Ramiro, j'ai une carrure d'athlète, tu vois, pour savoir ce que souffrir veut dire, il faut avoir suivi une instruction militaire, et c'est là que j'ai été formé!
+HURLEMENT de venancio
+ALFONSO	C'était quoi, ça?
+
+(BOUCLE 18 - 10:20:32:15)
+		18
+
+VENANCIO	(cri douleur______________) Ahh_ (_h _hhh   hh______) (tousse_______)
+
+ALFONSO	Qui a crié comme si on l'écorchait vif?
+
+MAURICIO	Venancio! Il est vraiment maladroit, il a dévalé la pente. (h_)
+
+RAMIRO	Venancio, ça va?
+
+VENANCIO	(_h _h)  Mes bras !... (cris/respi cri douleur______________________)
+
+RAMIRO	Bon sang, ses 2 bras sont brisés!
+
+ALFONSO	Tu es un bâtard Mauricio.
+
+MAURICIO	Fais attention Castaneda, je ne l'ai pas touché, moi. Et si tu as le moindre doute, demande à ses camarades.
+
+VENANCIO	(_ahh) (_h_h_h_h_h)
+
+HIPOLITO	Bon, pour dissiper tout malentendu, le mieux serait de le transporter au village... Je me propose de l'accompagner, pour que Pepa l'examine...
+
+MAURICIO	Tu ne vas nulle part, Miranar! Emmenez-le vous autres!
+
+VENANCIO	(Ahh!  Ahh!) (Ah_ Ahh!)
+
+ALFONSO	(mfh__)
+
+MAURICIO	Vous regardez quoi espèces d'idiots?    Vous avez fini votre boulot? (hh_)
+
+(BOUCLE 19 - 10:21:47:07)
+		19 à noter AMB brouhaha auberge
+
+EMILIA	Alors? Tu as une petite idée ou pas?
+
+RAIMUNDO	Je ne suis pas encore sûr, mais je crois que je suis sur la bonne voie.
+
+EMILIA	(_h) Et tes recherches t'ont mené où, si c'est pas indiscret?
+
+MAURICIONON c’est RAIMUNDO	Tu es sûre que cet admirateur secret n'est pas Hipolito Miranar? Parce que tout semble le désigner...
+
+EMILIA	Non, Père, c'est le premier qui me soit venu à l'esprit, mais j'ai vérifié, et il n'a rien à y voir.
+
+RAIMUNDO	Pourtant c'est quelqu'un d'aussi proche que lui.
+
+EMILIA	Kesski te fait dire ça? Pourquoi ce serait pas un garçon d'un autre village.
+
+RAIMUNDO	(mfh_) Non ma fille, (_h)     celui qui cherche à te séduire avec " 20 000 lieues sous les mers", c'est quelqu'un qui a passé beaucoup de temps avec toi. Un autre aurait choisi Becquer, ou Rosalia de Castro, si tu permets, mais Jules Verne, sûrement pas.
+
+EMILIA	(_h) Et en plus il a choisi des boucles d'oreilles, du parfum à la lavande... (_h) donc il sait que c'est mon préféré! (h_)
+
+(BOUCLE 20 - 10:22:36:00)
+		20
+
+RAIMUNDO	ça fait trop de coïncidences...
+
+SEBASTIAN	Bonsoir Père.
+
+RAIMUNDO	Bonsoir fils.
+
+SEBASTIAN	Allez, crache le morceau,  ce qu'on ne dit pas nous empoisonne.
+
+RAIMUNDO	Tu as parlé à Virtudes?
+
+SEBASTIAN	Ah, c'est ça...
+
+RAIMUNDO	Et alors, ces voyous vont te rendre l'argent qu'ils ont volé?
+
+SEBASTIAN	(_h) Je t'ai déjà dit de ne pas t'occuper de ça... Je vais allumer les fourneaux.
+
+(BOUCLE 21 - 10:23:21:15)
+		21
+
+ELOISA	Mes serviteurs ont avancé la calèche pour mon départ, Donia Francisca.
+
+FRANCISCA	Vous partez déjà? (_h) C'est dommage que le moment soit venu pour nos chemins de se séparer.
+
+ELOISA	Je doute que vous le regrettiez tant que ça madame. Nous serons toutes deux ravies de ne plus nous revoir.
+
+FRANCISCA	Non pas que nous nous soyons beaucoup vues. (_h) Sans doute étiez-vous occupée à autre chose?...
+
+ELOISA	(_h) Dès que je serai rentrée au château, j'ordonnerai à mes comptables de vous dédommager largement pour les services rendus.
+
+FRANCISCA	Je n'ai jamais de toute ma vie  été au service de personne. Je vous serai donc reconnaissante (_h) de bien vouloir déposer votre aumône devant la porte d'une quelconque église.
+
+ELOISA	Attention, n'oubliez pas à qui vous parlez...
+
+FRANCISCA	Comment pourrais-je oublier que mon invitée est venue séduire mon gendre dans ma propre maison?
+
+ELOISA	J'insiste Je couvrirai mes dépenses. (_h) Entre vous et moi il n'y a aucune amitié, je n'étais donc pas invitée, mais hébergée.
+
+FRANCISCA	(hh_) Ne sortez pas de vos gonds pour une simple question de terminologie, duchesse... Parce qu'au fond je devrais vous remercier, (_h) Vous n'imaginez pas le service que vous m'avez rendu en mettant fin à un amour que même la mort ne pouvait briser. Je m'estime déjà fort bien payée, croyez-moi.
+
+(BOUCLE 22 - 10:24:39:06)
+		22
+
+ELOISA	Je compte sur votre...  discrétion à ce sujet. (_h) Alors nous sommes d'accord, j'espère que vous prendrez cela pour un faux-pas qui n'aurait jamais dû se produire...
+
+FRANCISCA	Je ne lave pas...    mon linge sale en public, (_h) sauf à me défendre d'un quelconque préjudice madame.
+
+ELOISA	Bon, vous n'avez rien à craindre de ma part.
+
+FRANCISCA	(_h) Alors je vous souhaite un bon retour, que dieu vous garde, et prenez soin de votre jambe, pour éviter tout risque de rechute… (_h)En tous cas pas avant d’être à quelques lieues de Puente Viejo.
+
+ELOISA	On s'en va!
+
+(BOUCLE 23 - 10:25:31:08)
+		23
+
+VENANCIO	Ahh! (_h_h_h_h Ahh_ _h_h_h_h)
+
+PEPA	Mettez-le sur le lit s'il vous plaît. Comment est-ce que c'est arrivé? Personne n'a compris la question? Quelqu'un peut me dire ce qui s'est passé?
+
+VENANCIO	J'ai dévalé une pente... (hha_)
+
+PEPA	Ben c'est vraiment pas de chance de t'être cassé les deux bras au même endroit...
+
+VENANCIO	Pas de chance, c'est vrai...
+
+PEPA	Ne me raconte pas d'histoire, Venancio. Je ne suis pas naïve!... Ces fractures n'ont pas été causées par une chute. Si c'était le cas tu aurais d'autres blessures, et tu n'as même pas une égratignure!
+
+(BOUCLE 24 - 10:26:28:22)
+		24
+
+VENANCIO	Pour l'instant tu ferais bien de me soigner, (_h) garde tes interrogatoires pour une autre fois.
+
+PEPA	Parce que tu crois que ça va guérir avec un sirop, espèce d'animal? Si les os ne se ressoudent pas bien, tu ne pourras plus te servir de tes bras! Tu as si peur que ça pour couvrir quelqu'un qui t'a estropié à vie?
+
+VENANCIO	(hh_) (tousse_) (_h hh_)
+
+PEPA	Très bien, puisque vous ne me dites pas la vérité, je vais le signaler à la Garde Civile.
+
+VENANCIO	Et je leur dirai la même chose! Je suis tombé d'un talus...   et le diable s'est chargé du reste. (_hh  tousse___________) Pepa, soulage-moi s'il te plaît, ou tu préfères que j'aille voir un docteur qui est capable de se tirer une balle dans le pied? (huh_) (hh_)
+
+PEPA	(h_) (_h) C'est bon... Nous allons replacer les os avant de poser des attelles. J'ai besoin de vous pour bloquer ses épaules pendant que je remets les os en place. Elle dit un mot à un des types du genre pousse-toi
+
+VENANCIO	(_h_h_h_h) (hh_) Ah! (h_h_h_h_h_)
+
+PEPA	A 3 je vais tirer très fort... Tu es prêt?
+
+VENANCIO	(h_h_h ah_ h_h_h)
+
+PEPA	Un... Deux....
+
+VENANCIO	(Ahh_ cris douleur_______________________)
+
+PEPA	Trois !
+
+(BOUCLE 25 - 10:28:50:02)
+		25
+
+FRANCISCA	J'espère que tu m'apportes de bonnes nouvelles, contremaître, je suis fatiguée de lire des calamités dans la presse.
+
+MAURICIO	Oui, madame. (_h) Soyez rassurée, Venancio n'essaiera plus de s'insurger.
+
+FRANCISCA	A-t-il compris qu'il n'était pas de bon ton de pointer un fusil sur nous?
+
+MAURICIO	Oh que oui il a compris, Donia Francisca!    (_h) Il va passer le reste de sa vie à se maudire d'avoir fait ça.
+
+FRANCISCA	Et...  comment as-tu fait?
+
+MAURICIO	(mts_) J'ai demandé qu'on lui casse les 2 bras.
+
+FRANCISCA	Je n'approuve certes pas ce genre de cruauté, mais...      il est clair que ces agitateurs ne comprennent qu'un seul langage. (_h) Ses agresseurs ont opposé une résistance?
+
+MAURICIO	Quand je leur ai annoncé leur mission, ils ont tenté de se rebeller, (_h) mais je leur ai dit que vous ne tolèreriez pas une insurrection de plus, et ils se sont lâchement écrasés.
+
+FRANCISCA	Parfait, Mauricio. (_h) Il est clair que les temps où l'on se permettait de me sous-estimer sans conséquences,  sont désormais révolus. (_h) Il y a autre chose?
+
+MAURICIO	(mts_) Une petite... (_h) Je crains que le rejeton du maire ne puisse se lever avant une bonne semaine.
+
+FRANCISCA	Je crois que le monde ne devrait pas trop souffrir de son absence. (_h) Tu peux disposer maintenant.
+
+(BOUCLE 26 - 10:29:57:15)
+		26
+
+MARIANA	Vous permettez madame, vous m'avez fait appeler?
+
+FRANCISCA	C'est exact, Mariana. Viens t'assoir. (_h) Je t'en prie, assieds-toi. Là je ne vais  pas m'adresser à l'employée, mais à la famille. Parce que c'est ce que nous sommes finalement, non? Parle-moi de Soledad ma petite. Est-ce qu'elle va un petit peu mieux?
+
+MARIANA	Non madame,   (_h)   la pauvre a reçu le ciel sur la tête.... Hier soir Pepa est passée la voir, elle a peur pour la santé du bébé.
+
+FRANCISCA	(_h) Dieu voudrait encore nous infliger son châtiment avec mon deuxième petit-enfant. (_h) Et... je peux faire quelque chose?
+
+MARIANA	Pas grand-chose, madame. Tout ce dont a besoin Soledad maintenant, c'est d'être sereine et de ne pas avoir à...  à affronter d'autres chagrins.  Pepa dit que de son repos dépend que sa grossesse arrive à bon port.
+
+FRANCISCA	A ce point-là!
+
+(BOUCLE 27 - 10:31:04:19)
+		27
+
+PEPA	Qui est-ce?
+
+ALFONSO	Alfonso Castaneda.
+
+HIPOLITO	(h_ ahh_  h_h_h_)J'vais mourir Pepa... (h _)
+
+PEPA	ça alors, qu'est-ce qui t'arrive, petit?
+
+ALFONSO	Ne t'inquiète pas, c'est pas si grave que ça...
+
+HIPOLITO	Aïe! (h_h_h_h_h_h_)
+
+ALFONSO	Mais la prochaine fois, il y réfléchira à 2 fois avant de croire que c'est facile de travailler aux champs!
+
+PEPA	T'as fait le malin... Qui t'a dit de jouer les héros, Hipolito?
+
+HIPOLITO	J'suis témoin, l'expression "se briser la colonne" ça veut tout dire.à mon avis il manque une phrase ou 2 après
+
+ALFONSO	Tu peux faire quelque chose, Pepa? Ses gémissements me vrillent la tête!
+
+PEPA	A part lui faire des massages...         à l'huile de romarin et lui conseiller de se reposer, je ne vois rien d'autre.
+
+HIPOLITO	Bon, mais comment je fais pour me reposer quand, (_h) quand je dois en plus retourner à l'épicerie... (_h) Je dois combien pour le médicament?
+
+PEPA	Ah, rien du tout, c'est la maison qui offre. Prends soin de toi mon garçon.
+
+HIPOLITO	Merci, merci infiniment, Pepa... Alfonso, ça t'ennuierait pas de me porter sur ton dos jusqu'à l'épicerie?
+
+PEPA	Malheureusement ce sera pas possible, j'ai besoin de lui parler tout de suite. Mais tu vas y arriver tout seul, tu vas voir.
+
+HIPOLITO	Ah, mon dos, Aïe, Aïe, Aïe, par pitié...
+
+ALFONSO	Courage, Hipolito!
+
+HIPOLITO	Oui, oui, d'accord... (hh_)  Pas le bras, pas le bras.. (hh_)
+
+PEPA	Fais attention.
+
+HIPOLITO	Oui, oui...   merci....   au revoir....
+
+PEPA	Au revoir.
+
+(BOUCLE 28 - 10:32:29:11)
+		28
+
+ALFONSO	J'espère que ça va aller...
+
+PEPA	ne t'en fais pas... En fait je voudrais te parler d'un truc mystérieux...
+
+ALFONSO	Et de quel mystère s'agit-il? Si tu veux parler de Juan, tu perds ton temps. Ramiro et moi avons échoué,  nous avons tout tenté pour le raisonner. .
+
+PEPA	Je sais bien que vous avez essayé... Non, c'est l'accident de Venancio qui m'inquiète. Il a beau jurer ses grands dieux qu'il s'est cassé les bras en dévalant ce talus,  ses blessures ne collent pas avec ses dires. Tu sais quelque chose là-dessus?
+
+ALFONSO	J'en sais pas plus que toi, et c'est ce que je pense aussi, mais on ne peut rien faire.
+
+PEPA	Il va peut-être rester infirme de façon permanente, si c'est Mauricio et ses acolytes qui ont fait ça, il faut les dénoncer.
+
+ALFONSO	Tu ne comprends pas. Mauricio n'a pas touché un seul de ses cheveux... je n'ai pas tout vu, mais avec Ramiro on s'est dit que c'étaient les ouvriers paysans ?eux-mêmes qui l'avaient frappé.
+
+PEPA	Et pourquoi auraient-ils fait une chose pareille?
+
+ALFONSO	A ton avis? Les gens sont dans la misère, ils ont besoin du travail que leur propose Donia Francisca pour avoir de quoi nourrir leurs familles.
+
+PEPA	Evidemment. Quand un malheur arrive, ce nom n'est jamais loin derrière.
+
+ALFONSO	Elle lui a donné une leçon en s'arrangeant pour garder les mains propres.
+
+PEPA	Mais son âme est noire comme un puits sans fond. Elle se moque de ce que Tristan ait donné sa parole qu'il n'y aurait pas de représailles? Il est grand temps que quelqu'un s'oppose à elle!
+
+(BOUCLE 29 - 10:33:46:13)
+		29
+
+HIPOLITO	(gémit en dormant________________________)
+
+MARIANA	Descends de ton nuage Hipolito!
+
+HIPOLITO	Oui monsieur, la pelle, tout de suite!
+
+MARIANA	Mais keske tu racontes? C'est moi, Mariana...
+
+HIPOLITO	Hein?_ (hh_) (_h) Dieu merci c'est toi... (_h) A chaque fois que j'entrouvre un oeil, je vois ce...     maudit animal de Mauricio qui s'approche de moi.... avec son fouet c’est plutôt une cravache à la main... (_hh) Et toi, par où t'es entrée?
+
+MARIANA	Par la porte...
+
+HIPOLITO	ah_ Non seulement je ne sens plus mes muscles, mais je suis complètement dans le brouillard... (_hh) Tout ce que je vois c'est des vagues... Aïe ! (hh_)
+
+MARIANA	Les vagues tu ne les verras plus quand tu seras réveillé... Mes frères m'ont dit que tu avais beaucoup souffert aux champs.
+
+HIPOLITO	(hh_) Souffrir?... Souffrir c'est quand on te marque au fer rouge, ou qu'on t'arrache la peau par morceaux, (_h)  mais là c'est pire, Mariana, c'est pire... (_h) Regarde... (h_h_)
+
+(BOUCLE 30 - 10:35:06:11)
+		30
+
+HIPOLITO	Regarde-moi ça! J'espère que t'en veux pas une douzaine...
+
+MARIANA	Non, je veux un demi boisseau de haricots...
+
+HIPOLITO	(soupir_______)
+
+MARIANA	Allons, c'est que tu n'es pas fait pour travailler la terre...
+
+HIPOLITO	Ah, je confirme, je confirme, moi j'suis plutôt attiré par les tâches intellectuelles, bon, s'il faut porter un sac j'aide ma mère, parce que tout seul je ne peux pas, sinon je me casse le dos... (_hh) Ah, ne rigole pas, ne rigole pas, je... je ne redeviendrai plus jamais moi-même... (_h_h) Je crois bien que je ne vais pas m'en sortir...
+
+MARIANA	Arrête de dire des bêtises, Hipolito, tu as juste des courbatures... Je t'emmènerai voir Pepa, elle te donnera une de ses potions magiques.
+
+HIPOLITO	Ah, j'y suis déjà allé, elle m'a dit de faire des massages avec cette huile de romarin, mais voyons, je n'peux pas le faire tout seul, et ma mère doit rentrer tard ce soir...
+
+MARIANA	Pourquoi ta mère ne doit rentrer que ce soir?
+
+HIPOLITO	(souffle_______) Ils sont allés régler quelques affaires à La Puebla. (souffle_) et ça t'intéresse? (souffle_______)
+
+MARIANA	Hipolito, tu sais...  ça me fait de la peine de te voir souffrir comme ça. Allez, enlève ta chemise... c'est moi qui vais te masser.
+
+(BOUCLE 31 - 10:36:22:14)
+		31
+
+ROSARIO	Ne te précipite pas Soledad,   où  vas-tu être mieux qu'ici?
+
+SOLEDAD	(_h) Tes attentions vont me manquer, Rosario... mais tu comprends, continuer à vivre ici...        ça n'a plus aucun sens.
+
+ROSARIO	Si, ça a du sens... Tu es comme ma fille, au même titre que Mariana, ou de n'importe lequel des garçons.
+
+SOLEDAD	Rosario,    je te remercie d'avoir veillé sur moi.
+
+ROSARIO	Où est-ce que tu vas t'installer? Ta nouvelle maison n'est pas encore prête pour y habiter.
+
+SOLEDAD	Je n'en sais rien encore... Mais si je veux que ma grossesse se passe bien, je dois partir. Que faites-vous ici, Mère?
+
+FRANCISCA	Je suis là en tant que mère qui s'intéresse à sa fille, Soledad.
+
+SOLEDAD	(mfh_)
+
+FRANCISCA	Pourrais-tu nous laisser seules un instant, Rosario?
+
+(BOUCLE 32 - 10:37:21:17)
+		32
+
+SOLEDAD	Je sais que vous avez ...               demandé de mes nouvelles à Mariana.  Je vous en remercie.
+
+FRANCISCA	(_h) Je lui suis reconnaissante de m'avoir tenue au courant de ton état. (_h) J'ai appris que Pepa craignait pour...       l'avenir de ta grossesse.
+
+SOLEDAD	Il n'y a rien à craindre. J'ai décidé de tout faire pour mettre au monde un bébé heureux et en bonne santé.
+
+FRANCISCA	Tu ne peux savoir comme je suis heureuse d'entendre ça. (_h)   Est-ce que tu vas quelque part?
+
+SOLEDAD	Si je veux retrouver la paix,   il faut que je sois dans un endroit...  où rien ne me rappellera Juan.
+
+FRANCISCA	Tu ne penses pas partir à la capitale?
+
+SOLEDAD	Non pas du tout.   Puente Viejo est le lieu où je veux élever mon enfant. Mais tant que ma maison ne sera pas prête, j'ai décidé de prendre une chambre chez les Ulloa.
+
+FRANCISCA	(_h) Si tu consens à revenir au manoir, ton frère et moi t'accueillerons les bras grands ouverts. Et tu recevras toute l'attention dont tu as besoin, tu le sais.
+
+(BOUCLE 33 - 10:38:26:22)
+		33
+
+SOLEDAD	Non. C'est impossible, Mère.
+
+FRANCISCA	Réfléchis, Soledad. Tu pourras compter sur le soutien de Rosario et de Mariana. Si tu veux t'assurer que ton enfant viendra au monde en bonne santé,   alors procure-lui le meilleur. Maintenant... tout sera différent, je t'en donne ma parole. Tout ce qui m'importe, c'est de récupérer ma fille...
+
+(BOUCLE 34 - 10:39:03:08)
+		34
+
+JUANnon c’est HIPOLITO	(_h)  Ahh_ ahh Tes mains sont magiques...
+
+MARIANA	(hm_)
+
+HIPOLITO	(_h)
+
+MARIANA	Eh bien je n'ai aucun mérite, je le fais pour mes frères dès que commencent les récoltes!
+
+HIPOLITO	(h_) (h_) (h_) on... on dirait que Juan n'est pas le seul artiste de la famille... (rire_)  Tes doigts sont comme des pinceaux qui dessinent avec finesse sur la toile qu'est mon pauvre dos... (_h_h_h_h)
+
+MARIANA	Allons,    ne dis pas de sottises, Hipolito. ça te soulage?
+
+HIPOLITO	J'ai tout simplement l'impression d'être au paradis... (_h)
+
+MARIANA	Bon, maintenant il faut laisser ta peau absorber le baume,    d'accord? (h_) Tu as mal ailleurs, sinon?
+
+HIPOLITO	Pour être honnête, j'ai mal du gros doigt de pied jusqu'à la boîte crânienne, mais... à part mon dos, le pire des tourments c'est sans doute mes épaules. (_h) Ah! Aïe! (gémit_) A force de porter la serfouette, je... je crois bien que je me suis foulé l'épaule...
+
+MARIANA	Oui... ça peut arriver...    ça te fait du bien?
+
+HIPOLITO	(humpfh_) Oui, oui... Oui, c'est ça, comme ça... continue, continue... (_h)
+
+MARIANA	Bon, qu'est-ce qui te fait mal encore?
+
+HIPOLITO	(_h_h) Le cou, oui, le cou, Mariana, à force de regarder derrière pour voir si Mauricio me surveille ou pas... (_h) (hh_)
+
+MARIANA	C'est là?
+
+HIPOLITO	Oui... oui... (hh_)
+
+MARIANA	Ah...
+
+HIPOLITO	(h_)
+
+MARIANA	Mon pauvre petit. Hipolito...
+
+HIPOLITO	Hein?
+
+MARIANA	Promets-moi de ne plus faire tant d'efforts, d'accord?
+
+HIPOLITO	(hh_) (_h) Si après c'est toi qui me masses, (_h) dès demain je demande à Mauricio un double service... (_h) (h_) Bon, je crois que ça va maintenant... je n'ai pas besoin de plus de pommade...
+
+MARIANA	Oui... oui... et moi je dois y aller, avant qu'il ne fasse nuit... Je reviendrai demain pour les haricots...
+
+HIPOLITO	(hm-hm) Au revoir... au revoir... (_h_h) Ahh Oh là là !... Alors c'est lui Cupidon?
+
+(BOUCLE 35 - 10:41:08:12)
+		35
+
+RAMIRO	Alfonso me racontait que ce soir il a croisé des anarchistes près de la rivière.
+
+SEBASTIAN	Qu'est-ce qu'ils faisaient là-bas?
+
+ALFONSO	Ils attrapaient des lapins.
+
+RAMIRO	ça veut dire qu'ils ne sont pas sur le point de partir. Je croyais que tu avais clairement dit à Virtudes qu'ils devaient quitter Puente Viejo.
+
+ALFONSO	Tu peux parler devant moi,  ne t'inquiète pas,             mon frère et moi on se dit tout.
+
+SEBASTIAN	J'espère que tu n'as rien dit à mon père.
+
+RAMIRO	Pas encore, mais tu devrais lui dire ce qui se passe.
+
+SEBASTIAN	Je le ferai au moment opportun. (_h) Excusez-moi, j'ai des tables à servir.
+
+ALFONSO	Non, termine ton verre tranquillement, je m'en occupe.
+
+(BOUCLE 36 - 10:41:49:10)
+		36
+
+RAMIRO	Qu'est-ce que tu mijotes, Sebastian?
+
+SEBASTIAN	(hh_) Je ne sais pas de quoi tu parles.
+
+RAMIRO	ça fait plusieurs fois que mon frère et moi on te sauve la mise, alors... (_h)  je crois qu'on mérite que tu sois franc avec nous
+
+SEBASTIAN	Je veux récupérer moi-même l'argent qu'ils m'ont volé.
+
+RAMIRO	Quoi?! mais Tu as complètement perdu les pédales?
+
+SEBASTIAN	Je n'ai pas le choix!
+
+RAMIRO	Très bien. dans ce cas j'irai avec toi.
+
+SEBASTIAN	Tu en as déjà bien assez fait, non.
+
+RAMIRO	Qu'est-ce qui fait croire à ta petite tête d'ingénieur que je te laisserai y aller seul?
+
+(BOUCLE 37 - 10:42:40:04)
+		37
+
+FRANCISCA	Tu n'imagines pas à quel point je suis heureuse que tu reviennes à la maison.
+
+MAURICIO	Tous les employés sont également ravis de votre retour. J'étais loin de penser qu'on vous reverrait par ici.
+
+FRANCISCA	Personne ne t'a demandé ton avis. (_h) Allez, portez cette malle dans sa chambre, ma fille et moi devons parler.
+
+SOLEDAD	Si ça ne vous ennuie pas, Mère, je préfèrerais monter me reposer.
+
+FRANCISCA	(mfh_) Pas du tout. Après tout ce que tu as traversé, (_h) tu as besoin de repos. (_hh) (hh_)
+
+(BOUCLE 38 - 10:43:21:22)
+		38
+
+PEPA	Bonsoir madame.
+
+FRANCISCA	(_h) Il faut vraiment que nous pensions à renforcer la sécurité au manoir, n'importe qui peut y entrer.... Si tu viens proposer tes services à mon fils, j'ignore où il se trouve.
+
+PEPA	Pardon, c'est à vous que je veux parler.
+
+FRANCISCA	Je n'ai ni le temps ni l'envie de converser avec la valetaille.
+
+PEPA	Je sais que vous avez ordonné qu'on tabasse Venancio.
+
+FRANCISCA	(_h) Si tu n'as pas la preuve de ce que tu avances, je suis en droit de demander à Mauricio de te mettre à la porte de chez moi.
+
+PEPA	Allez-y... On verra bien ce qu'en pense votre fils, madame.
+
+FRANCISCA	Si tu penses que coucher avec mon fils te donne le droit de me parler ainsi, tu te trompes, avec moi tu vas tomber sur un os.
+
+PEPA	Vous allez faire quoi? Ordonner qu'on me casse les deux bras?
+
+FRANCISCA	Ne me tente pas...
+
+(BOUCLE 39 - 10:44:06:17)
+		39
+
+PEPA	Je voulais juste vous dire que cette cruauté est indigne de Francisca Montenegro. Cet homme risque de rester infirme toute sa vie!
+
+FRANCISCA	Alors tout le monde saura que menacer sa patronne n'apporte rien de bon..
+
+PEPA	Et après ça vous regrettez que les gens vous haïssent.
+
+FRANCISCA	Est-ce que tu m'as une fois entendu dire une telle chose? La haine est un des meilleurs instruments qui soient. tout comme l'amour, un fil ténu les sépare de la crainte. Contremaître! RaccompagnE elle le tutoie l'accoucheuse!
+
+MAURICIO	Avec plaisir madame.
+
+PEPA	Ne me touche pas, sale porc! ILS SE TUTOIENT selon Celine
+
+(BOUCLE 40 - 10:44:51:04)
+		40
+
+MARIANA	Je n'arrive pas à croire qu'elle soit partie. Je m'étais habituée à sa présence, elle était comme une soeur pour moi...
+
+ROSARIO	Elle avait besoin de se ressaisir, pour ne pas mettre en danger sa grossesse.
+
+MARIANA	Et moi qui pensais qu'on verrait grossir son ventre tous les jours...
+
+ROSARIO	Et tu le verras...
+
+MARIANA	Oui, mais ce sera pas la même chose... (_h) parce que mon neveu sera le jeune maître du manoir et nous ses domestiques... Après tout ce qu'on a fait pour protéger leur amour, c'est injuste que ça se termine comme ça!
+
+ROSARIO	C'est injuste pour Soledad, mais Juan ne l'a pas volé! J'comprends pas... pourquoi ce benêt a été  stupide au point de mettre tout en péril pour la duchesse.
+
+MARIANA	Les hommes perdent tout discernement dès qu'une femme les aguiche!
+
+(BOUCLE 41 - 10:45:43:11)
+		41
+
+JUAN	Pourquoi vous enlevez les draps de Soledad? Où est-elle ? Je dois lui parler.
+
+ROSARIO	(inspi/nez) Soledad est partie.
+
+JUAN	keski s'est passé? c'est ma femme, je veux lui parler.
+
+ROSARIO	Oublie-la... (_h) Soledad est retournée au manoir... avec Donia Francisca.
+
+JUAN	Non... (_h) Je l'ai perdue, Mère, (_h) (h_) Je l'ai perdue, je l'ai perdue à jamais... (_h) (inspi/nez_____)
+
+(BOUCLE 42 - 10:46:41:21)
+		42
+
+TRISTAN	Pepa ! Où vas-tu ?  Tu ne m'as pas entendu?
+
+PEPA	Excuse-moi, je ne t'avais pas vu.
+
+TRISTAN	Je te suis depuis l'entrée... Tout va bien?
+
+PEPA	Je viens d'échanger quelques mots avec ta mère, elle seule peut réussir à me mettre dans un état pareil.
+
+TRISTAN	A quel sujet c'était cette fois-ci?
+
+PEPA	Tu n'es pas au courant? Elle s'est arrangée pour qu'on file une raclée à Venancio, et ils lui ont cassé les 2 bras!
+
+TRISTAN	Comment?... Mais je... j'avais donné ma parole à cet homme, je lui ai dit qu'il n'y aurait pas de représailles! Bon sang!  Je vais lui parler sérieusement!
+
+PEPA	Pourquoi faire? Elle va déformer les faits, jouer les innocentes, et comme d'habitude elle s'en sortira gagnante.
+
+TRISTAN	(_h)
+
+PEPA	Et toi, où étais-tu?
+
+TRISTAN	Au village. Je pensais te trouver à l'auberge, ils m'ont dit que tu étais ici. Je viens de recevoir une lettre du Commandant Sanz. Il a les renseignements qu'on lui a demandés sur Alberto.
+
+PEPA	Et?...
+
+TRISTAN	Assieds-toi.
+
+PEPA	Pourquoi je devrais m'assoir?
+
+TRISTAN	Parce que tu ne vas pas aimer ce que je vais te dire. Le mauvais pressentiment que j'avais envers Alberto est confirmé.  Cet homme est un assassin.
+
+(BOUCLE 43 - 10:48:01:03)
+		43
+
+RAIMUNDO	----------
+
+(texte)	DANS LE PROCHAIN EPISODE FIN DE L'EPISODE 122

@@ -1,0 +1,32 @@
+William: 13858
+Daniel: 3863
+Cameron: 2224
+FPassenger: 17
+Cindy: 204
+Control Tower: 171
+Teresa: 318
+Brian: 1
+Briana: 222
+Wendy: 105
+Dale: 2434
+Bennett: 2806
+Nigel: 5922
+Spencer: 54
+Ray: 1637
+Richard: 24
+Sara: 1
+Colonel: 360
+Dallas: 9
+Virginia: 1
+Jonathan: 1
+Evan: 1
+Turner: 1092
+German C: 1
+Xavier: 1
+Hector: 389
+German Pilot: 18
+British Soldier: 38
+Soldier #3: 1
+British Pilot: 1
+Flight Control: 376
+German PA: 1

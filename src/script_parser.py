@@ -13,6 +13,13 @@ import math
 
 import chardet
 
+characterSeparators=[
+        "CHARACTER_SEMICOL_TAB",
+        "CHARACTER_TAB",
+        "CHARACTER_SPACES"
+]
+
+
 #################################################################
 #ENCODING
 def detect_file_encoding(file_path):
@@ -40,22 +47,6 @@ def test_encoding(script_path):
 
 
 
-def find_first_uppercase_sequence(line):
-    """Finds the first sequence of contiguous uppercase words in a line."""
-    # Regex pattern to match the first sequence of contiguous uppercase words separated by spaces
-    pattern = re.compile(r'\b([A-Z]+(?:\s[A-Z]+)*)\b')
-    match = re.search(pattern, line)
-    if match:
-        return match.group(0)
-    return None  # Return None if no uppercase sequence is found
-
-#################################################################
-# OUTPUT UTILS
-def write_character_map_to_file(character_map, filename):
-    """Writes the character to scene map to a specified file."""
-    with open(filename, 'w', encoding='utf-8') as file:
-        for character, scenes in character_map.items():
-            file.write(f"{character}: {scenes}\n")
 
 
 #################################################################
@@ -94,7 +85,7 @@ def extract_scene_name1(line):
         return match.group(1).strip()
     return None  # Return None if no match is found or the format is incorrect
 
-def extract_scene_name(line,scene_separator):
+def extract_scene_name(line,scene_separator,current_scene_count):
     if scene_separator=="NAME_PARENTHESIS_TIMECODE"  :
         if matches_number_parenthesis_timecode(line):
             return extract_scene_name2(line)
@@ -113,6 +104,39 @@ def isSeparatorParenthesisNameTimecode(scene_separator):
 def isSeparatorEmptyLinesTimecode(scene_separator):
     return scene_separator=="EMPTYLINES_SCENE_SEPARATOR"
 
+def getCharacterSeparator(script_path,encod):
+    print("getCharacterSeparator")
+    best="?"
+    bestVal=0.0
+    nLines=0
+    for sep in characterSeparators:
+        nLines=0
+        nMatches=0
+        with open(script_path, 'r', encoding=encod) as file:
+            for line in file:
+                line = line.strip()
+                if len(line)>0:
+                    nLines=    nLines+1
+
+                    if sep=="CHARACTER_SEMICOL_TAB":
+                        is_match=matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)
+                        if is_match:
+                            nMatches=nMatches+1
+                    elif sep=="CHARACTER_SPACES":
+                        is_match=matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)
+                        if is_match:
+                            nMatches=nMatches+1
+                    elif sep=="CHARACTER_TAB":
+                        is_match=matches_charactername_NAME_ATLEAST1TAB_TEXT(line)
+                        if is_match:
+                            nMatches=nMatches+1
+        pc=round(100*nMatches/nLines)
+        print("Test character sep:"+sep+" " +str(nMatches)+"/"+str(nLines),str(pc))
+        if pc>bestVal:
+            bestVal=pc
+            best=sep
+
+    return best
 def getSceneSeparator(script_path,encod):
     mode="?"
     # Open the file and process each line
@@ -123,7 +147,6 @@ def getSceneSeparator(script_path,encod):
 
         for line in file:
             line = line.strip()  # Remove any leading/trailing whitespace
-            print(line)
             if matches_format_parenthesis_name_timecode(line):
                 print("PARENTHESIS_NAME_TIMECODE")
                 return "PARENTHESIS_NAME_TIMECODE"
@@ -146,7 +169,17 @@ def getSceneSeparator(script_path,encod):
 
 #################################################################
 # CHARACTER SEPARATOR
-def is_matching_character_speaking(line):
+def is_matching_character_speaking(line,character_mode):
+    if character_mode=="CHARACTER_TAB":
+        return matches_charactername_NAME_ATLEAST1TAB_TEXT(line)
+    elif character_mode=="CHARACTER_SPACES": 
+        return matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)  
+    elif character_mode=="CHARACTER_SEMICOL_TAB": 
+        return matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
+    else:
+        print("ERROR wrong mode")
+
+
     """Checks if the line indicates a character speaking."""
     # Regex pattern to match lines that start with text, followed by a tab, then more text
     pattern = re.compile(r"^\S+\s+\t.*$")
@@ -154,23 +187,109 @@ def is_matching_character_speaking(line):
 
     return bool(re.match(pattern, line))
 
-def is_character_speaking(line,scene_separator):
-    is_match= is_matching_character_speaking 
+def is_character_speaking(line,character_mode):
+    is_match= is_matching_character_speaking(line,character_mode) 
     if is_match:
-        name= extract_character_name(line,scene_separator)
+        name= extract_character_name(line,character_mode)
         return not is_didascalie(name) and not is_ambiance(name)
     else:
         return False
-    
-def extract_character_name(line,scene_separator):
-    if isSeparatorParenthesisNameTimecode(scene_separator) or isSeparatorNameParenthesisTimecode(scene_separator):
-        return extract_character_name_timecodemode(line)
-    elif isSeparatorEmptyLinesTimecode(scene_separator): 
-        return extract_character_name_consecutiverows(line)  
-    else:
-        print("ERROR wrong mode")
 
-def extract_character_name_consecutiverows(line):
+
+def extract_speech(line,character_mode,character_name):
+    if character_mode=="CHARACTER_TAB":
+        return line.replace(character_name,"").strip()
+    elif character_mode=="CHARACTER_SPACES": 
+        return line.replace(character_name,"").strip()
+    elif character_mode=="CHARACTER_SEMICOL_TAB": 
+        return extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line,character_name)  
+    else:
+        print("ERROR wrong mode="+str(character_mode))
+        exit()
+
+def extract_character_name(line,character_mode):
+    if character_mode=="CHARACTER_TAB":
+        return extract_charactername_NAME_ATLEAST1TAB_TEXT(line)
+    elif character_mode=="CHARACTER_SPACES": 
+        return extract_charactername_NAME_ATLEAST8SPACES_TEXT(line)  
+    elif character_mode=="CHARACTER_SEMICOL_TAB": 
+        return extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
+    else:
+        print("ERROR wrong mode="+str(character_mode))
+        exit()
+
+def matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(text):
+    # Define the regex pattern
+    # ^ starts the match at the beginning of the line
+    # [\w\s]+ matches one or more word characters or spaces to include names with spaces
+    # : matches the literal colon
+    # \s* matches zero or more whitespace characters (spaces or tabs)
+    # \t matches a tab
+    # .+ matches one or more of any character (the text following the tab)
+    # $ ensures the pattern goes to the end of the line
+    pattern = r'^[\w\s]+:\s*\t.+'
+
+    # Use re.match to check if the start of the string matches the pattern
+    if re.match(pattern, text):
+        return True
+    else:
+        return False
+
+
+def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
+    # Define the regex pattern:
+    # ^ starts the match at the beginning of the line
+    # (.+) matches one or more of any character (the first text block), captured for potential use
+    # {8,} specifies at least 8 spaces
+    # (.+) matches one or more of any character following the spaces (the second text block)
+    pattern = r'^(.+)\s{8,}(.+)$'
+
+    # Use re.match to check if the whole string matches the pattern
+    if re.match(pattern, text):
+        return True
+    else:
+        return False
+
+def matches_charactername_NAME_ATLEAST1TAB_TEXT(text):
+    # Define the regex pattern:
+    # ^ starts the match at the beginning of the line
+    # (.+) captures one or more characters as the first part of text
+    # \t+ matches one or more tab characters
+    # (.+) captures one or more characters as the second part of text
+    # $ ensures the match extends to the end of the line
+    pattern = r'^(.+)\t+(.+)$'
+
+    # Use re.match to check if the whole string matches the pattern
+    if re.match(pattern, text):
+        return True
+    else:
+        return False
+def extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line,character_name):
+    right=line.replace(character_name,"")
+    if right.startswith(':'):
+        return right[1:].strip()
+    return right
+def extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line):
+    # Define the regex pattern:
+    # ^ asserts the start of the line
+    # ([\w\s]+) captures a group of word characters or spaces which will be the name
+    # : matches the literal colon
+    # \s* matches zero or more spaces
+    # \t matches a literal tab
+    # .+ matches one or more of any characters (the following text)
+    pattern = r'^([\w\s]+):\s*\t.+'
+
+    # Use re.search to find the first occurrence of the pattern
+    match = re.search(pattern, line)
+    if match:
+        res=match.group(1).strip()
+        print(line,res)
+        # Return the first captured group, which is the name, stripping any extra spaces
+        return res
+    else:
+        return None
+
+def extract_charactername_NAME_ATLEAST8SPACES_TEXT(line):
     """
     Extracts the first part of the line which is uppercase text,
     given the line format is uppercase text followed by at least 8 spaces and more text.
@@ -181,7 +300,7 @@ def extract_character_name_consecutiverows(line):
         return match.group(1)
     return None
 
-def extract_character_name_timecodemode(line):
+def extract_charactername_NAME_ATLEAST1TAB_TEXT(line):
     """Extracts the character name from a line where the name is followed by a tab and then dialogue."""
     # Split the line at the first tab character
     parts = line.split('\t', 1)  # The '1' limits the split to the first occurrence of '\t'
@@ -200,9 +319,23 @@ def filter_character_name(line):
 
 
 
-wasEmptyLine=False
 #################################################################
 # UTILS
+def write_character_map_to_file(character_map, filename):
+    """Writes the character to scene map to a specified file."""
+    with open(filename, 'w', encoding='utf-8') as file:
+        for character, scenes in character_map.items():
+            file.write(f"{character}: {scenes}\n")
+
+def find_first_uppercase_sequence(line):
+    """Finds the first sequence of contiguous uppercase words in a line."""
+    # Regex pattern to match the first sequence of contiguous uppercase words separated by spaces
+    pattern = re.compile(r'\b([A-Z]+(?:\s[A-Z]+)*)\b')
+    match = re.search(pattern, line)
+    if match:
+        return match.group(0)
+    return None  # Return None if no uppercase sequence is found
+
 def count_consecutive_empty_lines(file_path, n,encod):
     """Counts occurrences of exactly n consecutive empty lines in a file."""
     i=1
@@ -273,6 +406,7 @@ def process_script(script_path,output_path,script_name):
         os.mkdir(output_path)
     uppercase_lines=[]
     current_scene_id=""
+    wasEmptyLine=False
     scene_characters_map={}
     character_linecount_map={}
     character_order_map={}
@@ -281,6 +415,7 @@ def process_script(script_path,output_path,script_name):
     character_textlength_map={}
     character_scene_map={}
     current_scene_count=1
+    breakdown=[]
 
     is_verbose=False
     encoding_info = detect_file_encoding(script_path)
@@ -293,7 +428,10 @@ def process_script(script_path,output_path,script_name):
     scene_separator=getSceneSeparator(script_path,encoding_used)
     print("Scene separator   : "+scene_separator)
 
+    character_mode=getCharacterSeparator(script_path,encoding_used)
+    print("Character mode    : "+str(character_mode))
 
+    
     if scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
         current_scene_id="Scene 1"
     # Open the file and process each line
@@ -308,7 +446,7 @@ def process_script(script_path,output_path,script_name):
             if scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
                 if (not isNewEmptyLine) and  (isEmptyLine and wasEmptyLine):
                     current_scene_count=current_scene_count+1
-                    current_scene_id = extract_scene_name(line,scene_separator)
+                    current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
                     if is_verbose:
                         print("---------------------------------------")
                     print(f"Scene Line: {line}")
@@ -321,48 +459,61 @@ def process_script(script_path,output_path,script_name):
             if len(trimmed_line)>0:
                 if is_scene_line(line) or (isEmptyLine and wasEmptyLine):
                     current_scene_count=current_scene_count+1
-                    current_scene_id = extract_scene_name(line,scene_separator)
+                                    
+                    current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
+                    breakdown.append({"line_idx":line_idx,"scene_id":current_scene_id,"type":"SCENE_SEP" })    
                     if is_verbose:
                         print("---------------------------------------")
                     print(f"Scene Line: {current_scene_id}")
                 else:
                         if True:#current_scene_id!=1:
-                            is_speaking=is_character_speaking(trimmed_line,scene_separator)
+                            is_speaking=is_character_speaking(trimmed_line,character_mode)
                             if is_verbose:
                                 print("    IsSpeaking "+str(is_speaking)+" "+trimmed_line)
                             if is_speaking:
-                                character_name=extract_character_name(trimmed_line,scene_separator)
+                                character_name=extract_character_name(trimmed_line,character_mode)
                                 #character_name=filter_character_name(character_name)
                                 if is_verbose:
                                     print("   name="+str(character_name))
                                 if not character_name == None:
-                                    text=trimmed_line.replace(character_name,"").strip()
+                                    #remove character name for stats
+                                    spoken_text=extract_speech(trimmed_line,character_mode,character_name)
+
+                                   
+                                    breakdown.append({"line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
                                     if is_verbose:
-                                        print("   text="+str(text))
+                                        print("   text="+str(spoken_text))
+                                    
+                                    #add scene to character if not existing
                                     if character_name not in scene_characters_map:
                                         scene_characters_map[character_name] = set()
                                     scene_characters_map[character_name].add(current_scene_id)
                                     
+                                    #add character to scene if not existing
                                     if current_scene_id not in character_scene_map:
                                         character_scene_map[current_scene_id] = set()
                                     character_scene_map[current_scene_id].add(character_name)
                                     
+                                    #update character line count
                                     if character_name not in character_linecount_map:
                                         character_linecount_map[character_name]=1
                                     else:
                                         character_linecount_map[character_name]=character_linecount_map[character_name]+1
 
+                                    #update character text lenght
                                     if character_name not in character_textlength_map:
                                         character_textlength_map[character_name]=1
                                     else:
-                                        character_textlength_map[character_name]=character_textlength_map[character_name]+len(text)
+                                        character_textlength_map[character_name]=character_textlength_map[character_name]+len(spoken_text)
 
-
+                                    #add to character order if new character
                                     if character_name not in character_order_map:
                                         character_order_map[character_name]=character_count
                                         character_count=character_count+1
-    #                               else:
-    #                                    character_order_map[character_name]=character_order_map[character_name]+1    
+                            else:
+                                breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
+                                    
+                                        
             wasEmptyLine=isEmptyLine
             line_idx=line_idx+1
 
@@ -384,8 +535,8 @@ def process_script(script_path,output_path,script_name):
     for key in character_order_map:
         s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
     save_string_to_file(s, output_path+script_name+"-recap.csv")
+    return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 
-
-#process_script("scripts/examples/EBDEF10.txt","EBDEF10e/","EBDEF10")    
-process_script("190421-1.txt","190421-1","190421-1.txt")
+process_script("scripts/examples/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt","YOUCANRUNFOREVER_SCRIPT_VOe/","YOU CAN'T RUN FOREVER_SCRIPT_VO")    
+#process_script("190421-1.txt","190421-1/","190421-1.txt")

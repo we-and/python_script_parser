@@ -1,0 +1,32 @@
+William: 1
+Daniel: 2
+Cameron: 3
+FPassenger: 4
+Cindy: 5
+Control Tower: 6
+Teresa: 7
+Brian: 8
+Briana: 9
+Wendy: 10
+Dale: 11
+Bennett: 12
+Nigel: 13
+Spencer: 14
+Ray: 15
+Richard: 16
+Sara: 17
+Colonel: 18
+Dallas: 19
+Virginia: 20
+Jonathan: 21
+Evan: 22
+Turner: 23
+German C: 24
+Xavier: 25
+Hector: 26
+German Pilot: 27
+British Soldier: 28
+Soldier #3: 29
+British Pilot: 30
+Flight Control: 31
+German PA: 32

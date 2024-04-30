@@ -1,1 +1,1 @@
-: {'Officer', 'Bartender', 'Nick', 'Gillian', 'Nelson', 'Davie', 'Labeau', 'Garcia', 'Figure', 'Bianca', 'Cheryl', 'Tomas', 'Lopez', 'Mick', 'Jack', 'Roberto', 'Sophia', 'Arturo', 'Mitch', 'Tanya', 'Nina', 'Eva'}
+: {'Figure', 'Officer', 'Cheryl', 'Labeau', 'Nina', 'Lopez', 'Bartender', 'Gillian', 'Nick', 'Sophia', 'Garcia', 'Arturo', 'Tanya', 'Eva', 'Mick', 'Nelson', 'Bianca', 'Mitch', 'Jack', 'Tomas', 'Davie', 'Roberto'}

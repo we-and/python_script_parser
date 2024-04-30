@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu
 from script_parser import process_script
 import chardet
+import tkinter.font as tkFont
 
 outputFolder="tmp"
 if not os.path.exists(outputFolder):
@@ -27,13 +28,20 @@ def load_tree(parent, root_path):
     # Insert directories first
     for entry in dirs:
         entry_path = os.path.join(root_path, entry)
-        dir_id = folders.insert(parent, 'end', text=entry, open=False, values=[entry_path])
+
+        dir_id = folders.insert(parent, 'end', text=entry, open=False, values=[entry_path],tags=('folder'))
         load_tree(dir_id, entry_path)  # Recursively load subdirectories
 
     # Insert files
     for entry in files:
         entry_path = os.path.join(root_path, entry)
-        folders.insert(parent, 'end', text=entry, values=[entry_path])
+        supported_tag="not_supported"
+
+        name, extension = os.path.splitext(entry)
+    
+        if is_supported_extension(extension):
+            supported_tag="supported" 
+        folders.insert(parent, 'end', text=entry, values=[entry_path],tags=(supported_tag))
 
 def is_supported_extension(ext):
     ext=ext.lower()
@@ -154,21 +162,25 @@ def fill_character_table(character_order_map, breakdown,character_linecount_map,
         scenes=', '.join(scenes)
         character_table.insert('','end',values=(str(character_order_map[item]),item,str(line_count),str(character_count),str(word_count),str(replica_count),scenes))
         
-
+def on_button_click():
+    print("Button clicked!")
+def export_csv():
+    print("Export")
 def fill_breakdown_table(breakdown):
     for item in breakdown:
         type_=item['type']
         line_idx=item['line_idx']
         if(type_=="SCENE_SEP"):
             scene_id=item['scene_id']
-            breakdown_table.insert('','end',values=(str(line_idx),type_,scene_id,""))
+            breakdown_table.insert('','end',values=("","","",""), tags=('border'))
+            breakdown_table.insert('','end',values=(str(line_idx),"New scene",scene_id,""), tags=('scene','bold'))
         elif(type_=="SPEECH"):
             speech=item['speech']
             character=item['character']
-            breakdown_table.insert('','end',values=(str(line_idx),type_,character,speech))
+            breakdown_table.insert('','end',values=(str(line_idx),"Speech",character,speech))
         elif(type_=="NONSPEECH"):         
             text=item['text']
-            breakdown_table.insert('','end',values=(str(line_idx),type_,text,""))
+            breakdown_table.insert('','end',values=(str(line_idx),"Other",text,""), tags=('nonspeech',))
     print("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
@@ -196,8 +208,10 @@ app.config(menu=menu_bar)
 file_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="File", menu=file_menu)
 file_menu.add_command(label="Open Folder...", command=open_folder)
+file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=exit_app)
+
 
 # Layout configuration
 left_frame = ttk.Frame(app)
@@ -208,6 +222,10 @@ right_frame.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
 
 # Folder tree
 folders = ttk.Treeview(left_frame, columns=())
+folders.tag_configure('not_supported', foreground='#cccccc')
+folders.tag_configure('supported', foreground='#444444')
+folders.tag_configure('folder', foreground='#6666cc')
+
 folders.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 folders.bind('<<TreeviewSelect>>', on_folder_select)
 
@@ -215,26 +233,21 @@ folders.bind('<<TreeviewSelect>>', on_folder_select)
 notebook = ttk.Notebook(right_frame)
 notebook.pack(fill=tk.BOTH, expand=True)
 
+def on_tab_selected(event):
+    print("Tab selected:", event.widget.select())
+
+notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
-preview_frame = ttk.Frame(notebook)
-notebook.add(preview_frame, text='Preview')
-file_preview = Text(preview_frame)
+preview_tab = ttk.Frame(notebook)
+notebook.add(preview_tab, text='Preview')
+file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
-
-# Initialize the style object
-style = ttk.Style(app)
-
-# Define a new style that inherits from the default Treeview style
-# and changes the background color for both selected and normal items.
-style.map('Custom.Treeview', background=[('selected', 'blue'), ('!selected', 'green')])
-
-
 # Statistics tab
-stats_frame = ttk.Frame(notebook)
+character_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
-character_table = ttk.Treeview(stats_frame, columns=('Order', 'Character', 'Lines','Character Count','Word Count','Blocks','Scenes'), show='headings')
+character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Character Count','Word Count','Blocks','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
 character_table.heading('Character', text='Character')
@@ -255,14 +268,15 @@ character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
-notebook.add(stats_frame, text='Characters')
+notebook.add(character_tab, text='Characters')
 
 
 
 
-stats_frame4 = ttk.Frame(notebook)
+breakdown_tab = ttk.Frame(notebook)
+
 # Create a Treeview widget within the stats_frame for the table
-breakdown_table = ttk.Treeview(stats_frame4, columns=('Line', 'Type', 'Character','Text'), show='headings', style='Custom.Treeview')
+breakdown_table = ttk.Treeview(breakdown_tab, columns=('Line', 'Type', 'Character','Text'), show='headings')
 # Define the column headings
 breakdown_table.heading('Line', text='Line')
 breakdown_table.heading('Type', text='Type')
@@ -271,12 +285,19 @@ breakdown_table.heading('Text', text='Text')
 
 # Define the column width and alignment
 breakdown_table.column('Line', width=25, anchor='center')
-breakdown_table.column('Type', width=50, anchor='center')
+breakdown_table.column('Type', width=25, anchor='w')
 breakdown_table.column('Character', width=100, anchor='w')
 breakdown_table.column('Text', width=200, anchor='w')
 # Pack the Treeview widget with enough space
 breakdown_table.pack(fill='both', expand=True)
-notebook.add(stats_frame4, text='Découpage')
+# Configure the tag to change the background color
+breakdown_table.tag_configure('nonspeech', background='#fafafa')
+breakdown_table.tag_configure('scene', background='#fffec8')
+bold_font = tkFont.Font( weight="bold")
+breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
+
+breakdown_table.tag_configure('bold', font=bold_font)
+notebook.add(breakdown_tab, text='Découpage')
         
         
 
@@ -284,16 +305,22 @@ notebook.add(stats_frame4, text='Découpage')
 
 
 
-stats_frame2 = ttk.Frame(notebook)
-notebook.add(stats_frame2, text='Scenes')
-stats_frame3 = ttk.Frame(notebook)
-notebook.add(stats_frame3, text='Statistics')
-stats_text = Text(stats_frame, height=4, state='disabled')
+scene_tab = ttk.Frame(notebook)
+notebook.add(scene_tab, text='Scenes')
+
+stats_tab = ttk.Frame(notebook)
+notebook.add(stats_tab, text='Statistics')
+
+stats_text = Text(character_tab, height=4, state='disabled')
 stats_text.pack(fill=tk.BOTH, expand=True)
 
 # Statistics label
 stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))
 stats_label.pack(side=tk.BOTTOM, fill=tk.X)
+
+export_tab = ttk.Frame(notebook)
+notebook.add(export_tab, text='Export')
+
 
 # Load folder button
 #load_button = ttk.Button(left_frame, text="Open Folder", command=open_folder)

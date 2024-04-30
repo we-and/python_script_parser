@@ -1,11 +1,11 @@
 FRED: {'Scene 1'}
 RUTH: {'Scene 1'}
 SONG: {'Scene 3', 'Scene 1'}
-JENNY: {'Scene 3', 'Scene 2', 'Scene 1'}
+JENNY: {'Scene 3', 'Scene 1', 'Scene 2'}
 EDDIE: {'Scene 1'}
-MIRANDA: {'Scene 3', 'Scene 2', 'Scene 1'}
-WADE: {'Scene 3', 'Scene 2', 'Scene 1'}
-EMILY: {'Scene 3', 'Scene 2', 'Scene 1'}
+MIRANDA: {'Scene 3', 'Scene 1', 'Scene 2'}
+WADE: {'Scene 3', 'Scene 1', 'Scene 2'}
+EMILY: {'Scene 3', 'Scene 1', 'Scene 2'}
 SALLY: {'Scene 1'}
 OPERATOR: {'Scene 1'}
 TIMMY: {'Scene 1'}

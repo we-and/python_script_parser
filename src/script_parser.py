@@ -2,6 +2,8 @@ from PyPDF2 import PdfReader
 import re
 import os
 import math
+import pandas as pd
+
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
 #script_name="YOU CANT RUN FOREVER_SCRIPT_VO"
@@ -17,6 +19,14 @@ characterSeparators=[
         "CHARACTER_SEMICOL_TAB",
         "CHARACTER_TAB",
         "CHARACTER_SPACES"
+]
+countMethods=[
+    "ALL",
+    "ALL_NOSPACE"
+    "ALL_NOPUNC",
+    "ALL_NOSPACE_NOPUNC",
+    "ALL_NOAPOS",
+    
 ]
 
 
@@ -140,11 +150,8 @@ def getCharacterSeparator(script_path,encod):
 def getSceneSeparator(script_path,encod):
     mode="?"
     # Open the file and process each line
-    print("Open as          : "+encod)
-
+    
     with open(script_path, 'r', encoding=encod) as file:
-        print("Opened         : "+encod)
-
         for line in file:
             line = line.strip()  # Remove any leading/trailing whitespace
             if matches_format_parenthesis_name_timecode(line):
@@ -156,14 +163,12 @@ def getSceneSeparator(script_path,encod):
                 return "NAME_PARENTHESIS_TIMECODE"
 
     if mode=="?":
-        print("Try ")
         n_sets_of_empty_lines=count_consecutive_empty_lines(script_path,2,encod)
         #print("check empty lines count"+str(n_sets_of_empty_lines))
         if n_sets_of_empty_lines>1:
             print( "Found EMPTYLINES_SCENE_SEPARATOR in "+line)
             return "EMPTYLINES_SCENE_SEPARATOR"
 
-    print("DEFAULT")
     return mode    
 
 
@@ -283,7 +288,6 @@ def extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line):
     match = re.search(pattern, line)
     if match:
         res=match.group(1).strip()
-        print(line,res)
         # Return the first captured group, which is the name, stripping any extra spaces
         return res
     else:
@@ -321,7 +325,42 @@ def filter_character_name(line):
 
 #################################################################
 # UTILS
+
+
+def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name):
+    # Read the CSV file
+    df = pd.read_csv(csv_file_path,header=None)
+
+    # Write the DataFrame to an Excel file
+    print(" > Write to "+xlsx_file_path)
+
+    header_rows = pd.DataFrame([
+        [None, 'Header 1', None, 'Header Information Across Columns'],  # Merge cells will be across 1 & 4
+        ['Role', 'Line count', 'Characters', 'Blocks']
+    ])
+    
+    # Concatenate the header rows and the original data
+    # The ignore_index=True option reindexes the new DataFrame
+    df = pd.concat([header_rows, df], ignore_index=True)
+
+    # Write the DataFrame to an Excel file
+    with pd.ExcelWriter(xlsx_file_path, engine='openpyxl') as writer:
+        df.to_excel(writer, index=False, sheet_name='Sheet1')
+
+        # Load the workbook and sheet for modification
+        workbook = writer.book
+        sheet = workbook['Sheet1']
+
+        # Merge cells in the first and second new rows
+        # Assuming you want to merge from the first to the last column
+        sheet.merge_cells('A1:D1')  # Modify range according to your number of columns
+        sheet.merge_cells('A2:D2')  # Modify this as needed
+        sheet['A1'] = script_name
+        sheet['A2'] = "Length: "
+#    df.to_excel(xlsx_file_path, index=False, engine='openpyxl')
+
 def write_character_map_to_file(character_map, filename):
+    print(" > Write map to "+filename)
     """Writes the character to scene map to a specified file."""
     with open(filename, 'w', encoding='utf-8') as file:
         for character, scenes in character_map.items():
@@ -390,17 +429,23 @@ def sort_dict_values(d):
 
 
 
-
-
+def compute_length(line,method):
+    if method=="ALL":
+        return len(line)
+    elif method=="ALL_NOSPACE":
+        return len(line.replace(" ",""))
+    else:
+        return len(line)
 
 #################################################################
 # PROCESS
-def process_script(script_path,output_path,script_name):
+def process_script(script_path,output_path,script_name,countingMethod):
     print("-----------------------------------")
     print("SCRIPT PARSER version 1.3")
     print("Script path       : "+script_path)
     print("Output folder     : "+output_path)
     print("Script name       : "+script_name)
+    print("Counting method   : "+countingMethod)
 
     if not os.path.exists(output_path):
         os.mkdir(output_path)
@@ -500,11 +545,12 @@ def process_script(script_path,output_path,script_name):
                                     else:
                                         character_linecount_map[character_name]=character_linecount_map[character_name]+1
 
-                                    #update character text lenght
+                                    #update character text length
+                                    le=compute_length(spoken_text,countingMethod)
                                     if character_name not in character_textlength_map:
-                                        character_textlength_map[character_name]=1
+                                        character_textlength_map[character_name]=le
                                     else:
-                                        character_textlength_map[character_name]=character_textlength_map[character_name]+len(spoken_text)
+                                        character_textlength_map[character_name]=character_textlength_map[character_name]+le
 
                                     #add to character order if new character
                                     if character_name not in character_order_map:
@@ -527,16 +573,19 @@ def process_script(script_path,output_path,script_name):
 
     def save_string_to_file(text, filename):
         """Saves a given string `text` to a file named `filename`."""
+        print(" > Write to "+filename)
         with open(filename, 'w', encoding='utf-8') as file:
             file.write(text)
 
     #print(character_order_map)
-    s="#Role,Lignes,Nb charactères,Répliques\n"
+#    s="Role,Lignes,Nb charactères,Répliques\n"
+    s=""
     for key in character_order_map:
         s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
     save_string_to_file(s, output_path+script_name+"-recap.csv")
+    convert_csv_to_xlsx(output_path+script_name+"-recap.csv",output_path+script_name+"-recap.xlsx", script_name)
     return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 
-process_script("scripts/examples/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt","YOUCANRUNFOREVER_SCRIPT_VOe/","YOU CAN'T RUN FOREVER_SCRIPT_VO")    
+#process_script("scripts/examples/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt","YOUCANRUNFOREVER_SCRIPT_VOe/","YOU CAN'T RUN FOREVER_SCRIPT_VO")    
 #process_script("190421-1.txt","190421-1/","190421-1.txt")

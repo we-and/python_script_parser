@@ -4,10 +4,58 @@ from tkinter import ttk, filedialog, Text,Menu
 from script_parser import process_script
 import chardet
 import tkinter.font as tkFont
+import subprocess
 
+
+countingMethods=[
+    "WORD_COUNT",
+    "ALL",
+
+    "ALL_NOSPACE",
+    "ALL_NOPUNC",
+    "ALL_NOSPACE_NOPUNC",
+    "ALL_NOAPOS",
+    
+]
+
+countingMethod="ALL"
+currentOutputFolder=""
+currentFilePath=""
 outputFolder="tmp"
+
+
+
 if not os.path.exists(outputFolder):
     os.mkdir(outputFolder)
+
+
+def compute_length_by_method(line,method):
+    res=0
+    if method=="ALL":
+        res=len(line)
+    elif method=="ALL_NOSPACE":
+        res= len(line.replace(" ",""))
+    elif method=="ALL_NOPUNC":
+        res= len(line.replace(",","").replace("?","").replace(".","").replace("!",""))
+    elif method=="ALL_NOSPACE_NOPUNC":
+        res= len(line.replace(" ","").replace(",","").replace("?","").replace(".","").replace("!",""))
+    elif method=="ALL_NOAPOS":
+        res= len(line.replace("'",""))
+    elif method=="WORD_COUNT":
+        res= len(line.split(" "))
+    else:
+        res= -1
+    print("compute_length_by_method METHOD "+method+" "+str(res))
+    return res
+
+
+
+def convert_csv_to_xlsx(csv_file_path, xlsx_file_path):
+    # Read the CSV file
+    df = pd.read_csv(csv_file_path)
+
+    # Write the DataFrame to an Excel file
+    df.to_excel(xlsx_file_path, index=False, engine='openpyxl')
 
 def load_tree(parent, root_path):
     # Clear the tree view if root_path is the starting directory
@@ -62,16 +110,16 @@ def get_encoding(enc):
     return "utf-8"
 
 def reset_tables(): 
+    print("reset_tables")
     for item in breakdown_table.get_children():
         breakdown_table.delete(item)
     for item in character_table.get_children():
         character_table.delete(item)
 
-def on_folder_select(event):
-    print("FOLDER SELECT")
+def runJob(file_path,method):
+    global currentFilePath
+    currentFilePath=file_path
     reset_tables()
-    selected_item = folders.selection()[0]
-    file_path = folders.item(selected_item, 'values')[0]
     # Check if the selected item is a file and display its content
     if os.path.isfile(file_path):
         try:
@@ -96,8 +144,12 @@ def on_folder_select(event):
                     file_preview.delete(1.0, tk.END)
                     file_preview.insert(tk.END, content)
                     
-                    breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,outputFolder+"/"+name+"/",name)
+                    currentOutputFolder=outputFolder+"/"+name+"/"
+                    breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
+                    print(character_textlength_map)
                     fill_breakdown_table(breakdown)
+                    fill_character_stats_table(character_order_map,breakdown)
+                    fill_stats_table(breakdown)
                     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
                     update_statistics(content)
             else:
@@ -107,6 +159,13 @@ def on_folder_select(event):
         except Exception as e:
             file_preview.delete(1.0, tk.END)
             file_preview.insert(tk.END, f"Error opening file: {e}")
+
+def on_folder_select(event):
+    global currentOutputFolder
+    print("FOLDER SELECT")
+    selected_item = folders.selection()[0]
+    file_path = folders.item(selected_item, 'values')[0]
+    runJob(file_path,countingMethod)
 
 def update_statistics(content):
     words = len(content.split())
@@ -137,6 +196,7 @@ def center_window():
     y = int((screen_height - height) / 2)
     app.geometry(f'{width}x{height}+{x}+{y}')
 
+
 def stats_per_character(breakdown,character_name):
     line_count=0
     word_count=0
@@ -147,25 +207,74 @@ def stats_per_character(breakdown,character_name):
             if item['character']==character_name:
                 t=item['speech']
                 line_count=line_count+1
-                character_count=character_count+len(t)
+                le=compute_length_by_method(t,"ALL")
+                character_count=character_count+le
                 word_count=word_count+len(t.split(" "))
- 
+    #print(character_name,character_count)
+            
     replica_count=round(character_count/40)
     return line_count,word_count,character_count,replica_count
 
 def fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map):
     for item in character_order_map:
-        print(item)
         lines=character_linecount_map[item]
         line_count,word_count,character_count,replica_count=stats_per_character(breakdown,item)
         scenes=scene_characters_map[item]
         scenes=', '.join(scenes)
         character_table.insert('','end',values=(str(character_order_map[item]),item,str(line_count),str(character_count),str(word_count),str(replica_count),scenes))
         
+
+def compute_length(method,line):
+    if method=="ALL":
+        return len(line);
+    return len(line);
+
+
+def fill_character_stats_table(character_order_map, breakdown):
+    print("fill_character_stats_table")
+
+
+
+
+    for character_order_item in character_order_map:
+        print("CHAR"+str(character_order_item))
+        rowtotal={}
+        for chitem in character_order_item:
+            rowtotal[character]=("-",chitem,"TOTAL")
+            for m in countingMethods:
+                total_by_method[m]=0
+            total_by_method={}
+        
+        for item in breakdown:
+            line_idx=item['line_idx']
+            type_=item['type']
+            if(type_=="SPEECH"):
+
+                speech=item['speech']
+                character=item['character']
+                
+                if character==character_order_item:
+                    print("    MATCH"+str(speech))
+
+                    row=(str(line_idx),character,speech)
+                    for m in countingMethods:
+                        print("add"+str(m))
+                        le=compute_length_by_method(speech,m)
+                        row=row+(str(le),)
+                        total_by_method[m]=le
+                    print("add"+str(row))
+                    character_stats_table.insert('','end',values=row)
+        
+        for m in countingMethods:
+            rowtotal=rowtotal+(total_by_method[m],)
+        character_stats_table.insert('','end',values=row)
+              
+
 def on_button_click():
     print("Button clicked!")
 def export_csv():
     print("Export")
+
 def fill_breakdown_table(breakdown):
     for item in breakdown:
         type_=item['type']
@@ -181,6 +290,19 @@ def fill_breakdown_table(breakdown):
         elif(type_=="NONSPEECH"):         
             text=item['text']
             breakdown_table.insert('','end',values=(str(line_idx),"Other",text,""), tags=('nonspeech',))
+    print("NB ROWS = "+str(len(breakdown_table.get_children())))
+    breakdown_table.update_idletasks()
+
+def fill_stats_table(breakdown):
+    for item in breakdown:
+        type_=item['type']
+        line_idx=item['line_idx']
+        if(type_=="SPEECH"):
+            speech=item['speech']
+            character=item['character']
+            tout=len(speech)
+            nospace=len(speech.replace(" ",""))
+            stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout),str(nospace)))
     print("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
@@ -211,6 +333,32 @@ file_menu.add_command(label="Open Folder...", command=open_folder)
 file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=exit_app)
+
+def set_counting_method(i):
+    print("set method "+i)
+    global countingMethod
+    countingMethod=i
+
+def show_popup_counting_method():
+    popup = tk.Toplevel()
+    popup.title("Popup") 
+
+    for i in countingMethods:
+        button = ttk.Button(popup, text=i, command=set_counting_method(i))
+        button.pack(side=tk.TOP, fill=tk.X)
+
+
+    dropdown = ttk.Combobox(popup, values=countingMethods)
+    dropdown.pack(pady=20)
+    dropdown.current(0)
+    dropdown.bind('<<ComboboxSelected>>', on_value_change)
+
+
+settings_menu = Menu(menu_bar, tearoff=0)
+menu_bar.add_cascade(label="Settings", menu=settings_menu)
+settings_menu.add_command(label="Change counting method...", command=show_popup_counting_method)
+settings_menu.add_command(label="Set block length...", command=open_folder)
+
 
 
 # Layout configuration
@@ -270,11 +418,7 @@ character_table.column('Scenes', width=50, anchor='w')
 character_table.pack(fill='both', expand=True)
 notebook.add(character_tab, text='Characters')
 
-
-
-
 breakdown_tab = ttk.Frame(notebook)
-
 # Create a Treeview widget within the stats_frame for the table
 breakdown_table = ttk.Treeview(breakdown_tab, columns=('Line', 'Type', 'Character','Text'), show='headings')
 # Define the column headings
@@ -284,9 +428,9 @@ breakdown_table.heading('Character', text='Character')
 breakdown_table.heading('Text', text='Text')
 
 # Define the column width and alignment
-breakdown_table.column('Line', width=25, anchor='center')
+breakdown_table.column('Line', width=25, anchor='w')
 breakdown_table.column('Type', width=25, anchor='w')
-breakdown_table.column('Character', width=100, anchor='w')
+breakdown_table.column('Character', width=50, anchor='w')
 breakdown_table.column('Text', width=200, anchor='w')
 # Pack the Treeview widget with enough space
 breakdown_table.pack(fill='both', expand=True)
@@ -295,21 +439,92 @@ breakdown_table.tag_configure('nonspeech', background='#fafafa')
 breakdown_table.tag_configure('scene', background='#fffec8')
 bold_font = tkFont.Font( weight="bold")
 breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
-
 breakdown_table.tag_configure('bold', font=bold_font)
 notebook.add(breakdown_tab, text='Découpage')
         
-        
 
 
 
+
+
+
+
+
+
+
+
+
+def open_result_folder():
+    # Open a folder in Finder using the `open` command
+    print("Opening "+currentOutputFolder)
+    try:
+        subprocess.run(["open", currentOutputFolder], check=True)
+        print("Folder successfully opened in Finder.")
+    except subprocess.CalledProcessError:
+        print("Failed to open the folder in Finder.")
 
 
 scene_tab = ttk.Frame(notebook)
 notebook.add(scene_tab, text='Scenes')
 
 stats_tab = ttk.Frame(notebook)
-notebook.add(stats_tab, text='Statistics')
+# Create a Treeview widget within the stats_frame for the table
+stats_table = ttk.Treeview(stats_tab, columns=('Line',  'Character','Text','Tout','Sans espace'), show='headings')
+# Define the column headings
+stats_table.heading('Line', text='Line')
+stats_table.heading('Character', text='Character')
+stats_table.heading('Text', text='Text')
+stats_table.heading('Tout', text='Tout')
+stats_table.heading('Sans espace', text='Sans espace')
+
+# Define the column width and alignment
+stats_table.column('Line', width=25, anchor='center')
+stats_table.column('Character', width=100, anchor='w')
+stats_table.column('Text', width=200, anchor='w')
+stats_table.column('Tout', width=50, anchor='w')
+stats_table.column('Sans espace', width=50, anchor='w')
+
+# Pack the Treeview widget with enough space
+stats_table.pack(fill='both', expand=True)
+# Configure the tag to change the background color
+stats_table.tag_configure('nonspeech', background='#fafafa')
+stats_table.tag_configure('scene', background='#fffec8')
+bold_font = tkFont.Font( weight="bold")
+stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
+stats_table.tag_configure('bold', font=bold_font)
+
+notebook.add(stats_tab, text='Line Statistics')
+
+
+# Statistics tab
+character_stats_tab = ttk.Frame(notebook)
+
+# Create a Treeview widget within the stats_frame for the table
+cols=('Order', 'Character', 'Line')
+for i in countingMethods:
+    cols= cols+(i,)
+
+character_stats_table = ttk.Treeview(character_stats_tab, columns=cols, show='headings')
+# Define the column headings
+character_stats_table.heading('Order', text='Order')
+character_stats_table.heading('Character', text='Character')
+character_stats_table.heading('Line', text='Line')
+for i in countingMethods:
+    character_stats_table.heading(i, text=i)
+
+
+# Define the column width and alignment
+character_stats_table.column('Order', width=25, anchor='center')
+character_stats_table.column('Character', width=50, anchor='w')
+character_stats_table.column('Line', width=100, anchor='w')
+for i in countingMethods:
+    character_stats_table.column(i, width=50, anchor='w')
+
+# Pack the Treeview widget with enough space
+character_stats_table.pack(fill='both', expand=True)
+
+notebook.add(character_stats_tab, text='Character Statistics')
+
 
 stats_text = Text(character_tab, height=4, state='disabled')
 stats_text.pack(fill=tk.BOTH, expand=True)
@@ -319,6 +534,33 @@ stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial
 stats_label.pack(side=tk.BOTTOM, fill=tk.X)
 
 export_tab = ttk.Frame(notebook)
+# Load folder button
+load_button = ttk.Button(export_tab, text="Open result folder...", command=open_result_folder)
+load_button.pack(side=tk.TOP, fill=tk.X)
+
+dropdown = ttk.Combobox(export_tab, values=countingMethods)
+dropdown.pack(pady=20)
+dropdown.current(0)
+
+update_button = ttk.Button(export_tab, text="Recompute", command=reset_tables)
+update_button.pack(side=tk.TOP, fill=tk.X)
+
+
+method_label = ttk.Label(export_tab, text="Current Method"+countingMethod, font=('Arial', 12))
+method_label.pack(side=tk.BOTTOM, fill=tk.X)
+
+
+def on_value_change(event):
+    reset_tables
+    """ Handle changes in dropdown selection. """
+    selected_value = dropdown.get()
+    print("Selected:", selected_value)
+    global countingMethod
+    countingMethod=selected_value
+    runJob(currentFilePath,selected_value)
+# Bind the change event
+dropdown.bind('<<ComboboxSelected>>', on_value_change)
+
 notebook.add(export_tab, text='Export')
 
 

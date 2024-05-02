@@ -1,26 +1,37 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu
-from script_parser import process_script
+from script_parser import process_script, is_supported_extension
+import pandas as pd
 import chardet
 import tkinter.font as tkFont
 import subprocess
 
 
 countingMethods=[
+    "LINE_COUNT",
     "WORD_COUNT",
     "ALL",
-
     "ALL_NOSPACE",
     "ALL_NOPUNC",
     "ALL_NOSPACE_NOPUNC",
-    "ALL_NOAPOS",
-    
+    "ALL_NOAPOS",    
 ]
+
+countingMethodNames={
+    "LINE_COUNT":"Line count",
+    "WORD_COUNT":"Word count",
+    "ALL":"All characters",
+    "ALL_NOSPACE":"No space",
+    "ALL_NOPUNC":"No punctuation",
+    "ALL_NOSPACE_NOPUNC":"No space, no punctuation",
+    "ALL_NOAPOS":"No apostrophe",
+}
 
 countingMethod="ALL"
 currentOutputFolder=""
 currentFilePath=""
+currentScriptFilename=""
 outputFolder="tmp"
 
 
@@ -33,6 +44,8 @@ def compute_length_by_method(line,method):
     res=0
     if method=="ALL":
         res=len(line)
+    elif method=="LINE_COUNT":
+        res=1
     elif method=="ALL_NOSPACE":
         res= len(line.replace(" ",""))
     elif method=="ALL_NOPUNC":
@@ -45,7 +58,7 @@ def compute_length_by_method(line,method):
         res= len(line.split(" "))
     else:
         res= -1
-    print("compute_length_by_method METHOD "+method+" "+str(res))
+    #print("compute_length_by_method METHOD "+method+" "+str(res))
     return res
 
 
@@ -91,9 +104,6 @@ def load_tree(parent, root_path):
             supported_tag="supported" 
         folders.insert(parent, 'end', text=entry, values=[entry_path],tags=(supported_tag))
 
-def is_supported_extension(ext):
-    ext=ext.lower()
-    return ext==".txt"
 def detect_file_encoding(file_path):
     with open(file_path, 'rb') as file:  # Open the file in binary mode
         raw_data = file.read(10000)  # Read the first 10000 bytes to guess the encoding
@@ -118,12 +128,14 @@ def reset_tables():
 
 def runJob(file_path,method):
     global currentFilePath
+    global currentScriptFilename
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
     if os.path.isfile(file_path):
         try:
             file_name = os.path.basename(file_path)
+            currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
             if is_supported_extension(extension):
                 print(" > Supported")
@@ -233,17 +245,14 @@ def compute_length(method,line):
 def fill_character_stats_table(character_order_map, breakdown):
     print("fill_character_stats_table")
 
-
-
-
-    for character_order_item in character_order_map:
-        print("CHAR"+str(character_order_item))
-        rowtotal={}
-        for chitem in character_order_item:
-            rowtotal[character]=("-",chitem,"TOTAL")
-            for m in countingMethods:
-                total_by_method[m]=0
-            total_by_method={}
+    total_by_character_by_method={}
+    for character_name in character_order_map:
+        character_order=character_order_map[character_name]
+        #print("CHAR"+str(character_name))
+        rowtotal=("-",character_name,"TOTAL")
+        total_by_method={}
+        for m in countingMethods:
+            total_by_method[m]=0
         
         for item in breakdown:
             line_idx=item['line_idx']
@@ -253,22 +262,107 @@ def fill_character_stats_table(character_order_map, breakdown):
                 speech=item['speech']
                 character=item['character']
                 
-                if character==character_order_item:
-                    print("    MATCH"+str(speech))
+                if character==character_name:
+                    #print("    MATCH"+str(speech))
 
                     row=(str(line_idx),character,speech)
                     for m in countingMethods:
-                        print("add"+str(m))
+                        #print("add"+str(m))
                         le=compute_length_by_method(speech,m)
                         row=row+(str(le),)
-                        total_by_method[m]=le
-                    print("add"+str(row))
+                        total_by_method[m]=total_by_method[m]+le
+                    #print("add"+str(row))
                     character_stats_table.insert('','end',values=row)
         
         for m in countingMethods:
             rowtotal=rowtotal+(total_by_method[m],)
-        character_stats_table.insert('','end',values=row)
-              
+        character_stats_table.insert('','end',values=rowtotal,tags=['total'])
+        
+        total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
+    generate_total_csv(total_by_character_by_method,"total-recap.csv")
+
+
+def save_string_to_file(text, filename):
+        """Saves a given string `text` to a file named `filename`."""
+        print(" > Write to "+filename)
+        with open(filename, 'w', encoding='utf-8') as file:
+            file.write(text)
+def get_excel_column_name(column_index):
+    """Convert a 1-based column index to an Excel column name (e.g., 1 -> A, 27 -> AA)."""
+    column_name = ""
+    while column_index > 0:
+        column_index, remainder = divmod(column_index - 1, 26)
+        column_name = chr(65 + remainder) + column_name
+    return column_name
+def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
+    # Read the CSV file
+    df = pd.read_csv(csv_file_path,header=None)
+
+    # Convert columns explicitly to numeric where appropriate
+    for col in df.columns[1:]:  # Skip the first column if it's non-numeric (e.g., names)
+        df[col] = pd.to_numeric(df[col], errors='ignore')
+
+    # Write the DataFrame to an Excel file
+    print(" > Write to "+xlsx_file_path)
+
+    header1=["SCRIPT_NAME"]
+    header2=["Role"]
+    for i in countingMethods:
+        header1.append("?")
+        header2.append(countingMethodNames[i])
+        
+    header_rows = pd.DataFrame([
+        header1,
+        header2
+    ])
+    
+    # Concatenate the header rows and the original data
+    # The ignore_index=True option reindexes the new DataFrame
+    df = pd.concat([header_rows, df], ignore_index=True)
+
+    # Write the DataFrame to an Excel file
+    with pd.ExcelWriter(xlsx_file_path, engine='openpyxl') as writer:
+        df.to_excel(writer, index=False, sheet_name='Sheet1')
+
+        # Load the workbook and sheet for modification
+        workbook = writer.book
+        sheet = workbook['Sheet1']
+
+        # Merge cells in the first and second new rows
+        # Assuming you want to merge from the first to the last column
+        col=get_excel_column_name(n)
+        sheet.merge_cells("A1:"+col+"1")  # Modify range according to your number of columns
+        sheet.merge_cells("A2:"+col+"2")  # Modify range according to your number of columns
+ #       sheet.merge_cells('A2:D2')  # Modify this as needed
+        sheet['A1'] = currentScriptFilename
+        sheet['A2'] = "Length: "
+ # Load the workbook and get the active sheet
+      
+
+
+
+def generate_total_csv(total,csv_path):
+    print("generate_total_csv")
+    print(str(total))
+    #header
+    s=""
+    if False:
+        s="Role,"
+        for m in countingMethods:
+            s=s+str(m)+","
+        s=s[0:len(s)-1]
+        s=s+"\n"
+
+    for character in total:
+        s+=str(character)+","
+        for method in total[character]:
+            s=s+str(total[character][method])+","
+        s=s[0:len(s)-1]
+        s=s+"\n"
+    save_string_to_file(s,csv_path)
+    xlsx_path=csv_path.replace(".csv",".xlsx")
+    n=len(countingMethods)+1
+    convert_csv_to_xlsx2(csv_path,xlsx_path,n)
 
 def on_button_click():
     print("Button clicked!")
@@ -500,13 +594,13 @@ notebook.add(stats_tab, text='Line Statistics')
 character_stats_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
-cols=('Order', 'Character', 'Line')
+cols=('Line #', 'Character', 'Line')
 for i in countingMethods:
     cols= cols+(i,)
 
 character_stats_table = ttk.Treeview(character_stats_tab, columns=cols, show='headings')
 # Define the column headings
-character_stats_table.heading('Order', text='Order')
+character_stats_table.heading('Line #', text='Line #')
 character_stats_table.heading('Character', text='Character')
 character_stats_table.heading('Line', text='Line')
 for i in countingMethods:
@@ -514,7 +608,7 @@ for i in countingMethods:
 
 
 # Define the column width and alignment
-character_stats_table.column('Order', width=25, anchor='center')
+character_stats_table.column('Line #', width=25, anchor='center')
 character_stats_table.column('Character', width=50, anchor='w')
 character_stats_table.column('Line', width=100, anchor='w')
 for i in countingMethods:
@@ -522,12 +616,10 @@ for i in countingMethods:
 
 # Pack the Treeview widget with enough space
 character_stats_table.pack(fill='both', expand=True)
+character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Character Statistics')
+notebook.add(character_stats_tab, text='Stats by character')
 
-
-stats_text = Text(character_tab, height=4, state='disabled')
-stats_text.pack(fill=tk.BOTH, expand=True)
 
 # Statistics label
 stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))

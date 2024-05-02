@@ -436,6 +436,21 @@ def compute_length(line,method):
         return len(line.replace(" ",""))
     else:
         return len(line)
+    
+
+from docx import Document
+
+def read_docx(file_path):
+    # Load the document
+    doc = Document(file_path)
+    
+    # Iterate through each paragraph in the document
+    for para in doc.paragraphs:
+        print(para.text)
+
+def is_supported_extension(ext):
+    ext=ext.lower()
+    return ext==".txt" or ext==".docx"
 
 #################################################################
 # PROCESS
@@ -449,6 +464,10 @@ def process_script(script_path,output_path,script_name,countingMethod):
 
     if not os.path.exists(output_path):
         os.mkdir(output_path)
+
+        name, extension = os.path.splitext(entry)
+    
+
     uppercase_lines=[]
     current_scene_id=""
     wasEmptyLine=False
@@ -475,7 +494,6 @@ def process_script(script_path,output_path,script_name,countingMethod):
 
     character_mode=getCharacterSeparator(script_path,encoding_used)
     print("Character mode    : "+str(character_mode))
-
     
     if scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
         current_scene_id="Scene 1"

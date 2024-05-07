@@ -1,28 +1,28 @@
-Nicolas: 4406
-Adela: 1980
-Isabel 2: 546
-Remedios: 3489
-Victoria: 3216
-Eugénia: 1476
-Assemblée: 1
-Alonzo: 169
-Trinidad: 1560
-Miguel: 1861
-Ana: 444
-Granados: 188
-Père Octavio: 1248
-Rosa: 1760
-Femme au chapeau: 1
-Homme Granados: 1
-Morales: 2673
-Milagro: 1836
-Auteur: 1
-Voix: 1
-Marqueze général: 1
-Esclave gauche: 1
-Candélà: 355
-Esclave 2: 43
-Thomà: 1267
-Esclaves: 1
-Hilaria: 393
-Siervo: 42
+Nicolas: 4453
+Adela: 2022
+Isabel 2: 569
+Remedios: 3629
+Victoria: 3272
+Eugénia: 1607
+Assemblée: 7
+Alonzo: 174
+Trinidad: 1591
+Miguel: 1884
+Ana: 505
+Granados: 321
+Père Octavio: 1331
+Rosa: 1774
+Femme au chapeau: 7
+Homme Granados: 28
+Morales: 2690
+Milagro: 1913
+Auteur: 38
+Voix: 6
+Marqueze général: 21
+Esclave gauche: 9
+Candélà: 380
+Esclave 2: 54
+Thomà: 1275
+Esclaves: 25
+Hilaria: 400
+Siervo: 56

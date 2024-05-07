@@ -1,0 +1,40 @@
+Jon: 1
+Ole: 2
+Eric: 3
+Gøril: 4
+Stian: 5
+Christine: 6
+Psychologist: 7
+Margrethe: 8
+Henrik: 9
+Politikvinne: 10
+Bjørn: 11
+Terese: 12
+Politmann: 13
+Reporter: 14
+Agent: 15
+Hathaway: 16
+Medic: 17
+Kai: 18
+Pilot: 19
+PIlot: 20
+Diver: 21
+Henrik (TV): 22
+Margethe: 23
+Henrik (tlf): 24
+Announcer: 25
+Pjotr: 26
+Officer: 27
+Police: 28
+Radio host: 29
+Man on radio: 30
+Boy on radio: 31
+Doctor: 32
+Nurse: 33
+Far: 34
+Fan: 35
+Sierra 2: 36
+Digger: 37
+Bystander: 38
+NA1: 39
+NA2: 40

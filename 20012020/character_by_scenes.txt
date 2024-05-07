@@ -1,0 +1,815 @@
+Scene 1: {'MIRROR MAZE OWNER'}
+Scene 2: {'PUPPET'}
+Scene 3: {'MIRROR MAZE OWNER'}
+Scene 4: {'PUPPET'}
+Scene 5: {'MIRROR MAZE OWNER'}
+Scene 6: {'PUPPET'}
+Scene 7: {'MIRROR MAZE OWNER'}
+Scene 8: {'PUPPET'}
+Scene 9: {'MIRROR MAZE OWNER'}
+Scene 10: {'PUPPET'}
+Scene 11: {'ANNOUNCER'}
+Scene 12: {'PETER'}
+Scene 13: {'VOICES (female)'}
+Scene 14: {'VOICES (Male)'}
+Scene 15: {'GESA'}
+Scene 16: {'FRIDO'}
+Scene 17: {'GESA'}
+Scene 18: {'FRIDO'}
+Scene 19: {'GESA'}
+Scene 20: {'FRIDO'}
+Scene 21: {'GESA'}
+Scene 22: {'FRIDO'}
+Scene 23: {'MRS PIETSCH'}
+Scene 24: {'BOCKI'}
+Scene 25: {'JARO'}
+Scene 26: {'BOCKI'}
+Scene 27: {'FRIDO'}
+Scene 28: {'JARO'}
+Scene 29: {'BOCKI'}
+Scene 30: {'EMILS MOTHER'}
+Scene 31: {'EMIL'}
+Scene 32: {'EMILS MOTHER'}
+Scene 33: {'EMIL'}
+Scene 34: {'EMILS MOTHER'}
+Scene 35: {'EMIL'}
+Scene 36: {'EMILS MOTHER'}
+Scene 37: {'EMIL'}
+Scene 38: {'EMILS MOTHER'}
+Scene 39: {'EMIL'}
+Scene 40: {'FRIDO'}
+Scene 41: {'EMILS MOTHER'}
+Scene 42: {'EMIL'}
+Scene 43: {'FRIDO'}
+Scene 44: {'EMIL'}
+Scene 45: {'KLAWITTER'}
+Scene 46: {'FRIDO'}
+Scene 47: {'EMIL'}
+Scene 48: {'KLAWITTER'}
+Scene 49: {'EMIL'}
+Scene 50: {'FRIDO'}
+Scene 51: {'EMIL'}
+Scene 52: {'FRIDO'}
+Scene 53: {'EMIL'}
+Scene 54: {'SEBI'}
+Scene 55: {'DUNJA'}
+Scene 56: {'SEBI'}
+Scene 57: {'FRIDO'}
+Scene 58: {'EMILS MOTHER'}
+Scene 59: {'EMIL'}
+Scene 60: {'FRIDO'}
+Scene 61: {'EMILS MOTHER'}
+Scene 62: {'SEBI'}
+Scene 63: {'DUNJA'}
+Scene 64: {'FRIDO'}
+Scene 65: {'BOCKI'}
+Scene 66: {'JARO'}
+Scene 67: {'FRIDO'}
+Scene 68: {'DUNJA'}
+Scene 69: {'FRIDO'}
+Scene 70: {'DUNJA'}
+Scene 71: {'FRIDO'}
+Scene 72: {'DUNJA'}
+Scene 73: {'MIRROR MAZE OWNER'}
+Scene 74: {'PUPPET'}
+Scene 75: {'KLAWITTER'}
+Scene 76: {'GESA'}
+Scene 77: {'FRIDO'}
+Scene 78: {'KLAWITTER'}
+Scene 79: {'MICHAEL'}
+Scene 80: {'GESA'}
+Scene 81: {'MICHAEL'}
+Scene 82: {'KLAWITTER'}
+Scene 83: {'GESA'}
+Scene 84: {'KLAWITTER'}
+Scene 85: {'MICHAEL'}
+Scene 86: {'KLAWITTER'}
+Scene 87: {'GESA'}
+Scene 88: {'KLAWITTER'}
+Scene 89: {'GESA'}
+Scene 90: {'MICHAEL'}
+Scene 91: {'KLAWITTER'}
+Scene 92: {'GESA'}
+Scene 93: {'KLAWITTER'}
+Scene 94: {'GESA'}
+Scene 95: {'FRIDO'}
+Scene 96: {'GESA'}
+Scene 97: {'MICHAEL'}
+Scene 98: {'GESA'}
+Scene 99: {'FRIDO'}
+Scene 100: {'GESA'}
+Scene 101: {'MICHAEL'}
+Scene 102: {'GESA'}
+Scene 103: {'FRIDO'}
+Scene 104: {'GESA'}
+Scene 105: {'MICHAEL'}
+Scene 106: {'GESA'}
+Scene 107: {'MICHAEL'}
+Scene 108: {'GESA'}
+Scene 109: {'MICHAEL'}
+Scene 110: {'GESA'}
+Scene 111: {'MICHAEL'}
+Scene 112: {'GESA'}
+Scene 113: {'MICHAEL'}
+Scene 114: {'GESA'}
+Scene 115: {'FRIDO'}
+Scene 116: {'MICHAEL'}
+Scene 117: {'GESA'}
+Scene 118: {'MICHAEL'}
+Scene 119: {'GESA'}
+Scene 120: {'MICHAEL'}
+Scene 121: {'GESA'}
+Scene 122: {'MICHAEL'}
+Scene 123: {'GESA'}
+Scene 124: {'MICHAEL'}
+Scene 125: {'GESA'}
+Scene 126: {'MICHAEL'}
+Scene 127: {'GESA'}
+Scene 128: {'MICHAEL'}
+Scene 129: {'GESA'}
+Scene 130: {'GESA'}
+Scene 131: {'MICHAEL'}
+Scene 132: {'MICHAEL'}
+Scene 133: {'GESA'}
+Scene 134: {'MICHAEL'}
+Scene 135: {'GESA'}
+Scene 136: {'MICHAEL'}
+Scene 137: {'GESA'}
+Scene 138: {'MICHAEL'}
+Scene 139: {'FRIDO'}
+Scene 140: {'MIRROR MAZE OWNER'}
+Scene 141: {'PUPPET'}
+Scene 142: {'MIRROR MAZE OWNER'}
+Scene 143: {'PUPPET'}
+Scene 144: {'MIRROR MAZE OWNER'}
+Scene 145: {'FRIDO'}
+Scene 146: {'FRIDO'}
+Scene 147: {'FRIDO'}
+Scene 148: {'FRIDO II'}
+Scene 149: {'FRIDO'}
+Scene 150: {'GESA'}
+Scene 151: {'MICHAEL'}
+Scene 152: {'FRIDO'}
+Scene 153: {'GESA'}
+Scene 154: {'FRIDO'}
+Scene 155: {'PUPPET'}
+Scene 156: {'MIRROR MAZE OWNER'}
+Scene 157: {'GESA'}
+Scene 158: {'FRIDO'}
+Scene 159: {'GESA'}
+Scene 160: {'PUPPET'}
+Scene 161: {'FRIDO'}
+Scene 162: {'DUNJA'}
+Scene 163: {'FRIDO'}
+Scene 164: {'FRIDO'}
+Scene 165: {'FRIDO II'}
+Scene 166: {'FRIDO'}
+Scene 167: {'KLAWITTER'}
+Scene 168: {'EMIL'}
+Scene 169: {'FRIDO'}
+Scene 170: {'SEBI'}
+Scene 171: {'DUNJA'}
+Scene 172: {'SEBI'}
+Scene 173: {'DUNJA'}
+Scene 174: {'OTTO'}
+Scene 175: {'SEBI'}
+Scene 176: {'JULI'}
+Scene 177: {'EMIL'}
+Scene 178: {'FRIDO'}
+Scene 179: {'EMIL'}
+Scene 180: {'FRIDO'}
+Scene 181: {'EMIL'}
+Scene 182: {'EMILS MOTHER'}
+Scene 183: {'EMIL'}
+Scene 184: {'FRIDO'}
+Scene 185: {'FRIDO II'}
+Scene 186: {'FRIDO'}
+Scene 187: {'FRIDO II'}
+Scene 188: {'FRIDO'}
+Scene 189: {'FRIDO II'}
+Scene 190: {'FRIDO'}
+Scene 191: {'FRIDO II'}
+Scene 192: {'FRIDO'}
+Scene 193: {'FRIDO II'}
+Scene 194: {'FRIDO'}
+Scene 195: {'FRIDO II'}
+Scene 196: {'FRIDO'}
+Scene 197: {'FRIDO II'}
+Scene 198: {'FRIDO'}
+Scene 199: {'FRIDO II'}
+Scene 200: {'FRIDO'}
+Scene 201: {'FRIDO II'}
+Scene 202: {'FRIDO'}
+Scene 203: {'FRIDO II'}
+Scene 204: {'FRIDO'}
+Scene 205: {'FRIDO II'}
+Scene 206: {'FRIDO'}
+Scene 207: {'FRIDO'}
+Scene 208: {'FRIDO II'}
+Scene 209: {'FRIDO'}
+Scene 210: {'FRIDO II'}
+Scene 211: {'MAN'}
+Scene 212: {'FRIDO'}
+Scene 213: {'FRIDO II'}
+Scene 214: {'FRIDO'}
+Scene 215: {'FRIDO II'}
+Scene 216: {'GESA'}
+Scene 217: {'FRIDO'}
+Scene 218: {'GESA'}
+Scene 219: {'FRIDO'}
+Scene 220: {'FRIDO II'}
+Scene 221: {'FRIDO'}
+Scene 222: {'FRIDO II'}
+Scene 223: {'GESA'}
+Scene 224: {'FRIDO'}
+Scene 225: {'GESA'}
+Scene 226: {'FRIDO II'}
+Scene 227: {'GESA'}
+Scene 228: {'FRIDO II'}
+Scene 229: {'GESA'}
+Scene 230: {'FRIDO II'}
+Scene 231: {'GESA'}
+Scene 232: {'FRIDO II'}
+Scene 233: {'GESA'}
+Scene 234: {'FRIDO II'}
+Scene 235: {'GESA'}
+Scene 236: {'FRIDO II'}
+Scene 237: {'GESA'}
+Scene 238: {'FRIDO II'}
+Scene 239: {'GESA'}
+Scene 240: {'FRIDO II'}
+Scene 241: {'GESA'}
+Scene 242: {'GESA (sings)'}
+Scene 243: {'FRIDO'}
+Scene 244: {'FRIDO II'}
+Scene 245: {'FRIDO'}
+Scene 246: {'KLAWITTER'}
+Scene 247: {'CLASS'}
+Scene 248: {'KLAWITTER'}
+Scene 249: {'EMIL'}
+Scene 250: {'KLAWITTER?'}
+Scene 251: {'FRIDO II'}
+Scene 252: {'KLAWITTER?'}
+Scene 253: {'FRIDO II'}
+Scene 254: {'KLAWITTER'}
+Scene 255: {'FRIDO II'}
+Scene 256: {'KLAWITTER?'}
+Scene 257: {'FRIDO II'}
+Scene 258: {'JULI?'}
+Scene 259: {'FRIDO II?'}
+Scene 260: {'KLAWITTER'}
+Scene 261: {'FRIDO II'}
+Scene 262: {'KLAWITTER'}
+Scene 263: {'EMIL'}
+Scene 264: {'FRIDO II'}
+Scene 265: {'EMIL'}
+Scene 266: {'KLAWITTER'}
+Scene 267: {'EMIL'}
+Scene 268: {'SEBI'}
+Scene 269: {'DUNJA'}
+Scene 270: {'SEBI'}
+Scene 271: {'DUNJA'}
+Scene 272: {'SEBI'}
+Scene 273: {'SEBI'}
+Scene 274: {'FRIDO'}
+Scene 275: {'SEBI?'}
+Scene 276: {'FRIDO?'}
+Scene 277: {'DUNJA?'}
+Scene 278: {'FRIDO'}
+Scene 279: {'SEBI?'}
+Scene 280: {'DUNJA?'}
+Scene 281: {'FRIDO?'}
+Scene 282: {'SEBI'}
+Scene 283: {'DUNJA'}
+Scene 284: {'SEBI'}
+Scene 285: {'ALL'}
+Scene 286: {'FRIDO'}
+Scene 287: {'EMIL'}
+Scene 288: {'FRIDO'}
+Scene 289: {'EMIL'}
+Scene 290: {'FRIDO'}
+Scene 291: {'EMIL'}
+Scene 292: {'FRIDO'}
+Scene 293: {'KLAWITTER'}
+Scene 294: {'GESA'}
+Scene 295: {'FRIDO'}
+Scene 296: {'KLAWITTER'}
+Scene 297: {'FRIDO'}
+Scene 298: {'KLAWITTER'}
+Scene 299: {'FRIDO'}
+Scene 300: {'JARO'}
+Scene 301: {'FRIDO'}
+Scene 302: {'BOCKI'}
+Scene 303: {'FRIDO'}
+Scene 304: {'JARO'}
+Scene 305: {'BOCKI'}
+Scene 306: {'JARO'}
+Scene 307: {'FRIDO'}
+Scene 308: {'JARO'}
+Scene 309: {'BOCKI'}
+Scene 310: {'GESA'}
+Scene 311: {'MICHAEL'}
+Scene 312: {'FRIDO'}
+Scene 313: {'MICHAEL'}
+Scene 314: {'MAN'}
+Scene 315: {'MICHAEL'}
+Scene 316: {'FRIDO'}
+Scene 317: {'DUNJA'}
+Scene 318: {'FRIDO'}
+Scene 319: {'FRIDO?'}
+Scene 320: {'HANDY'}
+Scene 321: {'FRIDO II'}
+Scene 322: {'FRIDO?'}
+Scene 323: {'FRIDO II?'}
+Scene 324: {'FRIDO'}
+Scene 325: {'GESA?'}
+Scene 326: {'FRIDO II'}
+Scene 327: {'GESA?'}
+Scene 328: {'FRIDO II'}
+Scene 329: {'GESA?'}
+Scene 330: {'FRIDO II?'}
+Scene 331: {'GESA'}
+Scene 332: {'FRIDO II'}
+Scene 333: {'FRIDO?'}
+Scene 334: {'FRIDO II?'}
+Scene 335: {'FRIDO'}
+Scene 336: {'FRIDO II'}
+Scene 337: {'FRIDO'}
+Scene 338: {'FRIDO II?'}
+Scene 339: {'FRIDO'}
+Scene 340: {'FRIDO II'}
+Scene 341: {'FRIDO'}
+Scene 342: {'FRIDO II?'}
+Scene 343: {'FRIDO'}
+Scene 344: {'KLAWITTER'}
+Scene 345: {'FRIDO II'}
+Scene 346: {'EMIL'}
+Scene 347: {'FRIDO II'}
+Scene 348: {'SEBI'}
+Scene 349: {'DUNJA'}
+Scene 350: {'SEBI'}
+Scene 351: {'FRIDO'}
+Scene 352: {'FRIDO?'}
+Scene 353: {'FRIDO II?'}
+Scene 354: {'FRIDO'}
+Scene 355: {'FRIDO II'}
+Scene 356: {'FRIDO'}
+Scene 357: {'FRIDO II?'}
+Scene 358: {'FRIDO'}
+Scene 359: {'FRIDO II'}
+Scene 360: {'EMILS MOTHER?'}
+Scene 361: {'EMIL'}
+Scene 362: {'EMILS MOTHER?'}
+Scene 363: {'EMIL'}
+Scene 364: {'FRIDO?'}
+Scene 365: {'EMIL?'}
+Scene 366: {'FRIDO?'}
+Scene 367: {'EMIL?'}
+Scene 368: {'FRIDO?'}
+Scene 369: {'FRIDO?'}
+Scene 370: {'EMIL'}
+Scene 371: {'FRIDO'}
+Scene 372: {'EMIL'}
+Scene 373: {'FRIDO?'}
+Scene 374: {'EMIL?'}
+Scene 375: {'FRIDO'}
+Scene 376: {'EMIL'}
+Scene 377: {'FRIDO'}
+Scene 378: {'EMIL II'}
+Scene 379: {'EMIL'}
+Scene 380: {'FRIDO?'}
+Scene 381: {'EMIL'}
+Scene 382: {'FRIDO?'}
+Scene 383: {'EMIL?'}
+Scene 384: {'EMIL?'}
+Scene 385: {'FRIDO?'}
+Scene 386: {'EMIL'}
+Scene 387: {'EMIL'}
+Scene 388: {'FRIDO'}
+Scene 389: {'EMIL?'}
+Scene 390: {'FRIDO?'}
+Scene 391: {'EMIL'}
+Scene 392: {'FRIDO?'}
+Scene 393: {'EMIL?'}
+Scene 394: {'EMIL II'}
+Scene 395: {'WALLA'}
+Scene 396: {'DUNJA'}
+Scene 397: {'WALLA'}
+Scene 398: {'EMIL II'}
+Scene 399: {'OTTO'}
+Scene 400: {'JULI'}
+Scene 401: {'DUNJA'}
+Scene 402: {'SEBI'}
+Scene 403: {'EMIL II'}
+Scene 404: {'BOLLHAFF'}
+Scene 405: {'FRIDO'}
+Scene 406: {'EMIL'}
+Scene 407: {'FRIDO'}
+Scene 408: {'FRIDO'}
+Scene 409: {'FRIDO II'}
+Scene 410: {'FRIDO'}
+Scene 411: {'FRIDO II?'}
+Scene 412: {'FRIDO'}
+Scene 413: {'FRIDO II?'}
+Scene 414: {'FRIDO?'}
+Scene 415: {'FRIDO II'}
+Scene 416: {'EMIL?'}
+Scene 417: {'EMILS MOTHER'}
+Scene 418: {'EMIL?'}
+Scene 419: {'EMIL II'}
+Scene 420: {'EMILS MOTHER'}
+Scene 421: {'EMIL II'}
+Scene 422: {'EMILS MOTHER'}
+Scene 423: {'EMIL II?'}
+Scene 424: {'EMILS MOTHER'}
+Scene 425: {'EMIL II?'}
+Scene 426: {'EMILS MOTHER'}
+Scene 427: {'EMIL II'}
+Scene 428: {'EMILS MOTHER'}
+Scene 429: {'EMIL II'}
+Scene 430: {'EMILS MOTHER'}
+Scene 431: {'EMIL II'}
+Scene 432: {'EMIL'}
+Scene 433: {'EMIL II'}
+Scene 434: {'EMIL'}
+Scene 435: {'EMILS MOTHER'}
+Scene 436: {'EMIL'}
+Scene 437: {'EMILS MOTHER'}
+Scene 438: {'SEBI'}
+Scene 439: {'JARO?'}
+Scene 440: {'SEBI'}
+Scene 441: {'JARO'}
+Scene 442: {'DUNJA'}
+Scene 443: {'JARO?'}
+Scene 444: {'DUNJA'}
+Scene 445: {'JARO'}
+Scene 446: {'EMIL II?'}
+Scene 447: {'JARO?'}
+Scene 448: {'BOCKI'}
+Scene 449: {'EMIL II'}
+Scene 450: {'JARO'}
+Scene 451: {'SEBI'}
+Scene 452: {'DUNJA'}
+Scene 453: {'EMIL II'}
+Scene 454: {'OTTO'}
+Scene 455: {'JULI'}
+Scene 456: {'EMIL II'}
+Scene 457: {'EMIL'}
+Scene 458: {'SEBI'}
+Scene 459: {'BOLLHAFF'}
+Scene 460: {'DUNJA'}
+Scene 461: {'BOLLHOFF'}
+Scene 462: {'EMIL II'}
+Scene 463: {'SEBI'}
+Scene 464: {'DUNJA'}
+Scene 465: {'KLAWITTER'}
+Scene 466: {'CLASS'}
+Scene 467: {'FRIDO II'}
+Scene 468: {'KLAWITTER'}
+Scene 469: {'DUNJA'}
+Scene 470: {'SEBI'}
+Scene 471: {'FRIDO II'}
+Scene 472: {'KLAWITTER'}
+Scene 473: {'FRIDO II'}
+Scene 474: {'EMIL'}
+Scene 475: {'FRIDO'}
+Scene 476: {'EMIL'}
+Scene 477: {'FRIDO/EMIL'}
+Scene 478: {'SEBI'}
+Scene 479: {'FRIDO'}
+Scene 480: {'SEBI'}
+Scene 481: {'EMIL'}
+Scene 482: {'FRIDO'}
+Scene 483: {"SEBI'S FATHER"}
+Scene 484: {'SEBI'}
+Scene 485: {'FRIDO'}
+Scene 486: {'SEBI'}
+Scene 487: {'EMIL'}
+Scene 488: {'SEBI'}
+Scene 489: {'FRIDO'}
+Scene 490: {'SEBI'}
+Scene 491: {'PHONE RECORDING'}
+Scene 492: {'EMIL'}
+Scene 493: {'SEBI'}
+Scene 494: {"SEBI'S FATHER"}
+Scene 495: {'DIRECTOR'}
+Scene 496: {'FRIDO'}
+Scene 497: {'EMIL'}
+Scene 498: {'FRIDO'}
+Scene 499: {'EMIL'}
+Scene 500: {'DIRECTOR?'}
+Scene 501: {'MALE'}
+Scene 502: {'FEMALE'}
+Scene 503: {"EMIL'S MOTHER?"}
+Scene 504: {"EMIL'S FATHER"}
+Scene 505: {"EMIL'S MOTHER?"}
+Scene 506: {"EMIL'S FATHER"}
+Scene 507: {'SEBI'}
+Scene 508: {'EMIL'}
+Scene 509: {'SEBI'}
+Scene 510: {'SEBI’S FATHER'}
+Scene 511: {'BOY 3'}
+Scene 512: {'SEBI'}
+Scene 513: {'FRIDO?'}
+Scene 514: {'SEBI'}
+Scene 515: {'GESA'}
+Scene 516: {'SEBI'}
+Scene 517: {'SEBI’S FATHER'}
+Scene 518: {'SEBI'}
+Scene 519: {'EMILS MOTHER'}
+Scene 520: {'EMILS FATHER'}
+Scene 521: {'EMILS MOTHER'}
+Scene 522: {'MICHAEL'}
+Scene 523: {'SEBI’S FATHER'}
+Scene 524: {'BOYS'}
+Scene 525: {'MICHAEL'}
+Scene 526: {'DIRECTOR?'}
+Scene 527: {'EMILS FATHER'}
+Scene 528: {"SEBI'S FATHER"}
+Scene 529: {'EMIL'}
+Scene 530: {'FRIDO'}
+Scene 531: {'FRIDO II'}
+Scene 532: {'FRIDO'}
+Scene 533: {'FRIDO II'}
+Scene 534: {'GESA'}
+Scene 535: {'FRIDO'}
+Scene 536: {'FRIDO II'}
+Scene 537: {'FRIDO'}
+Scene 538: {'FRIDO II'}
+Scene 539: {'FRIDO'}
+Scene 540: {'FRIDO II'}
+Scene 541: {'FRIDO'}
+Scene 542: {'FRIDO II'}
+Scene 543: {'FRIDO'}
+Scene 544: {'FRIDO II'}
+Scene 545: {'FRIDO'}
+Scene 546: {'FRIDO II'}
+Scene 547: {'FRIDO'}
+Scene 548: {'EMIL'}
+Scene 549: {'FRIDO'}
+Scene 550: {'EMIL'}
+Scene 551: {'FRIDO'}
+Scene 552: {'EMIL'}
+Scene 553: {'FRIDO?'}
+Scene 554: {'EMIL'}
+Scene 555: {'FRIDO'}
+Scene 556: {'DUNJA'}
+Scene 557: {'EMIL II'}
+Scene 558: {'DUNJA'}
+Scene 559: {'EMIL'}
+Scene 560: {'EMIL II'}
+Scene 561: {'DUNJA'}
+Scene 562: {'FRIDO II'}
+Scene 563: {'GESA'}
+Scene 564: {'FRIDO?'}
+Scene 565: {'GESA'}
+Scene 566: {'FRIDO?'}
+Scene 567: {'GESA?'}
+Scene 568: {'FRIDO?'}
+Scene 569: {'GESA'}
+Scene 570: {'FRIDO?'}
+Scene 571: {'GESA?'}
+Scene 572: {'ALL'}
+Scene 573: {'KLAWITTER'}
+Scene 574: {'FRIDO'}
+Scene 575: {'KLAWITTER'}
+Scene 576: {'DUNJA'}
+Scene 577: {'KLAWITTER?'}
+Scene 578: {'OTTO?'}
+Scene 579: {'KLAWITTER'}
+Scene 580: {'FRIDO'}
+Scene 581: {'KLAWITTER?'}
+Scene 582: {'FRIDO'}
+Scene 583: {'KLAWITTER?'}
+Scene 584: {'SEBI II?'}
+Scene 585: {'KLAWITTER'}
+Scene 586: {'SEBI II?'}
+Scene 587: {'OTTO II & SEBI II'}
+Scene 588: {'EMIL?'}
+Scene 589: {'ALL'}
+Scene 590: {'EMIL'}
+Scene 591: {'SEBI?'}
+Scene 592: {'JULI?'}
+Scene 593: {'OTTO?'}
+Scene 594: {'CLASSMATE II'}
+Scene 595: {'EMIL'}
+Scene 596: {'FRIDO?'}
+Scene 597: {'EMIL'}
+Scene 598: {'FRIDO'}
+Scene 599: {'EMIL?'}
+Scene 600: {'FRIDO'}
+Scene 601: {'BOY 1'}
+Scene 602: {'BOY 2'}
+Scene 603: {'DUNJA?'}
+Scene 604: {'EMIL?'}
+Scene 605: {'FRIDO'}
+Scene 606: {'EMIL?'}
+Scene 607: {'SEBI'}
+Scene 608: {'KIDS'}
+Scene 609: {'DUNJA'}
+Scene 610: {'SEBI'}
+Scene 611: {'KIDS'}
+Scene 612: {'FRIDO', 'PUNK'}
+Scene 613: {'FRIDO II'}
+Scene 614: {'EMIL'}
+Scene 615: {'SEBI'}
+Scene 616: {'OTTO'}
+Scene 617: {'EMIL'}
+Scene 618: {'OTTO'}
+Scene 619: {'CLASS'}
+Scene 620: {'KLAWITTER'}
+Scene 621: {'JULI II'}
+Scene 622: {'SEBI II'}
+Scene 623: {'CLASS'}
+Scene 624: {'KLAWITTER'}
+Scene 625: {'DIALOGUE OFF'}
+Scene 626: {'EMIL'}
+Scene 627: {'JULI'}
+Scene 628: {'SEBI?'}
+Scene 629: {'JULI?'}
+Scene 630: {'OTTO'}
+Scene 631: {'SEBI'}
+Scene 632: {'OTTO'}
+Scene 633: {'DUNJA?'}
+Scene 634: {'SEBI'}
+Scene 635: {'OTTO?'}
+Scene 636: {'SEBI?'}
+Scene 637: {'OTTO'}
+Scene 638: {'SEBI'}
+Scene 639: {'DUNJA'}
+Scene 640: {'OTTO'}
+Scene 641: {'SEBI'}
+Scene 642: {'DUNJA'}
+Scene 643: {'EMIL'}
+Scene 644: {'DUNJA'}
+Scene 645: {'SEBI'}
+Scene 646: {'GIRL'}
+Scene 647: {'FRIDO'}
+Scene 648: {'JULI II'}
+Scene 649: {'SEBI II'}
+Scene 650: {'DUNJA II?'}
+Scene 651: {'JULI II'}
+Scene 652: {'SEBI II'}
+Scene 653: {'DUNJA II?'}
+Scene 654: {'JULI II?'}
+Scene 655: {'FRIDO'}
+Scene 656: {'EMIL II?'}
+Scene 657: {'EMIL'}
+Scene 658: {'FRIDO'}
+Scene 659: {'EMIL II'}
+Scene 660: {'FRIDO?'}
+Scene 661: {'EMIL II'}
+Scene 662: {'FRIDO?'}
+Scene 663: {'EMIL II'}
+Scene 664: {'FRIDO'}
+Scene 665: {'EMIL'}
+Scene 666: {'FRIDO'}
+Scene 667: {'EMIL'}
+Scene 668: {'FRIDO'}
+Scene 669: {'EMIL II'}
+Scene 670: {'FRIDO'}
+Scene 671: {'EMIL'}
+Scene 672: {'EMIL'}
+Scene 673: {'FRIDO?'}
+Scene 674: {'EMIL'}
+Scene 675: {'FRIDO'}
+Scene 676: {'EMIL?'}
+Scene 677: {'FRIDO?'}
+Scene 678: {'MIRROR MAZE OWNER'}
+Scene 679: {'FRIDO'}
+Scene 680: {'PUPPET?'}
+Scene 681: {'MIRROR MAZE OWNER'}
+Scene 682: {'FRIDO?'}
+Scene 683: {'MIRROR MAZE OWNER'}
+Scene 684: {'FRIDO'}
+Scene 685: {'EMIL'}
+Scene 686: {'FRIDO'}
+Scene 687: {'MIRROR MAZE OWNER'}
+Scene 688: {'EMIL'}
+Scene 689: {'FRIDO'}
+Scene 690: {'SEBI’S FATHER'}
+Scene 691: {'KLAWITTER'}
+Scene 692: {'SEBI’S FATHER'}
+Scene 693: {'KLAWITTER'}
+Scene 694: {'SEBI’S FATHER'}
+Scene 695: {'KLAWITTER'}
+Scene 696: {'SEBI’S FATHER'}
+Scene 697: {'KLAWITTER'}
+Scene 698: {'SEBI’S FATHER'}
+Scene 699: {'KLAWITTER'}
+Scene 700: {'SEBI’S FATHER'}
+Scene 701: {'KLAWITTER'}
+Scene 702: {'SEBI’S FATHER'}
+Scene 703: {'KLAWITTER'}
+Scene 704: {'SEBI’S FATHER'}
+Scene 705: {'KLAWITTER'}
+Scene 706: {'SEBI’S FATHER'}
+Scene 707: {'KLAWITTER'}
+Scene 708: {'SEBI’S FATHER'}
+Scene 709: {'KLAWITTER'}
+Scene 710: {'MICHAEL'}
+Scene 711: {'GESA?'}
+Scene 712: {'MICHAEL'}
+Scene 713: {'GESA/MICHAEL'}
+Scene 714: {'MICHAEL'}
+Scene 715: {'KLAWITTER'}
+Scene 716: {'EMIL'}
+Scene 717: {'KLAWITTER'}
+Scene 718: {'GESA'}
+Scene 719: {'EMIL'}
+Scene 720: {'GESA'}
+Scene 721: {'KLAWITTER'}
+Scene 722: {'EMIL'}
+Scene 723: {'KLAWITTER'}
+Scene 724: {'FRIDO'}
+Scene 725: {'GESA'}
+Scene 726: {'FRIDO'}
+Scene 727: {'GESA'}
+Scene 728: {'MICHAEL'}
+Scene 729: {'GESA'}
+Scene 730: {'FRIDO'}
+Scene 731: {'MICHAEL'}
+Scene 732: {'FRIDO'}
+Scene 733: {'KLAWITTER'}
+Scene 734: {'EMIL'}
+Scene 735: {'KLAWITTER'}
+Scene 736: {'KLAWITTER?'}
+Scene 737: {'GESA?'}
+Scene 738: {'FRIDO II'}
+Scene 739: {'GESA'}
+Scene 740: {'EMIL'}
+Scene 741: {'FRIDO?'}
+Scene 742: {'KLAWITTER'}
+Scene 743: {'CLASS'}
+Scene 744: {'KLAWITTER'}
+Scene 745: {'ALL'}
+Scene 746: {'KLAWITTER?'}
+Scene 747: {'OTTO II?'}
+Scene 748: {'KLAWITTER'}
+Scene 749: {'OTTO II'}
+Scene 750: {'KLAWITTER?'}
+Scene 751: {'OTTO II'}
+Scene 752: {'KLAWITTER?'}
+Scene 753: {'CLASS'}
+Scene 754: {'KLAWITTER'}
+Scene 755: {'OTTO II'}
+Scene 756: {'KLAWITTER?'}
+Scene 757: {'OTTO II'}
+Scene 758: {'JULI II'}
+Scene 759: {'KLAWITTER'}
+Scene 760: {'JULI II'}
+Scene 761: {'KLAWITTER?'}
+Scene 762: {'JULI II'}
+Scene 763: {'DUNJA II?'}
+Scene 764: {'KLAWITTER'}
+Scene 765: {'ALL'}
+Scene 766: {'KLAWITTER'}
+Scene 767: {'FRIDO'}
+Scene 768: {'EMIL'}
+Scene 769: {'CLASS'}
+Scene 770: {'KLAWITTER'}
+Scene 771: {'SEBI II'}
+Scene 772: {'SEBI'}
+Scene 773: {'SEBI II'}
+Scene 774: {'FRIDO'}
+Scene 775: {'KLAWITTER'}
+Scene 776: {'OTTO II + JULI II'}
+Scene 777: {'KLAWITTER?'}
+Scene 778: {'DUNJA, JULI, OTTO'}
+Scene 779: {'KLAWITTER?'}
+Scene 780: {'ALL?'}
+Scene 781: {'KLAWITTER?'}
+Scene 782: {'ALL'}
+Scene 783: {'KLAWITTER?'}
+Scene 784: {'ALL?'}
+Scene 785: {'KLAWITTER'}
+Scene 786: {'ALL'}
+Scene 787: {'KLAWITTER?'}
+Scene 788: {'ALL?'}
+Scene 789: {'KLAWITTER'}
+Scene 790: {'ALL'}
+Scene 791: {'KLAWITTER?'}
+Scene 792: {'ALL'}
+Scene 793: {'DUNJA II'}
+Scene 794: {'FRIDO?'}
+Scene 795: {'FRIDO II?'}
+Scene 796: {'FRIDO'}
+Scene 797: {'FRIDO II?'}
+Scene 798: {'FRIDO?'}
+Scene 799: {'KLAWITTER?'}
+Scene 800: {'OTTO'}
+Scene 801: {'SEBI?'}
+Scene 802: {'EMIL/DUNJA?'}
+Scene 803: {'CLASS?'}
+Scene 804: {'FRIDO II'}
+Scene 805: {'FRIDO'}
+Scene 806: {'FRIDO II'}
+Scene 807: {'KLAWITTER?'}
+Scene 808: {'EMIL'}
+Scene 809: {'FRIDO?'}
+Scene 810: {'KLAWITTER'}
+Scene 811: {'CLASS'}
+Scene 812: {'KLAWITTER'}
+Scene 813: {'ALL'}
+Scene 814: {'MIRROR MAZE OWNER'}
+Scene 815: {'PUPPET'}

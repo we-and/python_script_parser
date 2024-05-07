@@ -1,8 +1,10 @@
-from PyPDF2 import PdfReader
+#from PyPDF2 import PdfReader
 import re
 import os
 import math
 import pandas as pd
+from docx import Document
+import csv
 
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
@@ -12,6 +14,7 @@ import pandas as pd
 #output_path="ZERO11c/"
 #script_name="ZERO11b"
 
+action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
 
 import chardet
 
@@ -247,8 +250,8 @@ def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
     # (.+) matches one or more of any character (the first text block), captured for potential use
     # {8,} specifies at least 8 spaces
     # (.+) matches one or more of any character following the spaces (the second text block)
-    pattern = r'^(.+)\s{8,}(.+)$'
-
+    #pattern = r'^(.+)\s{8,}(.+)$'
+    pattern = r'^(.+?)\s{8,}(.+)$'
     # Use re.match to check if the whole string matches the pattern
     if re.match(pattern, text):
         return True
@@ -299,7 +302,8 @@ def extract_charactername_NAME_ATLEAST8SPACES_TEXT(line):
     given the line format is uppercase text followed by at least 8 spaces and more text.
     Returns the uppercase text if the pattern matches, otherwise returns None.
     """
-    match = re.match(r"^([A-Z]+)\s{8,}.*$", line)
+    #match = re.match(r"^([A-Z]+)\s{8,}.*$", line)
+    match = re.match(r"^([A-Z ]+)\s{8,}.*$", line)
     if match:
         return match.group(1)
     return None
@@ -421,14 +425,6 @@ def sort_dict_values(d):
         sorted_dict[key] = sorted_list
     return sorted_dict
 
-
-
-
-
-
-
-
-
 def compute_length(line,method):
     if method=="ALL":
         return len(line)
@@ -447,11 +443,255 @@ def read_docx(file_path):
     # Iterate through each paragraph in the document
     for para in doc.paragraphs:
         print(para.text)
-
+    return doc
 def is_supported_extension(ext):
     ext=ext.lower()
     return ext==".txt" or ext==".docx"
 
+def convert_docx_combined_continuity(file,table):
+    print("Conversion mode       : COMBINED_CONTINUITY")
+    current_character=""
+    mode = "linear"
+    titles=[]
+    for row in table.rows[1:]:
+        n=len(row.cells)
+        if n>7:
+            title=row.cells[n-1].text
+            dur=row.cells[n-2].text
+            is_title= len(dur)>0 and len(title)>0
+            is_speech= len(dur)==0 and len(title)>0
+
+
+            s=""
+            if is_title:
+                if "/" in title:
+                    mode="split"
+                    titles=title.split("/")
+                else:
+                    mode="linear"
+                    title=clean_character_name(title)
+                    current_character=title
+            if is_speech:
+                if mode=="split":
+                    speeches=title.split("\n")
+
+                    idx=0
+  #                  print("split mode speech"+title+str(len(speeches)))
+
+                    for i in speeches:
+                        current_character=titles[idx]
+                        speech=speeches[idx].strip()
+                        current_character=clean_character_name(current_character)
+                        if speech.startswith("-"):
+                            speech=speech[1:].strip()
+                        s=current_character+"\t"+speech+"\n"
+                        file.write(s)
+                        idx=idx+1
+                    mode="linear"
+
+                elif mode=="linear":
+                    current_character=clean_character_name(current_character)
+                    s=current_character+"\t"+title+"\n"
+                    #print("linear mode add "+s)
+                        
+                    file.write(s)
+
+
+
+
+def clean_character_name(title):
+    title = title.replace("to herself","")
+    title = title.replace(" said","")
+    return title.strip().upper()
+
+def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol):
+    print("Conversion mode       : CHARACTERID_AND_DIALOGUE")
+    # Iterate through each row in the table
+    for row in table.rows[1:]:
+        dialogue=row.cells[dialogueCol].text.strip()
+        character=row.cells[characterIdCol].text.strip()
+        if len(character)>0:
+            current_character=character
+        if len(dialogue)>0:  
+            is_didascalie=dialogue.startswith("(")
+            if not is_didascalie: 
+                dialogue=filter_text(dialogue)             
+                s=current_character+"\t"+dialogue+"\n"  # New line after each row
+                file.write(s)
+
+
+def convert_docx_to_txt(file_path):
+    doc = Document(file_path)
+    converted_file_path=file_path.replace(".docx",".converted.txt")
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        # Check if there are any tables in the document
+        if len(doc.tables) > 0:
+            # Get the first table
+            table = doc.tables[0]
+            
+            header=table.rows[0]
+            dialogueCol=-1
+            characterIdCol=-1
+            combinedContinuityCol=-1
+
+            idx=0
+            current_character=""
+            for cell in header.cells:
+                t=cell.text.strip()
+                if t=="CHARACTER ID":
+                    characterIdCol=idx
+                elif t=="DIALOGUE":
+                    dialogueCol=idx
+                elif t=="COMBINED CONTINUITY":
+                    combinedContinuityCol=idx
+                idx=idx+1
+
+            docx_mode_dialoge_characterid= dialogueCol>-1 and characterIdCol>-1
+            docx_mode_combined_continuity= combinedContinuityCol>-1
+            if docx_mode_dialoge_characterid or docx_mode_combined_continuity:
+                print("Headers found")
+            else:
+                return "" 
+            if docx_mode_dialoge_characterid:
+                convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
+            if docx_mode_combined_continuity:
+                convert_docx_combined_continuity(file,table)
+
+        else:
+            print("No tables")
+    return converted_file_path
+
+def get_all_characters(breakdown):
+    print("get_all_characters")
+    all_characters=[]
+    for item in breakdown:
+        if item["type"]=="SPEECH":
+            character=item["character"]
+            if character==None:
+                print("ERR")
+                exit()
+
+            if not character in all_characters:
+                all_characters.append(character)
+    return all_characters
+
+splitables=[" TALK TO "," TO "]
+def hasSplitable(character):
+    for i in splitables:
+        if i in character:
+            return i
+    return ""
+
+def has_duplicates(lst):
+    return len(lst) != len(set(lst))
+
+def indices_of_duplicates(lst):
+    from collections import defaultdict
+    index_map = defaultdict(list)  # Stores list of indices for each item
+    for index, item in enumerate(lst):
+        index_map[item].append(index)
+    
+    # Filter items that appear more than once and collect their indices
+    return {item: indices for item, indices in index_map.items() if len(indices) > 1}
+
+def map_semi_duplicates(names):
+    normalized_map = {}  # Maps normalized names to their first occurrence
+    duplicates = {}  # Stores mappings of semi-duplicate entries
+
+    for name in names:
+        normalized = name.replace(" ", "")  # Remove spaces to normalize
+        if normalized in normalized_map:
+            # Map current name to the first occurrence of this normalized form
+            duplicates[name] = normalized_map[normalized]
+        else:
+            # Store the first occurrence of this normalized form
+            normalized_map[normalized] = name
+
+    return duplicates
+
+def is_action_verb_charactername(charactername):
+    # List of action verbs
+   
+  
+    # Regex to match "<NAME> <ACTION>"
+    pattern = r"(\b\w+\b) (" + '|'.join(action_verbs) + r")\b"
+
+    # Search for matches
+    match = re.search(pattern, charactername)
+
+    if match:
+        print("Match found:", match.groups())
+    else:
+        print("No match found.")
+
+def extract_character_and_action(charactername, action_verbs):
+    # Create a regex pattern that matches a word followed by any of the action verbs
+    pattern = r"(\b\w+\b) (" + '|'.join(action_verbs) + r")\b"
+
+    # Search for matches in the provided line
+    match = re.search(pattern, charactername)
+    if match:
+        # Returns the character's name and the action verb
+        return match.groups()
+    else:
+        return None
+
+def merge_breakdown_character_by_replacelist(breakdown,replace_list):
+    print("merge_breakdown_character_by_replacelist")
+    checkIfAlreadyNamed=False
+    for item in breakdown:
+        if item["type"]=="SPEECH":
+            character=item["character"]
+            if character in replace_list:
+                firstchar=replace_list[character]
+                print("REPLACE2"+character+" with "+str(firstchar))
+                item['character']=firstchar                   
+
+    return breakdown
+
+
+def merge_breakdown_character_talking_to(breakdown,all_characters):
+    print("merge_breakdown_character_talking_to")
+    replaceList={}
+    checkIfAlreadyNamed=False
+    for item in breakdown:
+        #sprint(str(item))
+        if item["type"]=="SPEECH":
+            character=item["character"]
+            if character!=character.strip():
+                print("STRIP "+character)
+                character=character.strip()
+
+            splitable=hasSplitable(character)
+            if splitable!="":
+                #print(" has to"+character)
+                characters=character.split(splitable)
+                #print(" split"+str(characters))
+
+                if checkIfAlreadyNamed:
+                    are_parts_characternames=True
+                    for k in characters:
+                        if k in all_characters:
+                            are_parts_characternames=True
+                        else:
+                            are_parts_characternames=False
+                            break
+                    if are_parts_characternames:
+                        firstchar=characters[0].strip()
+                        print("REPLACE "+character+" with "+str(firstchar))
+                        replaceList[character]=firstchar
+                        item['character']=firstchar                   
+                else:
+                    firstchar=characters[0].strip()
+                    print("REPLACE"+character+" with "+str(firstchar))
+                    replaceList[character]=firstchar
+                    item['character']=firstchar                   
+
+    return breakdown,replaceList
+def filter_text(s):
+    res=s.replace("♪","").replace("Â§","").replace("§","")
+    #filter songs
+    return res
 #################################################################
 # PROCESS
 def process_script(script_path,output_path,script_name,countingMethod):
@@ -465,9 +705,21 @@ def process_script(script_path,output_path,script_name,countingMethod):
     if not os.path.exists(output_path):
         os.mkdir(output_path)
 
-        name, extension = os.path.splitext(entry)
-    
+    file_name = os.path.basename(script_path)
+    name, extension = os.path.splitext(file_name)
+    print("File name         : "+file_name)
+    print("Extension         : "+extension)
+    if not is_supported_extension(extension):
+        print("File type "+extension+" not supported.")
+        return
 
+    if extension==".docx":
+        converted_file_path=convert_docx_to_txt(script_path)
+        if len(converted_file_path)==0:
+            print("Conversion failed")
+            return 
+        return process_script(converted_file_path,output_path,script_name,countingMethod)
+        
     uppercase_lines=[]
     current_scene_id=""
     wasEmptyLine=False
@@ -541,45 +793,97 @@ def process_script(script_path,output_path,script_name,countingMethod):
                                 if not character_name == None:
                                     #remove character name for stats
                                     spoken_text=extract_speech(trimmed_line,character_mode,character_name)
-
+                                    spoken_text=filter_text(spoken_text)
+                                    
                                    
-                                    breakdown.append({"line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
+                                    breakdown.append({"scene_id":current_scene_id,
+                                                      "character_raw":character_name,
+                                                      "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
                                     if is_verbose:
                                         print("   text="+str(spoken_text))
                                     
                                     #add scene to character if not existing
-                                    if character_name not in scene_characters_map:
-                                        scene_characters_map[character_name] = set()
-                                    scene_characters_map[character_name].add(current_scene_id)
+                                    #if character_name not in scene_characters_map:
+                                     #   scene_characters_map[character_name] = set()
+                                    #scene_characters_map[character_name].add(current_scene_id)
                                     
                                     #add character to scene if not existing
-                                    if current_scene_id not in character_scene_map:
-                                        character_scene_map[current_scene_id] = set()
-                                    character_scene_map[current_scene_id].add(character_name)
+                                    ##if current_scene_id not in character_scene_map:
+                                      #  character_scene_map[current_scene_id] = set()
+                                    #character_scene_map[current_scene_id].add(character_name)
                                     
                                     #update character line count
-                                    if character_name not in character_linecount_map:
-                                        character_linecount_map[character_name]=1
-                                    else:
-                                        character_linecount_map[character_name]=character_linecount_map[character_name]+1
+                                  #  if character_name not in character_linecount_map:
+                                   #     character_linecount_map[character_name]=1
+                                    #else:
+                                     #   character_linecount_map[character_name]=character_linecount_map[character_name]+1
 
                                     #update character text length
-                                    le=compute_length(spoken_text,countingMethod)
-                                    if character_name not in character_textlength_map:
-                                        character_textlength_map[character_name]=le
-                                    else:
-                                        character_textlength_map[character_name]=character_textlength_map[character_name]+le
+                                    #le=compute_length(spoken_text,countingMethod)
+                                    #if character_name not in character_textlength_map:
+                                    #    character_textlength_map[character_name]=le
+                                    #else:
+                                     #   character_textlength_map[character_name]=character_textlength_map[character_name]+le
 
                                     #add to character order if new character
-                                    if character_name not in character_order_map:
-                                        character_order_map[character_name]=character_count
-                                        character_count=character_count+1
+                                    #if character_name not in character_order_map:
+                                    #    character_order_map[character_name]=character_count
+                                    #    character_count=character_count+1
                             else:
                                 breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
                                     
                                         
             wasEmptyLine=isEmptyLine
             line_idx=line_idx+1
+
+    all_characters=get_all_characters(breakdown)
+    breakdown,replaceList=merge_breakdown_character_talking_to(breakdown,all_characters)
+    all_characters=get_all_characters(breakdown)
+    print("all_characters"+str(all_characters))
+    print("replacelist"+str(replaceList))
+
+    replace_map=map_semi_duplicates(all_characters)
+    print("replace_map"+str(replace_map))
+
+    breakdown=merge_breakdown_character_by_replacelist(breakdown,replace_map)
+    all_characters=get_all_characters(breakdown)
+    print("all_characters"+str(all_characters))
+    print("replacelist"+str(replaceList))
+
+    for item in breakdown:
+        if item['type']=="SPEECH":
+            character_name=item['character']
+            #add to character order if new character
+            if character_name not in character_order_map:
+                character_order_map[character_name]=character_count
+                character_count=character_count+1
+
+
+            if character_name not in character_linecount_map:
+                character_linecount_map[character_name]=1
+            else:
+                character_linecount_map[character_name]=character_linecount_map[character_name]+1
+
+            spoken_text=item['speech']
+            le=compute_length(spoken_text,countingMethod)
+            if character_name not in character_textlength_map:
+                character_textlength_map[character_name]=le
+            else:
+                character_textlength_map[character_name]=character_textlength_map[character_name]+le
+
+
+            scene_id=item['scene_id']
+            if character_name not in scene_characters_map:
+                scene_characters_map[character_name] = set()
+            scene_characters_map[character_name].add(scene_id)
+            
+            #add character to scene if not existing
+            if scene_id not in character_scene_map:
+                character_scene_map[scene_id] = set()
+            character_scene_map[scene_id].add(character_name)
+                                    
+
+    print(str(character_order_map))
 
     #character_scene_presence=sort_dict_values(character_scene_presence)
     #scene_characters_presence=sort_dict_values(scene_characters_presence)
@@ -597,13 +901,42 @@ def process_script(script_path,output_path,script_name,countingMethod):
 
     #print(character_order_map)
 #    s="Role,Lignes,Nb charactères,Répliques\n"
-    s=""
+    #recap
+
+
+
+
+    csv_file_path =output_path+script_name+"-recap.csv"
+    data = [
+    ]
     for key in character_order_map:
-        s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
-    save_string_to_file(s, output_path+script_name+"-recap.csv")
+        data.append([
+            str(character_order_map[key])+" - "+str(key),str(character_linecount_map[key]),
+            str(character_textlength_map[key]),
+            str(math.ceil(character_textlength_map[key]/40))])
+
+    with open(csv_file_path, mode='w', newline='') as file:
+        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        
+        # Write data to the CSV file
+        for row in data:
+            writer.writerow(row)
+
+
+    #s=""
+    #for key in character_order_map:
+    #    s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
+    #save_string_to_file(s, output_path+script_name+"-recap.csv")
+
     convert_csv_to_xlsx(output_path+script_name+"-recap.csv",output_path+script_name+"-recap.xlsx", script_name)
     return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 
-#process_script("scripts/examples/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt","YOUCANRUNFOREVER_SCRIPT_VOe/","YOU CAN'T RUN FOREVER_SCRIPT_VO")    
+#process_script("scripts/COMPTAGE/20012020.txt","20012020/","20012020","ALL")    
+#process_script("scripts/examples/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt","YOUCANRUNFOREVER_SCRIPT_VOe/","YOU CAN'T RUN FOREVER_SCRIPT_VO","ALL")    
 #process_script("190421-1.txt","190421-1/","190421-1.txt")
+#process_script("scripts/examples/LATENCY.docx","LATENCY/","LATENCY","ALL")    
+#process_script("scripts/examples/LATENCY.docx","LATENCY/","LATENCY","ALL")    
+#process_script("scripts/examples/Blackwater Lane.docx","Blackwater Lane/","Blackwater Lane","ALL")    
+
+print("Done.")

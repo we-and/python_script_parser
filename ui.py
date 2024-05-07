@@ -6,8 +6,9 @@ import pandas as pd
 import chardet
 import tkinter.font as tkFont
 import subprocess
+import platform
 
-
+import csv
 countingMethods=[
     "LINE_COUNT",
     "WORD_COUNT",
@@ -33,7 +34,7 @@ currentOutputFolder=""
 currentFilePath=""
 currentScriptFilename=""
 outputFolder="tmp"
-
+currentXlsxPath=""
 
 
 if not os.path.exists(outputFolder):
@@ -129,6 +130,7 @@ def reset_tables():
 def runJob(file_path,method):
     global currentFilePath
     global currentScriptFilename
+    global currentOutputFolder
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
@@ -158,7 +160,6 @@ def runJob(file_path,method):
                     
                     currentOutputFolder=outputFolder+"/"+name+"/"
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
-                    print(character_textlength_map)
                     fill_breakdown_table(breakdown)
                     fill_character_stats_table(character_order_map,breakdown)
                     fill_stats_table(breakdown)
@@ -261,11 +262,12 @@ def fill_character_stats_table(character_order_map, breakdown):
 
                 speech=item['speech']
                 character=item['character']
+                character_raw=item['character_raw']
                 
                 if character==character_name:
                     #print("    MATCH"+str(speech))
 
-                    row=(str(line_idx),character,speech)
+                    row=(str(line_idx),character,character_raw, speech)
                     for m in countingMethods:
                         #print("add"+str(m))
                         le=compute_length_by_method(speech,m)
@@ -279,7 +281,8 @@ def fill_character_stats_table(character_order_map, breakdown):
         character_stats_table.insert('','end',values=rowtotal,tags=['total'])
         
         total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
-    generate_total_csv(total_by_character_by_method,"total-recap.csv")
+    totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-total-recap.csv"
+    generate_total_csv(total_by_character_by_method,totalcsvpath)
 
 
 def save_string_to_file(text, filename):
@@ -295,6 +298,8 @@ def get_excel_column_name(column_index):
         column_name = chr(65 + remainder) + column_name
     return column_name
 def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
+    print("generate_total_xlsx "+xlsx_file_path)
+
     # Read the CSV file
     df = pd.read_csv(csv_file_path,header=None)
 
@@ -342,26 +347,49 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
 
 
 def generate_total_csv(total,csv_path):
-    print("generate_total_csv")
-    print(str(total))
+    global currentXlsxPath
+    print("Total csv path          : "+csv_path)
     #header
     s=""
-    if False:
+    showHeader=False
+    if showHeader:
         s="Role,"
         for m in countingMethods:
             s=s+str(m)+","
         s=s[0:len(s)-1]
         s=s+"\n"
 
+    data = [
+    ]
     for character in total:
-        s+=str(character)+","
+        datarow=[str(character)];
         for method in total[character]:
-            s=s+str(total[character][method])+","
-        s=s[0:len(s)-1]
-        s=s+"\n"
-    save_string_to_file(s,csv_path)
+            print(str(character)+": Add method "+method+" = "+str(total[character][method]))
+            datarow.append(str(total[character][method]))
+        data.append(datarow)
+    print("data"+str(data))
+    with open(csv_path, mode='w', newline='') as file:
+        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        
+        # Write data to the CSV file
+        for row in data:
+            print("Write "+str(row))
+            writer.writerow(row)
+
+    if False:   
+        for character in total:
+            s+=str(character)+","
+            for method in total[character]:
+                s=s+str(total[character][method])+","
+            s=s[0:len(s)-1]
+            s=s+"\n"
+        save_string_to_file(s,csv_path)
+
+
     xlsx_path=csv_path.replace(".csv",".xlsx")
+    currentXlsxPath=xlsx_path
     n=len(countingMethods)+1
+    print("Total xlsx path          : "+xlsx_path)
     convert_csv_to_xlsx2(csv_path,xlsx_path,n)
 
 def on_button_click():
@@ -428,6 +456,30 @@ file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=exit_app)
 
+def get_os():
+    if os.name == 'nt':
+        return 'Windows'
+    elif os.name == 'posix':
+        if 'darwin' in platform.system().lower():
+            return 'macOS'
+        elif 'linux' in platform.system().lower():
+            return 'Linux'
+    else:
+        return 'Unknown'
+    
+def open_xlsx_recap():
+    os_=get_os()
+    if os_=="Windows":
+        try:
+            os.startfile(currentXlsxPath)
+        except Exception as e:
+            print(f"Failed to open file: {e}")
+    else:
+        try:
+            subprocess.run(['open', currentXlsxPath], check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"Failed to open file: {e}")
+
 def set_counting_method(i):
     print("set method "+i)
     global countingMethod
@@ -481,7 +533,7 @@ def on_tab_selected(event):
 notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
 preview_tab = ttk.Frame(notebook)
-notebook.add(preview_tab, text='Preview')
+notebook.add(preview_tab, text='Original text')
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
@@ -534,7 +586,7 @@ breakdown_table.tag_configure('scene', background='#fffec8')
 bold_font = tkFont.Font( weight="bold")
 breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 breakdown_table.tag_configure('bold', font=bold_font)
-notebook.add(breakdown_tab, text='Découpage')
+notebook.add(breakdown_tab, text='Dialog')
         
 
 
@@ -558,8 +610,8 @@ def open_result_folder():
         print("Failed to open the folder in Finder.")
 
 
-scene_tab = ttk.Frame(notebook)
-notebook.add(scene_tab, text='Scenes')
+#scene_tab = ttk.Frame(notebook)
+#notebook.add(scene_tab, text='Scenes')
 
 stats_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
@@ -587,21 +639,22 @@ bold_font = tkFont.Font( weight="bold")
 stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 stats_table.tag_configure('bold', font=bold_font)
 
-notebook.add(stats_tab, text='Line Statistics')
+notebook.add(stats_tab, text='Stats by line')
 
 
 # Statistics tab
 character_stats_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
-cols=('Line #', 'Character', 'Line')
+cols=('Line #', 'Character','Character (raw)','Line')
 for i in countingMethods:
     cols= cols+(i,)
-
+print(cols)
 character_stats_table = ttk.Treeview(character_stats_tab, columns=cols, show='headings')
 # Define the column headings
 character_stats_table.heading('Line #', text='Line #')
 character_stats_table.heading('Character', text='Character')
+character_stats_table.heading('Character (raw)', text='Character (raw)')
 character_stats_table.heading('Line', text='Line')
 for i in countingMethods:
     character_stats_table.heading(i, text=i)
@@ -610,6 +663,7 @@ for i in countingMethods:
 # Define the column width and alignment
 character_stats_table.column('Line #', width=25, anchor='center')
 character_stats_table.column('Character', width=50, anchor='w')
+character_stats_table.column('Character (raw)', width=50, anchor='w')
 character_stats_table.column('Line', width=100, anchor='w')
 for i in countingMethods:
     character_stats_table.column(i, width=50, anchor='w')
@@ -628,6 +682,10 @@ stats_label.pack(side=tk.BOTTOM, fill=tk.X)
 export_tab = ttk.Frame(notebook)
 # Load folder button
 load_button = ttk.Button(export_tab, text="Open result folder...", command=open_result_folder)
+load_button.pack(side=tk.TOP, fill=tk.X)
+
+# Load folder button
+load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X)
 
 dropdown = ttk.Combobox(export_tab, values=countingMethods)

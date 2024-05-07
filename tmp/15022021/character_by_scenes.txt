@@ -1,0 +1,535 @@
+Scene 1: {'OPNAMELEIDER'}
+Scene 2: {'FEMKE'}
+Scene 3: {'STEVEN DOOD'}
+Scene 4: {'FEMKE'}
+Scene 5: {'STEVEN DOOD'}
+Scene 6: {'FEMKE'}
+Scene 7: {'UITGEVER'}
+Scene 8: {'UITGEVER'}
+Scene 9: {'FEMKE'}
+Scene 10: {'UITGEVER'}
+Scene 11: {'FEMKE'}
+Scene 12: {'UITGEVER'}
+Scene 13: {'FEMKE'}
+Scene 14: {'UITGEVER'}
+Scene 15: {'FEMKE'}
+Scene 16: {'UITGEVER'}
+Scene 17: {'FEMKE'}
+Scene 18: {'UITGEVER'}
+Scene 19: {'FEMKE'}
+Scene 20: {'UITGEVER'}
+Scene 21: {'FEMKE'}
+Scene 22: {'UITGEVER'}
+Scene 23: {'FEMKE'}
+Scene 24: {'UITGEVER'}
+Scene 25: {'FEMKE'}
+Scene 26: {'UITGEVER'}
+Scene 27: {'FEMKE'}
+Scene 28: {'UITGEVER'}
+Scene 29: {'FEMKE'}
+Scene 30: {'UITGEVER'}
+Scene 31: {'FEMKE'}
+Scene 32: {'UITGEVER'}
+Scene 33: {'FEMKE', 'ANNA'}
+Scene 34: {'ANNA'}
+Scene 35: {'FEMKE'}
+Scene 36: {'ANNA'}
+Scene 37: {'FEMKE'}
+Scene 38: {'ANNA'}
+Scene 39: {'FEMKE'}
+Scene 40: {'ANNA'}
+Scene 41: {'FEMKE'}
+Scene 42: {'ANNA'}
+Scene 43: {'FEMKE'}
+Scene 44: {'ANNA'}
+Scene 45: {'RENATE'}
+Scene 46: {'FEMKE'}
+Scene 47: {'RENATE'}
+Scene 48: {'FEMKE'}
+Scene 49: {'RENATE'}
+Scene 50: {'FEMKE'}
+Scene 51: {'RENATE'}
+Scene 52: {'FEMKE'}
+Scene 53: {'RENATE'}
+Scene 54: {'RENATE'}
+Scene 55: {'POLITIEAGENT'}
+Scene 56: {'FEMKE'}
+Scene 57: {'POLITIEAGENT'}
+Scene 58: {'FEMKE'}
+Scene 59: {'POLITIEAGENT'}
+Scene 60: {'FEMKE'}
+Scene 61: {'POLITIEAGENT'}
+Scene 62: {'FEMKE'}
+Scene 63: {'POLITIEAGENT'}
+Scene 64: {'FEMKE'}
+Scene 65: {'POLITIEAGENT'}
+Scene 66: {'POLITIEAGENT'}
+Scene 67: {'FEMKE'}
+Scene 68: {'DIRECTEUR'}
+Scene 69: {'ANNA'}
+Scene 70: {'DIRECTEUR'}
+Scene 71: {'DIRECTEUR'}
+Scene 72: {'ANNA'}
+Scene 73: {'DIRECTEUR'}
+Scene 74: {'ANNA'}
+Scene 75: {'DIRECTEUR'}
+Scene 76: {'ANNA'}
+Scene 77: {'DIRECTEUR'}
+Scene 78: {'ANNA'}
+Scene 79: {'DIRECTEUR'}
+Scene 80: {'ANNA'}
+Scene 81: {'ARJEN'}
+Scene 82: {'ARJEN'}
+Scene 83: {'FEMKE'}
+Scene 84: {'ANNA'}
+Scene 85: {'FEMKE'}
+Scene 86: {'ANNA'}
+Scene 87: {'FEMKE'}
+Scene 88: {'ANNA'}
+Scene 89: {'FEMKE'}
+Scene 90: {'ANNA'}
+Scene 91: {'ANNA'}
+Scene 92: {'FEMKE'}
+Scene 93: {'ANNA'}
+Scene 94: {'FEMKE'}
+Scene 95: {'ANNA'}
+Scene 96: {'FEMKE'}
+Scene 97: {'ANNA'}
+Scene 98: {'FEMKE'}
+Scene 99: {'ANNA'}
+Scene 100: {'FEMKE'}
+Scene 101: {'ANNA'}
+Scene 102: {'FEMKE'}
+Scene 103: {'ANNA'}
+Scene 104: {'FEMKE'}
+Scene 105: {'ANNA'}
+Scene 106: {'FEMKE'}
+Scene 107: {'ANNA'}
+Scene 108: {'FEMKE'}
+Scene 109: {'ANNA'}
+Scene 110: {'FEMKE'}
+Scene 111: {'ANNA'}
+Scene 112: {'FEMKE'}
+Scene 113: {'ANNA'}
+Scene 114: {'FEMKE'}
+Scene 115: {'ANNA'}
+Scene 116: {'FEMKE'}
+Scene 117: {'ANNA'}
+Scene 118: {'FEMKE', 'ANNA'}
+Scene 119: {'FEMKE'}
+Scene 120: {'ANNA'}
+Scene 121: {'ANNA'}
+Scene 122: {'FEMKE'}
+Scene 123: {'ANNA'}
+Scene 124: {'FEMKE'}
+Scene 125: {'ANNA'}
+Scene 126: {'FEMKE'}
+Scene 127: {'FEMKE'}
+Scene 128: {'ARJEN'}
+Scene 129: {'FEMKE'}
+Scene 130: {'ARJEN'}
+Scene 131: {'FEMKE'}
+Scene 132: {'ARJEN'}
+Scene 133: {'FEMKE'}
+Scene 134: {'ARJEN'}
+Scene 135: {'FEMKE'}
+Scene 136: {'ARJEN'}
+Scene 137: {'RENATE'}
+Scene 138: {'RENATE'}
+Scene 139: {'VANILLIA'}
+Scene 140: {'FEMKE'}
+Scene 141: {'VANILLIA'}
+Scene 142: {'FEMKE'}
+Scene 143: {'FEMKE'}
+Scene 144: {'FEMKE'}
+Scene 145: {'ARJEN'}
+Scene 146: {'ARJEN'}
+Scene 147: {'FEMKE'}
+Scene 148: {'ARJEN'}
+Scene 149: {'FEMKE'}
+Scene 150: {'ARJEN'}
+Scene 151: {'FEMKE'}
+Scene 152: {'ARJEN'}
+Scene 153: {'FEMKE'}
+Scene 154: {'ARJEN'}
+Scene 155: {'FEMKE'}
+Scene 156: {'ARJEN'}
+Scene 157: {'ARJEN'}
+Scene 158: {'FEMKE'}
+Scene 159: {'ANNA'}
+Scene 160: {'FEMKE'}
+Scene 161: {'ANNA'}
+Scene 162: {'FEMKE'}
+Scene 163: {'ANNA'}
+Scene 164: {'FEMKE'}
+Scene 165: {'ANNA'}
+Scene 166: {'LOIS'}
+Scene 167: {'ANNA'}
+Scene 168: {'FEMKE'}
+Scene 169: {'ANNA'}
+Scene 170: {'FEMKE'}
+Scene 171: {'ANNA'}
+Scene 172: {'FEMKE'}
+Scene 173: {'ANNA'}
+Scene 174: {'FEMKE'}
+Scene 175: {'ANNA'}
+Scene 176: {'FEMKE'}
+Scene 177: {'ANNA'}
+Scene 178: {'FEMKE'}
+Scene 179: {'ANNA'}
+Scene 180: {'FEMKE'}
+Scene 181: {'ANNA'}
+Scene 182: {'DIRECTEUR'}
+Scene 183: {'DIRECTEUR', 'ANNA'}
+Scene 184: {'ANNA'}
+Scene 185: {'DIRECTEUR'}
+Scene 186: {'ANNA'}
+Scene 187: {'ANNA'}
+Scene 188: {'FEMKE'}
+Scene 189: {'UITGEVER'}
+Scene 190: {'FEMKE'}
+Scene 191: {'UITGEVER'}
+Scene 192: {'UITGEVER'}
+Scene 193: {'RENATE'}
+Scene 194: {'FEMKE'}
+Scene 195: {'STEVEN DOOD'}
+Scene 196: {'FEMKE'}
+Scene 197: {'STEVEN DOOD'}
+Scene 198: {'FEMKE'}
+Scene 199: {'STEVEN DOOD'}
+Scene 200: {'FEMKE'}
+Scene 201: {'STEVEN DOOD'}
+Scene 202: {'FEMKE'}
+Scene 203: {'STEVEN DOOD'}
+Scene 204: {'FEMKE'}
+Scene 205: {'STEVEN DOOD'}
+Scene 206: {'FEMKE'}
+Scene 207: {'STEVEN DOOD'}
+Scene 208: {'FEMKE'}
+Scene 209: {'STEVEN DOOD'}
+Scene 210: {'STEVEN DOOD'}
+Scene 211: {'FEMKE'}
+Scene 212: {'STEVEN DOOD'}
+Scene 213: {'STEVEN DOOD'}
+Scene 214: {'ANNA'}
+Scene 215: {'STEVEN DOOD'}
+Scene 216: {'STEVEN DOOD'}
+Scene 217: {'FEMKE'}
+Scene 218: {'FEMKE'}
+Scene 219: {'ANNA'}
+Scene 220: {'STEVEN DOOD'}
+Scene 221: {'ANNA'}
+Scene 222: {'STEVEN DOOD'}
+Scene 223: {'ANNA'}
+Scene 224: {'STEVEN DOOD'}
+Scene 225: {'ANNA'}
+Scene 226: {'STEVEN DOOD'}
+Scene 227: {'FEMKE'}
+Scene 228: {'STEVEN DOOD'}
+Scene 229: {'FEMKE'}
+Scene 230: {'FEMKE'}
+Scene 231: {'STEVEN DOOD'}
+Scene 232: {'FEMKE'}
+Scene 233: {'DIEDERIK'}
+Scene 234: {'FEMKE'}
+Scene 235: {'DIEDERIK'}
+Scene 236: {'FEMKE'}
+Scene 237: {'DIEDERIK'}
+Scene 238: {'FEMKE'}
+Scene 239: {'DIEDERIK'}
+Scene 240: {'FEMKE'}
+Scene 241: {'DIEDERIK'}
+Scene 242: {'FEMKE'}
+Scene 243: {'DIEDERIK'}
+Scene 244: {'FEMKE'}
+Scene 245: {'DIEDERIK'}
+Scene 246: {'FEMKE'}
+Scene 247: {'DIEDERIK'}
+Scene 248: {'FEMKE'}
+Scene 249: {'DIEDERIK'}
+Scene 250: {'FEMKE'}
+Scene 251: {'DIEDERIK'}
+Scene 252: {'FEMKE'}
+Scene 253: {'DIEDERIK'}
+Scene 254: {'FEMKE'}
+Scene 255: {'DIEDERIK'}
+Scene 256: {'FEMKE'}
+Scene 257: {'DIEDERIK'}
+Scene 258: {'FEMKE'}
+Scene 259: {'DIEDERIK'}
+Scene 260: {'DIEDERIK'}
+Scene 261: {'FEMKE'}
+Scene 262: {'STEVEN DOOD'}
+Scene 263: {'FEMKE'}
+Scene 264: {'STEVEN DOOD'}
+Scene 265: {'FEMKE'}
+Scene 266: {'STEVEN DOOD'}
+Scene 267: {'FEMKE'}
+Scene 268: {'STEVEN DOOD'}
+Scene 269: {'FEMKE'}
+Scene 270: {'STEVEN DOOD'}
+Scene 271: {'FEMKE'}
+Scene 272: {'STEVEN DOOD'}
+Scene 273: {'FEMKE'}
+Scene 274: {'FEMKE'}
+Scene 275: {'FEMKE'}
+Scene 276: {'STEVEN DOOD'}
+Scene 277: {'FEMKE'}
+Scene 278: {'STEVEN DOOD'}
+Scene 279: {'FEMKE'}
+Scene 280: {'STEVEN DOOD'}
+Scene 281: {'FEMKE'}
+Scene 282: {'STEVEN DOOD'}
+Scene 283: {'FEMKE'}
+Scene 284: {'STEVEN DOOD'}
+Scene 285: {'FEMKE'}
+Scene 286: {'STEVEN DOOD'}
+Scene 287: {'FEMKE'}
+Scene 288: {'NIEUWSLEZER 1'}
+Scene 289: {'NIEUWSLEZER 2'}
+Scene 290: {'NIEUWSLEZER 1'}
+Scene 291: {'STEVEN DOOD'}
+Scene 292: {'JEROEN'}
+Scene 293: {'JEROEN'}
+Scene 294: {'FEMKE'}
+Scene 295: {'JEROEN'}
+Scene 296: {'FEMKE'}
+Scene 297: {'JEROEN'}
+Scene 298: {'FEMKE'}
+Scene 299: {'JEROEN'}
+Scene 300: {'FEMKE'}
+Scene 301: {'JEROEN'}
+Scene 302: {'FEMKE'}
+Scene 303: {'JEROEN'}
+Scene 304: {'FEMKE'}
+Scene 305: {'JEROEN'}
+Scene 306: {'FEMKE'}
+Scene 307: {'JEROEN'}
+Scene 308: {'FEMKE'}
+Scene 309: {'JEROEN'}
+Scene 310: {'FEMKE'}
+Scene 311: {'STEVEN DOOD'}
+Scene 312: {'FEMKE'}
+Scene 313: {'STEVEN DOOD'}
+Scene 314: {'FEMKE'}
+Scene 315: {'STEVEN DOOD'}
+Scene 316: {'FEMKE'}
+Scene 317: {'STEVEN DOOD'}
+Scene 318: {'STEVEN DOOD'}
+Scene 319: {'FEMKE'}
+Scene 320: {'STEVEN DOOD'}
+Scene 321: {'STEVEN DOOD'}
+Scene 322: {'FEMKE'}
+Scene 323: {'STEVEN DOOD'}
+Scene 324: {'STEVEN DOOD'}
+Scene 325: {'UITGEVER'}
+Scene 326: {'UITGEVER'}
+Scene 327: {'FEMKE'}
+Scene 328: {'UITGEVER'}
+Scene 329: {'FEMKE'}
+Scene 330: {'UITGEVER'}
+Scene 331: {'FEMKE'}
+Scene 332: {'FEMKE', 'UITGEVER'}
+Scene 333: {'UITGEVER'}
+Scene 334: {'FEMKE'}
+Scene 335: {'UITGEVER'}
+Scene 336: {'FEMKE'}
+Scene 337: {'UITGEVER'}
+Scene 338: {'UITGEVER'}
+Scene 339: {'FEMKE'}
+Scene 340: {'ANNA'}
+Scene 341: {'FEMKE'}
+Scene 342: {'ANNA'}
+Scene 343: {'FEMKE'}
+Scene 344: {'ANNA'}
+Scene 345: {'FEMKE'}
+Scene 346: {'ANNA'}
+Scene 347: {'FEMKE'}
+Scene 348: {'ANNA'}
+Scene 349: {'FEMKE'}
+Scene 350: {'FEMKE'}
+Scene 351: {'ANNA'}
+Scene 352: {'FEMKE'}
+Scene 353: {'ANNA'}
+Scene 354: {'FEMKE'}
+Scene 355: {'ANNA'}
+Scene 356: {'FEMKE'}
+Scene 357: {'ANNA'}
+Scene 358: {'FEMKE'}
+Scene 359: {'ANNA'}
+Scene 360: {'FEMKE'}
+Scene 361: {'ANNA'}
+Scene 362: {'FEMKE'}
+Scene 363: {'FEMKE'}
+Scene 364: {'ANNA'}
+Scene 365: {'FEMKE'}
+Scene 366: {'RECHERCHEUR'}
+Scene 367: {'RECHERCHEUR'}
+Scene 368: {'FEMKE'}
+Scene 369: {'POLITIEAGENT'}
+Scene 370: {'FEMKE'}
+Scene 371: {'FEMKE'}
+Scene 372: {'RECHERCHEUR'}
+Scene 373: {'POLITIEAGENT'}
+Scene 374: {'RECHERCHEUR'}
+Scene 375: {'FEMKE'}
+Scene 376: {'FEMKE', 'RECHERCHEUR'}
+Scene 377: {'RECHERCHEUR'}
+Scene 378: {'FEMKKE'}
+Scene 379: {'RECHERCHEUR'}
+Scene 380: {'FEMKE'}
+Scene 381: {'RECHERCHEUR'}
+Scene 382: {'FEMKE'}
+Scene 383: {'RECHERCHEUR'}
+Scene 384: {'FEMKE'}
+Scene 385: {'RECHERCHEUR'}
+Scene 386: {'FEMKE'}
+Scene 387: {'POLITIEAGENT'}
+Scene 388: {'FEMKE'}
+Scene 389: {'POLITIEAGENT'}
+Scene 390: {'FEMKE'}
+Scene 391: {'RECHERCHEUR'}
+Scene 392: {'FEMKE'}
+Scene 393: {'POLITIEAGENT'}
+Scene 394: {'FEMKE'}
+Scene 395: {'RECHERCHEUR'}
+Scene 396: {'FEMKE'}
+Scene 397: {'RECHERCHEUR'}
+Scene 398: {'STEVEN DOOD'}
+Scene 399: {'FEMKE'}
+Scene 400: {'STEVEN DOOD'}
+Scene 401: {'FEMKE'}
+Scene 402: {'ANNA'}
+Scene 403: {'FEMKE'}
+Scene 404: {'ANNAVertrouw'}
+Scene 405: {'FEMKE'}
+Scene 406: {'ANNA'}
+Scene 407: {'FEMKE'}
+Scene 408: {'FEMKE'}
+Scene 409: {'ANNA'}
+Scene 410: {'FEMKE'}
+Scene 411: {'FEMKE'}
+Scene 412: {'NIEUWSLEZER 2'}
+Scene 413: {'NIEUWSLEZER 1'}
+Scene 414: {'NIEUWSLEZER 2'}
+Scene 415: {'ANNA'}
+Scene 416: {'ANNA'}
+Scene 417: {'FEMKE'}
+Scene 418: {'ANNA'}
+Scene 419: {'FEMKE'}
+Scene 420: {'STEVEN DOOD'}
+Scene 421: {'FEMKE'}
+Scene 422: {'STEVEN DOOD'}
+Scene 423: {'FEMKE'}
+Scene 424: {'STEVEN DOOD'}
+Scene 425: {'FEMKE'}
+Scene 426: {'STEVEN DOOD'}
+Scene 427: {'STEVEN DOOD'}
+Scene 428: {'FEMKE'}
+Scene 429: {'STEVEN DOOD'}
+Scene 430: {'FEMKE'}
+Scene 431: {'FEMKE'}
+Scene 432: {'FEMKE'}
+Scene 433: {'FEMKE'}
+Scene 434: {'FEMKE'}
+Scene 435: {'FEMKE'}
+Scene 436: {'ANNA'}
+Scene 437: {'LOIS'}
+Scene 438: {'FEMKE'}
+Scene 439: {'AREND'}
+Scene 440: {'JEANNE'}
+Scene 441: {'AREND'}
+Scene 442: {'AREND'}
+Scene 443: {'AREND'}
+Scene 444: {'AREND'}
+Scene 445: {'MEDEWERKER'}
+Scene 446: {'FEMKE'}
+Scene 447: {'STEVEN DOOD'}
+Scene 448: {'ANNA'}
+Scene 449: {'STEVEN DOOD'}
+Scene 450: {'ANNA'}
+Scene 451: {'STEVEN DOOD'}
+Scene 452: {'ANNA'}
+Scene 453: {'STEVEN DOOD'}
+Scene 454: {'ANNA'}
+Scene 455: {'STEVEN DOOD'}
+Scene 456: {'ANNA'}
+Scene 457: {'ANNA'}
+Scene 458: {'ANNA'}
+Scene 459: {'ANNA'}
+Scene 460: {'ANNA'}
+Scene 461: {'ANNA'}
+Scene 462: {'ANNA'}
+Scene 463: {'FEMKE'}
+Scene 464: {'ANNA'}
+Scene 465: {'ANNA'}
+Scene 466: {'FEMKE'}
+Scene 467: {'ANNA'}
+Scene 468: {'VOICEMAIL'}
+Scene 469: {'FEMKE'}
+Scene 470: {'VOICEMAIL'}
+Scene 471: {'FEMKE', 'VOICEMAIL'}
+Scene 472: {'FEMKE'}
+Scene 473: {'STEVEN DOOD'}
+Scene 474: {'FEMKE'}
+Scene 475: {'STEVEN DOOD'}
+Scene 476: {'FEMKE'}
+Scene 477: {'STEVEN DOOD'}
+Scene 478: {'STEVEN DOOD'}
+Scene 479: {'FEMKE'}
+Scene 480: {'STEVEN DOOD'}
+Scene 481: {'STEVEN DOOD'}
+Scene 482: {'STEVEN DOOD'}
+Scene 483: {'FEMKE'}
+Scene 484: {'FEMKE'}
+Scene 485: {'ANNA'}
+Scene 486: {'FEMKE'}
+Scene 487: {'ANNA'}
+Scene 488: {'STEVEN DOOD'}
+Scene 489: {'ANNA'}
+Scene 490: {'STEVEN DOOD'}
+Scene 491: {'ANNA'}
+Scene 492: {'STEVEN DOOD'}
+Scene 493: {'ANNA'}
+Scene 494: {'STEVEN DOOD'}
+Scene 495: {'STEVEN DOOD'}
+Scene 496: {'ANNA'}
+Scene 497: {'STEVEN DOOD'}
+Scene 498: {'ANNA'}
+Scene 499: {'STEVEN DOOD'}
+Scene 500: {'ANNA'}
+Scene 501: {'FEMKE'}
+Scene 502: {'VADER TARIK'}
+Scene 503: {'TARIK'}
+Scene 504: {'FEMKE'}
+Scene 505: {'TARIK'}
+Scene 506: {'FEMKE'}
+Scene 507: {'TARIK'}
+Scene 508: {'TARIK'}
+Scene 509: {'FEMKE'}
+Scene 510: {'TARIK'}
+Scene 511: {'FEMKE'}
+Scene 512: {'TARIK'}
+Scene 513: {'FEMKE'}
+Scene 514: {'TARIK'}
+Scene 515: {'FEMKE'}
+Scene 516: {'TARIK'}
+Scene 517: {'FEMKE'}
+Scene 518: {'TARIK'}
+Scene 519: {'FEMKE'}
+Scene 520: {'TARIK'}
+Scene 521: {'FEMKE'}
+Scene 522: {'FEMKE'}
+Scene 523: {'STEVEN DOOD'}
+Scene 524: {'STEVEN DOOD'}
+Scene 525: {'FEMKE'}
+Scene 526: {'STEVEN DOOD'}
+Scene 527: {'FEMKE'}
+Scene 528: {'STEVEN DOOD'}
+Scene 529: {'FEMKE'}
+Scene 530: {'STEVEN DOOD'}
+Scene 531: {'FEMKE'}
+Scene 532: {'STEVEN DOOD'}
+Scene 533: {'FEMKE'}
+Scene 534: {'STEVEN DOOD'}
+Scene 535: {'FEMKE'}

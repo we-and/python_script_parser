@@ -1,0 +1,63 @@
+Skull Tattoo: 15
+LIM Chun-ho: 19
+PARK Woong-chul: 223
+Prison Officer: 1
+Prison Governer 1: 2
+Prisoner 2: 1
+Prisoner 3: 1
+Prisoner 4: 1
+KO Yoo-sung: 96
+Prison Governer 2: 7
+NAM Myung-suk: 8
+OH Gu-tak: 113
+YOO Mi-young's: 1
+YOO Mi-young: 16
+Bus Driver: 2
+Prison Of Bus Conv1: 2
+Driver 1: 1
+Driver 2: 1
+Female Cop: 5
+KWAK No-soon: 153
+Senior Cop: 11
+KIM Chang-min: 20
+Pickpocket: 1
+Thug 1: 1
+Thug 2: 4
+CHO Dong-chul: 48
+UHM Jung-han: 63
+Gangs: 2
+NAM Young-kyu: 13
+YOON Chul-joo: 37
+Restaurant owner: 1
+YOON's Underling: 10
+Politician 1 (Hiker 1): 4
+Politician 2 (Hiker 2): 1
+Politician 3 (Hiker 3): 1
+Hiker 4: 1
+Hiker 5: 1
+CHOI Sun-mi: 10
+TEXT: 1
+Pub Lady: 1
+Thug 3: 1
+CHO's crew 1: 2
+CHO's crew: 1
+CHO's crew 2: 1
+PARK Sung-tae: 24
+Constable: 5
+Superintendent: 2
+NOH Sang-sik: 40
+Panel 1: 2
+Panel 2: 1
+Panel 2|TEXT: 1
+HAN Mi-jung: 11
+Café Lady 1: 1
+Café Customer 1: 2
+Café Customer 2: 1
+Nurse: 1
+SWAT Team Leader: 1
+Yoshihara: 22
+Yoshihara's H: 2
+Guard Post Gang1: 2
+Guard Post Gang2: 1
+Warehouse Gang: 4
+CHO's crews: 1

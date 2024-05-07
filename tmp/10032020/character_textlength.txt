@@ -1,0 +1,40 @@
+Jon: 46
+Ole: 228
+Eric: 2955
+Gøril: 37
+Stian: 19
+Christine: 4679
+Psychologist: 246
+Margrethe: 168
+Henrik: 2707
+Politikvinne: 168
+Bjørn: 151
+Terese: 83
+Politmann: 98
+Reporter: 1418
+Agent: 91
+Hathaway: 1293
+Medic: 201
+Kai: 63
+Pilot: 141
+PIlot: 92
+Diver: 79
+Henrik (TV): 421
+Margethe: 324
+Henrik (tlf): 21
+Announcer: 103
+Pjotr: 86
+Officer: 703
+Police: 198
+Radio host: 95
+Man on radio: 72
+Boy on radio: 35
+Doctor: 123
+Nurse: 204
+Far: 7
+Fan: 41
+Sierra 2: 86
+Digger: 86
+Bystander: 27
+NA1: 137
+NA2: 109

@@ -1,0 +1,40 @@
+Jon: {''}
+Ole: {''}
+Eric: {''}
+Gøril: {''}
+Stian: {''}
+Christine: {''}
+Psychologist: {''}
+Margrethe: {''}
+Henrik: {''}
+Politikvinne: {''}
+Bjørn: {''}
+Terese: {''}
+Politmann: {''}
+Reporter: {''}
+Agent: {''}
+Hathaway: {''}
+Medic: {''}
+Kai: {''}
+Pilot: {''}
+PIlot: {''}
+Diver: {''}
+Henrik (TV): {''}
+Margethe: {''}
+Henrik (tlf): {''}
+Announcer: {''}
+Pjotr: {''}
+Officer: {''}
+Police: {''}
+Radio host: {''}
+Man on radio: {''}
+Boy on radio: {''}
+Doctor: {''}
+Nurse: {''}
+Far: {''}
+Fan: {''}
+Sierra 2: {''}
+Digger: {''}
+Bystander: {''}
+NA1: {''}
+NA2: {''}

@@ -1,0 +1,553 @@
+Scene 1: {'MARTIN'}
+Scene 2: {'MARTIN'}
+Scene 3: {'MARTIN'}
+Scene 4: {'MARTIN'}
+Scene 5: {'MARTIN'}
+Scene 6: {'MARTIN'}
+Scene 7: {'MARTIN'}
+Scene 8: {'MARTIN'}
+Scene 9: {'MARTIN'}
+Scene 10: {'MARTIN'}
+Scene 11: {'OLGA'}
+Scene 12: {'MARTIN'}
+Scene 13: {'OLGA'}
+Scene 14: {'MARTIN'}
+Scene 15: {'RUSSIAN #2'}
+Scene 16: {'MARTIN'}
+Scene 17: {'RUSSIAN #2'}
+Scene 18: {'MARTIN'}
+Scene 19: {'RUSSIAN #2'}
+Scene 20: {'MARTIN'}
+Scene 21: {'MARTIN'}
+Scene 22: {'RUSSIAN #2'}
+Scene 23: {'MARTIN'}
+Scene 24: {'RUSSIAN #2'}
+Scene 25: {'RUSSIAN #2'}
+Scene 26: {'LISA'}
+Scene 27: {'MARTIN'}
+Scene 28: {'MARTIN'}
+Scene 29: {'LISA'}
+Scene 30: {'MARTIN'}
+Scene 31: {'LISA'}
+Scene 32: {'LISA'}
+Scene 33: {'MARTIN'}
+Scene 34: {'LISA'}
+Scene 35: {'LISA'}
+Scene 36: {'MARTIN'}
+Scene 37: {'LISA'}
+Scene 38: {'MARTIN'}
+Scene 39: {'LISA'}
+Scene 40: {'MARTIN'}
+Scene 41: {'MARTIN'}
+Scene 42: {'LISA'}
+Scene 43: {'MAXIM'}
+Scene 44: {'LISA'}
+Scene 45: {'LISA'}
+Scene 46: {'MAXIM'}
+Scene 47: {'LISA'}
+Scene 48: {'MAXIM'}
+Scene 49: {'LISA'}
+Scene 50: {'LISA'}
+Scene 51: {'LISA'}
+Scene 52: {'LISA'}
+Scene 53: {'LISA'}
+Scene 54: {'REFEREE'}
+Scene 55: {'MARTIN'}
+Scene 56: {'LISA'}
+Scene 57: {'LISA'}
+Scene 58: {'LISA'}
+Scene 59: {'LISA'}
+Scene 60: {'MAXIM'}
+Scene 61: {'MARTIN'}
+Scene 62: {'MARTIN'}
+Scene 63: {'LISA'}
+Scene 64: {'MARTIN'}
+Scene 65: {'LISA', 'MARTIN'}
+Scene 66: {'SUZANNE'}
+Scene 67: {'SUZANNE'}
+Scene 68: {'MARTIN'}
+Scene 69: {'SUZANNE'}
+Scene 70: {'MARTIN'}
+Scene 71: {'SUZANNE'}
+Scene 72: {'MARTIN'}
+Scene 73: {'MARTIN'}
+Scene 74: {'LISA'}
+Scene 75: {'MARTIN'}
+Scene 76: {'LISA'}
+Scene 77: {'LISA'}
+Scene 78: {'MARTIN'}
+Scene 79: {'LISA'}
+Scene 80: {'MARTIN'}
+Scene 81: {'MARTIN'}
+Scene 82: {'LISA'}
+Scene 83: {'MARTIN'}
+Scene 84: {'MARTIN'}
+Scene 85: {'LISA', 'MARTIN'}
+Scene 86: {'LISA'}
+Scene 87: {'MARTIN'}
+Scene 88: {'MARTIN'}
+Scene 89: {'MARTIN'}
+Scene 90: {'MARTIN'}
+Scene 91: {'LISA'}
+Scene 92: {'LISA', 'MARTIN'}
+Scene 93: {'US ANNOUNCER'}
+Scene 94: {'MARK RAMLEY'}
+Scene 95: {'MARTIN'}
+Scene 96: {'LISA', 'MARTIN'}
+Scene 97: {'BOUNCER'}
+Scene 98: {'MARTIN'}
+Scene 99: {'BOUNCER'}
+Scene 100: {'MARTIN'}
+Scene 101: {'MARTIN', 'SASHA'}
+Scene 102: {'SASHA'}
+Scene 103: {'MARTIN'}
+Scene 104: {'MARTIN'}
+Scene 105: {'SASHA'}
+Scene 106: {'MARTIN'}
+Scene 107: {'MARTIN'}
+Scene 108: {'MARTIN'}
+Scene 109: {'SASHA'}
+Scene 110: {'MARTIN'}
+Scene 111: {'MARTIN', 'SASHA'}
+Scene 112: {'SASHA'}
+Scene 113: {'MARTIN'}
+Scene 114: {'SASHA'}
+Scene 115: {'MARTIN'}
+Scene 116: {'SASHA'}
+Scene 117: {'MARTIN'}
+Scene 118: {'MARTIN'}
+Scene 119: {'MARTIN'}
+Scene 120: {'TREVOR'}
+Scene 121: {'TREVOR'}
+Scene 122: {'MARTIN'}
+Scene 123: {'TRAVOR'}
+Scene 124: {'MARTIN'}
+Scene 125: {'EDWARDS'}
+Scene 126: {'EDWARDS'}
+Scene 127: {'MARTIN'}
+Scene 128: {'TREVOR'}
+Scene 129: {'MARTIN'}
+Scene 130: {'MARTIN'}
+Scene 131: {'TREVOR'}
+Scene 132: {'TREVOR'}
+Scene 133: {'MARTIN'}
+Scene 134: {'TREVOR'}
+Scene 135: {'TREVOR'}
+Scene 136: {'MARTIN'}
+Scene 137: {'MARTIN'}
+Scene 138: {'MARTIN', 'TREVOR'}
+Scene 139: {'EDWARDS'}
+Scene 140: {'MARTIN'}
+Scene 141: {'EDWARDS'}
+Scene 142: {'MARTIN'}
+Scene 143: {'EDWARDS'}
+Scene 144: {'EDWARDS'}
+Scene 145: {'TREVOR'}
+Scene 146: {'TREVOR'}
+Scene 147: {'LISA'}
+Scene 148: {'MARTIN'}
+Scene 149: {'MARTIN'}
+Scene 150: {'TREVOR'}
+Scene 151: {'TREVOR'}
+Scene 152: {'LISA'}
+Scene 153: {'MARTIN'}
+Scene 154: {'LISA'}
+Scene 155: {'TREVOR'}
+Scene 156: {'LISA'}
+Scene 157: {'TREVOR'}
+Scene 158: {'EDWARDS'}
+Scene 159: {'LISA', 'TREVOR'}
+Scene 160: {'TREVOR'}
+Scene 161: {'MARTIN'}
+Scene 162: {'LISA'}
+Scene 163: {'TREVOR'}
+Scene 164: {'LISA'}
+Scene 165: {'MARTIN'}
+Scene 166: {'MARTIN'}
+Scene 167: {'TREVOR'}
+Scene 168: {'MARTIN'}
+Scene 169: {'TREVOR'}
+Scene 170: {'MARTIN'}
+Scene 171: {'LISA'}
+Scene 172: {'MARTIN'}
+Scene 173: {'LISA'}
+Scene 174: {'MARTIN'}
+Scene 175: {'LISA'}
+Scene 176: {'LISA', 'MARTIN'}
+Scene 177: {'OLGA'}
+Scene 178: {'MARTIN'}
+Scene 179: {'OLGA'}
+Scene 180: {'US ANNOUNCER'}
+Scene 181: {'US PRESIDENT'}
+Scene 182: {'MARTIN'}
+Scene 183: {'US PRESIDENT'}
+Scene 184: {'LISA'}
+Scene 185: {'MARTIN'}
+Scene 186: {'LISA'}
+Scene 187: {'MARTIN'}
+Scene 188: {'LISA', 'MARTIN'}
+Scene 189: {'TATYANA'}
+Scene 190: {'MARTIN'}
+Scene 191: {'TATYANA'}
+Scene 192: {'MARTIN'}
+Scene 193: {'TATYANA'}
+Scene 194: {'MARTIN'}
+Scene 195: {'MARTIN'}
+Scene 196: {'MARTIN'}
+Scene 197: {'MARTIN'}
+Scene 198: {'TATYANA'}
+Scene 199: {'MARTIN'}
+Scene 200: {'MARTIN'}
+Scene 201: {'TATYANA'}
+Scene 202: {'MARTIN'}
+Scene 203: {'FSB GENERAL'}
+Scene 204: {'TATYANA'}
+Scene 205: {'Olga (V.O.)'}
+Scene 206: {'TATYANA'}
+Scene 207: {'LISA'}
+Scene 208: {'TATYANA'}
+Scene 209: {'ADR'}
+Scene 210: {'EDWARDS'}
+Scene 211: {'TREVOR'}
+Scene 212: {'MARTIN'}
+Scene 213: {'BARMAN'}
+Scene 214: {'MARTIN'}
+Scene 215: {'BARMAN'}
+Scene 216: {'MARTIN'}
+Scene 217: {'MAXIM'}
+Scene 218: {'MAXIM'}
+Scene 219: {'MAXIM'}
+Scene 220: {'MAXIM'}
+Scene 221: {'MARTIN'}
+Scene 222: {'MAXIM'}
+Scene 223: {'MAXIM'}
+Scene 224: {'MARTIN'}
+Scene 225: {'MAXIM'}
+Scene 226: {'MARTIN'}
+Scene 227: {'MARTIN'}
+Scene 228: {'MAXIM'}
+Scene 229: {'MARTIN'}
+Scene 230: {'MARTIN'}
+Scene 231: {'MAXIM'}
+Scene 232: {'MARTIN'}
+Scene 233: {'MAXIM'}
+Scene 234: {'MARTIN'}
+Scene 235: {'MAXIM'}
+Scene 236: {'MARTIN'}
+Scene 237: {'MARTIN'}
+Scene 238: {'MAXIM'}
+Scene 239: {'MARTIN'}
+Scene 240: {'MAXIM'}
+Scene 241: {'MARTIN'}
+Scene 242: {'MARTIN'}
+Scene 243: {'MARTIN'}
+Scene 244: {'LISA'}
+Scene 245: {'TATYANA'}
+Scene 246: {'LISA'}
+Scene 247: {'LISA'}
+Scene 248: {'TATYANA'}
+Scene 249: {'MARTIN'}
+Scene 250: {'MARTIN'}
+Scene 251: {'SASHA'}
+Scene 252: {'MARTIN'}
+Scene 253: {'SASHA'}
+Scene 254: {'MARTIN'}
+Scene 255: {'SASHA'}
+Scene 256: {'MARTIN'}
+Scene 257: {'SASHA'}
+Scene 258: {'MARTIN'}
+Scene 259: {'SASHA'}
+Scene 260: {'MARTIN'}
+Scene 261: {'SASHA'}
+Scene 262: {'MARTIN'}
+Scene 263: {'SASHA'}
+Scene 264: {'BURNS'}
+Scene 265: {'MARTIN', 'CIA IT TECH'}
+Scene 266: {'MARTIN'}
+Scene 267: {'CIA IT TECH'}
+Scene 268: {'MARTIN'}
+Scene 269: {'MARTIN'}
+Scene 270: {'SASHA'}
+Scene 271: {'CIA IT TECH'}
+Scene 272: {'MARTIN'}
+Scene 273: {'MARTIN', 'CIA IT TECH'}
+Scene 274: {'CIA IT TECH'}
+Scene 275: {'MARTIN'}
+Scene 276: {'CIA IT TECH'}
+Scene 277: {'MARTIN'}
+Scene 278: {'TREVOR'}
+Scene 279: {'BURNS'}
+Scene 280: {'TREVOR'}
+Scene 281: {'TREVOR'}
+Scene 282: {'SASHA'}
+Scene 283: {'MARTIN'}
+Scene 284: {'FSB GENERAL'}
+Scene 285: {'TATYANA'}
+Scene 286: {'SASHA'}
+Scene 287: {'MARTIN'}
+Scene 288: {'SASHA'}
+Scene 289: {'MARTIN'}
+Scene 290: {'SASHA'}
+Scene 291: {'MARTIN'}
+Scene 292: {'TREVOR'}
+Scene 293: {'SASHA'}
+Scene 294: {'SASHA'}
+Scene 295: {'TREVOR', 'SASHA'}
+Scene 296: {'SASHA'}
+Scene 297: {'MARTIN'}
+Scene 298: {'SASHA'}
+Scene 299: {'TREVOR'}
+Scene 300: {'SASHA'}
+Scene 301: {'SASHA'}
+Scene 302: {'TREVOR'}
+Scene 303: {'SASHA'}
+Scene 304: {'TREVOR'}
+Scene 305: {'SASHA'}
+Scene 306: {'MARTIN'}
+Scene 307: {'SASHA'}
+Scene 308: {'TREVOR'}
+Scene 309: {'MARTIN'}
+Scene 310: {'TREVOR'}
+Scene 311: {'SASHA'}
+Scene 312: {'MARTIN'}
+Scene 313: {'CIA IT TECH', 'SASHA'}
+Scene 314: {'MARTIN'}
+Scene 315: {'TREVOR'}
+Scene 316: {'CIA IT TECH'}
+Scene 317: {'TREVOR'}
+Scene 318: {'MARTIN'}
+Scene 319: {'SASHA'}
+Scene 320: {'TREVOR'}
+Scene 321: {'CIA IT TECH'}
+Scene 322: {'MARTIN'}
+Scene 323: {'TREVOR'}
+Scene 324: {'TREVOR'}
+Scene 325: {'SASHA'}
+Scene 326: {'MARTIN'}
+Scene 327: {'SASHA'}
+Scene 328: {'MARTIN'}
+Scene 329: {'TREVOR'}
+Scene 330: {'BURNS'}
+Scene 331: {'MARTIN'}
+Scene 332: {'CIA IT TECH'}
+Scene 333: {'TREVOR'}
+Scene 334: {'TREVOR', 'CIA IT TECH'}
+Scene 335: {'LISA'}
+Scene 336: {'US PRESIDENT'}
+Scene 337: {'TATYANA'}
+Scene 338: {'MARTIN'}
+Scene 339: {'TATYANA'}
+Scene 340: {'TATYANA', 'MARTIN'}
+Scene 341: {'MARTIN'}
+Scene 342: {'TATYANA'}
+Scene 343: {'LISA'}
+Scene 344: {'MARTIN'}
+Scene 345: {'LISA'}
+Scene 346: {'TATYANA'}
+Scene 347: {'LISA'}
+Scene 348: {'TATYANA'}
+Scene 349: {'LISA'}
+Scene 350: {'TATYANA'}
+Scene 351: {'LISA'}
+Scene 352: {'TATYANA'}
+Scene 353: {'LISA'}
+Scene 354: {'TATYANA'}
+Scene 355: {'BURNS'}
+Scene 356: {'TREVOR'}
+Scene 357: {'SVITANOK DESK #1'}
+Scene 358: {'SASHA'}
+Scene 359: {'ZELENKO'}
+Scene 360: {'MARTIN'}
+Scene 361: {'SASHA'}
+Scene 362: {'RUSSIAN AMBA'}
+Scene 363: {'SASHA'}
+Scene 364: {'RUSSIAN AMBA'}
+Scene 365: {'MARTIN'}
+Scene 366: {'MARTIN'}
+Scene 367: {'SASHA'}
+Scene 368: {'MARTIN', 'SASHA'}
+Scene 369: {'MARTIN'}
+Scene 370: {'SASHA'}
+Scene 371: {'OLGA'}
+Scene 372: {'TATYANA'}
+Scene 373: {'LISA'}
+Scene 374: {'TATYANA'}
+Scene 375: {'LISA'}
+Scene 376: {'TATYANA'}
+Scene 377: {'LISA'}
+Scene 378: {'TATYANA'}
+Scene 379: {'TATYANA'}
+Scene 380: {'LISA'}
+Scene 381: {'TATYANA'}
+Scene 382: {'LISA'}
+Scene 383: {'LISA'}
+Scene 384: {'TATYANA'}
+Scene 385: {'MARTIN'}
+Scene 386: {'MARTIN'}
+Scene 387: {'BANK EMPLOYEE'}
+Scene 388: {'SASHA'}
+Scene 389: {'BANK EMPLOYEE'}
+Scene 390: {'BANK EMPLOYEE'}
+Scene 391: {'BANK MANAGER'}
+Scene 392: {'SASHA'}
+Scene 393: {'BANK MANAGER'}
+Scene 394: {'SASHA'}
+Scene 395: {'MARTIN'}
+Scene 396: {'ZELENKO'}
+Scene 397: {'BANK MANAGER'}
+Scene 398: {'ZELENKO'}
+Scene 399: {'BANK MANAGER'}
+Scene 400: {'SECURITY OFFICER'}
+Scene 401: {'TREVOR'}
+Scene 402: {'BANK MANAGER'}
+Scene 403: {'TREVOR'}
+Scene 404: {'BANK MANAGER'}
+Scene 405: {'TREVOR'}
+Scene 406: {'ZELENKO'}
+Scene 407: {'MARTIN'}
+Scene 408: {'TREVOR'}
+Scene 409: {'MARTIN'}
+Scene 410: {'SASHA'}
+Scene 411: {'MARTIN'}
+Scene 412: {'MARTIN'}
+Scene 413: {'TREVOR'}
+Scene 414: {'MARTIN'}
+Scene 415: {'TREVOR'}
+Scene 416: {'MARTIN'}
+Scene 417: {'TREVOR'}
+Scene 418: {'MARTIN'}
+Scene 419: {'TREVOR'}
+Scene 420: {'MARTIN'}
+Scene 421: {'TREVOR'}
+Scene 422: {'MARTIN'}
+Scene 423: {'TREVOR'}
+Scene 424: {'SASHA'}
+Scene 425: {'MARTIN'}
+Scene 426: {'SASHA'}
+Scene 427: {'MARTIN'}
+Scene 428: {'SASHA'}
+Scene 429: {'MARTIN'}
+Scene 430: {'SASHA'}
+Scene 431: {'MARTIN'}
+Scene 432: {'SASHA'}
+Scene 433: {'MARTIN'}
+Scene 434: {'SASHA'}
+Scene 435: {'MARTIN'}
+Scene 436: {'SASHA'}
+Scene 437: {'OLGA'}
+Scene 438: {'MARTIN'}
+Scene 439: {'TATYANA'}
+Scene 440: {'MARTIN'}
+Scene 441: {'TATYANA'}
+Scene 442: {'MARTIN'}
+Scene 443: {'TATYANA'}
+Scene 444: {'LISA'}
+Scene 445: {'MARTIN'}
+Scene 446: {'LISA'}
+Scene 447: {'MARTIN'}
+Scene 448: {'LISA'}
+Scene 449: {'TATYANA'}
+Scene 450: {'TREVOR'}
+Scene 451: {'MARTIN'}
+Scene 452: {'TREVOR'}
+Scene 453: {'MARTIN'}
+Scene 454: {'TREVOR'}
+Scene 455: {'SECURITY OFFICER'}
+Scene 456: {'SECURITY OFFICER', 'MARTIN'}
+Scene 457: {'SVITANOK CLERK #2'}
+Scene 458: {'MARTIN'}
+Scene 459: {'SVITANOK CLERK #2'}
+Scene 460: {'SECURITY OFFICER'}
+Scene 461: {'MARTIN'}
+Scene 462: {'SVITANOK CLERK #2'}
+Scene 463: {'MARTIN'}
+Scene 464: {'SVITANOK CLERK #2'}
+Scene 465: {'MARTIN'}
+Scene 466: {'OLGA'}
+Scene 467: {'MARTIN'}
+Scene 468: {'OLGA'}
+Scene 469: {'MARTIN'}
+Scene 470: {'MARTIN'}
+Scene 471: {'TATYANA'}
+Scene 472: {'MARTIN'}
+Scene 473: {'MARTIN'}
+Scene 474: {'TATYANA'}
+Scene 475: {'LISA'}
+Scene 476: {'TATYANA'}
+Scene 477: {'LISA'}
+Scene 478: {'TATYANA'}
+Scene 479: {'MARTIN'}
+Scene 480: {'FSB OPERATIVE #3'}
+Scene 481: {'MARTIN'}
+Scene 482: {'TATYANA'}
+Scene 483: {'MARTIN'}
+Scene 484: {'MARTIN'}
+Scene 485: {'FSB OPERATIVE #4'}
+Scene 486: {'TATYANA'}
+Scene 487: {'FSB OPERATIVE #4'}
+Scene 488: {'MARTIN'}
+Scene 489: {'TATYANA'}
+Scene 490: {'MARTIN'}
+Scene 491: {'SASHA'}
+Scene 492: {'TATYANA'}
+Scene 493: {'MARTIN'}
+Scene 494: {'LISA'}
+Scene 495: {'MARTIN'}
+Scene 496: {'LISA'}
+Scene 497: {'MARTIN'}
+Scene 498: {'TATYANA'}
+Scene 499: {'SASHA'}
+Scene 500: {'LISA'}
+Scene 501: {'LISA'}
+Scene 502: {'TATYANA'}
+Scene 503: {'TATYANA'}
+Scene 504: {'SASHA'}
+Scene 505: {'TREVOR'}
+Scene 506: {'OLGA'}
+Scene 507: {'LISA'}
+Scene 508: {'LISA'}
+Scene 509: {'MARTIN'}
+Scene 510: {'MARTIN'}
+Scene 511: {'LISA'}
+Scene 512: {'MARTIN'}
+Scene 513: {'LISA'}
+Scene 514: {'MARTIN'}
+Scene 515: {'LISA'}
+Scene 516: {'MARTIN'}
+Scene 517: {'MARTIN'}
+Scene 518: {'LISA'}
+Scene 519: {'MARTIN'}
+Scene 520: {'LISA'}
+Scene 521: {'MARTIN'}
+Scene 522: {'LISA'}
+Scene 523: {'MARTIN'}
+Scene 524: {'LISA'}
+Scene 525: {'MARTIN'}
+Scene 526: {'LISA'}
+Scene 527: {'LISA', 'MARTIN'}
+Scene 528: {'MARTIN'}
+Scene 529: {'LISA'}
+Scene 530: {'LISA', 'MARTIN'}
+Scene 531: {'TREVOR'}
+Scene 532: {'TREVOR'}
+Scene 533: {'LISA'}
+Scene 534: {'UK ANNOUNCER', 'SASHA'}
+Scene 535: {'SASHA'}
+Scene 536: {'SASHA'}
+Scene 537: {'MARTIN'}
+Scene 538: {'LISA'}
+Scene 539: {'MARTIN'}
+Scene 540: {'LISA'}
+Scene 541: {'MARTIN'}
+Scene 542: {'LISA'}
+Scene 543: {'MARTIN'}
+Scene 544: {'LISA'}
+Scene 545: {'MARTIN'}
+Scene 546: {'LISA'}
+Scene 547: {'MARTIN'}
+Scene 548: {'LISA'}
+Scene 549: {'MARTIN'}
+Scene 550: {'LISA'}
+Scene 551: {'MARTIN'}
+Scene 552: {'FSB AGENT'}
+Scene 553: {'FSB GENERAL'}

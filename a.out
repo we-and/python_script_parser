@@ -1,0 +1,3759 @@
+-----------------------------------
+SCRIPT PARSER version 1.3
+Script path       : scripts/examples/Gods of the deep - CCSL.docx
+Output folder     : GODS/
+Script name       : GODS
+Counting method   : ALL
+File name         : Gods of the deep - CCSL.docx
+Extension         : .docx
+Headers found
+Conversion mode       : CHARACTERID_AND_DIALOGUE
+----------
+row | 00:00:02 | 00:00:10 |  |  | Ace Entertainment Films Logo
+dialogue
+character
+----------
+row | 00:00:11 | 00:00:27 |  |  | Dark Temple Motion Pictures Logo
+dialogue
+character
+----------
+row | 00:00:28 | 00:00:36 |  |  | EXT. SOUTHERN ATLANTIC OCEAN – DAY
+UNDERWATER
+dialogue
+character
+----------
+row | 00:00:30 | 00:00:36 |  |  | Dark Temple Motion Pictures Presents
+dialogue
+character
+----------
+row | 00:00:36 | 00:00:49 |  |  | EXT. SOUTHERN ATLANTIC OCEAN – DAY
+In Association with ACE ENTERTAINMENT
+dialogue
+character
+----------
+row | 00:00:50 | 00:00:59 |  |  | Ext. SOUTHERN ATLANTIC OCEAN - DAY
+People in hasmat suits on a small boat look over the side of the boat.
+dialogue
+character
+----------
+row | 00:00:52 | 00:00:58 |  |  | A Film By Charlie Steeds
+dialogue
+character
+----------
+row | 00:00:59 | 00:01:10 |  |  | INT. ANTARCTIC RESEARCH BASE - COMMAND CENTER – DAY
+
+Restricted area sign.
+dialogue
+character
+----------
+row | 00:01:10 | 00:01:23 |  |  | Man in Hazmat suit sitting at desk. Another two people dressed in a hazmat suit enters the room.
+dialogue
+character
+----------
+row | 00:01:23 | 00:01:28 |  | Dr Goldstein. Rover Seven made it back to the surface. It seems to be working.  | One places down a box then hands s telephone over.
+dialogueDr Goldstein. Rover Seven made it back to the surface. It seems to be working.
+character
+Add __VOICEOVER Dr Goldstein. Rover Seven made it back to the surface. It seems to be working.
+----------
+row | 00:01:28 | 00:01:32 |  | Everything's been recorded,  | He hands the phone back to the man and the man with the phone walks out of the room.
+dialogueEverything's been recorded,
+character
+Add __VOICEOVER Everything's been recorded,
+----------
+row | 00:01:32 | 00:01:35 |  | Chance to be Left alone. | All of them leave the room. Leaving the box on the table.
+dialogueChance to be Left alone.
+character
+Add __VOICEOVER Chance to be Left alone.
+----------
+row | 00:01:47 | 00:01:52 |  |  | INT. ANTARCTIC RESEARCH BASE - COMMAND CENTER – DAY
+
+Dr Goldstein walks into the room.
+
+Derek Nelson
+dialogue
+character
+----------
+row | 00:01:52 | 00:01:55 |  |  | Makenna Guyler
+dialogue
+character
+----------
+row | 00:01:58 | 00:02:01 |  |  | Kane Surry
+dialogue
+character
+----------
+row | 00:02:01 |  |  |  | Young woman hands a remote to the older man who switches on a screen.
+dialogue
+character
+----------
+row | 00:02:06 | 00:02:08 |  |  | Tim Cartwright
+dialogue
+character
+----------
+row | 00:02:10 | 00:02:13 | JULIA GOLDSTEIN | We found them. | Rory Wilton
+dialogueWe found them.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN We found them.
+----------
+row | 00:02:16 | 00:02:25 |  |  | Gods of the Deep
+dialogue
+character
+----------
+row | 00:02:25 | 00:02:27 |  |  | EXT. MISKATONIC RESEARCH CENTRE - DAY
+dialogue
+character
+----------
+row | 00:02:27 | 00:02:31 |  |  | Miskatonic University, London, England
+dialogue
+character
+----------
+row | 00:02:31 | 00:02:33 |  |  | EXT. MISKATONIC RESEARCH CENTRE - STAIRS – DAY
+
+With Rowena Bentley
+dialogue
+character
+----------
+row | 00:02:33 | 00:02:36 | RECEPTIONIST | Ah Mr Peter, there’s someone waiting for you in your office? | Receptionist walks down the stairs meeting James Peter who is heading upstairs.
+dialogueAh Mr Peter, there’s someone waiting for you in your office?
+characterRECEPTIONIST
+Add RECEPTIONIST Ah Mr Peter, there’s someone waiting for you in your office?
+----------
+row | 00:02:36 | 00:02:37 | JAMES PETERS | Waiting for me? | 
+dialogueWaiting for me?
+characterJAMES PETERS
+Add JAMES PETERS Waiting for me?
+----------
+row | 00:02:37 | 00:02:42 |  |  | And Chris Lines as Jed Pickman
+
+James walks into his office seeing Julia Goldstein standing holding documents.
+dialogue
+character
+----------
+row | 00:02:42 | 00:02:43 | JULIA GOLDSTEIN | James Peters? | 
+dialogueJames Peters?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN James Peters?
+----------
+row | 00:02:43 | 00:02:44 | JAMES PETERS | I'm sorry, do I know you? | Music By Matt Akers
+dialogueI'm sorry, do I know you?
+characterJAMES PETERS
+Add JAMES PETERS I'm sorry, do I know you?
+----------
+row | 00:02:45 | 00:02:49 | JULIA GOLDSTEIN | I'm Dr Julia Goldstein. I work for the pikmin corporation. | 
+dialogueI'm Dr Julia Goldstein. I work for the pikmin corporation.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN I'm Dr Julia Goldstein. I work for the pikmin corporation.
+----------
+row | 00:02:50 | 00:02:52 |  |  | Cinematography By Charlie Steeds
+dialogue
+character
+----------
+row | 00:02:52 | 00:03:01 | JULIA GOLDSTEIN | It's inspiring to see you've been following in your father's footsteps. A researcher must be in the blood. | Executive Producers
+Jerome Reygner-Kalfon 
+And 
+Sebastien Semon
+dialogueIt's inspiring to see you've been following in your father's footsteps. A researcher must be in the blood.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN It's inspiring to see you've been following in your father's footsteps. A researcher must be in the blood.
+----------
+row | 00:03:01 | 00:03:06 | JAMES PETERS | I'm sorry, but I'm not interested in any more talks or lectures about my dad.  | Executive Producers
+Peter Oxley
+Jaimie Mcleod-Ross
+And 
+Charley McDougall
+dialogueI'm sorry, but I'm not interested in any more talks or lectures about my dad.
+characterJAMES PETERS
+Add JAMES PETERS I'm sorry, but I'm not interested in any more talks or lectures about my dad.
+----------
+row | 00:03:06 | 00:03:11 | JAMES PETERS | I've written just about everything there is to know. So buy my books. I do my own research now. | Written, Produced, Directed by Charlie Steeds
+dialogueI've written just about everything there is to know. So buy my books. I do my own research now.
+characterJAMES PETERS
+Add JAMES PETERS I've written just about everything there is to know. So buy my books. I do my own research now.
+----------
+row | 00:03:12 | 00:03:19 | JULIA GOLDSTEIN | I know. The Mischatonic Astrobiology programme, partially funded by us | 
+dialogueI know. The Mischatonic Astrobiology programme, partially funded by us
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN I know. The Mischatonic Astrobiology programme, partially funded by us
+----------
+row | 00:03:20 | 00:03:24 | JAMES PETERS | Look, I'm not interested in any more handouts from the Pikmin Corporation. | 
+dialogueLook, I'm not interested in any more handouts from the Pikmin Corporation.
+characterJAMES PETERS
+Add JAMES PETERS Look, I'm not interested in any more handouts from the Pikmin Corporation.
+----------
+row | 00:03:30 | 00:03:37 | JULIA GOLDSTEIN | Mr Peters, what if I were to tell you that Pikmin is selecting candidates for some new research | 
+dialogueMr Peters, what if I were to tell you that Pikmin is selecting candidates for some new research
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Mr Peters, what if I were to tell you that Pikmin is selecting candidates for some new research
+----------
+row | 00:03:37 | 00:03:43 | JULIA GOLDSTEIN | An expedition? One might say it's an astrobiologist's dream come true. | 
+dialogueAn expedition? One might say it's an astrobiologist's dream come true.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN An expedition? One might say it's an astrobiologist's dream come true.
+----------
+row | 00:03:43 | 00:03:45 | JAMES PETERS | An expedition? | 
+dialogueAn expedition?
+characterJAMES PETERS
+Add JAMES PETERS An expedition?
+----------
+row | 00:03:46 | 00:03:51 | JULIA GOLDSTEIN | Our teams have been doing research in the Antarctic and southern Atlantic oceans for the past seven years.  | 
+dialogueOur teams have been doing research in the Antarctic and southern Atlantic oceans for the past seven years.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Our teams have been doing research in the Antarctic and southern Atlantic oceans for the past seven years.
+----------
+row | 00:03:51 | 00:03:55 | JULIA GOLDSTEIN | Until a few months ago, when we found something unexpected.  | 
+dialogueUntil a few months ago, when we found something unexpected.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Until a few months ago, when we found something unexpected.
+----------
+row | 00:04:03 | 00:04:11 | JULIA GOLDSTEIN | Our team mapped a trench in the Antarctic continental shelf west of the MidAtlantic ridge between South America and Antarctica.  | 
+dialogueOur team mapped a trench in the Antarctic continental shelf west of the MidAtlantic ridge between South America and Antarctica.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Our team mapped a trench in the Antarctic continental shelf west of the MidAtlantic ridge between South America and Antarctica.
+----------
+row | 00:04:11 | 00:04:20 | JULIA GOLDSTEIN | We've collected over 12,000 square kilometres of data and we found a new, deepest point in the ocean of 37,000ft. | 
+dialogueWe've collected over 12,000 square kilometres of data and we found a new, deepest point in the ocean of 37,000ft.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN We've collected over 12,000 square kilometres of data and we found a new, deepest point in the ocean of 37,000ft.
+----------
+row | 00:04:21 | 00:04:22 | JAMES PETERS | How can that be possible? | 
+dialogueHow can that be possible?
+characterJAMES PETERS
+Add JAMES PETERS How can that be possible?
+----------
+row | 00:04:22 | 00:04:32 | JULIA GOLDSTEIN | We knew that the continental shelf was unusually deep, but it was something else on the ocean floor that caught us by surprise, shall we say.  | 
+dialogueWe knew that the continental shelf was unusually deep, but it was something else on the ocean floor that caught us by surprise, shall we say.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN We knew that the continental shelf was unusually deep, but it was something else on the ocean floor that caught us by surprise, shall we say.
+----------
+row | 00:04:36 | 00:04:40 | JULIA GOLDSTEIN | This is footage from a remote control sub we sent down there. | Julia stands up and walks round behind James
+dialogueThis is footage from a remote control sub we sent down there.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN This is footage from a remote control sub we sent down there.
+----------
+row | 00:04:40 | 00:04:44 | JAMES PETERS | What is that? It looks almost man made. | 
+dialogueWhat is that? It looks almost man made.
+characterJAMES PETERS
+Add JAMES PETERS What is that? It looks almost man made.
+----------
+row | 00:04:45 | 00:04:49 | JULIA GOLDSTEIN | We have a theory that it's some kind of portal. | 
+dialogueWe have a theory that it's some kind of portal.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN We have a theory that it's some kind of portal.
+----------
+row | 00:04:49 | 00:04:50 | JAMES PETERS | To where? | 
+dialogueTo where?
+characterJAMES PETERS
+Add JAMES PETERS To where?
+----------
+row | 00:04:51 | 00:04:54 | JULIA GOLDSTEIN | That, Mr Peters, is what we're going to find out | 
+dialogueThat, Mr Peters, is what we're going to find out
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN That, Mr Peters, is what we're going to find out
+----------
+row | 00:04:54 | 00:05:03 | JULIA GOLDSTEIN | . Pikmin wants you to join the exposition team. I have some people I'd like you to meet.  | Julia picks up the tablet and walks away.
+dialogue. Pikmin wants you to join the exposition team. I have some people I'd like you to meet.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN . Pikmin wants you to join the exposition team. I have some people I'd like you to meet.
+----------
+row | 00:05:05 | 00:05:12 |  |  | EXT. PICKMAN CORP HOME BASE – DAY
+
+Pickman Corp, Headquarters
+dialogue
+character
+----------
+row | 00:05:08 | 00:05:11 | JULIA GOLDSTEIN | Thank you, everyone, for attending at such short notice.  | 
+dialogueThank you, everyone, for attending at such short notice.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Thank you, everyone, for attending at such short notice.
+----------
+row | 00:05:11 | 00:05:18 | JULIA GOLDSTEIN | You're finally about to see why this interruption to your busy lives is so very worth your time. I'll make the introductions.  | INT. PICKMAN CORP HOME BASE - WAREHOUSE - NEXT
+dialogueYou're finally about to see why this interruption to your busy lives is so very worth your time. I'll make the introductions.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN You're finally about to see why this interruption to your busy lives is so very worth your time. I'll make the introductions.
+----------
+row | 00:05:18 | 00:05:27 | JULIA GOLDSTEIN | This is Gordon Atkins, head of the Man Submersibles laboratory at London's Royal Society for Improving Natural Knowledge.  | 
+dialogueThis is Gordon Atkins, head of the Man Submersibles laboratory at London's Royal Society for Improving Natural Knowledge.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN This is Gordon Atkins, head of the Man Submersibles laboratory at London's Royal Society for Improving Natural Knowledge.
+----------
+row | 00:05:27 | 00:05:33 | JULIA GOLDSTEIN | He's agreed to lead our expedition and is by far the most qualified man for the job | 
+dialogueHe's agreed to lead our expedition and is by far the most qualified man for the job
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN He's agreed to lead our expedition and is by far the most qualified man for the job
+----------
+row | 00:05:35 | 00:05:40 | JULIA GOLDSTEIN | Christine harris, marine biologist and member of the european marine biology symposium | 
+dialogueChristine harris, marine biologist and member of the european marine biology symposium
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Christine harris, marine biologist and member of the european marine biology symposium
+----------
+row | 00:05:40 | 00:05:53 | JULIA GOLDSTEIN | . James Peters is developing our discovery programmes at the prestigious Mischatonic University and is something of an expert in the field of Pikmincorp's early research.  | 
+dialogue. James Peters is developing our discovery programmes at the prestigious Mischatonic University and is something of an expert in the field of Pikmincorp's early research.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN . James Peters is developing our discovery programmes at the prestigious Mischatonic University and is something of an expert in the field of Pikmincorp's early research.
+----------
+row | 00:05:53 | 00:06:04 | JULIA GOLDSTEIN | Joseph Meeker is our safety and communications officer. And finally, Hank O'Connell, our lead engineer. Hank, the floor is yours. | 
+dialogueJoseph Meeker is our safety and communications officer. And finally, Hank O'Connell, our lead engineer. Hank, the floor is yours.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Joseph Meeker is our safety and communications officer. And finally, Hank O'Connell, our lead engineer. Hank, the floor is yours.
+----------
+row | 00:06:04 | 00:06:08 |  |  | Hank stands and walks over to the podium Julia is standing behind.
+dialogue
+character
+----------
+row | 00:06:08 | 00:06:11 | HANK O’CONNELL | Hello, everyone. I'm really very pleased to meet you all. Finally.  | 
+dialogueHello, everyone. I'm really very pleased to meet you all. Finally.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Hello, everyone. I'm really very pleased to meet you all. Finally.
+----------
+row | 00:06:11 | 00:06:21 | HANK O’CONNELL | I expect you will be wondering what it is I've engineered. Through the Pittman Corporation, my team have managed to build a deep diving submersible like nothing that's ever existed before.  | 
+dialogueI expect you will be wondering what it is I've engineered. Through the Pittman Corporation, my team have managed to build a deep diving submersible like nothing that's ever existed before.
+characterHANK O’CONNELL
+Add HANK O’CONNELL I expect you will be wondering what it is I've engineered. Through the Pittman Corporation, my team have managed to build a deep diving submersible like nothing that's ever existed before.
+----------
+row | 00:06:21 | 00:06:25 |  |  | Hank presses a button switching on a screen.
+dialogue
+character
+----------
+row | 00:06:25 | 00:06:37 | HANK O’CONNELL | This is providence 3. 250 tonnes, built with syntactic foam, capable of withstanding the huge compressive forces of the water at 37,000ft and below.  | 
+dialogueThis is providence 3. 250 tonnes, built with syntactic foam, capable of withstanding the huge compressive forces of the water at 37,000ft and below.
+characterHANK O’CONNELL
+Add HANK O’CONNELL This is providence 3. 250 tonnes, built with syntactic foam, capable of withstanding the huge compressive forces of the water at 37,000ft and below.
+----------
+row | 00:06:37 | 00:06:39 | GORDON ATKINS | Impressive, Hank.  | 
+dialogueImpressive, Hank.
+characterGORDON ATKINS
+Add GORDON ATKINS Impressive, Hank.
+----------
+row | 00:06:39 | 00:06:40 | JOSEPH MEEKER | Makes you wonder what happened to Providence One and Two, though  | 
+dialogueMakes you wonder what happened to Providence One and Two, though
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Makes you wonder what happened to Providence One and Two, though
+----------
+row | 00:06:41 | 00:06:49 | HANK O’CONNELL | so state of the art that it can safely take us into this ancient opening in the Earth's seabed Hydrosphere. | 
+dialogueso state of the art that it can safely take us into this ancient opening in the Earth's seabed Hydrosphere.
+characterHANK O’CONNELL
+Add HANK O’CONNELL so state of the art that it can safely take us into this ancient opening in the Earth's seabed Hydrosphere.
+----------
+row | 00:06:49 | 00:06:55 | CHRISTINE HARRIS | I'm sorry? Into the opening? Didn't you say you sent remote operated vehicles in that never came out? | 
+dialogueI'm sorry? Into the opening? Didn't you say you sent remote operated vehicles in that never came out?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I'm sorry? Into the opening? Didn't you say you sent remote operated vehicles in that never came out?
+----------
+row | 00:06:55 | 00:06:56 | HANK O’CONNELL | Oh, yes. Some have made it back.  | 
+dialogueOh, yes. Some have made it back.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Oh, yes. Some have made it back.
+----------
+row | 00:06:56 | 00:06:57 | CHRISTINE HARRIS | Some? | 
+dialogueSome?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Some?
+----------
+row | 00:06:57 | 00:07:09 | JULIA GOLDSTEIN | Listen, we aren't going to pretend that this isn't a risky expedition. We wouldn't launch Providence Three with a crew on board if we weren't 100% certain our technology was safe. | 
+dialogueListen, we aren't going to pretend that this isn't a risky expedition. We wouldn't launch Providence Three with a crew on board if we weren't 100% certain our technology was safe.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Listen, we aren't going to pretend that this isn't a risky expedition. We wouldn't launch Providence Three with a crew on board if we weren't 100% certain our technology was safe.
+----------
+row | 00:07:09 | 00:07:16 | HANK O’CONNELL | Test dives have been completed with highly satisfying results. Now all it needs is a crew.  | 
+dialogueTest dives have been completed with highly satisfying results. Now all it needs is a crew.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Test dives have been completed with highly satisfying results. Now all it needs is a crew.
+----------
+row | 00:07:16 | 00:07:17 | GORDON ATKINS | What do you expect us to find down there? | 
+dialogueWhat do you expect us to find down there?
+characterGORDON ATKINS
+Add GORDON ATKINS What do you expect us to find down there?
+----------
+row | 00:07:17 | 00:07:21 | CHRISTINE HARRIS | What if there's nothing but pitch black, watery abyss? | 
+dialogueWhat if there's nothing but pitch black, watery abyss?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS What if there's nothing but pitch black, watery abyss?
+----------
+row | 00:07:21 | 00:07:26 | JED PICKMAN | The ocean is the last great frontier of our world | 
+dialogueThe ocean is the last great frontier of our world
+characterJED PICKMAN
+Add JED PICKMAN The ocean is the last great frontier of our world
+----------
+row | 00:07:35 | 00:07:45 | JED PICKMAN | . I have dedicated my whole life to seeking out the unknown and the incomprehensible, and this gateway might be my greatest discovery.  | 
+dialogue. I have dedicated my whole life to seeking out the unknown and the incomprehensible, and this gateway might be my greatest discovery.
+characterJED PICKMAN
+Add JED PICKMAN . I have dedicated my whole life to seeking out the unknown and the incomprehensible, and this gateway might be my greatest discovery.
+----------
+row | 00:07:47 | 00:07:55 | JED PICKMAN | It demands to be explored. Miss Harris. If something built that structure, just imagine what might lie within it.  | 
+dialogueIt demands to be explored. Miss Harris. If something built that structure, just imagine what might lie within it.
+characterJED PICKMAN
+Add JED PICKMAN It demands to be explored. Miss Harris. If something built that structure, just imagine what might lie within it.
+----------
+row | 00:07:55 | 00:08:13 | JED PICKMAN | Secrets of the ocean. There is a hidden world beneath us, gentlemen, ladies, unseen by human eyes. Because up until now, we have been unable to create the technology necessary to take us there.  | 
+dialogueSecrets of the ocean. There is a hidden world beneath us, gentlemen, ladies, unseen by human eyes. Because up until now, we have been unable to create the technology necessary to take us there.
+characterJED PICKMAN
+Add JED PICKMAN Secrets of the ocean. There is a hidden world beneath us, gentlemen, ladies, unseen by human eyes. Because up until now, we have been unable to create the technology necessary to take us there.
+----------
+row | 00:08:13 | 00:08:26 | JED PICKMAN | Your mission as the crew of Providence Three is to be that interface between our technology and that new dark continent we aim to explore. | 
+dialogueYour mission as the crew of Providence Three is to be that interface between our technology and that new dark continent we aim to explore.
+characterJED PICKMAN
+Add JED PICKMAN Your mission as the crew of Providence Three is to be that interface between our technology and that new dark continent we aim to explore.
+----------
+row | 00:08:27 | 00:08:32 | JULIA GOLDSTEIN | These files contain the key data collected so far and outline the expedition.  | 
+dialogueThese files contain the key data collected so far and outline the expedition.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN These files contain the key data collected so far and outline the expedition.
+----------
+row | 00:08:33 | 00:08:43 | JULIA GOLDSTEIN | You'll need to complete two months of training before the dive. Read them closely. You have 24 hours to decide whether you're in or out. | 
+dialogueYou'll need to complete two months of training before the dive. Read them closely. You have 24 hours to decide whether you're in or out.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN You'll need to complete two months of training before the dive. Read them closely. You have 24 hours to decide whether you're in or out.
+----------
+row | 00:08:48 | 00:08:56 | JED PICKMAN | James, I'm so glad you came. Walt will be so proud to see us exploring the unknown together.  | 
+dialogueJames, I'm so glad you came. Walt will be so proud to see us exploring the unknown together.
+characterJED PICKMAN
+Add JED PICKMAN James, I'm so glad you came. Walt will be so proud to see us exploring the unknown together.
+----------
+row | 00:08:57 | 00:09:00 | JAMES PETERS | Thank you, Mr. Pickman. It's a lot to think about.  | 
+dialogueThank you, Mr. Pickman. It's a lot to think about.
+characterJAMES PETERS
+Add JAMES PETERS Thank you, Mr. Pickman. It's a lot to think about.
+----------
+row | 00:09:00 | 00:09:08 | JED PICKMAN | It is. But I wouldn't want to make this trip without you. It wouldn't seem right. For Walt's sake. I need you there | James nods and walks away.
+dialogueIt is. But I wouldn't want to make this trip without you. It wouldn't seem right. For Walt's sake. I need you there
+characterJED PICKMAN
+Add JED PICKMAN It is. But I wouldn't want to make this trip without you. It wouldn't seem right. For Walt's sake. I need you there
+----------
+row | 00:09:15 | 00:09:21 | HANK O’CONNELL | . I've been counting down the days to finally meet in this crew. We've worked so hard, overcome so many challenges to get this far right.  | INT. Diner. Day
+
+Crew are sat around a table filled with Chinese takeaway cartons and beer.
+dialogue. I've been counting down the days to finally meet in this crew. We've worked so hard, overcome so many challenges to get this far right.
+characterHANK O’CONNELL
+Add HANK O’CONNELL . I've been counting down the days to finally meet in this crew. We've worked so hard, overcome so many challenges to get this far right.
+----------
+row | 00:09:22 | 00:09:23 | JOSEPH MEEKER | Who wants another drink.  | 
+dialogueWho wants another drink.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Who wants another drink.
+----------
+row | 00:09:23 | 00:09:24 | JAMES PETERS | Yes, please.  | 
+dialogueYes, please.
+characterJAMES PETERS
+Add JAMES PETERS Yes, please.
+----------
+row | 00:09:24 | 00:09:25 | JOSEPH MEEKER | Yeah. Got you.  | Joseph walks off
+dialogueYeah. Got you.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Yeah. Got you.
+----------
+row | 00:09:30 | 00:09:35 | JAMES PETERS | Well, I don't think we'll be eating like this at the bottom of the ocean, so I'm going to enjoy it while I can. | 
+dialogueWell, I don't think we'll be eating like this at the bottom of the ocean, so I'm going to enjoy it while I can.
+characterJAMES PETERS
+Add JAMES PETERS Well, I don't think we'll be eating like this at the bottom of the ocean, so I'm going to enjoy it while I can.
+----------
+row | 00:09:36 | 00:09:37 | CHRISTINE HARRIS | You up for it, then? | 
+dialogueYou up for it, then?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You up for it, then?
+----------
+row | 00:09:37 | 00:09:40 | JAMES PETERS | Voyage to the deepest part of the planet anyone's ever been.  | 
+dialogueVoyage to the deepest part of the planet anyone's ever been.
+characterJAMES PETERS
+Add JAMES PETERS Voyage to the deepest part of the planet anyone's ever been.
+----------
+row | 00:09:40 | 00:09:42 | JAMES PETERS | How could I walk away from that?  | 
+dialogueHow could I walk away from that?
+characterJAMES PETERS
+Add JAMES PETERS How could I walk away from that?
+----------
+row | 00:09:42 | 00:09:48 | GORDON ATKINS | There's nothing to beat it being out there in the deep sea firsthand. Research. It's what we were born to do, right? | 
+dialogueThere's nothing to beat it being out there in the deep sea firsthand. Research. It's what we were born to do, right?
+characterGORDON ATKINS
+Add GORDON ATKINS There's nothing to beat it being out there in the deep sea firsthand. Research. It's what we were born to do, right?
+----------
+row | 00:09:48 | 00:09:54 | CHRISTINE HARRIS | You know, I just I can't comprehend the water pressure at 30,000ft or whatever. | 
+dialogueYou know, I just I can't comprehend the water pressure at 30,000ft or whatever.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You know, I just I can't comprehend the water pressure at 30,000ft or whatever.
+----------
+row | 00:09:54 | 00:09:58 | GORDON ATKINS | Weight of an entire ocean pressing down on you if anything goes wrong.  | 
+dialogueWeight of an entire ocean pressing down on you if anything goes wrong.
+characterGORDON ATKINS
+Add GORDON ATKINS Weight of an entire ocean pressing down on you if anything goes wrong.
+----------
+row | 00:09:58 | 00:10:01 | JAMES PETERS | All right. Now I'm worried 
+ | 
+dialogueAll right. Now I'm worried
+characterJAMES PETERS
+Add JAMES PETERS All right. Now I'm worried
+----------
+row | 00:10:01 | 00:10:02 | HANK O’CONNELL | you're putting your life in my hands.  | 
+dialogueyou're putting your life in my hands.
+characterHANK O’CONNELL
+Add HANK O’CONNELL you're putting your life in my hands.
+----------
+row | 00:10:02 | 00:10:03 | GORDON ATKINS | Very capable hands, though.  | 
+dialogueVery capable hands, though.
+characterGORDON ATKINS
+Add GORDON ATKINS Very capable hands, though.
+----------
+row | 00:10:03 | 00:10:04 | JOSEPH MEEKER | Here we go. Cheers, team.  | Joseph walks back to the table and hands out the beer.
+dialogueHere we go. Cheers, team.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Here we go. Cheers, team.
+----------
+row | 00:10:05 | 00:10:10 | EVERYONE | Cheers. Cheers. Cheers. | 
+dialogueCheers. Cheers. Cheers.
+characterEVERYONE
+Add EVERYONE Cheers. Cheers. Cheers.
+----------
+row | 00:10:11 | 00:10:14 | GORDON ATKINS | Not really what we were designed to do, though, is it? | 
+dialogueNot really what we were designed to do, though, is it?
+characterGORDON ATKINS
+Add GORDON ATKINS Not really what we were designed to do, though, is it?
+----------
+row | 00:10:14 | 00:10:15 | CHRISTINE HARRIS | Sounds risky. | 
+dialogueSounds risky.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Sounds risky.
+----------
+row | 00:10:15 | 00:10:21 | GORDON ATKINS | Expect the unexpected. First rule of deep sea exploration  | 
+dialogueExpect the unexpected. First rule of deep sea exploration
+characterGORDON ATKINS
+Add GORDON ATKINS Expect the unexpected. First rule of deep sea exploration
+----------
+row | 00:10:21 | 00:10:24 | JOSEPH MEEKER | we'll all sleep better tonight knowing that. Thank you, Gordon. | 
+dialoguewe'll all sleep better tonight knowing that. Thank you, Gordon.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER we'll all sleep better tonight knowing that. Thank you, Gordon.
+----------
+row | 00:10:24 | 00:10:25 | CHRISTINE HARRIS | You've done this before, then? | 
+dialogueYou've done this before, then?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You've done this before, then?
+----------
+row | 00:10:26 | 00:10:31 | GORDON ATKINS | Many times. Never this deep though. We'll be setting a new record.  | 
+dialogueMany times. Never this deep though. We'll be setting a new record.
+characterGORDON ATKINS
+Add GORDON ATKINS Many times. Never this deep though. We'll be setting a new record.
+----------
+row | 00:10:31 | 00:10:35 | JOSEPH MEEKER | Everything you do is five times harder in the ocean. Okay. | 
+dialogueEverything you do is five times harder in the ocean. Okay.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Everything you do is five times harder in the ocean. Okay.
+----------
+row | 00:10:35 | 00:10:37 | JOSEPH MEEKER | Just remember that  | 
+dialogueJust remember that
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Just remember that
+----------
+row | 00:10:37 | 00:10:39 | CHRISTINE HARRIS | you're still going along with it. All of you. | 
+dialogueyou're still going along with it. All of you.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS you're still going along with it. All of you.
+----------
+row | 00:10:39 | 00:10:42 | JOSEPH MEEKER | It's like the old man said. It is the chance of a lifetime.  | 
+dialogueIt's like the old man said. It is the chance of a lifetime.
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER It's like the old man said. It is the chance of a lifetime.
+----------
+row | 00:10:43 | 00:10:45 | HANK O’CONNELL | Well team, To Providence. Three.  | 
+dialogueWell team, To Providence. Three.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Well team, To Providence. Three.
+----------
+row | 00:10:45 | 00:10:46 | EVERYONE | Providence, three. | The group cheers their beer and takeaway cartons together
+dialogueProvidence, three.
+characterEVERYONE
+Add EVERYONE Providence, three.
+----------
+row | 00:10:49 | 00:10:52 | CHRISTINE HARRIS | Guys, I need some fresh air. I'll be right back. | 
+dialogueGuys, I need some fresh air. I'll be right back.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Guys, I need some fresh air. I'll be right back.
+----------
+row | 00:10:52 | 00:10:53 | JOSEPH MEEKER | Do you want me to get you another drink? | 
+dialogueDo you want me to get you another drink?
+characterJOSEPH MEEKER
+Add JOSEPH MEEKER Do you want me to get you another drink?
+----------
+row | 00:10:53 | 00:10:55 | CHRISTINE HARRIS | No, I've had enough. Really? | Christine stands up and walks away from the table
+dialogueNo, I've had enough. Really?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No, I've had enough. Really?
+----------
+row | 00:10:58 | 00:11:01 | JAMES PETERS | Sorry. Excuse me.  | James follow Christine
+dialogueSorry. Excuse me.
+characterJAMES PETERS
+Add JAMES PETERS Sorry. Excuse me.
+----------
+row | 00:11:09 | 00:11:10 | JAMES PETERS | Hey. You okay? | INT. PICKMAN CORP HOME BASE - CORRIDOR – NEXT
+
+
+dialogueHey. You okay?
+characterJAMES PETERS
+Add JAMES PETERS Hey. You okay?
+----------
+row | 00:11:11 | 00:11:15 | CHRISTINE HARRIS | Doesn't it scare you at all? | 
+dialogueDoesn't it scare you at all?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Doesn't it scare you at all?
+----------
+row | 00:11:16 | 00:11:19 | JAMES PETERS | I don't know. | 
+dialogueI don't know.
+characterJAMES PETERS
+Add JAMES PETERS I don't know.
+----------
+row | 00:11:19 | 00:11:27 | CHRISTINE HARRIS | I have this respect for the ocean. It's my life. But I know it can turn on you in a heartbeat.  | 
+dialogueI have this respect for the ocean. It's my life. But I know it can turn on you in a heartbeat.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I have this respect for the ocean. It's my life. But I know it can turn on you in a heartbeat.
+----------
+row | 00:11:30 | 00:11:35 | CHRISTINE HARRIS | So you think the others know who you are? Peters, I haven't put two and two together yet. | 
+dialogueSo you think the others know who you are? Peters, I haven't put two and two together yet.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS So you think the others know who you are? Peters, I haven't put two and two together yet.
+----------
+row | 00:11:35 | 00:11:36 | JAMES PETERS | So you noticed? | 
+dialogueSo you noticed?
+characterJAMES PETERS
+Add JAMES PETERS So you noticed?
+----------
+row | 00:11:36 | 00:11:41 | CHRISTINE HARRIS | Yeah, obviously. I had to research Pittman when Dr. Goldstein contacted us you Know.  | 
+dialogueYeah, obviously. I had to research Pittman when Dr. Goldstein contacted us you Know.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Yeah, obviously. I had to research Pittman when Dr. Goldstein contacted us you Know.
+----------
+row | 00:11:41 | 00:11:54 | CHRISTINE HARRIS | see what he's into, his history. What was it like growing up around something like that? I mean, the stories and the legends and all the theories. | 
+dialoguesee what he's into, his history. What was it like growing up around something like that? I mean, the stories and the legends and all the theories.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS see what he's into, his history. What was it like growing up around something like that? I mean, the stories and the legends and all the theories.
+----------
+row | 00:11:54 | 00:11:56 | JAMES PETERS | I'd rather just have my dad back. | 
+dialogueI'd rather just have my dad back.
+characterJAMES PETERS
+Add JAMES PETERS I'd rather just have my dad back.
+----------
+row | 00:11:57 | 00:12:03 | CHRISTINE HARRIS | You mean they really never found him? That wasn't some hook just to sell more copies? | 
+dialogueYou mean they really never found him? That wasn't some hook just to sell more copies?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You mean they really never found him? That wasn't some hook just to sell more copies?
+----------
+row | 00:12:03 | 00:12:04 | JAMES PETERS | Gone without a trace. | 
+dialogueGone without a trace.
+characterJAMES PETERS
+Add JAMES PETERS Gone without a trace.
+----------
+row | 00:12:05 | 00:12:07 | CHRISTINE HARRIS | I'm sorry. | 
+dialogueI'm sorry.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I'm sorry.
+----------
+row | 00:12:08 | 00:12:12 | JAMES PETERS | It's okay. It was a long time ago. | 
+dialogueIt's okay. It was a long time ago.
+characterJAMES PETERS
+Add JAMES PETERS It's okay. It was a long time ago.
+----------
+row | 00:12:16 | 00:12:23 | CHRISTINE HARRIS | Look, Jim, I don't think they would send us down there and spend all this money if they weren't certain there was more for us to discover. | 
+dialogueLook, Jim, I don't think they would send us down there and spend all this money if they weren't certain there was more for us to discover.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Look, Jim, I don't think they would send us down there and spend all this money if they weren't certain there was more for us to discover.
+----------
+row | 00:12:23 | 00:12:26 | JAMES PETERS | Well, you think there's something they're not telling us? | 
+dialogueWell, you think there's something they're not telling us?
+characterJAMES PETERS
+Add JAMES PETERS Well, you think there's something they're not telling us?
+----------
+row | 00:12:26 | 00:12:30 | CHRISTINE HARRIS | If I go on this expedition, I need to know that I'm coming home.  | 
+dialogueIf I go on this expedition, I need to know that I'm coming home.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS If I go on this expedition, I need to know that I'm coming home.
+----------
+row | 00:12:34 | 00:12:40 | CHRISTINE HARRIS | This is my son. He's seven months old and I'm all he's got. My parents are looking after him. | Christine takes her phone out and shows James a photo.
+dialogueThis is my son. He's seven months old and I'm all he's got. My parents are looking after him.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS This is my son. He's seven months old and I'm all he's got. My parents are looking after him.
+----------
+row | 00:12:40 | 00:12:41 | JAMES PETERS | What's he called? | 
+dialogueWhat's he called?
+characterJAMES PETERS
+Add JAMES PETERS What's he called?
+----------
+row | 00:12:41 | 00:12:46 | CHRISTINE HARRIS | Sam. Look, I know what a huge sacrifice I'll be making.  | 
+dialogueSam. Look, I know what a huge sacrifice I'll be making.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Sam. Look, I know what a huge sacrifice I'll be making.
+----------
+row | 00:12:46 | 00:12:51 | CHRISTINE HARRIS | I mean, with the training and the trip and the time away from him is going to kill me.  | 
+dialogueI mean, with the training and the trip and the time away from him is going to kill me.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I mean, with the training and the trip and the time away from him is going to kill me.
+----------
+row | 00:12:51 | 00:12:59 | CHRISTINE HARRIS | But if everything goes to plan, I'll be back before his first birthday and maybe I could live with that. | 
+dialogueBut if everything goes to plan, I'll be back before his first birthday and maybe I could live with that.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS But if everything goes to plan, I'll be back before his first birthday and maybe I could live with that.
+----------
+row | 00:13:00 | 00:13:03 | JAMES PETERS | What if it doesn't go to plan? | 
+dialogueWhat if it doesn't go to plan?
+characterJAMES PETERS
+Add JAMES PETERS What if it doesn't go to plan?
+----------
+row | 00:13:03 | 00:13:05 | CHRISTINE HARRIS | Something tells me these things rarely do. | 
+dialogueSomething tells me these things rarely do.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Something tells me these things rarely do.
+----------
+row | 00:13:09 | 00:13:13 |  |  | EXT. Antarctica. DAY
+TWO MONTHS LATER
+dialogue
+character
+----------
+row | 00:13:13 | 00:13:22 |  |  | PICKMAN CORP, ANTARTICA BASE
+dialogue
+character
+----------
+row | 00:13:27 | 00:13:28 | HANK O’CONNELL | Mr Pickman | Hank helps everyone to step onto a boat.
+dialogueMr Pickman
+characterHANK O’CONNELL
+Add HANK O’CONNELL Mr Pickman
+----------
+row | 00:13:28 | 00:13:41 | JED PICKMAN | Thank you. | 
+dialogueThank you.
+characterJED PICKMAN
+Add JED PICKMAN Thank you.
+----------
+row | 00:13:41 | 00:13:42 | HANK O’CONNELL | All ready there jim?  | 
+dialogueAll ready there jim?
+characterHANK O’CONNELL
+Add HANK O’CONNELL All ready there jim?
+----------
+row | 00:13:42 | 00:13:45 | JAMES PETERS | Can say I slept much last night?  | 
+dialogueCan say I slept much last night?
+characterJAMES PETERS
+Add JAMES PETERS Can say I slept much last night?
+----------
+row | 00:13:45 | 00:13:48 | JAMES PETERS | Just going over and over everything, you know, everything that could go wrong.  | 
+dialogueJust going over and over everything, you know, everything that could go wrong.
+characterJAMES PETERS
+Add JAMES PETERS Just going over and over everything, you know, everything that could go wrong.
+----------
+row | 00:13:48 | 00:13:50 | GORDON ATKINS | That's normal, Jim. | 
+dialogueThat's normal, Jim.
+characterGORDON ATKINS
+Add GORDON ATKINS That's normal, Jim.
+----------
+row | 00:13:51 | 00:13:54 | CHRISTINE HARRIS | You know, you shouldn't smoke so much. Captain. It increases anxiety and tension | 
+dialogueYou know, you shouldn't smoke so much. Captain. It increases anxiety and tension
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You know, you shouldn't smoke so much. Captain. It increases anxiety and tension
+----------
+row | 00:13:54 | 00:13:57 | GORDON ATKINS | I like to be tensed dear. Keeps the senses sharp.  | 
+dialogueI like to be tensed dear. Keeps the senses sharp.
+characterGORDON ATKINS
+Add GORDON ATKINS I like to be tensed dear. Keeps the senses sharp.
+----------
+row | 00:13:57 | 00:13:58 | GORDON ATKINS | You want to Ciggy, Jim?  | 
+dialogueYou want to Ciggy, Jim?
+characterGORDON ATKINS
+Add GORDON ATKINS You want to Ciggy, Jim?
+----------
+row | 00:13:58 | 00:14:00 | JAMES PETERS | No thanks.  | 
+dialogueNo thanks.
+characterJAMES PETERS
+Add JAMES PETERS No thanks.
+----------
+row | 00:14:00 | 00:14:01 | CHRISTINE HARRIS | Want a dramamine? | 
+dialogueWant a dramamine?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Want a dramamine?
+----------
+row | 00:14:01 | 00:14:02 | JAMES PETERS | Ooh yeah you have some? | 
+dialogueOoh yeah you have some?
+characterJAMES PETERS
+Add JAMES PETERS Ooh yeah you have some?
+----------
+row | 00:14:04 | 00:14:06 | JAMES PETERS | Hey uh, How far are we going?  | 
+dialogueHey uh, How far are we going?
+characterJAMES PETERS
+Add JAMES PETERS Hey uh, How far are we going?
+----------
+row | 00:14:07 | 00:14:08 | HANK O’CONNELL | You'll see.  | 
+dialogueYou'll see.
+characterHANK O’CONNELL
+Add HANK O’CONNELL You'll see.
+----------
+row | 00:14:08 | 00:14:11 | HANK O’CONNELL | She's out there waiting for us. | 
+dialogueShe's out there waiting for us.
+characterHANK O’CONNELL
+Add HANK O’CONNELL She's out there waiting for us.
+----------
+row | 00:14:13 | 00:14:42 |  |  | Boats engine starts up and starts moving out of the dock.
+dialogue
+character
+----------
+row | 00:14:42 | 00:14:46 |  |  | EXT. PROVINENCE 3
+
+Provinence 3 sitting in the ocean.
+dialogue
+character
+----------
+row | 00:14:46 |  |  |  | INT. PROVIDENCE 3 - MAIN CORRIDOR
+
+
+dialogue
+character
+----------
+row | 00:14:50 | 00:14:51 | RACHEL (O.S) | Command centre, standby.  | 
+dialogueCommand centre, standby.
+characterRACHEL (O.S)
+Add RACHEL  Command centre, standby.
+----------
+row | 00:14:51 | 00:14:54 | RACHEL | We are awaiting cruise arrival at Providence three. | INT. ANTARCTIC RESEARCH BASE - COMMAND CENTER - DAY
+dialogueWe are awaiting cruise arrival at Providence three.
+characterRACHEL
+Add RACHEL We are awaiting cruise arrival at Providence three.
+----------
+row | 00:14:54 | 00:15:00 |  |  | Rachel puts down the phone. Dr Goldstein walks in.
+dialogue
+character
+----------
+row | 00:15:00 | 00:15:01 | CAMERON | Morning, Dr. Goldstein. | 
+dialogueMorning, Dr. Goldstein.
+characterCAMERON
+Add CAMERON Morning, Dr. Goldstein.
+----------
+row | 00:15:01 | 00:15:02 | JULIA GOLDSTEIN | How long? | She puts on headphones
+dialogueHow long?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN How long?
+----------
+row | 00:15:02 | 00:15:08 | CAMERON | We are launching in 1 hour. Weather conditions are looking perfect for another couple of hours. | 
+dialogueWe are launching in 1 hour. Weather conditions are looking perfect for another couple of hours.
+characterCAMERON
+Add CAMERON We are launching in 1 hour. Weather conditions are looking perfect for another couple of hours.
+----------
+row | 00:15:08 | 00:15:10 | JULIA GOLDSTEIN | Where's our feet?  | 
+dialogueWhere's our feet?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Where's our feet?
+----------
+row | 00:15:10 | 00:15:12 | RACHEL | P three, rear cam one and rear cam two.. | 
+dialogueP three, rear cam one and rear cam two..
+characterRACHEL
+Add RACHEL P three, rear cam one and rear cam two..
+----------
+row | 00:15:12 | 00:15:18 | RACHEL | We have a clear signal. P three front cam is live and rover cameras will be activated upon launch.  | 
+dialogueWe have a clear signal. P three front cam is live and rover cameras will be activated upon launch.
+characterRACHEL
+Add RACHEL We have a clear signal. P three front cam is live and rover cameras will be activated upon launch.
+----------
+row | 00:15:18 | 00:15:19 | RACHEL | We're all set for them.  | 
+dialogueWe're all set for them.
+characterRACHEL
+Add RACHEL We're all set for them.
+----------
+row | 00:15:21 | 00:15:26 |  |  | INT./EXT. TRANSPORT BOAT – MEANWHILE
+
+Crew are all on the boat.
+dialogue
+character
+----------
+row | 00:15:26 | 00:15:29 | RACHEL (O.S) | Crew approaching p three. Commenced launch operation in T minus  | EXT. PROVINENCE 3
+dialogueCrew approaching p three. Commenced launch operation in T minus
+characterRACHEL (O.S)
+Add RACHEL  Crew approaching p three. Commenced launch operation in T minus
+----------
+row | 00:15:29 | 00:15:31 | RACHEL | twelve minutes. Standby for entry | INT. ANTARCTIC RESEARCH BASE - COMMAND CENTER - DAY
+dialoguetwelve minutes. Standby for entry
+characterRACHEL
+Add RACHEL twelve minutes. Standby for entry
+----------
+row | 00:15:33 | 00:16:05 |  |  | INT. PROVIDENCE 3 - MAIN CORRIDOR – NEXT
+
+The door opens – the crew climb down the ladder.
+dialogue
+character
+----------
+row | 00:16:05 | 00:16:07 | GORDON ATKINS | welcome to Providence.  | 
+dialoguewelcome to Providence.
+characterGORDON ATKINS
+Add GORDON ATKINS welcome to Providence.
+----------
+row | 00:16:09 | 00:16:12 | JOE MEEKER | Okay team, let's go. Go | 
+dialogueOkay team, let's go. Go
+characterJOE MEEKER
+Add JOE MEEKER Okay team, let's go. Go
+----------
+row | 00:16:12 | 00:16:16 | JOE MEEKER | . We've got 20 hours of life support. Takes 1 hour and 30 minutes to get to the sea bed.  | 
+dialogue. We've got 20 hours of life support. Takes 1 hour and 30 minutes to get to the sea bed.
+characterJOE MEEKER
+Add JOE MEEKER . We've got 20 hours of life support. Takes 1 hour and 30 minutes to get to the sea bed.
+----------
+row | 00:16:16 | 00:16:18 | JOE MEEKER | Let's not waste any oxygen.  | 
+dialogueLet's not waste any oxygen.
+characterJOE MEEKER
+Add JOE MEEKER Let's not waste any oxygen.
+----------
+row | 00:16:18 | 00:16:19 | GORDON ATKINS | Chris,  | Crew walk through the corridor and into another room.
+dialogueChris,
+characterGORDON ATKINS
+Add GORDON ATKINS Chris,
+----------
+row | 00:16:54 | 00:16:57 | JAMES PETERS | Man, oh, man. This is not a simulation anymore. | 
+dialogueMan, oh, man. This is not a simulation anymore.
+characterJAMES PETERS
+Add JAMES PETERS Man, oh, man. This is not a simulation anymore.
+----------
+row | 00:17:13 | 00:17:15 | CHRISTINE HARRIS | Ready to pilot that thing, jimmy. | 
+dialogueReady to pilot that thing, jimmy.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Ready to pilot that thing, jimmy.
+----------
+row | 00:17:17 | 00:17:21 | JAMES PETERS | I have a dreadful feeling I'm looking at my own very expensive coffin. | 
+dialogueI have a dreadful feeling I'm looking at my own very expensive coffin.
+characterJAMES PETERS
+Add JAMES PETERS I have a dreadful feeling I'm looking at my own very expensive coffin.
+----------
+row | 00:17:21 | 00:17:26 | CHRISTINE HARRIS | What, two months training wasn't enough for you? You're collecting rock samples, not landing on Mars. | 
+dialogueWhat, two months training wasn't enough for you? You're collecting rock samples, not landing on Mars.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS What, two months training wasn't enough for you? You're collecting rock samples, not landing on Mars.
+----------
+row | 00:17:29 | 00:17:31 | JAMES PETERS | What's the difference.  | 
+dialogueWhat's the difference.
+characterJAMES PETERS
+Add JAMES PETERS What's the difference.
+----------
+row | 00:17:31 | 00:17:36 | GORDON ATKINS | This is providence Three to DP control how do you copy? Over. | 
+dialogueThis is providence Three to DP control how do you copy? Over.
+characterGORDON ATKINS
+Add GORDON ATKINS This is providence Three to DP control how do you copy? Over.
+----------
+row | 00:17:36 | 00:17:38 | RACHEL | We're receiving you loud and clear, P three. | INT. ANTARCTIC RESEARCH BASE - COMMAND CENTER - DAY
+dialogueWe're receiving you loud and clear, P three.
+characterRACHEL
+Add RACHEL We're receiving you loud and clear, P three.
+----------
+row | 00:17:38 | 00:17:44 | GORDON ATKINS | Okay, you have a good comms. Voice here. Is that you, Miss Rachel? | INT. PROVIDENCE 3 - ROVER LAUNCH ROOM
+dialogueOkay, you have a good comms. Voice here. Is that you, Miss Rachel?
+characterGORDON ATKINS
+Add GORDON ATKINS Okay, you have a good comms. Voice here. Is that you, Miss Rachel?
+----------
+row | 00:17:43 | 00:17:45 | RACHEL | How's it looking out there, Gordon. | 
+dialogueHow's it looking out there, Gordon.
+characterRACHEL
+Add RACHEL How's it looking out there, Gordon.
+----------
+row | 00:17:49 | 00:17:52 | JOE MEEKER | Life support's good. O two levels good.  | 
+dialogueLife support's good. O two levels good.
+characterJOE MEEKER
+Add JOE MEEKER Life support's good. O two levels good.
+----------
+row | 00:17:53 | 00:18:00 | GORDON ATKINS | Oh, we're groovy. Apart from the fact there’s a thousand horrible ways to die down here at the bottom of the ocean.  | 
+dialogueOh, we're groovy. Apart from the fact there’s a thousand horrible ways to die down here at the bottom of the ocean.
+characterGORDON ATKINS
+Add GORDON ATKINS Oh, we're groovy. Apart from the fact there’s a thousand horrible ways to die down here at the bottom of the ocean.
+----------
+row | 00:18:02 | 00:18:04 | GORDON ATKINS | We're feeling pretty great about it.  | 
+dialogueWe're feeling pretty great about it.
+characterGORDON ATKINS
+Add GORDON ATKINS We're feeling pretty great about it.
+----------
+row | 00:18:08 | 00:18:09 | HANK O’CONNELL | Okay, Mr. Pickman?  | 
+dialogueOkay, Mr. Pickman?
+characterHANK O’CONNELL
+Add HANK O’CONNELL Okay, Mr. Pickman?
+----------
+row | 00:18:10 | 00:18:16 | JED PICKMAN | More than okay. She's remarkable. | 
+dialogueMore than okay. She's remarkable.
+characterJED PICKMAN
+Add JED PICKMAN More than okay. She's remarkable.
+----------
+row | 00:18:16 | 00:18:43 |  |  | Hank packs up the ladders and seals the door.
+dialogue
+character
+----------
+row | 00:18:43 | 00:18:44 | HANK O’CONNELL | Hutch is secure captain. | 
+dialogueHutch is secure captain.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Hutch is secure captain.
+----------
+row | 00:18:44 | 00:18:45 | GORDON ATKINS | Roger that Hank | 
+dialogueRoger that Hank
+characterGORDON ATKINS
+Add GORDON ATKINS Roger that Hank
+----------
+row | 00:18:48 | 00:18:54 | GORDON ATKINS | Be advised, we are in position and go for launch ops.  | 
+dialogueBe advised, we are in position and go for launch ops.
+characterGORDON ATKINS
+Add GORDON ATKINS Be advised, we are in position and go for launch ops.
+----------
+row | 00:18:54 | 00:18:57 | CAMERON | Three minutes to commence launch operation over.  | 
+dialogueThree minutes to commence launch operation over.
+characterCAMERON
+Add CAMERON Three minutes to commence launch operation over.
+----------
+row | 00:18:57 | 00:19:01 | GORDON ATKINS | Roger that, DP control. I'm going to open the vents. | 
+dialogueRoger that, DP control. I'm going to open the vents.
+characterGORDON ATKINS
+Add GORDON ATKINS Roger that, DP control. I'm going to open the vents.
+----------
+row | 00:19:02 | 00:19:03 | CHRISTINE HARRIS | We are clear to vent. | 
+dialogueWe are clear to vent.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We are clear to vent.
+----------
+row | 00:19:04 | 00:19:05 |  | Opening now.  | 
+dialogueOpening now.
+character
+Add CHRISTINE HARRIS Opening now.
+----------
+row | 00:19:05 | 00:19:38 |  |  | The whole room appears to shake slightly, the sound of air
+leaving the vents RUMBLES outside...
+dialogue
+character
+----------
+row | 00:19:38 | 00:19:45 | HANK O’CONNELL | Don't worry. If it buckles, the whole thing will implode at hypersonic speed and we'll be jelly in a matter of microseconds.  | 
+dialogueDon't worry. If it buckles, the whole thing will implode at hypersonic speed and we'll be jelly in a matter of microseconds.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Don't worry. If it buckles, the whole thing will implode at hypersonic speed and we'll be jelly in a matter of microseconds.
+----------
+row | 00:19:46 | 00:19:47 | JAMES PETERS | What?  | 
+dialogueWhat?
+characterJAMES PETERS
+Add JAMES PETERS What?
+----------
+row | 00:19:48 | 00:19:53 | HANK O’CONNELL | We won't have time to even know it's happened. | 
+dialogueWe won't have time to even know it's happened.
+characterHANK O’CONNELL
+Add HANK O’CONNELL We won't have time to even know it's happened.
+----------
+row | 00:19:53 | 00:20:17 |  |  | INT. PROVIDENCE 3 - ON-BOARD LAB - NEXT 42
+The door slides open and the lab lights flicker on.
+Jed Pickman enters and examines the room. As he touches box it lights up.
+dialogue
+character
+----------
+row | 00:20:17 | 00:20:19 | JOE MEEKER | Pre-dive safety briefing's already
+completed. | INT. PROVIDENCE 3 - COCKPIT / COMMAND CENTER - INTERCUT
+dialoguePre-dive safety briefing's alreadycompleted.
+characterJOE MEEKER
+Add JOE MEEKER Pre-dive safety briefing's alreadycompleted.
+----------
+row | 00:20:19 | 00:20:22 | RACHEL | All right, P three. Let's do final checks. | 
+dialogueAll right, P three. Let's do final checks.
+characterRACHEL
+Add RACHEL All right, P three. Let's do final checks.
+----------
+row | 00:20:22 | 00:20:23 | GORDON ATKINS | Final checks. | 
+dialogueFinal checks.
+characterGORDON ATKINS
+Add GORDON ATKINS Final checks.
+----------
+row | 00:20:23 | 00:20:28 | CHRISTINE HARRIS | Vision one. CO2 is running at 0.3%.  | 
+dialogueVision one. CO2 is running at 0.3%.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Vision one. CO2 is running at 0.3%.
+----------
+row | 00:20:28 | 00:20:31 | CHRISTINE HARRIS | Scrubber fan is running. Depth gauge is working. Compass is working. | 
+dialogueScrubber fan is running. Depth gauge is working. Compass is working.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Scrubber fan is running. Depth gauge is working. Compass is working.
+----------
+row | 00:20:31 | 00:20:36 | GORDON ATKINS | Okay, I think we're ready. DP control, we are clear to launch. | 
+dialogueOkay, I think we're ready. DP control, we are clear to launch.
+characterGORDON ATKINS
+Add GORDON ATKINS Okay, I think we're ready. DP control, we are clear to launch.
+----------
+row | 00:20:36 | 00:20:37 | JULIA GOLDSTEIN | Affirmative.  | 
+dialogueAffirmative.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Affirmative.
+----------
+row | 00:20:37 | 00:20:41 | RACHEL | Good luck on your voyage to the deep. P three, you have permission to dive. | 
+dialogueGood luck on your voyage to the deep. P three, you have permission to dive.
+characterRACHEL
+Add RACHEL Good luck on your voyage to the deep. P three, you have permission to dive.
+----------
+row | 00:20:42 | 00:20:45 | GORDON ATKINS | Copy that. And heading down.  | 
+dialogueCopy that. And heading down.
+characterGORDON ATKINS
+Add GORDON ATKINS Copy that. And heading down.
+----------
+row | 00:20:48 | 00:20:52 | JOE MEEKER | Say goodbye to the surface. Worlds  | 
+dialogueSay goodbye to the surface. Worlds
+characterJOE MEEKER
+Add JOE MEEKER Say goodbye to the surface. Worlds
+----------
+row | 00:21:00 | 00:21:01 | CHRISTINE HARRIS | Approaching 20 metres.  | 
+dialogueApproaching 20 metres.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Approaching 20 metres.
+----------
+row | 00:21:01 | 00:21:02 | GORDON ATKINS | Vents are secure. | 
+dialogueVents are secure.
+characterGORDON ATKINS
+Add GORDON ATKINS Vents are secure.
+----------
+row | 00:21:04 | 00:21:05 | CHRISTINE HARRIS | 40 metres | 
+dialogue40 metres
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS 40 metres
+----------
+row | 00:21:07 | 00:21:09 | RACHEL | P three, what's your speed? | 
+dialogueP three, what's your speed?
+characterRACHEL
+Add RACHEL P three, what's your speed?
+----------
+row | 00:21:09 | 00:21:13 | GORDON ATKINS | Vertical speed 3.4 knots. I have good control. | 
+dialogueVertical speed 3.4 knots. I have good control.
+characterGORDON ATKINS
+Add GORDON ATKINS Vertical speed 3.4 knots. I have good control.
+----------
+row | 00:21:13 | 00:21:14 | RACHEL | Copy that. | 
+dialogueCopy that.
+characterRACHEL
+Add RACHEL Copy that.
+----------
+row | 00:21:14 | 00:21:17 | CHRISTINE HARRIS | We're losing light already  | 
+dialogueWe're losing light already
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We're losing light already
+----------
+row | 00:21:17 | 00:21:18 | CAMERON | approaching 100 metres. | 
+dialogueapproaching 100 metres.
+characterCAMERON
+Add CAMERON approaching 100 metres.
+----------
+row | 00:21:18 | 00:21:21 | JULIA GOLDSTEIN | Okay, team, good job.  | 
+dialogueOkay, team, good job.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Okay, team, good job.
+----------
+row | 00:21:21 | 00:21:22 | RACHEL | Right on course.  | 
+dialogueRight on course.
+characterRACHEL
+Add RACHEL Right on course.
+----------
+row | 00:21:22 | 00:21:32 |  |  | EXT. ANTARCTIC OCEAN – SAME
+Providence 3 is making it’s way deeper into the ocean
+dialogue
+character
+----------
+row | 00:21:32 | 00:21:35 | CHRISTINE HARRIS | 10,500 metres. Five minutes. Till target depth. | INT. PROVIDENCE 3 - COCKPIT - LATER
+dialogue10,500 metres. Five minutes. Till target depth.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS 10,500 metres. Five minutes. Till target depth.
+----------
+row | 00:21:35 | 00:21:38 | GORDON ATKINS | In 400 metres. We've set a new record.  | 
+dialogueIn 400 metres. We've set a new record.
+characterGORDON ATKINS
+Add GORDON ATKINS In 400 metres. We've set a new record.
+----------
+row | 00:21:43 | 00:21:44 | HANK O’CONNELL | The pressure lock  | 
+dialogueThe pressure lock
+characterHANK O’CONNELL
+Add HANK O’CONNELL The pressure lock
+----------
+row | 00:21:56 | 00:21:58 | HANK O’CONNELL | once the rover is fully submerged. We seal you in.  | 
+dialogueonce the rover is fully submerged. We seal you in.
+characterHANK O’CONNELL
+Add HANK O’CONNELL once the rover is fully submerged. We seal you in.
+----------
+row | 00:21:58 | 00:22:01 | HANK O’CONNELL | Then we activate the exit doors.  | 
+dialogueThen we activate the exit doors.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Then we activate the exit doors.
+----------
+row | 00:22:06 | 00:22:13 | HANK O’CONNELL | Then you're on your own out there. Ready to explore the deep. Just remember your training piece of cake. | Christine runs into the room
+dialogueThen you're on your own out there. Ready to explore the deep. Just remember your training piece of cake.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Then you're on your own out there. Ready to explore the deep. Just remember your training piece of cake.
+----------
+row | 00:22:14 | 00:22:17 | CHRISTINE HARRIS | Hank. Jim. You need to come and see this.  | Christine runs into the cockpit followed by James and Hank
+dialogueHank. Jim. You need to come and see this.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Hank. Jim. You need to come and see this.
+----------
+row | 00:22:24 | 00:22:25 | JAMES PETERS | What is it  | 
+dialogueWhat is it
+characterJAMES PETERS
+Add JAMES PETERS What is it
+----------
+row | 00:22:25 | 00:22:26 | CHRISTINE HARRIS | turn on front spotlight. | 
+dialogueturn on front spotlight.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS turn on front spotlight.
+----------
+row | 00:22:28 | 00:22:31 | GORDON ATKINS | Are you ready to see this in person  | 
+dialogueAre you ready to see this in person
+characterGORDON ATKINS
+Add GORDON ATKINS Are you ready to see this in person
+----------
+row | 00:22:31 | 00:22:32 | JAMES PETERS | we're here already  | 
+dialoguewe're here already
+characterJAMES PETERS
+Add JAMES PETERS we're here already
+----------
+row | 00:22:32 | 00:22:34 | JOE MEEKER | x coordinates -26 y coordinates -79  | 
+dialoguex coordinates -26 y coordinates -79
+characterJOE MEEKER
+Add JOE MEEKER x coordinates -26 y coordinates -79
+----------
+row | 00:22:34 | 00:22:39 | GORDON ATKINS | DP control we have arrived it. | 
+dialogueDP control we have arrived it.
+characterGORDON ATKINS
+Add GORDON ATKINS DP control we have arrived it.
+----------
+row | 00:22:39 |  |  |  | Front spotlight is switched on revealing the doorway.
+dialogue
+character
+----------
+row | 00:22:53 | 00:22:56 | RACHEL | Just keep talking p3  | 
+dialogueJust keep talking p3
+characterRACHEL
+Add RACHEL Just keep talking p3
+----------
+row | 00:22:56 | 00:23:00 | GORDON ATKINS | we're looking at a huge carbonate structure a circular gateway.  | 
+dialoguewe're looking at a huge carbonate structure a circular gateway.
+characterGORDON ATKINS
+Add GORDON ATKINS we're looking at a huge carbonate structure a circular gateway.
+----------
+row | 00:23:01 | 00:23:02 | GORDON ATKINS | It's unreal.  | 
+dialogueIt's unreal.
+characterGORDON ATKINS
+Add GORDON ATKINS It's unreal.
+----------
+row | 00:23:02 | 00:23:04 | JOE MEEKER | Yeah. Planet earth's butthole just where I want to be. | 
+dialogueYeah. Planet earth's butthole just where I want to be.
+characterJOE MEEKER
+Add JOE MEEKER Yeah. Planet earth's butthole just where I want to be.
+----------
+row | 00:23:04 | 00:23:08 | CHRISTINE HARRIS | no volcanic activity causes this kind of detail. | 
+dialogueno volcanic activity causes this kind of detail.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS no volcanic activity causes this kind of detail.
+----------
+row | 00:23:08 | 00:23:10 | CHRISTINE HARRIS | These rocks were put here  | 
+dialogueThese rocks were put here
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS These rocks were put here
+----------
+row | 00:23:10 | 00:23:12 | JAMES PETERS | by what they're the size of houses. | 
+dialogueby what they're the size of houses.
+characterJAMES PETERS
+Add JAMES PETERS by what they're the size of houses.
+----------
+row | 00:23:12 | 00:23:16 | CHRISTINE HARRIS | All I know is that this place will teach us more than we've ever dreamed. | 
+dialogueAll I know is that this place will teach us more than we've ever dreamed.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS All I know is that this place will teach us more than we've ever dreamed.
+----------
+row | 00:23:16 | 00:23:23 | GORDON ATKINS | I'm easing us into the gateway. Speed is 2.3 knots.  | 
+dialogueI'm easing us into the gateway. Speed is 2.3 knots.
+characterGORDON ATKINS
+Add GORDON ATKINS I'm easing us into the gateway. Speed is 2.3 knots.
+----------
+row | 00:23:23 | 00:23:30 | GORDON ATKINS | Spotlights are facing forward. But we're just headed into absolute darkness. | 
+dialogueSpotlights are facing forward. But we're just headed into absolute darkness.
+characterGORDON ATKINS
+Add GORDON ATKINS Spotlights are facing forward. But we're just headed into absolute darkness.
+----------
+row | 00:23:30 | 00:23:34 | RACHEL | P three, you must keep talking to us as you move into the gateway. | 
+dialogueP three, you must keep talking to us as you move into the gateway.
+characterRACHEL
+Add RACHEL P three, you must keep talking to us as you move into the gateway.
+----------
+row | 00:23:34 | 00:23:37 | CAMERON | Signal is currently running at 100%. Everything's stable.  | 
+dialogueSignal is currently running at 100%. Everything's stable.
+characterCAMERON
+Add CAMERON Signal is currently running at 100%. Everything's stable.
+----------
+row | 00:23:38 | 00:23:39 | CAMERON | Picture is all good on front and rear cams. | 
+dialoguePicture is all good on front and rear cams.
+characterCAMERON
+Add CAMERON Picture is all good on front and rear cams.
+----------
+row | 00:23:39 | 00:23:40 | CHRISTINE HARRIS | You're loud and clear. | 
+dialogueYou're loud and clear.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You're loud and clear.
+----------
+row | 00:23:40 | 00:23:48 |  |  | EXT. ANTARTIC OCEAN
+
+P3 heads into the gateway.
+dialogue
+character
+----------
+row | 00:23:48 | 00:24:10 |  |  | Jed Pickman wanders down the corridor, the LIGHTS FLICKER
+dialogue
+character
+----------
+row | 00:24:10 | 00:24:12 |  |  | On the walls of the corridor, wet condensation is
+travelling UP the walls, unnatural, like gravity is shifting.
+dialogue
+character
+----------
+row | 00:24:12 | 00:24:16 |  |  | The corridor starts to shake violently
+dialogue
+character
+----------
+row | 00:24:14 | 00:24:15 | CHRISTINE HARRIS | GORDAN | 
+dialogueGORDAN
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS GORDAN
+----------
+row | 00:24:17 | 00:24:18 | GORDON ATKINS | Everything is shutting down. | 
+dialogueEverything is shutting down.
+characterGORDON ATKINS
+Add GORDON ATKINS Everything is shutting down.
+----------
+row | 00:24:18 | 00:24:19 | RACHEL | What’s going on down there? | 
+dialogueWhat’s going on down there?
+characterRACHEL
+Add RACHEL What’s going on down there?
+----------
+row | 00:24:19 | 00:24:20 | GORDON ATKINS | I’ve lost thrust | 
+dialogueI’ve lost thrust
+characterGORDON ATKINS
+Add GORDON ATKINS I’ve lost thrust
+----------
+row | 00:24:20 | 00:24:21 | GORDON ATKINS | Hank! | 
+dialogueHank!
+characterGORDON ATKINS
+Add GORDON ATKINS Hank!
+----------
+row | 00:24:21 | 00:24:22 | RACHEL | P3 come in! | 
+dialogueP3 come in!
+characterRACHEL
+Add RACHEL P3 come in!
+----------
+row | 00:24:22 | 00:24:24 | JULIA GOLDSTEIN | Try to get better signal.  | 
+dialogueTry to get better signal.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Try to get better signal.
+----------
+row | 00:24:24 | 00:24:25 | RACHEL | I am trying. | 
+dialogueI am trying.
+characterRACHEL
+Add RACHEL I am trying.
+----------
+row | 00:24:25 | 00:24:27 |  |  | A strange ALIEN SCREECHING plays through the headset and
+Rachel and Cameron throw them off, shielding their ears!
+dialogue
+character
+----------
+row | 00:24:31 | 00:24:32 | GORDON ATKINS | Activate emergency power. | 
+dialogueActivate emergency power.
+characterGORDON ATKINS
+Add GORDON ATKINS Activate emergency power.
+----------
+row | 00:24:36 | 00:24:38 | CHRISTINE HARRIS | DB control, are you reading?  | 
+dialogueDB control, are you reading?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS DB control, are you reading?
+----------
+row | 00:24:39 | 00:24:43 | CHRISTINE HARRIS | Come in, DB control. Rachel, can you hear us? | 
+dialogueCome in, DB control. Rachel, can you hear us?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Come in, DB control. Rachel, can you hear us?
+----------
+row | 00:24:43 | 00:24:45 | GORDON ATKINS | We've lost them.  | 
+dialogueWe've lost them.
+characterGORDON ATKINS
+Add GORDON ATKINS We've lost them.
+----------
+row | 00:24:45 | 00:24:47 | JAMES PETERS | Hey, everybody just cool it, all right?  | 
+dialogueHey, everybody just cool it, all right?
+characterJAMES PETERS
+Add JAMES PETERS Hey, everybody just cool it, all right?
+----------
+row | 00:24:48 | 00:24:50 | HANK O’CONNELL | Gordon, are the thrusters still malfunctioning?  | 
+dialogueGordon, are the thrusters still malfunctioning?
+characterHANK O’CONNELL
+Add HANK O’CONNELL Gordon, are the thrusters still malfunctioning?
+----------
+row | 00:24:50 | 00:24:52 | GORDON ATKINS | It's everything, Hank. Everything is shut down. | 
+dialogueIt's everything, Hank. Everything is shut down.
+characterGORDON ATKINS
+Add GORDON ATKINS It's everything, Hank. Everything is shut down.
+----------
+row | 00:24:52 | 00:24:56 | CHRISTINE HARRIS | We're still sinking. Depth is approaching 1100 metres. | 
+dialogueWe're still sinking. Depth is approaching 1100 metres.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We're still sinking. Depth is approaching 1100 metres.
+----------
+row | 00:24:56 | 00:24:58 | GORDON ATKINS | I'm dropping our weights. We can't just sit here. | 
+dialogueI'm dropping our weights. We can't just sit here.
+characterGORDON ATKINS
+Add GORDON ATKINS I'm dropping our weights. We can't just sit here.
+----------
+row | 00:24:58 | 00:25:04 | HANK O’CONNELL | stop. Hang on, Gordon. Not yet. Give it a chance. Remember where we are. We made it.  | 
+dialoguestop. Hang on, Gordon. Not yet. Give it a chance. Remember where we are. We made it.
+characterHANK O’CONNELL
+Add HANK O’CONNELL stop. Hang on, Gordon. Not yet. Give it a chance. Remember where we are. We made it.
+----------
+row | 00:25:04 | 00:25:05 | JOE MEEKER | I’m going to find Pickman.  | 
+dialogueI’m going to find Pickman.
+characterJOE MEEKER
+Add JOE MEEKER I’m going to find Pickman.
+----------
+row | 00:25:05 | 00:25:08 | JAMES PETERS | Wait. Take this. | James hands Joe a torch.
+dialogueWait. Take this.
+characterJAMES PETERS
+Add JAMES PETERS Wait. Take this.
+----------
+row | 00:25:13 | 00:25:15 | CHRISTINE HARRIS | I guess we're on our own down there then. | 
+dialogueI guess we're on our own down there then.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I guess we're on our own down there then.
+----------
+row | 00:25:20 | 00:25:22 | JOE MEEKER | Jesus. Pickman  | INT. PROVIDENCE 3 - ROVER LAUNCH ROOM - SAME
+dialogueJesus. Pickman
+characterJOE MEEKER
+Add JOE MEEKER Jesus. Pickman
+----------
+row | 00:25:25 | 00:25:26 | JED PICKMAN | We found them.  | 
+dialogueWe found them.
+characterJED PICKMAN
+Add JED PICKMAN We found them.
+----------
+row | 00:25:32 | 00:25:33 | HANK O’CONNELL | All right. We're back on  | INT. PROVIDENCE 3 - COCKPIT / COMMAND CENTER - INTERCUT
+dialogueAll right. We're back on
+characterHANK O’CONNELL
+Add HANK O’CONNELL All right. We're back on
+----------
+row | 00:25:35 | 00:25:40 | RACHEL | p. Three. Do you copy? Come in p three. | 
+dialoguep. Three. Do you copy? Come in p three.
+characterRACHEL
+Add RACHEL p. Three. Do you copy? Come in p three.
+----------
+row | 00:25:40 | 00:25:42 | CHRISTINE HARRIS | TP control, we copy.  | 
+dialogueTP control, we copy.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS TP control, we copy.
+----------
+row | 00:25:42 | 00:25:43 | RACHEL | What happened down there?  | 
+dialogueWhat happened down there?
+characterRACHEL
+Add RACHEL What happened down there?
+----------
+row | 00:25:43 | 00:25:47 | CHRISTINE HARRIS | Looks like we lost power and we entered the portal. We've definitely stumbled on something here.  | 
+dialogueLooks like we lost power and we entered the portal. We've definitely stumbled on something here.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Looks like we lost power and we entered the portal. We've definitely stumbled on something here.
+----------
+row | 00:25:47 | 00:25:52 | RACHEL | 3 hours of radio silence. You don't know how glad I am to hear your voice. | 
+dialogue3 hours of radio silence. You don't know how glad I am to hear your voice.
+characterRACHEL
+Add RACHEL 3 hours of radio silence. You don't know how glad I am to hear your voice.
+----------
+row | 00:25:52 | 00:25:55 | HANK O’CONNELL | 3 hours? Did she say 3 hours? | 
+dialogue3 hours? Did she say 3 hours?
+characterHANK O’CONNELL
+Add HANK O’CONNELL 3 hours? Did she say 3 hours?
+----------
+row | 00:25:55 | 00:25:59 | CHRISTINE HARRIS | Please repeat DP Control, how long did you say we were out of contact?  | 
+dialoguePlease repeat DP Control, how long did you say we were out of contact?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Please repeat DP Control, how long did you say we were out of contact?
+----------
+row | 00:25:59 | 00:26:02 | RACHEL | 3 hours and twelve minutes since your last transmission, P. Three.  | 
+dialogue3 hours and twelve minutes since your last transmission, P. Three.
+characterRACHEL
+Add RACHEL 3 hours and twelve minutes since your last transmission, P. Three.
+----------
+row | 00:26:02 | 00:26:03 | CHRISTINE HARRIS | That's impossible. | 
+dialogueThat's impossible.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS That's impossible.
+----------
+row | 00:26:03 | 00:26:05 | GORDON ATKINS | Hank, check our life support  | 
+dialogueHank, check our life support
+characterGORDON ATKINS
+Add GORDON ATKINS Hank, check our life support
+----------
+row | 00:26:13 | 00:26:16 | HANK O’CONNELL | Life support has decreased approximately 3 hours. She's right. | 
+dialogueLife support has decreased approximately 3 hours. She's right.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Life support has decreased approximately 3 hours. She's right.
+----------
+row | 00:26:16 | 00:26:18 | CHRISTINE HARRIS | What does that mean? | 
+dialogueWhat does that mean?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS What does that mean?
+----------
+row | 00:26:18 | 00:26:21 | CAMERON | We're not getting anything up here. P. Three.  | 
+dialogueWe're not getting anything up here. P. Three.
+characterCAMERON
+Add CAMERON We're not getting anything up here. P. Three.
+----------
+row | 00:26:21 | 00:26:22 | CAMERON | There's disruption on the feed. A lot of static interference. | 
+dialogueThere's disruption on the feed. A lot of static interference.
+characterCAMERON
+Add CAMERON There's disruption on the feed. A lot of static interference.
+----------
+row | 00:26:23 | 00:26:24 | CHRISTINE HARRIS | Oh, my God. | 
+dialogueOh, my God.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Oh, my God.
+----------
+row | 00:26:27 | 00:26:29 | GORDON ATKINS | Describe what we're looking at. | 
+dialogueDescribe what we're looking at.
+characterGORDON ATKINS
+Add GORDON ATKINS Describe what we're looking at.
+----------
+row | 00:26:31 | 00:26:40 | CHRISTINE HARRIS | Okay. I hope you can hear me clearly enough. We're drifting above a huge, ancient ruin.  | 
+dialogueOkay. I hope you can hear me clearly enough. We're drifting above a huge, ancient ruin.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Okay. I hope you can hear me clearly enough. We're drifting above a huge, ancient ruin.
+----------
+row | 00:26:41 | 00:26:49 | CHRISTINE HARRIS | There are decayed stone structures as big as mountains. How could there have ever been life down here? | 
+dialogueThere are decayed stone structures as big as mountains. How could there have ever been life down here?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS There are decayed stone structures as big as mountains. How could there have ever been life down here?
+----------
+row | 00:26:49 | 00:26:50 | JAMES PETERS | Sunlight could have never reached this place. | 
+dialogueSunlight could have never reached this place.
+characterJAMES PETERS
+Add JAMES PETERS Sunlight could have never reached this place.
+----------
+row | 00:26:50 | 00:25:55 | CHRISTINE HARRIS | That implies a whole new basis of life. One that doesn't need the sun, only water  | 
+dialogueThat implies a whole new basis of life. One that doesn't need the sun, only water
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS That implies a whole new basis of life. One that doesn't need the sun, only water
+----------
+row | 00:25:55 | 00:25:56 | GORDON ATKINS | and darkness. | 
+dialogueand darkness.
+characterGORDON ATKINS
+Add GORDON ATKINS and darkness.
+----------
+row | 00:26:56 | 00:26:59 | JAMES PETERS | Maybe it wasn't always underwater.  | 
+dialogueMaybe it wasn't always underwater.
+characterJAMES PETERS
+Add JAMES PETERS Maybe it wasn't always underwater.
+----------
+row | 00:27:00 | 00:27:03 | GORDON ATKINS | There's something on the seabed.  | 
+dialogueThere's something on the seabed.
+characterGORDON ATKINS
+Add GORDON ATKINS There's something on the seabed.
+----------
+row | 00:27:04 | 00:27:07 | JAMES PETERS | Manoeuvre, the camera pan down. Get a better view of it. | 
+dialogueManoeuvre, the camera pan down. Get a better view of it.
+characterJAMES PETERS
+Add JAMES PETERS Manoeuvre, the camera pan down. Get a better view of it.
+----------
+row | 00:27:15 | 00:27:17 | CHRISTINE HARRIS | Rachel, are you seeing this? | 
+dialogueRachel, are you seeing this?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Rachel, are you seeing this?
+----------
+row | 00:27:18 | 00:27:23 | CAMERON | I think I'm getting something. Look. | 
+dialogueI think I'm getting something. Look.
+characterCAMERON
+Add CAMERON I think I'm getting something. Look.
+----------
+row | 00:27:25 | 00:27:30 | RACHEL | That looks like some kind of life form, doesn't it?  | 
+dialogueThat looks like some kind of life form, doesn't it?
+characterRACHEL
+Add RACHEL That looks like some kind of life form, doesn't it?
+----------
+row | 00:27:30 | 00:27:31 | CHRISTINE HARRIS | Copy that. | 
+dialogueCopy that.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Copy that.
+----------
+row | 00:27:31 | 00:27:32 | GORDON ATKINS | Impossible. | 
+dialogueImpossible.
+characterGORDON ATKINS
+Add GORDON ATKINS Impossible.
+----------
+row | 00:27:33 | 00:27:37 | CHRISTINE HARRIS | It's definitely some sort of remains buried under centuries of sediment buildup.  | 
+dialogueIt's definitely some sort of remains buried under centuries of sediment buildup.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS It's definitely some sort of remains buried under centuries of sediment buildup.
+----------
+row | 00:27:38 | 00:27:41 | JULIA GOLDSTEIN | I want to get a closer look at that. Where is Mr. Peters?  | 
+dialogueI want to get a closer look at that. Where is Mr. Peters?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN I want to get a closer look at that. Where is Mr. Peters?
+----------
+row | 00:27:41 | 00:27:42 | CHRISTINE HARRIS | He's right here. | Christine hands the headset over to James
+dialogueHe's right here.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS He's right here.
+----------
+row | 00:27:44 | 00:27:45 | JAMES PETERS | Peters. | 
+dialoguePeters.
+characterJAMES PETERS
+Add JAMES PETERS Peters.
+----------
+row | 00:27:45 | 00:27:51 | JULIA GOLDSTEIN | James, I need a tissue sample from that deep sea organism, whatever it is. Understood. | 
+dialogueJames, I need a tissue sample from that deep sea organism, whatever it is. Understood.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN James, I need a tissue sample from that deep sea organism, whatever it is. Understood.
+----------
+row | 00:27:51 | 00:27:52 | JAMES PETERS | Copy that.  | 
+dialogueCopy that.
+characterJAMES PETERS
+Add JAMES PETERS Copy that.
+----------
+row | 00:27:59 | 00:28:04 | JED PICKMAN | This is the payoff. The answer to our deepest wonders.  | 
+dialogueThis is the payoff. The answer to our deepest wonders.
+characterJED PICKMAN
+Add JED PICKMAN This is the payoff. The answer to our deepest wonders.
+----------
+row | 00:28:05 | 00:28:11 | JED PICKMAN | So many secrets we must know. It's on you, Jim.  | 
+dialogueSo many secrets we must know. It's on you, Jim.
+characterJED PICKMAN
+Add JED PICKMAN So many secrets we must know. It's on you, Jim.
+----------
+row | 00:28:42 | 00:28:43 | CHRISTINE HARRIS | You’re going to be alright  | INT. PROVIDENCE 3 / ROVER - ROVER LAUNCH ROOM – NEXT
+James goes into the rover.
+dialogueYou’re going to be alright
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You’re going to be alright
+----------
+row | 00:28:44 | 00:28:45 | JAMES PETERS | Yeah | 
+dialogueYeah
+characterJAMES PETERS
+Add JAMES PETERS Yeah
+----------
+row | 00:29:08 | 00:29:09 | JAMES PETERS | I’ll be alright. | 
+dialogueI’ll be alright.
+characterJAMES PETERS
+Add JAMES PETERS I’ll be alright.
+----------
+row | 00:29:10 | 00:29:12 | HANK O’CONNELL | repressurizing lock.  | 
+dialoguerepressurizing lock.
+characterHANK O’CONNELL
+Add HANK O’CONNELL repressurizing lock.
+----------
+row | 00:29:12 | 00:29:13 | HANK O’CONNELL | Brace for launch, Jim.  | Hank presses button
+dialogueBrace for launch, Jim.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Brace for launch, Jim.
+----------
+row | 00:29:13 | 00:29:38 |  |  | Rover lowered into water and the doors shut
+dialogue
+character
+----------
+row | 00:29:38 | 00:29:40 | HANK O’CONNELL | Rover clear for launch | 
+dialogueRover clear for launch
+characterHANK O’CONNELL
+Add HANK O’CONNELL Rover clear for launch
+----------
+row | 00:29:40 | 00:29:44 | GORDON ATKINS | Opening pressure Lock outer doors now.  | 
+dialogueOpening pressure Lock outer doors now.
+characterGORDON ATKINS
+Add GORDON ATKINS Opening pressure Lock outer doors now.
+----------
+row | 00:29:49 | 00:29:51 | HANK O’CONNELL | Launch successful.  | INT. PROVIDENCE 3 – COCKPIT
+Christine returns to cockpit
+dialogueLaunch successful.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Launch successful.
+----------
+row | 00:29:51 | 00:29:52 | GORDON ATKINS | You okay? | 
+dialogueYou okay?
+characterGORDON ATKINS
+Add GORDON ATKINS You okay?
+----------
+row | 00:29:52 | 00:29:54 | CHRISTINE HARRIS | Just don't let anything happen to him out there. | 
+dialogueJust don't let anything happen to him out there.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Just don't let anything happen to him out there.
+----------
+row | 00:29:56 | 00:29:58 | GORDON ATKINS | Jim, are you receiving  | 
+dialogueJim, are you receiving
+characterGORDON ATKINS
+Add GORDON ATKINS Jim, are you receiving
+----------
+row | 00:29:58 | 00:29:59 | JAMES PETERS | life support's All good.  | 
+dialoguelife support's All good.
+characterJAMES PETERS
+Add JAMES PETERS life support's All good.
+----------
+row | 00:30:00 | 00:30:04 | JAMES PETERS | There's more current down here than I expected, but I've got good control.  | 
+dialogueThere's more current down here than I expected, but I've got good control.
+characterJAMES PETERS
+Add JAMES PETERS There's more current down here than I expected, but I've got good control.
+----------
+row | 00:30:04 | 00:30:07 | GORDON ATKINS | Okay, take her down.  | 
+dialogueOkay, take her down.
+characterGORDON ATKINS
+Add GORDON ATKINS Okay, take her down.
+----------
+row | 00:30:07 | 00:30:12 | JAMES PETERS | All lights facing down. Increasing vertical speed to 1.4 knots. | 
+dialogueAll lights facing down. Increasing vertical speed to 1.4 knots.
+characterJAMES PETERS
+Add JAMES PETERS All lights facing down. Increasing vertical speed to 1.4 knots.
+----------
+row | 00:30:12 | 00:30:15 | CHRISTINE HARRIS | You're doing good, Jim. 38,000ft. | 
+dialogueYou're doing good, Jim. 38,000ft.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You're doing good, Jim. 38,000ft.
+----------
+row | 00:30:15 | 00:30:19 | JAMES PETERS | Oh, man. Feels pretty lonely out here right now. | 
+dialogueOh, man. Feels pretty lonely out here right now.
+characterJAMES PETERS
+Add JAMES PETERS Oh, man. Feels pretty lonely out here right now.
+----------
+row | 00:30:19 | 00:30:21 | CHRISTINE HARRIS | We're right here with you, Jim. | 
+dialogueWe're right here with you, Jim.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We're right here with you, Jim.
+----------
+row | 00:30:26 | 00:30:28 | JAMES PETERS | Guys, are you seeing this? | 
+dialogueGuys, are you seeing this?
+characterJAMES PETERS
+Add JAMES PETERS Guys, are you seeing this?
+----------
+row | 00:30:35 | 00:30:37 | CHRISTINE HARRIS | Clear image from our rover cams. | 
+dialogueClear image from our rover cams.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Clear image from our rover cams.
+----------
+row | 00:30:37 | 00:30:38 | GORDON ATKINS | Gently now.  | 
+dialogueGently now.
+characterGORDON ATKINS
+Add GORDON ATKINS Gently now.
+----------
+row | 00:30:38 | 00:30:41 | JAMES PETERS | 300 units of down thrust. | 
+dialogue300 units of down thrust.
+characterJAMES PETERS
+Add JAMES PETERS 300 units of down thrust.
+----------
+row | 00:30:41 | 00:30:44 | CHRISTINE HARRIS | Take it easy, Jim. You're right on top of that thing. | 
+dialogueTake it easy, Jim. You're right on top of that thing.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Take it easy, Jim. You're right on top of that thing.
+----------
+row | 00:30:44 | 00:30:47 | JED PECKHAM | Look at that creature.  | 
+dialogueLook at that creature.
+characterJED PECKHAM
+Add JED PECKHAM Look at that creature.
+----------
+row | 00:30:54 | 00:30:56 | JAMES PETERS | What was this?  | 
+dialogueWhat was this?
+characterJAMES PETERS
+Add JAMES PETERS What was this?
+----------
+row | 00:30:56 | 00:31:00 | GORDON ATKINS | Starboard 20 degrees and ease her down.  | 
+dialogueStarboard 20 degrees and ease her down.
+characterGORDON ATKINS
+Add GORDON ATKINS Starboard 20 degrees and ease her down.
+----------
+row | 00:31:00 | 00:31:04 | JAMES PETERS | Whatever this thing was, it's colossal up close. Could have been as tall as the Empire State Building.  | 
+dialogueWhatever this thing was, it's colossal up close. Could have been as tall as the Empire State Building.
+characterJAMES PETERS
+Add JAMES PETERS Whatever this thing was, it's colossal up close. Could have been as tall as the Empire State Building.
+----------
+row | 00:31:04 | 00:31:09 | JOE MEEKER | Okay, Jim, you can't afford to waste much time. Get the tissue sample. Get the hell out of there.  | 
+dialogueOkay, Jim, you can't afford to waste much time. Get the tissue sample. Get the hell out of there.
+characterJOE MEEKER
+Add JOE MEEKER Okay, Jim, you can't afford to waste much time. Get the tissue sample. Get the hell out of there.
+----------
+row | 00:31:09 | 00:31:10 | JAMES PETERS | Affirmative. I'm in position. | 
+dialogueAffirmative. I'm in position.
+characterJAMES PETERS
+Add JAMES PETERS Affirmative. I'm in position.
+----------
+row | 00:31:10 | 00:31:13 | CHRISTINE HARRIS | His depth gauge isn't reading anything. Should we be worried? | 
+dialogueHis depth gauge isn't reading anything. Should we be worried?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS His depth gauge isn't reading anything. Should we be worried?
+----------
+row | 00:31:13 | 00:31:15 | JOE MEEKER | We haven't got time to worry. He's doing fine.  | 
+dialogueWe haven't got time to worry. He's doing fine.
+characterJOE MEEKER
+Add JOE MEEKER We haven't got time to worry. He's doing fine.
+----------
+row | 00:31:18 | 00:31:20 | GORDON ATKINS | Nice and easy.  | 
+dialogueNice and easy.
+characterGORDON ATKINS
+Add GORDON ATKINS Nice and easy.
+----------
+row | 00:31:20 | 00:31:25 | JAMES PETERS | Oh, Jesus. It's like whale blubber. Looks like some sort of cephalopod  | 
+dialogueOh, Jesus. It's like whale blubber. Looks like some sort of cephalopod
+characterJAMES PETERS
+Add JAMES PETERS Oh, Jesus. It's like whale blubber. Looks like some sort of cephalopod
+----------
+row | 00:31:25 | 00:31:29 | JED PECKHAM | deep sea gigantism on an epic scale. | 
+dialoguedeep sea gigantism on an epic scale.
+characterJED PECKHAM
+Add JED PECKHAM deep sea gigantism on an epic scale.
+----------
+row | 00:31:29 | 00:31:35 | CHRISTINE HARRIS | I can't understand how it hasn't deteriorated. Maybe the dissolved oxygen levels down here. | 
+dialogueI can't understand how it hasn't deteriorated. Maybe the dissolved oxygen levels down here.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I can't understand how it hasn't deteriorated. Maybe the dissolved oxygen levels down here.
+----------
+row | 00:31:35 | 00:31:36 | JOE MEEKER | Makes you wonder how long it's been dead. | Something bangs against the sub
+dialogueMakes you wonder how long it's been dead.
+characterJOE MEEKER
+Add JOE MEEKER Makes you wonder how long it's been dead.
+----------
+row | 00:31:38 | 00:31:40 | CHRISTINE HARRIS | Guys, check out. Rear cam. Something's moving out there. | 
+dialogueGuys, check out. Rear cam. Something's moving out there.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Guys, check out. Rear cam. Something's moving out there.
+----------
+row | 00:31:40 | 00:31:41 | GORDON ATKINS | Moving? | 
+dialogueMoving?
+characterGORDON ATKINS
+Add GORDON ATKINS Moving?
+----------
+row | 00:31:41 | 00:31:42 | CHRISTINE HARRIS | You didn't see it? | 
+dialogueYou didn't see it?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You didn't see it?
+----------
+row | 00:31:42 | 00:31:45 | JAMES PETERS | I've almost finished the insision. I can't see shit out here. | 
+dialogueI've almost finished the insision. I can't see shit out here.
+characterJAMES PETERS
+Add JAMES PETERS I've almost finished the insision. I can't see shit out here.
+----------
+row | 00:31:45 | 00:31:46 | CHRISTINE HARRIS | Gordon. I'm picking up movement. | 
+dialogueGordon. I'm picking up movement.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Gordon. I'm picking up movement.
+----------
+row | 00:31:46 | 00:31:48 | GORDON ATKINS | Impossible. Nothing could be alive down here. | 
+dialogueImpossible. Nothing could be alive down here.
+characterGORDON ATKINS
+Add GORDON ATKINS Impossible. Nothing could be alive down here.
+----------
+row | 00:31:48 | 00:31:49 | CHRISTINE HARRIS | It's reading a lifeform. | 
+dialogueIt's reading a lifeform.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS It's reading a lifeform.
+----------
+row | 00:31:49 | 00:31:50 | JOE MEEKER | It's reading Jim. | 
+dialogueIt's reading Jim.
+characterJOE MEEKER
+Add JOE MEEKER It's reading Jim.
+----------
+row | 00:31:50 | 00:31:52 | CHRISTINE HARRIS | This is too big to be jim, this is massive. | 
+dialogueThis is too big to be jim, this is massive.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS This is too big to be jim, this is massive.
+----------
+row | 00:31:52 | 00:31:54 | JOE MEEKER | Well, then it's reading wrong. Everything's clitching since we entered the portal.  | 
+dialogueWell, then it's reading wrong. Everything's clitching since we entered the portal.
+characterJOE MEEKER
+Add JOE MEEKER Well, then it's reading wrong. Everything's clitching since we entered the portal.
+----------
+row | 00:31:54 | 00:31:57 | JOE MEEKER | Don't say anything until he's got the sample. He's nearly there. | 
+dialogueDon't say anything until he's got the sample. He's nearly there.
+characterJOE MEEKER
+Add JOE MEEKER Don't say anything until he's got the sample. He's nearly there.
+----------
+row | 00:31:57 | 00:31:58 | CHRISTINE HARRIS | He might be in danger. | 
+dialogueHe might be in danger.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS He might be in danger.
+----------
+row | 00:31:58 | 00:32:00 | JOE MEEKER | One more minute and he's got the sample. | 
+dialogueOne more minute and he's got the sample.
+characterJOE MEEKER
+Add JOE MEEKER One more minute and he's got the sample.
+----------
+row | 00:32:00 | 00:32:02 | CHRISTINE HARRIS | He might not have a minute. Let me talk to him. | 
+dialogueHe might not have a minute. Let me talk to him.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS He might not have a minute. Let me talk to him.
+----------
+row | 00:32:02 | 00:32:03 | GORDON ATKINS | NO!,  | 
+dialogueNO!,
+characterGORDON ATKINS
+Add GORDON ATKINS NO!,
+----------
+row | 00:32:03 | 00:32:08 | JOE MEEKER | the corporation did not spend all of this money for us to come back with nothing. Let Jim do his job.  | 
+dialoguethe corporation did not spend all of this money for us to come back with nothing. Let Jim do his job.
+characterJOE MEEKER
+Add JOE MEEKER the corporation did not spend all of this money for us to come back with nothing. Let Jim do his job.
+----------
+row | 00:32:09 | 00:32:10 | JAMES PETERS | All right, guys, I got. Got it. | 
+dialogueAll right, guys, I got. Got it.
+characterJAMES PETERS
+Add JAMES PETERS All right, guys, I got. Got it.
+----------
+row | 00:32:10 | 00:32:11 | GORDON ATKINS | okay. Jim. | 
+dialogueokay. Jim.
+characterGORDON ATKINS
+Add GORDON ATKINS okay. Jim.
+----------
+row | 00:32:11 | 00:32:12 | CHRISTINE HARRIS | Gordon, please get him out of there. | 
+dialogueGordon, please get him out of there.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Gordon, please get him out of there.
+----------
+row | 00:32:12 | 00:32:14 | GORDON ATKINS | Is the sample secure, Jim?  | 
+dialogueIs the sample secure, Jim?
+characterGORDON ATKINS
+Add GORDON ATKINS Is the sample secure, Jim?
+----------
+row | 00:32:14 | 00:32:16 | JED PICKMAN | Just a little longer.  | 
+dialogueJust a little longer.
+characterJED PICKMAN
+Add JED PICKMAN Just a little longer.
+----------
+row | 00:32:16 | 00:32:19 | JAMES PETERS | Sample is secure, but I've lost my starboard horizontal pressure. Guys,  | 
+dialogueSample is secure, but I've lost my starboard horizontal pressure. Guys,
+characterJAMES PETERS
+Add JAMES PETERS Sample is secure, but I've lost my starboard horizontal pressure. Guys,
+----------
+row | 00:32:19 | 00:32:22 | JAMES PETERS | we've got a lot of paleos here. This isn't looking good. | 
+dialoguewe've got a lot of paleos here. This isn't looking good.
+characterJAMES PETERS
+Add JAMES PETERS we've got a lot of paleos here. This isn't looking good.
+----------
+row | 00:32:22 | 00:32:24 | CHRISTINE HARRIS | Don't panic. | 
+dialogueDon't panic.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Don't panic.
+----------
+row | 00:32:25 | 00:32:26 | GORDON ATKINS | Jim, please respond. | 
+dialogueJim, please respond.
+characterGORDON ATKINS
+Add GORDON ATKINS Jim, please respond.
+----------
+row | 00:32:26 | 00:32:28 | CHRISTINE HARRIS | He's not hearing us. | 
+dialogueHe's not hearing us.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS He's not hearing us.
+----------
+row | 00:32:28 | 00:32:29 | GORDON ATKINS | Signal's gone.  | 
+dialogueSignal's gone.
+characterGORDON ATKINS
+Add GORDON ATKINS Signal's gone.
+----------
+row | 00:32:29 | 00:32:31 | JAMES PETERS | Hello? Gordon?  | 
+dialogueHello? Gordon?
+characterJAMES PETERS
+Add JAMES PETERS Hello? Gordon?
+----------
+row | 00:32:38 | 00:32:39 | JOE MEEKER | It’s moving again, whatever it is.  | 
+dialogueIt’s moving again, whatever it is.
+characterJOE MEEKER
+Add JOE MEEKER It’s moving again, whatever it is.
+----------
+row | 00:32:40 | 00:32:46 | JOE MEEKER | We've just lost communication with Cord locker. Something scrambling our radios out there.  | 
+dialogueWe've just lost communication with Cord locker. Something scrambling our radios out there.
+characterJOE MEEKER
+Add JOE MEEKER We've just lost communication with Cord locker. Something scrambling our radios out there.
+----------
+row | 00:32:46 | 00:32:56 |  |  | Creature rises up screaming
+dialogue
+character
+----------
+row | 00:32:56 | 00:32:57 | CHRISTINE HARRIS | Don’t lose him! | 
+dialogueDon’t lose him!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Don’t lose him!
+----------
+row | 00:32:57 | 00:32:59 | JOE MEEKER | What the fuck is that? I'm not going any closer. | 
+dialogueWhat the fuck is that? I'm not going any closer.
+characterJOE MEEKER
+Add JOE MEEKER What the fuck is that? I'm not going any closer.
+----------
+row | 00:32:59 | 00:33:01 | CHRISTINE HARRIS | We're not leaving without him. Take us down. | 
+dialogueWe're not leaving without him. Take us down.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We're not leaving without him. Take us down.
+----------
+row | 00:33:01 | 00:33:02 | GORDON ATKINS | Are you insane? | 
+dialogueAre you insane?
+characterGORDON ATKINS
+Add GORDON ATKINS Are you insane?
+----------
+row | 00:33:12 | 00:33:20 | WALTON PETERS | This is what you wanted Pickman, an
+encounter with the Gods... Aren't they
+as immeasurable as you recall? | INT. PROVIDENCE 3 - MAIN CORRIDOR - MEANWHILE
+dialogueThis is what you wanted Pickman, anencounter with the Gods... Aren't theyas immeasurable as you recall?
+characterWALTON PETERS
+Add WALTON PETERS This is what you wanted Pickman, anencounter with the Gods... Aren't theyas immeasurable as you recall?
+----------
+row | 00:33:22 | 00:33:23 | GORDON ATKINS | DP control,
+permission to abort. | 
+dialogueDP control,permission to abort.
+characterGORDON ATKINS
+Add GORDON ATKINS DP control,permission to abort.
+----------
+row | 00:33:23 | 00:33:27 | JULIA GOLDSTEIN | Permission denied Atkins, retrieve that
+r o v e r before you begin your ascent . | 
+dialoguePermission denied Atkins, retrieve thatr o v e r before you begin your ascent .
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Permission denied Atkins, retrieve thatr o v e r before you begin your ascent .
+----------
+row | 00:33:27 | 00:33:31 | GORDON ATKINS | Are you not seeing this!? Permission
+to abort!  | 
+dialogueAre you not seeing this!? Permissionto abort!
+characterGORDON ATKINS
+Add GORDON ATKINS Are you not seeing this!? Permissionto abort!
+----------
+row | 00:33:32 | 00:33:35 | JULIA GOLDSTEIN | Permission denied Gordon - I'm not losing that sample.  | 
+dialoguePermission denied Gordon - I'm not losing that sample.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Permission denied Gordon - I'm not losing that sample.
+----------
+row | 00:33:42 | 00:33:44 | CHRISTINE HARRIS | Sea; the pressure lock We're bringing him in now. | 
+dialogueSea; the pressure lock We're bringing him in now.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Sea; the pressure lock We're bringing him in now.
+----------
+row | 00:33:48 | 00:33:49 |  | Some strange electromagnetism.  | 
+dialogueSome strange electromagnetism.
+character
+Add CHRISTINE HARRIS Some strange electromagnetism.
+----------
+row | 00:33:52 | 00:33:53 | JOE MEEKER | Gordon. Take us down.  | 
+dialogueGordon. Take us down.
+characterJOE MEEKER
+Add JOE MEEKER Gordon. Take us down.
+----------
+row | 00:33:54 | 00:33:55 | GORDON ATKINS | What is that? | 
+dialogueWhat is that?
+characterGORDON ATKINS
+Add GORDON ATKINS What is that?
+----------
+row | 00:33:55 | 00:33:57 | JOE MEEKER | Goddamnit Gordon Take us down | Joe grabs the controls
+dialogueGoddamnit Gordon Take us down
+characterJOE MEEKER
+Add JOE MEEKER Goddamnit Gordon Take us down
+----------
+row | 00:34:01 | 00:34:04 | GORDON ATKINS | No. No, we're too close. | 
+dialogueNo. No, we're too close.
+characterGORDON ATKINS
+Add GORDON ATKINS No. No, we're too close.
+----------
+row | 00:34:04 | 00:34:05 | JOE MEEKER | Fuck | 
+dialogueFuck
+characterJOE MEEKER
+Add JOE MEEKER Fuck
+----------
+row | 00:34:05 | 00:34:11 |  |  | The creatue reaches out to grab the ship
+dialogue
+character
+----------
+row | 00:34:13 | 00:34:14 |  |  | Christine falls into the airlock
+dialogue
+character
+----------
+row | 00:34:14 | 00:34:15 | HANK O’CONNELL | CHRISTINE | 
+dialogueCHRISTINE
+characterHANK O’CONNELL
+Add HANK O’CONNELL CHRISTINE
+----------
+row | 00:34:32 | 00:34:34 | JAMES PETERS | P3 My thrusters are back. | 
+dialogueP3 My thrusters are back.
+characterJAMES PETERS
+Add JAMES PETERS P3 My thrusters are back.
+----------
+row | 00:34:34 | 00:34:39 | GORDANS ATIKINS | Your SI is not looking good. Get as close to us as you can. | 
+dialogueYour SI is not looking good. Get as close to us as you can.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Your SI is not looking good. Get as close to us as you can.
+----------
+row | 00:34:38 | 00:34:39 | GORDANS ATIKINS | We gotta move | 
+dialogueWe gotta move
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS We gotta move
+----------
+row | 00:34:47 | 00:34:49 | JAMES PETERS | Gordan I’m heading back | 
+dialogueGordan I’m heading back
+characterJAMES PETERS
+Add JAMES PETERS Gordan I’m heading back
+----------
+row | 00:34:49 | 00:34:50 | GORDANS ATIKINS | Prepare to board | 
+dialoguePrepare to board
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Prepare to board
+----------
+row | 00:34:50 | 00:34:53 | HANK O’CONNELL | NO! Stop! | 
+dialogueNO! Stop!
+characterHANK O’CONNELL
+Add HANK O’CONNELL NO! Stop!
+----------
+row | 00:34:53 | 00:34:57 | HANK O’CONNELL | Gordon stop. Don't open the heaven door. | Hank runs into the cockpit
+dialogueGordon stop. Don't open the heaven door.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Gordon stop. Don't open the heaven door.
+----------
+row | 00:35:00 | 00:35:02 | HANK O’CONNELL | Christine. She's in the pressure lock | 
+dialogueChristine. She's in the pressure lock
+characterHANK O’CONNELL
+Add HANK O’CONNELL Christine. She's in the pressure lock
+----------
+row | 00:35:02 | 00:35:03 | GORDANS ATIKINS | What | 
+dialogueWhat
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS What
+----------
+row | 00:35:03 | 00:35:06 | HANK O’CONNELL | She's in the water. Open the inner door. | 
+dialogueShe's in the water. Open the inner door.
+characterHANK O’CONNELL
+Add HANK O’CONNELL She's in the water. Open the inner door.
+----------
+row | 00:35:06 | 00:35:09 | HANK O’CONNELL | She'll blast from the ocean. She'll die. Gordon. | 
+dialogueShe'll blast from the ocean. She'll die. Gordon.
+characterHANK O’CONNELL
+Add HANK O’CONNELL She'll blast from the ocean. She'll die. Gordon.
+----------
+row | 00:35:11 | 00:35:13 | HANK O’CONNELL | Jim, you'll have to hang on it.  | 
+dialogueJim, you'll have to hang on it.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Jim, you'll have to hang on it.
+----------
+row | 00:35:43 | 00:35:45 | HANK O’CONNELL | Come on, give me a hand. Help me get her out.  | 
+dialogueCome on, give me a hand. Help me get her out.
+characterHANK O’CONNELL
+Add HANK O’CONNELL Come on, give me a hand. Help me get her out.
+----------
+row | 00:35:45 | 00:35:48 | JAMES PETERS | Gordon the doors aren’t opening. | 
+dialogueGordon the doors aren’t opening.
+characterJAMES PETERS
+Add JAMES PETERS Gordon the doors aren’t opening.
+----------
+row | 00:35:51 | 00:35:52 | JAMES PETERS | Gordon I’m out of time!  | 
+dialogueGordon I’m out of time!
+characterJAMES PETERS
+Add JAMES PETERS Gordon I’m out of time!
+----------
+row | 00:35:52 | 00:35:54 | GORDANS ATIKINS | Jim, Hang in there. We've got a problem. | 
+dialogueJim, Hang in there. We've got a problem.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Jim, Hang in there. We've got a problem.
+----------
+row | 00::35:54 | 00:35:56 | GORDANS ATIKINS | Chris is trapped in the pressure lock.  | 
+dialogueChris is trapped in the pressure lock.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Chris is trapped in the pressure lock.
+----------
+row | 00:35:56 | 00:35:57 | JAMES PETERS | What! | 
+dialogueWhat!
+characterJAMES PETERS
+Add JAMES PETERS What!
+----------
+row | 00:35:57 | 00:35:59 | GORDANS ATIKINS | have to wait for the pressure lock to reseal? I can't let you in. | 
+dialoguehave to wait for the pressure lock to reseal? I can't let you in.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS have to wait for the pressure lock to reseal? I can't let you in.
+----------
+row | 00:35:59 | 00:36:07 |  |  | Hank grabs Christine’s body in the water
+dialogue
+character
+----------
+row | 00:36:10 | 00:36:11 | JAMES PETERS | OH. Fuck.  | 
+dialogueOH. Fuck.
+characterJAMES PETERS
+Add JAMES PETERS OH. Fuck.
+----------
+row | 00:36:23 | 00:36:24 | HANK O’CONNOLL | Quick quick | 
+dialogueQuick quick
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Quick quick
+----------
+row | 00:36:24 | 00:36:33 |  |  | Joe and Hank pick her up out of the water and place her down.
+dialogue
+character
+----------
+row | 00:36:33 | 00:36:34 | HANK O’CONNOLL | All right. Joe, help her. | 
+dialogueAll right. Joe, help her.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL All right. Joe, help her.
+----------
+row | 00:36:34 | 00:36:35 | JOE MEEKER | Help her. She's fucking dead. | 
+dialogueHelp her. She's fucking dead.
+characterJOE MEEKER
+Add JOE MEEKER Help her. She's fucking dead.
+----------
+row | 00:36:35 | 00:36:38 | HANK O’CONNOLL | We'll do something you’re the fucking safety. Officer | 
+dialogueWe'll do something you’re the fucking safety. Officer
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL We'll do something you’re the fucking safety. Officer
+----------
+row | 00:36:40 | 00:36:42 | HANK O’CONNOLL | Gordon, I'm closing The pressure lock.   | 
+dialogueGordon, I'm closing The pressure lock.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Gordon, I'm closing The pressure lock.
+----------
+row | 00:36:42 | 00:36:50 |  |  | Jed is on the floor grabs his walking stick.
+dialogue
+character
+----------
+row | 00:36:50 | 00:37:00 |  |  | Joe does cpr on Christine
+dialogue
+character
+----------
+row | 00:37:20 | 00:37:21 |  |  | Joe checks christine’s pulse and shakes his head.
+dialogue
+character
+----------
+row | 00:37:21 | 00:37:23 | GORDANS ATIKINS | Hank. We're taking on water | 
+dialogueHank. We're taking on water
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Hank. We're taking on water
+----------
+row | 00:37:23 | 00:37:25 | GORDANS ATIKINS | The front end is compromised. | 
+dialogueThe front end is compromised.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS The front end is compromised.
+----------
+row | 00:37:25 | 00:37:28 | GORDANS ATIKINS | Hank, what's going on down there? Hank? | 
+dialogueHank, what's going on down there? Hank?
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Hank, what's going on down there? Hank?
+----------
+row | 00:37:29 | 00:37:32 | HANK O’CONNOLL | Gordon - I think we lost her. | 
+dialogueGordon - I think we lost her.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Gordon - I think we lost her.
+----------
+row | 00:37:32 | 00:37:34 | GORDANS ATIKINS | Never mind that, Hank. Check, the bunk room. | 
+dialogueNever mind that, Hank. Check, the bunk room.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Never mind that, Hank. Check, the bunk room.
+----------
+row | 00:37:34 | 00:37:36 | GORDANS ATIKINS | I'm reading severe damage down there. | 
+dialogueI'm reading severe damage down there.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS I'm reading severe damage down there.
+----------
+row | 00:37:36 | 00:37:40 | GORDANS ATIKINS | This whole tub is going to go down if I don't drop weight now. | 
+dialogueThis whole tub is going to go down if I don't drop weight now.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS This whole tub is going to go down if I don't drop weight now.
+----------
+row | 00:37:42 | 00:37:45 | GORDANS ATIKINS | Jim, I'm opening the outer doors. | 
+dialogueJim, I'm opening the outer doors.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Jim, I'm opening the outer doors.
+----------
+row | 00:37:45 | 00:37:47 | JAMES PETERS | Hold on. I'm getting into position. | 
+dialogueHold on. I'm getting into position.
+characterJAMES PETERS
+Add JAMES PETERS Hold on. I'm getting into position.
+----------
+row | 00:37:49 | 00:37:52 | GORDANS ATIKINS | Jim, get your ass in here now. | 
+dialogueJim, get your ass in here now.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Jim, get your ass in here now.
+----------
+row | 00:37:56 | 00:37:58 | HANK O’CONNOLL | Pickman. Get out of here. | INT. PROVIDENCE 3 - MAIN CORRIDOR - NEXT
+dialoguePickman. Get out of here.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Pickman. Get out of here.
+----------
+row | 00:38:09 | 00:38:11 | JAMES PETERS | Ten more seconds Gordon. | 
+dialogueTen more seconds Gordon.
+characterJAMES PETERS
+Add JAMES PETERS Ten more seconds Gordon.
+----------
+row | 00:38:11 | 00:38:12 | GORDANS ATIKINS | Hurry. | 
+dialogueHurry.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Hurry.
+----------
+row | 00:38:16 | 00:38:22 | HANK O’CONNOLL | Gordon, the entire pump room flooding. I'm stealing off this tunnel. | 
+dialogueGordon, the entire pump room flooding. I'm stealing off this tunnel.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Gordon, the entire pump room flooding. I'm stealing off this tunnel.
+----------
+row | 00:38:22 | 00:38:25 | HANK O’CONNOLL | Drop weights now or we’ll drag us down  | 
+dialogueDrop weights now or we’ll drag us down
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL Drop weights now or we’ll drag us down
+----------
+row | 00:38:26 | 00:38:28 | GORDANS ATIKINS | Doors are still closing. Jim's in there. | 
+dialogueDoors are still closing. Jim's in there.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Doors are still closing. Jim's in there.
+----------
+row | 00:38:28 | 00:38:34 | HANK O’CONNOLL | We don't have time, Gordon. We can't stand with this much water on board. | 
+dialogueWe don't have time, Gordon. We can't stand with this much water on board.
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL We don't have time, Gordon. We can't stand with this much water on board.
+----------
+row | 00:38:34 | 00:38:35 | HANK O’CONNOLL | GORDON! | 
+dialogueGORDON!
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL GORDON!
+----------
+row | 00:38:35 | 00:38:38 | GORDANS ATIKINS | 5 seconds. We can wait 5 seconds. | 
+dialogue5 seconds. We can wait 5 seconds.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS 5 seconds. We can wait 5 seconds.
+----------
+row | 00:38:38 | 00:38:46 | GORDANS ATIKINS | It's too late. Jim. I'm dropping weight.Hold on. | 
+dialogueIt's too late. Jim. I'm dropping weight.Hold on.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS It's too late. Jim. I'm dropping weight.Hold on.
+----------
+row | 00:39:10 | 00:39:12 | JAMES PETERS | Does anybody copy? | 
+dialogueDoes anybody copy?
+characterJAMES PETERS
+Add JAMES PETERS Does anybody copy?
+----------
+row | 00:39:12 | 00:39:15 | GORDANS ATIKINS | DP Control, we're leaving the bottom. | 
+dialogueDP Control, we're leaving the bottom.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS DP Control, we're leaving the bottom.
+----------
+row | 00:39:15 | 00:39:19 | GORDANS ATIKINS | It X minus two seven eight. Y minus seven eight. | 
+dialogueIt X minus two seven eight. Y minus seven eight.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS It X minus two seven eight. Y minus seven eight.
+----------
+row | 00:39:19 | 00:39:20 | RACHEL | Is it following you, Gordon? | 
+dialogueIs it following you, Gordon?
+characterRACHEL
+Add RACHEL Is it following you, Gordon?
+----------
+row | 00:39:20 | 00:39:21 | GORDANS ATIKINS | I don't know.  | 
+dialogueI don't know.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS I don't know.
+----------
+row | 00:39:21 | 00:39:22 | GORDANS ATIKINS | Check, the radar.  | 
+dialogueCheck, the radar.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Check, the radar.
+----------
+row | 00:39:37 | 00:39:39 | HANK O’CONNOLL | I can’t get this door to move, Jed | Hank is stuck behind a door while Jed stares at him.
+dialogueI can’t get this door to move, Jed
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL I can’t get this door to move, Jed
+----------
+row | 00:39:39 | 00:39:40 | HANK O’CONNOLL | I can’t get out | 
+dialogueI can’t get out
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL I can’t get out
+----------
+row | 00:39:40 | 00:39:41 | JED PICKMAN | Look at it Hank | 
+dialogueLook at it Hank
+characterJED PICKMAN
+Add JED PICKMAN Look at it Hank
+----------
+row | 00:39:41 | 00:39:49 | JED PICKMAN | Look at the devastation they can cause. Just one of them against all of us. | 
+dialogueLook at the devastation they can cause. Just one of them against all of us.
+characterJED PICKMAN
+Add JED PICKMAN Look at the devastation they can cause. Just one of them against all of us.
+----------
+row | 00:39:50 | 00:39:55 | JED PICKMAN | Our brilliant minds totally defenceless against them.  | 
+dialogueOur brilliant minds totally defenceless against them.
+characterJED PICKMAN
+Add JED PICKMAN Our brilliant minds totally defenceless against them.
+----------
+row | 00:39:57 | 00:39:58 | HANK O’CONNOLL | What are you talking about? | 
+dialogueWhat are you talking about?
+characterHANK O’CONNOLL
+Add HANK O’CONNOLL What are you talking about?
+----------
+row | 00:39:58 | 00:40:01 | JED PICKMAN | They're brilliant, Hank. Brilliant. | 
+dialogueThey're brilliant, Hank. Brilliant.
+characterJED PICKMAN
+Add JED PICKMAN They're brilliant, Hank. Brilliant.
+----------
+row | 00:40:01 | 00:40:18 |  |  | Water fills up the room Hank is in.
+Jed reaches to the door key but doesn’t touch it.
+dialogue
+character
+----------
+row | 00:40:18 | 00:40:20 | JAMES PETERS | Noo no no | James jumps out of the rover and runs over to Christine’s body.
+dialogueNoo no no
+characterJAMES PETERS
+Add JAMES PETERS Noo no no
+----------
+row | 00:40:22 | 00:40:23 | JAMES PETERS | No no no no | 
+dialogueNo no no no
+characterJAMES PETERS
+Add JAMES PETERS No no no no
+----------
+row | 00:40:23 | 00:40:24 | JAMES PETERS | Why won’t you help her. | 
+dialogueWhy won’t you help her.
+characterJAMES PETERS
+Add JAMES PETERS Why won’t you help her.
+----------
+row | 00:40:24 | 00:40:28 | JAMES PETERS | Why won’t you help damnit! | 
+dialogueWhy won’t you help damnit!
+characterJAMES PETERS
+Add JAMES PETERS Why won’t you help damnit!
+----------
+row | 00:40:30 | 00:40:31 | JAMES PETERS | Jesus. | 
+dialogueJesus.
+characterJAMES PETERS
+Add JAMES PETERS Jesus.
+----------
+row | 00:40:31 | 00:40:39 | JAMES PETERS | No. Come on, Chris. Come on. Don't fucking leave me down here without you.  | James starts doing CPR
+dialogueNo. Come on, Chris. Come on. Don't fucking leave me down here without you.
+characterJAMES PETERS
+Add JAMES PETERS No. Come on, Chris. Come on. Don't fucking leave me down here without you.
+----------
+row | 00:40:39 | 00:40:44 | JAMES PETERS | Come on. Please.  | 
+dialogueCome on. Please.
+characterJAMES PETERS
+Add JAMES PETERS Come on. Please.
+----------
+row | 00:40:47 | 00:40:52 | JAMES PETERS | Come on. Come on. Come on. Come on. Come on. Fuck. Please, Chris, please.  | 
+dialogueCome on. Come on. Come on. Come on. Come on. Fuck. Please, Chris, please.
+characterJAMES PETERS
+Add JAMES PETERS Come on. Come on. Come on. Come on. Come on. Fuck. Please, Chris, please.
+----------
+row | 00:40:52 | 00:40:59 | JAMES PETERS | Come on. Come on. Breathe, damn it. Breathe. Come on, Chris. Come on.  | 
+dialogueCome on. Come on. Breathe, damn it. Breathe. Come on, Chris. Come on.
+characterJAMES PETERS
+Add JAMES PETERS Come on. Come on. Breathe, damn it. Breathe. Come on, Chris. Come on.
+----------
+row | 00:41:12 | 00:41:15 | JAMES PETERS | Come on. Come on. Come on. Just breathe. Just breathe. | 
+dialogueCome on. Come on. Come on. Just breathe. Just breathe.
+characterJAMES PETERS
+Add JAMES PETERS Come on. Come on. Come on. Just breathe. Just breathe.
+----------
+row | 00:41:15 | 00:41:16 |  |  | Christine coughs up water.
+dialogue
+character
+----------
+row | 00:41:16 | 00:41:21 | JAMES PETERS | You're alright. You're alright. You're alright. | 
+dialogueYou're alright. You're alright. You're alright.
+characterJAMES PETERS
+Add JAMES PETERS You're alright. You're alright. You're alright.
+----------
+row | 00:41:22 | 00:41:23 | CHRISTINE HARRIS | Jim | 
+dialogueJim
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim
+----------
+row | 00:41:23 | 00:42:02 |  |  | Jim holds Christine
+dialogue
+character
+----------
+row | 00:42:02 | 00:42:10 |  |  | EXT. ANTARCTIC OCEAN – NEXT
+Providence 3 emerges from the gateway
+dialogue
+character
+----------
+row | 00:42:13 | 00:42:17 |  |  | INT. PROVIDENCE 3 - ROVER LAUNCH ROOM – LATER
+Jim wraps a towel round Christine
+dialogue
+character
+----------
+row | 00:42:17 | 00:42:18 | JOE MEEKER | O’Connell’s dead.  | 
+dialogueO’Connell’s dead.
+characterJOE MEEKER
+Add JOE MEEKER O’Connell’s dead.
+----------
+row | 00:42:18 | 00:42:22 | JOE MEEKER | See for yourself if you want to. He's floating in between the doors.  | 
+dialogueSee for yourself if you want to. He's floating in between the doors.
+characterJOE MEEKER
+Add JOE MEEKER See for yourself if you want to. He's floating in between the doors.
+----------
+row | 00:42:22 | 00:42:25 | JOE MEEKER | The whole front of the sub is underwater.  | 
+dialogueThe whole front of the sub is underwater.
+characterJOE MEEKER
+Add JOE MEEKER The whole front of the sub is underwater.
+----------
+row | 00:42:25 | 00:42:26 | JAMES PETERS | Are you sure?  | 
+dialogueAre you sure?
+characterJAMES PETERS
+Add JAMES PETERS Are you sure?
+----------
+row | 00:42:26 | 00:42:27 | JOE MEEKER | Well, unless he went for a swim. | 
+dialogueWell, unless he went for a swim.
+characterJOE MEEKER
+Add JOE MEEKER Well, unless he went for a swim.
+----------
+row | 00:42:27 | 00:42:28 | JAMES PETERS | Well, you thought Chris was dead. Look how that turned out. | 
+dialogueWell, you thought Chris was dead. Look how that turned out.
+characterJAMES PETERS
+Add JAMES PETERS Well, you thought Chris was dead. Look how that turned out.
+----------
+row | 00:42:30 | 00:42:32 | JOE MEEKER | Hey, I'm not the one who finished the fucking pressure lock. She wasn't breathing. | 
+dialogueHey, I'm not the one who finished the fucking pressure lock. She wasn't breathing.
+characterJOE MEEKER
+Add JOE MEEKER Hey, I'm not the one who finished the fucking pressure lock. She wasn't breathing.
+----------
+row | 00:42:32 | 00:42:37 | JOE MEEKER | How was I to know that? We should all just be grateful that any of us are still alive. Fuck. | 
+dialogueHow was I to know that? We should all just be grateful that any of us are still alive. Fuck.
+characterJOE MEEKER
+Add JOE MEEKER How was I to know that? We should all just be grateful that any of us are still alive. Fuck.
+----------
+row | 00:42:40 | 00:42:42 | CHRISTINE HARRIS | How long till we're back on the surface, Gordon? | 
+dialogueHow long till we're back on the surface, Gordon?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS How long till we're back on the surface, Gordon?
+----------
+row | 00:42:47 | 00:42:52 | GORDANS ATIKINS | Well, kids, can't say for sure. We've taken on a fuck tonne of water.  | 
+dialogueWell, kids, can't say for sure. We've taken on a fuck tonne of water.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Well, kids, can't say for sure. We've taken on a fuck tonne of water.
+----------
+row | 00:42:52 | 00:42:54 | JOE MEEKER | Hank said not to smoke in here.  | 
+dialogueHank said not to smoke in here.
+characterJOE MEEKER
+Add JOE MEEKER Hank said not to smoke in here.
+----------
+row | 00:42:55 | 00:43:02 | GORDANS ATIKINS | Do you want one, Jim? Help yourself. We'll smoke in his memory. | 
+dialogueDo you want one, Jim? Help yourself. We'll smoke in his memory.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Do you want one, Jim? Help yourself. We'll smoke in his memory.
+----------
+row | 00:43:04 | 00:43:06 | CHRISTINE HARRIS | How long can we survive like this down here? | 
+dialogueHow long can we survive like this down here?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS How long can we survive like this down here?
+----------
+row | 00:43:08 | 00:43:16 | GORDANS ATIKINS | We've got three more hours of life support left. Can't see it taking us more than 2 hours to get to the surface, but I can't be sure. | 
+dialogueWe've got three more hours of life support left. Can't see it taking us more than 2 hours to get to the surface, but I can't be sure.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS We've got three more hours of life support left. Can't see it taking us more than 2 hours to get to the surface, but I can't be sure.
+----------
+row | 00:43:16 | 00:43:21 | GORDANS ATIKINS | The longer we're down here, the heavier we get, the slower we ascend.  | 
+dialogueThe longer we're down here, the heavier we get, the slower we ascend.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS The longer we're down here, the heavier we get, the slower we ascend.
+----------
+row | 00:43:21 | 00:43:22 | JOE MEEKER | 3 hours seems tight.  | 
+dialogue3 hours seems tight.
+characterJOE MEEKER
+Add JOE MEEKER 3 hours seems tight.
+----------
+row | 00:43:22 | 00:43:26 | GORDANS ATIKINS | It is tight. But there's nothing more I can do about it.  | 
+dialogueIt is tight. But there's nothing more I can do about it.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS It is tight. But there's nothing more I can do about it.
+----------
+row | 00:43:26 | 00:43:29 | GORDANS ATIKINS | Let's hope there's no more nasty surprises.  | 
+dialogueLet's hope there's no more nasty surprises.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Let's hope there's no more nasty surprises.
+----------
+row | 00:43:29 | 00:43:42 |  |  | The rover starts to move.
+dialogue
+character
+----------
+row | 00:43:42 | 00:43:44 | JAMES PETERS | It's a tissue sample.  | 
+dialogueIt's a tissue sample.
+characterJAMES PETERS
+Add JAMES PETERS It's a tissue sample.
+----------
+row | 00:43:44 | 00:43:50 |  |  | Jed walks into the room.
+dialogue
+character
+----------
+row | 00:43:50 | 00:43:58 | JED PECKMAN | Do you hear them Jim? Calling to us...
+the Gods... of the Deep! Howling to be
+perceived by human minds... | Jed walks towards the sample
+dialogueDo you hear them Jim? Calling to us...the Gods... of the Deep! Howling to beperceived by human minds...
+characterJED PECKMAN
+Add JED PECKMAN Do you hear them Jim? Calling to us...the Gods... of the Deep! Howling to beperceived by human minds...
+----------
+row | 00:44:07 | 00:43:14 | JED PECKMAN | This tiny specimen, it's going to change everything we know. Everything we ever thought we knew. | 
+dialogueThis tiny specimen, it's going to change everything we know. Everything we ever thought we knew.
+characterJED PECKMAN
+Add JED PECKMAN This tiny specimen, it's going to change everything we know. Everything we ever thought we knew.
+----------
+row | 00:43:14 | 00:44:16 |  |  | Jed leans closer
+dialogue
+character
+----------
+row | 00:44:15 | 00:44:16 | CHRISTINE HARRIS | Don't touch it. | 
+dialogueDon't touch it.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Don't touch it.
+----------
+row | 00:44:17 | 00:44:23 | JED PECKMAN | We need to get this done to the lab and isolate it quickly. Now, before it deteriorates.  | 
+dialogueWe need to get this done to the lab and isolate it quickly. Now, before it deteriorates.
+characterJED PECKMAN
+Add JED PECKMAN We need to get this done to the lab and isolate it quickly. Now, before it deteriorates.
+----------
+row | 00:44:23 | 00:44:24 | JAMES PETERS | Maybe we should seal it in the pressure lock.  | 
+dialogueMaybe we should seal it in the pressure lock.
+characterJAMES PETERS
+Add JAMES PETERS Maybe we should seal it in the pressure lock.
+----------
+row | 00:44:24 | 00:44:28 | JED PECKMAN | No. I want this preserved properly in the lab. | 
+dialogueNo. I want this preserved properly in the lab.
+characterJED PECKMAN
+Add JED PECKMAN No. I want this preserved properly in the lab.
+----------
+row | 00:44:28 | 00:44:32 | CHRISTINE HARRIS | Pickman This is something that hasn't been out of the water for millions of years. | 
+dialoguePickman This is something that hasn't been out of the water for millions of years.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Pickman This is something that hasn't been out of the water for millions of years.
+----------
+row | 00:44:32 | 00:44:35 | CHRISTINE HARRIS | We have no idea what we're exposing ourselves to by bringing this on board. | 
+dialogueWe have no idea what we're exposing ourselves to by bringing this on board.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We have no idea what we're exposing ourselves to by bringing this on board.
+----------
+row | 00:44:35 | 00:44:42 | JED PECKMAN | Miss Harris, do you really think you came all the way down here just to look at it?  | 
+dialogueMiss Harris, do you really think you came all the way down here just to look at it?
+characterJED PECKMAN
+Add JED PECKMAN Miss Harris, do you really think you came all the way down here just to look at it?
+----------
+row | 00:44:42 | 00:44:44 | JAMES PETERS | We didn't know we were collecting living tissue.  | 
+dialogueWe didn't know we were collecting living tissue.
+characterJAMES PETERS
+Add JAMES PETERS We didn't know we were collecting living tissue.
+----------
+row | 00:44:44 | 00:45:06 | JED PECKMAN | So many answers await us. Jim. I don't have time to waste it. Careful. Joseph.  | Jed hands the extract to Joe then follows them out of the room.
+dialogueSo many answers await us. Jim. I don't have time to waste it. Careful. Joseph.
+characterJED PECKMAN
+Add JED PECKMAN So many answers await us. Jim. I don't have time to waste it. Careful. Joseph.
+----------
+row | 00:45:14 | 00:45:15 | JAMES PETERS | Where are you going? | 
+dialogueWhere are you going?
+characterJAMES PETERS
+Add JAMES PETERS Where are you going?
+----------
+row | 00:45:15 | 00:45:19 | CHRISTINE HARRIS | We can't stop them examining that thing. So someone who knows what they're doing should go supervise.  | 
+dialogueWe can't stop them examining that thing. So someone who knows what they're doing should go supervise.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We can't stop them examining that thing. So someone who knows what they're doing should go supervise.
+----------
+row | 00:45:19 | 00:45:20 | CHRISTINE HARRIS | Make sure they keep it contained. | Christine follows Jed and Joe.
+dialogueMake sure they keep it contained.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Make sure they keep it contained.
+----------
+row | 00:45:24 | 00:45:29 | GORDANS ATIKINS | 3 hours. Jim, I suggest you go with them. Make sure they do nothing stupid.  | 
+dialogue3 hours. Jim, I suggest you go with them. Make sure they do nothing stupid.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS 3 hours. Jim, I suggest you go with them. Make sure they do nothing stupid.
+----------
+row | 00:45:29 | 00:45:37 | GORDANS ATIKINS | I've not seen Pikmin like this since a long time. He's not thinking straight.  | 
+dialogueI've not seen Pikmin like this since a long time. He's not thinking straight.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS I've not seen Pikmin like this since a long time. He's not thinking straight.
+----------
+row | 00:45:37 | 00:45:42 | JAMES PETERS | I don't know if any of us are anymore.  | James follows christine
+dialogueI don't know if any of us are anymore.
+characterJAMES PETERS
+Add JAMES PETERS I don't know if any of us are anymore.
+----------
+row | 00:45:45 | 00:45:50 | GORDANS ATIKINS | DP control we are a little under three
+hours from reaching the surface. 
+ | EXT. ANTARCTIC OCEAN - NEXT
+dialogueDP control we are a little under threehours from reaching the surface.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS DP control we are a little under threehours from reaching the surface.
+----------
+row | 00:45:50 | 00:45:59 | GORDANS ATIKINS | The tissue sample is securely on board. We have one casualty, O'Connell didn't
+make it. | 
+dialogueThe tissue sample is securely on board. We have one casualty, O'Connell didn'tmake it.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS The tissue sample is securely on board. We have one casualty, O'Connell didn'tmake it.
+----------
+row | 00:45:59 | 0046:06 | JED PECKMAN | Seems like it's mostly adipose tissue. | INT. PROVIDENCE 3 - ON-BOARD LAB - LATER
+dialogueSeems like it's mostly adipose tissue.
+characterJED PECKMAN
+Add JED PECKMAN Seems like it's mostly adipose tissue.
+----------
+row | 00:46:07 | 00:46:12 | CHRISTINE HARRIS | Body fat. This is a big piece you took. | 
+dialogueBody fat. This is a big piece you took.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Body fat. This is a big piece you took.
+----------
+row | 00:46:11 | 00:46:14 | JOE MEEKER | Yeah. No surprise it tried to knock us halfway across the ocean.  | 
+dialogueYeah. No surprise it tried to knock us halfway across the ocean.
+characterJOE MEEKER
+Add JOE MEEKER Yeah. No surprise it tried to knock us halfway across the ocean.
+----------
+row | 00:46:16 | 00:46:27 | JED PECKMAN | Totally disconnected from the body, but still reactive. I don't think I've ever seen anything like it. | 
+dialogueTotally disconnected from the body, but still reactive. I don't think I've ever seen anything like it.
+characterJED PECKMAN
+Add JED PECKMAN Totally disconnected from the body, but still reactive. I don't think I've ever seen anything like it.
+----------
+row | 00:46:27 | 00:46:33 | CHRISTINE HARRIS | Imagine what we could learn from an organism like this. A flesh that still lives on after it's been severed from the body. | 
+dialogueImagine what we could learn from an organism like this. A flesh that still lives on after it's been severed from the body.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Imagine what we could learn from an organism like this. A flesh that still lives on after it's been severed from the body.
+----------
+row | 00:46:34 | 00:46:41 | JED PECKMAN | It still thinks it's part of the sea beast. I think that it senses us.  | 
+dialogueIt still thinks it's part of the sea beast. I think that it senses us.
+characterJED PECKMAN
+Add JED PECKMAN It still thinks it's part of the sea beast. I think that it senses us.
+----------
+row | 00:46:41 | 00:46:44 | JAMES PETERS | And I say we leave it the hell alone and wait till it's safely back at the research base. | 
+dialogueAnd I say we leave it the hell alone and wait till it's safely back at the research base.
+characterJAMES PETERS
+Add JAMES PETERS And I say we leave it the hell alone and wait till it's safely back at the research base.
+----------
+row | 00:46:44 | 00:46:49 | JED PECKMAN | Hank built this so we could do immediate research.  | 
+dialogueHank built this so we could do immediate research.
+characterJED PECKMAN
+Add JED PECKMAN Hank built this so we could do immediate research.
+----------
+row | 00:46:49 | 00:46:52 | JAMES PETERS | Unexpected things happen when we mess with stuff we don't understand.  | 
+dialogueUnexpected things happen when we mess with stuff we don't understand.
+characterJAMES PETERS
+Add JAMES PETERS Unexpected things happen when we mess with stuff we don't understand.
+----------
+row | 00:46:52 | 00:47:01 | JED PECKMAN | How do you know this thing will still be moving? Active secreting slime like it is once we get it back to the surface.  | 
+dialogueHow do you know this thing will still be moving? Active secreting slime like it is once we get it back to the surface.
+characterJED PECKMAN
+Add JED PECKMAN How do you know this thing will still be moving? Active secreting slime like it is once we get it back to the surface.
+----------
+row | 00:47:01 | 00:47:02 | CHRISTINE HARRIS | Guys  | 
+dialogueGuys
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Guys
+----------
+row | 00:47:02 | 00:47:03 | JAMES PETERS | If you don't mind. I'll take my chances. | 
+dialogueIf you don't mind. I'll take my chances.
+characterJAMES PETERS
+Add JAMES PETERS If you don't mind. I'll take my chances.
+----------
+row | 00:47:03 | 00:47:04 | CHRISTINE HARRIS | Jim. | A tentacle emerges from the speciman
+dialogueJim.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim.
+----------
+row |  |  |  |  | 
+dialogue
+character
+----------
+row | 00:47:20 | 00:47:22 | JAMES PETERS | Chris, get away from it.  | 
+dialogueChris, get away from it.
+characterJAMES PETERS
+Add JAMES PETERS Chris, get away from it.
+----------
+row | 00:47:22 | 00:47:25 | JED PECKMAN | It knows we're here.  | 
+dialogueIt knows we're here.
+characterJED PECKMAN
+Add JED PECKMAN It knows we're here.
+----------
+row | 00:47:25 | 00:47:26 | JAMES PETERS | Can't we freeze it?  | 
+dialogueCan't we freeze it?
+characterJAMES PETERS
+Add JAMES PETERS Can't we freeze it?
+----------
+row | 00:47:26 | 00:47:28 | JOE WEEKER | I think we've pissed it off enough already. | 
+dialogueI think we've pissed it off enough already.
+characterJOE WEEKER
+Add JOE WEEKER I think we've pissed it off enough already.
+----------
+row | 00:47:31 | 00:47:35 | CHRISTINE HARRIS | PiCkman. Jim's right. We need to keep this contained.  | Joe leaves the room
+dialoguePiCkman. Jim's right. We need to keep this contained.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS PiCkman. Jim's right. We need to keep this contained.
+----------
+row | 00:47:35 | 00:37:37 | CHRISTINE HARRIS | We should seal the lab. We have no idea what we're dealing with. | 
+dialogueWe should seal the lab. We have no idea what we're dealing with.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We should seal the lab. We have no idea what we're dealing with.
+----------
+row | 00:47:37 | 00:47:39 | JED PECKMAN | I'm paying you to be the biologist here. | 
+dialogueI'm paying you to be the biologist here.
+characterJED PECKMAN
+Add JED PECKMAN I'm paying you to be the biologist here.
+----------
+row | 00:47:39 | 00:47:44 | CHRISTINE HARRIS | I am not risking someone else's life for this expedition. Science trip is over.  | 
+dialogueI am not risking someone else's life for this expedition. Science trip is over.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I am not risking someone else's life for this expedition. Science trip is over.
+----------
+row | 00:47:45 | 00:47:48 | CHRISTINE HARRIS | Jim, get him out of here and help me lock this place up. | 
+dialogueJim, get him out of here and help me lock this place up.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim, get him out of here and help me lock this place up.
+----------
+row | 00:47:52 | 00:47:54 | JAMES PETERS | You heard her.  | James walks Jed out of the room.
+dialogueYou heard her.
+characterJAMES PETERS
+Add JAMES PETERS You heard her.
+----------
+row | 00:47:54 | 00:48:35 |  |  | Christine covers the specimen with a tarp and heads out of the room.
+dialogue
+character
+----------
+row | 00:48:35 | 00:48:57 |  |  | INT. COMMAND CENTER / ROVER LAUNCH ROOM – NEXT
+Joe pulls out his METAL HARD CASE from a concealed storage
+area and places it on the floor. He checks he's alone.
+dialogue
+character
+----------
+row | 00:48:57 | 00:48:59 | JOE WEEKER | Dr. Goldstein. | 
+dialogueDr. Goldstein.
+characterJOE WEEKER
+Add JOE WEEKER Dr. Goldstein.
+----------
+row | 00:48:59 | 00:49:01 | JULIA GOLDSTEIN | Joseph, tell me the specimen is secure. | 
+dialogueJoseph, tell me the specimen is secure.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Joseph, tell me the specimen is secure.
+----------
+row | 00:49:01 | 00:49:07 | JOE WEEKER | It's been contained in the onboard lab. Pittman's already running tests. I think you're going to be very satisfied. | 
+dialogueIt's been contained in the onboard lab. Pittman's already running tests. I think you're going to be very satisfied.
+characterJOE WEEKER
+Add JOE WEEKER It's been contained in the onboard lab. Pittman's already running tests. I think you're going to be very satisfied.
+----------
+row | 00:49:07 | 00:49:11 | JULIA GOLDSTEIN | I hope so. Don't underestimate the value of that tissue sample.  | 
+dialogueI hope so. Don't underestimate the value of that tissue sample.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN I hope so. Don't underestimate the value of that tissue sample.
+----------
+row | 00:49:11 | 00:49:14 | JULIA GOLDSTEIN | Protect it with your life. Because if it doesn't make it back To the surface. | 
+dialogueProtect it with your life. Because if it doesn't make it back To the surface.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Protect it with your life. Because if it doesn't make it back To the surface.
+----------
+row | 00:49:14 | 00:49:21 | JOE WEEKER | lady, if that sample doesn't make it back, neither do I. And believe me, that cheetah chunk will be the least of my worries. | 
+dialoguelady, if that sample doesn't make it back, neither do I. And believe me, that cheetah chunk will be the least of my worries.
+characterJOE WEEKER
+Add JOE WEEKER lady, if that sample doesn't make it back, neither do I. And believe me, that cheetah chunk will be the least of my worries.
+----------
+row | 00:49:21 | 00:49:28 | JULIA GOLDSTEIN | You don't have to worry. As long as that specimen is delivered to me, your safety is guaranteed. | 
+dialogueYou don't have to worry. As long as that specimen is delivered to me, your safety is guaranteed.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN You don't have to worry. As long as that specimen is delivered to me, your safety is guaranteed.
+----------
+row | 00:49:28 | 00:49:29 | JOE WEEKER | And the deal's the same as before,  | 
+dialogueAnd the deal's the same as before,
+characterJOE WEEKER
+Add JOE WEEKER And the deal's the same as before,
+----------
+row | 00:49:29 | 00:49:30 | JULIA GOLDSTEIN | correct.  | 
+dialoguecorrect.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN correct.
+----------
+row | 00:49:30 | 00:49:36 | JOE WEEKER | Well, then we are crystal clear, babe. And I'm already taking the necessary precautions.  | 
+dialogueWell, then we are crystal clear, babe. And I'm already taking the necessary precautions.
+characterJOE WEEKER
+Add JOE WEEKER Well, then we are crystal clear, babe. And I'm already taking the necessary precautions.
+----------
+row | 00:49:37 | 00:49:38 | JOE WEEKER | PiCKman's going to be pissed. | 
+dialoguePiCKman's going to be pissed.
+characterJOE WEEKER
+Add JOE WEEKER PiCKman's going to be pissed.
+----------
+row | 00:49:39 | 00:49:41 | JULIA GOLDSTEIN | PiCkman isn't interested in riches. | 
+dialoguePiCkman isn't interested in riches.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN PiCkman isn't interested in riches.
+----------
+row | 00:49:41 | 00:49:45 | JOE WEEKER | Well, then his loss is our gain. | Jed watches through a door.
+dialogueWell, then his loss is our gain.
+characterJOE WEEKER
+Add JOE WEEKER Well, then his loss is our gain.
+----------
+row | 00:49:45 | 00:49:47 | JULIA GOLDSTEIN | Keep me updated. | 
+dialogueKeep me updated.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Keep me updated.
+----------
+row | 00:49:52 | 00:50:49 |  |  | INT. PROVIDENCE 3 - ON-BOARD LAB
+Jed walks into the lab and starts to undress getting closer to the pile of goo
+dialogue
+character
+----------
+row | 00:50:49 | 00:51:19 |  |  | He reaches out to touch the goo spreading the goo across his body.
+dialogue
+character
+----------
+row | 00:51:23 | 00:51:29 | JAMES PETERS | Something's not right here, Chris. There's some strange feeling. I don't know. | INT. PROVIDENCE 3 - BUNK ROOM 2 – SAME
+James and Christine are drying off and changing into dry clothes.
+dialogueSomething's not right here, Chris. There's some strange feeling. I don't know.
+characterJAMES PETERS
+Add JAMES PETERS Something's not right here, Chris. There's some strange feeling. I don't know.
+----------
+row | 00:51:29 | 00:51:32 | CHRISTINE HARRIS | Just try to relax. It's nearly over.  | 
+dialogueJust try to relax. It's nearly over.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Just try to relax. It's nearly over.
+----------
+row | 00:51:32 | 00:51:34 | CHRISTINE HARRIS | We've been down here God knows how long. No one's ever been this deep. | 
+dialogueWe've been down here God knows how long. No one's ever been this deep.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We've been down here God knows how long. No one's ever been this deep.
+----------
+row | 00:51:34 | 00:51:39 | JAMES PETERS | Okay, but maybe we were never meant to come here. Maybe nature never intended us to find this place. | 
+dialogueOkay, but maybe we were never meant to come here. Maybe nature never intended us to find this place.
+characterJAMES PETERS
+Add JAMES PETERS Okay, but maybe we were never meant to come here. Maybe nature never intended us to find this place.
+----------
+row | 00:51:39 | 00:51:40 | CHRISTINE HARRIS | Don't get hysterical on me, Jim. | 
+dialogueDon't get hysterical on me, Jim.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Don't get hysterical on me, Jim.
+----------
+row | 00:51:40 | 00:51:46 | JAMES PETERS | Have you seen anything down here? You know, heard anything? Things you shouldn't see. Things that couldn't be here. | 
+dialogueHave you seen anything down here? You know, heard anything? Things you shouldn't see. Things that couldn't be here.
+characterJAMES PETERS
+Add JAMES PETERS Have you seen anything down here? You know, heard anything? Things you shouldn't see. Things that couldn't be here.
+----------
+row | 00:51:46 | 00:51:48 | CHRISTINE HARRIS | Like what? None of this was meant to be here. | 
+dialogueLike what? None of this was meant to be here.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Like what? None of this was meant to be here.
+----------
+row | 00:51:48 | 00:51:53 | JAMES PETERS | Well, like when you went into the water. Why did you do that? Because you saw something, right? Something made you do it. | 
+dialogueWell, like when you went into the water. Why did you do that? Because you saw something, right? Something made you do it.
+characterJAMES PETERS
+Add JAMES PETERS Well, like when you went into the water. Why did you do that? Because you saw something, right? Something made you do it.
+----------
+row | 00:51:53 | 00:51:54 | CHRISTINE HARRIS | No, I fell. | 
+dialogueNo, I fell.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No, I fell.
+----------
+row | 00:51:54 | 00:51:59 | JAMES PETERS | No, you saw something. You chased after it. Like Sam floating in the water. | 
+dialogueNo, you saw something. You chased after it. Like Sam floating in the water.
+characterJAMES PETERS
+Add JAMES PETERS No, you saw something. You chased after it. Like Sam floating in the water.
+----------
+row | 00:51:59 | 00:52:00 | CHRISTINE HARRIS | No. Jim, what's wrong with you? | 
+dialogueNo. Jim, what's wrong with you?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No. Jim, what's wrong with you?
+----------
+row | 00:52:00 | 00:52:05 | JAMES PETERS | Look, when I was out there, I thought I heard my dad over the intercom.  | 
+dialogueLook, when I was out there, I thought I heard my dad over the intercom.
+characterJAMES PETERS
+Add JAMES PETERS Look, when I was out there, I thought I heard my dad over the intercom.
+----------
+row | 00:52:05 | 00:52:09 | JAMES PETERS | His tapes, his old recordings are playing at the bottom of the fucking ocean. How can that be possible? | 
+dialogueHis tapes, his old recordings are playing at the bottom of the fucking ocean. How can that be possible?
+characterJAMES PETERS
+Add JAMES PETERS His tapes, his old recordings are playing at the bottom of the fucking ocean. How can that be possible?
+----------
+row | 00:52:09 | 00:52:16 | CHRISTINE HARRIS | Listen to me. You didn't hear anything, okay? You panicked. We're all shocked. It's normal. | 
+dialogueListen to me. You didn't hear anything, okay? You panicked. We're all shocked. It's normal.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Listen to me. You didn't hear anything, okay? You panicked. We're all shocked. It's normal.
+----------
+row | 00:52:16 | 00:52:21 | JAMES PETERS | I don't think any of this is normal. I just know I want to get home. | 
+dialogueI don't think any of this is normal. I just know I want to get home.
+characterJAMES PETERS
+Add JAMES PETERS I don't think any of this is normal. I just know I want to get home.
+----------
+row | 00:52:21 | 00:52:24 | CHRISTINE HARRIS | We will. But I need you to keep it together, okay?  | 
+dialogueWe will. But I need you to keep it together, okay?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS We will. But I need you to keep it together, okay?
+----------
+row | 00:52:28 | 00:52:34 | CHRISTINE HARRIS | I need you I’ll keep me sane until we're back on the surface. I can't do this alone. | 
+dialogueI need you I’ll keep me sane until we're back on the surface. I can't do this alone.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS I need you I’ll keep me sane until we're back on the surface. I can't do this alone.
+----------
+row | 00:52:34 | 00:52:39 | JAMES PETERS | We came to the bottom of the ocean. None of us were ever entirely sane. | 
+dialogueWe came to the bottom of the ocean. None of us were ever entirely sane.
+characterJAMES PETERS
+Add JAMES PETERS We came to the bottom of the ocean. None of us were ever entirely sane.
+----------
+row | 00:52:44 | 00:52:50 | CHRISTINE HARRIS | You did great out there. Your dad could never bring back this physical proof of things that people didn't believe existed.  | 
+dialogueYou did great out there. Your dad could never bring back this physical proof of things that people didn't believe existed.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You did great out there. Your dad could never bring back this physical proof of things that people didn't believe existed.
+----------
+row | 00:52:52 | 00:52:55 | CHRISTINE HARRIS | It's going to shock the world, Jim. You lived up to your name. | 
+dialogueIt's going to shock the world, Jim. You lived up to your name.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS It's going to shock the world, Jim. You lived up to your name.
+----------
+row | 00:52:58 | 00:53:02 | JAMES PETERS | Yeah, well, I worry that might not be a good thing.  | 
+dialogueYeah, well, I worry that might not be a good thing.
+characterJAMES PETERS
+Add JAMES PETERS Yeah, well, I worry that might not be a good thing.
+----------
+row | 00:53:07 | 00:53:10 | GORDANS ATIKINS | We're 2 hours from the surface. Do copy? DP Control?  | 
+dialogueWe're 2 hours from the surface. Do copy? DP Control?
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS We're 2 hours from the surface. Do copy? DP Control?
+----------
+row | 00:53:12 | 00:53:14 | GORDANS ATIKINS | Come in, DP control.  | 
+dialogueCome in, DP control.
+characterGORDANS ATIKINS
+Add GORDANS ATIKINS Come in, DP control.
+----------
+row | 00:53:17 | 00:53:22 | CONTROL SCREENS | It's october 25, day three of the Peters Figment expedition to the Antarctic Peninsula.  | The screens start to show maps
+dialogueIt's october 25, day three of the Peters Figment expedition to the Antarctic Peninsula.
+characterCONTROL SCREENS
+Add CONTROL SCREENS It's october 25, day three of the Peters Figment expedition to the Antarctic Peninsula.
+----------
+row | 00:53:22 | 00:53:31 | CONTROL SCREENS | 40 miles into the mountains, we've uncovered something extraordinary.  | 
+dialogue40 miles into the mountains, we've uncovered something extraordinary.
+characterCONTROL SCREENS
+Add CONTROL SCREENS 40 miles into the mountains, we've uncovered something extraordinary.
+----------
+row | 00:53:31 | 00:53:37 | CONTROL SCREENS | Can't you hear that? It's speaking to us. | 
+dialogueCan't you hear that? It's speaking to us.
+characterCONTROL SCREENS
+Add CONTROL SCREENS Can't you hear that? It's speaking to us.
+----------
+row | 00:53:37 | 00:53:37 |  |  | Pickman creeps up behind Gordan and stabs him.
+dialogue
+character
+----------
+row | 00:53.42 | 00:53:44 | CHRISTINE HARRIS | What's happening out there? | INT. PROVIDENCE 3 - BUNK ROOM 2 / ROVER LAUNCH ROOM – NEXT
+Christine flinches towards Gordan’s scream
+dialogueWhat's happening out there?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS What's happening out there?
+----------
+row | 00:53:44 | 00:53:46 | JAMES PETERS | Wait. Chris, hang on. | 
+dialogueWait. Chris, hang on.
+characterJAMES PETERS
+Add JAMES PETERS Wait. Chris, hang on.
+----------
+row | 00:53:46 | 00:53:47 | CHRISTINE HARRIS | Come on. | 
+dialogueCome on.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Come on.
+----------
+row | 00:53:47 | 00:53:53 |  |  | INT. PROVIDENCE 3 - ROVER LAUNCH ROOM / MAIN CORRIDOR
+Chris and James run through the corridor
+dialogue
+character
+----------
+row | 00:53:52 | 00:53:53 | JAMES PETERS | GORDAN! | 
+dialogueGORDAN!
+characterJAMES PETERS
+Add JAMES PETERS GORDAN!
+----------
+row | 00:53:53 | 00:54:07 |  |  | Christine walks out of the deck and into the corridor outside
+dialogue
+character
+----------
+row | 00:54:07 | 00:54:17 |  |  | She walks towards a body lying on the table covered by the creature.
+dialogue
+character
+----------
+row | 00:54:17 | 00:54:18 | CHRISTINE HARRIS | Oh my god! | 
+dialogueOh my god!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Oh my god!
+----------
+row | 00:54:18 | 00:54:30 |  |  | Christine reaches out to touch the door key which is covered in goo. She tries to clean it off. She runs back to where James is.
+dialogue
+character
+----------
+row | 00:54:46 | 00:54:58 |  |  | Pickman walks into the room and screeches at them.
+Pickman smashes glass closing the airlock.
+dialogue
+character
+----------
+row | 00:54:58 | 00:54:59 | CHRISTINE HARRIS | Jim get it open. | 
+dialogueJim get it open.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim get it open.
+----------
+row | 00:55:02 | 00:55:03 | JAMES PETERS | I can’t | 
+dialogueI can’t
+characterJAMES PETERS
+Add JAMES PETERS I can’t
+----------
+row | 00:55:06 | 00:55:07 | JOE WEETER | Hold on. | 
+dialogueHold on.
+characterJOE WEETER
+Add JOE WEETER Hold on.
+----------
+row | 00:55:29 | 00:55:31 | JAMES PETERS | Put down the axe Jim. | 
+dialoguePut down the axe Jim.
+characterJAMES PETERS
+Add JAMES PETERS Put down the axe Jim.
+----------
+row | 00:55:31 | 00:55:32 | CHRISTINE HARRIS | Pickman’s in there. | 
+dialoguePickman’s in there.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Pickman’s in there.
+----------
+row | 00:55:32 | 00:55:35 | JAMES PETERS | You’re not really gonna use that thing joe. | 
+dialogueYou’re not really gonna use that thing joe.
+characterJAMES PETERS
+Add JAMES PETERS You’re not really gonna use that thing joe.
+----------
+row | 00:55:35 | 00:55:41 | JOE WEETER | You open that fucking pressure door
+this whole ship fillswith water  at a
+speed so fucking fast the liquid would
+cut your body in half! DROP IT! | 
+dialogueYou open that fucking pressure doorthis whole ship fillswith water  at aspeed so fucking fast the liquid wouldcut your body in half! DROP IT!
+characterJOE WEETER
+Add JOE WEETER You open that fucking pressure doorthis whole ship fillswith water  at aspeed so fucking fast the liquid wouldcut your body in half! DROP IT!
+----------
+row | 00:55:43 | 00:55:46 | JAMES PETERS | Are you just gonna let Pikmin die in there? | 
+dialogueAre you just gonna let Pikmin die in there?
+characterJAMES PETERS
+Add JAMES PETERS Are you just gonna let Pikmin die in there?
+----------
+row | 00:55:46 | 00:55:48 | JOE WEETER | Pikmin's lost his fucking mind. Don't you get it? | 
+dialoguePikmin's lost his fucking mind. Don't you get it?
+characterJOE WEETER
+Add JOE WEETER Pikmin's lost his fucking mind. Don't you get it?
+----------
+row | 00:55:48 | 00:55:53 | JOE WEETER | This was his dream. To see those creatures, those ancient sea gods. | 
+dialogueThis was his dream. To see those creatures, those ancient sea gods.
+characterJOE WEETER
+Add JOE WEETER This was his dream. To see those creatures, those ancient sea gods.
+----------
+row | 00:55:15 | 00:55:56 | JOE WEETER | And if that's what he wants, I do not need to go down with him. | 
+dialogueAnd if that's what he wants, I do not need to go down with him.
+characterJOE WEETER
+Add JOE WEETER And if that's what he wants, I do not need to go down with him.
+----------
+row | 00:55:56 | 00:55:58 | CHRISTINE HARRIS | He didn't even know these things are down here. | 
+dialogueHe didn't even know these things are down here.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS He didn't even know these things are down here.
+----------
+row | 00:55:58 | 00:56:05 | JAMES PETERS | Pickman knew. He knew what they were and he knew they were only sleeping | 
+dialoguePickman knew. He knew what they were and he knew they were only sleeping
+characterJAMES PETERS
+Add JAMES PETERS Pickman knew. He knew what they were and he knew they were only sleeping
+----------
+row | 00:56:08 | 00:56:15 | JOE WEETER | . Exactly. What do you think they found down in Antarctica? What do you think they've been searching for all these years? | 
+dialogue. Exactly. What do you think they found down in Antarctica? What do you think they've been searching for all these years?
+characterJOE WEETER
+Add JOE WEETER . Exactly. What do you think they found down in Antarctica? What do you think they've been searching for all these years?
+----------
+row | 00:56:15 | 00:56:17 | CHRISTINE HARRIS | And he just let us wake them up? | 
+dialogueAnd he just let us wake them up?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS And he just let us wake them up?
+----------
+row | 00:56:17 | 00:56:22 | JOE WEETER | Pickman did not spend all of this money for you two to have the adventure of a lifetime.  | 
+dialoguePickman did not spend all of this money for you two to have the adventure of a lifetime.
+characterJOE WEETER
+Add JOE WEETER Pickman did not spend all of this money for you two to have the adventure of a lifetime.
+----------
+row | 00:56:22 | 00:56:31 | JOE WEETER | We were sent here with a clear objective. Get the tissue sample from the fucking water goblins, make it back to the surface and get filthy fucking rich.  | 
+dialogueWe were sent here with a clear objective. Get the tissue sample from the fucking water goblins, make it back to the surface and get filthy fucking rich.
+characterJOE WEETER
+Add JOE WEETER We were sent here with a clear objective. Get the tissue sample from the fucking water goblins, make it back to the surface and get filthy fucking rich.
+----------
+row | 00:56:31 | 00:56:35 | JOE WEETER | So will you please both move away from the fucking pressure doors? | 
+dialogueSo will you please both move away from the fucking pressure doors?
+characterJOE WEETER
+Add JOE WEETER So will you please both move away from the fucking pressure doors?
+----------
+row | 00:56:35 | 00:56:39 | CHRISTINE HARRIS | You think that specimen is going to make you rich? It's going to be harder than you think. | 
+dialogueYou think that specimen is going to make you rich? It's going to be harder than you think.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You think that specimen is going to make you rich? It's going to be harder than you think.
+----------
+row | 00:56:39 | 00:56:42 | JOE WEETER | Oh, you think I'm scared of a couple of brainiacs? | 
+dialogueOh, you think I'm scared of a couple of brainiacs?
+characterJOE WEETER
+Add JOE WEETER Oh, you think I'm scared of a couple of brainiacs?
+----------
+row | 00:56:42 | 00:56:47 | CHRISTINE HARRIS | No, that thing is growing. You can go and look at it if you don't believe me.  | 
+dialogueNo, that thing is growing. You can go and look at it if you don't believe me.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No, that thing is growing. You can go and look at it if you don't believe me.
+----------
+row | 00:56:47 | 00:56:50 | CHRISTINE HARRIS | And I think it's having a strange psychological effect on our crew. | 
+dialogueAnd I think it's having a strange psychological effect on our crew.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS And I think it's having a strange psychological effect on our crew.
+----------
+row | 00:56:51 | 00:56:52 | JOE WEETER | You fucking think? | 
+dialogueYou fucking think?
+characterJOE WEETER
+Add JOE WEETER You fucking think?
+----------
+row | 00:56:52 | 00:56:58 | CHRISTINE HARRIS | It doesn't just exist physically. It's in our minds. It's in our thoughts.  | 
+dialogueIt doesn't just exist physically. It's in our minds. It's in our thoughts.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS It doesn't just exist physically. It's in our minds. It's in our thoughts.
+----------
+row | 00:56:58 | 00:57:07 | CHRISTINE HARRIS | Joe, I don't know if you know this, but I have a son waiting for me back home. He's ten months old.. | 
+dialogueJoe, I don't know if you know this, but I have a son waiting for me back home. He's ten months old..
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Joe, I don't know if you know this, but I have a son waiting for me back home. He's ten months old..
+----------
+row | 00:57:07 | 00:57:18 | CHRISTINE HARRIS | And if I don't get back to him, if I don't see him again, I swear to fucking God, you'll die down here with me and it won't be pretty | 
+dialogueAnd if I don't get back to him, if I don't see him again, I swear to fucking God, you'll die down here with me and it won't be pretty
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS And if I don't get back to him, if I don't see him again, I swear to fucking God, you'll die down here with me and it won't be pretty
+----------
+row | 00:57:18 | 00:57:22 | JOE WEETER | I don't need to listen to this bullshit.  | 
+dialogueI don't need to listen to this bullshit.
+characterJOE WEETER
+Add JOE WEETER I don't need to listen to this bullshit.
+----------
+row | 00:57:22 | 00:57:25 |  | Wait. Don't Agitate it | 
+dialogueWait. Don't Agitate it
+character
+Add JOE WEETER Wait. Don't Agitate it
+----------
+row | 00:57:25 |  |  | Jim. | 
+dialogueJim.
+character
+Add JOE WEETER Jim.
+----------
+row | 00:57:25 | 00:57:28 |  | He's dangerous, Chris. There's nothing we can do.  | 
+dialogueHe's dangerous, Chris. There's nothing we can do.
+character
+Add JOE WEETER He's dangerous, Chris. There's nothing we can do.
+----------
+row | 00:57:28 | 00:58:22 |  |  | NT. PROVIDENCE 3 - ON-BOARD LAB – NEXT
+Joe walks in and cuts off a section of the sample
+dialogue
+character
+----------
+row | 00:58:30 | 00:58:34 | JAMES PETERS | Gordon.  | Christine and James go into the cockpit to find Gordon.
+dialogueGordon.
+characterJAMES PETERS
+Add JAMES PETERS Gordon.
+----------
+row | 00:58:34 | 00:58:39 | RADIO | Frozen in time and waiting for the thumb.  | 
+dialogueFrozen in time and waiting for the thumb.
+characterRADIO
+Add RADIO Frozen in time and waiting for the thumb.
+----------
+row | 00:58:39 | 00:58:42 | GORDON ATKINS | Jim my boy. Is he really you?  | Gordon talks as if being possessed
+dialogueJim my boy. Is he really you?
+characterGORDON ATKINS
+Add GORDON ATKINS Jim my boy. Is he really you?
+----------
+row | 00:58:42 | 00:58:45 | JAMES PETERS | Gordon maybe you should come downstairs and lie down for a while.  | 
+dialogueGordon maybe you should come downstairs and lie down for a while.
+characterJAMES PETERS
+Add JAMES PETERS Gordon maybe you should come downstairs and lie down for a while.
+----------
+row | 00:58:45 | 00:58:53 | GORDON ATKINS | I always knew you would find me one day, Jimmy. They told me you would come, but I prayed.  | 
+dialogueI always knew you would find me one day, Jimmy. They told me you would come, but I prayed.
+characterGORDON ATKINS
+Add GORDON ATKINS I always knew you would find me one day, Jimmy. They told me you would come, but I prayed.
+----------
+row | 00:58:55 | 00:58:58 | GORDON ATKINS | I prayed that it wasn't true.  | Gordan stands up
+dialogueI prayed that it wasn't true.
+characterGORDON ATKINS
+Add GORDON ATKINS I prayed that it wasn't true.
+----------
+row | 00:59:01 | 00:59:07 | GORDON ATKINS | Don't be afraid, jimmy death is not the end  | 
+dialogueDon't be afraid, jimmy death is not the end
+characterGORDON ATKINS
+Add GORDON ATKINS Don't be afraid, jimmy death is not the end
+----------
+row | 00:59:07 | 00:59:14 | GORDON ATKINS | These are things I never
+should've known things nature never
+intended for us to find! | 
+dialogueThese are things I nevershould've known things nature neverintended for us to find!
+characterGORDON ATKINS
+Add GORDON ATKINS These are things I nevershould've known things nature neverintended for us to find!
+----------
+row | 00:59:14 | 00:59:15 | CHRISTINE HARRIS | Sit down Gordon | 
+dialogueSit down Gordon
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Sit down Gordon
+----------
+row | 00:59:16 | 00:59:18 | JAMES PETERS | I don't think that's Gordon. | 
+dialogueI don't think that's Gordon.
+characterJAMES PETERS
+Add JAMES PETERS I don't think that's Gordon.
+----------
+row | 00:59:19 | 00:59:25 | GORDON ATKINS | Show them Jimmy, show them the way home...
+back to the place they once
+knew... 
+ | 
+dialogueShow them Jimmy, show them the way home...back to the place they onceknew...
+characterGORDON ATKINS
+Add GORDON ATKINS Show them Jimmy, show them the way home...back to the place they onceknew...
+----------
+row | 00:59:28 | 00:59:40 | GORDON ATKINS | then, our insignificant race
+will know, how I tried to warn them,
+how they left it too late. | 
+dialoguethen, our insignificant racewill know, how I tried to warn them,how they left it too late.
+characterGORDON ATKINS
+Add GORDON ATKINS then, our insignificant racewill know, how I tried to warn them,how they left it too late.
+----------
+row | 00:59:40 | 00:59:45 | JAMES PETERS | Get the fuck away from me. Gordon. Don't make me use this  | 
+dialogueGet the fuck away from me. Gordon. Don't make me use this
+characterJAMES PETERS
+Add JAMES PETERS Get the fuck away from me. Gordon. Don't make me use this
+----------
+row | 00:59:45 | 00:59:45 | GORDON ATKINS | when they awake. It is time for us to sleep.  | 
+dialoguewhen they awake. It is time for us to sleep.
+characterGORDON ATKINS
+Add GORDON ATKINS when they awake. It is time for us to sleep.
+----------
+row | 00:59:45 | 01:00:12 |  |  | Gordon scream
+dialogue
+character
+----------
+row | 01:00:12 | 01:00:14 |  |  | Gordon pushes James over the rails
+dialogue
+character
+----------
+row | 01:00:14 | 01:00:16 | CHRISTINE HARRIS | JIM | 
+dialogueJIM
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS JIM
+----------
+row | 01:00:16 | 01:00:22 | CHRISTINE HARRIS | Gordon! | Gordon turns and starts smashing the controls with the axe
+dialogueGordon!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Gordon!
+----------
+row | 01:00:22 | 01:00:32 |  |  | Gordon continues to smash away while warming lights flash
+dialogue
+character
+----------
+row | 01:00:34 | 01:00:35 | RACHEL | That’s it We'Ve lost them. | 
+dialogueThat’s it We'Ve lost them.
+characterRACHEL
+Add RACHEL That’s it We'Ve lost them.
+----------
+row | 01:00:35 | 01:00:38 | CAMERON | Can't get a signal. There's nothing.  | 
+dialogueCan't get a signal. There's nothing.
+characterCAMERON
+Add CAMERON Can't get a signal. There's nothing.
+----------
+row | 01:00:38 | 01:00:49 |  | It's? It. Gordon, what have you done? | Joe turns around holding his gun walking away from the speciman
+dialogueIt's? It. Gordon, what have you done?
+character
+Add CAMERON It's? It. Gordon, what have you done?
+----------
+row | 01:00:49 | 01:00:50 |  |  | Gordon continues to destroy the control room.
+dialogue
+character
+----------
+row | 01:00:50 | 01:00:51 | CHRISTINE HARRIS | GORDON! | 
+dialogueGORDON!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS GORDON!
+----------
+row | 01:00:51 | 01:00:59 |  |  | Door opens, Joe walks through and sees James unconscious on the ground.
+dialogue
+character
+----------
+row | 01:01:04 | 01:01:06 |  |  | Joe shoves Christine out the way and open fires at Gordon.
+dialogue
+character
+----------
+row | 01:01:06 | 01:01:13 |  |  | Gordon turns around unscathed.
+dialogue
+character
+----------
+row | 01:01:13 | 01:01:14 | JOE WEEKER | Gordon! | 
+dialogueGordon!
+characterJOE WEEKER
+Add JOE WEEKER Gordon!
+----------
+row | 01:01:14 | 01:01:17 |  |  | Gordon drops the axe
+dialogue
+character
+----------
+row | 01:01:17 | 01:01:18 | JOE WEEKER | What have you done. | 
+dialogueWhat have you done.
+characterJOE WEEKER
+Add JOE WEEKER What have you done.
+----------
+row | 01:01:18 | 01:01:28 |  |  | Gordon continues to destroy the machines
+dialogue
+character
+----------
+row | 01:01:28 | 01:01:33 |  |  | Joe fires his gun again shooting into Gordon repeatedly
+dialogue
+character
+----------
+row | 01:01:32 | 01:01:34 | CHRISTINE HARRIS | STOP! STOP IT! You’ll blow the
+windows! | 
+dialogueSTOP! STOP IT! You’ll blow thewindows!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS STOP! STOP IT! You’ll blow thewindows!
+----------
+row | 01:01:36 | 01:01:42 | JOE WEEKER | It this thing's going down, sweetheart. Back down to the bottom of the ocean, and they are not going down with it. | 
+dialogueIt this thing's going down, sweetheart. Back down to the bottom of the ocean, and they are not going down with it.
+characterJOE WEEKER
+Add JOE WEEKER It this thing's going down, sweetheart. Back down to the bottom of the ocean, and they are not going down with it.
+----------
+row | 01:01:42 | 01:01:43 | CHRISTINE HARRIS | You can't just leave us to pilot this thing. | 
+dialogueYou can't just leave us to pilot this thing.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You can't just leave us to pilot this thing.
+----------
+row | 01:01:43 | 01:01:47 | JOE WEEKER | pilot what? It's scrap metal. Lady, open your fucking eyes.  | 
+dialoguepilot what? It's scrap metal. Lady, open your fucking eyes.
+characterJOE WEEKER
+Add JOE WEEKER pilot what? It's scrap metal. Lady, open your fucking eyes.
+----------
+row | 01:01:47 | 01:01:54 | JOE WEEKER | This thing is going down. I'm sorry about your kid.  | 
+dialogueThis thing is going down. I'm sorry about your kid.
+characterJOE WEEKER
+Add JOE WEEKER This thing is going down. I'm sorry about your kid.
+----------
+row | 01:01:56 | 01:02:11 |  |  | Christine grabs the axe and hits Joe’s gun out his hand. Slides it over the side hitting the side of James.
+dialogue
+character
+----------
+row | 01:02:13 | 01:02:16 | JOE WEEKER | You gonna fight me now, bitch? Try it! | 
+dialogueYou gonna fight me now, bitch? Try it!
+characterJOE WEEKER
+Add JOE WEEKER You gonna fight me now, bitch? Try it!
+----------
+row | 01:02:16 | 01:02:36 |  |  | Joe and Christine fight over the axe.
+dialogue
+character
+----------
+row | 01:02:36 | 01:02:37 |  |  | Christine wacks Joe in the nose.
+dialogue
+character
+----------
+row | 01:02:48 | 01:02:52 | JOE WEEKER | you think we're just going to let you walk out of here, bitch? | 
+dialogueyou think we're just going to let you walk out of here, bitch?
+characterJOE WEEKER
+Add JOE WEEKER you think we're just going to let you walk out of here, bitch?
+----------
+row | 01:02:52 | 01:02:54 | CHRISTINE HARRIS | No, I don't.  | 
+dialogueNo, I don't.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No, I don't.
+----------
+row | 01:02:54 | 01:03:03 |  |  | Christine launches the axe into Joe’s foot. Drops the axe and runs towards the rover.
+dialogue
+character
+----------
+row | 01:03:10 | 01:03:19 | CHRISTINE HARRIS | Jim! Get in the rover. We've got to go. | 
+dialogueJim! Get in the rover. We've got to go.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim! Get in the rover. We've got to go.
+----------
+row | 01:03:19 | 01:03:21 | JAMES PETERS | What?  | 
+dialogueWhat?
+characterJAMES PETERS
+Add JAMES PETERS What?
+----------
+row | 01:03:21 | 01:03:22 | CHRISTINE HARRIS | Get in the rover. | 
+dialogueGet in the rover.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Get in the rover.
+----------
+row | 01:03:22 | 01:03:23 | JAMES PETERS | Where's Joe,. | 
+dialogueWhere's Joe,.
+characterJAMES PETERS
+Add JAMES PETERS Where's Joe,.
+----------
+row | 01:03:23 | 01:03:25 | CHRISTINE HARRIS | Screw Joe come on we gotta go | 
+dialogueScrew Joe come on we gotta go
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Screw Joe come on we gotta go
+----------
+row | 01:03:25 | 01:03:46 |  |  | Chris and James are setting up the Rover
+dialogue
+character
+----------
+row | 01:03:46 | 01:04:00 |  |  | Christine gets into the rover
+dialogue
+character
+----------
+row | 01:04:00 | 01:04:42 |  |  | Joe drags himself across the cockpit and turns around.
+dialogue
+character
+----------
+row | 01:04:42 | 01:05:02 |  |  | A tentacle comes out of Gordon’s chest.
+dialogue
+character
+----------
+row | 01:05:02 | 01:05:08 |  |  | James grabs a flare out of a cabinet
+dialogue
+character
+----------
+row | 01:05:08 | 01:05:09 | JAMES PETERS | okay. Wait for me here. I'll be a second. | 
+dialogueokay. Wait for me here. I'll be a second.
+characterJAMES PETERS
+Add JAMES PETERS okay. Wait for me here. I'll be a second.
+----------
+row | 01:05:09 | 01:05:10 | CHRISTINE HARRIS | Well, where are you going? | 
+dialogueWell, where are you going?
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Well, where are you going?
+----------
+row | 01:05:10 | 01:05:14 | JAMES PETERS | We can't risk someone else finding it. You know they'll come looking you.  | 
+dialogueWe can't risk someone else finding it. You know they'll come looking you.
+characterJAMES PETERS
+Add JAMES PETERS We can't risk someone else finding it. You know they'll come looking you.
+----------
+row | 01:05:14 | 01:05:37 |  |  | James lights the flare and walks into the lab
+dialogue
+character
+----------
+row | 01:05:37 | 01:05:40 | JAMES PETERS | Whatever the hell you are. Time to make calamari.  | 
+dialogueWhatever the hell you are. Time to make calamari.
+characterJAMES PETERS
+Add JAMES PETERS Whatever the hell you are. Time to make calamari.
+----------
+row | 01:05:40 | 01:06:04 |  |  | James places the flare onto the specimen and open fires too.
+dialogue
+character
+----------
+row | 01:06:04 | 01:06:23 |  |  | James heads back towards the rovers and finds a figure laughing
+dialogue
+character
+----------
+row | 01:06:23 | 01:06:23 |  | In a hurry jimmy. | 
+dialogueIn a hurry jimmy.
+character
+Add JAMES PETERS In a hurry jimmy.
+----------
+row | 01:06:23 | 01:06:26 |  | five minutes, this whole thing's goes under. | 
+dialoguefive minutes, this whole thing's goes under.
+character
+Add JAMES PETERS five minutes, this whole thing's goes under.
+----------
+row | 01:06:25 | 01:06:31 |  | This whole thing will implode when that door opens.  | 
+dialogueThis whole thing will implode when that door opens.
+character
+Add JAMES PETERS This whole thing will implode when that door opens.
+----------
+row | 01:06:31 | 01:06:38 |  |  | James opens the door to get to the rover.
+dialogue
+character
+----------
+row | 01:06:55 | 01:06:56 | CHRISTINE HARRIS | Jim we don’t have enough air supply | 
+dialogueJim we don’t have enough air supply
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim we don’t have enough air supply
+----------
+row | 01:06:58 | 01:07:01 | JAMES PETERS | That door’s set to open in five
+minutes, this whole thing’s gonna
+implode! | 
+dialogueThat door’s set to open in fiveminutes, this whole thing’s gonnaimplode!
+characterJAMES PETERS
+Add JAMES PETERS That door’s set to open in fiveminutes, this whole thing’s gonnaimplode!
+----------
+row | 01:07:01 | 01:07:02 | CHRISTINE HARRIS | What! | 
+dialogueWhat!
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS What!
+----------
+row | 01:07:02 | 01:07:05 | JAMES PETERS | One of us needs to stay behind to seal the pressure lock. Go on without me. | 
+dialogueOne of us needs to stay behind to seal the pressure lock. Go on without me.
+characterJAMES PETERS
+Add JAMES PETERS One of us needs to stay behind to seal the pressure lock. Go on without me.
+----------
+row | 01:07:05 | 01:07:06 | CHRISTINE HARRIS | No Jim we always said that | 
+dialogueNo Jim we always said that
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No Jim we always said that
+----------
+row | 01:07:06 | 01:07:07 | JAMES PETERS | Just go! | 
+dialogueJust go!
+characterJAMES PETERS
+Add JAMES PETERS Just go!
+----------
+row | 01:07:07 | 01:07:27 |  |  | Joe smashes the axe into the rover.
+dialogue
+character
+----------
+row | 01:07:27 | 01:07:28 | CHRISTINE HARRIS | JIM | 
+dialogueJIM
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS JIM
+----------
+row | 01:07:28 | 01:07:40 |  |  | James run and hides. Jumping out to punch Joe.
+dialogue
+character
+----------
+row | 01:07:40 | 01:07:57 |  |  | Joe knocks james to the ground.
+dialogue
+character
+----------
+row | 01:07:57 | 01:08:02 | JOE WEEKER | You can't destroy them, Jimmy. We woke them up and now it's all over.  | 
+dialogueYou can't destroy them, Jimmy. We woke them up and now it's all over.
+characterJOE WEEKER
+Add JOE WEEKER You can't destroy them, Jimmy. We woke them up and now it's all over.
+----------
+row | 01:08:02 | 01:08:16 |  |  | Joe runs towards james with an axe as James fires a gun into Joe.
+dialogue
+character
+----------
+row | 01:08:16 | 01:08:54 |  |  | James creeps over towards Joe grabs the axe and watches as he twitches on the ground.
+dialogue
+character
+----------
+row | 01:08:54 | 01:09:14 |  |  | A tentacle appears from Joe’s stomach
+dialogue
+character
+----------
+row | 01:09:14 | 01:09:24 |  |  | James fires gun at him again.
+dialogue
+character
+----------
+row | 01:09:33 | 01:09:59 |  |  | James run back to the rover hatch and closes the pressure seal
+dialogue
+character
+----------
+row | 01:09:59 | 01:10:06 |  |  | The rover is lowered into the water
+dialogue
+character
+----------
+row | 01:10:06 | 01:10:07 | JIM’S DAD | Jim | 
+dialogueJim
+characterJIM’S DAD
+Add JIM’S DAD Jim
+----------
+row | 01:10:07 | 01:10:44 |  |  | James follows where the voice it coming from
+dialogue
+character
+----------
+row | 01:10:44 | 01:10:47 | JIM’S DAD | Jim you came for me | 
+dialogueJim you came for me
+characterJIM’S DAD
+Add JIM’S DAD Jim you came for me
+----------
+row | 01:10:47 | 01:10:56 | JIM’S DAD | let's go together with them into the depths of oblivion.  | 
+dialoguelet's go together with them into the depths of oblivion.
+characterJIM’S DAD
+Add JIM’S DAD let's go together with them into the depths of oblivion.
+----------
+row | 01:10:56 | 01:10:57 | JAMES PETERS | Dad? | 
+dialogueDad?
+characterJAMES PETERS
+Add JAMES PETERS Dad?
+----------
+row | 01:11:03 | 01:11:06 |  |  | CUT TO BLACK
+dialogue
+character
+----------
+row | 01:11:06 | 01:11:17 |  |  | TWO DAYS LATER
+dialogue
+character
+----------
+row | 01:11:17 |  |  |  | INT. HOSPITAL
+Chrstine is lying in bed
+dialogue
+character
+----------
+row | 01:11:25 | 01:11:30 | FEMALE DOCTOR | Miss Harris. Miss Harris, can you hear me?  | 
+dialogueMiss Harris. Miss Harris, can you hear me?
+characterFEMALE DOCTOR
+Add FEMALE DOCTOR Miss Harris. Miss Harris, can you hear me?
+----------
+row | 01:11:32 | 01:11:34 | FEMALE DOCTOR | It's okay. You're safe. We're looking after you now.  | 
+dialogueIt's okay. You're safe. We're looking after you now.
+characterFEMALE DOCTOR
+Add FEMALE DOCTOR It's okay. You're safe. We're looking after you now.
+----------
+row | 01:11:36 | 01:11:38 | CHRISTINE HARRIS | Jim. Providence.  | 
+dialogueJim. Providence.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Jim. Providence.
+----------
+row | 01:11:38 | 01:11:40 | JULIA GOLDSTEIN | They've gone. | 
+dialogueThey've gone.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN They've gone.
+----------
+row | 01:11:40 | 01:11:46 | JULIA GOLDSTEIN | Miss Harris. After communication was lost, we picked up your rover signal.  | 
+dialogueMiss Harris. After communication was lost, we picked up your rover signal.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN Miss Harris. After communication was lost, we picked up your rover signal.
+----------
+row | 01:11:46 | 01:11:54 | JULIA GOLDSTEIN | They found you drifting. Your oxygen levels were dangerously low. You've been unconscious for a couple of days.  | 
+dialogueThey found you drifting. Your oxygen levels were dangerously low. You've been unconscious for a couple of days.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN They found you drifting. Your oxygen levels were dangerously low. You've been unconscious for a couple of days.
+----------
+row | 01:11:54 | 01:12:00 | CHRISTINE HARRIS | You killed them. You knew exactly what we were going into. You fucking used us | Nurses grab onto Christine to calm her down.
+dialogueYou killed them. You knew exactly what we were going into. You fucking used us
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You killed them. You knew exactly what we were going into. You fucking used us
+----------
+row | 01:12:03 | 01:12:05 | JULIA GOLDSTEIN | neither of us got what we wanted, did we?  | 
+dialogueneither of us got what we wanted, did we?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN neither of us got what we wanted, did we?
+----------
+row | 01:12:05 | 01:12:09 | JULIA GOLDSTEIN | You knew the risks. No one must know what happened.  | 
+dialogueYou knew the risks. No one must know what happened.
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN You knew the risks. No one must know what happened.
+----------
+row | 01:12:09 | 01:12:11 |  |  | Christine screams falling back into bed
+dialogue
+character
+----------
+row | 01:12:11 | 01:12:12 | FEMALE DOCTOR | Miss Harris calm down | 
+dialogueMiss Harris calm down
+characterFEMALE DOCTOR
+Add FEMALE DOCTOR Miss Harris calm down
+----------
+row | 01:12:13 | 01:12:14 | JULIA GOLDSTEIN | What's wrong with her? | 
+dialogueWhat's wrong with her?
+characterJULIA GOLDSTEIN
+Add JULIA GOLDSTEIN What's wrong with her?
+----------
+row | 01:12:14 | 01:12:24 |  |  | Christine is grasping to her stomach.
+dialogue
+character
+----------
+row | 01:12:24 | 01:12:26 |  |  | FLASHBACK
+Christine touching the ooz on the key pad
+dialogue
+character
+----------
+row | 01:12:29 | 01:12:30 | CHRISTINE HARRIS | Oh no | 
+dialogueOh no
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Oh no
+----------
+row | 01:12:30 | 01:12:32 | CHRISTINE HARRIS | No no no no | 
+dialogueNo no no no
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS No no no no
+----------
+row | 01:12:34 | 01:12:36 | CHRISTINE HARRIS | Congratulations Bitch | 
+dialogueCongratulations Bitch
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS Congratulations Bitch
+----------
+row | 01:12:36 | 01:12:38 | CHRISTINE HARRIS | You got exactly what you fucking wanted. No. | 
+dialogueYou got exactly what you fucking wanted. No.
+characterCHRISTINE HARRIS
+Add CHRISTINE HARRIS You got exactly what you fucking wanted. No.
+----------
+row | 01:12:38 | 01:12:46 |  |  | Christine screams – something moving in her stomach
+dialogue
+character
+----------
+row | 01:12:46 | 01:13:23 |  |  | Tentacles burst out of her stomach
+dialogue
+character
+----------
+row | 01:13:23 | 01:13:27 |  |  | CUT TO BLACK
+dialogue
+character
+----------
+row | 01:13:27 | 01:17:29 |  |  | CREDITS
+dialogue
+character
+----------
+row | 01:17:29 | 01:17:46 |  |  | DARK TEMPLE LOGO
+dialogue
+character
+-----------------------------------
+SCRIPT PARSER version 1.3
+Script path       : scripts/examples/Gods of the deep - CCSL.converted.txt
+Output folder     : GODS/
+Script name       : GODS
+Counting method   : ALL
+File name         : Gods of the deep - CCSL.converted.txt
+Extension         : .txt
+Encoding          : utf-8
+Encoding used     : utf-8
+Testing encoding  : windows-1252
+Scene separator   : ?
+getCharacterSeparator
+Test character sep:CHARACTER_SEMICOL_TAB 0/635 0
+Test character sep:CHARACTER_TAB 635/635 100
+Test character sep:CHARACTER_SPACES 0/635 0
+Character mode    : CHARACTER_TAB
+get_all_characters
+merge_breakdown_character_talking_to
+get_all_characters
+all_characters['__VOICEOVER', 'JULIA GOLDSTEIN', 'RECEPTIONIST', 'JAMES PETERS', 'HANK Oâ€™CONNELL', 'GORDON ATKINS', 'JOSEPH MEEKER', 'CHRISTINE HARRIS', 'JED PICKMAN', 'EVERYONE', 'RACHEL', 'CAMERON', 'JOE MEEKER', 'JED PECKHAM', 'WALTON PETERS', 'GORDANS ATIKINS', 'HANK Oâ€™CONNOLL', 'JED PECKMAN', 'JOE WEEKER', 'CONTROL SCREENS', 'JOE WEETER', 'RADIO', 'JIMâ€™S DAD', 'FEMALE DOCTOR']
+replacelist{}
+replace_map{}
+merge_breakdown_character_by_replacelist
+get_all_characters
+all_characters['__VOICEOVER', 'JULIA GOLDSTEIN', 'RECEPTIONIST', 'JAMES PETERS', 'HANK Oâ€™CONNELL', 'GORDON ATKINS', 'JOSEPH MEEKER', 'CHRISTINE HARRIS', 'JED PICKMAN', 'EVERYONE', 'RACHEL', 'CAMERON', 'JOE MEEKER', 'JED PECKHAM', 'WALTON PETERS', 'GORDANS ATIKINS', 'HANK Oâ€™CONNOLL', 'JED PECKMAN', 'JOE WEEKER', 'CONTROL SCREENS', 'JOE WEETER', 'RADIO', 'JIMâ€™S DAD', 'FEMALE DOCTOR']
+replacelist{}
+{'__VOICEOVER': 1, 'JULIA GOLDSTEIN': 2, 'RECEPTIONIST': 3, 'JAMES PETERS': 4, 'HANK Oâ€™CONNELL': 5, 'GORDON ATKINS': 6, 'JOSEPH MEEKER': 7, 'CHRISTINE HARRIS': 8, 'JED PICKMAN': 9, 'EVERYONE': 10, 'RACHEL': 11, 'CAMERON': 12, 'JOE MEEKER': 13, 'JED PECKHAM': 14, 'WALTON PETERS': 15, 'GORDANS ATIKINS': 16, 'HANK Oâ€™CONNOLL': 17, 'JED PECKMAN': 18, 'JOE WEEKER': 19, 'CONTROL SCREENS': 20, 'JOE WEETER': 21, 'RADIO': 22, 'JIMâ€™S DAD': 23, 'FEMALE DOCTOR': 24}
+ > Write map to GODS/character_by_scenes.txt
+ > Write map to GODS/scenes_by_character.txt
+ > Write map to GODS/character_linecount.txt
+ > Write map to GODS/character_order.txt
+ > Write map to GODS/character_textlength.txt
+ > Write to GODS/GODS-recap.xlsx
+Done.

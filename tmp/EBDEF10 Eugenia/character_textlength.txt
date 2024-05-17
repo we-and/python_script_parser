@@ -1,0 +1,28 @@
+Nicolas: 4453
+Adela: 2022
+Isabel 2: 569
+Remedios: 3629
+Victoria: 3272
+Eugénia: 1607
+Assemblée: 7
+Alonzo: 174
+Trinidad: 1591
+Miguel: 1884
+Ana: 505
+Granados: 321
+Père Octavio: 1331
+Rosa: 1774
+Femme au chapeau: 7
+Homme Granados: 28
+Morales: 2690
+Milagro: 1913
+Auteur: 38
+Voix: 6
+Marqueze général: 21
+Esclave gauche: 9
+Candélà: 380
+Esclave 2: 54
+Thomà: 1275
+Esclaves: 25
+Hilaria: 400
+Siervo: 56

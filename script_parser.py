@@ -507,16 +507,37 @@ def clean_character_name(title):
 def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol):
     print("Conversion mode       : CHARACTERID_AND_DIALOGUE")
     # Iterate through each row in the table
+    current_character=""
     for row in table.rows[1:]:
+        cell_texts = [cell.text for cell in row.cells]
+            # Join all cell text into a single string
+        row_text = ' | '.join(cell_texts)
+        
+        
         dialogue=row.cells[dialogueCol].text.strip()
         character=row.cells[characterIdCol].text.strip()
+
+        dialogue=dialogue.replace("\n","")
+        print("----------")
+        print("row"+row_text)
+        print("dialogue"+dialogue)
+        print("character"+character)
+        if "(O.S)" in character:
+            character=character.replace("(O.S)","")
+        if "(O.S.)" in character:
+            character=character.replace("(O.S.)","")
+
         if len(character)>0:
             current_character=character
         if len(dialogue)>0:  
+
             is_didascalie=dialogue.startswith("(")
             if not is_didascalie: 
                 dialogue=filter_text(dialogue)             
+                if current_character=="":
+                    current_character="__VOICEOVER"
                 s=current_character+"\t"+dialogue+"\n"  # New line after each row
+                print("Add "+ current_character + " "+ dialogue)
                 file.write(s)
 
 
@@ -535,10 +556,12 @@ def convert_docx_to_txt(file_path):
             combinedContinuityCol=-1
 
             idx=0
-            current_character=""
+            current_character=""    
             for cell in header.cells:
                 t=cell.text.strip()
                 if t=="CHARACTER ID":
+                    characterIdCol=idx
+                if t=="CHARACTER":
                     characterIdCol=idx
                 elif t=="DIALOGUE":
                     dialogueCol=idx
@@ -546,13 +569,13 @@ def convert_docx_to_txt(file_path):
                     combinedContinuityCol=idx
                 idx=idx+1
 
-            docx_mode_dialoge_characterid= dialogueCol>-1 and characterIdCol>-1
+            docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
             docx_mode_combined_continuity= combinedContinuityCol>-1
-            if docx_mode_dialoge_characterid or docx_mode_combined_continuity:
+            if docx_mode_dialogue_characterid or docx_mode_combined_continuity:
                 print("Headers found")
             else:
                 return "" 
-            if docx_mode_dialoge_characterid:
+            if docx_mode_dialogue_characterid:
                 convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
             if docx_mode_combined_continuity:
                 convert_docx_combined_continuity(file,table)
@@ -937,6 +960,7 @@ def process_script(script_path,output_path,script_name,countingMethod):
 #process_script("190421-1.txt","190421-1/","190421-1.txt")
 #process_script("scripts/examples/LATENCY.docx","LATENCY/","LATENCY","ALL")    
 #process_script("scripts/examples/LATENCY.docx","LATENCY/","LATENCY","ALL")    
+process_script("scripts/examples/Gods of the deep - CCSL.docx","GODS/","GODS","ALL")    
 #process_script("scripts/examples/Blackwater Lane.docx","Blackwater Lane/","Blackwater Lane","ALL")    
 
 print("Done.")

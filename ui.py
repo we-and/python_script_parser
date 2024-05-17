@@ -7,7 +7,7 @@ import chardet
 import tkinter.font as tkFont
 import subprocess
 import platform
-
+import re
 import csv
 countingMethods=[
     "LINE_COUNT",
@@ -63,6 +63,11 @@ def compute_length_by_method(line,method):
     return res
 
 
+def get_text_without_parentheses(input_string):
+    pattern = r'\([^()]*\)'
+    # Use re.sub() to replace the occurrences with an empty string
+    result_string = re.sub(pattern, '', input_string)
+    return result_string
 
 def convert_csv_to_xlsx(csv_file_path, xlsx_file_path):
     # Read the CSV file
@@ -264,13 +269,15 @@ def fill_character_stats_table(character_order_map, breakdown):
                 character=item['character']
                 character_raw=item['character_raw']
                 
+                filtered_speech=get_text_without_parentheses(speech)
+
                 if character==character_name:
                     #print("    MATCH"+str(speech))
 
                     row=(str(line_idx),character,character_raw, speech)
-                    for m in countingMethods:
+                    for m in countingMethods: 
                         #print("add"+str(m))
-                        le=compute_length_by_method(speech,m)
+                        le=compute_length_by_method(filtered_speech,m)
                         row=row+(str(le),)
                         total_by_method[m]=total_by_method[m]+le
                     #print("add"+str(row))
@@ -421,9 +428,10 @@ def fill_stats_table(breakdown):
         line_idx=item['line_idx']
         if(type_=="SPEECH"):
             speech=item['speech']
+            filtered_speech=get_text_without_parentheses(speech)
             character=item['character']
-            tout=len(speech)
-            nospace=len(speech.replace(" ",""))
+            tout=len(filtered_speech)
+            nospace=len(filtered_speech.replace(" ",""))
             stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout),str(nospace)))
     print("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()

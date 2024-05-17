@@ -1,0 +1,3 @@
+Nicolas: 8
+Adela: 1
+Isabel 2: 8

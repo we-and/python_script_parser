@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu
-from script_parser import process_script, is_supported_extension
+from script_parser import process_script, is_supported_extension,convert_docx_to_txt
 import pandas as pd
 import chardet
 import tkinter.font as tkFont
@@ -10,12 +10,15 @@ import platform
 import re
 import csv
 import math
+
+last_row_id = None
+
 countingMethods=[
 #    "LINE_COUNT",
  #   "WORD_COUNT",
     "ALL",
     "BLOCKS_50",
-    "BLOCKS_40",
+    #"BLOCKS_40",
    # "ALL_NOSPACE",
    # "ALL_NOPUNC",
   #  "ALL_NOSPACE_NOPUNC",
@@ -27,7 +30,7 @@ countingMethodNames={
    # "WORD_COUNT":"Words",
     "ALL":"Characters",
     "BLOCKS_50":"Blocks (50)",
-    "BLOCKS_40":"Blocks (40)",
+#    "BLOCKS_40":"Blocks (40)",
 #    "ALL_NOSPACE":"No space",
  #   "ALL_NOPUNC":"No punctuation",
   #  "ALL_NOSPACE_NOPUNC":"No space, no punctuation",
@@ -85,11 +88,13 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path):
     # Write the DataFrame to an Excel file
     df.to_excel(xlsx_file_path, index=False, engine='openpyxl')
 
+
+
 def load_tree(parent, root_path):
     # Clear the tree view if root_path is the starting directory
     if parent == "":
         folders.delete(*folders.get_children())
-        parent = folders.insert('', 'end', text=os.path.basename(root_path), open=True, values=[root_path])
+        parent = folders.insert('', 'end', text=os.path.basename(root_path), open=True, values=["","",])
 
     # List all entries in the directory
     try:
@@ -103,21 +108,64 @@ def load_tree(parent, root_path):
 
     # Insert directories first
     for entry in dirs:
+        
+
         entry_path = os.path.join(root_path, entry)
 
-        dir_id = folders.insert(parent, 'end', text=entry, open=False, values=[entry_path],tags=('folder'))
-        load_tree(dir_id, entry_path)  # Recursively load subdirectories
+        dir_id = folders.insert(parent, 'end', text=" "+entry, image=folder_icon, open=False, values=[entry_path,"Folder",],tags=('folder'))
+        #folders.insert(dir_id, 'end', text=os.path.basename(entry_path), open=True, values=[entry_path])
+        folders.insert(dir_id, 'end', text="Loading...", values=["dummy"])  # Dummy node
+
+        #load_tree(dir_id, entry_path)  # Recursively load subdirectories
 
     # Insert files
     for entry in files:
         entry_path = os.path.join(root_path, entry)
         supported_tag="not_supported"
-
+        
         name, extension = os.path.splitext(entry)
-    
+        extension_without_dot=extension
+        if extension.startswith("."):
+            extension_without_dot=extension_without_dot[1:]
+            
         if is_supported_extension(extension):
             supported_tag="supported" 
-        folders.insert(parent, 'end', text=entry, values=[entry_path],tags=(supported_tag))
+            if extension==".docx":
+                folders.insert(parent, 'end', text=" "+entry,image=docx_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+   
+            else:
+                folders.insert(parent, 'end', text=" "+entry,image=txt_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+        else:        
+            folders.insert(parent, 'end', text=" "+entry, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+
+def on_motion(event):
+    # Identify the row on which the mouse is currently hovering
+    row_id = folders.identify_row(event.y)
+    if row_id:
+        # Retrieve current tags and add 'hover' tag
+        current_tags = set(folders.item(row_id, 'tags'))
+        
+        current_tags.add('hover')
+        folders.item(row_id, tags=list(current_tags))
+
+    # Reset the background color of previously hovered rows
+    global last_row_id
+    if last_row_id and last_row_id != row_id:
+        current_tags = set(folders.item(last_row_id, 'tags'))
+        current_tags.discard('hover')  # Remove the hover tag
+        folders.item(last_row_id, tags=list(current_tags))
+    last_row_id = row_id
+
+def on_leave(event):
+    # When the mouse leaves the Treeview, reset the background of the last hovered row
+    global last_row_id
+    if last_row_id:
+        current_tags = set(folders.item(last_row_id, 'tags'))
+        current_tags.discard('hover')  # Remove the hover tag
+        folders.item(last_row_id, tags=list(current_tags))
+    last_row_id = None
+
+
 
 def detect_file_encoding(file_path):
     with open(file_path, 'rb') as file:  # Open the file in binary mode
@@ -157,8 +205,10 @@ def runJob(file_path,method):
             file_name = os.path.basename(file_path)
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
+            
+            print("Extension     :"+extension)
             if is_supported_extension(extension):
-                print(" > Supported")
+                print("Supported       : YES")
 
                 encoding_info = detect_file_encoding(file_path)
                 encoding=encoding_info['encoding']
@@ -170,6 +220,15 @@ def runJob(file_path,method):
     #            encodings = ['windows-1252', 'iso-8859-1', 'utf-16','utf-8']
      #           for encod in encodings:
      #               print("try encoding"+encod)
+
+                if extension==".docx":
+                    converted_file_path=convert_docx_to_txt(file_path)
+                    if len(converted_file_path)==0:
+                        print("Conversion failed")
+                        return 
+                    file_path=converted_file_path
+
+
                 with open(file_path, 'r', encoding=enc) as file:
                     content = file.read()
 
@@ -177,6 +236,7 @@ def runJob(file_path,method):
                     file_preview.insert(tk.END, content)
                     
                     currentOutputFolder=outputFolder+"/"+name+"/"
+
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
                     fill_breakdown_table(breakdown)
                     fill_character_stats_table(character_order_map,breakdown)
@@ -193,9 +253,11 @@ def runJob(file_path,method):
 
 def on_folder_select(event):
     global currentOutputFolder
+    print("on_folder_select")
     print("FOLDER SELECT")
     selected_item = folders.selection()[0]
     file_path = folders.item(selected_item, 'values')[0]
+    
     runJob(file_path,countingMethod)
 
 def update_statistics(content):
@@ -205,10 +267,18 @@ def update_statistics(content):
 #    stats_label.config(text=f"Words: {words} Characters: {chars}")
     stats_label.config(text=f" ")
   
+
+# Function to remove all items
+def remove_all_tree_items():
+    for item in folders.get_children():
+        folders.delete(item)
+
+
 def open_folder():
+    remove_all_tree_items()
     directory = filedialog.askdirectory(initialdir=os.getcwd())
     if directory:
-        load_tree(directory)
+        load_tree("",directory)
 
 
 def exit_app():
@@ -254,7 +324,7 @@ def fill_character_table(character_order_map, breakdown,character_linecount_map,
         line_count,word_count,character_count,replica_count=stats_per_character(breakdown,item)
         scenes=scene_characters_map[item]
         scenes=', '.join(scenes)
-        character_table.insert('','end',values=(str(character_order_map[item]),item,str(character_count),str(math.ceil(character_count/50)),str(math.ceil(character_count/40)),scenes))
+        character_table.insert('','end',values=(str(character_order_map[item]),item,str(character_count),str(math.ceil(character_count/50)),scenes))
 #        character_table.insert('','end',values=(str(character_order_map[item]),item,str(line_count),str(character_count),str(word_count),str(math.ceil(character_count)/50),str(math.ceil(character_count)/40),scenes))
         
 
@@ -476,14 +546,72 @@ app.title('Script Analyzer')
 menu_bar = Menu(app)
 app.config(menu=menu_bar)
 
+folder_icon = tk.PhotoImage(file="folder_icon.png")  # Adjust path to your icon file
+txt_icon = tk.PhotoImage(file="txt_icon.png")  # Adjust path to your icon file
+docx_icon = tk.PhotoImage(file="docx_icon.png")  # Adjust path to your icon file
+
 
 # File menu
 file_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="File", menu=file_menu)
 file_menu.add_command(label="Open Folder...", command=open_folder)
-file_menu.add_command(label="Export csv...", command=export_csv)
+#file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=exit_app)
+
+def on_folder_open(event):
+    print("on_folder_open")
+    # Find the node that was opened
+    oid = folders.focus()  # Get the ID of the focused item
+    values = folders.item(oid, "values")
+    print("on_folder_open 1")
+
+    if len(values) > 0 and values[0] == "dummy":
+        print("values>0 ignore")
+        # Ignore the dummy nodes (if the first value in the tuple is "dummy")
+        return
+    print("on_folder_open 2")
+
+    # Check if the node has the dummy child indicating it hasn't been loaded
+    children = folders.get_children(oid)
+    if len(children) == 1 and folders.item(children[0], "values")[0] == "dummy":
+        print("on_folder_open 3")
+
+        # Remove the dummy and load actual content
+        folders.delete(children[0])
+        print("Load "+str(folders.item(oid, "values")))
+        load_tree(oid, folders.item(oid, "values")[0])
+    else:
+        print("on_folder_open 4 oid="+str(oid)+" val="+str( folders.item(oid, "values")))
+        load_tree(oid, folders.item(oid, "values")[0])
+
+def toggle_folder(event):
+    print("Toggle folder")
+# Identify the item on which the click occurred
+    x, y, widget = event.x, event.y, event.widget
+    row_id = widget.identify_row(y)
+    if not row_id:
+        return  # Exit if the click didn't happen on a row
+    
+    # Toggle the open state of the node
+    if widget.tag_has('folder', row_id):  # Check if the item has the 'folder' tag
+        
+        if widget.item(row_id, 'open'):  # If the folder is open, close it
+            print("opened, close")
+            widget.item(row_id, open=False)
+
+        else:  # If the folder is closed, open it
+            print("not opened, open")
+            widget.item(row_id, open=True)
+#            on_folder_open(event)
+            children = folders.get_children(row_id)
+            if len(children) == 1 and folders.item(children[0], "values")[0] == "dummy":
+                print("on_folder_open 3")
+
+                # Remove the dummy and load actual content
+                folders.delete(children[0])
+            load_tree(row_id, folders.item(row_id, "values")[0])
+
 
 def get_os():
     if os.name == 'nt':
@@ -536,25 +664,76 @@ settings_menu.add_command(label="Set block length...", command=open_folder)
 
 
 
-# Layout configuration
-left_frame = ttk.Frame(app)
-left_frame.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+# Create a PanedWindow widget
+paned_window = ttk.PanedWindow(app, orient=tk.HORIZONTAL)
+paned_window.pack(fill=tk.BOTH, expand=True,padx=0,pady=0)
 
-right_frame = ttk.Frame(app)
-right_frame.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
+
+# Create two frames for the left and right panels
+left_frame = ttk.Frame(paned_window, width=200, height=400, relief=tk.FLAT)
+right_frame = ttk.Frame(paned_window, width=400, height=400, relief=tk.FLAT)
+
+# Add frames to the PanedWindow
+paned_window.add(left_frame, weight=1)  # The weight determines how additional space is distributed
+paned_window.add(right_frame, weight=2)
+
 
 # Folder tree
-folders = ttk.Treeview(left_frame, columns=())
+folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
+folders.heading("#0", text="Name")
+folders.heading("Extension", text="Type")
+folders.heading("Path", text="Path")
+folders.column("#0", width=240)  # Adjust as needed
+folders.column("Path", width=0, stretch=tk.NO)
+folders.column("Extension", width=60, stretch=tk.NO)
+
 folders.tag_configure('not_supported', foreground='#cccccc')
 folders.tag_configure('supported', foreground='#444444')
-folders.tag_configure('folder', foreground='#6666cc')
+#folders.tag_configure('folder', foreground='#6666cc')
+bold_font = tkFont.Font( weight="bold")
+folders.tag_configure('bold', font=bold_font)
 
+# Default tag with normal background
+folders.tag_configure('normal', background='white')
+
+folders.tag_configure('hover', background='#f4f4f4')
+style = ttk.Style()
+style.configure("Treeview", rowheight=30)  # Increase the row height
+style.configure("Treeview.Item", padding=(3, 4, 3, 4))  # Top and bottom padding
+#bold_font = ('Arial', 10, 'bold')
+#style.configure("Treeview", font=bold_font)
+
+ 
 folders.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 folders.bind('<<TreeviewSelect>>', on_folder_select)
+folders.bind("<<TreeviewOpen>>", on_folder_open)
+# Bind motion event
+folders.bind('<Motion>', on_motion)
+folders.bind('<Leave>', on_leave)
+folders.bind('<Button-1>', toggle_folder)
+
 
 # Notebook (tabbed interface)
 notebook = ttk.Notebook(right_frame)
-notebook.pack(fill=tk.BOTH, expand=True)
+notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
+
+
+
+recap_tab = ttk.Frame(notebook)
+notebook.add(recap_tab, text='Recap')
+char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
+char_label.pack(side=tk.TOP, fill=tk.X)
+
+char2_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
+char2_label.pack(side=tk.TOP, fill=tk.X)
+
+
+
+# Configure the style of the tab
+style.configure('TNotebook.Tab', background='#f0f0f0', padding=(15, 12), font=('Helvetica', 14))
+# Configure the tab area (optional, for better Windows look)
+style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
+style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
 def on_tab_selected(event):
     print("Tab selected:", event.widget.select())
@@ -571,7 +750,7 @@ character_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
 
-character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Characters','Blocks (50)','Blocks (40)','Scenes'), show='headings')
+character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Characters','Blocks (50)','Scenes'), show='headings')
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
@@ -580,7 +759,7 @@ character_table.heading('Character', text='Character')
 character_table.heading('Characters', text='Characters')
 #character_table.heading('Words', text='Words')
 character_table.heading('Blocks (50)', text='Blocks (50)')
-character_table.heading('Blocks (40)', text='Blocks (40)')
+#character_table.heading('Blocks (40)', text='Blocks (40)')
 character_table.heading('Scenes', text='Scenes')
 
 # Define the column width and alignment
@@ -642,9 +821,6 @@ def open_result_folder():
         print("Failed to open the folder in Finder.")
 
 
-#scene_tab = ttk.Frame(notebook)
-#notebook.add(scene_tab, text='Scenes')
-
 stats_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
 stats_table = ttk.Treeview(stats_tab, columns=('Line',  'Character','Text','Characters'), show='headings')
@@ -679,7 +855,7 @@ character_stats_tab = ttk.Frame(notebook)
 cols=('Line #', 'Character','Character (raw)','Line')
 for i in countingMethods:
     cols= cols+(countingMethodNames[i],)
-print(cols)
+
 character_stats_table = ttk.Treeview(character_stats_tab, columns=cols, show='headings')
 # Define the column headings
 character_stats_table.heading('Line #', text='Line #')
@@ -706,8 +882,8 @@ notebook.add(character_stats_tab, text='Stats by character')
 
 
 # Statistics label
-stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))
-stats_label.pack(side=tk.BOTTOM, fill=tk.X)
+#stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))
+#stats_label.pack(side=tk.BOTTOM, fill=tk.X)
 
 export_tab = ttk.Frame(notebook)
 # Load folder button
@@ -728,7 +904,6 @@ update_button.pack(side=tk.TOP, fill=tk.X)
 method_label = ttk.Label(export_tab, text="Current Method"+countingMethod, font=('Arial', 12))
 method_label.pack(side=tk.BOTTOM, fill=tk.X)
 
-
 def on_value_change(event):
     reset_tables
     """ Handle changes in dropdown selection. """
@@ -741,11 +916,6 @@ def on_value_change(event):
 dropdown.bind('<<ComboboxSelected>>', on_value_change)
 
 notebook.add(export_tab, text='Export')
-
-
-# Load folder button
-#load_button = ttk.Button(left_frame, text="Open Folder", command=open_folder)
-#load_button.pack(side=tk.TOP, fill=tk.X)
 
 load_tree("",os.getcwd())
 

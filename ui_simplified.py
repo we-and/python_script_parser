@@ -9,9 +9,12 @@ import subprocess
 import platform
 import re
 import csv
+import numpy as np
 import math
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+
+from matplotlib.colors import ListedColormap, BoundaryNorm
 from matplotlib.gridspec import GridSpec
 last_row_id = None
 
@@ -687,7 +690,7 @@ def draw_bar_chart(frame,breakdown,character_order_map):
     fig = plt.figure(figsize=(12, 10))
     fig.clf()
     gs = GridSpec(n_char, 1, figure=fig, hspace=0.0,wspace=0.0)
-    fig.set_facecolor('lightgrey')
+    fig.set_facecolor('#e3e4e4')
     charidx=0
 
     for char in character_order_map:
@@ -712,28 +715,87 @@ def draw_bar_chart(frame,breakdown,character_order_map):
                             values.append(1)
                         else:
                             values.append(0)
-            print("LABELS"+str(labels))
-            print("VALUES"+str(values))
+            print("LABELS="+str(labels))
+            print("VALUES="+str(values))
             print("IDX="+str(charidx-1))
-            print("LABELS"+str(len(labels)))
-            print("VALUES"+str(len(values)))
+            print("LABELS size="+str(len(labels)))
+            print("VALUES size="+str(len(values)))
+
+
+            chunk_size = 5  # Adjust the size based on your specific needs
+            pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
+
+            print("done 1a"+str(pad_size))
+            padded_values = np.pad(values, (0, pad_size), mode='constant', constant_values=0)
+            colors = ['lightgrey', '#d37a7a','#d34d4d','#d30000']  # Define more colors if there are more unique values
+            cmap = ListedColormap(colors)
+
+            # Step 1: Get unique sorted values
+            unique_values = np.unique(values)
+            print("Unique values:", unique_values)
+
+            # Step 2: Calculate boundaries
+            boundaries = [
+                0-0.1 ,  # First boundary (half below the first unique value)
+                0.5,  # Middle boundaries
+                1.5,
+                chunk_size+0.1  # Last boundary (half above the last unique value)
+            ]
+            print("Boundaries="+str(boundaries))
+#            boundaries = [-0.5, 0.5, 1.5, 2.5]  # Make sure this covers all your data values
+            norm = BoundaryNorm(boundaries, cmap.N, clip=True)
+
+            v=padded_values.reshape(-1, chunk_size)
+           # print("done 1aa"+str(v))
+            # Aggregate data by averaging over chunks
+            # Note: This creates a smoother transition in the heatmap
+            aggregated_data = np.sum(v, axis=1)
+            print("done 1b"+str(aggregated_data))
+
+    #       new_width = 20 
+   #         new_width = 20 
+  #          num_rows = int(np.ceil(len(aggregated_data) / new_width))
+     #       print("done 1c"+str(num_rows))
+
+ #           padded_data = np.pad(aggregated_data, (0, new_width * num_rows - len(aggregated_data)), mode='constant', constant_values=np.nan)
+    #        print("done 1d"+str(padded_data))
+#            data_matrix = padded_data.reshape(num_rows, new_width)
+
+
+            num_rows = 1
+            new_width = len(aggregated_data)  # Set the width directly to the length of the aggregated data
+
+            # Since we want exactly one row, we do not need to pad for additional rows
+            data_matrix = aggregated_data.reshape(num_rows, new_width)
+
+            print("done 1e"+str(data_matrix))
 
             ax1 = fig.add_subplot(gs[charidx-1, 0])
             print("done 1")
-            
+            cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
+            #fig.colorbar(cax)
                         
-            ax1.bar(labels, values, color='red')
+            #ax1.bar(labels, values, color='red')
             print("done 2")
             ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='10')
             ax1.set_yticks([]) 
+            ax1.set_xticklabels([])  # Hide x-axis tick labels
+            ax1.set_yticklabels([]) 
+            ax1.tick_params(axis='y', which='both', right=False)
             print("done 4")
-
-            ax1.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
+            ax1.tick_params(axis='x', which='both', length=0, labelbottom=False, labelleft=False)  # Hide ticks and labels
+            ax1.tick_params(axis='y', which='both', right=False)
+            ax1.tick_params(right=False)
+            #ax1.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
             print("done 6")
-            ax1.tick_params(axis='x', which='both', length=0)
+            #ax1.tick_params(axis='x', which='both', length=0)
             print("done")
-        
-#    fig.tight_layout() 
+#            ax1.spines['right'].set_visible(False)  # Hide right spine
+ #           ax1.spines['top'].set_visible(False)    # Hide top spine if desired
+            ax1.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)  # No x-axis ticks
+            ax1.tick_params(axis='y', which='both', left=False, right=False, labelleft=False)    # No y-axis ticks
+
+
     # Adjust subplots to have a uniform starting point
     print("done 7")
     plt.subplots_adjust(left=0.5)
@@ -851,9 +913,9 @@ notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
 
 
 recap_tab = ttk.Frame(notebook)
-notebook.add(recap_tab, text='Recap')
-char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
-char_label.pack(side=tk.TOP, fill=tk.X)
+notebook.add(recap_tab, text='Timeline')
+#char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
+#char_label.pack(side=tk.TOP, fill=tk.X)
 #recap_tab.bind('<Configure>', resizechart)
 
 
@@ -973,7 +1035,7 @@ bold_font = tkFont.Font( weight="bold")
 stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 stats_table.tag_configure('bold', font=bold_font)
 
-notebook.add(stats_tab, text='Stats by line')
+notebook.add(stats_tab, text='Lines in order')
 
 
 # Statistics tab
@@ -1006,7 +1068,7 @@ for i in countingMethods:
 character_stats_table.pack(fill='both', expand=True)
 character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Stats by character')
+notebook.add(character_stats_tab, text='Lines by character')
 
 
 # Statistics label

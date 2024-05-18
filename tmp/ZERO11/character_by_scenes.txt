@@ -1,40 +1,40 @@
-1: {'SETANTA', 'TEMAE'}
+1: {'TEMAE', 'SETANTA'}
 2: {'SETANTA'}
-3: {'SETANTA', 'QUARK'}
-4: {'REM', 'QUARK', 'TEMAE'}
-5: {'REM', 'RAM'}
+3: {'QUARK', 'SETANTA'}
+4: {'QUARK', 'REM', 'TEMAE'}
+5: {'RAM', 'REM'}
 6: {'REM'}
-7: {'REM', 'TEMAE', 'RAM'}
-8: {'REM', 'RAM'}
-9: {'REM', 'QUARK', 'TEMAE', 'RAM'}
-10: {'FANTÔME 5', 'FANTÔME 2', 'FANTÔME 1', 'FANTÔME 3', 'FANTÔME 6', 'REM', 'FANTÔME 7', 'FANTÔME 4'}
-11: {'REM', 'RAM'}
+7: {'RAM', 'REM', 'TEMAE'}
+8: {'RAM', 'REM'}
+9: {'QUARK', 'REM', 'TEMAE', 'RAM'}
+10: {'FANTÔME 5', 'FANTÔME 2', 'FANTÔME 6', 'REM', 'FANTÔME 7', 'FANTÔME 1', 'FANTÔME 3', 'FANTÔME 4'}
+11: {'RAM', 'REM'}
 12: {'REM'}
-13: {'REM', 'RAM'}
+13: {'RAM', 'REM'}
 14: {'REM'}
-15: {'REM', 'BLONDE YEUX VERTS', 'ROSWAAL', 'RAM'}
-16: {'RAM', 'MOLOSSE', 'REM', 'SUBARU'}
+15: {'RAM', 'BLONDE YEUX VERTS', 'ROSWAAL', 'REM'}
+16: {'RAM', 'SUBARU', 'REM', 'MOLOSSE'}
 17: {'REM', 'SUBARU'}
-18: {'REM', 'RAM', 'SUBARU'}
-19: {'RAM', 'REM', 'SUBARU'}
-20: {'REM', 'RAM', 'SUBARU'}
-21: {'MOLOSSE', 'SUBARU'}
-22: {'REM', 'RAM'}
-23: {'MOLOSSE', 'SUBARU'}
+18: {'RAM', 'SUBARU', 'REM'}
+19: {'RAM', 'SUBARU', 'REM'}
+20: {'RAM', 'REM', 'SUBARU'}
+21: {'SUBARU', 'MOLOSSE'}
+22: {'RAM', 'REM'}
+23: {'SUBARU', 'MOLOSSE'}
 24: {'ROSWAAL', 'SUBARU'}
-25: {'ROSWAAL', 'RAM'}
+25: {'RAM', 'ROSWAAL'}
 26: {'REM', 'SUBARU'}
-27: {'REM', 'SUBARU'}
-28: {'REM', 'SUBARU'}
+27: {'SUBARU', 'REM'}
+28: {'SUBARU', 'REM'}
 29: {'REM', 'SUBARU'}
-30: {'REM', 'SUBARU'}
-31: {'REM', 'SUBARU'}
+30: {'SUBARU', 'REM'}
+31: {'SUBARU', 'REM'}
 32: {'REM', 'SUBARU'}
-33: {'REM', 'SUBARU'}
+33: {'SUBARU', 'REM'}
 34: {'REM', 'SUBARU'}
 35: {'REM'}
-36: {'ROSWAAL', 'RAM'}
-37: {'ROSWAAL', 'RAM'}
+36: {'RAM', 'ROSWAAL'}
+37: {'RAM', 'ROSWAAL'}
 38: {'EMILIA', 'SUBARU'}
 39: {'EMILIA', 'SUBARU'}
 40: {'EMILIA', 'SUBARU'}

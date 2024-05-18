@@ -336,24 +336,30 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name):
     df = pd.read_csv(csv_file_path,header=None)
 
     # Write the DataFrame to an Excel file
-    print(" > Write to "+xlsx_file_path)
+    print("convert_csv_to_xlsx > Write to "+xlsx_file_path)
 
     header_rows = pd.DataFrame([
         [None, 'Header 1', None, 'Header Information Across Columns'],  # Merge cells will be across 1 & 4
         ['Role', 'Line count', 'Characters', 'Blocks']
     ])
+    print("convert_csv_to_xlsx > 1")
     
     # Concatenate the header rows and the original data
     # The ignore_index=True option reindexes the new DataFrame
     df = pd.concat([header_rows, df], ignore_index=True)
+    print("convert_csv_to_xlsx > 2")
 
     # Write the DataFrame to an Excel file
     with pd.ExcelWriter(xlsx_file_path, engine='openpyxl') as writer:
+        print("convert_csv_to_xlsx > 3")
+
         df.to_excel(writer, index=False, sheet_name='Sheet1')
+        print("convert_csv_to_xlsx > 4")
 
         # Load the workbook and sheet for modification
         workbook = writer.book
         sheet = workbook['Sheet1']
+        print("convert_csv_to_xlsx > 5")
 
         # Merge cells in the first and second new rows
         # Assuming you want to merge from the first to the last column
@@ -361,6 +367,10 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name):
         sheet.merge_cells('A2:D2')  # Modify this as needed
         sheet['A1'] = script_name
         sheet['A2'] = "Length: "
+        print("convert_csv_to_xlsx > 6")
+
+    print("convert_csv_to_xlsx > done")
+
 #    df.to_excel(xlsx_file_path, index=False, engine='openpyxl')
 
 def write_character_map_to_file(character_map, filename):
@@ -862,16 +872,16 @@ def process_script(script_path,output_path,script_name,countingMethod):
     all_characters=get_all_characters(breakdown)
     breakdown,replaceList=merge_breakdown_character_talking_to(breakdown,all_characters)
     all_characters=get_all_characters(breakdown)
-    print("all_characters"+str(all_characters))
-    print("replacelist"+str(replaceList))
+    #print("all_characters"+str(all_characters))
+    #print("replacelist"+str(replaceList))
 
     replace_map=map_semi_duplicates(all_characters)
-    print("replace_map"+str(replace_map))
+   # print("replace_map"+str(replace_map))
 
     breakdown=merge_breakdown_character_by_replacelist(breakdown,replace_map)
     all_characters=get_all_characters(breakdown)
-    print("all_characters"+str(all_characters))
-    print("replacelist"+str(replaceList))
+ #   print("all_characters"+str(all_characters))
+  #  print("replacelist"+str(replaceList))
 
     for item in breakdown:
         if item['type']=="SPEECH":
@@ -906,7 +916,7 @@ def process_script(script_path,output_path,script_name,countingMethod):
             character_scene_map[scene_id].add(character_name)
                                     
 
-    print(str(character_order_map))
+#    print(str(character_order_map))
 
     #character_scene_presence=sort_dict_values(character_scene_presence)
     #scene_characters_presence=sort_dict_values(scene_characters_presence)

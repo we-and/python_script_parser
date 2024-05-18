@@ -114,8 +114,6 @@ def load_tree(parent, root_path):
 
     # Insert directories first
     for entry in dirs:
-        
-
         entry_path = os.path.join(root_path, entry)
 
         dir_id = folders.insert(parent, 'end', text=" "+entry, image=folder_icon, open=False, values=[entry_path,"Folder",],tags=('folder'))
@@ -138,7 +136,6 @@ def load_tree(parent, root_path):
             supported_tag="supported" 
             if extension==".docx":
                 folders.insert(parent, 'end', text=" "+entry,image=docx_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
-   
             else:
                 folders.insert(parent, 'end', text=" "+entry,image=txt_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
         else:        
@@ -189,9 +186,11 @@ def get_encoding(enc):
     return "utf-8"
 
 def reset_tables(): 
-    print("reset_tables")
+    #print("reset_tables")
     for item in breakdown_table.get_children():
         breakdown_table.delete(item)
+    for item in character_list_table.get_children():
+        character_list_table.delete(item)
     for item in character_table.get_children():
         character_table.delete(item)
     for item in stats_table.get_children():
@@ -247,6 +246,7 @@ def runJob(file_path,method):
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
                     currentBreakdown=breakdown
                     fill_breakdown_table(breakdown)
+                    fill_character_list_table(character_order_map,breakdown)
                     fill_character_stats_table(character_order_map,breakdown)
                     fill_stats_table(breakdown)
                     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
@@ -343,6 +343,16 @@ def compute_length(method,line):
         return len(line);
     return len(line);
 
+def fill_character_list_table(character_order_map, breakdown):
+    #print("fill_character_list_table")
+
+    for character_name in character_order_map:
+        #print("CHAR add"+character_name)
+
+        character_named = character_name 
+        #print("CHAR add"+character_named)
+        character_list_table.insert('','end',values=(character_named,))
+        
 
 def fill_character_stats_table(character_order_map, breakdown):
     print("fill_character_stats_table")
@@ -353,7 +363,9 @@ def fill_character_stats_table(character_order_map, breakdown):
 
         character_named = character_name 
         print("CHAR add"+character_named)
-        character_list_table.insert('','end',values=(character_named,))
+    #    character_list_table.insert('','end',values=(character_named,))
+        
+        
         character_order=character_order_map[character_name]
         #print("CHAR"+str(character_name))
         rowtotal=("-",character_name,"-","TOTAL")
@@ -384,6 +396,7 @@ def fill_character_stats_table(character_order_map, breakdown):
                     #print("add"+str(row))
                     character_stats_table.insert('','end',values=row)
         
+        #round for BLOCKS
         for m in countingMethods:
             if m.startswith("BLOCKS"):
                 total_by_method[m]=math.ceil(total_by_method[m])
@@ -395,6 +408,9 @@ def fill_character_stats_table(character_order_map, breakdown):
         total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-total-recap.csv"
     generate_total_csv(total_by_character_by_method,totalcsvpath)
+    for item in character_stats_table.get_children():
+        character_stats_table.delete(item)
+
 
 
 def save_string_to_file(text, filename):
@@ -425,8 +441,12 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
     header1=["SCRIPT_NAME"]
     header2=["Role"]
     for i in countingMethods:
-        header1.append("?")
-        header2.append(countingMethodNames[i])
+        if i != "ALL":
+            header1.append("?")
+            txt=countingMethodNames[i]
+            if i=="BLOCKS_50":
+                txt="Lines"
+            header2.append(txt)
         
     header_rows = pd.DataFrame([
         header1,
@@ -453,6 +473,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
  #       sheet.merge_cells('A2:D2')  # Modify this as needed
         sheet['A1'] = currentScriptFilename
         sheet['A2'] = "Length: "
+        sheet.column_dimensions['A'].width = 50 
  # Load the workbook and get the active sheet
       
 
@@ -462,24 +483,29 @@ def generate_total_csv(total,csv_path):
     global currentXlsxPath
     print("Total csv path          : "+csv_path)
     #header
+
     s=""
     showHeader=False
     if showHeader:
         s="Role,"
         for m in countingMethods:
-            s=s+str(m)+","
+            if m!="ALL":                   
+                s=s+str(m)+","
         s=s[0:len(s)-1]
         s=s+"\n"
-
+    print("Total csv path          : 1")
+    
     data = [
     ]
     for character in total:
         datarow=[str(character)];
         for method in total[character]:
-            print(str(character)+": Add method "+method+" = "+str(total[character][method]))
-            datarow.append(str(total[character][method]))
+            if method!="ALL":
+                print(str(character)+": Add method "+method+" = "+str(total[character][method]))
+                datarow.append(str(total[character][method]))
         data.append(datarow)
 
+    print("Total csv path          : 1")
     
     print("data"+str(data))
     with open(csv_path, mode='w', newline='') as file:
@@ -490,16 +516,7 @@ def generate_total_csv(total,csv_path):
             print("Write "+str(row))
             writer.writerow(row)
 
-    if False:   
-        for character in total:
-            s+=str(character)+","
-            for method in total[character]:
-                s=s+str(total[character][method])+","
-            s=s[0:len(s)-1]
-            s=s+"\n"
-        save_string_to_file(s,csv_path)
-
-
+    
     xlsx_path=csv_path.replace(".csv",".xlsx")
     currentXlsxPath=xlsx_path
     n=len(countingMethods)+1
@@ -526,7 +543,7 @@ def fill_breakdown_table(breakdown):
         elif(type_=="NONSPEECH"):         
             text=item['text']
             breakdown_table.insert('','end',values=(str(line_idx),"Other",text,""), tags=('nonspeech',))
-    print("NB ROWS = "+str(len(breakdown_table.get_children())))
+    #print("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
 def fill_stats_table(breakdown):
@@ -555,7 +572,7 @@ def clear_table(treeview):
 
 app = tk.Tk()
 app.title('Script Analyzer')
-
+app.iconbitmap('app_icon.ico') 
 
 # Menu bar
 menu_bar = Menu(app)
@@ -564,6 +581,12 @@ app.config(menu=menu_bar)
 folder_icon = tk.PhotoImage(file="folder_icon.png")  # Adjust path to your icon file
 txt_icon = tk.PhotoImage(file="txt_icon.png")  # Adjust path to your icon file
 docx_icon = tk.PhotoImage(file="docx_icon.png")  # Adjust path to your icon file
+original_icon = tk.PhotoImage(file="textd_icon.png")  # Adjust path to your icon file
+char_icon = tk.PhotoImage(file="character_icon.png")  # Adjust path to your icon file
+timeline_icon = tk.PhotoImage(file="timeline_icon.png")  # Adjust path to your icon file
+scene_icon = tk.PhotoImage(file="scenes_icon.png")  # Adjust path to your icon file
+export_icon = tk.PhotoImage(file="export_icon.png")  # Adjust path to your icon file
+chat_icon = tk.PhotoImage(file="chat_icon.png")  # Adjust path to your icon file
 
 
 # File menu
@@ -601,7 +624,7 @@ def on_folder_open(event):
         load_tree(oid, folders.item(oid, "values")[0])
 
 def toggle_folder(event):
-    print("Toggle folder")
+    #print("Toggle folder")
 # Identify the item on which the click occurred
     x, y, widget = event.x, event.y, event.widget
     row_id = widget.identify_row(y)
@@ -641,6 +664,7 @@ def get_os():
     
 def open_xlsx_recap():
     os_=get_os()
+    print("Open"+currentXlsxPath)
     if os_=="Windows":
         try:
             os.startfile(currentXlsxPath)
@@ -679,7 +703,7 @@ def resizechart(self, event=None):
             self.fig.set_size_inches(width / dpi, height / dpi)
             self.canvas.draw()
 def draw_bar_chart(frame,breakdown,character_order_map):
-    print("draw_bar_chart")
+    #print("draw_bar_chart")
     #print(str(character_order_map))
     
     keys=len(character_order_map.keys())
@@ -706,10 +730,10 @@ def draw_bar_chart(frame,breakdown,character_order_map):
         
         if charidx<=Nmaxchar:
             idx=1
-            print("draw_bar_chart char="+char)
+            #print("draw_bar_chart char="+char)
             labels=[]
             values=[]
-            print("draw_bar_chart L="+str(len(breakdown)))
+            #print("draw_bar_chart L="+str(len(breakdown)))
             
             for item in breakdown:
                 idx=idx+1
@@ -899,6 +923,8 @@ folders.tag_configure('normal', background='white')
 
 folders.tag_configure('hover', background='#f4f4f4')
 style = ttk.Style()
+style.configure('TNotebook.Tab', padding=[20, 20, 20, 20])  # Adjust these values as needed
+
 style.configure("Treeview", rowheight=30)  # Increase the row height
 style.configure("Treeview.Item", padding=(3, 4, 3, 4))  # Top and bottom padding
 #bold_font = ('Arial', 10, 'bold')
@@ -921,7 +947,7 @@ notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
 
 
 recap_tab = ttk.Frame(notebook)
-notebook.add(recap_tab, text='Timeline')
+notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
 #char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
 #char_label.pack(side=tk.TOP, fill=tk.X)
 #recap_tab.bind('<Configure>', resizechart)
@@ -939,7 +965,7 @@ def on_tab_selected(event):
 notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
 preview_tab = ttk.Frame(notebook)
-notebook.add(preview_tab, text='Original text')
+notebook.add(preview_tab, text='Original text',image=original_icon, compound=tk.LEFT)
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
@@ -971,7 +997,7 @@ character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
-notebook.add(character_tab, text='Characters')
+notebook.add(character_tab, text='Characters',image=char_icon, compound=tk.LEFT)
 
 breakdown_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
@@ -995,7 +1021,7 @@ breakdown_table.tag_configure('scene', background='#fffec8')
 bold_font = tkFont.Font( weight="bold")
 breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 breakdown_table.tag_configure('bold', font=bold_font)
-notebook.add(breakdown_tab, text='Scenes')
+notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
         
 
 
@@ -1043,7 +1069,7 @@ bold_font = tkFont.Font( weight="bold")
 stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 stats_table.tag_configure('bold', font=bold_font)
 
-notebook.add(stats_tab, text='Lines in order')
+notebook.add(stats_tab, text='Lines in order',image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics tab
@@ -1170,17 +1196,17 @@ for i in countingMethods:
 
 # Define the column width and alignment
 character_stats_table.column('Line #', width=25, anchor='center')
-character_stats_table.column('Character', width=50, anchor='w')
-character_stats_table.column('Character (raw)', width=50, anchor='w')
+character_stats_table.column('Character',  anchor='w', width=0, stretch=tk.NO)
+character_stats_table.column('Character (raw)',anchor='w', width=0, stretch=tk.NO)
 character_stats_table.column('Line', width=100, anchor='w')
 for i in countingMethods:
-    character_stats_table.column(countingMethodNames[i], width=50, anchor='w')
+    character_stats_table.column(countingMethodNames[i], width=25, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_stats_table.pack(fill='both', expand=True)
 character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Lines by character')
+notebook.add(character_stats_tab, text='Lines by character',image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics label
@@ -1195,29 +1221,29 @@ load_button.pack(side=tk.TOP, fill=tk.X)
 # Load folder button
 load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X)
+if False:
+    dropdown = ttk.Combobox(export_tab, values=countingMethods)
+    dropdown.pack(pady=20)
+    dropdown.current(0)
 
-dropdown = ttk.Combobox(export_tab, values=countingMethods)
-dropdown.pack(pady=20)
-dropdown.current(0)
+    update_button = ttk.Button(export_tab, text="Recompute", command=reset_tables)
+    update_button.pack(side=tk.TOP, fill=tk.X)
 
-update_button = ttk.Button(export_tab, text="Recompute", command=reset_tables)
-update_button.pack(side=tk.TOP, fill=tk.X)
+    method_label = ttk.Label(export_tab, text="Current Method"+countingMethod, font=('Arial', 12))
+    method_label.pack(side=tk.BOTTOM, fill=tk.X)
 
-method_label = ttk.Label(export_tab, text="Current Method"+countingMethod, font=('Arial', 12))
-method_label.pack(side=tk.BOTTOM, fill=tk.X)
+    def on_value_change(event):
+        reset_tables
+        """ Handle changes in dropdown selection. """
+        selected_value = dropdown.get()
+        print("Selected:", selected_value)
+        global countingMethod
+        countingMethod=selected_value
+        runJob(currentFilePath,selected_value)
+    # Bind the change event
+    dropdown.bind('<<ComboboxSelected>>', on_value_change)
 
-def on_value_change(event):
-    reset_tables
-    """ Handle changes in dropdown selection. """
-    selected_value = dropdown.get()
-    print("Selected:", selected_value)
-    global countingMethod
-    countingMethod=selected_value
-    runJob(currentFilePath,selected_value)
-# Bind the change event
-dropdown.bind('<<ComboboxSelected>>', on_value_change)
-
-notebook.add(export_tab, text='Export')
+notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)
 
 load_tree("",os.getcwd())
 

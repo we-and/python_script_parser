@@ -48,6 +48,7 @@ currentFilePath=""
 currentScriptFilename=""
 outputFolder="tmp"
 currentXlsxPath=""
+currentBreakdown=None
 
 
 if not os.path.exists(outputFolder):
@@ -201,6 +202,7 @@ def reset_tables():
 def runJob(file_path,method):
     global currentFilePath
     global currentScriptFilename
+    global currentBreakdown
     global currentOutputFolder
     currentFilePath=file_path
     reset_tables()
@@ -243,6 +245,7 @@ def runJob(file_path,method):
                     currentOutputFolder=outputFolder+"/"+name+"/"
 
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
+                    currentBreakdown=breakdown
                     fill_breakdown_table(breakdown)
                     fill_character_stats_table(character_order_map,breakdown)
                     fill_stats_table(breakdown)
@@ -346,6 +349,11 @@ def fill_character_stats_table(character_order_map, breakdown):
 
     total_by_character_by_method={}
     for character_name in character_order_map:
+        print("CHAR add"+character_name)
+
+        character_named = character_name 
+        print("CHAR add"+character_named)
+        character_list_table.insert('','end',values=(character_named,))
         character_order=character_order_map[character_name]
         #print("CHAR"+str(character_name))
         rowtotal=("-",character_name,"-","TOTAL")
@@ -672,19 +680,19 @@ def resizechart(self, event=None):
             self.canvas.draw()
 def draw_bar_chart(frame,breakdown,character_order_map):
     print("draw_bar_chart")
-    print(str(character_order_map))
+    #print(str(character_order_map))
     
     keys=len(character_order_map.keys())
-    print("draw_bar_chart n_char="+str(keys))
+    #print("draw_bar_chart n_char="+str(keys))
 
     Nmaxchar=100
     n_char=len(character_order_map.keys())
-    print("draw_bar_chart n_char="+str(n_char))
+    #print("draw_bar_chart n_char="+str(n_char))
 
     plt.rc('font', size=11) 
     if n_char>Nmaxchar:
         n_char=Nmaxchar
-    print("draw_bar_chart n_char="+str(n_char))
+    #print("draw_bar_chart n_char="+str(n_char))
 
     # Set up a gridspec layout
     fig = plt.figure(figsize=(12, 10))
@@ -715,24 +723,24 @@ def draw_bar_chart(frame,breakdown,character_order_map):
                             values.append(1)
                         else:
                             values.append(0)
-            print("LABELS="+str(labels))
-            print("VALUES="+str(values))
-            print("IDX="+str(charidx-1))
-            print("LABELS size="+str(len(labels)))
-            print("VALUES size="+str(len(values)))
+            #print("LABELS="+str(labels))
+            #print("VALUES="+str(values))
+            #print("IDX="+str(charidx-1))
+            #print("LABELS size="+str(len(labels)))
+            #print("VALUES size="+str(len(values)))
 
 
             chunk_size = 5  # Adjust the size based on your specific needs
             pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
 
-            print("done 1a"+str(pad_size))
+            #print("done 1a"+str(pad_size))
             padded_values = np.pad(values, (0, pad_size), mode='constant', constant_values=0)
             colors = ['lightgrey', '#d37a7a','#d34d4d','#d30000']  # Define more colors if there are more unique values
             cmap = ListedColormap(colors)
 
             # Step 1: Get unique sorted values
             unique_values = np.unique(values)
-            print("Unique values:", unique_values)
+            #print("Unique values:", unique_values)
 
             # Step 2: Calculate boundaries
             boundaries = [
@@ -741,7 +749,7 @@ def draw_bar_chart(frame,breakdown,character_order_map):
                 1.5,
                 chunk_size+0.1  # Last boundary (half above the last unique value)
             ]
-            print("Boundaries="+str(boundaries))
+            #print("Boundaries="+str(boundaries))
 #            boundaries = [-0.5, 0.5, 1.5, 2.5]  # Make sure this covers all your data values
             norm = BoundaryNorm(boundaries, cmap.N, clip=True)
 
@@ -750,7 +758,7 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             # Aggregate data by averaging over chunks
             # Note: This creates a smoother transition in the heatmap
             aggregated_data = np.sum(v, axis=1)
-            print("done 1b"+str(aggregated_data))
+            #print("done 1b"+str(aggregated_data))
 
     #       new_width = 20 
    #         new_width = 20 
@@ -768,28 +776,28 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             # Since we want exactly one row, we do not need to pad for additional rows
             data_matrix = aggregated_data.reshape(num_rows, new_width)
 
-            print("done 1e"+str(data_matrix))
+            #print("done 1e"+str(data_matrix))
 
             ax1 = fig.add_subplot(gs[charidx-1, 0])
-            print("done 1")
+            #print("done 1")
             cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
             #fig.colorbar(cax)
                         
             #ax1.bar(labels, values, color='red')
-            print("done 2")
+            #print("done 2")
             ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='10')
             ax1.set_yticks([]) 
             ax1.set_xticklabels([])  # Hide x-axis tick labels
             ax1.set_yticklabels([]) 
             ax1.tick_params(axis='y', which='both', right=False)
-            print("done 4")
+            #print("done 4")
             ax1.tick_params(axis='x', which='both', length=0, labelbottom=False, labelleft=False)  # Hide ticks and labels
             ax1.tick_params(axis='y', which='both', right=False)
             ax1.tick_params(right=False)
             #ax1.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
-            print("done 6")
+            #print("done 6")
             #ax1.tick_params(axis='x', which='both', length=0)
-            print("done")
+            #print("done")
 #            ax1.spines['right'].set_visible(False)  # Hide right spine
  #           ax1.spines['top'].set_visible(False)    # Hide top spine if desired
             ax1.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)  # No x-axis ticks
@@ -797,9 +805,9 @@ def draw_bar_chart(frame,breakdown,character_order_map):
 
 
     # Adjust subplots to have a uniform starting point
-    print("done 7")
+    #print("done 7")
     plt.subplots_adjust(left=0.5)
-    print("done 8")
+    #print("done 8")
     fig.tight_layout(pad=0.1) 
 #    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
 
@@ -1046,7 +1054,111 @@ cols=('Line #', 'Character','Character (raw)','Line')
 for i in countingMethods:
     cols= cols+(countingMethodNames[i],)
 
-character_stats_table = ttk.Treeview(character_stats_tab, columns=cols, show='headings')
+style.configure('CleftPanel.TFrame', background='lightblue')
+style.configure('CrightPanel.TFrame', background='red')
+
+
+
+# Create left and right frames (panels) inside the tab
+cleft_panel = ttk.Frame(character_stats_tab, borderwidth=0, relief="flat", width=200)
+cright_panel = ttk.Frame(character_stats_tab, borderwidth=0, relief="flat")
+
+cleft_panel.configure(style='CleftPanel.TFrame')  # Apply the styled background
+cright_panel.configure(style='CrightPanel.TFrame')  # Apply the styled background
+
+# Pack the frames into the tab
+#cleft_panel.pack(side='left', fill='y', padx=(0, 20))
+#cright_panel.pack(side='right', fill='y', expand=True)
+
+# Configure column weights to make right panel flexible
+character_stats_tab.grid_columnconfigure(1, weight=1)
+character_stats_tab.grid_rowconfigure(0, weight=1)
+
+
+character_list_table = ttk.Treeview(cleft_panel, columns=('Character'), show='headings')
+# Define the column headings
+character_list_table.heading('Character', text='Character')
+
+# Define the column width and alignment
+character_list_table.column('Character', width=50, anchor='w')
+
+# Pack the Treeview widget with enough space
+character_list_table.pack(fill='both', expand=True)
+
+# Grid frames with padding
+cleft_panel.grid(row=0, column=0, sticky='nsew', padx=(0, 10))  # Add padding on the right side of left panel
+cright_panel.grid(row=0, column=1, sticky='nsew')  # Automatically spaced by the left panel's padding
+
+# Configure column weights to make right panel flexible
+character_stats_tab.grid_columnconfigure(0, weight=0, minsize=200)  # Set minimum size for the left panel
+character_stats_tab.grid_columnconfigure(1, weight=1) 
+character_stats_tab.grid_rowconfigure(0, weight=1)
+def clear_character_stats():
+    for item in character_stats_table.get_children():
+        character_stats_table.delete(item)
+def on_item_selected(event):
+    tree = event.widget
+    selection = tree.selection()
+    item = tree.item(selection)
+    record = item['values']
+    # Do something with the selection, for example:
+    print("You selected:", record)
+    if len(record)==0:
+        return
+    clear_character_stats()
+    character_name=record[0]
+    print("CHAR add"+character_name)
+
+    character_named = character_name 
+    print("CHAR add"+character_named)
+    character_list_table.insert('','end',values=(character_named,))
+   
+    rowtotal=("",character_name,"","TOTAL")       
+    total_by_method={}
+    for m in countingMethods:
+        total_by_method[m]=0
+
+    for item in currentBreakdown:
+        line_idx=item['line_idx']
+        type_=item['type']
+        if(type_=="SPEECH"):
+
+            speech=item['speech']
+            character=item['character']
+            character_raw=item['character_raw']
+            
+            filtered_speech=get_text_without_parentheses(speech)
+
+            if character==character_name:
+                #print("    MATCH"+str(speech))
+
+                row=(str(line_idx),character,character_raw, speech)
+                for m in countingMethods: 
+                    #print("add"+str(m))
+                    le=compute_length_by_method(filtered_speech,m)
+                    row=row+(str(le),)
+                    total_by_method[m]=total_by_method[m]+le
+                #print("add"+str(row))
+                character_stats_table.insert('','end',values=row)
+    for m in countingMethods:
+        if m.startswith("BLOCKS"):
+            total_by_method[m]=math.ceil(total_by_method[m])
+
+    for m in countingMethods:
+        rowtotal=rowtotal+(total_by_method[m],)
+    character_stats_table.insert('',0,values=rowtotal,tags=['total'])
+
+character_list_table.bind('<ButtonRelease-1>', on_item_selected)
+
+
+
+
+
+
+
+
+
+character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings')
 # Define the column headings
 character_stats_table.heading('Line #', text='Line #')
 character_stats_table.heading('Character', text='Character')

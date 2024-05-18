@@ -10,7 +10,9 @@ import platform
 import re
 import csv
 import math
-
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from matplotlib.gridspec import GridSpec
 last_row_id = None
 
 countingMethods=[
@@ -243,9 +245,11 @@ def runJob(file_path,method):
                     fill_stats_table(breakdown)
                     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
                     update_statistics(content)
+                    draw_bar_chart(recap_tab,breakdown,character_order_map)
+
             else:
                 print(" > Not supported")
-                stats_label.config(text=f"Format {extension} not supported")
+                #stats_label.config(text=f"Format {extension} not supported")
 
         except Exception as e:
             file_preview.delete(1.0, tk.END)
@@ -265,7 +269,7 @@ def update_statistics(content):
     words = len(content.split())
     chars = len(content)
 #    stats_label.config(text=f"Words: {words} Characters: {chars}")
-    stats_label.config(text=f" ")
+    #stats_label.config(text=f" ")
   
 
 # Function to remove all items
@@ -656,6 +660,133 @@ def show_popup_counting_method():
     dropdown.current(0)
     dropdown.bind('<<ComboboxSelected>>', on_value_change)
 
+def resizechart(self, event=None):
+        # Resize the figure to match the dimensions of its container
+        width, height = event.width, event.height
+        if width > 0 and height > 0:  # Check to prevent initial null-dimension error
+            dpi = self.fig.get_dpi()
+            self.fig.set_size_inches(width / dpi, height / dpi)
+            self.canvas.draw()
+def draw_bar_chart(frame,breakdown,character_order_map):
+    print("draw_bar_chart")
+    print(str(character_order_map))
+    
+    keys=len(character_order_map.keys())
+    print("draw_bar_chart n_char="+str(keys))
+
+    Nmaxchar=100
+    n_char=len(character_order_map.keys())
+    print("draw_bar_chart n_char="+str(n_char))
+
+    plt.rc('font', size=11) 
+    if n_char>Nmaxchar:
+        n_char=Nmaxchar
+    print("draw_bar_chart n_char="+str(n_char))
+
+    # Set up a gridspec layout
+    fig = plt.figure(figsize=(12, 10))
+    fig.clf()
+    gs = GridSpec(n_char, 1, figure=fig, hspace=0.0,wspace=0.0)
+    fig.set_facecolor('lightgrey')
+    charidx=0
+
+    for char in character_order_map:
+        charidx=charidx+1
+        
+        if charidx<=Nmaxchar:
+            idx=1
+            print("draw_bar_chart char="+char)
+            labels=[]
+            values=[]
+            print("draw_bar_chart L="+str(len(breakdown)))
+            
+            for item in breakdown:
+                idx=idx+1
+                if idx<1000:
+                    line_idx=item['line_idx']
+                    type_=item['type']
+                    if(type_=="SPEECH"):
+                        labels.append(str(line_idx))
+                        character=item['character']
+                        if character==char:
+                            values.append(1)
+                        else:
+                            values.append(0)
+            print("LABELS"+str(labels))
+            print("VALUES"+str(values))
+            print("IDX="+str(charidx-1))
+            print("LABELS"+str(len(labels)))
+            print("VALUES"+str(len(values)))
+
+            ax1 = fig.add_subplot(gs[charidx-1, 0])
+            print("done 1")
+            
+                        
+            ax1.bar(labels, values, color='red')
+            print("done 2")
+            ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='10')
+            ax1.set_yticks([]) 
+            print("done 4")
+
+            ax1.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
+            print("done 6")
+            ax1.tick_params(axis='x', which='both', length=0)
+            print("done")
+        
+#    fig.tight_layout() 
+    # Adjust subplots to have a uniform starting point
+    print("done 7")
+    plt.subplots_adjust(left=0.5)
+    print("done 8")
+    fig.tight_layout(pad=0.1) 
+#    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
+
+    canvas = FigureCanvasTkAgg(fig, master=frame)
+    canvas.draw()
+    canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
+    
+    if False:
+        for char in character_order_map:
+            idx=1
+            print("draw_bar_chart char"+char)
+            labels=[]
+            values=[]
+            for item in breakdown:
+                idx=idx+1
+                if idx<50:
+                    line_idx=item['line_idx']
+                    type_=item['type']
+                    labels.append(str(line_idx))
+                    if(type_=="SPEECH"):
+                        character=item['character']
+                        if character==char:
+                            values.append(1)
+                        else:
+                            values.append(0)
+
+
+            # Create a figure and a set of subplots
+            fig, ax = plt.subplots(figsize=(5, 0.5))
+            ax.bar(labels, values)
+
+            # Set labels and title
+            ax.set_ylabel(char, rotation=0, labelpad=20, horizontalalignment='right')
+    #        ax.set_ylabel(char)
+            ax.set_title("")
+            ax.set_xticks(labels)
+            ax.set_xticklabels(labels, rotation=45)
+            ax.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
+            ax.tick_params(axis='x', which='both', length=0)  # Hide x-axis ticks
+            ax.set_xlabel('')  # Hide x-axis label
+            ax.set_yticks([]) 
+
+            #fig.subplots_adjust(left=0.25)  # Adjust this value to fit your label, if necessary
+            fig.tight_layout() 
+            # Create a Tkinter canvas containing the Matplotlib figure
+            canvas = FigureCanvasTkAgg(fig, master=frame)
+            canvas.draw()
+            canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
+    print("draw_bar_chart")
 
 settings_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="Settings", menu=settings_menu)
@@ -723,10 +854,7 @@ recap_tab = ttk.Frame(notebook)
 notebook.add(recap_tab, text='Recap')
 char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
 char_label.pack(side=tk.TOP, fill=tk.X)
-
-char2_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
-char2_label.pack(side=tk.TOP, fill=tk.X)
-
+#recap_tab.bind('<Configure>', resizechart)
 
 
 # Configure the style of the tab

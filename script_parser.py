@@ -54,13 +54,13 @@ def test_encoding(script_path):
     for enc in encodings:
         try:
             with open(script_path, 'r', encoding=enc) as file:
-                print("Testing encoding  : "+enc)
+                print("  > Testing encoding  : "+enc)
 
                 for line in file:
                     line = line.strip()  # Remove any leading/trailing whitespace
             return enc
         except UnicodeDecodeError:
-            print(f"Failed decoding with {enc}")
+            print(f"  > Failed decoding with {enc}")
     return "?"    
 
 
@@ -152,7 +152,7 @@ def getCharacterSeparator(script_path,encod):
                         if is_match:
                             nMatches=nMatches+1
         pc=round(100*nMatches/nLines)
-        print("Test character sep:"+sep+" " +str(nMatches)+"/"+str(nLines),str(pc))
+        print("  > Test character sep:"+sep+" " +str(nMatches)+"/"+str(nLines),str(pc))
         if pc>bestVal:
             bestVal=pc
             best=sep
@@ -331,7 +331,12 @@ def is_didascalie(name):
 def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
+    if line.endswith(':'):
+        # Return the string without the last character (the colon)
+        return line[:-1]
+    # Return the original string if there is no colon at the end
     return line
+#    return line
 
 
 
@@ -798,12 +803,12 @@ def merge_breakdown_character_talking_to(breakdown,all_characters):
                             break
                     if are_parts_characternames:
                         firstchar=characters[0].strip()
-                        print("REPLACE "+character+" with "+str(firstchar))
+                        #print("REPLACE "+character+" with "+str(firstchar))
                         replaceList[character]=firstchar
                         item['character']=firstchar                   
                 else:
                     firstchar=characters[0].strip()
-                    print("REPLACE"+character+" with "+str(firstchar))
+                    #print("REPLACE"+character+" with "+str(firstchar))
                     replaceList[character]=firstchar
                     item['character']=firstchar                   
 
@@ -819,29 +824,29 @@ def is_character_name_valid(char):
 #################################################################
 # PROCESS
 def process_script(script_path,output_path,script_name,countingMethod,encoding):
-    print("-----------------------------------")
-    print("SCRIPT PARSER version 1.3")
-    print("Script path       : "+script_path)
-    print("Output folder     : "+output_path)
-    print("Script name       : "+script_name) 
-    print("Forced encoding   : "+encoding)
-    print("Counting method   : "+countingMethod)
+    print("  > -----------------------------------")
+    print("  > SCRIPT PARSER version 1.3")
+    print("  > Script path       : "+script_path)
+    print("  > Output folder     : "+output_path)
+    print("  > Script name       : "+script_name) 
+    print("  > Forced encoding   : "+encoding)
+    print("  > Counting method   : "+countingMethod)
 
     if not os.path.exists(output_path):
         os.mkdir(output_path)
 
     file_name = os.path.basename(script_path)
     name, extension = os.path.splitext(file_name)
-    print("File name         : "+file_name)
-    print("Extension         : "+extension)
+    print("  > File name         : "+file_name)
+    print("  > Extension         : "+extension)
     if not is_supported_extension(extension):
-        print("File type "+extension+" not supported.")
+        print("  > File type "+extension+" not supported.")
         return
 
     if extension==".docx":
         converted_file_path=convert_word_to_txt(script_path)
         if len(converted_file_path)==0:
-            print("Conversion failed 1")
+            print("  > Conversion failed 1")
             return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod)
         
@@ -860,20 +865,20 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
 
     is_verbose=False
     encoding_info = detect_file_encoding(script_path)
-    print("Encoding          : "+encoding_info['encoding'])
+    print("  > Encoding          : "+encoding_info['encoding'])
     encoding_used=encoding_info['encoding']
-    print("Encoding used     : "+encoding_used)
+    print("  > Encoding used     : "+encoding_used)
 
     encoding_tested=test_encoding(script_path)
     encoding_used=encoding_tested
     if not (encoding==""):
-        print("Force encoding      :"+encoding)
+        print("  > Force encoding    :"+encoding)
         encoding_used=encoding
     scene_separator=getSceneSeparator(script_path,encoding_used)
-    print("Scene separator   : "+scene_separator)
+    print("  > Scene separator   : "+scene_separator)
 
     character_mode=getCharacterSeparator(script_path,encoding_used)
-    print("Character mode    : "+str(character_mode))
+    print("  > Character mode    : "+str(character_mode))
     
     if scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
         current_scene_id="Scene 1"
@@ -891,14 +896,14 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
                     current_scene_count=current_scene_count+1
                     current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
                     if is_verbose:
-                        print("---------------------------------------")
+                        print("  > ---------------------------------------")
                     #print(f"Scene Line: {line}")
     
     
     
             isEmptyLine=len(trimmed_line)==0
             if is_verbose:
-                print("Line "+str(line_idx))
+                print("  > Line "+str(line_idx))
             if len(trimmed_line)>0:
                 if is_scene_line(line) or (isEmptyLine and wasEmptyLine):
                     current_scene_count=current_scene_count+1
@@ -906,8 +911,8 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
                     current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
                     breakdown.append({"line_idx":line_idx,"scene_id":current_scene_id,"type":"SCENE_SEP" })    
                     if is_verbose:
-                        print("---------------------------------------")
-                    print(f"Scene Line: {current_scene_id}")
+                        print("  > --------------------------------------")
+                    print(f"  > Scene Line: {current_scene_id}")
                 else:
                         if True:#current_scene_id!=1:
                             is_speaking=is_character_speaking(trimmed_line,character_mode)
@@ -915,7 +920,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
                                 print("    IsSpeaking "+str(is_speaking)+" "+trimmed_line)
                             if is_speaking:
                                 character_name=extract_character_name(trimmed_line,character_mode)
-                                #character_name=filter_character_name(character_name)
+                                character_name=filter_character_name(character_name)
                                 if is_verbose:
                                     print("   name="+str(character_name))
                                 if not character_name == None:
@@ -1017,7 +1022,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
             str(character_textlength_map[key]),
             str(math.ceil(character_textlength_map[key]/40))])
 
-    print("Convert to csv.")
+    print("  > Convert to csv.")
     with open(csv_file_path, mode='w', newline='',encoding=encoding_used) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
@@ -1030,9 +1035,9 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
     #for key in character_order_map:
     #    s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
     #save_string_to_file(s, output_path+script_name+"-recap.csv")
-    print("Convert to xslx.")
+    print("  > Convert to xslx.")
     convert_csv_to_xlsx(output_path+script_name+"-recap-detailed.csv",output_path+script_name+"-recap-detailed.xlsx", script_name,encoding_used)
-    print("Parsing done.")
+    print("  > Parsing done.")
     return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 

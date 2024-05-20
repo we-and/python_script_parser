@@ -57,7 +57,14 @@ currentBreakdown=None
 currentFig=None
 currentCanvas=None
 currentCharacterSelectRowId=None
+currentCharacterMultiSelectRowIds=None
 currentDisabledCharacters=[]
+currentResultCharacterOrderMap=None
+currentResultEnc=""
+currentResultName=""
+currentResultLinecountMap=None
+currentResultSceneCharacterMap=None
+
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness
@@ -206,6 +213,8 @@ def get_encoding(enc):
 
 def reset_tables(): 
     #print("reset_tables")
+    
+    
     for item in breakdown_table.get_children():
         breakdown_table.delete(item)
     for item in character_list_table.get_children():
@@ -223,6 +232,13 @@ def runJob(file_path,method):
     global currentBreakdown
     global currentOutputFolder
     global currentTimelinePath
+
+    global currentResultCharacterOrderMap
+    global currentResultEnc
+    global currentResultName
+    global currentResultLinecountMap
+    global currentResultSceneCharacterMap
+    
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
@@ -277,33 +293,36 @@ def runJob(file_path,method):
                     file_path=converted_file_path
                     print("Conversion file path :",file_path)
                     
-
+                print("Opening")
                 with open(file_path, 'r', encoding=enc) as file:
+                    print("Opened")
                     content = file.read()
-
+                    print("Read")
                     file_preview.delete(1.0, tk.END)
                     file_preview.insert(tk.END, content)
                     
 
-                    print("runjob")
+                    print("Process")
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
-                    print("runjob done")
+
+                    print("Processed")
+
                     if breakdown==None:
                         print("Failed")
                         hide_loading()
                     else:
                         print("OK")
                         currentBreakdown=breakdown
-                        fill_breakdown_table(breakdown)
-                        fill_character_list_table(character_order_map,breakdown)
-                        fill_character_stats_table(character_order_map,breakdown,enc)
-                        fill_stats_table(breakdown)
-                        fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
-                        update_statistics(content)
+
                         png_output_file=currentOutputFolder+name+"_timeline.png"
                         currentTimelinePath=png_output_file
-                        draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
-
+                        currentResultCharacterOrderMap=character_order_map
+                        currentResultEnc=enc
+                        currentResultName=name
+                        currentResultLinecountMap=character_linecount_map
+                        currentResultSceneCharacterMap=scene_characters_map
+                        postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+                        
             else:
                 print(" > Not supported")
                 #stats_label.config(text=f"Format {extension} not supported")
@@ -311,9 +330,38 @@ def runJob(file_path,method):
 
         except Exception as e:
             file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, f"Error opening file: {e}")
+            file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
             hide_loading()
 
+def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
+
+    global currentResultCharacterOrderMap
+    if False:
+        if len(currentDisabledCharacters)>0:
+            order_idx=1
+            newmap={}
+            print(" ------------ > reorder postprocess")
+            for k in currentResultCharacterOrderMap:
+                print("reorder postprocess"+str(k))
+                if not k in currentDisabledCharacters:
+                    print("reorder postprocess"+"add"+str(order_idx))
+                    newmap[k]=order_idx
+                    order_idx=order_idx+1
+                else:
+                    print("reorder postprocess skip"+k)
+
+            currentResultCharacterOrderMap=newmap
+            character_order_map=newmap
+
+    print("Post process")
+    fill_breakdown_table(breakdown)
+    fill_character_list_table(character_order_map,breakdown)
+    fill_character_stats_table(character_order_map,breakdown,enc)
+    fill_stats_table(breakdown)
+    fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
+    #hide_loading()
+
+    draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
 
 def on_folder_select(event):
     global currentScriptFilename
@@ -328,16 +376,12 @@ def on_folder_select(event):
         loading_label_txt.config(text="Analyzing "+file_path)
         show_loading()
         app.update_idletasks()  # Force the UI to update
+        for item in disabled_character_list_table.get_children():
+            disabled_character_list_table.delete(item)
+    
         threading.Thread(target=runJob,args=(file_path,countingMethod)).start()
 #        runJob(file_path,countingMethod)
 
-def update_statistics(content):
-
-    words = len(content.split())
-    chars = len(content)
-#    stats_label.config(text=f"Words: {words} Characters: {chars}")
-    #stats_label.config(text=f" ")
-  
 
 # Function to remove all items
 def remove_all_tree_items():
@@ -408,12 +452,20 @@ def stats_per_character(breakdown,character_name):
     return line_count,word_count,character_count,replica_count
 
 def fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map):
+    order_idx=0
     for item in character_order_map:
         lines=character_linecount_map[item]
         line_count,word_count,character_count,replica_count=stats_per_character(breakdown,item)
         scenes=scene_characters_map[item]
         scenes=', '.join(scenes)
-        character_table.insert('','end',values=(str(character_order_map[item]),item,str(character_count),str(math.ceil(character_count/50)),scenes))
+        status="VISIBLE"
+        if item in currentDisabledCharacters:
+            status="HIDDEN"
+            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/50)),scenes),tags=("hidden"))
+        else:
+            order_idx=order_idx+1
+            character_table.insert('','end',values=(str(order_idx),item,status,str(character_count),str(math.ceil(character_count/50)),scenes))
+        
 #        character_table.insert('','end',values=(str(character_order_map[item]),item,str(line_count),str(character_count),str(word_count),str(math.ceil(character_count)/50),str(math.ceil(character_count)/40),scenes))
         
 
@@ -427,10 +479,10 @@ def fill_character_list_table(character_order_map, breakdown):
 
     for character_name in character_order_map:
         #print("CHAR add"+character_name)
-
-        character_named = character_name 
-        #print("CHAR add"+character_named)
-        character_list_table.insert('','end',values=(character_named,))
+        if not character_name in currentDisabledCharacters:
+            character_named = character_name 
+            #print("CHAR add"+character_named)
+            character_list_table.insert('','end',values=(character_named,))
         
 
 def fill_character_stats_table(character_order_map, breakdown,encoding_used):
@@ -484,9 +536,10 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
             rowtotal=rowtotal+(total_by_method[m],)
         character_stats_table.insert('','end',values=rowtotal,tags=['total'])
         
-        total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
+        total_by_character_by_method[character_name]=total_by_method
+#        total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-total-recap.csv"
-    generate_total_csv(total_by_character_by_method,totalcsvpath,encoding_used)
+    generate_total_csv(total_by_character_by_method,totalcsvpath,encoding_used,character_order_map)
     for item in character_stats_table.get_children():
         character_stats_table.delete(item)
 
@@ -559,7 +612,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
 
 
 
-def generate_total_csv(total,csv_path,encoding_used):
+def generate_total_csv(total,csv_path,encoding_used,character_order_map):
     global currentXlsxPath
     #print("Total csv path          : "+csv_path)
     #header
@@ -575,17 +628,23 @@ def generate_total_csv(total,csv_path,encoding_used):
         s=s+"\n"
     #print("Total csv path          : 1")
     
-    data = [
-    ]
+    data = []
+    order_idx=0
     for character in total:
-        datarow=[str(character)];
-        for method in total[character]:
-            if method!="ALL":
-                #print(str(character)+": Add method "+method+" = "+str(total[character][method]))
-                datarow.append(str(total[character][method]))
-        data.append(datarow)
-
-    #rint("Total csv path          : 1")
+        
+        print(currentDisabledCharacters)
+        print(character)
+        print(character in currentDisabledCharacters)
+        if not character in currentDisabledCharacters:
+            order_idx=order_idx+1
+            datarow=[str(order_idx)+" - " +str(character)];
+            for method in total[character]:
+                if method!="ALL":
+                    #print(str(character)+": Add method "+method+" = "+str(total[character][method]))
+                    datarow.append(str(total[character][method]))
+            data.append(datarow)
+        else:
+            print("generate_total_csv skip"+character)
     
     #print("data"+str(data))
     with open(csv_path, mode='w', newline='',encoding=encoding_used) as file:
@@ -619,7 +678,8 @@ def fill_breakdown_table(breakdown):
         elif(type_=="SPEECH"):
             speech=item['speech']
             character=item['character']
-            breakdown_table.insert('','end',values=(str(line_idx),"Speech",character,speech))
+            if not character in currentDisabledCharacters:
+                breakdown_table.insert('','end',values=(str(line_idx),"Speech",character,speech))
         elif(type_=="NONSPEECH"):         
             text=item['text']
             breakdown_table.insert('','end',values=(str(line_idx),"Other",text,""), tags=('nonspeech',))
@@ -635,7 +695,8 @@ def fill_stats_table(breakdown):
             filtered_speech=get_text_without_parentheses(speech)
             character=item['character']
             tout=len(filtered_speech)
-            stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout)))
+            if not character in currentDisabledCharacters:
+                stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout)))
     print("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
@@ -970,7 +1031,9 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
         currentCanvas = None
         currentFig = None
     #  if currentCanvas!=None:
-   #     currentCanvas.delete("all")  
+   #     currentCanvas.delete("all") 
+
+    plt.ioff()  
     Nmaxchar=1000
     n_char=len(character_order_map.keys())
 
@@ -984,97 +1047,66 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     gs = GridSpec(n_char, 1, figure=fig, hspace=0.0,wspace=0.0)
     fig.set_facecolor('#e3e4e4')
     charidx=0
-
+    chunk_size = 20  # Adjust the size based on your specific needs
+    colors = ['lightgrey', '#d37a7a','#d34d4d','#d30000']  # Define more colors if there are more unique values
+    cmap = ListedColormap(colors)
+    boundaries = [
+                    0-0.1 ,  # First boundary (half below the first unique value)
+                    0.5,  # Middle boundaries
+                    1.5,
+                    chunk_size+0.1  # Last boundary (half above the last unique value)
+                ]
+                
     for char in character_order_map:
         charidx=charidx+1
         
         if charidx<=Nmaxchar:
-            idx=1
-            #print("draw_bar_chart char="+char)
-            labels=[]
-            values=[]
-            #print("draw_bar_chart L="+str(len(breakdown)))
+            if not char in currentDisabledCharacters:
             
-            for item in breakdown:
-                idx=idx+1
-                if True:#idx<1000:
-                    line_idx=item['line_idx']
-                    type_=item['type']
-                    if(type_=="SPEECH"):
-                        labels.append(str(line_idx))
-                        character=item['character']
-                        if character==char:
-                            values.append(1)
-                        else:
-                            values.append(0)
-            chunk_size = 5  # Adjust the size based on your specific needs
-            pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
+                idx=1
+                #print("draw_bar_chart char="+char)
+                labels=[]
+                values=[]
+                #print("draw_bar_chart L="+str(len(breakdown)))
+                
+                for item in breakdown:
+                    idx=idx+1
+                    if True:#idx<1000:
+                        line_idx=item['line_idx']
+                        type_=item['type']
+                        if(type_=="SPEECH"):
+                            labels.append(str(line_idx))
+                            character=item['character']
+                            if character==char:
+                                values.append(1)
+                            else:
+                                values.append(0)
+                pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
+                padded_values = np.pad(values, (0, pad_size), mode='constant', constant_values=0)
+                norm = BoundaryNorm(boundaries, cmap.N, clip=True)
 
-            #print("done 1a"+str(pad_size))
-            padded_values = np.pad(values, (0, pad_size), mode='constant', constant_values=0)
-            colors = ['lightgrey', '#d37a7a','#d34d4d','#d30000']  # Define more colors if there are more unique values
-            cmap = ListedColormap(colors)
-
-            # Step 1: Get unique sorted values
-            unique_values = np.unique(values)
-            #print("Unique values:", unique_values)
-
-            # Step 2: Calculate boundaries
-            boundaries = [
-                0-0.1 ,  # First boundary (half below the first unique value)
-                0.5,  # Middle boundaries
-                1.5,
-                chunk_size+0.1  # Last boundary (half above the last unique value)
-            ]
-            #print("Boundaries="+str(boundaries))
-#            boundaries = [-0.5, 0.5, 1.5, 2.5]  # Make sure this covers all your data values
-            norm = BoundaryNorm(boundaries, cmap.N, clip=True)
-
-            v=padded_values.reshape(-1, chunk_size)
-           # print("done 1aa"+str(v))
-            # Aggregate data by averaging over chunks
-            # Note: This creates a smoother transition in the heatmap
-            aggregated_data = np.sum(v, axis=1)
-            #print("done 1b"+str(aggregated_data))
-
-            num_rows = 1
-            new_width = len(aggregated_data)  # Set the width directly to the length of the aggregated data
-
-            # Since we want exactly one row, we do not need to pad for additional rows
-            data_matrix = aggregated_data.reshape(num_rows, new_width)
-
-            #print("done 1e"+str(data_matrix))
-
-            ax1 = fig.add_subplot(gs[charidx-1, 0])
-             # Clear the existing plot
-            #ax1.clear()
-            #print("done 1")
-            cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
-            #fig.colorbar(cax)
-            #print("ADD LABEL "+char)           
-            #ax1.bar(labels, values, color='red')
-            #print("done 2")
-            ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='8')
-            ax1.set_yticks([]) 
-            ax1.set_xticklabels([])  # Hide x-axis tick labels
-            ax1.set_yticklabels([]) 
-            ax1.tick_params(axis='y', which='both', right=False)
-            #print("done 4")
-            ax1.tick_params(axis='x', which='both', length=0, labelbottom=False, labelleft=False)  # Hide ticks and labels
-            ax1.tick_params(axis='y', which='both', right=False)
-            ax1.tick_params(right=False)
-            #ax1.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
-            #print("done 6")
-            #ax1.tick_params(axis='x', which='both', length=0)
-            #print("done")
-#            ax1.spines['right'].set_visible(False)  # Hide right spine
- #           ax1.spines['top'].set_visible(False)    # Hide top spine if desired
-            ax1.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)  # No x-axis ticks
-            ax1.tick_params(axis='y', which='both', left=False, right=False, labelleft=False)    # No y-axis ticks
-
+                v=padded_values.reshape(-1, chunk_size)
+                aggregated_data = np.sum(v, axis=1)
+                num_rows = 1
+                new_width = len(aggregated_data)  # Set the width directly to the length of the aggregated data
+                data_matrix = aggregated_data.reshape(num_rows, new_width)
+                ax1 = fig.add_subplot(gs[charidx-1, 0])
+                cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
+                ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='8')
+                ax1.set_yticks([]) 
+                ax1.set_xticklabels([])  # Hide x-axis tick labels
+                ax1.set_yticklabels([]) 
+                ax1.tick_params(axis='y', which='both', right=False)
+                ax1.tick_params(axis='x', which='both', length=0, labelbottom=False, labelleft=False)  # Hide ticks and labels
+                ax1.tick_params(axis='y', which='both', right=False)
+                ax1.tick_params(right=False)
+                ax1.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)  # No x-axis ticks
+                ax1.tick_params(axis='y', which='both', left=False, right=False, labelleft=False)    # No y-axis ticks
+                
 
     # Adjust subplots to have a uniform starting point
     #print("done 7")
+    plt.ion()
     plt.subplots_adjust(left=0.5)
     #print("done 8")
     fig.tight_layout(pad=0) 
@@ -1130,13 +1162,24 @@ menu = tk.Menu(app, tearoff=0)
 menu.add_command(label="Open File", command=open_file_in_system)
 def merge_characters():
     print("merge_characters")
+    global currentCharacterMultiSelectRowIds
+    currentCharacterMultiSelectRowIds=character_table.selection()
+
 def hide_character():
     print("hide_character")
     global currentDisabledCharacters
     name = character_table.item(currentCharacterSelectRowId, 'values')[1]
     currentDisabledCharacters.append(name)
+    disabled_character_list_table.insert('','end',values=(name,))
+
     print("Hide "+name)
-    
+    reset_tables()
+    postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+ #   show_loading()
+#    app.update_idletasks()  # Force the UI to update
+#    threading.Thread(target=runJob,args=(currentScriptFilename,"ALL",)).start()
+
+
 
 char_menu = tk.Menu(app, tearoff=0)
 char_menu.add_command(label="Merge...", command=merge_characters)
@@ -1245,11 +1288,12 @@ character_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
 
-character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Characters','Blocks (50)','Scenes'), show='headings')
+character_table = ttk.Treeview(character_tab, columns=('Order', 'Character','Status', 'Characters','Blocks (50)','Scenes'), show='headings')
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
 character_table.heading('Character', text='Character')
+character_table.heading('Status', text='Status')
 #character_table.heading('Lines', text='Lines')
 character_table.heading('Characters', text='Characters')
 #character_table.heading('Words', text='Words')
@@ -1260,6 +1304,7 @@ character_table.heading('Scenes', text='Scenes')
 # Define the column width and alignment
 character_table.column('Order', width=25, anchor='center')
 character_table.column('Character', width=200, anchor='w')
+character_table.column('Status', width=50, anchor='w')
 #character_table.column('Lines', width=50, anchor='w')
 character_table.column('Characters', width=50, anchor='w')
 #character_table.column('Words', width=50, anchor='w')
@@ -1270,7 +1315,7 @@ character_table.column('Scenes', width=50, anchor='w')
 character_table.pack(fill='both', expand=True)
 notebook.add(character_tab, text='Characters',image=char_icon, compound=tk.LEFT)
 
-
+character_table.tag_configure('hidden', foreground='#999999')
 character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
 character_table.bind('<Button-2>', on_character_right_click) 
 
@@ -1526,6 +1571,19 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
 #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
+stats_label.pack(side=tk.TOP, fill=tk.X)
+
+disabled_character_list_table = ttk.Treeview(export_tab, columns=('Character'), show='headings')
+# Define the column headings
+disabled_character_list_table.heading('Character', text='Character')
+
+# Define the column width and alignment
+disabled_character_list_table.column('Character', width=50, anchor='w')
+
+# Pack the Treeview widget with enough space
+disabled_character_list_table.pack(fill='both',expand=True)
 
 
 notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)

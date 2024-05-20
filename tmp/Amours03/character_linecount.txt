@@ -1,0 +1,5 @@
+Bobby: 9
+Suzy: 10
+Arlette: 4
+Jean-Claude: 5
+Thérèse: 2

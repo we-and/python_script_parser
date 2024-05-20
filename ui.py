@@ -380,7 +380,7 @@ def generate_total_csv(total,csv_path):
         
         # Write data to the CSV file
         for row in data:
-            print("Write "+str(row))
+            #print("Write "+str(row))
             writer.writerow(row)
 
     if False:   

@@ -1,0 +1,2179 @@
+Scene 1: {"Yang Hou'en"}
+Scene 2: {'Brother Wang'}
+Scene 3: {'Co-worker Zhou'}
+Scene 4: {'Co-worker Wu'}
+Scene 5: {'Sister Wang'}
+Scene 6: {'Sister Zhao'}
+Scene 7: {"Yang Hou'en"}
+Scene 8: {'Brother Wang/Co-worker Zhou/Co-worker Wu/Sister Wang/Sister Zhao'}
+Scene 9: {'Yang Shoudao'}
+Scene 10: {"Yang Hou'en/Li Jiayin"}
+Scene 11: {'Li Jiayin'}
+Scene 12: {'Yang Shoudao'}
+Scene 13: {'Li Jiayin'}
+Scene 14: {'Li Jiayin'}
+Scene 15: {'Li Jiayin'}
+Scene 16: {"Yang Hou'en"}
+Scene 17: {'Yang Shoudao'}
+Scene 18: {'Li Jiayin'}
+Scene 19: {'Li Jiayin'}
+Scene 20: {'Yang Shoudao'}
+Scene 21: {"Yang Hou'en"}
+Scene 22: {'Yang Shoudao'}
+Scene 23: {"Yang Hou'en"}
+Scene 24: {'Li Jiayin'}
+Scene 25: {"Yang Hou'en"}
+Scene 26: {"Yang Hou'en"}
+Scene 27: {'Li Jiayin'}
+Scene 28: {'Yang Shoudao'}
+Scene 29: {'Li Jiayin'}
+Scene 30: {'Li Jiayin'}
+Scene 31: {'Li Jiayin'}
+Scene 32: {'Yang Shoudao'}
+Scene 33: {'Li Jiayin'}
+Scene 34: {'Yang Shoudao'}
+Scene 35: {'Yang Shoudao'}
+Scene 36: {'Yang Shoudao'}
+Scene 37: {'Yang Shoudao'}
+Scene 38: {"Li Jiayin/Yang Hou'en"}
+Scene 39: {'Yang Shoudao'}
+Scene 40: {'Li Jiayin'}
+Scene 41: {"Yang Hou'en"}
+Scene 42: {'Yang Shoudao'}
+Scene 43: {"Yang Hou'en"}
+Scene 44: {'Yang Shoudao'}
+Scene 45: {'Yang Shoudao'}
+Scene 46: {'Li Jiayin'}
+Scene 47: {'Yang Shoudao'}
+Scene 48: {'Yang Shoudao'}
+Scene 49: {"Yang Hou'en/Li Jiayin"}
+Scene 50: {'Yang Shoudao'}
+Scene 51: {'Li Jiayin'}
+Scene 52: {'Yang Shoudao'}
+Scene 53: {"Yang Hou'en"}
+Scene 54: {"Yang Hou'en"}
+Scene 55: {'Li Jiayin'}
+Scene 56: {'Li Jiayin'}
+Scene 57: {'Li Jiayin'}
+Scene 58: {'Yang Shoudao'}
+Scene 59: {'Li Jiayin'}
+Scene 60: {'Yang Shoudao'}
+Scene 61: {'Li Jiayin'}
+Scene 62: {"Yang Hou'en"}
+Scene 63: {"Yang Hou'en"}
+Scene 64: {"Yang Hou'en"}
+Scene 65: {"Yang Hou'en"}
+Scene 66: {"Yang Hou'en"}
+Scene 67: {"Yang Hou'en"}
+Scene 68: {"Yang Hou'en"}
+Scene 69: {"Yang Hou'en"}
+Scene 70: {'Li Jiayin'}
+Scene 71: {"Yang Hou'en"}
+Scene 72: {"Yang Hou'en"}
+Scene 73: {"Yang Hou'en"}
+Scene 74: {'Li Jiayin'}
+Scene 75: {'Yang Shoudao'}
+Scene 76: {"Yang Hou'en"}
+Scene 77: {'Yang Shoudao'}
+Scene 78: {'Yang Shoudao'}
+Scene 79: {"Yang Hou'en"}
+Scene 80: {'Yang Shoudao'}
+Scene 81: {'Yang Shoudao'}
+Scene 82: {'Yang Shoudao'}
+Scene 83: {'Yang Shoudao'}
+Scene 84: {'Yang Shoudao'}
+Scene 85: {'Yang Shoudao'}
+Scene 86: {'Yang Shoudao'}
+Scene 87: {'Yang Shoudao'}
+Scene 88: {'Yang Shoudao'}
+Scene 89: {'Yang Shoudao'}
+Scene 90: {'Yang Shoudao'}
+Scene 91: {"Yang Hou'en"}
+Scene 92: {'Li Jiayin'}
+Scene 93: {'Yang Shoudao'}
+Scene 94: {'Yang Shoudao'}
+Scene 95: {'Li Jiayin'}
+Scene 96: {'Li Jiayin'}
+Scene 97: {'Li Jiayin'}
+Scene 98: {'Li Jiayin'}
+Scene 99: {'Li Jiayin'}
+Scene 100: {'Li Jiayin'}
+Scene 101: {'Li Jiayin'}
+Scene 102: {'Li Jiayin'}
+Scene 103: {'Li Jiayin'}
+Scene 104: {'Li Jiayin'}
+Scene 105: {'Li Jiayin'}
+Scene 106: {'Li Jiayin'}
+Scene 107: {'Li Jiayin'}
+Scene 108: {"Yang Hou'en"}
+Scene 109: {'Li Jiayin'}
+Scene 110: {'Yang Ming'}
+Scene 111: {'Yang Shoudao'}
+Scene 112: {'Yang Ming'}
+Scene 113: {'Yang Shoudao'}
+Scene 114: {'Yang Ming'}
+Scene 115: {'Yang Shoudao'}
+Scene 116: {'Sister Zhao'}
+Scene 117: {'Sister Zhao'}
+Scene 118: {"Yang Hou'en"}
+Scene 119: {'Li Jiayin'}
+Scene 120: {'Sister Zhao'}
+Scene 121: {'Sister Zhao'}
+Scene 122: {'Sister Zhao'}
+Scene 123: {'Sister Zhao'}
+Scene 124: {'Sister Zhao'}
+Scene 125: {'Sister Zhao'}
+Scene 126: {'Sister Zhao'}
+Scene 127: {'Sister Zhao'}
+Scene 128: {'Sister Zhao'}
+Scene 129: {'Yang Shoudao'}
+Scene 130: {'Yang Shoudao'}
+Scene 131: {'Yang Shoudao'}
+Scene 132: {"Yang Hou'en"}
+Scene 133: {'Li Jiayin'}
+Scene 134: {'Yang Shoudao'}
+Scene 135: {'Li Jiayin'}
+Scene 136: {'Li Jiayin'}
+Scene 137: {'Li Jiayin'}
+Scene 138: {'Yang Shoudao'}
+Scene 139: {'Yang Shoudao'}
+Scene 140: {'Yang Shoudao'}
+Scene 141: {'Yang Shoudao'}
+Scene 142: {"Yang Hou'en"}
+Scene 143: {'Li Jiayin'}
+Scene 144: {'Li Jiayin'}
+Scene 145: {'Li Jiayin'}
+Scene 146: {'Li Jiayin'}
+Scene 147: {'Li Jiayin'}
+Scene 148: {'Li Jiayin'}
+Scene 149: {'Li Jiayin'}
+Scene 150: {'Li Jiayin'}
+Scene 151: {'Li Jiayin'}
+Scene 152: {'Li Jiayin'}
+Scene 153: {'Li Jiayin'}
+Scene 154: {'Li Jiayin'}
+Scene 155: {'Li Jiayin'}
+Scene 156: {'Li Jiayin'}
+Scene 157: {'Li Jiayin'}
+Scene 158: {'Li Jiayin'}
+Scene 159: {'Sister Zhao'}
+Scene 160: {"Yang Hou'en"}
+Scene 161: {"Yang Hou'en"}
+Scene 162: {'Li Jiayin'}
+Scene 163: {'Li Jiayin'}
+Scene 164: {'Li Jiayin'}
+Scene 165: {'Li Jiayin'}
+Scene 166: {'Li Jiayin'}
+Scene 167: {'Li Jiayin'}
+Scene 168: {'Li Jiayin'}
+Scene 169: {'Li Jiayin'}
+Scene 170: {'Li Jiayin'}
+Scene 171: {'Li Jiayin'}
+Scene 172: {'Li Jiayin'}
+Scene 173: {'Li Jiayin'}
+Scene 174: {'Li Jiayin'}
+Scene 175: {'Li Jiayin'}
+Scene 176: {'Li Jiayin'}
+Scene 177: {'Li Jiayin'}
+Scene 178: {'Li Jiayin'}
+Scene 179: {'Sister Zhao'}
+Scene 180: {'Yang Shoudao'}
+Scene 181: {'Yang Shoudao'}
+Scene 182: {'Yang Shoudao'}
+Scene 183: {'Yang Shoudao'}
+Scene 184: {'Li Jiayin'}
+Scene 185: {'Li Jiayin'}
+Scene 186: {'Li Jiayin'}
+Scene 187: {'Li Jiayin'}
+Scene 188: {'Li Jiayin'}
+Scene 189: {'Li Jiayin'}
+Scene 190: {'Li Jiayin'}
+Scene 191: {'Li Jiayin'}
+Scene 192: {'Li Jiayin'}
+Scene 193: {'Li Jiayin'}
+Scene 194: {'Li Jiayin'}
+Scene 195: {'Li Jiayin'}
+Scene 196: {'Li Jiayin'}
+Scene 197: {'Li Jiayin'}
+Scene 198: {'Li Jiayin'}
+Scene 199: {'Li Jiayin'}
+Scene 200: {'Li Jiayin'}
+Scene 201: {'Li Jiayin'}
+Scene 202: {'Li Jiayin'}
+Scene 203: {'Sister Zhao'}
+Scene 204: {"Yang Hou'en"}
+Scene 205: {"Yang Hou'en"}
+Scene 206: {"Yang Hou'en"}
+Scene 207: {'Yang Shoudao'}
+Scene 208: {'Yang Shoudao'}
+Scene 209: {'Yang Shoudao'}
+Scene 210: {"Yang Hou'en"}
+Scene 211: {'Sister Zhao'}
+Scene 212: {"Yang Hou'en"}
+Scene 213: {'Sister Zhao'}
+Scene 214: {'Sister Zhao'}
+Scene 215: {'Sister Zhao'}
+Scene 216: {'Li Jiayin'}
+Scene 217: {'Li Jiayin'}
+Scene 218: {'Li Jiayin'}
+Scene 219: {'Li Jiayin'}
+Scene 220: {'Li Jiayin'}
+Scene 221: {'Li Jiayin'}
+Scene 222: {'Sister Zhao'}
+Scene 223: {"Yang Hou'en"}
+Scene 224: {'Sister Zhao'}
+Scene 225: {'Sister Zhao'}
+Scene 226: {'Li Jiayin'}
+Scene 227: {'Li Jiayin'}
+Scene 228: {'Li Jiayin'}
+Scene 229: {'Li Jiayin'}
+Scene 230: {'Li Jiayin'}
+Scene 231: {'Li Jiayin'}
+Scene 232: {'Li Jiayin'}
+Scene 233: {'Li Jiayin'}
+Scene 234: {'Li Jiayin'}
+Scene 235: {'Li Jiayin'}
+Scene 236: {'Li Jiayin'}
+Scene 237: {'Li Jiayin'}
+Scene 238: {'Li Jiayin'}
+Scene 239: {'Li Jiayin'}
+Scene 240: {'Sister Zhao'}
+Scene 241: {'Yang Shoudao'}
+Scene 242: {'Yang Shoudao'}
+Scene 243: {'Yang Shoudao'}
+Scene 244: {'Yang Shoudao'}
+Scene 245: {'Yang Shoudao'}
+Scene 246: {'Sister Zhao'}
+Scene 247: {'Sister Zhao'}
+Scene 248: {'Sister Zhao'}
+Scene 249: {'Sister Zhao'}
+Scene 250: {'Sister Zhao'}
+Scene 251: {'Sister Zhao'}
+Scene 252: {'Sister Zhao'}
+Scene 253: {'Li Jiayin'}
+Scene 254: {'Li Jiayin'}
+Scene 255: {'Li Jiayin'}
+Scene 256: {'Li Jiayin'}
+Scene 257: {'Li Jiayin'}
+Scene 258: {'Li Jiayin'}
+Scene 259: {'Li Jiayin'}
+Scene 260: {'Li Jiayin'}
+Scene 261: {'Yang Shoudao'}
+Scene 262: {'Yang Shoudao'}
+Scene 263: {'Yang Shoudao'}
+Scene 264: {'Yang Shoudao'}
+Scene 265: {'Yang Shoudao'}
+Scene 266: {'Yang Shoudao'}
+Scene 267: {'Yang Shoudao'}
+Scene 268: {'Yang Shoudao'}
+Scene 269: {"Yang Hou'en"}
+Scene 270: {"Yang Hou'en"}
+Scene 271: {'Sister Zhao'}
+Scene 272: {'Sister Zhao'}
+Scene 273: {'Sister Zhao'}
+Scene 274: {'Yang Shoudao'}
+Scene 275: {'Yang Shoudao'}
+Scene 276: {'Yang Shoudao'}
+Scene 277: {'Yang Shoudao'}
+Scene 278: {'Yang Shoudao'}
+Scene 279: {'Yang Shoudao'}
+Scene 280: {'Li Jiayin'}
+Scene 281: {'Sister Zhao'}
+Scene 282: {'Li Jiayin'}
+Scene 283: {'Li Jiayin'}
+Scene 284: {'Li Jiayin'}
+Scene 285: {'Sister Zhao'}
+Scene 286: {"Yang Hou'en"}
+Scene 287: {"Yang Hou'en"}
+Scene 288: {"Yang Hou'en"}
+Scene 289: {"Yang Hou'en"}
+Scene 290: {'Brother Wang'}
+Scene 291: {'Li Jiayin'}
+Scene 292: {'Li Jiayin'}
+Scene 293: {'Brother Wang'}
+Scene 294: {'Li Jiayin'}
+Scene 295: {'Brother Wang'}
+Scene 296: {"Li Jiayin/Sister Zhao/Yang Hou'en"}
+Scene 297: {'Brother Wang'}
+Scene 298: {"Li Jiayin/Sister Zhao/Yang Hou'en"}
+Scene 299: {'Brother Wang'}
+Scene 300: {'Brother Wang'}
+Scene 301: {'Brother Wang'}
+Scene 302: {'Li Jiayin'}
+Scene 303: {'Brother Wang'}
+Scene 304: {'Sister Zhao'}
+Scene 305: {'Sister Zhao'}
+Scene 306: {'Brother Wang'}
+Scene 307: {'Li Jiayin'}
+Scene 308: {'Li Jiayin'}
+Scene 309: {'Li Jiayin'}
+Scene 310: {'Brother Wang'}
+Scene 311: {'Sister Zhao'}
+Scene 312: {'Yang Shoudao'}
+Scene 313: {'Li Jiayin'}
+Scene 314: {'Yang Shoudao'}
+Scene 315: {'Li Jiayin'}
+Scene 316: {'Yang Shoudao'}
+Scene 317: {"Yang Hou'en"}
+Scene 318: {'Sister Zhao'}
+Scene 319: {'Li Jiayin'}
+Scene 320: {'Li Jiayin'}
+Scene 321: {'Li Jiayin'}
+Scene 322: {'Li Jiayin'}
+Scene 323: {'Chen Ling'}
+Scene 324: {'Li Jiayin'}
+Scene 325: {'Xiang Yang'}
+Scene 326: {'Brother Bai', 'Brother Chen'}
+Scene 327: {'Yang Shoudao'}
+Scene 328: {'Li Jiayin'}
+Scene 329: {'Yang Shoudao'}
+Scene 330: {'Yang Shoudao'}
+Scene 331: {'Yang Shoudao'}
+Scene 332: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 333: {'Yang Shoudao'}
+Scene 334: {'Yang Shoudao'}
+Scene 335: {'Sister Wang', 'Brother Bai'}
+Scene 336: {'Sister Wang'}
+Scene 337: {'Co-worker Zhou'}
+Scene 338: {'Co-worker Zhou'}
+Scene 339: {'Sister Wang', 'Co-worker Zhou'}
+Scene 340: {'Co-worker Zhou'}
+Scene 341: {'Co-worker Wu'}
+Scene 342: {"Yang Hou'en"}
+Scene 343: {"Yang Hou'en"}
+Scene 344: {'Brother Bai/Sister Wang/Co-worker Zhou', "Yang Hou'en"}
+Scene 345: {"Yang Hou'en"}
+Scene 346: {'Brother Bai/Co-worker Zhou'}
+Scene 347: {"Yang Hou'en"}
+Scene 348: {"Yang Hou'en"}
+Scene 349: {'Co-worker Zhao/Sister Qiu/Co-worker Zhou'}
+Scene 350: {"Yang Hou'en"}
+Scene 351: {'Co-worker Zhao/Sister Qiu/Co-worker Zhou'}
+Scene 352: {'Li Jiayin'}
+Scene 353: {'Li Jiayin'}
+Scene 354: {'Li Jiayin'}
+Scene 355: {'Li Jiayin'}
+Scene 356: {'Li Jiayin'}
+Scene 357: {'Li Jiayin'}
+Scene 358: {'Chen Ling'}
+Scene 359: {'Brother Bai'}
+Scene 360: {'Li Jiayin'}
+Scene 361: {'Li Jiayin'}
+Scene 362: {'Li Jiayin'}
+Scene 363: {'Sister Wang'}
+Scene 364: {'Co-worker Wu'}
+Scene 365: {'Li Jiayin'}
+Scene 366: {'Brother Bai'}
+Scene 367: {'Congregation'}
+Scene 368: {'Li Jiayin'}
+Scene 369: {'Li Jiayin'}
+Scene 370: {'Chen Ling'}
+Scene 371: {'Li Jiayin'}
+Scene 372: {'Li Jiayin'}
+Scene 373: {'Li Jiayin'}
+Scene 374: {'Li Jiayin'}
+Scene 375: {'Li Jiayin'}
+Scene 376: {'Li Jiayin'}
+Scene 377: {'Li Jiayin'}
+Scene 378: {'Li Jiayin'}
+Scene 379: {'Brother Bai'}
+Scene 380: {'Co-worker Zhou'}
+Scene 381: {'Li Jiayin'}
+Scene 382: {'Li Jiayin'}
+Scene 383: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 384: {'Sister Wang'}
+Scene 385: {'Li Jiayin'}
+Scene 386: {'Sister Wang/Co-worker Wu/Believer Feng', 'Sister Qiu'}
+Scene 387: {'Li Jiayin'}
+Scene 388: {'Li Jiayin'}
+Scene 389: {'Li Jiayin'}
+Scene 390: {'Li Jiayin'}
+Scene 391: {'Li Jiayin'}
+Scene 392: {'Sister Wang'}
+Scene 393: {'Co-worker Wu'}
+Scene 394: {'Co-worker Zhou'}
+Scene 395: {'Yang Shoudao'}
+Scene 396: {'Yang Shoudao'}
+Scene 397: {'Yang Shoudao'}
+Scene 398: {'Co-worker Zhu/Believer Liu'}
+Scene 399: {'Yang Shoudao'}
+Scene 400: {'Co-worker Zhu/Believer Liu'}
+Scene 401: {'Yang Shoudao'}
+Scene 402: {'Yang Shoudao'}
+Scene 403: {'Yang Shoudao'}
+Scene 404: {'Co-worker Zhu/Believer Liu'}
+Scene 405: {'Yang Shoudao'}
+Scene 406: {'Yang Shoudao'}
+Scene 407: {'Co-worker Zhu/Believer Liu'}
+Scene 408: {'Yang Shoudao'}
+Scene 409: {'Brother Bai'}
+Scene 410: {'Yang Shoudao'}
+Scene 411: {'Yang Shoudao'}
+Scene 412: {'Co-worker Zhu/Believer Liu'}
+Scene 413: {'Yang Shoudao'}
+Scene 414: {'Co-worker Zhu/Believer Liu'}
+Scene 415: {'Yang Shoudao'}
+Scene 416: {'Yang Shoudao'}
+Scene 417: {'Li Jiayin'}
+Scene 418: {'Co-worker Zhu'}
+Scene 419: {'Co-worker Zhu'}
+Scene 420: {'Co-worker Zhu'}
+Scene 421: {'Believer Liu'}
+Scene 422: {'Co-worker Zhu'}
+Scene 423: {'Co-worker Zhu'}
+Scene 424: {'Brother Chen'}
+Scene 425: {'Believer Liu'}
+Scene 426: {'Believer Liu'}
+Scene 427: {'Believer Liu'}
+Scene 428: {'Believer Liu'}
+Scene 429: {'Believer Liu'}
+Scene 430: {'Co-worker Zhu/Brother Chen'}
+Scene 431: {'Co-worker Zhou'}
+Scene 432: {'Sister Wang'}
+Scene 433: {'Co-worker Zhou'}
+Scene 434: {'Sister Wang'}
+Scene 435: {'Co-worker Zhou'}
+Scene 436: {'Li Jiayin'}
+Scene 437: {'Li Jiayin'}
+Scene 438: {'Li Jiayin'}
+Scene 439: {'Li Jiayin'}
+Scene 440: {'Li Jiayin'}
+Scene 441: {'Li Jiayin'}
+Scene 442: {'Li Jiayin'}
+Scene 443: {'Li Jiayin'}
+Scene 444: {'Li Jiayin'}
+Scene 445: {'Li Jiayin'}
+Scene 446: {'Li Jiayin'}
+Scene 447: {'Co-worker Zhao'}
+Scene 448: {'Sister Qiu'}
+Scene 449: {'Co-worker Zhao'}
+Scene 450: {'Sister Qiu'}
+Scene 451: {'Co-worker Zhao'}
+Scene 452: {'Chen Ling'}
+Scene 453: {'Chen Ling'}
+Scene 454: {'Chen Ling'}
+Scene 455: {'Chen Ling'}
+Scene 456: {'Chen Ling'}
+Scene 457: {'Chen Ling'}
+Scene 458: {'Chen Ling'}
+Scene 459: {'Chen Ling'}
+Scene 460: {'Xiang Yang'}
+Scene 461: {'Chen Ling'}
+Scene 462: {'Chen Ling'}
+Scene 463: {'Brother Bai/Sister Wang/Co-worker Zhou'}
+Scene 464: {'Chen Ling'}
+Scene 465: {'Chen Ling'}
+Scene 466: {'Chen Ling'}
+Scene 467: {'Chen Ling'}
+Scene 468: {'Chen Ling'}
+Scene 469: {'Chen Ling'}
+Scene 470: {'Xiang Yang/Li Jiayin'}
+Scene 471: {'Chen Ling'}
+Scene 472: {'Chen Ling'}
+Scene 473: {'Chen Ling'}
+Scene 474: {'Co-worker Zhao/Sister Qiu/Believer Cao'}
+Scene 475: {'Sister Wang'}
+Scene 476: {'Chen Ling'}
+Scene 477: {'Chen Ling'}
+Scene 478: {'Chen Ling'}
+Scene 479: {'Chen Ling'}
+Scene 480: {'Chen Ling'}
+Scene 481: {'Li Jiayin'}
+Scene 482: {'Chen Ling'}
+Scene 483: {'Chen Ling'}
+Scene 484: {'Chen Ling'}
+Scene 485: {'Chen Ling'}
+Scene 486: {'Chen Ling'}
+Scene 487: {'Chen Ling'}
+Scene 488: {'Chen Ling'}
+Scene 489: {'Chen Ling'}
+Scene 490: {'Chen Ling'}
+Scene 491: {'Chen Ling'}
+Scene 492: {'Brother Chen'}
+Scene 493: {'Co-worker Zhou/Co-worker Wu/Brother Bai'}
+Scene 494: {'Chen Ling'}
+Scene 495: {'Chen Ling'}
+Scene 496: {'Chen Ling'}
+Scene 497: {'Chen Ling'}
+Scene 498: {'Chen Ling'}
+Scene 499: {'Chen Ling'}
+Scene 500: {'Chen Ling'}
+Scene 501: {'Chen Ling'}
+Scene 502: {'Co-worker Zhou', 'Brother Bai'}
+Scene 503: {'Li Jiayin', 'Co-worker Zhou', 'Sister Qiu/Co-worker Zhao/Co-worker Zhou', 'Chen Ling', 'Xiang Yang', 'Brother Bai'}
+Scene 504: {'Xiang Yang'}
+Scene 505: {'Xiang Yang'}
+Scene 506: {'Xiang Yang'}
+Scene 507: {'Chen Ling'}
+Scene 508: {'Xiang Yang'}
+Scene 509: {'Xiang Yang'}
+Scene 510: {'Xiang Yang'}
+Scene 511: {'Xiang Yang'}
+Scene 512: {'Xiang Yang'}
+Scene 513: {'Xiang Yang'}
+Scene 514: {'Xiang Yang'}
+Scene 515: {'Xiang Yang'}
+Scene 516: {'Xiang Yang'}
+Scene 517: {'Xiang Yang'}
+Scene 518: {'Xiang Yang'}
+Scene 519: {'Xiang Yang'}
+Scene 520: {'Xiang Yang'}
+Scene 521: {'Xiang Yang'}
+Scene 522: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 523: {'Xiang Yang'}
+Scene 524: {'Sister Qiu/Brother Chen/Brother Bai'}
+Scene 525: {'Xiang Yang'}
+Scene 526: {'Xiang Yang'}
+Scene 527: {'Xiang Yang'}
+Scene 528: {'Xiang Yang'}
+Scene 529: {'Xiang Yang'}
+Scene 530: {'Xiang Yang'}
+Scene 531: {'Xiang Yang'}
+Scene 532: {'Xiang Yang'}
+Scene 533: {'Xiang Yang'}
+Scene 534: {'Xiang Yang'}
+Scene 535: {'Xiang Yang'}
+Scene 536: {'Xiang Yang'}
+Scene 537: {'Xiang Yang'}
+Scene 538: {'Xiang Yang'}
+Scene 539: {'Xiang Yang'}
+Scene 540: {'Xiang Yang'}
+Scene 541: {'Xiang Yang'}
+Scene 542: {'Xiang Yang'}
+Scene 543: {'Xiang Yang'}
+Scene 544: {'Xiang Yang'}
+Scene 545: {'Xiang Yang'}
+Scene 546: {'Sister Qiu', 'Xiang Yang'}
+Scene 547: {'Xiang Yang'}
+Scene 548: {'Xiang Yang'}
+Scene 549: {'Xiang Yang'}
+Scene 550: {'Li Jiayin'}
+Scene 551: {'Xiang Yang'}
+Scene 552: {'Xiang Yang'}
+Scene 553: {'Xiang Yang'}
+Scene 554: {'Xiang Yang'}
+Scene 555: {'Xiang Yang'}
+Scene 556: {'Xiang Yang'}
+Scene 557: {'Xiang Yang'}
+Scene 558: {'Xiang Yang'}
+Scene 559: {'Xiang Yang'}
+Scene 560: {'Xiang Yang'}
+Scene 561: {'Co-worker Zhou/Brother Bai'}
+Scene 562: {'Xiang Yang'}
+Scene 563: {'Xiang Yang'}
+Scene 564: {'Brother Bai'}
+Scene 565: {'Xiang Yang'}
+Scene 566: {'Xiang Yang'}
+Scene 567: {'Xiang Yang'}
+Scene 568: {'Xiang Yang'}
+Scene 569: {'Xiang Yang'}
+Scene 570: {'Sister Wang/Co-worker Zhou/Sister Qiu/Brother Bai'}
+Scene 571: {'Xiang Yang'}
+Scene 572: {'Xiang Yang'}
+Scene 573: {'Xiang Yang'}
+Scene 574: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 575: {'Sister Qiu'}
+Scene 576: {'Co-worker Wu'}
+Scene 577: {'Co-worker Wu'}
+Scene 578: {'Co-worker Wu'}
+Scene 579: {'Chen Ling/Xiang Yang/Li Jiayin', 'Co-worker Wu'}
+Scene 580: {'Xiang Yang'}
+Scene 581: {'Co-worker Wu'}
+Scene 582: {'Co-worker Wu'}
+Scene 583: {'Co-worker Wu'}
+Scene 584: {'Co-worker Wu'}
+Scene 585: {'Co-worker Wu'}
+Scene 586: {'Co-worker Wu'}
+Scene 587: {'Co-worker Zhou/Congregation'}
+Scene 588: {'Co-worker Wu'}
+Scene 589: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 590: {'Co-worker Zhou'}
+Scene 591: {'Co-worker Zhou'}
+Scene 592: {'Brother Bai/Sister Wang'}
+Scene 593: {'Co-worker Zhou'}
+Scene 594: {'Co-worker Wu/Sister Wang/Co-worker Zhou'}
+Scene 595: {'Xiang Yang'}
+Scene 596: {'Chen Ling/Li Jiayin'}
+Scene 597: {"Yang Hou'en inner voice"}
+Scene 598: {"Yang Hou'en inner voice"}
+Scene 599: {'Chen Ling'}
+Scene 600: {'Chen Ling'}
+Scene 601: {'Chen Ling'}
+Scene 602: {'Chen Ling'}
+Scene 603: {'Chen Ling'}
+Scene 604: {'Chen Ling'}
+Scene 605: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai', 'Chen Ling'}
+Scene 606: {'Chen Ling'}
+Scene 607: {'Chen Ling'}
+Scene 608: {'Chen Ling'}
+Scene 609: {'Chen Ling'}
+Scene 610: {'Brother Bai/Co-worker Zhou'}
+Scene 611: {'Chen Ling'}
+Scene 612: {'Chen Ling'}
+Scene 613: {'Chen Ling'}
+Scene 614: {'Chen Ling'}
+Scene 615: {'Chen Ling'}
+Scene 616: {'Brother Bai'}
+Scene 617: {'Chen Ling'}
+Scene 618: {'Chen Ling'}
+Scene 619: {'Li Jiayin/Xiang Yang'}
+Scene 620: {'Chen Ling'}
+Scene 621: {'Chen Ling'}
+Scene 622: {'Chen Ling'}
+Scene 623: {'Chen Ling'}
+Scene 624: {'Chen Ling'}
+Scene 625: {'Chen Ling'}
+Scene 626: {'Co-worker Wu/Sister Wang/Brother Bai/Sister Qiu'}
+Scene 627: {'Chen Ling'}
+Scene 628: {'Chen Ling'}
+Scene 629: {'Chen Ling'}
+Scene 630: {'Chen Ling'}
+Scene 631: {'Chen Ling'}
+Scene 632: {'Xiang Yang'}
+Scene 633: {'Chen Ling'}
+Scene 634: {'Chen Ling'}
+Scene 635: {'Chen Ling'}
+Scene 636: {'Chen Ling'}
+Scene 637: {'Chen Ling'}
+Scene 638: {'Chen Ling'}
+Scene 639: {'Chen Ling'}
+Scene 640: {'Chen Ling'}
+Scene 641: {'Chen Ling'}
+Scene 642: {'Chen Ling'}
+Scene 643: {'Chen Ling'}
+Scene 644: {'Chen Ling'}
+Scene 645: {'Chen Ling'}
+Scene 646: {'Chen Ling'}
+Scene 647: {'Chen Ling'}
+Scene 648: {'Chen Ling'}
+Scene 649: {'Chen Ling'}
+Scene 650: {'Chen Ling'}
+Scene 651: {'Chen Ling'}
+Scene 652: {'Chen Ling'}
+Scene 653: {'Chen Ling'}
+Scene 654: {'Chen Ling'}
+Scene 655: {'Sister Wang'}
+Scene 656: {'Chen Ling'}
+Scene 657: {'Chen Ling'}
+Scene 658: {'Chen Ling'}
+Scene 659: {'Chen Ling'}
+Scene 660: {'Chen Ling'}
+Scene 661: {'Li Jiayin/Xiang Yang'}
+Scene 662: {'Brother Bai'}
+Scene 663: {'Chen Ling'}
+Scene 664: {'Chen Ling'}
+Scene 665: {'Chen Ling'}
+Scene 666: {'Chen Ling'}
+Scene 667: {'Xiang Yang'}
+Scene 668: {'Xiang Yang'}
+Scene 669: {'Xiang Yang'}
+Scene 670: {'Xiang Yang'}
+Scene 671: {'Xiang Yang'}
+Scene 672: {'Chen Ling'}
+Scene 673: {'Xiang Yang'}
+Scene 674: {'Xiang Yang'}
+Scene 675: {'Xiang Yang'}
+Scene 676: {'Xiang Yang'}
+Scene 677: {'Sister Wang/Sister Qiu'}
+Scene 678: {'Xiang Yang'}
+Scene 679: {'Xiang Yang'}
+Scene 680: {'Xiang Yang'}
+Scene 681: {'Xiang Yang'}
+Scene 682: {'Xiang Yang'}
+Scene 683: {'Xiang Yang'}
+Scene 684: {'Xiang Yang'}
+Scene 685: {'Chen Ling'}
+Scene 686: {'Xiang Yang'}
+Scene 687: {'Xiang Yang'}
+Scene 688: {'Xiang Yang'}
+Scene 689: {'Xiang Yang'}
+Scene 690: {'Sister Wang/Co-worker Wu/Brother Bai'}
+Scene 691: {'Xiang Yang'}
+Scene 692: {'Xiang Yang'}
+Scene 693: {'Brother Bai/Sister Wang/Co-worker Zhou/Co-worker Wu'}
+Scene 694: {'Xiang Yang'}
+Scene 695: {'Brother Bai'}
+Scene 696: {'Xiang Yang'}
+Scene 697: {'Xiang Yang'}
+Scene 698: {'Xiang Yang'}
+Scene 699: {'Xiang Yang'}
+Scene 700: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai', 'Xiang Yang'}
+Scene 701: {'Xiang Yang'}
+Scene 702: {'Sister Wang/Co-worker Zhou/Believer Hou'}
+Scene 703: {'Xiang Yang'}
+Scene 704: {'Brother Bai/Co-worker Zhou'}
+Scene 705: {'Xiang Yang'}
+Scene 706: {'Brother Bai/Sister Wang'}
+Scene 707: {'Xiang Yang'}
+Scene 708: {'Xiang Yang'}
+Scene 709: {'Xiang Yang'}
+Scene 710: {'Xiang Yang'}
+Scene 711: {'Xiang Yang'}
+Scene 712: {'Co-worker Wu'}
+Scene 713: {'Xiang Yang'}
+Scene 714: {'Xiang Yang'}
+Scene 715: {'Xiang Yang'}
+Scene 716: {'Xiang Yang'}
+Scene 717: {'Yang Shoudao'}
+Scene 718: {'Li Jiayin'}
+Scene 719: {'Yang Shoudao'}
+Scene 720: {'Yang Shoudao'}
+Scene 721: {'Believer Liu'}
+Scene 722: {'Co-worker Zhu'}
+Scene 723: {"Yang Hou'en"}
+Scene 724: {'Yang Shoudao'}
+Scene 725: {"Yang Hou'en"}
+Scene 726: {'Yang Shoudao'}
+Scene 727: {'Yang Shoudao'}
+Scene 728: {'Yang Shoudao'}
+Scene 729: {'Yang Shoudao'}
+Scene 730: {'Li Jiayin'}
+Scene 731: {'Co-worker Zhu'}
+Scene 732: {'Co-worker Zhu'}
+Scene 733: {'Believer Liu'}
+Scene 734: {'Co-worker Zhu'}
+Scene 735: {'Believer Liu'}
+Scene 736: {'Li Jiayin'}
+Scene 737: {'Li Jiayin'}
+Scene 738: {'Li Jiayin'}
+Scene 739: {'Li Jiayin'}
+Scene 740: {'Li Jiayin'}
+Scene 741: {'Li Jiayin'}
+Scene 742: {'Li Jiayin'}
+Scene 743: {'Li Jiayin'}
+Scene 744: {'Li Jiayin'}
+Scene 745: {'Sister Qiu/Brother Bai/Sister Wang', 'Li Jiayin'}
+Scene 746: {'Li Jiayin'}
+Scene 747: {'Li Jiayin'}
+Scene 748: {'Li Jiayin'}
+Scene 749: {'Li Jiayin'}
+Scene 750: {'Li Jiayin'}
+Scene 751: {'Li Jiayin'}
+Scene 752: {'Li Jiayin'}
+Scene 753: {"Yang Hou'en", 'Sister Qiu/Co-worker Zhao'}
+Scene 754: {"Yang Hou'en"}
+Scene 755: {'Li Jiayin'}
+Scene 756: {"Yang Hou'en"}
+Scene 757: {"Yang Hou'en"}
+Scene 758: {"Yang Hou'en"}
+Scene 759: {'Believer Liu/Co-worker Zhu/Co-worker Wu/Sister Wang'}
+Scene 760: {"Yang Hou'en"}
+Scene 761: {"Yang Hou'en"}
+Scene 762: {"Yang Hou'en"}
+Scene 763: {'Brother Chen/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 764: {"Yang Hou'en"}
+Scene 765: {"Yang Hou'en"}
+Scene 766: {"Yang Hou'en"}
+Scene 767: {'Li Jiayin/Chen Ling/Xiang Yang'}
+Scene 768: {'Co-worker Zhu'}
+Scene 769: {'Co-worker Zhu'}
+Scene 770: {'Co-worker Zhu'}
+Scene 771: {'Co-worker Zhu'}
+Scene 772: {'Believer Liu'}
+Scene 773: {'Co-worker Zhu'}
+Scene 774: {'Co-worker Zhu'}
+Scene 775: {'Believer Liu'}
+Scene 776: {'Co-worker Zhu'}
+Scene 777: {'Believer Liu'}
+Scene 778: {'Co-worker Wu'}
+Scene 779: {'Sister Wang'}
+Scene 780: {'Co-worker Wu'}
+Scene 781: {'Sister Wang'}
+Scene 782: {'Co-worker Wu'}
+Scene 783: {'Co-worker Wu'}
+Scene 784: {'Co-worker Wu'}
+Scene 785: {'Co-worker Wu'}
+Scene 786: {'Co-worker Wu'}
+Scene 787: {'Li Jiayin/Chen Ling'}
+Scene 788: {'Co-worker Wu'}
+Scene 789: {'Sister Wang'}
+Scene 790: {'Co-worker Wu'}
+Scene 791: {'Co-worker Wu'}
+Scene 792: {'Co-worker Wu'}
+Scene 793: {'Co-worker Wu'}
+Scene 794: {'Sister Wang'}
+Scene 795: {'Congregation'}
+Scene 796: {'Believer Feng'}
+Scene 797: {'Chen Ling'}
+Scene 798: {'Chen Ling'}
+Scene 799: {'Chen Ling'}
+Scene 800: {'Chen Ling'}
+Scene 801: {'Chen Ling'}
+Scene 802: {'Chen Ling'}
+Scene 803: {'Chen Ling'}
+Scene 804: {'Chen Ling'}
+Scene 805: {'Chen Ling'}
+Scene 806: {'Chen Ling'}
+Scene 807: {'Chen Ling'}
+Scene 808: {'Chen Ling'}
+Scene 809: {'Chen Ling'}
+Scene 810: {'Chen Ling'}
+Scene 811: {'Chen Ling'}
+Scene 812: {'Chen Ling'}
+Scene 813: {'Chen Ling'}
+Scene 814: {'Chen Ling'}
+Scene 815: {'Chen Ling'}
+Scene 816: {'Chen Ling'}
+Scene 817: {'Chen Ling'}
+Scene 818: {'Li Jiayin'}
+Scene 819: {'Chen Ling'}
+Scene 820: {'Brother Bai'}
+Scene 821: {'Co-worker Zhou'}
+Scene 822: {'Chen Ling'}
+Scene 823: {'Chen Ling'}
+Scene 824: {'Chen Ling'}
+Scene 825: {'Sister Wang/Co-worker Wu'}
+Scene 826: {'Chen Ling'}
+Scene 827: {'Chen Ling'}
+Scene 828: {'Chen Ling'}
+Scene 829: {'Chen Ling'}
+Scene 830: {'Chen Ling'}
+Scene 831: {'Chen Ling'}
+Scene 832: {'Chen Ling'}
+Scene 833: {'Chen Ling'}
+Scene 834: {'Li Jiayin/Xiang Yang'}
+Scene 835: {'Chen Ling'}
+Scene 836: {'Chen Ling'}
+Scene 837: {'Chen Ling'}
+Scene 838: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 839: {'Brother Bai'}
+Scene 840: {'Chen Ling'}
+Scene 841: {'Chen Ling'}
+Scene 842: {'Chen Ling'}
+Scene 843: {'Li Jiayin'}
+Scene 844: {'Chen Ling'}
+Scene 845: {'Chen Ling'}
+Scene 846: {'Chen Ling'}
+Scene 847: {'Chen Ling'}
+Scene 848: {'Chen Ling', 'Brother Chen'}
+Scene 849: {'Chen Ling'}
+Scene 850: {'Chen Ling'}
+Scene 851: {'Chen Ling'}
+Scene 852: {'Chen Ling'}
+Scene 853: {'Chen Ling'}
+Scene 854: {'Chen Ling'}
+Scene 855: {'Chen Ling'}
+Scene 856: {'Chen Ling'}
+Scene 857: {'Chen Ling'}
+Scene 858: {'Chen Ling'}
+Scene 859: {'Brother Chen/Sister Qiu'}
+Scene 860: {'Brother Bai'}
+Scene 861: {'Chen Ling'}
+Scene 862: {'Li Jiayin'}
+Scene 863: {'Chen Ling'}
+Scene 864: {'Chen Ling'}
+Scene 865: {'Co-worker Wu'}
+Scene 866: {'Chen Ling'}
+Scene 867: {'Chen Ling'}
+Scene 868: {'Chen Ling'}
+Scene 869: {'Chen Ling'}
+Scene 870: {'Chen Ling'}
+Scene 871: {'Chen Ling'}
+Scene 872: {'Chen Ling', 'Xiang Yang'}
+Scene 873: {'Co-worker Wu/Sister Wang'}
+Scene 874: {'Chen Ling'}
+Scene 875: {'Chen Ling'}
+Scene 876: {'Chen Ling'}
+Scene 877: {'Chen Ling'}
+Scene 878: {'Chen Ling'}
+Scene 879: {'Chen Ling'}
+Scene 880: {'Chen Ling'}
+Scene 881: {'Chen Ling'}
+Scene 882: {'Chen Ling'}
+Scene 883: {'Chen Ling'}
+Scene 884: {'Chen Ling'}
+Scene 885: {'Chen Ling'}
+Scene 886: {'Chen Ling'}
+Scene 887: {'Brother Bai', 'Chen Ling'}
+Scene 888: {'Chen Ling'}
+Scene 889: {'Chen Ling'}
+Scene 890: {'Chen Ling'}
+Scene 891: {'Chen Ling'}
+Scene 892: {'Chen Ling'}
+Scene 893: {'Congregation', "Yang Hou'en"}
+Scene 894: {"Yang Hou'en"}
+Scene 895: {"Yang Hou'en"}
+Scene 896: {'Co-worker Zhou'}
+Scene 897: {"Yang Hou'en"}
+Scene 898: {'Chen Ling/Xiang Yang'}
+Scene 899: {"Yang Hou'en"}
+Scene 900: {'Co-worker Zhou'}
+Scene 901: {'Co-worker Zhou'}
+Scene 902: {'Li Jiayin/Xiang Yang'}
+Scene 903: {'Chen Ling'}
+Scene 904: {'Co-worker Zhou'}
+Scene 905: {'Co-worker Zhou'}
+Scene 906: {'Sister Wang'}
+Scene 907: {'Co-worker Zhou'}
+Scene 908: {'Co-worker Zhou'}
+Scene 909: {'Sister Wang/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 910: {'Co-worker Zhou'}
+Scene 911: {'Co-worker Zhou', 'Brother Chen'}
+Scene 912: {'Co-worker Zhou'}
+Scene 913: {'Sister Wang/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 914: {'Co-worker Wu', 'Xiang Yang'}
+Scene 915: {'Xiang Yang'}
+Scene 916: {'Xiang Yang'}
+Scene 917: {'Xiang Yang'}
+Scene 918: {'Xiang Yang'}
+Scene 919: {'Xiang Yang'}
+Scene 920: {'Xiang Yang'}
+Scene 921: {'Xiang Yang'}
+Scene 922: {'Xiang Yang'}
+Scene 923: {'Sister Wang/Brother Bai/Co-worker Zhou/Co-worker Wu'}
+Scene 924: {'Xiang Yang'}
+Scene 925: {'Xiang Yang'}
+Scene 926: {'Xiang Yang'}
+Scene 927: {'Xiang Yang'}
+Scene 928: {'Xiang Yang'}
+Scene 929: {'Xiang Yang'}
+Scene 930: {'Xiang Yang'}
+Scene 931: {'Brother Bai/Co-worker Zhou/Sister Qiu/Brother Chen', 'Xiang Yang'}
+Scene 932: {'Amen !', 'Xiang Yang'}
+Scene 933: {'Amen !'}
+Scene 934: {'Xiang Yang'}
+Scene 935: {'Xiang Yang'}
+Scene 936: {'Xiang Yang'}
+Scene 937: {'Xiang Yang'}
+Scene 938: {'Xiang Yang'}
+Scene 939: {'Xiang Yang'}
+Scene 940: {'Sister Wang', 'Co-worker Wu'}
+Scene 941: {'Believer Feng'}
+Scene 942: {'Believer Zhang'}
+Scene 943: {'Xiang Yang'}
+Scene 944: {'Xiang Yang'}
+Scene 945: {'Xiang Yang'}
+Scene 946: {'Xiang Yang'}
+Scene 947: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 948: {'Brother Bai', 'Xiang Yang'}
+Scene 949: {'Xiang Yang'}
+Scene 950: {'Xiang Yang'}
+Scene 951: {'Xiang Yang'}
+Scene 952: {'Xiang Yang'}
+Scene 953: {'Xiang Yang'}
+Scene 954: {'Sister Wang'}
+Scene 955: {'Xiang Yang'}
+Scene 956: {'Xiang Yang'}
+Scene 957: {'Xiang Yang'}
+Scene 958: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 959: {'Brother Bai'}
+Scene 960: {"Yang Hou'en"}
+Scene 961: {'Co-worker Zhou', 'Brother Bai'}
+Scene 962: {'Brother Bai'}
+Scene 963: {'Xiang Yang'}
+Scene 964: {'Xiang Yang'}
+Scene 965: {'Xiang Yang'}
+Scene 966: {'Xiang Yang'}
+Scene 967: {'Xiang Yang'}
+Scene 968: {'Xiang Yang'}
+Scene 969: {'Co-worker Zhou'}
+Scene 970: {'Sister Wang/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 971: {'Xiang Yang'}
+Scene 972: {'Xiang Yang'}
+Scene 973: {'Xiang Yang'}
+Scene 974: {'Sister Qiu/Co-worker Zhou'}
+Scene 975: {'Brother Chen'}
+Scene 976: {'Co-worker Zhou'}
+Scene 977: {'Xiang Yang'}
+Scene 978: {'Sister Wang/Co-worker Wu/Brother Chen/Brother Bai/Co-worker Zhou'}
+Scene 979: {'Xiang Yang'}
+Scene 980: {'Xiang Yang'}
+Scene 981: {'Xiang Yang'}
+Scene 982: {'Xiang Yang'}
+Scene 983: {'Xiang Yang'}
+Scene 984: {'Xiang Yang'}
+Scene 985: {'Xiang Yang'}
+Scene 986: {'Xiang Yang'}
+Scene 987: {'Xiang Yang'}
+Scene 988: {'Xiang Yang'}
+Scene 989: {'Xiang Yang'}
+Scene 990: {'Xiang Yang'}
+Scene 991: {'Xiang Yang'}
+Scene 992: {'Xiang Yang'}
+Scene 993: {'Xiang Yang'}
+Scene 994: {'Sister Wang/Co-worker Wu/Brother Chen/Brother Bai/Co-worker Zhou', 'Xiang Yang'}
+Scene 995: {'Xiang Yang'}
+Scene 996: {'Xiang Yang'}
+Scene 997: {'Xiang Yang'}
+Scene 998: {'Co-worker Zhou/Sister Wang/Believer Feng'}
+Scene 999: {'Xiang Yang'}
+Scene 1000: {'Xiang Yang'}
+Scene 1001: {'Xiang Yang'}
+Scene 1002: {'Xiang Yang'}
+Scene 1003: {'Brother Chen', 'Xiang Yang'}
+Scene 1004: {'Brother Bai'}
+Scene 1005: {'Xiang Yang'}
+Scene 1006: {'Xiang Yang'}
+Scene 1007: {'Brother Bai'}
+Scene 1008: {'Xiang Yang'}
+Scene 1009: {'Xiang Yang'}
+Scene 1010: {'Xiang Yang'}
+Scene 1011: {'Xiang Yang'}
+Scene 1012: {'Xiang Yang'}
+Scene 1013: {'Sister Wang'}
+Scene 1014: {'Sister Wang'}
+Scene 1015: {'Sister Wang'}
+Scene 1016: {'Sister Wang'}
+Scene 1017: {'Sister Wang'}
+Scene 1018: {'Sister Wang'}
+Scene 1019: {'Sister Wang'}
+Scene 1020: {'Xiang Yang/Chen Ling/Li Jiayin/Co-worker Zhou'}
+Scene 1021: {'Sister Wang'}
+Scene 1022: {'Sister Wang'}
+Scene 1024: {'Sister Wang'}
+Scene 1025: {'Yang Shoudao inner voice'}
+Scene 1026: {'Yang Shoudao inner voice'}
+Scene 1027: {'Yang Shoudao inner voice'}
+Scene 1028: {'Yang Shoudao inner voice'}
+Scene 1029: {'Yang Shoudao inner voice'}
+Scene 1030: {'Yang Shoudao inner voice'}
+Scene 1031: {'Yang Shoudao inner voice'}
+Scene 1032: {'Li Jiayin'}
+Scene 1033: {'Chen Ling'}
+Scene 1034: {'Li Jiayin'}
+Scene 1035: {'Li Jiayin'}
+Scene 1036: {'Yang Shoudao'}
+Scene 1037: {"Yang Hou'en"}
+Scene 1038: {"Yang Hou'en"}
+Scene 1039: {'Li Jiayin'}
+Scene 1040: {"Yang Hou'en"}
+Scene 1041: {'Chen Ling/Xiang Yang'}
+Scene 1042: {"Yang Hou'en"}
+Scene 1043: {'Yang Shoudao'}
+Scene 1044: {'Yang Shoudao'}
+Scene 1045: {"Yang Hou'en"}
+Scene 1046: {'Yang Shoudao'}
+Scene 1047: {"Yang Hou'en"}
+Scene 1048: {"Yang Hou'en"}
+Scene 1049: {"Yang Hou'en"}
+Scene 1050: {"Yang Hou'en"}
+Scene 1051: {"Yang Hou'en"}
+Scene 1052: {"Yang Hou'en"}
+Scene 1053: {"Yang Hou'en"}
+Scene 1054: {"Yang Hou'en"}
+Scene 1055: {"Yang Hou'en"}
+Scene 1056: {"Yang Hou'en"}
+Scene 1057: {"Yang Hou'en"}
+Scene 1058: {"Yang Hou'en"}
+Scene 1059: {"Yang Hou'en"}
+Scene 1060: {"Yang Hou'en"}
+Scene 1061: {"Yang Hou'en"}
+Scene 1062: {'Yang Shoudao'}
+Scene 1063: {"Yang Hou'en"}
+Scene 1064: {'Yang Shoudao'}
+Scene 1065: {'Yang Shoudao'}
+Scene 1066: {"Yang Hou'en"}
+Scene 1067: {"Yang Hou'en"}
+Scene 1068: {"Yang Hou'en"}
+Scene 1069: {'Yang Shoudao'}
+Scene 1070: {'Yang Shoudao'}
+Scene 1071: {'Yang Shoudao'}
+Scene 1072: {'Yang Shoudao'}
+Scene 1073: {'Yang Shoudao'}
+Scene 1074: {'Yang Shoudao'}
+Scene 1075: {'Yang Shoudao'}
+Scene 1076: {"Yang Hou'en"}
+Scene 1077: {"Yang Hou'en"}
+Scene 1078: {"Yang Hou'en"}
+Scene 1079: {"Yang Hou'en"}
+Scene 1080: {"Yang Hou'en"}
+Scene 1081: {"Yang Hou'en"}
+Scene 1082: {"Yang Hou'en"}
+Scene 1083: {"Yang Hou'en"}
+Scene 1084: {"Yang Hou'en"}
+Scene 1085: {"Yang Hou'en"}
+Scene 1086: {"Yang Hou'en"}
+Scene 1087: {"Yang Hou'en"}
+Scene 1088: {'Yang Shoudao'}
+Scene 1089: {'Yang Shoudao'}
+Scene 1090: {"Yang Hou'en"}
+Scene 1091: {"Yang Hou'en"}
+Scene 1092: {"Yang Hou'en"}
+Scene 1093: {"Yang Hou'en"}
+Scene 1094: {'Yang Shoudao'}
+Scene 1095: {'Yang Shoudao'}
+Scene 1096: {'Yang Shoudao'}
+Scene 1097: {'Yang Shoudao'}
+Scene 1098: {'Yang Shoudao'}
+Scene 1099: {'Yang Shoudao'}
+Scene 1100: {'Yang Shoudao'}
+Scene 1101: {'Yang Shoudao'}
+Scene 1102: {'Yang Shoudao'}
+Scene 1103: {'Yang Shoudao'}
+Scene 1104: {'Yang Shoudao'}
+Scene 1105: {'Yang Shoudao'}
+Scene 1106: {'Yang Shoudao'}
+Scene 1107: {'Yang Shoudao'}
+Scene 1108: {'Yang Shoudao'}
+Scene 1109: {"Yang Hou'en"}
+Scene 1110: {'Yang Shoudao'}
+Scene 1111: {'Yang Shoudao'}
+Scene 1112: {'Yang Shoudao'}
+Scene 1113: {'Yang Shoudao'}
+Scene 1114: {'Yang Shoudao'}
+Scene 1115: {"Yang Hou'en"}
+Scene 1116: {"Yang Hou'en"}
+Scene 1117: {"Yang Hou'en"}
+Scene 1118: {"Yang Hou'en"}
+Scene 1119: {"Yang Hou'en"}
+Scene 1120: {"Yang Hou'en"}
+Scene 1121: {"Yang Hou'en"}
+Scene 1122: {"Yang Hou'en"}
+Scene 1123: {"Yang Hou'en"}
+Scene 1124: {"Yang Hou'en"}
+Scene 1125: {"Yang Hou'en"}
+Scene 1126: {'Yang Shoudao'}
+Scene 1127: {'Yang Shoudao'}
+Scene 1128: {"Yang Hou'en"}
+Scene 1129: {'Yang Shoudao'}
+Scene 1130: {"Yang Hou'en inner voice"}
+Scene 1131: {"Yang Hou'en inner voice"}
+Scene 1132: {"Yang Hou'en inner voice"}
+Scene 1133: {"Yang Hou'en inner voice"}
+Scene 1134: {"Yang Hou'en inner voice"}
+Scene 1135: {"Yang Hou'en inner voice"}
+Scene 1136: {"Yang Hou'en inner voice"}
+Scene 1137: {"Yang Hou'en inner voice"}
+Scene 1138: {"Yang Hou'en inner voice"}
+Scene 1139: {"Yang Hou'en inner voice"}
+Scene 1140: {"Yang Hou'en inner voice"}
+Scene 1141: {"Yang Hou'en inner voice"}
+Scene 1142: {"Yang Hou'en inner voice"}
+Scene 1143: {"Yang Hou'en inner voice"}
+Scene 1144: {"Yang Hou'en inner voice"}
+Scene 1145: {"Yang Hou'en inner voice"}
+Scene 1146: {"Yang Hou'en inner voice"}
+Scene 1147: {"Yang Hou'en inner voice"}
+Scene 1148: {"Yang Hou'en"}
+Scene 1149: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1150: {"Yang Hou'en"}
+Scene 1151: {'Co-worker Zhou/Chen Ling/Li Jiayin/Xiang Yang'}
+Scene 1152: {"Yang Hou'en"}
+Scene 1153: {"Yang Hou'en"}
+Scene 1154: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1155: {"Yang Hou'en"}
+Scene 1156: {"Yang Hou'en"}
+Scene 1157: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1158: {'Co-worker Zhao'}
+Scene 1159: {'Sister Lin'}
+Scene 1160: {"Yang Hou'en"}
+Scene 1161: {"Yang Hou'en"}
+Scene 1162: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1163: {"Yang Hou'en"}
+Scene 1164: {"Yang Hou'en"}
+Scene 1165: {'Xiang Yang/Chen Ling/Li Jiayin/Brother Bai'}
+Scene 1166: {"Yang Hou'en"}
+Scene 1167: {'Congregation/Co-worker Zhou'}
+Scene 1168: {"Yang Hou'en"}
+Scene 1169: {'Co-worker Zhao/Sister Qiu/Co-worker Wu/Believer Feng/Co-worker Zhou'}
+Scene 1170: {"Yang Hou'en"}
+Scene 1171: {"Yang Hou'en"}
+Scene 1172: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1173: {"Yang Hou'en"}
+Scene 1174: {"Yang Hou'en"}
+Scene 1175: {'Believer Cao'}
+Scene 1176: {'Believer Liu'}
+Scene 1177: {'Believer Guo'}
+Scene 1178: {'Believer Hou'}
+Scene 1179: {'Believer Zhang'}
+Scene 1180: {'Co-worker Zhu'}
+Scene 1181: {'Co-worker Zhu'}
+Scene 1182: {'Believer Liu'}
+Scene 1183: {'Sister Lin'}
+Scene 1184: {'Sister Lin'}
+Scene 1185: {'Believer Feng/Believer Cao/Sister Wang'}
+Scene 1186: {"Yang Hou'en"}
+Scene 1187: {"Yang Hou'en"}
+Scene 1188: {'Co-worker Zhou/Brother Bai/Li Jiayin'}
+Scene 1189: {"Yang Hou'en"}
+Scene 1190: {"Yang Hou'en"}
+Scene 1191: {'Co-worker Zhou/Brother Bai/Co-worker Wu'}
+Scene 1192: {"Yang Hou'en"}
+Scene 1193: {"Yang Hou'en"}
+Scene 1194: {"Yang Hou'en"}
+Scene 1195: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Elder Brother'}
+Scene 1196: {'Brother Bai'}
+Scene 1197: {"Yang Hou'en"}
+Scene 1198: {"Yang Hou'en"}
+Scene 1199: {'Xiang Yang'}
+Scene 1200: {'Congregation'}
+Scene 1201: {"Yang Hou'en"}
+Scene 1202: {'Chen Ling'}
+Scene 1203: {'Co-worker Zhou/Brother Bai/Elder Brother/Brother Chen'}
+Scene 1204: {"Yang Hou'en"}
+Scene 1205: {'Li Jiayin'}
+Scene 1208: {"Yang Hou'en"}
+Scene 1209: {"Yang Hou'en"}
+Scene 1210: {"Yang Hou'en"}
+Scene 1211: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1212: {'Co-worker Zhu'}
+Scene 1213: {'Co-worker Zhu'}
+Scene 1214: {'Co-worker Zhu'}
+Scene 1215: {'Believer Liu'}
+Scene 1216: {'Co-worker Zhou'}
+Scene 1217: {'Co-worker Zhou'}
+Scene 1218: {'Co-worker Zhou'}
+Scene 1219: {'Co-worker Wu'}
+Scene 1220: {'Co-worker Zhou'}
+Scene 1221: {'Co-worker Zhou'}
+Scene 1222: {'Sister Qiu'}
+Scene 1223: {'Co-worker Zhou'}
+Scene 1224: {'Co-worker Zhou'}
+Scene 1225: {'Co-worker Zhou'}
+Scene 1226: {'Co-worker Zhou'}
+Scene 1227: {'Co-worker Wu'}
+Scene 1228: {'Chen Ling'}
+Scene 1229: {'Li Jiayin', 'Chen Ling'}
+Scene 1230: {'Chen Ling'}
+Scene 1231: {'Co-worker Wu'}
+Scene 1232: {'Chen Ling'}
+Scene 1233: {'Chen Ling'}
+Scene 1234: {'Chen Ling'}
+Scene 1235: {'Chen Ling'}
+Scene 1236: {'Chen Ling'}
+Scene 1237: {'Chen Ling'}
+Scene 1238: {'Chen Ling'}
+Scene 1239: {'Sister Lin/Sister Wang'}
+Scene 1240: {'Chen Ling'}
+Scene 1241: {'Chen Ling'}
+Scene 1242: {'Chen Ling'}
+Scene 1243: {'Chen Ling'}
+Scene 1244: {'Chen Ling'}
+Scene 1245: {'Chen Ling'}
+Scene 1246: {'Xiang Yang/Li Jiayin'}
+Scene 1247: {'Chen Ling'}
+Scene 1248: {'Chen Ling'}
+Scene 1249: {'Li Jiayin/Brother Bai/Sister Wang'}
+Scene 1250: {'Chen Ling'}
+Scene 1251: {'Chen Ling'}
+Scene 1252: {'Co-worker Zhao/Sister Qiu/Believer Zhang/Brother Bai'}
+Scene 1253: {'Chen Ling'}
+Scene 1254: {'Chen Ling'}
+Scene 1255: {'Chen Ling'}
+Scene 1256: {'Chen Ling'}
+Scene 1257: {'Chen Ling'}
+Scene 1258: {'Sister Qiu'}
+Scene 1259: {'Chen Ling'}
+Scene 1260: {'Chen Ling'}
+Scene 1261: {'Chen Ling'}
+Scene 1262: {"Yang Hou'en/Co-worker Zhou/Co-worker Zhao/Sister Qiu/Sister Wang", 'Chen Ling'}
+Scene 1263: {'Chen Ling'}
+Scene 1264: {'Chen Ling'}
+Scene 1265: {'Chen Ling'}
+Scene 1266: {'Sister Wang'}
+Scene 1267: {'Li Jiayin'}
+Scene 1268: {'Li Jiayin'}
+Scene 1269: {'Li Jiayin'}
+Scene 1270: {'Li Jiayin'}
+Scene 1271: {'Congregation'}
+Scene 1272: {'Li Jiayin'}
+Scene 1273: {'Li Jiayin'}
+Scene 1274: {'Li Jiayin'}
+Scene 1275: {'Li Jiayin'}
+Scene 1276: {'Li Jiayin'}
+Scene 1277: {'Congregation'}
+Scene 1278: {'Li Jiayin'}
+Scene 1279: {'Li Jiayin'}
+Scene 1280: {'Li Jiayin'}
+Scene 1281: {'Li Jiayin'}
+Scene 1282: {"Xiang Yang/Sister Wang/Yang Hou'en"}
+Scene 1283: {'Li Jiayin'}
+Scene 1284: {'Li Jiayin'}
+Scene 1285: {'Li Jiayin'}
+Scene 1286: {'Congregation'}
+Scene 1287: {'Li Jiayin'}
+Scene 1288: {'Li Jiayin'}
+Scene 1289: {'Brother Bai/Sister Wang/Believer Cao/Believer Feng/Elder Brother'}
+Scene 1290: {'Li Jiayin'}
+Scene 1291: {'Li Jiayin'}
+Scene 1292: {'Li Jiayin'}
+Scene 1293: {'Li Jiayin'}
+Scene 1294: {'Li Jiayin'}
+Scene 1295: {'Li Jiayin'}
+Scene 1296: {'Li Jiayin'}
+Scene 1297: {'Li Jiayin'}
+Scene 1298: {'Li Jiayin'}
+Scene 1299: {'Li Jiayin'}
+Scene 1300: {"Congregation/Yang Hou'en"}
+Scene 1301: {'Li Jiayin'}
+Scene 1302: {'Li Jiayin'}
+Scene 1303: {'Li Jiayin'}
+Scene 1304: {'Li Jiayin'}
+Scene 1305: {'Li Jiayin'}
+Scene 1306: {'Li Jiayin'}
+Scene 1307: {'Li Jiayin'}
+Scene 1308: {'Li Jiayin'}
+Scene 1309: {'Li Jiayin'}
+Scene 1310: {'Li Jiayin'}
+Scene 1311: {'Co-worker Zhou/Brother Bai/Sister Lin/Sister Wang/Elder Brother'}
+Scene 1312: {'Li Jiayin'}
+Scene 1313: {'Li Jiayin'}
+Scene 1314: {"Li Jiayin/Chen Ling/Believer Feng/Co-worker Zhou/Yang Hou'en"}
+Scene 1315: {"Li Jiayin/Chen Ling/Believer Feng/Co-worker Zhou/Yang Hou'en"}
+Scene 1316: {"Li Jiayin/Chen Ling/Believer Feng/Co-worker Zhou/Yang Hou'en"}
+Scene 1317: {"Li Jiayin/Chen Ling/Believer Feng/Co-worker Zhou/Yang Hou'en"}
+Scene 1318: {'Li Jiayin'}
+Scene 1319: {"Li Jiayin/Yang Hou'en/Co-worker Zhou/Sister Wang/Sister Lin"}
+Scene 1320: {"Li Jiayin/Yang Hou'en/Co-worker Zhou/Sister Wang/Sister Lin"}
+Scene 1321: {"Li Jiayin/Yang Hou'en/Co-worker Zhou/Sister Wang/Sister Lin"}
+Scene 1322: {"Li Jiayin/Yang Hou'en/Co-worker Zhou/Sister Wang/Sister Lin"}
+Scene 1323: {'Li Jiayin'}
+Scene 1324: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1325: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1326: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1327: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1328: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1329: {"Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en"}
+Scene 1330: {'Believer Feng', 'Co-worker Wu'}
+Scene 1331: {'Li Jiayin'}
+Scene 1332: {'Li Jiayin'}
+Scene 1333: {'Li Jiayin'}
+Scene 1334: {'Sister Wang'}
+Scene 1335: {'Li Jiayin'}
+Scene 1336: {'Li Jiayin'}
+Scene 1337: {'Li Jiayin'}
+Scene 1338: {'Co-worker Zhou/Co-worker Wu/Sister Wang/Brother Bai'}
+Scene 1339: {'Li Jiayin'}
+Scene 1340: {'Li Jiayin'}
+Scene 1341: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1342: {'Li Jiayin'}
+Scene 1343: {'Li Jiayin'}
+Scene 1344: {'Li Jiayin'}
+Scene 1345: {'Li Jiayin'}
+Scene 1346: {'Li Jiayin'}
+Scene 1347: {'Li Jiayin'}
+Scene 1348: {'Li Jiayin'}
+Scene 1349: {'Li Jiayin'}
+Scene 1350: {'Li Jiayin'}
+Scene 1351: {'Li Jiayin'}
+Scene 1352: {'Li Jiayin'}
+Scene 1353: {'Li Jiayin'}
+Scene 1354: {'Li Jiayin'}
+Scene 1355: {'Li Jiayin'}
+Scene 1356: {'Li Jiayin'}
+Scene 1357: {'Li Jiayin'}
+Scene 1358: {'Li Jiayin'}
+Scene 1359: {"Yang Hou'en/Brother Bai/Co-worker Zhou"}
+Scene 1360: {'Believer Hao'}
+Scene 1361: {'Believer Guo', 'Xiang Yang'}
+Scene 1362: {'Xiang Yang'}
+Scene 1363: {'Xiang Yang'}
+Scene 1364: {'Xiang Yang'}
+Scene 1365: {'Xiang Yang'}
+Scene 1366: {'Xiang Yang'}
+Scene 1367: {'Co-worker Wu/Co-worker Zhao/Believer Guo/Believer Feng/Sister Qiu'}
+Scene 1368: {'Xiang Yang'}
+Scene 1369: {'Xiang Yang'}
+Scene 1370: {'Xiang Yang'}
+Scene 1371: {'Xiang Yang'}
+Scene 1372: {'Xiang Yang'}
+Scene 1373: {'Xiang Yang'}
+Scene 1374: {'Xiang Yang'}
+Scene 1375: {'Xiang Yang'}
+Scene 1376: {'Xiang Yang'}
+Scene 1377: {'Xiang Yang'}
+Scene 1378: {'Xiang Yang'}
+Scene 1379: {"Brother Bai/Sister Wang/Co-worker Zhao/Yang Hou'en/Believer Feng"}
+Scene 1380: {'Brother Bai'}
+Scene 1381: {'Congregation'}
+Scene 1382: {'Xiang Yang'}
+Scene 1383: {'Chen Ling'}
+Scene 1384: {'Chen Ling'}
+Scene 1385: {'Chen Ling'}
+Scene 1386: {'Chen Ling'}
+Scene 1387: {'Chen Ling'}
+Scene 1388: {'Chen Ling'}
+Scene 1389: {'Chen Ling'}
+Scene 1390: {'Chen Ling'}
+Scene 1391: {'Chen Ling'}
+Scene 1392: {'Chen Ling'}
+Scene 1393: {'Co-worker Zhou/Brother Bai/Co-worker Zhao/Sister Wang/Sister Qiu', 'Chen Ling'}
+Scene 1394: {'Li Jiayin'}
+Scene 1395: {'Chen Ling'}
+Scene 1396: {'Li Jiayin'}
+Scene 1397: {'Li Jiayin'}
+Scene 1398: {'Li Jiayin'}
+Scene 1399: {'Li Jiayin'}
+Scene 1400: {'Li Jiayin'}
+Scene 1401: {'Li Jiayin'}
+Scene 1402: {'Li Jiayin'}
+Scene 1403: {'Li Jiayin'}
+Scene 1404: {'Li Jiayin'}
+Scene 1405: {'Li Jiayin'}
+Scene 1406: {'Li Jiayin'}
+Scene 1407: {'Li Jiayin'}
+Scene 1408: {'Li Jiayin'}
+Scene 1409: {'Li Jiayin'}
+Scene 1410: {'Li Jiayin'}
+Scene 1411: {'Li Jiayin'}
+Scene 1412: {'Li Jiayin'}
+Scene 1413: {'Li Jiayin'}
+Scene 1414: {'Li Jiayin'}
+Scene 1415: {'Li Jiayin'}
+Scene 1416: {'Li Jiayin'}
+Scene 1417: {'Li Jiayin'}
+Scene 1418: {'Li Jiayin'}
+Scene 1419: {'Li Jiayin'}
+Scene 1420: {'Li Jiayin'}
+Scene 1421: {'Li Jiayin'}
+Scene 1422: {'Li Jiayin'}
+Scene 1423: {'Li Jiayin'}
+Scene 1424: {'Li Jiayin'}
+Scene 1425: {'Li Jiayin'}
+Scene 1426: {'Li Jiayin'}
+Scene 1427: {'Li Jiayin'}
+Scene 1428: {'Li Jiayin'}
+Scene 1429: {'Li Jiayin'}
+Scene 1430: {'Li Jiayin'}
+Scene 1431: {'Li Jiayin'}
+Scene 1432: {'Li Jiayin'}
+Scene 1433: {'Li Jiayin'}
+Scene 1434: {'Li Jiayin'}
+Scene 1435: {'Li Jiayin'}
+Scene 1436: {'Li Jiayin'}
+Scene 1437: {'Li Jiayin'}
+Scene 1438: {'Li Jiayin'}
+Scene 1439: {'Li Jiayin'}
+Scene 1440: {'Li Jiayin'}
+Scene 1441: {'Li Jiayin'}
+Scene 1442: {'Li Jiayin'}
+Scene 1443: {'Li Jiayin'}
+Scene 1444: {'Li Jiayin'}
+Scene 1445: {'Li Jiayin'}
+Scene 1446: {'Li Jiayin'}
+Scene 1447: {'Li Jiayin', 'Brother Bai/Sister Qiu/Sister Wang/Co-worker Zhou/Sister Qiu'}
+Scene 1448: {'Congregation'}
+Scene 1449: {'Chen Ling'}
+Scene 1450: {'Chen Ling'}
+Scene 1451: {'Chen Ling'}
+Scene 1452: {'Chen Ling'}
+Scene 1453: {'Chen Ling'}
+Scene 1454: {'Chen Ling'}
+Scene 1455: {'Chen Ling'}
+Scene 1456: {'Chen Ling'}
+Scene 1457: {'Chen Ling'}
+Scene 1458: {'Chen Ling'}
+Scene 1459: {'Chen Ling'}
+Scene 1460: {'Chen Ling'}
+Scene 1461: {'Chen Ling'}
+Scene 1462: {'Chen Ling'}
+Scene 1463: {'Chen Ling'}
+Scene 1464: {'Chen Ling'}
+Scene 1465: {'Brother Bai/Sister Qiu/Co-worker Zhou/Sister Wang/Co-worker Zhao'}
+Scene 1466: {'Congregation'}
+Scene 1467: {'Li Jiayin'}
+Scene 1468: {'Co-worker Zhao'}
+Scene 1469: {'Co-worker Zhao'}
+Scene 1470: {'Co-worker Zhao'}
+Scene 1471: {'Co-worker Zhao'}
+Scene 1472: {'Co-worker Zhao'}
+Scene 1473: {'Co-worker Zhao'}
+Scene 1474: {'Co-worker Zhao'}
+Scene 1475: {'Co-worker Zhao'}
+Scene 1476: {'Co-worker Zhao'}
+Scene 1477: {'Co-worker Zhao'}
+Scene 1478: {'Co-worker Zhao'}
+Scene 1479: {'Co-worker Zhao'}
+Scene 1480: {'Co-worker Zhao'}
+Scene 1481: {'Co-worker Zhao'}
+Scene 1482: {'Co-worker Zhao'}
+Scene 1483: {'Co-worker Zhao'}
+Scene 1484: {'Co-worker Zhao'}
+Scene 1485: {"Sister Qiu/Co-worker Zhao/Brother Bai/Co-worker Zhou/Yang Hou'en/Li Jiayin"}
+Scene 1486: {'Co-worker Zhou/Brother Bai', "Yang Hou'en"}
+Scene 1487: {'Brother Bai', "Yang Hou'en"}
+Scene 1488: {'Co-worker Zhou'}
+Scene 1489: {'Co-worker Zhou', "Yang Hou'en"}
+Scene 1490: {'Xiang Yang'}
+Scene 1491: {'Xiang Yang'}
+Scene 1492: {'Sister Lin/Sister Wang/Co-worker Zhou/Brother Bai/Co-worker Zhao'}
+Scene 1493: {'Xiang Yang'}
+Scene 1494: {'Xiang Yang'}
+Scene 1495: {'Xiang Yang'}
+Scene 1496: {'Xiang Yang'}
+Scene 1497: {'Xiang Yang'}
+Scene 1498: {'Xiang Yang'}
+Scene 1499: {'Xiang Yang'}
+Scene 1500: {'Xiang Yang'}
+Scene 1501: {'Xiang Yang'}
+Scene 1502: {'Xiang Yang'}
+Scene 1503: {'Xiang Yang'}
+Scene 1504: {'Xiang Yang'}
+Scene 1505: {'Xiang Yang'}
+Scene 1506: {'Xiang Yang'}
+Scene 1507: {'Xiang Yang'}
+Scene 1508: {'Xiang Yang'}
+Scene 1509: {'Xiang Yang'}
+Scene 1510: {'Xiang Yang'}
+Scene 1511: {'Xiang Yang'}
+Scene 1512: {'Xiang Yang'}
+Scene 1513: {'Xiang Yang'}
+Scene 1514: {'Xiang Yang'}
+Scene 1515: {'Xiang Yang'}
+Scene 1516: {'Xiang Yang'}
+Scene 1517: {'Xiang Yang'}
+Scene 1518: {'Xiang Yang'}
+Scene 1519: {'Xiang Yang'}
+Scene 1520: {'Xiang Yang'}
+Scene 1521: {'Sister Qiu'}
+Scene 1522: {'Sister Qiu', 'Chen Ling'}
+Scene 1523: {'Chen Ling'}
+Scene 1524: {'Chen Ling'}
+Scene 1525: {'Chen Ling'}
+Scene 1526: {'Chen Ling'}
+Scene 1527: {'Chen Ling'}
+Scene 1528: {'Chen Ling'}
+Scene 1529: {'Chen Ling'}
+Scene 1530: {'Co-worker Zhao/Sister Qiu/Sister Wang/Co-worker Zhou'}
+Scene 1531: {'Chen Ling'}
+Scene 1532: {'Chen Ling'}
+Scene 1533: {'Chen Ling'}
+Scene 1534: {'Chen Ling'}
+Scene 1535: {'Chen Ling'}
+Scene 1536: {'Chen Ling'}
+Scene 1537: {'Xiang Yang/Sister Wang/Co-worker Zhou/Co-worker Wu'}
+Scene 1538: {'Congregation'}
+Scene 1539: {'Sister Wang'}
+Scene 1540: {'Chen Ling'}
+Scene 1541: {'Sister Wang'}
+Scene 1542: {'Sister Wang'}
+Scene 1543: {'Sister Wang'}
+Scene 1544: {'Sister Wang'}
+Scene 1545: {'Sister Wang'}
+Scene 1546: {'Sister Wang'}
+Scene 1547: {'Sister Wang'}
+Scene 1548: {'Sister Wang'}
+Scene 1549: {'Sister Wang'}
+Scene 1550: {'Sister Wang'}
+Scene 1551: {'Sister Wang'}
+Scene 1552: {'Sister Wang'}
+Scene 1553: {'Sister Wang'}
+Scene 1554: {'Sister Wang'}
+Scene 1555: {'Sister Wang'}
+Scene 1556: {'Sister Wang'}
+Scene 1557: {'Sister Wang'}
+Scene 1558: {'Sister Wang'}
+Scene 1559: {'Sister Wang'}
+Scene 1560: {'Sister Wang'}
+Scene 1561: {'Sister Qiu/Co-worker Wu/Believer Feng/Brother Bai/Co-worker Zhao'}
+Scene 1562: {'Co-worker Zhou'}
+Scene 1563: {'Co-worker Zhou'}
+Scene 1564: {'Brother Bai'}
+Scene 1565: {'Sister Wang'}
+Scene 1566: {'Chen Ling'}
+Scene 1567: {'Li Jiayin'}
+Scene 1568: {'Chen Ling'}
+Scene 1569: {'Li Jiayin'}
+Scene 1570: {'Li Jiayin'}
+Scene 1571: {'Li Jiayin'}
+Scene 1572: {'Li Jiayin'}
+Scene 1573: {'Li Jiayin'}
+Scene 1574: {'Li Jiayin'}
+Scene 1575: {'Li Jiayin'}
+Scene 1576: {'Li Jiayin'}
+Scene 1577: {'Li Jiayin'}
+Scene 1578: {'Li Jiayin'}
+Scene 1579: {'Li Jiayin'}
+Scene 1580: {'Li Jiayin'}
+Scene 1581: {'Li Jiayin'}
+Scene 1582: {'Li Jiayin'}
+Scene 1583: {'Li Jiayin'}
+Scene 1584: {'Li Jiayin'}
+Scene 1585: {'Li Jiayin'}
+Scene 1586: {'Li Jiayin'}
+Scene 1587: {'Li Jiayin'}
+Scene 1588: {'Li Jiayin'}
+Scene 1589: {'Li Jiayin'}
+Scene 1590: {'Li Jiayin'}
+Scene 1591: {'Li Jiayin'}
+Scene 1592: {'Li Jiayin'}
+Scene 1593: {'Li Jiayin'}
+Scene 1594: {'Li Jiayin'}
+Scene 1595: {'Li Jiayin'}
+Scene 1596: {'Li Jiayin'}
+Scene 1597: {'Li Jiayin'}
+Scene 1598: {'Li Jiayin'}
+Scene 1599: {'Li Jiayin'}
+Scene 1600: {'Li Jiayin'}
+Scene 1601: {'Li Jiayin'}
+Scene 1602: {'Li Jiayin'}
+Scene 1603: {'Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1604: {'Li Jiayin'}
+Scene 1605: {'Li Jiayin'}
+Scene 1606: {'Li Jiayin'}
+Scene 1607: {'Li Jiayin'}
+Scene 1608: {'Li Jiayin'}
+Scene 1609: {'Li Jiayin'}
+Scene 1610: {'Li Jiayin'}
+Scene 1611: {'Li Jiayin'}
+Scene 1612: {'Co-worker Zhou/Brother Bai/Sister Wang/Brother Bai'}
+Scene 1613: {'Believer Hao'}
+Scene 1614: {'Believer Hou'}
+Scene 1615: {'Believer Guo'}
+Scene 1616: {'Li Jiayin'}
+Scene 1617: {'Li Jiayin'}
+Scene 1618: {'Li Jiayin'}
+Scene 1619: {'Li Jiayin'}
+Scene 1620: {'Li Jiayin'}
+Scene 1621: {'Li Jiayin'}
+Scene 1622: {'Li Jiayin'}
+Scene 1623: {'Li Jiayin'}
+Scene 1624: {'Li Jiayin'}
+Scene 1625: {'Li Jiayin'}
+Scene 1626: {'Sister Lin/Believer Hao/Believer Feng/Believer Hou'}
+Scene 1627: {'Li Jiayin'}
+Scene 1628: {'Li Jiayin'}
+Scene 1629: {'Brother Bai/Co-worker Zhou/Elder Brother'}
+Scene 1630: {'Li Jiayin'}
+Scene 1631: {'Li Jiayin'}
+Scene 1632: {'Li Jiayin'}
+Scene 1633: {'Li Jiayin'}
+Scene 1634: {'Li Jiayin'}
+Scene 1635: {'Li Jiayin'}
+Scene 1636: {'Li Jiayin'}
+Scene 1637: {'Believer Zhang/Sister Lin/Believer Hao/Believer Cao'}
+Scene 1638: {'Li Jiayin'}
+Scene 1639: {'Li Jiayin'}
+Scene 1640: {'Li Jiayin'}
+Scene 1641: {'Li Jiayin'}
+Scene 1642: {'Li Jiayin'}
+Scene 1643: {'Li Jiayin'}
+Scene 1644: {'Congregation'}
+Scene 1645: {'Brother Bai'}
+Scene 1646: {'Co-worker Zhou'}
+Scene 1647: {'Elder Brother'}
+Scene 1648: {"Yang Hou'en"}
+Scene 1649: {'Co-worker Zhou/Brother Bai'}
+Scene 1650: {'Li Jiayin'}
+Scene 1651: {'Chen Ling'}
+Scene 1652: {'Xiang Yang'}
+Scene 1653: {'Xiang Yang'}
+Scene 1654: {'Xiang Yang'}
+Scene 1655: {'Xiang Yang'}
+Scene 1656: {'Xiang Yang'}
+Scene 1657: {'Co-worker Zhao/Sister Qiu/Co-worker Wu/Brother Bai/Believer Hao'}
+Scene 1658: {'Xiang Yang'}
+Scene 1659: {'Xiang Yang'}
+Scene 1660: {'Xiang Yang'}
+Scene 1661: {'Xiang Yang'}
+Scene 1662: {'Xiang Yang'}
+Scene 1663: {"Co-worker Zhou/Yang Hou'en/Sister Wang"}
+Scene 1664: {'Xiang Yang'}
+Scene 1665: {'Xiang Yang'}
+Scene 1666: {'Xiang Yang'}
+Scene 1667: {'Xiang Yang'}
+Scene 1668: {'Xiang Yang'}
+Scene 1669: {'Xiang Yang'}
+Scene 1670: {'Xiang Yang'}
+Scene 1671: {'Sister Qiu/Believer Hao'}
+Scene 1672: {'Xiang Yang'}
+Scene 1673: {'Xiang Yang'}
+Scene 1674: {'Xiang Yang'}
+Scene 1675: {'Believer Feng/Sister Wang/Brother Bai/Co-worker Zhou/Sister Lin'}
+Scene 1676: {'Xiang Yang'}
+Scene 1677: {'Xiang Yang'}
+Scene 1678: {'Xiang Yang'}
+Scene 1679: {"Yang Hou'en/Li Jiayin"}
+Scene 1680: {'Xiang Yang'}
+Scene 1681: {'Xiang Yang'}
+Scene 1682: {'Xiang Yang'}
+Scene 1683: {'Xiang Yang'}
+Scene 1684: {"Li Jiayin/Yang Hou'en/", 'Xiang Yang'}
+Scene 1685: {'Xiang Yang'}
+Scene 1686: {"Sister Wang/Co-worker Zhao/Yang Hou'en/Brother Bai"}
+Scene 1687: {'Xiang Yang'}
+Scene 1688: {'Believer Hao/Believer Hou'}
+Scene 1689: {'Xiang Yang'}
+Scene 1690: {'Sister Wang/Brother Bai/Elder Brother/Believer Feng/Sister Qiu'}
+Scene 1691: {'Xiang Yang'}
+Scene 1692: {'Xiang Yang'}
+Scene 1693: {'Xiang Yang'}
+Scene 1694: {'Chen Ling/Believer Hao'}
+Scene 1695: {'Xiang Yang'}
+Scene 1696: {'Chen Ling/Believer Cao'}
+Scene 1697: {'Xiang Yang'}
+Scene 1698: {'Xiang Yang'}
+Scene 1699: {'Believer Guo'}
+Scene 1700: {'Xiang Yang'}
+Scene 1701: {'Xiang Yang'}
+Scene 1702: {'Xiang Yang'}
+Scene 1703: {'Xiang Yang'}
+Scene 1704: {'Xiang Yang'}
+Scene 1705: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Brother Bai/Believer Feng/Believer Cao'}
+Scene 1706: {'Xiang Yang'}
+Scene 1707: {'Xiang Yang'}
+Scene 1708: {'Xiang Yang'}
+Scene 1709: {'Xiang Yang'}
+Scene 1710: {'Xiang Yang'}
+Scene 1711: {'Xiang Yang'}
+Scene 1712: {'Brother Bai/Elder Brother/Sister Wang/Sister Lin'}
+Scene 1713: {'Xiang Yang'}
+Scene 1714: {'Xiang Yang'}
+Scene 1715: {'Xiang Yang'}
+Scene 1716: {'Chen Ling'}
+Scene 1717: {'Xiang Yang'}
+Scene 1718: {'Xiang Yang'}
+Scene 1719: {'Xiang Yang'}
+Scene 1720: {'Xiang Yang'}
+Scene 1721: {"Yang Hou'en/Brother Bai/Elder Brother/Sister Wang/Sister Lin"}
+Scene 1722: {'Sister Wang'}
+Scene 1723: {'Xiang Yang'}
+Scene 1724: {'Xiang Yang'}
+Scene 1725: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1726: {'Believer Cao'}
+Scene 1727: {'Congregation'}
+Scene 1728: {'Elder Brother'}
+Scene 1729: {'Elder Brother'}
+Scene 1730: {'Elder Brother'}
+Scene 1731: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1732: {"Yang Hou'en"}
+Scene 1733: {"Yang Hou'en"}
+Scene 1734: {'Brother Bai/Sister Wang/Sister Qiu'}
+Scene 1735: {"Yang Hou'en"}
+Scene 1736: {"Yang Hou'en"}
+Scene 1737: {'Brother Bai/Co-worker Zhou/Elder Brother/Sister Wang'}
+Scene 1738: {"Yang Hou'en"}
+Scene 1739: {"Yang Hou'en"}
+Scene 1740: {"Yang Hou'en"}
+Scene 1741: {"Yang Hou'en"}
+Scene 1742: {'Xiang Yang/Brother Bai/Elder Brother/Co-worker Zhou'}
+Scene 1743: {'Li Jiayin/Chen Ling'}
+Scene 1744: {"Yang Hou'en"}
+Scene 1745: {"Yang Hou'en"}
+Scene 1746: {"Yang Hou'en"}
+Scene 1747: {"Yang Hou'en"}
+Scene 1748: {"Yang Hou'en"}
+Scene 1749: {'Sister Qiu/Co-worker Zhao/Beiever Zhang/Believer Feng'}
+Scene 1750: {'Sister Lin'}
+Scene 1751: {'Sister Lin'}
+Scene 1752: {'Sister Lin'}
+Scene 1753: {'Sister Lin'}
+Scene 1754: {'Sister Lin'}
+Scene 1755: {'Xiang Yang/Li Jiayin/Chen Ling'}
+Scene 1756: {'Sister Lin'}
+Scene 1757: {'Sister Lin'}
+Scene 1758: {'Sister Lin'}
+Scene 1759: {'Brother Bai/Co-worker Zhou/Sister Wang'}
+Scene 1760: {'Sister Lin'}
+Scene 1761: {'Sister Lin'}
+Scene 1762: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1763: {'Chen Ling/Xiang Yang/Li Jiayin'}
+Scene 1764: {'Believer Feng'}
+Scene 1765: {'Chen Ling'}
+Scene 1766: {'Believer Feng'}
+Scene 1767: {'Believer Feng'}
+Scene 1768: {'Believer Feng'}
+Scene 1769: {'Believer Feng'}
+Scene 1770: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1771: {'Believer Liu'}
+Scene 1772: {'Believer Liu'}
+Scene 1773: {'Believer Liu'}
+Scene 1774: {'Believer Liu'}
+Scene 1775: {'Chen Ling'}
+Scene 1776: {'Chen Ling'}
+Scene 1777: {'Li Jiayin'}
+Scene 1778: {'Chen Ling'}
+Scene 1779: {'Chen Ling'}
+Scene 1780: {'Chen Ling'}
+Scene 1781: {'Chen Ling'}
+Scene 1782: {'Chen Ling'}
+Scene 1783: {'Chen Ling'}
+Scene 1784: {'Chen Ling'}
+Scene 1785: {'Chen Ling'}
+Scene 1786: {'Chen Ling'}
+Scene 1787: {'Chen Ling'}
+Scene 1788: {'Chen Ling'}
+Scene 1789: {'Chen Ling'}
+Scene 1790: {'Chen Ling'}
+Scene 1791: {'Chen Ling'}
+Scene 1792: {'Chen Ling'}
+Scene 1793: {'Xiang Yang/Li Jiayin'}
+Scene 1794: {'Believer Feng/Co-worker Wu/Sister Qiu'}
+Scene 1795: {'Chen Ling'}
+Scene 1796: {'Brother Bai/Sister Qiu/Co-worker Zhao/Believer Feng'}
+Scene 1797: {'Li Jiayin'}
+Scene 1798: {'Li Jiayin'}
+Scene 1799: {'Li Jiayin'}
+Scene 1800: {'Li Jiayin'}
+Scene 1801: {'Li Jiayin'}
+Scene 1802: {'Li Jiayin'}
+Scene 1803: {'Li Jiayin'}
+Scene 1804: {'Li Jiayin'}
+Scene 1805: {'Li Jiayin'}
+Scene 1806: {'Li Jiayin'}
+Scene 1807: {'Li Jiayin'}
+Scene 1808: {'Li Jiayin'}
+Scene 1809: {'Li Jiayin'}
+Scene 1810: {'Li Jiayin'}
+Scene 1811: {'Believer Guo'}
+Scene 1812: {'Co-worker Zhou'}
+Scene 1813: {'Co-worker Zhou'}
+Scene 1814: {'Brother Bai'}
+Scene 1815: {'Brother Bai', 'Chen Ling'}
+Scene 1816: {'Chen Ling'}
+Scene 1817: {'Li Jiayin'}
+Scene 1818: {'Chen Ling'}
+Scene 1819: {'Chen Ling'}
+Scene 1820: {'Chen Ling'}
+Scene 1821: {'Chen Ling'}
+Scene 1822: {'Chen Ling'}
+Scene 1823: {'Chen Ling'}
+Scene 1824: {'Chen Ling'}
+Scene 1825: {'Chen Ling'}
+Scene 1826: {'Chen Ling'}
+Scene 1827: {'Chen Ling'}
+Scene 1828: {'Chen Ling'}
+Scene 1829: {'Chen Ling'}
+Scene 1830: {'Chen Ling'}
+Scene 1831: {'Chen Ling'}
+Scene 1832: {'Chen Ling'}
+Scene 1833: {'Chen Ling'}
+Scene 1834: {'Chen Ling'}
+Scene 1835: {'Chen Ling'}
+Scene 1836: {'Chen Ling'}
+Scene 1837: {'Chen Ling'}
+Scene 1838: {'Chen Ling'}
+Scene 1839: {'Chen Ling'}
+Scene 1840: {'Chen Ling'}
+Scene 1841: {'Li Jiayin/Xiang Yang/Brother Bai/Co-worker Zhou'}
+Scene 1842: {'Chen Ling'}
+Scene 1843: {'Chen Ling'}
+Scene 1844: {'Chen Ling'}
+Scene 1845: {'Chen Ling'}
+Scene 1846: {'Chen Ling'}
+Scene 1847: {'Co-worker Zhou/Brother Bai/Believer Feng/Sister Lin'}
+Scene 1848: {'Chen Ling'}
+Scene 1849: {'Chen Ling'}
+Scene 1850: {'Chen Ling'}
+Scene 1851: {'Co-worker Zhou/Brother Bai/Elder Brother'}
+Scene 1852: {'Chen Ling'}
+Scene 1853: {'Chen Ling'}
+Scene 1854: {'Co-worker Wu/Co-worker Zhao/Sister Qiu/Believer Feng'}
+Scene 1855: {'Chen Ling'}
+Scene 1856: {'Chen Ling'}
+Scene 1857: {'Sister Zhao/Sister Qiu/Believer Feng/Co-worker Wu/Believer Hao/Believer Hou'}
+Scene 1858: {'Chen Ling'}
+Scene 1859: {'Chen Ling'}
+Scene 1860: {'Chen Ling'}
+Scene 1861: {'Chen Ling'}
+Scene 1862: {'Chen Ling'}
+Scene 1863: {'Chen Ling'}
+Scene 1864: {'Chen Ling'}
+Scene 1865: {'Chen Ling'}
+Scene 1866: {"Yang Hou'en"}
+Scene 1867: {'Chen Ling'}
+Scene 1868: {'Xiang Yang/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1869: {'Chen Ling'}
+Scene 1870: {'Xiang Yang/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1871: {'Brother Bai'}
+Scene 1872: {'Co-worker Zhou'}
+Scene 1873: {"Yang Hou'en"}
+Scene 1874: {'Xiang Yang'}
+Scene 1875: {'Xiang Yang'}
+Scene 1876: {'Xiang Yang'}
+Scene 1877: {"Yang Hou'en/Li Jiayin/Chen Ling"}
+Scene 1878: {'Xiang Yang'}
+Scene 1879: {'Xiang Yang'}
+Scene 1880: {"Yang Hou'en/Li Jiayin"}
+Scene 1881: {'Xiang Yang'}
+Scene 1882: {'Xiang Yang'}
+Scene 1883: {"Brother Bai/Co-worker Zhou/Sister Wang/Yang Hou'en/Elder Brother", 'Xiang Yang'}
+Scene 1884: {'Xiang Yang'}
+Scene 1885: {'Co-worker Wu/Believer Feng/Brother Bai/Believer Hao/Co-worker Zhao/Sister Qiu'}
+Scene 1886: {'Recital'}
+Scene 1887: {'Recital'}
+Scene 1888: {'Recital'}
+Scene 1889: {'Recital'}
+Scene 1890: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1891: {'Recital'}
+Scene 1892: {'Recital'}
+Scene 1893: {'Recital'}
+Scene 1894: {'Recital'}
+Scene 1895: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1896: {'Recital'}
+Scene 1897: {'Recital'}
+Scene 1898: {'Recital'}
+Scene 1899: {'Recital'}
+Scene 1900: {'Recital'}
+Scene 1901: {'Recital'}
+Scene 1902: {'Recital'}
+Scene 1903: {'Recital'}
+Scene 1904: {'Recital'}
+Scene 1905: {'Recital'}
+Scene 1906: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1907: {'Recital'}
+Scene 1908: {'Recital'}
+Scene 1909: {'Recital'}
+Scene 1910: {'Recital'}
+Scene 1911: {'Recital'}
+Scene 1912: {'Recital'}
+Scene 1913: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1914: {'Recital'}
+Scene 1915: {'Recital'}
+Scene 1916: {'Recital'}
+Scene 1917: {'Recital'}
+Scene 1918: {'Recital'}
+Scene 1919: {'Recital'}
+Scene 1920: {'Recital'}
+Scene 1921: {"Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Yang Hou'en"}
+Scene 1922: {'Recital'}
+Scene 1923: {'Recital'}
+Scene 1924: {'Recital'}
+Scene 1925: {'Recital'}
+Scene 1926: {'Recital'}
+Scene 1927: {'Recital'}
+Scene 1928: {"Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Yang Hou'en"}
+Scene 1929: {'Recital'}
+Scene 1930: {"Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Yang Hou'en"}
+Scene 1931: {'Xiang Yang'}
+Scene 1932: {'Xiang Yang'}
+Scene 1933: {'Xiang Yang'}
+Scene 1934: {'Xiang Yang'}
+Scene 1935: {'Xiang Yang'}
+Scene 1936: {'Xiang Yang'}
+Scene 1937: {'Xiang Yang'}
+Scene 1938: {'Xiang Yang'}
+Scene 1939: {'Believer Hao/Brother Bai/Sister Wang/Sister Lin/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu'}
+Scene 1940: {'Xiang Yang'}
+Scene 1941: {'Xiang Yang'}
+Scene 1942: {'Xiang Yang'}
+Scene 1943: {'Xiang Yang'}
+Scene 1944: {'Xiang Yang'}
+Scene 1945: {'Xiang Yang'}
+Scene 1946: {'Xiang Yang'}
+Scene 1947: {"Yang Hou'en/Brother Bai/Elder Brother/Co-worker Zhou"}
+Scene 1948: {'Xiang Yang'}
+Scene 1949: {'Xiang Yang'}
+Scene 1950: {'Xiang Yang'}
+Scene 1951: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1952: {'Xiang Yang'}
+Scene 1953: {'Xiang Yang'}
+Scene 1954: {'Xiang Yang'}
+Scene 1955: {"Yang Hou'en/Co-worker Zhou"}
+Scene 1956: {'Xiang Yang'}
+Scene 1957: {'Xiang Yang'}
+Scene 1958: {'Brother Bai/Sister Wang/Sister Lin/Co-worker Zhou'}
+Scene 1959: {'Xiang Yang'}
+Scene 1960: {'Xiang Yang'}
+Scene 1961: {'Xiang Yang'}
+Scene 1962: {'Xiang Yang'}
+Scene 1963: {'Xiang Yang'}
+Scene 1964: {"Li Jiayin/Chen Ling/Yang Hou'en"}
+Scene 1965: {'Xiang Yang'}
+Scene 1966: {'Xiang Yang'}
+Scene 1967: {'Xiang Yang'}
+Scene 1968: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1969: {'Xiang Yang'}
+Scene 1970: {'Xiang Yang'}
+Scene 1971: {'Xiang Yang'}
+Scene 1972: {'Xiang Yang'}
+Scene 1973: {'Xiang Yang'}
+Scene 1974: {'Xiang Yang'}
+Scene 1975: {'Xiang Yang'}
+Scene 1976: {'Xiang Yang'}
+Scene 1977: {'Xiang Yang'}
+Scene 1978: {"Yang Hou'en"}
+Scene 1979: {'Xiang Yang'}
+Scene 1980: {'Xiang Yang'}
+Scene 1981: {'Xiang Yang'}
+Scene 1982: {'Co-worker Zhao/Sister Wang/Sister Lin/Co-worker Wu', 'Xiang Yang'}
+Scene 1983: {'Xiang Yang'}
+Scene 1984: {'Xiang Yang'}
+Scene 1985: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 1986: {'Believer Cao'}
+Scene 1987: {'Xiang Yang'}
+Scene 1988: {'Xiang Yang'}
+Scene 1989: {'Xiang Yang'}
+Scene 1990: {'Xiang Yang'}
+Scene 1991: {'Xiang Yang'}
+Scene 1992: {'Xiang Yang'}
+Scene 1993: {"Yang Hou'en/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai"}
+Scene 1994: {'Xiang Yang'}
+Scene 1995: {'Xiang Yang'}
+Scene 1996: {'Co-worker Wu/Believer Feng/Co-worker Zhou/Brother Bai'}
+Scene 1997: {'Xiang Yang'}
+Scene 1998: {'Xiang Yang'}
+Scene 1999: {'Xiang Yang'}
+Scene 2000: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 2001: {'Xiang Yang'}
+Scene 2002: {'Xiang Yang'}
+Scene 2003: {"Yang Hou'en/Co-worker Zhou/Brother Bai/Elder Brother"}
+Scene 2004: {'Xiang Yang'}
+Scene 2005: {'Xiang Yang'}
+Scene 2006: {'Xiang Yang'}
+Scene 2007: {'Xiang Yang'}
+Scene 2008: {'Xiang Yang'}
+Scene 2009: {'Xiang Yang'}
+Scene 2010: {'Co-worker Zhou/Brother Bai'}
+Scene 2011: {'Xiang Yang'}
+Scene 2012: {'Xiang Yang'}
+Scene 2013: {'Xiang Yang'}
+Scene 2014: {'Xiang Yang'}
+Scene 2015: {'Xiang Yang'}
+Scene 2016: {"Yang Hou'en/Co-worker Zhou"}
+Scene 2017: {'Xiang Yang'}
+Scene 2018: {'Xiang Yang'}
+Scene 2019: {'Sister Lin/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 2020: {'Co-worker Zhou'}
+Scene 2021: {'Co-worker Zhou'}
+Scene 2022: {'Chen Ling/Xiang Yang/Li Jiayin'}
+Scene 2023: {'Co-worker Zhou'}
+Scene 2024: {"Believer Feng/Yang Hou'en/Brother Bai/Sister Wang/Co-worker Zhou/Co-worker Wu"}
+Scene 2025: {'Co-worker Zhou'}
+Scene 2026: {'Co-worker Zhou'}
+Scene 2027: {'Chen Ling/Xiang Yang/Li Jiayin/Co-worker Zhao/Sister Qiu'}
+Scene 2028: {'Believer Guo'}
+Scene 2029: {'Sister Wang'}
+Scene 2030: {'Sister Wang'}
+Scene 2031: {'Sister Lin'}
+Scene 2032: {'Sister Wang'}
+Scene 2033: {'Sister Lin'}
+Scene 2034: {'Co-worker Wu'}
+Scene 2035: {'Co-worker Wu'}
+Scene 2036: {'Co-worker Wu'}
+Scene 2037: {'Co-worker Wu'}
+Scene 2038: {'Co-worker Zhao/Sister Qiu'}
+Scene 2039: {'Co-worker Wu'}
+Scene 2040: {'Co-worker Wu'}
+Scene 2041: {'Chen Ling/Xiang Yang/Li Jiayin'}
+Scene 2042: {'Co-worker Wu'}
+Scene 2043: {'Co-worker Wu'}
+Scene 2044: {'Co-worker Wu'}
+Scene 2045: {'Co-worker Wu'}
+Scene 2046: {"Yang Hou'en"}
+Scene 2047: {"Yang Hou'en"}
+Scene 2048: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Xiang Yang', "Yang Hou'en"}
+Scene 2049: {"Yang Hou'en"}
+Scene 2050: {"Yang Hou'en"}
+Scene 2051: {"Yang Hou'en"}
+Scene 2052: {"Yang Hou'en"}
+Scene 2053: {"Yang Hou'en"}
+Scene 2054: {"Yang Hou'en"}
+Scene 2055: {"Yang Hou'en"}
+Scene 2056: {"Yang Hou'en"}
+Scene 2057: {"Yang Hou'en"}
+Scene 2058: {"Yang Hou'en"}
+Scene 2059: {"Yang Hou'en"}
+Scene 2060: {"Yang Hou'en"}
+Scene 2061: {"Yang Hou'en"}
+Scene 2062: {"Yang Hou'en"}
+Scene 2063: {"Yang Hou'en"}
+Scene 2064: {"Yang Hou'en"}
+Scene 2065: {"Yang Hou'en"}
+Scene 2066: {"Yang Hou'en"}
+Scene 2067: {'Sister Lin/Sister Wang'}
+Scene 2068: {"Yang Hou'en"}
+Scene 2069: {'Co-worker Wu'}
+Scene 2070: {"Yang Hou'en"}
+Scene 2071: {'Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai'}
+Scene 2072: {'Co-worker Wu/Believer Feng/Li Jiayin'}
+Scene 2073: {'Li Jiayin'}
+Scene 2074: {"Yang Hou'en"}
+Scene 2075: {"Yang Hou'en"}
+Scene 2076: {'Li Jiayin/Sister Zhao'}
+Scene 2077: {"Yang Hou'en"}
+Scene 2078: {'Li Jiayin'}
+Scene 2079: {"Yang Hou'en"}
+Scene 2080: {'Sister Zhao'}
+Scene 2081: {"Yang Hou'en"}
+Scene 2082: {"Yang Hou'en"}
+Scene 2083: {"Yang Hou'en"}
+Scene 2084: {'Li Jiayin'}
+Scene 2085: {"Yang Hou'en"}
+Scene 2086: {"Yang Hou'en"}
+Scene 2087: {'Li Jiayin/Sister Zhao'}
+Scene 2088: {"Yang Hou'en"}
+Scene 2089: {"Yang Hou'en"}
+Scene 2090: {'Sister Zhao'}
+Scene 2091: {'Li Jiayin'}
+Scene 2092: {'Li Jiayin'}
+Scene 2093: {'Li Jiayin'}
+Scene 2094: {'Li Jiayin'}
+Scene 2095: {'Li Jiayin'}
+Scene 2096: {'Li Jiayin'}
+Scene 2097: {'Li Jiayin'}
+Scene 2098: {"Yang Hou'en"}
+Scene 2099: {"Yang Hou'en"}
+Scene 2100: {"Yang Hou'en"}
+Scene 2101: {'Li Jiayin'}
+Scene 2102: {"Yang Hou'en"}
+Scene 2103: {"Yang Hou'en"}
+Scene 2104: {"Yang Hou'en"}
+Scene 2105: {"Yang Hou'en"}
+Scene 2106: {"Yang Hou'en"}
+Scene 2107: {"Yang Hou'en"}
+Scene 2108: {"Yang Hou'en"}
+Scene 2109: {"Yang Hou'en"}
+Scene 2110: {"Yang Hou'en"}
+Scene 2111: {'Sister Zhao'}
+Scene 2112: {'Sister Zhao'}
+Scene 2113: {'Sister Zhao'}
+Scene 2114: {'Sister Zhao'}
+Scene 2115: {'Sister Zhao'}
+Scene 2116: {'Sister Zhao'}
+Scene 2117: {'Sister Zhao'}
+Scene 2118: {'Sister Zhao'}
+Scene 2119: {'Sister Zhao'}
+Scene 2120: {'Sister Zhao'}
+Scene 2121: {'Li Jiayin'}
+Scene 2122: {"Yang Hou'en"}
+Scene 2123: {'Li Jiayin/Sister Zhao'}
+Scene 2124: {"Yang Hou'en"}
+Scene 2125: {"Yang Hou'en"}
+Scene 2126: {"Yang Hou'en"}
+Scene 2127: {'Sister Zhao'}
+Scene 2128: {'Li Jiayin'}
+Scene 2129: {"Yang Hou'en"}
+Scene 2130: {"Yang Hou'en"}
+Scene 2131: {"Yang Hou'en"}
+Scene 2132: {'Li Jiayin'}
+Scene 2133: {'Li Jiayin'}
+Scene 2134: {'Li Jiayin'}
+Scene 2135: {'Li Jiayin'}
+Scene 2136: {'Sister Zhao'}
+Scene 2137: {'Li Jiayin'}
+Scene 2138: {'Li Jiayin'}
+Scene 2139: {'Li Jiayin'}
+Scene 2140: {'Li Jiayin'}
+Scene 2141: {'Li Jiayin'}
+Scene 2142: {'Li Jiayin'}
+Scene 2143: {'Li Jiayin'}
+Scene 2144: {'Li Jiayin'}
+Scene 2145: {'Li Jiayin'}
+Scene 2146: {'Li Jiayin'}
+Scene 2147: {'Li Jiayin'}
+Scene 2148: {'Li Jiayin'}
+Scene 2149: {'Li Jiayin'}
+Scene 2150: {'Li Jiayin'}
+Scene 2151: {'Sister Zhao'}
+Scene 2152: {'Li Jiayin'}
+Scene 2153: {"Yang Hou'en"}
+Scene 2154: {"Yang Hou'en"}
+Scene 2155: {"Yang Hou'en"}
+Scene 2156: {"Yang Hou'en"}
+Scene 2157: {"Yang Hou'en"}
+Scene 2158: {"Yang Hou'en"}
+Scene 2159: {"Yang Hou'en"}
+Scene 2160: {'Li Jiayin/Sister Zhao'}
+Scene 2161: {'Li Jiayin'}
+Scene 2162: {'Li Jiayin'}
+Scene 2163: {'Li Jiayin'}
+Scene 2164: {'Li Jiayin'}
+Scene 2165: {'Li Jiayin'}
+Scene 2166: {'Li Jiayin'}
+Scene 2167: {'Li Jiayin'}
+Scene 2168: {'Sister Zhao'}
+Scene 2169: {'Sister Zhao'}
+Scene 2170: {"Yang Hou'en"}
+Scene 2171: {'Sister Zhao'}
+Scene 2172: {'Li Jiayin'}
+Scene 2173: {'Sister Zhao'}
+Scene 2174: {'Li Jiayin'}
+Scene 2175: {"Yang Hou'en"}
+Scene 2176: {'Li Jiayin/Sister Zhao'}
+Scene 2177: {'Li Jiayin'}
+Scene 2178: {"Sister Zhao/Yang Hou'en"}
+Scene 2179: {'Ending Song'}
+Scene 2180: {'Ending Song'}
+Scene 2181: {'Ending Song'}
+Scene 2182: {'Ending Song'}

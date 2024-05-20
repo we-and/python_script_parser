@@ -1,0 +1,344 @@
+Scene 2: {'FERNANDO'}
+Scene 3: {'ROBERTA'}
+Scene 4: {'FERNANDO'}
+Scene 5: {'ROBERTA'}
+Scene 6: {'FERNANDO'}
+Scene 7: {'INVIATO'}
+Scene 8: {'SOTTOTITOLO'}
+Scene 9: {'SOTTOTITOLO'}
+Scene 10: {'SOTTOTITOLO'}
+Scene 11: {'SOTTOTITOLO'}
+Scene 12: {'FERNANDO'}
+Scene 13: {'BURAGHI'}
+Scene 14: {'CARTELLO'}
+Scene 15: {'FERNANDO'}
+Scene 16: {'BURAGHI'}
+Scene 17: {'FERNANDO'}
+Scene 18: {'ROBERTA'}
+Scene 19: {'FERNANDO'}
+Scene 20: {'ROBERTA'}
+Scene 21: {'DON VINCENZO'}
+Scene 22: {'TORE'}
+Scene 23: {'TORE'}
+Scene 25: {'ROCCO'}
+Scene 26: {'MAIA'}
+Scene 27: {'ROCCO'}
+Scene 28: {'MAIA'}
+Scene 29: {'RADIO'}
+Scene 30: {'FERNANDO'}
+Scene 31: {'ROCCO'}
+Scene 32: {'FERNANDO'}
+Scene 33: {'ROCCO'}
+Scene 34: {'FERNANDO'}
+Scene 35: {'SIMONE'}
+Scene 36: {'FERNANDO'}
+Scene 37: {'ROCCO'}
+Scene 38: {'FERNANDO'}
+Scene 39: {'ROCCO'}
+Scene 40: {'FERNANDO'}
+Scene 41: {'ROCCO'}
+Scene 42: {'FERNANDO'}
+Scene 43: {'ROCCO'}
+Scene 44: {'FERNANDO'}
+Scene 45: {'ROCCO'}
+Scene 46: {'LORENZO'}
+Scene 47: {'VALERIO'}
+Scene 48: {'LORENZO'}
+Scene 49: {'VALERIO'}
+Scene 50: {'UOMO CAMICIA VIOLA'}
+Scene 51: {'FERNANDO'}
+Scene 52: {'UOMO CAMICIA VIOLA'}
+Scene 53: {'GIOVANE CON ORECCHINO'}
+Scene 54: {'FERNANDO'}
+Scene 55: {'SIMONE'}
+Scene 56: {'FERNANDO'}
+Scene 57: {'UOMO CAMICIA VIOLA'}
+Scene 58: {'GIOVANE CON ORECCHINO'}
+Scene 59: {'FERNANDO'}
+Scene 60: {'UOMO CAMICIA VIOLA'}
+Scene 61: {'FERNANDO'}
+Scene 62: {'SIMONE'}
+Scene 63: {'FERNANDO'}
+Scene 64: {'SIMONE'}
+Scene 65: {'FERNANDO'}
+Scene 66: {'SIMONE'}
+Scene 67: {'TELEFONO'}
+Scene 68: {'PM DIODATI'}
+Scene 69: {'VALERIO'}
+Scene 70: {'PM DIODATI'}
+Scene 71: {'VALERIO'}
+Scene 72: {'PM DIODATI'}
+Scene 73: {'VALERIO'}
+Scene 74: {'PM DIODATI'}
+Scene 75: {'VALERIO'}
+Scene 76: {'PM DIODATI'}
+Scene 77: {'VALERIO'}
+Scene 78: {'PM DIODATI'}
+Scene 79: {'VALERIO'}
+Scene 80: {'PM DIODATI'}
+Scene 81: {'VALERIO'}
+Scene 82: {'PM DIODATI'}
+Scene 83: {'VALERIO'}
+Scene 84: {'PM DIODATI'}
+Scene 85: {'FERNANDO'}
+Scene 86: {'MAIA'}
+Scene 87: {'FERNANDO'}
+Scene 88: {'MAIA'}
+Scene 89: {'FERNANDO'}
+Scene 90: {'MAIA'}
+Scene 91: {'FERNANDO'}
+Scene 92: {'MAIA'}
+Scene 93: {'FERNANDO'}
+Scene 94: {'VALERIO'}
+Scene 95: {'FERNANDO'}
+Scene 96: {'VALERIO'}
+Scene 97: {'FERNANDO'}
+Scene 98: {'VALERIO'}
+Scene 99: {'FERNANDO'}
+Scene 100: {'VALERIO'}
+Scene 101: {'FERNANDO'}
+Scene 102: {'VALERIO'}
+Scene 103: {'FERNANDO'}
+Scene 104: {'VALERIO'}
+Scene 105: {'FERNANDO'}
+Scene 106: {'VALERIO'}
+Scene 107: {'FERNANDO'}
+Scene 108: {'VALERIO'}
+Scene 109: {'FERNANDO'}
+Scene 110: {'TORE'}
+Scene 111: {'FERNANDO'}
+Scene 112: {'NELLY'}
+Scene 113: {'FERNANDO'}
+Scene 114: {'NELLY'}
+Scene 115: {'FERNANDO'}
+Scene 116: {'NELLY'}
+Scene 117: {'FERNANDO'}
+Scene 118: {'NELLY'}
+Scene 119: {'FERNANDO'}
+Scene 120: {'NELLY'}
+Scene 121: {'FERNANDO'}
+Scene 122: {'NELLY'}
+Scene 123: {'TORE'}
+Scene 124: {'FERNANDO'}
+Scene 125: {'TORE'}
+Scene 126: {'GIANNI'}
+Scene 127: {'FERNANDO'}
+Scene 128: {'NELLY'}
+Scene 129: {'TORE'}
+Scene 130: {'FERNANDO'}
+Scene 131: {'GIANNI'}
+Scene 132: {'BURAGHI'}
+Scene 133: {'FERNANDO'}
+Scene 134: {'BURAGHI'}
+Scene 135: {'FERNANDO'}
+Scene 136: {'BURAGHI'}
+Scene 137: {'ROCCO'}
+Scene 138: {'MAIA'}
+Scene 139: {'ROCCO'}
+Scene 140: {'MAIA'}
+Scene 141: {'ROCCO'}
+Scene 142: {'GIORNALISTA'}
+Scene 143: {'FERNANDO'}
+Scene 144: {'TORE'}
+Scene 145: {'FERNANDO'}
+Scene 146: {'TORE'}
+Scene 147: {'FERNANDO'}
+Scene 148: {'MAIA'}
+Scene 149: {'FERNANDO'}
+Scene 150: {'MAIA'}
+Scene 151: {'DON VINCENZO'}
+Scene 152: {'GIANNI'}
+Scene 153: {'DON VINCENZO'}
+Scene 154: {'GIANNI'}
+Scene 155: {'GIORNALISTA D'}
+Scene 156: {'MAIA'}
+Scene 157: {'TV'}
+Scene 158: {'INVIATO 2'}
+Scene 159: {'SOTTOSEGRETARIO'}
+Scene 160: {'SONIA'}
+Scene 161: {'VALERIO'}
+Scene 162: {'SONIA'}
+Scene 163: {'VALERIO'}
+Scene 164: {'SONIA'}
+Scene 165: {'VALERIO'}
+Scene 166: {'LORENZO'}
+Scene 167: {'VALERIO'}
+Scene 168: {'SONIA'}
+Scene 169: {'VALERIO'}
+Scene 170: {'SONIA'}
+Scene 171: {'FERNANDO'}
+Scene 172: {'MAIA'}
+Scene 173: {'FERNANDO'}
+Scene 174: {'MAIA'}
+Scene 175: {'DON MIMMO'}
+Scene 176: {'MAIA'}
+Scene 177: {'DON MIMMO'}
+Scene 178: {'MAIA'}
+Scene 179: {'DON MIMMO'}
+Scene 180: {'FERNANDO'}
+Scene 181: {'MAIA'}
+Scene 182: {'DON MIMMO'}
+Scene 183: {'FERNANDO'}
+Scene 184: {'DON MIMMO'}
+Scene 185: {'MAIA'}
+Scene 186: {'DON MIMMO'}
+Scene 187: {'MAIA'}
+Scene 188: {'DON MIMMO'}
+Scene 189: {'LORENZO'}
+Scene 190: {'VALERIO'}
+Scene 191: {'PM DIODATO'}
+Scene 192: {'FERNANDO'}
+Scene 193: {'MAIA'}
+Scene 194: {'FERNANDO'}
+Scene 195: {'MAIA'}
+Scene 196: {'FERNANDO'}
+Scene 197: {'MAIA'}
+Scene 198: {'FERNANDO', 'MAIA'}
+Scene 199: {'FERNANDO'}
+Scene 200: {'MAIA'}
+Scene 201: {'FERNANDO'}
+Scene 202: {'MAIA'}
+Scene 203: {'FERNANDO'}
+Scene 204: {'MAIA'}
+Scene 205: {'FERNANDO'}
+Scene 206: {'MAIA'}
+Scene 207: {'FERNANDO'}
+Scene 208: {'MAIA'}
+Scene 209: {'FERNANDO'}
+Scene 210: {'MAIA'}
+Scene 211: {'VALERIO'}
+Scene 212: {'FERNANDO'}
+Scene 213: {'MAIA'}
+Scene 214: {'FERNANDO'}
+Scene 215: {'MAIA'}
+Scene 216: {'VALERIO'}
+Scene 217: {'INFORMATORE'}
+Scene 218: {'VALERIO'}
+Scene 219: {'INFORMATORE'}
+Scene 220: {'VALERIO'}
+Scene 221: {'LORENZO'}
+Scene 222: {'VALERIO'}
+Scene 223: {'LORENZO'}
+Scene 224: {'VALERIO'}
+Scene 225: {'LORENZO'}
+Scene 226: {'VALERIO'}
+Scene 227: {'LORENZO'}
+Scene 228: {'VALERIO'}
+Scene 229: {'LORENZO'}
+Scene 230: {'VALERIO'}
+Scene 231: {'DON VINCENZO'}
+Scene 232: {'GIANNI'}
+Scene 233: {'INFORMATORE'}
+Scene 234: {'MAIA'}
+Scene 235: {'INFORMATORE'}
+Scene 236: {'MAIA'}
+Scene 237: {'INFORMATORE'}
+Scene 238: {'PASCAL'}
+Scene 239: {'MAIA'}
+Scene 240: {'INFORMATORE'}
+Scene 241: {'GIORNALISTA'}
+Scene 242: {'FERNANDO'}
+Scene 243: {'MAIA'}
+Scene 244: {'FERNANDO'}
+Scene 245: {'MAIA'}
+Scene 246: {'FERNANDO'}
+Scene 247: {'MAIA'}
+Scene 248: {'FERNANDO'}
+Scene 249: {'MAIA'}
+Scene 250: {'FERNANDO'}
+Scene 251: {'MAIA'}
+Scene 252: {'FERNANDO'}
+Scene 253: {'MAIA'}
+Scene 254: {'FERNANDO'}
+Scene 255: {'MAIA'}
+Scene 256: {'FERNANDO'}
+Scene 257: {'MAIA'}
+Scene 258: {'FERNANDO'}
+Scene 259: {'MAIA'}
+Scene 260: {'FERNANDO'}
+Scene 261: {'MAIA'}
+Scene 262: {'FERNANDO'}
+Scene 263: {'MAIA'}
+Scene 264: {'FERNANDO'}
+Scene 265: {'MAIA'}
+Scene 266: {'FERNANDO'}
+Scene 267: {'DON VINCENZO'}
+Scene 268: {'GIANNI'}
+Scene 269: {'FERNANDO'}
+Scene 270: {'DON VINCENZO'}
+Scene 271: {'FERNANDO'}
+Scene 272: {'VALERIO'}
+Scene 273: {'FERNANDO'}
+Scene 274: {'MAIA'}
+Scene 275: {'FERNANDO'}
+Scene 276: {'CARTELLO'}
+Scene 277: {'MAESTRO'}
+Scene 278: {'BATTEZZATO'}
+Scene 279: {'MAESTRO'}
+Scene 280: {'BATTEZZATO'}
+Scene 281: {'MAESTRO'}
+Scene 282: {'BATTEZZATO'}
+Scene 283: {'MAIA'}
+Scene 284: {'FERNANDO'}
+Scene 285: {'MAESTRO'}
+Scene 286: {'UOMO DI GUARDIA'}
+Scene 287: {'MAESTRO'}
+Scene 288: {'NDRANGHETISTA'}
+Scene 289: {'DON VINCENZO'}
+Scene 290: {'MAESTRO'}
+Scene 291: {'MAIA'}
+Scene 292: {'MAESTRO'}
+Scene 293: {'FERNANDO'}
+Scene 294: {'NDRANGHETISTA'}
+Scene 295: {'FERNANDO'}
+Scene 296: {'MAESTRO'}
+Scene 297: {'FERNANDO'}
+Scene 298: {'NDRANGHETISTA'}
+Scene 299: {'FERNANDO'}
+Scene 300: {'MAESTRO'}
+Scene 301: {'UOMO DI GUARDIA'}
+Scene 302: {'MAESTRO'}
+Scene 303: {'NDRANGHETISTA'}
+Scene 304: {'MAESTRO'}
+Scene 305: {'UOMO DI GUARDIA'}
+Scene 306: {'MAESTRO'}
+Scene 307: {'FERNANDO'}
+Scene 308: {'MAIA'}
+Scene 309: {'FERNANDO'}
+Scene 310: {'MAIA'}
+Scene 311: {'FERNANDO'}
+Scene 312: {'MAIA'}
+Scene 313: {'FERNANDO'}
+Scene 314: {'MARIA'}
+Scene 315: {'FERNANDO'}
+Scene 316: {'MAIA'}
+Scene 317: {'FERNANDO'}
+Scene 318: {'MAIA'}
+Scene 319: {'FERNANDO'}
+Scene 320: {'NELLY'}
+Scene 321: {'FERNANDO'}
+Scene 322: {'NELLY'}
+Scene 323: {'FERNANDO'}
+Scene 324: {'NELLY'}
+Scene 325: {'FERNANDO'}
+Scene 326: {'NELLY'}
+Scene 327: {'VALERIO'}
+Scene 328: {'MAIA'}
+Scene 329: {'VALERIO'}
+Scene 330: {'MAIA'}
+Scene 331: {'VALERIO'}
+Scene 332: {'MAIA'}
+Scene 333: {'VALERIO'}
+Scene 334: {'LORENZO'}
+Scene 335: {'VALERIO'}
+Scene 336: {'LORENZO'}
+Scene 337: {'VALERIO'}
+Scene 338: {'FERNANDO'}
+Scene 339: {'ROCCO'}
+Scene 340: {'FERNANDO'}
+Scene 341: {'ROCCO'}
+Scene 342: {'FERNANDO'}
+Scene 343: {'ROCCO'}
+Scene 344: {'FERNANDO'}
+Scene 345: {'ROCCO'}
+Scene 346: {'FERNANDO'}

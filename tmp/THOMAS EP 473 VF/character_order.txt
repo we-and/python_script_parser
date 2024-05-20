@@ -1,0 +1,9 @@
+Narrator: 1
+Samson: 2
+Thomas: 3
+Stanley: 4
+Diesel: 5
+Sir handel: 6
+Peter Sam: 7
+Paxton: 8
+Fat control: 9

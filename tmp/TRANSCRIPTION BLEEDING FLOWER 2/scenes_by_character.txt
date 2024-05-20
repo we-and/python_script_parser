@@ -1,0 +1,26 @@
+(CHARACTER): {''}
+AMARA: {''}
+CELIN: {''}
+OMATAKU: {''}
+TREASURE: {''}
+CHIEF MADUKA: {''}
+ELDER: {''}
+CHIEF MAUDAK: {''}
+ELDERS: {''}
+MAMA: {''}
+YOUTHS: {''}
+CHISOM: {''}
+LADY VINA: {''}
+REX: {''}
+MRS MADUKA: {''}
+LMRS MADUKA: {''}
+HUNTER: {''}
+HUNTER SON: {''}
+BLACK GIRL 1: {''}
+WHITE ANGELS: {''}
+NANCY: {''}
+VERA: {''}
+LILIAN: {''}
+BLACK GIRL: {''}
+ELDER 1: {''}
+ELDER 2: {''}

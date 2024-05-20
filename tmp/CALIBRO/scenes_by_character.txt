@@ -1,0 +1,35 @@
+FERNANDO: {'Scene 85', 'Scene 258', 'Scene 338', 'Scene 4', 'Scene 117', 'Scene 54', 'Scene 346', 'Scene 317', 'Scene 97', 'Scene 256', 'Scene 173', 'Scene 107', 'Scene 61', 'Scene 262', 'Scene 99', 'Scene 56', 'Scene 103', 'Scene 124', 'Scene 199', 'Scene 313', 'Scene 340', 'Scene 149', 'Scene 309', 'Scene 32', 'Scene 242', 'Scene 266', 'Scene 91', 'Scene 109', 'Scene 295', 'Scene 284', 'Scene 299', 'Scene 319', 'Scene 205', 'Scene 95', 'Scene 260', 'Scene 143', 'Scene 93', 'Scene 198', 'Scene 196', 'Scene 244', 'Scene 325', 'Scene 127', 'Scene 315', 'Scene 171', 'Scene 63', 'Scene 293', 'Scene 145', 'Scene 201', 'Scene 121', 'Scene 42', 'Scene 89', 'Scene 65', 'Scene 203', 'Scene 275', 'Scene 311', 'Scene 6', 'Scene 209', 'Scene 342', 'Scene 105', 'Scene 212', 'Scene 246', 'Scene 273', 'Scene 12', 'Scene 34', 'Scene 59', 'Scene 207', 'Scene 192', 'Scene 269', 'Scene 17', 'Scene 111', 'Scene 323', 'Scene 344', 'Scene 101', 'Scene 15', 'Scene 119', 'Scene 38', 'Scene 307', 'Scene 44', 'Scene 321', 'Scene 214', 'Scene 30', 'Scene 183', 'Scene 254', 'Scene 147', 'Scene 51', 'Scene 36', 'Scene 250', 'Scene 194', 'Scene 130', 'Scene 264', 'Scene 180', 'Scene 113', 'Scene 87', 'Scene 19', 'Scene 133', 'Scene 115', 'Scene 135', 'Scene 297', 'Scene 248', 'Scene 40', 'Scene 2', 'Scene 252', 'Scene 271'}
+ROBERTA: {'Scene 5', 'Scene 3', 'Scene 18', 'Scene 20'}
+INVIATO: {'Scene 7'}
+SOTTOTITOLO: {'Scene 9', 'Scene 11', 'Scene 8', 'Scene 10'}
+BURAGHI: {'Scene 136', 'Scene 132', 'Scene 16', 'Scene 13', 'Scene 134'}
+CARTELLO: {'Scene 14', 'Scene 276'}
+DON VINCENZO: {'Scene 153', 'Scene 289', 'Scene 21', 'Scene 267', 'Scene 231', 'Scene 151', 'Scene 270'}
+TORE: {'Scene 22', 'Scene 129', 'Scene 146', 'Scene 110', 'Scene 23', 'Scene 144', 'Scene 125', 'Scene 123'}
+ROCCO: {'Scene 345', 'Scene 137', 'Scene 39', 'Scene 43', 'Scene 25', 'Scene 141', 'Scene 341', 'Scene 33', 'Scene 343', 'Scene 37', 'Scene 45', 'Scene 139', 'Scene 41', 'Scene 339', 'Scene 27', 'Scene 31'}
+MAIA: {'Scene 328', 'Scene 197', 'Scene 140', 'Scene 178', 'Scene 208', 'Scene 259', 'Scene 215', 'Scene 316', 'Scene 283', 'Scene 243', 'Scene 138', 'Scene 257', 'Scene 239', 'Scene 210', 'Scene 291', 'Scene 195', 'Scene 198', 'Scene 265', 'Scene 156', 'Scene 206', 'Scene 28', 'Scene 202', 'Scene 236', 'Scene 187', 'Scene 330', 'Scene 148', 'Scene 253', 'Scene 318', 'Scene 90', 'Scene 310', 'Scene 150', 'Scene 274', 'Scene 247', 'Scene 181', 'Scene 172', 'Scene 204', 'Scene 263', 'Scene 261', 'Scene 308', 'Scene 245', 'Scene 26', 'Scene 88', 'Scene 86', 'Scene 312', 'Scene 332', 'Scene 185', 'Scene 249', 'Scene 176', 'Scene 200', 'Scene 213', 'Scene 193', 'Scene 92', 'Scene 234', 'Scene 255', 'Scene 174', 'Scene 251'}
+RADIO: {'Scene 29'}
+SIMONE: {'Scene 55', 'Scene 62', 'Scene 35', 'Scene 66', 'Scene 64'}
+LORENZO: {'Scene 48', 'Scene 225', 'Scene 189', 'Scene 229', 'Scene 336', 'Scene 221', 'Scene 223', 'Scene 334', 'Scene 227', 'Scene 46', 'Scene 166'}
+VALERIO: {'Scene 335', 'Scene 49', 'Scene 163', 'Scene 73', 'Scene 333', 'Scene 75', 'Scene 222', 'Scene 226', 'Scene 106', 'Scene 228', 'Scene 81', 'Scene 220', 'Scene 98', 'Scene 102', 'Scene 224', 'Scene 167', 'Scene 100', 'Scene 211', 'Scene 69', 'Scene 161', 'Scene 77', 'Scene 331', 'Scene 230', 'Scene 83', 'Scene 337', 'Scene 169', 'Scene 96', 'Scene 165', 'Scene 218', 'Scene 79', 'Scene 108', 'Scene 47', 'Scene 94', 'Scene 327', 'Scene 329', 'Scene 272', 'Scene 216', 'Scene 71', 'Scene 104', 'Scene 190'}
+UOMO CAMICIA VIOLA: {'Scene 57', 'Scene 60', 'Scene 50', 'Scene 52'}
+GIOVANE CON ORECCHINO: {'Scene 58', 'Scene 53'}
+TELEFONO: {'Scene 67'}
+PM DIODATI: {'Scene 82', 'Scene 80', 'Scene 72', 'Scene 74', 'Scene 68', 'Scene 84', 'Scene 70', 'Scene 76', 'Scene 78'}
+NELLY: {'Scene 116', 'Scene 322', 'Scene 112', 'Scene 320', 'Scene 128', 'Scene 120', 'Scene 118', 'Scene 326', 'Scene 114', 'Scene 324', 'Scene 122'}
+GIANNI: {'Scene 126', 'Scene 154', 'Scene 131', 'Scene 232', 'Scene 268', 'Scene 152'}
+GIORNALISTA: {'Scene 142', 'Scene 241'}
+GIORNALISTA D: {'Scene 155'}
+TV: {'Scene 157'}
+INVIATO 2: {'Scene 158'}
+SOTTOSEGRETARIO: {'Scene 159'}
+SONIA: {'Scene 164', 'Scene 170', 'Scene 162', 'Scene 160', 'Scene 168'}
+DON MIMMO: {'Scene 186', 'Scene 175', 'Scene 182', 'Scene 184', 'Scene 188', 'Scene 179', 'Scene 177'}
+PM DIODATO: {'Scene 191'}
+INFORMATORE: {'Scene 237', 'Scene 219', 'Scene 240', 'Scene 235', 'Scene 233', 'Scene 217'}
+PASCAL: {'Scene 238'}
+MAESTRO: {'Scene 304', 'Scene 277', 'Scene 302', 'Scene 306', 'Scene 292', 'Scene 285', 'Scene 281', 'Scene 279', 'Scene 300', 'Scene 290', 'Scene 296', 'Scene 287'}
+BATTEZZATO: {'Scene 278', 'Scene 280', 'Scene 282'}
+UOMO DI GUARDIA: {'Scene 301', 'Scene 305', 'Scene 286'}
+NDRANGHETISTA: {'Scene 294', 'Scene 303', 'Scene 298', 'Scene 288'}
+MARIA: {'Scene 314'}

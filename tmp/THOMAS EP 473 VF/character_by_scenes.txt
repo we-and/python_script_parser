@@ -1,0 +1,13 @@
+BOUCLE 1: {'Thomas', 'Stanley', 'Diesel', 'Samson', 'Narrator'}
+BOUCLE 2: {'Thomas', 'Samson', 'Sir handel', 'Narrator', 'Peter Sam'}
+BOUCLE 3: {'Sir handel', 'Samson', 'Peter Sam'}
+BOUCLE 4: {'Narrator', 'Samson'}
+BOUCLE 5: {'Narrator', 'Samson'}
+BOUCLE 6: {'Narrator', 'Samson'}
+BOUCLE 7: {'Thomas', 'Narrator', 'Samson'}
+BOUCLE 8: {'Thomas', 'Paxton', 'Samson'}
+BOUCLE 9: {'Thomas', 'Paxton', 'Samson'}
+BOUCLE 10: {'Thomas', 'Narrator', 'Samson'}
+BOUCLE 11: {'Fat control', 'Samson'}
+BOUCLE 12: {'Thomas', 'Fat control', 'Narrator', 'Samson'}
+BOUCLE 13: {'Thomas', 'Narrator', 'Samson'}

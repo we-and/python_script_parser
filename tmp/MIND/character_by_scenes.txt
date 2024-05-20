@@ -1,0 +1,1178 @@
+Scene 1: {'MAN#1'}
+Scene 2: {'MAN#1'}
+Scene 3: {'MAN#1'}
+Scene 4: {'YOUNG JENNIFER'}
+Scene 5: {'YOUNG JENNIFER'}
+Scene 6: {'YOUNG JENNIFER'}
+Scene 7: {'WOMAN#1'}
+Scene 8: {'WOMAN#2'}
+Scene 9: {'WOMAN#2'}
+Scene 10: {'WOMAN#2'}
+Scene 11: {'WOMAN#2'}
+Scene 12: {'WOMAN#2'}
+Scene 13: {'WOMAN#2'}
+Scene 14: {'WOMAN#2'}
+Scene 15: {'COL. CLAYTON'}
+Scene 16: {'JENNIFER'}
+Scene 17: {'GERTIE'}
+Scene 18: {'JENNIFER'}
+Scene 19: {'GERTIE'}
+Scene 20: {'JENNIFER'}
+Scene 21: {'RICK'}
+Scene 22: {'RICK'}
+Scene 23: {'RICK'}
+Scene 24: {'RICK'}
+Scene 25: {'RICK'}
+Scene 26: {'JENNIFER'}
+Scene 27: {'GERTIE'}
+Scene 28: {'RICK'}
+Scene 29: {'JENNIFER'}
+Scene 30: {'RUBEN'}
+Scene 31: {'RICK'}
+Scene 32: {'RUBEN'}
+Scene 33: {'RICK'}
+Scene 34: {'RUBEN'}
+Scene 35: {'CLIVE'}
+Scene 36: {'RICK'}
+Scene 37: {'RICK'}
+Scene 38: {'CLIVE'}
+Scene 39: {'RICK'}
+Scene 40: {'COL. CLAYTON'}
+Scene 41: {'COL. CLAYTON'}
+Scene 42: {'COL. CLAYTON'}
+Scene 43: {'COL. CLAYTON'}
+Scene 44: {'COL. CLAYTON'}
+Scene 45: {'COL. CLAYTON'}
+Scene 46: {'COL. CLAYTON'}
+Scene 47: {'COL. CLAYTON'}
+Scene 48: {'COL. CLAYTON'}
+Scene 49: {'GEN. WHITE'}
+Scene 50: {'COL. CLAYTON'}
+Scene 51: {'COL. CLAYTON'}
+Scene 52: {'GEN. WHITE'}
+Scene 53: {'GEN. WHITE'}
+Scene 54: {'GEN. WHITE'}
+Scene 55: {'GEN. WHITE'}
+Scene 56: {'GEN. WHITE'}
+Scene 57: {'GEN. WHITE'}
+Scene 58: {'GEN. WHITE'}
+Scene 59: {'COL. CLAYTON'}
+Scene 60: {'COL. CLAYTON'}
+Scene 61: {'COL. CLAYTON'}
+Scene 62: {'WOMAN#3'}
+Scene 63: {'COL. CLAYTON'}
+Scene 64: {'MAN#2'}
+Scene 65: {'COL. CLAYTON'}
+Scene 66: {'WOMAN#4'}
+Scene 67: {'COL. CLAYTON'}
+Scene 68: {'MAN#3'}
+Scene 69: {'COL. CLAYTON'}
+Scene 70: {'MAN#4'}
+Scene 71: {'MAN#5'}
+Scene 72: {'COL. CLAYTON'}
+Scene 73: {'CLIVE'}
+Scene 74: {'COL. CLAYTON'}
+Scene 75: {'RUBEN'}
+Scene 76: {'COL. CLAYTON'}
+Scene 77: {'RICK'}
+Scene 78: {'COL. CLAYTON'}
+Scene 79: {'GERTIE'}
+Scene 80: {'COL. CLAYTON'}
+Scene 81: {'JENNIFER'}
+Scene 82: {'COL. CLAYTON'}
+Scene 83: {'COL. CLAYTON'}
+Scene 84: {'COL. CLAYTON'}
+Scene 85: {'GEN. WHITE'}
+Scene 86: {'GEN. WHITE'}
+Scene 87: {'COL. CLAYTON'}
+Scene 88: {'COL. CLAYTON'}
+Scene 89: {'GEN. WHITE'}
+Scene 90: {'GEN. WHITE'}
+Scene 91: {'GEN. WHITE'}
+Scene 92: {'GEN. WHITE'}
+Scene 93: {'COL. CLAYTON'}
+Scene 94: {'GEN. WHITE'}
+Scene 95: {'COL. CLAYTON'}
+Scene 96: {'COL. CLAYTON'}
+Scene 97: {'COL. CLAYTON'}
+Scene 98: {'MAN#6'}
+Scene 99: {'MAN#6'}
+Scene 100: {'MAN#6'}
+Scene 101: {'MAN#6'}
+Scene 102: {'MAN#6'}
+Scene 103: {'MRS. SOREN'}
+Scene 104: {'MRS. SOREN'}
+Scene 105: {'ADAM'}
+Scene 106: {'MRS. SOREN'}
+Scene 107: {'ADAM'}
+Scene 108: {'ADAM'}
+Scene 109: {'ADAM'}
+Scene 110: {'MRS. SOREN'}
+Scene 111: {'MRS. SOREN'}
+Scene 112: {'MRS. SOREN'}
+Scene 113: {'ADAM'}
+Scene 114: {'ADAM'}
+Scene 115: {'ADAM'}
+Scene 116: {'ADAM'}
+Scene 117: {'MRS. SOREN'}
+Scene 118: {'MRS. SOREN'}
+Scene 119: {'ADAM'}
+Scene 120: {'ADAM'}
+Scene 121: {'ADAM'}
+Scene 122: {'ADAM'}
+Scene 123: {'MRS. SOREN'}
+Scene 124: {'MRS. SOREN'}
+Scene 125: {'MRS. SOREN'}
+Scene 126: {'MRS. SOREN'}
+Scene 127: {'JAMIE'}
+Scene 128: {'ADAM'}
+Scene 129: {'JAMIE'}
+Scene 130: {'ADAM'}
+Scene 131: {'CASSIE'}
+Scene 132: {'ADAM'}
+Scene 133: {'JAMIE'}
+Scene 134: {'CASSIE'}
+Scene 135: {'CASSIE'}
+Scene 136: {'ADAM'}
+Scene 137: {'CASSIE'}
+Scene 138: {'CASSIE'}
+Scene 139: {'ADAM'}
+Scene 140: {'CASSIE'}
+Scene 141: {'JAMIE'}
+Scene 142: {'CASSIE'}
+Scene 143: {'JAMIE'}
+Scene 144: {'COL. CLAYTON'}
+Scene 145: {'GEN. WHITE'}
+Scene 146: {'GEN. WHITE'}
+Scene 147: {'COL. CLAYTON'}
+Scene 148: {'COL. CLAYTON'}
+Scene 149: {'COL. CLAYTON'}
+Scene 150: {'COL. CLAYTON'}
+Scene 151: {'ADAM REACTING'}
+Scene 152: {'CASSIE'}
+Scene 153: {'JAMIE'}
+Scene 154: {'CASSIE'}
+Scene 155: {'ADAM'}
+Scene 156: {'CASSIE'}
+Scene 157: {'CASSIE'}
+Scene 158: {'GEN. WHITE'}
+Scene 159: {'COL. CLAYTON'}
+Scene 160: {'RICK'}
+Scene 161: {'RUBEN REACTING'}
+Scene 162: {'RUBEN REACTING'}
+Scene 163: {'RICK'}
+Scene 164: {'GERTIE'}
+Scene 165: {'GERTIE'}
+Scene 166: {'COL. CLAYTON'}
+Scene 167: {'GERTIE'}
+Scene 168: {'RUBEN'}
+Scene 169: {'COL. CLAYTON'}
+Scene 170: {'COL. CLAYTON'}
+Scene 171: {'COL. CLAYTON'}
+Scene 172: {'JENNIFER'}
+Scene 173: {'MAN#9'}
+Scene 174: {'NEWS ANCHOR'}
+Scene 175: {'NEWS ANCHOR'}
+Scene 176: {'NEWS ANCHOR'}
+Scene 177: {'NEWS ANCHOR'}
+Scene 178: {'NEWS ANCHOR'}
+Scene 179: {'NEWS ANCHOR'}
+Scene 180: {'NEWS REPORTER'}
+Scene 181: {'NEWS REPORTER'}
+Scene 182: {'NEWS REPORTER'}
+Scene 183: {'NEWS REPORTER'}
+Scene 184: {'NEWS REPORTER'}
+Scene 185: {'NEWS REPORTER'}
+Scene 186: {'NEWS REPORTER'}
+Scene 187: {'NEWS REPORTER'}
+Scene 188: {'NEWS REPORTER'}
+Scene 189: {'NEWS REPORTER'}
+Scene 190: {'NEWS REPORTER'}
+Scene 191: {'NEWS REPORTER'}
+Scene 192: {'NEWS REPORTER'}
+Scene 193: {'NEWS REPORTER'}
+Scene 194: {'NEWS REPORTER'}
+Scene 195: {'NEWS REPORTER'}
+Scene 196: {'NEWS REPORTER'}
+Scene 197: {'ADAM'}
+Scene 198: {'CASSIE'}
+Scene 199: {'NEWS REPORTER'}
+Scene 200: {'ADAM'}
+Scene 201: {'PARAMEDIC'}
+Scene 202: {'ADAM'}
+Scene 203: {'WOMAN#6'}
+Scene 204: {'MAN#10'}
+Scene 205: {'WOMAN#6'}
+Scene 206: {'MAN#10'}
+Scene 207: {'WOMAN#6'}
+Scene 208: {'WOMAN#6'}
+Scene 209: {'NEWS REPORTER'}
+Scene 210: {'WOMAN#7'}
+Scene 211: {'NEWS REPORTER'}
+Scene 212: {'NEWS REPORTER'}
+Scene 213: {'NEWS REPORTER'}
+Scene 214: {'WOMAN#7'}
+Scene 215: {'NEWS REPORTER'}
+Scene 216: {'MAN#11'}
+Scene 217: {'NEWS REPORTER'}
+Scene 218: {'MAN#11'}
+Scene 219: {'MAN#11'}
+Scene 220: {'WOMAN#6'}
+Scene 221: {'WOMAN#6'}
+Scene 222: {'WOMAN#6'}
+Scene 223: {'NEWS REPORTER'}
+Scene 224: {'MAN#12'}
+Scene 225: {'NEWS REPORTER'}
+Scene 226: {'CASSIE'}
+Scene 227: {'CASSIE'}
+Scene 228: {'CASSIE'}
+Scene 229: {'CASSIE'}
+Scene 230: {'ADAM'}
+Scene 231: {'ADAM'}
+Scene 232: {'ADAM'}
+Scene 233: {'ADAM'}
+Scene 234: {'ADAM'}
+Scene 235: {'CASSIE'}
+Scene 236: {'ADAM'}
+Scene 237: {'ADAM'}
+Scene 238: {'ADAM'}
+Scene 239: {'CASSIE'}
+Scene 240: {'CASSIE'}
+Scene 241: {'MAN#13'}
+Scene 242: {'GEN. WHITE'}
+Scene 243: {'GEN. WHITE'}
+Scene 244: {'COL. CLAYTON'}
+Scene 245: {'GEN. WHITE'}
+Scene 246: {'JENNIFER'}
+Scene 247: {'RICK'}
+Scene 248: {'JENNIFER'}
+Scene 249: {'JENNIFER'}
+Scene 250: {'JENNIFER'}
+Scene 251: {'COL. CLAYTON'}
+Scene 252: {'JENNIFER'}
+Scene 253: {'JENNIFER'}
+Scene 254: {'JENNIFER'}
+Scene 255: {'COL. CLAYTON'}
+Scene 256: {'JENNIFER'}
+Scene 257: {'GEN. WHITE'}
+Scene 258: {'COL. CLAYTON'}
+Scene 259: {'GEN. WHITE'}
+Scene 260: {'GEN. WHITE'}
+Scene 261: {'GEN. WHITE'}
+Scene 262: {'JENNIFER'}
+Scene 263: {'COL. CLAYTON'}
+Scene 264: {'JENNIFER'}
+Scene 265: {'COL. CLAYTON'}
+Scene 266: {'JENNIFER'}
+Scene 267: {'COL. CLAYTON'}
+Scene 268: {'JENNIFER'}
+Scene 269: {'COL. CLAYTON'}
+Scene 270: {'JENNIFER'}
+Scene 271: {'COL. CLAYTON'}
+Scene 272: {'JENNIFER'}
+Scene 273: {'COL. CLAYTON'}
+Scene 274: {'COL. CLAYTON'}
+Scene 275: {'COL. CLAYTON'}
+Scene 276: {'COL. CLAYTON'}
+Scene 277: {'COL. CLAYTON'}
+Scene 278: {'COL. CLAYTON'}
+Scene 279: {'COL. CLAYTON'}
+Scene 280: {'COL. CLAYTON'}
+Scene 281: {'COL. CLAYTON'}
+Scene 282: {'COL. CLAYTON'}
+Scene 283: {'COL. CLAYTON'}
+Scene 284: {'JENNIFER'}
+Scene 285: {'COL. CLAYTON'}
+Scene 286: {'COL. CLAYTON'}
+Scene 287: {'COL. CLAYTON'}
+Scene 288: {'COL. CLAYTON'}
+Scene 289: {'COL. CLAYTON'}
+Scene 290: {'COL. CLAYTON'}
+Scene 291: {'COL. CLAYTON'}
+Scene 292: {'COL. CLAYTON'}
+Scene 293: {'JENNIFER'}
+Scene 294: {'JENNIFER'}
+Scene 295: {'COL. CLAYTON'}
+Scene 296: {'COL. CLAYTON'}
+Scene 297: {'COL. CLAYTON'}
+Scene 298: {'FATHER V.O'}
+Scene 299: {'FATHER V.O.'}
+Scene 300: {'JENNIFER'}
+Scene 301: {'JENNIFER'}
+Scene 302: {'JENNIFER'}
+Scene 303: {'COL. CLAYTON'}
+Scene 304: {'COL. CLAYTON'}
+Scene 305: {'COL. CLAYTON'}
+Scene 306: {'COL. CLAYTON'}
+Scene 307: {'COL. CLAYTON'}
+Scene 308: {'COL. CLAYTON'}
+Scene 309: {'COL. CLAYTON'}
+Scene 310: {'COL. CLAYTON'}
+Scene 311: {'COL. CLAYTON'}
+Scene 312: {'COL. CLAYTON'}
+Scene 313: {'COL. CLAYTON'}
+Scene 314: {'COL. CLAYTON'}
+Scene 315: {'COL. CLAYTON'}
+Scene 316: {'JENNIFER'}
+Scene 317: {'JENNIFER'}
+Scene 318: {'COL. CLAYTON'}
+Scene 319: {'COL. CLAYTON'}
+Scene 320: {'COL. CLAYTON'}
+Scene 321: {'COL. CLAYTON'}
+Scene 322: {'COL. CLAYTON'}
+Scene 323: {'COL. CLAYTON'}
+Scene 324: {'COL. CLAYTON'}
+Scene 325: {'COL. CLAYTON'}
+Scene 326: {'COL. CLAYTON'}
+Scene 327: {'COL. CLAYTON'}
+Scene 328: {'COL. CLAYTON'}
+Scene 329: {'COL. CLAYTON'}
+Scene 330: {'COL. CLAYTON'}
+Scene 331: {'COL. CLAYTON'}
+Scene 332: {'COL. CLAYTON'}
+Scene 333: {'COL. CLAYTON'}
+Scene 334: {'RUBEN'}
+Scene 335: {'RUBEN'}
+Scene 336: {'RICK'}
+Scene 337: {'JENNIFER'}
+Scene 338: {'RUBEN'}
+Scene 339: {'JENNIFER'}
+Scene 340: {'RICK'}
+Scene 341: {'CLIVE'}
+Scene 342: {'GERTIE'}
+Scene 343: {'RUBEN'}
+Scene 344: {'JENNIFER'}
+Scene 345: {'RUBEN'}
+Scene 346: {'RUBEN'}
+Scene 347: {'RUBEN'}
+Scene 348: {'GERTIE'}
+Scene 349: {'GERTIE'}
+Scene 350: {'GERTIE'}
+Scene 351: {'CLIVE'}
+Scene 352: {'CLIVE'}
+Scene 353: {'RUBEN'}
+Scene 354: {'CLIVE'}
+Scene 355: {'RUBEN'}
+Scene 356: {'RUBEN'}
+Scene 357: {'RICK'}
+Scene 358: {'GERTIE'}
+Scene 359: {'JENNIFER'}
+Scene 360: {'JENNIFER'}
+Scene 361: {'JENNIFER'}
+Scene 362: {'ADAM'}
+Scene 363: {'JENNIFER'}
+Scene 364: {'ADAM'}
+Scene 365: {'JENNIFER'}
+Scene 366: {'ADAM'}
+Scene 367: {'ADAM'}
+Scene 368: {'ADAM'}
+Scene 369: {'JENNIFER'}
+Scene 370: {'ADAM'}
+Scene 371: {'JENNIFER'}
+Scene 372: {'JENNIFER'}
+Scene 373: {'ADAM'}
+Scene 374: {'JENNIFER'}
+Scene 375: {'ADAM REACTING'}
+Scene 376: {'JENNIFER'}
+Scene 377: {'ADAM'}
+Scene 378: {'JENNIFER'}
+Scene 379: {'ADAM'}
+Scene 380: {'ADAM'}
+Scene 381: {'JENNIFER'}
+Scene 382: {'ADAM'}
+Scene 383: {'JENNIFER'}
+Scene 384: {'JENNIFER'}
+Scene 385: {'ADAM'}
+Scene 386: {'JENNIFER'}
+Scene 387: {'ADAM'}
+Scene 388: {'JENNIFER'}
+Scene 389: {'ADAM'}
+Scene 390: {'JENNIFER'}
+Scene 391: {'ADAM'}
+Scene 392: {'JENNIFER'}
+Scene 393: {'ADAM'}
+Scene 394: {'JENNIFER'}
+Scene 395: {'JENNIFER'}
+Scene 396: {'JENNIFER'}
+Scene 397: {'ADAM'}
+Scene 398: {'NEWS ANCHOR OVER PHONE'}
+Scene 399: {'NEWS ANCHOR OVER PHONE'}
+Scene 400: {'NEWS ANCHOR OVER PHONE'}
+Scene 401: {'NEWS ANCHOR'}
+Scene 402: {'NEWS ANCHOR'}
+Scene 403: {'NEWS ANCHOR'}
+Scene 404: {'NEWS ANCHOR'}
+Scene 405: {'NEWS ANCHOR'}
+Scene 406: {'NEWS ANCHOR'}
+Scene 407: {'NEWS ANCHOR'}
+Scene 408: {'GEN. WHITE'}
+Scene 409: {'GEN. WHITE'}
+Scene 410: {'SECURITY CHIEF'}
+Scene 411: {'GEN. WHITE'}
+Scene 412: {'SECURITY CHIEF'}
+Scene 413: {'SECURITY CHIEF'}
+Scene 414: {'SECURITY CHIEF'}
+Scene 415: {'COL. CLAYTON'}
+Scene 416: {'GEN. WHITE'}
+Scene 417: {'GEN. WHITE'}
+Scene 418: {'GEN. WHITE'}
+Scene 419: {'GEN. WHITE'}
+Scene 420: {'GERTIE'}
+Scene 421: {'GEN. WHITE'}
+Scene 422: {'GEN. WHITE'}
+Scene 423: {'GEN. WHITE'}
+Scene 424: {'COL. CLAYTON'}
+Scene 425: {'COL. CLAYTON'}
+Scene 426: {'COL. CLAYTON'}
+Scene 427: {'COL. CLAYTON'}
+Scene 428: {'COL. CLAYTON'}
+Scene 429: {'RICK'}
+Scene 430: {'GERTIE'}
+Scene 431: {'RICK'}
+Scene 432: {'COL. CLAYTON'}
+Scene 433: {'COL. CLAYTON'}
+Scene 434: {'COL. CLAYTON'}
+Scene 435: {'RICK'}
+Scene 436: {'RUBEN'}
+Scene 437: {'RUBEN'}
+Scene 438: {'RUBEN'}
+Scene 439: {'GEN. WHITE'}
+Scene 440: {'RUBEN'}
+Scene 441: {'GEN. WHITE'}
+Scene 442: {'COL. CLAYTON'}
+Scene 443: {'GEN. WHITE'}
+Scene 444: {'GEN. WHITE'}
+Scene 445: {'GEN. WHITE'}
+Scene 446: {'GEN. WHITE'}
+Scene 447: {'GEN. WHITE'}
+Scene 448: {'GEN. WHITE'}
+Scene 449: {'GEN. WHITE'}
+Scene 450: {'GEN. WHITE'}
+Scene 451: {'GEN. WHITE'}
+Scene 452: {'GEN. WHITE'}
+Scene 453: {'GEN. WHITE'}
+Scene 454: {'COL. CLAYTON'}
+Scene 455: {'GEN. WHITE'}
+Scene 456: {'GEN. WHITE'}
+Scene 457: {'ADAM'}
+Scene 458: {'JENNIFER'}
+Scene 459: {'JENNIFER'}
+Scene 460: {'JENNIFER'}
+Scene 461: {'JENNIFER'}
+Scene 462: {'ADAM', 'JENNIFER'}
+Scene 463: {'ADAM'}
+Scene 464: {'JENNIFER'}
+Scene 465: {'JENNIFER'}
+Scene 466: {'JENNIFER'}
+Scene 467: {'JENNIFER'}
+Scene 468: {'JENNIFER'}
+Scene 469: {'ADAM'}
+Scene 470: {'ADAM'}
+Scene 471: {'JENNIFER'}
+Scene 472: {'JENNIFER'}
+Scene 473: {'ADAM'}
+Scene 474: {'JENNIFER'}
+Scene 475: {'JENNIFER'}
+Scene 476: {'JENNIFER'}
+Scene 477: {'JENNIFER'}
+Scene 478: {'JENNIFER'}
+Scene 479: {'ADAM'}
+Scene 480: {'ADAM'}
+Scene 481: {'JENNIFER'}
+Scene 482: {'JENNIFER'}
+Scene 483: {'JENNIFER'}
+Scene 484: {'JENNIFER'}
+Scene 485: {'ADAM'}
+Scene 486: {'ADAM'}
+Scene 487: {'JENNIFER'}
+Scene 488: {'JENNIFER'}
+Scene 489: {'ADAM'}
+Scene 490: {'JENNIFER'}
+Scene 491: {'ADAM'}
+Scene 492: {'JENNIFER'}
+Scene 493: {'ADAM'}
+Scene 494: {'JENNIFER'}
+Scene 495: {'SPEC OPS LEADER'}
+Scene 496: {'SPEC OPS LEADER'}
+Scene 497: {'JENNIFER'}
+Scene 498: {'SPEC OPS LEADER'}
+Scene 499: {'JENNIFER'}
+Scene 500: {'JENNIFER', 'ADAM'}
+Scene 501: {'JENNIFER'}
+Scene 502: {'JENNIFER'}
+Scene 503: {'JENNIFER'}
+Scene 504: {'ADAM'}
+Scene 505: {'JENNIFER'}
+Scene 506: {'ADAM'}
+Scene 507: {'JENNIFER'}
+Scene 508: {'JENNIFER'}
+Scene 509: {'ADAM'}
+Scene 510: {'JENNIFER'}
+Scene 511: {'ADAM'}
+Scene 512: {'JENNIFER'}
+Scene 513: {'ADAM'}
+Scene 514: {'SPEC OPS LEADER'}
+Scene 515: {'ADAM'}
+Scene 516: {'JENNIFER'}
+Scene 517: {'SPEC OPS LEADER'}
+Scene 518: {'SPEC OPS LEADER'}
+Scene 519: {'SPEC OPS LEADER'}
+Scene 520: {'JENNIFER'}
+Scene 521: {'JENNIFER'}
+Scene 522: {'SPEC OPS LEADER/JENNIFER'}
+Scene 523: {'JENNIFER'}
+Scene 524: {'JENNIFER'}
+Scene 525: {'SPEC OPS LEADER/JENNIFER'}
+Scene 526: {'ADAM REACTING'}
+Scene 527: {'JENNIFER'}
+Scene 528: {'JENNIFER'}
+Scene 529: {'JENNIFER'}
+Scene 530: {'ADAM'}
+Scene 531: {'ADAM'}
+Scene 532: {'ADAM'}
+Scene 533: {'JENNIFER'}
+Scene 534: {'ADAM'}
+Scene 535: {'ADAM'}
+Scene 536: {'JENNIFER'}
+Scene 537: {'ADAM'}
+Scene 538: {'COL. CLAYTON'}
+Scene 539: {'COL. CLAYTON'}
+Scene 540: {'COL. CLAYTON'}
+Scene 541: {'COL. CLAYTON'}
+Scene 542: {'COL. CLAYTON'}
+Scene 543: {'COL. CLAYTON'}
+Scene 544: {'RUBEN'}
+Scene 545: {'RUBEN'}
+Scene 546: {'CLIVE'}
+Scene 547: {'GERTIE'}
+Scene 548: {'COL. CLAYTON'}
+Scene 549: {'COL. CLAYTON'}
+Scene 550: {'COL. CLAYTON'}
+Scene 551: {'COL. CLAYTON'}
+Scene 552: {'COL. CLAYTON'}
+Scene 553: {'GERTIE'}
+Scene 554: {'GERTIE'}
+Scene 555: {'RICK'}
+Scene 556: {'COL. CLAYTON'}
+Scene 557: {'COL. CLAYTON'}
+Scene 558: {'COL. CLAYTON'}
+Scene 559: {'COL. CLAYTON'}
+Scene 560: {'COL. CLAYTON'}
+Scene 561: {'RICK'}
+Scene 562: {'RICK'}
+Scene 563: {'RICK'}
+Scene 564: {'RICK'}
+Scene 565: {'COL. CLAYTON'}
+Scene 566: {'SECURITY CHIEF'}
+Scene 567: {'COL. CLAYTON'}
+Scene 568: {'COL. CLAYTON'}
+Scene 569: {'COL. CLAYTON'}
+Scene 570: {'COL. CLAYTON'}
+Scene 571: {'RUBEN'}
+Scene 572: {'GERTIE'}
+Scene 573: {'RUBEN'}
+Scene 574: {'RUBEN'}
+Scene 575: {'GERTIE'}
+Scene 576: {'GERTIE'}
+Scene 577: {'RUBEN'}
+Scene 578: {'GERTIE'}
+Scene 579: {'RUBEN'}
+Scene 580: {'GERTIE'}
+Scene 581: {'GERTIE'}
+Scene 582: {'GERTIE'}
+Scene 583: {'RUBEN'}
+Scene 584: {'GERTIE'}
+Scene 585: {'GERTIE'}
+Scene 586: {'GERTIE'}
+Scene 587: {'GERTIE'}
+Scene 588: {'GERTIE'}
+Scene 589: {'GERTIE'}
+Scene 590: {'RUBEN'}
+Scene 591: {'RUBEN'}
+Scene 592: {'RUBEN'}
+Scene 593: {'RUBEN'}
+Scene 594: {'RUBEN'}
+Scene 595: {'RUBEN'}
+Scene 596: {'GERTIE'}
+Scene 597: {'RUBEN'}
+Scene 598: {'RUBEN'}
+Scene 599: {'RUBEN'}
+Scene 600: {'RUBEN'}
+Scene 601: {'RUBEN'}
+Scene 602: {'RUBEN'}
+Scene 603: {'GERTIE'}
+Scene 604: {'RUBEN'}
+Scene 605: {'RUBEN'}
+Scene 606: {'GERTIE'}
+Scene 607: {'GERTIE'}
+Scene 608: {'GERTIE'}
+Scene 609: {'RUBEN'}
+Scene 610: {'RUBEN'}
+Scene 611: {'GERTIE'}
+Scene 612: {'GERTIE'}
+Scene 613: {'GERTIE'}
+Scene 614: {'GERTIE'}
+Scene 615: {'RUBEN'}
+Scene 616: {'ADAM'}
+Scene 617: {'JENNIFER'}
+Scene 618: {'JENNIFER'}
+Scene 619: {'JENNIFER'}
+Scene 620: {'JENNIFER'}
+Scene 621: {'JENNIFER'}
+Scene 622: {'JENNIFER'}
+Scene 623: {'JENNIFER'}
+Scene 624: {'JENNIFER'}
+Scene 625: {'JENNIFER'}
+Scene 626: {'ADAM'}
+Scene 627: {'JENNIFER'}
+Scene 628: {'JENNIFER'}
+Scene 629: {'JENNIFER'}
+Scene 630: {'JENNIFER'}
+Scene 631: {'JENNIFER'}
+Scene 632: {'ADAM'}
+Scene 633: {'JENNIFER'}
+Scene 634: {'JENNIFER'}
+Scene 635: {'JENNIFER'}
+Scene 636: {'JENNIFER'}
+Scene 637: {'JENNIFER'}
+Scene 638: {'JENNIFER'}
+Scene 639: {'JENNIFER'}
+Scene 640: {'ADAM'}
+Scene 641: {'JENNIFER'}
+Scene 642: {'ADAM'}
+Scene 643: {'JENNIFER'}
+Scene 644: {'JENNIFER'}
+Scene 645: {'JENNIFER'}
+Scene 646: {'JENNIFER'}
+Scene 647: {'JENNIFER'}
+Scene 648: {'JENNIFER'}
+Scene 649: {'JENNIFER'}
+Scene 650: {'JENNIFER'}
+Scene 651: {'JENNIFER'}
+Scene 652: {'JENNIFER'}
+Scene 653: {'JENNIFER', 'ADAM'}
+Scene 654: {'JENNIFER'}
+Scene 655: {'JENNIFER'}
+Scene 656: {'JENNIFER'}
+Scene 657: {'JENNIFER'}
+Scene 658: {'JENNIFER'}
+Scene 659: {'JENNIFER'}
+Scene 660: {'JENNIFER'}
+Scene 661: {'JENNIFER'}
+Scene 662: {'JENNIFER'}
+Scene 663: {'JENNIFER'}
+Scene 664: {'ADAM'}
+Scene 665: {'JENNIFER'}
+Scene 666: {'JENNIFER'}
+Scene 667: {'ADAM'}
+Scene 668: {'JENNIFER'}
+Scene 669: {'ADAM'}
+Scene 670: {'JENNIFER'}
+Scene 671: {'ADAM'}
+Scene 672: {'JENNIFER'}
+Scene 673: {'ADAM'}
+Scene 674: {'JENNIFER'}
+Scene 675: {'JENNIFER'}
+Scene 676: {'JENNIFER'}
+Scene 677: {'ADAM'}
+Scene 678: {'ADAM'}
+Scene 679: {'ADAM'}
+Scene 680: {'ADAM'}
+Scene 681: {'ADAM'}
+Scene 682: {'ADAM'}
+Scene 683: {'ADAM'}
+Scene 684: {'JENNIFER'}
+Scene 685: {'YOUNG JENNIFER'}
+Scene 686: {'YOUNG JENNIFER'}
+Scene 687: {'YOUNG JENNIFER'}
+Scene 688: {'YOUNG JENNIFER'}
+Scene 689: {'YOUNG JENNIFER'}
+Scene 690: {'DAD'}
+Scene 691: {'YOUNG JENNIFER'}
+Scene 692: {'DAD'}
+Scene 693: {'YOUNG JENNIFER'}
+Scene 694: {'YOUNG JENNIFER'}
+Scene 695: {'DAD'}
+Scene 696: {'DAD'}
+Scene 697: {'YOUNG JENNIFER'}
+Scene 698: {'DAD'}
+Scene 699: {'YOUNG JENNIFER'}
+Scene 700: {'DAD'}
+Scene 701: {'YOUNG JENNIFER'}
+Scene 702: {'DAD'}
+Scene 703: {'YOUNG JENNIFER'}
+Scene 704: {'DAD'}
+Scene 705: {'YOUNG JENNIFER'}
+Scene 706: {'DAD'}
+Scene 707: {'YOUNG JENNIFER'}
+Scene 708: {'DAD'}
+Scene 709: {'YOUNG JENNIFER'}
+Scene 710: {'JENNIFER'}
+Scene 711: {'JENNIFER'}
+Scene 712: {'JENNIFER'}
+Scene 713: {'JENNIFER'}
+Scene 714: {'JENNIFER'}
+Scene 715: {'JENNIFER'}
+Scene 716: {'JENNIFER'}
+Scene 717: {'JENNIFER'}
+Scene 718: {'JENNIFER'}
+Scene 719: {'JENNIFER'}
+Scene 720: {'JENNIFER'}
+Scene 721: {'JENNIFER'}
+Scene 722: {'JENNIFER'}
+Scene 723: {'ADAM'}
+Scene 724: {'JENNIFER'}
+Scene 725: {'JENNIFER'}
+Scene 726: {'JENNIFER'}
+Scene 727: {'JENNIFER'}
+Scene 728: {'ADAM'}
+Scene 729: {'JENNIFER'}
+Scene 730: {'JENNIFER'}
+Scene 731: {'JENNIFER'}
+Scene 732: {'ADAM'}
+Scene 733: {'JENNIFER'}
+Scene 734: {'ADAM'}
+Scene 735: {'JENNIFER'}
+Scene 736: {'JENNIFER'}
+Scene 737: {'RICK'}
+Scene 738: {'CLIVE'}
+Scene 739: {'COL. CLAYTON'}
+Scene 740: {'GERTIE'}
+Scene 741: {'CLIVE'}
+Scene 742: {'CLIVE'}
+Scene 743: {'COL. CLAYTON'}
+Scene 744: {'COL. CLAYTON'}
+Scene 745: {'COL. CLAYTON'}
+Scene 746: {'COL. CLAYTON'}
+Scene 747: {'CLIVE'}
+Scene 748: {'COL. CLAYTON', 'RICK'}
+Scene 749: {'GERTIE'}
+Scene 750: {'CLIVE'}
+Scene 751: {'CLIVE'}
+Scene 752: {'COL. CLAYTON'}
+Scene 753: {'CLIVE'}
+Scene 754: {'CLIVE'}
+Scene 755: {'SECURITY CHIEF'}
+Scene 756: {'JENNIFER'}
+Scene 757: {'ADAM'}
+Scene 758: {'ADAM'}
+Scene 759: {'ADAM'}
+Scene 760: {'ADAM'}
+Scene 761: {'ADAM'}
+Scene 762: {'ADAM'}
+Scene 763: {'ADAM'}
+Scene 764: {'ADAM'}
+Scene 765: {'ADAM'}
+Scene 766: {'JENNIFER'}
+Scene 767: {'ADAM'}
+Scene 768: {'JENNIFER'}
+Scene 769: {'JENNIFER'}
+Scene 770: {'JENNIFER'}
+Scene 771: {'JENNIFER'}
+Scene 772: {'JENNIFER'}
+Scene 773: {'JENNIFER'}
+Scene 774: {'JENNIFER'}
+Scene 775: {'JENNIFER'}
+Scene 776: {'JENNIFER'}
+Scene 777: {'JENNIFER'}
+Scene 778: {'JENNIFER'}
+Scene 779: {'JENNIFER'}
+Scene 780: {'JENNIFER'}
+Scene 781: {'JENNIFER'}
+Scene 782: {'JENNIFER'}
+Scene 783: {'JENNIFER'}
+Scene 784: {'JENNIFER'}
+Scene 785: {'JENNIFER'}
+Scene 786: {'ADAM'}
+Scene 787: {'JENNIFER'}
+Scene 788: {'ADAM'}
+Scene 789: {'JENNIFER'}
+Scene 790: {'ADAM'}
+Scene 791: {'JENNIFER'}
+Scene 792: {'ADAM'}
+Scene 793: {'RICK'}
+Scene 794: {'SPEC OPS LEADER'}
+Scene 795: {'COL. CLAYTON OVER RADIO'}
+Scene 796: {'COL. CLAYTON OVER RADIO'}
+Scene 797: {'GERTIE'}
+Scene 798: {'ADAM'}
+Scene 799: {'ADAM'}
+Scene 800: {'ADAM'}
+Scene 801: {'ADAM'}
+Scene 802: {'ADAM'}
+Scene 803: {'ADAM'}
+Scene 804: {'JENNIFER'}
+Scene 805: {'ADAM'}
+Scene 806: {'JENNIFER'}
+Scene 807: {'JENNIFER'}
+Scene 808: {'JENNIFER'}
+Scene 809: {'JENNIFER'}
+Scene 810: {'JENNIFER'}
+Scene 811: {'JENNIFER'}
+Scene 812: {'ADAM'}
+Scene 813: {'JENNIFER'}
+Scene 814: {'JENNIFER'}
+Scene 815: {'ADAM'}
+Scene 816: {'SPEC OPS LEADER'}
+Scene 817: {'SPEC OPS LEADER'}
+Scene 818: {'RICK'}
+Scene 819: {'RICK'}
+Scene 820: {'RICK/RUBEN'}
+Scene 821: {'RICK/RUBEN'}
+Scene 822: {'RICK/RUBEN'}
+Scene 823: {'RUBEN'}
+Scene 824: {'RUBEN'}
+Scene 825: {'RICK'}
+Scene 826: {'RICK'}
+Scene 827: {'RUBEN'}
+Scene 828: {'RUBEN'}
+Scene 829: {'GERTIE'}
+Scene 830: {'RUBEN'}
+Scene 831: {'RICK/RUBEN'}
+Scene 832: {'RICK/RUBEN'}
+Scene 833: {'RICK/RUBEN'}
+Scene 834: {'ADAM'}
+Scene 835: {'ADAM'}
+Scene 836: {'JENNIFER'}
+Scene 837: {'JENNIFER'}
+Scene 838: {'ADAM'}
+Scene 839: {'ADAM'}
+Scene 840: {'JENNIFER'}
+Scene 841: {'JENNIFER'}
+Scene 842: {'JENNIFER'}
+Scene 843: {'JENNIFER'}
+Scene 844: {'JENNIFER'}
+Scene 845: {'JENNIFER'}
+Scene 846: {'JENNIFER'}
+Scene 847: {'JENNIFER'}
+Scene 848: {'JENNIFER'}
+Scene 849: {'JENNIFER'}
+Scene 850: {'JENNIFER'}
+Scene 851: {'JENNIFER'}
+Scene 852: {'ADAM'}
+Scene 853: {'ADAM'}
+Scene 854: {'JENNIFER'}
+Scene 855: {'JENNIFER'}
+Scene 856: {'JENNIFER'}
+Scene 857: {'JENNIFER'}
+Scene 858: {'JENNIFER'}
+Scene 859: {'JENNIFER'}
+Scene 860: {'ADAM'}
+Scene 861: {'ADAM'}
+Scene 862: {'ADAM'}
+Scene 863: {'ADAM'}
+Scene 864: {'JENNIFER'}
+Scene 865: {'JENNIFER'}
+Scene 866: {'ADAM'}
+Scene 867: {'JENNIFER'}
+Scene 868: {'JENNIFER'}
+Scene 869: {'JENNIFER'}
+Scene 870: {'ADAM'}
+Scene 871: {'JENNIFER'}
+Scene 872: {'JENNIFER'}
+Scene 873: {'JENNIFER'}
+Scene 874: {'RICK'}
+Scene 875: {'RICK'}
+Scene 876: {'SPEC OPS LEADER/ADAM'}
+Scene 877: {'JENNIFER'}
+Scene 878: {'JENNIFER'}
+Scene 879: {'RUBEN'}
+Scene 880: {'CLIVE'}
+Scene 881: {'CLIVE'}
+Scene 882: {'JENNIFER', 'CLIVE'}
+Scene 883: {'CLIVE'}
+Scene 884: {'JENNIFER'}
+Scene 885: {'CLIVE'}
+Scene 886: {'GERTIE'}
+Scene 887: {'GERTIE'}
+Scene 888: {'GERTIE'}
+Scene 889: {'JENNIFER'}
+Scene 890: {'GERTIE'}
+Scene 891: {'JENNIFER'}
+Scene 892: {'GERTIE'}
+Scene 893: {'GERTIE'}
+Scene 894: {'GERTIE'}
+Scene 895: {'RICK'}
+Scene 896: {'GERTIE'}
+Scene 897: {'GERTIE'}
+Scene 898: {'RICK'}
+Scene 899: {'JENNIFER'}
+Scene 900: {'JENNIFER'}
+Scene 901: {'JENNIFER'}
+Scene 902: {'RICK'}
+Scene 903: {'RICK'}
+Scene 904: {'RICK'}
+Scene 905: {'RUBEN'}
+Scene 906: {'RICK'}
+Scene 907: {'RICK'}
+Scene 908: {'RUBEN'}
+Scene 909: {'RUBEN'}
+Scene 910: {'JENNIFER'}
+Scene 911: {'JENNIFER'}
+Scene 912: {'CLIVE'}
+Scene 913: {'MAN'}
+Scene 914: {'MAN'}
+Scene 915: {'MAN'}
+Scene 916: {'MAN'}
+Scene 917: {'MAN'}
+Scene 918: {'MAN'}
+Scene 919: {'MAN'}
+Scene 920: {'MAN'}
+Scene 921: {'MAN'}
+Scene 922: {'MAN'}
+Scene 923: {'JENNIFER'}
+Scene 924: {'JENNIFER'}
+Scene 925: {'RUBEN'}
+Scene 926: {'RUBEN'}
+Scene 927: {'RUBEN'}
+Scene 928: {'JENNIFER'}
+Scene 929: {'RUBEN'}
+Scene 930: {'JENNIFER'}
+Scene 931: {'JENNIFER'}
+Scene 932: {'JENNIFER'}
+Scene 933: {'RUBEN'}
+Scene 934: {'COL. CLAYTON'}
+Scene 935: {'COL. CLAYTON'}
+Scene 936: {'COL. CLAYTON'}
+Scene 937: {'COL. CLAYTON'}
+Scene 938: {'COL. CLAYTON'}
+Scene 939: {'COL. CLAYTON'}
+Scene 940: {'COL. CLAYTON'}
+Scene 941: {'COL. CLAYTON'}
+Scene 942: {'RUBEN'}
+Scene 943: {'RUBEN'}
+Scene 944: {'JENNIFER'}
+Scene 945: {'SPEC OPS LEADER'}
+Scene 946: {'SPEC OPS LEADER'}
+Scene 947: {'SPEC OPS LEADER'}
+Scene 948: {'SPEC OPS LEADER/ADAM'}
+Scene 949: {'SPEC OPS LEADER'}
+Scene 950: {'ADAM'}
+Scene 951: {'ADAM'}
+Scene 952: {'ADAM'}
+Scene 953: {'SPEC OPS LEADER'}
+Scene 954: {'JENNIFER'}
+Scene 955: {'SPEC OPS LEADER'}
+Scene 956: {'SPEC OPS LEADER'}
+Scene 957: {'JENNIFER/RUBEN'}
+Scene 958: {'JENNIFER/RUBEN'}
+Scene 959: {'JENNIFER/RUBEN'}
+Scene 960: {'RUBEN'}
+Scene 961: {'ADAM'}
+Scene 962: {'ADAM'}
+Scene 963: {'SPEC OPS LEADER'}
+Scene 964: {'RUBEN'}
+Scene 965: {'ADAM'}
+Scene 966: {'JENNIFER'}
+Scene 967: {'RUBEN'}
+Scene 968: {'RUBEN'}
+Scene 969: {'JENNIFER'}
+Scene 970: {'PILOT'}
+Scene 971: {'PILOT'}
+Scene 972: {'PILOT'}
+Scene 973: {'PILOT'}
+Scene 974: {'PILOT'}
+Scene 975: {'LAB TECH'}
+Scene 976: {'COL. CLAYTON'}
+Scene 977: {'GEN. WHITE OVER SPEAKER'}
+Scene 978: {'GEN. WHITE OVER SPEAKER'}
+Scene 979: {'GEN. WHITE'}
+Scene 980: {'COL. CLAYTON'}
+Scene 981: {'COL. CLAYTON'}
+Scene 982: {'GEN. WHITE OVER SPEAKER'}
+Scene 983: {'COL. CLAYTON'}
+Scene 984: {'COL. CLAYTON'}
+Scene 985: {'COL. CLAYTON'}
+Scene 986: {'GEN. WHITE'}
+Scene 987: {'GEN. WHITE'}
+Scene 988: {'GEN. WHITE'}
+Scene 989: {'GEN. WHITE OVER SPEAKER'}
+Scene 990: {'GEN. WHITE'}
+Scene 991: {'GEN. WHITE'}
+Scene 992: {'COL. CLAYTON'}
+Scene 993: {'COL. CLAYTON'}
+Scene 994: {'COL. CLAYTON'}
+Scene 995: {'COL. CLAYTON'}
+Scene 996: {'GEN. WHITE'}
+Scene 997: {'COL. CLAYTON OVER SPEAKER'}
+Scene 998: {'COL. CLAYTON'}
+Scene 999: {'COL. CLAYTON OVER SPEAKER'}
+Scene 1000: {'COL. CLAYTON'}
+Scene 1001: {'COL. CLAYTON'}
+Scene 1002: {'COL. CLAYTON'}
+Scene 1003: {'GEN. WHITE'}
+Scene 1004: {'GEN. WHITE'}
+Scene 1005: {'GEN. WHITE'}
+Scene 1006: {'COL. CLAYTON'}
+Scene 1007: {'COL. CLAYTON'}
+Scene 1008: {'COL. CLAYTON'}
+Scene 1009: {'COL. CLAYTON'}
+Scene 1010: {'LAB TECH #1'}
+Scene 1011: {'COL. CLAYTON'}
+Scene 1012: {'GEN. WHITE'}
+Scene 1013: {'GEN. WHITE'}
+Scene 1014: {'WOMAN#9'}
+Scene 1015: {'RUBEN'}
+Scene 1016: {'JENNIFER'}
+Scene 1017: {'ADAM'}
+Scene 1018: {'RUBEN'}
+Scene 1019: {'RUBEN'}
+Scene 1020: {'ADAM/JENNIFER'}
+Scene 1021: {'JENNIFER'}
+Scene 1022: {'ADAM'}
+Scene 1023: {'ADAM'}
+Scene 1024: {'RUBEN'}
+Scene 1025: {'RUBEN'}
+Scene 1026: {'JENNIFER/JENNIFER'}
+Scene 1027: {'JENNIFER/JENNIFER'}
+Scene 1028: {'ADAM', 'JENNIFER'}
+Scene 1029: {'JENNIFER'}
+Scene 1030: {'ADAM'}
+Scene 1031: {'RUBEN'}
+Scene 1032: {'COL. CLAYTON'}
+Scene 1033: {'COL. CLAYTON'}
+Scene 1034: {'COL. CLAYTON'}
+Scene 1035: {'COL. CLAYTON'}
+Scene 1036: {'RUBEN'}
+Scene 1037: {'COL. CLAYTON'}
+Scene 1038: {'COL. CLAYTON'}
+Scene 1039: {'COL. CLAYTON'}
+Scene 1040: {'COL. CLAYTON'}
+Scene 1041: {'RUBEN'}
+Scene 1042: {'RUBEN'}
+Scene 1043: {'COL. CLAYTON'}
+Scene 1044: {'RUBEN'}
+Scene 1045: {'COL. CLAYTON'}
+Scene 1046: {'RUBEN'}
+Scene 1047: {'COL. CLAYTON'}
+Scene 1048: {'COL. CLAYTON'}
+Scene 1049: {'COL. CLAYTON'}
+Scene 1050: {'COL. CLAYTON'}
+Scene 1051: {'COL. CLAYTON'}
+Scene 1052: {'COL. CLAYTON'}
+Scene 1053: {'RUBEN'}
+Scene 1054: {'JENNIFER'}
+Scene 1055: {'COL. CLAYTON'}
+Scene 1056: {'COL. CLAYTON'}
+Scene 1057: {'COL. CLAYTON'}
+Scene 1058: {'COL. CLAYTON'}
+Scene 1059: {'JENNIFER'}
+Scene 1060: {'JENNIFER'}
+Scene 1061: {'COL. CLAYTON'}
+Scene 1062: {'COL. CLAYTON'}
+Scene 1063: {'COL. CLAYTON'}
+Scene 1064: {'COL. CLAYTON'}
+Scene 1065: {'COL. CLAYTON'}
+Scene 1066: {'COL. CLAYTON'}
+Scene 1067: {'COL. CLAYTON'}
+Scene 1068: {'ADAM'}
+Scene 1069: {'COL. CLAYTON'}
+Scene 1070: {'COL. CLAYTON'}
+Scene 1071: {'COL. CLAYTON'}
+Scene 1072: {'JENNIFER'}
+Scene 1073: {'COL. CLAYTON'}
+Scene 1074: {'COL. CLAYTON'}
+Scene 1075: {'COL. CLAYTON'}
+Scene 1076: {'COL. CLAYTON'}
+Scene 1077: {'COL. CLAYTON'}
+Scene 1078: {'COL. CLAYTON'}
+Scene 1079: {'COL. CLAYTON'}
+Scene 1080: {'COL. CLAYTON'}
+Scene 1081: {'COL. CLAYTON'}
+Scene 1082: {'JENNIFER'}
+Scene 1083: {'COL. CLAYTON'}
+Scene 1084: {'COL. CLAYTON'}
+Scene 1085: {'COL. CLAYTON'}
+Scene 1086: {'COL. CLAYTON'}
+Scene 1087: {'COL. CLAYTON'}
+Scene 1088: {'COL. CLAYTON'}
+Scene 1089: {'COL. CLAYTON'}
+Scene 1090: {'COL. CLAYTON'}
+Scene 1091: {'JENNIFER/ADAM'}
+Scene 1092: {'JENNIFER'}
+Scene 1093: {'ADAM'}
+Scene 1094: {'JENNIFER'}
+Scene 1095: {'JENNIFER'}
+Scene 1096: {'ADAM'}
+Scene 1097: {'JENNIFER'}
+Scene 1098: {'JENNIFER'}
+Scene 1099: {'JENNIFER'}
+Scene 1100: {'ADAM'}
+Scene 1101: {'JENNIFER'}
+Scene 1102: {'ADAM'}
+Scene 1103: {'JENNIFER'}
+Scene 1104: {'RUBEN'}
+Scene 1105: {'RUBEN'}
+Scene 1106: {'RUBEN'}
+Scene 1107: {'RICK'}
+Scene 1108: {'JENNIFER'}
+Scene 1109: {'JENNIFER'}
+Scene 1110: {'JENNIFER'}
+Scene 1111: {'RICK'}
+Scene 1112: {'RICK'}
+Scene 1113: {'ADAM'}
+Scene 1114: {'RICK'}
+Scene 1115: {'JENNIFER'}
+Scene 1116: {'JENNIFER'}
+Scene 1117: {'JENNIFER'}
+Scene 1118: {'RICK'}
+Scene 1119: {'RICK'}
+Scene 1120: {'RICK'}
+Scene 1121: {'RICK'}
+Scene 1122: {'JENNIFER'}
+Scene 1123: {'ADAM'}
+Scene 1124: {'ADAM'}
+Scene 1125: {'JENNIFER'}
+Scene 1126: {'JENNIFER'}
+Scene 1127: {'JENNIFER'}
+Scene 1128: {'NEWS ANCHOR'}
+Scene 1129: {'NEWS ANCHOR'}
+Scene 1130: {'NEWS ANCHOR'}
+Scene 1131: {'NEWS ANCHOR'}
+Scene 1132: {'NEWS ANCHOR'}
+Scene 1133: {'NEWS ANCHOR'}
+Scene 1134: {'NEWS ANCHOR'}
+Scene 1135: {'NEWS ANCHOR'}
+Scene 1136: {'NEWS ANCHOR'}
+Scene 1137: {'NEWS ANCHOR'}
+Scene 1138: {'NEWS ANCHOR'}
+Scene 1139: {'NEWS ANCHOR'}
+Scene 1140: {'NEWS ANCHOR'}
+Scene 1141: {'NEWS ANCHOR'}
+Scene 1142: {'NEWS ANCHOR'}
+Scene 1143: {'NEWS ANCHOR'}
+Scene 1144: {'NEWS ANCHOR'}
+Scene 1145: {'NEWS ANCHOR'}
+Scene 1146: {'NEWS ANCHOR'}
+Scene 1147: {'PRESIDENT CORONADO'}
+Scene 1148: {'PRESIDENT CORONADO'}
+Scene 1149: {'PRESIDENT CORONADO'}
+Scene 1150: {'PRESIDENT CORONADO'}
+Scene 1151: {'PRESIDENT CORONADO'}
+Scene 1152: {'PRESIDENT CORONADO'}
+Scene 1153: {'PRESIDENT CORONADO'}
+Scene 1154: {'PRESIDENT CORONADO'}
+Scene 1155: {'PRESIDENT CORONADO'}
+Scene 1156: {'PRESIDENT CORONADO'}
+Scene 1157: {'PRESIDENT CORONADO'}
+Scene 1158: {'PRESIDENT CORONADO'}
+Scene 1159: {'PRESIDENT CORONADO'}
+Scene 1160: {'PRESIDENT CORONADO'}
+Scene 1161: {'PRESIDENT CORONADO'}
+Scene 1162: {'GEN. WHITE'}
+Scene 1163: {'GEN. WHITE'}
+Scene 1164: {'GEN. WHITE'}
+Scene 1165: {'GEN. WHITE'}
+Scene 1166: {'GEN. WHITE'}
+Scene 1167: {'GEN. WHITE'}
+Scene 1168: {'GEN. WHITE'}
+Scene 1169: {'GEN. WHITE'}
+Scene 1170: {'GEN. WHITE'}
+Scene 1171: {'GEN. WHITE'}
+Scene 1172: {'GEN. WHITE'}
+Scene 1173: {'GEN. WHITE'}
+Scene 1174: {'JENNIFER'}
+Scene 1175: {'ADAM'}
+Scene 1176: {'JENNIFER'}
+Scene 1177: {'ADAM'}
+Scene 1178: {'JENNIFER'}

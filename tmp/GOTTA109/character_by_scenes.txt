@@ -1,0 +1,268 @@
+Scene 3: {'NOLA'}
+Scene 4: {'DR. JAMISON'}
+Scene 5: {'NOLA'}
+Scene 6: {'DR. JAMISON'}
+Scene 7: {'NOLA'}
+Scene 8: {'DR. JAMISON'}
+Scene 9: {'NOLA'}
+Scene 10: {'DR. JAMISON'}
+Scene 11: {'NOLA'}
+Scene 12: {'DR. JAMISON'}
+Scene 13: {'NOLA'}
+Scene 14: {'DR. JAMISON'}
+Scene 15: {'NOLA'}
+Scene 16: {'DR. JAMISON'}
+Scene 17: {'NOLA'}
+Scene 18: {'DR. JAMISON'}
+Scene 19: {'NOLA'}
+Scene 20: {'DR. JAMISON'}
+Scene 21: {'NOLA'}
+Scene 22: {'DR. JAMISON'}
+Scene 23: {'NOLA'}
+Scene 24: {'DR. JAMISON'}
+Scene 25: {'NOLA'}
+Scene 26: {'DR. JAMISON'}
+Scene 27: {'NOLA'}
+Scene 28: {'DR. JAMISON'}
+Scene 29: {'NOLA'}
+Scene 30: {'DR. JAMISON'}
+Scene 31: {'NOLA'}
+Scene 32: {'DR. JAMISON'}
+Scene 33: {'NOLA'}
+Scene 34: {'DR. JAMISON'}
+Scene 35: {'NOLA'}
+Scene 36: {'DR. JAMISON'}
+Scene 37: {'NOLA'}
+Scene 38: {'DR. JAMISON'}
+Scene 39: {'NOLA'}
+Scene 40: {'DR. JAMISON'}
+Scene 41: {'NOLA'}
+Scene 42: {'DR. JAMISON'}
+Scene 43: {'NOLA'}
+Scene 44: {'DR. JAMISON'}
+Scene 45: {'NOLA'}
+Scene 46: {'DR. JAMISON'}
+Scene 47: {'NOLA'}
+Scene 48: {'BIANCA TATE'}
+Scene 49: {'STOKLEY'}
+Scene 50: {'BIANCA TATE'}
+Scene 51: {'STOKLEY'}
+Scene 52: {'MAX'}
+Scene 53: {'BIANCA TATE'}
+Scene 54: {'MAX'}
+Scene 55: {'BIANCA TATE'}
+Scene 56: {'PAPO'}
+Scene 57: {'NOLA'}
+Scene 58: {'BIANCA TATE'}
+Scene 59: {'SEPTIMA'}
+Scene 60: {'BIANCA TATE'}
+Scene 61: {'RACHEL'}
+Scene 62: {'BIANCA TATE'}
+Scene 63: {'RACHEL'}
+Scene 64: {'BIANCA TATE'}
+Scene 65: {'SHELLY'}
+Scene 66: {'DOUG'}
+Scene 67: {'PAPO'}
+Scene 68: {'RACHEL'}
+Scene 69: {'BIANCA TATE'}
+Scene 70: {'STOKLEY'}
+Scene 71: {'MAX'}
+Scene 72: {'BIANCA TATE'}
+Scene 73: {'NOLA'}
+Scene 74: {'BIANCA TATE'}
+Scene 75: {'MAX'}
+Scene 76: {'PAPO'}
+Scene 77: {'BIANCA TATE'}
+Scene 78: {'STOKLEY'}
+Scene 79: {'BIANCA TATE'}
+Scene 80: {'MAX'}
+Scene 81: {'PAPO'}
+Scene 82: {'SEPTIMA'}
+Scene 83: {'BIANCA TATE'}
+Scene 84: {'SEPTIMA'}
+Scene 85: {'STOKLEY'}
+Scene 86: {'BIANCA TATE'}
+Scene 87: {'STOKLEY'}
+Scene 88: {'NOLA'}
+Scene 89: {'KERVON'}
+Scene 90: {'NOLA'}
+Scene 91: {'REGGIE'}
+Scene 92: {'NOLA'}
+Scene 93: {'REGGIE'}
+Scene 94: {'NOLA'}
+Scene 95: {'HASSAN'}
+Scene 96: {'NOLA'}
+Scene 97: {'KIDS'}
+Scene 98: {'REGGIE'}
+Scene 99: {'KERVON'}
+Scene 100: {'HASSAN'}
+Scene 101: {'REGGIE'}
+Scene 102: {'NOLA'}
+Scene 103: {'CLORINDA'}
+Scene 104: {'NOLA'}
+Scene 105: {'CLORINDA'}
+Scene 106: {'NOLA'}
+Scene 107: {'CLORINDA'}
+Scene 108: {'NOLA'}
+Scene 109: {'CLORINDA'}
+Scene 110: {'NOLA'}
+Scene 111: {'CLORINDA'}
+Scene 112: {'NOLA'}
+Scene 113: {'CLORINDA'}
+Scene 114: {'NOLA'}
+Scene 115: {'CLORINDA'}
+Scene 116: {'NOLA'}
+Scene 117: {'CLORINDA'}
+Scene 118: {'NOLA'}
+Scene 119: {'CLORINDA'}
+Scene 120: {'NOLA'}
+Scene 121: {'CLORINDA'}
+Scene 122: {'NOLA'}
+Scene 123: {'CLORINDA'}
+Scene 124: {'NOLA'}
+Scene 125: {'CLORINDA'}
+Scene 126: {'NOLA'}
+Scene 127: {'CLORINDA'}
+Scene 128: {'NOLA'}
+Scene 129: {'CUSTOMER'}
+Scene 130: {'MARS'}
+Scene 131: {'CUSTOMER'}
+Scene 132: {'MARS'}
+Scene 133: {'NOLA'}
+Scene 134: {'MARS'}
+Scene 135: {'NOLA'}
+Scene 136: {'MARS'}
+Scene 137: {'NOLA'}
+Scene 138: {'MARS'}
+Scene 139: {'NOLA'}
+Scene 140: {'MARS'}
+Scene 141: {'NOLA'}
+Scene 142: {'MARS'}
+Scene 143: {'NOLA'}
+Scene 144: {'MARS'}
+Scene 145: {'NOLA'}
+Scene 146: {'MARS'}
+Scene 147: {'NOLA'}
+Scene 148: {'MARS'}
+Scene 149: {'NOLA'}
+Scene 150: {'MARS'}
+Scene 151: {'NOLA'}
+Scene 152: {'MARS'}
+Scene 153: {'NOLA'}
+Scene 154: {'MARS'}
+Scene 155: {'NOLA'}
+Scene 156: {'MARS'}
+Scene 157: {'NOLA'}
+Scene 158: {'MARS'}
+Scene 159: {'NOLA'}
+Scene 160: {'MARS'}
+Scene 161: {'NOLA'}
+Scene 162: {'MARS'}
+Scene 163: {'SHEMEKKA'}
+Scene 164: {'NOLA'}
+Scene 165: {'SHEMEKKA'}
+Scene 166: {'NOLA'}
+Scene 167: {'SHEMEKKA'}
+Scene 168: {'NOLA'}
+Scene 169: {'SHEMEKKA'}
+Scene 170: {'NOLA'}
+Scene 171: {'SHEMEKKA'}
+Scene 172: {'NOLA'}
+Scene 173: {'SHEMEKKA'}
+Scene 174: {'NOLA'}
+Scene 175: {'SHEMEKKA'}
+Scene 176: {'NOLA'}
+Scene 177: {'SHEMEKKA'}
+Scene 178: {'NOLA'}
+Scene 179: {'SHEMEKKA'}
+Scene 180: {'NOLA'}
+Scene 181: {'SHEMEKKA'}
+Scene 182: {'NOLA'}
+Scene 183: {'GREER'}
+Scene 184: {'NOLA'}
+Scene 185: {'GREER'}
+Scene 186: {'NOLA'}
+Scene 187: {'GREER'}
+Scene 188: {'NOLA'}
+Scene 189: {'BIANCA TATE'}
+Scene 190: {'PAPO'}
+Scene 191: {'BIANCA TATE'}
+Scene 192: {'PAPO'}
+Scene 193: {'MARS'}
+Scene 194: {'NOLA'}
+Scene 195: {'GREER'}
+Scene 196: {'NOLA'}
+Scene 197: {'GREER'}
+Scene 198: {'NOLA'}
+Scene 199: {'GREER'}
+Scene 200: {'NOLA'}
+Scene 201: {'GREER'}
+Scene 202: {'NOLA'}
+Scene 203: {'BIANCA TATE'}
+Scene 204: {'GREER'}
+Scene 205: {'BIANCA TATE'}
+Scene 206: {'PAPO'}
+Scene 207: {'BIANCA TATE'}
+Scene 208: {'PAPO'}
+Scene 209: {'NOLA'}
+Scene 210: {'GREER'}
+Scene 211: {'NOLA'}
+Scene 212: {'MARS'}
+Scene 213: {'GREER'}
+Scene 214: {'NOLA'}
+Scene 215: {'NOLA'}
+Scene 216: {'MARS'}
+Scene 217: {'NOLA'}
+Scene 218: {'MARS'}
+Scene 219: {'OFFICER BRINKLEY'}
+Scene 220: {'BIANCA TATE'}
+Scene 221: {'OFFICER BRINKLEY'}
+Scene 222: {'BIANCA TATE'}
+Scene 223: {'PAPO'}
+Scene 224: {'NOLA'}
+Scene 225: {'BIANCA TATE'}
+Scene 226: {'NOLA'}
+Scene 227: {'PAPO'}
+Scene 228: {'OFFICER DIAZ'}
+Scene 229: {'PAPO'}
+Scene 230: {'OFFICER BRINKLEY'}
+Scene 231: {'PAPO'}
+Scene 232: {'BIANCA TATE'}
+Scene 233: {'PAPO'}
+Scene 234: {'BIANCA TATE'}
+Scene 235: {'MAX'}
+Scene 236: {'BIANCA TATE'}
+Scene 237: {'OFFICER DIAZ'}
+Scene 238: {'PAPO'}
+Scene 239: {'OFFICER BRINKLEY'}
+Scene 240: {'NOLA'}
+Scene 241: {'OFFICER DIAZ'}
+Scene 242: {'NOLA'}
+Scene 243: {'BIANCA TATE'}
+Scene 244: {'MARS'}
+Scene 245: {'NOLA'}
+Scene 246: {'MARS'}
+Scene 247: {'OFFICER BRINKLEY'}
+Scene 248: {'OFFICER DIAZ'}
+Scene 249: {'NOLA'}
+Scene 250: {'MISS ELLA'}
+Scene 251: {'OFFICER DIAZ'}
+Scene 252: {'BIANCA TATE'}
+Scene 253: {'OFFICER DIAZ'}
+Scene 254: {'MARS'}
+Scene 255: {'MISS ELLA'}
+Scene 256: {'FEMALE OFFICER'}
+Scene 257: {'PAPO'}
+Scene 258: {'OFFICER BRINKLEY'}
+Scene 259: {'NOLA'}
+Scene 260: {'FRANK SINATRA (SINGS)'}
+Scene 261: {'FRANK SINATRA (SINGS)'}
+Scene 262: {'OFFICER BRINKLEY'}
+Scene 263: {'NOLA'}
+Scene 264: {'OPAL'}
+Scene 265: {'NOLA'}
+Scene 266: {'OPAL'}
+Scene 267: {'OPAL'}
+Scene 268: {'NOLA'}
+Scene 269: {'OPAL'}
+Scene 270: {'NOLA'}

@@ -1,0 +1,36 @@
+FELIPE: {'Scene 505', 'Scene 497', 'Scene 507', 'Scene 1', 'Scene 503', 'Scene 500'}
+NATALIE: {'Scene 455', 'Scene 110', 'Scene 70', 'Scene 4', 'Scene 7', 'Scene 522', 'Scene 82', 'Scene 257', 'Scene 68', 'Scene 54', 'Scene 59', 'Scene 464', 'Scene 97', 'Scene 244', 'Scene 452', 'Scene 127', 'Scene 61', 'Scene 123', 'Scene 3', 'Scene 56', 'Scene 72', 'Scene 90', 'Scene 74', 'Scene 389', 'Scene 395', 'Scene 150', 'Scene 63', 'Scene 113', 'Scene 66', 'Scene 155', 'Scene 525', 'Scene 76', 'Scene 121', 'Scene 398', 'Scene 88', 'Scene 86', 'Scene 80', 'Scene 15', 'Scene 52', 'Scene 84', 'Scene 108', 'Scene 94', 'Scene 125', 'Scene 272', 'Scene 92', 'Scene 267', 'Scene 2', 'Scene 426', 'Scene 450', 'Scene 152', 'Scene 78'}
+LUIZA: {'Scene 345', 'Scene 328', 'Scene 349', 'Scene 341', 'Scene 326', 'Scene 338', 'Scene 34', 'Scene 198', 'Scene 471', 'Scene 527', 'Scene 188', 'Scene 196', 'Scene 336', 'Scene 206', 'Scene 192', 'Scene 202', 'Scene 194', 'Scene 10', 'Scene 330', 'Scene 369', 'Scene 14', 'Scene 322', 'Scene 371', 'Scene 23', 'Scene 343', 'Scene 204', 'Scene 347', 'Scene 334', 'Scene 359', 'Scene 523', 'Scene 367', 'Scene 26', 'Scene 466', 'Scene 457', 'Scene 25', 'Scene 320', 'Scene 332', 'Scene 352', 'Scene 200', 'Scene 357', 'Scene 5', 'Scene 521', 'Scene 355', 'Scene 40', 'Scene 324', 'Scene 190'}
+MIGUEL: {'Scene 388', 'Scene 393', 'Scene 515', 'Scene 397', 'Scene 390', 'Scene 6', 'Scene 222', 'Scene 396', 'Scene 519', 'Scene 220', 'Scene 43', 'Scene 386', 'Scene 494', 'Scene 35', 'Scene 513', 'Scene 378', 'Scene 224', 'Scene 375', 'Scene 487', 'Scene 517', 'Scene 392', 'Scene 8', 'Scene 374', 'Scene 382', 'Scene 394', 'Scene 385', 'Scene 380', 'Scene 391', 'Scene 498', 'Scene 492', 'Scene 216', 'Scene 490'}
+VERÔNICA: {'Scene 91', 'Scene 85', 'Scene 48', 'Scene 112', 'Scene 73', 'Scene 526', 'Scene 75', 'Scene 299', 'Scene 81', 'Scene 273', 'Scene 117', 'Scene 254', 'Scene 93', 'Scene 12', 'Scene 102', 'Scene 156', 'Scene 269', 'Scene 69', 'Scene 77', 'Scene 83', 'Scene 9', 'Scene 87', 'Scene 67', 'Scene 96', 'Scene 472', 'Scene 89', 'Scene 39', 'Scene 115', 'Scene 62', 'Scene 65', 'Scene 185', 'Scene 79', 'Scene 47', 'Scene 242', 'Scene 38', 'Scene 71', 'Scene 271'}
+DÉCIO: {'Scene 128', 'Scene 140', 'Scene 178', 'Scene 132', 'Scene 208', 'Scene 226', 'Scene 228', 'Scene 138', 'Scene 210', 'Scene 136', 'Scene 142', 'Scene 146', 'Scene 144', 'Scene 130', 'Scene 180', 'Scene 176', 'Scene 213', 'Scene 182', 'Scene 11', 'Scene 134'}
+FALCÃO: {'Scene 109', 'Scene 434', 'Scene 120', 'Scene 402', 'Scene 399', 'Scene 30', 'Scene 151', 'Scene 283', 'Scene 95', 'Scene 122', 'Scene 469', 'Scene 427', 'Scene 13', 'Scene 420', 'Scene 463', 'Scene 99', 'Scene 111', 'Scene 465', 'Scene 444', 'Scene 467', 'Scene 101', 'Scene 153', 'Scene 413', 'Scene 149', 'Scene 159', 'Scene 33', 'Scene 32', 'Scene 240', 'Scene 252', 'Scene 266'}
+JOYCE: {'Scene 18', 'Scene 20', 'Scene 16'}
+CLARA: {'Scene 277', 'Scene 21', 'Scene 311', 'Scene 284', 'Scene 290', 'Scene 106', 'Scene 29', 'Scene 286', 'Scene 342', 'Scene 31', 'Scene 260', 'Scene 460', 'Scene 353', 'Scene 22', 'Scene 98', 'Scene 288', 'Scene 346', 'Scene 279', 'Scene 317', 'Scene 296', 'Scene 315', 'Scene 100', 'Scene 262', 'Scene 17', 'Scene 292', 'Scene 458', 'Scene 264', 'Scene 103', 'Scene 344', 'Scene 448', 'Scene 339', 'Scene 362', 'Scene 313', 'Scene 19', 'Scene 304', 'Scene 302', 'Scene 350', 'Scene 309', 'Scene 281', 'Scene 294', 'Scene 351', 'Scene 307', 'Scene 275', 'Scene 104'}
+ÍCARO: {'Scene 335', 'Scene 321', 'Scene 197', 'Scene 333', 'Scene 189', 'Scene 319', 'Scene 205', 'Scene 35', 'Scene 195', 'Scene 325', 'Scene 187', 'Scene 323', 'Scene 331', 'Scene 337', 'Scene 24', 'Scene 27', 'Scene 201', 'Scene 199', 'Scene 191', 'Scene 340', 'Scene 327', 'Scene 193', 'Scene 329', 'Scene 203'}
+FUNCIONÁRIA: {'Scene 28'}
+OLGA: {'Scene 223', 'Scene 218', 'Scene 36', 'Scene 37', 'Scene 221', 'Scene 41', 'Scene 215', 'Scene 42'}
+ANDRÉ: {'Scene 186', 'Scene 49', 'Scene 44', 'Scene 306', 'Scene 429', 'Scene 280', 'Scene 295', 'Scene 447', 'Scene 259', 'Scene 461', 'Scene 276', 'Scene 105', 'Scene 64', 'Scene 316', 'Scene 53', 'Scene 46', 'Scene 415', 'Scene 289', 'Scene 348', 'Scene 354', 'Scene 361', 'Scene 449', 'Scene 291', 'Scene 301', 'Scene 433', 'Scene 453', 'Scene 51', 'Scene 154', 'Scene 356', 'Scene 107', 'Scene 366', 'Scene 303', 'Scene 116', 'Scene 285', 'Scene 318', 'Scene 422', 'Scene 310', 'Scene 364', 'Scene 184', 'Scene 263', 'Scene 293', 'Scene 459', 'Scene 114', 'Scene 287', 'Scene 308', 'Scene 358', 'Scene 297', 'Scene 524', 'Scene 312', 'Scene 58', 'Scene 441', 'Scene 314', 'Scene 261'}
+PONTOCOM: {'Scene 55', 'Scene 508', 'Scene 499', 'Scene 495', 'Scene 214', 'Scene 530', 'Scene 528', 'Scene 529', 'Scene 60', 'Scene 57', 'Scene 506', 'Scene 510', 'Scene 512', 'Scene 126', 'Scene 124', 'Scene 502', 'Scene 504', 'Scene 518', 'Scene 45', 'Scene 50', 'Scene 520', 'Scene 493', 'Scene 491'}
+GREGORY: {'Scene 431', 'Scene 423', 'Scene 470', 'Scene 157', 'Scene 118', 'Scene 274', 'Scene 418', 'Scene 256', 'Scene 425', 'Scene 421', 'Scene 445', 'Scene 451', 'Scene 440', 'Scene 435', 'Scene 442', 'Scene 428'}
+ADELINO: {'Scene 119', 'Scene 158'}
+RUBENS: {'Scene 137', 'Scene 163', 'Scene 477', 'Scene 483', 'Scene 183', 'Scene 481', 'Scene 143', 'Scene 147', 'Scene 485', 'Scene 160', 'Scene 167', 'Scene 211', 'Scene 141', 'Scene 475', 'Scene 129', 'Scene 175', 'Scene 170', 'Scene 181', 'Scene 172', 'Scene 169', 'Scene 131', 'Scene 165', 'Scene 145', 'Scene 133', 'Scene 135', 'Scene 473', 'Scene 479', 'Scene 139', 'Scene 179', 'Scene 174', 'Scene 177'}
+HOMEM ALEATÓRIO: {'Scene 148'}
+CABO: {'Scene 161', 'Scene 173', 'Scene 164'}
+TAVARES: {'Scene 162', 'Scene 171', 'Scene 168', 'Scene 166'}
+NELSON: {'Scene 225', 'Scene 229', 'Scene 207', 'Scene 209', 'Scene 212', 'Scene 227'}
+SENADOR 1: {'Scene 217'}
+SENADOR 2: {'Scene 219'}
+SEGURANÇA 1: {'Scene 414', 'Scene 416', 'Scene 365', 'Scene 411', 'Scene 432', 'Scene 360', 'Scene 305', 'Scene 400', 'Scene 363', 'Scene 368', 'Scene 230', 'Scene 370', 'Scene 409', 'Scene 232', 'Scene 430', 'Scene 405', 'Scene 407', 'Scene 436', 'Scene 403', 'Scene 438'}
+TORQUATO: {'Scene 231', 'Scene 241', 'Scene 250', 'Scene 243'}
+JOEL: {'Scene 258', 'Scene 387', 'Scene 233', 'Scene 401', 'Scene 268', 'Scene 239', 'Scene 376', 'Scene 265', 'Scene 300', 'Scene 381', 'Scene 379', 'Scene 373', 'Scene 270', 'Scene 237', 'Scene 298', 'Scene 253', 'Scene 377', 'Scene 247', 'Scene 235', 'Scene 383', 'Scene 384', 'Scene 245', 'Scene 372', 'Scene 255', 'Scene 251'}
+SEGURANÇA 2: {'Scene 238', 'Scene 419', 'Scene 246', 'Scene 437', 'Scene 249', 'Scene 424', 'Scene 406', 'Scene 248', 'Scene 408', 'Scene 417', 'Scene 410', 'Scene 234', 'Scene 404', 'Scene 412', 'Scene 236'}
+FUNCIONÁRIO 1: {'Scene 278'}
+FUNCIONÁRIO 2: {'Scene 282'}
+ÍNDIOS: {'Scene 439', 'Scene 443', 'Scene 446'}
+PAYALL: {'Scene 454', 'Scene 462', 'Scene 456'}
+MENINAS: {'Scene 468'}
+ROSA: {'Scene 482', 'Scene 486', 'Scene 476', 'Scene 480', 'Scene 484', 'Scene 474', 'Scene 478'}
+DALVA: {'Scene 488'}
+GABI: {'Scene 496', 'Scene 501', 'Scene 489', 'Scene 509', 'Scene 511'}
+MÉDICO: {'Scene 514', 'Scene 516'}

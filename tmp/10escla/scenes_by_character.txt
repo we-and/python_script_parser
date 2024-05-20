@@ -1,0 +1,25 @@
+NICOLÁS: {''}
+ADELA: {''}
+ISABEL: {''}
+REMEDIOS: {''}
+VICTORIA: {''}
+EUGENIA: {''}
+EGUENIA: {''}
+HOMBRE: {''}
+TRINIDAD: {''}
+MIGUEL: {''}
+ANA: {''}
+GRANADOS: {''}
+PADRE OCTAVIO: {''}
+ROSA: {''}
+MORALES: {''}
+MILAGROS: {''}
+MÁRQUEZ: {''}
+ALONSO: {''}
+CANDELA: {''}
+ESCLAVA 2: {''}
+TOMÁS: {''}
+ESCLAVAS: {''}
+HILARIA: {''}
+SIERVO: {''}
+CANCIÓN: {''}

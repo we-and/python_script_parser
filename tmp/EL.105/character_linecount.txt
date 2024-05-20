@@ -1,0 +1,20 @@
+sebastián: 43
+tristán: 34
+emilia: 26
+pepa: 40
+carlos: 20
+alfonso: 22
+ramiro: 20
+juan: 22
+hipólito: 41
+raimundo: 10
+don anselmo: 13
+soledad: 24
+virtudes: 10
+mariana: 11
+francisca: 11
+sanz: 11
+eloísa: 25
+pedro: 9
+mauricio: 3
+rosario: 18

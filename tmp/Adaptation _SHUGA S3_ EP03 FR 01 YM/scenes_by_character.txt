@@ -1,0 +1,30 @@
+(PERSONNAGES PRINCIPAUX : X, X, X,…: {'Scene 3'}
+(CHARACTER): {'Scene 4'}
+SOLOMON: {'Scene 90', 'Scene 88', 'Scene 8', 'Scene 233', 'Scene 5', 'Scene 94', 'Scene 278', 'Scene 92', 'Scene 277', 'Scene 282', 'Scene 280', 'Scene 272'}
+DAVID: {'Scene 6'}
+SOPHIE: {'Scene 14', 'Scene 89', 'Scene 222', 'Scene 275', 'Scene 62', 'Scene 224', 'Scene 220', 'Scene 292', 'Scene 269', 'Scene 68', 'Scene 297', 'Scene 70', 'Scene 26', 'Scene 33', 'Scene 286', 'Scene 64', 'Scene 288', 'Scene 28', 'Scene 87', 'Scene 93', 'Scene 59', 'Scene 91', 'Scene 15', 'Scene 290', 'Scene 95', 'Scene 284', 'Scene 226', 'Scene 76', 'Scene 11', 'Scene 72', 'Scene 294', 'Scene 276', 'Scene 74', 'Scene 7', 'Scene 30'}
+FOYE: {'Scene 119', 'Scene 137', 'Scene 295', 'Scene 289', 'Scene 130', 'Scene 285', 'Scene 287', 'Scene 291', 'Scene 133', 'Scene 293', 'Scene 121', 'Scene 135', 'Scene 123', 'Scene 9'}
+EKENE: {'Scene 27', 'Scene 126', 'Scene 134', 'Scene 22', 'Scene 264', 'Scene 136', 'Scene 57', 'Scene 77', 'Scene 298', 'Scene 73', 'Scene 67', 'Scene 37', 'Scene 75', 'Scene 79', 'Scene 138', 'Scene 81', 'Scene 83', 'Scene 296', 'Scene 69', 'Scene 85', 'Scene 100', 'Scene 35', 'Scene 29', 'Scene 129', 'Scene 124', 'Scene 32', 'Scene 36', 'Scene 260', 'Scene 102', 'Scene 18', 'Scene 10', 'Scene 98', 'Scene 122', 'Scene 20', 'Scene 96', 'Scene 24', 'Scene 71', 'Scene 120', 'Scene 131', 'Scene 262', 'Scene 104', 'Scene 118'}
+NII: {'Scene 50', 'Scene 273', 'Scene 12', 'Scene 229', 'Scene 271', 'Scene 52', 'Scene 231', 'Scene 48', 'Scene 274', 'Scene 234', 'Scene 299', 'Scene 46', 'Scene 54', 'Scene 16'}
+MALAIKA: {'Scene 270', 'Scene 55', 'Scene 53', 'Scene 232', 'Scene 227', 'Scene 49', 'Scene 228', 'Scene 235', 'Scene 268', 'Scene 56', 'Scene 45', 'Scene 219', 'Scene 225', 'Scene 223', 'Scene 221', 'Scene 47', 'Scene 13', 'Scene 230'}
+COUNSELOR 1: {'Scene 17', 'Scene 25'}
+COUNSELLOR 2: {'Scene 23', 'Scene 21', 'Scene 31', 'Scene 19'}
+COUNSELLOR 1: {'Scene 34'}
+COUNCELLOR 2: {'Scene 61', 'Scene 35', 'Scene 58'}
+PRINCESS: {'Scene 279', 'Scene 247', 'Scene 42', 'Scene 237', 'Scene 243', 'Scene 245', 'Scene 207', 'Scene 38', 'Scene 205', 'Scene 239', 'Scene 40', 'Scene 203', 'Scene 200', 'Scene 241', 'Scene 44'}
+TOBI: {'Scene 240', 'Scene 238', 'Scene 43', 'Scene 39', 'Scene 248', 'Scene 244', 'Scene 246', 'Scene 242', 'Scene 41'}
+NII SUBTITLE: {'Scene 51'}
+EKENE SUBTITLE: {'Scene 60'}
+COUNCELLOR 1: {'Scene 66', 'Scene 65', 'Scene 63'}
+FEMI: {'Scene 86', 'Scene 249', 'Scene 82', 'Scene 252', 'Scene 80', 'Scene 84', 'Scene 125', 'Scene 127', 'Scene 251', 'Scene 257', 'Scene 128', 'Scene 78', 'Scene 132'}
+SADE: {'Scene 164', 'Scene 101', 'Scene 143', 'Scene 99', 'Scene 167', 'Scene 283', 'Scene 218', 'Scene 253', 'Scene 251', 'Scene 263', 'Scene 195', 'Scene 216', 'Scene 212', 'Scene 250', 'Scene 267', 'Scene 173', 'Scene 282', 'Scene 105', 'Scene 156', 'Scene 191', 'Scene 149', 'Scene 97', 'Scene 193', 'Scene 147', 'Scene 214', 'Scene 162', 'Scene 160', 'Scene 171', 'Scene 158', 'Scene 103', 'Scene 169', 'Scene 166', 'Scene 186', 'Scene 145', 'Scene 189', 'Scene 254', 'Scene 141', 'Scene 198', 'Scene 151'}
+SCHOOLKIDS: {'Scene 106'}
+COACH: {'Scene 112', 'Scene 108', 'Scene 110', 'Scene 107'}
+WEKI: {'Scene 190', 'Scene 183', 'Scene 258', 'Scene 159', 'Scene 170', 'Scene 185', 'Scene 215', 'Scene 165', 'Scene 154', 'Scene 179', 'Scene 197', 'Scene 115', 'Scene 140', 'Scene 217', 'Scene 163', 'Scene 175', 'Scene 161', 'Scene 188', 'Scene 168', 'Scene 174', 'Scene 113', 'Scene 181', 'Scene 109', 'Scene 117', 'Scene 192', 'Scene 172', 'Scene 111', 'Scene 194', 'Scene 157', 'Scene 196', 'Scene 265', 'Scene 177', 'Scene 256', 'Scene 213', 'Scene 142', 'Scene 152'}
+BIYIKA: {'Scene 114'}
+BIKIYA: {'Scene 146', 'Scene 266', 'Scene 182', 'Scene 176', 'Scene 255', 'Scene 144', 'Scene 139', 'Scene 148', 'Scene 281', 'Scene 155', 'Scene 261', 'Scene 259', 'Scene 150', 'Scene 180', 'Scene 116', 'Scene 153', 'Scene 178', 'Scene 262', 'Scene 184'}
+OSARO: {'Scene 199', 'Scene 201', 'Scene 206', 'Scene 208', 'Scene 202', 'Scene 204'}
+BIKIYA CHRYON: {'Scene 209'}
+WEKI CHRYON: {'Scene 210'}
+WEKI CHYRON: {'Scene 211'}
+MALAIKA CHRYON: {'Scene 236'}

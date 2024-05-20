@@ -1,0 +1,9 @@
+Narrator: {'BOUCLE 2', 'BOUCLE 12', 'BOUCLE 5', 'BOUCLE 13', 'BOUCLE 4', 'BOUCLE 7', 'BOUCLE 10', 'BOUCLE 6', 'BOUCLE 1'}
+Samson: {'BOUCLE 9', 'BOUCLE 2', 'BOUCLE 12', 'BOUCLE 5', 'BOUCLE 3', 'BOUCLE 8', 'BOUCLE 11', 'BOUCLE 13', 'BOUCLE 4', 'BOUCLE 7', 'BOUCLE 10', 'BOUCLE 6', 'BOUCLE 1'}
+Thomas: {'BOUCLE 9', 'BOUCLE 2', 'BOUCLE 12', 'BOUCLE 13', 'BOUCLE 8', 'BOUCLE 7', 'BOUCLE 10', 'BOUCLE 1'}
+Stanley: {'BOUCLE 1'}
+Diesel: {'BOUCLE 1'}
+Sir handel: {'BOUCLE 3', 'BOUCLE 2'}
+Peter Sam: {'BOUCLE 3', 'BOUCLE 2'}
+Paxton: {'BOUCLE 9', 'BOUCLE 8'}
+Fat control: {'BOUCLE 11', 'BOUCLE 12'}

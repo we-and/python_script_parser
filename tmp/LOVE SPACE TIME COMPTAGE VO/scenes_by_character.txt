@@ -1,0 +1,23 @@
+BRIGGS: {''}
+SOLDIER: {''}
+GENERAL MCCLAIN: {''}
+MCCLAIN: {''}
+CAMBRIDGE: {''}
+LEE: {''}
+HOUSTON: {''}
+COMPUTER SCREEN TEXT: {''}
+TALK SHOW HOST: {''}
+NEWS VOICE: {''}
+23 ALPHA: {''}
+LEEâ€™S BROTHER: {''}
+ROGERS: {''}
+JOHNSON: {''}
+WOMAN: {''}
+JESSE: {''}
+BRID: {''}
+TV HOST: {''}
+TEXT ON COMPUTER SCREEN: {''}
+TEXT IN THE BOOK: {''}
+VOICE: {''}
+RODGERS: {''}
+COMPUTER VOICE: {''}

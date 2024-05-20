@@ -62,7 +62,7 @@ Scene 61: {'MARTIN'}
 Scene 62: {'MARTIN'}
 Scene 63: {'LISA'}
 Scene 64: {'MARTIN'}
-Scene 65: {'LISA', 'MARTIN'}
+Scene 65: {'MARTIN', 'LISA'}
 Scene 66: {'SUZANNE'}
 Scene 67: {'SUZANNE'}
 Scene 68: {'MARTIN'}
@@ -82,7 +82,7 @@ Scene 81: {'MARTIN'}
 Scene 82: {'LISA'}
 Scene 83: {'MARTIN'}
 Scene 84: {'MARTIN'}
-Scene 85: {'LISA', 'MARTIN'}
+Scene 85: {'MARTIN', 'LISA'}
 Scene 86: {'LISA'}
 Scene 87: {'MARTIN'}
 Scene 88: {'MARTIN'}
@@ -93,12 +93,12 @@ Scene 92: {'MARTIN', 'LISA'}
 Scene 93: {'US ANNOUNCER'}
 Scene 94: {'MARK RAMLEY'}
 Scene 95: {'MARTIN'}
-Scene 96: {'LISA', 'MARTIN'}
+Scene 96: {'MARTIN', 'LISA'}
 Scene 97: {'BOUNCER'}
 Scene 98: {'MARTIN'}
 Scene 99: {'BOUNCER'}
 Scene 100: {'MARTIN'}
-Scene 101: {'MARTIN', 'SASHA'}
+Scene 101: {'SASHA', 'MARTIN'}
 Scene 102: {'SASHA'}
 Scene 103: {'MARTIN'}
 Scene 104: {'MARTIN'}
@@ -108,7 +108,7 @@ Scene 107: {'MARTIN'}
 Scene 108: {'MARTIN'}
 Scene 109: {'SASHA'}
 Scene 110: {'MARTIN'}
-Scene 111: {'MARTIN', 'SASHA'}
+Scene 111: {'SASHA', 'MARTIN'}
 Scene 112: {'SASHA'}
 Scene 113: {'MARTIN'}
 Scene 114: {'SASHA'}
@@ -185,7 +185,7 @@ Scene 184: {'LISA'}
 Scene 185: {'MARTIN'}
 Scene 186: {'LISA'}
 Scene 187: {'MARTIN'}
-Scene 188: {'LISA', 'MARTIN'}
+Scene 188: {'MARTIN', 'LISA'}
 Scene 189: {'TATYANA'}
 Scene 190: {'MARTIN'}
 Scene 191: {'TATYANA'}
@@ -262,7 +262,7 @@ Scene 261: {'SASHA'}
 Scene 262: {'MARTIN'}
 Scene 263: {'SASHA'}
 Scene 264: {'BURNS'}
-Scene 265: {'MARTIN', 'CIA IT TECH'}
+Scene 265: {'CIA IT TECH', 'MARTIN'}
 Scene 266: {'MARTIN'}
 Scene 267: {'CIA IT TECH'}
 Scene 268: {'MARTIN'}
@@ -270,7 +270,7 @@ Scene 269: {'MARTIN'}
 Scene 270: {'SASHA'}
 Scene 271: {'CIA IT TECH'}
 Scene 272: {'MARTIN'}
-Scene 273: {'MARTIN', 'CIA IT TECH'}
+Scene 273: {'CIA IT TECH', 'MARTIN'}
 Scene 274: {'CIA IT TECH'}
 Scene 275: {'MARTIN'}
 Scene 276: {'CIA IT TECH'}
@@ -292,7 +292,7 @@ Scene 291: {'MARTIN'}
 Scene 292: {'TREVOR'}
 Scene 293: {'SASHA'}
 Scene 294: {'SASHA'}
-Scene 295: {'TREVOR', 'SASHA'}
+Scene 295: {'SASHA', 'TREVOR'}
 Scene 296: {'SASHA'}
 Scene 297: {'MARTIN'}
 Scene 298: {'SASHA'}
@@ -310,7 +310,7 @@ Scene 309: {'MARTIN'}
 Scene 310: {'TREVOR'}
 Scene 311: {'SASHA'}
 Scene 312: {'MARTIN'}
-Scene 313: {'CIA IT TECH', 'SASHA'}
+Scene 313: {'SASHA', 'CIA IT TECH'}
 Scene 314: {'MARTIN'}
 Scene 315: {'TREVOR'}
 Scene 316: {'CIA IT TECH'}
@@ -331,7 +331,7 @@ Scene 330: {'BURNS'}
 Scene 331: {'MARTIN'}
 Scene 332: {'CIA IT TECH'}
 Scene 333: {'TREVOR'}
-Scene 334: {'TREVOR', 'CIA IT TECH'}
+Scene 334: {'CIA IT TECH', 'TREVOR'}
 Scene 335: {'LISA'}
 Scene 336: {'US PRESIDENT'}
 Scene 337: {'TATYANA'}
@@ -365,7 +365,7 @@ Scene 364: {'RUSSIAN AMBA'}
 Scene 365: {'MARTIN'}
 Scene 366: {'MARTIN'}
 Scene 367: {'SASHA'}
-Scene 368: {'MARTIN', 'SASHA'}
+Scene 368: {'SASHA', 'MARTIN'}
 Scene 369: {'MARTIN'}
 Scene 370: {'SASHA'}
 Scene 371: {'OLGA'}
@@ -531,7 +531,7 @@ Scene 530: {'MARTIN', 'LISA'}
 Scene 531: {'TREVOR'}
 Scene 532: {'TREVOR'}
 Scene 533: {'LISA'}
-Scene 534: {'UK ANNOUNCER', 'SASHA'}
+Scene 534: {'SASHA', 'UK ANNOUNCER'}
 Scene 535: {'SASHA'}
 Scene 536: {'SASHA'}
 Scene 537: {'MARTIN'}

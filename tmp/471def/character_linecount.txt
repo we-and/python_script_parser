@@ -1,0 +1,17 @@
+Narrator: 10
+Thomas: 34
+Salty: 2
+Cranky: 2
+Diesel: 47
+Percy: 3
+Arry: 20
+Bert: 16
+A+B: 3
+Henry: 1
+Edward: 1
+Emily: 3
+James: 2
+Gordon: 1
+Truck1: 4
+Truck2: 2
+Truck3: 1

@@ -1,0 +1,5 @@
+Bobby: 513
+Suzy: 890
+Arlette: 260
+Jean-Claude: 721
+Thérèse: 85

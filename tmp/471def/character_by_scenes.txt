@@ -1,0 +1,13 @@
+BOUCLE 1: {'Salty', 'Thomas', 'Cranky', 'Diesel', 'Narrator'}
+BOUCLE 2: {'Cranky', 'Salty', 'Diesel'}
+BOUCLE 3: {'Percy', 'A+B', 'Arry', 'Thomas', 'Bert', 'Diesel', 'Narrator'}
+BOUCLE 4: {'Diesel', 'Narrator', 'Thomas'}
+BOUCLE 5: {'Diesel', 'Thomas'}
+BOUCLE 6: {'Edward', 'Henry', 'Diesel', 'Narrator'}
+BOUCLE 7: {'A+B', 'Arry', 'Emily', 'Thomas', 'Bert', 'Diesel'}
+BOUCLE 8: {'Arry', 'Emily', 'Thomas', 'Bert', 'Diesel'}
+BOUCLE 9: {'Gordon', 'Thomas', 'James', 'Diesel', 'Narrator'}
+BOUCLE 10: {'Truck2', 'Truck1', 'Arry', 'Thomas', 'Truck3', 'Bert', 'Diesel', 'Narrator'}
+BOUCLE 11: {'Bert', 'Diesel', 'Arry', 'Thomas'}
+BOUCLE 12: {'Bert', 'Diesel', 'Arry', 'Thomas'}
+BOUCLE 13: {'Bert', 'Diesel', 'Arry', 'Thomas'}

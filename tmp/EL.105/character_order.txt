@@ -1,0 +1,20 @@
+sebastián: 1
+tristán: 2
+emilia: 3
+pepa: 4
+carlos: 5
+alfonso: 6
+ramiro: 7
+juan: 8
+hipólito: 9
+raimundo: 10
+don anselmo: 11
+soledad: 12
+virtudes: 13
+mariana: 14
+francisca: 15
+sanz: 16
+eloísa: 17
+pedro: 18
+mauricio: 19
+rosario: 20

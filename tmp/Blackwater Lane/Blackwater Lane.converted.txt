@@ -1,0 +1,1288 @@
+CASS	My favorite time of year is when summer finally gives way to autumn.
+CASS	The falling leaves seem to remind us that the only constant is change.
+CASS	So trust the journey, both good and bad.
+CASS	Because all of it takes you where you're going next.
+CASS	And...
+CASS	I guess what happened is a part of that.
+ANDREW	"Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune,
+ANDREW	or to take arms against a sea of troubles and by opposing, end them."
+CASS	Very nice, Andrew.
+CASS	And that was the last monologue of the term.
+CASS	Everyone have a great break.
+ANDREW	Mrs. Anderson, this has been my best class.
+CASS	Thank you, Andrew. I'm so glad you liked it.
+ANDREW	Hey, Mrs. Anderson, any special plans?
+CASS	Not really.
+CASS	We're redoing our house. Always fun stuff to do with that.
+ANDREW	May I ask you a question I've always wondered about?
+CASS	What have you always wondered about?
+ANDREW	Is your husband also American?
+CASS	Uh, he's half British like me. We're expats.
+CASS	So is my best friend, actually.
+ANDREW	She is?
+CASS	She is. Our moms were best friends who both married Brits.
+ANDREW	What does your husband do?
+CASS	You're a very curious young man.
+ANDREW	Hi, Mr. Collins.
+CASS	Hey, John.
+JOHN	Hey, Cass. I was just coming to find you.
+JOHN	Hi, Andrew.
+JOHN	I thought you'd be running out of here now term's over.
+ANDREW	Oh, I am. Just walking Mrs. Anderson out.
+ANDREW	Have a lovely holiday.
+CASS	You too, Andrew. Thank you.
+CASS	And make sure you read that Uta Hagen book. You're doing beautiful work. You're ready for it.
+ANDREW	Will do. Thanks.
+JOHN	Are you coming to the Anchor Inn with us?
+CASS	Oh, absolutely. I can taste the G&T now.
+CASS	I'll see you there.
+JOHN	Great.
+CASS	Good night.
+JOHN	Good night, guys.
+CASS	Whoo! Wow.
+JOHN	It's a pretty bad storm.
+JOHN	You sure you'll be okay getting home?
+CASS	Yeah, of course. Thank you.
+JOHN	I could drop you off. There's no trouble.
+CASS	I'm okay. Thank you.
+JOHN	Good night.
+CASS	Hey, I'm on my way. Everything all right?
+MATTHEW	Yes, but I'm exhausted. Do you mind if I go up to bed?
+CASS	Of course not.
+MATTHEW	I should wait up for you.
+CASS	I'll be fine.
+CASS	It'll only take me about 40 minutes unless I go through the woods.
+MATTHEW	That road's a nightmare. I wouldn't take it.
+CASS	Okay.
+MATTHEW	Promise.
+CASS	Promise. Love you.
+MATTHEW	Love you more.
+CASS	Bye.
+MATTHEW	Morning, darling.
+MATTHEW	It's 9:00.
+MATTHEW	I've been up since 7:00.
+CASS	Mm.
+CASS	You sleep okay?
+MATTHEW	Like a rock.
+MATTHEW	Sorry I didn't wait up.
+CASS	No.
+MATTHEW	Hey, how was that drive last night?
+CASS	Hmm...
+CASS	A lot of thunder, lightning and rain.
+MATTHEW	Woman's been found dead not that far from here.
+CASS	Hmm.
+MATTHEW	Just heard it on the news.
+CASS	That's awful. Where?
+MATTHEW	On that road that leads between the woods and Castle Wells.
+CASS	What road?
+MATTHEW	Blackwater Lane.
+MATTHEW	Where are you going?
+CASS	Shower. I didn't want to wake you.
+MATTHEW	I'll make breakfast.
+CASS	I'm gonna get Susie's presents.
+CASS	I'll get something later.
+REPORTER	A woman has been found dead in her car on Blackwater Lane in the early hours of the morning.
+REPORTER	Her death is being treated as suspicious.
+REPORTER	No further details have been given, but police are advising people in the area to be vigilant.
+CASS	Any luck on finding a new contractor?
+MATTHEW	Interviewing a few guys, but I don't want to rush it,
+MATTHEW	you know, and have the same problems.
+CASS	Why don't we just focus on finding the right guy? It's been two weeks.
+MATTHEW	Yeah. I know.
+CASS	I gotta go.
+MATTHEW	All right. Where you going?
+CASS	Uh, I gotta meet Rachel.
+MATTHEW	Yeah? Well, wait, aren't we wasting a perfectly good morning?
+CASS	This is driving me nuts.
+MATTHEW	I'm loving it.
+CASS	She's my best friend.
+MATTHEW	Yeah.
+MATTHEW	Yeah, yeah.
+CASS	Thank you for breakfast.
+MATTHEW	Of course.
+RACHEL	So then did it get really wild last night?
+CASS	Oh, yeah, about as wild as it can get with a bunch of teachers.
+RACHEL	Mm!
+CASS	I do think I overdid it with the gin a tiny bit, though.
+RACHEL	That's my girl.
+RACHEL	And was gorgeous John there?
+CASS	Gorgeous John. Yes. John was there.
+RACHEL	He still likes you.
+CASS	No.
+RACHEL	Sorry, "fancies you."
+CASS	No, he doesn't.
+CASS	He has a girlfriend now, and not to mention I have a husband.
+RACHEL	I wonder if the girlfriend knows about the rumors of a first wife?
+CASS	No. God, I don't believe a word of that.
+CASS	I guarantee she's simply moved away.
+RACHEL	I don't know. Susie swears she's missing.
+CASS	Oh, God. Susie's too much.
+CASS	Susie apparently has a dossier on everyone from Houghton Moor to London.
+CASS	And apparently the new girlfriend is very cute.
+CASS	And, Rache?
+RACHEL	Mm-hmm?
+CASS	I really need you to be more supportive of Matthew.
+RACHEL	I am so supportive of Matthew.
+RACHEL	He could be a little bit nicer to me.
+CASS	You two did get off to a bit of a rough start.
+RACHEL	It's my job to be protective of you.
+RACHEL	You were so vulnerable after your mom.
+CASS	I know.
+CASS	And thank you.
+CASS	Anyway, more importantly, how was your trip?
+RACHEL	Too many meetings and way too much alcohol.
+CASS	Sounds good.
+RACHEL	Mm-hmm. Mm! And...
+RACHEL	Of course.
+CASS	My tea towel?
+RACHEL	The Sisterhood of the Traveling Tea Towel continues.
+RACHEL	I found that randomly looking for my birth certificate.
+CASS	Oh, my God.
+RACHEL	You were the greatest Regina in the history of the theater.
+CASS	I can't believe it's been almost 20 years.
+CASS	I love Lillian Hellman.
+CASS	I think it's going to be our school drama next year.
+RACHEL	No way.
+CASS	Yeah.
+RACHEL	Seems like you're really loving teaching.
+CASS	I am.
+CASS	But my agent called recently, randomly out of nowhere, about an audition,
+CASS	which is kind of weird because I've been missing it a little bit.
+RACHEL	You think you're going to go back?
+CASS	Matthew's not really for it, especially if we want to have a baby.
+CASS	I know, I know, I can do both. Imagine.
+CASS	Anyway, did you get one too?
+RACHEL	Yeah, of course.
+RACHEL	Tradition.
+CASS	I love our tradition.
+CASS	Mom and I used to shop on Saturday mornings.
+RACHEL	Yeah.
+CASS	She came through the other day. I meant to tell you.
+RACHEL	Really?
+CASS	Yeah.
+RACHEL	How?
+CASS	Tarot.
+CASS	It was very dramatic, it was very her.
+RACHEL	Very.
+CASS	Should find something for Susie.
+RACHEL	Wait, I thought you already did?
+CASS	No, I haven't had time. What should we get?
+RACHEL	I thought...
+RACHEL	We all decided and pooled our money and gave it to you.
+CASS	What? When did that happen?
+RACHEL	At Hannah's.
+RACHEL	We each put in 20, so you should have 160 pounds.
+RACHEL	And... it was your idea, remember?
+RACHEL	Since Steven's taking her to Venice that we get lightweight luggage?
+CASS	Yeah, I remember.
+CASS	I'll stop by the luggage shop on the way home.
+MATTHEW	So, did you buy out Bond Street?
+CASS	My God.
+CASS	Don't sneak up on me like that.
+MATTHEW	Sorry.
+CASS	Did you see that man out there?
+MATTHEW	What?
+CASS	Outside, just in front of the house.
+MATTHEW	Uh...
+MATTHEW	No, I didn't see anybody.
+CASS	Well, he was just there.
+MATTHEW	Let me see.
+MATTHEW	Where? There?
+CASS	I'm not making it up.
+CASS	What?
+MATTHEW	Come on, Cass.
+MATTHEW	Your imagination is just... it's a little bit "out there" sometimes.
+CASS	Matthew. I didn't imagine it.
+RACHEL	Hey, beauty.
+CASS	Hi.
+RACHEL	Hi.
+CASS	Hi.
+RACHEL	Hey, Matthew.
+MATTHEW	Hey, Rachel. How's it going?
+RACHEL	You're never gonna believe this.
+RACHEL	The woman who was murdered, she worked at my company.
+MATTHEW	I'm gonna get us drinks.
+CASS	Thank you, babe.
+CASS	Wow, did you know her?
+RACHEL	No, different division, but I feel really bad
+RACHEL	because I came straight into the office from the airport yesterday
+RACHEL	and I was jet-lagged and I just kind of got into it with someone over a parking space,
+RACHEL	and I'm pretty sure it was her.
+CASS	Oh, you couldn't have known.
+RACHEL	And Susie's really upset because apparently she knows the husband,
+RACHEL	who's devastated and he's left on his own to raise 2-year-old twins.
+RACHEL	I mean, it's a tragedy.
+CASS	Twins?
+CASS	What was her name?
+RACHEL	Jane Walters.
+CASS	Oh, God, it can't be her.
+RACHEL	How would you know her?
+CASS	I met her at the leaving party that you took me to.
+CASS	We got to talking and we exchanged numbers.
+CASS	I told you about it when you were in New York.
+RACHEL	I mean, I don't remember, but you could have.
+RACHEL	And it's not like I would know who she is, right?
+CASS	Yeah.
+RACHEL	I mean...
+CASS	Oh, wow.
+RACHEL	It's...
+CASS	No, I was supposed to go to her house in the next couple of weeks to meet her kids.
+RACHEL	Really gives you a perspective.
+RACHEL	Scary.
+SUSIE	Hey, love! Are you empty handed?
+CASS	Hi. It's okay, Matthew's getting me a drink.
+CASS	I didn't know you knew John Collins. He works at my school.
+SUSIE	I love John. John is my tennis coach.
+MATTHEW	Hey, Susie.
+SUSIE	Hey, John. Oh.
+MATTHEW	Susie. Happy birthday.
+SUSIE	Thank you, Matthew.
+SUSIE	Hey, John. Come over here and come and say hi.
+JACK	Hi.
+SUSIE	Oh, not you, Jack, John.
+JACK	Sorry, sorry, I need to borrow the birthday girl for a photo shoot.
+SUSIE	Um... I'll be back.
+CASS	Hi, John.
+JOHN	Hey, Cass. You all right?
+CASS	This is my husband, Matthew.
+JOHN	Nice to meet you.
+MATTHEW	Hi, nice to meet you too.
+CASS	I didn't know you were a tennis coach.
+SUSIE	Hey, John, come say hi to my old doubles partner.
+JOHN	Yeah, I used to play pro many years ago.
+JOHN	I just coach on the side now.
+SUSIE	Come on, Johnny, come on.
+JOHN	Look...
+SUSIE	Come and say hi.
+JOHN	I think I've gotta go. Uh... nice to see you, Matt.
+JOHN	And, uh... I'll see you soon, Cass.
+CASS	Okay.
+MATTHEW	Interesting.
+MATTHEW	Police released a photo.
+CASS	Show me.
+CASS	Oh, my God, that is her.
+CASS	That makes no sense. Why Jane?
+MATTHEW	Unless it's random.
+CASS	What do you mean, like a serial killer?
+CASS	We should upgrade the system in the house.
+CASS	This thing's useless. Half the sensors don't even work.
+MATTHEW	Yeah.
+CASS	And a dog.
+MATTHEW	No, no.
+CASS	No, we should get a dog.
+MATTHEW	I thought you wanted a baby.
+MATTHEW	It's a good idea to get the alarm system fixed, yeah.
+MATTHEW	It'll just be one of us constantly setting that thing off.
+CASS	Where are you going?
+MATTHEW	To make sure everything's locked downstairs.
+CASS	Hello?
+CASS	Hello?
+MATTHEW	Who's that at this hour?
+CASS	There was nobody there.
+MATTHEW	Well...
+MATTHEW	It's probably just a misdial.
+CASS	Yeah.
+MATTHEW	It's nothing.
+CASS	Hopefully.
+MATTHEW	It's nothing.
+CASS	Everything locked up?
+MATTHEW	It's all locked.
+REPORTER	A picture is emerging of the mother found dead on Blackwater Lane, Jane Walters.
+REPORTER	Just before 10:00 p.m., she left a voicemail message on her husband's mobile.
+REPORTER	The police have estimated her murder to have happened between 10:00 and 11:00 p.m.
+REPORTER	Her husband, Alex Walters, is appealing for help from the public and police have established an anonymous tip line.
+NEWSCASTER	Thanks, Jessica. We will keep the public informed...
+NEWSCASTER	Moving on to today's news...
+NEWSCASTER	...we have a summer fête...
+CASS	Matt?
+NEWSCASTER	What they're doing is raising money for a local charity for the elderly.
+CASS	Matt?
+CASS	Matt?
+CASS	Matt, is that you?
+CASS	Hello? Hello? (man coughing over static)
+CASS	Oh, I just called this morning. I thought you were coming tomorrow.
+SECURITY MAN	Yes, but there was a cancellation and I was in the area.
+SECURITY MAN	Sorry I didn't call.
+SECURITY MAN	Is your husband there?
+CASS	No, he's not. Um...
+CASS	But I guess it's fine if you want to just take a quick look.
+CASS	Will this take long? I was just leaving.
+SECURITY MAN	Uh, no more than ten minutes.
+SECURITY MAN	Are you often in the house on your own?
+CASS	No, no. My husband will be back any minute.
+SECURITY MAN	Well, looking at your house, I'd say you're a prime target for burglars.
+SECURITY MAN	You've got a system that is obsolete.
+SECURITY MAN	You need to get new sensors for the windows, doors, stairs as well.
+SECURITY MAN	I'll just take a quick look.
+SECURITY MAN	Sorry.
+CASS	It's all right.
+SECURITY MAN	Right. Uh... Shall we go and sit down?
+CASS	Actually, you know, I don't think we need an upgrade after all.
+SECURITY MAN	Well, after the murder of that young woman, I'd say you're making a mistake.
+SECURITY MAN	I mean, don't forget, the murderer is still out there.
+CASS	Maybe you just come back after my husband's here.
+SECURITY MAN	I don't know when I can.
+SECURITY MAN	Murder's good for business, if you know what I mean.
+SECURITY MAN	Actually...
+SECURITY MAN	I don't need to walk the house.
+SECURITY MAN	I've already got a copy of the layout.
+SECURITY MAN	I'll send you an estimate.
+CASS	There is something in the house.
+MATTHEW	What?
+CASS	I thought I was dead.
+MATTHEW	Stay there, I'll call the police.
+CASS	Wait, wait, wait.
+CASS	I just wanna make sure.
+CASS	I mean, I am. It's just I haven't seen anybody, so I just want you to come and check and make sure before we get the police out.
+CASS	Oh, I'm... I'm so sorry. I told my husband not to call you guys.
+DC LAWSON	Call us?
+CASS	I'm... I was just taking a bath
+CASS	and I thought I heard someone.
+CASS	But I didn't actually see anybody, so I don't even know how they would have gotten in the house.
+CASS	So I'm just... unsure.
+DC LAWSON	Are you Cass Anderson?
+CASS	Yes.
+DC LAWSON	Well, actually we are here about Jane Walters.
+CASS	Jane Walters?
+DC LAWSON	We received a tip that you were on Blackwater Lane the night of her murder.
+DC LAWSON	Is that true?
+CASS	I'm sorry.
+CASS	Uh, yes.
+CASS	I was on that road that night.
+CASS	And I was going to call the tip line, but I just hadn't come up with the nerve just yet.
+DC LAWSON	Okay. Can we come in?
+CASS	Yeah, of course.
+MATTHEW	What's going on? You all right?
+MATTHEW	Babe?
+CASS	I think I just... I took a bath and I slipped and I got confused and I'm not sure what happened.
+DC LAWSON	So you stopped.
+DC LAWSON	You saw that it was a woman, and then you just... you drove on home.
+DC LAWSON	But you knew Jane Walters.
+CASS	I had met her a few weeks before.
+CASS	But it was raining so hard that night, I could only see that it was the shape of a woman.
+CASS	I couldn't see her face.
+DC LAWSON	You didn't try to see if she needed help?
+CASS	Didn't seem like she needed any.
+DC LAWSON	So you just kept on driving?
+DC LAWSON	Did you see anyone else around?
+DC LAWSON	Did you notice anything?
+CASS	Um... no.
+CASS	I... I...
+CASS	I took my foot off the brake to signal that I was leaving and she didn't respond, so I...
+CASS	I left.
+DC LAWSON	Okay.
+MATTHEW	Why didn't you tell me?
+CASS	Did you open that window?
+MATTHEW	No, it was like that when I came in. Don't change the subject.
+MATTHEW	I told you not to take that road. Why didn't you tell me you drove by that car?
+CASS	I shut that before I took a bath. I checked the door and all the windows.
+MATTHEW	Cass, why didn't you tell me?
+CASS	Because I knew you'd get angry if I drove through the forest and I didn't feel like arguing about the way that I drove home.
+MATTHEW	You should have told me.
+CASS	Fine. Jesus Christ.
+CASS	Do you know what this means?
+CASS	The murderer reported this.
+MATTHEW	Murderer? How do you know that?
+MATTHEW	It could... It could have been anybody.
+MATTHEW	How do you know somebody wasn't following you in a car?
+CASS	No.
+MATTHEW	Or standing in the woods?
+CASS	No, it had to have been who killed her.
+MATTHEW	You don't know that.
+MATTHEW	You said she was still alive when you were there.
+CASS	I thought she was, but what do I know? I couldn't see two feet in front of me.
+MATTHEW	Got to get that alarm system set up before I go away this week.
+CASS	Go away this week?
+MATTHEW	Yeah, I gotta go to the rig. We discussed it.
+CASS	No, you never said anything.
+MATTHEW	Of course, I did.
+CASS	When?
+MATTHEW	Well, three weeks ago when I first found out.
+CASS	No. You didn't. I would have remembered.
+CASS	And stop telling me you said something when you didn't.
+RACHEL	Yeah, I can. Yeah, sure, I can come over.
+CASS	You can?
+RACHEL	Yeah. I've got to wine and dine some clients that night,
+RACHEL	but I will drive over the minute I'm done.
+CASS	Are you sure?
+RACHEL	Yeah, very sure. It'll be a pajama party.
+RACHEL	But right now I have to run into a meeting.
+CASS	Okay. Rache? Thank you.
+CASS	Hello?
+CASS	Who's there?
+CASS	Andrew. What are you doing here?
+ANDREW	Happened to be in the area and I wanted to drop off your book.
+CASS	How do you know where I live?
+ANDREW	Harry Freeman lives just one street over. He told me you lived here.
+ANDREW	But really, pretty much everybody knows you bought the old Crawford house.
+CASS	I didn't know that.
+ANDREW	Yeah, I mean, it's sat empty for so long, um...
+ANDREW	My mum gives local tours and she always talks about it being one of the original houses in the village.
+ANDREW	Is it true that it's haunted?
+CASS	Uh, It's possible.
+CASS	I've heard a lot of unexplained creaks recently.
+ANDREW	Anyhow, I love the book.
+ANDREW	It's really changed my perspective on things, so...
+ANDREW	Thanks for thinking of me.
+CASS	Uh... I'd love to stay and talk with you about this,
+CASS	but I was just on my way out.
+CASS	Did you walk here?
+ANDREW	No, I biked over. Don't live too far.
+ANDREW	Just on the other side of Blackwater Lane.
+CASS	Lovely.
+ANDREW	Thanks again, Mrs. Anderson.
+CASS	My pleasure.
+CASS	Thank you for the book.
+CASS	Sorry I'm late.
+JOHN	Cass?
+CASS	John. Hi.
+CASS	Ooh! Scared me.
+JOHN	Cass, what are you doing here?
+CASS	I have a meeting. What about you?
+JOHN	I thought I told you, I give tennis lessons over midterm.
+CASS	I wonder where Mary is.
+JOHN	Mary?
+CASS	Yeah, she's giving me a sample plan for the coursework.
+JOHN	But I dropped her at the airport yesterday.
+CASS	What? But I texted her. She said to meet her here.
+CASS	That's not like her.
+CASS	The message is gone.
+CASS	That's weird.
+JOHN	Well, could it have been an old message?
+CASS	Maybe.
+CASS	I could have sworn she texted me back.
+CASS	I guess I am losing my mind.
+JOHN	Hey, listen, I do things like that all the time.
+CASS	Do you?
+JOHN	Well, no, not really.
+CASS	Yeah, I figured.
+CASS	I guess I shouldn't be surprised, I've been very off.
+CASS	Have you heard about the murder?
+JOHN	You know, I used to play tennis with her.
+JOHN	I couldn't believe it when I heard the news, I felt terrible.
+JOHN	Still do.
+CASS	Yeah. I didn't know you knew her. I did too.
+JOHN	Then you know how sweet she was.
+CASS	I really hope they find who did it soon.
+CASS	Did you know her husband?
+JOHN	Just a bit.
+JOHN	Truth be told, he always struck me as a bit weird.
+JOHN	Look, I've gotta get to my lesson. Can I walk you out?
+CASS	Yeah, sure.
+CASS	How do you mean? You said her husband's weird?
+JOHN	Well, he didn't like Jane and I playing tennis together.
+JOHN	That's why we stopped.
+JOHN	She did anything she could to please him.
+CASS	So, you're off to Greece soon.
+JOHN	No, not anymore. (sighs)
+CASS	Oh, why?
+JOHN	Let's just say my girlfriend is no longer on the scene.
+CASS	Oh. I'm sorry.
+JOHN	Hey, these things happen.
+JOHN	Look, I've got to get over to the courts.
+JOHN	Even though the kid cheats like mad and there's nothing I detest more.
+JOHN	But can we get a drink later?
+JOHN	It might be nice to commiserate together about Jane.
+CASS	Oh. Matthew is going out of town. Sure, yeah. Drink sounds nice.
+JOHN	Great. See you then.
+CASS	See you then.
+CASS	Hey, are you coming? You on your way?
+CASS	Why?
+RACHEL	This client dinner is running late and driving me also insane.
+RACHEL	Sorry.
+CASS	No, no. There's nothing you can do, it's fine.
+RACHEL	Are you going to be okay?
+CASS	Of course I'll be fine. (phone beeping)
+RACHEL	Turn all the lights on. Open ice cream.
+CASS	That's Matthew. Let me call you back.
+RACHEL	Okay.
+CASS	Hi, babe.
+MATTHEW	Hey, babe. There's a problem I'm working on.
+MATTHEW	Um... is Rachel with you?
+CASS	Uh... Not yet.
+CASS	Uh, go to your problem. I'll be fine. Um...
+CASS	I'll talk to you later.
+CASS	I love you.
+CASS	Hello?
+CASS	Hello?
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+CASS	Mom?
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+CASS	It's okay.
+GHOSTLY FEMALE VOICE	Cass.
+GHOSTLY FEMALE VOICE	Cass.
+CASS	Who's there?
+DISPATCHER	Emergency...
+CASS	Hello? (clatter continues)
+CASS	There's someone in my house. Please send someone quick.
+CASS	14 Old River Road.
+CASS	Please come fast!
+DC LAWSON	I'm at the Anderson residence.
+OFFICER	You sure?
+DC LAWSON	Yeah, we checked the whole house, there's no one there.
+DC LAWSON	No broken glass, nothing.
+DC LAWSON	Did you get the background report from Gordon?
+MAN	Yes. Two years ago Cass Anderson was admitted to the psych ward at Houghton Moor Hospital.
+DC LAWSON	A psych ward?
+OFFICER	Yeah.
+DC LAWSON	Listen, we need to keep an eye on them.
+DC LAWSON	I'm not quite sure what, but something's off there.
+DC LAWSON	Uh-huh.
+DC LAWSON	Got it.
+JOHN	So, did you recognize the voice?
+CASS	They asked me that.
+CASS	Something about it sounded familiar.
+JOHN	What's Matthew say? Did he come back?
+CASS	No, he can't come back right away. He's with a group on a rig.
+JOHN	Get rid of him.
+JOHN	I'm joking, Cass.
+CASS	I know.
+JOHN	I'm just joking.
+CASS	I know.
+JOHN	A rig?
+CASS	Yeah, he's with British Energy Partners.
+CASS	He has to make a lot of site visits.
+CASS	It would be one thing if I was in the hospital, but it's not easy going to and from an oil rig, so he's coming back as planned.
+JOHN	Gotcha.
+CASS	I don't know what to think of yesterday. It doesn't make any sense.
+CASS	Something about it feels connected to Jane.
+JOHN	Jane?
+CASS	I don't know, probably not.
+CASS	Maybe it's Andrew.
+JOHN	Andrew Manning, from school?
+CASS	I think he has a bit of a crush.
+CASS	He came by my house the other day.
+JOHN	Really?
+CASS	Yeah. I gave him a book to read over the break and he brought it back.
+CASS	Probably harmless, but it was strange.
+JOHN	Well, 15-year-old boys are generally strange.
+CASS	He said Harry Freeman lives one street over from me and that's who told him where I live.
+JOHN	Well, Harry Freeman doesn't live near you.
+CASS	How do you know?
+JOHN	Because he lives near me on the other side of town. I know his mum.
+JOHN	We were schoolmates.
+CASS	That's weird.
+CASS	No, they're not just nuisance calls.
+CASS	There's definitely someone there, it feels very personal.
+CASS	Like something a 15-year-old kid would do.
+CASS	This was so nice.
+JOHN	Yeah. Really enjoyed it. Thanks.
+CASS	No, thank you so much for coming all the way out here.
+JOHN	Any time.
+CASS	You want to see the pool? It's really beautiful.
+CASS	It's just right over there.
+JOHN	Can do.
+CASS	I'm sorry.
+JOHN	It's okay.
+JOHN	Look, I better, um... better go as well.
+CASS	Yeah.
+CASS	Thank you again.
+JOHN	Any time.
+CASS	Okay.
+JOHN	Okay.
+MATTHEW	Oh.
+MATTHEW	That looks good.
+CASS	Thank you.
+MATTHEW	Hi.
+CASS	Hi.
+CASS	Tough week?
+MATTHEW	Mm. I guess you could say that. Not as tough as yours.
+CASS	None of it makes any sense.
+MATTHEW	I don't know... who was that or what was that?
+CASS	I don't know.
+MATTHEW	Babe, are you still taking pills?
+MATTHEW	I mean, the ones you started when your mom died.
+CASS	Only the sleeping ones. Why?
+MATTHEW	I don't know.
+MATTHEW	Side effects, I mean some of those drugs cause hallucinations.
+CASS	This wasn't a hallucination.
+CASS	Jesus.
+MATTHEW	I'm just trying to figure out what's going on.
+MATTHEW	It's been one thing after another recently.
+MATTHEW	I mean... what happened at the house and...
+CASS	What's your point?
+MATTHEW	Hey. Never... never mind. I'm sorry.
+MATTHEW	We're here now.
+MATTHEW	All right?
+MATTHEW	Let's just enjoy it.
+MATTHEW	To us.
+CASS	To us in our suite.
+MATTHEW	Yes, in our very nice hotel suite.
+MATTHEW	Oh. Such a shame.
+CASS	Mm. The bed is massive.
+MATTHEW	Not so massive that you'll lose me in it.
+CASS	No chance.
+CASS	Do you have a copy of the contract for the alarm that I apparently signed?
+CASS	You don't think I'd actually have done that without you, do you?
+MATTHEW	All I know is that when I got there this morning, there's a technician waiting outside.
+MATTHEW	He said his boss and you set today as the installation, but then there was nobody there when he got there.
+CASS	I decided nothing. I told them we'd get back to them.
+MATTHEW	But you signed a contract.
+CASS	I did no such thing.
+MATTHEW	See, that's what I thought. But then he showed me a copy.
+CASS	Can I see it?
+MATTHEW	Yeah, I'll show it to you later. Can we just enjoy the night?
+CASS	Yeah, okay.
+MATTHEW	Yeah.
+MATTHEW	Okay, we'll sort it out.
+CASS	Okay.
+MATTHEW	Shit. Stabbing somebody's one thing, but slitting their throat with a massive knife, that's just sick.
+CASS	Matthew!
+MATTHEW	What? It was just on the news. That's how she died.
+MATTHEW	Hey, Cass, will you calm down?
+CASS	How am I supposed to calm down if you won't stop going on and on about it?
+CASS	I am sick of hearing about it.
+MATTHEW	I have not been going on about it.
+MATTHEW	That's the first time I said anything.
+MATTHEW	I'll get it.
+DC LAWSON	Hi.
+MATTHEW	Hi.
+DC LAWSON	I'm just checking on Mrs. Anderson. Any more disturbances?
+CASS	Thank you so much. No, not really, no. We just got back so it's pretty quiet.
+DC LAWSON	Well, I meant to ask you,
+DC LAWSON	did Jane Walters ever mention her husband to you?
+CASS	Yeah. Yeah. She spoke very highly of him.
+DC LAWSON	Hmm. Yeah.
+DC LAWSON	Did you know her as well, Mr. Anderson?
+MATTHEW	Me? No, I didn't know her.
+CASS	Well, you met her briefly that one time at the lunch, remember? Yeah.
+DC LAWSON	What time did you get back home that night, again?
+CASS	Like 11:45.
+DC LAWSON	You remember it being 11:45, do you, Mr. Anderson?
+MATTHEW	No, but I was asleep, so...
+CASS	Oh, he was exhausted so he slept in one of the guest rooms.
+DC LAWSON	A guest room?
+CASS	I'm a bit of a snorer, so...
+CASS	sometimes he takes solace in there.
+DC LAWSON	Okay, got it.
+DC LAWSON	Well, if you think of anything, you just give us a call, yeah?
+MATTHEW	Yeah.
+CASS	I don't feel safe there anymore.
+CASS	I'm trying, but I don't know if it's possible.
+CASS	I really hope they find Jane's killer soon, that would be very helpful.
+CASS	Have you heard anything at work?
+RACHEL	I mean, the police are there every other day, but it doesn't seem like they have any idea.
+RACHEL	I'm beginning to wonder if it was just random.
+RACHEL	You know, which... worries me the most.
+CASS	What do you mean?
+RACHEL	I... I guess like... what if it was the killer at your house?
+RACHEL	I don't think I could even go back there. I think I'd have to pack up and move.
+CASS	I'm honestly considering it.
+RACHEL	What I'm saying is, I don't blame you.
+RACHEL	What does Matthew say?
+CASS	He thinks it's my medication or that I'm hallucinating.
+RACHEL	You're kidding.
+RACHEL	You don't have a hallucination out of the blue like that, there has to be...
+RACHEL	other indications.
+RACHEL	Helpful.
+CASS	Yeah, I know.
+CASS	Hi.
+ALEX	I just really Miss Jane.
+ALEX	If only she'd listened to me.
+ALEX	None of this had to happen.
+CASS	How do you mean?
+ALEX	She didn't need that job.
+ALEX	I begged her not to go back after the twins.
+CASS	Lots of women like to work.
+CASS	It's a balancing act.
+ALEX	I know.
+ALEX	I'm sure you feel the same.
+CASS	Why do you think her staying home would have changed things?
+ALEX	Why do you think she was out that night?
+ALEX	She said she had a late meeting at the office.
+CASS	Is that all she said?
+ALEX	Yeah, just that.
+ALEX	She ever talk to you about it?
+CASS	No. Not that I remember.
+ALEX	You know, sometimes I wonder if she was seeing somebody.
+ALEX	There's the guy she used to play tennis with.
+ALEX	I never did like him.
+ALEX	I-- No, I never got that from her. She adored you and the girls.
+ALEX	She was over the moon.
+ALEX	I hope it's true.
+MATTHEW	Oh, it's the delivery. I'll get it.
+MATTHEW	Yeah. Thank you. You too. Thanks, bye.
+CASS	That's weird.
+CASS	The baby shop.
+CASS	Yeah. I was in there the other day.
+CASS	I stopped in after having lunch with Rachel.
+MATTHEW	Yeah, I just got off the phone with them. They said they'd placed an order for you?
+CASS	I was buying a sleeping suit for Sheila at school.
+CASS	She has a new baby.
+MATTHEW	What you told her, is it true?
+MATTHEW	I didn't believe her at first. I thought she must be mistaken.
+CASS	Is what true?
+MATTHEW	Are you really pregnant?
+CASS	No.
+MATTHEW	Well...
+CASS	I'm not pregnant.
+MATTHEW	She was congratulating me, and, uh... I mean, she knew who you were.
+CASS	Well, it's a mistake. She's mistaken.
+MATTHEW	You know, she was pretty specific.
+MATTHEW	She was very clear that you told her you were pregnant,
+MATTHEW	and now there's a stroller in my kitchen.
+CASS	And I never told her I'm pregnant.
+CASS	She assumed it because I was shopping there, but I never ordered that.
+MATTHEW	I mean, you sure you didn't order a stroller?
+CASS	I don't know.
+CASS	I mean, there was another couple there and we were all looking at it at the same time.
+CASS	Maybe she got confused.
+MATTHEW	Yeah, but you don't know for sure?
+CASS	I don't think so.
+MATTHEW	Sweetheart.
+MATTHEW	Maybe now is a good time to talk to Dr. Deakins.
+CASS	Dr. Deakins?
+CASS	Why?
+MATTHEW	Well, after what happened while I was away and the contract thing and this, I just...
+MATTHEW	I don't think it'll do any harm to see a doctor.
+MATTHEW	Just for a checkup.
+CASS	You don't believe me?
+DR. DEAKINS	So Matthew says you've been having trouble remembering things.
+DR. DEAKINS	When did you first notice?
+DR. DEAKINS	Please don't be upset.
+DR. DEAKINS	It's typically the spouse who contacts us.
+DR. DEAKINS	I had a look at the notes from your hospitalization.
+DR. DEAKINS	There's a note here about your mother having dementia.
+DR. DEAKINS	How old was she when she was diagnosed?
+CASS	Fifty-five.
+DR. DEAKINS	So... early onset dementia.
+MATTHEW	But Cass is way too young for that.
+DR. DEAKINS	Unfortunately, not necessarily.
+MATTHEW	Hey.
+MATTHEW	Got everything.
+MATTHEW	Oh, babe.
+ALEX	Cass Anderson stopped by here the other day.
+ALEX	I'd completely forgotten until then.
+DC LAWSON	Forgotten what?
+ALEX	Jane mentioned to me someone she knew was having an affair.
+ACTRESS ON TV	...that also comes with abiding by the law...
+MATTHEW	Think I'm gonna head up.
+MATTHEW	Got an early day tomorrow.
+CASS	Okay.
+CASS	I'll be up in a little bit.
+ACTRESS ON TV	All I ask you is what you're feeling
+ACTRESS ON TV	as a citizen, as a man of God...
+GHOSTLY FEMALE VOICE	Cass...
+GHOSTLY FEMALE VOICE	Cass...
+GHOSTLY FEMALE VOICE	Cass...
+GHOSTLY FEMALE VOICE	Cass...
+CASS	Matthew!
+GHOSTLY FEMALE VOICE	Cass...
+GHOSTLY FEMALE VOICE	Cass...
+CASS	Matt!
+CASS	Matt?
+CASS	Matt?
+CASS	Matt?
+MATTHEW	You're calling me? What's going?
+CASS	There's a knife.
+MATTHEW	Where? What knife?
+CASS	Well, look.
+CASS	What? No, no.
+MATTHEW	What?
+CASS	No, it was right here, just now. It was right here!
+CASS	I promise, there was a knife.
+CASS	There was a knife here. And then the TV...
+MATTHEW	Maybe it's just one of those things--
+CASS	And there's a woman saying my name.
+MATTHEW	So wait, the woman on the TV?
+CASS	No, no, no, in the house. Didn't you hear her?
+MATTHEW	I didn't hear a thing. Shall we call the cops?
+CASS	Why would we call the cops? They'll do nothing...
+MATTHEW	Babe, come on.
+CASS	I'm not making it up. (sobbing) I promise, I'm not making it up.
+MATTHEW	No, I know, I know, I know.
+CASS	I'm... I'm not crazy.
+MATTHEW	I don't get it. I just don't understand.
+CASS	It was right here.
+MATTHEW	All right. What? What?
+MATTHEW	Please, consider taking the prescription from the doctor, please.
+CASS	It was right...
+CASS	And there was a woman and she was saying my name.
+MATTHEW	No, no...
+MATTHEW	It's just the stress.
+MATTHEW	Really, really.
+CASS	I'm not crazy.
+MATTHEW	I'm not sure I understand. I wanna understand.
+CASS	I'm really not that crazy.
+MATTHEW	Come on, I know, I know. Come on.
+MATTHEW	Come on, we can...
+MATTHEW	Hey, babe. It's me. Maybe you're asleep or in the shower, I'll call you back.
+MATTHEW	Oh, thank God.
+MATTHEW	You okay?
+MATTHEW	You took too many pills.
+CASS	No.
+CASS	I didn't take an overdose.
+DOCTOR	Try to stay calm, Mrs. Anderson.
+CASS	I took only two pills today, I swear.
+MATTHEW	Cass.
+MATTHEW	Hey.
+MATTHEW	You all right?
+CASS	I must have fallen asleep.
+MATTHEW	It's okay.
+MATTHEW	But remember, Dr. Deakins said to try to get on a regular sleep schedule.
+CASS	Yeah. Did you call Mary?
+MATTHEW	Yes.
+CASS	Did you tell her it's because of food poisoning I missed the test?
+MATTHEW	Yes, that's exactly what I said.
+MATTHEW	She's fine, so you don't have to worry.
+CASS	Thank you.
+MATTHEW	Hey, you want to eat? You hungry?
+CASS	Little bit, yeah.
+MATTHEW	I'm gonna run out for Chinese.
+CASS	Don't they just deliver?
+MATTHEW	Yeah, but when we call, it always takes forever and it's cold.
+MATTHEW	I'll just get our usual order, right? Be right back.
+CASS	Wait, Matthew.
+MATTHEW	What?
+CASS	You forgot your phone.
+MATTHEW	Thanks. I'm gonna need that.
+MATTHEW	See you soon.
+CASS	Did you see that?
+DC LAWSON	What?
+CASS	The lights, the lights, they were-- they were flickering and buzzing like crazy.
+CASS	You saw it, right?
+DC LAWSON	No, I didn't see anything.
+CASS	You didn't see the lights? They were flickering and they were-- the whole thing was buzzing.
+DC LAWSON	No, no, I didn't see anything.
+CASS	Okay.
+DC LAWSON	Okay.
+CASS	Sorry.
+DC LAWSON	Are you okay?
+CASS	It's just my mom.
+DC LAWSON	Your mom?
+CASS	My mom visited me.
+DC LAWSON	Your mom has passed.
+CASS	I know it sounds crazy.
+CASS	But she's been in touch a lot lately.
+DC LAWSON	We were notified that you were in the hospital.
+DC LAWSON	The report said "attempted suicide."
+CASS	It wasn't that.
+CASS	The emergency nurse came to her own conclusions.
+DC LAWSON	How so?
+CASS	Look, I've had a hard time ever since I lost my mom.
+CASS	The point is, I've been on anti-anxiety medication, and with everything going on, I think I just miscalculated.
+CASS	I don't think I have the nerve to actually kill myself.
+DC LAWSON	That's good to hear.
+DC LAWSON	I'm also here because we got another tip.
+CASS	Okay.
+DC LAWSON	Have you been back... to Blackwater Lane since the night that Jane was killed?
+CASS	Yeah, I went to where they drop off flowers.
+CASS	Who's calling in these tips?
+DC LAWSON	We don't know. They're anonymous.
+CASS	I probably should have told you this before, but I got out and I walked around and I... I found something.
+DC LAWSON	Where did you find it?
+CASS	Off the road, near the woods, somewhere in the... in the grass.
+CASS	But the weird thing is, is...
+CASS	I think it's mine.
+DC LAWSON	It's yours?
+CASS	I have a pair just like it and when I found it, I came back and I checked and one of mine is missing.
+DC LAWSON	So, why didn't you call us?
+CASS	Honestly, I didn't know what to do.
+DC LAWSON	Is everything okay here?
+CASS	Uh... (laughs softly)
+CASS	What do you mean?
+DC LAWSON	With you and your husband.
+CASS	We're good. Why?
+DC LAWSON	Well, someone mentioned that you had a close relationship with Mr. Collins.
+DC LAWSON	He's a fellow teacher at your school, I think.
+CASS	John?
+CASS	That's absurd. He's a good friend, but nothing more.
+DC LAWSON	Okay. I had to ask, you know.
+DC LAWSON	I figured because, let's face it, who leaves a guy who can give you all of this
+DC LAWSON	for a teacher?
+DC LAWSON	No offense.
+CASS	You mean my house?
+CASS	Matthew had nothing to do with this. This is from my parents.
+DC LAWSON	It's very nice for you. (laughs softly)
+CASS	Yeah. Thanks. It is a bit of a surprise.
+CASS	I mean, I...
+CASS	certainly didn't want for anything growing up.
+DC LAWSON	Well, I'm gonna hope for a surprise like that for me one day.
+DC LAWSON	It's funny, you know, they still call it the old Crawford house.
+DC LAWSON	And your friend Rachel, her name came up recently.
+DC LAWSON	Is it a coincidence that her middle name is Crawford?
+CASS	No. No coincidence.
+CASS	Her family owned this house many years ago.
+DC LAWSON	I thought there might be a connection.
+DC LAWSON	So what happened?
+CASS	Her grandfather was a part of some financial fraud scheme and they lost everything, including their family home.
+DC LAWSON	So how does she feel about your family buying it?
+CASS	She was totally tor it. She wanted our family to have it.
+DC LAWSON	I guess it's kind of back in the family for her.
+CASS	I like to think so.
+DC LAWSON	Okay.
+DC LAWSON	Thank you for your time.
+DC LAWSON	I'll show myself out.
+MATTHEW	You went back out in those woods and you found your earring?
+MATTHEW	Why didn't you tell me this?
+CASS	Didn't think anything of it. I found it and I put it in my purse.
+MATTHEW	Jesus. Um...
+MATTHEW	Maybe this is the wrong time, but, um, you have to read that letter from Dr. Deakins.
+CASS	What letter?
+MATTHEW	The one that came the other day.
+CASS	I didn't see it.
+MATTHEW	Well, it's on the counter with the rest of the mail that you haven't opened.
+CASS	I'll go through it tomorrow.
+MATTHEW	So you said the other... Uh...
+MATTHEW	Listen, um, the thing is...
+CASS	What?
+MATTHEW	I read the letter from the doctor.
+CASS	You opened my mail?
+MATTHEW	Just that one, and only because you weren't dealing with it.
+MATTHEW	What if he wanted to see you again or... change your medication or something?
+CASS	You had no right. Where is it?
+MATTHEW	Where you left it.
+CASS	There you have it.
+MATTHEW	Look, I...
+MATTHEW	I think he just wants to refer you for some tests.
+CASS	Mm-hmm.
+CASS	I hope so.
+MATTHEW	I'll spend the night.
+MATTHEW	Coming up?
+CASS	Mm-hmm.
+CASS	I'll be right there.
+MATTHEW	Okay.
+MATTHEW	Okay.
+DC LAWSON	Hi. This is DC Lawson.
+DC LAWSON	I'm investigating a murder in Houghton Moor and there's a person of interest who attended university there.
+DC LAWSON	Anything you can tell me would be very much appreciated.
+CASS	Hi, my name is Cass Anderson.
+CASS	We recently had an alarm installed.
+CASS	Would it be possible for you to e-mail me a copy of the contract?
+CASS	I seem to have misplaced it.
+CASS	Yeah. Cass Anderson. Anderson.
+CASS	Mm-hmm.
+SUSIE	So, how about a cup of tea?
+CASS	A cup of tea sounds nice. Thank you.
+SUSIE	I'm so glad you came by.
+SUSIE	So how are you?
+CASS	I'm okay.
+CASS	Still upset about Jane, as I'm sure you are too.
+SUSIE	It's still so hard to believe.
+SUSIE	I've been helping Alex out with the kids here and there.
+CASS	That's really sweet. Rachel mentioned you knew him.
+SUSIE	We were all members at the same club.
+CASS	Can I ask you something?
+SUSIE	Sure, what?
+CASS	Did Jane have any work friends?
+SUSIE	Definitely. Her best friend was Kelly Duffy.
+SUSIE	She's in accounting.
+CASS	I'd love to talk to her. Would you introduce me?
+CASS	I could have Rachel introduce me.
+SUSIE	Oh, hell no, don't ask Rachel.
+CASS	What?
+SUSIE	Do not mention Kelly to Rachel.
+CASS	Why?
+SUSIE	You know what? Let's make it wine instead of tea.
+SUSIE	I'll tell you, as long as you promise not to tell anyone.
+SUSIE	Most of all, Rachel.
+CASS	You have my word.
+SUSIE	She had an affair with Kelly's husband a couple of years ago.
+SUSIE	They ended up divorcing.
+CASS	What? I can't believe it. Rachel would never do that.
+SUSIE	Well, believe it because it's true.
+SUSIE	They used to go away to Italy together all the time.
+CASS	She loves Italy. She was going every other weekend a while back.
+SUSIE	He used to tell Kelly he had to go for business.
+SUSIE	One week she followed him there.
+CASS	So... Rachel and Jane definitely knew about each other.
+CASS	What?
+OFFICER	Mrs. Anderson. You called to report an accident.
+CASS	Um, actually not an accident. Someone tried to run me off the road.
+CASS	I actually can't believe there's not more damage.
+MATTHEW	Was it really necessary to call the police?
+CASS	Yeah, it needs to be documented.
+CASS	Sorry, Officer, I was too busy trying not to be run off the road to get a license plate, but...
+OFFICER	Can you tell me the make and model of the car?
+CASS	Yeah, it was a big black SUV with blacked out windows.
+MATTHEW	You sure it wasn't somebody just trying to pass? The road's dark, people are aggressive.
+CASS	I'm pretty sure I know someone wasn't trying to pass.
+CASS	Look at my car.
+MATTHEW	You don't remember? That happened last week.
+MATTHEW	The delivery truck. I asked you to back up.
+MATTHEW	That's old damage.
+MATTHEW	I'm sorry, Officer.
+MATTHEW	Um, my wife sometimes has trouble with her memory.
+CASS	No.
+CASS	No, this has nothing to do with my memory.
+CASS	I think I would know if someone was running me off the road.
+MATTHEW	Thank you for your time.
+CASS	You completely undermined me.
+MATTHEW	Come on, Cass. It was probably just somebody trying to pass.
+CASS	Thanks for the support.
+MATTHEW	Look, babe, you've got signs of early onset dementia.
+MATTHEW	You're sick, when are you gonna accept that?
+MATTHEW	I didn't mean that. I'm sorry.
+CASS	Hello.
+AMY	Mrs. Anderson.
+CASS	Yes.
+AMY	Hi, this is Amy from Castle Wells Protection Services.
+AMY	I'm so sorry, but I think I gave you the wrong contract the other day.
+CASS	What do you mean?
+AMY	Well, when I put back the file, I found a second contract.
+AMY	Did your husband sign first and then you later?
+CASS	A second contract? Can... can you send me what you have?
+AMY	I just emailed it to you.
+CASS	Thank you. Um...
+CASS	Okay, so what you just sent is the original and then what you sent me yesterday was an addendum?
+AMY	It wasn't an addendum after all. It was a second contract.
+AMY	Did your husband sign first and then you later?
+CASS	Um... I'm not sure. What's the date on the one with my signature?
+AMY	It looks like the day of installation.
+CASS	But I wasn't in town that day.
+CASS	Hey.
+RACHEL	Hey.
+CASS	Hi. Um...
+CASS	I'll have a small Sauvignon blanc.
+RACHEL	I'll have another rosé.
+RACHEL	What's going on?
+CASS	It's Matthew.
+CASS	He's been...
+CASS	really cold lately, and I think...
+CASS	I think he's having an affair.
+RACHEL	Is this a general feeling...
+RACHEL	or something specific?
+CASS	It's just a general feeling, but there has been a distinct shift in his attitude.
+RACHEL	Thanks.
+RACHEL	Well...
+RACHEL	your intuition is usually spot on.
+RACHEL	You should hire a private investigator.
+CASS	Really?
+RACHEL	Absolutely.
+RACHEL	If he is, then you'll have proof. And if he isn't, then you'll know.
+RACHEL	I... I have somebody great. I'll text you his info.
+CASS	Of course you do.
+CASS	Um...
+CASS	Send me the info, I'll think about it.
+RACHEL	Do it.
+RACHEL	You know I've never trusted Matthew.
+CASS	It's been a lot lately.
+CASS	I almost wouldn't blame him.
+CASS	Have you ever had one?
+RACHEL	An...
+CASS	An affair.
+RACHEL	That's a complicated question to ask out of the blue.
+CASS	Is it?
+CASS	Feel like it's a... yes or no question. It's not really that complicated.
+RACHEL	All affairs are not necessarily equal.
+RACHEL	Look, I... I can't get into it right now.
+RACHEL	Let's table it for another time when you're not...
+RACHEL	in the middle of this.
+RACHEL	I have to run to the bathroom.
+CASS	Uh... we're okay. Thank you.
+RACHEL	Legal's still expecting a set of notes from the SEC.
+RACHEL	Could we... (sighs) Yeah, we could turn around by the end of business in New York, but...
+RACHEL	Hold on.
+RACHEL	I'm sorry. Uh, kind of an emergency came up at the office.
+RACHEL	Can I abandon you?
+CASS	Oh, no, no, that's fine.
+RACHEL	But I do want to finish the conversation, okay?
+CASS	Yeah.
+RACHEL	Let's get lunch.
+RACHEL	Well, it's gonna be 11 hours...
+MATTHEW	Hang in there, end in sight, promise. Let me know what happens.
+RACHEL	Waiting for her to arrive.
+MATTHEW	We've got to end this.
+RACHEL	Agreed. Now's the time.
+RACHEL	We've got a problem.
+RACHEL	Someone saw us.
+RACHEL	I'm meeting her Friday night on Blackwater Lane.
+RACHEL	I think someone may have seen me on Blackwater.
+RACHEL	I recognized the car.
+MATTHEW	Yeah. Are you there?
+MATTHEW	Hello?
+MATTHEW	Hello?
+MATTHEW	Shit. Stabbing somebody's one thing, but slitting their throat with a massive knife, that's just sick.
+MATTHEW	We've got to end this.
+RACHEL	Agreed. Now's the time.
+ANDREW	Mrs. Anderson.
+ANDREW	Mrs. Anderson!
+ANDREW	Please send an ambulance to 14 Old River Road.
+ANDREW	I've just found my teacher. It's an emergency. Come quick!
+DC LAWSON	Mr. Anderson.
+DC LAWSON	I'm sorry to inform you, there's... been an incident.
+MATTHEW	What's going on? Where's my wife?
+ANDREW	I came to get a paper for my class.
+ANDREW	I sensed something was really wrong so I... I went and looked for her.
+MATTHEW	What? What are you saying?
+ANDREW	She was just laid there, there was blood everywhere.
+MATTHEW	Where is she?
+ANDREW	She didn't make it.
+MATTHEW	No.
+ANDREW	They took her to the hospital.
+ANDREW	I'm so... so sorry.
+MATTHEW	No.
+MATTHEW	She really loved this house.
+MATTHEW	It was never part of the plan, Rachel.
+MATTHEW	This has all gotten way out of hand.
+MATTHEW	That's just the house settling.
+RACHEL	Someone's here.
+JOHN	Hey!
+RACHEL	Walk inside, Cassie.
+CASS	You have to call an ambulance for John.
+RACHEL	How long have you been having an affair with John?
+CASS	What?
+CASS	It's not going to work, Rachel.
+CASS	They have your phone.
+RACHEL	That is not my phone. It's yours.
+CASS	Yes, it is. It's your phone that you've been using to text my husband. Right, Matt? Right, Matt?
+CASS	Why are you doing this?
+RACHEL	No one is "doing this."
+RACHEL	You're clearly having another breakdown.
+CASS	You're unbelievable.
+RACHEL	You're unwell, Cass.
+RACHEL	You've never been well.
+CASS	You'd want me to believe that, wouldn't you?
+CASS	I knew you were competitive, but cheating with my husband?
+CASS	Well...
+RACHEL	Was it competitive when you bought this house to humiliate me?
+CASS	You...
+RACHEL	For the record, I never cheated with your husband.
+CASS	What?
+MATTHEW	Cass, I'm sorry. Rachel, this has to stop--
+RACHEL	You don't know her like I do.
+MATTHEW	We gotta stop, we gotta let her go.
+RACHEL	She does not care about you. She only cares about herself, trust me.
+RACHEL	With all that you inherited, did you ever think to share one penny with anyone else?
+CASS	That's what this is about?
+CASS	Money?
+RACHEL	No, that's not how I keep score. But it's how you keep score.
+CASS	That's why you're doing this?
+CASS	Don't you know that if you needed anything, I would have given it to?
+RACHEL	Like when we were in school, you knew.
+RACHEL	You knew what was happening to me.
+RACHEL	You knew what happened to my mother.
+RACHEL	You knew and you never said a word.
+CASS	No, Rachel, you're wrong.
+CASS	My mother was helping your mother.
+CASS	Of course I didn't say anything.
+CASS	I didn't want to embarrass you.
+CASS	All your perceived hurts.
+CASS	Always trying to get revenge.
+CASS	After everything my family did for you.
+RACHEL	Your family has done nothing for me.
+RACHEL	Your family can never hurt me again.
+RACHEL	You don't touch me. You don't-- You don't touch me!
+CASS	Matthew!
+RACHEL	You...
+RACHEL	You did this! You did this! You did this.
+DC LAWSON	That's enough! (guns cocking) Back away.
+RACHEL	Somebody help him.
+DC LAWSON	Back away!
+RACHEL	Somebody help him, somebody help him, somebody help him.
+RACHEL	We were trying to restrain Cass and she got violent.
+DC LAWSON	Tell me something.
+DC LAWSON	You and Matthew have known each other for a very long time, haven't you?
+DC LAWSON	Since university?
+DC LAWSON	You took some computer science course, and he was a teaching assistant.
+DC LAWSON	But Cass didn't take that class.
+DC LAWSON	She never even met Matthew until after her mother had passed.
+DC LAWSON	But you orchestrated their meeting at the expert event.
+DC LAWSON	You convinced her to go. She took the bait.
+DC LAWSON	I'm charging you for the murder of Jane Walters, but I'm guessing there'll be a few more charges to follow.
+RACHEL	On what evidence? I was in New York.
+DC LAWSON	I pulled the flight manifests. You never went to New York.
+DC LAWSON	And Matthew's never worked a day on a rig.
+CASS	You killed Jane.
+CASS	Thank you.
+CASS	In the end, John ended up being okay, but Matthew didn't make it.
+CASS	He died that night.
+CASS	And Rachel finally admitted to everything.
+CASS	They had known each other for years,
+CASS	and shortly after my breakdown, Rachel and Matthew met
+CASS	and a plan ensued to make me think and look
+CASS	like I had early onset dementia, like my mother...
+CASS	which would drive me to suicide.
+CASS	All was going to plan until Jane saw them in the office
+CASS	and then met Matthew with me at lunch.
+CASS	But...
+CASS	Rachel, ever resourceful,
+CASS	decided to kill Jane...
+CASS	and then make me look like a suspect.
+CASS	But I sensed the deception
+CASS	and Matthew was a bit too thrilled to share with me Dr. Deakins' theory about early onset dementia.
+CASS	They cruelly used the experiences I was having with my mother, who passed away.
+CASS	I started to realize I'd been in danger all along.
+CASS	And then I found the camera and I decided to turn the tables.
+CASS	I came up with a plan.
+CASS	I called John and DC Lawson and enlisted Andrew to help too.
+CASS	I needed someone who could give the performance of their life.
+CASS	I knew Matthew and Rachel would be watching.
+CASS	And I knew they'd come back for the knife and the phone.
+DC LAWSON	Mr. Anderson... I'm sorry to inform you, there's been an incident.
+CASS	What's scary is, they could have pulled it off.
+CASS	I'm so sorry about Jane.
+CASS	Even after all this, I miss Rachel.
+CASS	Who we were together, all the laughs and cries.
+CASS	I even miss Matthew.
+CASS	Even after discovering he never loved me.
+CASS	This was a plan they had from the very beginning.
+CASS	At the end of the day, I found that three things are certain.
+CASS	If you listen, the answers are there.
+CASS	Everything happens when it's supposed to.
+CASS	And you are so much stronger than you think.
+KATHERINE FUSSEY	 In the setting sun 
+KATHERINE FUSSEY	 With my silver tongue 
+KATHERINE FUSSEY	 And your wishing well 
+KATHERINE FUSSEY	 See how we come alive 
+KATHERINE FUSSEY	 Something I justify 
+KATHERINE FUSSEY	 Living half a life 
+KATHERINE FUSSEY	 Will you 
+KATHERINE FUSSEY	 Be true? 
+KATHERINE FUSSEY	 Oh 
+KATHERINE FUSSEY	 I'm just a liar, uh 
+KATHERINE FUSSEY	 I'm your fire, oh 
+KATHERINE FUSSEY	 Inner Demons, come to me at night 
+KATHERINE FUSSEY	 Keep me closer 
+KATHERINE FUSSEY	 Cry on your shoulder 
+KATHERINE FUSSEY	 Whispered in your ear 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 When it's said and done 
+KATHERINE FUSSEY	 I'm your only one 
+KATHERINE FUSSEY	 And you know that I'm broken now 
+KATHERINE FUSSEY	 See your heart as mine 
+KATHERINE FUSSEY	 With a one-track mind 
+KATHERINE FUSSEY	 Spinning round and round 
+KATHERINE FUSSEY	 Will you, oh 
+KATHERINE FUSSEY	 Will you-ou 
+KATHERINE FUSSEY	 I'm 
+KATHERINE FUSSEY	 Just a liar 
+KATHERINE FUSSEY	 I'm your fire 
+KATHERINE FUSSEY	 Inner Demons, come to me at night 
+KATHERINE FUSSEY	 Keep me closer 
+KATHERINE FUSSEY	 Cry on your shoulder 
+KATHERINE FUSSEY	 Whispered in your ear 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 Ooh 
+KATHERINE FUSSEY	 Oh 
+KATHERINE FUSSEY	 I'm just a liar 
+KATHERINE FUSSEY	 I'm your fire 
+KATHERINE FUSSEY	 Inner Demons, come to me at night 
+KATHERINE FUSSEY	 Keep me closer 
+KATHERINE FUSSEY	 Cry on your shoulder as I 
+KATHERINE FUSSEY	 Whispered in your ear 
+KATHERINE FUSSEY	 It's over 
+KATHERINE FUSSEY	 I'm a liar 
+KATHERINE FUSSEY	 I'm your fire 
+KATHERINE FUSSEY	 Inner Demons, come to me at night 
+KATHERINE FUSSEY	 Keep me closer 
+KATHERINE FUSSEY	 Cry on your shoulder as I 
+KATHERINE FUSSEY	 Whispered in your ear 
+KATHERINE FUSSEY	 It's over 

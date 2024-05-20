@@ -609,7 +609,7 @@ Scene 608: {'KIDS'}
 Scene 609: {'DUNJA'}
 Scene 610: {'SEBI'}
 Scene 611: {'KIDS'}
-Scene 612: {'FRIDO', 'PUNK'}
+Scene 612: {'PUNK', 'FRIDO'}
 Scene 613: {'FRIDO II'}
 Scene 614: {'EMIL'}
 Scene 615: {'SEBI'}

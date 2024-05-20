@@ -1,77 +1,77 @@
-MIRROR MAZE OWNER: {'Scene 5', 'Scene 1', 'Scene 681', 'Scene 3', 'Scene 7', 'Scene 687', 'Scene 73', 'Scene 9', 'Scene 144', 'Scene 142', 'Scene 683', 'Scene 814', 'Scene 156', 'Scene 678', 'Scene 140'}
-PUPPET: {'Scene 2', 'Scene 160', 'Scene 155', 'Scene 4', 'Scene 815', 'Scene 10', 'Scene 143', 'Scene 6', 'Scene 141', 'Scene 8', 'Scene 74'}
+MIRROR MAZE OWNER: {'Scene 144', 'Scene 1', 'Scene 9', 'Scene 5', 'Scene 73', 'Scene 142', 'Scene 814', 'Scene 683', 'Scene 7', 'Scene 678', 'Scene 681', 'Scene 156', 'Scene 3', 'Scene 687', 'Scene 140'}
+PUPPET: {'Scene 8', 'Scene 6', 'Scene 74', 'Scene 4', 'Scene 155', 'Scene 141', 'Scene 143', 'Scene 160', 'Scene 10', 'Scene 815', 'Scene 2'}
 ANNOUNCER: {'Scene 11'}
 PETER: {'Scene 12'}
 VOICES (female): {'Scene 13'}
 VOICES (Male): {'Scene 14'}
-GESA: {'Scene 119', 'Scene 15', 'Scene 231', 'Scene 720', 'Scene 21', 'Scene 227', 'Scene 94', 'Scene 239', 'Scene 123', 'Scene 135', 'Scene 534', 'Scene 76', 'Scene 121', 'Scene 87', 'Scene 98', 'Scene 294', 'Scene 153', 'Scene 235', 'Scene 19', 'Scene 117', 'Scene 102', 'Scene 569', 'Scene 17', 'Scene 218', 'Scene 563', 'Scene 110', 'Scene 129', 'Scene 112', 'Scene 150', 'Scene 225', 'Scene 157', 'Scene 83', 'Scene 515', 'Scene 130', 'Scene 718', 'Scene 310', 'Scene 725', 'Scene 229', 'Scene 80', 'Scene 89', 'Scene 104', 'Scene 114', 'Scene 125', 'Scene 216', 'Scene 237', 'Scene 727', 'Scene 331', 'Scene 106', 'Scene 223', 'Scene 241', 'Scene 739', 'Scene 137', 'Scene 108', 'Scene 729', 'Scene 133', 'Scene 233', 'Scene 100', 'Scene 127', 'Scene 565', 'Scene 159', 'Scene 92', 'Scene 96'}
-FRIDO: {'Scene 52', 'Scene 46', 'Scene 375', 'Scene 188', 'Scene 209', 'Scene 316', 'Scene 343', 'Scene 186', 'Scene 307', 'Scene 286', 'Scene 532', 'Scene 358', 'Scene 686', 'Scene 774', 'Scene 163', 'Scene 214', 'Scene 217', 'Scene 192', 'Scene 684', 'Scene 115', 'Scene 288', 'Scene 547', 'Scene 485', 'Scene 496', 'Scene 77', 'Scene 180', 'Scene 146', 'Scene 407', 'Scene 351', 'Scene 537', 'Scene 22', 'Scene 152', 'Scene 582', 'Scene 278', 'Scene 647', 'Scene 71', 'Scene 535', 'Scene 539', 'Scene 318', 'Scene 580', 'Scene 549', 'Scene 612', 'Scene 479', 'Scene 335', 'Scene 20', 'Scene 67', 'Scene 190', 'Scene 103', 'Scene 726', 'Scene 598', 'Scene 147', 'Scene 295', 'Scene 730', 'Scene 245', 'Scene 69', 'Scene 724', 'Scene 658', 'Scene 410', 'Scene 541', 'Scene 679', 'Scene 95', 'Scene 489', 'Scene 600', 'Scene 139', 'Scene 154', 'Scene 605', 'Scene 732', 'Scene 805', 'Scene 149', 'Scene 551', 'Scene 158', 'Scene 339', 'Scene 675', 'Scene 212', 'Scene 312', 'Scene 371', 'Scene 482', 'Scene 377', 'Scene 530', 'Scene 169', 'Scene 184', 'Scene 475', 'Scene 408', 'Scene 60', 'Scene 198', 'Scene 50', 'Scene 219', 'Scene 689', 'Scene 668', 'Scene 18', 'Scene 166', 'Scene 204', 'Scene 341', 'Scene 27', 'Scene 574', 'Scene 670', 'Scene 164', 'Scene 292', 'Scene 202', 'Scene 43', 'Scene 290', 'Scene 543', 'Scene 767', 'Scene 324', 'Scene 194', 'Scene 178', 'Scene 57', 'Scene 301', 'Scene 796', 'Scene 40', 'Scene 297', 'Scene 16', 'Scene 666', 'Scene 405', 'Scene 145', 'Scene 655', 'Scene 196', 'Scene 161', 'Scene 388', 'Scene 303', 'Scene 274', 'Scene 224', 'Scene 99', 'Scene 221', 'Scene 200', 'Scene 64', 'Scene 207', 'Scene 545', 'Scene 498', 'Scene 356', 'Scene 354', 'Scene 337', 'Scene 299', 'Scene 412', 'Scene 206', 'Scene 243', 'Scene 664', 'Scene 555'}
+GESA: {'Scene 87', 'Scene 727', 'Scene 569', 'Scene 17', 'Scene 80', 'Scene 229', 'Scene 92', 'Scene 294', 'Scene 720', 'Scene 216', 'Scene 108', 'Scene 225', 'Scene 15', 'Scene 725', 'Scene 100', 'Scene 112', 'Scene 563', 'Scene 133', 'Scene 89', 'Scene 237', 'Scene 159', 'Scene 153', 'Scene 21', 'Scene 96', 'Scene 127', 'Scene 130', 'Scene 123', 'Scene 233', 'Scene 739', 'Scene 223', 'Scene 137', 'Scene 534', 'Scene 110', 'Scene 565', 'Scene 310', 'Scene 157', 'Scene 125', 'Scene 729', 'Scene 104', 'Scene 515', 'Scene 218', 'Scene 129', 'Scene 235', 'Scene 239', 'Scene 106', 'Scene 718', 'Scene 114', 'Scene 150', 'Scene 19', 'Scene 83', 'Scene 241', 'Scene 76', 'Scene 94', 'Scene 227', 'Scene 102', 'Scene 98', 'Scene 331', 'Scene 135', 'Scene 117', 'Scene 121', 'Scene 119', 'Scene 231'}
+FRIDO: {'Scene 103', 'Scene 206', 'Scene 20', 'Scene 318', 'Scene 307', 'Scene 726', 'Scene 339', 'Scene 555', 'Scene 658', 'Scene 163', 'Scene 605', 'Scene 341', 'Scene 214', 'Scene 479', 'Scene 335', 'Scene 343', 'Scene 371', 'Scene 299', 'Scene 139', 'Scene 675', 'Scene 539', 'Scene 190', 'Scene 71', 'Scene 582', 'Scene 192', 'Scene 496', 'Scene 684', 'Scene 670', 'Scene 290', 'Scene 410', 'Scene 217', 'Scene 337', 'Scene 40', 'Scene 146', 'Scene 297', 'Scene 27', 'Scene 207', 'Scene 647', 'Scene 612', 'Scene 730', 'Scene 532', 'Scene 99', 'Scene 600', 'Scene 77', 'Scene 580', 'Scene 543', 'Scene 375', 'Scene 724', 'Scene 324', 'Scene 274', 'Scene 767', 'Scene 43', 'Scene 351', 'Scene 485', 'Scene 668', 'Scene 655', 'Scene 303', 'Scene 149', 'Scene 200', 'Scene 356', 'Scene 194', 'Scene 209', 'Scene 60', 'Scene 245', 'Scene 278', 'Scene 489', 'Scene 541', 'Scene 574', 'Scene 16', 'Scene 796', 'Scene 535', 'Scene 547', 'Scene 301', 'Scene 202', 'Scene 598', 'Scene 188', 'Scene 805', 'Scene 154', 'Scene 158', 'Scene 412', 'Scene 498', 'Scene 147', 'Scene 354', 'Scene 377', 'Scene 166', 'Scene 212', 'Scene 551', 'Scene 732', 'Scene 115', 'Scene 221', 'Scene 312', 'Scene 549', 'Scene 407', 'Scene 22', 'Scene 46', 'Scene 18', 'Scene 180', 'Scene 475', 'Scene 224', 'Scene 164', 'Scene 679', 'Scene 689', 'Scene 219', 'Scene 316', 'Scene 57', 'Scene 69', 'Scene 169', 'Scene 288', 'Scene 152', 'Scene 774', 'Scene 95', 'Scene 52', 'Scene 664', 'Scene 482', 'Scene 686', 'Scene 50', 'Scene 196', 'Scene 204', 'Scene 184', 'Scene 408', 'Scene 292', 'Scene 666', 'Scene 530', 'Scene 405', 'Scene 286', 'Scene 295', 'Scene 161', 'Scene 178', 'Scene 64', 'Scene 537', 'Scene 186', 'Scene 358', 'Scene 67', 'Scene 198', 'Scene 545', 'Scene 243', 'Scene 145', 'Scene 388'}
 MRS PIETSCH: {'Scene 23'}
-BOCKI: {'Scene 26', 'Scene 309', 'Scene 24', 'Scene 305', 'Scene 302', 'Scene 29', 'Scene 65', 'Scene 448'}
-JARO: {'Scene 66', 'Scene 304', 'Scene 306', 'Scene 28', 'Scene 25', 'Scene 441', 'Scene 300', 'Scene 308', 'Scene 445', 'Scene 450'}
-EMILS MOTHER: {'Scene 424', 'Scene 519', 'Scene 30', 'Scene 437', 'Scene 32', 'Scene 36', 'Scene 182', 'Scene 428', 'Scene 38', 'Scene 430', 'Scene 34', 'Scene 435', 'Scene 41', 'Scene 58', 'Scene 521', 'Scene 422', 'Scene 426', 'Scene 420', 'Scene 61', 'Scene 417'}
-EMIL: {'Scene 51', 'Scene 740', 'Scene 181', 'Scene 643', 'Scene 31', 'Scene 379', 'Scene 734', 'Scene 508', 'Scene 249', 'Scene 37', 'Scene 406', 'Scene 263', 'Scene 177', 'Scene 672', 'Scene 499', 'Scene 434', 'Scene 529', 'Scene 719', 'Scene 559', 'Scene 554', 'Scene 626', 'Scene 346', 'Scene 381', 'Scene 474', 'Scene 265', 'Scene 291', 'Scene 42', 'Scene 688', 'Scene 267', 'Scene 387', 'Scene 168', 'Scene 183', 'Scene 289', 'Scene 614', 'Scene 552', 'Scene 548', 'Scene 33', 'Scene 685', 'Scene 49', 'Scene 597', 'Scene 370', 'Scene 287', 'Scene 376', 'Scene 595', 'Scene 768', 'Scene 53', 'Scene 674', 'Scene 47', 'Scene 487', 'Scene 363', 'Scene 372', 'Scene 35', 'Scene 432', 'Scene 657', 'Scene 481', 'Scene 667', 'Scene 436', 'Scene 476', 'Scene 386', 'Scene 617', 'Scene 44', 'Scene 39', 'Scene 665', 'Scene 361', 'Scene 391', 'Scene 671', 'Scene 722', 'Scene 59', 'Scene 590', 'Scene 457', 'Scene 808', 'Scene 492', 'Scene 179', 'Scene 497', 'Scene 716', 'Scene 550'}
-KLAWITTER: {'Scene 262', 'Scene 248', 'Scene 293', 'Scene 701', 'Scene 86', 'Scene 812', 'Scene 717', 'Scene 748', 'Scene 266', 'Scene 84', 'Scene 78', 'Scene 246', 'Scene 695', 'Scene 744', 'Scene 693', 'Scene 703', 'Scene 742', 'Scene 759', 'Scene 715', 'Scene 298', 'Scene 468', 'Scene 789', 'Scene 707', 'Scene 344', 'Scene 699', 'Scene 691', 'Scene 754', 'Scene 260', 'Scene 45', 'Scene 88', 'Scene 465', 'Scene 75', 'Scene 585', 'Scene 620', 'Scene 575', 'Scene 766', 'Scene 167', 'Scene 775', 'Scene 770', 'Scene 91', 'Scene 472', 'Scene 48', 'Scene 764', 'Scene 709', 'Scene 721', 'Scene 573', 'Scene 93', 'Scene 733', 'Scene 705', 'Scene 735', 'Scene 296', 'Scene 579', 'Scene 82', 'Scene 624', 'Scene 697', 'Scene 254', 'Scene 723', 'Scene 810', 'Scene 785'}
-SEBI: {'Scene 440', 'Scene 348', 'Scene 488', 'Scene 172', 'Scene 282', 'Scene 175', 'Scene 54', 'Scene 607', 'Scene 507', 'Scene 270', 'Scene 480', 'Scene 490', 'Scene 402', 'Scene 273', 'Scene 56', 'Scene 478', 'Scene 493', 'Scene 631', 'Scene 645', 'Scene 451', 'Scene 512', 'Scene 516', 'Scene 350', 'Scene 484', 'Scene 615', 'Scene 641', 'Scene 458', 'Scene 509', 'Scene 514', 'Scene 170', 'Scene 638', 'Scene 62', 'Scene 518', 'Scene 463', 'Scene 272', 'Scene 284', 'Scene 470', 'Scene 634', 'Scene 268', 'Scene 772', 'Scene 486', 'Scene 438', 'Scene 610'}
-DUNJA: {'Scene 70', 'Scene 556', 'Scene 349', 'Scene 469', 'Scene 464', 'Scene 576', 'Scene 561', 'Scene 162', 'Scene 642', 'Scene 317', 'Scene 452', 'Scene 269', 'Scene 444', 'Scene 460', 'Scene 271', 'Scene 401', 'Scene 72', 'Scene 442', 'Scene 558', 'Scene 173', 'Scene 644', 'Scene 639', 'Scene 609', 'Scene 171', 'Scene 68', 'Scene 396', 'Scene 63', 'Scene 55', 'Scene 283'}
-MICHAEL: {'Scene 315', 'Scene 525', 'Scene 79', 'Scene 120', 'Scene 714', 'Scene 313', 'Scene 109', 'Scene 131', 'Scene 132', 'Scene 128', 'Scene 116', 'Scene 710', 'Scene 134', 'Scene 311', 'Scene 712', 'Scene 81', 'Scene 124', 'Scene 731', 'Scene 101', 'Scene 126', 'Scene 111', 'Scene 138', 'Scene 97', 'Scene 90', 'Scene 122', 'Scene 105', 'Scene 113', 'Scene 522', 'Scene 85', 'Scene 728', 'Scene 136', 'Scene 151', 'Scene 107', 'Scene 118'}
-FRIDO II: {'Scene 185', 'Scene 201', 'Scene 208', 'Scene 415', 'Scene 255', 'Scene 232', 'Scene 562', 'Scene 187', 'Scene 230', 'Scene 355', 'Scene 359', 'Scene 409', 'Scene 336', 'Scene 804', 'Scene 326', 'Scene 473', 'Scene 264', 'Scene 210', 'Scene 546', 'Scene 195', 'Scene 199', 'Scene 251', 'Scene 471', 'Scene 220', 'Scene 215', 'Scene 328', 'Scene 213', 'Scene 228', 'Scene 236', 'Scene 533', 'Scene 542', 'Scene 238', 'Scene 340', 'Scene 253', 'Scene 538', 'Scene 191', 'Scene 244', 'Scene 332', 'Scene 738', 'Scene 261', 'Scene 467', 'Scene 205', 'Scene 240', 'Scene 544', 'Scene 197', 'Scene 193', 'Scene 613', 'Scene 165', 'Scene 321', 'Scene 347', 'Scene 257', 'Scene 222', 'Scene 806', 'Scene 540', 'Scene 234', 'Scene 531', 'Scene 345', 'Scene 148', 'Scene 536', 'Scene 189', 'Scene 203', 'Scene 226'}
-OTTO: {'Scene 454', 'Scene 399', 'Scene 174', 'Scene 637', 'Scene 640', 'Scene 616', 'Scene 632', 'Scene 630', 'Scene 800', 'Scene 618'}
-JULI: {'Scene 455', 'Scene 176', 'Scene 400', 'Scene 627'}
-MAN: {'Scene 314', 'Scene 211'}
+BOCKI: {'Scene 302', 'Scene 24', 'Scene 309', 'Scene 305', 'Scene 29', 'Scene 448', 'Scene 26', 'Scene 65'}
+JARO: {'Scene 66', 'Scene 300', 'Scene 304', 'Scene 28', 'Scene 445', 'Scene 450', 'Scene 441', 'Scene 306', 'Scene 25', 'Scene 308'}
+EMILS MOTHER: {'Scene 38', 'Scene 435', 'Scene 519', 'Scene 30', 'Scene 420', 'Scene 430', 'Scene 34', 'Scene 521', 'Scene 182', 'Scene 428', 'Scene 426', 'Scene 32', 'Scene 424', 'Scene 417', 'Scene 61', 'Scene 41', 'Scene 422', 'Scene 58', 'Scene 437', 'Scene 36'}
+EMIL: {'Scene 37', 'Scene 391', 'Scene 434', 'Scene 42', 'Scene 31', 'Scene 183', 'Scene 688', 'Scene 685', 'Scene 51', 'Scene 386', 'Scene 559', 'Scene 487', 'Scene 550', 'Scene 740', 'Scene 49', 'Scene 457', 'Scene 474', 'Scene 263', 'Scene 346', 'Scene 287', 'Scene 44', 'Scene 671', 'Scene 643', 'Scene 657', 'Scene 722', 'Scene 39', 'Scene 363', 'Scene 768', 'Scene 719', 'Scene 289', 'Scene 387', 'Scene 665', 'Scene 734', 'Scene 168', 'Scene 667', 'Scene 59', 'Scene 492', 'Scene 35', 'Scene 179', 'Scene 177', 'Scene 249', 'Scene 267', 'Scene 361', 'Scene 381', 'Scene 436', 'Scene 476', 'Scene 716', 'Scene 291', 'Scene 376', 'Scene 481', 'Scene 372', 'Scene 808', 'Scene 548', 'Scene 552', 'Scene 379', 'Scene 626', 'Scene 497', 'Scene 265', 'Scene 529', 'Scene 181', 'Scene 370', 'Scene 554', 'Scene 33', 'Scene 590', 'Scene 597', 'Scene 617', 'Scene 595', 'Scene 53', 'Scene 499', 'Scene 672', 'Scene 674', 'Scene 614', 'Scene 406', 'Scene 508', 'Scene 432', 'Scene 47'}
+KLAWITTER: {'Scene 707', 'Scene 733', 'Scene 344', 'Scene 723', 'Scene 735', 'Scene 695', 'Scene 293', 'Scene 468', 'Scene 575', 'Scene 709', 'Scene 248', 'Scene 262', 'Scene 701', 'Scene 715', 'Scene 789', 'Scene 246', 'Scene 691', 'Scene 693', 'Scene 78', 'Scene 754', 'Scene 785', 'Scene 86', 'Scene 810', 'Scene 703', 'Scene 699', 'Scene 764', 'Scene 167', 'Scene 48', 'Scene 585', 'Scene 775', 'Scene 296', 'Scene 744', 'Scene 579', 'Scene 88', 'Scene 748', 'Scene 472', 'Scene 91', 'Scene 759', 'Scene 465', 'Scene 705', 'Scene 254', 'Scene 93', 'Scene 812', 'Scene 75', 'Scene 721', 'Scene 620', 'Scene 298', 'Scene 697', 'Scene 770', 'Scene 260', 'Scene 624', 'Scene 45', 'Scene 717', 'Scene 766', 'Scene 84', 'Scene 266', 'Scene 573', 'Scene 742', 'Scene 82'}
+SEBI: {'Scene 62', 'Scene 484', 'Scene 772', 'Scene 172', 'Scene 509', 'Scene 56', 'Scene 284', 'Scene 516', 'Scene 610', 'Scene 272', 'Scene 512', 'Scene 634', 'Scene 273', 'Scene 170', 'Scene 463', 'Scene 518', 'Scene 641', 'Scene 270', 'Scene 348', 'Scene 458', 'Scene 486', 'Scene 268', 'Scene 645', 'Scene 54', 'Scene 615', 'Scene 175', 'Scene 488', 'Scene 638', 'Scene 282', 'Scene 440', 'Scene 631', 'Scene 478', 'Scene 607', 'Scene 350', 'Scene 493', 'Scene 451', 'Scene 402', 'Scene 480', 'Scene 507', 'Scene 490', 'Scene 514', 'Scene 438', 'Scene 470'}
+DUNJA: {'Scene 283', 'Scene 271', 'Scene 317', 'Scene 171', 'Scene 444', 'Scene 642', 'Scene 63', 'Scene 269', 'Scene 556', 'Scene 639', 'Scene 70', 'Scene 464', 'Scene 349', 'Scene 460', 'Scene 55', 'Scene 644', 'Scene 609', 'Scene 162', 'Scene 452', 'Scene 442', 'Scene 173', 'Scene 72', 'Scene 401', 'Scene 469', 'Scene 561', 'Scene 68', 'Scene 558', 'Scene 576', 'Scene 396'}
+MICHAEL: {'Scene 85', 'Scene 124', 'Scene 109', 'Scene 134', 'Scene 313', 'Scene 120', 'Scene 111', 'Scene 136', 'Scene 81', 'Scene 315', 'Scene 731', 'Scene 101', 'Scene 122', 'Scene 522', 'Scene 116', 'Scene 131', 'Scene 128', 'Scene 728', 'Scene 113', 'Scene 105', 'Scene 311', 'Scene 126', 'Scene 151', 'Scene 710', 'Scene 712', 'Scene 107', 'Scene 118', 'Scene 97', 'Scene 138', 'Scene 525', 'Scene 90', 'Scene 79', 'Scene 714', 'Scene 132'}
+FRIDO II: {'Scene 148', 'Scene 244', 'Scene 205', 'Scene 328', 'Scene 228', 'Scene 220', 'Scene 261', 'Scene 215', 'Scene 187', 'Scene 326', 'Scene 359', 'Scene 409', 'Scene 536', 'Scene 562', 'Scene 199', 'Scene 165', 'Scene 340', 'Scene 467', 'Scene 613', 'Scene 806', 'Scene 195', 'Scene 321', 'Scene 191', 'Scene 546', 'Scene 336', 'Scene 213', 'Scene 264', 'Scene 189', 'Scene 197', 'Scene 415', 'Scene 533', 'Scene 538', 'Scene 332', 'Scene 232', 'Scene 193', 'Scene 236', 'Scene 542', 'Scene 345', 'Scene 201', 'Scene 347', 'Scene 738', 'Scene 251', 'Scene 208', 'Scene 253', 'Scene 230', 'Scene 238', 'Scene 234', 'Scene 257', 'Scene 185', 'Scene 540', 'Scene 255', 'Scene 355', 'Scene 240', 'Scene 210', 'Scene 222', 'Scene 544', 'Scene 531', 'Scene 471', 'Scene 226', 'Scene 203', 'Scene 804', 'Scene 473'}
+OTTO: {'Scene 618', 'Scene 454', 'Scene 640', 'Scene 800', 'Scene 637', 'Scene 630', 'Scene 616', 'Scene 399', 'Scene 632', 'Scene 174'}
+JULI: {'Scene 627', 'Scene 455', 'Scene 176', 'Scene 400'}
+MAN: {'Scene 211', 'Scene 314'}
 GESA (sings): {'Scene 242'}
-CLASS: {'Scene 619', 'Scene 247', 'Scene 623', 'Scene 769', 'Scene 466', 'Scene 753', 'Scene 743', 'Scene 811'}
-KLAWITTER?: {'Scene 746', 'Scene 787', 'Scene 250', 'Scene 791', 'Scene 779', 'Scene 750', 'Scene 583', 'Scene 252', 'Scene 799', 'Scene 781', 'Scene 256', 'Scene 807', 'Scene 577', 'Scene 736', 'Scene 581', 'Scene 783', 'Scene 761', 'Scene 777', 'Scene 756', 'Scene 752'}
-JULI?: {'Scene 592', 'Scene 258', 'Scene 629'}
-FRIDO II?: {'Scene 334', 'Scene 342', 'Scene 357', 'Scene 259', 'Scene 411', 'Scene 413', 'Scene 353', 'Scene 797', 'Scene 323', 'Scene 795', 'Scene 338', 'Scene 330'}
-SEBI?: {'Scene 591', 'Scene 636', 'Scene 801', 'Scene 275', 'Scene 279', 'Scene 628'}
-FRIDO?: {'Scene 281', 'Scene 741', 'Scene 364', 'Scene 564', 'Scene 385', 'Scene 677', 'Scene 380', 'Scene 553', 'Scene 392', 'Scene 809', 'Scene 566', 'Scene 794', 'Scene 570', 'Scene 662', 'Scene 333', 'Scene 798', 'Scene 352', 'Scene 322', 'Scene 414', 'Scene 368', 'Scene 366', 'Scene 682', 'Scene 660', 'Scene 673', 'Scene 319', 'Scene 369', 'Scene 568', 'Scene 513', 'Scene 596', 'Scene 373', 'Scene 382', 'Scene 276', 'Scene 390'}
-DUNJA?: {'Scene 280', 'Scene 633', 'Scene 603', 'Scene 277'}
-ALL: {'Scene 786', 'Scene 813', 'Scene 745', 'Scene 792', 'Scene 572', 'Scene 790', 'Scene 765', 'Scene 589', 'Scene 285', 'Scene 782'}
+CLASS: {'Scene 466', 'Scene 811', 'Scene 743', 'Scene 247', 'Scene 619', 'Scene 769', 'Scene 753', 'Scene 623'}
+KLAWITTER?: {'Scene 761', 'Scene 779', 'Scene 787', 'Scene 807', 'Scene 756', 'Scene 577', 'Scene 583', 'Scene 750', 'Scene 256', 'Scene 736', 'Scene 783', 'Scene 799', 'Scene 781', 'Scene 250', 'Scene 752', 'Scene 791', 'Scene 746', 'Scene 252', 'Scene 581', 'Scene 777'}
+JULI?: {'Scene 629', 'Scene 258', 'Scene 592'}
+FRIDO II?: {'Scene 330', 'Scene 259', 'Scene 411', 'Scene 334', 'Scene 342', 'Scene 795', 'Scene 323', 'Scene 353', 'Scene 797', 'Scene 338', 'Scene 413', 'Scene 357'}
+SEBI?: {'Scene 275', 'Scene 636', 'Scene 591', 'Scene 279', 'Scene 628', 'Scene 801'}
+FRIDO?: {'Scene 809', 'Scene 741', 'Scene 564', 'Scene 673', 'Scene 553', 'Scene 276', 'Scene 322', 'Scene 392', 'Scene 794', 'Scene 513', 'Scene 662', 'Scene 369', 'Scene 570', 'Scene 352', 'Scene 364', 'Scene 677', 'Scene 373', 'Scene 281', 'Scene 390', 'Scene 682', 'Scene 368', 'Scene 333', 'Scene 414', 'Scene 798', 'Scene 380', 'Scene 596', 'Scene 568', 'Scene 382', 'Scene 319', 'Scene 566', 'Scene 385', 'Scene 660', 'Scene 366'}
+DUNJA?: {'Scene 633', 'Scene 280', 'Scene 277', 'Scene 603'}
+ALL: {'Scene 745', 'Scene 786', 'Scene 790', 'Scene 792', 'Scene 589', 'Scene 813', 'Scene 782', 'Scene 572', 'Scene 765', 'Scene 285'}
 HANDY: {'Scene 320'}
-GESA?: {'Scene 737', 'Scene 329', 'Scene 327', 'Scene 711', 'Scene 571', 'Scene 325', 'Scene 567'}
-EMILS MOTHER?: {'Scene 360', 'Scene 362'}
-EMIL?: {'Scene 393', 'Scene 606', 'Scene 384', 'Scene 389', 'Scene 383', 'Scene 367', 'Scene 599', 'Scene 676', 'Scene 416', 'Scene 604', 'Scene 365', 'Scene 374', 'Scene 588', 'Scene 418'}
-EMIL II: {'Scene 421', 'Scene 431', 'Scene 462', 'Scene 557', 'Scene 433', 'Scene 449', 'Scene 378', 'Scene 427', 'Scene 403', 'Scene 669', 'Scene 429', 'Scene 560', 'Scene 659', 'Scene 394', 'Scene 661', 'Scene 453', 'Scene 456', 'Scene 398', 'Scene 663', 'Scene 419'}
+GESA?: {'Scene 329', 'Scene 327', 'Scene 325', 'Scene 711', 'Scene 571', 'Scene 737', 'Scene 567'}
+EMILS MOTHER?: {'Scene 362', 'Scene 360'}
+EMIL?: {'Scene 383', 'Scene 418', 'Scene 393', 'Scene 416', 'Scene 374', 'Scene 389', 'Scene 588', 'Scene 599', 'Scene 606', 'Scene 367', 'Scene 365', 'Scene 384', 'Scene 676', 'Scene 604'}
+EMIL II: {'Scene 557', 'Scene 378', 'Scene 419', 'Scene 427', 'Scene 560', 'Scene 462', 'Scene 403', 'Scene 663', 'Scene 394', 'Scene 398', 'Scene 453', 'Scene 659', 'Scene 429', 'Scene 456', 'Scene 431', 'Scene 669', 'Scene 661', 'Scene 433', 'Scene 449', 'Scene 421'}
 WALLA: {'Scene 397', 'Scene 395'}
-BOLLHAFF: {'Scene 459', 'Scene 404'}
-EMIL II?: {'Scene 656', 'Scene 423', 'Scene 425', 'Scene 446'}
+BOLLHAFF: {'Scene 404', 'Scene 459'}
+EMIL II?: {'Scene 656', 'Scene 425', 'Scene 423', 'Scene 446'}
 JARO?: {'Scene 439', 'Scene 447', 'Scene 443'}
 BOLLHOFF: {'Scene 461'}
 FRIDO/EMIL: {'Scene 477'}
-SEBI'S FATHER: {'Scene 528', 'Scene 483', 'Scene 494'}
+SEBI'S FATHER: {'Scene 494', 'Scene 528', 'Scene 483'}
 PHONE RECORDING: {'Scene 491'}
 DIRECTOR: {'Scene 495'}
-DIRECTOR?: {'Scene 500', 'Scene 526'}
+DIRECTOR?: {'Scene 526', 'Scene 500'}
 MALE: {'Scene 501'}
 FEMALE: {'Scene 502'}
 EMIL'S MOTHER?: {'Scene 503', 'Scene 505'}
 EMIL'S FATHER: {'Scene 506', 'Scene 504'}
-SEBI’S FATHER: {'Scene 702', 'Scene 698', 'Scene 690', 'Scene 696', 'Scene 700', 'Scene 692', 'Scene 704', 'Scene 706', 'Scene 510', 'Scene 517', 'Scene 523', 'Scene 708', 'Scene 694'}
+SEBI’S FATHER: {'Scene 694', 'Scene 510', 'Scene 702', 'Scene 708', 'Scene 698', 'Scene 690', 'Scene 523', 'Scene 706', 'Scene 692', 'Scene 517', 'Scene 704', 'Scene 696', 'Scene 700'}
 BOY 3: {'Scene 511'}
-EMILS FATHER: {'Scene 520', 'Scene 527'}
+EMILS FATHER: {'Scene 527', 'Scene 520'}
 BOYS: {'Scene 524'}
-OTTO?: {'Scene 635', 'Scene 593', 'Scene 578'}
-SEBI II?: {'Scene 586', 'Scene 584'}
+OTTO?: {'Scene 578', 'Scene 635', 'Scene 593'}
+SEBI II?: {'Scene 584', 'Scene 586'}
 OTTO II & SEBI II: {'Scene 587'}
 CLASSMATE II: {'Scene 594'}
 BOY 1: {'Scene 601'}
 BOY 2: {'Scene 602'}
 KIDS: {'Scene 611', 'Scene 608'}
 PUNK: {'Scene 612'}
-JULI II: {'Scene 758', 'Scene 762', 'Scene 621', 'Scene 648', 'Scene 651', 'Scene 760'}
-SEBI II: {'Scene 652', 'Scene 771', 'Scene 773', 'Scene 649', 'Scene 622'}
+JULI II: {'Scene 621', 'Scene 651', 'Scene 648', 'Scene 762', 'Scene 758', 'Scene 760'}
+SEBI II: {'Scene 773', 'Scene 622', 'Scene 652', 'Scene 649', 'Scene 771'}
 DIALOGUE OFF: {'Scene 625'}
 GIRL: {'Scene 646'}
-DUNJA II?: {'Scene 650', 'Scene 653', 'Scene 763'}
+DUNJA II?: {'Scene 763', 'Scene 650', 'Scene 653'}
 JULI II?: {'Scene 654'}
 PUPPET?: {'Scene 680'}
 GESA/MICHAEL: {'Scene 713'}
 OTTO II?: {'Scene 747'}
-OTTO II: {'Scene 757', 'Scene 749', 'Scene 751', 'Scene 755'}
+OTTO II: {'Scene 757', 'Scene 749', 'Scene 755', 'Scene 751'}
 OTTO II + JULI II: {'Scene 776'}
 DUNJA, JULI, OTTO: {'Scene 778'}
-ALL?: {'Scene 780', 'Scene 788', 'Scene 784'}
+ALL?: {'Scene 788', 'Scene 780', 'Scene 784'}
 DUNJA II: {'Scene 793'}
 EMIL/DUNJA?: {'Scene 802'}
 CLASS?: {'Scene 803'}

@@ -5,6 +5,14 @@ import math
 import pandas as pd
 from docx import Document
 import csv
+import pythoncom
+import win32api
+import win32com.client
+from pyth.plugins.rtf15.reader import Rtf15Reader
+from pyth.plugins.plaintext.writer import PlaintextWriter
+# Initialize COM
+#print("CoInit")
+pythoncom.CoInitialize()
 
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
@@ -337,30 +345,30 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name,encoding_used
     df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
 
     # Write the DataFrame to an Excel file
-    print("convert_csv_to_xlsx > Write to "+xlsx_file_path)
+    #print("convert_csv_to_xlsx > Write to "+xlsx_file_path)
 
     header_rows = pd.DataFrame([
         [None, 'Header 1', None, 'Header Information Across Columns'],  # Merge cells will be across 1 & 4
         ['Role', 'Line count', 'Characters', 'Blocks']
     ])
-    print("convert_csv_to_xlsx > 1")
+    #print("convert_csv_to_xlsx > 1")
     
     # Concatenate the header rows and the original data
     # The ignore_index=True option reindexes the new DataFrame
     df = pd.concat([header_rows, df], ignore_index=True)
-    print("convert_csv_to_xlsx > 2")
+    #print("convert_csv_to_xlsx > 2")
 
     # Write the DataFrame to an Excel file
     with pd.ExcelWriter(xlsx_file_path, engine='openpyxl') as writer:
-        print("convert_csv_to_xlsx > 3")
+        #print("convert_csv_to_xlsx > 3")
 
         df.to_excel(writer, index=False, sheet_name='Sheet1')
-        print("convert_csv_to_xlsx > 4")
+        #print("convert_csv_to_xlsx > 4")
 
         # Load the workbook and sheet for modification
         workbook = writer.book
         sheet = workbook['Sheet1']
-        print("convert_csv_to_xlsx > 5")
+        #print("convert_csv_to_xlsx > 5")
 
         # Merge cells in the first and second new rows
         # Assuming you want to merge from the first to the last column
@@ -368,7 +376,7 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name,encoding_used
         sheet.merge_cells('A2:D2')  # Modify this as needed
         sheet['A1'] = script_name
         sheet['A2'] = "Length: "
-        print("convert_csv_to_xlsx > 6")
+        #print("convert_csv_to_xlsx > 6")
 
     print("convert_csv_to_xlsx > done")
 
@@ -457,7 +465,9 @@ def read_docx(file_path):
     return doc
 def is_supported_extension(ext):
     ext=ext.lower()
-    return ext==".txt" or ext==".docx"
+    return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf"
+
+
 
 def convert_docx_combined_continuity(file,table):
     print("Conversion mode       : COMBINED_CONTINUITY")
@@ -515,6 +525,41 @@ def clean_character_name(title):
     title = title.replace(" said","")
     return title.strip().upper()
 
+def convert_rtf_to_txt(file_path,currentOutputFolder,encoding):
+
+    pythoncom.CoInitialize()
+
+    try:
+        word = win32com.client.Dispatch("Word.Application")
+        doc = word.Documents.Open(file_path)
+        doc.Activate()
+
+        # Extract text
+        text = doc.Content.Text
+         # Rename path with .docx
+        new_file_abs = os.path.abspath(file_path)
+        base=(os.path.basename(new_file_abs).replace(".rtf", ".converted.txt"))
+        new_file_abs = currentOutputFolder+"\\"+ base
+
+        # Save and Close
+#        word.ActiveDocument.SaveAs(new_file_abs, FileFormat=16)  # FileFormat=16 for .docx, not .doc
+        doc.Close(False)
+        txt_encoding="utf-8"
+        with open(new_file_abs, 'w', encoding=txt_encoding) as file:
+            file.write(text)
+
+        return new_file_abs,txt_encoding
+
+    finally:
+        # Make sure to uninitialize COM
+        pythoncom.CoUninitialize()
+    return ""
+
+def convert_docx_plain_text(file,doc):
+        for para in doc.paragraphs:
+            # Write the text of each paragraph to the file followed by a newline
+            file.write(para.text + '\n')
+
 def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol):
     print("Conversion mode       : CHARACTERID_AND_DIALOGUE")
     # Iterate through each row in the table
@@ -552,9 +597,51 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
                 file.write(s)
 
 
-def convert_docx_to_txt(file_path):
+def convert_doc_to_docx(doc_path,currentOutputFolder):
+    """Converts a .doc file to .docx"""
+    
+    pythoncom.CoInitialize()
+
+    try:
+        word = win32com.client.Dispatch("Word.Application")
+        doc = word.Documents.Open(doc_path)
+        doc.Activate()
+
+        # Rename path with .docx
+        new_file_abs = os.path.abspath(doc_path)
+        base=(os.path.basename(new_file_abs).replace(".doc", ".docx"))
+        new_file_abs = currentOutputFolder+"\\"+ base
+
+        # Save and Close
+        word.ActiveDocument.SaveAs(new_file_abs, FileFormat=16)  # FileFormat=16 for .docx, not .doc
+        doc.Close(False)
+
+        return new_file_abs
+
+    finally:
+        # Make sure to uninitialize COM
+        pythoncom.CoUninitialize()
+    return ""
+        
+
+def convert_word_to_txt(file_path,absCurrentOutputFolder):
+    print("convert_docx_to_txt")
+    print("currentOutputFolder             :"+absCurrentOutputFolder)
+    print("Input             :"+file_path)
+    converted_file_path=""
+    if ".docx" in file_path:
+        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".docx",".converted.txt"))
+    elif ".doc" in file_path:
+        print("Convert doc to docx  ")
+        docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder)
+        print("Output         :"+os.path.abspath(docx_file_path))
+        converted_file_path=os.path.abspath(docx_file_path).replace(".docx",".converted.txt")
+        file_path=docx_file_path
+    print("Converted file path : "+converted_file_path)    
+    print("Doc opening"+file_path)
     doc = Document(file_path)
-    converted_file_path=file_path.replace(".docx",".converted.txt")
+    print("Doc opened")
+
     with open(converted_file_path, 'w', encoding='utf-8') as file:
         # Check if there are any tables in the document
         if len(doc.tables) > 0:
@@ -588,15 +675,17 @@ def convert_docx_to_txt(file_path):
                 return "" 
             if docx_mode_dialogue_characterid:
                 convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
-            if docx_mode_combined_continuity:
+            elif docx_mode_combined_continuity:
                 convert_docx_combined_continuity(file,table)
-
+            else:
+                print("Tables but no ")
         else:
             print("No tables")
+            convert_docx_plain_text(file,doc)
     return converted_file_path
 
 def get_all_characters(breakdown):
-    print("get_all_characters")
+    #print("get_all_characters")
     all_characters=[]
     for item in breakdown:
         if item["type"]=="SPEECH":
@@ -682,7 +771,6 @@ def merge_breakdown_character_by_replacelist(breakdown,replace_list):
 
     return breakdown
 
-
 def merge_breakdown_character_talking_to(breakdown,all_characters):
     print("merge_breakdown_character_talking_to")
     replaceList={}
@@ -724,14 +812,19 @@ def filter_text(s):
     res=s.replace("♪","").replace("Â§","").replace("§","")
     #filter songs
     return res
+
+def is_character_name_valid(char):
+    return char != "NOTE D'AUTEUR"
+
 #################################################################
 # PROCESS
-def process_script(script_path,output_path,script_name,countingMethod):
+def process_script(script_path,output_path,script_name,countingMethod,encoding):
     print("-----------------------------------")
     print("SCRIPT PARSER version 1.3")
     print("Script path       : "+script_path)
     print("Output folder     : "+output_path)
-    print("Script name       : "+script_name)
+    print("Script name       : "+script_name) 
+    print("Forced encoding   : "+encoding)
     print("Counting method   : "+countingMethod)
 
     if not os.path.exists(output_path):
@@ -746,10 +839,10 @@ def process_script(script_path,output_path,script_name,countingMethod):
         return
 
     if extension==".docx":
-        converted_file_path=convert_docx_to_txt(script_path)
+        converted_file_path=convert_word_to_txt(script_path)
         if len(converted_file_path)==0:
-            print("Conversion failed")
-            return 
+            print("Conversion failed 1")
+            return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod)
         
     uppercase_lines=[]
@@ -773,6 +866,9 @@ def process_script(script_path,output_path,script_name,countingMethod):
 
     encoding_tested=test_encoding(script_path)
     encoding_used=encoding_tested
+    if not (encoding==""):
+        print("Force encoding      :"+encoding)
+        encoding_used=encoding
     scene_separator=getSceneSeparator(script_path,encoding_used)
     print("Scene separator   : "+scene_separator)
 
@@ -796,7 +892,7 @@ def process_script(script_path,output_path,script_name,countingMethod):
                     current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
                     if is_verbose:
                         print("---------------------------------------")
-                    print(f"Scene Line: {line}")
+                    #print(f"Scene Line: {line}")
     
     
     
@@ -823,44 +919,18 @@ def process_script(script_path,output_path,script_name,countingMethod):
                                 if is_verbose:
                                     print("   name="+str(character_name))
                                 if not character_name == None:
-                                    #remove character name for stats
-                                    spoken_text=extract_speech(trimmed_line,character_mode,character_name)
-                                    spoken_text=filter_text(spoken_text)
+                                    if is_character_name_valid(character_name):
+                                        #remove character name for stats
+                                        spoken_text=extract_speech(trimmed_line,character_mode,character_name)
+                                        spoken_text=filter_text(spoken_text)
+                                        
                                     
-                                   
-                                    breakdown.append({"scene_id":current_scene_id,
-                                                      "character_raw":character_name,
-                                                      "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
-                                    if is_verbose:
-                                        print("   text="+str(spoken_text))
+                                        breakdown.append({"scene_id":current_scene_id,
+                                                        "character_raw":character_name,
+                                                        "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
+                                        if is_verbose:
+                                            print("   text="+str(spoken_text))
                                     
-                                    #add scene to character if not existing
-                                    #if character_name not in scene_characters_map:
-                                     #   scene_characters_map[character_name] = set()
-                                    #scene_characters_map[character_name].add(current_scene_id)
-                                    
-                                    #add character to scene if not existing
-                                    ##if current_scene_id not in character_scene_map:
-                                      #  character_scene_map[current_scene_id] = set()
-                                    #character_scene_map[current_scene_id].add(character_name)
-                                    
-                                    #update character line count
-                                  #  if character_name not in character_linecount_map:
-                                   #     character_linecount_map[character_name]=1
-                                    #else:
-                                     #   character_linecount_map[character_name]=character_linecount_map[character_name]+1
-
-                                    #update character text length
-                                    #le=compute_length(spoken_text,countingMethod)
-                                    #if character_name not in character_textlength_map:
-                                    #    character_textlength_map[character_name]=le
-                                    #else:
-                                     #   character_textlength_map[character_name]=character_textlength_map[character_name]+le
-
-                                    #add to character order if new character
-                                    #if character_name not in character_order_map:
-                                    #    character_order_map[character_name]=character_count
-                                    #    character_count=character_count+1
                             else:
                                 breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
                                     

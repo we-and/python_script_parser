@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu
-from script_parser import process_script, is_supported_extension,convert_docx_to_txt
+from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt
 import pandas as pd
 import chardet
 import tkinter.font as tkFont
@@ -50,11 +50,14 @@ currentOutputFolder=""
 currentFilePath=""
 currentScriptFilename=""
 outputFolder="tmp"
+currentRightclickRowId=None
 currentXlsxPath=""
+currentTimelinePath=""
 currentBreakdown=None
 currentFig=None
 currentCanvas=None
-
+currentCharacterSelectRowId=None
+currentDisabledCharacters=[]
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness
@@ -150,7 +153,7 @@ def load_tree(parent, root_path):
             
         if is_supported_extension(extension):
             supported_tag="supported" 
-            if extension==".docx":
+            if extension==".docx" or extension==".doc":
                 folders.insert(parent, 'end', text=" "+entry,image=docx_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
             else:
                 folders.insert(parent, 'end', text=" "+entry,image=txt_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
@@ -219,6 +222,7 @@ def runJob(file_path,method):
     global currentScriptFilename
     global currentBreakdown
     global currentOutputFolder
+    global currentTimelinePath
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
@@ -230,13 +234,13 @@ def runJob(file_path,method):
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
             
-            print("Extension     :"+extension)
+            print("Extension           :"+extension)
             if is_supported_extension(extension):
-                print("Supported       : YES")
+                print("Supported           : YES")
 
                 encoding_info = detect_file_encoding(file_path)
                 encoding=encoding_info['encoding']
-                print("Encoding detected  : "+str(encoding))
+                print("Encoding detected   : "+str(encoding))
                 print("Encoding confidence : "+str(encoding_info['confidence']))
 
                 enc=get_encoding(encoding)
@@ -245,13 +249,34 @@ def runJob(file_path,method):
      #           for encod in encodings:
      #               print("try encoding"+encod)
 
-                if extension==".docx":
-                    converted_file_path=convert_docx_to_txt(file_path)
+
+                currentOutputFolder=outputFolder+"/"+name+"/"
+                if not os.path.exists(currentOutputFolder):
+                    os.mkdir(currentOutputFolder)
+
+                if extension==".docx" or extension==".doc":
+                    print("Conversion Word to txt")
+                    converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder))
                     if len(converted_file_path)==0:
-                        print("Conversion failed")
+                        print("Conversion docx to txt failed")
+                        print("Failed")
+                        hide_loading()
                         return 
                     file_path=converted_file_path
-
+                    print("Conversion file path :",file_path)
+                    
+                if extension==".rtf":
+                    print("Conversion RTF to txt")
+                    converted_file_path,txt_encoding=convert_rtf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
+                    if len(converted_file_path)==0:
+                        print("Conversion rtf to txt failed")
+                        print("Failed")
+                        hide_loading()
+                        return
+                    enc=txt_encoding
+                    file_path=converted_file_path
+                    print("Conversion file path :",file_path)
+                    
 
                 with open(file_path, 'r', encoding=enc) as file:
                     content = file.read()
@@ -259,17 +284,25 @@ def runJob(file_path,method):
                     file_preview.delete(1.0, tk.END)
                     file_preview.insert(tk.END, content)
                     
-                    currentOutputFolder=outputFolder+"/"+name+"/"
 
-                    breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method)
-                    currentBreakdown=breakdown
-                    fill_breakdown_table(breakdown)
-                    fill_character_list_table(character_order_map,breakdown)
-                    fill_character_stats_table(character_order_map,breakdown,enc)
-                    fill_stats_table(breakdown)
-                    fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
-                    update_statistics(content)
-                    draw_bar_chart(recap_tab,breakdown,character_order_map)
+                    print("runjob")
+                    breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
+                    print("runjob done")
+                    if breakdown==None:
+                        print("Failed")
+                        hide_loading()
+                    else:
+                        print("OK")
+                        currentBreakdown=breakdown
+                        fill_breakdown_table(breakdown)
+                        fill_character_list_table(character_order_map,breakdown)
+                        fill_character_stats_table(character_order_map,breakdown,enc)
+                        fill_stats_table(breakdown)
+                        fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
+                        update_statistics(content)
+                        png_output_file=currentOutputFolder+name+"_timeline.png"
+                        currentTimelinePath=png_output_file
+                        draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
 
             else:
                 print(" > Not supported")
@@ -286,10 +319,11 @@ def on_folder_select(event):
     global currentScriptFilename
     global currentOutputFolder
     print("on_folder_select")
-    print("FOLDER SELECT")
+    #print("FOLDER SELECT")
     selected_item = folders.selection()[0]
     file_path = folders.item(selected_item, 'values')[0]
     if os.path.isfile(file_path):
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
         currentScriptFilename=file_path
         loading_label_txt.config(text="Analyzing "+file_path)
         show_loading()
@@ -404,10 +438,10 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
 
     total_by_character_by_method={}
     for character_name in character_order_map:
-        print("CHAR add"+character_name)
+        #print("CHAR add"+character_name)
 
         character_named = character_name 
-        print("CHAR add"+character_named)
+        #print("CHAR add"+character_named)
     #    character_list_table.insert('','end',values=(character_named,))
         
         
@@ -471,11 +505,11 @@ def get_excel_column_name(column_index):
         column_name = chr(65 + remainder) + column_name
     return column_name
 def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
-    print("generate_total_xlsx "+xlsx_file_path)
+    print("convert_csv_to_xlsx2 "+csv_file_path+ " to "+xlsx_file_path+" "+encoding_used)
 
     # Read the CSV file
     df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
-
+    print("convert_csv_to_xlsx2 4")
     # Convert columns explicitly to numeric where appropriate
     for col in df.columns[1:]:  # Skip the first column if it's non-numeric (e.g., names)
         df[col] = pd.to_numeric(df[col], errors='ignore')
@@ -497,7 +531,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
         header1,
         header2
     ])
-    
+    print("convert_csv_to_xlsx2 3")
     # Concatenate the header rows and the original data
     # The ignore_index=True option reindexes the new DataFrame
     df = pd.concat([header_rows, df], ignore_index=True)
@@ -520,13 +554,14 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
         sheet['A2'] = "Length: "
         sheet.column_dimensions['A'].width = 50 
  # Load the workbook and get the active sheet
-      
+    print("convert_csv_to_xlsx2 4")
+  
 
 
 
 def generate_total_csv(total,csv_path,encoding_used):
     global currentXlsxPath
-    print("Total csv path          : "+csv_path)
+    #print("Total csv path          : "+csv_path)
     #header
 
     s=""
@@ -538,7 +573,7 @@ def generate_total_csv(total,csv_path,encoding_used):
                 s=s+str(m)+","
         s=s[0:len(s)-1]
         s=s+"\n"
-    print("Total csv path          : 1")
+    #print("Total csv path          : 1")
     
     data = [
     ]
@@ -546,26 +581,26 @@ def generate_total_csv(total,csv_path,encoding_used):
         datarow=[str(character)];
         for method in total[character]:
             if method!="ALL":
-                print(str(character)+": Add method "+method+" = "+str(total[character][method]))
+                #print(str(character)+": Add method "+method+" = "+str(total[character][method]))
                 datarow.append(str(total[character][method]))
         data.append(datarow)
 
-    print("Total csv path          : 1")
+    #rint("Total csv path          : 1")
     
-    print("data"+str(data))
-    with open(csv_path, mode='w', newline='') as file:
+    #print("data"+str(data))
+    with open(csv_path, mode='w', newline='',encoding=encoding_used) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Write data to the CSV file
         for row in data:
-            print("Write "+str(row))
+            #print("Write "+str(row))
             writer.writerow(row)
 
     
     xlsx_path=csv_path.replace(".csv",".xlsx")
     currentXlsxPath=xlsx_path
     n=len(countingMethods)+1
-    print("Total xlsx path          : "+xlsx_path)
+    #print("Total xlsx path          : "+xlsx_path)
     convert_csv_to_xlsx2(csv_path,xlsx_path,n,encoding_used)
 
 def on_button_click():
@@ -776,7 +811,7 @@ def on_folder_open(event):
         load_tree(oid, folders.item(oid, "values")[0])
 
 def toggle_folder(event):
-    #print("Toggle folder")
+    print("Toggle folder")
 # Identify the item on which the click occurred
     x, y, widget = event.x, event.y, event.widget
     row_id = widget.identify_row(y)
@@ -815,6 +850,7 @@ def get_os():
         return 'Unknown'
     
 def open_xlsx_recap():
+    global currentXlsxPath
     os_=get_os()
     print("Open"+currentXlsxPath)
     if os_=="Windows":
@@ -832,6 +868,56 @@ def open_xlsx_recap():
     else:
         try:
             subprocess.run(['open', currentXlsxPath], check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"Failed to open file: {e}")
+
+def open_file_in_system():
+    global currentRightclickRowId
+    print("Open in system" )
+    selected_item = folders.focus() 
+    file_path = folders.item(currentRightclickRowId, 'values')[0]
+    print(file_path)
+    if os.path.isfile(file_path):
+        
+        print(f"Opening file for item: {file_path}")
+        abs_file_path=file_path#folders.item(selected_item)
+        os_=get_os()
+        print("Open"+file_path)
+        if os_=="Windows":
+         
+        # Check if the folder exists
+            if not os.path.exists(abs_file_path):
+                print(f"Folder does not exist: {abs_file_path}")
+                return
+            try:
+                os.startfile(abs_file_path)
+            except Exception as e:
+                print(f"Failed to open file: {e}")
+        else:
+            try:
+                subprocess.run(['open', abs_file_path], check=True)
+            except subprocess.CalledProcessError as e:
+                print(f"Failed to open file: {e}")
+
+def open_timeline():
+    global currentTimelinePath
+    os_=get_os()
+    print("Open"+currentTimelinePath)
+    if os_=="Windows":
+        currentOutputFolderAbs = os.path.abspath(currentTimelinePath)
+        print("Absolute path          : "+currentOutputFolderAbs)
+
+    # Check if the folder exists
+        if not os.path.exists(currentOutputFolderAbs):
+            print(f"Folder does not exist: {currentOutputFolderAbs}")
+            return
+        try:
+            os.startfile(currentOutputFolderAbs)
+        except Exception as e:
+            print(f"Failed to open file: {e}")
+    else:
+        try:
+            subprocess.run(['open', currentTimelinePath], check=True)
         except subprocess.CalledProcessError as e:
             print(f"Failed to open file: {e}")
 
@@ -868,14 +954,14 @@ def print_frame_size(fr):
     print("Frame height:", fr.winfo_height())
 
 def show_loading():
-        print("SHOW LOADING")
+        #print("SHOW LOADING")
         loading_label.pack()
         paned_window.pack_forget()
 def hide_loading():
-        print("HIDE LOADING")
+        #print("HIDE LOADING")
         paned_window.pack(fill='both', expand=True)
         loading_label.pack_forget()
-def draw_bar_chart(frame,breakdown,character_order_map):
+def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     global currentFig
     global currentCanvas
     if currentFig!=None:
@@ -965,10 +1051,10 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             #print("done 1")
             cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
             #fig.colorbar(cax)
-            print("ADD LABEL "+char)           
+            #print("ADD LABEL "+char)           
             #ax1.bar(labels, values, color='red')
             #print("done 2")
-            ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='10')
+            ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='8')
             ax1.set_yticks([]) 
             ax1.set_xticklabels([])  # Hide x-axis tick labels
             ax1.set_yticklabels([]) 
@@ -993,16 +1079,18 @@ def draw_bar_chart(frame,breakdown,character_order_map):
     #print("done 8")
     fig.tight_layout(pad=0) 
 #    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
-    print_frame_size(frame)
+    #print_frame_size(frame)
     canvas = FigureCanvasTkAgg(fig, master=frame)
     canvas.draw()
     canvas.get_tk_widget().pack()
     currentCanvas=canvas
     currentFig=fig
     currentFig.canvas.draw()
+    fig.savefig(output_file, dpi=300) 
     print("draw_bar_chart")
     #reduce_width()
-
+def restore_characters():
+    print("restore_characters")
 def clear_chart():
     global currentFig
     print("CLEAR CHART")
@@ -1012,6 +1100,7 @@ settings_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="Settings", menu=settings_menu)
 settings_menu.add_command(label="Change counting method...", command=show_popup_counting_method)
 #settings_menu.add_command(label="Set block length...", command=open_folder)
+settings_menu.add_command(label="Restore all characters...", command=restore_characters)
 
 
 loading_label = ttk.Frame(app)
@@ -1037,6 +1126,23 @@ right_frame = ttk.Frame(paned_window, width=400, height=400, relief=tk.FLAT)
 paned_window.add(left_frame, weight=1)  # The weight determines how additional space is distributed
 paned_window.add(right_frame, weight=2)
 
+menu = tk.Menu(app, tearoff=0)
+menu.add_command(label="Open File", command=open_file_in_system)
+def merge_characters():
+    print("merge_characters")
+def hide_character():
+    print("hide_character")
+    global currentDisabledCharacters
+    name = character_table.item(currentCharacterSelectRowId, 'values')[1]
+    currentDisabledCharacters.append(name)
+    print("Hide "+name)
+    
+
+char_menu = tk.Menu(app, tearoff=0)
+char_menu.add_command(label="Merge...", command=merge_characters)
+char_menu.add_command(label="Hide", command=hide_character)
+
+#######################################################################################
 # Folder tree
 folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
 folders.heading("#0", text="Name")
@@ -1073,6 +1179,34 @@ folders.bind('<Motion>', on_motion)
 folders.bind('<Leave>', on_leave)
 folders.bind('<Button-1>', toggle_folder)
 
+
+def on_right_click(event):
+    global currentRightclickRowId
+    # Identify the row clicked
+    try:
+        row_id = folders.identify_row(event.y)
+        if row_id:
+            # Select the row under cursor
+            #folders.selection_set(row_id)
+            currentRightclickRowId=row_id
+            menu.post(event.x_root, event.y_root)  # Show the context menu
+    except Exception as e:
+        print(e)
+
+def on_character_right_click(event):
+    global currentCharacterSelectRowId
+    # Identify the row clicked
+    try:
+        row_id = character_table.identify_row(event.y)
+        if row_id:
+            # Select the row under cursor
+            #folders.selection_set(row_id)
+            currentCharacterSelectRowId=row_id
+            char_menu.post(event.x_root, event.y_root)  # Show the context menu
+    except Exception as e:
+        print(e)
+folders.bind('<Button-3>', on_right_click)  # Right click on Windows/Linux
+folders.bind('<Button-2>', on_right_click) 
 
 # Notebook (tabbed interface)
 notebook = ttk.Notebook(right_frame)
@@ -1135,6 +1269,21 @@ character_table.column('Scenes', width=50, anchor='w')
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
 notebook.add(character_tab, text='Characters',image=char_icon, compound=tk.LEFT)
+
+
+character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
+character_table.bind('<Button-2>', on_character_right_click) 
+
+
+
+
+
+
+
+
+
+
+
 
 breakdown_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
@@ -1369,6 +1518,10 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
 load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+# Load folder button
+load_button = ttk.Button(export_tab, text="Open timeline...", command=open_timeline)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)

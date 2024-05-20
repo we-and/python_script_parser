@@ -1,0 +1,162 @@
+Yang Hou'en: 16425
+Brother Wang: 550
+Co-worker Zhou: 3412
+Co-worker Wu: 3238
+Sister Wang: 3410
+Sister Zhao: 3294
+Brother Wang/Co-worker Zhou/Co-worker Wu/Sister Wang/Sister Zhao: 6
+Yang Shoudao: 8866
+Yang Hou'en/Li Jiayin: 25
+Li Jiayin: 33967
+Li Jiayin/Yang Hou'en: 36
+Yang Ming: 53
+Li Jiayin/Sister Zhao/Yang Hou'en: 10
+Chen Ling: 26920
+Xiang Yang: 29267
+Brother Chen: 190
+Brother Bai: 1368
+Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 275
+Brother Bai/Sister Wang/Co-worker Zhou: 10
+Brother Bai/Co-worker Zhou: 13
+Co-worker Zhao/Sister Qiu/Co-worker Zhou: 18
+Congregation: 177
+Sister Wang/Co-worker Wu/Believer Feng: 13
+Sister Qiu: 463
+Co-worker Zhu/Believer Liu: 50
+Co-worker Zhu: 1321
+Believer Liu: 640
+Co-worker Zhu/Brother Chen: 5
+Co-worker Zhao: 1279
+Xiang Yang/Li Jiayin: 16
+Co-worker Zhao/Sister Qiu/Believer Cao: 11
+Co-worker Zhou/Co-worker Wu/Brother Bai: 4
+Sister Qiu/Co-worker Zhao/Co-worker Zhou: 6
+Sister Qiu/Brother Chen/Brother Bai: 13
+Co-worker Zhou/Brother Bai: 41
+Sister Wang/Co-worker Zhou/Sister Qiu/Brother Bai: 3
+Chen Ling/Xiang Yang/Li Jiayin: 67
+Co-worker Zhou/Congregation: 5
+Brother Bai/Sister Wang: 11
+Co-worker Wu/Sister Wang/Co-worker Zhou: 5
+Chen Ling/Li Jiayin: 21
+Yang Hou'en inner voice: 1630
+Li Jiayin/Xiang Yang: 17
+Co-worker Wu/Sister Wang/Brother Bai/Sister Qiu: 11
+Sister Wang/Sister Qiu: 4
+Sister Wang/Co-worker Wu/Brother Bai: 10
+Brother Bai/Sister Wang/Co-worker Zhou/Co-worker Wu: 5
+Sister Wang/Co-worker Zhou/Believer Hou: 6
+Sister Qiu/Brother Bai/Sister Wang: 21
+Sister Qiu/Co-worker Zhao: 3
+Believer Liu/Co-worker Zhu/Co-worker Wu/Sister Wang: 5
+Brother Chen/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 5
+Li Jiayin/Chen Ling/Xiang Yang: 4
+Li Jiayin/Chen Ling: 20
+Believer Feng: 567
+Sister Wang/Co-worker Wu: 10
+Brother Chen/Sister Qiu: 26
+Co-worker Wu/Sister Wang: 8
+Chen Ling/Xiang Yang: 11
+Sister Wang/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 47
+Sister Wang/Brother Bai/Co-worker Zhou/Co-worker Wu: 6
+Brother Bai/Co-worker Zhou/Sister Qiu/Brother Chen: 6
+Amen !: 88
+Believer Zhang: 88
+Sister Qiu/Co-worker Zhou: 6
+Sister Wang/Co-worker Wu/Brother Chen/Brother Bai/Co-worker Zhou: 25
+Co-worker Zhou/Sister Wang/Believer Feng: 5
+Xiang Yang/Chen Ling/Li Jiayin/Co-worker Zhou: 5
+Yang Shoudao inner voice: 507
+Co-worker Zhou/Chen Ling/Li Jiayin/Xiang Yang: 12
+Sister Lin: 954
+Xiang Yang/Chen Ling/Li Jiayin/Brother Bai: 15
+Congregation/Co-worker Zhou: 6
+Co-worker Zhao/Sister Qiu/Co-worker Wu/Believer Feng/Co-worker Zhou: 6
+Believer Cao: 68
+Believer Guo: 319
+Believer Hou: 39
+Believer Feng/Believer Cao/Sister Wang: 10
+Co-worker Zhou/Brother Bai/Li Jiayin: 5
+Co-worker Zhou/Brother Bai/Co-worker Wu: 6
+Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Elder Brother: 15
+Co-worker Zhou/Brother Bai/Elder Brother/Brother Chen: 9
+Sister Lin/Sister Wang: 11
+Li Jiayin/Brother Bai/Sister Wang: 6
+Co-worker Zhao/Sister Qiu/Believer Zhang/Brother Bai: 6
+Yang Hou'en/Co-worker Zhou/Co-worker Zhao/Sister Qiu/Sister Wang: 6
+Xiang Yang/Sister Wang/Yang Hou'en: 6
+Brother Bai/Sister Wang/Believer Cao/Believer Feng/Elder Brother: 9
+Congregation/Yang Hou'en: 6
+Co-worker Zhou/Brother Bai/Sister Lin/Sister Wang/Elder Brother: 6
+Li Jiayin/Chen Ling/Believer Feng/Co-worker Zhou/Yang Hou'en: 208
+Li Jiayin/Yang Hou'en/Co-worker Zhou/Sister Wang/Sister Lin: 303
+Li Jiayin/Xiang Yang/Co-worker Wu/Co-worker Zhou/Yang Hou'en: 287
+Co-worker Zhou/Co-worker Wu/Sister Wang/Brother Bai: 6
+Yang Hou'en/Brother Bai/Co-worker Zhou: 6
+Believer Hao: 128
+Co-worker Wu/Co-worker Zhao/Believer Guo/Believer Feng/Sister Qiu: 4
+Brother Bai/Sister Wang/Co-worker Zhao/Yang Hou'en/Believer Feng: 6
+Co-worker Zhou/Brother Bai/Co-worker Zhao/Sister Wang/Sister Qiu: 5
+Brother Bai/Sister Qiu/Sister Wang/Co-worker Zhou/Sister Qiu: 11
+Brother Bai/Sister Qiu/Co-worker Zhou/Sister Wang/Co-worker Zhao: 6
+Sister Qiu/Co-worker Zhao/Brother Bai/Co-worker Zhou/Yang Hou'en/Li Jiayin: 6
+Sister Lin/Sister Wang/Co-worker Zhou/Brother Bai/Co-worker Zhao: 4
+Co-worker Zhao/Sister Qiu/Sister Wang/Co-worker Zhou: 6
+Xiang Yang/Sister Wang/Co-worker Zhou/Co-worker Wu: 6
+Sister Qiu/Co-worker Wu/Believer Feng/Brother Bai/Co-worker Zhao: 6
+Co-worker Zhao/Sister Qiu/Brother Bai: 6
+Co-worker Zhou/Brother Bai/Sister Wang/Brother Bai: 6
+Sister Lin/Believer Hao/Believer Feng/Believer Hou: 6
+Brother Bai/Co-worker Zhou/Elder Brother: 6
+Believer Zhang/Sister Lin/Believer Hao/Believer Cao: 6
+Elder Brother: 283
+Co-worker Zhao/Sister Qiu/Co-worker Wu/Brother Bai/Believer Hao: 6
+Co-worker Zhou/Yang Hou'en/Sister Wang: 4
+Sister Qiu/Believer Hao: 6
+Believer Feng/Sister Wang/Brother Bai/Co-worker Zhou/Sister Lin: 6
+Li Jiayin/Yang Hou'en/: 5
+Sister Wang/Co-worker Zhao/Yang Hou'en/Brother Bai: 5
+Believer Hao/Believer Hou: 6
+Sister Wang/Brother Bai/Elder Brother/Believer Feng/Sister Qiu: 6
+Chen Ling/Believer Hao: 5
+Chen Ling/Believer Cao: 5
+Sister Wang/Co-worker Zhou/Co-worker Wu/Brother Bai/Believer Feng/Believer Cao: 15
+Brother Bai/Elder Brother/Sister Wang/Sister Lin: 6
+Yang Hou'en/Brother Bai/Elder Brother/Sister Wang/Sister Lin: 6
+Brother Bai/Sister Wang/Sister Qiu: 6
+Brother Bai/Co-worker Zhou/Elder Brother/Sister Wang: 6
+Xiang Yang/Brother Bai/Elder Brother/Co-worker Zhou: 6
+Sister Qiu/Co-worker Zhao/Beiever Zhang/Believer Feng: 6
+Xiang Yang/Li Jiayin/Chen Ling: 16
+Brother Bai/Co-worker Zhou/Sister Wang: 6
+Believer Feng/Co-worker Wu/Sister Qiu: 9
+Brother Bai/Sister Qiu/Co-worker Zhao/Believer Feng: 4
+Li Jiayin/Xiang Yang/Brother Bai/Co-worker Zhou: 18
+Co-worker Zhou/Brother Bai/Believer Feng/Sister Lin: 6
+Co-worker Zhou/Brother Bai/Elder Brother: 6
+Co-worker Wu/Co-worker Zhao/Sister Qiu/Believer Feng: 6
+Sister Zhao/Sister Qiu/Believer Feng/Co-worker Wu/Believer Hao/Believer Hou: 6
+Xiang Yang/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 11
+Yang Hou'en/Li Jiayin/Chen Ling: 14
+Brother Bai/Co-worker Zhou/Sister Wang/Yang Hou'en/Elder Brother: 6
+Co-worker Wu/Believer Feng/Brother Bai/Believer Hao/Co-worker Zhao/Sister Qiu: 12
+Recital: 2646
+Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Yang Hou'en: 16
+Believer Hao/Brother Bai/Sister Wang/Sister Lin/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu: 22
+Yang Hou'en/Brother Bai/Elder Brother/Co-worker Zhou: 6
+Yang Hou'en/Co-worker Zhou: 12
+Brother Bai/Sister Wang/Sister Lin/Co-worker Zhou: 6
+Li Jiayin/Chen Ling/Yang Hou'en: 5
+Co-worker Zhao/Sister Wang/Sister Lin/Co-worker Wu: 6
+Yang Hou'en/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 12
+Co-worker Wu/Believer Feng/Co-worker Zhou/Brother Bai: 6
+Yang Hou'en/Co-worker Zhou/Brother Bai/Elder Brother: 6
+Sister Lin/Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai: 6
+Believer Feng/Yang Hou'en/Brother Bai/Sister Wang/Co-worker Zhou/Co-worker Wu: 6
+Chen Ling/Xiang Yang/Li Jiayin/Co-worker Zhao/Sister Qiu: 6
+Co-worker Zhao/Sister Qiu: 6
+Sister Wang/Co-worker Zhou/Co-worker Wu/Co-worker Zhao/Sister Qiu/Brother Bai/Xiang Yang: 6
+Co-worker Wu/Believer Feng/Li Jiayin: 24
+Li Jiayin/Sister Zhao: 55
+Sister Zhao/Yang Hou'en: 5
+Ending Song: 309

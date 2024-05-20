@@ -1,0 +1,18 @@
+DONALD: {''}
+AVERY: {''}
+MAN: {''}
+DANIEL: {''}
+SEBASTIAN: {''}
+GUILLERMO: {''}
+TOMAS: {''}
+LUNA: {''}
+TOMAS/LUNA/MARIANN/SEBASTIAN/ALEJO: {''}
+MARIANNA: {''}
+ALEJO: {''}
+SANTIAGO: {''}
+WOMAN: {''}
+GOMEZ: {''}
+MOTHER AND DAUGHTER: {''}
+CARLOS: {''}
+BOY: {''}
+NEWSCASTER: {''}

@@ -1,0 +1,25 @@
+NOLA: {'Scene 37', 'Scene 139', 'Scene 15', 'Scene 106', 'Scene 23', 'Scene 174', 'Scene 268', 'Scene 7', 'Scene 170', 'Scene 9', 'Scene 209', 'Scene 17', 'Scene 88', 'Scene 13', 'Scene 242', 'Scene 259', 'Scene 145', 'Scene 25', 'Scene 186', 'Scene 45', 'Scene 104', 'Scene 112', 'Scene 133', 'Scene 157', 'Scene 135', 'Scene 124', 'Scene 126', 'Scene 92', 'Scene 39', 'Scene 202', 'Scene 155', 'Scene 245', 'Scene 27', 'Scene 178', 'Scene 215', 'Scene 166', 'Scene 149', 'Scene 240', 'Scene 141', 'Scene 118', 'Scene 110', 'Scene 128', 'Scene 151', 'Scene 122', 'Scene 96', 'Scene 263', 'Scene 194', 'Scene 33', 'Scene 147', 'Scene 90', 'Scene 224', 'Scene 94', 'Scene 198', 'Scene 211', 'Scene 43', 'Scene 249', 'Scene 214', 'Scene 5', 'Scene 116', 'Scene 120', 'Scene 11', 'Scene 172', 'Scene 21', 'Scene 73', 'Scene 188', 'Scene 143', 'Scene 108', 'Scene 102', 'Scene 19', 'Scene 196', 'Scene 176', 'Scene 184', 'Scene 153', 'Scene 114', 'Scene 265', 'Scene 270', 'Scene 41', 'Scene 137', 'Scene 35', 'Scene 200', 'Scene 168', 'Scene 217', 'Scene 182', 'Scene 159', 'Scene 31', 'Scene 164', 'Scene 57', 'Scene 3', 'Scene 180', 'Scene 29', 'Scene 226', 'Scene 161', 'Scene 47'}
+DR. JAMISON: {'Scene 44', 'Scene 34', 'Scene 30', 'Scene 20', 'Scene 10', 'Scene 46', 'Scene 40', 'Scene 18', 'Scene 16', 'Scene 6', 'Scene 22', 'Scene 8', 'Scene 12', 'Scene 36', 'Scene 38', 'Scene 14', 'Scene 42', 'Scene 24', 'Scene 4', 'Scene 32', 'Scene 26', 'Scene 28'}
+BIANCA TATE: {'Scene 50', 'Scene 203', 'Scene 48', 'Scene 74', 'Scene 189', 'Scene 225', 'Scene 86', 'Scene 222', 'Scene 191', 'Scene 243', 'Scene 220', 'Scene 236', 'Scene 207', 'Scene 77', 'Scene 58', 'Scene 60', 'Scene 62', 'Scene 55', 'Scene 72', 'Scene 205', 'Scene 53', 'Scene 79', 'Scene 232', 'Scene 64', 'Scene 83', 'Scene 252', 'Scene 69', 'Scene 234'}
+STOKLEY: {'Scene 51', 'Scene 70', 'Scene 85', 'Scene 87', 'Scene 78', 'Scene 49'}
+MAX: {'Scene 54', 'Scene 75', 'Scene 80', 'Scene 235', 'Scene 71', 'Scene 52'}
+PAPO: {'Scene 67', 'Scene 233', 'Scene 76', 'Scene 223', 'Scene 208', 'Scene 227', 'Scene 206', 'Scene 229', 'Scene 231', 'Scene 257', 'Scene 192', 'Scene 238', 'Scene 190', 'Scene 56', 'Scene 81'}
+SEPTIMA: {'Scene 82', 'Scene 84', 'Scene 59'}
+RACHEL: {'Scene 68', 'Scene 63', 'Scene 61'}
+SHELLY: {'Scene 65'}
+DOUG: {'Scene 66'}
+KERVON: {'Scene 99', 'Scene 89'}
+REGGIE: {'Scene 101', 'Scene 98', 'Scene 93', 'Scene 91'}
+HASSAN: {'Scene 100', 'Scene 95'}
+KIDS: {'Scene 97'}
+CLORINDA: {'Scene 113', 'Scene 111', 'Scene 127', 'Scene 109', 'Scene 119', 'Scene 117', 'Scene 125', 'Scene 107', 'Scene 105', 'Scene 121', 'Scene 115', 'Scene 123', 'Scene 103'}
+CUSTOMER: {'Scene 129', 'Scene 131'}
+MARS: {'Scene 134', 'Scene 158', 'Scene 146', 'Scene 140', 'Scene 160', 'Scene 156', 'Scene 142', 'Scene 162', 'Scene 254', 'Scene 244', 'Scene 154', 'Scene 136', 'Scene 138', 'Scene 144', 'Scene 216', 'Scene 152', 'Scene 148', 'Scene 212', 'Scene 246', 'Scene 218', 'Scene 130', 'Scene 132', 'Scene 150', 'Scene 193'}
+SHEMEKKA: {'Scene 163', 'Scene 175', 'Scene 173', 'Scene 171', 'Scene 167', 'Scene 177', 'Scene 179', 'Scene 165', 'Scene 181', 'Scene 169'}
+GREER: {'Scene 201', 'Scene 183', 'Scene 197', 'Scene 204', 'Scene 195', 'Scene 187', 'Scene 210', 'Scene 199', 'Scene 185', 'Scene 213'}
+OFFICER BRINKLEY: {'Scene 219', 'Scene 258', 'Scene 239', 'Scene 221', 'Scene 230', 'Scene 262', 'Scene 247'}
+OFFICER DIAZ: {'Scene 237', 'Scene 248', 'Scene 228', 'Scene 253', 'Scene 241', 'Scene 251'}
+MISS ELLA: {'Scene 250', 'Scene 255'}
+FEMALE OFFICER: {'Scene 256'}
+FRANK SINATRA (SINGS): {'Scene 261', 'Scene 260'}
+OPAL: {'Scene 267', 'Scene 269', 'Scene 264', 'Scene 266'}

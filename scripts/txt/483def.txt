@@ -1,0 +1,318 @@
+THOMAS EP 483
+Titre VO :Buckled tracks and bumpy cars
+  Titre VF :  Les rails en accordéon
+Les corrections de la cliente sont soulignées
+
+(BOUCLE 1 - 10:00:31:03)
+		01
+
+Narrator	Les rails en accordéon.
+
+Narrator	Quand on travaille sur une voie ferrée, le danger n'est jamais complètement écarté. Les locomotives doivent donc toujours être  prudentes et vigilantes.
+
+Thomas	Woah!
+
+Narrator	En automne par exemple, les feuilles mortes peuvent rendre les rails glissants.  En hiver, c'est la neige et le verglas!
+
+Thomas	Waoh!
+
+Narrator	Le printemps aussi apporte son lot de surprises!
+
+Thomas	Oh!
+
+(BOUCLE 2 - 10:01:07:18)
+		02
+
+Narrator	Même en été, il y a des dangers!  Flynn et Belle sont bien placés pour le savoir!
+
+Thomas	Oh! Nom d'une soupape! Encore un feu d'forêt?
+
+Flynn	Il y a toujours plus d'incendies quand il fait très chaud, Thomas!
+
+Belle	La végétation est plus sèche!
+
+Thomas	J'espère que vous l'éteindrez assez vite!
+
+Flynn	Oui oui!
+
+Belle	Oui oui!
+
+(BOUCLE 3 - 10:01:36:17)
+		03
+
+Narrator	Le feu enfin éteint, Flynn et Belle retournent tranquillement au Centre de Recherche et de Secours.
+ 
+Belle 	Ah! Oh! Mais qu’est-ce qui se passe?
+
+Flynn	Les rails!
+
+Belle	Oh!
+
+Flynn	Sous l'effet de la chaleur, ils ont dû se déformer!
+
+Belle	(hh) (hhh)
+
+Flynn	Whoaoh! Plus la température grimpe, et plus le métal se dilate!
+
+Belle	(hh) (hh) Ah! (hh)
+
+Flynn	Ca arrive souvent!
+
+Belle	(h\) Oh!
+
+Flynn	Woh! Hou!
+
+Belle	Ohhh!
+
+Flynn	Woa! Ouf! On devrait arroser les rails pour les refroidir Belle! Mais je n'ai plus du tout d'eau dans ma citerne!
+
+Belle	Moi il m'en reste encore un peu, mais je crois qu'il vaut mieux que je la garde, au cas où! Il peut très bien il y a voir un autre incendie!
+
+Flynn	(h)
+
+(BOUCLE 4 - 10:02:25:21)
+		04
+
+Fat control	Oh!
+
+voix off	Le train en provenance de Tit'mouss entre en gare, quai numéro un.
+
+Fat control	(ohhh) (rrohhh) Quelle chaleur!
+
+voix off	Veuillez vous écarter du quai, merci.
+
+Fat control	(h)
+
+Thomas	Tiens, bonjour Monsieur!
+
+Fat control	Tu parles d'un bon jour! Regarde! J'ai encore plus chaud qu'une euh pomme de terre  cuite en plein milieu du désert!
+
+Dowager	C'est justement pour ça que je suis là!
+
+Fat control	(hh)
+
+Dowager	(hh) Hou!
+
+Fat control	Maman?
+
+Dowager	(hh) Oh, merci! J'ai quelque chose qui devrait te rafraichir un peu! (hh) Ferme tes yeux!
+
+Annie	(h)
+
+(BOUCLE 5 - 10:02:55:18)
+		05
+
+Fat control	(h/) oh oh! C'est une glace à la fraise? Ohoh! J'adorerais manger une glace!
+
+Dowager	Merci!
+
+Fat control	Une bonne glace bien fraiche avec des... Euh... Un chapeau? (gros soupir)
+
+Dowager	Beaucoup mieux adapté pour l'été que celui que tu as sur le crâne!
+
+Fat control	Oh mais mais... Pourquoi?
+
+Dowager	Parce que...
+
+Fat control	Ah! Mais ...oh!
+
+Dowager	le noir attire la chaleur, bien sûr! Avec un chapeau noir tu as vraiment beaucoup plus chaud! Alors qu'un blanc, lui, va réfléchir la chaleur et tu seras plus au frais! Tu te sentiras mieux avec, fais-moi confiance!
+
+Fat control	J'ai l'impression avec ça de partir en safari!
+
+Thomas	(petit rire bf________)
+
+(BOUCLE 6 - 10:03:37:01)
+		06
+
+Thomas	(mmm)
+
+Dowager	Mais un safari c'est très chic! (rire___) (h) (hh) Ohoho!
+
+Thomas	C'est vrai, Monsieur! On ne sait jamais, vous pourriez croiser des éléphants!
+
+Annie	(petit rire_____)
+
+Girl+woman	(rires________)
+
+Fat control	Oh quelle humiliation!
+
+Gordon	C'est MA phrase!
+
+(BOUCLE 7 - 10:04:01:24)
+		07
+
+Narrator	Pendant ce temps, la canicule s'installe et les rails continuent à se déformer sous l'effet de la chaleur. Plus il fait chaud, et plus il y a de bosses!
+
+Toby	Ahou (ahouu)!
+
+Henrietta	Oh aïe oh ouille! (reac continuent_________________________)
+
+Toby	Ohhh (ohhh)! Oh oh  ces rails déformés doivent être remplacés! Ouille!
+
+Whiff	Oh oh aïe aïe (ohhh)!
+
+(BOUCLE 8 - 10:04:38:22)
+		08
+
+Fat control	Des rails déformés? Oh! Comme si je n'avais pas assez de chose à faire ! C'est noté! J'arrive bientôt! Au r'voir! (gros soupir) Misère de misère!
+
+Dowager	Ahem!
+
+Fat control	Hein?
+
+Dowager	Gustave! Ne t'avise pas de sortir dehors sans ce chapeau-là!
+
+Fat control	Quoi? Ah! (h h) Ohhh! Très bien Maman!
+
+(BOUCLE 9 - 10:05:11:06)
+		09
+
+Fat control	(gros soupir)
+
+voix off	Le train pour Calembour entre en gare. Quai numéro six. N'oubliez pas de composter vos billets.
+
+Amb kids +adults	(rires moqueurs________________________________________)
+
+Fat control	Ohhh (hh)! Ca devient ridicule! J'ai l'air d'un clown avec ce chapeau!
+
+Man	Bonjour!
+
+voix off	Ne laissez  pas vos bagages sans surveillance s'il vous plait. Des consignes sont à votre disposition.
+
+Fat control	Ohhh!
+
+voix off	Et n'oubliez pas de composter vos billets.
+
+Fat control	(rire bf)
+
+voix off	Ils seront contrôlés pendant votre voyage.
+
+Fat control	(il chantonne bf_________________)
+
+Man	Excusez-moi Monsieur!
+
+Fat control	Quoi?
+
+Man	Tenez! Vaut mieux se protéger la tête avec cette chaleur!
+
+Fat control	Ah! Héhé! C'est gentil!
+
+man2	Hah! Et vous en aurez besoin quand vous partirez en safari!
+
+Woman	(rire)
+
+man2	Haha!
+
+Girl	(rire bf)
+
+Fat control	Ah! Oh!
+
+Girl	(rire)
+
+Fat control	(hh)
+
+(BOUCLE 10 - 10:06:01:20)
+		10
+
+Flynn	Encore un incendie?
+
+Belle	Nom d'un tchou-tchou! C'est déjà le troisième!
+
+Flynn	Nos citernes sont pleines! On passe à l'action!
+
+Fat control	(hmm______) (hhmm/) (hh) (rire________ah) (h) Noooon_________!
+
+Narrator	Et c'est la catastrophe!
+
+(BOUCLE 11 - 10:06:41:04)
+		11
+
+Belle	Oh! Ah! Finalement j'aurais p't'être dû les arroser ces rails!
+
+Flynn	Belle! Attention!
+
+Belle	(h) Ah ahh! Ohh! Oh non (h)!
+
+Flynn	C'est pas grave Belle! Je vais t'pousser pour te remettre sur les rails!
+
+Belle	Désolée mais on n'a pas le temps Flynn! Tu dois éteindre le feu avant qu'il ne s'étende!
+
+Flynn	Bien sûr, oui! Mode "route" enclenché! Ne t'inquiète pas! Super pompier  à la rescousse! Arrosez par là!
+
+Belle	(hh)
+
+Flynn	Et par là aussi! Vous aimez l'eau, les flammes? Hahaha! C'est ma tournée!
+
+(BOUCLE 12 - 10:07:24:14)
+		12
+
+Narrator	Une fois le feu éteint, Thomas arrive avec Rocky pour aider la pauvre Belle,
+
+Rocky	(efforts) (efforts)
+
+Narrator	et la remettre sur les rails.
+
+Rocky	Ne t'en fais pas Belle!  Tu vas pouvoir à nouveau t'occuper des incendies, fais-moi confiance!
+
+Belle	Ouf! Merci Rocky!
+
+Fat control	Oh misère de misère! Qu’est-ce que je vais bien pouvoir faire avec ces rails? A chaque canicule, ils se déforment et se plient! (h) Oh! Comme si ma journée n'était pas déjà gâchée par cet affreux chapeau! Quand même... je reconnais qu'il tient bien ma tête au frais!
+
+Thomas	Euh, excusez-moi Monsieur! J'ai une idée! Votre maman vous a offert un chapeau blanc pour réfléchir le soleil  et garder votre tête au frais!
+
+(BOUCLE 13 - 10:08:04:24)
+		13
+
+Fat control	Oui, je sais... ma mère croit toujours tout savoir Thomas!
+
+Thomas	Mais peut-être que les rails arrêteraient de se déformer et de se plier si on les repeignait
+
+Fat control	repeignait en blanc!
+
+Thomas	en blanc!
+
+Fat control	(h) (hh/) C'est malin Thomas! Quelle idée fantastique! Tu sais quoi Thomas? Je dois reconnaitre que pour une fois, ma mère avait raison! Le blanc réfléchit les rayons du soleil et garde les choses au frais!
+
+Thomas	C'est comme votre chapeau de safari en fait!
+
+Fat control	Arrête de parler de safari d'accord? (hh)
+
+Toby	Vous avez l'intention de vous promener dans une jungle Monsieur?
+
+Thomas	(rire bf_____)
+
+Toby	(rire bf)
+
+Fat control	Oh! Ca suffit!
+
+(BOUCLE 14 - 10:08:45:08)
+		14
+
+Fat control	J'en ai assez qu'on se moque de moi à cause de ce nouveau chapeau! Franchement, ça me rend chèvre! Hahaha! Prends-le!
+
+Toby	(h)
+
+Fat control	Hahaha! Je t'en fais cadeau! (rire___)
+
+Bouc	(renifle)
+
+Fat control	Hah! Ah j'en suis enfin débarrassé! (h) Ah!
+
+Man3	Ah!
+
+Toby	(hh)
+
+Fat control	Oh (h)!
+
+Thomas	(rire bf) (rire bo_______________ )
+
+Toby	(rire___________hh)
+
+Man3	(rire discret)
+
+Fat control	Oh! Misère!
+
+1
+
+

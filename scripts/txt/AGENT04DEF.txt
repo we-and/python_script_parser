@@ -1,0 +1,1373 @@
+
+
+AGENT EPS 04
+
+
+
+
+
+
+1 (10:00:01:10)
+
+CHRISTOPHER	Tu es en retard.
+
+BLAZE	On va moins vite que prévu mais on va y arriver.
+
+CHRISTOPHER	Le temps pour nous d'y arriver... est passé. Tu n'as plus que dix huit heures avant la clôture du Mercato.
+
+JEAN-PIERRE	Tu vois, je suis_... ... je suis le Roman Abramovic des agents.
+
+NICK	Un fax du FC Berea.
+
+BLAZE	Du coup, est- c'que vous avez...
+
+NATALIE	Non.
+
+BLAZE	Continue comme ça.
+
+NATALIE	Non.
+
+BLAZE	Au moins,... ... jusqu'à c'que j't'invite à boire un café.
+
+NATALIE	Peut- être que tu m'oublieras pas cette fois.
+
+PHUMLANI	Tu vas signer ce contrat. Avec de l'encre... ... ou du sang.
+
+WALTER	Qu'est- c'qui s'passe ici?
+
+PHUMLANI	Je n'faisais que l'encourager un p'tit peu.
+
+WALTER	Cet accord... ... passera par Slindile.
+
+PHUMLANI	Hein?
+
+BLAZE	Hey,... ne t'approche plus jamais d'mes joueurs.
+
+OUT (10:00:43:10)
+
+
+2 (10:01:25:10)
+
+CHRISTOPHER	Blaze. Blaze. Blaze_! T'es où, mon frère?
+
+BLAZE	Ici, en train d't'attendre.
+
+CHRISTOPHER	Nan,... ... je voulais dire dans ta tête.
+
+BLAZE	[sourit] h ! Tu as déjà rêvé d'un endroit où t'as jamais foutu les pieds?
+
+CHRISTOPHER	Je n'crois pas. Ça voudrait dire dormir... et tu sais... ... que je n'dors pas.
+
+BLAZE	Oui,... h et ça commence à s'voir aussi.
+
+CHRISTOPHER	[petit rire] h . Tu me parlais_... de Phumlani... et de Herve. Il a pointé un flingue sur lui?
+
+BLAZE	Oui, il a menacé Herve d'le tuer ou d'lui faire sauter les rotules.
+
+CHRISTOPHER	Merde. Ce gars est complètement cinglé. h J'n'ai jamais pensé à utiliser ce genre de méthode. Ça m'aurait sûrement fait économiser un max sur les facture de cocktails.
+
+
+3 (10:02:13:15)
+
+CHRISTOPHER	Hé hé_. Si t'avais perdu l'gosse, j't'aurais tiré dessus et ça n'aurait pas été dans les rotules.
+
+BLAZE	Oh. Sympa.
+
+CHRISTOPHER	Mais... ... tu m'as montré quelque chose,... ... je l'reconnais.
+
+BLAZE	C'est d'la gratitude que j'sens?
+
+CHRISTOPHER	T'emballe pas. Gros match demain.
+
+BLAZE	Marlboro United et Apollo FC_. En gros, Lesego/ Herve contre Vuyo. Pas mal pour une journée d'travail, non?
+
+CHRISTOPHER	Tu es le Jorge Mendes noir. J'suis sérieux. J'sors le drapeau blanc.
+
+BLAZE	N'importe quoi.
+
+CHRISTOPHER	Niks,... ... si jamais Jose Mourinho appelle et que Blaze est dans l'coin, tu lui raccroches au nez.
+
+
+4 (10:02:49:15)
+
+NIKKI	Tu l'penses pas vraiment.
+
+CHRISTOPHER	Non, mais t'aurais pu jouer l'jeu. [ricane] h .
+
+NIKKI	Ça m'dérangerait pas d'le faire,... ... j'ai horreur de l'arrogance de toute façon.
+
+CHRISTOPHER	En voilà une qui n'veut pas d'sa prime cette année.
+
+BLAZE	Son argument est quand même valable.
+
+CHRISTOPHER	Ah, commence pas. C'en est où avec Caster? J'aurais p't'être dû lui acheter quelque chose pour sa victoire.
+
+NIKKI	C'est c'que j'me suis dit. Carte.
+
+CHRISTOPHER	Oh_... Et d'un coup_... d'un seul,... elle revient dans la course pour la prime.
+
+NOTE D'AUTEUR	-----------------------------------------------------
+
+BLAZE	Wah.
+
+NIKKI	Ouais, j'y croirai quand j'le verrai.
+
+CHRISTOPHER	Quoi?
+
+
+5 (10:03:17:10)
+
+BLAZE	Bon,... c'est pas qu'j'apprécie pas cette séance de lèche- cul_,... mais... ... j'dois y aller.
+
+CHRISTOPHER	[rit] h . h h Tu sais qu'tu es mon numéro un,... jusqu'à qu'tu l'sois plus. h .
+
+BLAZE	Mm. Jusqu'à la clôture du prochain mercato, c'est ça?
+
+CHRISTOPHER	Ouais. Deux cent trois jours,... ... sept heures et trente- trois minutes.
+
+BLAZE	Toujours en train d'compter. h[sourit] - .
+
+CHRISTOPHER	Ça va arriver vite, mon frère.
+
+OUT (10:03:43:17)
+
+
+6 (10:05:26:15)
+
+LESEGO	Hey! Les mecs. Sel, poivre. On bosse, là_, bordel. On s'concentre. Toi, tu descends à fond sur la droite. Toi, tu seras face au but et_...
+
+CLIENT HÔTEL	Excusez- moi. Vous êtes des joueurs de football?
+
+LESEGO	Ouais, on est au Marlboro United.
+
+HERVE	On est des joueurs pros.
+
+CLIENT HÔTEL	Peu importe. Le football,... ... j'parle du vrai, l'américain,... ... c'est une danse de vrai courage. On a des vrais scores sur l'tableau d'affichage. C'est pas comme vous où on attend pendant tout l'match que quelque chose arrive et qu'finalement... rien n'se passe.
+
+LESEGO	Tu l'regardes pas avec les bons yeux, mec. J'suis désolé pour toi. Tu vois,... ... ton sport ressemble à_... ... du Hard Rock. Boum, boum, boum, boum! Le nôtre_... c'est... ... de la musique classique. Calculé_. Magnifique. Ça coule.
+
+
+7 (10:06:12:15)
+
+LESEGO	Dans une mi- temps d'un match de football, chaque action a_... ... une grandeur potentielle. C'est la patience dont nous faisons preuve pour mettre quelque chose en place... qui pourrait engendrer un coup d'génie. Un but. Et cette action ne se répétera plus jamais. Plus jamais. On parle là de pure originalité. Tout peut arriver dans l'espace d'un instant. Ça__, mon ami_, c'est l'football. Ça,... ... c'est le beau jeu_.
+
+CLIENT HÔTEL	Si tu l'dis.
+
+LESEGO	Reprenons.
+
+HERVE	Wah, Lesego. J'hallucine, ça vient d'toi, ça?
+
+LESEGO	Le truc que je n'lui ai pas dit,... ... c'est qu'on a toutes les meufs,... ... parce que ces enfoirés, on n'voit même pas qui ils sont derrière leur casque. Okay. Alors,... on s'concentre. Comme j'vous l'ai dit, les gars... [soupire] h Excusez.
+
+
+8 (10:06:56:20)
+
+LESEGO	Salut B_.
+
+BLAZE	La pêche? C'est une fête tout c'bruit?
+
+LESEGO	Ouais, un truc de ouf. Y'a Masimela_, Adam, tout l'monde.
+
+BLAZE	Lesego.
+
+LESEGO	Ha! J'rigole, Blaze,... j'rigole. Non, on est sur la terrasse pour l'déjeuner.
+
+BLAZE	h . J'ai eu peur. Tu sais qu'c'est un grand jour demain, hein?
+
+LESEGO	Ouais, ouais, on est justement en train d'revoir... le plan d'jeu. On va écraser l'Apollo FC en un clin d'oeil.
+
+BLAZE	Est- c'que l'gamin est là?
+
+LESEGO	Ouais.
+
+HERVE	[acquièsce] Uh. C'est vrai.
+
+LESEGO	Blaze.
+
+
+9 (10:07:22:20)
+
+HERVE	Blaze? Ça va?
+
+BLAZE	Hey. Salut, champion. Alors,... tu es prêt à te présenter au monde demain? Hey, écoute,... ... les grands joueurs,... ... ils flanchent pas.
+
+HERVE	Je sais. Demain, si dieu l'veut, j'contrôlerai totalement la situation. Ouais, je maîtriserai tout sur l'terrain.
+
+BLAZE	J'en doute pas une seconde.
+
+HERVE	Tu t'souviens de_... du mondial quatre- vingt quatorze?
+
+BLAZE	[rit] h ! h T'étais même pas encore un rêve érotique et tu m'demandes si j'm'en souviens?
+
+HERVE	Baggio a raté c'pénalty et son nom... Euh ... C'est quoi déjà?
+
+BLAZE	Le ratera toujours.
+
+HERVE	Ouais, c'est ça.
+
+BLAZE	Oui, mais j'veux pas qu'tu penses comme ça.
+
+HERVE	J'ai d'la famille au pays. Je_... j'veux pas retourner dans la rue.
+
+BLAZE	Eh bien, si tu n'veux pas qu'ça t'arrive, tu sais c'qu'y t'reste à faire. Tu entres sur le terrain demain, tu joues et tu marques des buts.
+
+HERVE	D'accord,... okay.
+
+BLAZE	Maintenant, mange un peu et détends- toi. T'as une grosse journée demain.
+
+HERVE	[acquièsce] h[uh huh]
+
+
+10 (10:08:21:10)
+
+VUYO	Ouais. h Ouais. h On est trois. h Toi_... h et moi... h et l'ballon. h Toi_... ... et...
+
+KIM	Hey,...
+
+VUYO	h
+
+KIM	... tu_... ... fais quoi?
+
+VUYO	h h Cri_... Cristiano. h C'est c'qu'il fait avant chaque match du Real. h h
+
+KIM	Il se mate dans l'miroir?
+
+VUYO	Mt. Non. Il s'admire. Il se parle. Il s'adore. Il se conditionne l'esprit. [quasi inaudible] Je suis le plus fort.
+
+KIM	Si tu n'oublies pas un p'tit peu tout cela_,...
+
+VUYO	Je suis le numéro un. Personne ne me bat.
+
+KIM	... tu vas passer à côté de tout ceci_.
+
+VUYO	Tout ceci_? [méprisant] Cristiano... ... il gagne plus que n'importe quel autre athlète. Garde tes miches.
+
+
+11 (10:09:07:00)
+
+BLAZE	V_. # h
+
+VUYO	Allo.
+
+BLAZE	Salut V__,... ça va?
+
+VUYO	Ouais, j'vais bien. J'vais bien, ouais .
+
+BLAZE	T'es sûr?
+
+VUYO	Ben, ça pourrait aller mieux.
+
+KIM	Raconte- lui c'qui s'est passé.
+
+VUYO	La patronne... ... m'a fait transpirer avec les réservistes aujourd'hui. Je parle du banc. Qu'est- c'que ça veut dire? Ma forme n'a pas baissé d'un poil.
+
+BLAZE	Écoute,... tu es Vuyo Moyo - le train,... d'accord? T'es la locomotive de cette équipe.
+
+VUYO	C'est ma... ... centième.
+
+BLAZE	Ta centième quoi?
+
+VUYO	Demain, c'est ma centième apparition.
+
+
+12 (10:09:39:05)
+
+VUYO	C'qui veut dire qu'ils vont devoir cracher la prime si j'joue. Merde, tu devrais l'savoir!
+
+BLAZE	h ! Bien sûr que j'le sais. C'est juste que... ... je n'pensais pas qu'c'était demain.
+
+VUYO	Au fait,... si elle me fait jouer, combien ils nous doivent... exactement?
+
+BLAZE	Trois- cent- cinquante mille.
+
+VUYO	Ça, c'est si elle me fait jouer?
+
+BLAZE	Écoute, je n'veux pas qu'tu t'inquiète pour ça. V_.
+
+VUYO	Ouais?
+
+BLAZE	Est- c'que Kim est là?
+
+VUYO	Ouais, elle est là.
+
+BLAZE	Qu'est- c'qu'elle porte?
+
+VUYO	h ... Pas grand chose, mec.
+
+BLAZE	h[rit] - ! Tant mieux! Parce que j'veux qu'tu t'occupes d'elle. Et moi,... ... j'vais m'occuper de Zoe Zante.
+
+VUYO	h Super.
+
+OUT (10:10:16:20)
+
+
+13 (10:10:44:05)
+
+ZOE	Écoute Santiago,... ... je sais que c'n'est pas toujours facile d'être un coach...
+
+BATISTUTA	Mais j'ai déjà sélectionné mes gars, Zoe.
+
+ZOE	On est en train de négocier ton nouveau contrat, n'est- ce pas? Alors, je veux juste que tu te rappelles qui est venu à ton secours... ... quand tu languissais en seconde division grecque avec Larissa.
+
+NOTE D'AUTEUR	--------------------------------------------------
+
+BATISTUTA	Je n'oublie pas.
+
+ZOE	Génial. Vuyo reste sur le banc demain. h Merci Santiago_.
+
+OUT (10:11:13:18)
+
+
+14 (10:11:35:10)
+
+NATALIE	T'es sûr que tu veux pas un verre?
+
+BLAZE	Ça va. Merci.
+
+NATALIE	Tes costumes sont fait sur mesure.
+
+BLAZE	Ouais. Content qu'tu l'aies remarqué. h h Je... les fais faire chez... ... Lemon and Yellow. Sympa la bibliothèque. [oups] Oh. [sourire gêné] h Désolé. Quel maladroit.
+
+NATALIE	J'l'ai pas encore lu celui- ci.
+
+BLAZE	Alors, les flics vivent comme ça.
+
+NATALIE	C'est à dire?
+
+BLAZE	J'sais pas,... ... ton appart... ne dis pas "police",... h ... en considérant ... ... la façon dont la police est parfois perçue dans c'pays.
+
+NATALIE	J'savais pas qu'on était ce genre de groupe sans visage.
+
+
+15 (10:12:24:20)
+
+NATALIE	Et toi? Qu'est- c'que tu penses de nous,... ... parfois.
+
+BLAZE	J'ai de la peine pour vous. Personne ne vous respecte,... ... vous êtes très mal payés. La plupart des gens vous voient courir partout,... ... marcher dans l'sang,... ... foirer vos enquêtes,... paumer des dossiers
+
+NOTE D'AUTEUR	-----------------------------------------------
+
+BLAZE	et_... h ... prendre des pots d'vin. Mais... ... tu ressembles pas à ça.
+
+NATALIE	Parce que j'suis jolie en robe de soirée?
+
+BLAZE	Non.
+
+NATALIE	Ah, non? Je n'suis pas jolie en robe de soirée?
+
+BLAZE	[sourit]
+
+NATALIE	[sourit]
+
+BLAZE	h !
+
+NATALIE	h ! h
+
+BLAZE	T'es à couper l'souffle en robe de soirée. C'est juste que... ... tu es tellement plus que ça.
+
+
+16 (10:13:07:00)
+
+NATALIE	Alors, c'est notre premier rendez- vous civilisé officiel_.
+
+BLAZE	Civilisé_?
+
+NATALIE	Le garçon passe prendre la fille... ... chez elle... pour l'dîner.
+
+BLAZE	Ah_. Donc,... ... t'aimes les choses civilisées.
+
+NATALIE	Certaines. Faut équilibrer le chaos.
+
+BLAZE	J'essayerai... ... de l'être, alors.
+
+NATALIE	Garde- moi simplement éveillée,... fais- moi rire... et ça ira.
+
+BLAZE	Hey,... c'est ma ville, d'accord?
+
+NATALIE	[voirVO] h !
+
+BLAZE	J'ai un nom ici_. Tu ne vas pas aller dîner dans n'importe quel restaurant. Tu vas découvrir... ... Jozi_.
+
+NATALIE	D'accord. Donne- moi juste... ... une seconde.
+
+BLAZE	Bien sûr.
+
+OUT (10:13:49:20)
+
+
+17 (10:14:02:20)
+
+BLAZE	Donc, tu dors ici tous les soirs avec ça.
+
+NATALIE	"La toile peut être une salle d'audience... où, dans le drame de la peinture, je suis l'accusation,... le juge, le jury et la défense." Philip Guston a dit ça, un jour.
+
+BLAZE	Ah__... Milieu d'terrain anglais. Années soixante- dix.
+
+NATALIE	Un artiste. Il parlait de jugement. Ce tableau... ... m'aide à garder ma culpabilité sous contrôle. On y va?
+
+OUT (10:14:38:20)
+
+
+18 (10:14:47:20)
+
+LESEGO	Yo, tu vas, JP_?
+
+JEAN-PIERRE	Bien. Très bien. Hé!
+
+LESEGO	Qu'est- c't'as dit?
+
+JEAN-PIERRE	J'ai dit "J'vais très bien." Tu veux savoir pourquoi j'vais très bien?
+
+LESEGO	Pourquoi?
+
+JEAN-PIERRE	Parce que tu sais c'qui va s'passer demain? Masimela va enrhumer les quatre attaquants de l'Apollo_.
+
+LESEGO	Oh, c'est vrai, c'est toi qui l'représente, hein?
+
+JEAN-PIERRE	C'est moi, ouais. Tu sais qui d'autre j'devrais représenter?
+
+LESEGO	Qui?
+
+JEAN-PIERRE	Toi.
+
+LESEGO	[petit rire] h . h Ouais, p't'être dans l'futur mais,... Mt ... pour l'instant, euh, Blaze est mon pote, tu sais.
+
+JEAN-PIERRE	Ouais.
+
+LESEGO	Ouais.
+
+JEAN-PIERRE	Ouais. J'veux dire, c'est l'crépuscule de ta carrière.
+
+LESEGO	J'dirais plus son apogée, moi.
+
+JEAN-PIERRE	Ouais,... bien sûr. T'sais quoi, reste avec ce bouffon qu't'appelles ton agent. Vous vous méritez l'un l'autre.
+
+
+19 (10:15:31:15)
+
+LESEGO	Cette pauv' merde de Masimela, il est même pas digne de m'torcher l'cul,... h encore moins de m'lécher les crampons.
+
+JEAN-PIERRE	J'suis d'accord. Mais tu sais qui va reprendre tes crampons bientôt?
+
+LESEGO	Qui?
+
+JEAN-PIERRE	Herve.
+
+LESEGO	Herve?
+
+JEAN-PIERRE	[acquièsce] Uh huh. Tout l'monde mise sur lui. Il est l'avenir et toi, t'es déjà_... ... de l'histoire ancienne.
+
+LESEGO	[voirVO] h h . h ! Arrête. N'importe quoi.
+
+JEAN-PIERRE	[sourit] h . Phumlani m'a dit qu'il commence demain.
+
+LESEGO	Écoute;... si tu l'dis.
+
+JEAN-PIERRE	Hey, bonne chance pour demain. Okay? Et te laisse pas surpaser par l'jeune prodige.
+
+OUT (10:16:10:05)
+
+
+20 (10:16:37:20)
+
+BLAZE	Corrina___!
+
+OUT (10:16:40:10)
+
+
+21 (10:17:13:05)
+
+CORRINA	Elle te met en valeur. h[sourit] - . h Si tu as besoin de quoi que ce soit.
+
+BLAZE	Merci Corrina. J'ai pris la liberté ... de nous trouver ... un orchestre.
+
+NATALIE	[rit] h ! h .
+
+OUT (10:17:31:10)
+
+
+22 (10:17:41:20)
+
+HERVE	Entrez.
+
+OUT (10:17:43:05)
+
+
+23 (10:17:54:20)
+
+HERVE	Lesego.
+
+LESEGO	Ah_! J't'ai fait peur? h h[voirVO] - . h Qu'est- c'que tu portes, bordel?
+
+HERVE	Oh, excuse, tu, tu frappais fort, j'ai pas pris l'temps d'mettre un fut_.
+
+NOTE D'AUTEUR	Futal
+
+LESEGO	Non, c'truc autour d'ton cou, crétin.
+
+HERVE	Oh_. C'est de l' amatayum.
+
+LESEGO	Ama- quoi?
+
+HERVE	C'est pour nous porter bonheur demain. Pour qu'on gagne le match.
+
+LESEGO	Nous_... partons.
+
+HERVE	Où, où ça?
+
+LESEGO	Faire la fête.
+
+HERVE	Mec, j'suis occupé, là.
+
+LESEGO	[voirVO] h ! Ha! Ouais, c'est ça. Comme si t'avais un p'tit cul dans la salle de bain.
+
+HERVE	Non, non. En fait, je parlais à Mohammed.
+
+LESEGO	Qui ça?
+
+HERVE	C... C'est, euhm... ... c'est un esprit, un ancêtre. Pour nous aider à gagner demain.
+
+LESEGO	T'as pas besoin d'ces conneries.
+
+HERVE	Et aussi, il faut qu'je dorme.
+
+
+24 (10:18:35:00)
+
+LESEGO	Non. On va faire la fête. D'abord, on va boire quelques verres. Peut- être se faire un joint. On essaiera d'te trouver un bon gros cul Zoulou.
+
+HERVE	Mec, je, j'te suis pas, là.
+
+LESEGO	Mt. Okay, alors, ... euh_,... traditions. Hein? T'as des traditions,... ... et bien, on a les nôtres. Okay? Alors, c'est ton initiation, ma caille. D'ac'? Ce soir,... ... toi et moi, on va s'éclater.
+
+
+25 (10:19:06:20)
+
+BLAZE	Merci.
+
+NATALIE	Tu vas sérieusement me laisser boire toute seule toute la soirée?
+
+BLAZE	Oui_,... ... absolument.
+
+NATALIE	Mais pourquoi?
+
+BLAZE	Je n'fais pas confiance au "moi" qui boit des fois. Santé.
+
+NATALIE	Santé_.
+
+
+26 (10:19:26:00)
+
+LESEGO	Règle numéro un: Il faut toujours être chic. Bordel, faut qu'tu branches Blaze pour qu'il te trouve un styliste. C'est quoi cette merde? Au secours.
+
+HERVE	J'crois qu'Blaze voudrait qu'j'reste ici.
+
+LESEGO	Non; il n'est pas le joueur qui débute demain. On sort.
+
+HERVE	Écoute, je... j'suis pas sûr.
+
+LESEGO	Qui est le meilleur buteur de la ligue?
+
+HERVE	Toi.
+
+LESEGO	Qui a gagné le trophée... du meilleur joueur de l'année?
+
+HERVE	Toi.
+
+LESEGO	Qui est le capitaine? Arrête de flipper, t'as rien à craindre avec moi.
+
+HERVE	Toi. [sourit] * h . T'es sûr?
+
+LESEGO	Herve,... ... hey,... ... tu crois qu'j'faisais quoi la veille de mon premier match? h[voirVO] - ! Hein? Hein? Attends la suite. Tu crois qu'Blaze faisait quoi? Hein, poulet. Hein? Allez,... danse avec moi, garçon!
+
+NOTE D'AUTEUR	------------------------------------------------
+
+
+27 (10:20:07:17)
+
+NATALIE	Et toi, t'es famille?
+
+BLAZE	Oui. Et la mienne grandit. Voyons voir. Herve,... Godi,... ... Mila,... ... Pascal,... ... Vuyo, Kimmy_... ... et Chris, je crois.
+
+NATALIE	T'as tous ces enfants?
+
+BLAZE	Non, non, non, non, non. Mais ils s'en rapprochent. Ils sont dans mon agence.
+
+NATALIE	J'parlais d'vraie famille.
+
+BLAZE	Eh bien, c'genre- là se brise plus facilement que les gens ne l' pensent.
+
+NATALIE	Mm. Quel dommage.
+
+BLAZE	C'est d'la pitié?
+
+NATALIE	Un peu, oui. J'veux dire,... ... ma famille représente tout pour moi. Mes trois frères en tout cas. Mais, euh, seulement deux d'entre- eux sont encore là aujourd'hui. Mes aînés,... ... Tyrone et Maurice.
+
+
+28 (10:20:52:05)
+
+BLAZE	Et l'cadet?
+
+NATALIE	Il, euh... Il a_... ... pris une balle perdue lors d'un affrontement d'gangs au coin d'une rue.
+
+BLAZE	Je... je suis navré, je n'voulais pas...
+
+NATALIE	Ça va, c'est, en fait, une des raisons principales pour lesquelles j'ai décidé d'être flic.
+
+BLAZE	Pour que d'autres ne suivent pas le même chemin.
+
+NATALIE	C'est c'qui m'motive.
+
+BLAZE	Non, c'est bien. Que... Que tes frêres soient là, bien sûr. Tu sais au moins... ... qui appeler quand... les temps sont durs.
+
+NATALIE	Qui appelles- tu?
+
+BLAZE	Godi. Mon assistante.
+
+NATALIE	Mm.
+
+BLAZE	C'est... ... encore d'la pitié?
+
+NATALIE	Oh, oui. [rit]
+
+BLAZE	Mm.
+
+NATALIE	h
+
+BLAZE	* h [rit] - .
+
+NATALIE	!
+
+OUT (10:21:34:15)
+
+
+29 (10:21:46:10)
+
+LESEGO	Ouais___ ! Herve est dans la place! Ça va chauffer! Bon. Shots?
+
+HERVE	Euh, non.
+
+NINA	J'achète.
+
+LESEGO	Quatre téquilas.
+
+HERVE	J't'ai dit qu'j'en voulais pas.
+
+LESEGO	Répète, mec, j'ai pas entendu.
+
+HERVE	Je n'bois pas. Je n'vais pas prendre...
+
+LESEGO	En fait,... j'm'en fous. Ha ha_! On va s'éclater. Hin. h
+
+
+30 (10:22:06:15)
+
+BLAZE	Tu viens de quel quartier? Des Flats?
+
+NATALIE	Je n'peux pas venir de la Baie?
+
+BLAZE	[racle gorge] * h
+
+NATALIE	Mes frères ont été coincés dans cette vie. C'est dur d'aimer et de haïr en même temps l'endroit d'où l'on vient.
+
+BLAZE	C'est l'Afrique.
+
+NATALIE	Oui, sauf que les Flats est un endroit différent. Tu sais,... ... j'ai grandi parmi des idiots qui échangeaient des coups de feu sans raison. Pour rien. Et après, des jeunes enfants payent pour ça. Quelle connerie. Quoi?
+
+BLAZE	C'est juste que... ... quand on vit des choses difficiles,... ... on tend à oublier qu'c'est aussi vrai pour d'autres.
+
+NATALIE	Le vrai est c'que j'veux toujours.
+
+BLAZE	Hein?
+
+NATALIE	Quoi qu'il se passe entre nous, est- c'qu'on peut être vrai l'un envers l'autre?
+
+BLAZE	Le vrai, ça m'va.
+
+
+31 (10:22:54:05)
+
+LESEGO	Oh___, ouais__! Voilà c'qui nous faut. Tequila__________!
+
+NOTE D'AUTEUR	----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NINA	Santé.
+
+LESEGO	Santé. Les yeux dans les yeux, bébé.
+
+NINA	Ouais.
+
+LESEGO	Allez, cul sec.
+
+NINA	Ouais. À la nôtre.
+
+LESEGO	Wouh! Hey, toi, allez! Il faut qu'tu boives!
+
+NINA	Quoi, t'as peur d'te blesser sur le dance floor? h ! h[rit] - !
+
+HERVE	Je danse pas.
+
+NINA	Oh, mais si. Mais si tu danses. On m'a dit qu't'avais un très beau jeu d'jambes. J'ai envie d'voir ça, moi. Allez, viens m'montrer ça. Viens.
+
+OUT (10:23:29:15)
+
+
+32 (10:23:46:10)
+
+LESEGO	Oh_____. [rit] h !
+
+
+33 (10:23:53:20)
+
+NATALIE	h h[rit] -
+
+BLAZE	h J'dois répondre, désolé.
+
+NATALIE	! Vas- y,... pas d'souci.
+
+BLAZE	* hum.
+
+NATALIE	h
+
+BLAZE	h h J'peux t'rappeler, j'suis occupé.
+
+JADE	Ah oui? Eh bien, tes gars aussi.
+
+BLAZE	Qui?
+
+JADE	Lesego et Herve. Ils sont dans une boite de nuit avec la mannequin... ... et ils ne sont pas en train d'siroter du jus d'pomme. Y'a pas école demain? J'ai eu un tuyau, alors... ... j'suis venue vérifier moi- même.
+
+BLAZE	J'savais pas qu't'étais en ville.
+
+JADE	Je couvre le match demain,... tu t'souviens?
+
+BLAZE	Oui, maintenant qu'tu l'dis. C'est quelle boite exactement?
+
+JADE	Le Vogue. C'est sur Long Street.
+
+BLAZE	J'connais.
+
+JADE	Tes gamins adorent faire des exercices d'incendie, non?
+
+NOTE D'AUTEUR	------------------------------------------------
+
+JADE	Mais qu'est- c'qui s'passe quand c'est pour de vrai et... ... qu'j'suis pas là pour tirer l'alarme?
+
+BLAZE	Dieu nous en garde. J'te revaudrai ça. Merci. [voirVO] # h h .
+
+
+34 (10:24:43:20)
+
+BLAZE	C'est pas comme ça qu'j'imaginais la fin d'notre soirée,... ... mais je... je dois y aller.
+
+NATALIE	Un problème?
+
+BLAZE	Eh bien,... deux d'mes gars font des leurs.
+
+NATALIE	Joli.
+
+BLAZE	Pardon?
+
+NATALIE	On dirait un code. Tu sais, un appel d'urgence qu'on reçoit quand la deuxième soirée n'est pas vraiment à la hauteur d'la première.
+
+BLAZE	h . h Être flic et_... ... étudier la psycho n'est pas bon pour ton niveau d'paranoïa.
+
+NATALIE	Peut- être.
+
+BLAZE	Deux d'mes joueurs ont décidé d'faire la bringue la veille d'un match. Et un grand match, en plus. Alors, j'dois aller faire l'gendarme. Si tu n'me crois pas, viens avec moi.
+
+NATALIE	T'es sûr, j'veux dire je_...
+
+BLAZE	Non...
+
+NATALIE	Non, je... j'peux rentrer chez moi. Ça va, c'est pas grave. T'inquiète pas pour moi.
+
+BLAZE	J'insiste. Comme ça_... ... tu verras qu'j'invente rien.
+
+NATALIE	Très bien. Si tu insistes.
+
+BLAZE	Mt. Après vous, madame. Merci beaucoup.
+
+OUT (10:25:37:10)
+
+
+35 (10:25:55:05)
+
+BLAZE	[ furieux] C'est comme ça qu'tu prépares l'plus grand match de ta vie?!
+
+HERVE	[saoûl] Euh, Je travaille mon jeu d'jambes.
+
+BLAZE	Bordel, où est Lesego?
+
+HERVE	Au... Au fond. Par là.
+
+BLAZE	Voici Herve. La prochaine star. Oh, merde! Jean- Pierre.
+
+NATALIE	C'est qui?
+
+BLAZE	[stress] Mon meilleur ennemi. Faut qu'on s'tire d'ici et vite. Allez, allez, allez. Avance, mec. Allez.
+
+NINA	Ah_!
+
+BLAZE	Allez, on s'dépêche. On s'dépêche. Vite. Plus vite.
+
+
+36 (10:26:27:10)
+
+NINA	[se débat] h ! h . h ! h !
+
+BLAZE	Tu crois qu'il nous a vu?
+
+NINA	h[halète]-
+
+NATALIE	Je n'crois pas.
+
+NINA	. C'est pas moi qui joue demain, pourquoi tu m'renvoies chez moi?
+
+BLAZE	Nina,... ... si tu n'rentres pas,... ... ton mec ne rentre pas.
+
+NINA	Mon mec? Mon mec, hein? S'il l'est, où est- il_?
+
+NATALIE	C'est quoi l'plan?
+
+BLAZE	Tu peux m'garder ces deux- là?
+
+HERVE	Wouh.
+
+NATALIE	Oui.
+
+BLAZE	Tu peux aussi leur trouver un Uber, j'te rembourserai.
+
+NATALIE	Bien sûr.
+
+BLAZE	Super.
+
+HERVE	On rentre ou on y retourne?
+
+
+37 (10:27:06:10)
+
+BLAZE	Lesego! Bordel de...
+
+LESEGO	h[Gémissements plaisir ça et là] - ... Ah____! Ho! C'est quoi c'bordel_?
+
+FEMME	Hé! Merde, c'est occupé, mec.
+
+BLAZE	[autoritaire] Dehors! Tout d'suite!
+
+LESEGO	Euh___... Elle a carrément tout mis dans sa bouche, mec.Elle m'a même léché les couilles... J'suis désolé, mon frère. J'm'excuse. Hey, Blaze! Attends!
+
+OUT (10:27:49:05)
+
+
+38 (10:27:57:10)
+
+LESEGO	[saoûl] Huh! h Mollo, mec.
+
+BLAZE	Dépêche.
+
+LESEGO	h . Oh_, salut, ma belle. Désolé, faut qu'j'y aille.
+
+NATALIE	Oui, comme c'est dommage.
+
+LESEGO	É_... Écoute, Blaze. T'in_... t'inquiète pas.
+
+BLAZE	Bon sang,... tu t'arrêtes jamais?
+
+LESEGO	Une chose est sûre,... dieu va nous faire gagner demain. Ouais. C'est clair. Je l'sens.
+
+BLAZE	À l'hôtel, s'il vous plaît. Et n'vous arrêtez pas.
+
+JEAN-PIERRE	Merde_!
+
+BLAZE	Tu cherches quelqu'un?
+
+JEAN-PIERRE	Tu sais c'que j'déteste le plus?
+
+BLAZE	Tout? Comme la plupart des "haters."
+
+JEAN-PIERRE	Non, non, non. Ce que je déteste le plus,... ... c'est les amateurs... ... qui cachent leur incompétence... ... sous un costume.
+
+
+39 (10:28:51:15)
+
+BLAZE	Écoute, détends- toi,... ... c'est vendredi... ... et j'ai un rencard.
+
+JEAN-PIERRE	Désolé, excusez- moi, madame,... ... mais cet homme n'est pas un agent,... c'est un imposteur.
+
+NATALIE	Wah,... ... c'est vraiment ton meilleur ennemi.
+
+JEAN-PIERRE	Tu gères pas des joueurs, Blaze, tu gères des incendies.
+
+BLAZE	Tu me mets vraiment mal à l'aise.
+
+JEAN-PIERRE	Oui, t'as raison, t'as raison. Ex... Excusez- moi, madame, je suis désolé. Soit dit en passant,... ... vous êtes trop bien pour lui. Bonsoir.
+
+NATALIE	Il n'a pas l'air de t'aimer beaucoup.
+
+BLAZE	Il travaillait pour mon agence. Et___...
+
+NATALIE	Quoi?
+
+BLAZE	Il était mon agent quand j'étais encore pro. J't'ai remerciée pour ce soir?
+
+NATALIE	Non.
+
+BLAZE	h J'crois qu'j't'en dois une. Chez toi?
+
+NATALIE	[petit rire] h .
+
+
+40 (10:29:48:15)
+
+LESEGO	Wouh, cette boite... était ex_cellente.
+
+NOTE D'AUTEUR	------------------------------------------------ -------------------------------------------
+
+HERVE	[rit] h
+
+LESEGO	Tu sais qu't'es la seule qui compte pour moi, hein?
+
+HERVE	.
+
+NINA	Ah oui, vraiment? Dis- moi c'qui t'a pris autant d'temps aux toilettes.
+
+LESEGO	Bébé, je_... j'avais beaucoup bu_,... donc j'ai pissé__... ... beaucoup.
+
+NINA	[sourit] h Je n'ai pas assez bu pour gober ces conneries,... ... chéri_. Arrête.
+
+LESEGO	Junior, aide- moi à nous servir à boire.
+
+HERVE	[voirVO] Ouh.
+
+LESEGO	[rit] h . Bon. Alors,... ... t'aimes c'que tu vois?
+
+HERVE	Pardon? Quoi?
+
+
+41 (10:30:31:15)
+
+LESEGO	Crétin. Oh, tu vas être génial demain. Fais- moi voir. h Ha ha_ ! h Là, Nina. Hein? Tu veux pas y goûter?
+
+HERVE	Mec,... ... c'est ta copine.
+
+LESEGO	Non, mais là_, ça_ dépasse_... tous les coups qu'tu peux tirer... à Johannesbourg.
+
+HERVE	Tous les coups? Tous les coups de quoi?
+
+LESEGO	[soupirant] Arrh... J'hallucine. Écoute,... Mt. Je sais que... ... t'as dix- huit ans... ... et tout ça. Et que_ les lumières de la ville peuvent des fois te faire tourner la tête, mais j'crois pas à ces conneries de "Ah, excuse- moi, j'suis perdu"...parce que t'es d'Afrique du Nord, mec. Hein? Là- haut, ça rigole pas.
+
+HERVE	Mais...
+
+LESEGO	Qu'est- c'qui t'arrive?
+
+HERVE	Je_... Je n'rigole pas. Qu'est- c'que tu veux dire?
+
+NINA	Vous discutez de quoi?
+
+LESEGO	De_... De foot. On parle de foot.
+
+NINA	Évidemment.
+
+
+42 (10:31:21:00)
+
+LESEGO	[ parle bas] Elle est_ prête. Elle attend qu'ça, regarde- la_. hm? Une fille,... ... éméchée, elle a dansé toute la soirée. Elle est en colère contre son mec. C'est ta chance, mon frère, tu peux marquer ton premier but ce soir. D'accord? Alors,... ... bois. # h h h
+
+HERVE	[tousse]
+
+LESEGO	À ton premier but.
+
+HERVE	h ! [tousse] h !
+
+LESEGO	Oui, junior. Et là_, mon grand,... ... tu reçois une passe en profondeur dans la surface... ... les défenseurs sont derrière toi. Il n'y a que toi_... et le gardien de but. Qu'est- c'que tu vas faire? Hein? Tu fonces. Ne perds pas d'temps, mon pote. Contrôle le ballon... et tout c'que t'as à faire,... ... c'est d'la mettre au fond du filet.
+
+OUT (10:32:10:24)
+
+
+43 (10:32:25:15)
+
+HERVE	Nina. Tu veux_ venir dans ma chambre? On pourrait s'boire quelques verres...
+
+LESEGO	C'est ça_, mon grand. Ouais_. C'est parti_. Ouais, comme ça. C'est tout bon. Herve, putain d'merde! Qu'est- c'que tu fous, bordel?!
+
+NINA	Lesego, qu'est- c'qui...
+
+LESEGO	Hein?! Ferme ta gueule! Tu t'crois assez grand pour m'prendre c'qui m'appartient?! Hein? Tu t'crois assez grand pour m'prendre ma meuf?!
+
+HERVE	Arh!
+
+NINA	Ha_!
+
+HERVE	[gémit] h
+
+LESEGO	Dégage.
+
+NINA	Arrête!
+
+HERVE	.
+
+LESEGO	Dehors, sale petit enfoiré!
+
+NINA	Arrête, Lesego! Arrête!
+
+LESEGO	Dégage!
+
+NINA	Arrête!!
+
+LESEGO	Putain d'merde.
+
+
+44 (10:33:12:00)
+
+LESEGO	Tu abuses maintenant des enfants, Nina? Bravo.
+
+NINA	[giffle] h ! Putain de psychopathe! Va t'faire soigner, pauv' taré!
+
+LESEGO	Mm. Salope, va t'faire foutre!
+
+OUT (10:33:33:15)
+
+
+45 (10:34:08:05)
+
+NATALIE	Merci de m'avoir raccompagnée.
+
+BLAZE	J'n'ai pas été élevé par des hyènes. J'voulais être sûr qu'tu rentres bien.
+
+NATALIE	h J'étais sarcastique. Si y'a quelqu'un à l'intérieur, j'te vois plus fuir comme une fillette.
+
+BLAZE	Ouille.
+
+NATALIE	[rit] h ! h
+
+OUT (10:34:24:15)
+
+
+46 (10:34:50:20)
+
+JERRY	Je vous avais dit que vous reviendriez.
+
+BLAZE	h Exact, l'ancien,... ... bien vu.
+
+JERRY	L'amour fait de nous des idiots.
+
+BLAZE	Ha, ha. Qui a parlé d'amour? hm?
+
+JERRY	Tous ces rêves que vous faites,... ... ce ne sont pas des rêves. Mais des prémonitions.
+
+OUT (10:35:17:00)
+
+
+47 (10:35:40:20)
+
+BLAZE	[quasi inaudible] Merde. * h * h
+
+GODI	Bonjour Blaze.
+
+BLAZE	Godi_?
+
+GODI	Oui. Je garde le téléphone de ta protégée. Tu veux savoir si elle t'en veut de ne pas être venu?
+
+BLAZE	Oui.
+
+GODI	Elle t'a_ maudit dans les règles de l'art_.
+
+BLAZE	Est- c'qu'elle s'en sort?
+
+GODI	Elle est avec le metteur en scène, là. Je l'ai préparée. Oui, ça va aller.
+
+BLAZE	Merci Godi, j't'en dois une.
+
+GODI	[voirVO] h Hey,... ... tu vas_ chialer_ quand tu signeras mon chèque. Tu m'ennuies maintenant, bye_.
+
+DIRECTRICE CASTING	[chut] Shhh!
+
+GODI	Ouh.
+
+
+48 (10:36:25:10)
+
+SEAN	Juste pour info, on enregistre toutes nos auditions du début à la fin, okay? On est déjà en train d'tourner.
+
+MILA	Okay.
+
+SEAN	Cool. Alors, présente toi,... nom, âge et tout l'toutim... et termine en nous montrant tes profils gauche et droit.
+
+MILA	Mon nom est Mila Dior. J'ai aujourd'hui vingt trois ans et je suis chez Ace Management. Je parle quelques langues,... ... l'Anglais,... ... le Français... ... et la langue de bois. h[rit]- h
+
+OUT (10:36:51:20)
+
+
+49 (10:37:07:15)
+
+SEAN	Tu penses qu'cette audition est une... ... plaisanterie?
+
+MILA	Non. Je_... J'suis désolée, c'était stupide. J'suis désolée.
+
+SEAN	Mt. h Juste pour que tu l'saches, ce rôle exige de la nudité et de la simulation sexuelle, cela n'te gêne pas?
+
+MILA	Euh... C'est... Mais c'est_... une télénovela.
+
+SEAN	C'était. C'est un long métrage, maintenant. On vient juste d'avoir le feu vert de la chaine. Et, euh, h Et on va... ... repousser les limites assez loin, là.
+
+MILA	D'accord, mais mon_...mon agent a dit que...
+
+SEAN	Oublies... ce que ton agent a dit, d'accord? Cela te gêne ou pas?
+
+MILA	Si ça sert la narration... ... et__... ... et que ça n'est pas gratuit_,... ... non.
+
+
+50 (10:37:55:00)
+
+SEAN	Super. Super. Tu as tout? Arrête de filmer. À genou.
+
+MILA	Excusez- moi?
+
+SEAN	J'veux voir_... ... de l'authenticité dans ton jeu. Je veux que tu_... que tu t'mettes à nu. Okay? h Tu es interrogée dans la scène, alors... ... agenouille- toi.
+
+MILA	D'accord. Euhm.
+
+OUT (10:38:31:15)
+
+
+51 (10:38:41:20)
+
+SEAN	Vas- y.
+
+MILA	Je suppose... Je suppose que j'cache des choses. Mes émotions... ... à l'intérieur de moi. C'est ainsi que la vie m'a faite. * h Je n'laisse pas les gens entrer. Je... Je les bloque. Je n'peux pas leur montrer mes émotions. [émotion qui monte] Parce que quand je_... ... quand je leur montre mes émotions...
+
+
+52 (10:39:30:10)
+
+SEAN	h Euhm. h Quelque chose est arrivé quand t'avais cinq ans.
+
+MILA	Qu... Quoi?
+
+SEAN	Scène six. Je fais l'interrogatoire. Quelque chose... est arrivé... quand t'avais cinq ans.
+
+MILA	Pourquoi vous voulez savoir ça?
+
+SEAN	Dis- nous ou tu manges pas aujourd'hui.
+
+MILA	"Nous", c'est qui?
+
+SEAN	Ça suffit, dis- le nous!
+
+MILA	Va t'faire foutre. [voirVO] h . [renifle] * h ! h
+
+SEAN	C'était super. Vraiment bien. Ouais,... ... je crois qu'on va pouvoir travailler ensemble.
+
+OUT (10:40:17:20)
+
+
+53 (10:40:46:20)
+
+SEAN	Le voilà_. La pêche?
+
+HERVE	Laisse- moi tranquille.
+
+LESEGO	Hein, qu'est- c'que t'as dit?
+
+HERVE	J'ai dit "Laisse- moi tranquille."
+
+LESEGO	Ah_, qu'est- c'qu'il y a encore?
+
+HERVE	Tu l'sais. Avec Nina.
+
+LESEGO	Oh_,... je_... Mec, j'me souviens même pas d'la moitié de c'qui s'est passé hier soir. Si j'ai dit quelque chose qui t'a offensé, j'm'excuse.
+
+HERVE	S'te plaît, mec, ça va pas très bien.
+
+LESEGO	Nom de dieu, mec, pourquoi tu sens comme un lendemain matin d'fête de la bière?
+
+HERVE	Je viens d'vomir tout mon p'tit déjeuner.
+
+LESEGO	Attends, tu veux dire que t'as pas pris un cachet avant d'dormir?
+
+
+54 (10:41:22:05)
+
+HERVE	* h J'suis tombé comme une masse. La bonne m'a réveillé_.
+
+LESEGO	Merde, mec. Tsss__! Espèce d'amateur.
+
+HERVE	Pardon? C'est d'ta faute! T'arrêtais pas d'parler et d'parler et tu disais des trucs bizarres. Que c'était mon... mon initia_...
+
+LESEGO	Initiation.
+
+HERVE	Ouais, c'est ça.
+
+LESEGO	Ton initiation. Merde.
+
+HERVE	Maintenant, si l'grand patron m'sent, il me renverra_ chez moi dans l'prochain avion. Il me mettrait même dans l'premier taxi. [voirVO] Mt. * h .
+
+LESEGO	h Hey, reprends- toi, mec. Merde!
+
+HERVE	T'écoutes jamais ou quoi? h Oublie- moi. D'accord?
+
+OUT (10:41:59:10)
+
+
+55 (10:42:19:05)
+
+LESEGO	Hey, mec, qu'est- c'que...
+
+BLAZE	Franchement, est- c'qu'un jour tu t'es réveillé en t'disant qu't'allais m'pourrir la vie?
+
+LESEGO	Tu_... Tu parles du gosse?
+
+BLAZE	Du gosse? C'est plus un gosse. Plus maintenant. Depuis qu'il est descendu d'l'avion,... c'est un investissement. Tu sais c'qu'il est? Un foutu ambassadeur... du Marlboro United.
+
+LESEGO	Blaze, je_... J'pensais qu'il_...
+
+BLAZE	Il_ ne sera plus un gosse et pour toi non plus.
+
+LESEGO	J'pensais qu'il allait gérer.
+
+BLAZE	Ne penses pas pour mes clients, ça, c'est mon boulot!
+
+LESEGO	Okay_,... j'm'excuse.
+
+BLAZE	h Tes excuses, tu peux t'les mettre où j'pense,... d'accord? Le match est dans une heure. Soixante minutes. Regarde- le. On dirait qu'il a besoin d'une foutue réunion des alcooliques anonymes.
+
+
+56 (10:42:56:15)
+
+LESEGO	Mec, t'inquiète, il va éliminer tout ça à l'échauffement.
+
+BLAZE	Oh, ça, oui, j'l'espère pour toi.
+
+LESEGO	Hey, tu sais mieux qu'moi... ... qu'les nuits chargées font partie du jeu.
+
+BLAZE	Tu la fermes.
+
+LESEGO	Vaut mieux qu'il l'apprenne maintenant.
+
+BLAZE	Il naît aujourd'hui, qu'est- c'que va voir le monde?! Comment ça s'fait qu'tu sois si en forme, toi?
+
+LESEGO	Je suis un vétéran d'guerre, mon frère.
+
+BLAZE	Tu es... ... une pauvre merde, voilà c'que t'es.
+
+LESEGO	Hey, attends. Blaze. Blaze!
+
+BLAZE	Hey, hey, t'as pas l'droit d'me parler! Tu grandis d'abord, et ensuite, tu m'parles,... d'accord?
+
+LESEGO	C'est pas si grave.
+
+BLAZE	Pas si grave? Pendant un an, les Wolves ont frappé à ma porte.
+
+NOTE D'AUTEUR	["Wolves" = Club de Football Anglais]
+
+BLAZE	Ma foutue porte!
+
+LESEGO	[chut] Shhh.
+
+BLAZE	Et maintenant que tout s'concrétise enfin, tu veux tout détruire parce que tu t'ennuyais hier soir?!
+
+OUT (10:43:33:05)
+
+
+57 (10:43:51:00)
+
+CHRISTOPHER	Quelqu'un t'a volé tes jouets?
+
+BLAZE	On connait les feuilles de match. Herve est dans le onze de départ.
+
+CHRISTOPHER	Génial.
+
+BLAZE	Ça l'serait si Lesego n'l'avait pas sorti et... ... fait boire hier soir. Chris, il n'est pas en état d'jouer.
+
+CHRISTOPHER	D'accord. Qu'est- c'que tu penses faire?
+
+BLAZE	Attends, c'est pas tout. Vuyo n'est pas sélectionné.
+
+CHRISTOPHER	Il est sur le banc?
+
+BLAZE	Oui.
+
+CHRISTOPHER	Qu'est- c'que Zoe a derrière la tête?
+
+BLAZE	Elle n'a pas du tout l'intention d'le faire jouer.
+
+CHRISTOPHER	Oui, la question est pourquoi.
+
+BLAZE	Ça déclencherait sa prime de centième apparition.
+
+CHRISTOPHER	Alors, arrange ça,... ... que ça n'devienne pas une mauvaise habitude. Okay? Bien.
+
+OUT (10:44:34:10)
+
+
+58 (10:44:47:05)
+
+LESEGO	Qui va dominer?!
+
+HOMMES X 10	Nous!
+
+LESEGO	Qui va dominer?!
+
+HOMMES X 10	Nous!
+
+LESEGO	Qui va dominer?!
+
+HOMMES X 10	Nous!
+
+LESEGO	Qui va dominer?!
+
+HOMMES X 10	Nous!
+
+LESEGO	Okay, on reste concentré sur le jeu, les gars!
+
+WALTER	Allez, les gars, on y va, on y va. On va les avoir. Allez, allez. Toi, t'arrête tout. On compte sur toi. Woh,... y s'passe quoi ici?
+
+LESEGO	J'crois qu'c'est les nerfs, patron.
+
+WALTER	Les nerfs?
+
+HERVE	[vomit] h !
+
+LESEGO	C'est_... c'est le stress du_... ... du premier match.
+
+WALTER	Kwaku! Échauffe- toi. Tu l'remplaces.
+
+LESEGO	Allez, les gars, c'est maintenant! Qui va dominer?!
+
+HOMMES X 10	Nous!
+
+OUT (10:45:35:20)
+
+
+59 (10:45:47:20)
+
+COMMENTATEUR 1 (BRIAN)	Lesego Moleko. Pas de hors- jeu. Il est tout seul!
+
+BLAZE	[voirVO]
+
+COMMENTATEUR 1 (BRIAN)	Non____!
+
+BLAZE	h !
+
+COMMENTATEUR 1 (BRIAN)	Le ballon passe encore une fois bien au- dessus des cages.
+
+COMMENTATEUR 2 (REGGIE)	Quelle occasion. Quelle occasion.
+
+NOTE D'AUTEUR	------------------------------------------
+
+COMMENTATEUR 2 (REGGIE)	Le capitaine des Marlboro n'a décidément pas d'réussite aujourd'hui. Aucun tir cadrés sur six tentatives.
+
+COMMENTATEUR 1 (BRIAN)	Oui. On peut imaginer combien les choses auraient été différentes si Touré avait été sur le terrain.
+
+COMMENTATEUR 2 (REGGIE)	[acquièsce] Ah, ça_...
+
+OUT (10:46:06:20)
+
+
+60 (10:46:34:05)
+
+NATALIE	Tu veux un peu d' pitié?
+
+BLAZE	Oui.
+
+OUT (10:46:39:21)

@@ -1,0 +1,243 @@
+THOMAS EP 485
+Titre VO : Mike’s whistle
+Titre VF : Le sifflet de Mike
+Les corrections de la cliente sont soulignées
+
+(BOUCLE 1 - 10:00:31:22)
+		01
+
+Narrator	Le sifflet de Mike.
+
+Narrator	Rex et Bert sont deux toutes petites locomotives qui travaillent sur la portion miniature du Chemin de fer de Chicalor, près de Calembour. Et lui c'est Mike, la mini locomotive rouge! Il peut être ronchon de temps en temps, et transporter des passagers, ce n'est pas ce qu'il préfère!
+
+Thomas	(rire_____________)
+
+Narrator	Ce matin-là, c'est en riant que Thomas arrive à Calembour Ouest, chercher des pierres pour le ballast de sa ligne.
+
+Thomas	(rire___)
+
+(BOUCLE 2 - 10:01:06:02)
+		02
+
+Thomas	(rire bf) Oh oh!
+
+Rex	Ah ah qu’est-ce qui te fait rire?
+
+Thomas	C'est Montaigu! Tu l'as entendu siffler ce matin? Son conducteur a cuit un oeuf dessus et des bouts sont restés collés! Mais ne ris pas! (rire bf)
+
+Rex	Oh!
+
+Thomas	(rire bf_____)
+
+Rex	C'est toi qui a sifflé Montaigu?
+
+Thomas	(rire étouffé)
+
+Rex	Je ne savais pas qu'on pouvait cuire un oeuf sur un sifflet à vapeur!
+
+Duck	Moi non plus! D'ailleurs, je ne le conseille pas!
+
+Driver de Duck	C'est bon, ça va! Je ne le referai plus d'accord?
+
+(BOUCLE 3 - 10:01:35:07)
+		03
+
+Thomas	(rire etouffé_______________)
+
+Rex	(rire etouffé_____________)
+
+Mike	Montaigu ne devrait pas faire de si horribles bruits!
+
+Narrator	C'est choquant!
+
+Thomas	Hah,eh bien moi, je vais siffler comme ça toute la journée!  (h/ pbbbbbbbbbbb) (rires_______)
+
+Mike	Quand on n'peut pas siffler correctement, on doit s'abstenir!
+
+Bert	Abstiens-toi  alors! (rire)
+
+Mike	Là, on ne parle  pas de moi! Et je te signale que j'ai un excellent sifflet!
+
+Bert	(rire______)
+
+Rex	(rire________) Si j'avais un sifflet comme le tien Mike...
+
+Mike	Oui?
+
+Rex	j'me tairais! (rire oh)
+
+Mike	Pardon? Un sifflet, c'est très important, Rex! Une locomotive sans sifflet est très dangereuse pour les autres!
+
+(BOUCLE 4 - 10:02:18:07)
+		04
+
+Narrator	Sous la colère, la pression de vapeur de Mike augmente tellement que sa valve de sécurité saute!
+
+Mike	Oh!
+
+Small Control	Ah non! Ne me dites pas que Mike est encore en surchauffe!
+
+Narrator	Tout le monde appelle Mr Fulbert Dincan le "petit contrôleur", puisque c'est lui qui s'occupe du Chemin de Fer miniature. En réalité, il n'est pas petit du tout! Il est même très grand!
+
+Small Control	Je vais devoir te donner du travail plus facile! Je te suggère de prendre le train de passagers.
+
+Mike	Non M'sieur, pas eux!  J'vais très bien héhé! Vous savez bien que je préfère livrer des marchandises!
+
+Small Control	Désolé Mike! Mais je ne peux pas te laisser souffler de la vapeur comme ça! Bert s'occupera des livraisons, et toi tu prendras les passagers! Une fois que l'on t'aura remis une valve de sécurité!
+
+Mike	(hh ohh)
+
+(BOUCLE 5 - 10:03:05:10)
+		05
+
+Narrator	C'est donc de très mauvaise humeur que Mike va chercher ses passagers.
+
+Amb passagers	Oh qu'il est mignon/Oui il est adorable/J'adore ces petites locomotives/On dirait un jouet/On va bien s'amuser avec!
+
+Mike	Bla bla bla! "On dirait un jouet! Oh j'adore les petites locomotives! (h) Comme il est adorable!"
+
+Driver de Mike	Voyons, du calme, Mike!
+
+Mike	(hh) (h)
+
+Rex	Wohou!
+
+Mike	(rire) Mon sifflet fonctionne bien, la preuve!
+
+(BOUCLE 6 - 10:03:45:22)
+		06
+
+Mike	Rex et  Bert, comment osent-ils se moquer de mon sifflet! Ils sont jaloux! Ils sont jaloux! (h) J'vais leur montrer! J'vais m'venger!
+
+Narrator	Tout le long de la ligne, des pancartes indiquent aux locomotives quand elles doivent siffler. Mais Mike, lui, décide de siffler quand il le souhaite, quand il croise un animal par exemple! Ou un fermier!
+
+(BOUCLE 7 - 10:04:38:05)
+		07
+
+Narrator	Au terminus, le conducteur de Mike inspecte la locomotive.
+
+Driver de Mike	Ah! J'ai du mal à comprendre pourquoi ça ne va pas aujourd'hui!
+
+Mike	Y'a rien qui cloche chez moi! (h) Je vais bien! En revanche, ne t'avise pas de cuire un oeuf sur mon sifflet!
+
+Driver de Mike	Ahahah! Oui, d'accord!
+
+Narrator	Mais alors qu'ils refont le trajet dans l'autre sens, le conducteur de Mike entend un drôle de bruit.
+
+Driver de Mike	Qu’est-ce que c'est?
+
+Mike	Tu parles de quoi?
+
+Driver de Mike	De ce bruit étrange! (h)
+
+Mike	Ne commence pas!
+
+Driver de Mike	Non! Ecoute! Il y a quelque chose qui cliquète dans ta chaudière!
+
+Mike	Bah, ce n'est pas grave! Tu n'auras qu'à la réparer quand on rentrera!
+
+Narrator	Et c'est la catastrophe!
+
+Mike	(HHHH____)
+
+(BOUCLE 8 - 10:05:23:13)
+		08
+
+Mike	Va-t-en de là!
+
+Driver de Mike	Patience Mike! La vache s'en ira dans peu de temps!
+
+Mike	Oh (hh)! Cette vache se balade toujours sur les voies et ça me met très en colère! (h) Ouste! Va-t-en, va-t-en! Pousse-toi! Ah! Ah d'accord! Cette fois tu dépasses les bornes! Ote-toi de mon chemin, gros animal stupide! (h)
+
+Narrator	Mike est tellement furieux qu'il siffle de toutes forces, et le capuchon de son sifflet se retrouve projeté dans les airs, comme une fusée!
+
+Mike	Oh!
+
+(BOUCLE 9 - 10:06:00:12)
+		09
+
+Driver de Mike	Hoh ha! Donc c'était ça qui faisait ce fameux bruit!
+
+Mike	Oh (h) oh (h) Ohoh (h)!
+
+Narrator	Le conducteur et le mécanicien se mettent à la recherche du capuchon. Malheureusement, celui-ci reste introuvable. Et les passagers commencent à s’impatienter!
+
+Amb passagers	Dépêchez-vous!/ Vous pouvez remonter dans le train s'il vous plait/ mais qu'est-ce qu'ils font?
+
+passager1	Je vais rater ma correspondance à ce rythme-là!
+
+Amb passagers	Ils cherchent quoi dans ce champ?
+
+passager1	Ma famille m'attend! Expliquez-moi en quoi il est si important ce sifflet?
+
+Mike	Oh (h)! Je dois  siffler à plusieurs endroits sur la ligne pour signaler mon arrivée! C'est la consigne! (hh) Alors ça y est? Vous l'avez enfin retrouvé?
+
+(BOUCLE 10 - 10:06:43:06)
+		10
+
+passager1	Oh! Ca ne va pas du tout! On sera encore là demain matin!
+
+passager2	On a qu'à siffler quand il le faut! (h/ siffle)
+
+passager3	Très bonne idée! Je sais siffler! (h/ siffle)
+
+Amb passagers	(plusieurs sifflent______________) (cris de joie_____________________________________)
+
+passager1	(h/ pff h/ pff) Oh!
+
+Amb passagers	Hourrah/ allez on repart/ ouais etc...____________
+
+(BOUCLE 11 - 10:07:14:23)
+		11
+
+Narrator	Mike reprend donc sa route, et à chaque fois qu'il arrive dans une zone où il est censé siffler pour avertir de son arrivée.... son conducteur, son mécanicien et ses passagers sifflent à sa place!
+
+Amb passagers	(sifflets et cris_____________________________________________________________________________)
+
+Narrator	Ils font plus de bruit qu'il n'en aurait jamais fait tout seul!
+
+Driver de Mike	(hhh)
+
+Narrator	Pour autant, Mike se sent ridicule! Sans son sifflet, il lui manque quelque chose! C'est avec du retard qu'il arrive à Calembour, où Montaigu l'attend.
+
+(BOUCLE 12 - 10:07:48:18)
+		12
+
+Duck	Des embouteillages sur la ligne Mike?
+
+Mike	Non! (h) Il y avait une vache sur la voie! Et euh... j'ai eu un problème avec mon sifflet!
+
+Duck	Ah oui? Ca, moi, je connais bien! Heureusement, mon conducteur l'a enfin nettoyé! Hahaha!
+
+Thomas	Qu’est-ce qu'il a Mike?
+
+Rex	Oh ne fais pas attention à lui Thomas! Il lui manque une pièce cruciale!
+
+Thomas	Quoi? Mais laquelle? J'veux tout savoir!
+
+(BOUCLE 13 - 10:08:21:13)
+		13
+
+Bert	Je t'explique: il n'a plus de sifflet! (rire)
+
+Rex	C'est choquant! On ne supporte pas les locomotives sans sifflet! Tu confirmes Mike?
+
+Mike	Oh!
+
+Thomas	Ah bon? Quelqu'un a cuit un oeuf dessus?
+
+Rex	Non! Il s'est juste fâché avec une vache! Hahaha!
+
+Bert	C'est exact! Son capuchon a sauté quand elle lui a dit: Meuhhhhh! (rire_______)
+
+Thomas	(rire) Il a répondu: (pbbbbbbbb) (rire)
+
+T+R+B	(rires jusqu'à la fin)
+
+Narrator	Mike regrette de s'être fâché aussi facilement! S'il n'était pas monté en pression, il n'aurait jamais cassé son sifflet et personne ne se moquerait de lui!
+
+Mike	(h) (h) Oh vous êtes trop bêtes, j'vous jure! (rire_______) Ca va j'ai retenu la leçon! (rire) Ils m'auront tout fait ceux-là!
+
+1
+
+

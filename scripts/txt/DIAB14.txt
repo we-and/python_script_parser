@@ -1,0 +1,97 @@
+
+
+SERIE DIABETES:
+JOYEUX NOEL
+(CAMILLE & SIMON)
+
+
+
+1 (01:00:00:00)
+
+CAMILLE	Hooray! It's Holiday Season!
+
+SIMON	Hooray! It's Holiday Season!
+
+CAMILLE	(hah) It's that time of year, no more school, Christmas carols, and presents!
+
+SIMON	Yeah, but it also means super long and excessive meals.
+
+CAMILLE	(pfff_)
+
+SIMON	We're gonna tell you how we get through all of it.
+
+OUT (01:00:09:18)
+
+INSERT	GENERATION T-1: Holiday Season
+
+
+2 (01:00:17:17)
+
+CAMILLE	(h/_ )Hooray! Finally, it's the end of the year!
+
+SIMON	The holidays are synonymous with endless family meals, and excessive eating.
+
+AUNTIE	Oh_, hello Simon!
+
+SIMON	Oh! Hi auntie Winona. It's obviously really nice to see everyone, but it's a gastronomical marathon, and when you have diabetes, it's no fun.
+
+
+3 (01:00:35:00)
+
+CAMILLE	There are a few tricks you can follow if you want to survive the holidays and avoid glycaemia spikes. What's important is that you enjoy yourself with your family. There's no need to miss out or let all that delicious food pass you by just because your pancreas doesn't work anymore.
+
+AUNTIE	Hey! You can't eat that, you have diabetes!
+
+SIMON	I'll eat what I want! She's as mad as a hatter!
+
+CAMILLE	Not at all! The idea is for you to enjoy your family meals while adapting your dosage as best you can.
+
+
+4 (01:00:57:11)
+
+SIMON	We'll tell you how to do it with a pump, because, it so happens, we both have a pump. Depending on the pump you use, the small icons or the wording on the screen can change, but essentially, the idea remains the same.
+
+CAMILLE	You should give yourself the usual dose for a classic bolus. That whole dose will be delivered right away. However, for an extended bolus, you should select the dose you want, but also choose the delivery runtime you want, for example one hour.
+
+
+5 (01:01:16:24)
+
+SIMON	Let's be more concrete with an example: I've decided I need ten units because I'll be having a big dinner, and this dinner should last approximately three and a half hours. And, on top of it, my stress level is super high because I'm seated next to auntie Jeannie. So I choose to have five units delivered right away, in order to compensate a bit before the meal, and after that, I choose to have the remaining five units delivered over the following three and a half hours.
+
+
+6 (01:01:37:17)
+
+CAMILLE	Another trick we want to share, and that I often use, is one dose per course. Therefore, it'll depend on what and how much I eat, because there are starters, the main course, then the second main course, one more, (h/ )sometimes a third main course, even a fourth main course, and then dessert.
+
+SIMON	The main reason for taking insulin is so that your glycaemia level doesn't spike. So taking a bolus afterwards isn't necessarily the right thing to do. We all know how hard it is to get our levels down once we're having a hyper. You can manage your levels with injections as well even though it's more demanding because you have to inject yourself multiple times during the meal. But... do what you gotta do! It's best to do at least two injections: one before you start your meal, then, maybe another one towards the end of your meal, like before dessert. Maybe as if it were a snack.
+
+
+7 (01:02:14:10)
+
+CAMILLE	You could always try counting carbs, but holiday dinners are always difficult, so, no pressure! We do what we can. The secret is having good judgment and being prepared: so... if you eat more, then you need more insulin. Plus, let me reassure you, I'm really terrible when it comes to counting carbs and I'm not getting any better.
+
+SIMON	Yeah, what she said.
+
+
+8 (01:02:30:11)
+
+SIMON	You should be careful 'cause your glycaemia could peak later, even when you're sleeping, especially if the dinner ran late into the night. On top of it, since these meals are generally very rich, let's not kid ourselves, it makes all those carbs even harder to digest, while our blood glucose level slowly keeps rising. And then...
+
+CAMILLE	Bam!
+
+SIMON	Bam! Without you knowing, I just explained what carb consumption is.
+
+CAMILLE	Oh, well, never mind, because, honestly, I don't want to know. Anyway, what's important to remember here, is to enjoy yourself. You know, every day is not a holiday.
+
+
+9 (01:02:55:22)
+
+SIMON	Happy holidays!
+
+CAMILLE	Enjoy the food!
+
+SIMON	Until the next time we meet. See ya!
+
+CAMILLE	See ya! (laughs__) (_hahaha_)
+
+OUT (01:03:06:15)

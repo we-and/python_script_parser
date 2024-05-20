@@ -1,0 +1,319 @@
+THOMAS EP 477
+Titre VO : pouty James
+  Titre VF : James fait la tête
+
+Les corrections de la cliente sont soulignées
+
+(BOUCLE 1 - 10:00:31:15)
+		01
+
+Narrator	James fait la tête.
+
+James	(h) Tadaaa! Voilà James! Je suis prêt pour mes wagons!
+
+Emily	Bonjour James!
+
+Narrator	James a un égo surdimensionné! Il adore être au centre de l'attention!
+
+James	(h) Oh! Que doit faire une locomotive pour avoir ses wagons, on peut me le dire?
+
+Stanley	Ils sont là James!
+
+James	Ah!
+
+Stanley	Ils reviennent juste du lavage!
+
+James	Oh oui! Parfait le lustrage! Ils sont exactement comme j'les aime!
+
+(BOUCLE 2 - 10:01:21:22)
+		02
+
+James	C'est moi le plus élégant de toute l'ile de Chicalor!
+
+voix off	Un train entre en gare, veuille vous écarter du quai, merci!
+
+Woman	Oh!
+
+Philip	Attention! Tu n'es pas en face de ton quai James!
+
+James	Hah je sais! Il arrive souvent que j'me laisse emporter et ça me joue des tours! (rire)
+
+Fat control	Ahem!
+
+James	Ahahah OH!
+
+Fat control	(soupir)
+
+James	Oh!
+
+(BOUCLE 3 - 10:01:58:14)
+		03
+
+Narrator	James est ce qu'on appelle "multi-fonctions", ce qui veut dire qu'il peut aussi bien transporter des passagers que des marchandises! Certaines locomotives aiment transporter des marchandises, pas James!
+
+Amb kids	(rires et cris de joie)
+
+Narrator	Lui, ce qu'il préfère, c'est accompagner les gens, et si ça ne tenait qu'à lui, il ne ferait que ça!
+
+James	Tadaaaa!
+
+Amb gens	(reac choc!)
+
+vieille dame	Oh! Oh!
+
+James	Qu’est-ce que vous dites de ça!
+
+man	Hé!
+
+James	Pas mal non?
+
+Station master	Oh, tu devrais avoir honte!
+
+James	Pourquoi? Je n'ai pas dépassé la fin du quai cette fois!
+
+Station master	Non James! Tu es très mal placé! Regarde où tu t'es arrêté!
+
+James	Oh!
+
+man2	Et pour sortir on fait comment?
+
+man3	Oh! Bonne question!
+
+woman	Oui! Il est lamentable ce chemin de fer!
+
+Station master	Arrête un peu de faire l'intéressant et avance s'il te plait James!
+
+(BOUCLE 4 - 10:02:49:22)
+		04
+
+Narrator	Mais James est de trop bonne humeur pour tenir compte des remarques d'un Chef de gare! Et il continue à faire son intéressant toute la journée!
+
+James	Et voilà James! Ah!
+
+man4	(il baille ?)
+
+James	Tadaaaa! Et voilà...
+
+Fat control	James! J'ai reçu des plaintes à ton sujet toute la journée!
+
+James	(h)
+
+Fat control	Et les passagers ont tous dit qu'on était lamentable et que c'était un scandale!
+
+voix off	N'oubliez pas de composter vos billets! Ils seront contrôlés pendant votre voyage.
+
+James	(reac bf) Les passagers ne comprennent jamais rien Monsieur!
+
+Fat control	(h) J't'en prie James! Nous sommes censés prendre soin de nos passagers! Et je crois qu'il est grand temps que tu changes d'attitude! Donc en attendant, j'ai décidé de te retirer tes wagons!
+
+James	Ah (hh hhh hhhh)!
+
+(BOUCLE 5 - 10:03:43:08)
+		05 E+T+H=Emily+Thomas+Henry
+
+Thomas	Qu’est-ce qui t'arrive ce soir James?
+
+James	Oh, rien! (soupir) Le gros contrôleur pense que je devrais changer d'attitude!
+
+Emily	Je crois qu'il a raison James!
+
+James	Non, il a tort! Qu’est-ce qui cloche avec mon attitude?
+
+Emily	Regarde toi, tu fais la tête!
+
+Thomas	Aucun de nous ne sait bouder aussi bien que toi, James (rire bf)
+
+Henry	Je l'imite! Il fait ça! (moumoumoumoumou!)
+
+Gordon	Oh!
+
+Henry	(rire)
+
+Gordon	Attends, à moi! (mm mmhh)
+
+E+T+H	(rire________)
+
+Gordon	(rire____)
+
+Percy	Garde le moral! Ce qui te préoccupe aujourd'hui te semblera moins grave demain matin!
+
+(BOUCLE 6 - 10:04:18:20)
+		06
+
+Narrator	Mais le lendemain matin, rien n'a vraiment changé!
+
+Fat control	James?
+
+James	Oui? Quoi? Oh! Monsieur?
+
+Fat control	Rroh! Tu as oublié ce que je t'ai dit au sujet de ton attitude? Oh tu ne crois pas que je vais te confier des passagers alors que tu boudes?
+
+James	(hmpf)
+
+Fat control	Tu ne veux pas travailler  James?
+
+James	Peu importe ce que je souhaite!
+
+Fat control	Bon! Très bien! Puisque c'est comme ça, reste dans ton box!
+
+James	Hein?
+
+Fat control	Ah les locomotives d'aujourd'hui!
+
+James	Oh (hh)!
+
+Emily	Pourquoi tu ne vas pas t'excuser? Et arrête de bouder! Si tu restes dans ton box, tu vas t'ennuyer!
+
+Henry	Hah! (mouhouhou)
+
+Emily	(rire_____)
+
+Henry	(rire_____)
+
+Gordon	(mouhou)
+
+Henry	(rire_______)
+
+Gordon	(rire_______)
+
+Thomas	Ouin! (rire____)
+
+Gordon	(rire______)
+
+Henry	(rire______)
+
+(BOUCLE 7 - 10:05:05:15)
+		07
+
+Narrator	Il est vrai que ça n'a rien de drôle de rester sans rien faire dans son box!
+
+James	Oh quel idiot ce gros contrôleur! C'est quoi le problème avec mon attitude? J'ai simplement voulu faire de mon mieux et être vraiment utile!
+
+Narrator	Un peu plus tard dans la matinée, le gros contrôleur revient et James tente alors de se faire pardonner.
+
+James	Désolé d'avoir été de si mauvaise humeur tout à l'heure! Je tiens à retourner travailler!
+
+Fat control	Hmmm!
+
+James	J'ai envie de me rendre utile!
+
+Fat control	Tu m'en vois ravi! Mais, je compte sur toi pour être sympathique avec les autres! Et plus de bouderie!
+
+James	Oui Monsieur! Bien sûr que non, Monsieur! Je promets d'être de très bonne humeur!
+
+(BOUCLE 8 - 10:05:53:08)
+		08
+
+James	Quoi? Non! (hh) Pas les wagons d'Whiff! Mais...mais... Pourquoi on ne me donne pas les beaux wagons que j'ai d'habitude!
+
+Stanley	Parce que c'est Edouard qui les prend aujourd'hui! Ordre du gros contrôleur!
+
+James	Ah (oh ah!)
+
+Narrator	Malheureusement, James est de trop mauvaise humeur pour rouler vite, et c'est donc avec beaucoup de retard qu'il arrive à la décharge avec les wagons-poubelle! Et ça lui prend encore plus de temps pour revenir aux hangars!
+
+James	Oh! (h/) Mon attitude! Oh! (woh) Oh! (brrr hh)
+
+Narrator	Et on ne lui confie toujours pas de wagons de passagers.
+
+Boy	Oh! Salut James!
+
+Girl	Hé! Salut James! Ben... (gros soupir)
+
+Boy	(soupir)
+
+Girl	(hh)
+
+(BOUCLE 9 - 10:06:45:21)
+		09
+
+Fat control	James! J'ai reçu presque autant de plaintes contre toi aujourd'hui que j'en avais reçues hier! Tu te promènes partout en boudant, tu parles mal à tes collègues, et tu mets un temps fou pour aller d'un point A à un point B! Tu vas devoir changer d'attitude sinon je vais me fâcher! (rrroh h/) Misère de misère! (h h)
+
+James	(hh) Que je change d'attitude? Et comment on doit s'y prendre pour changer d'attitude?
+
+Cranky!	Oh toi tu as l'air de mauvaise humeur! (rire) Tu as l'air encore plus grognon que moi!
+
+Thomas	Aucune locomotive ne sait mieux faire la tête que  notre James!
+
+James	Non, tu m'taquines!(h)
+
+Thomas	(bou hou hh)
+
+Emily	(elle éclate de rire) (pouah!)
+
+James	(rire bf)
+
+(BOUCLE 10 - 10:07:35:11)
+		10
+
+Porter	(Houah houah houah)
+
+James	(rire bf)
+
+Thomas	(hou hh hou ah)
+
+James	(rire franc_________________)
+
+Thomas	(rire) Continue James! C'est beaucoup mieux!
+
+James	(h/) Qu’est-ce que tu veux dire? (h)
+
+Thomas	(h)
+
+Emily	Tout simplement, que tu viens de changer d'attitude!
+
+Thomas	Tu viens James? Et essaye de sourire s'il te plait! On a plein de travail, nous!
+
+Emily	Le dernier arrivé aux hangars est un fourgon-frein en panne! Hah!
+
+James	(rire_____)
+
+(BOUCLE 11 - 10:08:05:16)
+		11
+
+Narrator	Et c'est ainsi que James commence à changer d'attitude et à rouler plus vite! On lui confie encore des wagons de marchandises, et des missions qu'il déteste! Mais à chaque fois qu'il lui prend l'envie de bouder, ses amis l'aident à retrouver le sourire!
+
+Emily	Wah!
+
+James	(rire)
+
+Emily	(rire___)
+
+James	(rire) (rire___)
+
+Narrator	Très vite, James se rend compte qu'il peut aussi s'amuser en travaillant!
+
+(BOUCLE 12 - 10:08:39:11)
+		12
+
+James	Qui a commandé du lait frais? (rire_____________)
+
+H+E+P	(rire_______Percy continue seul)
+
+Fat control	(rire_______)
+
+James	Meuh! (rire________)
+
+Fat control	(rire)
+
+H+E+P	(rires reprennent)
+
+Fat control	Très drôle!
+
+Narrator	Ca lui est même égal de travailler avec des wagons de marchandises! Voilà comment James a appris à changer d'attitude!
+
+James	Ahahah! A tout à l'heure, petit paresseux!
+
+Narrator	Mais le naturel revient vite!
+
+Thomas	(mmm ahaha____)
+
+James	(il rit jusqu'à la fin)
+
+Thomas	(il rit jusqu'à la fin)
+
+
+
+1
+
+

@@ -1,0 +1,655 @@
+
+
+[ TITRE A RENSEIGNER ]
+
+
+
+
+
+
+1 (00:00:00:01)
+
+REM	Cesse toute tentative de résistance. Et tu ne souffriras pas.
+
+SUBARU	Pourquoi est-ce que tu m'attaques? Enfin, je suppose que tu ne vas pas me faire le plaisir de répondre.
+
+REM	"Un soupçon a la valeur d'un crime." Toute bonne domestique le sait.
+
+SUBARU	Hah! Est-ce que Ram est au courant?
+
+REM	J'en aurai terminé avant qu'elle l'apprenne.
+
+SUBARU	Dis-moi, Rem. Etais-je donc si peu digne de confiance à tes yeux?
+
+REM	Oui.
+
+SUBARU	(h) Qu'est-ce que je peux être pathétique. Dire que je pensais plutôt bien m'en sortir, qu'est-ce que je me trompais.
+
+REM	Ram est-
+
+SUBARU	Je veux pas le savoir! Prends-ça! (h) (h)
+
+REM	(h)
+
+SUBARU	(h)
+
+OUT (00:00:52:19)
+
+
+2 (00:02:20:23)
+
+SUBARU	(h) (ah) Aah, ma jambe! (ah) [sanglots] (ah) (h) Argh! (ah)
+
+REM	Ô mana de l'eau, apaise la douleur qui l'afflige.
+
+SUBARU	(h) (h) (ah) (h)
+
+REM	Il ne faut pas que tu meures trop vite. Tu vas devoir répondre à de nombreuses questions.
+
+SUBARU	(h)
+
+
+3 (00:02:46:07)
+
+REM	Si tu m'avais poignardée tout à l'heure, tu assurais pu t'enfuir plus loin et survivre un peu plus longtemps. Réponds sans mentir. Fais-tu partie du camp des candidats hostiles à dame Emilia?
+
+SUBARU	(h) (h) Quoi qu'il arrive, mon coeur appartiendra toujours à Emi. (h) (h) (ah)
+
+REM	Donne-moi le nom de ton employeur et la nature de ta mission.
+
+SUBARU	(h) (h) (h) Le sourire d'Emi... Vaut plus que n'importe quelle fortune! (ah)
+
+REM	Est-ce que tu serais...
+
+SUBARU	(h) (h)
+
+REM	Affilié au culte de la Sorcière, d'une manière ou d'une autre?
+
+SUBARU	(h) (h) (h) Le culte de la Sorcière? (h) (h) Je sais même pas ce que c'est, on est athée dans ma famille depuis des générations.
+
+REM	Arrête tout de suite de jouer l'ignorant!
+
+SUBARU	(h)
+
+REM	Tu penses pouvoir berner tout le monde alors que tu pues la Sorcière? Je sens son écoeurante influence qui t'accompagne partout et tu nies encore?
+
+
+4 (00:03:43:06)
+
+SUBARU	(h)
+
+REM	A chaque fois que je te vois discuter avec Ram je crois devenir folle d'angoisse! Et folle de colère quand je pense à toutes les horreurs que ma soeur a subi à cause de ton culte! Je pense à tout ce que nous avons dû endurer à cause du culte de la Sorcière et toi tu pénètres dans notre foyer comme si de rien était! Comme si tu y avais ta place!
+
+SUBARU	(h) (h)
+
+REM	Je ne peux plus le supporter. Même si Ram y arrive et parvient à faire semblant de tenir à toi pour respecter l'étiquette et les règles!
+
+SUBARU	(ah) (ah) [sanglot refoulé]
+
+
+5 (00:04:13:00)
+
+SUBARU	(h) (h) (h) Je ne me coupe plus, maintenant... quand j'épluche les légumes.
+
+REM	(huh?)
+
+SUBARU	J'ai appris... qu'il fallait laver le linge différemment selon le tissu. Même si je nettoie encore mal. Comme je vous l'avais promis j'ai continué à étudier, à lire, à écrire. J'ai même... J'ai réussi à lire le recueil de contes. Et tout ça grâce à vous deux.
+
+REM	Mais de quoi est-ce que tu parles?
+
+SUBARU	De ce que vous m'avez offert. De tous ces cadeaux que vous m'avez fait toutes les deux.
+
+REM	Tout ce dont tu parle... Ça ne me dit rien.
+
+
+6 (00:04:49:04)
+
+SUBARU	[sanglots refoulés] (h) Pourquoi? Pourquoi tu ne t'en souviens pas? Pourquoi est-ce que vous faites tous pareils et m'abandonnez comme ça? Qu'est-ce que j'ai fait de mal? Qu'est-ce que je suis sensé faire? Réponds-moi! Qu'est-ce que vous détestez tant chez moi? Pourquoi vous me haïssez à ce point? Qu'est-ce que j'ai fait pour mériter ça? [sanglots] Toutes ces promesses... [sanglots] Moi tout ce que je voulais... Je... [sanglots]
+
+REM	De mon point de vue...
+
+SUBARU	Je n'ai jamais cessé de vous ado... (ah) (h) (h)
+
+REM	Ram est vraiment trop gentille.
+
+
+7 (00:05:31:21)
+
+SUBARU	(ah) (h) (h) (h)
+
+REM	Cher invité, êtes-vous réveillé?
+
+SUBARU	(hh?)
+
+RAM	Cher invité, êtes-vous réveillé?
+
+SUBARU	(hh) (ah) (ah) (ah) (ah)
+
+
+8 (00:05:52:14)
+
+EMILIA	Subaru? Ram et Rem se sont fait un sang d'encre pas possible. Elles ont peur d'avoir manqué de politesse et de t'avoir offensé de quelque manière.
+
+SUBARU	Il ne s'est rien passé. Il ne s'est rien passé du tout entre elles et moi.
+
+EMILIA	Subaru? Est-ce que tout va bien? Tu sais... Si tu as un soucis, tu peux m'en parler, tu sais.
+
+SUBARU	J'en peux plus. J'ai atteint ma limite, je suis à bout de force. Si seulement je pouvais me confier à Emilia. (ah) (h) Mais bien sûr.
+
+EMILIA	Oui, quoi?
+
+SUBARU	Durant toutes mes tentatives jusqu'à maintenant j'essayais de changer le futur seul.
+
+EMILIA	Subaru?
+
+SUBARU	Mais!
+
+EMILIA	Dis... Est-ce que tu es sûr que ça va?
+
+SUBARU	Emilia, écoute. Je dois t'avouer quelque chose.
+
+EMILIA	Je t'écoute.
+
+SUBARU	Emilia... Depuis notre première rencontre je n'ai cesser de répéter un cycle de mo...
+
+OUT (00:06:41:22)
+
+
+9 (00:07:00:18)
+
+SUBARU	(h) (h) J'hallucine? Attendez une minute... C'est vraiment horriblement terrifiant ce qui est en train de se passer! (h)
+
+EMILIA	Subaru?!
+
+SUBARU	(ah) (h)
+
+EMILIA	Subaru?!
+
+SUBARU	(h)
+
+EMILIA	Qu'est-ce qui t'arrive, tout à coup?
+
+SUBARU	(h) Mon corps bouge sans problème. Je peux même parler. Et mon coeur ne me fait plus mal. Et pourtant... Je suis empli d'une terreur indicible.
+
+EMILIA	Qu'est-ce qui t'arrive? Qu'est-ce que tu essayais de me dire tout à l'heure? Tu n'es pas dans ton état normal, si ça ne va pas...
+
+SUBARU	J'ai une faveur à te demander.
+
+EMILIA	Bien sûr.
+
+SUBARU	Laisse-moi seul. A partir de maintenant...
+
+EMILIA	(h)
+
+OUT (00:07:49:23)
+
+
+10 (00:07:54:18)
+
+SUBARU	Je n'ai pas le droit de mentionner mon retour dans le passé à chaque fois que je meurs. Je suis mort trois fois dans ce manoir. Je n'avais pas atteint la quatrième mort à la capitale. Il est possible que ma prochaine mort... Soit la dernière.
+
+BEATRICE	Je vois que tu t'es transformé en poltron depuis notre dernière rencontre.
+
+SUBARU	Qu'est-ce que tu fais ici?
+
+BEATRICE	Mon frère et la petite m'ont demandé de sortir de ma bibliothèque pour aller te voir.
+
+SUBARU	Pack et Emilia t'ont demandé ça?
+
+BEATRICE	Comme que tu allais bien à ton premier réveil et vu ton comportement depuis, ils ont l'air de croire que je t'ai traumatisé, ou quelque chose dans le genre. C'est insultant, tu peux me croire!
+
+SUBARU	(h) D'accord, je vois. Je vais bien, maintenant. Si tu es venue pour t'excuser, c'est bon. Ce n'est pas la peine.
+
+BEATRICE	Et pourquoi je serais venue m'excuser? Je n'ai rien fait de mal. Je dois simplement m'occuper de ça avant de pouvoir rentrer. (hm) Je savais que l'odeur s'était renforcée, mais ton air de déterré a eu un effet plus marqué que prévu.
+
+
+11 (00:08:52:13)
+
+SUBARU	(huh?)
+
+BEATRICE	Je parle de l'odeur de la Sorcière. Ça empeste autour de toi, c'est terrible.
+
+SUBARU	Quand tu dis la Sorcière, tu parles de celles de l'Envie?
+
+BEATRICE	Pourquoi tout de suite cette Sorcière-là ? Il y en a d'autres à travers le monde, tu sais.
+
+SUBARU	Et pourquoi est-ce que tu sentirais cette odeur sur moi?
+
+BEATRICE	Qui sait? Tu as reçu ses attentions en tout cas, ce qui fait de toi quelqu'un de difficile à gérer.
+
+SUBARU	Recevoir une sorte de cadeau de la part d'un inconnu c'est louche et un peu désagréable.
+
+BEATRICE	Ses cadeaux sont une plaie pour tout le monde. En tous cas moi j'y vais, tu diras bien à mon frère que tout va bien entre nous.
+
+SUBARU	Attends un peu. Tu ne m'as jamais souhaité du mal?
+
+BEATRICE	Alors là, pas du tout.
+
+SUBARU	Si tu mens je le dis à Pack!
+
+BEATRICE	(grr) Je l'ai peut-être souhaité et j'ai même réfléchi un petit peu à ce que je pourrais faire.
+
+
+12 (00:09:36:09)
+
+SUBARU	Si tu veux que je dise à Pack que tout va bien il faut te faire pardonner. Exauce une de mes requêtes et on est quittes.
+
+BEATRICE	Je t'écoute.
+
+SUBARU	Je veux survivre à la quatrième nuit. Voir l'aube du cinquième jour. Je veux que tu me protèges jusqu'à l'aube de ce cinquième jour.
+
+BEATRICE	Pour commencer tu n'aurais pas dû nous impliquer dans tes problèmes, tu ne seras sans doute pas attaqué sans raison. Ce manoir est un lieu irremplaçable pour moi.
+
+SUBARU	Je ne ferai rien, je n'embêterai personne. Tout ce que je veux c'est survivre.
+
+BEATRICE	Que c'est courageux de demander à un autre de régler nos affaires à notre place.
+
+SUBARU	Pour le coup je n'ai rien à répondre à ça, c'est toi qui as raison.
+
+BEATRICE	(h) Donne-moi ta main.
+
+SUBARU	Euh...
+
+BEATRICE	(hm) (mpf)
+
+
+13 (00:10:23:13)
+
+BEATRICE	Que la requête qui fut prononcée soit exaucée. Que par le nom de Beatrice le contrat temporaire soit établi ici et maintenant entre nous. Temporaire ou pas, un contrat reste un contrat. Je ferai tout pour que ta requête insensée soit exaucée.
+
+SUBARU	[retient un sanglot] (h) Vous êtes sérieux, là, mes larmes? Vous tenez à ce qu'une fillette me fasse pleurer?
+
+BEATRICE	Je ne suis pas une fillette, arrête avec ça. Et tiens ta part du marché, tu caftes rien à mon frère, d'accord? (puh!)
+
+SUBARU	C'est si important que ça pour toi? Ton acharnement à être une bonne petite soeur force le respect, en tous cas.
+
+BEATRICE	(puh)
+
+OUT (00:11:04:06)
+
+
+14 (00:12:45:03)
+
+SUBARU	(h) (h) (h) (ah) (ah) (hah) (h) (h) (ah) (h) (h) Non, pas ça!
+
+OUT (00:13:01:23)
+
+
+15 (00:13:14:15)
+
+BEATRICE	Tu comptes dormir jusqu'à quelle heure, espèce de flemmard?
+
+SUBARU	(h) (ah)
+
+BEATRICE	Tu me fais tout un char sur ta quatrième nuit, mais quand je viens te chercher comme promis je te trouve au lit!
+
+SUBARU	(ah) (ah) Mais... Comment j'ai fait pour dormir jusqu'au quatrième jour, moi? J'ai pas le sommeil si lourd!
+
+BEATRICE	Arrête de te geindre, tu veux bien? Trouve un coin où t'asseoir et tais-toi.
+
+SUBARU	(h) La bibliothèque? Tu m'as amené ici pendant mon sommeil?
+
+BEATRICE	Ta chambre empeste trop la Sorcière pour que j'y reste bien longtemps. Je me sens plus à l'aise dans la bibliothèque de toute manière. Tu seras en sécurité ici, tant que tu garderas le silence.
+
+SUBARU	Dis, Beatrice... Il y a eu un moment étrange dans mon rêve, tu m'aurais pas tenu la main pendant que je dormais?
+
+BEATRICE	Tu essayes de faire de l'humour, là? Non. Je ne te tiendrai pas la main même si mon frère me le demandait.
+
+SUBARU	C'est qu'elle déteste vraiment l'idée. Sinon, tu as be me dire de rester ici en silence, euh...
+
+
+16 (00:14:05:08)
+
+SUBARU	Est-ce que tu penses pas qu'il serait possible... (ah)
+
+BEATRICE	Je commence à en avoir assez de tes questions! Tu veux pas juste lire un livre?
+
+OUT (00:14:14:11)
+
+
+17 (00:14:28:09)
+
+BEATRICE	(h) On m'appelle.
+
+SUBARU	Hein?
+
+BEATRICE	Il a besoin de moi?
+
+SUBARU	(oh)
+
+BEATRICE	(ah) C'est vrai que tu es là. Ça m'était sorti de la tête.
+
+SUBARU	Quoi? Mais attends! Si tu sors maintenant...
+
+BEATRICE	Tu pourras rester à l'intérieur sans problème. Tu y seras toujours en sécurité.
+
+OUT (00:14:49:18)
+
+
+18 (00:14:57:10)
+
+SUBARU	(h) Rhah mais allez, bon sang! Qu'est-ce que tu fous, reprends-toi!
+
+OUT (00:15:03:03)
+
+
+19 (00:15:07:02)
+
+SUBARU	Est-ce que je rêve? Ou alors... J'ai passé la quatrième nuit? Je pensais jamais y arriver... (ah) [rire] et en fait je n'avais rien à faire, c'était aussi simple que ça? (ah) Comment une aube peut être aussi belle?
+
+
+20 (00:15:27:14)
+
+SUBARU	[petit rire] [rire]
+
+EMILIA	Subaru?
+
+SUBARU	(oh) Emilia?
+
+EMILIA	Mais où étais-tu donc passé, Subaru?
+
+SUBARU	Ah, et bien, tu vois, euh...
+
+EMILIA	Laisse-tomber, (hm) J'ai pas le temps d'expliquer, viens avec moi.
+
+SUBARU	Hein? Mais où est-ce que tu m'amènes comme ça, dis Emi? Et pourquoi tu as cet air grave, aussi? Tout s'est bien passé cette fois, non? Est-ce que je me trompe? Toi et moi on s'en est tous les deux sortis indemnes, non? Ah je sais, et si on allait se promener au village? On n'a qu'à aller s'amuser dehors, discuter, passer du bon temps. Ouais ça me tente bien moi, on fait ça?
+
+EMILIA	Subaru... (h)
+
+SUBARU	Euh, Emilia?
+
+
+21 (00:16:08:23)
+
+RAM	[échos] NON!
+
+SUBARU	(h)
+
+RAM	[sanglots] [direct] [sanglots]
+
+SUBARU	(hm) (h) Mais pourquoi? Comment est-il possible que Rem se soit faite tuer?
+
+RAM	(h)
+
+SUBARU	Aïe!
+
+RAM	Ne la touche pas! Je t'interdis... De toucher à ma petite soeur!
+
+SUBARU	(h)
+
+
+22 (00:16:52:09)
+
+SUBARU	(h)
+
+ROSWAAL	On sait ce qui lui est arrivé, c'est l'épuisement qui l'a tué. Elle a trépassé dans son sommeil.
+
+SUBARU	(oh)
+
+ROSWAAL	Plutôt qu'un sort, c'est le travail d'une malédiction.
+
+SUBARU	(hh) Ça veut dire que la malédiction qui m'a touché les deux premières fois ne venaient pas de Rem? Il y a une autre affaire entremêlée à celle-ci!
+
+ROSWAAL	Mon cher invité... Si vous possédez des informations susceptibles de nous éclairer...
+
+RAM	[sanglots]
+
+ROSWAAL	Parlez sans détours, ce qui est arrivé à mon adorable domestique... A le don de me rendre légèrement désagréable.
+
+
+23 (00:17:27:23)
+
+RAM	(pleurs distants)
+
+EMILIA	Subaru, si tu as le moindre indice, la moindre idée... Parle-nous.
+
+SUBARU	(h)
+
+RAM	(hh)
+
+
+24 (00:17:33:04)
+
+SUBARU	(oh) (grr) J'ai très envie de tout vous expliquer, mais si je fais ça...
+
+OUT (00:17:39:17)
+
+
+25 (00:17:47:10)
+
+SUBARU	Aïe! (h)
+
+RAM	Tu vas me dire tout ce que tu sais même si je dois t'arracher les mots de la bouche!
+
+SUBARU	Attends, Ram! C'est...! (h)
+
+BEATRICE	Désolé mais j'ai des engagements à respecter. Je suis tenue par contrat d'assurer la protection de cet impertinent tant qu'il est dans ce manoir.
+
+RAM	Dame Beatrice!
+
+
+26 (00:18:07:04)
+
+BEATRICE	Roswaal. Il a passé la nuit dans la bibliothèque avec moi. Il n'a pas pu cause ou participer à la mort de Rem.
+
+ROSWAAL	Ça ne suffira pas à résoudre le problème, il nous cache des choses. Et tu le sais parfaitement. Cependant tu le défends au péril de ta vie. Il a dû te taper dans l'oeil pour que tu ailles jusque là pour lui.
+
+BEATRICE	Contente toi de ton maquillage si tu veux faire rire, et laisse tomber les blagues.
+
+OUT (00:18:26:07)
+
+
+27 (00:18:29:01)
+
+RAM	[dernier sanglot] Rien de tout ça n'a la moindre importance! Ecartez-vous. (h) Laissez-moi passer. Je vengerai Rem, coûte que coûte. Si tu sais quoi que ce soit, dis-le moi. Aide-moi. Vengeons Rem. C'est le seul moyen pour qu'on soit sauvées.
+
+
+28 (00:18:47:04)
+
+SUBARU	[tremble] (grr)
+
+RAM	[sanglots] (grr)
+
+EMILIA	Je suis désolée, Ram. Mais même à ce stade,
+
+SUBARU	(huh?)
+
+EMILIA	je crois toujours en Subaru.
+
+SUBARU	(ah)
+
+EMILIA	Subaru, je t'en prie. Si tu peux sauver Ram... Ou si peut-être tu peux sauver Rem... n'hésite pas.
+
+SUBARU	(hh) (grr) Pardonne-moi.
+
+OUT (00:19:12:21)
+
+
+29 (00:19:23:06)
+
+SUBARU	(h)
+
+EMILIA	Subaru!
+
+RAM	Je jure de te tuer! Quoi qu'il m'en coûte!
+
+SUBARU NARRATION	J'ai fui. Je me suis enfui. Je me suis enfui loin d'eux.
+
+SUBARU	Aïe! (h)
+
+
+30 (00:19:40:09)
+
+SUBARU	(h)
+
+SUBARU NARRATION	Je ne pourrai plus jamais revenir dans ce manoir.
+
+SUBARU	C'est pas comme si j'avais eu le choix! (h) Qu'est-ce que je pouvais faire d'autre? Et le pire... Le pire... C'est que je m'y plaisais tellement dans ce manoir! [sanglots mêlés à la course] (h) (h)
+
+SUBARU NARRATION	Cette clairière ressemble à l'endroit où Rem m'a tué.
+
+SUBARU	Je suis mort ici... (h) Si je meurs une nouvelle fois...
+
+SUBARU NARRATION	Est-ce que mourir me sauvera de cette situation affreuse?
+
+SUBARU	(h) C'est tellement simple. Je n'ai qu'à mourir, pour que tout ce développement soit annulé.
+
+SUBARU NARRATION	Je me suis acharné et acharné à survivre, et ma récompense c'est de mourir volontairement? A quoi bon, à quoi mes efforts ont-il servi?
+
+SUBARU	(oh)
+
+SUBARU NARRATION	La falaise est droit devant.
+
+OUT (00:20:31:14)
+
+
+31 (00:20:43:08)
+
+SUBARU	Je n'ai qu'à fermer les yeux et faire un pas en avant. Tout sera fini en une fraction de seconde. (grr) Qu'est-ce qu'il va m'arriver si je meurs à nouveau? Je suis en terrain inconnu.
+
+OUT (00:20:53:13)
+
+
+32 (00:21:00:21)
+
+SUBARU	C'est juste un pas en avant. Un tout petit pas. Et pourtant... Je suis incapable de faire quelque chose d'aussi simple.
+
+OUT (00:21:10:07)
+
+
+33 (00:21:15:09)
+
+BEATRICE	J'ai enfin fini par te retrouver!
+
+SUBARU	Pourquoi?
+
+BEATRICE	Pourquoi quoi? Qu'est-ce qui te tracasse?
+
+SUBARU	Pourquoi est-ce que tu m'as cherché? Je ne suis plus...
+
+BEATRICE	Quoi, tu as déjà oublié ? Notre contrat stipule toujours que je dois te protéger.
+
+SUBARU	Ton rôle de garde du corps... s'est terminé ce matin, non? Pourquoi le contrat serait toujours actif?
+
+BEATRICE	Hé bien c'est très simple, tu dois te tromper, c'est tout. Je ne me souviens pas avoir négocié une limite de temps.
+
+SUBARU	(hh)
+
+BEATRICE	Ne nourris pas de faux espoirs irréalistes pour autant.
+
+SUBARU	(hh)
+
+BEATRICE	Ce qui a été perdu ne peut pas être retrouvé. Tu n'auras plus jamais la possibilité de t'expliquer auprès de Ram. Tu as abandonné cette chance. Peu importe ce qu'il advient, ces jumelles ne seront plus jamais réunies.
+
+
+34 (00:22:04:06)
+
+SUBARU	Mais moi... Je tenais à elles. Je voulais les aider, les protéger toutes les deux.
+
+BEATRICE	Mais qu'est-ce que tu sais des jumelles? Elles se reposaient l'une sur l'autre pour continuer à vivre. Si l'une en vient à disparaître, la restante ne redeviendra jamais comme avant. Elle en est incapable.
+
+SUBARU	Mais donc moi, en fin de compte... Comme j'ignorais tout ça, tout ce que j'ai fait c'est courir partout en gueulant comme un singe et en me couvrant de honte.
+
+BEATRICE	Quoi qu'il en soit. Tu dois partir loin d'ici et mourir là où je ne peux te voir, sinon j'en ferai des cauchemars. Alors je vais devoir t'aider à t'échapper de ce domaine.
+
+OUT (00:22:40:14)
+
+
+35 (00:22:49:03)
+
+SUBARU	Maintenant que j'y pense... On me tenait les mains pendant que je dormais. Ram... Rem... Elles n'ont pas supporté de me voir souffrir ainsi et ont cherché à atténuer ma souffrance. Elles sont capables d'une telle empathie... Je refuse de les abandonner!
+
+
+36 (00:23:15:00)
+
+RAM	Je jure de te tuer! Quoi qu'il m'en coûte!
+
+SUBARU	Je me suis concentré sur cette voix emplie de haine. Mais plus que ça, ce qui me hante...
+
+RAM	NON! [sanglots]
+
+SUBARU	C'est ce cri débordant d'une douleur déchirante. J'ai toujours été le genre de personne qui choisit sans réfléchir la voie de la facilité, après tout. Hé là, Subaru! Tu es en train de considérer un choix assez stupide... Je me suis donné toutes les peines du monde pour sauver ma vie... Mais justement, j'ai sauvée cette vie, donc elle m'appartient.
+
+SUBARU NARRATION	Pourquoi je n'aurai pas le droit de choisir la voix de la facilité, qui me fera vivre plus longtemps et avec moins de remords? C'est ma vie ! Et je l'utiliserai comme bon me semble, jusqu'au bout!
+
+
+37 (00:24:08:03)
+
+BEATRICE	Tu as pris trop de temps à te décider.
+
+RAM	J'ai fini par te retrouver. Cette fois je ne te laisserai plus t'enfuir.
+
+BEATRICE	Recule. Tant que je suis sous contrat, je ne retiendrai pas mes coups, même face à toi.
+
+RAM	Dame Beatrice, vous semblez oublier que nous ne sommes plus au manoir, mais en pleine forêt, Bien loin de la bibliothèque interdite. Etes-vous vraiment certaine que vous pourrez le protéger de mes attaques dans ces conditions?
+
+
+38 (00:24:39:22)
+
+BEATRICE	(ah?)
+
+SUBARU	Boing!
+
+BEATRICE	(ah)
+
+SUBARU	Pah! Parfait, c'est comme je l'avais imaginé.
+
+BEATRICE	(grr) (grr) Qu'est-ce qui te prend tout à coup? Une soudaine envie de mourir?!
+
+SUBARU	Allons, ne sois pas bête.
+
+BEATRICE	(grr)
+
+SUBARU	Je n'ai vraiment pas envie de mourir. Sauf peut-être de vieillesse après une vie longue et heureuse. Je le pense vraiment, tu sais?
+
+
+39 (00:25:02:03)
+
+RAM	Tu as du cran, je l'admets. Tu as accepté ta mort imminente?
+
+SUBARU	Je n'irai pas jusqu'à dire ça, honnêtement. A vrai dire... Ça se rapprocherait plus d'une prise de décision. Je vous présente mes excuses. Mes erreurs et indécision vous auront provoqué beaucoup de peine.
+
+RAM	(h) Tu avoues! Tu sais ce qui est vraiment arrivé à Rem!
+
+SUBARU	Non, désolé, je suis tout aussi perdu que toi sur le sujet. Tout ce que je sais, c'est que j'ignore trop de facteurs pour me faire une opinion. Mais j'ai décidé de faire face aux choses que j'ignore, et de lentement combler mes lacunes.
+
+RAM	C'est trop tard pour ça! Rem est morte, il n'y a plus rien à faire! A quoi ça te servirait d'apprendre plus de choses maintenant?
+
+
+40 (00:25:40:03)
+
+SUBARU	Je ne vais pas te prétendre que ça changerait grand chose. Nous voyons tous les résultats amenés par mon impuissance, après tout. J'ai parfaitement conscience que mes prochains mots ne seront pas convaincants du tout. Mais je me souviens de tout. Je me souviens même de choses que vous avez oublié sur vous-même.
+
+RAM	Ah oui? Et qu'est-ce que tu crois savoir sur nous, exactement?
+
+SUBARU	C'est vrai, que je ne connais pas votre passé, ou vos secrets, ou ce qui est vraiment important. Mais tu sais quoi? Vous ne savez pas tout sur vous-même non plus!
+
+RAM	Qu'est-ce que tu dis?
+
+SUBARU	(h) Par exemple tu ignores totalement que je vous adore!
+
+RAM	(h?)
+
+
+41 (00:26:17:05)
+
+SUBARU	(ah)
+
+BEATRICE	(h)
+
+RAM	(h)
+
+BEATRICE	Attend!
+
+OUT (00:26:21:12)
+
+
+42 (00:26:43:16)
+
+SUBARU	Je suis le seul à pouvoir y arriver!
+
+RAM	Je jure de te tuer! Quoi qu'il m'en coûte!
+
+SUBARU	Et moi, je jure de vous sauver, quoi qu'il m'en coûte!
+
+OUT (00:27:00:17)

@@ -1,0 +1,709 @@
+
+
+RE ZERO
+
+EPISODE 5
+
+
+
+
+1 (00:00:03:00)
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Enfin, pourquoi...? H... ? Mais, mais... H...
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Pourquoi je suis revenu en arrière ?!?
+
+REM	Cher invité, vous semblez bien pâle, vous allez bien ? Est- ce que nous pouvons faire quelque chose ?
+
+RAM	Cher invité, est- ce que vous avez mal au ventre ? Est- ce que par hasard votre vessie aurait lâché ?
+
+SUBARU	H... H... Mais alors, les filles... si vous, vous m'avez oublié... ça veut dire que... personne ne se souvient de moi...!
+
+DIDASCALIES	[ pleure ]
+
+REM	Cher invité...!
+
+RAM	Cher invité...!
+
+SUBARU	H... H...
+
+
+2 (00:00:47:00)
+
+DIDASCALIES	[ se lève ]
+
+SUBARU	H...
+
+RAM	Cher invité...! Vous devriez éviter tout geste brusque...!
+
+SUBARU	H... Mais pourquoi, enfin...? Pourquoi tout a été encore effacé ?!? Même ma promesse de rencard avec Émilia...!!?
+
+DIDASCALIES	[ pleure ]
+
+SUBARU	H... H...
+
+OUT (00:01:14:10)
+
+DIDASCALIES	[ Générique ] -->
+
+
+3 (00:02:29:00)
+
+BÉATRICE	Quelle impolitesse, d'entrer sans frapper, j'espère que ça ne deviendra pas une habitude !
+
+SUBARU	Désolé...! Laisse- moi rester un peu... s'il te plaît...!!!
+
+BÉATRICE	Mais ça fait déjà deux fois que tu fais ça... dis- moi comment tu arrives à briser la porte dimensionnelle !?
+
+SUBARU	Hm...? Béatrice...!!?
+
+BÉATRICE	Où est passé le "Mademoiselle"...?
+
+SUBARU	Tu as bien dit que c'était la deuxième fois, que j'ouvrais ta porte dimensionnelle, n'est- ce pas ?!?
+
+BÉATRICE	En effet, je t'ai déjà taquiné un peu, il doit y avoir de ça trois ou quatre heures, pourquoi ?
+
+SUBARU	Donc, ça veut dire que c'est mon deuxième réveil dans ce manoir ! Tu me connais, tu es sûre, tu m'as déjà rencontré...!?!
+
+BÉATRICE	Tu peux me croire, si j'en avais la possibilité, je t'aurais volontiers effacé de ma mémoire !!!
+
+
+4 (00:03:11:00)
+
+SUBARU	Mais bien sûr, la situation n'est pas tout à fait la même ! Mon point de sauvegarde semble être passé du marchand de fruits à ces deux anges...! Mais pourquoi suis- je mort ? Tout allait bien, avant de m'endormir...! Je me souviens bien que quand je me suis couché, je ne courais aucun danger immédiat !
+
+BÉATRICE	Je t'entends depuis tout à l'heure marmonner à propos de vie, de mort, de potentiel danger... que des préoccupations humaines, futiles et ennuyeuses ! Par dessus le marché, tes propos n'ont absolument ni queue ni tête !!!
+
+SUBARU	Hm...!!! Hm...
+
+
+5 (00:03:43:10)
+
+SUBARU	Je te remercie... Tu m'as bien aidé...!
+
+BÉATRICE	Moi ? J'ai rien fait du tout !!!
+
+SUBARU	Ouais, mais ton attitude envers moi n'a pas changé, et rien que ça, ça me fait déjà beaucoup de bien !!!
+
+BÉATRICE	Tu serais pas des fois un peu bas de plafond, pour être apaisé par mon mépris ?!? H...? Tu t'en vas déjà...?!?
+
+SUBARU	Ben, oui... Il y a un truc qu'il faut que j'aille vérifier ! J'aurais toujours le temps de me morfondre après !
+
+OUT (00:04:06:00)
+
+
+6 (00:04:14:00)
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Ah...!!! Je le savais...!!!
+
+EMILIA	H... Subaru...! H...
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Elle est vraiment resplendissante !
+
+EMILIA	H... Je m'inquiétais beaucoup pour toi, tu sais ? Ram et Rem n'arrêtaient pas de courir dans tous les sens en disant que tu avais disparu aussitôt après ton réveil !
+
+SUBARU	Oui, désolé... J'ai été retenu par la petite Béatrice !
+
+EMILIA	Quoi ? Encore ? Je ne comprends pas, pourtant elle t'a déjà joué un tour, plus tôt dans la journée ! H...? Pourquoi tu me regardes ? Quelle horreur, j'ai quelque chose sur la figure ?
+
+SUBARU	Mais non, rassure- toi, ton nez, tes yeux et ta bouche sont toujours ravissants !
+
+EMILIA	H...?!?
+
+SUBARU	mh... Je veux dire, euh... Je suis content que tu n'aies rien !
+
+
+7 (00:04:52:00)
+
+EMILIA	Hin...! Rassure- toi, je vais bien ! Et c'est parce que tu m'as protégée ! Mais... et toi, alors, sinon... allez, dis- moi comment tu te sens !
+
+SUBARU	Moi ? J'ai une pêche d'enfer ! Pour commencer, j'ai fait une petite hémorragie, ensuite on m'a piqué un max de mana, ce qui fait que j'étais épuisé au réveil, et là- dessus on m'a tabassé le moral à grands coups de batte, mais sinon... ça va...!
+
+EMILIA	Je vois... Oui, c'est ... Hn...! Hé, mais du coup, tu dois être extrêmement fatig...
+
+PACK	Ssh... Ssh... Bonjour, Subaru...! Belle matinée, n'est- ce pas ? Je ne te remercierai jamais assez, pour ce que tu as fait hier, tu sais ?
+
+SUBARU	Hm...
+
+PACK	Moi, je crois que tu mérites une récompense !
+
+SUBARU	Dans ce cas, laisse- moi simplement te caresser quand je le voudrai !
+
+EMILIA	Comment ça, c'est tout ce que tu demandes ?
+
+SUBARU	H...
+
+PACK	Mmh...
+
+SUBARU	Mmh... Bon, allez... c'est parti !!! N'oublions pas que le temps nous est compté, dans ce vaste monde ! Et nos aventures ne font que commencer, n'est- ce pas, Émi ?
+
+EMILIA	Oui, c'est vrai...! Mais... comment tu m'as appelée, là... ? Ça sort d'où, ça, " Émi " ?
+
+DIDASCALIES	[ in petto ]
+
+
+8 (00:05:45:20)
+
+SUBARU	Je ne sais pas qui est derrière tout ça, mais je n'ai pas dit mon dernier mot, et il va vite le regretter ! Parce que moi, j'en suis devenu fou, de ce sourire, et il vaudrait mieux ne pas me sous- estimer ! Je compte bien tenir la promesse que j'ai faite à Émi... et il me suffit pour ça de survivre à cette nuit !
+
+ROSWAAL	Allez... nous t'écoutons... exprime tes désirs...!
+
+SUBARU	Je n'ai qu'une seule et unique requête... Embauchez- moi au manoir... à n'importe quel poste !
+
+RAM	Atchoum !
+
+
+9 (00:06:11:00)
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Les boucles fonctionnent de la même façon... alors si j'emprunte le même chemin, en toute logique, je devrais revenir au même point !
+
+RAM	Ce costume est bien trop grand pour toi !
+
+SUBARU	Hein...?
+
+RAM	Seulement, à ta taille, on ne trouvera que des uniformes de femme ! Rem...? Tu veux bien lui ajuster cette veste ?
+
+REM	Oui, Ram... bien sûr !
+
+SUBARU	Allez, vas- y, prends mes mesures... Un homme doit être capable de résister aux frôlements d'une femme !
+
+RAM	Je préfère qu'on fasse ça après .
+
+SUBARU	Hin, hin, hin...
+
+RAM	Bon, allez, suis- moi... Bals !
+
+SUBARU	Tu vas m'emmener faire le tour du propriétaire ?
+
+RAM	Pour ça, on verra plus tard . Viens . Tu vas d'abord commencer par m'aider à travailler .
+
+SUBARU	Euh, oui mais non, mais attends...!
+
+
+10 (00:06:47:00)
+
+DIDASCALIES	[ in petto ]
+
+SUBARU	Je ne comprends pas... j'ai reproduit les événements de la semaine... ... ou tout du moins, j'aurai essayé... Et pourtant, les résultats sont complètement différents ! C'est comme si j'avais préparé la meilleure des anti- sèches... et que je m'aperçoive au dernier moment que je me suis trompé de matière pour l'interro...!
+
+
+11 (00:07:06:00)
+
+ROSWAAL	Salut... je peux te tenir compagnie...?
+
+SUBARU	Non merci !
+
+ROSWAAL	Tu sais, ces bains m'appartiennent, comme d'ailleurs tout le reste du manoir... alors j'en userai comme il me plaira...!
+
+SUBARU	Eh ben alors entre, mais à ce moment-là, pas besoin de me demander mon avis...!
+
+ROSWAAL	Oh... tu parles bien durement, mais apparemment, tu ne comprends pas tout... Si ces bains sont à moi, je suis aussi le seigneur de toute la maisonnée ! Ce qui signifie qu'en tant qu'employé... ... tu comptes, toi aussi, au nombre de mes possessions, dorénavant !
+
+DIDASCALIES	[ mord ]
+
+SUBARU	H... Hm... grr... Encore un événement que je n'avais pas prévu !
+
+ROSWAAL	Tu en as, du mordant...!
+
+
+12 (00:07:39:10)
+
+ROSWAAL	Je ne sais pas ce qui te préoccupe, mais... ... tout le monde rencontre des imprévus...! Au fait, dis- moi, tu crois que tu vas parvenir à t'entendre avec Ram et Rem ?
+
+SUBARU	C'est pas encore la joie, avec Rem, mais... avec Ram, on s'entend plutôt bien...! J'ai l'impression qu'elle ne ressent jamais la moindre gêne . D'ailleurs, ça m'étonne qu'elle soit domestique.
+
+ROSWAAL	Oui, enfin, c'est parce que Rem arrive à compenser ses défauts . Il est normal qu'elles s'entraident entre soeurs . Je trouve qu'elles réussissent particulièrement bien à s'épauler mutuellement dans l'effort !
+
+SUBARU	Oui, Rem est là pour rattraper les erreurs, et Ram est comme une version bridée de sa soeur...! Pourtant c'est elle qui prend toutes les décisions parce qu'elle est l'aînée ! Sans doute aussi parce qu'elle a des nerfs d'acier !
+
+ROSWAAL	Alors sur ce point précis, permets- moi de te dire que tu ne te débrouilles pas trop mal non plus, Subaru !
+
+
+13 (00:08:26:00)
+
+SUBARU	Je suis resté trop longtemps à cause de lui... dépêchons- nous de... H...!?!
+
+RAM	Ça ne te ferait rien de mettre ce petit oiseau hors de ma vue ?
+
+SUBARU	H... Mais qu'est- ce que tu viens faire ici ?!?
+
+RAM	J'attends Maître Roswaal pour l'aider à se sécher et à se changer . Mais non, je ne me déshabillerai pas, étant donné que j'ai déjà pris mon bain, alors ôte- toi cette pensée de la tête !
+
+SUBARU	Personne ne pensait à ça, tu te fais des idées ! Mais tu le chouchoutes trop, ton Roswaal, il peut bien se changer tout seul !
+
+RAM	Tu sais... ce n'est pas dans ton intérêt, de manquer de respect au Maître, essaie de faire plus attention à ce que tu dis...!
+
+SUBARU	Oui, ne réveillons pas le chat qui dort, pas vrai ?
+
+RAM	Et maintenant, Bals...? Tu as quelque chose de prévu ?
+
+SUBARU	H...? Ben non, je m'apprêtais à aller me mettre au lit .
+
+RAM	Attends- moi dans ta chambre, je passerai te voir tout à l'heure .
+
+SUBARU	H...?!?
+
+
+14 (00:09:09:05)
+
+SUBARU	Cherche pas plus loin... y'a rien à comprendre... Oublie tout désir... Calme- toi, et pense uniquement à Émi...! Émi une fois... Émi deux fois... Émi trois fois... Émi... Je suis au paradis !!!
+
+RAM	Tu fais beaucoup de bruit, Bals !!! Baisse d'un ton, tu veux bien ? il est tard !
+
+SUBARU	Oh, la, la...!
+
+RAM	Bals ! Viens un peu par ici...
+
+SUBARU	Non, arrête ! Mon coeur est déjà pris ! Il ne bat que pour Émi !
+
+RAM	Mais tu délires, ou quoi ? Allez, viens t'asseoir en vitesse, que je puisse commencer à t'apprendre à écrire !
+
+SUBARU	Hein ? Mais depuis quand...?
+
+
+15 (00:09:38:00)
+
+SUBARU	Pourquoi tu me fais l'enseignement ?
+
+RAM	Parce que je me suis rendu compte que tu ne sais ni lire ni écrire... C'est un handicap, pour ton travail... tu ne pourras pas écrire de notes, ni même suivre une liste de commissions...! Je te propose qu'on démarre avec un recueil de contes... Je viendrai t'aider à travailler un petit peu tous les soirs .
+
+SUBARU	Je peux savoir pourquoi tu te montres si aimable avec moi...?
+
+RAM	Ça me semble évident... pour mon bien ! Enfin... pour mener la belle vie...!
+
+SUBARU	Oui, ben c'est la même chose ! Tu as vraiment aucune gêne !
+
+RAM	Évidemment, voyons... Si ta charge de travail augmente, la mienne va diminuer, et si ma charge de travail diminue... ensuite c'est celle de Rem qui va mécaniquement diminuer aussi, tu comprends ? C'est parfait pour tout le monde !
+
+SUBARU	Sauf pour moi qui vais me retrouver complètement débordé !!!
+
+
+16 (00:10:19:10)
+
+RAM	On va commencer par les glyphes en " i". Après ça, on continuera avec ceux en " ro" et ceux en " ha".
+
+SUBARU	Parce qu'il en existe trois sortes ? Ça commence déjà à me fatiguer !
+
+RAM	Je te préviens, tu n'as pas le temps de faire des petits dessins. Le temps presse, et on doit se lever tôt... En plus, j'ai sommeil .
+
+SUBARU	Ah, tu finis quand même par montrer ton jeu, hein ? mais je t'avouerai que ça n'est pas pour me déplaire !
+
+RAM	Je pense, moi aussi, que mon honnêteté est une de mes plus grandes qualités . Bon, allez, on commence, maintenant !
+
+
+17 (00:10:48:00)
+
+SUBARU	Cette minutie obligatoire, c'est un truc à me rendre malade...! Et pourtant, d'une certaine manière, ça me fait quand même plaisir, tu vois, parce qu'après tout ce que tu m'avais dit... ... moi, j'étais persuadé que tu ne pouvais carrément pas me voir en peinture, quoi ... Alors je vais sûrement t'embêter encore un peu sans le faire exprès... mais en tout cas, je ferai ce que je peux pour me rendre utile !
+
+DIDASCALIES	[ dort ]
+
+RAM	H ...
+
+DIDASCALIES	[ nerfs ]
+
+SUBARU	H...
+
+OUT (00:11:12:00)
+
+DIDASCALIES	Noir [= 1 mn 27] -->
+
+
+18 (00:12:44:00)
+
+SUBARU	Waow !!! Ça m'agace un peu d'avoir à le dire... mais c'est parfait !!! On a pas besoin de mes talents de couturier !
+
+REM	Tes talents de couturier ? Tu veux dire que tu as appris à coudre, toi, Subaru ?
+
+SUBARU	Ben oui, un peu... Eh, dis- donc... Dans ce placard, je vois les vêtements de Roswaal et d'Émi, mais pas les vôtres... Tu veux que je te fasse une tenue ? Viens que je prenne tes mesures, il y en a pas pour longtemps .
+
+REM	Ce serait inutile .
+
+SUBARU	H...
+
+REM	Notre uniforme suffit amplement à nos besoins, à Ram et à moi .
+
+SUBARU	Mais comment ça, il suffit amplement à vos besoins... tu veux dire que... vous n'avez pas d'autres vêtements?
+
+REM	L'uniforme convient parfaitement pour accompagner le Maître ... ainsi que pour effectuer les tâches qui nous sont confiées . En outre, ça nous évite aussi l'embarras de devoir expliquer notre rang, c'est parfaitement rationnel !
+
+
+19 (00:13:26:05)
+
+SUBARU	Le concept de rationnalité me semble hors- sujet ! Pour moi, les jolies jeunes femmes comme vous devraient toujours pouvoir être bien habillées, pour plaire à tout le monde, et mettre de la joie dans les coeurs !
+
+REM	Pour Ram, peut- être, mais je suis sûre que personne n'aurait de joie au coeur en me voyant, moi, bien habillée !
+
+SUBARU	Eh bien moi si, ça me ferait plaisir...!
+
+REM	Ah bon ? Et quelle sorte d'avantage on pourrait trouver à te plaire, à toi ?
+
+SUBARU	Ça me donnerait de l'entrain et de la motivation, et ça augmenterait ma productivité !
+
+REM	Je ne comprends même pas comment tu peux faire preuve d'autant d'impudeur et de sans- gêne !
+
+SUBARU	Avantage supplémentaire, vos tenues pourraient mettre un peu plus en valeur vos différences de personnalités !
+
+REM	Occupe- toi de tes affaires ! Je ne vois pas quel problème ça peut te poser que je ressemble à Ram !
+
+SUBARU	Crois- moi, tu es beaucoup trop dépendante de ta soeur !
+
+
+20 (00:14:06:00)
+
+DIDASCALIES	[ doul ]
+
+SUBARU	Argh ... ng ...
+
+RAM	Tu t'y prends mal, avec le couteau, tu le tiens pas de la bonne façon .
+
+SUBARU	Mais oui, mais je le sais bien, ça... Je dois rester ferme, et faire tourner la pamme dans la main...! H...? Tu vas finir par me faire rougir, à force de me fixer comme ça . H...?!!
+
+RAM	Il faut dire que ton apparence disgrâcieuse a tendance à attirer l'oeil ! Surtout ta coiffure... elle est beaucoup trop grossière !
+
+SUBARU	Mince, alors, c'est vexant, moi qui pensais m'être particulièrement bien coiffé, ce matin...!
+
+RAM	Pour ton information, c'est Rem, habituellement, qui coupe les cheveux des résidents . Moi aussi, c'est elle qui me coiffe... c'est aussi elle qui prépare toutes mes tenues . Pas mal, hein...?
+
+SUBARU	Enfin... faut pas que tu lui laisses tout le boulot !
+
+
+21 (00:14:50:00)
+
+RAM	Dis, Rem...? Si tu veux... tu n'as qu'à lui arranger sa coiffure, d'accord...?
+
+REM	Oui, Ram...!
+
+SUBARU	Vous vous rendez pas compte... mon coeur risque de lâcher, si c'est une fille qui me coiffe !
+
+RAM	J'ai l'impression que tu le fixes parce que sa drôle de coiffure te tracasse, je me trompe ?
+
+REM	H... Oui, tu as raison. Je vois bien qu'il suffirait d'un léger coup de peigne pour améliorer grandement son allure .
+
+RAM	Tu entends ? Tu devrais profiter de cette occasion... son doigté pourrait t'envoyer au septième ciel !
+
+SUBARU	Comme tu en parles, ça donne l'impression que tu proposes un truc cochon...! Bon, mais si ça t'embête, n'aie pas peur de me le dire, hein ? Personnellement, je ne dis pas non, mais toi...?
+
+REM	Non, je n'ai rien contre... J'admets que ça me tracassait quand même un petit peu, pas grand chose, hein, juste un tout petit peu...
+
+SUBARU	Oui, bon, ben ça va, j'ai compris, tu aimes pas ma coiffure, quoi !
+
+
+22 (00:15:34:10)
+
+PACK	Tu as un problème, Betty ?
+
+BÉATRICE	H... Non, rien du tout, mon chou, tout va bien ! Tiens, j'ai apporté des biscuits qui sont délicieux... Ça te dit qu'on les partage...?
+
+DIDASCALIES	[ mange ]
+
+PACK	H... Oh, c'est bon !!!
+
+
+23 (00:15:46:00)
+
+SUBARU	Mmh...? Qu'est- ce qu'il y a...? Tu viens m'aider ?
+
+REM	Non, non . C'est à propos de notre, euh... notre discussion de ce midi...
+
+SUBARU	C'est à dire...? Ah... à propos de ma coiffure...? Tu étais vraiment sérieuse ?
+
+REM	Justement... j'ai été d'une grande impolitesse à ton égard, et je le regrette . Je te présente mes plus plates excuses. Que nous soyons collègues ne change rien au fait que tu as sauvé Dame Émilia, et je te dois le respect .
+
+SUBARU	C'est comme ça que tu vois les choses entre nous, alors ? J'en suis sincèrement désolé .
+
+REM	Non... J'ai dépassé les bornes, je te prie d'oublier cette discussion . Et de me pardonner.
+
+SUBARU	Hm... Tu sais, les humains sont trop compliqués pour pouvoir oublier et tourner la page aussi facilement...!
+
+
+24 (00:16:25:00)
+
+SUBARU	Bon... c'est d'accord, à une condition ! Si tu l'acceptes, j'oublie cette histoire, et il n'en sera plus jamais question entre nous .
+
+REM	Une condition ? Quelle condition ? Vas- y, je t'écoute, dis- moi de quelle condition tu parles...
+
+SUBARU	Hm... Je te pardonnerai tout ce que tu voudras, en échange d'une coupe de cheveux gratis et d'un léger coup de peigne ! C'est assez embarrassant pour moi, que tu gardes le silence, comme ça...
+
+REM	Dame Émilia m'avait prévenue, pourtant... Mais... ton manque de cupidité est quand même très bizarre !
+
+SUBARU	C'est toi, qui es bizarre...! Normalement, avec ce numéro- là, tu aurais dû tomber instantanément sous mon charme !
+
+
+25 (00:17:03:00)
+
+REM	Ram m'a dit qu'elle t'avait surpris plusieurs fois à l'observer avec un regard lubrique, alors quand tu as parlé de condition, évidemment, je me suis instinctivement préparée au pire !
+
+SUBARU	C'est pas sympa, de dire des choses pareilles !
+
+REM	C'est d'accord, j'accepte ta condition . Je me prêterai volontiers au jeu que tu me proposes .
+
+SUBARU	H...?
+
+DIDASCALIES	[ rire ]
+
+SUBARU	H... Bien ! Je n'hésiterai pas à compter sur toi, si j'arrive à tenir ma promesse à Émi !
+
+REM	H... Mais quelle promesse ?
+
+SUBARU	C'est une promesse que je n'ai pas encore pu lui faire !
+
+
+26 (00:17:30:00)
+
+SUBARU	C'est rassurant, de pouvoir visiter les lieux, avant d'inviter une fille à un rencard ! Ça m'a permis de dénicher un endroit avec une très jolie vue ! Y'a plus qu'à...
+
+AMBIANCE	[ mômes rient ]
+
+SUBARU	... régler ce pépin !
+
+AMBIANCE	--> Jusqu'à fin boucle -->
+
+MÔME 1	Ouais...!
+
+MÔME 2	Subaru est revenu !
+
+MÔME 3	Avec sa grosse tête toute chelou !!!
+
+SUBARU	Bon, il va falloir que je trouve un moyen de ne pas trop me faire repérer .
+
+MÔME 3	H... Snifff... Snifff...
+
+MÔME 1	Repérer par qui, crâne d'oeuf ?
+
+MÔME 3	Tu t'es pas fait pipi dessus ?
+
+MÔME 2	On joue à cache- cache !
+
+SUBARU	Ah, non, calmez- vous, maintenant, on joue depuis une heure, ça suffit !
+
+MÔME 1	Non, on continue !
+
+MÔME 2	Allez, encore !
+
+MÔME 3	Faut que tu changes de caleçon !!!
+
+MÔME 1	Non ! On continue !
+
+MÔME 2	Le lâchez pas !!!
+
+MÔME 3	Change de caleçon, tu es tout mouillé !!!
+
+MÔME 1	Hé, on se cache et tu nous cherches !
+
+
+27 (00:17:56:10)
+
+SUBARU	Écoutez- moi bien, les enfants... La prochaine fois que je viendrai au village... hein... je serai accompagné, alors soyez gentils . H... ?
+
+AMBIANCE	[ mômes éto ]
+
+SUBARU	Par contre...
+
+AMBIANCE	Oh...
+
+SUBARU	... j'autorise ce petit chou d'amour à faire des gros- gros câlins à ma chère Émi, d'accord ?
+
+AMBIANCE	[ rires ] H...
+
+DIDASCALIES	[ doul ]
+
+SUBARU	Argh...!!!
+
+AMBIANCE	H...
+
+REM	Subaru...!!!
+
+SUBARU	Encore...?!? H...
+
+REM	Enfin te voilà !!! Tu crois que ça va aller ?
+
+SUBARU	Mais oui, t'en fais pas, c'est rien . Tu as fini de faire toutes les courses ?
+
+REM	Oui . De ce côté, tout va bien.
+
+AMBIANCE	[ mômes ] [ t'en va pas, reste avec nous, etc... ] H...
+
+
+28 (00:18:29:00)
+
+REM	Ben dis- donc, tu as drôlement la cote, avec ces enfants !
+
+SUBARU	Oui, c'est comme ça, j'ai toujours eu tendance à être apprécié par les gamins .
+
+REM	Tu sais, les enfants, ils établisssent une hiérarchie, un peu comme les animaux . Et ils savent instinctivement qui ils peuvent se permettre de sous- estimer .
+
+SUBARU	Alors ça veut dire que la familiarité de ces gamins n'est qu'un manque total de respect ?
+
+REM	Est- ce que tu leur as seulement montré quelque chose, de toi, qui soit digne de respect, à leurs yeux d'enfants ?
+
+SUBARU	Excellent argument, je m'incline ! Néanmoins, ça n'est pas très gentil de leur part, de se moquer de moi gratuitement ! Je pense que Ram se débrouillerait très bien, avec ces petits monstres .
+
+REM	Oui, je le sais, Ram est fantastique .
+
+SUBARU	Oui, mais, franchement, en certaines circonstances, son caractère causerait un sacré raffut !
+
+REM	Moi, je crois que son assurance fait partie de ses plus grands charmes . C'est hors de ma portée... à mon grand regret .
+
+SUBARU	H...?
+
+
+29 (00:19:16:20)
+
+REM	Mais parlons plutôt de toi, si tu veux bien, tes études, alors, comment ça progresse ?
+
+SUBARU	Très lentement... mais sûrement, j'espère...! Ram est une enseignante sérieuse, compétente et dévouée...! Mais... par contre, j'aimerais qu'elle arrête de me démotiver, en s'endormant en pleine leçon, par exemple...!
+
+REM	Je suis sûre qu'elle se comporte comme ça volontairement... pour essayer de te secouer un petit peu...!
+
+SUBARU	Mais d'où tu tiens une telle confiance absolue en ta soeur ? Entre nous, c'est pas ordinaire ! Elle t'a " ogrisée ", ou quoi ?
+
+REM	Qu'est- ce que c'est, " ogrisée " ?
+
+SUBARU	C'est quand tu es possédée par un ogre . C'est plutôt cool, non ?
+
+REM	Pourquoi ? Tu les aimes, les ogres ?
+
+SUBARU	Hm...
+
+
+30 (00:19:53:00)
+
+SUBARU	Ben, disons que les dieux, ils t'observent de loin, mais ils ne font rien pour toi... tandis que les ogres, eux, ils viennent se fendre la poire avec toi en discutant d'avenir ! Ils te prédisent les événements de l'année qui vient, et ça les fait exploser de rire !!! Hm...
+
+DIDASCALIES	[ sourire ]
+
+REM	Hm...!
+
+SUBARU	Ouais ! Ce sourire- là m'a rechargé les batteries !!!
+
+REM	Je ne manquerai pas d'en informer Dame Émilia .
+
+SUBARU	Mais... oh... je cherchais pas à te draguer...!
+
+DIDASCALIES	[ gêne, excitation ]
+
+
+31 (00:20:22:00)
+
+SUBARU	H ... Ben tu vois, en ce moment...
+
+EMILIA	Étant donné que Ram et Rem sont indisponibles ce soir, elles m'ont demandé de prendre leur place, pour t'aider à travailler et surveiller tes études . Par contre, je ne sais pas si je te serai très utile...!
+
+SUBARU	... je m'applique à recopier les glyphes en " i " . H...
+
+EMILIA	Eh... mais ça, alors... tu es beaucoup plus studieux que je l'aurais jamais pensé !
+
+SUBARU	Euh... C'est parce que, tu vois, ce recueil de contes est écrit en grande partie avec ces glyphes, et moi je... je voudrais être capable de le lire sans trop d'hésitations... H... Qu'est- ce que je voulais dire, euh...
+
+EMILIA	Mmh...?
+
+SUBARU	Le, le... La lune est belle, non...?
+
+EMILIA	Oui .
+
+SUBARU	J'ai quelque chose à te demander !!! Tu veux bien m'écouter une minute ? Je te promets que demain, je travaillerai le double, je serai à fond sur le boulot pour compenser !
+
+
+32 (00:21:08:00)
+
+SUBARU	Accorde- moi un rencard ! H...
+
+EMILIA	Ça dépend, qu'est- ce que c'est, un rencard ?
+
+SUBARU	Hm...! C'est quand un garçon et une fille se promènent quelque part ! Et ensuite, seule la déesse de l'amour peut savoir où ces événements nous emmèneront !
+
+EMILIA	J'ai compris ! Donc, aujourd'hui, c'est un " rencard ", que tu as eu avec Rem !
+
+SUBARU	Argh... celle- là, je l'avais pas vue venir ! Oublie- le, pitié, oublie- le, je t'en supplie !
+
+EMILIA	Bon, tu veux qu'on se balade ensemble, c'est bien, mais... dans ce cas, on irait où ?
+
+SUBARU	Ben... figure- toi que dans le village d'à- côté, j'ai vu un chiot super- mignon ! Il y a un magnifique champ de fleurs, aussi ! Je t'imagine tellement, posant devant ce paysage, et... Je voudrais qu'on puisse graver cette image sur mon météore !
+
+EMILIA	Ah, oui, je vois... Dans un village...
+
+SUBARU	Tu verras, le chiot est trop mignon... Allons- y !!!
+
+EMILIA	Mais... je risque de causer des ennuis, non seulement à toi, mais aussi aux villageois ! Je ne sais pas si je dois...!
+
+SUBARU	Allez, quoi... les enfants sont de vrais anges innocents ! Tu le regretteras pas !
+
+
+33 (00:22:00:00)
+
+EMILIA	Bon, puisque tu insistes, d'accord . J'accepte de venir avec toi . J'accepte ton " rencard ".
+
+SUBARU	Mais si... les fleurs sont magnifiques, et, euh... tu disais...?
+
+EMILIA	Si ça peut t'aider, d'une certaine manière, te motiver à avancer, eh bien... tu peux compter sur moi .
+
+SUBARU	Ouais ... Génial !!!
+
+EMILIA	Mmh... Je suis persuadée que demain, nous aurons du beau temps !
+
+SUBARU	Oui... Et ce sera un jour que nous n'oublierons plus jamais !!!
+
+EMILIA	C'est plus fort que toi, faut toujours que tu en raj... H...!!!???
+
+SUBARU	H...?
+
+EMILIA	Non, parce que... tout à l'heure, tu as dit... Non, rien, oublie ça... Bonne nuit !
+
+SUBARU	Eh, mais non, mais... finis ta phrase, au moins, tu vas me faire flipper, à me laisser pendu, là... !
+
+EMILIA	Sur ce, mon cher majordome... fais de ton mieux ! Seulement rappelle- toi qu'il n'y a que les enfants méritants, qui ont droit à une récompense !
+
+OUT (00:22:47:00)
+
+DIDASCALIES	[ Générique ] -->
+
+
+34 (00:24:26:00)
+
+SUBARU	Voilà enfin arrivée l'heure du duel avec mon destin ! Cette nuit, je ne dormirai pas une seule minute ! J'accueillerai debout le matin de notre promesse . C'est drôle, je me sens comme un écolier effrayé à la perspective d'un voyage scolaire ! H... Ça me rappelle celui que j'ai fait, dans le temps, et ma grasse mat'... Au bout du compte... je n'ai pas réussi à reproduire la boucle précédente, mais au moins, j'ai sympathisé avec les jumelles ! Finalement, je m'en sors même plutôt mieux qu'avant...! Mon seul regret, c'est de ne pas être passé souhaiter une bonne nuit à la petite Béatrice, elle m'insultait en boucle, la dernière fois que je l'ai vue, mais je me dis quand même que peut- être... que j'aurais dû la remercier ! Oui, j'aurais peut- être dû... la... la remercier... H...!!! Hum, hum !!! Mmh...
+
+OUT (00:25:19:00)
+
+
+35 (00:25:24:00)
+
+DIDASCALIES	[ eff/doul ]
+
+SUBARU	H... Qu'est- ce que j'ai... H... Je me gèle !!! Hm... Hm... Merde, non...! Ne me dites pas que...
+
+DIDASCALIES	[ vomit ]
+
+SUBARU	Bleuarkh...! H... À l'aide !!! H... Hm... H ... Euargh... H... Au sec... Au secours...!!! Beuarklll...
+
+DIDASCALIES	[ eff/doul ]
+
+SUBARU	H... H... Hm...!!! Mgrgrll...
+
+
+36 (00:26:16:00)
+
+SUBARU	H... H... Hm... Hm...?
+
+DIDASCALIES	[ doul ]
+
+SUBARU	Euargh...!!! H.... H... C'était quoi, ça...?!? H... H...!!!
+
+DIDASCALIES	[ hurle doul ]
+
+SUBARU	H...
+
+DIDASCALIES	[ agonise ]
+
+SUBARU	H....
+
+OUT (00:26:59:00)

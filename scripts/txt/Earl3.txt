@@ -1,0 +1,273 @@
+10  derniers segments  EARL’S QUIZ 3/3
+Il y a des codes de couleur car il y a 3 sortes de segments : et du coup, les conclusions (boucle 5) ne sont pas les mêmes et pour les verts, la phrase du milieu (boucle 3)  diffère également. (L’introduction-boucle1- est tous la même).
+Les corrections de la cliente sont soulignées
+Earls-Quiz-ShapesAndConnor
+(BOUCLE 1 - 09:59:59:09)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:18:22)
+		02
+
+EARL	La nuit, Percy doit travailler et ce soir-là, son phare a éclairé un panneau, planté à côté de la voie ferrée. C'est un panneau signalant un danger qui oblige Percy à s'arrêter parce qu'il peut y avoir des éboulements sur cette portion de voie. Mais James, lui, n'a pas fait  attention au panneau! Oh, je préfèrerais qu'il s'arrête! C'est dangereux! Bon, vous êtes prêts pour la première question? De quelle forme était le panneau signalant le danger? Etait-il carré? Etait-il triangulaire? Ou bien était-il rond? Le panneau était triangulaire! Il avait trois côtés! Et James a eu bien tort de ne pas en tenir compte! Heureusement que le courageux Percy était là pour venir à son secours!
+
+(BOUCLE 3 - 10:01:13:11)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:19:03)
+		04
+
+EARL	Connor roule à très grande vitesse et il adore faire la course! Aujourd'hui, il fait la course  avec Bill! Mais vous avez beau être rapide, quand le feu est rouge, vous devez vous arrêter! Oh Connor attention! Tu vas percuter quelqu'un! Ouf, il était moins une! Quelle locomotive Connor a-t-il failli percuter? Etait-ce James? Etait-ce Gordon? Ou bien était-ce Henry? Connor a failli percuter Henry. Mais il a retenu la leçon et la prochaine fois, il s'arrêtera ! Ici, par exemple, comme le feu est rouge, il attend! Et quand il passe au vert, il redémarre!
+
+(BOUCLE 5 - 10:02:06:16)
+		05
+
+EARL	Vous êtes des champions! Surtout, revenez me voir bientôt! Au revoir!
+
+Earls-Quiz-SleighAndPlough
+(BOUCLE 1 - 10:00:02:11)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:21:14)
+		02
+
+EARL	C'est avec beaucoup de délicatesse que Cranky dépose ce chargement spécial sur le wagon plat de Thomas. Et maintenant qu'il est chargé, Thomas va pouvoir aller le livrer au château des elfes, où on l'attend impatiemment. C'est le gros contrôleur qui doit le réceptionner. Oh oh oh! Il fait un magnifique Père Noël, vous ne trouvez pas? Bon, vous êtes prêts pour la première question? Quel est l'objet que Thomas a livré au château? Etait-ce le traineau du Père Noël? Etait-ce un wagon farceur? Ou bien était-ce une étoile pour le sapin? Thomas a livré un traineau pour le Père Noël!  Et maintenant, il est temps pour le gros contrôleur et lui d'aller voir les enfants qui les attendent à l'intérieur du château! Le vrai Père Noël serait très fier d'eux!
+
+(BOUCLE 3 - 10:01:16:07)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:22:04)
+		04
+
+EARL	Aujourd'hui, Emily utilise un équipement spécial pour déblayer la neige devant elle.  Mais Thomas, lui, n'a pas pris le sien! Résultat: il est coincé dans la poudreuse! Heureusement pour Thomas, Emily la maline vient à sa rescousse! Quel est l'objet qu'utilise Emily pour enlever la neige  sur les rails?  S'agit-il d'un balai? S'agit-il d'une pelle? Ou bien s'agit-il d'un  chasse-neige? Emilie se sert d'un chasse-neige. C'est un équipement spécial qui s'accroche aux tampons à l'avant d'une locomotive et qui pousse la neige sur les côtés! Excellent travail, Emily!
+
+(BOUCLE 5 - 10:02:09:03)
+		05
+
+EARL	Ohoh je vous remercie d'avoir joué! Et surtout, j'espère que l'on se reverra très vite! Au revoir!
+
+
+Earls-Quiz-SlowlyAndHumps
+(BOUCLE 1 - 09:59:59:13)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:19:01)
+		02
+
+EARL	Ce que Gordon et Spencer adorent, c'est faire la course l'un avec l'autre! Mais ce n'est pas parce qu'on est le plus rapide qu'on est forcément utile! Certaines locomotives préfèrent rouler lentement! Et elles sont aussi utiles que les autres! Oh! Attention Gordon! Tu as quelqu'un de lent devant toi! Bon, vous êtes prêts pour la première question? Comment s'appelle la locomotive qui roule lentement devant Gordon? Est-ce James? Est-ce Connor? Ou bien est-ce Stephen? 
+
+EARL	Gordon est coincé derrière Stephen! Oh oh désolé Gordon! C'est Spencer qui va gagner aujourd'hui! Toi, tu vas devoir être patient et attendre que Stephen te laisse passer.
+
+(BOUCLE 3 - 10:01:13:08)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:19:07)
+		04
+
+EARL	Porter et Salty travaillent ensemble au Port de Brendham! Porter est une locomotive à vapeur alors que Salty a un moteur diésel. Porter a trois dômes  sur sa chaudière. Salty trouve qu'ils ressemblent à des bosses de chameau. Combien de "bosses" Porter a-t-il? Une bosse? Deux "bosses"? Ou bien trois "bosses"? Porter a trois "bosses"! Un dôme à vapeur plus deux sablières. La chaleur émise par sa chaudière garde le sable au sec. Ce qui est pratique quand les rails sont glissants et qu'on a besoin de sable!
+
+(BOUCLE 5 - 10:02:06:13)
+		05
+
+EARL	Vous êtes des champions! Surtout, revenez me voir bientôt! Au revoir!
+
+
+Earls-Quiz-StripesAndFlynn
+(BOUCLE 1 - 09:59:59:10)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:19:00)
+		02
+
+EARL	Spencer quitte le continent pour aller sur Chicalor. Pour cela, il doit traverser le pont  de la ville des Vicaires. Le pont se lève pour permettre le passage des bateaux. Quand cela se produit, les locomotives et leurs passagers doivent patienter devant la barrière. Mais quand la barrière se lève, elle signale à Spencer qu'il doit avancer. Vous êtes prêts pour la première question? De quelles couleurs sont les rayures de la barrière du pont de la ville des Vicaires? Sont-elles bleues et blanches? Sont-elles jaunes et blanches? Ou bien sont-elles vertes et blanches? Les rayures sur la barrière sont jaunes et blanches! Maintenant Spencer peut vite traverser le pont pour aller sur Chicalor avec ses passagers, dont je fais partie! (rire)
+
+(BOUCLE 3 - 10:01:13:11)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+
+(BOUCLE 4 - 10:01:19:04)
+		04
+
+EARL	Quand il y a un incendie sur Chicalor, c'est Flynn qui est chargé de l'éteindre rapidement. Pour aller sur le lieu de l'incendie, il peut rouler soit sur une voie ferrée, soit sur une route!  Aujourd'hui, il a choisi la route, mais je crains qu'il n'arrive pas tout de suite sur le lieu de l'incendie! Pourquoi Flynn  a-t-il dû s'arrêter? Parce que son conducteur a perdu ses chaussures? Parce qu'il y avait un mouton sur la route? Ou bien parce que son  pneu a crevé? Flynn a eu un pneu crevé! Mais il a été réparé en quelques minutes et Flynn a pu repartir à l'action! Bien joué Flynn! Tu as éteint le feu en très peu de temps!
+
+(BOUCLE 5 - 10:02:06:09)
+		05
+
+EARL	Vous êtes des champions! Surtout revenez me voir bientôt! Au revoir!
+
+Earls-Quiz-TallAndFly
+(BOUCLE 1 - 09:59:59:12)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:18:23)
+		02
+
+EARL	On ne manque pas de grues sur Chicalor. Il y en a de toutes les tailles et qui font différentes choses! Kevin, par exemple, aide Victor à l'atelier. Enfin... (ahah) "aider" est un bien grand mot! Rocky, lui, travaille pour le Centre de Recherche et de Secours. Il soulève ceux qui ont eu un accident et les remet sur les rails. Quant à Cranky, il charge et décharge les marchandises sur le port de Brendham. Mais laquelle de ces grues est la plus haute? Est-ce Kevin? Est-ce Rocky? Ou bien est-ce Cranky? C'est Cranky! C'est de loin la grue la plus haute! S'il n'était pas aussi haut, il ne pourrait pas soulever les palettes de marchandises et les poser sur les bateaux.
+
+(BOUCLE 3 - 10:01:13:10)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:19:00)
+		04
+
+EARL	Harold est incapable de décoller. Les pales de son rotor sont bloquées et ont besoin d'être réparées. Du coup, Thomas et Montaigu l'emmènent en train au Centre de Recherche et de Secours. Mais Harold n'est pas fait pour voyager posé sur un wagon. Et ça m'étonnerait qu'il apprécie la balade. Comment Harold l'hélicoptère se déplace-t-il habituellement? Est-ce qu'il nage dans la mer? Est-ce qu'il vole dans les airs? Ou bien est-ce qu'il roule sur la route? Harold vole dans les airs! Du coup, il est capable de faire le tour de l'ile en très peu de temps! Ce qui peut se révéler utile quand on doit sauver quelqu'un en péril dans un endroit difficile d'accès.
+
+(BOUCLE 5 - 10:02:06:03)
+		05
+
+EARL	Vous êtes des champions! Surtout revenez me voir bientôt! Au revoir!
+
+
+Earls-Quiz-TeethAndPaint
+(BOUCLE 2 - 10:00:21:23)
+		02
+
+EARL	Une journée très chargée se termine pour Thomas, Annie et Clarabelle.
+
+EARL	Les passagers de Thomas ont eux aussi eu une journée chargée et sont pressés de rentrer chez eux. Du coup, ils ont oublié quelques affaires dans les wagons! Mais ce n'est pas grave car tous les objets perdus ont été récupérés et rangés dans une boite! (rire_____) Bon, vous êtes prêts pour la première question?
+
+EARL	Quel est l'objet découvert par le gros contrôleur dans la boite aux objets perdus? S'agit-il d'un ballon de football? S'agit-il d'un dentier? Ou bien s'agit-il d'un nounours? Le gros contrôleur a trouvé un dentier qui claque des dents comme s'il rigolait! (rire) Du coup, il le range dans la boite pour que son propriétaire puisse venir le récupérer un peu plus tard!
+
+(BOUCLE 3 - 10:01:15:22)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 5 - 10:01:22:05)
+		05
+
+EARL	Sur Chicalor, tout est très propre et bien rangé mais ça demande beaucoup de travail! Oh mince! Il n'y a pas que la cabine téléphonique qui est repeinte! Oh! Voilà Connor qui arrive! Oh oh! Quelqu'un va se salir! De quelle couleur est la peinture qui a éclaboussé Gordon? Rouge? Bleue? Ou bien verte? C'est de la peinture rouge! Rouge comme la cabine téléphonique. Rouge comme la portion de rails. Et rouge comme les  tâches sur le pauvre Gordon! (rire____)
+
+(BOUCLE 6 - 10:02:09:05)
+		06
+
+EARL	Oh oh je vous remercie d'avoir joué! Et surtout, j'espère que l'on se reverra très vite! Au revoir!
+
+Earls-Quiz-TreeAndTable
+(BOUCLE 2 - 10:00:21:21)
+		02
+
+EARL	Il y a beaucoup de vent aujourd'hui sur les quais.
+
+EARL	Le pauvre Cranky a du mal à charger et à décharger les marchandises. (rire) Décharger cette marchandise-là en particulier s'avère très compliqué! Le vent la fait se balancer dans tous les sens! (rire) Vite Salty! Je crois que Cranky a besoin d'aide! Bon, vous êtes prêts pour la première question? Quelle marchandise Cranky essaye-t-il de décharger? S'agit-il d'une caisse? S'agit-il d'un sapin? Ou bien s'agit-il d'une mouette? Cranky essaye de décharger un grand sapin. Oh non! Attention! Eh bien dis donc Salty! C'est un magnifique sapin que tu as sur la tête! Son vert s'accorde bien avec ton jaune!
+
+(BOUCLE 3 - 10:01:16:14)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:22:03)
+		04
+
+EARL	Rouler en marche arrière peut parfois s'avérer compliqué. La marche avant est toujours beaucoup plus simple ! Mais comment fait-on pour effectuer un demi-tour sur une voie ferrée? La meilleure solution, c'est la plaque tournante! La plaque tournante place la locomotive devant la voie qu'elle veut emprunter.  Quelle forme a une plaque tournante? Est-ce qu'elle est ronde? Est-ce qu'elle est carrée? Ou bien est-ce qu'elle est triangulaire? Une plaque tournante est ronde! On en trouve partout sur Chicalor. Dans l'atelier des locomotives à vapeur. Dans celui des diésels. Il y en a même une au Château des Elfes.
+
+(BOUCLE 5 - 10:02:09:08)
+		05
+
+EARL	Oh oh je vous remercie d'avoir joué! Et surtout, j'espère que l'on se reverra très vite. Au revoir!
+
+Earls-Quiz-T-RexAndChildren
+(BOUCLE 2 - 10:00:22:00)
+		02
+
+EARL	Millie est une locomotive vraiment utile et efficace.
+
+EARL	C'est elle qui m'aide à gérer ma propriété. Aujourd'hui, Millie travaille en binôme avec Harvey pour livrer quelque chose d'un peu particulier pour une prochaine exposition. Eh doucement Harvey! Tu as fait peur à Millie! Bon, vous êtes prêts pour la première question? Qu'est-ce qui a fait sursauter Millie? Un fantôme? Un dinosaure? Ou bien une grenouille? C'est un dinosaure! En réalité, c'est une maquette grandeur nature pour mon nouveau parc de dinosaures Et j'en connais d'autres qui ont eu la peur de leur vie quand ils l'ont vu la première fois! (rire___)
+
+(BOUCLE 3 - 10:01:16:11)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:22:08)
+		04
+
+EARL	Thomas est très populaire sur Chicalor. Et il n'y a pas que les locomotives qui sont contentes de le voir. Les enfants, par exemple, adorent lui faire coucou et poussent des cris de joie quand il passe près d'eux. Et bien sûr, Thomas n'oublie jamais de les saluer en retour! Combien d'enfants y a-t-il sur le pont et qui disent bonjour à Thomas? Un enfant? Trois enfants? Ou bien cinq enfants? Un, deux, trois, quatre, cinq! Il y a cinq enfants qui font coucou à Thomas alors que  celui-ci passe sous le pont. Mais ne t'arrête pas Thomas! Tu as encore beaucoup de travail!
+
+(BOUCLE 5 - 10:02:09:08)
+		05
+
+EARL	Ohoh je vous remercie d'avoir joué! Et surtout, j'espère que l'on se reverra très vite! Au revoir!
+
+Earls-Quiz-TyreAndFeather
+(BOUCLE 1 - 09:59:59:20)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:18:23)
+		02
+
+EARL	Le gros contrôleur adore se déplacer dans sa belle voiture bleue. Mais hélas, voilà qu'elle a un pneu crevé. Il va falloir en trouver un autre si le gros contrôleur veut arriver à destination. Hourrah! Il a trouvé un pneu! Mais maintenant, c'est la voiture qui a disparu! Qui a bien pu partir avec? Vous êtes prêts pour la première question? Quelle forme a le nouveau pneu du gros contrôleur? Est-ce qu'il est carré? Est-ce qu'il est rond? Ou bien est-ce qu'il est triangulaire? Le nouveau pneu du gros contrôleur est rond! Ainsi, il peut rouler! Et le gros contrôleur a retrouvé sa voiture! A la casse! Visiblement, il l'a retrouvée juste à temps!
+
+(BOUCLE 3 - 10:01:13:08)
+		03
+
+EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:19:09)
+		04
+
+EARL	J'adore les animaux, et la plupart du temps, ceux-ci se comportent très bien!  Mais parfois, que ce soit des animaux  avec des plumes, de la laine, ou des poils... ils peuvent être à l'origine de grosses catastrophes!
+
+EARL	Oh! Oh misère! Lesquels de ces animaux ont-ils des plumes?  Les poules? Les moutons? Ou bien les taureaux? Ahaha, eh oui! Les poules ont des plumes! Les moutons ont de la laine. Et ce taureau en colère a des poils ras. Bravo, cher ami! Je ne vous savais pas capable de courir aussi vite! Note pour Mireille : j’ai été obligée de raccourcir Bravo cher ami pour pouvoir placer la phrase d’après qui est longue. Si je traduis littéralement l’anglais, je n’ai pas assez de place.
+
+(BOUCLE 5 - 10:02:06:12)
+		05
+
+EARL	Vous êtes des champions! Surtout revenez me voir bientôt! Au revoir!
+
+Earls-Quiz-WatchAndDiesel
+(BOUCLE 1 - 10:00:02:07)
+		01
+
+note	(chapeau introduction à repiquer dans EQ baby coupling)
+
+(BOUCLE 2 - 10:00:22:03)
+		02
+
+EARL	Quand on travaille pour un chemin de fer, on doit respecter les horaires! Les voyageurs ont des choses à faire et des endroits où aller. Et quand les trains arrivent en retard, ils ne sont jamais très contents! Le travail du gros contrôleur consiste justement à s'assurer que les trains ne soient pas en retard! Bon, vous êtes prêts pour la première question? De quoi se sert le gros contrôleur pour vérifier que les trains sont bien à l'heure? Se sert-il d'une montre à gousset? Se sert-il d'un téléphone? Ou bien se sert-il d'une tasse de thé? Le gros contrôleur se sert de sa montre à gousset pour voir si les locomotives sont bien à l'heure! Et elle est toujours bien rangée dans sa poche! Et aujourd'hui, tout le monde a été particulièrement ponctuel!
+
+(BOUCLE 3 - 10:01:16:04)
+		03
+
+EARL	EARL	(h) Bravo! C'est très bien! Et maintenant une autre !
+
+(BOUCLE 4 - 10:01:22:05)
+		04
+
+EARL	C'est un jour important pour le Centre de Recherche et de Secours. Le Maire doit inaugurer la toute nouvelle cloche d'alarme.
+
+EARL	Et le photographe du journal est venu exprès pour photographier toute l'équipe du Centre de Recherche et de Secours. Une petite minute! Je vois quelqu'un qui n'a pas sa place sur la photo! Qui ne fait pas partie de l'équipe des sauveteurs? Est-ce Rocky? Est-ce Harold? Ou bien est-ce Diesel? C'est Diesel qui ne fait pas partie de l'équipe des sauveteurs! Sa  maison, c'est l'atelier des diesels! Diesel est très doué pour déplacer les wagons mais aussi pour mettre au point de grosses bêtises!
+
+(BOUCLE 5 - 10:02:09:09)
+		05
+
+EARL	Ohoh je vous remercie d'avoir joué!  Et surtout, j'espère que l'on se reverra très vite! Au revoir!
+
+
+
+
+
+1
+
+

@@ -1,0 +1,1083 @@
+LA ESCLAVA BLANCA CAP30
+21/09/2016
+
+INSERT	LA ESCLAVA BLANCA EP 30
+
+(BOUCLE 1 - 00:01:01:08)
+		01
+
+ISABEL2	Merci beaucoup !
+
+ADELA	Qui t'a donné cette idée ?
+
+ISABEL2	Eh bien, Lucia a eu envie de prendre le petit déjeuner au grand air pour une fois et on a décidé d'en profiter puisqu'il ne pleut pas! Et il faut beaucoup moins chaud qu'à l'intérieur! Merci!
+
+ADELA	Il y a des insectes ici! Du soleil, du vent! Ce qui me paraît bien pire! Et où se trouve à cette heure celle qui a eu cette idée merveilleuse?
+
+ISABEL2	Elle sert de la limonade dans les champs!
+
+ADELA	(ah) (ha__) (hhh rire ahah) Cette folie est bientôt terminée et pour le prochain repas, nous irons à l'intérieur!
+
+ISABEL2	Pourquoi tu détestes Lucia?
+
+ADELA	J'ai dit que je la détestais?
+
+ISABEL2	Tu es une femme portée sur la religion, tu sais que ce n'est pas bien de mentir grand-mère!
+
+ADELA	(oh) (ah__) Ecoute Isabel, tu ne dois en aucun cas, essayer... de comprendre des choses qui ne sont pas à ta portée!
+
+ISABEL2	(hmm) Disons que je ne comprends pas comment une personne aussi dévôte,qui prie constamment et qui prêche l'amour comme toi, peut détester autant les autres!
+
+ADELA	Tu pourras parler de la vie quand tu auras suffisamment vécu! Et me donner des leçons quand tu auras grandi! Hilaria!
+
+ISABEL2	Grand mère...
+
+ADELA	Oui?
+
+ISABEL2	J'aimerais savoir ce que la vie t'a fait pour que tu sois aussi amère aujourd'hui!
+
+ADELA	Assez! La marquise t'a empoisonné l'esprit et t'a rendue irrespectueuse! Si tu ne veux pas apprendre à raisonner avec la méthode douce, je t'apprendrais à raisonner avec la méthode forte! Hilaria!
+
+ISABEL2	(ah ah hm) Qu'est-ce que ça veut dire?
+
+ADELA	Que pour le moment, tu es consignée dans ta chambre! Et tu verras quand ton père sera rentré, parce que j'ai l'intention de lui dire de quelle manière tu oses t'adresser aux adultes!
+
+ISABEL2	(ah)
+
+ADELA	Oui? Quoi...quoi?
+
+ISABEL2	(ah ah ah ah\) Non, rien! Rien!
+
+HILARIA	A vos ordres madame!
+
+ADELA	Et qu'elle ne sorte pas de sa chambre!
+
+(BOUCLE 2 - 00:03:04:22)
+		02
+
+VICTORIA	(ah___) Le docteur Lopez est mort!
+
+esclave F	Merci!
+
+VICTORIA	De rien!
+
+(BOUCLE 3 - 00:03:26:19)
+		03
+
+JUGE	Effectivement, c'est une nouvelle terrible! Mais... ça ne peut pas entrer en ligne de compte avec le jugement en cours!
+
+NICOLAS	Il y a une conséquence humaine, monsieur! ah__ C'est justement de cela que nous aimerions vous parler!
+
+JUGE	(ah ah__) Je vous écoute!
+
+NICOLAS	(ah__) Eh bien Jaime Lopez, se retrouve seul au monde, son père était la seule famille qu'il avait! (ah__) Et de plus, sa situation économique est inquiétante!
+
+JUGE	Oui, mais ce que vous dites ne peut modifier le verdict et encore moins le jugement qui est attendu avec beaucoup  d'impatience!
+
+NICOLAS	Non, bien sûr; je ne parlais pas de ça! (ah__) C'est juste que vous êtes le seul à pouvoir rendre les choses un peu moins difficiles! En acceptant qu'il assiste aux funérailles de son père!
+
+JUGE	(ah) Eh bien, la seule chose que je peux faire pour l'instant, c'est d'établir une caution, pour que le jeune homme soit en liberté conditionnelle jusqu'à ce que son jugement soit rendu! Mais je ne peux rien faire de plus, Don Nicolas !
+
+NICOLAS	Bien entendu! (ah__) Ce serait déjà un acte de miséricorde! Il sera sensible à votre clémence!
+
+(BOUCLE 4 - 00:04:30:05)
+		04
+
+PERE OCTAVIO	Mes très chers frères... nous sommes rassemblés aujourd'hui pour faire nos adieux au docteur Arturo Lopez! Un membre important de notre société... et un ami fidèle et délicat de vous tous qui êtes présents!
+
+ISABEL2	Je m'en veux tellement d'avoir été ausi cruelle avec Jaime!
+
+PERE OCTAVIO	Recommandons son âme à Dieu! Arturo a vécu en harmonie avec Dieu... Et il a toujours été très actif dans la vie de la paroisse!
+
+VICTORIA	Enfin, c'est lui qui a tué Rosita!
+
+ISABEL2	Et comment c'est possible, puisqu'ils ne se connaissaient pas tous les deux?
+
+PERE OCTAVIO	Mes frères, je vous invite à prier pour notre ami Arturo!
+
+ISABEL2	Hm?
+
+VICTORIA	Tout le monde a un côté obscur et un côté lumineux...
+
+PERE OCTAVIO	Et à lui offrir un dernier hommage en cette église où nous sommes réunis aujourd'hui sous le regard bienveillant de notre Seigneur!
+
+VICTORIA	il y a des moments dans la vie où on dévoile plus l'un que l'autre!
+
+(BOUCLE 5 - 00:05:08:03)
+		05
+
+VICTORIA	Il a choisi ce chemin,
+
+PERE OCTAVIO	Dieu l'accueillera près de lui comme il le fait toujours avec ses enfants, dans sa grande clémence!
+
+VICTORIA	et son destin aussi! (ah) Ce qui arrive est le résultat de toutes ses mauvaises actions!
+
+PERE OCTAVIO	Gloire à toi Seigneur qui est venu sur terre afin de réparer toutes nos fautes... Merci Seigneur nous... Dieu du ciel...
+
+VICTORIA ENFANT	Je dois aller voir ma famille.
+
+PERE OCTAVIO	Non, le Palenque n'existe plus fillette!
+
+VICTORIA ENFANT	Comment vous le savez, dites-le-moi? Je ne veux pas aller dans un autre pays..
+
+PERE OCTAVIO	Je suis désolé fillette, tu n'as pas le choix... (hmhmhm) Excusez-moi! Je suis ému avec tous ces évènements! A présent, demandons à Dieu... de l'accueillir dans sa Sainte Gloire... son acte était le fruit de la folie passagère... qui avait pris possession de son âme les derniers jours de son existence!
+
+JAIME	(ah huh ah___)
+
+(BOUCLE 6 - 00:05:50:04)
+		06
+
+JAIME	De la folie? Mon père n'était pas fou!
+
+PERE OCTAVIO	Du calme mon enfant, du calme, du calme!
+
+JAIME	(aha aha) Ce sont des mensonges de ces sales hypocrites! (aha pleure) Il prenait soin de vos familles! (ha pleure) Vous ne savez rien!
+
+ADELA	Tout cela manque de pudeur!
+
+ANA	Très souvent, douleur ne rime pas avec pudeur!
+
+ADELA	Ce qui me choque le plus, c'est que c'est la faute d'un esclave tout ça!
+
+ANA	(h) Excusez-moi!
+
+ADELA	Qu'est-ce que j'ai dit?
+
+ANA	(ha___)
+
+(BOUCLE 7 - 00:06:30:20)
+		07
+
+LOPEZ2	(ha__) (ha__) Les gens se sont dispersés!
+
+GRANADOS	Et Jaime?
+
+NICOLAS	(h) Dans sa chambre! Il n'a pas envie de parler! (ah) Mais je me charge de lui!
+
+GRANADOS	Tu es sûr de savoir comment faire?
+
+NICOLAS	C'est ce qu'il y a de mieux! (ah__) Dans l'état actuel des choses,une autre ville sera un paradis pour lui! Je me chargerai aussi des dépenses! Ne vous inquiétez pas!
+
+GRANADOS	Oui, il vaut mieux qu'il s'en aille! J'en ai assez de ce jeune homme!
+
+NICOLAS	(ah__) Laissez-moi m'en occuper!
+
+LOPEZ2	Merci Nicolas!
+
+GRANADOS	Merci!
+
+(BOUCLE 8 - 00:07:27:10)
+		08
+
+JAIME	(ah__) Je n'ai envie de parler à personne!
+
+NICOLAS	Ton père a laissé une lettre où il dit que sa dernière volonté... est que tu soies libre!
+
+JAIME	Vous n'avez qu'à me payer l'avocat que vous m'avez promis,
+
+LOPEZ2	et dites lui de gagner en appel!
+
+NICOLAS	Jaime, de mon côté, j'ai consulté un excellent avocat; (ah__) ses collègues de Bogota et lui disent que l'appel ne servira qu'à ratifier la décision du tribunal!
+
+JAIME	(aha___)
+
+NICOLAS	(ah__) Ce qui signifie une condamnation à perpétuité!
+
+JAIME	(aha aha) Quoi?
+
+NICOLAS	Tu dois savoir que tu n'es pas riche mon ami! Ton père avait tout perdu!
+
+(BOUCLE 9 - 00:08:16:08)
+		09
+
+JAIME	Et maintenant, qu'est-ce que je fais Nicolas? (ha__) Je ne veux pas payer pour vous tous!
+
+NICOLAS	Ce n'est pas la peine de réagir de cette façon!
+
+JAIME	Ah non? Et qu'est-ce que je dois faire? Que je me tue si je ne veux pas passer toute ma vie dans une cellule? (aha___)
+
+NICOLAS	(ah__) Ecoute-moi! J'ai une meilleure solution !
+
+JAIME	Laquelle?
+
+NICOLAS	(ah___) Je veux que tu saches que tu n'es pas seul! Mais tu dois avoir confiance en moi!
+
+JAIME	(ah__)
+
+(BOUCLE 10 - 00:09:05:04)
+		10
+
+JAIME	Nicolas... attendez!
+
+NICOLAS	Qu'est-ce que tu as?
+
+JAIME	J'ai du mal à galoper avec une seule main!
+
+NICOLAS	(aha__) Essaye de faire un effort! Il faut s'éloigner le plus vite possible avant qu'ils voient que tu es parti et qu'ils te pourchassent!
+
+JAIME	(aha)
+
+NICOLAS	Tu veux qu'ils viennent au port et qu'ils te voient embarquer?
+
+JAIME	Mais où on va exactement?
+
+NICOLAS	Tu vas voir! (tsk tsk)
+
+JAIME	(ahaha)
+
+(BOUCLE 11 - 00:09:31:03)
+		11
+
+SIERVO	La récolte est prête... le maïs est mûr, allons tous dans les champs... récolter les épis... (ha__) Est-ce que tous les esclaves sont au courant pour l'histoire du Docteur Lopez?
+
+NOHEMI	Oui, Siervo, les mauvaises nouvelles circulent plus vite que les autres!
+
+SIERVO	(hmm)
+
+TRINIDAD	Je crois pas que ce soit une mauvaise nouvelle!
+
+MIGUEL	Elle est très mauvaise! Tu ne vois pas? Sa mort est quand même très bizarre!
+
+CANDELA	Il est peut-être mort de chagrin... et ça se comprendrait, avec un fils assassin!
+
+(BOUCLE 12 - 00:10:11:10)
+		12
+
+MIGUEL	Je ne crois pas que ce soit dû seulement à son désespoir! Jaime Lopez connaissait ceux qui chassent notre peuple et tôt ou tard,il aurait été dénoncé! Son père faisait sûrement pression sur lui!
+
+CANDELA	Tu veux dire que le meurtrier est en liberté aujourd'hui?
+
+MIGUEL	Bien sûr que oui, Candela! J'arrive pas à croire que toutes ces morts aient été tué par ce garçon! J'espère que l'affaire sera traîtée à Bogota et qu'on y verra plus clair! Quoi qu'il arrive, ce serait un pas énorme sur le plan légal! Pour le moment, il n'y a pas eu de justice pour Rosita ni pour les autres!
+
+SIERVO	Le contremaître arrive... je ferai mieux de partir... avant que le maître me cherche! (ahaha) Salut! (aha aha aha aha aha) (aha) (aha)
+
+(BOUCLE 13 - 00:10:58:23)
+		13
+
+NICOLAS	On va descendre cette falaise... un homme t'attend pour t'emmener au bateau! (haha essoufflé)
+
+JAIME	(ahahaha)
+
+NICOLAS	Et au bout du chemin, tu verras le capitaine que j'ai contacté pour te sortir du pays!
+
+JAIME	(ah ah aha)
+
+NICOLAS	Il doit déjà être arrivé à l'heure qu'il est!
+
+JAIME	(aha aha h) Oui mais attendez,... je n'ai pas besoin d'aller aussi loin, je pourrais me cacher... et je ne sais pas, fonder un groupe sous vos ordres pour me venger des esclaves !
+
+NICOLAS	(ha aha ha) On verra, dans quelque temps peut-être! (ah_) Pour l'instant, tu dois fuir la ville! (ha)
+
+JAIME	Je vous remercie de m'avoir aidé à partir!
+
+NICOLAS	C'est le moins que je puisse faire! Tu peux y aller! (ahaha)
+
+JAIME	(hm ah aha h hm) (hmm aha aha aha)
+
+NICOLAS	La première règle de la survie... c'est de ne jamais parler plus qu'il ne le faut!
+
+JAIME	(aha aha aha)
+
+NICOLAS	(arg) (ah__)
+
+(BOUCLE 14 - 00:12:07:15)
+		14
+
+ADELA	Non, je ne suis pas d'accord!
+
+ISABEL2	Oh non grand-mère!
+
+ADELA	Je trouve cela d'un très mauvais goût que tu aies quitté le deuil aussi rapidement!
+
+VICTORIA	Pour ma part, je connaissais à peine le docteur Lopez!
+
+ISABEL2	Et moi, je déteste son fils qui allait devenir mon fiancé, pourquoi je jouerai l'hypocrite?
+
+NICOLAS	(ha__)
+
+ADELA	Pourquoi tu es tout sale?
+
+NICOLAS	(ah) Parfois, il faut savoir se salir pour conclure des affaires! (ah) Mère, je suis profondément heureux que tu soies revenue!
+
+ADELA	Merci mon fils!
+
+NICOLAS	Et je voulais te dire,
+
+ADELA	(ah)
+
+NICOLAS	(ah__) que je ne veux plus que tu critiques les décisions que Lucia prendra pour l'hacienda! Je ne veux pas de discussions ni de problèmes dans cette maison!
+
+ADELA	Je faisais seulement de petits changements pour que tout rentre dans l'ordre, mon fils!
+
+NICOLAS	Très bien! A partir de maintenant... il ne faut plus regarder en arrière! (ah__) Un avenir très prometteur s'ouvre devant nous!
+
+(BOUCLE 15 - 00:12:52:18)
+		15
+
+VICTORIA	De quoi parles-tu?
+
+NICOLAS	Ce qui est arrivé aux Lopez est très triste, (ah_)mais la chance nous sourit! Il me devait beaucoup d'argent... mais il va pouvoir rembourser ces dettes puisque la loi prévoit... (ah__) que tous ses biens m'appartiendront!
+
+ADELA	Ah oui?
+
+ISABEL2	Mais alors, le pauvre Jaime va se retrouver à la rue!
+
+NICOLAS	J'ai une mauvais nouvelle à vous annoncer! (ah___) Jaime s'est enfui!
+
+ISABEL2	Comment?
+
+VICTORIA	De la prison?
+
+NICOLAS	C'est terrible! (ah__) Tout ce qui se passe dans cette famille est décidement bien triste!
+
+ADELA	(ah__) Eh bien... c'est le cycle de la vie mon fils!
+
+NICOLAS	C'est vrai Mère!
+
+VICTORIA	Et son appel et la condamnation qu'ils lui ont infligée?
+
+NICOLAS	Je ne sais pas du tout! Mais s'il ne se présente pas, il ne se passera rien! Le procès prendra fin!
+
+VICTORIA	(ah__) (hhh)
+
+ISABEL2	(hmm)
+
+(BOUCLE 16 - 00:13:41:00)
+		16
+
+ANGELA	Mais non, il n'est pas là!
+
+MANUELA	Et alors?
+
+ANGELA	Il n'est pas là!
+
+JESUS	Qu'est-ce qui se passera s'il ne se présente pas à l'audience aujourd'hui?
+
+ALONSO	On attend qu'il arrive et on verra avec le juge!
+
+EUGENIA	D'accord!
+
+JUGE	Non maître Restrepo! Si l'accusé ne vient pas... et sans avocat de la défense ne se présente pas ... on ne peut pas poursuivre l'audience!
+
+FELIPE 	Mais dans ce cas, il faut aller le chercher!
+
+JUGE	Je comprends votre frustration, mais je suis désolé, cela ne relève pas de ma compétence!
+
+MARQUEZ	J'ai envoyé mes hommes à sa recherche quand j'ai appris qu'il n'était pas chez lui! Mais personne ne l'a vu et personne ne sait ce qui lui est arrivé!
+
+JUGE	Et si Jaime Lopez ne se présente pas, nous ne pourrons pas écouter les déclarations ni mener les interrogatoires!
+
+MIGUEL	Ca veut dire qu'on ne peut plus rien faire?
+
+ANGELA	Ca s'arrête là?
+
+FELIPE 	Monsieur le Juge,il serait peut-être judicieux de procéder au moins à l'interrogatoire des assassins des affranchis!
+
+ANGELA	Mais oui!
+
+JUGE	Mais la convocation d'aujourd'hui ne concernait que l'accusation de Jaime Lopez , et il n'est pas là!
+
+(BOUCLE 17 - 00:14:31:21)
+		17
+
+FELIPE 	Mais la raison pour laquelle il y a eu ces meurtres est beaucoup plus importante!
+
+JUGE	Mais sur ce sujet, ce tribunal, a déjà une position extrêmement claire! Les assassinats ont été commis par les Lopez, père et fils! Et lorsqu'ils ont compris qu'on les avait démasqués et qu'ils allaient être condamnés, de peur, le père a mis fin à ses jours, et le fils s'est enfui, et c'est cette information que je compte envoyer à la capitale!
+
+FELIPE 	Avec le respect que je vous dois, monsieur, vous ne pouvez pas en rester là, vous devez absolument savoir ce qui s'est passé!
+
+JUGE	Ecoutez, Maître Restrepo, j'ai déjà fait beaucoup plus que n'importe quel autre juge de la République, ne l'aurait fait! Et vous le savez! J'ai accepté de mener à bien une procédure entamée par un esclave! Personne ne l'avait fait dans ce pays! Et maintenant, je suspends l'audience, ça suffit, j'ai déjà perdu assez de temps!
+
+AMB ESCLAVES	Oh non, c'est injuste, il ne peut pas partir comme ça! On veut savoir ce qui s'est passé et on veut que le meurtrier paye pour ses fautes!
+
+MIGUEL	Monsieur le juge! Felipe!
+
+FELIPE 	C'est vrai, il a raison, il est le seul à avoir donné suite à la demande d'un esclave! Il a été très bien jusqu'à maintenant!
+
+(BOUCLE 18 - 00:15:25:12)
+		18
+
+GRANADOS	Tu es sûr que personne ne retrouvera Jaime!
+
+NICOLAS	(ah__) Oui, ne t'en fais pas pour ça Francisco! J'en suis absolument sûr! (ah) Le jeune homme est déjà très loin à l'heure qu'il est!
+
+(BOUCLE 19 - 00:15:52:17)
+		19
+
+AMB ESCLAVES	On s'est bien amusés à cette soirée, je n'ai pas arrêté de danser; la musique était géniale!
+
+ISABEL2	Leurs fêtes ont l'air tellement joyeuses! Il y a de la musique, ils dansent... Je suis sûre qu'elles sont très amusantes, j'espère que je pourrais y aller moi aussi un jour!
+
+VICTORIA	Je te comprends! Ils ont l'air de bien s'amuser! (hmm)
+
+ISABEL2	Miguel! Viens me voir! (ah__) Je voudrais te féliciter d'avoir gagné le procès! Bien joué!
+
+MIGUEL	Merci mademoiselle Isabel!
+
+ISABEL2	(hm hhhh)
+
+ADELA	Tu dois lui dire "merci maîtresse"!
+
+(BOUCLE 20 - 00:16:22:22)
+		20
+
+NICOLAS	(ohohoh) Vous faites une réunion? Qu'est-ce qu'il y a? (aha aha aha aha aha ) Tu ne va pas à la fête avec tes amis esclaves?
+
+MIGUEL	Non monsieur! Je préfère me reposer dans la baraque!
+
+NICOLAS	Vas-y l'ami! Je t'en donne la permission! Tu peux sortir de l'Eden! (ah__) C'est terminé, tu n'as plus d'ennemis en ville! Et quelques verres de rhum te feront passer toutes tes tensions! Mais j'espère que tu ne rencontreras pas l'admiratrice de l'autre jour! (ah__) Parce que sinon tu n'arriveras jamais à la fête! (ah)
+
+VICTORIA	Une admiratrice?
+
+MIGUEL	(hhh)
+
+VICTORIA	(hmm)
+
+NICOLAS	Une femme blanche! Qui a l'air folle de lui! Va mon ami, tu passeras une bonne nuit!
+
+ADELA	Ca ne te gêne pas d'encourager une relation entre un esclave et une femme blanche?
+
+ISABEL2	Grand mère... il n'y a pas de couleur de peau en amour!
+
+MIGUEL	Excusez-moi!
+
+NICOLAS	Et toi chérie? Comment vas-tu?
+
+VICTORIA	(aha) Bien!
+
+NICOLAS	(hhh)
+
+(BOUCLE 21 - 00:17:23:07)
+		21
+
+GABRIEL	Salut Jesus! Comment ça va?
+
+JESUS	Ton nouvel instrument?
+
+GABRIEL	(aha) Eh oui! Et aujourd'hui, je l'essaye! On verra comment il sonne!
+
+JESUS	On va voir ça! Manuela va l'essayer!
+
+INSERT	Note pour l'ingé son : voir si la chanson est sur la VI)
+
+ANGELA	Miguel! Miguel!
+
+AMB ESCLAVES	(La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...)
+
+MIGUEL	Comment ça va? Qu'est-ce que c'est?
+
+NOHEMI	Quelques pièces pour te payer ta liberté Miguel! On en a tous donné un peu!
+
+MIGUEL	Non, Angela, je n'ai jamais voulu ça, je ne peux pas les accepter!
+
+AMB ESCLAVES	(La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...)
+
+NOHEMI	Miguel! Ce que tu as fait était vraiment très courageux! On veut que tu soies libre pour que tu continues à lutter pour notre cause!
+
+AMB ESCLAVES	(La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir...)
+
+ANGELA	C'est vrai Miguel! Tu nous as rappelé qu'on doit être fiers! Et qu'on doit continuer à lutter pour retrouver notre dignité! Qu'il reste de l'espoir ! Tu as réussi à te faire entendre de la justice!
+
+(BOUCLE 22 - 00:18:13:03)
+		22
+
+ANGELA	C'est pour ça qu'avec tous les esclaves et les affranchis de la province de Magdalena, nous avons rassemblé cet argent,
+
+AMB ESCLAVES	(La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...)
+
+ANGELA	parce que c'est notre manière de te dire merci ! Maintenant tu es notre chef, tu ne peux pas rester enchainé comme tu l'étais! Eh...mes amis, arrêtez, arrêtez la musique! Je vous présente notre nouveau chef qui a eu le courage d'affronter les hommes blancs! Et tant pis si le jeune meurtrier court toujours quelque part! Il est en fuite,et c'est lui... c'est lui qui l'a fait fuir!
+
+AMB ESCLAVES	(Bravoooooooooooooo! Oui!) La la la la mon coeur est enflammé! depuis ce matin... viens me donner un baiser... je ne peux pas m'endormir reste cette nuit avec moi...
+
+INSERT	(note pour l'ingé son, pour moi il n'y a pas de respi de Victoria...)
+
+(BOUCLE 23 - 00:19:42:05)
+		23
+
+MANUELA	Viens Miguel, on va danser?
+
+MIGUEL	Non, merci Manuela! J'aurais peut être envie de danser plus tard!
+
+MANUELA	(hmmm)
+
+TRINIDAD	Attends, qu'est-ce qui t'arrive? Pourquoi tu refuses de danser avec une belle fille comme elle? Ton coeur n'est pas pris pourtant!
+
+MIGUEL	Je n'ai pas envie de danser; c'est tout!
+
+TRINIDAD	Qu'est-ce qui se passe en ce moment? Je croyais qu'on était amis tous les deux! J'ai vu que tu t'éloignais de moi! Et que tu étais plus secret, qu'est-ce qui se passe?
+
+MIGUEL	De quoi tu parles?
+
+TRINIDAD	Tu ne veux rien me dire!
+
+MIGUEL	Te dire quoi?
+
+(BOUCLE 24 - 00:20:32:18)
+		24
+
+JULIAN	Allez, plus vite, au travail, on se dépêche! Plus vite que ça!
+
+CANDELA	C'est qui l'homme qui arrive avec Angela?
+
+MIGUEL	C'est Felipe Restrepo! L'avocat qui m'a représenté au procès!
+
+CANDELA	Ca veut dire que c'est pour aujourd'hui!
+
+NOHEMI	Oui ma belle! C'est aujourd'hui que notre ami redevient libre!
+
+CANDELA	Je suis heureuse pour toi Miguel!
+
+MIGUEL	(ahaha) Merci! Je pourrai plus vous aider quand je serai dehors! Je ne vous décevrai pas!(ah__)
+
+CANDELA	Qu'est-ce que je donnerai pour voir la tête de Nicolas!
+
+JULIAN	Allez, tout le monde au travail, plus vite que ça!
+
+(BOUCLE 25 - 00:21:08:05)
+		25
+
+VICTORIA	Bonjour!
+
+ANGELA	Bonjour!
+
+FELIPE 	Bonjour!
+
+VICTORIA	A quoi dois-je l'honneur de votre visite?
+
+FELIPE 	De nouvelles affaires à voir avec vous Marquise!
+
+ADELA	Et toi, femme? Tu es venue nous demander de revenir à l'Eden? J'imagine que la liberté est difficile à supporter!
+
+ANGELA	Vous vous trompez madame! La liberté... est la meilleure chose qui me soit arrivée dans ma vie!
+
+ADELA	Ca c'est incroyable!
+
+ANGELA	Aujourd'hui, je suis une femme indépendante! Et je tiens mon propre magasin de jeu à Santa Marta!
+
+ADELA	Ah oui, c'est vrai! J'ai effectivement entendu parler de toi, et de ce que tu vends dans cet endroit!
+
+ANGELA	Donia Adela, non seulement,vous en avez entendu parler, mais vous savez très bien où il est! Plusieurs fois, je l'ai vue passer devant mon magasin ces derniers temps et je l'ai invitée à venir mais vous voyez, elle n'a jamais voulu entrer!
+
+FELIPE 	C'est vrai? Vous ratez quelque chose!
+
+VICTORIA	(ahh) Vous êtes la bienvenue ici! C'est dommage qu'on ne se soit pas vue avant! Quand je suis arrivée d'Amérique, vous alliez partir de l'Eden!
+
+ANGELA	C'est gentil de me dire ça! Madame la Marquise! Je n'ai entendu que des bonnes choses sur vous!
+
+ADELA	Angela, les esclaves sont là bas comme toujours!
+
+ANGELA	Je connais le chemin Donia Adela! J'ai passé beaucoup de temps dans ces baraques! Mais aujourd'hui, si vous permettez, je voudrais parler à Don Nicolas!
+
+ADELA	(ah__) Dommage mais mon fils est occupé!
+
+ANGELA	Eh bien allons-nous-en!
+
+VICTORIA	Non! Je vais l'appeler! Entrez!
+
+FELIPE 	Merci beaucoup! Allez-y Donia Angela! Je vous en prie, entrez, vous êtes chez vous!
+
+(BOUCLE 26 - 00:22:51:23)
+		26
+
+HILARIA	Tu veux que je te dise ce qui passe? Eh bien aujourd'hui, je vais servir Angela dans leur salon comme si elle était l'une des leurs!
+
+SIERVO	Je ne vois pas ce qu'il y a de mal à ça,Hilaria!
+
+HILARIA	Je vais te le dire moi! Il y a des règles sur cette terre! Et ce qui se passe aujourd'hui, ça n'a ni queue, ni tête! (h) Maintenant, je vais devoir servir cette Angela,tu sais l'ancienne esclave, comme une maîtresse!
+
+SIERVO	Arrête un peu de te plaindre! Je te trouve rancunière! Et tu es trop en colère après elle! Elle est une femme libre, elle peut faire ce qu'elle veut alors toi, au lieu de la critiquer, tu devrais la féliciter!
+
+HILARIA	Tu veux que je la félicite! (hah) Sa vie ne me fait pas rêver en tous cas! Ma vie est comme je veux qu'elle soit!
+
+SIERVO	Et la sienne, non? (hhhhhhhhhhhhhhhhhhh) (ahaha)
+
+(BOUCLE 27 - 00:23:45:09)
+		27
+
+AMB ESCLAVES	(ambiance jusqu'à la fin de la scène)
+
+NOHEMI	Tu as vu comment il dansait?
+
+esclave en jaune H	Oui, c'est vrai ce que tu dis!
+
+esclave bandeau rouge F	(ahaha) Tu peux m'en donner un peu?
+
+NOHEMI	Tu en veux encore?
+
+esclave de dos F	Oui tiens!
+
+esclave homme	Je suis fatigué aujourd'hui! C'était dur dans les champs!
+
+esclave F	La baraque est fraîche la nuit! Ca fait du bien de manger!
+
+esclave de dos F	Moi aussi j'avais faim!
+
+esclave en jaune H	Et il fait chaud en plein soleil!
+
+TOMAS	Alors, tu sais ce que tu vas faire maintenant que tu es libre?
+
+MIGUEL	Je ne veux pas faire de plan pour l'instant! Et on ne sait pas encore si c'est fait!
+
+TOMAS	Mais tu devrais commencer à y réfléchir!
+
+MIGUEL	Pourquoi?
+
+TOMAS	(ha__) Victoria veut s'enfuir!(hh)
+
+(BOUCLE 28 - 00:24:25:04)
+		28
+
+TOMAS	Hier on a parlé avec elle... On a prié , Milagro priait pour elle et moi pour Lorenza! Elle nous a parlé! Elle nous a dit.. (ah__) elle a dit que cette fois, il n'y aurait pas de contretemps!
+
+MIGUEL	Et le fait que l'hacienda lui appartient Tomas?
+
+TOMAS	(ttt) Elle  n'a aucun moyen de le prouver! (ah___) Mais maintenant, que tu vas être un homme libre, tu vas pouvoir nous aider à sortir d'ici Miguel! (ah__) (ha__) (ah__) Et puis, Victoria, elle veut vraiment être avec toi!
+
+(BOUCLE 29 - 00:25:05:02)
+		29
+
+MIGUEL	Mais je dois lutter pour notre cause Tomas! De toute manière, Victoria est mariée avec Don Nicolas!
+
+TOMAS	Mais elle ne l'aime pas! Elle ne l'aime pas Miguel! La loi des hommes blancs, est la loi pour les hommes blancs!
+
+esclave homme	Ce serait bien qu'ils nous changent les outils
+
+esclave F	Il fait chaud aujourd'hui, ça va être dur dans les champs!
+
+TOMAS	Nous avons nos propres lois!
+
+esclave en jaune H	Tu veux qu'on lui parle?
+
+TOMAS	Depuis toujours, ils arrivent à nous les imposer, mais...
+
+esclave en jaune H	Non, ça ira, je me débrouille!
+
+esclave F	Tu peux me redonner un peu de fruits?
+
+TOMAS	ce ne sont pas les nôtres!
+
+esclave F	J'arrête pas d'être fatiguée en ce moment!
+
+esclave de dos F	Il est petit le maïs cette année!
+
+TOMAS	(ah__) Miguel, (ha__) on doit faire tout ce qu'on peut pour que ça s'arrange, (ah__) pour qu'on soit de nouveau heureux! (ah ah ah) Tu n'es pas d'accord?
+
+esclave homme	Tu me donnes de l'eau?
+
+esclave de dos F	C'est dur en ce moment avec cette chaleur! Et ils nous font travailler pendant des heures!
+
+esclave en jaune H	Oui, je suis fatigué moi aussi!
+
+(BOUCLE 30 - 00:25:53:20)
+		30
+
+ISABEL2	Angela! Ca fait combien de temps que je ne t'ai pas vue? Ca me fait tellement plaisir de te revoir! Tu vois? Je peux toucher les personnes maintenant...
+
+ADELA	Isabel, ceci n'est pas approprié! Je ne voudrais pas que tu incommodes Angela!
+
+ISABEL2	Pourquoi? Ca te dérange?
+
+ANGELA	Au contraire! Ca me rend heureuse!
+
+ISABEL2	(hmm)
+
+ANGELA	Et si tu veux bien me serrer dans tes bras, ce sera encore mieux!
+
+ISABEL2	Avec plaisir!
+
+FELIPE 	Bonjour! Bonjour!
+
+ANGELA	Bonjour!
+
+NICOLAS	A quoi dois-je l'honneur de cette visite inattendue?
+
+(BOUCLE 31 - 00:26:31:19)
+		31
+
+ANGELA	Don Nicolas, je sais que vous êtes un homme qui a beaucoup d'occupations, alors j'irai droit au but! Maître Restrepo m'accompagne parce qu'il souhaite vous proposer un marché!
+
+NICOLAS	Ah oui? Et de quoi il s'agit Angela?
+
+ANGELA	(ah___) Je suis venue acheter... la liberté de Miguel!
+
+ISABEL2	(oh)
+
+ADELA	(hhhh ah)
+
+FELIPE 	Les esclaves et les affranchis, les mûlatres, et même quelques blancs de la région, ont participé à cette collecte! Vous savez que Miguel est devenu célèbre après son procès contre Jaime Lopez, et il a acquis une certaine notoriété!
+
+NICOLAS	(h) Cet esclave n'est pas à vendre!
+
+(BOUCLE 32 - 00:27:10:23)
+		32
+
+FELIPE 	Je sais que vous tenez à le garder avec vous dans cette hacienda, mais si vous acceptez d'écouter votre coeur, vous serez le premier à reconnaître, que Miguel mérite sa liberté! C'est lui qui a permis l'arrestation de la personne qui a tué bon nombre de ses frères, et c'est comme ça, qu'ils voudraient le remercier!
+
+NICOLAS	Miguel n'a pas de prix !
+
+FELIPE 	Vous n'avez même pas regardé ce qu'il y a dedans! Croyez-moi, il y en a assez!
+
+ISABEL2	Oui!
+
+NICOLAS	C'est votre avis! (ah__) J'attribue une valeur à ce que je possède selon mes propres critères!
+
+VICTORIA	Ne sois pas si catégorique! S'il te plaît, écoute-le!
+
+NICOLAS	Tais-toi Lucia! C'est une conversation entre hommes! Ton opinion ne compte pas !
+
+(BOUCLE 33 - 00:27:51:15)
+		33
+
+NICOLAS	(ah_) Comme je ne veux pas que ça se reproduise, je vais être clair avec vous: ce n'est pas une question d'argent! Cet esclave n'est pas à vendre, je n'ai plus rien à vous dire, cette conversation est terminée! Et maintenant, excusez-moi!
+
+FELIPE 	Vous êtes quelqu'un de faux monsieur!
+
+NICOLAS	Pardon?
+
+FELIPE 	Vous avez bien entendu! Vous vous donnez des airs de grand seigneur, de quelqu'un d'honnête mais c'est une façade!
+
+NICOLAS	Je ne vous permets pas de m'insulter sous mon propre toit!
+
+FELIPE 	C'est ça ce que je dirai à Miguel? Je lui dirai que vous ne le vendrez jamais! Mais il ne me croira pas parce qu'il a beaucoup d'estime pour vous! Pour le maudit lien qui existe entre vous deux!
+
+ADELA	Mais enfin que dites-vous? Quel lien il pourrait bien y avoir entre ce misérable esclave et mon fils?
+
+ISABEL2	De quoi vous parlez, je ne comprends rien de...
+
+NICOLAS	Ne vous approchez plus jamais d'ici! Ou vous me le paierez!
+
+(BOUCLE 34 - 00:28:36:17)
+		34
+
+ANGELA	Ce n'est pas la peine de nous menacer! Nous allions partir! Je n'ai pas envie de respirer plus longtemps le même air que cet homme!
+
+ADELA	Qu'est-ce qui te prend de jouer les insolentes? Comment oses-tu traîter cet homme qui a pris soin de toi, qui t'a nourrie pendant des années?
+
+ANGELA	Il a pris soin de moi? C'était des années de violence, de punition et de coups de fouet!
+
+FELIPE 	Vous êtes comme les autres propriétaires d'hacienda! Vous êtes comme Lopez! Vous avez peut-être quelque chose à voir avec ce qui est arrivé aux affranchis et à Rosita!
+
+ISABEL2	Papa, pourquoi Don Felipe dit des choses pareilles?
+
+NICOLAS	Moi, on me respecte!
+
+VICTORIA	Nicolas, qu'est-ce que tu fais?
+
+NICOLAS	Pousse-toi, va dans ta chambre et restes-y jusqu'à nouvel ordre!
+
+ISABEL2	Papa!
+
+NICOLAS	Sortez de chez moi! Plus vite!
+
+FELIPE 	Je m'en vais parce que je n'ai rien à attendre d'une personne de votre genre! Venez Angela! Excusez-moi!
+
+(BOUCLE 35 - 00:29:27:17)
+		35
+
+TOMAS	Pourquoi c'est aussi long?
+
+MIGUEL	Je n'en sais rien Tomas!
+
+TRINIDAD	Ils écrivent ta lettre d'affranchissement!
+
+JULIAN	Qu'est-ce qui se passe? Pourquoi vous n'êtes pas dans les champs? Tout le monde au travail, allez!
+
+assistant1	Vous avez entendu, au travail! Allez!
+
+NICOLAS	Julian!
+
+JULIAN	Oui Don Nicolas!
+
+NICOLAS	Viens ici! Accompagne ces gens en dehors de l'hacienda et assure-toi qu'ils ne reviennent jamais!
+
+JULIAN	Très bien monsieur!
+
+FELIPE 	Cet homme ne te libèrera jamais Miguel! Il ne faut pas te faire d'illusions! Il est ton ennemi!
+
+assistant1	Où tu vas?
+
+FELIPE 	C'est un hypocrite!
+
+NICOLAS	Je veux que tu retournes travailler! Tu entends ce que je te dis? Retourne travailler!
+
+MIGUEL	Pourquoi vous ne me libérez pas?
+
+(BOUCLE 36 - 00:30:18:19)
+		36
+
+NICOLAS	Je t'ai donné un ordre!
+
+VICTORIA	Nicolas!
+
+ANGELA	(Ah oh)
+
+NICOLAS	Va-t-en!
+
+MIGUEL	Ne la maltraitez pas!
+
+ISABEL2	Papa, qu'est-ce que tu fais?
+
+NICOLAS	Si tu ne m'obéis pas, (ah ) alors, je punirais tous les esclaves! C'est ça que tu veux? Que tous ceux que tu défends payent pour ton insolence? C'est ça que tu veux?
+
+TOMAS	Viens avec moi! On s'en va!
+
+NICOLAS	Allez toutes à l'intérieur! Quant à vous, (ah__) si jamais vous remettez les pieds sur mes terres, je vous tire dessus!
+
+FELIPE 	On s'en va!
+
+NICOLAS	Viens mère!
+
+assistant1	Tout le monde au travail! Plus vite!
+
+MAN	Allez!
+
+assistant1	On se dépêche!
+
+(BOUCLE 37 - 00:31:11:24)
+		37
+
+FELIPE 	On s'en va!
+
+ANGELA	Miguel! Je suis tellement en colère! Je lui en veux! Je suis désolée, on ne pourra rien y faire!
+
+MIGUEL	Je ne crois pas Angela, la colère peut nous aider à faire des tas de choses! Vous en avez déjà assez fait pour moi tous les deux et je vous en remercie!
+
+ANGELA	Mon enfant! Nous avons besoin de ton aide pour défendre la cause! Garde cette bourse, c'est l'argent qu'on a récupéré pour ta libération!
+
+MIGUEL	Non Angela, non! (ah__)Tu me les donneras quand ce sera fait! Parce que de toute manière, je ne resterai pas ici toute ma vie, ça, je vous le jure!
+
+FELIPE 	Qu'est-ce que tu vas faire? Tu as une idée? (hm) Qu'est-ce que tu as en tête Miguel?
+
+JULIAN	On y va maintenant! Je vous raccompagne!
+
+(BOUCLE 38 - 00:32:02:21)
+		38
+
+NICOLAS	Où est Lucia?
+
+HILARIA	Elle n'est pas bien Monsieur! Elle ne veut pas descendre manger!
+
+NICOLAS	(ah) Je ne veux pas le savoir! (ah) Je veux qu'elle vienne manger à table avec nous! Et tout de suite!
+
+HILARIA	Oui, monsieur!
+
+ADELA	Laisse-la Nicolas! Elle descendra quand elle aura faim!
+
+NICOLAS	Non mère! (ah) Je veux qu'elle sache qu'elle doit m'obéir! Par la manière douce, ou par la manière forte!
+
+(BOUCLE 39 - 00:32:31:19)
+		39
+
+MILAGRÔ	Calme-toi ma soeur, tu n'arrangeras rien avec cette colère!
+
+VICTORIA	Nicolas n'est qu'un idiot! Il n'a pas voulu de l'argent! (ha) Miguel est  un caprice pour lui!
+
+MILAGRÔ	Viens... Respire profondément! (ah) Et dépêche-toi de descendre, ils t'attendent! N'aggrave pas ta situation!
+
+VICTORIA	Non! Non Milagro, je n'irai pas! Je ne sais pas ce que je lui ferai si je le vois!
+
+(BOUCLE 40 - 00:32:56:01)
+		40
+
+HILARIA	Excusez-moi madame la Marquise! Le maître dit que vous devez descendre!
+
+VICTORIA	Je n'ai pas envie!
+
+HILARIA	Excusez-moi mais il insiste!
+
+VICTORIA	Je sais Hilaria! Le maître aime donner des ordres! Mais je ne descendrai pas!
+
+HILARIA	Madame, vous ne devriez pas le contredire! Vous ne l'avez jamais vu de mauvaise humeur! On dirait une autre personne! Je le dis pour votre bien! Excusez-moi!
+
+VICTORIA	(ha__) (hh__)
+
+MILAGRÔ	Vas-y!
+
+VICTORIA	(ha__)
+
+(BOUCLE 41 - 00:33:36:00)
+		41
+
+NICOLAS	Je commence à en avoir assez! J'en ai assez de tes migraines! Je suis sûr que ce sont des excuses... pour faire ce dont tu as envie Lucia! Et je veux surtout que tu ailles manger à table comme tout le monde!
+
+ADELA	Ne t'énerve pas mon fils! (ah__) Ne permets à personne de te gâcher cette journée!
+
+NICOLAS	Oui, tu as raison Mère! Je ne vais quand  même pas me laisser déranger par un avocaillon! (ah) Ni pas une maudite ancienne esclave!
+
+ADELA	Non mais quelle insolence!
+
+NICOLAS	Ils m'ont gâché cette journée!
+
+VICTORIA	Cette journée, tu te l'es gâché toi même avec ton manque de respect pour les autres, Nicolas!
+
+NICOLAS	Qu'est-ce que tu as dit?
+
+VICTORIA	Ce que tu as entendu! Je ne comprends pas qu'un esclave veuille acheter sa liberté et que toi,  tu ne le lui permettes pas! Ca, c'est le comportement d'un tyran! Sûrement pas du grand croyant que tu prétends être!
+
+SIERVO	Monsieur? (hahah) Excusez-moi, il faut que vous alliez dans les champs! Il se passe quelque chose de grave...
+
+NICOLAS	(ah___) (ah__) Qu'est-ce qu'il y a encore...
+
+(BOUCLE 42 - 00:34:43:19)
+		42
+
+JULIAN	(ahahaha) Monsieur... (ahahaha) Je ne sais pas ce qu'ils ont mais les esclaves refusent de travailler!
+
+NICOLAS	Comment? (ahahah essoufflé) Nous avons des fruits mûrs à récolter!
+
+MIGUEL	Mais on ne les récoltera pas!
+
+NICOLAS	Si tu crois que cette attitude me fera réfléchir sur ta libération, tu fais erreur!
+
+MIGUEL	Ca m'est déjà arrivé une fois de vous demander mon affranchissement, et vous avez refusé mon argent! Comme aujourd'hui! C'est la deuxième fois que vous me le refusez!
+
+NICOLAS	Je l'ai fait pour te protéger! Tu ne comprends pas? Tu es aussi ingrat et bête que ta mère!
+
+MIGUEL	Je vous demande seulement une explication!
+
+NICOLAS	(arg)
+
+MIGUEL	(ah) (tousse)
+
+(BOUCLE 43 - 00:35:26:02)
+		43
+
+NICOLAS	Je ne vois pas pourquoi je te donnerai une explication! Je suis le maître de cette hacienda! Et si ce n'est pas assez clair pour toi, je te le prouverai de façon concrète! Emmène-le au manège de domptage! Et venez tous, vous aussi... Vous verrez ce que je fais à ceux qui s'opposent à moi!
+
+JULIAN	A vos ordres, monsieur!
+
+MIGUEL	(ah ah__) (ha__)
+
+NICOLAS	Vous n'avez pas entendu? Si jamais ils ne font pas ce que j'ai dit, tu peux tirer!
+
+(BOUCLE 44 - 00:36:19:17)
+		44
+
+ISABEL2	Ca y est, je vois papa! Et... il porte Miguel qui ne va pas bien!
+
+VICTORIA	(oh)
+
+ISABEL2	Qu'est-ce qu'il y a?
+
+VICTORIA	Les esclaves le suivent tous!
+
+ISABEL2	Hein? C'est bien ou c'est mal?
+
+(BOUCLE 45 - 00:36:44:02)
+		45
+
+REMEDIOS	(arg)
+
+MILAGRÔ	Qu'est-ce que vous faites mademoiselle?
+
+REMEDIOS	(ha__) Je ne supporte plus la douleur Milagro, j'ai promis à Victoria de faire ce qu'il faut mais c'est difficile, viens! Viens m'aider! Et puis,je voudrais savoir ce qui se passe dehors,tout à l'heure, j'ai entendu des cris!
+
+MILAGRÔ	Ils sont venus payer pour libérer Miguel, mais le maître a refusé l'argent!
+
+REMEDIOS	Et Victoria? Comment elle va, elle a réagi comment ?
+
+MILAGRÔ	Elle tient le coup... Vous savez comment elle est! Mais j'ai peur qu'elle fasse une bêtise, elle est tellement sous le choc!
+
+REMEDIOS	Allez Milagro, va chercher quelqu'un pour m'aider avec le fauteuil, je dois voir Victoria!
+
+MILAGRÔ	(ahaha)
+
+REMEDIOS	(ahahah)
+
+SIERVO	Milagro? Viens Milagro! Le maître veut voir tous les esclaves dehors, dépêche-toi, allez!
+
+MILAGRÔ	Je dois y aller!
+
+REMEDIOS	Mais Milagro, et le fauteuil? Ah, sans fauteuil, comment je vais faire? (ha__)
+
+(BOUCLE 46 - 00:37:38:12)
+		46
+
+NICOLAS	J'ai bien vu que tout était confus... depuis qu'il y a eu cette altercation entre Miguel et Jaime Lopez, alors j'aimerais clarifier les choses! Parce que vous tous, vous êtes à moi! Comme Miguel! Même si on a l'impression qu'il a oublié qu'il était comme vous tous! Je n'ai pas de préférence pour qui que ce soit... pas même pour ce bâtard, que j'ai eu avec l'une de vous!
+
+ISABEL2	Quoi?
+
+(BOUCLE 47 - 00:38:13:08)
+		47
+
+NICOLAS	Je me charge de te calmer s'il le faut! Tu n'es personne! Parce qu'avant d'être mon enfant, tu es mon esclave! (hm)
+
+MIGUEL	(arg)
+
+NICOLAS	Vous avez quelque chose à dire? Quelqu'un a envie de prendre sa place?
+
+MIGUEL	Faites-moi ce que vous voulez.. vous ne changerez pas ce qui va arriver!
+
+NICOLAS	(aha) (ahaha rire ahahha) Tu crois que tu es fort? Parce que pendant une journée tu as goûté au plaisir d'être blanc et d'avoir des droits! Mais vous et nous, nous ne serons jamais égaux!
+
+(BOUCLE 48 - 00:38:56:07)
+		48
+
+NICOLAS	(ah__) Préparez-le pour la punition qu'il aura comme n'importe quel esclave! Reprenez vos occupations de la journée! Parce qu'ici, personne ne peut s'arrêter de travailler! Celui qui ne sert à rien... qu'il s'en aille mourir de faim sur les routes.. comme une bête qui ne sert plus à rien! Julian, viens avec moi! Toi Joaquin, escorte ma famille jusqu'à la maison! On y va!
+
+ADELA	(aha)
+
+(BOUCLE 49 - 00:39:51:00)
+		49
+
+NICOLAS	On commencera par le fouet, mais je veux que Miguel soit puni comme il se doit! Je ne veux pas d'un chef qui empoisonne l'esprit des esclaves ou qui leur fait croire que ça pourrait changer! Prépare la fosse!
+
+JULIAN	Mais Don Nicolas... on ne l'a pas utilisé depuis un moment... les murs vont probablement s'affaisser si...
+
+NICOLAS	Je me moque de savoir comment elle est! Ne discute pas mes ordres,exécute-les!
+
+(BOUCLE 50 - 00:40:17:07)
+		50
+
+ISABEL2	Mais alors, si c'est vrai,ça veut dire que... que Miguel est mon frère du coup! (ah)
+
+ADELA	Tais-toi, petite idiote! (ah) Cet esclave n'est pas ton frère! Nous n'avons pas de sang noir dans notre famille!
+
+ISABEL2	Si, nous en avons!
+
+ADELA	Tu vas te taire oui!
+
+VICTORIA	Ne la touchez pas!
+
+ADELA	Assez!
+
+VICTORIA	(ah) La vérité, ne s'effacera pas avec des claques!
+
+ADELA	Laissez-moi passer! (aha aha)
+
+ISABEL2	(snif)
+
+(BOUCLE 51 - 00:40:54:08)
+		51
+
+assistant2	Dépêchez-vous un peu! Au travail! Plus vite que ça paresseuse!
+
+NOHEMI	Calme-toi Trinidad!
+
+assistant2	Vous avez entendu?
+
+NOHEMI	Si tu te mets en colère, on le paiera tous!
+
+assistant2	Tout le monde au travail!
+
+TRINIDAD	(aha) Je n'ai pas eu le courage de défendre Miguel!
+
+assistant2	Incapables!
+
+TRINIDAD	Je déteste cet homme!
+
+assistant2	Qu'est-ce que tu attends pour travailler?
+
+NOHEMI	Trinidad, calme-toi!
+
+TRINIDAD	(aha) Le plus dur, (ah) c'est qu'on ne devrait pas les laisser punir Miguel! Et là, on retourne travailler comme si de rien n'était! On a perdu le combat!
+
+NOHEMI	Essaye de te contrôler!
+
+assistant2	De quoi vous parlez vous deux? Séparez-vous! Et au travail! Et vous aussi... tout le monde au travail!
+
+TRINIDAD	(ahahaha)
+
+NOHEMI	Je ne veux pas que tu aies des ennuis... (ahahah)
+
+INSERT	ESCLAVA BLANCA EP 30 FIN

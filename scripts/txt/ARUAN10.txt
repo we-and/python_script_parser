@@ -1,0 +1,1022 @@
+
+
+[ ARUANAS EP 10 VF]
+
+
+
+
+
+
+1 (10:01:08:09)
+
+VERONICA	J'ai une... liaison avec Amir.
+
+LUISA	Tu sais que ça pourrait mettre fin à tout?!
+
+MIGUEL	Olga, Nelson va t'envoyer une photo, je suis sûr que tu sauras en faire bon usage.
+
+NATALIE   	Ce que je ressens en ce moment est une autre forme de deuil. C'est la mort d'une amie que j'imaginais être pour la vie, seulement cette amie, cette Veronica, elle n'est pas morte, parce qu'elle n'a jamais existé.
+
+FALCAO	ça craint! ils ont chopé Luisa. Elle est prisonnière au milieu de la réserve.
+
+NATALIE   	Je suis journaliste à TV Núcleo, et je suis ici pour dénoncer les crimes que vous êtes en train de commettre.
+
+MIGUEL	Mettez-moi sur haut-parleur avec la journaliste.
+
+NATALIE   	Miguel?
+
+MIGUEL	Dans quelques jours, nous aurons la signature du décret qui libérera l'exploitation minière dans la réserve. Un dîner de gala, avec des sénateurs, le président, des entreprises du monde entier. Et nous ne manquerons pas de vous porter un toast.
+
+ICARO	Tais-toi, ferme-la!
+
+LUISA	Non... (h_h_h_)
+
+CLARA	Arrête-ça!
+
+ICARO	(Ahhh)
+
+CLARA	Luisa... Luisa... ça va? ça va?
+
+AMBIANCE	(cris indiens__________________________________)
+
+GREGORY	Ne tirez pas !
+
+NATALIE   	Non!....
+
+ANDRE	Arrêtez! Reculez!
+
+GREGORY	Baissez-vous!
+
+FALCAO	Allez, allez, allez, allez!
+
+PONTOCOM	Félipé...
+
+GABI	(réac_) (réac)
+
+INSERT	---MOT DE PASSE INCORRECT---
+
+PONTOCOM	Yess!
+
+INSERT	---Fichier décrypté avec succès---
+
+DECIO	Vous êtes en état d'arrestation pour le meurtre du journaliste Otávio Mendes .
+
+MIGUEL	Ils ont arrêté Nelson. Nous devons avancer la date de ce dîner. Je veux que le président de la république soit présent.
+
+LUISA	Cet accord, il ne sera pas signé.
+
+NATALIE   	Il n'y a qu'un seul moyen, nous devons nous introduire dans ce dîner.
+
+OUT (10:02:45:05)
+
+
+2 (10:02:52:20)
+
+VERONICA	(respi__________________________________________)
+
+INSERT	--- 15 JOURS AVANT---
+
+
+3 (10:03:11:13)
+
+CLARA	Salut.
+
+ANDRE	Salut, quoi de neuf?
+
+NATALIE   	Excuse-moi. Nous irons jusqu'au bout de cette mission, mais je voulais te dire que ce sera ta dernière action à Aruana.
+
+FALCAO	Veronica, Il faudrait qu'on... se dépêche un peu, d'accord?
+
+VERONICA	Très bien.
+
+FALCAO	Cette valise-là, c'est bon?
+
+VERONICA	Oui
+
+FALCAO	Okay. Je la prends.
+
+
+4 (10:03:59:01)
+
+DORA	Avez-vous l'intention de monter sur scène pendant l'événement, de faire un discours?
+
+MIGUEL	Je veux apparaître le moins possible.
+
+OLGA	Miguel est un invité tout à fait comme un autre.
+
+DORA	Entendu.
+
+MIGUEL	La star c'est le président.
+
+DORA	Bien, revoyons la chronologie de l'événement. D'abord nous montrons le film "Les Gardiens de la forêt", ensuite, le dîner de gala, et enfin la signature du décret.
+
+MIGUEL	Premièrement la signature du décret, libérant la réserve pour l'exploitation minière, d'où la présence du président, puis le reste. Olga, revois ça avec elle.
+
+OLGA	Inutile, elle a compris je crois.
+
+
+5 (10:04:46:19)
+
+PONTOCOM	Je ne savais pas que tu étais là, Veronica.
+
+VERONICA	(hh_) Kesske tu m'as fait peur.
+
+PONTOCOM	Tu es venue directement ici?
+
+VERONICA	Je me prépare pour la réunion de demain. Notre dernière chance.
+
+PONTOCOM	Oui, je sais.
+
+VERONICA	Que fais-tu ici un dimanche?
+
+PONTOCOM	Je viens t'aider. T'imagines, cet enfoiré de Félipé... a caché le dossier dans cette tablette, celle de la petite-fille de Miguel?
+
+VERONICA	(_hh) T'as réussi à l'ouvrir?
+
+PONTOCOM	Oui, Félipé, est un vrai nerd, certes. Mais j'suis le meilleur. J'ai réussi, oui.
+
+VERONICA	Quelqu'un d'autre est au courant?
+
+PONTOCOM	Non.
+
+VERONICA	Voilà ce que tu vas faire, écoute bien, tu vas convoquer toute mon équipe.
+
+PONTOCOM	D'accord.
+
+VERONICA	Toute mon équipe, non, juste les avocats.
+
+PONTOCOM	Okay.
+
+VERONICA	T'attends quoi?
+
+PONTOCOM	Rien...
+
+VERONICA	Pointcom, Bravo, t'as assuré!
+
+PONTOCOM	Merci, Veronica!
+
+VERONICA	(_hh) (hh_)
+
+
+6 (10:06:02:07)
+
+NATALIE   	Je te pardonne de ne pas avoir eu la capacité de vivre le deuil de la mort de Laeticia. Je te pardonne même de m'avoir trahie, mais...
+
+VERONICA	J'ai le dossier complet devant les yeux. Il était sur la tablette de la petite-fille de Miguel, et Pointcom l'a trouvé. Tu avais raison depuis le début, le dossier original n'a jamais cessé d'exister.
+
+NATALIE   	Oh génial, c'est super Veronica.
+
+VERONICA	Le contenu en est radioactif, Nati. Y' a de nombreuses raisons d'arrêter Miguel, je te lis si tu veux.
+
+NATALIE   	C'est pas la peine. Dans vingt minutes, je suis à l'hôpital et je parle à Félipé.
+
+
+7 (10:07:02:03)
+
+AMIR	Tu n'es pas obligée d' être aussi dure avec elle. Je pourrais te dire que c'était un caprice du destin, mais ce serait pas vrai, je l'ai provoqué. Peu importe le nom que tu donnes à ça, c'était la volonté que j'avais. Je l'ai poursuivie, et j'ai fini par tomber amoureux d'elle, et elle aussi.
+
+NATALIE   	Mais arrête de parler, arrête de parler. tu parles pour elle, pour mon amie, que je connais depuis que j'ai treize ans.
+
+AMIR	Excuse-moi.
+
+NATALIE   	ça je ne te le pardonne pas. Tu ne m'as pas trahie, tu as tué une personne qui vivait en moi.
+
+AMIR	Un jour, cette haine passera.
+
+NATALIE   	J'ai appris à vivre dans le deuil.
+
+
+8 (10:08:13:15)
+
+NATALIE   	Bonjour.
+
+NOTE	Flashback
+
+NATALIE   	Au secours!!!!
+
+NOTE	fin flashback
+
+NATALIE   	Bonjour. J'ai appris que vous alliez vous en sortir. Félipé, si nous gagnons, si on réussit à faire tomber Miguel, aimeriez-vous avoir l'opportunité d'être le tuteur de Gabi ?
+
+
+9 (10:09:09:09)
+
+MIGUEL	Vous ne voyez pas qu'il dort? Vous pouvez y aller, je m'occupe de mon ami. Est-ce possible ? On peut avoir une couverture? J'ai dit "vous pouvez y aller".
+
+NATALIE   	Je ne pars pas d'ici tant que cette chaise est inoccupée.
+
+MIGUEL	Connaissez-vous la différence entre vous et moi ? Vous êtes une paranoïaque qui invente des histoires, je suis le père que Félipé n'a pas eu.
+
+NATALIE   	Vous ne bougez pas d'ici !
+
+
+10 (10:10:19:10)
+
+AMIR	Salut.
+
+VERONICA	Salut.
+
+AMIR	Comment tu vas?
+
+VERONICA	Je n'en sais rien... Quand je pense à tout ce que j'ai fait...
+
+AMIR	Que nous avons fait... Nous sommes ensemble.
+
+VERONICA	Pour l'instant je ne pense qu'à gagner cette cause et à faire arrêter Miguel, je pense que si... si je gagne, Nati se souviendra de ce que nous avons fait ensemble.
+
+AMIR	J'ai vu Nati tout à l'heure.
+
+VERONICA	Comment ça s'est passé?
+
+AMIR	(_h) Tu vois, ça ne va pas être facile, mais... je pense qu'avec le temps, elle comprendra ce que nous ressentons l'un pour l'autre.
+
+VERONICA	Espérons que tout va s'arranger.
+
+AMIR	ça peut être long. Nous devons apprendre à respecter le temp (o) de Nati .
+
+VERONICA	Je dois en tenir compte, oui.
+
+
+11 (10:11:36:22)
+
+GILBERTO	Fais attention, ne va pas te cogner la tête sur le collecteur d'ordures. (rire_______)
+
+YAN	D'accord, j'ai oublié, mais bon, c'est tout nouveau...
+
+GILBERTO	Eh, regarde qui est là!
+
+LUISA	(rire__________)
+
+GILBERTO	(rire__________)
+
+LUISA	(_hh) Ahh!!! Qu'est-ce que tu m'as manqué! (X)
+
+YAN	Tu veux aller voir Bola?
+
+LUISA	Oh oui, j'en meurs d'envie! Encore?
+
+YAN	(hm-mm_) Encore!
+
+LUISA	Tu veux que ça mousse, hein? C'est ça que tu veux! (rire______)
+
+YAN	Lave-le bien, faut faire comme ça, tu vois.
+
+LUISA	D'accord, je fais comme toi... Je peux te parler?
+
+GILBERTO	Bien sûr.
+
+
+12 (10:12:19:18)
+
+LUISA	(hum) Merci. Oui, merci de t'être si bien occupé de lui.
+
+GILBERTO	Oui, c'était pas facile. Tu crois que j'avais envie d'adopter un chien?
+
+LUISA	(hmm)
+
+GILBERTO	Oh, j'ai fait son sac à dos, ok, il est juste là sur le canapé.
+
+LUISA	Ecoute... Il me faut quelques jours de plus. Mais ensuite je resterai avec lui deux week-end de suite.
+
+EPOUSE GILBERTO	Tu n'es pas encore prêt, chéri?
+
+LUISA	Vous deviez sortir?
+
+GILBERTO	Eh ben, oui, c'est ce qu'on dirait. Mais t'inquiète, je lui expliquerai.
+
+LUISA	Non, non, non, c'est bon. (_h) Je vais rester ici.
+
+GILBERTO	Quoi?
+
+LUISA	Je peux, non? Je peux. Mon coeur, Bola va bientôt fondre...
+
+
+13 (10:13:09:05)
+
+LUISA	C'est du boulot, mais je suis sûre que ça va marcher.
+
+FALCAO	Ouais. Ouais, ouais, ça va marcher. Il va falloir régler beaucoup de choses en même temps.
+
+NATALIE   	Nous n'avons que quinze jours.
+
+CLARA	Quatorze.
+
+FALCAO	Mais bon, les (Lofoten ?) sont dans une région isolée, cela nous facilitera la tâche.
+
+ANDRE	Et la productrice de l'événement, les gars, elle a beau être chic, hype, elle est nouvelle dans le métier, ça peut nous être favorable.
+
+NATALIE   	Je m'assurerai que les CV arrivent dans les bonnes mains.
+
+VERONICA	André et moi reviendrons à Cari.
+
+LUISA	Je te donnerai une liste de convocations préférentiellles pour les volontaires.
+
+FALCAO	D'accord.
+
+NATALIE   	Bon, on va récapituler point par point. Nous n'avons pas le droit à l'erreur.
+
+LUISA	Alors ici, c'est Sador Eventos, Clara va s'infiltrer par ici...
+
+FALCAO	Luiza et moi, nous resterons avec les volontaires.
+
+LUISA	Oui, nous avons besoin d'un décorateur...
+
+NOTE	OFF
+
+FALCAO	On en a déjà un.
+
+NOTE	OFF
+
+
+14 (10:13:50:13)
+
+ANDRE	Allemand, bien. Manda... Mandarin...
+
+PONTOCOM	(h_h_h_)
+
+CLARA	ça fait peur, les mecs... (rire______)
+
+ANDRE	ça en jette, hein, Alice Torrès?
+
+CLARA	Wow...
+
+PONTOCOM	Attendez de voir le mien!
+
+ANDRE	Pourquoi?
+
+PONTOCOM	La planète entière va vouloir nous engager.
+
+LUISA	Ce que nous allons faire entre dans le cadre de notre régime démocratique, c'est un acte non-violent de désobéissance civile. Mais je ne vais pas vous mentir, c'est risqué et vous pourriez être arrêté. Donc si quelqu'un veut abandonner, très bien, mais c'est maintenant
+
+FALCAO	Vous en êtes sûr? Bien, je ne peux pas vous donner trop de détails sur l'action, notre service juridique estime que c'est dans votre propre intérêt. En fait, notre plus grand souci est que tout le monde s'en sorte indemne, d'accord? Maintenant il me faudrait le nom et la profession de chacun d'entre vous.
+
+LUISA	On commence par ici?
+
+GERALDO	Geraldo, plombier.
+
+MAJOU	Majou, je suis retraitée.
+
+NILCEIA	Nilceia, décoratrice.
+
+WALACE	Walace, mécanicien.
+
+MIGUEL (ONG)	Je m'appelle Miguel, je suis journaliste.
+
+OUT (10:14:50:05)
+
+
+15 (10:15:00:23)
+
+VERONICA	Tenez, c'est l'affaire de votre vie.
+
+RUBENS	Ah non. C'est pas possible. Vous n'êtes pas fatiguée?
+
+VERONICA	En fait je suis épuisée, (_h) aujourd'hui c'est vous qui allez travailler.
+
+
+16 (10:15:20:13)
+
+ANDRE	Bonjour, je m'appelle André.
+
+RALDENIR	Raldenir.
+
+ANDRE	Dites-moi, Monsieur Raldenir, est-ce que... par hasard vous pourriez me fournir cinquante kilos de poisson pour demain?
+
+RALDENIR	Cinquante kilos de poisson ?
+
+ANDRE	Y'aurait moyen?
+
+RALDENIR	Oui.
+
+ANDRE	Super, merci, je repasse demain, donc.
+
+RALDENIR	D'accord.
+
+ANDRE	Merci beaucoup.
+
+OUT (10:15:35:12)
+
+
+17 (10:15:48:15)
+
+RUBENS	C'est un ensemble de données... très, très compromettant, Yara.
+
+VERONICA	Madame le juge, les preuves sont accablantes Appels d'offres frauduleux, blanchiment d'argent, exploitation minière illégale, contrebande d'or.
+
+YARA	Le cas n'a pas l'air d'être simple.
+
+RUBENS	Pas simple?
+
+VERONICA	Pas sim ple?
+
+RUBENS	Nous vous livrons un dossier tout prêt.
+
+YARA	Permettez-moi d'en décider, procureur. Autant que je m'en souvienne, vous avez échoué à l'examen de juge.
+
+VERONICA	Je comprends, Madame le juge, mais voilà... nous avons un délai très court. (_h) Est-ce que vous pensez qu'avec cela, nous pourrions obtenir une détention provisoire?
+
+YARA	Il n'y a pas qu'un seul motif, il y en a plusieurs.
+
+
+18 (10:16:29:09)
+
+INSERT	--- 7 JOURS AVANT L'EVENEMENT---
+
+DORA	Les invités les plus importants seront placés devant la scène. La sortie de la cuisine doit rester libre pour le va-et-vient des serveurs Les deux toilettes situées au rez-de-chaussée sont suffisantes pour le nombre d'invités. Ah, les toilettes situées à l'étage seront interdites pour des raisons de sécurité, d'accord?
+
+
+19 (10:16:52:20)
+
+ANDRE	Allez, les gars, on y va! Encore merci. Merci. Bon travail. Le gâteau est en route.
+
+
+20 (10:17:30:11)
+
+LEANDRO	Tu peux terminer ça pour moi, avec une couche de noix de coco brûlée, juste sur le premier, d'accord?
+
+AIDE CUISINIER	(h-hm)
+
+LEANDRO	Natalie ? Nati, je ne peux pas faire ça. Excuse-moi, c'est trop risqué.
+
+NATALIE   	Laisse-moi te montrer quelques photos. Regarde.
+
+INSERT	---2 JOURS AVANT L'EVENEMENT---
+
+
+21 (10:18:01:08)
+
+NATALIE   	Tu es déjà venu ici, non ?
+
+LEANDRO	Oui, il me semble bien.
+
+NATALIE   	ça fait un bail, je pense... ça a changé.
+
+NOTE	Falcao et Luisa en fond.
+
+FALCAO	Oui, mais tu as trafiqué ça, c'est pas bien.
+
+LEANDRO	Oh oui.
+
+FALCAO	Tu comprends, Luisa?
+
+NATALIE   	Je vais te présenter Falcao, d'accord...
+
+FALCAO	Arrête d'être aussi têtue, parce que c'est pas comme ça que tu vas...
+
+NATALIE   	Il s'occupe des volontaires.
+
+LUISA	Ecoute-moi... Falcao, pourquoi tu ne veux pas m'écouter?
+
+FALCAO	Mais c'est toi qui n'écoute pas ce que je dis...
+
+NATALIE   	Fal... Falcao.
+
+FALCAO	Oui, Nati.
+
+NATALIE   	Voilà les 3 volontaires dont je t'ai parlé.
+
+FALCAO	Nati, on a pas le temps, tu le sais bien...
+
+NATALIE   	Le chef, tu te rappelles? Leandro.
+
+FALCAO	C'est vous? Mon dieu, excusez-moi.
+
+NATALIE   	S'il vous plaît, venez...
+
+LEANDRO	(rire_)
+
+FALCAO	Je suis désolé, c'est juste que... (_h) On est tous un peu nerveux. On en parle juste après, OK?
+
+LUISA	Oui, d'accord. Bonjour.
+
+LEANDRO	Bonjour.
+
+LUISA	Nati, hé, comment ça va?
+
+NATALIE   	Là tu vois, j'essaie d'avoir T.V. Nucléo pour couvrir l'évènement.
+
+LUISA	C'est pas c'que j'te demandais. Comment tu vas, toi?
+
+NATALIE   	Mets-toi à ma place. Tu arriverais à oublier ce qui s'est passé? Je dois juste me concentrer sur Miguel Kiriakos. Impressionnant comme un homme qui me fait tant de mal, me donne la force d'avancer.
+
+FALCAO	Nati, Eva sur la ligne 2. Tu viens,Luisa?
+
+NATALIE   	Ah, par là.
+
+LUISA	Hé, hé!
+
+FALCAO	Hé, rien!
+
+LUISA	Hey !
+
+FALCAO	Pas de ça.
+
+LUISA	Viens voir.
+
+
+22 (10:19:01:23)
+
+INSERT	--- JOUR J ---
+
+ANDRE	Le "gâteau" est là, qui apporte les bougies?
+
+CLARA	Tout va bien ici?
+
+OPERATEUR VIDEO	A cent pour cent.
+
+CLARA	Ok, super. Nati, la fête peut commencer.
+
+OUT (10:20:07:13)
+
+
+23 (10:20:29:00)
+
+MIGUEL	Y a-t-il quelque chose que je dois savoir?
+
+OLGA	(_h) deux choses, oui, mon numéro de compte, et penser à porter une cravate plus souvent.
+
+CLARA	Kiriakos présent.
+
+MIGUEL	Mais qu'est-ce qu'elle fabrique ici?
+
+OLGA	Bonne question. Je vais me renseigner.
+
+NATALIE   	Surpris? Je ne pouvais pas rater cet événement, n'est-ce pas?
+
+MIGUEL	Je ne sais pas, il y a tant d'événements dans la vie. Celui-ci serait-il spécial?
+
+NATALIE   	Tout ce que je sais, c'est vous qui me l'avez dit sur haut-parleur à Eldorado. Aurais-je mal compris?
+
+
+24 (10:21:23:17)
+
+
+25 (10:21:26:08)
+
+WILIAM	Veronica, Natalie est ici?
+
+VERONICA	Aruana au complet est ici.
+
+NATALIE   	On a le contrôle sur les micros?
+
+PONTOCOM	Dans deux minutes.
+
+OLGA	Très bien. La coordinatrice de l'événement a déclaré que les services secrets de la Présidence n'ont autorisé que TV Nucléo ici, ils adorent Evandro.
+
+MIGUEL	Ah, ils l'adorent, eh bien passons à la vitesse supérieure.
+
+OLGA	Dora. Miguel veut signer le document maintenant.
+
+DORA	Sans le président ?
+
+OLGA	Merde !
+
+JOURNALISTE	Mauro Salvatori, que signifie pour vous l'accord d'aujourd'hui?
+
+MAURO	Cela signifie que le partenariat entre l'État, l'industrie et la communauté locale, lorsqu'il se fait dans la dignité et dans un esprit de collaboration, n'apporte que des avantages à toutes les parties.
+
+NATALIE   	Il n'est jamais allé à Cari.
+
+GREGORY	C'est évident.
+
+
+26 (10:22:26:08)
+
+VERONICA	Natalie, Wiliam.
+
+NATALIE   	Merci beaucoup pour tout ce que vous avez fait.
+
+WILIAM	Je n'ai rien fait. Le mérite en revient àVeronica.
+
+VERONICA	Tu me pardonnes?
+
+NATALIE   	Concentre-toi sur l'action d'aujourd'hui.
+
+CLARA	La clé USB est dans ma poche.
+
+VERONICA	C'est parfait.
+
+MAITRE DE CEREMONIE	Merci beaucoup à tous pour votre présence. A cause du léger retard du président, nous inversons un peu la chronologie et nous invitons le sénateur Eric Santana à monter sur scène. Sans lui, rien n'aurait été possible. Sénateur, s'il vous plaît.
+
+
+27 (10:23:11:16)
+
+EURICO	Merci. Il a fallu des années de planification avant que nous n'arrivions ici aujourd'hui. Le projet des Gardiens de la forêt, est un rêve, idéalisé depuis de nombreuses années, mais le mérite en revient à une personne, le véritable artisan de cette soirée, c'est notre très cher Miguel Kiriakos !
+
+
+28 (10:23:41:04)
+
+CLARA	voilà la bonne vidéo, elle vient d'arriver.
+
+OPERATEUR VIDEO	Mais j'ai reçu cette clé USB y'a dix minutes.
+
+CLARA	Oui, mais ils m'ont donné la version...
+
+SECURITE 1	Madame, cette zone est interdite.
+
+CLARA	J'ai apporté la version définitive de la vidéo.
+
+SECURITE 1	Une minute. Ecoutez, je suis dans la salle vidéo, une jeune femme de la production dit qu'elle a une nouvelle version de la vidéo.
+
+NOTE	OFF
+
+EURICO	Merci.
+
+CLARA	Lâchez-moi. Ils m'ont eue.
+
+VERONICA	Je reviens tout de suite.
+
+OUT (10:24:35:13)
+
+
+29 (10:24:45:15)
+
+SECURITE 2	Madame, les toilettes de l'étage sont interdites.
+
+MAJOU	Mais les toilettes autorisées sont inondées, alors quoi?
+
+SECURITE 2	Un instant s'il vous plaît. J'écoute. Veuillez attendre ici, madame, s'il vous plaît.
+
+MAITRE DE CEREMONIE	Mesdames et Messieurs, je vous annonce la présence du Président de la République fédérative du Brésil, Marcelo Rodrigues Peixoto.
+
+NOTE	Péchoto
+
+MIGUEL	Vous êtes à l'heure, Monsieur le Président.
+
+MARCELO	Bonsoir.
+
+MIGUEL	Madame. Bienvenue.
+
+SENADOR 1	Monsieur le Président...
+
+MARCELO	Bonsoir
+
+SENADOR 1	Comment allez-vous?
+
+OLGA	Ravie de vous revoir, Monsieur le Président.
+
+SENADOR 1	Merci.
+
+OUT (10:25:39:16)
+
+
+30 (10:25:59:18)
+
+LUISA	Je suis en place, et vous?
+
+ANDRE	Affirmatif
+
+PONTOCOM	Je suis avec vous.
+
+NATALIE   	Prête
+
+FALCAO	On est parti!
+
+MIGUEL	Où est Olga?
+
+SENADOR 1	Je ne sais pas.
+
+MAITRE DE CEREMONIE	Poursuivons maintenant la soirée, en compagnie de notre cher Président qui nous honore de sa présence, s'il vous plaît, voici la vidéo qui donnera le signal du départ au programme "Les Gardiens de la Forêt".
+
+FALCAO	Bon appétit, Miguel
+
+MIGUEL	Merci.
+
+
+31 (10:26:40:22)
+
+VOIX OFF VIDEO	Plus de dix mille nouveaux emplois seront créés, assurant le plein développement social La forêt est notre plus grande...
+
+OPERATEUR VIDEO	Qui est là ? Ouvrez la porte, s'il vous plaît.
+
+VERONICA	Chuut! Pshhtt Taisez-vous. Je suis armée et cette porte est aussi mince que du papier. Restez tranquille et il ne vous arrivera rien.
+
+VOIX OFF VIDEO	Nous serons les gardiens de la forêt
+
+AMBIANCE	(murmures surprise invités____________________________) (Oh!... murmures horrifiés________________________________________________________________________________
+
+NATALIE   	La réserve de Cari, dévastée par l'exploitation minière illégale, a été la cible d'une forte contamination au mercure.
+
+NOTE	OFF VIDEO
+
+HOMME 2 VIDEO	Sur une immense partie de sa superficie, qui était une surface fertile, la terre a été enlevée et la rivière a été détruite, et cela est irréversible.
+
+MIGUEL	Mais c'est quoi ce bordel?
+
+
+32 (10:27:38:10)
+
+OLGA	Alors vous pensiez pouvoir gâcher la fête? Vous êtes meilleure que Miguel, Veronica, impeccable à l'extérieur et immonde à l'intérieur. C'est peut-être aussi ce qu'elle pense, votre amie, Natalie? (h_h_h_)
+
+VERONICA	(h_h_h_)
+
+MIGUEL	Merde!
+
+SENADOR 1	Enfin! Le président est là, Miguel.
+
+NATALIE   	La présence de l'Etat ayant fait défaut, les indiens ont été massacrés, et plus tard déplacés de leurs terres. La situation est grave
+
+VERONICA	(respi bagarre_______________________
+
+OLGA	(respi bagarre____ Ahh !
+
+HOMME 2 VIDEO	Le vrai visage de cette exploitation aujourd'hui, le voici.
+
+VERONICA	(h_h_h_h)
+
+OLGA	(_h_h_h_h)
+
+HOMME 2 VIDEO	Une destruction massive de la nature...
+
+VERONICA	(bagarre___)
+
+OLGA	(bagarre____________
+
+
+33 (10:28:22:19)
+
+HOMME 2 VIDEO	La destruction de la forêt amazonienne... la contamination des cours d'eau.
+
+OLGA	Aïe !
+
+HOMME 2 VIDEO	La contamination du poisson par le mercure et, en fin de compte, la contamination de l'être humain.
+
+NATALIE   	Alors avant d'amener plus de mineurs jusqu'à ce trésor de la biodiversité du monde, nous devons réfléchir. Quelles seraient les conséquences humaines et environnementales de la réserve Cari, une réserve
+
+NOTE	OFF VIDEO
+
+NATALIE   	qui, dans le passé, générait surtout de la vie. Voici un Ucuuba, un Ucuuba, c'est un grand arbre au bois léger qui pousse généralement dans les plaines inondables de la forêt amazonienne. Cet arbre... qui porte fièrement ses fruits... génère un revenu local trois fois plus élevé que celui généré après leur abattage. C'est un des exemples, parmi tant d'autres, de gestion durable des richesses de l'Amazonie à laquelle nous croyons. Ce soir, un document devait être signé, qui contribuerait encore plus à la mort de la forêt amazonienne, puisque les compagnies minières, en plus d'abattre plusieurs essences d'arbres, rejettent des métaux lourds dans les rivières, bien pire que le mercure. Je serai brève, car la vidéo a déjà tout dit, mais savez-vous que le poisson, plein de mercure, que les habitants de Cari mangent tous les jours et qui les rend malades, aveugles, sujets aux convulsions, c'est ce même poisson qui est là... dans vos assiettes,
+
+
+34 (10:29:13:20)
+
+AMBIANCE	(réac public)
+
+NATALIE   	est venu spécialement de là.
+
+AMBIANCE	(réactions public______________)
+
+NATALIE   	A une différence près, les gens de Cari, eux, n'ont pas le choix, ils doivent manger ce poisson, alors que vous pouvez choisir de le manger ou de ne pas le manger.
+
+AMBIANCE	(Mon dieu, quelle horreur... (je n'y touche pas...)
+
+
+35 (10:30:05:14)
+
+NATALIE   	Ce soir, vous avez l'occasion d'expérimenter ce qu'est la vie des peuples d'Amazonie.
+
+MIGUEL	C'est quoi cette folie?
+
+POLICIER FEDERAL	Miguel Kiriakos, vous êtes en état d'arrestation pour usurpation de biens de l'Union, contrebande, blanchiment d'argent, recel qualifié et organisation criminelle. Vous feriez mieux de coopérer. Menottez-le.
+
+NATALIE   	Vous savez ce qui sépare mon arrestation de la vôtre? Cent vingt-quatre ans de réclusion.
+
+
+36 (10:30:58:18)
+
+VERONICA	(respi___________________________________________________________)
+
+POLICIER 1 (OFF)	Emmenez-la
+
+
+37 (10:31:19:03)
+
+LUISA	On ne se lâche pas la main! Au Brésil, tous les trois jours, un activiste est assassiné ! Soeur Dorothy Stang, Waldemir Esplander, Terezinha Rios Pedrosa, nous luttons toujours avec vous!
+
+ANDRE	Francisca das Chagas Silva, Silvino nunes Golveia, Kentison de Souza, Edmilson pereira dos Santos, nous sommes avec vous !
+
+CLARA	Luiz Vieira Lima, Kátia Martins... Luiz Carlos Bardon, Marielle Franco.
+
+FALCAO	José Claudio Ribeiro, Maria do Espirito Santo.
+
+PONTOCOM	Edilene Mateus Porto, Ana Cláudia Barros, Mauricélia da Silva Lins.
+
+NATALIE   	Cacique Antônio José, Nilton Claudino... Italo Eduardo... Diniz Barros Rosenira Soares de Souza... Manuel Indian Arruda et Chico Mendes.
+
+LUISA	Vous n'êtes pas morts, vous êtes devenus des graines.
+
+ANDRE	Doucement.
+
+LUISA	ce que je fais...
+
+
+38 (10:32:23:06)
+
+RUBENS	Elle l'a fait.
+
+OUT (10:32:27:22)
+
+INSERT	--- UNE ONG REND HOMMAGE AUX ACTIVISTES --- --- ACTION CONTRE L'EXPLOITATION ILLEGALE---
+
+
+39 (10:33:31:19)
+
+POLICIER 2	Arrêtez, arrêtez, arrêtez !
+
+OUT (10:33:36:24)
+
+
+40 (10:33:52:23)
+
+GARDIEN PRISON	Luiza Laès, Clara Ferreira, Votre déposition.
+
+VERONICA	Je n'ai pas choisi de ressentir ce que je ressens.
+
+
+41 (10:34:34:10)
+
+AMIR	Luiza, ça va? Et les autres? Bon, plein de gens sont dans la rue, pour protester contre l'extinction de la réserve. Vous avez réussi!
+
+
+42 (10:35:43:02)
+
+FELIPE	Gabi.
+
+GABI	Oui?
+
+FELIPE	Je dois te dire quelque chose, grand-père, il est...
+
+GABI	(ha_?)
+
+FELIPE	Il avait besoin de faire un voyage, et il va être absent pendant un certain temps.
+
+GABI	(Ah-ha?)
+
+FELIPE	Tu vas vivre avec moi.
+
+GABI	Hé - bah...
+
+FELIPE	D'accord ?
+
+GABI	Oui.
+
+FELIPE	Et je voudrais te montrer quelque chose, regarde.
+
+GABI	Quoi ?
+
+FELIPE	Attends, je vais te montrer. Regarde. T'as vu ça?
+
+GABI	(hm?)
+
+FELIPE	C'est la petite école où tu vas aller.
+
+GABI	Ahhh...oui.
+
+FELIPE	(rire)
+
+GABI	cool...
+
+FELIPE	Oui c'est cool. Je t'emmènerai et viendrai te chercher tous les jours et tu te feras beaucoup de petits amis là-bas, on peut essayer?
+
+GABI	Ah c'est bien...
+
+FELIPE	T'es d'accord?
+
+
+43 (10:36:28:08)
+
+FELIPE	(X)
+
+CLARA	(rire______)
+
+ANDRE	J'aime déjà...
+
+CLARA	Soyez les bienvenus!
+
+FALCAO	Ah !...
+
+PONTOCOM	Ah !...
+
+FALCAO	Le fameux "Home, sweet home", hein?
+
+ANDRE	Oh... Wow!
+
+CLARA	Voilà, c'est mon petit nid.
+
+PONTOCOM	Oh, félicitations, Clara, trop cool.
+
+ANDRE	Génial, Clara, j'adore.
+
+CLARA	Venez, j'vais vous montrer le principal, venez voir! C'est l'endroit que je préfère.
+
+FALCAO	Aah.........
+
+PONTOCOM	Woh!...
+
+CLARA	Pas mal, hein?
+
+
+44 (10:36:50:05)
+
+NATALIE   	(_h) Eu vejo a vida melhor no futuro 
+                                                       Eu vejo isso por cima do muro
+                                                       De hipocrisias
+LUISA	Je vois une vie meilleure à l'avenir
+
+GREGORY	C'est pas les filles qui chantent ?
+
+ALAN	Si... (rire_)
+
+LUISA ET NATALIE               Que insiste em nos rodear
+	Eu vejo a vida mais clara e farta
+Repleta de toda satisfação
+
+
+PONTOCOM	Banzeiro
+
+GREGORY	Banzeiro
+
+NATALIE   	Banzeiro
+
+LUISA	Banze, Banze, Banze, Banze...
+
+TOUS	Banze, Banze, Banze, Banze...
+
+PONTOCOM	Você é luz...
+
+ALAN	Você é luz...
+
+FALCAO	E raio, estrala e luar
+
+CLARA	Em paz
+                                                       Eu digo
+
+ANDRE	Em paz
+                                                      Eu digo
+
+CLARA                                       Que eu sou
+
+ANDRÉ E CLARA	O antigo do que vai adiante
+Sem mais, eu fico onde estou
+Prefiro continuar distante
+
+
+NATALIE   	E nessa loucura de dizer que nao te quero...
+                                                      Vou negando as aparências
+Disfarçando as evidências
+Mas pra que viver fingindo
+Se eu não posso enganar meu coração
+
+TOUS	E nessa loucura de dizer que nao te quero...
+                                                      Vou negando as aparências
+Disfarçando as evidências
+Mas pra que viver fingindo
+Se eu não posso enganar meu coração
+
+VERONICA	Eu sei que te amo
+
+NOTE	Flashback
+
+TOUS	Eu sei que te amo
+
+NATALIE   	Chega de mentiras
+
+TOUS	Chega de mentiras
+
+NATALIE   	De negar o meu deseo 
+                                                      Eu te quero mais que tudo
+
+CLARA	Eu preciso do seu beijo
+
+TOUS	Eu preciso do seu beijo
+                                                                    Eu entrego a minha vida
+	Pra você fizer o que quiser de mim
+
+
+OUT (10:38:14:10)
+
+
+45 (10:38:48:18)
+
+PADRE ADELINO	(rire______)
+
+AMBIANCE	(murmures en fond______
+
+NATALIE   	Bien sûr (rire______)
+
+GREGORY	(rire___)
+
+ANDRE	Tu m'aides?
+
+CLARA	Voilà, génial.
+
+NATALIE   	Un jour tu verras, il sera plus grand que toi...
+
+YAN	Quand?
+
+OUT (10:39:36:02)
+
+
+46 (10:40:15:07)
+
+INSERT	--- UN AN PLUS TARD--- ---NAIROBI, KENYA---
+
+VERONICA	Luiza ?
+
+LUISA	Veronica, c'est moi. Je ne peux pas parler au téléphone, ce n'est pas sûr.
+
+VERONICA	Parle plus fort, je ne t'entends pas.
+
+LUISA	Ecoute-moi, tu dois rentrer au Brésil. Tout le monde est en danger.
+
+OUT (10:40:54:17)

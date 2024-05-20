@@ -1,0 +1,2895 @@
+
+
+GEO DISASTER
+
+
+
+
+
+INSERT	GEO DISASTER Geo disaster
+
+
+1 (01:00:21:13)
+
+À FAIRE AU LABO	Ile de Porto Rico Observatoire Radio Téléscope Arecibo Porto Rico
+
+
+2 (01:00:48:04)
+
+MAN	(ahah mange) (ah mange)
+
+NOAH	Rajesh, c'est pas parce que tu travailles tard que tu seras p^lus fort que nous!
+
+RAJESH	(hmhm) Salut!
+
+NOAH	Salut! Tu as vu, tu as des pixels HS! Appelle Eddie, et il remplacera ton moniteur s'il le faut!
+
+RAJESH	(ah) Merci Noah! Attends... regarde, c'est pas l'écran.
+
+NOAH	Mais alors, qu'est-ce que c'est? Un problème de satellite, peut-être qu'un piaf s'est posé dessus.
+
+RAJESH	Non, non! J'en sais rien, regarde ça... c'est dingue! Ca ressemble à... Réveille le docteur Picciotto!
+
+NOAH	(ah) Je lui dis quoi?
+
+
+3 (01:01:28:22)
+
+DR PICCIOTTO	(ah) (ah) (ahah)C'est une matière sombre! Faites-moi une triangulation.
+
+RAJESH	Euh oui, tout de suite!
+
+DR PICCIOTTO	(snif) (ah) (ah) Oh bon sang!
+
+RAJESH	Qu'est-ce qu'il y a?
+
+DR PICCIOTTO	(ah) Ca va tomber droit sur nous! (ah) (ah\) Ici le docteur Picciotto, (ah) passez-moi le Pentagône!
+
+OUT (01:02:06:01)
+
+INSERT	Out générique début Fin générique début
+
+
+4 (01:03:34:16)
+
+MATT	Johanna, tu as vu ma lampe de poche? La grosse en métal?
+
+JOHANNA	Tu parles de celle-là?
+
+MATT	Oh mince,désolé!
+
+JOHANNA	(ahah rire)
+
+MATT	Je suis en retard, l'entrainement de Rick finit dans une demi-heure.
+
+JOHANNA	Tout va bien, détends-toi, Matt! C'est que pour s'amuser, n'oublie pas!
+
+MATT	(hm)
+
+JOHANNA	(ahah rire) (hmhm________________X)
+
+CASSIE	Oh, c'est dégoutant!
+
+MATT	Dégoutant? C'est toi la dégoutante!
+
+CASSIE	Non, c'est vous là!
+
+MATT	Je ne sais pas, un jour ou l'autre tu auras envie d'embrasser quelqu'un toi aussi!
+
+CASSIE	Là, tu rêves!
+
+JOHANNA	Cassie,va chercher ta soeur. Votre père va partir.
+
+CASSIE	(ah hmhmhm) Kaley! (hmhmhm)
+
+KALEY	Quoi?
+
+
+5 (01:04:14:05)
+
+JOHANNA	Tu ne crois pas qu'on devrait y aller tous ensemble?
+
+MATT	(hm) Non, pas vraiment! (ahah rire) Je crois qu'il vaut mieux que tu restes ici, que tu passes du temps avec les filles, (ah) et moi avec un fils en pleine crise d'adolescence, qui a désespérement besoin (ah)d'un moment Père-Fils, enfin je crois! Je l'espère! Mais il y a une chose dont je suis sûr:
+
+JOHANNA	(hmhm?)
+
+MATT	Je suis sûr que je t'aime!
+
+JOHANNA	(hhhhhhhhhhhh) (ahah) Je t'aime moi aussi. (X) (X) (X)
+
+KALEY	Tu t'en vas?
+
+MATT	Oh oui! Je vais prendre Rick à l'entrainement,on reviendra dimanche soir, les filles. (hhhhhhhhh) (oh) Un petit câlin!
+
+KALEY	(ah hmhmhm)
+
+CASSIE	(ah)
+
+MATT	Voilà! On aura peut-être pas de réseau là haut alors... prends ta radio ondes courtes! (ah)
+
+
+6 (01:04:58:18)
+
+KALEY	(ah) Attends,j'y ai pas touché depuis que j'avais son âge! Je ne sais même pas où elle est ?
+
+MATT	(hmhm) Okay, vous les filles, passez un bon week-end! Et pas de bêtises! D'accord?
+
+JOHANNA	(ahahah rire)
+
+MATT	(hmhm) (X)
+
+JOHANNA	(hm X) Je t'aime!
+
+MATT	A dimanche!
+
+JOHANNA	Au revoir! (hhh) Alors, vous voulez faire quoi demain? Du volley ball? Du motocross encore une fois? Ou on essaye l'escalade!
+
+CASSIE KALEY	Manucure-pédicure!
+
+JOHANNA	(ah hmhmhm)
+
+OUT (01:05:32:20)
+
+À FAIRE AU LABO	Montagnes de San Bernardino Au nord-est de Los Angeles
+
+
+7 (01:06:07:15)
+
+MATT	(ah) C'est bon, lâche ton téléphone pour une fois! Tu n'as pas dit un mot depuis que je t'ai récupéré!
+
+RICK	(ah ah ah) T'aurais pu éviter de venir dans ta bagnole de trouffion. Je comprends pas pourquoi tu en as achetée une?
+
+MATT	Ben disons qu'on en a besoin pour aller camper et les surplus militaire sont beaucoup moins cher qu'une voiture neuve! Et puis, cette voiture peut aller n'importe où et faire tout ce qu'on veut!
+
+RICK	"Peut aller n'importe où et faire tout ce qu'on veut!" Je sais! (ah) Mais pourquoi t'es venu avec au lycée? Maintenant, tous mes potes disent que...
+
+MATT	Que je suis un papa super cool!
+
+RICK	Non, plutôt un éco-terroriste!
+
+MATT	(ahah rire) Génial!
+
+RICK	Tu sais que ta voiture consomme trente litres au cent?
+
+MATT	Tu la trouvais sympa quand je l'ai achetée, tu m'as même aidée à la réparer, tu te souviens?
+
+RICK	J'avais dix ans! Je te tendais les outils!
+
+
+8 (01:06:48:21)
+
+MATT	(ah) Eh bien Johanna la trouve très cool!
+
+RICK	(hmhmhmhm)
+
+MATT	Ecoute Rick, ça fait un moment que ta mère a disparu! D'accord...on ne peut pas porter son deuil toute notre vie! C'est Johanna notre famille maintenant, tu ne l'aimes pas mais vous finirez par vous entendre! Je sais qu'elle ne sera jamais ta mère mais. elle est..
+
+RICK	Elle est surtout trop jeune pour être ma mère! Tu fais comme les autres!
+
+MATT	(tsc) On est des gens normaux qui font de leur mieux pour s'en sortir. Et toi, tu t'amuses à jouer le rôle de l'ado en colère comme tous ceux de ton âge!
+
+RICK	Et alors,au moins l'un de nous agit selon son âge!
+
+OUT (01:07:28:14)
+
+
+9 (01:07:55:11)
+
+NOAH	Elle se dirige droit sur la Terre!!Et elle accélère de plus en plus! C'est impossible! Rajesh, Rajesh, Rajesh, viens voir! (ahahahah) Elle accélère droit sur nous.
+
+RAJESH	Comment ça se fait?
+
+NOAH	(ahah\) La pesanteur est un piège! Il reste moins de huit heures.
+
+DR PICCIOTTO	(ah) Le ministre de la défense, le Président du Comité Scientifique, l'administrateur de la NASA, le directeur du centre de recherche en Astrophysique, des douzaines de scientifiques du monde entier, et moi, sommes d'accord. On ne peut rien faire pour l'arrêter.
+
+NOAH	Rien du tout?
+
+DR PICCIOTTO	(ah)Ils ont mis les militaires sur le coup, on a rappelé les unités qui ne sont pas en service et ils ont lancé un vaste programme gouvernemental commun. Mais il n'y a aucun moyen d'arrêter ce qui va se passer!
+
+NOAH	On ne peut pas prévenir les habitants? Ou bien au moins, les évacuer?
+
+
+10 (01:08:36:21)
+
+DR PICCIOTTO	(ahah\) Ca causera une vague de panique.
+
+NOAH	Qu'est-ce qui va se passer?
+
+DR PICCIOTTO	Je n'en suis pas tout à fait certaine (ahahahah tsc)mais je pense qu'on en saura plus sur la disparition des dinosaures!
+
+NOAH	(ohohoh\)
+
+RAJESH	Mais attendez, qu'est-ce qu'on fait, Professeur?
+
+DR PICCIOTTO	(ah) (h_) Appelez vos familles! Et ensuite, contactez tous les observatoires terrestres, les stations au sol, les écrans de surveillance partout dans le monde! Transmettez les données et surtout, essayez d'en savoir plus sur cette matière sombre.
+
+RAJESH	(hhhhhhh)
+
+DR PICCIOTTO	(ahah) Ce sera peut-être la dernière chose que fera la science.
+
+OUT (01:09:12:05)
+
+
+11 (01:09:23:16)
+
+MATT	Il y a pas mal de poisson à cette période de l'année!
+
+RICK	(hmhm) Oui!
+
+MATT	Si tu veux, je te montrerai...les techniques de Jujitsu que tu m'as demandé de t'apprendre quand je donnais des cours!
+
+RICK	Génial! Sauf que c'était avant que je découvre que ta prof emmenageait chez nous!
+
+MATT	(ah) Tiens...rends-toi utile!
+
+RICK	Qu'est-ce que je vais en faire? Attends je cherche... dans trois kilomètres, tourne à droite, dans la "Route Perdue". Ca sonne tellement bien!
+
+MATT	"Route perdue", ça fait très "aventure"!
+
+RICK	Ouais!
+
+
+12 (01:10:00:13)
+
+À FAIRE AU LABO	Dépêche
+
+NEWS REPORTER	La circulation dans le centre ville a fait grincé des dents pendant des heures aujourd'hui, à cause d'une mobilisation surprise contre les catastrophes. La police municipale n'a pas voulu faire de commentaire sur cet exercice, ni expliquer pourquoi il n'avait pas été annoncé. Par ailleurs, le Président a quitté la Maison Blanche pour un séjour inattendu à Camp David. Le porte-parole de la Maison Blanche a dit que le président avait besoin de passer du temps avec sa famille et ses amis les plus proches.
+
+
+13 (01:10:30:16)
+
+MATT	Bon, alors, on va voir si on y arrive! Tu sais comment on fait?
+
+RICK	(hm)
+
+MATT	Allez, aide-moi!
+
+RICK	Ben non.
+
+MATT	(ahah\) C'est mal parti on dirait. (ahahah) Comme ça! Ca va les cours?
+
+RICK	Ca va!
+
+MATT	"Ca va", c'est tout? T'as pas envie d'en parler c'est ça?
+
+RICK	Non! (ahahah)
+
+MATT	On va crever de chaud.
+
+RICK	Ouais!
+
+MATT	Ouais! Okay! Je voulais te dire, je suis allé faire des courses hier. Tu verras, elle est drôle mon histoire. C'est ça?
+
+
+14 (01:11:06:08)
+
+RICK	Ouais!
+
+MATT	Et quand..(hah).quand je suis allé à la caisse, Le gars qui encaissait m'a demandé si je voulais mon lait dans une bouteille ! Et je lui ai dit " non, un emballage en carton"!
+
+RICK	Arrête, tu te fiches de moi.
+
+MATT	(hhhhhhhhh) (ah) (ahah rire) C'est bon, allez! Réveille-toi un peu Rick.
+
+RICK	Je rêve ou tu veux que ce soit insupportable ce week-end?
+
+MATT	(hhhhhhhhhhhh) Réveille-toi, tire un peu! Tadaaaaaaaaaa!
+
+RICK	Il était temps!
+
+OUT (01:11:43:03)
+
+
+15 (01:12:17:15)
+
+RICK	Aucun réseau.
+
+MATT	(tsc) C'était un peu le but! J'avais envie qu'on parte... pour se retrouver et discuter , Rick.
+
+RICK	(ahahah) Pour discuter de quoi? Tu l'as épousée, c'est ton choix. Et moi et les filles, on doit vivre avec ça!
+
+MATT	Je crois que ça irait bien entre vous si tu lui donnais sa chance!
+
+RICK	(hh) Bien sûr!
+
+MATT	(tsc) On va à la pêche demain?
+
+RICK	Si tu veux! P'pa!
+
+MATT	(hmhmtsc) (ah/) Bonne nuit Rick!
+
+RICK	Bonne nuit p'pa!
+
+OUT (01:12:55:02)
+
+
+16 (01:14:05:06)
+
+RAJESH	Vingt secondes! C'est bien dans le nord de l'Alaska.
+
+NOAH	J'ai une nouvelle vidéo qui vient de l'ISS!
+
+DR PICCIOTTO	Mets-la sur le grand écran.
+
+NOAH	(ahahah\) (ohoh)
+
+RAJESH	Dix... neuf, huit,
+
+NOAH	Je suis entré sur le réseau de l'Institut d'Etudes Géologiques.
+
+RAJESH	Cinq... (ahah) quatre... trois... deux... Un!
+
+DR PICCIOTTO	(ahahah)
+
+RAJESH	(hmhm ahahah) Oh mon dieu. (oh) Il est entré dans la planète!
+
+DR PICCIOTTO	C'est là!
+
+
+17 (01:14:47:12)
+
+MATT	(hhhhhhh)
+
+RICK	(hhhhhhhhhh)
+
+
+18 (01:15:01:20)
+
+NOAH	Les capteurs sismiques du monde entier... (ahahahahahahahahahah)
+
+DR PICCIOTTO	(ahahahahahahahahah)
+
+RAJESH	(ahahahahahahahahahahahahah)
+
+NOAH	(argh)
+
+OUT (01:15:09:04)
+
+
+19 (01:15:19:07)
+
+MATT	(hhhhhhhhhh)
+
+RICK	(hhhhhhhh)
+
+OUT (01:15:22:14)
+
+
+20 (01:15:29:11)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahah)
+
+
+21 (01:15:38:17)
+
+KALEY	Maman!Maman!
+
+JOHANNA	Restez sous le montant de la porte.
+
+KALEY	(ahah hhhh)
+
+CASSIE	(ah ah ahah )
+
+KALEY	(ahah)
+
+JOHANNA	Ca durera qu'une seconde.
+
+OUT (01:15:48:11)
+
+
+22 (01:15:57:01)
+
+MATT	(hhhhhhhhh) (ahah)
+
+RICK	(hhhhhhhh)
+
+OUT (01:16:00:17)
+
+
+23 (01:16:06:16)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahah) (ahahahahahahahahahahahahahahahah)
+
+
+24 (01:16:12:06)
+
+JOHANNA	(ahahahahah)
+
+CASSIE	(ahahahah)
+
+KALEY	(ahahahahah)
+
+JOHANNA	(ahahahahahahahahahah)
+
+CASSIE KALEY	(ahahahahahahahahah)
+
+JOHANNA	Il vaut mieux sortir. Vite!
+
+CASSIE KALEY	(ahahah)
+
+JOHANNA	Vite les filles, allez. Prenez l'escalier.
+
+OUT (01:16:25:02)
+
+À FAIRE AU LABO	Seulement en cas d'incendie
+
+
+25 (01:16:40:00)
+
+JOHANNA	Venez! Plus vite les filles! (ahahahah)
+
+OUT (01:16:50:01)
+
+
+26 (01:16:51:24)
+
+MATT	(ahahahahahahah)
+
+RICK	(ahahahahahahah)
+
+OUT (01:16:55:01)
+
+
+27 (01:17:14:18)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah)
+
+
+28 (01:17:21:21)
+
+CASSIE	(tousse) (tousse) (tousse) (ah) (ah) Au secours!
+
+KALEY	(tousse)
+
+CASSIE	(ah pleure) Aidez-moi!
+
+KALEY	(ahah) Cassie. Ne t'inquiète pas , je suis là, est-ce que ça va?
+
+CASSIE	(hhhhh) Kaley? (ahah)
+
+KALEY	Viens près de moi, donne-moi ta main, allez!! (ahah) Je suis avec toi! (ah ah ahessoufflée)
+
+CASSIE	C'était le Big One hein?
+
+KALEY	(ah) Je ne sais pas du tout! Johanna? (ahahah) Johanna?
+
+JOHANNA	(hmhm)
+
+KALEY	Johanna!
+
+JOHANNA	Euh, oui!
+
+KALEY	(ahahtousse)
+
+JOHANNA	Je...je suis juste là, une seconde!
+
+KALEY	(ahah tousse)
+
+JOHANNA	(ahahah)
+
+KALEY	(ahah tousse) (ahah) (ahahah\)
+
+CASSIE	Mais...je vois du sang.
+
+KALEY	Où ça?
+
+JOHANNA	Montre-moi, tourne la tête!
+
+KALEY	(ahahah)
+
+JOHANNA	C'est rien, rien du tout!
+
+KALEY	(ah)
+
+
+29 (01:18:05:11)
+
+KALEY	(ahah tousse)
+
+JOHANNA	Essaye de te calmer, c'est une petite blessure! Ca saigne toujours beaucoup mais ce n'est rien!
+
+KALEY	(ahah tousse) (ahahah hhhh ahahahahah)
+
+JOHANNA	Déchire un bout de ta manche et appuie dessus avec!
+
+KALEY	(ahahah)
+
+JOHANNA	C'est pas grave! J'ai fait une belle chute à vélo un jour et ça saignait beaucoup plus que toi!
+
+CASSIE	(ahahah)
+
+JOHANNA	Mais ça s'est arrêté en quelques minutes! Déchire un bout de manche propre et appuie dessus!
+
+KALEY	(hmhmhm) (ahahahah)
+
+JOHANNA	Comment tu es habillée?
+
+KALEY	Je... euh... Je... J'ai.... (ahah)
+
+JOHANNA	Appuie dessus!
+
+KALEY	(ahah)
+
+JOHANNA	Cassie? (ah) Cassie, est-ce que ça va? Tu es blessée toi?
+
+CASSIE	(ah ah ahah ) Euh... (ah) Euh... (ahahah) J'en sais rien.
+
+JOHANNA	Remue tes doigts et tes orteils.
+
+CASSIE	Pourquoi?
+
+JOHANNA	Remue tes doigts et tous tes orteils. Ils bougent ou pas? Ca te fait mal?
+
+CASSIE	Non! Ca me fait pas mal! (ah)
+
+JOHANNA	(ohoh)
+
+CASSIE	(ahahah)
+
+
+30 (01:18:49:05)
+
+JOHANNA	Ecoute-moi, il faut que tu l'enlèves , ensuite tu aspires ton doigt et tu recraches! Tu as compris?
+
+CASSIE	(ohoh)
+
+JOHANNA	Allez, tu vas y arriver!
+
+KALEY	Vas-y Cassie!
+
+JOHANNA	Vas-y!
+
+KALEY	Fais-le!
+
+JOHANNA	Allez!
+
+CASSIE	(ahah) (ahahah) (hmhmhm)
+
+JOHANNA	C'est bien ma belle!
+
+CASSIE	(pffpffpff)
+
+JOHANNA	Bravo!
+
+CASSIE	(ahahah)
+
+JOHANNA	Et maintenant, avec le pouce,
+
+CASSIE	(ahah ahah ahah ah ah)
+
+JOHANNA	appuie très fort dessus. D'accord?
+
+CASSIE	(ohohoh)
+
+KALEY	(ahah tousse)
+
+CASSIE	(aaaaaaaaa) (ohohoh) (ahahah)
+
+JOHANNA	(ahah tousse) (ohohoh) Ca va sûrement arriver de temps en temps!
+
+CASSIE	(ahah tousse)
+
+KALEY	(ahahah tousse) Faut absolument sortir d'ici!
+
+CASSIE	(ahahahahahah)
+
+JOHANNA	Oui, tu as raison!
+
+KALEY	(ahah tousse)
+
+JOHANNA	Je vais vous faire sortir de là et on ira chercher votre père!
+
+KALEY	(ahahah) Qu'est-ce qu'on fait, on descend l'escalier? (ahah) (ahah) (ahah)
+
+JOHANNA	(hmhmhm) (snif) Ecoutez...
+
+
+31 (01:19:31:24)
+
+JOHANNA	Ce sera sûrement compliqué! Mais tout va bien se passer! Essayez (ah/ ah\) essayez de rester calmes et faites ce que je vous dis!
+
+KALEY	(oh/)
+
+CASSIE	(oh oh oh oh ah/) (ohohoh)
+
+JOHANNA	(ahahah)
+
+OUT (01:19:51:13)
+
+
+32 (01:19:56:04)
+
+MATT	(hahahahahahahahahahahahahahahahah) Rick! Approche-toi! Accroche-toi à moi. Prends ma main, allez! Rick! Tu m'entends? Donne-moi ta main.
+
+RICK	Je peux pas. (ahahoh) Je peux pas sortir du sac. Je suis coincé... je peux pas sortir.
+
+MATT	(hhhhhhhhhhhhh) (ah ah ah ahah ) Viens!
+
+RICK	(ahahah)
+
+MATT	Vite! Maintenant, accroche-toi. (ah ahah ah )
+
+
+33 (01:20:35:19)
+
+MATT	(hh ahahah ah ah ah ah ah ahah)
+
+RICK	(h h h ah ahah ah ah )
+
+MATT	Dépêche-toi. (ahahah)
+
+RICK	(ahah)
+
+MATT	(hmhmhmhm)
+
+RICK	(ahahah)
+
+MATT	Faut monter! Monte Rick! Monte Rick, monte!
+
+RICK	(ah ah ah ah ) J'arrive pas!
+
+MATT	Vite! Bien sûr que tu vas y arriver, allez, il le faut!
+
+RICK	(ahah)
+
+MATT	Allez! Monte! Allez! (ahahahah)
+
+RICK	(ahahahah)
+
+MATT	(ah ah ah ah) (ohohoh)
+
+RICK	(ahahah)
+
+MATT	(ohahohah)
+
+RICK	Aide-moi! A l'aide! Aide-moi!
+
+MATT	Allez,monte! (ahahah)
+
+RICK	(ahah ah ah )
+
+MATT	Allez, monte! Il y a une corniche un peu plus haut!
+
+RICK	(ahahah)
+
+MATT	Si on se pose, on se reposera un peu! Mais il faut que tu montes Okay! Allez!
+
+RICK	(ahahahah)Okay! (ahahahah)
+
+MATT	(ahahahah)
+
+
+34 (01:21:14:20)
+
+MATT	(ahahahahahahahah)
+
+RICK	(ahahahahahahah)
+
+MATT	(hmhmhm)
+
+RICK	(hmhmhm)
+
+MATT	(ahahah) Dépêche-toi.
+
+RICK	(ahah)
+
+MATT	(ahahah) (ahahah) Okay! (ah) Il faut continuer à monter!
+
+RICK	(ahahah_) (ahahahah) (ahahah) (ahahahah) Je peux pas! On attend les secours!
+
+MATT	Non, faut y aller! On doit monter et se mettre en sécurité. Allez avance!
+
+RICK	(ahahahah) (ahahahah)
+
+MATT	(ohohoh)
+
+RICK	J'aurais jamais dû venir avec toi.
+
+MATT	Je pouvais pas savoir ce qui allait se passer?
+
+RICK	Je croyais que tu étais un héros de film d'action! J'ai toujours cru que tu pouvais tout faire . Je croyais que je serais toujours en sécurité si j'étais avec toi et en fait, aujourd'hui, je me rends compte que tu es juste un homme qui fait sa crise de la quarantaine. Et grâce à toi, on va mourrir tous les deux.
+
+MATT	(ahahah) Ecoute Rick, je sais pas ce que je t'ai fait, je ne sais pas ce que tu crois... mais je suis toujours la même personne, je suis toujours le même! D'accord,je suis ton père comme je l'ai toujours été, c'est plus clair? Et je ferai toujours en sorte qu'il ne t'arrive rien. (huhhuhhuh)
+
+RICK	(huhhuhhuh)
+
+MATT	Attention!
+
+RICK	(ahah)
+
+MATT	(ohohoh) (ahah)
+
+RICK	(ahahahah)
+
+MATT	Rick, ça va?
+
+RICK	(ahah\ )
+
+MATT	Rick. (h hh h hh h h h h )
+
+RICK	(ahah\)
+
+
+35 (01:22:09:14)
+
+JOHANNA	(ahahah aaaaaa) (ah ahah) Non, stop! Stop, stop! (ahahahah\) (ahah ah \)
+
+CASSIE	(ahah) (ahahah) Qu'est-ce qu'on va faire? (ahah) (ahahah)
+
+KALEY	Mon téléphone. (ahah\) (ahah) (ahah\) (ahah\) Pas de réseau.
+
+À FAIRE AU LABO	Echec appel
+
+KALEY	(ah ah ah ahah \)
+
+CASSIE	Appelle papa!
+
+À FAIRE AU LABO	Papa, échec appel
+
+JOHANNA	Les antennes sont sûrement détruites, ça a bien tremblé.
+
+KALEY	(ahah)
+
+CASSIE	On a qu'a crier pour demander de l'aide.
+
+JOHANNA	(ahah) Oui, vas-y. (hmhmhm)
+
+CASSIE KALEY	(hmhmhmhm)
+
+JOHANNA	Couvrez-vous la tête les filles.
+
+CASSIE KALEY	(ah ah ah ah )
+
+JOHANNA	(ah ah ah ah) Okay, à trois.
+
+
+36 (01:22:50:08)
+
+JOHANNA	(ah) Un, deux, trois!
+
+CASSIE KALEY	A l'aide! (ah ah ah ah) (ah ah ahah ah )
+
+JOHANNA	(ah ah ahah )
+
+CASSIE	Encore une fois.
+
+KALEY	(ah ah ah)
+
+CASSIE KALEY	(ahah ah ah ah) A l'aide. (ah ah ahah ah ) (hmhmhmhm)
+
+JOHANNA	(oh) Attrappez cette pièce.
+
+KALEY	Quoi?
+
+JOHANNA	(ah ah ah) Ce bout de métal.
+
+CASSIE	Un levier!
+
+JOHANNA	C'est ça!
+
+CASSIE	(ah oh)
+
+JOHANNA	(ah ah ah ah) Maintenant, glisse-le sous le bloc en béton. Le plante pas dans ma jambe!
+
+KALEY	Il nous faut de l'aide, on y arrivera jamais!
+
+JOHANNA	On a pas le temps, le batiment va bientôt s'effondrer. (ahah)
+
+KALEY	(ah ah ah )
+
+JOHANNA	(ah ah ah ) Courage les filles, ça va bien se passer. (ahah) Il suffit juste de débloquer ma jambe! (ahahah) Et on descendra l'escalier pour sortir dehors! C'est tout! D'accord? Essaye de rester calme, ça aidera ta soeur!
+
+
+37 (01:23:37:14)
+
+KALEY	(ahah hmhm)
+
+JOHANNA	(ahahah\^) Les filles, c'est pas un problème! Quand je faisais de l'escalade au Népal, ma partenaire a eu le bras coupé net à cause d'une avalanche, je l'ai portée pour descendre de la montagne. Mais on est arrivée à l'hôpital, ils lui ont opéré le bras et tout s'est arrangé! On était à la montagne! On a juste quelques étages à descendre nous!
+
+CASSIE	Et tu devais tenir son bras toi?
+
+JOHANNA	(ahah) Non, (ahah)elle le tenait avec l'autre main.
+
+CASSIE	Cool!
+
+JOHANNA	(ahahah) Allez les filles! On y va! (ahah\)
+
+
+38 (01:24:20:04)
+
+JOHANNA	(ahahah) Attendez! (ahah) Quand vous le lèverez, il y aura beaucoup de sang! (ahahah) Il me faudra un bandage!
+
+KALEY	Mais on a pas de bandages ici.
+
+JOHANNA	Kaley, il faut que tu déchires un bout de ta manche!
+
+KALEY	Quoi? Non!J'ai plus que ça, pourquoi elle déchire pas son tee shirt elle? Désolée! (ahah) (hmhmhm) (ahah hhh) (aaaaaaa) J'y arrive pas.
+
+JOHANNA	Retire ta veste et déchire avec les deux mains!
+
+KALEY	(ah ahah) Je peux pas, j'ai rien mis dessous!
+
+JOHANNA	Kaley, ça fait rien, on se tournera et voilà! D'accord Cassie?
+
+CASSIE	(hmhmhm) (hmhmhmhm)
+
+KALEY	(hmhm hhhhhhhh) (ahahah)
+
+
+39 (01:25:04:06)
+
+KALEY	(ahahah) Je peux avoir de la lumière? (hm ahahah) (ahahahah) (ahah argh) (ahahahah)
+
+
+40 (01:25:35:00)
+
+KALEY	(ahahahah) Tiens!
+
+JOHANNA	Merci Kaley! (ah/) Okay! (ahohahah) A trois, Un, deux, trois. (ahaaaaa) Arrêtez pas! Arrêtez pas!
+
+CASSIE KALEY	(argh)
+
+JOHANNA	(argh) (aaaaaaaaa)
+
+CASSIE KALEY	(ahah ahahah)
+
+JOHANNA	(ohohoh) (ahah\)
+
+CASSIE KALEY	(ahahahah)
+
+JOHANNA	(ahah) (ahahah)
+
+
+41 (01:26:11:03)
+
+JOHANNA	(snif) (ahahah) (hmhmhmhm) (hmahahah) (ahahah) (ohohohoh) Okay! Ca va! (ah ah ah) Très bien! Venez, on s'en va! (ah ah ah )
+
+CASSIE KALEY	(ah ah ah ah ah ah)
+
+JOHANNA	Vite! (ah ah ah ah ah)
+
+CASSIE KALEY	(ah ah ah ah ah ah )
+
+KALEY	Viens Cassie! (ah ah ah ah)
+
+OUT (01:26:41:20)
+
+
+42 (01:26:57:23)
+
+DR PICCIOTTO	(ahah argh)
+
+RAJESH	(ahahah)
+
+DR PICCIOTTO	(ahahah\) Oh seigneur! (ahahah) (snif) (ahah) Tout le monde va bien?
+
+NOAH	Je crois que mon bras est cassé!
+
+DR PICCIOTTO	(ahahah) (ah ah ah ah)
+
+NOAH	(ahah) Non,je sais pas, peut-être pas!
+
+DR PICCIOTTO	(ahahahah)
+
+NOAH	(ahahah) (ohoh)
+
+DR PICCIOTTO	(ahahah)
+
+NOAH	(hhhhhhh)
+
+DR PICCIOTTO	(ahahah)
+
+NOAH	(ohohohohohoh)
+
+DR PICCIOTTO	Faut redémarrer les ordis pour savoir ce qui s'est passé.
+
+RAJESH	(ahahah)
+
+DR PICCIOTTO	On est là pour relayer les données! (ahahah\)
+
+RAJESH	Les infos de la Station Spatiale arrivent directement par cette antenne, ça devrait marcher!
+
+DR PICCIOTTO	(ahahah) (snif) C'est pas vrai!
+
+OUT (01:27:33:15)
+
+
+43 (01:27:43:23)
+
+RADIO HOST	Ici Richard Paul en direct de KGSK Radio, il est onze heures trente-huit du matin. C'est une journée bien triste pour la ville de Los Angeles et pour le monde entier d'après nos informations. A six heures vingt-trois, un objet provenant de l'espace a heurté la Terre! Los Angeles a subi un tremblement de terre de niveau neuf sur l'échelle de Richter. Les équipes de secours parent au plus pressé mais sont submergés par le nombre d'appel. Des batiments se sont effondrés dans toute la ville, des incendies font rage et des pillages nous ont déjà été signalés. La Maison Blanche, le Capitole et le Washington Monument seraient totalement détruits. Mais le Président s'est rendu à Camp David quand la catastrophe a commencé et il serait indemne! Nous vous tiendrons informés tant que notre générateur fonctionnera. Et surtout, essayez de garder votre calme!
+
+
+44 (01:28:24:10)
+
+MATT	(ahah hhhhhhhhhhhhh) (ahahah) (hmhmhm) (ahahah) (ahahah) (ahahah) (hmhmhm) (ahahahah) (ahah) (hmhmhmahahah) (ahah) (ah ah ah ahah ah ah ah ah ah ah ah ah ah ) (ahahahah) (ahahahah) (ahahahah) Oh non! (ah ah ah ah ) (hmhmhmhm) (ahahah)
+
+OUT (01:28:53:00)
+
+
+45 (01:29:11:21)
+
+JOHANNA	(ahahahah)
+
+CASSIE	(ahahah) (ahah)
+
+KALEY	(tousse)
+
+JOHANNA	(aaa)
+
+CASSIE	(ahah) (ahah) J'ai marché sur quelque chose! Je crois que ça m'a coupé!
+
+KALEY	(tousse)
+
+JOHANNA	Je sais chérie, on a toutes des coupures! Mais il faut continuer à marcher! Okay, on verra ça quand on sera sorties! (ahahahah)
+
+CASSIE KALEY	(ahahahahahah)
+
+JOHANNA	(ahahah)
+
+KALEY	Ca va?
+
+JOHANNA	Oui! Restez où vous êtes!
+
+CASSIE	(ahahah)
+
+KALEY	(ahahahahohohohohohohohoh)
+
+JOHANNA	Ca va aller, ça va aller! Du calme!
+
+CASSIE	Est-ce que... il est mort?
+
+JOHANNA	(ahahah)Oui. Ne le regardez pas! Il a dû tomber.... dans l'escalier quand ça a tremblé! C'est triste mais il ne peut pas vous faire de mal.
+
+CASSIE	Et si on arrive pas à sortir? On va mourir. (ahohoh) Je voudrais que papa soit là.
+
+JOHANNA	Non,on ne va pas mourir! Maintenant, on va continuer à descendre et on ira chercher ton papa
+
+CASSIE	(ahahah) (ahahah) On va revoir d'autres personnes mortes?
+
+JOHANNA	(hm)Je ne sais pas mais Cassie, regarde-moi. Tu avances et tu me suis, d'accord? Tu continues à marcher! Et on arrivera à sortir de là, ensuite, on ira chercher ton papa! Les morts ne nous feront rien!
+
+CASSIE	(hmhmhm)
+
+JOHANNA	(hmhm)Okay? On y va! Voilà, continue!
+
+CASSIE	(ahahah)
+
+JOHANNA	(ahahah) (ahahah)
+
+CASSIE	(hmhmhm) (hmhmhmhm)
+
+JOHANNA	Chut! C'est bon! Ca doit venir des voisins! (ahahah) (ahahahah) (ah ah ahah ah )
+
+KALEY	(ah ah ah ah ah ah)
+
+
+46 (01:30:54:17)
+
+MATT	(ah ah ah ah ) (argh) (ahah) (ahahah) (ahahah) (ahahah) (hmhmhm) Voilà! (ah ah ahah ) Rick?
+
+RICK	(hhhhhhhhhhhhhh)
+
+MATT	On y va.
+
+RICK	(hmhmhm)
+
+MATT	Ca va?
+
+RICK	(ahahh)
+
+MATT	(ohohoh) Rick, doucement, ça va, ça va!
+
+RICK	(hhh ahahahahahahah)
+
+MATT	Je te tiens, doucement!
+
+RICK	(hmhmhmhm)
+
+MATT	Je te tiens!
+
+RICK	(ah ah ah ahah ah )
+
+MATT	D'accord. Je te tiens.
+
+RODNEY	(hmhmhmahahah)
+
+MATT	Une corde?
+
+RICK	(ahahah)
+
+MATT	Y'a quelqu'un. (ahahah)
+
+RODNEY	Vous allez bien?
+
+MATT	(ahahah) Prends-la.
+
+RICK	(ahahah)
+
+MATT	Oui.
+
+RICK	(argh)
+
+RODNEY	Okay. (ahah) Je vais essayer de vous tirer de là. (hmhmhm) (ohohohpffpffpff) (hmhm)
+
+
+47 (01:31:32:23)
+
+JOHANNA	Eh! Il y a quelqu'un? Il y a quelqu'un?
+
+CASSIE KALEY	(ah ah ah )
+
+CASSIE	Aurora et May.
+
+MAY	Cassie! C'est génial que tu soies là. Ta soeur est avec toi?
+
+KALEY	Salut May!
+
+MAY	Salut ma chérie! Oh, tu t'es fait mal au visage?
+
+KALEY	Non, c'est rien, t'inquiète, c'est rien,on peut sortir par là?
+
+AURORA	On essaye de rentrer par là, c'est le seul moyen de descendre!
+
+JOHANNA	Allez les filles, aidez-moi à pousser! Plus vite!
+
+CASSIE	D'accord
+
+KALEY	Mets-toi là Cassie!
+
+JOHANNA	(ahahahah) (hmhm aaaaaaaa) (hmhm aaaaaaaaaaa)
+
+CASSIE KALEY	(arghhhhhhhhhhhhh)
+
+MAY	(ahahah)
+
+AURORA	(ahahahah) (ahahahahah) (ahahahahah)
+
+MAY	Vous êtes blessée.
+
+JOHANNA	(ahahah\) (ohahahah)
+
+AURORA	Je suis Aurora.
+
+JOHANNA	(ahahahah)
+
+MAY	Je suis May!
+
+JOHANNA	(ah ah ah ahah )
+
+AURORA	On vous tient!
+
+JOHANNA	(ohohoh) Super!
+
+MAY	On y va!
+
+CASSIE	(ohohohoh)
+
+JOHANNA	(ahohahoh) (ahahahah) (ahahahahahah)
+
+
+48 (01:32:26:01)
+
+RODNEY	(hmhmhmhmhmhmhmhmhmhm) (ohohoh) (ahah) (pffpffpffpff) (hmhmhmhmhm)
+
+RICK	(ahahah)
+
+MATT	(ahah)
+
+RICK	(ahahah)
+
+MATT	Allez monte! Vas-y! (ahah)
+
+RICK	(ahah)
+
+MATT	(ahahah)
+
+RODNEY	(oh) Ca y est! (pffpffpffpff)
+
+MATT	(ahah) Rick? Ca va, je suis désolé, tu n'as rien?
+
+RICK	(ahahahah) Oui,oui! Oui,je crois que ça va!
+
+MATT	(ah ah ahah ah ah ) Laisse-moi regarder! (ah) Combien j'ai de doigts?
+
+RICK	(ahahah)
+
+MATT	(ahah)
+
+RICK	Un seul!
+
+RODNEY	(hmhm ah)
+
+MATT	Maintenant, suis mon doigt!
+
+RICK	(ahahahah) (ahahah)
+
+MATT	(ahahah)
+
+RICK	Arrête!
+
+MATT	Alors?
+
+RICK	Ca va, tout va bien papa!
+
+MATT	T'es sûr?
+
+RICK	Oui, ça va!
+
+MATT	Tant mieux! (ahahah) Merci beaucoup!
+
+RODNEY	(oh) Non,, non, c'est normal que je vous ai aidés!
+
+MATT	(ahah) Ca a secoué hein?
+
+RODNEY	Oh oui, au moins neuf sur l'échelle! J'avais jamais ressenti ça!
+
+MATT	(ahah) Ils l'ont senti aussi en ville?
+
+RODNEY	C'est une bonne question.
+
+
+49 (01:33:09:14)
+
+MATT	(ahahah)
+
+RICK	(ahahah)
+
+RODNEY	Je dois avoir.... des pantalons là dedans Si ça peut vous servir...
+
+MATT	(ahah) (ohoh) (ahahah) Merci!
+
+RICK	(ohohoh)
+
+RODNEY	(ahah\) (ah ah\)
+
+
+50 (01:33:25:02)
+
+JOHANNA	(ah ah ah ah )
+
+CASSIE KALEY	(ah ah ah ah ah)
+
+GIANELLI	Bonjour!
+
+JOHANNA	(ahahah) Vous allez bien monsieur?
+
+GIANELLI	Monsieur? Je m'appelle Roberto Gianelli! Monsieur, c'est pour parler des vieux ! (ah ah ah ) (ahahahah) Je suis pas vieux à vos yeux hein? (ahah rire) Hein? (hmhmhm ah) Ca fait rien mesdames! (ahah) Faut avoir quatre-vingt dix ans pour être vieux, il me reste encore de belles années, hein?
+
+JOHANNA	(ahah rire)
+
+CASSIE KALEY	(ahah rire) (ah ahah ah )
+
+JOHANNA	(ahah)
+
+GIANELLI	Mauvais endroit pour faire les présentations mais je vois cinq anges descendre du ciel!
+
+JOHANNA	(ahahah)
+
+CASSIE KALEY	(ahahah)
+
+MAY	(ahahah)
+
+AURORA	(ahah)
+
+GIANELLI	Oh oui!
+
+
+51 (01:34:05:12)
+
+JOHANNA	Qu'est-ce que vous attendez monsieur Gianelli?
+
+CASSIE KALEY	(ahahah)
+
+MAY	(ahahah)
+
+AURORA	(ahahah)
+
+JOHANNA	Il vaut mieux sortir du batiment!
+
+GIANELLI	Oui, vous avez raison! Oui, ça c'est sûr! Je suis sorti de mon appartement sans problème et, je suis arrivé dans l'escalier et tout ce que je peux vous dire, c'est que... (ah ahah ah ah ah) je n'arrivais pas à descendre alors je me suis reposé quelque temps. (ahah) (ahah) (snif)
+
+AURORA	Venez monsieur Gianelli! Faut descendre avant que le batiment s'effondre sur nous!
+
+KALEY	(ah)
+
+JOHANNA	(ahah)
+
+GIANELLI	J'ai entendu les infos sur ma petite radio avant que les piles soient finies! (ah) et....ils disaient que c'était une secousse prémonitoire, (ahahah) et que toute la ville allait s'écrouler! (ahah) Ils parlaient aussi de raz-de-marée potentiels!
+
+
+52 (01:34:48:01)
+
+GIANELLI	(ahahah) (ahahah)
+
+JOHANNA	(ahah) Ca va aller! Ca va aller Cassie, on est presque en bas!
+
+GIANELLI	Eh, eh! T'"inquiète pas ma petite, on va s'en sortir, oui... en deux coups de cuillère à pots! Tu verras. Je te le garantis! (ahahah) Allez, viens! Allons-y! (ah ahah ah ) (ahahah) (ahahah)
+
+KALEY	(ah ah ah ah ah)
+
+CASSIE	(ahoh ah ah ahh ah )
+
+KALEY	C'est génial! Maintenant, on fait quoi?
+
+
+53 (01:35:32:24)
+
+CASSIE	Essaye encore ton téléphone!
+
+JOHANNA	(ahah ahah ah ah )
+
+CASSIE KALEY	(ah ah ah ah ah )
+
+JOHANNA	Non, attends! Eteins ta lampe pour l'instant!
+
+CASSIE	Quoi, qu'est-ce qu'il y a?
+
+JOHANNA	Regardez!
+
+AURORA	On est là!
+
+CASSIE	(ah ah ah )
+
+JOHANNA	Il suffit de retirer ça, tout ce qui est devant nous! (ohohohoh)
+
+AURORA	(ah ah ah ah ah )
+
+JOHANNA	(ahah ah ah ah ah ah ah ahah ah ah ah ah ) Chouettes muscles! Tu fais des arts martiaux?
+
+MAY	J'ai fait une initiation au Krav-Maga! (ahahah) Mais c'est tout!
+
+JOHANNA	(ahahah) J'enseigne le Jujitsu si un jour, tu veux essayer autre chose!
+
+KALEY	C'est la fin du monde et tu fais ta pub?
+
+
+54 (01:36:18:03)
+
+MAY	(ahah ah ah)
+
+JOHANNA	(ah ah ah )
+
+CASSIE KALEY	(ohohohoh)
+
+MAY	(ohohoh)
+
+AURORA	(ohohohoh)
+
+GIANELLI	(ohohohoh)
+
+CASSIE	(ahahahah)
+
+JOHANNA	(ahahahahahahahahahah)
+
+CASSIE KALEY	(ahahahahahah)
+
+AURORA	(ahahahahahahahah)
+
+GIANELLI	(ahahahahahah)
+
+JOHANNA	Cassie... Kaley!
+
+KALEY	(ahahahah) (ohohohoh)
+
+JOHANNA	(ah ah ah ah ah )
+
+CASSIE	(hhhhhh) (ahahah) Tout va bien, y'a un passage!
+
+JOHANNA	(ah ah ah ah )
+
+CASSIE	On est plus très loin! Venez! On est presque arrivés. (ahahah)
+
+GIANELLI	Oui, je suis passé dans des trous plus petits dans ma vie! (ahah) Mais... j'avais soixante ans de moins!
+
+JOHANNA	(ahahah) (ahahah) On va vous aider, Roberto. Je tire, vous poussez!
+
+AURORA	(hhhhhhhh) (ah ah ah ah ahah ah ah ah ah ah ah ah ah ah ) (hmhmhmhm)
+
+
+55 (01:37:00:21)
+
+MAY	(hmhmpff )Fais attention!
+
+AURORA	(ah ah ah ah ah ) On y va! (ahahah)
+
+MAY	(hhhhhhhhhhhhhhhhh)
+
+GIANELLI	Allez! (ohohohoh)
+
+JOHANNA	Plus vite!
+
+GIANELLI	Oui! (ah ah ah ah ah ) Attention, j'arrive! (ahahah) (ahahahahahah)
+
+JOHANNA	A ton tour!
+
+GIANELLI	(ahahah)
+
+KALEY	(ah ah ahah )
+
+JOHANNA	A toi!
+
+MAY	(ah ah ah) Non, c'est à vous! Je ne veux pas que les filles perdent une autre mère à cause de moi! Allez la belle mère méchante!
+
+JOHANNA	(ah ah ah ah ah ) (ahahahah) (ahahahah) Attention!
+
+MAY	(ah ah ah ah ahah ah ah) (ah ah ah ah ah ah ) (ah ah ah ah ah ) Aurora!
+
+OUT (01:37:49:04)
+
+
+56 (01:37:53:18)
+
+MATT	(ah ah ah)
+
+RODNEY	Eh! De l'eau?
+
+MATT	(ah)
+
+RICK	(ah ah ah )
+
+MATT	(ah ah ah)
+
+RODNEY	Je suis Rod! Rodney Jackson!
+
+MATT	(ah) Matt! Matt Mason et lui, c'est mon fils Rick. (ahah)
+
+RICK	(ahahah)
+
+MATT	(ahah ah)
+
+RODNEY	(ahah)
+
+MATT	(ah ah ah ah)
+
+RICK	(ahahah) Vous nous avez sauvé la vie.
+
+RODNEY	(ahah) (ahah) Non,non,non! C'est ton père qui t'a sauvé la vie. Je l'ai juste aidé! (ahah)
+
+MATT	(ahah) Non, c'est vrai, c'est grâce à toi. (ahah\)
+
+RODNEY	Euh... (ahah ah\) Vous pouvez me rendre un service. Un arbre est tombé sur ma voiture! Je marchais quand je vous ai entendu crier! (ahah)
+
+
+57 (01:38:36:05)
+
+MATT	Oui, sans souci et si tu as besoin d'autre chose! (ahahah)
+
+RICK	(ahahah)
+
+RODNEY	(ah) Super, je te remercie! (ahah) Les routes sont bien abîmées. Vous avez un quatre-quatre? (ahah)
+
+RICK	(ahahah) Oh oui, ça c'est sûr.
+
+MATT	(ahah rire) Oh oui! (ahahah)
+
+RODNEY	(ahahah) Oui, vous avez un quatre-quatre? Génial! (oh) Très bien!
+
+MATT	(ahah)
+
+RICK	(hmhm)
+
+RODNEY	(ohohoh) Wouahou! (ahahohoh)
+
+MATT	(ah ah ahah ah )
+
+RICK	(ahahahahah)
+
+MATT	(ah ah ah course)
+
+RICK	(ahah ah course)
+
+RODNEY	Sacrée caisse!
+
+MATT	(ah ah ah ah ahah ah )
+
+RICK	(ahahoh ah ah ahah ah ah)
+
+RODNEY	(ah ah ah ah ah )
+
+
+58 (01:39:18:08)
+
+JOHANNA	(hmhmhmhm ahah)
+
+MAY	(hmhm ahahah) (ahah ahahah)
+
+CASSIE KALEY	(ah ah ahah pleure)
+
+MAY	(oh oh oh pleure) (ah ah ah ah ahpleure ah ah ahah ah ) Aurora! (ah ah ahah ah )
+
+JOHANNA	Faut qu'on s'en aille!
+
+MAY	(ohah ahah ah ah ahah ah ah ah ah ah )
+
+JOHANNA	May, il faut sortir!
+
+MAY	Allez-y, je vous rejoins plus tard! (ahahah)
+
+JOHANNA	May!
+
+MAY	J'en ai pas pour longtemps.
+
+GIANELLI	Laissez-la faire,ma belle, elle a besoin d'un peu de temps!
+
+MAY	(ah ah ahah ah ah ahah ah ah ah ah ahah ah )
+
+CASSIE KALEY	(ah ah ahah ah ah ah )
+
+JOHANNA	(ah ah ahah ahah ah ah ah ah ah) (ah ah ah ahah )
+
+CASSIE	On peut y aller Johanna. (snif hhh h h h h h h h h )
+
+KALEY	Viens Cassie!
+
+JOHANNA	(ah ah ahah ah ah ahah ah ah )
+
+CASSIE	(ah ah ahah ah )
+
+
+59 (01:39:52:01)
+
+MAY	(ah ah ah pleure ah ah ah ahah ah ah )
+
+
+60 (01:39:57:09)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah)
+
+JOHANNA	(ah ah ahah ah ah ah )
+
+CASSIE KALEY	(huh huh huh huh huh huh huh)
+
+CASSIE	(ahah ah ahah ah ah )
+
+JOHANNA	(ah ah ah) May!
+
+CASSIE	May!
+
+KALEY	May!
+
+CASSIE	(ahahahahahahahahahah)
+
+KALEY	(ahahahahahahahahahahah)
+
+OUT (01:40:12:08)
+
+
+61 (01:40:35:21)
+
+NOAH	(argh)
+
+DR PICCIOTTO	Viens!
+
+NOAH	(ahah argh) (ahahah) La matière sombre est passée à travers la planète, elle a laissé un trou mais il n'y a pas eu d'explosion?
+
+DR PICCIOTTO	(ah ah ah ahah ) (ahahah)
+
+RAJESH	Non, attends, c'est pas possible que ça s'arrête là!
+
+DR PICCIOTTO	(ahahah) Pas là, mais on comprendra peut-être quand on aura analysé les données télémétriques! (ahahah) Et on en saura plus sur l'apesanteur et sur la nature de l'Univers et son évolution!
+
+NOAH	C'est... comme si une balle traversait de la gelée!
+
+DR PICCIOTTO	(ahah) Sauf que le centre de la Terre est en ébullition!
+
+NOAH	(ahah tousse)
+
+RAJESH	Un peu comme une crème aux oeufs!
+
+NOAH	(ahah tousse)
+
+DR PICCIOTTO	(huhhuhhuh)
+
+NOAH	(huhhuhhuhhuh)
+
+RAJESH	(huhhuhhuhhuh)
+
+DR PICCIOTTO	Et maintenant, la "crème" doit remplir le trou!
+
+NOAH	(ohohoh) C'est une bonne chose, non?
+
+DR PICCIOTTO	C'est la chaleur du magma qui est dans le coeur qui m'inquiète!
+
+RAJESH	Regardez, regardez!
+
+
+62 (01:41:12:24)
+
+DR PICCIOTTO	(ohohoh) Quelle est la hauteur de la vague?
+
+RAJESH	(ah ah ah ah )
+
+NOAH	(ah ah ah ah ah)
+
+DR PICCIOTTO	Ici le docteur Picciotto d'Arecibo. On a détecté un méga tsunami qui va du cercle arctique jusqu'au Pacifique.
+
+RAJESH	Elle fait plus de trente mètres!
+
+DR PICCIOTTO	La vague devrait atteindre plus de trente mètres!
+
+NOAH	(ah) Oh mon dieu, (ahahah)elle va recouvrir toute la côte ouest!
+
+OUT (01:41:29:21)
+
+
+63 (01:41:34:11)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahahahahahahah)
+
+JOHANNA	(ah ah ahah ah ah )
+
+CASSIE KALEY	(ahh ah ah ahah ah ah ah )
+
+GIANELLI	Venez! (ahahahahahahahahahahahah)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah)
+
+JOHANNA	(ah ah ah ahah ah ah ah ) Couche-toi.
+
+CASSIE KALEY	(ah ah ah ahah ah ah ah ah ah )
+
+GIANELLI	(ohohohohohohohohohohohoh)
+
+JOHANNA	Couche-toi.
+
+CASSIE KALEY	(ahahahahahahahahahahahahah)
+
+JOHANNA	(ah ah ahah ah ah ah ah )
+
+CASSIE	Elle aurait eu le temps de sortir!
+
+JOHANNA	(ahah)
+
+GIANELLI	Elle est avec sa copine maintenant!
+
+KALEY	Sa copine? C'était plutôt sa femme, non?
+
+JOHANNA	(ah ah ah ah) Et alors?
+
+CASSIE	(ahahah)
+
+JOHANNA	(ahahah)
+
+GIANELLI	Peut-être oui!
+
+JOHANNA	(ahahahahahahah) Maintenant, je vous mets à l'abri les filles! (ahah)
+
+KALEY	(ah) Quoi? Non, papa a dit que si on devait se séparer en cas d'urgence, on se retrouvait à la maison!
+
+JOHANNA	Sauf que Matt n'est pas là et notre maison a disparu!
+
+KALEY	Oui mais on doit rester où on pourra le voir, il nous verra en rentrant à la maison!
+
+JOHANNA	(ah ah ah ahah )
+
+
+64 (01:42:12:21)
+
+CASSIE	Tu crois qu'il y a eu un tremblement de terre dans la montagne aussi?
+
+JOHANNA	Je ne sais pas du tout! (ahah) Mais peut-être qu'on devrait quitter la ville, la police ne pourra pas tout surveiller.
+
+GIANELLI	Oui, vous avez raison,on ne sait pas de quoi sont capables les gens dans ces cas-là!
+
+JOHANNA	On va manquer de nourriture et d'eau bientôt...
+
+KALEY	(ah) Pas question! Non, on doit rester ici. (arghhhhhhhhhh)
+
+JOHANNA	Venez, on s'en va!
+
+KALEY	Non! Il faut qu'on reste là! (ahahah\) J'aurais dû prendre ce maudit talkie-walkie qu'a acheté papa!
+
+JOHANNA	C'est vrai... Matt a une vieille radio ondes courtes dans sa voiture, si on trouve une radio amateur, on arrivera à le...
+
+KALEY	Il y a un magasin d'électronique dans la rue!
+
+JOHANNA	C'est vrai? Vous m'emmenez, les filles?
+
+CASSIE	(ahahah)
+
+JOHANNA	Génial,allez! Plus vite! On y va! Venez! (ah ah ah ah)
+
+OUT (01:42:53:19)
+
+
+65 (01:42:59:17)
+
+MATT	Rick, appelle ta...Johanna!
+
+RICK	(h hh h h ) Mon téléphone était dans la tente!
+
+MATT	C'est vrai et le mien aussi!
+
+RODNEY	Prends le mien!
+
+RICK	(ahhm) Je connais pas son numéro. Quoi, il était dans la mémoire!
+
+MATT	Trois, un,zéro,deux,deux,six.
+
+RICK	C'est pas la peine,y'a aucun réseau!
+
+MATT	D'accord, essaye une fréquence d'urgence!
+
+RICK	(ah ah ah ahah )
+
+NEWSCASTER	Un tremblement de terre de magnitude neuf virgule deux sur l'échelle de Richter a frappé Los Angeles. D'après des rapports provenant d'un peu partout dans le monde, il s'agirait d'une catastrophe mondiale. Des coupures électriques ont touché la zone de Los Angeles, et des secousses continuent à se faire sentir. Les autorités conseillent aux habitants de se mettre à l'abri et d'éviter les grandes villes.
+
+
+66 (01:43:41:18)
+
+NEWSCASTER	Des radios amateurs disent qu'un énorme météore a frappé l'Alaska. Mais cela ne nous a pas été confirmé , je vous le répète, fuyez les grandes villes...
+
+RICK	On devrait peut-être rester à la montagne?
+
+RODNEY	Non, je doute que les montagnes soit totalement stables!
+
+MATT	(ahahah)
+
+NEWSCASTER	nous vous tiendrons informés dès que possible!
+
+MATT	De toute façon, je m'en fiche, il faut aller voir les filles! D'accord?
+
+RICK	(ahahahhmhm) (ahahahahah)
+
+MATT	Essaye les ondes courtes! La radio à ondes courtes!
+
+NEWSCASTER	C'est ce que je disais depuis des années! On savait qu'il allait se produire une catastrophe de ce genre et ses conséquences.
+
+RICK	(ah ahah ) Allo?Est-ce que vous m'entendez? Quelqu'un sait ce qui s'est passé?
+
+NEWSCASTER	Et maintenant vous verrez, le gouvernement va déclarer la Loi Martiale et nous rassembler quelque part.
+
+MATT	(ah ah ah ) Essaye le canal vingt-et-un-soixante.
+
+RICK	(hmhm) Okay!
+
+
+67 (01:44:22:21)
+
+RICK	Tiens!
+
+MATT	W,neuf,G.F.O W,neuf,G.F.O! Ici W,sept T.H.X, tu me reçois?
+
+RICK	Elle se rappellera ,jamais son indicatif!
+
+MATT	(ahah tsc) Kaley Mason, c'est papa! Tu me reçois?
+
+RODNEY	Peut-être quand on sera sortis de la forêt.
+
+MATT	(ah ah ah ah ah )
+
+VOICE FEMME	S.O.S! S.OS, il y a quelqu'un? Est-ce que quelqu'un me reçoit? Au secours! Aidez-nous!
+
+VOICE MAN	S.O.S! Vous me recevez?
+
+VOICE FEMME	On est coincés en ville.
+
+VOICE MAN	Nous aussi, vous êtes où?
+
+VOICE FEMME	En plein centre.
+
+VOICE MAN	Nous, on est à l'église!
+
+VOICE FEMME	Vous avez de l'eau?
+
+VOICE MAN	Plus beaucoup.
+
+VOICE FEMME	Et de la nourriture?
+
+VOICE MAN	Non, plus rien.
+
+RICK	Papa!
+
+
+68 (01:45:02:15)
+
+RICK	(ahahahah)
+
+RODNEY	(ah ah ah ah) On dirait que la ville entière s'enfuit tout d'un coup!
+
+MATT	C'est dément! W.9.G.F.O Johanna, Kaley, c'est Matt, vous me recevez? (ahah) On rentrera jamais à la maison par là!
+
+RODNEY	Oh non! Non,non,non! Il vaut mieux descendre! Je connais bien ces montagnes, je suis géologue chez Cal tech! Si ça recommence à trembler,on aura de gros problèmes!
+
+
+69 (01:45:43:04)
+
+RICK	(ahahah) On peut passer par derrière!
+
+MATT	Bien joué mon fils, par où?
+
+RICK	Par là!
+
+
+70 (01:46:03:07)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahah)
+
+CASSIE KALEY	(ah ah ah ah ahah ah ah ah )
+
+JOHANNA	(ah ah ahah ah ah ahah ah )
+
+KALEY	Viens Johanna, le magasin d'électronique est par là.
+
+JOHANNA	Il faut que je vous sorte de là les filles!
+
+CASSIE KALEY	(ah ah ah ah ah)
+
+JOHANNA	Servez-vous.
+
+CASSIE	On va passer pour des pillards nous aussi!
+
+JOHANNA	On reviendra les payer demain! (ahahah)
+
+CASSIE KALEY	(ah ah ah ah)
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahah) (ahahahahahahah)
+
+GIANELLI	On devrait partir par là.
+
+AMB PANIQUE H+F	(ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah)
+
+GIANELLI	On y va!
+
+JOHANNA	Bonne idée, on y va!
+
+GIANELLI	Allez!
+
+JOHANNA	(ahah) Allez!
+
+CASSIE	Il est juste là!
+
+
+71 (01:46:44:03)
+
+KALEY	(ahahah) (ohohohohohohohoh) Maintenant on fait quoi?
+
+JOHANNA	(ahahah)
+
+GIANELLI	Est-ce que vous avez euh... (ah ahah ) une pince ou une barrette? Un truc du genre? (ah ah ah) Oui? (ahahah) Parfait! (ahahah) Ca ira! (ahah) Attention, attention! Poussez-vous! (ahahah) Allons-y! (ahahah) Allez! (ahahah) (ahahah) (ahahah) Oui. (ahahah) J'ai pas toujours été un vieil homme! (ahahahah) Venez! Je vous en prie, après vous! (ahahahah) Allez!
+
+
+72 (01:47:26:11)
+
+RODNEY	Les gars, ce que je vois là-haut, ne me rassure pas du tout ! Roule plus vite!
+
+
+73 (01:47:38:14)
+
+JOHANNA	(ah ah ah ahah)
+
+CASSIE KALEY	(ah ah ahah ah ah ah )
+
+CASSIE	(hmhmhm) Il dit qu'il faut une autorisation.
+
+KALEY	Oui, j'en ai une! (ahah) Ici, W.9.G.F.O, j'appelle le W.7.T.H.X, à vous!
+
+JOHANNA	Tu m'impressionnes.
+
+KALEY	Oui,en fait, j'ai passé ce maudit examen, c'est la dernière chose que j'ai faite avec maman! (ahahahah) W.7.T.H.X, vous me recevez? Papa?
+
+JOHANNA	Peut-être qu'on aura plus de chance de là haut.
+
+
+74 (01:48:14:12)
+
+MATT	Ca va bien se passer!
+
+KALEY	Ici W.9.G.F.O j'appelle Matt Mason, W.7.T.H.X,_______ à vous.
+
+RICK	Oh non, j'arrive pas à y croire!
+
+MATT	Kaley, c'est toi?
+
+RICK	Papa!
+
+MILITIA MAN	T'as de la chance, t'as une jolie voiture! Mais on en a besoin!
+
+MATT	(ohohohohohohohohoh) Vous deux, restez dans la voiture! Quoi qu'il arrive! (ahahah)
+
+MILITIA MAN	Les deux autres, dehors!
+
+
+75 (01:48:56:17)
+
+MATT	Salut, je suis Matt. (ahah)C'est mon fils Rick et mon ami Rodney.
+
+MILITIA MAN	J'en ai rien à faire de tes présentations! Je vous ai dit de sortir du véhicule!
+
+MATT	Attends, on a un treuil dans la voiture! On peut peut-être t'aider, je veux bien sortir ton pick-up du fossé!
+
+OLIVER	Le radiateur est foutu! Est-ce que tu as un...
+
+MILITIA MAN	Le pick-up reste où il est Oliver! On prend sa voiture!
+
+MATT	(ahah tsc) (ahahah)
+
+MILITIA MAN	Bouge pas!
+
+MATT	(ah ah ahah )
+
+RICK	(ah ah ahah ah )
+
+MILITIA MAN	Stop! Je vous ai dit de descendre de la voiture!
+
+MATT	(ahahahah)
+
+RICK	Papa!
+
+RODNEY	Ton père sait ce qu'il faut faire!
+
+RICK	(ahahah) (ahah hmhmhm) J'ai pas l'impression!
+
+
+76 (01:49:40:20)
+
+MATT	S'il te plaît, mec, je veux juste ramener mon fils, je le ramène en ville! Près de, de sa mère et de mes filles! On peut vous emmèner avec nous!
+
+MILITIA MAN	Non! T'as pas la place! Et puis, t'es dingue de retourner en ville!
+
+MILITIA WOMAN	Ils peuvent peut-être venir avec nous!
+
+MILITIA MAN	La ferme!
+
+OLIVER	On a seulement rendez-vous avec les...
+
+MILITIA MAN	La ferme Oliver! (ah ah ah ah )
+
+MATT	Fais pas ça, s'il te plaît!
+
+MILITIA MAN	(ahahahahahahahah)
+
+OLIVER	(ahahahahahahah)
+
+MILITIA WOMAN	(ahahahahahahahahah)
+
+MATT	(ahahahahahah)
+
+RICK	(ohohohohohohohohohohohoh)
+
+MATT	(ahahah)
+
+MILITIA MAN	(argh)
+
+MATT	(ahah)
+
+MILITIA MAN	(argh)
+
+RODNEY	Wahou! (ah)
+
+RICK	(ahahahah)
+
+
+77 (01:50:18:18)
+
+MILITIA WOMAN	(ah ah ahah ah ah )
+
+RICK	(ah ah ahah ah ) Pourquoi on s'arrête? Papa?
+
+
+78 (01:50:57:01)
+
+RICK	Papa, non.
+
+MATT	C'est ce que je dois faire!
+
+RODNEY	(hmhm) Oui! On y va!
+
+RICK	Tu fais exactement comme avec elle! Tu devrais faire passer tes enfants avant les autres!
+
+MATT	Jetez vos armes! Allez, montez, mais jetez vos armes!
+
+OLIVER	(ah ah ahah ah ah ) (ahahah) Merci beaucoup! Je m'appelle Oliver.
+
+MATT	Allez! On se dépêche.
+
+OLIVER	Plus vite!
+
+MATT	Plus vite!
+
+
+79 (01:51:46:20)
+
+WOMAN CASQUETTE	(ahahah)
+
+MATT	Kaley, tu me reçois? (ahahah) Vous vous souvenez où sont les autres voitures?
+
+
+80 (01:52:17:03)
+
+VOICE FEMME	Il y a quelqu'un? Vous me recevez?Je suis sortie de la ville.
+
+KALEY	(ahah) Papa, tu me reçois?
+
+VOICE FEMME	Et vous, vous en êtes où?
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+JOHANNA	C'est bien monsieur Gianelli! Vous êtes presque arrivé.
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+JOHANNA	Vous êtes génial! Alors, ça marche?
+
+CASSIE	Non, pas encore!
+
+JOHANNA	Tu vas y arriver chérie. Tu es dans la ligne de mire, tu es sûre que c'est la bonne fréquence?
+
+VOICE MAN	Personne ne vient, où sont passés les secours?
+
+KALEY	(ahahah)
+
+VOICE MAN	C'est dingue, pas un pompier, pas une ambulance!
+
+KALEY	C'est Kaley, papa, à vous!
+
+GIANELLI	(ahahah) (ahahah)
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+GIANELLI	Je vous le dis, j'aurais pas dû arrêter mon cours de zumba!
+
+JOHANNA	(ahahahahhmhmhmhmahahahahah)
+
+GIANELLI	(ahahahahahahahahahah) (ahah touse ahah ahah ah ah ah ah ah )
+
+JOHANNA	Monsieur Gianelli, je veux bien faire de la zumba avec vous quand vous voulez!
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+GIANELLI	(ahahah) (ahah snif) (ahahah\) Allez vous occuper de vos filles,moi ça va, merci!
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+JOHANNA	Ce ne sont pas mes filles!
+
+GIANELLI	(ahahah) (ahahahah)
+
+
+81 (01:53:01:23)
+
+GIANELLI	(ahahah) Ah non? Hein?
+
+JOHANNA	(hmhm)
+
+GIANELLI	Allez les voir.
+
+KALEY	W.7T.H.X, ici W.9.G.F.O, est-ce que tu me reçois?
+
+JOHANNA	(ahahah) Tu peux nous réserver un séjour à la mer avec ça? Je crois qu'il nous faudra des vacances quand ce sera fini....
+
+VOICE FEMME	Est-ce que quelqu'un a de l'eau?
+
+CASSIE	Si on allait dans un parc d'attraction?
+
+VOICE FEMME	On a un bébé et un biberon mais plus d'eau.
+
+KALEY	(tsctsc) Trop nul! Regarde autour de toi, les parcs sont tous détruits!
+
+JOHANNA	Kaley!
+
+CASSIE	(hhhhhhhh)
+
+KALEY	Quoi, tout le monde en parle, ça touche la terre entière, je sais ce que c'est... la terre a été frappé par un météore ou un truc du genre!
+
+CASSIE	La terre toute entière?
+
+JOHANNA	(ahahah) Non, pas toute entière Cassie! Je suis sûre que votre père va bien, on les aura bientôt. (ahahah) Essaye encore.
+
+
+82 (01:53:40:10)
+
+MATT	W.9.G.F.O, ici W.7.T.H.X. Kaley, tu me reçois?
+
+CASSIE	C'est papa!
+
+KALEY	Papa, papa,tu vas bien? Et Rick?
+
+MATT	Oui, ne t'inquiète pas! On va bien! Tu es avec ta soeur?
+
+KALEY	(ahahah)
+
+MATT	Johanna est avec vous?
+
+KALEY	Oui, oui, on est ensemble mais notre batiment s'est effondré!
+
+MATT	Comment...tu dis que le batiment s'est effondré mais vous n'êtes pas blessées, toutes les trois?
+
+KALEY	(ahah)
+
+JOHANNA	(ahah) Matt, Matt, on est toutes les trois et on va bien et vous, vous êtes où?
+
+MATT	(ahahah incompréhensible)
+
+JOHANNA	Matt, (ahah)la ville est dangereuse, (ah)il y a des pillages partout et les gens sont incontrôlables!Je dois mettre les filles en sécurité!
+
+MATT	Tu peux répéter? Où ça en sécurité? (ah incompréhensible ahah)
+
+
+83 (01:54:23:19)
+
+JOHANNA	(ah)Je comprends rien. (ahahahahahahah) Matt, où es-tu?
+
+MATT	(ahahah incompréhensible)
+
+JOHANNA	Matt, tu me reçois?
+
+MATT	(ah ah ah incompréhensible)
+
+KALEY	W.7.T.H.X, ici Kaley, terminé!
+
+JOHANNA	(ahahahahah)
+
+CASSIE KALEY	(ahahahahah)
+
+JOHANNA	On sait où il est, il est sur la route, il va arriver! Il faut qu'on aille par là, on va à sa rencontre! Dépêchons-nous!
+
+KALEY	Non, non, papa a dit,à la maison!
+
+JOHANNA	On entendait pas ce qu'il disait.
+
+CASSIE	Johanna, notre voiture croule sous des millions de tonnes de gravats non? Comment on va faire pour aller ailleurs?
+
+JOHANNA	(ahahah) On peut peut-être trouver des vélos.
+
+KALEY	(hmhmhm)
+
+JOHANNA	(ahahahahah)
+
+CASSIE KALEY	(hmhmhmhm)
+
+OUT (01:55:00:24)
+
+
+84 (01:55:17:00)
+
+RAJESH	(ahahah\) Si seulement on... on pouvait faire quelque chose!
+
+NOAH	L'alerte Tsunami a été déclénchée, le centre de recherche astrophysique surveille les secousses sismiques. L'armée du pays est en route pour commencer les opérations de sauvetage!
+
+RAJESH	(hm hm hm hm hm) Oui, je sais déjà tout ça!
+
+NOAH	On est dans un observatoire, on est là pour...
+
+RAJESH	(hmhmhmhm)
+
+NOAH	observer!
+
+RAJESH	Oui, je sais mais, je voudrais... faire quelque chose pour ces gens! (hmhmhmhm)
+
+NOAH	(ohohoh\)
+
+RAJESH	(ah ah ahah ah ah) (hmhmhmhm) Y'a tellement de gens qui vont mourir aujourd'hui!
+
+NOAH	Oui! (tsctsch) Au fait... comment tu as fait pour t'appeler : Rajesh Vasquez, est-ce que ta mère était indienne et ton père...mexicain?
+
+RAJESH	(ahahah) (hmhm) Oui!
+
+
+85 (01:56:01:10)
+
+NOAH	(ohohoh)
+
+RAJESH	Et moi je me demande comment tu as fait avec tes origines de la Province de Shan Dong pour porter un nom comme Noah Smith?
+
+NOAH	(ah) Tu sais, c'est un nom très traditionnel en Chine Noah Smith!
+
+RAJESH	(ahahah huhhuh)
+
+NOAH	(ahah) J'ai été adopté! Euh... Et je viens de la province de Jiangsu.
+
+RAJESH	(ohoh) Okay! (ahahah) Okay! C'est bien qu'on en ai parlé!
+
+NOAH	(ah ah ahhmhmhmhm)
+
+RAJESH	(ah ah ah ahah ah )
+
+NOAH	Je suis d'accord!(ahahahahah)
+
+RAJESH	(ah ah ah huhhuhhuh) (ah)
+
+NOAH	(ohohoh)
+
+DR PICCIOTTO	(ah ah ah ah ah ah) Qu'est-ce qu'il y a?
+
+NOAH	Les satellites météo deviennent dingues.
+
+RAJESH	On dirait que l'air super chaud créé par le magma qui va remplir le trou est chargé négativement et, et... quand la terre tourne, ça crée des décharges statiques dans la thermosphère.
+
+NOAH	Ca veut dire quoi?
+
+DR PICCIOTTO	C'est la plus grosse tempête possible! (ah) Envoye-le au Pentagone. Il se passe la même chose de l'autre côté de la planète avec des charges positives.
+
+OUT (01:56:49:20)
+
+
+86 (01:57:01:24)
+
+OLIVER	On a rendez-vous avec le reste du groupe dans un kilomètre!
+
+MATT	Et je risque d'avoir des problèmes avec eux aussi?
+
+OLIVER	Tu nous as tous sauvé la vie tout à l'heure! J'ai l'impression que tu sais ce que tu fais et cette voiture peut tout faire et aller n'importe où !
+
+MATT	(ahahah) (ahah\)
+
+OLIVER	Tu es le bienvenue si tu le veux! Vous l'êtes tous les trois. On a un bunker dans le désert, un ancien silo à missile. On a des armes,de la nourriture et de l'eau pour quelques jours!
+
+MATT	(ahahahah) Non, je veux rejoindre ma famille! Merci!
+
+OLIVER	D'accord, l'offre tient toujours! Avec toute ta famille!
+
+RODNEY	Je viens avec vous! Si ce qu'on a entendu s'est vraiment passé, ça va empirer, ça ne peut pas s'arranger! Il y aura des séismes et des éruptions partout dans le monde! Ca fera beaucoup de cendres et de poussières dans le ciel, ça fera un hiver nucléaire.
+
+
+87 (01:57:44:15)
+
+RODNEY	(ahah) En plus les poteaux sont cassés, (ahah) il faudra des années pour avoir de l'électricité partout! Et il y aura bien un malade pour se servir de cette excuse pour déclencher la guerre. (ahahahahah)
+
+OLIVER	(ah ah ahah ah ah)
+
+RODNEY	(ahahah) Je crois qu'un bunker... un bunker dans le désert est l'endroit idéal. (ahahah) On ne sait pas ce qui va nous arriver!
+
+OLIVER	(ohohohoh)
+
+MATT	(ahah) Qu'est-ce que c'était?
+
+RODNEY	(ohohohoh)
+
+MATT	Ca sent pas bon du tout!
+
+OLIVER	(ah ah ah ahah ) (ahahohoh)
+
+MATT	(ohohohohoh)
+
+RODNEY	(hm hmhm hm hm )
+
+OLIVER	(oh oh ohoh oh )
+
+MATT	(ahahah)
+
+RODNEY	(pffpffpffohohoh)
+
+MATT	(ahahahah)
+
+OLIVER	(ahahahahah) (ohohohohoh)
+
+MATT	(ahahahah)
+
+RODNEY	(ahahah)
+
+OUT (01:58:25:15)
+
+
+88 (01:58:31:10)
+
+DR PICCIOTTO	Ca provoque des incidents volcaniques à la surface de la terre.
+
+RAJESH	Comme un flux courant à travers le manteau?
+
+NOAH	(ahahahahahah)
+
+RAJESH	(ahahahahah) Je reçois plus de données.
+
+NOAH	Oui, moi non plus!
+
+DR PICCIOTTO	Ca détruit les satellites! C'est pas vrai! (ahahaha)
+
+
+89 (01:58:42:21)
+
+CASSIE KALEY	(ohohohoh)
+
+JOHANNA	(ahahahah)
+
+KALEY	(ohohohohoh)
+
+JOHANNA	(ahahahahahahahahahah)
+
+CASSIE	(huhhuhhuh)
+
+KALEY	(ohohohohohohohohohohohoh)
+
+CASSIE	C'est la montagne où est papa?
+
+JOHANNA	Bien sûr que non, chérie. Ne t'inquiète pas pour ton père, il sait ce qu'il fait! (ahahahahah)
+
+CASSIE KALEY	(huhhuhhuhhuhhuh)
+
+JOHANNA	Il vaut mieux descendre du toit.
+
+KALEY	(ahahah)
+
+CASSIE	Mais... on voit notre batiment d'où on est.
+
+KALEY	(ahahah) (ahahah)
+
+CASSIE	On pourra dire où on est à papa quand il arrivera.
+
+KALEY	(ahahah) (hmhmhmhm) (ahahah)
+
+JOHANNA	(hm) Je voudrais qu'on soit à couvert au cas où.
+
+KALEY	(hm ahahah)
+
+JOHANNA	Allez, viens! (ah ah ah ah ahah ah ah ah )
+
+CASSIE KALEY	(ah ah ah ahah ah ah ah ah ah )
+
+JOHANNA	(ahahahah)
+
+
+90 (01:59:19:05)
+
+JOHANNA	(hahahhahah) Les filles, on ne peut pas rester en ville, c'est le pire endroit quand il y a une catastrophe de ce genre. Il y a trop d'habitants, des personnes déséspérées, d'accord? (ahahah) Toi Kaley, tu sais ce qui se passe quand les gens perdent le contrôle, non?
+
+KALEY	(ah) Oui, je vois de quoi tu parles mais on doit retrouver papa.
+
+JOHANNA	On le trouvera. Je voudrais seulement aller dans un endroit où on captera mieux . On ne peut pas rester ici, on va se rapprocher de lui.
+
+CASSIE KALEY	(huhhuhhuh)
+
+GIANELLI	(huhhuhhuhhuh ahahahah)
+
+JOHANNA	(ahahahahah) Matt?
+
+CASSIE KALEY	(huhhuhhuhhuh)
+
+JOHANNA	Matt Mason? Est-ce que tu es là?
+
+KALEY	(ahahah) W.7 je peux pas... papa, c'est Kaley, à toi.
+
+OUT (01:59:56:16)
+
+
+91 (02:00:12:24)
+
+TRUCK DRIVER	Qu'est-ce qui s'est passé? Où est votre voiture?
+
+OLIVER	C'est une longue histoire. C'est Matt et son fils Rick, et Rodney. Ils nous ont sauvé de la lave.
+
+TRUCK DRIVER	De la lave?
+
+MATT	Oui, elle coule vers nous, il faut y aller!
+
+OLIVER	Rodney vient avec nous, j'ai invité Matt et sa famille aussi.
+
+TRUCK DRIVER	Okay, allez vous installer tous à l'arrière. Qu'est-ce qui s'est passé avec lui?
+
+OLIVER	(ah)
+
+MATT	C'est une longue histoire ça aussi.
+
+OLIVER	(ahahahah) Quand tu auras trouvé ta famille, connecte-toi sur trois virgule quatre méga-hertz.
+
+MATT	Merci.
+
+OLIVER	Non, merci à toi. (ahah) On y va.
+
+TRUCK DRIVER	(hmhm)
+
+RODNEY	(ahahah) Bonne chance. Faites gaffe à vous!
+
+RICK	Toi aussi. Merci de nous avoir sauvés Rodney.
+
+RODNEY	C'est normal!
+
+OUT (02:00:48:03)
+
+
+92 (02:01:01:00)
+
+MATT	W.9.G.F.O, vous me recevez?
+
+RICK	Comment on va rejoindre les filles?
+
+MATT	Tu te souviens de ce que je t'ai dit en cas d'urgence?
+
+RICK	(ahahah) Rendez-vous à la maison?
+
+MATT	(ah) Je pense qu'elles s'en souviennent aussi. Elles ne pourraient pas être mieux protégées qu'avec Johanna, elle est féroce!
+
+RICK	Féroce? C'est bien?
+
+MATT	Bien sûr, c'est génial! (ohoh)
+
+RICK	(ohohoh)
+
+MATT	(ahahahah)
+
+OUT (02:01:18:04)
+
+
+93 (02:01:28:20)
+
+CASSIE	Oh non!
+
+KALEY	(ahahahahahahahahahahahahahahahah)
+
+GIANELLI	(huhhuhhuhhuhhuhhuhhuhhuhhuhhuhhuhhuhhuhhuhhuh)
+
+JOHANNA	(ahahah) Ca va aller Cassie. Tout va bien! Ca va aller, ton père est descendu depuis longtemps, il va bien!
+
+CASSIE	Tu as dit qu'il n'était pas sur cette montagne.
+
+KALEY	Mais oui, il est sur cette montagne, tu y es même allée.
+
+JOHANNA	Kaley.
+
+KALEY	Elle dit ça pour ne pas t'inquiéter. Elle essaye toujours de te protéger. (ahah) Pourquoi tu la protèges elle et moi jamais? (ahah) Depuis que tu es arrivée dans notre vie, il n'y en a que pour elle. (ahah) (ahah) (ahah)
+
+JOHANNA	Je je te traitais comme une adulte, je croyais que c'était ce que tu voulais!
+
+KALEY	(hmhmhmhmhm) (ah) Tu savais que je sortais hier soir et tu n'en avais rien à faire. Tu ne m'as rien dit!
+
+JOHANNA	Mais je...
+
+KALEY	J"aurais préféré que papa se soit pas marié avec toi!
+
+
+94 (02:02:15:24)
+
+JOHANNA	(ahahah)
+
+KALEY	(ahahah)
+
+JOHANNA	Je croyais... je croyais...que (ahahah) (ahah) je voulais seulement devenir ton amie Kaley! Je ne voulais pas te juger.
+
+KALEY	(hmhmhmhm)
+
+JOHANNA	Tu sais, je je savais que je serais jamais ta mère, (ahahahoh) alors, j'essayais de devenir ton amie!
+
+KALEY	Non! Non, tu n'as rien compris. (ah) J'ai besoin d'une maman! (ahahah) Encore plus aujourd'hui. (hmhm ahahah) Je n'ai pas mon père. (ahahahah)
+
+JOHANNA	(ah ah ahah )
+
+KALEY	(ahahahah) (ah)
+
+OUT (02:03:08:13)
+
+
+95 (02:03:24:03)
+
+EMERGENCY VOICE	Ceci est un message d'alerte...
+
+CASSIE KALEY	(ah ah ah ahah ah ah)
+
+EMERGENCY VOICE	ce n'est pas un exercice. Suite à un impact dans le nord de l'Alaska, une alerte tsunami a été émise,qui concerne la côte est des Etats Unis. Une vague de plus de trente mètres de haut devrait inonder la zone côtière sur une largeur de trente kilomètres. On prévoit également des glissements de terrain sur tout le nord-ouest pacifique .
+
+CASSIE KALEY	(hmhm ahahahahahahahahah)
+
+KALEY	(ahahohohoh)
+
+EMERGENCY VOICE	La Californie du Sud y compris Los Angeles seront touchés par la vague dans trente minutes.
+
+KALEY	(ahahahahohohohoh) (tsctsc ahahahahah)
+
+EMERGENCY VOICE	Les habitants sont invités à se rendre dans des zones élévées le plus vite possible.
+
+KALEY	(ahahahahahahahahahah)
+
+EMERGENCY VOICE	C'était un message d'alerte. Ce n'est pas un exercice!
+
+OUT (02:04:01:06)
+
+
+96 (02:04:20:23)
+
+CASSIE	Qu'est-ce qu'on va faire?
+
+KALEY	(ah ah ah ah ah) Ce serait pareil si on avait une voiture, les autoroutes sont blindées.
+
+JOHANNA	Ce sera le cas partout de toute manière. (ahah) (ahah) Venez! (ahahah)
+
+CASSIE	Si on s'en va, comment on retrouvera papa.
+
+JOHANNA	On a d'autre préoccupation Cassie. Si on reste ici, on mourra. (ahahah) Si on pouvait aller à l'aéroport ou trouver un hélicoptère!
+
+GIANELLI	Mesdames!
+
+KALEY	Tu sais aussi piloter?
+
+JOHANNA	Non!
+
+GIANELLI	Mesdames. Je crois que j'ai trouvé une solution. (huhhuh)
+
+JOHANNA	(ohohoh)
+
+GIANELLI	(ahahahahahahahah)
+
+JOHANNA	Oui.
+
+GIANELLI	Hein?
+
+JOHANNA	(ahah) Parfait, venez les filles, on redescend.
+
+CASSIE KALEY	(ah ah ah ah ah)
+
+JOHANNA	(ahahah)
+
+GIANELLI	(ahah)
+
+JOHANNA	W.7.T.H.X, ici, W.9.G.F.O, je transmets en clair! Matt, il y a un énorme tsunami qui se dirige sur Los Angeles. On part loin d'ici!
+
+
+97 (02:05:06:16)
+
+JOHANNA	Rejoins-nous dans les collines où on a eu notre troisième rendez-vous, je répète, rejoins-nous dans les collines, où on a fait notre premier notre premier pique-nique. (ahah) W.9.G.F.O, terminé. (ahah) Monsieur Gianelli, venez.
+
+GIANELLI	Une seconde, une seconde, une seconde! Je vais vous dire: je ne peux pas monter sur une moto à travers la ville et rouler en plein chaos. Et encore moins si vous allez sur la route. Et je suis sûr que je pourrais jamais redescendre le long de l'échelle!
+
+JOHANNA	Mais... Je vous aiderai à descendre.
+
+GIANELLI	Je vais vous ralentir.
+
+JOHANNA	Mais...
+
+GIANELLI	(ahahah ah\\) Ecoutez... vous avez déjà deux filles à vous occuper! (ahah) Et ne vous inquiétez pas pour moi.
+
+JOHANNA	(ahahah) (ahah ah ah ah ah ah ) Vous allez mourir!
+
+
+98 (02:05:50:10)
+
+KALEY	Eh, qu'est-ce qui se passe?
+
+GIANELLI	Ecoutez-moi,
+
+JOHANNA	Venez!
+
+GIANELLI	(ahah) je m'en sortirai tout seul. Vous entendez? Je vous remercie énormement de m'avoir fait sortir de cet escalier sordide. Je suis heureux de voir la lumière du soleil.
+
+KALEY	Faut y aller.
+
+JOHANNA	(snif)
+
+GIANELLI	Allez-y.
+
+JOHANNA	(X)
+
+GIANELLI	(hmhm) Ca valait la peine de vous rencontrer! (ahahahah)
+
+JOHANNA	(ahah) (ahah)
+
+KALEY	Il ne vient pas?
+
+JOHANNA	(ahahah)
+
+KALEY	(ahahah)
+
+JOHANNA	(ahahah) (ahahah)
+
+KALEY	(ahahah) (ahahah) (ahahah) (ahahahah)
+
+JOHANNA	(ahahah)
+
+KALEY	(ahahah)
+
+OUT (02:06:34:00)
+
+
+99 (02:06:38:16)
+
+JOHANNA	Viens avec moi Cassie. (ahah) Kaley, c'est comme le jour où on a fait du motocross. Fais comme avec ton scooter.
+
+KALEY	Oui, t'en fais pas j'y arriverai.
+
+BIKER	Tu arrives trop tard.
+
+JOHANNA	Elles vous appartiennent?
+
+BIKER	(hmhm) Maintenant oui! Fais pas ça chérie. (ahah) Je prends l'autre pour mon pote.
+
+JOHANNA	Mais peut-être qu'on peut s'arranger? Je viens avec toi. Pour te tenir compagnie!
+
+
+100 (02:07:18:24)
+
+BIKER	Juste toi. Je veux pas d'enfants pour me ralentir. Et faudra que tu fasses tout ce que je te demande!
+
+CASSIE KALEY	(ah ah ah ahah ah ah )
+
+JOHANNA	(ahah)
+
+BIKER	(ahahah) (ohohoh)
+
+JOHANNA	(hmhmahah) (argh) (ahahah) (ahah)
+
+BIKER	(ohohoh) (ahahah)
+
+JOHANNA	(ahahah) (ahah ah ah ) (ahahah) (ahahah) (ahah) Dépêchez-vous!
+
+CASSIE KALEY	(ah ah ah ah ah)
+
+
+101 (02:07:59:19)
+
+GIANELLI	(oh oh oh ohoh oh ) (ahahah ohohohohoh)
+
+JOHANNA	(ah ah ah ah ) (ahahah)
+
+KALEY	Oh bon sang!
+
+CASSIE	T'es qui, un super héros ou quoi?
+
+CASSIE V2	On aurait dit Wonder Woman!
+
+JOHANNA	(ahahah)
+
+CASSIE	
+
+JOHANNA	Enfonce-le bien! Voilà! (ahahah)
+
+GIANELLI	(ahahahah)
+
+OUT (02:08:49:06)
+
+
+102 (02:08:54:16)
+
+GIANELLI	(ahahahah) (ahahahahahahahahahah) (hmhmhm) (ahahahahah)
+
+OUT (02:09:02:09)
+
+
+103 (02:09:36:15)
+
+JOHANNA	Faut s'éloigner des embouteillages! On va vers la colline! On va prendre l'autoroute!
+
+OUT (02:09:58:24)
+
+
+104 (02:12:05:09)
+
+CASSIE KALEY	(ahahahahah)
+
+JOHANNA	(ahahahah) Venez! Vite! Dépêchez-vous! Plus vite! (ah ah ah ah )
+
+CASSIE KALEY	(ah ah ah ah ahah ah ah )
+
+JOHANNA	Courrez!
+
+OUT (02:12:14:21)
+
+
+105 (02:12:37:18)
+
+JOHANNA	Allez! On y est presque. Courrez! Voilà! (ahahahah)
+
+CASSIE KALEY	(ah ah ah ah ah ahah )
+
+JOHANNA	Je suis là! Oh bon sang! (ohohohohoh)
+
+CASSIE	Maman!
+
+CASSIE V2	J'ai peur!
+
+KALEY	Essaye encore la radio.
+
+JOHANNA	(ah ah ah ah ah) Elle a dû tomber quelque part! (hmhmahah) (ohohoh)
+
+
+106 (02:13:21:17)
+
+CASSIE	(huhhuhohohoh) Papa!
+
+JOHANNA	(ohohoh)
+
+KALEY	(ohohoh) Papa! (ahahahahah)
+
+CASSIE	(ahahahahahah)
+
+JOHANNA	(ohohohohohohohohoh)
+
+KALEY	Viens Cassie!
+
+CASSIE	Rick!
+
+CASSIE KALEY	
+
+KALEY	(ahahahah)
+
+CASSIE	Vous m'avez tellement manqué!
+
+MATT	(ah ah ah ah ah ah ah ah )
+
+JOHANNA	(ohoh ahahahahah)
+
+RICK	(ah ah ahah ah ah ah ah ah )
+
+MATT	Oh bon sang!
+
+CASSIE KALEY	(ah ah ahh ah ah ah ah )
+
+JOHANNA	(ah ah ah ah ah )
+
+MATT	(ahahahah)
+
+JOHANNA	(ohohohoh)
+
+MATT	(X) (X)
+
+JOHANNA	(ahahahahahahahahahahah)
+
+CASSIE KALEY	(ahahahahahahahahahahahahahahahahah)
+
+RICK	(ahahahahahahahahahahahahahahahahahahahahahahahah)
+
+JOHANNA	(ahahahahahahahahah)
+
+RICK	Tu les as sauvées!
+
+MATT	(ohohohohohohohohohohohoh)
+
+JOHANNA	On s'est sauvées mutuellement! (ohohohohoh)
+
+KALEY	C'est génial!
+
+K+M+KA+C+J	(ah ah ah ahah ah ah huh huh huhhuhohahhuhahhuhahahhuhahhuhahhuh)
+
+RICK	Oh bon sang!
+
+OUT (02:13:50:09)
+
+
+107 (02:14:10:09)
+
+RAJESH	(ahah ah ah) Est-ce que quelqu'un a vu ça? (h h h ) Toutes les stations météo du nord de L.A deviennent dingues! (ah) Euh... Plus aucune ne fontionne!
+
+DR PICCIOTTO	Oh bon sang! Le bouchon de magma qui était dans le trou a dû exploser! Ca a créé un vortex qui aspire l'atmosphère.
+
+NOAH	(ohohohoh)
+
+RAJESH	(ohohoh)
+
+DR PICCIOTTO	(ohohohohoh)
+
+NOAH	(ohohohoh) Et il augmente exponentiellement!
+
+JOHANNA	L'effet Coriolis devrait se dissiper une fois qu'il aura passé l'équateur.
+
+NOAH	Okay?
+
+DR PICCIOTTO	Mais avant ça, (ahah) il effacera toute forme de vie existante dans le nord de l'Amérique! (ahahahah)
+
+NOAH	(ahahahahahahahahahahah)
+
+RAJESH	(ahahahahahahahahahahah)
+
+DR PICCIOTTO	(ahahahahahahahah)
+
+OUT (02:14:45:11)
+
+
+108 (02:14:50:05)
+
+K+M+KA+C+J	(ahahahahahahahahahahahahahahah)
+
+MATT	Faut partir, venez, montez! Vite allez! Montez, allez vite!
+
+CASSIE KALEY	(ahahahahahahahahahahah)
+
+MATT	Montez, montez, montez! Allez!
+
+CASSIE KALEY	(ahahahahahahah)
+
+JOHANNA	Où tu vas qu'on aille?
+
+MATT	Dans le désert!
+
+JOHANNA	On aura jamais le temps d'aller aussi loin!
+
+MATT	On ne va pas loin! On s'est fait des amis!
+
+RICK	Oui! (ah ah ah ah ah)
+
+OUT (02:15:07:15)
+
+
+109 (02:15:31:07)
+
+JOHANNA	Tu es sûr que tu sais où tu vas?
+
+MATT	Oui,je sais, je sais.
+
+JOHANNA	Est-ce que tu es sûr Matt?
+
+MATT	On arrive.
+
+JOHANNA	C'est quoi cet endroit?
+
+RICK	(ahah)T'inquiète, encore quelques mètres et ça devrait aller!
+
+JOHANNA	Dépêche-toi.
+
+RICK	Allez p'pa!
+
+JOHANNA	Dépêche-toi, avance.
+
+RICK	On y est presque.
+
+JOHANNA	Dépêche-toi.
+
+RICK	Appuie!
+
+CASSIE KALEY	(hahahahahahahahahahahahahahahahahahahahah)
+
+MATT	Où ça pourrait être?
+
+JOHANNA	On cherche quoi?
+
+CASSIE KALEY	(ah ah ah ah ahah ah )
+
+KALEY	Ca va aller, ça va aller!
+
+JOHANNA	Matt qu'est-ce qu'on cherche?
+
+KALEY	Ca va aller!
+
+MATT	(ahah ah ah ah ahah )
+
+JOHANNA	Matt?
+
+CASSIE	(hhhhhhhhhhhhhhhhhhhhhhhhhhaaaaahhhhhhh)
+
+MATT	Tenez le coup les filles, tout va bien, d'accord?
+
+RICK	Ca ne peut pas être ailleurs. C'est pas possible!
+
+KALEY	Ca va aller!
+
+MATT	(ah)
+
+OUT (02:16:01:23)
+
+
+110 (02:16:10:18)
+
+MATT	Je crois que c'est par là.
+
+CASSIE	(ahahahahahahahahahah)
+
+KALEY	(ahahah)
+
+JOHANNA	Va plus vite!
+
+KALEY	Papa! Fonce, fonce!
+
+CASSIE	Fais quelque chose! Ca arrive!
+
+MATT	On y est presque, on y est presque.
+
+JOHANNA	On est presque arrivés où?
+
+MATT	(ah) Rick, vas-y!
+
+RICK	Sanctuaire, sanctuaire, les Mason sont à l'approche.
+
+JOHANNA	Où tu nous emmènes?
+
+MATT	Tu ne me croiras jamais si je te le dis!
+
+OUT (02:16:37:16)
+
+
+111 (02:16:52:05)
+
+JOHANNA	(ahah ah )
+
+CASSIE KALEY	(ah ah ah ah ah ah ah ah)
+
+RICK	(ah ah ah ah ah ah ah ah ah )
+
+JOHANNA	(ahahahahahahahahahahahahah)
+
+MATT	(ahah ah ah ah ah) (XX)
+
+CASSIE KALEY	(ohohohohohohohoh)
+
+MATT	Je vous aime!
+
+CASSIE KALEY	(ahahahahahahahah) (ahahahahah)
+
+JOHANNA	Vous m'avez manqué les gars!
+
+CASSIE KALEY	(ahahahahahahah)
+
+MATT	(XX)
+
+JOHANNA	(ahahah)
+
+MATT	Tu as été génial Rick!
+
+RICK	(ahah) Je t'aime P'pa!
+
+CASSIE KALEY	(ahahahahahahahahahahah)
+
+JOHANNA	(ahahahahah)
+
+OUT (02:17:09:16)
+
+À FAIRE AU LABO	Un an plus tard
+
+
+112 (02:17:46:22)
+
+RAJESH	(ohohohohoh) (ohohohohohoh) (ahahahahahahahah)
+
+DR PICCIOTTO	Alors messieurs, il arrive bientôt ce rapport?
+
+RAJESH	(ahah\) Il y a tellement de données de ce jour-là qu'il va nous falloir du temps .
+
+DR PICCIOTTO	Et qu'est-ce que vous savez de cette matière sombre dont on ignorait l'existence il y a un an?
+
+RAJESH	Euh...
+
+NOAH	Elle est vraiment flippante!
+
+RAJESH	(hmhmhmhmhm)
+
+DR PICCIOTTO	Ca, c'est du bon boulot! (ah)
+
+OUT (02:18:11:15)
+
+
+113 (02:18:22:06)
+
+MATT	(ahahahah)
+
+RODNEY	Les derniers sismographes disent que les failles sont stables. Puisque la pression s'est évacuée, on aura pas de tremblement de terre avant une centaine d'années!
+
+MATT	Une centaine d'années! Bonne nouvelle!
+
+OLIVER	(ahahahah)
+
+RODNEY	(ahahahah)
+
+OLIVER	On va pouvoir envoyer des éclaireurs en ville si vous voulez aller voir où en sont vos maisons!
+
+MATT	C'est gentil, on te dira ça!
+
+OLIVER	(ahah hmhmhm)
+
+RODNEY	D'accord!
+
+MATT	A bientôt!
+
+OLIVER	(ahahahah)
+
+MATT	(ahah\) Ca vous dit de rentrer à la maison?
+
+CASSIE	(ahahahahahahah)
+
+KALEY	(ahahah)Il n'y a plus rien de tout ce qu'on a connu!
+
+RICK	Oui! C'est bizarre, ça fait seulement un an mais, on dirait qu'on est dans un autre monde!
+
+
+114 (02:19:03:18)
+
+CASSIE	J'ai adoré la vie en plein désert!
+
+JOHANNA	(ahahahahahahahahahahahahahahahah)
+
+KALEY	(ahahahahah)
+
+MATT	(ahahahahahah)
+
+CASSIE	(ahahahahahahahahah)
+
+MATT	Qu'est-ce que tu en dis, on rentre en ville?
+
+JOHANNA	(ahahahahah) (ohoh\) Je me fiche un peu de l'endroit où on va! Tant qu'on reste en famille!
+
+KALEY	(ahahahahahahah)
+
+JOHANNA	(hmhmhmhmhmhmhm)
+
+K+M+KA+C+J	(ahahahahahahahahahahahahahahahahahahah)
+
+MATT	(X)
+
+OUT (02:19:35:08)
+
+INSERT	GEO DISASTER FIN

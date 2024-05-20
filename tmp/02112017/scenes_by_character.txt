@@ -1,0 +1,48 @@
+CHARACTER: {''}
+POLICÍA POR TELÉFONO: {''}
+VERÓNICA: {''}
+insert: {''}
+POLICÍA-VERÓNICA: {''}
+POLICÍA: {''}
+POLICÍA EN LA CALLE: {''}
+NIÑO: {''}
+CARTEL: {''}
+POLICÍA POR RADIO: {''}
+NENE: {''}
+IRENE: {''}
+LUCÍA: {''}
+MADRE: {''}
+CANCIÓN: {''}
+PROFESOR: {''}
+PROFESORA: {''}
+PROFESORA DE CIENCIAS: {''}
+ALUMNAS: {''}
+ROSA: {''}
+DIANA: {''}
+MONJA: {''}
+Insert: {''}
+NIÑA: {''}
+VERÓNICA_OFF: {''}
+ROSA-DIANA: {''}
+MÉDICO: {''}
+MADRE DE ROSA: {''}
+VOZ OFF: {''}
+TELEVISIÓN: {''}
+VOZ: {''}
+SEÑORA: {''}
+PROFESORA LITERATURA: {''}
+SOR NARCISA: {''}
+JOSEFA: {''}
+PELÍCULA EN LA TELE: {''}
+LUCÍA E IRENE: {''}
+CHICO: {''}
+ROS: {''}
+CHICA EN EL BAÑO: {''}
+AMIGA: {''}
+CLIENTE DEL BAR: {''}
+CLIENTE: {''}
+CAMARERA: {''}
+CLIENTES: {''}
+LOCUTOR: {''}
+POLICÍA DOS: {''}
+INSPECTOR: {''}

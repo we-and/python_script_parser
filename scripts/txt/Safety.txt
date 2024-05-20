@@ -1,0 +1,16 @@
+Safety
+20/07/2016
+
+(BOUCLE 1 - 10:00:00:00)
+		01
+
+Thomas	(h)
+
+Thomas	Eh bonjour les amis! Aujourd'hui, je vous raconte une histoire qui m'a bien servi de leçon:  c'est important de dire où l'on va avant de s'en aller. Un jour, Hiro a eu un accident et il a eu besoin de faire remplacer quelques pièces.  Du coup, j'ai voulu l'aider à en trouver. J'ai décidé d'aller dans la forêt où nous nous étions rencontrés en pensant qu'il y en aurait peut-être là-bas. Mais je n'ai dit à personne où j'allais. Et il y a eu une catastrophe! Les rails étaient cassés, j'ai déraillé et je me suis embourbé! Comme personne ne savait où j'étais, on ne pouvait pas venir à mon secours! J'ai tenté d'appeler mais personne ne m'entendait!
+
+(BOUCLE 2 - 10:00:43:08)
+		02
+
+Thomas	Heureusement Harold a vu ma fumée, et très vite, mes amis sont venus me chercher! J'ai compris que comme je n'avais dit à personne où j'allais, aucun de mes amis ne pouvait savoir où j'étais. Au final, j'ai eu de la chance qu'Harold me voit! Voilà pourquoi c'est très important de dire à quelqu'un où l'on va avant de partir!
+
+note	(FIN)

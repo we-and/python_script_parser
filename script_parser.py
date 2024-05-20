@@ -331,9 +331,10 @@ def filter_character_name(line):
 # UTILS
 
 
-def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name):
+def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name,encoding_used):
+    print("convert_csv_to_xlsx > 0")
     # Read the CSV file
-    df = pd.read_csv(csv_file_path,header=None)
+    df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
 
     # Write the DataFrame to an Excel file
     print("convert_csv_to_xlsx > Write to "+xlsx_file_path)
@@ -677,7 +678,6 @@ def merge_breakdown_character_by_replacelist(breakdown,replace_list):
             character=item["character"]
             if character in replace_list:
                 firstchar=replace_list[character]
-                print("REPLACE2"+character+" with "+str(firstchar))
                 item['character']=firstchar                   
 
     return breakdown
@@ -692,7 +692,6 @@ def merge_breakdown_character_talking_to(breakdown,all_characters):
         if item["type"]=="SPEECH":
             character=item["character"]
             if character!=character.strip():
-                print("STRIP "+character)
                 character=character.strip()
 
             splitable=hasSplitable(character)
@@ -939,7 +938,7 @@ def process_script(script_path,output_path,script_name,countingMethod):
 
 
 
-    csv_file_path =output_path+script_name+"-recap.csv"
+    csv_file_path =output_path+script_name+"-recap-detailed.csv"
     data = [
     ]
     for key in character_order_map:
@@ -948,7 +947,8 @@ def process_script(script_path,output_path,script_name,countingMethod):
             str(character_textlength_map[key]),
             str(math.ceil(character_textlength_map[key]/40))])
 
-    with open(csv_file_path, mode='w', newline='') as file:
+    print("Convert to csv.")
+    with open(csv_file_path, mode='w', newline='',encoding=encoding_used) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Write data to the CSV file
@@ -960,8 +960,9 @@ def process_script(script_path,output_path,script_name,countingMethod):
     #for key in character_order_map:
     #    s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
     #save_string_to_file(s, output_path+script_name+"-recap.csv")
-
-    convert_csv_to_xlsx(output_path+script_name+"-recap.csv",output_path+script_name+"-recap.xlsx", script_name)
+    print("Convert to xslx.")
+    convert_csv_to_xlsx(output_path+script_name+"-recap-detailed.csv",output_path+script_name+"-recap-detailed.xlsx", script_name,encoding_used)
+    print("Parsing done.")
     return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 

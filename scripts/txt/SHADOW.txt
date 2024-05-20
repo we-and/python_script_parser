@@ -1,0 +1,1685 @@
+SHADOW EFFECT VO TCI-H264 (2)
+13/04/2017
+
+(BOUCLE 1 - 01:00:13:03)
+		01
+
+Ambiance	léger brouhaha de la foule.
+
+Speaker	Alors, sans plus vous faire attendre, messieurs, mesdames, laissez-moi vous présenter le gouverneur de notre état bien-aimé, et j'ose le dire devant vous, le futur président des Etats-Unis, merci à vous tous d'acclamer monsieur le gouverneur John Francis !
+
+Ambiance	(acclamations de la foule ......................................)
+
+Francis	(h) Merci beaucoup ! Merci beaucoup ! Merci à tous d'être d'être venus pour cette soirée très spéciale. Mesdames et messieurs, chers habitants de Washington, nous vivons une époque très délicate, et devons affronter l'adversité. Mais ce n'est que dans la difficulté que de grands challenges vont s'offrir à nous (...) pour changer notre avenir.
+
+(BOUCLE 2 - 01:01:44:23)
+		02
+
+Francis	J'ai envie de boire quelque chose et d'aller me détendre à la salle de sports. Ces meetings commencent à être ...
+
+Secret service 1	répétitifs ?
+
+Francis	En réalité, j'allais dire, déprimant, mais maintenant, que je suis dans la course à la Présidence, je crois que répétitif serait plus juste.
+
+Secret service 1	(eh!)
+
+Francis	Allons, messieurs, est-ce vraiment nécessaire ?
+
+Secret service 1	Baissez-vous !
+
+(BOUCLE 3 - 01:02:51:24)
+		03
+
+Francis	On se connait ? Si vous appuyez sur la détente, je vous assure que mes hommes vous traqueront sans répit jusqu'à ce qu'ils vous retrouvent, vous capturent et vous tuent.
+
+(BOUCLE 4 - 01:03:43:15)
+		04
+
+Voix micro	Toutes les issues sont bloquées.
+
+Swat member	Police ! Dégagez ! Dégagez, plus vite, dégagez  !
+
+Femme de ménage	(ah!) (ah ah ah ah ah ah !)
+
+Voix micro	Un individu suspect aurait été localisé dans les étages supérieurs, veuillez appliquer la procédure d'alerte. Procédure d'alerte déclenchée.
+
+(BOUCLE 5 - 01:04:35:13)
+		05
+
+Swat member	Police !
+
+Voix micro	Alerte niveau maximum.
+
+Swat member	Les mains en l'air !
+
+Voix micro	Individu suspect.
+
+Swat member	Levez vos mains afin que je les voie !
+
+Voix micro	Alerte maximum. Attention, l'individu est certainement armé. Individu suspect dans les étages supérieurs.
+
+Swat member	J'ai dit: les mains en l'air !
+
+Voix micro	Attention, l'individu est certainement armé. Soyez prudents !
+
+Swat member 2	Attention,        il a une bombe !
+
+Swat member	Il a une bombe ! Tous à terre !
+
+Swat member 2	Tout le monde à terre !
+
+Swat member	A terre ! A terre !
+
+(BOUCLE 6 - 01:05:22:19)
+		06
+
+Ambiance	(on entend Gabriel tousser et cracher)
+
+Gabriel	(ah!) (ah!) (ah!) (ah!)
+
+Brinn	Qu'est-ce qui t'arrive, mon amour ? Ca va aller ?
+
+Gabriel	(ah!) (ah!) (ah!)
+
+Brinn	J't'avais prévenu, il faut pas faire trop de mélanges quand tu picoles.
+
+Gabriel	J'ai beaucoup bu hier soir ?
+
+Brinn	Ouais, t'as bu pas mal pendant le diner chez les Addison et après, tu t'es enfilé plusieurs whiskys avec Phil.
+
+Gabriel	J'ai un putain de mal de tête ! (ah!)
+
+Brinn	Oh, attends ! Tiens, ça va te soulager !
+
+Gabriel	(mm) (snif) Merci.
+
+(BOUCLE 7 - 01:06:23:16)
+		07
+
+TV Homme	Docteur Connelly, c'est un plaisir de vous recevoir sur notre plateau afin que vous nous parliez des recherches que vous avez effectuées sur le corps et le cerveau et les connections qui existent entre eux. J'ai lu des articles concernant des jumeaux qui ont été séparés à la naissance et qui, cependant, arrivés à l'âge adulte, ont les mêmes centres d'intérêt.
+
+Gabriel	(X)
+
+Brinn	J'espère que Jesse aura réparé la caisse.
+
+TV Homme	Ils portent également les mêmes vêtements. Ils sont souvent coiffés de la même façon et ont même, un chien de race identique ! Mais, vous, vous suggérez que cela peut aller encore plus loin.
+
+Dr Connelly F	Ils peuvent avoir quelque chose de plus enfoui dans leur ADN. Mes recherches ont montré que certaines paires de jumeaux partageaient les mêmes émotions ceci à cause de convergences synaptiques peut-être même télépathiques.
+
+TV Homme	C'est extrêmement intéressant ! Comment en êtes-vous arrivée là ?
+
+Gabriel	L'aspirine m'a fait beaucoup de bien.
+
+Dr Connelly F	Les jumeaux sont un terrain de recherches inépuisables !
+
+Brinn	Tant mieux ! C'est vrai que tu as l'air d'être en forme !
+
+TV Homme	Oh ! Ce qui signifie alors que vos découvertes sont loin d'être terminées ?
+
+Gabriel	C'est bon? On y va ?
+
+(BOUCLE 8 - 01:07:36:16)
+		08
+
+Ambiance	brouhaha des clients.
+
+Female cust 1	Tu y es déjà allée dans cette boutique ? Si tu veux, je peux t'y emmener ?
+
+Female cust 2	(euhm) J'connais pas mes dispos. J'te dirai.
+
+Female cust 1	Okay !
+
+Jesse 	Voici les pancakes, (euhm) et vos oeufs brouillés.
+
+Sarah	Merci beaucoup.
+
+Jesse 	(euh) Sarah, je me disais que ...   peut-être vous ...
+
+Sarah	Non ! Non, Jesse. C'est ... non !
+
+Jesse 	Vous avez vu comment elle est ?
+
+Gabriel	Jesse ?
+
+Jesse 	Je ne
+
+Sarah	A chaque fois, c'est la même chose !
+
+Jesse 	(...) Elle trouve que j'suis pas assez bien pour elle ! Tu trouves pas que j'suis assez bien, toi ?
+
+Brinn	Jesse, table six.
+
+Jesse 	(oh !) Génial. J'y vais. Attends, (euh)
+
+Brinn	Là-bas !
+
+Jesse 	okay, table six.
+
+(BOUCLE 9 - 01:08:19:03)
+		09
+
+Ambiance	brouhaha des clients
+
+Sheriff Hodge	Salut Gabriel !
+
+Gabriel	Euh bonjour Shériff.
+
+Sheriff Hodge	Brinn, comment ça va, trésor ?
+
+Brinn	(oh !) Ca peut aller ! Oh, Gaby, Jesse a dit qu'il pouvait me ramener ce soir. J'ai mon cours de cuisine.
+
+Gabriel	(mm)
+
+Sheriff Hodge	Vous savez, avant qu'on les tue tous, (h) les indiens pensaient que lorsqu'on mourait on pouvait revivre ...   encore ... encore ... et encore ! Ca s'appelle la réincarnation.
+
+Jesse 	Ce sont plutôt les bouddhistes qui pensent ça.
+
+Sheriff Hodge	Ben, quoiqu'il en soit, dans ce cas, on se demande à quoi peut bien servir la justice, après tout, puisqu'on puisqu'on va revivre, alors, pourquoi ne pas tuer ton meilleur ami et sauter sa femme ? (ah ah ah ah ah ah !)
+
+Gabriel	Vaut mieux faire gaffe ! Les bouddhistes croient aussi .....            au mauvais karma. Vous pourriez être réincarné dans cette mouche.
+
+Sheriff Hodge	Ben, quand j'étais en Irak, on combattait pour les bonnes raisons, (snif) pour vous protéger, vous et les mouches !
+
+(BOUCLE 10 - 01:09:46:07)
+		10
+
+Brinn	(oh !) (eh!)
+
+Gabriel	(X) Bonsoir !
+
+Brinn	Elles sont pour moi ?
+
+Gabriel	(euh.................) Non, j'avais rendez-vous avec une nana mais
+
+Brinn	(ah ah ah ah ah ah !)
+
+Gabriel	(...) elle est pas venue.
+
+Brinn	J'ai un couteau dans la main, alors, plaisante pas avec ça !
+
+Gabriel	(ah!) J'tâcherai de m'en souvenir !
+
+Brinn	Il y en a treize !
+
+Gabriel	Ca porte bonheur !
+
+Brinn	On est que le 6 ! Mon anniversaire, c'est la semaine prochaine.
+
+Gabriel	Considère que je suis un peu en avance, au cas ou j'oublierai comme l'an dernier.
+
+Brinn	(mm) Si tu aimes le ragoût que j'ai préparé pour ce soir, on le mettra sur la nouvelle carte.
+
+Gabriel	(ah!)
+
+Insert	Nous vivons à une époque ou plus personne ne sait vivre ... laisse leur faire semblant d'être ce qu'ils n'ont jamais été.
+
+(BOUCLE 11 - 01:10:52:20)
+		11
+
+Brinn	Gabriel !
+
+Insert	Qui suis-je ?
+
+Brinn	Gabriel ! Tu fais un malaise !
+
+Insert	Quel est mon but ?
+
+Brinn	Parle-moi ! Gabriel, mon amour ! Dis quelque chose ! oh mon dieu !
+
+Insert	J'ai l'impression d'avoir atteint la fin de mon rêve !
+
+(BOUCLE 12 - 01:11:10:17)
+		12
+
+Jack	(mmmmmmmmmmmmmmmmmmmmmm)
+
+Auteur	(il chantonne ..............................................)
+
+(BOUCLE 13 - 01:11:32:18)
+		13
+
+Julia	Une petite bière fraiche, chéri ? Jack ?
+
+Jack	Oui, chérie ?
+
+Julia	Pourquoi es-tu devenu politicien ?
+
+Jack	Tu le sais très bien, voyons. Pour changer les choses !
+
+Julia	Alors, arrête d'aller à toutes ces soirées inutiles et pars en Afrique pour vraiment changer les choses !
+
+Jack	Je croyais que tu voulais m'apporter une bière ?
+
+Julia	La république du Congo est un pays où beaucoup de gens meurent de faim par exemple, alors, je pense qu'on devrait aller       au Congo ! (X)
+
+Jack	(mm)
+
+Julia	Tu en veux ? (ah!)
+
+Jack	(mm)
+
+Julia	(ah ah ah ah ah ah !)
+
+Auteur	(bruit de lèvres)
+
+Jack	(ttttttt!) J'adore ! Je n'arrive pas à savoir si tu es une vraie gentille ou ... une grosse coquine !
+
+Julia	Il va bien falloir que tu te fasses une idée ! (ah ah ah ah !) (ah!)
+
+Jack	Allez, laisse-moi pêcher et apporte-moi des cacahuètes !
+
+Julia	Tout de suite, capitaine !
+
+(BOUCLE 14 - 01:13:05:03)
+		14
+
+Jack	(h) Qui vous envoie ? Reculez !
+
+Julia	Jack ! Oh ! Mon dieu ! Jack !
+
+Jack	Julia ! Retourne à l'intérieur !
+
+Julia	(oh!) (h) (h) (h)
+
+Jack	(hhhhh) Qui est-ce qui vous envoie ? (ah!) (ah!) Les Fils de la Liberté ? Qui ? Qui vous envoie ? (ah!) (ah!) (ah!) (ah!)
+
+Julia	(h) (h) (h) (h) (h) (h)
+
+Jack	(ah!) (ah!) (ah!) (ah!) (ah!)
+
+Julia	(h) (h) (h) Laissez-le !
+
+Jack	(aaaaaaaaah!)
+
+Julia	(h) Allez-vous en ! Allez-vous en ou je tire !
+
+(BOUCLE 15 - 01:14:49:06)
+		15
+
+Auteur	(il suffoque ...............................)
+
+Gabriel	(ah ah ah ah ah ah !)
+
+Auteur	(il tousse)
+
+Gabriel	(mm) (mm) (h) (h) (h) (h) (h) (h) (h) (ah!) (h) (h) (ah!) (hhhhm) (mmmmm) (ah!)
+
+Brinn	Tu me fais peur !
+
+Gabriel	(mm)
+
+Brinn	Ecoute chéri, quand tu te réveilles, il faut que tu essaies d'effacer le cauchemar que tu as fait !
+
+Gabriel	(h) (ah!) C'est tellement réaliste, c'est comme si je revivais tout ! (ah!) (ah!) A chaque battement de mon coeur, ça recommence ! Il y a quelque chose qui tourne pas rond chez moi ! Et j'sais pas quoi faire !
+
+Auteur	il parle en pleurant (il pleure ..........................................................................................................................................)
+
+Gabriel	(ahhahhaahahahahahahahahhaahahahahahahahhahahah!)
+
+Brinn	Ca va s'arranger...
+
+Gabriel	(ahahahahahahahahahahahah!)
+
+(BOUCLE 16 - 01:16:09:24)
+		16
+
+Dr Reese H	Gabriel.
+
+Gabriel	Docteur Reese.
+
+Dr Reese H	Ravi de pouvoir vous rencontrer enfin.
+
+Gabriel	Je suis ravi, moi aussi.
+
+Dr Reese H	Allons dans mon bureau. J'vous en prie. Asseyez-vous.
+
+Gabriel	(ouah!) (h) tout est très clair ! C'est euh réconfortant.
+
+Dr Reese H	(ah!) C'est délibéré ! J'ai étudié votre dossier médical. Le scanner cérébral. L'IRM. Tout est normal. Votre souci est d'ordre psychologique.
+
+Gabriel	En fait, je suis venu pour lui faire plaisir.
+
+Dr Reese H	(ah!) Pour faire plaisir à Brinn ?
+
+Gabriel	Ouais.
+
+Dr Reese H	Alors, parlez-moi un peu de vos cauchemars.
+
+Gabriel	(euh) J'ai vraiment l'impression que c'est la réalité.
+
+Dr Reese H	Votre épouse dit que vous êtes somnambule parfois.
+
+Gabriel	C'est plutôt que (...) je me réveille     et je sais pas trop   si je rêve ou si c'est la réalité.
+
+(BOUCLE 17 - 01:17:09:03)
+		17
+
+Dr Reese H	Gabriel, (...) les rêves inconscients peuvent devenir (...) presque conscients. Du genre (...) vous êtes éveillé mais vous rêvez toujours. Vous avez envie de sortir de votre rêve mais vous n'y arrivez pas. Dans une certaine mesure, nous vivons tous (...) ce style de rêve où on est éveillé.
+
+Gabriel	Dans mes         rêves éveillés (...) (euhm) je poursuis des gens, (...) et puis, je les tue.
+
+Dr Reese H	(h) Votre esprit enregistre tout. Les informations de la télévision, les films que vous voyez, les pubs, Et ensuite, tous ces souvenirs visuels vous reviennent intensément dans vos rêves ! Comment vous entendez-vous avec votre épouse ?
+
+Gabriel	Que voulez-vous dire ?
+
+Dr Reese H	Je ne veux rien dire, je pose juste des questions.
+
+Gabriel	J'en sais rien, on s'engueule de temps en temps. (euh) Elle m'a foutu à la porte une fois ou deux mais est-ce que j'suis en train de devenir dingue ?
+
+Dr Reese H	Non ! Vous travaillez énormément, Gabriel. Vous êtes stressé.
+
+(BOUCLE 18 - 01:18:13:09)
+		18
+
+Gabriel	Quand je sors de ces rêves, j'ai des migraines épouvantables.
+
+Dr Reese H	(h) Si vous la tolérez bien, l'aspirine est ce qu'il y a de mieux. Je vais également vous prescrire un sédatif léger. Un comprimé le matin. Un comprimé ...    le soir.
+
+Gabriel	Et puis, c'est tout ? Des comprimés ?
+
+Dr Reese H	Gabriel, (mm) il arrive parfois que nos problèmes ne soient pas aussi sérieux qu'on le pense. Ceci devrait vous aider à mieux dormir et à diminuer votre anxiété.
+
+(BOUCLE 19 - 01:18:44:20)
+		19
+
+Radio DJ	La chanson qui suit va vous donner à coup sûr l'envie de recontacter votre amour de jeunesse. Souvenez-vous de ces jours heureux où votre bien-aimé vous emmenait faire du bateau ...
+
+Auteur	(j'ai changé un peu le texte original afin qu'on ait l'évocation du bateau)
+
+(BOUCLE 20 - 01:19:25:24)
+		20
+
+Insert	Bateau "Home away from home". Double homicide à bord d'un bateau. Deux meurtres violents ébranlent la communauté très soudée. un important lobbyiste de Washington. Pour rendre les déclarations d'impôts plus transparentes Les empreintes de l'épouse ont été trouvées sur l'arme du crime. Un meurtre suivi d'un suicide Politicien tué à Seattle Le gouverneur John Francis. Le gouverneur John Francis a été tué à Seattle au cours d'une attaque terroriste. Nous vivons à une époque où plus personne ne sait vivre. Laisse-leur faire semblant d'être ce qu'ils n'ont jamais été. Qui suis-je ? Quel est mon but ? J'ai l'impression d'avoir atteint la fin de mon rêve. Maintenant, arrête N'oublie pas qui tu es arrête de te trahir et quel est ton nom. N'oublie pas qui tu es et quel est ton nom. Maintenant, N'oublie pas qui tu es arrête et quel est ton nom
+
+(BOUCLE 21 - 01:21:33:21)
+		21
+
+Announcer H	Les investigations continuent. Le meurtre suivi d'un suicide a causé un immense émoi parmi les amis et la famille des victimes.
+
+Suited man 	Non ! Ca ne te regarde pas.
+
+Announcer H	Jack Kenneth et son épouse, Julia étaient des membres appréciés de
+
+Suited man 	Tu ne comprends pas. J'en ai rien à faire ! Je me fous de savoir s'ils votent à droite, à gauche ou au centre.
+
+Voix micro	Dernier départ pour West end, dernier départ pour West end.
+
+Suited man 	Tout ça, c'est la même chose !
+
+Voix micro	Nous vous rappelons qu'il y a du retard sur la ligne rouge.
+
+Suited man 	Ouais ! Ce que je comprends surtout, c'est que tu comprends rien !
+
+Voix micro	Retard sur la ligne rouge. Le trafic devrait reprendre normalement d'ici quelques heures.
+
+Suited man 	Non ! Non, écoute ! Non, ça te regarde pas ! Je vais prendre le train. (euh) Je te rappelle. Excusez-moi, monsieur l'agent ...
+
+Policier	Bonjour monsieur.
+
+Suited man 	Vous voyez cet homme près du distributeur ?
+
+Policier	(mm)
+
+Suited man 	Je le trouve bizarre. Vous devriez aller lui parler.
+
+Policier	Okay.
+
+Suited man 	Merci.
+
+Policier	(mm)
+
+(BOUCLE 22 - 01:22:33:13)
+		22
+
+Ambiance	léger brouhaha
+
+Policier	Je peux vous renseigner, monsieur ?
+
+Gabriel	(euhm) Oui. Je suis en retard à un rendez-vous et je me demande quelle ligne c'est pour le centre ville ?
+
+Policier	(h) La jaune.
+
+Gabriel	La jaune ?
+
+Policier	C'est juste là.
+
+(BOUCLE 23 - 01:23:26:19)
+		23
+
+Ambiance	(cris d'horreur de la foule)
+
+Policier	Plus un geste !
+
+(BOUCLE 24 - 01:24:21:16)
+		24
+
+Policier	J'vous en supplie ! J'ai un enf ...
+
+(BOUCLE 25 - 01:24:49:20)
+		25
+
+Auteur	(il halète, crache ....)
+
+Gabriel	(ah ah ah ah ah ah !) (ah!) (ah!) (snif) (ah!) (h) (ah!) (h) (ah!) (ah!) (snif) (ah!) (h) (ah!) (mmmmmmm!) (ah!) (ah ah ah ah ah ah !)
+
+Brinn	Gaby, qu'est-ce que tu fabriques ?
+
+Gabriel	Arrête        arrête             arrête de me toucher !
+
+Brinn	Mais qu'est-ce que tu me racontes ?
+
+Gabriel	Je te demande de pas me toucher ! Qu'est-ce qui m'est arrivé hier soir ?
+
+Brinn	Mais comment ça ?
+
+Gabriel	Je veux savoir ce qui m'est arrivé hier soir.
+
+Brinn	J'en sais rien du tout ! On est ... on est allés bosser. On s'est occupés des clients ! Jesse a adoré le ragoût et on a décidé de le mettre à la carte, c'est ça que tu veux savoir ?
+
+Gabriel	Okay et il s'est passé quoi après ?
+
+Brinn	Après ?
+
+Gabriel	Ouais !
+
+Brinn	T'es resté avec Jesse ! Moi, je suis rentrée à la maison, vous étiez en train de parler de nanas .... après, t'es rentré aussi. T'es venu dormir, j't'ai réveillé ce matin !
+
+(BOUCLE 26 - 01:25:44:23)
+		26
+
+Gabriel	Non, non, non, non ! C'est pas ça qui s'est passé ! Il faut que t'arrêtes de me mentir !
+
+Brinn	C'est tout ce qui s'est passé !
+
+Gabriel	Non, non, non !
+
+Brinn	Gabriel, c'est ce qui s'est passé !
+
+Gabriel	Je voudrais que tu arrêtes de me mentir !
+
+Brinn	Mais j'te dis la vérité !
+
+Gabriel	N'importe quoi !
+
+Brinn	Pourquoi j'te mentirais ?
+
+Gabriel	N'importe quoi , tu mens ! Je le sais !
+
+Brinn	Pourquoi ? Pourquoi est-ce que j'te mentirais ?
+
+Gabriel	Mais j'en sais rien ! Parce que tu crois que je suis complètement cinglé ?
+
+Brinn	(h) Non, je crois que tu as quelque chose ! Mais que tu as surtout besoin d'aide !
+
+Gabriel	N'importe quoi !
+
+Brinn	Y'a un truc qui tourne pas rond chez toi !
+
+Gabriel	Jack Kenneth.
+
+Brinn	(h) Quoi ?
+
+Gabriel	Jack Kenneth. Dans mes cauchemars, c'est l'homme que je tue. Je l'ai retrouvé sur internet, c'était un député de Washington. Va voir ! Bordel de merde !
+
+Brinn	Le monde entier sait qu'il a été tué, Gabriel ! Tu l'as entendu aux informations et tu l'as gardé en tête ! Il faut que tu retournes voir le docteur Reese. Il faut absolument que tu le revoies. Parce que moi, j'en peux plus.
+
+(BOUCLE 27 - 01:27:49:03)
+		27
+
+Gabriel	Euhm,    il faut que je me lave les mains.
+
+Insert	Phénoxybenzamine. 1 comprimé le matin. Aspirine.
+
+(BOUCLE 28 - 01:29:04:06)
+		28
+
+Ambiance	Léger brouhaha.
+
+Auteur	(Wallace mange quand il parle)
+
+Deputy Wallace	Bonjour m'sieur ! Je peux vous renseigner ?
+
+Gabriel	Oui ! (euhm) Est-ce que le shériff Hodge est là ?
+
+Deputy Wallace	Il est en rendez-vous. Je peux peut-être le remplacer ?
+
+Gabriel	Non, (euh) j'vais l'attendre.
+
+Deputy Wallace	Mais (...) c'est qu'il est occupé.
+
+Gabriel	C'est que c'est (...) important.
+
+Deputy Truvio	M'sieur, il est très occupé.
+
+Gabriel	Ouais. J'vous ai dit que j'allais attendre.
+
+Sheriff Hodge	C'est quoi le problème, putain de bordel ?
+
+Gabriel	J'ai besoin de vous parler une seconde.
+
+Sheriff Hodge	J'arrive tout de suite.
+
+Gabriel	Merci. Bon appétit.
+
+Deputy Wallace	(ah!)
+
+(BOUCLE 29 - 01:29:51:17)
+		29
+
+Sheriff Hodge	Bon alors, qu'y-a-t-il de si urgent ?
+
+Gabriel	(h) Ca va vous sembler dingue. Okay, j'vous demande de bien m'écouter. (euhm) J'ai fait des photocopies.
+
+Insert	Le gouverneur John Francis a été tué à Seattle dans une attaque terroriste
+
+Gabriel	Ces deux hommes (...) ont été assassinés. Ils ont été tués alors... qu'ils faisaient quelque chose d'important.
+
+Sheriff Hodge	Gabriel, nous savons qu'ils ont été tués. Vous êtes sûr que ça va ? Et comment va Brinn ?
+
+Gabriel	(euh) Elle (...) elle va bien ! Mais écoutez-moi, ces hommes (euh) on les a tués. Mais quelqu'un a tiré avantage de leur mort.
+
+Sheriff Hodge	(eeeeeeeeeeeeeuhm) Ce sera tout Wallace et fermez la porte en sortant. Ecoutez Gabriel, vos parents sont décédés tous les deux l'an dernier, vous avez repris le restaurant, vous faites beaucoup d'heures. vous vous débrouillez très bien d'ailleurs  !
+
+Gabriel	(euh) On essaye ...
+
+Sheriff Hodge	Vous savez quoi ? Cet automne, on ira à la chasse. Comme au bon vieux temps. D'accord ? Truvio ? Il a des idées qui ne me plaisent pas trop ... il faut le surveiller.
+
+(BOUCLE 30 - 01:31:16:11)
+		30
+
+Gabriel	Salut ! On a été livré ?
+
+Jesse 	Ouais, c'est derrière ! Au fait, j'allais oublier, le lave-vaisselle vient de retomber en panne.
+
+Gabriel	Sérieux ?
+
+Jesse 	Ben ouais !
+
+Gabriel	(euh) Il marchait super bien hier soir.
+
+Jesse 	(ah!) J'en sais rien ! Euh,   j'crois que c'est l'arrivée d'eau qui déconne !
+
+Gabriel	(rrr) (ah!) Si c'est pas ça, il faudra que je le change et en ce moment, j'en ai vraiment pas les moyens.
+
+Jesse 	(oh ... !)
+
+Gabriel	J'irai au magasin de bricolage tout à l'heure. Après la cohue. En attendant, ben, il faudra .... qu'on lave à la main.
+
+Jesse 	Quand tu dis "on", tu veux dire "moi"?
+
+Gabriel	T'es sous-payé et exploité, oh ... je connais la chanson !
+
+Jesse 	Et ouais !
+
+(BOUCLE 31 - 01:32:05:23)
+		31
+
+Gabriel	(oh !) (oh !) (oh !) (h) (h) (ah!)
+
+Insert	Nous vivons à une époque
+
+Gabriel	(ah!) (h h h h h hhh)
+
+Insert	où plus personne ne sait vivre.
+
+Jesse 	Ca va,Gaby ? (eh!)
+
+Gabriel	(h) (ah!) (ah!) (ah!) (ah!) (ah!) (ah!) (h) (h) (h) (ah!) (ah!)
+
+Jesse 	(ah!) (oh oh oh  h h h h h hh h oh !)
+
+Gabriel	(h h h h h h h h h h h h h h h h)
+
+Jesse 	Qu'est-ce que tu fous ?
+
+Gabriel	Tu travailles pour qui, dis-moi !
+
+Jesse 	Arrête de déconner ! Mais de quoi tu me parles ?
+
+Gabriel	Tu vas me le dire, nom de dieu, tu vas me le dire !
+
+Jesse 	De quoi tu me parles ? J'comprends rien ! (ah!)
+
+Gabriel	Mais qui t'a dit de mettre cette chanson ?
+
+Jesse 	(h h h h h h h h h h h) Mais personne !
+
+Gabriel	Arrête de me mentir, Jesse !
+
+Jesse 	(h h hh h h h h h h h h h h h h)
+
+Gabriel	De qui tu reçois tes ordres ?
+
+Jesse 	De toi ! (h h h h h h h h h)
+
+Gabriel	Arrête tes conneries !
+
+Jesse 	J't'en supplie, calme-toi ! Putain, arrête ! (h) (h) (h) (h) (h) (h)
+
+Gabriel	(hh h h h h h h)
+
+Jesse 	(h) (h) (h)
+
+(BOUCLE 32 - 01:33:12:03)
+		32
+
+Jesse 	(h) (h)
+
+Gabriel	(h) J'suis désolé (...) ça va ?
+
+Jesse 	(mm)
+
+Gabriel	J'traverse une période difficile en ce moment, désolé ...
+
+Insert	Homme tué par un train. Le suicide d'un membre du congrès soulève des questions. les témoins disent que Lansky semblait agité et inquiet Mort d'un membre du Congrès de L'Illinois. Il pensait qu'il était suivi. Station de métro F Station de métro F. Station de métro F à Chicago. Le suicide d'un membre du Congrès soulève des questions.
+
+(BOUCLE 33 - 01:34:54:05)
+		33
+
+Jesse 	Qu'est-ce que tu voulais que je fasse ?
+
+Insert	Dernier appel: Shériff Hodge.
+
+Jesse 	Tu me fais peur, t'es en train de devenir fou, mec !
+
+Insert	Chicago Station de métro. F
+
+(BOUCLE 34 - 01:37:44:12)
+		34
+
+Gabriel	(ah!) (h) (ah!) (h) (ah!)
+
+Brinn	Ouvre cette porte, à la fin ! Ouvre immédiatement ! Ouvre ! Ouvre-moi sinon, j'appelle la police !
+
+Gabriel	(h) J'aimerais bien savoir à quoi tu joues !
+
+Brinn	(ah!) Mais de quoi tu parles ?
+
+Gabriel	(hein ?) (hein ?)
+
+Brinn	La vie est si insupportable avec moi ? J'suis tellement pénible à vivre que tu fais des cauchemars toutes les nuits ? (h)
+
+Gabriel	Mais non, voyons !
+
+Brinn	Mais qu'est-ce qui déconne chez toi ?
+
+Gabriel	Et chez toi, qu'est-ce qui déconne ?
+
+Brinn	Rien du tout, j'vais très bien ! C'est ta faute ! J'ai trouvé la caméra que t'avais cachée ! Mais ça va pas ! T'es devenu cinglé ? Qu'est-ce que tu veux faire ? Tu veux faire une sex tape ou une saloperie comme ça ?
+
+Gabriel	Mais non ! Mais enfin, arrête !
+
+Brinn	(ah!) (ah ah ah ah ah ah !)
+
+Gabriel	Arrête !
+
+Brinn	(h) (h) (h) (h) (X...............................) (h) (h) (h) (mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
+
+Gabriel	(h) (h) (h) (h) (h)
+
+Brinn	(h)
+
+Gabriel	(h) (h) (h) (ah!) (ah!) (ah!)
+
+Brinn	(ah.................................... !)
+
+Gabriel	(ah!)
+
+Brinn	(ah!) (ah!)
+
+Gabriel	(ah!)
+
+Brinn	(ah!)
+
+Gabriel	(ah!)
+
+Brinn	(ah!)
+
+Gabriel	(ah!)
+
+Brinn	(ah!)
+
+Gabriel	(ah!)
+
+Brinn	(ah!)
+
+Gabriel	(ah!) (ah!)
+
+Brinn	(ah!)
+
+Gabriel	(ah!) (ah!)
+
+Brinn	(h) (h) (ah ah ah ah ah ah !)
+
+Gabriel	(ah ah ah ah ah ah !)
+
+(BOUCLE 35 - 01:39:53:06)
+		35
+
+Brinn	Ca te fait quoi ?
+
+Gabriel	(h) Parfois, (h) je sens mon coeur qui bat et ... je n'arrive pas à me rendre compte qu'et bien (...) je suis en train de rêver.
+
+Brinn	Tu sais que j'ai envie de te croire, j'en ai très envie mais ... si ce que tu dis est vrai alors, rien de tout ça n'est réel. Le resto, la ville, notre maison, moi ! (X) Est-ce que ça, tu le sens ? Tu sais que c'est vrai.
+
+Gabriel	(X)
+
+Brinn	(hhhhhhh)
+
+Auteur	(elle inspire)
+
+Brinn	(hhhhhh)
+
+Auteur	(expire)
+
+Brinn	Ce que nous vivons est génial et ça vaut la peine qu'on tienne le coup.
+
+(BOUCLE 36 - 01:40:56:11)
+		36
+
+Dr Reese H	Vos cauchemars ? Ils empirent ?
+
+Gabriel	(euh) Ce sont pas des cauchemars.
+
+Dr Reese H	Alors, (...) c'est la réalité ?
+
+Gabriel	Pour qui vous travaillez, vous ?
+
+Dr Reese H	Si vous me laissiez faire mon boulot, peut-être que vous
+
+Gabriel	Je voudrais enfin savoir qui vous êtes !
+
+Dr Reese H	(...)
+
+Gabriel	Derrière votre sourire, je veux connaitre l'homme.
+
+Dr Reese H	(ah!)
+
+Gabriel	Je veux savoir qui se cache derrière (...) ces locaux tout empreints de clarté.
+
+Dr Reese H	C'est sur vous qu'on s'interroge. Est-ce que là, vous entendez des voix ?
+
+Gabriel	(ah!) Ouais, c'est ça, allez-y, essayez de me mettre le doute là-dessus aussi.
+
+Dr Reese H	Vous pensez que c'est ce que j'suis en train de faire ? Vous avez toujours des pensées violentes ?
+
+Gabriel	Je commence vraiment à aimer le fait de tuer. Plus j'élimine de gens et plus, c'est drôle.
+
+Dr Reese H	Voulez-vous vraiment que je vous aide ?
+
+Gabriel	Où avez-vous étudié la psychiatrie ?
+
+(BOUCLE 37 - 01:41:53:19)
+		37
+
+Dr Reese H	(h) Avec la perte de vos parents, vos longues heures de travail, votre manque de sommeil, vos problèmes de couple, l'absence d'enfant,
+
+Gabriel	(h)
+
+Dr Reese H	tous ces manques et ces insatisfactions dans votre vie ont fait que vous avez compensé votre dépression et vos frustrations en vous réfugiant dans ces violents cauchemars. Je dois vous avouer que je commence à m'inquiéter de votre manque de progrès (...) ainsi que de la sécurité de votre épouse. Brinn m'a dit que vous avez jeté vos médicaments et les avez remplacés par de l'ibuprofène.
+
+Gabriel	Mes migraines augmentaient et mes cauchemars devenaient de plus en plus vivaces.
+
+Dr Reese H	Gabriel, vous n'avez pas pris vos médicaments, (...) vous les avez jetés à la poubelle. Je reviens, attendez-moi.
+
+(BOUCLE 38 - 01:42:59:00)
+		38
+
+Dr Reese H	Alors, Gabriel, voici des sédatifs beaucoup plus puissants que la fois précédente, Cela devrait vous empêcher de prendre des décisions dangereuses.
+
+Gabriel	(h) (euh) Merci beaucoup.
+
+(BOUCLE 39 - 01:43:50:05)
+		39
+
+Insert	Certificat de décès. Marie Elizabeth Antone 33 ans
+
+(BOUCLE 40 - 01:45:39:23)
+		40
+
+Insert	Comprimé 250 mg. Date limite d'utilisation: 1er Janvier 2016 Comprimé 1000 mg. Date limite d'utilisation: 1er Janvier 2016
+
+(BOUCLE 41 - 01:45:57:08)
+		41
+
+Insert	Nous vivons à une époque où personne ne sait vivre. Laisse-leur faire semblant d'être ce qu'ils n'ont jamais été. Comprimé 250 mg Qui suis-je ? Comprimé 1000 mg Quel est mon but ? J'ai l'impression d'avoir atteint (...) la fin de mon rêve. Maintenant, arrête (...) N'oublie pas qui tu es et quel est ton nom. arrête de te trahir ! N'oublie pas qui tu es et quel est ton nom. N'oublie pas qui tu es et quel est ton nom. Arrête (...) N'oublie pas qui tu es et quel est ton nom. de rester seul. N'oublie pas qui tu es et quel est ton nom. Tu vas renaître dans ce monde ! N'oublie pas qui tu es et quel est ton nom. Tu brûles d'impatience (...) N'oublie pas qui tu es et quel est ton nom. de partager ta vie avec quelqu'un que tu aimes N'oublie pas qui tu es et quel est ton nom. et avec qui tu souhaiterais vivre. Est-ce que tu t'es déjà dit Casier 218 que tu n'existes pas ? Union Station. Baltimore. Maryland. Tout ce que tu ressens n'est que poussière qui s'envole au vent. Qui suis-je ? Et qui sait ce qui m'attend ? J'ai l'impression d'avoir atteint la fin de mon rêve ! CIBLE James Patterson. 49 ans. Brun. Adresse: Marietta square. Atlanta.
+
+(BOUCLE 42 - 01:53:15:03)
+		42
+
+Sheriff Hodge	(h) Attrapez-le !
+
+Gabriel	(ah ah ah ah ah ah !) (ah!) (h) (h) (h)
+
+(BOUCLE 43 - 01:55:56:02)
+		43
+
+Man	(Eeeeeeeeh !)
+
+Insert	Sons Of Liberty: Fils de la Liberté.
+
+(BOUCLE 44 - 01:57:10:04)
+		44
+
+Gabriel	Retournez-vous ! (h) J'suis en train de faire un nouveau cauchemar, docteur.
+
+Dr Reese H	Brinn se fait beaucoup de souci pour vous. Elle vous cherche partout, Gabriel ! Vous êtes blessé, on dirait ? Voulez-vous que je vous conduise aux urgences ?
+
+Gabriel	(ah!) Arrêtez de me prendre pour un con, okay ? Okay ? Qui sont les Fils de la Liberté ? (mm ?)
+
+Dr Reese H	Je suis en plein déménagement, Gabriel. J'étais juste venu chercher votre dossier médical qui est confidentiel.
+
+Gabriel	Non, j'm'appelle pas Gabriel. J'm'appelle pas Gabriel et vous n'êtes pas le docteur Reese.
+
+Dr Reese H	Okay... dites-moi qui je suis.
+
+Gabriel	(mmmm) Le docteur Antone, peut-être ? (mm?) Ca vous parle ? Et elle, cette jeune femme, c'était votre épouse.
+
+(BOUCLE 45 - 01:58:15:10)
+		45
+
+Dr Reese H	Je ne comprends pas de quoi vous parlez. J'ai des crampes dans les bras.
+
+Gabriel	Baissez-les ! C'est pas parce que vous nierez que je vous épargnerai.
+
+Dr Reese H	Nous avons eu un accident de voiture. Et j'adorais mon épouse !
+
+Gabriel	Ca vous donnait pas le droit de faire ce que vous avez fait. En aucune façon ! Vous ne m'avez pas donné des médicaments contre l'anxiété, vous m'en avez donnés parce que je me souvenais de certaines choses !
+
+Dr Reese H	Je n'ai absolument rien contre vous, Gabriel ! Il faut que vous me croyiez ! Vous et Brinn,   êtes des personnes formidables ! Je ne veux que le meilleur pour vous deux ! Je n'ai jamais souhaité vous faire le moindre mal. Ni à vous, ni à ces gens que j'ai soignés jusqu'à aujourd'hui !
+
+Gabriel	Là, c'est vous qui avez l'air dingue.
+
+Dr Reese H	Vous étiez devenu une machine à tuer. Et ce projet est autonome financièrement.
+
+(BOUCLE 46 - 01:59:17:06)
+		46
+
+Gabriel	C'est gouvernemental ?
+
+Dr Reese H	Non, pas vraiment. Mais nous faisons de grandes avancées pour l'améliorer. Vous ne les arrêterez pas. Et vous ne m'arrêterez jamais. Je réussirai à ramener mon épouse ! (h) (ah!)
+
+(BOUCLE 47 - 01:59:46:16)
+		47
+
+Sheriff Hodge	Faites le tour ! Vous, avec moi !
+
+Insert	SWAT: Equipe d'intervention spéciale.
+
+(BOUCLE 48 - 02:03:03:03)
+		48
+
+Gabriel	Brinn ?
+
+(BOUCLE 49 - 02:04:19:09)
+		49
+
+Gabriel	Lève-toi !
+
+Brinn	Mais qu'est-ce que tu fais ?
+
+Gabriel	Sors de là, bordel !
+
+Brinn	Mais arrête ! Tu me fais peur à la fin ! (ah!) Qu'est-ce qui t'arrive ? Pourquoi tu fais ça ?
+
+Gabriel	Qu'est-ce qui m'arrive ?
+
+Brinn	(ah!) Tu me fais peur, arrête s'il te plait !
+
+Gabriel	C'est à toi qu'il faut demander ça ! T'es mêlée à tout ça ?
+
+Brinn	J'suis mêlée à quoi ?
+
+Gabriel	Tu y es mêlée, oui ou non ?
+
+Brinn	J'suis mêlée à quoi ? Gabriel !
+
+Gabriel	Réponds !
+
+Brinn	Arrête ! Arrête un peu, j'comprends pas de quoi tu parles !
+
+Gabriel	Tu te moques de moi !
+
+Brinn	(h) (h)
+
+Gabriel	Arrête de mentir !
+
+Brinn	Mais non !
+
+Gabriel	J'commence à en avoir marre que tu te foutes de ma gueule !
+
+Brinn	(ah!) C'est faux, arrête !
+
+Gabriel	Assieds-toi !
+
+Brinn	(ah!) (h) Reste calme.
+
+Gabriel	Maintenant,       tu vas me dire la vérité !
+
+Brinn	Je ne sais rien.
+
+Gabriel	Bien sûr que si !
+
+Brinn	J'te jure que je ne sais rien !
+
+Gabriel	Bordel de merde, Brinn, le shériff Hodge m'a poursuivi toute la journée !
+
+Brinn	(h) J't'le promets. (ah!)
+
+Gabriel	Tu vas me répondre !?
+
+Brinn	(h) Arrête de faire ça, on dirait que t'es devenu dingue !
+
+Auteur	(elle pleure ..................................................................)
+
+Gabriel	Moi, j'suis devenu dingue ? Je viens de parler avec le Docteur Reese. Ce fameux médecin, que toi, tu m'as envoyé consulter !
+
+Brinn	(h) (h) (h) (h) (h)
+
+Gabriel	Comment as-tu osé me trahir comme ça ?
+
+Brinn	(ah!) (ah!) J'ai rien fait !
+
+Gabriel	(hein ?)
+
+Brinn	J'suis au courant de rien !
+
+Gabriel	Arrête tes conneries, putain de bordel !
+
+Brinn	(h)
+
+Gabriel	Arrête, j't'en supplie !
+
+Brinn	Je sais rien. On dirait que t'es complètement fou.
+
+Gabriel	Tais-toi, arrête. (mm)
+
+(BOUCLE 50 - 02:05:24:06)
+		50
+
+Brinn	Gabriel, j't'en supplie, ne me fais pas de mal. J't'en supplie !
+
+Gabriel	Dis-moi !
+
+Brinn	Je suis ta femme, mon amour, c'est moi !
+
+Gabriel	Mais je le sais que tu es ma femme !
+
+Brinn	(h) C'est moi, Brinn !
+
+Gabriel	Dis-moi la vérité ! Dis-moi tout ce que tu sais sur l'organisation des Fils de la Liberté ! C'est super important !
+
+Brinn	Je n'ai rien fait de mal ! (ah ah ah ah ah ah !) Ca suffit, arrête ! (ah!) Je ne sais rien du tout.
+
+Gabriel	Dis-moi la vérité, c'est super important pour moi sinon tu vas foutre ma vie en l'air, dis-moi la vérité !
+
+Brinn	Je ne sais rien, j'te dis ! Arrête, nom de dieu ! Arrête, tu me fais mal ! (ooooooooh!)
+
+Gabriel	J'm'en fous pas mal de te faire mal, toi, tu as foutu ma vie en l'air ! Et tu m'as brisé le coeur ! Tu te rends compte de ce que t'as fait ?
+
+Brinn	Okay ! (h) Okay ! Je ne suis pas ta femme ! (h) (ah!)
+
+Gabriel	Quoi ?
+
+Brinn	J'ai été h h h h h h    recrutée   il y a  un an mais je ne savais pas que j'allais te rencontrer. J'savais pas que j'allais tomber amoureuse de toi et (h) Si je l'ai fait, c'est parce que j'ai été engagée pour ça ! Parce que j'avais des problèmes avec la justice et j'avais aussi plein de problèmes de fric ! Mais ça n'aurait jamais dû se passer comme ça ! Je te promets que je n'avais rien prémédité ! Ce sont des gens malhonnêtes et j'm'en suis rendue compte trop tard !
+
+Gabriel	Comment tu as pu me faire ça ? Comment tu as pu me faire ça à moi ?
+
+Brinn	Mais je ne sais pas !
+
+Gabriel	Pourquoi ? (hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh)
+
+Brinn	(snif) Je suis désolée !
+
+Gabriel	.
+
+Brinn	Je suis désolée !
+
+Gabriel	J't'interdis de me toucher ! (hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh)
+
+Brinn	Je te promets qu'au début, j'ai juste voulu le faire pour l'argent !
+
+(BOUCLE 51 - 02:06:38:09)
+		51
+
+Brinn	J'ignorais que j'allais te rencontrer.
+
+Gabriel	Je t'aimais comme un fou, t'étais ma femme, nom de dieu !
+
+Brinn	(ah ah ah ah ah ah ah ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+Gabriel	Est-ce que tu sais qui je suis ?
+
+Brinn	(snif) (hhhhhhhhhhhhhhhhhhhhhh!)
+
+Gabriel	(hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh) Merde ! Allons à la fenêtre ! Viens vite, viens !
+
+Sheriff Hodge	(eh!)
+
+Brinn	(ah!) (hhhhhh)
+
+Sheriff Hodge	Brinn est innocente. C'est vous le problème, Gabriel.
+
+Brinn	(ah!) Vous en avez mis du temps pour arriver !
+
+Deputy Truvio	Nous avons fait une jolie petite promenade. Il est fort mais il n'est pas meilleur que nous.
+
+Gabriel	(ah!)
+
+Sheriff Hodge	Ca faisait longtemps que ça me démangeait ! Alors, on a un coup de mou, soldat ?
+
+(BOUCLE 52 - 02:08:23:20)
+		52
+
+Doctor	Dites à Reese qu'il est réveillé.
+
+Gabriel	Qu'est-ce qui s'est passé ?
+
+Doctor	(oh !) Essayez plutôt de vous détendre.
+
+Gabriel	(h) (hm)
+
+Doctor	Vous êtes déjà venu chez nous.
+
+Gabriel	(h) (h)
+
+Doctor	Y'a vraiment pas de quoi vous inquiéter.
+
+Gabriel	(h) (h) (mm) (ah!)
+
+Doctor	Arrêtez de vous énerver.
+
+Gabriel	(h) (pff!)
+
+Doctor	Je fais tout pour vous aider.
+
+Gabriel	(pff!) (ah!) (ah!) (ah!) (ah!) (ah ah ah ah ah ah !) (ah!) (ah!) (ah!) (h) (h) (h) (h) (ah!) (ah!) (h) (ah!)
+
+(BOUCLE 53 - 02:09:20:13)
+		53
+
+Gabriel	(ah!) (ah!) (ah ah ah ah ah ah !)
+
+Insert	Nous vivons à une époque
+
+Gabriel	Noooon ! Enfoiré, enfoiré ! Si j't'attrape, j'te tue !
+
+Insert	où plus personne ne sait vivre.
+
+Gabriel	Enfoiré ! (ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+Insert	Laisse-leur faire semblant d'être
+
+Gabriel	(h) (tt)
+
+Insert	ce qu'ils n'ont jamais été.
+
+Gabriel	Enfoiré ! (ah ah ah ah ah ah !) (hhhhhhhhhhhhhhhhhhhhhhh)
+
+Doctor	Si ça peut vous rassurer,
+
+Insert	Qui suis-je ?
+
+Doctor	lorsque vous vous réveillerez, vous ne vous souviendrez de rien.
+
+Insert	Quel est mon but ?
+
+Gabriel	(h) (h) (h) (hhh!)
+
+Insert	J'ai l'impression d'avoir atteint la fin de mon rêve.
+
+Gabriel	(hhhh) (h) (h) (ah pffff ah!)
+
+Insert	Maintenant,
+
+Gabriel	(ah ah ah ah ah ah !)
+
+Insert	arrête !
+
+Gabriel	(h) (h) (h) (h) (h)
+
+Insert	Arrête de te trahir.
+
+Gabriel	(h) (h) (h) (h)
+
+Insert	Maintenant,
+
+Gabriel	(h) (ah!)
+
+Insert	arrête
+
+Gabriel	(h)
+
+Insert	d'être ce genre d'homme.
+
+Gabriel	(mm) (h) (h)
+
+Insert	Tu vas renaitre dans ce monde
+
+Gabriel	(mm) (mm) (h)
+
+Insert	tu brûles d'impatience
+
+Gabriel	(ah!) (ah!) (mm)
+
+Insert	de partager ta vie
+
+Gabriel	(ah ah ah ah ah ah !)
+
+Insert	avec quelqu'un que tu aimes et avec qui tu souhaiterais vivre.
+
+(BOUCLE 54 - 02:11:03:19)
+		54
+
+Doctor	Gabriel ! Restez avec nous !
+
+Gabriel	(h)
+
+(BOUCLE 55 - 02:12:47:08)
+		55
+
+Gabriel	Espèce de sale enfoiré ! Mettez les mains derrière la tête ! Croisez bien les doigts et retournez-vous ! Allez tout doucement. Il y a quelqu'un d'autre ici ?
+
+Dr Reese H	Je ne suis pas armé.
+
+Gabriel	Où est-ce qu'on est ?
+
+Dr Reese H	C'est ici que vous êtes né, Gabriel.
+
+Insert	De: Shériff Hodge: Ombre 12 détruite. Venez tous immédiatement.
+
+Dr Reese H	Vous ne sortirez pas d'ici.
+
+Gabriel	Donnez-moi juste une raison de ne pas vous tuer.
+
+Dr Reese H	Vous ne pourrez pas continuer à vivre sans avoir les réponses à vos questions.
+
+Gabriel	Allons faire un tour. Il doit falloir énormément d'oxygène pour vivre dans un endroit souterrain comme celui-ci. Attendez un instant.
+
+(BOUCLE 56 - 02:13:53:14)
+		56
+
+Gabriel	Je voudrais vous demander quelque chose. Qui sont les Fils de la Liberté ?
+
+Dr Reese H	(ah!) (ah!) (h)
+
+Insert	Les Fils de la Liberté.
+
+Gabriel	C'est une organisation d'américains originaires d'europe qui voulaient lutter contre les taxes imposées par l'Angleterre, ils ont lancé la révolte appelée la Boston Tea Party (...) en dix sept cent soixante -treize. Quelque chose me dit qu'ils existent toujours ! Mon Dieu ... je tue des personnes qui se battent vraiment pour la liberté. Pour que d'autres puissent garder le contrôle. Nom de dieu !
+
+Dr Reese H	Vous savez tout, Gabriel.
+
+Gabriel	Debout !
+
+(BOUCLE 57 - 02:14:53:15)
+		57
+
+Gabriel	Sortez tous immédiatement !
+
+Dr Reese H	Avant que vous alliez trop loin, je dois vous montrer quelque chose.
+
+Gabriel	Je sais que c'est moi qu'on cherche. Il faut bouger en permanence.
+
+Dr Reese H	Vous ignorez toujours qui vous êtes. (ah!) A l'origine, je fabriquais de la peau pour les grands brûlés. Puis, j'ai commencé des recherches que personne n'osait faire. De la réanimation de membres. De la régénération des cellules cérébrales. J'essaye de comprendre comment un organisme humain fonctionne. Afin que je sache le reproduire.
+
+Gabriel	Comme ça, vous recréerez votre femme.
+
+Dr Reese H	Elle était toute ma vie.
+
+(BOUCLE 58 - 02:15:54:16)
+		58
+
+Dr Reese H	Puis la haute autorité de l'Ordre des Médecins m'a interdit d'exercer à cause de mes recherches non autorisées. Les Fils de la Liberté ont fait annuler la condamnation et ont fait croire à ma mort, et ils m'ont donné un crédit illimité pour que je continue mes recherches. Gabriel, je vous présente Daniel. Et oui ! C'est vous ! Daniel Lucas Pawney. Commando de Marine. Reconnu pour ses qualités de tireur d'élite hors-pair lors d'opérations en Irak, au Koweit ainsi qu'en Colombie. Eviter toute violence au départ. C'était mon but.
+
+Daniel Pawney	Nous avons fait le tour de toutes les pièces. Il y avait beaucoup de monde ! Mais ... en fait, c'était surtout des femmes qui essayaient de    ...             de protéger leurs gamins ....
+
+Sheriff Hodge	Coupez la caméra !
+
+(BOUCLE 59 - 02:16:59:04)
+		59
+
+Sheriff Hodge	Reprenez-vous, jeune homme ! Allez ! Redressez-vous ! Vous êtes ma recrue, désormais.
+
+Daniel Pawney	Sachez que je ne suis la recrue de personne ! C'est moi qui me suis porté volontaire ! (ah............!)
+
+Sheriff Hodge	Bienvenue dans le programme, Gabriel. Mettez-le sous calmant.
+
+Gabriel	Je vais tuer cette ordure ! (ah ah ah ah ah ah !) (ah!) (ah ah ah ah ah ah !) Mon dieu, non ! (ah!)
+
+Dr Reese H	Daniel Pawney était le plus grand assassin que l'armée américaine avait jamais eu.
+
+Gabriel	Vous avez effacé ma putain de mémoire ! Et vous m'avez programmé comme une machine à tuer ! Maintenant, je peux tuer sur commande quand vous, vous le décidez ! Putain, c'est pas possible ! Non ! Mais alors, qui est Hodge ?
+
+Dr Reese H	C'était votre supérieur dans l'armée. Avant qu'il soit recruté par les Fils de la Liberté.
+
+Gabriel	Et Brinn ?
+
+Dr Reese H	La tâche de Brinn, c'était d'être une attache émotionnelle pour les incarnations de Gabriel.
+
+(BOUCLE 60 - 02:18:06:06)
+		60
+
+Gabriel	Et il y en a d'autres ?
+
+Dr Reese H	On les appelle des ombres. Mais en réalité,         ce sont des clones. Il y a treize ombres. Et treize cibles à éliminer.
+
+Gabriel	Mais qui ne sont pas tout à fait abouties. C'est pourquoi vous avez dû inventer de fausses vies entre les missions. Pour empêcher que les ombres deviennent complètement folles.
+
+Dr Reese H	Nous avons été contraints de vous réanimer à chaque fois qu'un clone mourait. Je n'imaginais pas que la mémoire et les souvenirs passeraient inlassablement de clone en clone. Franchement,         je l'ignorais. Mais voyez-vous ceci n'est qu'un programme pilote. Mon but ultime, (...) c'est d'éliminer les soldats humains. Je suis désolé, Gabriel.
+
+(BOUCLE 61 - 02:19:37:15)
+		61
+
+Sheriff Hodge	Retournez là-bas !
+
+Voix micro	Alarme incendie déclenchée pour une présence de feu encore non identifié.
+
+Sheriff Hodge	J'ai vu que Reese vous avais montré votre ancienne identité à l'écran.
+
+Voix micro	Alarme de feu déclenchée pour une présence de feu encore non identifié.
+
+Sheriff Hodge	Mais Gabriel,      vous n'êtes pas que Daniel, vous êtes bien plus que lui ! Votre rêve de liberté, il est bel et bien terminé.
+
+Voix micro	Alarme de feu déclenchée pour présence de feu encore non identifié
+
+Sheriff Hodge	Le monde est beaucoup trop peuplé désormais. Et il reste trop peu de ressources !
+
+Voix micro	Demande d'intervention des opérations. Merci d'emprunter les sorties de secours.
+
+Sheriff Hodge	(ah!) Toujours un excellent tireur !
+
+Voix micro	Veuillez emprunter les sorties de secours sans tarder.
+
+Sheriff Hodge	Il vous reste encore beaucoup de munitions ?
+
+Voix micro	Interdiction formelle d'emprunter les ascenseurs.
+
+Sheriff Hodge	Douze ? Peut-être (...) une quinzaine ?
+
+Gabriel	J'ai ce qu'il faut !
+
+Sheriff Hodge	(mmh)
+
+Voix micro	Interdiction formelle d'emprunter les ascenseurs.
+
+Sheriff Hodge	Les ascenseurs sont verrouillés. Il y a trois cents mètres de profondeur entre vous et le soleil.
+
+Voix micro	Veuillez emprunter les issues de secours immédiatement.
+
+Sheriff Hodge	Qu'est-ce que vous en avez à foutre du reste du monde de toute façon ?
+
+Voix micro	N'empruntez surtout pas les ascenseurs, dirigez-vous immédiatement vers les sorties de secours prévues à cet effet.
+
+Gabriel	(h) Vous ne pourrez plus me manipuler. La dernière personne que je tuerai, ce sera vous. (ah!) (ah!) (ah!)
+
+(BOUCLE 62 - 02:20:40:13)
+		62
+
+Gabriel	(h) (h)
+
+Deputy Truvio	(ah.................... !)
+
+Gabriel	(h) (h) (h) (h) (h) Qu'est-ce que tu fais ici ?
+
+Brinn	Ca va aller !
+
+Gabriel	J'en sais rien.
+
+Brinn	Viens !
+
+Gabriel	(ah!) Vite !
+
+Brinn	Cours, cours, cours ! (ah!)
+
+Voix micro	N'utilisez pas les ascenseurs et dirigez-vous vers les sorties de secours du bâtiment.
+
+Insert	Veuillez garder le portes fermées et verrouillées en permanence.
+
+Sheriff Hodge	(mmmmmmmmmmmmmmmmmmm)
+
+Voix micro	N'utilisez pas les ascenseurs et dirigez-vous vers les sorties de secours du bâtiment.
+
+Sheriff Hodge	(ah!)
+
+Voix micro	Cessez immédiatement toute opération.
+
+Deputy Truvio	(ah!)
+
+Voix micro	Et évacuez le bâtiment immédiatement par la sortie de secours la plus proche.
+
+Deputy Truvio	(h) (ah!) (h) (h)
+
+Voix micro	Je vous le répète: n'utilisez pas les ascenseurs.
+
+Deputy Truvio	Je vais y arriver. (h)
+
+(BOUCLE 63 - 02:21:35:00)
+		63
+
+Dr Reese H	(ah!) (ah!)
+
+Voix micro	N'utilisez pas les ascenseurs et dirigez-vous vers les sorties de secours !
+
+Dr Reese H	(h) Il faut capturer Gabriel vivant !
+
+Voix micro	Veuillez quitter le bâtiment le plus rapidement possible sans utiliser les ascenseurs et en empruntant les sorties de secours. Cessez tout ce que vous êtes en train de faire et dirigez-vous rapidement vers les sorties de secours.
+
+Sheriff Hodge	Une fois qu'un animal s'est échappé, on ne peut plus jamais le domestiquer.
+
+Dr Reese H	J'ai passé des années à faire des recherches sur cet homme alors, je ne vous permettrai pas de tout foutre en l'air !
+
+Sheriff Hodge	Est-ce que vous êtes le chasseur ou le scientifique aujourd'hui ? Vous n'avez qu'à remonter à la surface !
+
+Dr Reese H	(h) (h) (h)
+
+Brinn	(h) (h) (h)
+
+Voix micro	Veuillez cesser immédiatement tout ce que vous êtes en train de faire et dirigez-vous vers les sorties de secours. N'utilisez pas les ascenseurs, je répète: n'utilisez pas les ascenseurs !
+
+Sheriff Hodge	Ouvre cette grille, salope !
+
+(BOUCLE 64 - 02:22:36:21)
+		64
+
+Gabriel	(ah ah ah ah ah ah ah ah ah ah ah ha !)
+
+Brinn	Lève-toi, Gabriel ! On doit partir !
+
+Gabriel	(mm)
+
+Brinn	Allez, lève-toi !
+
+Gabriel	(mm)
+
+Brinn	Fais un effort, il faut partir !
+
+Gabriel	(ah!)
+
+Brinn	Allez !
+
+Gabriel	C'est trop dur !
+
+Brinn	Il faut que tu y arrives, allez !
+
+Gabriel	Non !
+
+Brinn	La grille va finir par lâcher !
+
+Gabriel	Non, j'vais pas y arriver ! Regarde-moi, je veux que tu fasses quelque chose pour moi, d'accord ?
+
+Brinn	(h)
+
+Gabriel	Je veux que tu réussisses à briser le clone ! Okay ? Quand il y en a un qui meurt, (h) (h) (h) celui qui suit est activé !
+
+Brinn	Reste avec moi ! Reste avec moi !
+
+Gabriel	Mais regarde-moi !
+
+Brinn	(h)
+
+Gabriel	Je t'aime comme un fou !
+
+Brinn	(ah!) (ah ah ah ah ah ah !)
+
+Gabriel	J'aurais voulu que ce soit différent ! (h) je euhm
+
+Brinn	Reste avec moi, reste avec moi.
+
+Voix micro	Veuillez évacuer immédiatement le bâtiment par les issues de secours prévues à cet effet . N'utilisez pas les ascenseurs, je répète: n'utilisez pas les ascenseurs.
+
+Brinn	(ah!) Oh, mon dieu ! Oh, mon dieu ! (ah!) (ah!) (ah!)
+
+(BOUCLE 65 - 02:23:52:24)
+		65
+
+Masterson	Docteur Reese.
+
+Dr Reese H	C'est une vraie catastrophe.
+
+Masterson	Je m'en doutais. (h) Et Hodge ?
+
+Dr Reese H	Personne ne s'en sortira.
+
+Masterson	Vous avez fait ce que vous pouviez.
+
+Dr Reese H	(ah!)
+
+(BOUCLE 66 - 02:24:14:03)
+		66
+
+Voix micro	Cessez immédiatement vos activités et évacuez le bâtiment par les issues de secours qui sont prévues à cet effet. N'utilisez pas les ascenseurs, je répète: n'utilisez pas les ascenseurs.
+
+Brinn	(ah!) Allez ! Gabriel ! Gaby ! Gaby ! Gaby ! Allez ! Réveille-toi ! (h) (h) Réveille-toi ! Allez ! Un ! Deux ! Trois ! Quatre ! Cinq ! Six ! Sept ! huit ! Neuf ! Dix ! Un ! (h) Punaise ! Réveille-toi ! Allez, réveille-toi ! Trois ! quatre ! Cinq ! six ! Réveille-toi ! Réveille-toi ! J't'en supplie ! Réveille-toi, Gabriel, allez ! Allez ! Un ! Deux ! Trois ! Quatre ! Allez ! Allez ! (ah!) C'est foutu ! (ah!)
+
+(BOUCLE 67 - 02:25:29:10)
+		67
+
+Sheriff Hodge	Vous croyez que je ne sais pas à quoi m'attendre avec vous ? Vous vous souvenez de l'adolescente qui s'appellait Malika ? Elle avait été tuée en Irak. Quand j'ai fait tout exploser. Elle me hurlait: qu'est-ce que vous voulez ? Je suis sûre que vous voulez essayer de me violer !? Et je lui ai répondu: nous, on prend tout ce qu'on veut, et puis tout ce qui reste, (...) on zigouille ! Bon, maintenant, je commence à en avoir assez de jouer au chat et à la souris ! Bordel de merde ! (ah!)
+
+Gabriel	(glou!)
+
+Insert	nous vivons à une époque
+
+Gabriel	(glou)
+
+Insert	où plus personne ne sait vivre.
+
+Gabriel	(h)
+
+Insert	Laisse leur faire semblant d'être ce qu'ils n'ont jamais été.
+
+Brinn	(ah!)
+
+Sheriff Hodge	(ah!)
+
+Brinn	(ah!)
+
+Sheriff Hodge	(ah!)
+
+Brinn	(ah!) (ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah !)
+
+Sheriff Hodge	(hahahahahahahahahahahahahah!)
+
+Brinn	(ah!) (h h h h h h  h h h h h h h h h h h h)
+
+Sheriff Hodge	Calmez-vous !
+
+Brinn	(h)
+
+Sheriff Hodge	Je ne vais pas vous tuer, Brinn. (ahahahahahahahah!) C'est lui qui va le faire ! Allez, debout, soldat!
+
+Gabriel	(h) (ah!)
+
+(BOUCLE 68 - 02:26:58:07)
+		68
+
+Brinn	Gabriel !
+
+Sheriff Hodge	Il n'arrive pas à se remettre. C'est le syndrôme de stress post-traumatique.
+
+Brinn	Gabriel !
+
+Sheriff Hodge	Il fait des cauchemars ! Sachez que je n'ai qu'un seul regret,
+
+Brinn	Gabriel ! Rappelle-toi qui tu es !
+
+Sheriff Hodge	c'est de ne pas l'avoir tué plus tôt !
+
+Brinn	Gabriel ! Gaby, gaby !
+
+Sheriff Hodge	Prenez cette arme !
+
+Brinn	Non Gabriel, non, je suis là, c'est moi, Brinn !
+
+Sheriff Hodge	Prenez cette arme, Gabriel !
+
+Brinn	Gabriel, écoute ce que je te dis ! J't'en supplie, rappelle-toi qui tu es ! J't'en supplie, Gabriel ! C'est moi, Brinn ! Rappelle-toi qui tu es vraiment !
+
+Sheriff Hodge	Viiiiiiiiiisez !
+
+Brinn	T'es pas un assassin ! Je sais que t'es pas un assassin ! Gabriel !
+
+Sheriff Hodge	Allez-y !
+
+Brinn	Fais pas ça, non, Gabriel !
+
+Sheriff Hodge	Visez !
+
+Brinn	(h) Gabriel, j't'en supplie, j't'en supplie, nooon ! Je t'en supplie !
+
+Sheriff Hodge	Vous pouvez y aller !
+
+Brinn	Gabriel, non, pitié ! Pitié Gabriel !
+
+Sheriff Hodge	Tuez-la !
+
+Brinn	J't'en supplie, ne fais pas ça, non, Gabriel !
+
+Sheriff Hodge	Tirez ! (ah!)
+
+Brinn	(ah!) (h) (h) (ah!) (ah!)
+
+(BOUCLE 69 - 02:28:02:04)
+		69
+
+Voix micro	Merci d'évacuer le bâtiment de toute urgence en empruntant les issues de secours prévues à cet usage.
+
+Brinn	Gabriel ! Gabriel ! Oh, mon dieu ! Oh, mon dieu !
+
+Voix micro	Cessez toute opération et n'empruntez les ascenseurs sous aucun prétexte.
+
+Brinn	(ah ah ah ah ah ah !)
+
+Voix micro	Je répète: n'empruntez les ascenseurs sous aucun prétexte !
+
+Brinn	chéri. Oh merde !
+
+Voix micro	Veuillez évacuer le bâtiment le plus vite possible par les issues de secours prévues à cet effet.
+
+Brinn	il y a de la fumée au fond !
+
+Gabriel	Ca pue le gaz !
+
+Brinn	Il faut sortir !
+
+Gabriel	Il me faut des fringues !
+
+Voix micro	Veuillez interrompre immédiatement vos activités et évacuez le bâtiment le plus rapidement possible en empruntant les issues de secours prévues à cet effet. N'utilisez pas les ascenseurs. Je répète: n'utilisez pas les ascenseurs.
+
+Brinn	Ils sont arrêtés! Rien ne fonctionne !
+
+Gabriel	(mmmmmmmmmmmmmmm)
+
+Brinn	(ah!)
+
+Gabriel	(ah!) (mmmmmmmmmmmmmmmmmm)
+
+Brinn	(ah!)
+
+Gabriel	(ah!)
+
+Brinn	(ah!)
+
+Auteur	Brinn tousse.
+
+Brinn	(ah!) (ah!)
+
+(BOUCLE 70 - 02:28:53:02)
+		70
+
+Gabriel	Ecoute-moi chérie,
+
+Brinn	(h)
+
+Gabriel	eh écoute moi !
+
+Brinn	(h)
+
+Gabriel	Ecoute !
+
+Brinn	(h)
+
+Gabriel	Il va falloir que tu t'accroches vachement fort !
+
+Brinn	(h) (h)
+
+Gabriel	D'accord ?
+
+Brinn	(h)
+
+Gabriel	Et lorsque tu arriveras au sommet, il te suffira de ...
+
+Brinn	Non ! (h) Non, tu vas venir avec moi !
+
+Gabriel	Non !       Tu sais bien que je ne peux pas !
+
+Brinn	Tu ne vas pas me laisser tomber maintenant !
+
+Gabriel	Il est hors de question que j'te suive !
+
+Brinn	Mais je suis revenue pour toi, Gabriel, je t'en supplie !
+
+Gabriel	Chérie,            j't'assure que je n'ai pas peur de mourir !
+
+Brinn	Je ne te laisserai pas ici tout seul !
+
+Gabriel	Tu sais que je n'ai pas le choix, je dois rester !
+
+Brinn	Nooon !
+
+Gabriel	Je suis un meurtrier, un assassin, appelle ça comme tu veux !
+
+Brinn	(h) Non, t'es pas un assassin ! Noon ! Tu es le numéro treize, tu es mon chiffre de chance !
+
+Gabriel	(h)
+
+Brinn	Tu n'es pas un assassin, tu vas venir avec moi et on va commencer une nouvelle vie tous les deux !
+
+Gabriel	Tu sais que non.
+
+Brinn	(ah!)
+
+Gabriel	C'est la fin.
+
+Brinn	Oh mon dieu ! (ah ah ah ah ah aha ah ah aha ah ah ah ah ah ah ah ah !)
+
+Gabriel	Ca va aller...
+
+Brinn	Noooon !
+
+Gabriel	Ecoute, écoute, écoute, écoute !
+
+Brinn	(ah ah ah ah ah ah !)
+
+Gabriel	Tu vas dire à tout le monde ce qu'ils ont fait ! Il le faut, mon amour !
+
+Brinn	(snif) (ah!)
+
+Gabriel	Je suis si heureux que tu sois revenu pour moi,
+
+Brinn	Oui ...
+
+Gabriel	mais il faut que tu t'en ailles, il faut y aller maintenant !
+
+Brinn	(mmmmmm) (mmmmmmmm)
+
+Gabriel	D'accord ?
+
+Brinn	(mm)
+
+Gabriel	Je sais que tu vas t'en sortir !
+
+Brinn	(ah!)
+
+Gabriel	(X)
+
+Brinn	(ah!) (ah ah ah ah ah ah !)
+
+(BOUCLE 71 - 02:30:22:05)
+		71
+
+Gabriel	(ah!) (ah!)
+
+Brunette	Chéri ? Ca ne va pas ? Ca recommence ?
+
+Insert	Nous vivons à une époque où plus personne ne sait vivre laisse leur faire semblant d'être ce qu'ils n'ont jamais été. qui suis-je ? quel est mon but ? j'ai l'impression d'avoir atteint la fin de mon rêve Maintenant, N'oublie pas qui tu es, arrête ! et quel est ton nom. Arrête de te trahir. N'oublie pas qui tu es et quel est ton nom. Maintenant, arrête ! N'oublie pas qui tu es et quel est ton nom.

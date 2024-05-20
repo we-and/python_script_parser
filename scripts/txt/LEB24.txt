@@ -1,0 +1,703 @@
+MILAGRO	Tu es sûre qu'il n'est pas mort ?
+
+VICTORIA 	Oui, je l'ai vu de mes propres yeux, je lui ai parlé, il m'a dit que Nicolas ne l'avait pas tué, au contraire il lui a sauvé la vie. Il fallait que les hommes qui voulaient sa peau y croient.
+
+MILAGRO	Mais alors, qui est mort ? Qui a-t-on enterré ?
+
+TOMÁS	Un autre esclave. Ce qui est incroyable là-dedans c'est que Nicolas ait fait ça à l’encontre de ses amis. Ça n'était jamais arrivé.
+
+VICTORIA 	J'ai pris la pire décision de toute ma vie, et je ne sais même plus si c’est ce qu’il fallait que je fasse.
+
+MILAGRO 	Comment ça ?
+
+VICTORIA	Tu ne comprends pas, Milagro ? Si tout ce qu'a raconté Miguel est vrai, nous ne savons pas si Nicolas est l'homme que nous pensions, et si c'est lui qui a provoqué l'incendie. Et je suis désolée d’en douter, papa, mais...
+
+TOMÁS 	Non, oui, non, moi, non plus, je ne sais pas où j’en suis... Ta mère avait parlé de Morales, peut-être que j'en ai déduit que Nicolas avait quelque chose à voir avec ça. 
+
+MILAGRO 	Et donc le seul coupable aurait été Morales, ou peut-être travaillait-il pour quelqu'un d'autre que Nicolas. 
+
+TOMÁS	J’ai peut-être la mémoire qui flanche, mais je suis sûr d'une chose... Cette petite fille là, c'est toi, et eux, ce sont tes parents. Don Domingo et donia Héléna Quintero. C'est tout ce qui reste de l’incendie. 
+
+VICTORIA 	Et d'où as-tu sorti ça ?
+
+TOMÁS	Siervo, nous avons un allié dans la maison. Il sait maintenant qui tu es.
+
+VICTORIA 	Si seulement tout le monde le savait, je n'en peux plus de cette farce.
+
+MILAGRO	Tu as pensé à comment dire la vérité ? 
+
+VICTORIA 	Je l'ignore, mais je dois être absolument sûre que Nicolas n'a pas envoyé Morales allumer l'incendie... Je dois parler avec lui, même s'il découvre qui je suis. 
+
+ALONSO	Nicolas, je voulais que tu saches que le compresseur que j'ai acheté avec Eugénia a commencé à fonctionner pleinement. Alors si tu as besoin de nos services, nous sommes à tes ordres.
+
+NICOLAS 	Merci, mais pour l'instant je suis capable de satisfaire les demandes de mes clients tout seul. 
+
+MARQUEZ	Messieurs, ne parlez plus affaires sans une bouteille entre vous, c'est de mauvais goût, non ? Nous aurons le temps de nous réunir et de parler de toutes ces choses. Allez, viens.
+
+NICOLAS	Monsieur…
+
+ALONSO 	Excuse-moi…   
+
+ARTURO 	Nicolas ! Nicolas, il y a un sujet très important dont je voudrais te parler et j'ai pensé que tu pourrais venir chez moi.
+
+NICOLAS 	Je crois savoir de quoi il s’agit, et d’ores et déjà la réponse est non. Tu n'auras plus d'argent tant que tu ne me rendras pas ce que tu me dois. 
+
+ARTURO 	Ne parle pas si fort, tout le monde n'a pas à savoir que je te dois de l'argent... Quand est-ce que je ne t’ai pas payé ?
+
+NICOLAS 	Tu ne m’as jamais autant dû.
+
+ARTURO	Bon mais... je vais te payer, et ce n'est pas de ça dont je veux te parler. C'est bien plus, plus délicat, Nicolas. 
+
+NICOLAS 	Maintenant je n'ai pas le temps, mais viens ce soir à l'Eden et nous parlerons. Bonne journée.
+
+ANGELA	Morales, ça va ? Vous êtes malade ? Vous avez l'air mal en point.
+
+MORALES 	Qu'est-ce que ça peut te faire, Angela ? Je ne suis pas ton collègue, le fait que tu sois libre ne veut pas dire que nous soyons égaux. Je ne crois pas que tu aies changé de couleur.
+
+ANGELA 	Tant mieux, c'était au cas où vous auriez besoin d'aide.
+
+MORALES	Le seul qui pourrait m'aider c'est Dieu, et dernièrement, il est loin d’être disponible. 
+
+ANGELA	Ce n’est pas assez !
+
+NICOLAS 	Alors je vais prendre trois grands pots de mélasse et six sacs de sel, si tu me les laisses au prix de quatre. À prendre ou à laisser ?
+
+MORALES	Les animaux, c’est beaucoup moins cher, monsieur, et ces noirs empochent trop d’argent. Vous devriez les prendre.
+
+NICOLAS 	Morales ne me dérange pas, je fais les comptes... Voilà. Emporte tout ça à l'Eden. Bien entendu le transport est à ta charge. D'accord ? C'est compris ? On y va.
+
+MORALES	Oui, monsieur. 
+
+ISAÍAS	Non, maître, non maître, je vous ai servi, ne me faites pas de mal.
+
+JAIME	Allez, animal, je veux que tu coures ! 
+
+ISAÍAS	Ayez pitié.
+
+JAIME 	J'ai besoin d'entraîner cette main, saute !
+
+ISAÍAS	Non !
+
+JAIME	Cours !
+
+ISAÍAS	Non, non, non, non !
+
+JAIME	Allez !
+
+ISAÍAS	Non maître, non, par pitié !
+
+JAIME	Par pitié ?
+
+ISAÍAS 	Non, non, non !
+
+JAIME	Pitié ?!
+
+ISAÍAS 	Non... !
+
+JAIME 	Dommage qu’on ne puisse plus faire de battues d’esclaves !
+
+ARTURO	Que fais-tu ? Je t'ai dit qu'il ne fallait pas abîmer la marchandise !
+
+JAIME 	Ce n'est qu'une éraflure, lève-toi, animal !
+
+ARTURO	Debout.
+
+ISAÍAS	Ah...
+
+ARTURO 	Lève-toi, bon sang... On dirait que tu le fais exprès ! Allez !
+
+JAIME 	Tu vois ? Je t'avais dit que ce n'était rien.
+
+ARTURO	Tu l'as abîmé. Tu ne comprends donc pas qu'une simple éraflure sur ces saletés leur fait perdre de la valeur ? Tu n'as pas encore compris que nous ne pouvons pas perdre plus d'argent ?
+
+JAIME 	Surtout avec tes paris, n’est-ce pas ?
+
+ARTURO	Imbécile !
+
+JAIME 	Alors comme ça, ces noirs sont plus importants que moi ?! Parce que tu n’étais pas aussi angoissé quand j'ai perdu ma main.
+
+ARTURO 	Ne sois pas aussi stupide ! Tu ne vois pas que maintenant il va falloir qu’on vende ce noir au rabais ? C’est toi qui paieras son gîte et son couvert ? Réponds !
+
+JAIME 	Bon, et pourquoi est-ce qu'on ne s'en débarrasse pas, comme on l’a déjà fait avec les autres ?!
+
+ARTURO 	Écoute-moi un peu, ce temps-là est fini, et on s'est tous mis d'accord, c’est clair ?
+
+JAIME 	Ils se prennent tous pour de grands seigneurs, mais ce ne sont que des poules mouillées.
+
+ARTURO 	Isaías, dégage de là !
+
+ISAÍAS 	Oui.
+
+ARTURO 	Allez !... Et toi, va changer de tenue, et on va sortir.
+
+JAIME	Je ne veux pas, j'ai la flemme. 
+
+ARTURO 	Tu as deux minutes pour revenir ici habillé avec les meilleurs habits que tu as. Ce soir, nous allons jouer notre avenir.
+
+MORALES 	Excusez-moi, don Nicolas, mais je préfère rester loin de ce lieu de perdition à cause de mes problèmes.
+
+NICOLAS 	Eh bien, vas-y, et occupe-toi des chevaux, Morales. 
+
+MORALES	Merci, don Nicolas. 
+
+NICOLAS 	Miguel, que fais-tu ici ? Je t'avais dit de ne pas revenir.
+
+MIGUEL 	Écoutez-moi, s'il vous plait. Je ne veux pas de scandale, mais j’ai su que je n'avais tué personne, et je ne veux pas fuir toute ma vie pour une chose que je n’ai pas faite. 
+
+NICOLAS 	Miguel, je t'ai tué pour venir à bout d’une histoire et tu vas tout gâcher, bon sang !
+
+MIGUEL 	Je suis désolé, mais justice sera faite, j’en resterai pas là. Il n'y a pas que les fausses accusations contre moi, il y a aussi la mort de Rosita, de Sabas et d’autres affranchis. Il faut changer les choses, don Nicolas. Je sais que vous êtes un homme juste, qui me comprendra.
+
+NICOLAS 	Que dis-tu à propos des affranchis ? De quoi tu parles ?
+
+MIGUEL 	Le fils de Lopez m'a dit quelque chose qui m'a fait penser que derrière ces morts il y a des hommes très importants.
+
+NICOLAS 	J'ai pris un risque pour toi, et c'est comme ça que tu me remercies ? Pas seulement en me faisant passer pour un menteur, mais en lançant des accusations absurdes !
+
+MIGUEL 	Je sais de quoi je parle, et il faut que vous ayez confiance en moi. J'ai des preuves et je sais quoi faire, vous m'aiderez avec votre témoignage, j'ai un plan.
+
+NICOLAS	D'accord, parle.
+
+MIGUEL	Je vais porter plainte contre Jaime Lopez pour tentative d'assassinat. 
+
+NICOLAS	Morales, on s'en va.
+
+MORALES	Qu'est-ce qu'il y a, don Nicolas ?
+
+NICOLAS	Il y a une affaire importante de laquelle nous devons nous charger. 
+
+MORALES 	Oui monsieur.
+
+NICOLAS	Allez... On y va, Morales.
+
+MORALES	Vous allez me dire ce qui se passe, don Nicolas ?
+
+NICOLAS 	Miguel est revenu. 
+
+MORALES	Les morts reviennent. 
+
+NICOLAS 	Quels morts, Morales ?! Quels morts ? Tu savais que Miguel n'était pas mort. Il ne m'a pas écouté et il est revenu, alors que je lui avais dit de ne pas le faire. Et c'est très grave. Cela met en péril ma réputation devant tous les hommes du conseil municipal.
+
+MORALES	Il aurait dû mourir pour de bon.
+
+NICOLAS	Eh bien, ce sera un mort vivant pour payer l’erreur commise. Morales... Je veux que tu l'attrapes et que tu le fouettes jusqu’à ce qu’il ne puisse plus s'échapper. Ensuite je veux que tu l'emmènes sur la plage, et je me chargerai de l'enfermer pour que personne ne le retrouve... Qu'est-ce qu'il y a ? 
+
+MORALES	C'est que... 
+
+NICOLAS 	Quoi ? 
+
+MORALES	Je ne peux pas, don Nicolas, faites-le, vous.
+
+NICOLAS 	Comment ?
+
+MORALES	Je ne peux pas continuer à me couvrir les mains de sang, don Nicolas. Les morts des Quintero sont revenus pour me tourmenter. Je ne peux pas commettre un nouveau péché. 
+
+NICOLAS 	Hors de chez moi... Hors de chez moi ! Prends le peu d'affaires que tu as, et ne reviens jamais te montrer par ici, trouve-toi un autre endroit pour vivre, si tu peux.
+
+MORALES	Mais patron, je travaille pour vous depuis de nombreuses années, j'ai fait tout ce que vous m'avez demandé, don Nicolas. Mais maintenant c'est différent, je ne peux pas, don Nicolas, je dois sauver mon âme, je le dois !
+
+NICOLAS 	Eh bien va sauver ton âme autre part, Morales. Et que ce soit bien clair, tu n'as jamais été qu’un ivrogne, inutile et médiocre. Et ne t'avise pas d'ouvrir la bouche, parce qu'alors oui, je te mettrai en pièces moi-même. C'est clair ? Ce serait la dernière imbécilité que tu ferais dans ta triste vie... Ah, ah, ah, ah !
+
+MIGUEL 	Venez mes frères, j'ai besoin de votre soutien pour le procès.
+
+HOMME	Procès ? Quel procès ?
+
+MIGUEL 	Un procès contre Jaime Lopez pour tentative d'assassinat !
+
+HOMME	Non, non.
+
+MIGUEL 	Si, mon frère, mais j'ai besoin de votre soutien à tous.
+
+HOMME	Non, ce n’est pas juste, ce n’est pas juste...
+
+MIGUEL	Les gars, s'il vous plaît...
+
+HOMME	Non…
+
+ANGELA 	Je vais fermer, revenez demain.
+
+MIGUEL	C'est moi, Angela...
+
+ANGELA 	Miguel… Miguel… Miguel, nous pensions tous que tu étais mort.
+
+MIGUEL 	Ben non, et je ne suis pas un fantôme, alors tu ne dois pas avoir peur.
+
+ANGELA 	J'ai peur des vivants, pas des morts. Même si je pense que toi, tu as un problème avec les vivants. 
+
+MIGUEL 	C'est compliqué, c'est pour ça que je viens te demander de l'aide. Si tu ne veux pas, je comprendrai. 
+
+ANGELA 	Compte sur moi. 
+
+MIGUEL 	Mais tu ne sais pas encore de quoi il s'agit. 
+
+ANGELA 	Ce n’est pas grave. Tu crois que je ne sais pas ? Ce que toi, tu m'as donné pour payer ma libération, ce n’était pas de la part de Juan. Je sais, il était à la rue, ce pauvre homme... Ce que tu as fait pour moi, ton geste m'a redonné le courage de vivre, de lutter, alors… compte sur moi, quoi que tu fasses.
+
+MIGUEL 	Merci, je savais que je pouvais compter sur toi. 
+
+VICTORIA	Heureusement que tu es là, Nicolas. 
+
+NICOLAS	T’en fais une tête ! Pourquoi ?
+
+VICTORIA	Le docteur Lopez et son fils t'attendent là-bas. 
+
+NICOLAS 	C'est vrai, j'avais complètement oublié. 
+
+VICTORIA	Et Morales, il n'était pas avec toi ?
+
+NICOLAS 	Morales ne travaille plus ici.
+
+ARTURO	Merci.
+
+ISABELLE	Papa…
+
+NICOLAS 	Mon amour.
+
+ISABELLE 	Heureusement que tu es arrivé, je ne veux plus parler avec cet idiot.
+
+NICOLAS	Excusez mon retard, messieurs. J'ai dû régler un problème au dernier moment. 
+
+ARTURO 	Ne t'en fais pas Nicolas, assieds-toi.
+
+NICOLAS	Eh bien... Jaime, je crois qu'on ne s’est pas vus depuis...
+
+JAIME 	Depuis que ton esclave m'a coupé la main.
+
+ARTURO	Jaime !
+
+NICOLAS	Si ça ne vous dérange pas, je me change et nous passons à table.
+
+ARTURO 	Bien entendu, pas de problème.
+
+NICOLAS	Excusez-moi, je reviens. 
+
+ARTURO 	Viens et assieds-toi ici, assieds-toi, assieds-toi.
+
+ISABELLE 	Bien sûr, oui.
+
+TRINIDAD	Morales, Morales, Morales ! La marquise m'a ordonné de ne pas retourner aux champs, et de continuer à m’occuper de mademoiselle Remedios.
+
+MORALES	Ça m’est bien égal.
+
+TRINIDAD	Comment ?
+
+MORALES	Je ne travaille plus dans cette hacienda, mon gars... Don Nicolas m'a chassé comme un chien… après tout ce que j'ai fait pour lui. C'est un misérable ingrat.
+ 
+FELIPE	Eh bien, tu ne sais pas où ils sont ?
+
+CATALINA 	Aucune idée, Je n’aime pas du tout ça... Miguel prend beaucoup de risques. C'est lui !
+
+MIGUEL 	Bonsoir.
+
+CATALINA 	Miguel !
+
+FELIPE	Où étais-tu passé ? Il faut qu’on parle tous les deux.
+
+MIGUEL 	Vous m’ôtez les mots de la bouche, Felipe. Angela, viens, s'il te plait. Je veux vous présenter Angela, elle va m'aider dans ma plainte.
+
+ANGELA	Bonsoir.
+
+CATALINA/ FELIPE	Bonsoir. 
+
+FELIPE	De quoi tu parles ?
+
+MIGUEL	Au tribunal, je vais inculper Jaime Lopez pour tentative d'assassinat. J'ai des témoins pour déclarer au procès, et je veux que vous me représentiez.
+ 
+NICOLAS 	Très bien, je te prêterai de l'argent, mais en augmentant les intérêts. 
+
+ARTURO 	Fais ce que tu crois juste, Nicolas, les affaires sont les affaires. D'ailleurs je peux te payer une partie des intérêts avec mon meilleur esclave. Isaias.
+
+NICOLAS 	Et il est dans quel état, cet esclave ?
+
+ARTURO 	Comment ça, dans quel état est cet esclave, Nicolas ? En parfaites conditions, enfin, quelques éraflures, rien de plus.
+
+NICOLAS 	Non merci, je n'ai pas besoin d'autres d'esclaves, ceux que j'ai me suffisent. Si je te prête cet argent c'est en réalité parce que je veux que nos relations soient bonnes et harmonieuses.
+
+ARTURO 	Eh bien, Nicolas, pour que nos relations soient définitivement excellentes, formons donc une famille.
+
+NICOLAS 	De quoi tu parles ?
+
+ARTURO	Voyons, Isabelle est déjà grande, et Jaime aussi, alors ils pourraient...
+
+NICOLAS 	Attends un peu, Arturo...Tu me demandes de considérer un homme manchot, avec un père dépendant au jeu et endetté, comme mari éventuel pour ma fille ?
+
+ARTURO 	C’est offensant, Nicolas. 
+
+NICOLAS	Ce n’est pas mon intention de t’offenser, je suis juste honnête... Sachons garder les proportions.
+
+ARTURO 	Je pensais que toi et moi, on était amis, dis-moi ? 
+
+NICOLAS	Et nous le sommes, Arturo. Mais les affaires sont les affaires, et se marier avec ma fille vaut bien plus que ce que tu penses. Alors parlons de ce qui est réellement possible. Tu veux le prêt, oui ou non ?
+
+SIERVO 	Maître, maître... c'est grave.
+
+NICOLAS 	Qu'est-ce qui se passe ?
+
+SIERVO	Morales, il a mis le feu à sa cabane. 
+
+NICOLAS 	Quelle racaille ! Toi, reste là.
+
+SIERVO 	Oui, maître...
+
+MORALES	Le feu, le feu... Ça y est, vous voyez ? Fichez-moi la paix ! Non, non, non, il faut laisser le feu purifier l'endroit, comme il l'a déjà fait avant !
+
+NICOLAS	Morales, Morales !
+
+MORALES	Non, non ! Laissez-le, n’y touchez pas !
+
+NICOLAS	Morales, Morales… 
+
+NICOLAS 	Morales !
+
+MORALES	Don Nicolas, don Nicolas, vous ne comprenez pas, j'ai vu l'esprit d'Héléna ici. Cette hacienda me rend complètement fou à cause de ce que j'ai fait.
+
+NICOLAS	Mais qu'est-ce que tu racontes, imbécile ! Ferme ta bouche !
+
+MORALES	Don Nicolas, je sais que je les ai tous brûlés, mais c’est vous qui m’en aviez donné l’ordre, don Nicolas, moi, je ne voulais pas. 
+
+NICOLAS	Tais-toi maintenant, tais-toi, tais-toi !
+
+JAIME	On dirait la chambre d'une petite fille de huit ans. 
+
+ISABELLE 	Eh bien, moi, ça me plaît.
+
+JAIME 	Oui, parce que tu crois que tu as huit ans. Mais... tu t'es regardée dans un miroir dernièrement ? Tu es toujours malade, enfermée entre quatre murs.
+
+ISABELLE 	Je ne suis pas malade, je peux aller où je veux. Et je suis plus normale que toi, d’après ce que je vois...
+
+JAIME 	Ah oui ? Je n’en ai pas l’impression.
+
+ISABELLE 	Jaime, pas de disputes, d'accord ?
+
+JAIME 	Je ne me dispute pas, je ne dis que la vérité.
+
+ISABELLE 	Bien, je vais te montrer quelque chose, je suis sûre que tu vas adorer.
+
+JAIME 	Je ne crois pas. 
+
+ISABELLE 	Hum ?
+
+JAIME 	Et c'est quoi ?
+
+ISABELLE 	Un objet magique ! 
+
+JAIME 	La magie n'existe pas.
+
+ISABELLE	Qu’est-ce que tu dis ?
+
+JAIME 	C'est une invention des vendeurs de vent pour faire croire des choses stupides à des personnes ignorantes, comme toi.
+
+ISABELLE 	Ah bon, alors si c'est pour des ignorants, de quoi as-tu peur ? Allez, mets un doigt... de la main qui te reste.
+
+JAIME	Je n'ai pas peur. 
+
+ISABELLE	Humum... Très bien, maintenant, enlève-le.
+
+JAIME 	Quelle imbécilité... Comment on enlève ça ?
+
+ISABELLE	Je ne sais pas.
+
+JAIME	Dis-moi tout de suite comment enlever ça !
+
+ISABELLE	Je ne sais pas Jaime, je voudrais t'aider, mais je ne sais pas.
+
+JAIME 	Enlève-moi ça !
+
+MORALES	Vous ! Éteignez le feu et après retournez aux baraquements !
+
+TRINIDAD	Apportez vite de l'eau, apportez de l'eau, tout est en train de brûler.
+
+NICOLAS	Trinidad.
+
+TRINIDAD	Oui, monsieur.
+
+NICOLAS	Et vous deux, emmenez cette pourriture chez moi ! Dépêchez-vous !
+
+TRINIDAD	À vos ordres, maitre.
+
+MILAGRO 	Morales vient d'avoir la peur de sa vie. C'est bien fait pour lui, espèce de sale type.
+
+VICTORIA	Donne-moi ça.
+
+MILAGRO	Maintenant qu'il est terrorisé et coupable, c'est le moment. 
+
+REMEDIOS	Le moment de quoi ? 
+
+VICTORIA	De parler avec lui, pour qu'il me raconte ce qui s'est réellement passé la nuit de l'incendie, savoir si c’est Nicolas qui le lui a ordonné.
+
+FELIPE 	Il me semble que tu n'as pas bien compris ce que ça impliquait de porter plainte contre un jeune homme de la société comme Jaime Lopez, ni les dangers que cela représente pour toi.
+
+MIGUEL 	Ça m’est bien égal. Je suis prêt à affronter ce qu'il faudra pour que justice soit faite. Assez d'abus, Felipe. C’est bien ce que vous avez fait toute votre vie, non ? Défendre les droits de mon peuple. Alors, j'ai le droit d'accuser celui qui a voulu me tuer, moi, qui a tué Rosita, Sabas, et qui sait combien d’autres.
+
+CATALINA 	Tu ne devrais pas te sentir offensé par ce qu’est en train de dire mon frère. Le problème c'est que ce que tu veux faire ne s'est jamais vu par ici.
+
+MIGUEL  	Il faudra que ça arrive un jour. Tout ce que je voulais savoir, c'est si vous alliez m'aider, parce que je ne veux pas passer le reste de ma vie à me cacher. Et encore moins quitter mon pays à cause d'un assassin notoire.
+
+FELIPE 	Eh bien, ce serait la première fois qu'un avocat qui n'a pas été commis par la couronne ou le gouvernement défendra un homme de couleur. Bien entendu, aucun n'a gagné. 
+
+MIGUEL 	Bien sûr. Pourquoi en serait-il autrement puisque nous n'avons rien, même pas la liberté. Mais j'en ai assez de me soumettre. Pardon, Félipé, mais j'ai besoin de savoir si vous allez me représenter ou pas.
+
+FELIPE	Écoute...
+
+CATALINA 	Bien sûr qu’on va te représenter. Cette cause est loin d’être perdue. 
+
+FELIPE	Compte sur nous. 
+
+NICOLAS	Trinidad, assure-toi que l'incendie a été éteint, et restez à disposition au cas où j'aurais besoin de vous.
+
+TRINIDAD	À vos ordres, maître.
+
+NICOLAS	Allez-vous-en.
+
+TRINIDAD	Merci. On s'en va.
+
+NICOLAS	Comment va-t-il ?
+
+ARTURO 	Il va bien. D'ici quelque temps il sera totalement remis. Par contre, je connais quelqu’un qui aura bien du mal à s’en remettre. C’est toi.
+
+NICOLAS	Tout ce qu'a dit Morales n'était qu'un mensonge stupide.
+
+ARTURO 	Tout ce qu'a dit Morales est un sujet très délicat Nicolas... Il t’a formellement dénoncé comme étant le cerveau dans cette affaire, celui qui a donné l’ordre de brûler l'Eden, avec toute la famille Quintero à l'intérieur. Et il ne s’agit pas seulement d’un acte misérable et meurtrier… Je ne veux pas imaginer ce qui se passera quand les gens le sauront. Ça, ce serait pour toi un sacré problème.
+
+NICOLAS	Arturo, ce qu'a dit Morales est une invention. En plus, tu n'as absolument aucune preuve.
+
+ARTURO 	Moi non, mais Morales oui.
+
+NICOLAS	Ce n'est pas dans ton intérêt d’avoir des problèmes avec moi, si on tient compte de la quantité d’argent que tu me dois.
+
+ARTURO	C’est du passé.
+
+NICOLAS 	Non, tu as une énorme dette envers moi. 
+
+ARTURO 	Maintenant, tu as devant toi quelqu’un dépendant du jeu, avec un fils manchot, mais qui sait beaucoup de choses. 
+
+NICOLAS 	Non, Et qu'est-ce que tu vas faire, hein ? Tu comptes me dénoncer ?
+
+ARTURO 	Qu'est-ce que tu racontes, Nicolas ? Je ne dénoncerais jamais ma famille, et encore moins après un mariage. Je vais t'aider et nous mettrons ce misérable, cette canaille, dans un endroit dans lequel il ne pourra plus jamais parler. Et s'il le faisait, on ne le croirait pas. Ne t'en fais pas. Ne t'en fais pas, je suis avec toi.
+
+JAIME	Enlève-moi ça tout de suite !
+
+NICOLAS 	Quoi encore, bon sang !
+
+NICOLAS	Isabelle, qu'est-ce qu'il y a ?
+
+ARTURO 	Qu'est-ce qui t'arrive, Jaime ?
+
+VICTORIA	Tout va bien ?
+
+ISABELLE	Oui, moi, oui... C’est lui, il a commencé à jouer avec plein de choses alors que je lui avais bien dit de ne pas le faire. 
+
+JAIME 	Ce n'est pas vrai papa, elle l'a fait exprès. Enlève-moi ça !
+
+ARTURO	Mais, qu'est-ce que tu fais ? Tu t'es bloqué la phalange ! Tu veux perdre l'autre main ou quoi ?
+
+ISABELLE	Je peux, s'il vous plait ? Je voudrais l'aider.
+
+JAIME 	Ne la laisse pas me toucher.
+
+ARTURO 	Laisse-la faire, enfin !
+
+ISABELLE	Ah, Jaime, ne sois pas grossier, je veux seulement t'aider et… essayer quelque chose, voyons si on fait...
+
+ARTURO 	Jaime, voyons...
+
+NICOLAS 	Isabelle, j'ai beaucoup de problèmes à résoudre, ce n'est pas le moment de faire des blagues stupides.
+
+ISABELLE 	Pardon, je ne... 
+
+NICOLAS	Allons-y.
+
+JAIME 	Je viens avec vous, je m'ennuie ici. 
+
+ARTURO 	Non, tu dois veiller sur elles. 
+
+ISABELLE 	Bien sûr, avec une seule main.
+
+NICOLAS	Les gardiens peuvent veiller sur elles. Allons-y...
+
+ARTURO 	Viens, Jaime. 
+
+TRINIDAD	Allez les gars, bougez-vous, faites attention en le portant, qu'il ne tombe pas. 
+
+ARTURO 	Allez !
+
+VICTORIA 	Nicolas !
+
+NICOLAS	Qu'est-ce qu'il y a ? 
+
+VICTORIA	Où vas-tu ?
+
+NICOLAS 	Morales est malade, le docteur Lopez va l'emmener à l'hôpital. On se verra après. 
+
+VICTORIA 	Tu vas me laisser ici toute seule à m’inquiéter ? Nicolas !
+
+NICOLAS 	Trinidad !
+
+TRINIDAD	Oui, monsieur ?
+
+NICOLAS 	Tu viens avec nous. Et si Morales se réveille, tu t'en occupes, d'accord ?
+
+TRINIDAD	À vos ordres, monsieur. On y va.
+
+ARTURO 	Et toi, retourne à la maison.
+
+JAIME	Mais, qu'est-ce qu’il y a ? Pourquoi ?
+
+ARTURO 	Retourne à la maison, c'est assez compliqué comme ça !
+
+REMEDIOS	Comment est-ce arrivé ?
+
+VICTORIA 	Avec Milagro, on a généré plus de culpabilité chez Morales, tirant profit de sa superstition et de ses peurs. 
+
+REMEDIOS 	Je crois que vous avez poussé la blague un peu loin. D’après ce que vous dites, cet homme va très mal.
+
+MILAGRO 	Espérons que ce ne soit que passager.
+
+FELIPE	Avec cette demande, nous allons nous mettre à dos tous les blancs de la région, vous devez en être conscients.
+
+MIGUEL 	Moi, je n'ai aucun problème à y laisser ma peau si c'est pour avancer avec la cause noire.
+
+CATALINA 	Quelle cause noire ?
+
+MIGUEL 	Le groupe rebelle dont je vous ai parlé. 
+
+FELIPE	Bien, sincèrement, tu n'as pas été très loquace à ce sujet. Et si je dois te représenter, je ne veux pas de surprises. Alors explique-moi exactement comment fonctionnait cette cause. 
+
+MIGUEL 	On se réunissait quand on nous permettait de faire des fêtes entre esclaves noirs. On a organisé un réseau d'entraide avec les esclaves d’autres haciendas. On se tenait informés et on préparait des actions contre les injustices de nos maîtres.
+
+CATALINA 	Quelles actions ?
+
+MIGUEL	Les nôtres, Catalina. Bien que je n’aie pas de regrets, j'admets que nous n'avons pas agi de manière très organisée.
+
+CATALINA 	Ah, Miguel, explique-toi, donne-nous des détails. Quelles erreurs ?
+
+MIGUEL	Des frères qui sont morts pour notre cause. Parmi eux, il y avait Ruben, exécuté sur la place publique sans avoir pu se défendre.
+
+FELIPE 	Et pourquoi l’ont-ils tué ?
+
+MIGUEL	Parce que nous avions enlevé la marquise. 
+
+CATALINA	Victoria ?!
+
+MIGUEL	Je ne savais pas que...
+
+CATALINA 	Vous avez enlevé Victoria ?!
+
+MIGUEL	Je ne savais pas que c'était elle, la marquise ! Ensuite elle s'est échappée, et voilà. Mais enfin, chaque homme dans le monde a le droit de se défendre. 
+
+FELIPE 	Bien, je suis désolé de devoir dire ce que je vais dire parce que ça me semble horrible, mais pour beaucoup de gens, les noirs ne sont même pas des êtres humains. Encore moins des citoyens avec des droits. 
+
+MIGUEL 	Mais cela doit changer ici et maintenant.
+
+CATALINA 	Ce n'est pas un chemin facile, Miguel.
+
+MIGUEL 	Mais je trouverai un moyen pour que ce ne soit pas impossible.
+
+MORALES	Lâchez-moi, je ne suis pas fou, bon sang, lâchez-moi !
+
+ARTURO	Mais enfin, donnez-lui du chloroforme ! 
+
+MORALES 	Lâchez-moi ! Don Nicolas, vous savez que je ne suis pas fou. Dieu m’en est témoin ! C’est lui le tout puissant, vous n'êtes pas au-dessus de lui ! 
+
+NICOLAS 	Je veux savoir où on va le conduire, qu'il soit à l'isolement. 
+
+ARTURO 	Voyons, Nicolas, arrête de t'inquiéter. Il sera à l'isolement complet.
+
+NICOLAS 	J'espère bien, et qu’on lui donne de quoi le tuer rapidement.
+
+ARTURO	Attends…
+
+MORALES 	Ne faites pas ça ! Ne faites pas ça ! Le père Octavio est au courant, il sait que c’est vous qui l’avez fait ! Le père Octavio m'a donné l'absolution ! Il sait que c’est vous qui en avez donné l’ordre ! Don Nicolas, ne faites pas ça !
+
+VICTORIA	Bonsoir, Siervo. 
+
+SIERVO 	Madame la marquise. Que désirez-vous ?
+
+VICTORIA 	Ne m'appelle pas comme ça, je sais que tu es au courant de tout. 
+
+SIERVO 	Oui maîtresse, je sais tout. Qui aurait pu dire que vous, une vraie marquise, était la fille des Quintero. 
+
+VICTORIA 	Je n’ai rien d’une marquise.
+
+SIERVO	Mais c'est ce que nous pensons tous ici. 
+
+VICTORIA	Assieds-toi. 
+
+SIERVO	Maîtresse, il ne faut rien changer ou vous serez en danger. Ces yeux sont uniques, identiques à ceux de votre mère, je ne sais pas comment je ne vous ai pas reconnue avant.
+
+VICTORIA	Je suis ravie que tu me reconnaisses, mais je ne veux pas qu'il t'arrive quelque chose par ma faute, Siervo. 
+
+SIERVO 	Ne vous en faites pas maîtresse, je suis vieux et très fatigué et je veux juste retrouver mes ancêtres, arriver à faire autre chose, et ne plus être un chien docile qui dit oui aux ordres du maître. 
+
+VICTORIA 	Raconte-moi... Comment est Nicolas comme maître ?
+
+SIERVO 	Le maître ? Il m'a sauvé la vie, il ne les a pas laissés me tuer quand ils m'ont attrapé alors que je voulais m’enfuir. Mais ce n'est pas un saint.
+
+VICTORIA 	Pourquoi ?
+
+SIERVO	Vous n'êtes pas comme eux... Non, vous avez une bonne âme, et votre cœur est de cette couleur... comme nous. Tous les blancs sont exactement pareils, ils ne s'occupent que de leurs intérêts sans faire attention au reste.
+
+MANUELA 	(Chant) Moi, je l'ai vu au loin, un oiseau blanc… qui apporte avec son chant
+
+MÚSICOS	(Chant) de l'eau de vie et du rhum.
+
+MANUELA 	Ah…
+
+MÚSICOS	(Chant) D'l'eau de vie et du rhum, d'l'eau de vie et du rhum… D'l'eau de vie et du rhum, d'l'eau de vie et du rhum…
+
+JAIME 	C’est dit, je ne vais pas me marier avec cette gamine, parce que… parce qu’elle est folle, elle est détraquée. Et moi, la seule chose que j'aime vraiment… c'est la chasse aux bestiaux… Santé.
+
+HOMME	Santé…
+
+MANUELA 	Je sens que je vais lui en mettre une.
+
+GABRIEL 	Ne perds pas de temps avec lui. Depuis tout petit, c'est un imbécile.
+
+MÚSICOS	(Chant) D'l'eau de vie et du rhum, d'l'eau de vie et du rhum…
+
+RANGEL	C'est ici qu'on nous envoie les pires déchets de l'humanité et nous, avec l'aide de Dieu, nous faisons ce que nous pouvons pour eux.
+
+NICOLAS 	Avec l’assentiment de Dieu et avec l'argent d’autrui.
+
+RANGEL	La gloire, c'est pour Dieu... et l'argent pour aider ces pauvres individus.
+
+ARTURO 	Enfin, en plus du soulagement de savoir ce dément enfermé ici... Rangel a été abbé pendant plus de trente ans, alors tu n'as plus aucune raison de t’inquiéter, Nicolas.
+
+RANGEL	Avez-vous des recommandations pour cette âme tourmentée ?
+
+ARTURO 	Rangel, il faut simplement garder à l'esprit qu'il s'agit d'un patient complètement aliéné, totalement dément, et qui passe son temps à dire n’importe quoi. Voilà.
+
+RANGEL	Oh, ne vous en faites pas, ici nous le traiterons de la meilleure façon. Dans cette institution, la seule chose qui nous intéresse c'est le bien-être et la réhabilitation du patient pour qu’il redevienne utile à la société.
+
+NICOLAS	Qu'il ne sorte pas, qu'il ne dise plus jamais rien, plus jamais.
+
+MORALES 	Sortez-moi d’ici, sortez-moi d’ici, charognes ! Je n’ai pas mérité d’être ici, je ne suis pas fou, libérez-moi, vous allez tous pourrir en enfer ! Je vous le promets, vous allez me le payer ! Je ne suis pas fou, sortez-moi de là ! Notre Père qui est aux cieux, que ton nom soit sanctifié, que ton règne vienne, que ta volonté soit faite sur la terre comme au ciel.... Vous allez me le payer, sortez-moi de là ! S'il vous plait, non, non, non, je vous en prie. Non, non, assez, assez, s’il vous plait... Non, non, s’il vous plait, non. S’il vous plait ! Mon Dieu, je vous en prie, sortez-moi d’ici ! Ça suffit ! Arrêtez !
+
+NICOLAS	Tout ce qu'a dit Morales ne sont que les délires d'un ivrogne dément. 
+
+ARTURO 	Ce que tu veux dire, c'est que tu n'as jamais donné l'ordre à Morales de mettre le feu à l'Eden avec les tous Quintero dedans ? 
+
+NICOLAS	Je suis sûr que non.
+
+ARTURO 	Cela ne ferait pas de toi seulement un assassin, mais aussi un usurpateur. Nous savons tous parfaitement que ces terres appartenaient à la fille des Quintero, la petite fille qu'on n'a jamais revue.
+
+NICOLAS  	Cette enfant est morte.
+
+ARTURO	Et son cadavre ?
+
+NICOLAS	Réduit en cendres, c'était un bébé... le feu a tout anéanti. Je te rappelle que j'ai reconstruit les murs de l'Eden de mes propres mains. 
+
+ARTURO 	Oui Nicolas, je me souviens que tu as rebâti les murs de l'Eden de tes propres mains. Mais, alors... la petite fille blanche qu'on a vue dans le palenque des années plus tard ? C'était peut-être elle, non ?
+
+NICOLAS 	Ça pouvait être aussi une petite fille abandonnée, une femme mariée qui aurait trompé son mari. De toute façon, cette enfant est aussi morte dans l'attaque du palenque. 
+
+ARTURO 	Écoute Nicolas. Nous allons en finir une fois pour toutes avec tout ça. Nous allons tous les deux passer un accord. Morales va pourrir dans cet asile, et moi j'oublierai tout ce que j'ai entendu. Mais toi, tu vas me donner deux choses.
+
+NICOLAS 	Nous étions d’accord pour annuler ta dette. Tu es en train de dépasser les bornes, Arturo, et ma patience a des limites.
+
+ARTURO 	La mienne aussi, Nicolas. Alors, avant que l’un de nous deux ne finisse par perdre patience, viens avec moi, nous allons conclure ce marché. 
+
+ARTURO 	Premièrement, la somme que je te dois n'est pas très importante, ramenons-la à zéro et voilà. Deuxièmement, nous allons organiser le mariage des enfants. Donnons donc ce plaisir à ta fille, qu'elle épouse mon fils... Que ce soit réglé.
+
+NICOLAS 	Ça le sera, ce sera réglé. 
+
+ARTURO 	Et en attendant, eh bien, en guise de garantie, nous laisserons Morales dans cette maison de fous, et si tu ne respectes pas ta parole, eh bien, nous le laisserons sortir et parler au juge.

@@ -1,0 +1,1118 @@
+LA ESCLAVA BLANCA CAP40 25 FPS-H264
+07/10/2016
+
+Insert	(Générique de début)
+
+(BOUCLE 1 - 00:00:57:14)
+		01
+
+NICOLAS	(mts) Aux mines du Sud ? Tu voudrais que je vende Hilaria à cet endroit terrifiant ? Elle ne le supporterait même pas une journée. (hh) (h/) (h/)
+
+ADELA	Ses enfants s'y trouvent. Tu t’en souviens ?
+
+NICOLAS	Oui, je m’en souviens, mais elle ne tiendrait pas le coup là-bas.
+
+ADELA	(h/) Peut-être pas, mais au moins elle pourra les voir. Je ferais la même chose pour te voir, si j'étais dans sa situation.
+
+(BOUCLE 2 - 00:01:35:13)
+		02
+
+NICOLAS	Très bien, j'emmènerai Hilaria aux mines du Sud, mais s'il te plaît, mère, ne te compare plus jamais avec une esclave. Qu’est-ce qui est en train de se passer ? Avec les années, tu te relâches. (h/) (mm)
+
+ADELA	(mh/) (h\)
+
+NICOLAS	(mh) (hum ?)
+
+ADELA	(mm) (mh/) Non. Non, va-t’en.
+
+NICOLAS	(expi) (hh/)
+
+(BOUCLE 3 - 00:02:17:04)
+		03
+
+NICOLAS	Il faut que je m’en aille. (mmh)
+
+VICTORIA	Tu ne vas pas à l’enterrement de Catalina Restrepo?
+
+NICOLAS	(h) Je ne peux pas, mais je veux que tu y ailles avec ma mère et avec Isabel pour me représenter.
+
+VICTORIA	Quand tu rentres quand ?
+
+NICOLAS	(mts) (h) Dans quelques jours, ma mère prendra en charge l’hacienda, hmm ?
+
+VICTORIA	Nicolas, ta mère souffre pour Hilaria, je m’en charge, ne t’en fais pas.
+
+NICOLAS	(mh) (hh) (h) S’occuper d’une hacienda n’est pas l’affaire d’une marquise, les récoltes et les esclaves n’ont rien à voir avec toi, il vaut mieux que ma mère s’en charge, mais merci d’être aussi belle. (hhh) (x)
+
+VICTORIA	(x)
+
+NICOLAS	(hh)
+
+VICTORIA	(mh/) (ffhh) Je ne peux pas me charger d’une hacienda ? Ben, ils vont voir.
+
+REMEDIOS	Qu’est-ce qu’ils vont voir ? Viens, assieds-toi. (h) (h) (h) (h)
+
+AMBIANCE	(pleurs et murmures/lamentations: "ce n'est pas juste; pourquoi nous; et ensuite c'est peut-être notre tour... "___)
+
+(BOUCLE 4 - 00:03:15:05)
+		04
+
+ADELA	(sniff) (hhhrh)
+
+NOEMI	(hh) Ah, Trinidad, pourquoi est-ce qu’ils ont décidé de vendre Hilaria ? C’est-elle, l’esclave préférée de Donia Adela. (h\) (h) (sanglot__) (pleure___)
+
+TRINIDAD	Les blancs ne s’attachent à personne, Noémi. Pour eux, nous ne sommes que des choses. En plus, Hilaria est en train de se faire vieille, et sans doute, Donia Adela n’en veut plus. Elle a été bien bête de croire autre chose.
+
+NOEMI	(pleure b. f. __) (sanglot__) (sanglot_) (mmrhh)
+
+MILAGRO	(h)
+
+NOEMI	(sanglot_)
+
+CANDELA	Mon chéri, fais attention à toi, j’irai te chercher. (pleure__)
+
+DIOSDADO	(hh) Oui.
+
+CANDELA	(hh)
+
+DIOSDADO	Toi aussi.
+
+CANDELA	Fais attention à toi mon cœur, ne m’oublie pas, mon chéri. Fais très attention à toi.
+
+DIOSDADO	(mhh) Toi aussi ma douce. Non, jamais.
+
+CANDELA	(pleure__)
+
+DIOSDADO	(hh) Je t'aime.
+
+JULIAN	On y va !
+
+CANDELA	(pleure__)
+
+DIOSDADO	(x)
+
+CANDELA	(x) (pleure____) Fais attention à toi, mon chéri ! Est-ce qu’on peut encore avoir de l’espoir ? (pleure___)
+
+DIOSDADO	(hh)
+
+CANDELA	Fais attention à toi. (pleure___________________________________)
+
+MILAGRO	Calme-toi.
+
+CANDELA	(pleure__________________)
+
+AMBIANCE	(fin)
+
+ISABEL 2	Grand-mère !
+
+ADELA	Qu’est-ce qui se passe ? (hh)
+
+(BOUCLE 5 - 00:04:23:14)
+		05
+
+ISABEL 2	(h) Grand-mère, on est prêtes pour aller à l’église et après...
+
+ADELA	Je n’y vais pas, j’ai mal à la tête.
+
+ISABEL 2	Mais... il faut que tu viennes avec nous. (jjhhh) (oh)
+
+VICTORIA	(mffhh) Ce n’est pas sa tête qui lui fait mal, mais plutôt son âme... (mts) Venez.
+
+ADELA	(mhm)
+
+(BOUCLE 6 - 00:04:54:21)
+		06
+
+PERE OCTAVIO	Seigneur, donne-lui le repos éternel...
+
+TOUS	Et que pour elle brille à jamais la lumière.
+
+FELIPE	Général...
+
+ANGELA	(h/) (h\) Une femme bonne s’en va... et nos larmes l’accompagnent. Et même si la tristesse ne nous abandonnera jamais, notre espoir est que la mise en terre de Donia Catalina sera accompagnée de nouvelles naissances.
+
+(BOUCLE 7 - 00:05:43:02)
+		07
+
+MANUELA	(chante) Alala alalalalua, l’enfant dort déjà, avec son beau sourire, alala, alalalalua, l’enfant dort déjà, avec son beau sourire... alala alalalalua, (h)
+
+Angela, Gabriel, Jesus	(chantent) Alala alalalalua l’enfant dort déjà, avec son beau sourire, alala, alalalalua, l’enfant dort déjà, avec son beau sourire... alala alalalalua, l’enfant dort déjà, avec son beau sourire,
+
+MANUELA	(h) l’enfant dort déjà, avec son beau sourire, alala alalalalua, l’enfant dort déjà, avec son beau sourire, alala, alalalalua.
+
+Angela, Gabriel, Jesus	alala alalalalua.
+
+(BOUCLE 8 - 00:06:50:10)
+		08
+
+NICOLAS	(HH\)
+
+HILARIA	Merci. (mhhm)
+
+NICOLAS	Hilaria !
+
+HILARIA	Oui, maitre ?
+
+NICOLAS	Viens là !
+
+HILARIA	(hh) (hh) (hh) (hh) (hh) (hh) (hh) Oui, maitre. (h h h h) (hh) (hh)
+
+NICOLAS	(mts) (h) Je vais te donner une dernière chance. Si tu me racontes ce que tu as vu et entendu à la fête l’autre soir. (hh) (mts) tu rentreras avec moi à l’Éden.
+
+HILARIA	Je ne sais rien d’autre, maitre.
+
+NICOLAS	(mh) (mhm) Alors la vie de ces noirs stupides vaut plus que celle de tes propres enfants ? (hh) (hh) (hhh) (hh) (hh) (hh)
+
+HILARIA	Nous sommes tous noirs, comme ceux que vous voulez que je dénonce, et je vous ai déjà dit tout ce que je savais.
+
+NICOLAS	(mrrhh)
+
+HILARIA	(hh) (hh)
+
+NICOLAS	(hhh)
+
+(BOUCLE 9 - 00:07:50:01)
+		09
+
+NICOLAS	(huuhh)
+
+HILARIA	(réac__)
+
+NICOLAS	Écoute-moi bien, si j’appuie un peu plus fort, tu resteras ici.
+
+HILARIA	(respi fort: étouffe___________) (respi fort_________)
+
+NICOLAS	(mmhhh) (mhh/) (mhh/) (hhumm) (mmhhmm)
+
+HILARIA	(hh) Maitre. (respi fort__)
+
+NICOLAS	(mhuhhm)
+
+HILARIA	(étouffe___) Maitre... (hh)
+
+NICOLAS	(mmh)
+
+HILARIA	(mt mt hh/)
+
+NICOLAS	(mmhh)
+
+HILARIA	Si vous me tuez, c’est ce qui pourrait m’arriver de mieux. (respis forts_______) (respis forts_______________)
+
+NICOLAS	(hhh)
+
+HILARIA	(hh\) (HH/) (bbrhhh) (HH/)
+
+NICOLAS	Fini de boire ! Esclaves, aux charrettes ! Apportez-moi mon cheval !
+
+HILARIA	(HH\) (HH/) (HH\) (HH/)
+
+NICOLAS	(mmrhh)
+
+HILARIA	(tousse___)
+
+JULIAN	Apporte le cheval au patron, allez, plus vite !
+
+HILARIA	(hh/) (hh\) (hh) (hh)
+
+NICOLAS	(tst tst) Allez, avancez !
+
+(BOUCLE 10 - 00:08:41:07)
+		10
+
+VICTORIA	(hh) Je dois les sortir d’ici sans tarder. Avant que ce qui s’est passé avec Hilaria se répète. Tu te rends compte si Nicolas avait vendu Miguel, mon papa ou Milagro ? (hh) (hh) (hh) (mhh)
+
+MILAGRO	Le repas est prêt.
+
+VICTORIA	(hh) (h) Moi je n’ai pas faim, vous, allez-y. (mh)
+
+MILAGRO	La jeune Isabel et Donia Adela ne veulent pas non plus manger.
+
+REMEDIOS	Toute cette tristesse nous a tous coupé l’appétit, même moi.
+
+MILAGRO	Pareil pour les esclaves.
+
+VICTORIA	(mh) (mts) (h/) Laissez-moi seule, s’il vous plaît, je voudrais me reposer. (mh/) (mts)
+
+REMEDIOS	Bien sûr. (heh)
+
+(BOUCLE 11 - 00:09:38:02)
+		11
+
+REMEDIOS	(h/) (h\) (h/) (h\) (h/) (h\) (h/) (h/) Trinidad, ne cours pas, avec ces béquilles je ne peux pas te rattraper. Pourquoi tu dis que je ne suis pas une dame de compagnie ? (respi_____) (h/ h\ h/ h\ h/ h\ h/)
+
+TRINIDAD	Miguel m’a tout raconté, je sais que la marquise n’est pas une vraie marquise. (h)
+
+REMEDIOS	Et qu’est-ce qui te chagrine ? Que je ne te l’aie pas dit avant ?
+
+TRINIDAD	Vous auriez pu me faire confiance quand je m’occupais de vous, non ?
+
+(BOUCLE 12 - 00:10:22:02)
+		12
+
+REMEDIOS	J’aurais dû comme ça te raconter quelque chose qui devait demeurer secret ? Il s’agit de la vie de Lucia, Trinidad... Non, je suis loyale envers mon amie et avec personne d’autre. Ne viens plus me chercher, c’est très clair qu’il est impossible de te faire confiance, et sans elle, pas d’amitié, alors ce n’est pas la peine. (h) (h) (h/) (h\) (h/) (h\) (h/)
+
+TRINIDAD	(h/) (h\)
+
+(BOUCLE 13 - 00:11:06:22)
+		13
+
+NICOLAS	Qu’est-ce que vous regardez ? Je vous ai dit qu’ils étaient sains et en bonne santé !
+
+HOMME	Mais certains sont un peu vieux.
+
+NICOLAS	(hah) (h) Celle-là, elle a 50 et quelque, mais c’est la plus vieille du lot.
+
+HOMME	On voit qu’elle n’a pas dû porter beaucoup.
+
+NICOLAS	(h) C’est une esclave domestique, mais elle peut faire des travaux de force. (hh)
+
+HOMME	Elle pourrait m’être utile pour certaines choses. Je l’emmène aux mines... Allons-y !
+
+HOMME 2	Allez, avancez !
+
+HOMME	Avancez ! Avancez !
+
+NICOLAS	Attendez un peu !
+
+(BOUCLE 14 - 00:11:57:08)
+		14
+
+NICOLAS	Tout compte fait... elle ne tiendrait pas le coup là-bas. Ce serait une mauvaise affaire pour vous et on aurait des problèmes.
+
+HOMME	(hmm)
+
+HILARIA	(h) Non maitre, je peux le faire, je suis forte, je peux faire des travaux de force. Maitre, je suis capable de travailler à la mine. Maitre, Maitre ! Maitre, s’il vous plaît, (hh) (hhh) (hhhh) (hhh) (hh)
+
+NICOLAS	Lâche-moi.
+
+HILARIA	Maître, s’il vous plaît, s’il vous plaît, maitre, maitre !
+
+NICOLAS	(h)
+
+HILARIA	(pleure) (hh)
+
+NICOLAS	Où est-ce que  je pourrais la vendre ? Je vous échange cette esclave contre tout ce lot, si vous me dites où est-ce que je pourrais la vendre, quelque part bien loin des mines.
+
+HOMME	(h/) Dans cette direction, ils achètent des esclaves pour les emmener aux forêts du sud.
+
+HILARIA	(oh) Maître.
+
+NICOLAS	Qui sont les acheteurs ?
+
+HOMME	Dans le prochain village, demandez Don Henríquez.
+
+HILARIA	(h) Maître.
+
+NICOLAS	Merci.
+
+HILARIA	Maitre...
+
+NICOLAS	Julian, allons-y.
+
+HOMME	Allez, dépêchons.
+
+HOMME 2	Allons-y.
+
+JULIAN	À vos ordres, patron... Viens, Hilaria, on y va.
+
+HILARIA	(h/) (h/) (mhhuhm)
+
+(BOUCLE 15 - 00:12:52:24)
+		15
+
+REMEDIOS	(hh) (hh) Je sais que tu avais dit que tu voulais être seule... Victoria... (h/) (h) (h/) (h\) (h/) (h\) (h/) (h\) (h/) (h\) (h/) (h\) (h/) (h\) (h/) (h\) (h/) (h/) (h\)
+
+(BOUCLE 16 - 00:13:16:10)
+		16
+
+VICTORIA	(respis_____) (mh) (hh) (hh) (hh) (respi_) (hhh) (hh) (hhh) (hh) (hh) (hh) (respis_____) (hhh) (hh) (x) (x) (hhh) Oroujimi... Maman Lorenza, guide-moi s’il te plaît. Que je trouve la sortie... s’il y en a une... et que tout ça serve à quelque chose. (hh) (hh/) (mh) (hh) (hh/) (hh) (h\) (H/) (hh/) (h\) (hhh/) (hh\) (hhh) (hhh) (réac surprise____) (cri________)
+
+(BOUCLE 17 - 00:14:19:16)
+		17
+
+MILAGRO	Elle n’est nulle part. Je l’ai cherchée partout dans la maison, mais elle est absolument introuvable. Vous ne connaissez aucun endroit dont elle vous aurait parlé, qui pourrait nous aider ?
+
+REMEDIOS	(h/)
+
+MILAGRO	(hhh)
+
+REMEDIOS	(h) (h\) (mm) (mts) (mhum) J’ai repensé à toutes les conversations qu’on a eues, mais elle n’a absolument rien dit, elle ne me dit plus rien.
+
+MILAGRO	(h) (h/) (h\) (h/) (h\)
+
+REMEDIOS	(hh)
+
+MILAGRO	(mts) (hh) On fait quoi ?
+
+REMEDIOS	Donia Adela est en train de dormir ?
+
+MILAGRO	(hh) Elle ne s'est pas encore levée, elle ne supporte pas le départ d’Hilaria.
+
+REMEDIOS	(h/) (h) Ah, que Dieu me pardonne mais que ça ne change pas. Je ne veux même pas savoir ce qui se passera quand elle découvrira que sa très chère belle-fille est totalement introuvable. (h)
+
+MILAGRO	(h\)
+
+REMEDIOS	(h)
+
+MILAGRO	(h/) Il faut vraiment qu’on la trouve avant. Profitons que maitre Nicolas n’est pas là, pour la chercher partout. (h/) (h)
+
+REMEDIOS	Pars devant, Milagro, toi qui es plus agile que moi, et dis à Siervo que si Isabel ou Adela posent la question, ben, qu’il dise que la marquise est partie se promener. (h/) (h) (h) (h/) (h\) (h/) (h\) (h/) (h/) (h\) (h/) (h\)
+
+(BOUCLE 18 - 00:15:07:11)
+		18
+
+JULIAN	Patron... je vois de l’ombre un peu plus loin, on pourrait s’arrêter pour se reposer et boire quelque chose, non ?
+
+NICOLAS	(oooh) Certainement pas, on ne peut pas s’éterniser ici, je veux vendre cette esclave et retourner à l’Éden le plus vite possible... Marche, espèce de fainéante ! (tst tst tst) (ooohh) (x x x) (tst tst tst) (x) (x) (yahh)
+
+(BOUCLE 19 - 00:15:47:13)
+		19
+
+BUMBA	Tu es bien silencieuse ce matin. À quoi tu penses, ma chérie ? (h/)
+
+EUGENIA	(h/) Je n’arrive pas à dormir à force de penser à comment trouver l’argent pour investir dans l’affaire avec Alonzo. Lui, il m’attend. (h/)
+
+BUMBA	Mais tu avais un plan avec la marquise Qu’est-ce qui s’est passé ?
+
+EUGENIA	(h/) (mts) Je n’ai pas pu le mener à bien, comme dans cette ville de sauvages, ils se sont mis à tuer des femmes sans défense... (h/)
+
+BUMBA	(mts) (hh/) L’enterrement de Mademoiselle Restrepo est passé.
+
+EUGENIA	(mts)
+
+(BOUCLE 20 - 00:16:20:10)
+		20
+
+EUGENIA	Laisse-nous seules. Alors, l’heure est venue d’aller rendre visite à la marquise. Avec ce que j’ai à lui proposer, je me venge de Nicolas et je récupère l’argent pour investir dans mon affaire. (h) (hh)
+
+BUMBA	Ce que tu as à lui proposer ? Je pensais que tu allais l’obliger, il ne faudrait pas qu’elle décide tout d’un coup de refuser. (h)
+
+EUGENIA	Obliger est un très vilain mot, ma chérie. En réalité, je lui offrirai quelque chose à laquelle il lui sera impossible de me dire non, c’est plus joli comme ça, tu ne trouves pas ? (ffhh) (hh) (hh/)
+
+BUMBA	(ffhh) (petit rire__)
+
+(BOUCLE 21 - 00:17:02:08)
+		21
+
+HOMME CHAPEAU	"Vous comprenez c'est très important qu'il accepte..."
+
+AMBIANCE	(brouhaha:" oui il fait très chaud déjà; combien ça coûte ?"_______)
+
+MANUELA	(chante) Comme tes yeux sont jolis aux premières lueurs du jour... Ah, ah Jésus, ça c’est pour le docteur Tarazona. Toi, c’est là-bas.
+
+GABRIEL	(mâche) (mâche___) (mâche___)
+
+MANUELA	(chante) Rentre vite mon cœur, j’ai besoin de toi...
+
+JESUS	(rrh)
+
+GABRIEL	(hhh) Bonjour. (mâche__)
+
+JESUS	(h) C’est de ta faute si on nous rationne la nourriture, regarde...
+
+MANUELA	Rentre vite... (hhh) Bien le bonjour, docteur.
+
+GABRIEL	(hh)
+
+TARAZONA	Ah, bonjour mademoiselle.
+
+MANUELA	(h)
+
+TARAZONA	(hh)
+
+MANUELA	Bienvenue.
+
+TARAZONA	(hh) (fhh) (heehh) (hh)
+
+JESUS	(mâche_____)
+
+GABRIEL	(mâche_____)
+
+TARAZONA	Merci beaucoup, Mademoiselle Pimentel.
+
+MANUELA	Pour vous, Manuela, docteur.
+
+TARAZONA	Ben... (hh) Merci beaucoup encore, mais c’est beaucoup trop, je ne pense pas pouvoir manger tout ça. (hh)
+
+GABRIEL	(mrhh) (mâche__________)
+
+MANUELA	(hahh) Mais en tant que docteur, vous savez que c’est nécessaire de bien manger pour avoir de l’énergie. Bon appétit.
+
+TARAZONA	(mhm) (mhm/) (mffhh) (mhkk)
+
+GABRIEL	(mâche____)
+
+TARAZONA	Merci.
+
+(BOUCLE 22 - 00:17:47:21)
+		22
+
+JESUS	Tu lui as déjà parlé ? Tu lui as dit que tu ne voulais rien ? Rappelle-toi que par les trous du silence se faufilent les illusions. (mâche___)
+
+TARAZONA	(h\) (mhm)
+
+JESUS	(mâche____) (mts)
+
+TARAZONA	(bhh\) (mrrhm) (mâche________________)
+
+GABRIEL	(hmmhmm)
+
+MANUELA	(chante)
+
+GABRIEL	(mts) (hh/)
+
+MANUELA	(hum hum hum hum)
+
+GABRIEL	Il faut que je finisse de m’habiller, je vais être en retard au travail.
+
+JESUS	C’est ça, continue à esquiver le problème. (mhm)(mts) (h) (mâche__)
+
+GABRIEL	(hh) Tu sais très bien ce à quoi on s’est engagé hier soir, hmm ?
+
+JESUS	(mâche__________________)
+
+TARAZONA	(mâche_____________________)
+
+JESUS	(mts)(mâche_________________________________) Manuela ! (mâche____)
+
+MANUELA	(hum ?)
+
+JESUS	Viens, s’il te plaît. (mâche____)
+
+MANUELA	Qu’est-ce qui se passe ?
+
+JESUS	Arrête avec ton petit jeu de jalousie avec le docteur, ça suffit.
+
+MANUELA	Aucune idée de quoi tu parles.
+
+JESUS	(mâche___) (h) C’est incroyable comme l’amour... rend bête les personnes les plus... avisées. Bon appétit, docteur.
+
+TARAZONA	Merci.
+
+(BOUCLE 23 - 00:18:32:19)
+		23
+
+MANUELA	Mon frère m’a raconté votre plan pour aider Miguel et les esclaves.
+
+GABRIEL	(mhh\) (mh/) Il aurait dû se taire.
+
+MANUELA	Et pourquoi ? Tu crois qu’on ne peut pas me faire confiance ?
+
+GABRIEL	(hh/) Je sais qu’on peut, mais s’engager, ce n’est pas seulement savoir les choses et ne rien dire, tu sais ? C’est participer, risquer sa vie s’il le faut. (h/) (hm) (mhm)
+
+MANUELA	Viens. Arrête de te méfier, je veux juste vous aider.
+
+GABRIEL	(mffhh) Ça y est ! Soudain tu fais partie de la cause ? (mts)(hh)
+
+MANUELA	Oui.
+
+GABRIEL	(mmm) Je ne t’ai pas vue à la réunion d’hier soir.
+
+(BOUCLE 24 - 00:19:28:13)
+		24
+
+MANUELA	Hier je vous ai regardé de loin et j’ai réfléchi. Mon frère et toi, vous avez raison, il faut les aider même si c’est dangereux. (h)
+
+GABRIEL	(hh/) Tu es sérieuse ?
+
+MANUELA	(h) Oui. Mais je veux qu’on arrête de se disputer. (baiser____________________)
+
+GABRIEL	(baiser____________) (baiser___________)
+
+MANUELA	(baiser______)
+
+(BOUCLE 25 - 00:20:07:22)
+		25
+
+ISABEL 2	Grand-mère, je t’ai apporté de la nourriture, tu ne vas rien manger ? Regarde, Siervo t’a préparé les mêmes galettes de maïs que faisait Hilaria, et je te jure que c’est exactement les mêmes... Grand-mère ! Elle est peut-être morte ? (h) (hh) (h)
+
+SIERVO	Voyons, Mademoiselle, ne dites pas ça, non. Elle doit dormir. (h)
+
+ISABEL 2	Ah... Bon, dans ce cas, ça veut dire que moi, je vais devoir recevoir seule mon professeur de musique. Bon, bah, c’est la vie. Siervo, apporte ça en bas, pendant que je me prépare. (h/) (mh) (h/mm) (h/) (hh)
+
+SIERVO	À vos ordres, maitresse.
+
+ISABEL 2	(humhum)
+
+SIERVO	(mts)
+
+(BOUCLE 26 - 00:21:29:24)
+		26
+
+REMEDIOS	Lucia ! (hh\) (hh/)
+
+MILAGRO	Marquise ! Marquise !
+
+REMEDIOS	(hahh) Lucia ! (hh/) (hh) (hh) (hh/) (hh) Ah, Victoria, je t’en prie, pour l’amour de Dieu, où est-ce que tu es, ma chérie ?
+
+MILAGRO	(respis___) Voyons, Remedios, qu’est-ce que vous faites ? On ne peut pas l’appeler comme ça. C'est de la folie !
+
+REMEDIOS	(respi___)
+
+MILAGRO	(hh)
+
+REMEDIOS	(hahh) (hh) Oui, Milagro, je deviens folle de désespoir et je ne sais plus quoi faire ! Lucia ! (respis___) (hahh) (respis___) (respis___)
+
+THOMAS	Elle n’est absolument nulle part... J’ai regardé au bord de la rivière et je ne l’ai pas trouvée... dans aucun des endroits où elle va d’habitude. (hh/) (hh\ hh/) (hh) (hh\) (hh/) (hh\)
+
+MILAGRO	Elle est peut-être allée chercher Miguel?
+
+THOMAS	(hh/) (hh/) Je ne l’ai pas vue dans les plantations, j’y suis passé et j’ai vu Miguel qui travaillait avec les autres. (hh) (respis__)
+
+MILAGRO	Et alors, qu’est-ce qu’on fait ?
+
+REMEDIOS	(h/) (h) Moi, j’ai bien une idée, mais j’ai vraiment très peur d’avoir raison. (h/) (h/)
+
+THOMAS	(h/) (h\)
+
+REMEDIOS	(h\) (h/)
+
+(BOUCLE 27 - 00:22:33:17)
+		27
+
+VICTORIA	(respis__) (respi__) (hh/) (hh hh hh) (réac douleur_) (hh/__) (hhhh) (hhh) (hhh) (réac peur___) (hhhhh) (réac affolée_______) Aidez-moi ! S’il vous plaît, venez m’aider ! Aidez-moi, ah ! Aaaiiidez-moi, ah ! (respis___) (respis fortes_____) (respi__) (respis fortes affolée____________) (réac effort__) (hhhhh) (réac effort__) (hhhhh) (réac effort__) (respis saccadées___) (tousse__) (hh/) (tousse___) (hh/) (hhh) (hahh) (hhh) (réac effort_) (réac effort__) (huhhm) (haahh)
+
+(BOUCLE 28 - 00:23:33:16)
+		28
+
+MILAGRO	Ce n’est pas possible qu’elle soit rentrée là-dedans.
+
+REMEDIOS	Ah, tu sais, Victoria en est capable. (hh)
+
+THOMAS	(hh) Et pourquoi est-ce qu’elle n’est pas sortie ? Il faut explorer toutes les possibilités. Je vais descendre. (hh) (hh\) (hh) (hh)
+
+MILAGRO	(hh) Attends papa, tu n’as pas assez de forces pour descendre et encore moins pour remonter. Ce n’est pas si facile, même avec une corde.
+
+THOMAS	Milagro, s’il te plait ! J’ai encore des forces. En plus, il faut sortir Victoria du tunnel avant que les contremaitres reviennent ou que le maitre se mette à nous chercher. Aidez-moi. (h) (mh) (mh) (h) (hh) (h/) (h)
+
+REMEDIOS	(hh)
+
+THOMAS	(hh) (hh)
+
+REMEDIOS	Fais très attention, s’il te plait. Sainte mère de Dieu... (hh) Que Dieu tout-puissant te protège. (h/)
+
+MILAGRO	(réac effort)
+
+(BOUCLE 29 - 00:24:20:23)
+		29
+
+ALONSO	Les esclaves de Granados se sont rebellés et ont fui ?
+
+GENERAL	C’est ce qu’il a dit, mais d’abord, ils ont saccagé sa maison.
+
+ALONSO	Et si tu n’y étais pas allé, il n’aurait rien dit ?
+
+GENERAL	(mt) (h) Eh, oui, c’est étrange, Francisco n’a pas voulu donner des détails. Tout ce qu’il a dit, c’est qu’il ne voulait plus jamais  entendre parler d'esclaves. (h) (hh)
+
+ALONSO	(humk) Ça c’est vraiment étonnant.
+
+GENERAL	(hh) Il avait un comportement vraiment très étrange, c'est comme si... son corps le faisait souffrir. (hh) (hm)
+
+ALONSO	Vraiment, papa, je trouve que ça fait beaucoup ... Ana le quitte, l’hacienda est dans un état surprenant, Granados cache quelque chose. (hhh) (h/)
+
+GENERAL	(mts) (h) Et ce n’est pas tout. Garcia, le soldat que j’ai envoyé pour qu’il m’assiste chez Caicedo n’était pas présent aujourd'hui à l’appel. (h) (h/)
+
+ALONSO	(hum)
+
+GENERAL	(hh)
+
+(BOUCLE 30 - 00:25:07:13)
+		30
+
+ALONSO	(mts) Tu crois que c'est lié à ce qui se passe là-bas ?
+
+GENERAL	C'est fort possible.
+
+ALONSO	(h\) Papa, tout ça est très louche. Granados sait plus que ce qu'il en dit. (h/)
+
+GENERAL	(h/) Mais, je ne vois vraiment pas comment assembler toutes ces pièces. C’est un vrai casse-tête. Le pire c’est que je ne sais pas comment faire parler Francisco, et s’il y a quelqu'un (h) (hh) (h) (mts) (hh) qui sait ce qui s'est passé hier soir dans cette hacienda, c’est son épouse, Ana.
+
+ALONSO	(mts)
+
+(BOUCLE 31 - 00:25:37:19)
+		31
+
+MILAGRO	(hhh)
+
+THOMAS	(respis___________)
+
+MILAGRO	Je te tiens.  Aide-toi de tes jambes, papa ! (hhh) (hh)
+
+THOMAS	C'est ce que je fais, bon sang !
+
+MILAGRO	(hhh)
+
+REMEDIOS	(huh/)
+
+THOMAS	(respis____)
+
+REMEDIOS	Encore un petit effort, Thomas. Allez, tu y es presque.
+
+MILAGRO	(hhhh______)
+
+THOMAS	(réac effort____) (respi__)
+
+REMEDIOS	(hhh)
+
+THOMAS	(réac effort__)
+
+REMEDIOS	(hh)
+
+THOMAS	(hahh)
+
+REMEDIOS	(hhhh)
+
+THOMAS	(réac effort___)
+
+MILAGRO	(hhhh___)
+
+THOMAS	(respi__) Voilà. Les nouvelles ne sont pas bonnes. Le tunnel est... très, très profond et je n'ai pas pu continuer sans lumière. Je n’ai pas pu voir au-delà de quelques mètres. (hh) (hh/) (hh\) (hh/) (hh) (hh\) (hh) (hh\) (hh/)
+
+REMEDIOS	(h/) (h\)
+
+THOMAS	(h/) (h/)
+
+REMEDIOS	(h\)
+
+THOMAS	(h\)
+
+REMEDIOS	(h/) (h\) (h/ h\)
+
+THOMAS	(hh)
+
+REMEDIOS	(h/) (h\) (h/) (h\)
+
+THOMAS	(hh)
+
+REMEDIOS	(h/)
+
+MILAGRO	(hhh) (hh/)
+
+REMEDIOS	(h\)
+
+MILAGRO	Et tu n'as rien entendu ?
+
+THOMAS	(hh)
+
+REMEDIOS	(h/)
+
+THOMAS	Non. Si ça se trouve elle n'est même pas là-bas. (hh/) (h\) (h/) (h\) (h/) (h\)
+
+REMEDIOS	(hh) (h/)
+
+THOMAS	(h/)
+
+REMEDIOS	Mon Dieu, Victoria. (h)
+
+THOMAS	(h/) (h\)
+
+(BOUCLE 32 - 00:26:21:13)
+		32
+
+FEMME	Chaussons, achetez un chausson au manioc. Chaussons, chaussons au manioc, achetez un chausson au manioc.
+
+ASSISTANT 	J’en veux un.
+
+FEMME	Chaussons au manioc.
+
+TRINIDAD	Je peux en acheter. J’ai de quoi.
+
+FEMME	Chaussons, chaussons au manioc.
+
+ASSISTANT 	Bien, bien, tu peux.
+
+TRINIDAD	Oui, merci. Alors ? Qu’est-ce qu’ils disent dans l’autre hacienda ?
+
+FEMME	Rien, le patron ne m'a encore rien dit du tout.
+
+TRINIDAD	Non ?
+
+FEMME	Non. Chaussons, chaussons au manioc... Achetez votre chausson au manioc.
+
+TRINIDAD	J'ai des nouvelles des autres haciendas, mais apparemment il n'y a rien, pas de tunnel, aucune fosse dans les autres haciendas. (mts) (h/)
+
+NOEMI	Ça veut dire qu'il n’y en a qu’un ici, alors ?
+
+MIGUEL	C’est pour ça qu'il faut qu’on en prenne soin comme s’il s’agissait de notre vie. Parce que c'est le seul moyen que nous avons pour nous échapper. Nous devons être prudents pour nous approcher de l'endroit.
+
+TRINIDAD	(hein ?)
+
+MIGUEL	(h/)
+
+NOEMI	Tu nous diras quand commencer à nous faire punir.
+
+(BOUCLE 33 - 00:27:18:11)
+		33
+
+MIGUEL	Nous devons attendre que Nicolas revienne. C'est lui qui peut ordonner ces punitions si dures. Quoi ? Vous allez abandonner ? Je sais que c'est dur dans cette fosse, mais nous devons...
+
+NOEMI	Ce n'est pas ça, Miguel.
+
+MIGUEL	Alors quoi ? Pourquoi ces têtes ?
+
+CANDELA	Tu entends ce que tu dis ? Tu viens d'appeler le maitre par son nom.
+
+MIGUEL	On devrait tous faire la même chose.
+
+CANDELA	Ah oui, pour qu’ils nous envoient tous à la fosse ou pire encore qu'il nous envoient dans nos tombes ?
+
+MIGUEL	Je n'ai plus peur de le regarder dans les yeux et de lui parler d'égal à égal.
+
+CANDELA	(mts) Contente pour toi, Miguel. Mais la prudence c’est se taire et toi-même tu nous as dit de faire spécialement attention pour que les maitres ne découvrent pas le tunnel.
+
+NOEMI	(mts) (hh)
+
+CANDELA	(h/)
+
+TRINIDAD	(h) Candela a raison, Miguel. Fais attention à ne pas dire un mot de travers devant le maitre, parce qu’il finira par te tuer. (h/)
+
+ASSISTANT 	Au travail, au travail.
+
+(BOUCLE 34 - 00:28:18:03)
+		34
+
+HILARIA	(respis avec difficulté_______________)
+
+JULIAN	Patron, arrêtez-vous un peu ! Hilaria ! Hilaria ! Réveille-toi, enfin... Patron, elle ne réagit pas, je crois qu'elle est trop fatiguée... Vous allez perdre cette vente, patron. Hilaria ! (respi_____)
+
+NICOLAS	(hh) Hilaria, lève-toi, enfin... arrête de faire semblant, je n'ai pas la journée ! (h/)
+
+JULIAN	Hilaria, réveille-toi, allez... Elle ne réagit pas, patron. (hhh)
+
+NICOLAS	(mhm) (mhhuhmm)
+
+HILARIA	(hhh) (hhh)
+
+NICOLAS	Tu vois ça ? Elle n'est pas morte, alors la vente n'est pas encore perdue... Allez, on y va ! Et mets-la sur le bord pour que si quelqu’un passe, il ne l’abîme pas !
+
+HILARIA	(hh/) (h\)
+
+NICOLAS	(h)
+
+(BOUCLE 35 - 00:29:08:21)
+		35
+
+JULIAN	Ne rends pas ça plus difficile, allez, tu dois m'aider. Allez, lève-toi, tu peux le faire, Hilaria, allez, vas-y, courage, allez, aide-moi, (h) (h)
+
+HILARIA	(réac____)
+
+JULIAN	(réac___)
+
+HILARIA	(respis___________)
+
+JULIAN	(réac__) (hh) aide-moi, allez, réveille-toi. (h) (réac effort__) Aide-moi, courage, allez, courage...
+
+HILARIA	(respis fortes__________________
+
+JULIAN	(hhh) (hhhh) (hhh) Allez, courage... (respis____) Allez. (respi__) On y est presque, tu sais, ça ira, tu verras, fais un effort, allez, allez. (hhhh) (réac effort_________)
+
+(BOUCLE 36 - 00:29:42:22)
+		36
+
+GABRIEL	(hhh) (hhh) Siervo, comment ça va ?
+
+SIERVO	Je vais bien, Don Gabriel, je vais bien, mais vous, vous devriez vraiment vous procurer un cheval. Marcher sous un tel soleil va vous tuer, votre peau n'est pas faite pour supporter toute cette chaleur.
+
+GABRIEL	(petit rire___) (h) Et encore, des gens en charrette m'ont permis de marcher un peu moins.
+
+SIERVO	Entrez, entrez au salon... Je vais prévenir mademoiselle Isabel.
+
+GABRIEL	Merci.
+
+ISABEL 2	(h/) Bien le bonjour. Gabriel, je suis vraiment contente de te voir. Entre, tu es ici chez toi. Aujourd’hui, on va bavarder un peu avant de commencer le cours, tu veux bien ? (h)
+
+GABRIEL	(mm) (mfh)
+
+ISABEL 2	(mh)
+
+GABRIEL	(x)
+
+ISABEL 2	(h/) (h/)
+
+SIERVO	(mhr)
+
+(BOUCLE 37 - 00:30:46:05)
+		37
+
+AMBIANCE	(brouhaha indistinct___)
+
+JESUS	Alors, dès que les musiciens seront là, on commencera à répéter. Ça va ?
+
+HOMME COUPLE	Bonjour.
+
+MANUELA	Bonjour. On ne peut pas commencer si on n’est pas tous là !
+
+JESUS	On n'a pas le choix, Gabriel ne pouvait pas manquer le cours d'aujourd'hui, tu le sais.
+
+AMBIANCE	(fin)
+
+MANUELA	(mh) (mts) Ah oui. Pour aider la cause, il faut qu'il embobine cette idiote d'Isabel Parrenio. (h/) Vous auriez pu avoir une meilleure idée!
+
+JESUS	(h/) Tu sais, j'ai repensé à ce que je t'ai dit, et je crois que je me suis trompé. Tu devrais t'intéresser un peu plus au docteur Tarazona et un peu moins à Gabriel.
+
+MANUELA	Qu'est-ce que tu racontes ?
+
+JESUS	(h/) Je t'ai vue très intéressée par le docteur Tarazona. Je trouve ça bien, c'est un docteur respectable, célibataire, vraiment galant et apparemment disponible. Pas comme Gabriel qui n'a pas l'air convaincu de vouloir être avec toi.
+
+MANUELA	Qu'est-ce que tu en sais ? Bientôt tu vas le voir bien convaincu, et tu vas arrêter de parler. (h)
+
+JESUS	(h) C’est parce que tu l’aimes que tu le dis, ou parce que tu ne veux pas perdre ?
+
+MANUELA	(mmh) Bon sang, pourquoi est-ce qu'ils n'arrivent pas ?
+
+(BOUCLE 38 - 00:31:50:05)
+		38
+
+GABRIEL	Comment ça va ?
+
+ISABEL 2	(h/) Merveilleusement bien, comme tu peux le constater.
+
+GABRIEL	(h) Je crois qu'il vaut mieux qu’on appelle la marquise ou donia Adela.
+
+SIERVO	Non.
+
+ISABEL 2	Non.
+
+SIERVO	(euh...) Donia Adela est indisposée, il vaut mieux ne pas la déranger.
+
+ISABEL 2	(h/) Exact ! Laissons-la se reposer. Elle ne se sent pas très bien, et elle n'est pas sortie de sa chambre. Il semble qu’elle a passé une très mauvaise nuit. On a vendu son esclave préférée et elle en souffre beaucoup. Et la marquise... (mhm)
+
+GABRIEL	(mt)
+
+ISABEL 2	(h) (h/) (h/) (euh...)
+
+SIERVO	Elle est sortie se promener, ça risque de prendre un peu de temps.
+
+ISABEL 2	(hm) Tant mieux... bon, je veux dire, comme la pauvre, elle passe tout son temps enfermée ici, c’est bien qu'elle sorte et qu'elle prenne un peu l'air.
+
+GABRIEL	(mh)
+
+(BOUCLE 39 - 00:32:29:24)
+		39
+
+GABRIEL	Alors il vaut mieux que je revienne quand elles seront présentes.
+
+ISABEL 2	Non Gabriel, je suis une femme suffisamment grande et mature, et je peux m'occuper de mes invités sans être accompagnée. Siervo, tu nous apportes à boire et à manger ? S'il te plait. (h) (mhh)
+
+SIERVO	Comme vous voudrez, mademoiselle. Permettez ?
+
+ISABEL 2	(hm)
+
+GABRIEL	(h) (hmm)
+
+ISABEL 2	(hm)
+
+GABRIEL	(tst)
+
+ISABEL 2	(hm) Est-ce que tu as remarqué le changement ? Avant je ne disais pas s'il te plait aux esclaves, je croyais que c'était mon droit qu'ils me servent. Mais depuis que j'ai parlé avec toi, et la prise de conscience que j’ai eue avec mon frère noir, je me suis rendu compte qu’eux aussi sont des êtres humains. Incroyable, non ?... Oui. (h) (h) (hh) (h) (mt) (h/) (h\)
+
+(BOUCLE 40 - 00:33:19:24)
+		40
+
+MIGUEL	C'est bizarre que la marquise ne soit pas encore là.
+
+NOEMI	Au contraire, elle a fait une croix sur ses bonnes intentions. Je te l'ai dit, autant d'égards de la part de cette femme, ce n’était que du vent.
+
+MIGUEL	Quoi ? Tu préfères les femmes qui te malmènent. (h)
+
+NOEMI	(h) Je préfère celles qui montrent réellement ce qu'elles ressentent pour nous, comme donia Adela. Avec elle on sait à quoi s'en tenir, mais avec cette marquise-là, non.
+
+REMEDIOS	Allez, allez, venez boire quelque chose, allez.
+
+MIGUEL	Tu vois, elle est là.
+
+NOEMI	Je ne vois aucune marquise... Je te l'ai dit, Miguel.
+
+REMEDIOS	Vas-y, avance, avance... (h/)
+
+(BOUCLE 41 - 00:34:06:09)
+		41
+
+SIERVO	Excusez-moi.
+
+ISABEL 2	Entre, Siervo.
+
+SIERVO	Voilà.
+
+ISABEL 2	Là. Merci, Siervo. (h)
+
+SIERVO	Je vous laisse.
+
+ISABEL 2	(h) Tu vois ? Je les remercie.
+
+GABRIEL	(mts) (mts) (tst) Oui, merci, s'il vous plait. Tu ne le disais jamais ?
+
+ISABEL 2	(petit rire__) (hmhm)
+
+GABRIEL	(petit rire__)
+
+ISABEL 2	Non, jamais, mais les choses commencent à changer dans cette maison. Même mon père est plus tranquille. Il faut juste que je lui demande de donner une vraie place à Miguel dans l’hacienda, mais on avance petit à petit. (h/) (h)
+
+GABRIEL	Bien sûr, petit à petit. Dis-moi une chose, tu crois que ce changement entre eux (h/) (mh) (mts) (h) lui permettra de t'autoriser à aller me voir jouer à l’auberge ? (euh...) (hh) Peut-être pendant... une fête d’esclaves? (h)
+
+ISABEL 2	(mhm) Tu es en train de m'inviter ?
+
+(BOUCLE 42 - 00:35:00:06)
+		42
+
+GABRIEL	Ben, (hh) je joue là-bas. (petit rire_)
+
+ISABEL 2	(hh) Non, non, non, Gabriel, je ne crois pas. Mon père veille sur moi et il ne me laissera pas aller, de nuit, à l’auberge, à une fête d’esclaves. (h)
+
+GABRIEL	(mts) (HH)
+
+ISABEL 2	(humhum)
+
+GABRIEL	(mhhrhhm)
+
+ISABEL 2	(mhm)
+
+GABRIEL	Et si par exemple, au lieu que toi, tu ailles là-bas, j'apporte la fête jusqu’ici ? (h)
+
+ISABEL 2	Ce serait possible ?
+
+GABRIEL	Bien sûr que c'est possible !
+
+ISABEL 2	Alors, on va faire comme ça ! (rire___)
+
+GABRIEL	(rire___) Tu vas voir.
+
+(BOUCLE 43 - 00:35:38:07)
+		43
+
+ADELA	Isabel, qu'est-ce qui se passe ici ?
+
+ISABEL 2	(h) (mh)
+
+GABRIEL	(rrrh/)
+
+ISABEL 2	(hm)
+
+GABRIEL	Donia... Adela, bonjour.
+
+ISABEL 2	(euh...) Grand-mère...
+
+ADELA	Qu'est-ce que tu as fait ? Tu es complètement peinturlurée ! Cette robe est à toi ?
+
+ISABEL 2	Grand-mère, s'il te plait.
+
+ADELA	Quelle horreur, tu es épouvantable, tu n'as pas de miroir dans ta chambre ?
+
+ISABEL 2	(rhhh) Fiche-moi donc la paix. (h) Arrête de m’empêcher de vivre, parce que c’est ce que tu fais, parce que tu ne comprends rien à rien. (hhrhh)
+
+ADELA	Isabel ! (hh)
+
+ISABEL 2	(huh)
+
+(BOUCLE 44 - 00:36:21:04)
+		44
+
+REMEDIOS	Miguel, il faut que je te parle.
+
+MIGUEL	Qu'y-a-t-il ? Où est Victoria ?
+
+REMEDIOS	Vas-y, avance... En fait, elle a disparu depuis tout à l’heure, on croit qu'elle est retournée dans le tunnel, mais cette fois, elle a dû beaucoup marcher parce que... Avance... Parce que Thomas y est allé et n'a rien vu ni entendu. Passe par là... (h/) (h/) (h/)
+
+MIGUEL	Je descendrai et je la trouverai.
+
+REMEDIOS	C'est pour ça qu'on est venus, Miguel, mais il faut attendre la fin de la pause. Vas-y et fais ce qu’il faudra... Allez, va de ce côté. (h/)
+
+(BOUCLE 45 - 00:36:54:03)
+		45
+
+ADELA	Isabel, s'il te plait... ouvre la porte. Ne fais pas la gamine. Mon Dieu... on ne peut plus rien dire à ces enfants... Tu vas laisser tomber ton professeur ? Et ton cours de musique, alors ? (h/) (h)
+
+GABRIEL	Donia Adela, il vaut mieux la laisser tranquille. Si vous voulez, je reviens demain et nous rattraperons le cours.
+
+ADELA	Non, non, pas demain.
+
+(BOUCLE 46 - 00:37:31:01)
+		46
+
+GABRIEL	Si c'est pour le trajet depuis Santa Marta ne vous en faites pas, ce n'est pas un problème de revenir.
+
+ADELA	Non, ce n'est pas ça, c’est parce que son père n'est pas là et demain je ne sais pas. Attendez que je vous prévienne. (h) (h)
+
+GABRIEL	(hh) Et... et ce serait pour quand alors ?
+
+ADELA	Quand l'homme de la maison sera présent, afin de nous éviter ces spectacles bien embarrassants. Je vous ai dit que je vous préviendrai.
+
+GABRIEL	Bien, madame, je... je m'en vais. Passez une bonne journée. (h)
+
+(BOUCLE 47 - 00:38:06:01)
+		47
+
+NOEMI	Quand ce ne sont pas des sifflets, ce sont des cris, comme si on était des bestiaux.
+
+REMEDIOS	(Hé !) Monsieur le contremaître, approchez-vous, s'il vous plait. Venez, je vous attends. Je prends cet esclave à la maison sur ordre de la marquise.
+
+MILAGRO	Je vous laisse ce qui reste, pour plus tard, c'est l'ordre de la marquise.
+
+REMEDIOS	Enfin, pourquoi vous donner des explications, elle est la propriétaire de tout ceci. Viens esclave, ne me fais pas attendre, on s'en va ! Allez, avance, qu'on nous voie aller à la maison. (h/)
+
+MIGUEL	(hue !) (Hué !)
+
+REMEDIOS	Allons-y.
+
+(BOUCLE 48 - 00:38:52:13)
+		48
+
+ADELA	Je t’en prie, Seigneur, prends soin d’Hilaria dans cette dure épreuve qu’elle a à subir et... Vous ne pouvez pas me laisser deux secondes en paix ? Et maintenant quoi ? je te demande... (mt) (h) (hhh) (mmhhmm) Au nom du Père, du Fils et du Saint Esprit. (x)
+
+SIERVO	Excusez-moi maitresse, vous avez de la visite.
+
+ADELA	(mhh) Je suis désolée, Eugenia, mais je vais être complètement honnête, en ce moment les visites ne sont pas les bienvenues. En plus, Nicolas n'est pas là, il reviendra dans quelques jours. Merci de votre compréhension, nous nous verrons à une autre fois.
+
+EUGENIA	Attendez un instant, chère Adela, je ne venais pas voir Nicolas.
+
+ADELA	(HHH\)
+
+EUGENIA	(h)
+
+ADELA	Alors qui ?
+
+EUGENIA	(h) La marquise.
+
+(BOUCLE 49 - 00:39:37:01)
+		49
+
+ADELA	Et qu'avez-vous à dire à la marquise ?
+
+EUGENIA	Pourquoi ces manières, Adela ? Mais vous m'obligez à vous répondre sur le même ton. Cela ne vous regarde pas, c'est entre elle et moi. (h/)
+
+ADELA	Siervooo !
+
+EUGENIA	(mh/) (mh\)
+
+SIERVO	(hh) Oui, maitresse. (h)
+
+ADELA	Va chercher la marquise.
+
+SIERVO	(euh) Oui, maitresse.
+
+(BOUCLE 50 - 00:40:03:18)
+		50
+
+REMEDIOS	Prends tout ça, Miguel, et va à la fosse.
+
+MIGUEL	Et la corde ? (h)
+
+MILAGRO	Elle est derrière l'arbre, je t'accompagne.
+
+MIGUEL	Non, non, non, continuez comme si de rien n'était. Donia Adela doit te voir à la maison. Quoi qu'il arrive, couvre les arrières de Victoria, inventez ce que vous voudrez. (hh) (h) (hh) (h)
+
+MILAGRO	Comment on saura que tout va bien ?
+
+MIGUEL	(h) Quand je ramènerai Victoria à la maison. (h) (respi_)
+
+REMEDIOS	(hh) J'espère que Donia Adela est toujours malade et qu'elle ne sortira pas de sa chambre jusqu'au soir. Ah, Milagro. (h\) (h\) (h/) (HH/) (HH\) (h/) (h\) (H/) (H\) (H/) (H\)
+
+(BOUCLE 51 - 00:40:32:12)
+		51
+
+MIGUEL	(respis____________) (respis_____________) (respis___________) (hhh) (huhh) (hhuhh) (hhuhh) (réac effort____) (respis__) (réac effort__) (respis____) (réac effort__) (respis___________) (respis___________) (respis_________)
+
+(BOUCLE 52 - 00:41:55:15)
+		52
+
+Insert	(Générique de fin)

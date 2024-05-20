@@ -1,0 +1,372 @@
+PIG	Aujourd’hui c'est dimanche, si vous avez mis une robe blanche faites attention à la marche en descendant du train, passez une bonne journée et sachez que demain c'est lundi 
+
+SLUMP	Bonjour à tous, j'ai toujours pensé que l'avenir appartenait à ceux qui se levaient tôt le dimanche . Tenez, prenez ce briquet par exemple, je l'ai fait un dimanche matin.  Une de mes premières inventions  Ca remonte à si longtemps que je ne sais plus comment ça marche.  Oui le bouton
+
+BOX	Vous n'avez pas mis vos dix cents réglementaires, vous saviez bien que sans ça je ne peux pas fonctionner 
+
+SLUMP	Bon sang, çà revient cher 
+
+BOX	Je vous remercie, monsieur.  Voilà du feu  Avec tous mes remerciements monsieur.
+
+SLUMP	On a beau dire, je suis quand même un génie 
+
+BOX	Vous ne devriez pas fumer, c'est mauvais pour la santé 
+
+SLUMP	Ce n'est pas parce qu'on est un génie qu'il faut oublier de manger  Je me ferais bien un grand plat de spaghettis  Quelle horreur il n'y en a plus 
+
+BELLY	Bang.
+
+ARALE	Miaou  Miaou 
+
+SLUMP	Arale  Tu ne pourrais aller m'acheter des spaghettis s'il te plaît ?
+
+ARALE	Bien sur, tu viens avec moi "Mange Tout" ?
+
+SLUMP	Je t'en supplie, dépêche toi
+
+ARALE	Compris 
+ARALE	Tu sais toi où on peut en trouver des spaghettis?
+
+ARALE	T'as raison, on va aller demander à Akane 
+
+AKALE	Un endroit ou on trouve des spaghettis ?
+
+AP.ALE	Oui s'il te plaît dis le moi.
+
+AKANE	Je te croyais quand même un petit peu plus futée Mademoiselle
+
+AKANE	Si ça te fais rien, je vais quand même commencer par m'habiller 
+
+ARALE	C'est mignon tout plein  Qu'est ce que c'est ?
+
+AKANE	Ne me dis pas que tu n'en as jamais vu ? C'est un soutien-gorge.
+
+ARALE	oui ? mais à quoi ça sert ? Tu mets ça pour faire joli ?
+
+AKANE	Arrête de te faire passer pour plus bête que tu n'es ! Ca suffit  Arrête de ricaner bêtement toutes les filles de mon âge en portent, figure toi 
+
+ARALE	Ah oui ?
+
+AKANE	Enfin toi, t'es encore trop petite 
+
+ARALE	J'en veux un, j'en veux un, j'en veux un tout de suite 
+
+AKANE	Je croyais que tu voulais acheter des spaghettis ?
+
+ARALE	J'en veux un  J'en veux un  Moi aussi, je suis une grande fille 
+
+ARALE	Bonjour, madame la marchande, je veux un soutien gorge.
+
+OKARU	Je te signale à tout hasard que je vends des cigarettes 
+
+ARALE	J'en veux un, j'en veux un, j'en veux un tout de suite 
+
+MAN	Dites-moi, monsieur, est ce qu'au moins on pourra y retourner un jour sur notre merveilleuse planète ?
+
+DEVIL KING	Ca je n'en ai aucune idée  J'en veux un 
+
+MAN	Mais c'est !
+
+ARALE	J'en veux un, j'en veux un, tout de suite  Salut ! Vous connaissez les soutien gorges ?
+
+DEVIL KING	Comment tu dis ? Je crois que je n'ai encore jamais entendu parler de ça.
+
+MAN	C'est pour ainsi dire, un genre de brassière, monsieur.
+
+DEVIL KING	Chez nous on appelle ça des sous vêtements.  Bien sur, je connais.  Alors comme ça tu voudrais que je te dise à quoi ça ressemble, je n'y vois pas d'inconvénient, mais rends moi un petit service tu nous trouves un engin pour rentrer chez nous le plus vite possible, c'est compris ?
+
+MAN	Ils sont déjà partis monsieur.
+
+SLUMP	Mais qu'est ce qu'elle fabrique, j'aurais mieux fait de demander à quelqu'un d'autre  Pour tromper mon attente, je vais me reprendre une petite cigarette.  Je n'ai plus que cette pièce ça devrait marcher.  Allez dépêche toi 
+
+BOX	Je n'ai pas reçu tout mon du, monsieur, je ne peux rien faire pour vous.
+
+SLUMP	Je commence à le trouver carrément agaçant ce briquet  Je n'ai plus de monnaie  Je te paierai plus tard.
+
+BOX	Désolé monsieur, je ne fais pas crédit.
+
+SLUMP	Bon sang, fais moi au moins une flamme qui @ qui vaut à ce que je t'ai donné
+
+BOX	Bien monsieur.  Voilà monsieur.
+SLUMP	Bien, ma cigarette n'est pas allumée.
+BOX	Je vous en ai donné pour votre argent.
+ARALE	Alors t'es là ?
+MASTER	Comment ça va Arale ?
+
+ARALE	Bonjour.
+
+MASTER	Bonjour mange tout.
+
+MASTER	Ils sont drôlement marrants vos déguisements le chat et la souris hein ? Tenez, la comme ça cette fois vous ôtes parfaite tous les deux,.
+
+ARALE	Merci.  Où est votre fils ?
+
+MASTER	Il est derrière la maison, en train de jouer à des jeux idiots avec son petit copain.
+
+ARALE	J'en veux un, j'en veux un 
+
+MASTER	Un cluoi ?
+
+TARO	Qu'est ce que t'as dit ?
+
+ARALE	Un soutien gorge !
+
+TARO	Alors là, tu t'es trompée d'adresse, mon père fait plutôt dans la coiffure.
+
+PEESUKE	T'es folle ?
+
+ARALE	T'en as pas ?
+
+PEESUKE	Je te signale que je suis un garçon, tu me vois avec un machin pareil ?
+
+ARALE	T'en as toi ?
+
+TARO	Enfin quoi ça va pas non ? T'as qu'à l'emmener au magasin 
+
+PEESUKE	Tu sais très bien que je n'ai pas encore mon permis de conduire !
+
+TARO	Quelle corvée  Voilà c'est là 
+
+ARALE	Superbe décoration 
+
+TARO	Tu pourrais pas crier un peu moins fort 
+
+ARALE	J'en veux un, j'en veux un 
+
+TARO	J'espère que ce ne sera pas trop long.
+
+ARALE	Je voudrais acheter un soutien gorge s'il vous plaît.
+
+GIRL	oui oui bien sur, nous nous en avons mais...
+
+'TARO	Elle va se dépêcher oui ? J’ai l'air de quoi moi ?
+
+YAMABUKI	Comment ça va ? On peut savoir ce que tu fais par ici ?
+
+TARO	Des courses  Enfin disons que je me promène, voilà 
+
+ARALE	Ca y est j'ai trouvé, moi aussi, je vais pouvoir en porter un  Comme les grandes filles 
+
+YAMABUKI	C'est une idée à toi ?
+
+TARO	Mais non, j'y suis pour rien, Melle ...
+
+YAMABUKI	Mais enfin, elle est bien trop jeune pour s'intéresser à ces choses là ?
+
+SUPMAN	Je n'ai pas besoin de ça moi, je suis assez beau 
+
+ARALE	Qu'est ce que je suis contente j'en ai un superbe 
+
+TARO	Excuse moi, ma petite camarade, mais tu vois, j'aimerais mieux changer de sujet 
+
+SLUMP	C'est pas vrai ça  je n'en peux plus moi ! on a beau être un génie, on n'en est pas moins homme  Et un homme ça peut mourir de faim 
+
+ARALE	Professeur  On est là 
+
+SLUMP	Sauvé ! La voilà enfin  Mes spaghettis
+
+
+ARALE	C'est joli hein ?
+
+SLUMP	Où sont mes spaghettis ?
+
+ARALE	Mon dieu  Les spaghettis 
+
+ARALE	L'autre jour avec mes meilleurs copains et mes meilleures amies j'ai été au zoo municipal, on a vraiment passé une journée formidable, qu'est ce qu'on s'est bien amusés  Enfin je te raconterai tout quand on se verra, à bientôt, Arale i
+
+BABY ELEPHANT	Dis papa, tu crois qu'on va voir des éléphants ?
+
+DAD	J'espère bien, je suis venu pour ça.
+
+BABY ELEPHANT	On est au zoo on va voir les animaux, je trouve ça très rigolo 
+
+AKANE	Vous ne pourriez pas être plus discrets 
+
+TARO	Je voudrais cinq places pour des moins de douze ans !
+
+WOLF	Tu te fiches de moi ?
+
+TARO	Mince ça n'a pas marché  Bon tant pis 
+
+AKANE	Toujours aussi maladroit celui là
+
+PEESUKE	Regardez des lions 
+
+DAD LION	Regarde, des humains 
+
+SAFARI	Au nom de toute l'équipe du zoo municipal, je vous remercie de votre visite.  Vous voici plongé dans l'univers impitoyable des animaux sauvages, ou règne la loi de la jungle.
+
+ARALE	Super  Ca doit être très passionnant 
+
+SAFARI	Je vous demanderai d’être très prudents, de ne pas faire trop de bruit et surtout de ne pas descendre de voiture.
+
+ARALE	Oui monsieur  Oui monsieur 
+
+SAFARI	IL n'y avait qu'à dire oui, tout simplement
+
+SAFARI	Vous allez bientôt apercevoir sur votre droite un jeune chien.
+
+AKANE	Génial 
+
+ARALE	C'est fabuleux
+
+SAFARI	Bon sang  J'ai l'impression que je n'ai pas à faire à des touristes ordinaires, aujourd'hui  Mais mais enfin 
+
+AKANE	Des moustiques !
+
+SAFARI	Y a des jours où on se demande vraiment à qui on a faire  Quel métier  Et voilà 
+
+SAFARI	J'ai fait du beau boulot hein ? C'est de votre faute aussi avec tous vos holala par ici, vos holala par là, ça me trouble, bon et si j'essayais de redémarrer  Ca marche plus.
+
+TARO	Holala y en a marre 
+
+SAFARI	Alors ça y est, c'est reparti, les holala 
+
+ARALE	Holala.
+
+SAFARI	J'ai un petit poste émetteur, je vais appeler mes amis à la rescousse 
+
+ARALE	Il avait faim.
+
+SAFARI	Ces gamins ont des manières abominables ! Je ne fais pas de compliments aux gens qui les ont élevés.  On a beau dire mais je ne fais pas un métier de tout repos, je craque 
+
+PEESUKE	Monsieur.
+
+SAFARI	oui, quoi encore ?
+
+PEESUKE	Je veux un autographe 
+
+SAFARI	Le monde a beaucoup changé ces derniers temps, j'ai du prendre un coup de vieux, je ne comprends plus les jeunes 
+
+PEESUKE	N'oubliez pas de marquer "à mon cher petit camarade" d'accord ?
+
+AY,ANE	Alors qu'est ce qu'on fait maintenant ?
+
+TARO	J'ai pas envie de mourir ici.
+
+SAFARI	Et moi vous croyez que ça m'amuse ? En plus je viens de me marier  On ne sera pas secouru ne me reste plus qu'a essayer de réparer cette voiture 
+
+TARO	Et si les bêtes nous attaquent ?
+
+SAFARI	Les animaux de la brousse ont toujours eu peur du feu  C'est bien connu  J'ai lu ça dans Tintin 
+
+LION	Ca fait quand même du bien un bon feu
+
+CROCODILE	Si on grillait des merguez ?
+
+GORILLE	Moi, j'adore les pommes de terres sous la cendre.
+
+SAFARI	Non, mais c'est incroyable  Finalement j'ai horreur des bandes dessinées, ça vous rapetisse le cerveau. De toutes façons, vous êtes nul depuis le début.
+
+SAFARI	La petite fille à lunettes, et le petit garçon qui fait toujours Kupee Kupee où sont ils ?
+
+AKANE	Ils sont dehors.
+
+SAFARI	Quoi ?
+
+ARALE	Salut à tous,
+
+SAFARI	Ce tigre est en fait le vrai patron du zoo, il règne en maître sur tous les autres animaux, il est d'une cruauté qui inspire le respect.
+
+AKANE	A première vue, il n'a pas l'air si méchant, que ça 
+
+TARO	Ne vous en faites pas 
+
+TIGER	Je suis un tigre royal 
+
+TIGER	Regarde autour de toi comme ils ont peur de moi.
+
+ARALE	Moi je m'appelle Arale.
+
+TIGER	Mais enfin comment que ça se fait que tu n'aies pas peur de moi ? En général je
+
+TIGER	terrorise tout le monde  Pourquoi ferais tu exception à la règle ?
+
+ARALE	Ca c'est mon copain mange tout 
+
+TIGER	Je me demande qui a bien pu vous pousser à venir vous présenter à moi, je crois que cette fois vous avez dépassé les bornes, vous avez même fini par mettre en colère  Ca doit se règle entre cette petite fille et moi, on va se livrer un duel à la loyale  Vous restez ou vous êtes 
+
+TWO	Oui, allez patron  Vous êtes le plus fort 
+
+SAFARI	Votre petite camarade est en danger de mort 
+
+AKANE	N'ayez crainte, je sais déjà qui va gagner 
+
+TIGER	Une petite seconde tu veux.  Tu tiens cette corde à l'autre extrémité.
+
+ARALE	Hoyo ?
+
+AKANE	C'est nul on dirait interviennes 
+
+TIGER	Tu n'es pas de taille à lutter contre moi.
+GORILLE	Allez y 
+
+PEESUKE	Allez vas y Arale, on sait que c'est toi la meilleure .
+
+AKANE	Ton coté supporter débraillé m'a toujours agacé 
+
+TWO	Allez patron  C'est vous le plus fort  Ho hisse, ho hisse  Allez y, tirez, tirez 
+
+ARALE	Bon alors, qu'est ce que je dois faire moi dans cette histoire ?
+
+TARO	Il faut que tu tires ! tire sur la corde 
+
+ARALE	Je vois
+
+RAT	Patron 
+
+TIGER	Non mais 
+
+GORILLE	Je crois que le mieux c'est encore qu'on s'y mette tous 
+
+LION	On arrive patron 
+
+CROCODILE	DU courage 
+
+THREE	Ho hisse, ho hisse, ho hisse, ho hisse, ho hisse, ho hisse, ho hisse 
+
+PEESUKE	Allez vas y Arale, vas y ! T'es cent fois meilleure qu'eux 
+
+ARALE	Et voilà  Ca vous a plus ?
+
+PEESUKE	Arale a gagné l'épreuve de la corde 
+
+TIGER	c’est idiot  J'ai été victime du coup classique chez les champions, l'excès de confiance ! Nom d'un zèbre, tu m'as ridiculisé devant tout le monde, je ne peux pas en rester là, ma vengeance sera terrible 
+
+ARALE	Alors c'est quoi le prochaine jeu ?
+
+TIGER	Un jeu sans merci  Un combat à mort,
+
+SAFARI	Attention, je crois que cette fois, il est vraiment en colère, ça ne rigole plus.
+
+'P'ANIMALS	Pour le patron  Hihihihourra  Hip hip hip hourrrra  Hip hip hip hourra 
+
+ARALE	Et boum 
+
+SAFARI	Je rêve ou quoi c'est pas croyable 
+
+TWO	Y a pas à dire  Bravo  Tu es vraiment très très forte 
+
+THRBE	Bravo  C'était très bien 
+
+TIGER	A partir de maintenant, c'est la patronne 
+
+ARALE	La patronne ? Mais je m'appelle Arale
+
+GORILLE	Animaux, humains on est tous frères
+
+TARO	Je trouve ça génial 
+
+SAFARI	Non, c'est pas possible, je n'arrive pas à y croire, le monde a changé je crois que je
+
+SAFARI	vieillis, il va falloir que je songe à prendre ma retraite 
+
+ARALE	Professeur, c'est moi Arale 
+
+SLUMP	Content de te voir.
+
+ARALE	Dites professeur, j'ai mes amis qui attendent à la porte !
+
+SLUMP	Hé bien, tu n'as qu'à leur dire d'entrer 
+
+ARALE	Oui, tout de suite

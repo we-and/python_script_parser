@@ -1,0 +1,811 @@
+KIZNAIVER_Ep01
+05/03/2018
+
+(BOUCLE 1 - 00:00:00:14)
+		01
+
+KATSUHIRA ENFANT	(réac course________) (huh) (réac course___) (réac course___) (ha)
+
+SONOZAKI ENFANT	Tout ira bien, tu verras.
+
+KATSUHIRA ENFANT	(h__)
+
+SONOZAKI ENFANT	C'est juste que tu n'es pas comme nous, Katsuhira.
+
+KATSUHIRA ENFANT	(huh) (h___)
+
+INSERT	SORTIE
+
+KATSUHIRA ENFANT	(réac course)
+
+SONOZAKI ENFANT	Tu la ressentiras de nouveau.
+
+KATSUHIRA ENFANT	(réac course__)
+
+SONOZAKI ENFANT	Tu finiras par ressentir de nouveau la douleur.
+
+KATSUHIRA ENFANT	(réac course_____) (h__) (h__) (h__) (ha) (h____) Non, ne m'abandonne pas. (cri douleur___) (cri douleur___) (hurlement douleur__________)
+
+(BOUCLE 2 - 00:00:55:20)
+		02
+
+INSERT	12 ANS PLUS TARD_______
+
+VOIX FÉMININE	À chacun selon ses capacités, à chaque capacité selon ses œuvres.
+
+PROP 2	À chacun suivant ses besoins, de chacun suivant ses forces.
+
+VOIX FÉMININE	À chacun selon ses capacités, à chaque capacité selon ses œuvres.
+
+PROP 2	À chacun suivant ses besoins, de chacun suivant ses forces.
+
+VOIX FÉMININE	Tous pour un, un pour tous.
+
+AMBIANCE	(Brouhaha urbain___________________________)
+
+INSERT	LA VILLE SOURIRE
+
+ÉCOLIERS	C'est Gomorine !
+
+ÉCOLIER 1	Mets-lui une beigne !
+
+ÉCOLIER 2	C'est trop rigolo_ !
+
+MAÎTRESSE	Oh là là ! Arrêtez de lui donner des coups de pieds ! Vous lui faites mal !
+
+VOIX FÉMININE	Un pour tous... tous pour un. One for all, all for... one !
+
+INSERT	Il ARRIVE PARFOIS QU'UN LIEN SE CRÉE AU PREMIER REGARD______
+
+(BOUCLE 3 - 00:02:59:16)
+		03
+
+INSERT	KIZNAIVER____________
+
+TAKASHIRO	Maintenant que les exams sont finis, si on en profitait pour lessiver ta chambre, Katchon ? L'autre jour, j'ai remarqué plein de moisissures orange. (h__) Katchon ?
+
+KATSUHIRA	Chidori... Les cigales, ça ne vit pas plus d'une semaine, si ?
+
+TAKASHIRO	Pardon ?
+
+KATSUHIRA	Je me demande... ce qu'elle est venue faire à la surface. En restant bien à l'abri sous terre, elle aurait évité de croiser l'un de ses nombreux prédateurs.
+
+TAKASHIRO	(mmh) Ben peut-être qu'elle cherchait juste à se faire des copains.
+
+KATSUHIRA	Oui... C'est vrai que la survie de toute espèce passe par l'accouplement...
+
+TAKASHIRO	(réac choquée)
+
+KATSUHIRA	Mais bon, si c'est pour finir comme ça, quel est l'intérêt ?
+
+TAKASHIRO	Attends... (h_) (h__) Dis, Katchon... j'ai comme l'impression que tu en as gros sur le cœur. Je me trompe ?
+
+KATSUHIRA	Hein ?
+
+TAKASHIRO	Allez, avoue... Je parie que ces deux brutes de Yoshizawa et Kama-ishi continuent de te martyriser.
+
+KATSUHIRA	Oh...
+
+TAKASHIRO	Tu veux que j'aille en parler à monsieur Yamada ?
+
+KATSUHIRA	Non, laisse. On n'est plus en primaire.
+
+(BOUCLE 4 - 00:04:04:04)
+		04
+
+KATSUHIRA	Pour être tranquille, il me suffit de leur donner de l'argent.
+
+TAKASHIRO	(huh)
+
+KATSUHIRA	Et si je n'ai pas ce qu'il faut, ils se contentent de me tabasser. Le seul truc qui m'embête vraiment, c'est quand mes plaies s'infectent. Qu'est-ce qui te prend ?
+
+TAKASHIRO	Je le savais ! Alors comme ça, ils te rackettent ?
+
+KATSUHIRA	Euh... Oui, je crois que c'est le mot.
+
+TAKASHIRO	Tes parents roulent pas sur l'or. T'en as conscience ? Ils se saignent aux quatre veines pour t'envoyer cet argent.
+
+KATSUHIRA	(hmm____) En même temps, ça me permet de les amadouer...
+
+TAKASHIRO	Et si tu réagissais, plutôt ? (serre les dents) Ce que tu peux m'énerver, des fois ! (h_)
+
+KATSUHIRA	Chidori...
+
+TAKASHIRO	Laisse tomber. Je pars devant. Et t'avise pas de me suivre ! (grr_)
+
+(BOUCLE 5 - 00:04:49:03)
+		05
+
+KATSUHIRA	Pourquoi j'en aurais gros sur le cœur ? Oh...
+
+KAMA-ISHI	Eh bah alors, mon petit Katsuhira ?
+
+KATSUHIRA	(h__)
+
+KAMA-ISHI	Vaudrait mieux pour toi que t'aies des pépètes, aujourd'hui.
+
+KATSUHIRA	Zut, il manquait plus qu'eux...
+
+INSERT	SOLDE DE COMPTE : 33 YENS
+
+KATSUHIRA	(légère réac douleur)
+
+YOSHIZAWA	(h____)
+
+KAMA-ISHI	On peut savoir comment ça se fait que tu sois à sec ?
+
+KATSUHIRA	Vous plaisantez, j'espère... C'est sans doute parce que je vous ai donné toutes mes économies.
+
+YOSHIZAWA	(mmh) On veut pas le savoir, minus.
+
+KATSUHIRA	Attends une seconde.
+
+YOSHIZAWA	Quoi ? Tu veux pas dérouiller ?
+
+KATSUHIRA	En fait, je te demanderai juste de lâcher mon col de chemise.
+
+YOSHIZAWA	Hein__ ?
+
+KATSUHIRA	Le bouton risque de craquer, à force. Et je préfère encore prendre des coups que devoir recoudre un bouton.
+
+YOSHIZAWA	(mm_)
+
+KAMA-ISHI	(petit rire___)
+
+YOSHIZAWA	(rr_)
+
+(BOUCLE 6 - 00:05:37:13)
+		06
+
+YOSHIZAWA	Mais c'est qu'il se fout de nous !
+
+KAMA-ISHI	(rire____________________________________)
+
+YOSHIZAWA	Tu vas morfler, sale bâtard ! Je vais t'apprendre à la ramener.
+
+KAMA-ISHI	(rire__________________________________)
+
+YOSHIZAWA	Tu t'es pris pour un caïd ou quoi ?
+
+TENGA	(petit rire)
+
+KAMA-ISHI	Bon... T'aboules le fric ?
+
+KATSUHIRA	Entendu... Je vais tout vous donner.
+
+KAMA-ISHI	Parfait. On n'a plus qu'à retourner tous les trois au distributeur... (hah_____ ! (huh_)
+
+YOSHIZAWA	Kama-ishi___ !
+
+TENGA	L'attaque aérienne du popotin frétillant________________ !
+
+YOSHIZAWA	(huh ?) (haa___) (huh) (réac étouffé et lutte___________________________________________________________________________________)
+
+TENGA	J' vous préviens, bande de nazes : j'ai tout entendu de votre combine.
+
+KAMA-ISHI	(h__) Ten... Tenga...
+
+TENGA	(petit rire b.f.___) Ça te coûtera vingt pour cent.
+
+KATSUHIRA	Hein ?
+
+(BOUCLE 7 - 00:06:17:17)
+		07
+
+YOSHIZAWA	(réac étouffé et lutte______________________________________________________________________________________________________________)
+
+TENGA	J' crois qu'on est tous les deux dans la même classe, non ? J' suis prêt à t'aider à récupérer ton fric contre une com de vingt pour cent. Et en bonus, je ferai en sorte que ces deux guignols te foutent la paix pour de bon. Qu'est-ce que t'en dis ?
+
+KATSUHIRA	Heu... C'est d'accord.
+
+TENGA	Marché conclu ! J' suis trop le roi de la négo. Du coup, y a plus qu'à.
+
+KAMA-ISHI	(gloups)
+
+TENGA	Magnez-vous de lui rendre son fric, pigé ?
+
+KAMA-ISHI	(h___) (Sauf qu'il avait pas un rond sur lui...) (aah___)
+
+TENGA	J' parle de ce que vous lui avez piqué depuis le début.
+
+KAMA-ISHI	(réac douleur___________________________)
+
+TENGA	Vous allez lui rendre jusqu'au dernier yen.
+
+KAMA-ISHI	(réac douleur______)
+
+TENGA	Ou sinon...
+
+KAMA-ISHI	Aïe, aïe, aïe, aïe, aïe, aïe, aïe, aïe, aïe ! (réac terreur et panique________________)
+
+YOSHIZAWA	Kama-ishi, attends-moi !
+
+(BOUCLE 8 - 00:06:58:17)
+		08
+
+TENGA	(h___)
+
+KATSUHIRA	Merci.
+
+TENGA	Pas de quoi. Ils t'ont pas loupé... T'inquiète, ton pognon, on le récupérera plus tard.
+
+KATSUHIRA	Non, laisse. Inutile de t'embêter avec ça.
+
+TENGA	Répète ?
+
+KATSUHIRA	Je ne ressens aucune douleur, quand on me frappe.
+
+TENGA	De quoi ? T'as pas besoin de te la jouer avec moi, tu sais.
+
+(BOUCLE 9 - 00:07:16:00)
+		09
+
+ADO PASSÉ 1	Prends____ ça !
+
+ADO PASSÉ 2	Et ça ! Et ça !
+
+KATSUHIRA ENFANT	(h___) (hh____) C'est quoi, ça ? Du sang...
+
+ADO PASSÉ 1	Ferme ta bouche !
+
+ADO PASSÉ 2	J'ai une idée ! Si on enchaînait les coups, au lieu d'attendre son tour ?
+
+ADO PASSÉ 1	Ouais !
+
+KATSUHIRA	Depuis tout petit, je suis insensible à la douleur.
+
+ADO PASSÉ 2	Prends ça !
+
+ADO PASSÉ 1	Et ça !
+
+ADO PASSÉ 2	Tiens !
+
+KATSUHIRA	La violence physique ne me fait rien.
+
+(BOUCLE 10 - 00:07:40:15)
+		10
+
+TENGA	Hein ? Sérieux, t'as jamais mal ? Et si j' t'envoie des pichenettes en pleine tête ?
+
+KATSUHIRA	Tu peux y aller, je ne ressens strictement rien.
+
+TENGA	Mon légendaire broyeur de crâne marche pas sur toi ? (réac effort_______) Franchement, j'hallucine !
+
+KATSUHIRA	Serre plus fort, tu vas voir.
+
+TENGA	(réac effort___) (ah ?) (oh_ !) Réveille-toi ! Tu m'entends, dis ?
+
+SONOZAKI	Les gens s'accordent à dire qu'il y a des limites à tout.
+
+TENGA	Excuse, j'ai pas fait exprès.
+
+SONOZAKI	Qu'en penses-tu ?
+
+TENGA	(huh ?)
+
+SONOZAKI	Pour ma part, j'estime qu'il faut savoir tester les siennes...
+
+INSERT	LYCÉE DE SUGOMORI________________
+
+SONOZAKI	pour espérer un jour les dépasser.
+
+(BOUCLE 11 - 00:08:08:20)
+		11
+
+AMBIANCE	(Brouhaha___________)
+
+LYCÉENNE 1	J'ai encore reçu un mot d'amour enflammé.
+
+LYCÉENNE 2	(petit rire________)
+
+YUTA	Sacrée petite coquine...
+
+LYCÉENNE 1	(rire gêné) Dis donc, Yuta... Tu serais pas un peu jaloux, non ?
+
+LYCÉENNE 2	(rire________) N'importe quoi...
+
+NIYAMA	(oh______)
+
+FILLE VIRTUELLE	Tu n'as pas envie de me sortir ?
+
+NIYAMA	(oh____)
+
+FILLE VIRTUELLE	Allez, un effort... On pourrait aller dîner quelque part en amoureux.
+
+YAMADA	(h___)
+
+LYCÉEN	Pardon, monsieur Yamada...
+
+FILLE VIRTUELLE	Il te suffit d'entrer ton numéro de carte de crédit, rien de plus simple.
+
+YAMADA	(rr___)
+
+LYCÉEN	Le cours va bientôt reprendre ?
+
+YAMADA	(réac catastrophé________)
+
+FILLE VIRTUELLE	Si tu m'emmènes dîner, je te montrerai le dernier maillot de bain que j'ai acheté. Allez, dis oui...
+
+YAMADA	Avec ces jeux soi-disant gratuits, faut obligatoirement raquer pour s'amuser !
+
+TAKASHIRO	(h____)
+
+LYCÉEN	Monsieur, vous comptez faire cours ou pas ?
+
+(BOUCLE 12 - 00:08:35:03)
+		12
+
+SONOZAKI ENFANT	Tout ira bien, tu verras. Tu la ressentiras de nouveau, Katsuhira. Tu ressentiras de nouveau la douleur.
+
+(BOUCLE 13 - 00:08:48:00)
+		13
+
+KATSUHIRA	(mmh__)
+
+SONOZAKI	Enfin, tu es réveillé.
+
+KATSUHIRA	(h____) Euh... Pardon, mais... qui es-tu ?
+
+SONOZAKI	Je m'appelle Sonozaki. Sonozaki Noriko. Tu devrais le savoir, je suis dans la même classe que toi.
+
+KATSUHIRA	(bégaie) Mes excuses... Tu dis que ton nom, c'est Sonozaki ? Pardon, mais qu'est-ce que je fais là ?
+
+SONOZAKI	Tu connais les sept péchés capitaux ?
+
+KATSUHIRA	Hein ?
+
+SONOZAKI	Selon la doctrine de l'Église catholique, il existe sept vices majeurs : l'orgueil, l'avarice, l'envie, la colère, la luxure, la gourmandise et la paresse. Mais l'esprit de coopération étant l'un des piliers de la société japonaise moderne, ces sept vices ont pris d'autres formes afin de s'adapter.
+
+(BOUCLE 14 - 00:09:39:19)
+		14
+
+LYCÉENNE 3	Regarde, c'est Yuta__...
+
+LYCÉENNE 4	Coucou___ !
+
+LYCÉENNE 3	Coucou___ !
+
+YUTA	(h_____) Salut, les filles.
+
+SONOZAKI	Il y a le charmeur...
+
+LYCÉENNE 4	Si on allait au karaoké ?
+
+LYCÉENNE 3	Oh oui !
+
+YUTA	Viens avec nous, Maki. Ça te ferait du bien de décompresser.
+
+MAKI	Non merci, sans façon. M'asseoir avec vous trois dans un espace confiné, c'est prendre le risque d'attraper des microbes.
+
+LYCÉENNE 3	De quoi ?
+
+LYCÉENNE 4	Pour qui elle se prend, celle-là ?
+
+YUTA	Elle a de la répartie...
+
+SONOZAKI	Mais aussi la prétentieuse...
+
+(BOUCLE 15 - 00:10:08:20)
+		15
+
+YAMADA	J'entends bien, mais qu'est-ce que je peux y faire ?
+
+TAKASHIRO	Vous pourriez peut-être dire à ces deux vilaines brutes de le laisser tranquille.
+
+YAMADA	L'ennui, c'est qu'ils sont pas du genre à écouter. Je peux toujours réclamer leur renvoi ou les faire zigouiller, si tu y tiens.
+
+TAKASHIRO	Mais j'ai jamais dit ça ! On peut savoir d'où vous sortez une idée pareille ?
+
+YAMADA	Ton copain Agata devrait se mettre au sprint. Il aurait plus de chances de leur échapper.
+
+TAKASHIRO	(oh____) (réac énervée_____________________)
+
+SONOZAKI	Il y a la moralisatrice...
+
+(BOUCLE 16 - 00:10:35:10)
+		16
+
+NIYAMA	Petites, petites, petites... Venez à moi... Petites, petites, petites...
+
+HOMME	Mademoiselle Niyama... Puis-je savoir ce que tu fais devant cette statue ?
+
+NIYAMA	Je l'ai relookée en autel dédié à l'invocation des gentilles fées.
+
+HOMME	Comment ça, des fées ?
+
+NIYAMA	Oui, des fées. Attendez, je vais vous montrer.
+
+HOMME	Non, ce n'est pas nécessaire.
+
+NIYAMA	Petites, petites, petites... Venez à moi, petites, petites, petites...
+
+SONOZAKI	Ou encore l'illuminée.
+
+(BOUCLE 17 - 00:10:55:17)
+		17
+
+SONOZAKI	Il est vrai qu'à première vue, ils n'ont pas grand-chose en commun, mais s'ils parvenaient à s'entendre, à être sur la même longueur d'onde...
+
+KATSUHIRA	Je peux ?
+
+SONOZAKI	Tu as des questions, Katsuhira ?
+
+KATSUHIRA	Excuse-moi de te dire ça, mais critiquer tous ces gens ne fait pas forcément d'eux des pécheurs. Enfin, je crois.
+
+SONOZAKI	Le cinquième vice, c'est toi. L'ahuri.
+
+KATSUHIRA	(huh) L'ahuri ?
+
+SONOZAKI	Si tu veux vraiment tout savoir, tu me fais penser à un plat de nouilles.
+
+KATSUHIRA	Des nouilles ?
+
+SONOZAKI	Tu n'as aucune consistance, tu es d'une mollesse extrême. Même si dans le fond, tu n'es pas mauvais.
+
+KATSUHIRA	Tu me racontes tout ça dans un but précis ou c'est juste pour te payer ma tête ?
+
+SONOZAKI	Dis-moi, Katsuhira. Est-ce que tu sais pourquoi tu te fais martyriser par tes petits camarades depuis l'enfance ?
+
+KATSUHIRA	(huh) Attends voir... Ça a un rapport avec les nouilles ou pas ?
+
+SONOZAKI	Tu ignores la peur.
+
+KATSUHIRA	(huh ?) (h__)
+
+SONOZAKI	Chacun de nous ressent le besoin d'exister aux yeux d'autrui. Or, ce besoin vital passe aussi bien par des sentiments bienveillants que malintentionnés.
+
+(BOUCLE 18 - 00:12:02:07)
+		18
+
+ADO PASSÉ 2	(réac hargneux_____)
+
+SONOZAKI	Comme tu ne ressens pas la douleur... comme tu n'opposes aucune résistance...
+
+ADO PASSÉ 1	Allez, viens. On se casse.
+
+ADO PASSÉ 2	C'est même plus marrant.
+
+SONOZAKI	... les autres, ceux qui te frappent, n'arrivent pas à se retrouver en toi. C'est précisément ce qui les agace.
+
+KATSUHIRA	C'est ce qu'ils cherchent ? À se retrouver en moi ?
+
+SONOZAKI	(mm) Chacun de nous ressent le désir irrépressible de marquer l'autre de son empreinte. Nul ne peut aller contre la nécessité... de nouer des liens avec l'autre.
+
+KATSUHIRA	(h_____)
+
+(BOUCLE 19 - 00:12:40:20)
+		19
+
+KATSUHIRA	(huh) Qu'est-ce que tu fais ? (réac gêné______) (Sonozaki...) Mais qu'est-ce qui te prend ? Ça va pas ou quoi ?
+
+SONOZAKI	Pourquoi est-ce que tu recules ?
+
+KATSUHIRA	Parce que... (h) Parce que tu m'intimides beaucoup, en fait.
+
+SONOZAKI	Tes bras...
+
+KATSUHIRA	(huh ?)
+
+SONOZAKI	Je te demande de lever les bras.
+
+KATSUHIRA	(mmh)
+
+SONOZAKI	Tu es très obéissant. Bon voyage.
+
+(BOUCLE 20 - 00:13:26:18)
+		20
+
+KATSUHIRA	(h_____) (oh...) Elle porte une culotte à pois ?
+
+INSERT	KIZNAIVER_______________
+
+(BOUCLE 21 - 00:13:52:10)
+		21
+
+KATSUHIRA	Gomorine ?
+
+(BOUCLE 22 - 00:14:29:20)
+		22
+
+KATSUHIRA	(h___) (h_______) (réac effort___________) Pourquoi je suis à l'hôpital ? (huh__) Qu'est-ce qui m'est arrivé ? (ho...) C'est toi, Sonozaki ?
+
+SONOZAKI	Tiens, cadeau. Pour fêter ça comme il se doit.
+
+KATSUHIRA	Hein ? (huh__)
+
+SONOZAKI	Dorénavant, vous êtes unis tous les six par les liens indéfectibles de vos lésions.
+
+TAKASHIRO	Katchon ! (h)
+
+TENGA	Ah parce que toi aussi t'es là, p'tit ?
+
+NIYAMA	(oh______)
+
+YUTA	(h) Sonozaki...
+
+NIYAMA	(oh______________)
+
+YUTA	Mais que fait-on ici, au juste ?
+
+NIYAMA	(oh__ là là___)
+
+MAKI	Et ça veut dire quoi exactement "les liens de nos lésions" ?
+
+SONOZAKI	Sous ses airs de cité modèle, Sugomori n'est pas tout à fait la ville que vous croyez connaître.
+
+TAKASHIRO	(huh_)
+
+(BOUCLE 23 - 00:15:17:21)
+		23
+
+SONOZAKI	D'ici, le centre est à moins d'une heure, via le pont suspendu.
+
+SONOZAKI ENFANT	Construite sur un site d'enfouissement de déchets, la ville est un modèle écologique.
+
+SONOZAKI	Mais son ambition première n'est pas là. Sugomori a été érigée dans l'unique but d'y mener une expérience de grande envergure. Elle porte le nom... de projet Kizna.
+
+INSERT	LE PROJET KIZNA
+
+YUTA	(h) Le projet Kizna ?
+
+TENGA	C'est quoi, l'embrouille ?
+
+SONOZAKI	Le monde s'enlise dans les conflits armés. D'après toi, Tenga, pour quelle raison ?
+
+TENGA	(huh) (euh...) Ben, j'imagine que...
+
+SONOZAKI	Parce que les belligérants sont totalement insensibles à la souffrance des autres.
+
+TENGA	(réac) (réac) Ça va ! On peut en placer une, oui ?
+
+KATSUHIRA	La souffrance... des autres...
+
+(BOUCLE 24 - 00:15:57:04)
+		24
+
+SONOZAKI	Si par miracle, l'être humain pouvait connaître et partager la peine et la souffrance de ses semblables, les conflits n'auraient plus lieu d'exister.
+
+TENGA	(mm____________)
+
+SONOZAKI	Malheureusement, l'imagination humaine est limitée.
+
+TENGA	(pfiou__) Ouais ben, franchement, j'y pige que dalle à tes explications.
+
+SONOZAKI	Preuve que tu es bien le sixième vice : la brute épaisse.
+
+TENGA	Hein ?
+
+SONOZAKI	Vous correspondez tous à des archétypes qui, en temps normal, n'auraient rien à faire ensemble. Mais dorénavant... vous êtes unis par un dénominateur commun, pour le meilleur et pour le pire.
+
+TENGA	(h__)
+
+SONOZAKI	Depuis dix heures ce matin,
+
+TENGA	(huh)
+
+SONOZAKI	nos services vous ont suivis au parc, dans les toilettes pour filles, au karaoké,
+
+TAKASHIRO	(h) (ha____)
+
+YUTA	(ronfle___________________________)
+
+SONOZAKI	sur le chemin du lycée et jusque dans l'enceinte de l'établissement.
+
+MAKI	(ha_______)
+
+SONOZAKI	Une fois en sécurité dans nos locaux, vous avez été confiés à nos chirurgiens les plus compétents, en charge du projet Kizna.
+
+NIYAMA	(oh___) Reviens, Gomorine !
+
+SONOZAKI	Les différents examens s'étant révélés concluants, vous voilà tous liés par vos lésions. Grâce au précieux concours de Katsuhira.
+
+INSERT	CONNEXION ÉTABLIE
+
+(BOUCLE 25 - 00:16:55:05)
+		25
+
+TENGA	(ah____)
+
+YUTA	Alors si je comprends bien, on a été enlevés !
+
+TAKASHIRO	Grâce à Katsuhira ? (gn_) Dis donc, Katchon, comment ça se fait que Sonozaki t'appelle par ton prénom ?
+
+KATSUHIRA	(réac secoué_________________________________)
+
+MAKI	Des chirurgiens... nous ont liés par nos lésions ?
+
+SONOZAKI	Parfaitement. Après que Katsuhira s'est jeté du haut du grand escalier du lycée.
+
+TAKASHIRO	C'est vrai, ce qu'elle raconte ?
+
+KATSUHIRA	(réac secoué___________________________________)
+
+TAKASHIRO	Je savais que t'en avais gros sur le cœur ! (gn__________)
+
+KATSUHIRA	Mais non...
+
+SONOZAKI	Suite à cette chute vertigineuse, il a subi des lésions qui auraient dû lui être fatales. Par chance, la douleur provoquée par ses blessures a été répartie équitablement entre vous six par le biais du projet Kizna.
+
+TENGA	(huh_)
+
+TAKASHIRO	(huh_)
+
+SONOZAKI	Dès lors, on peut dire qu'il doit sa survie... au fait que vous ayez partagé sa souffrance.  Tu ne trouves pas ça formidable, Katsuhira ?
+
+KATSUHIRA	(ho____)
+
+(BOUCLE 26 - 00:17:39:17)
+		26
+
+TAKASHIRO	Que veux-tu dire par "on a partagé sa souffrance" ?
+
+NIYAMA	Je... J' suis désolée, mais... j'ai pas tout compris, en fait.
+
+YUTA	Moi non plus. Ça dépasse l'entendement.
+
+TAKASHIRO	Mais à quoi est-ce que ça rime ?
+
+SONOZAKI	L'objectif numéro un du projet Kizna est de mettre un terme aux conflits et de rétablir la paix.
+
+YUTA	La paix dans le monde ?
+
+MAKI	Faut te faire soigner, toi.
+
+YUTA	Où tu vas, Maki ?
+
+MAKI	J'ai entendu assez de bêtises pour aujourd'hui. Je préfère rentrer chez moi.
+
+YUTA	Oui, pas faux. Moi aussi, je vais rentrer.
+
+TENGA	Venez, on s'arrache.
+
+NIYAMA	Bye-bye !
+
+TAKASHIRO	Allez, tu viens, Katchon ?
+
+KATSUHIRA	Non.
+
+TAKASHIRO	(mm)
+
+KATSUHIRA	Je vais rester ici. J'ai envie d'en savoir plus.
+
+TAKASHIRO	(h____) (h___) (tss__) (h_______) Comme tu voudras !
+
+(BOUCLE 27 - 00:18:30:10)
+		27
+
+SONOZAKI	Tu souhaites avoir davantage d'explications concernant le projet Kizna ?
+
+KATSUHIRA	Oui, mais pas seulement. Je n'arrête pas de penser à ce que tu m'as dit. D'après toi, si je me fais martyriser, c'est parce que les autres n'arrivent pas à se retrouver en moi.
+
+SONOZAKI	Exact.
+
+KATSUHIRA	Pour être tout à fait franc, c'est très confus dans ma tête. J'ai déjà du mal à appréhender mes propres pensées, ma propre souffrance... alors faire l'expérience de celle des autres, la partager avec eux, ça me semble être du domaine de l'impossible.
+
+SONOZAKI	(huh_)
+
+KATSUHIRA	Sauf qu'un souvenir me hante sans cesse, dernièrement. Une voix me dit que je finirai par ressentir de nouveau la douleur. Je t'avoue que je n'ai pas encore saisi toutes les subtilités du projet Kizna, mais puisque j'ai été choisi pour... D'accord.
+
+SONOZAKI	C'est prodigieux. Les premiers effets de la connexion commencent déjà à apparaître.
+
+KATSUHIRA	(h__) Qu'est-ce que ça signifie ?
+
+SONOZAKI	La réponse à toutes tes questions ne passe pas par les mots, Katsuhira. Si tu veux comprendre, écoute ton corps.
+
+(BOUCLE 28 - 00:19:37:13)
+		28
+
+TENGA	Sérieux, elle m'a grillé les neurones, avec son histoire. Ce qu'il faut pas entendre...
+
+MAKI	De toute évidence, il ne s'agit pas d'un rêve. Mais force est de constater que la situation n'a rien de normal.
+
+YUTA	Honoka a raison. (petit rire__) Enfin, je veux dire, mademoiselle Maki.
+
+MAKI	Pardon ?
+
+YUTA	Le mieux à faire, c'est d'aller prendre une bonne douche. Si on en est au même point d'ici là, faudra rediscuter de tout ça.
+
+NIYAMA	(oh____________)
+
+TAKASHIRO	Qu'est-ce que tu fabriques, Niyama ?
+
+NIYAMA	J'essaie de voir si j'aperçois Sandman.
+
+TAKASHIRO	(hésite________) Sandman ?
+
+NIYAMA	Bah oui_ ! Le marchand de sable, quoi. Il passe tous les soirs endormir les enfants en leur lançant du sable dans les yeux. Au début, ça picote, ça picote ! Mais après, on s'endort et on fait de beaux rêves remplis d'arcs-en-ciel.
+
+TAKASHIRO	(h___) Bien sûr...
+
+TENGA	(huh____) Attends... Parce que tu crois que t'es en plein rêve, là ?
+
+NIYAMA	Évidemment. Et vous êtes des figurants sortis de mon subconscient.
+
+TENGA	Du coup, y a moyen que j' te tripote les doudounes vite fait ?
+
+NIYAMA	(cri strident_________________________________)
+
+TENGA	(huh)
+
+(BOUCLE 29 - 00:20:36:06)
+		29
+
+YUTA	(huh)
+
+TAKASHIRO	(huh)
+
+MAKI	(huh)
+
+NIYAMA	(huh)
+
+TAKASHIRO	(h___) (respi saccadée___________________)
+
+NIYAMA	(h_____)
+
+YUTA	Mais, mais qu'est-ce qui s'est passé ?
+
+MAKI	J'ai ressenti une violente douleur.
+
+TAKASHIRO	(h____) (huh)
+
+YUTA	(réac douleur)
+
+NIYAMA	(réac douleur)
+
+MAKI	(réac douleur)
+
+TENGA	(réac douleur)
+
+TAKASHIRO	(h____) (huh)
+
+NIYAMA	(réac douleur)
+
+YUTA	(réac douleur)
+
+MAKI	(réac douleur)
+
+TENGA	(réac douleur) Non mais c'est quoi, ce truc de malade ?
+
+TAKASHIRO	Ça doit sûrement être ce dont parlait Sonozaki...
+
+YUTA	(réac douleur)
+
+MAKI	(réac douleur)
+
+TAKASHIRO	(réac douleur)
+
+(BOUCLE 30 - 00:21:04:15)
+		30
+
+KATSUHIRA	(h_______)
+
+SONOZAKI	One for all... All for one. Je suppose que cette devise vous est familière.
+
+TENGA	Sonozaki ! (h___)
+
+KATSUHIRA	(réac douleur) (réac douleur_______) (h______) (huh__) (h___)
+
+SONOZAKI	Pour ceux qui l'ignorent, elle signifie : un pour tous... et tous pour un. Mais d'aucuns estiment qu'il s'agit là d'un abus de langage. Selon eux, cette phrase devrait être prise dans le sens : un pour tous... tous pour la victoire.
+
+KATSUHIRA	(h_____) (hhhh__________)
+
+INSERT	FONCTION ACTIVÉE
+
+SONOZAKI	Face aux épreuves qui vous attendent, vous pourrez désormais compter sur ceux qui partagent un lien unique avec vous. En effet. Car à compter de ce jour... vous êtes des Kiznaivers.
+
+(BOUCLE 31 - 00:23:43:07)
+		31
+
+KATSUHIRA	Et sinon... Qu'est-ce que tu penses de tout ça ?
+
+INSERT	KIZNAIVER____________
+
+TENGA	Si t'es capable de gober un truc pareil, deux bols de baryum, c'est de la gnognotte !
+
+INSERT	PROCHAIN ÉPISODE SI T'ES CAPABLE DE GOBER UN TRUC PAREIL, DEUX BOLS DE BARYUM, C'EST DE LA GNOGNOTTE !__________________________________________________
+
+KATSUHIRA	Sauf que ça doit pas être facile à digérer.
+
+TENGA	Tu préfères deux bols de soupe de porc ?
+
+KATSUHIRA	Arrête... Tu me donnes faim.

@@ -1,0 +1,2184 @@
+Showrunner	"Okay, people, ten minutes till showtime."
+
+Showrunner	"We're on in ten, is she almost ready?"
+
+Makeup Artist	"I need five minutes."
+
+Betsey Goldmen	"Put more highlighter, I want my eyes to pop!"
+
+Makeup Artist	"I got you"
+
+Betsey Goldmen	"Do you know how many people are going to be tuning in to today's show? Well, I'll give you a hint... it's a lot!"
+
+Betsey Goldmen	"Are you excited about today's guest?"
+
+Makeup Artist	"Yes! I love her books. 'Midnight on the Mind' was by far my favorite."
+
+Donna	"You look nervous, why are you nervous?"
+
+Jennifer	"I don't know"
+
+Donna	"Neither do I, you've done this a billion times before."
+
+Jennifer	"I know, it's just, ya know...every new book I get the jitters."
+
+Jennifer	"You know with each new book they always ask."
+
+Donna	"No, they're not gonna ask, don't worry about it. I already took care of it."
+
+Makeup Artist	"Conrad...sure knows how to melt a woman's heart."
+
+Betsey Goldmen	*snickers "He sure does" *rolls tongue
+
+Makeup Artist	"Right? I think you are pretty mu--"
+
+Showrunner	"Okay, we need to go now."
+
+Makeup Artist	"Okay, you're good!"
+
+Makeup Artist	"You got it!"
+
+Donna	"Now, put this on."
+
+Donna	"I know it's cheesy but people love Christmas and people are nicer when they're filled with that holiday spirit. Even Ms. Betsey Goldmen."
+
+Showrunner	"We're on in five, you ready?"
+
+Donna	"We're ready."
+
+Donna	"Perfect!"
+
+Donna & Jennifer	*Laughing
+
+Betsey Goldmen	"Rise and shine, America! Welcome to this beautiful winter morning here on Rise and Shine America! Coming to you live from New York, I'm Betsey Goldmen."
+
+Betsey Goldmen	"Well I am so excited to announce our guest this morning! From the pages of her books she has melted the hearts of women across America."
+
+Betsey Goldmen	"So please, give a warm welcome to the mother of modern romance novels, Jennifer Monroe!"
+
+Betsey Goldmen	"Oh, it's so great to have you here, thank you for coming!"
+
+Jennifer	"Well, thank you for having me"
+
+Betsey Goldmen	"So, I know you've been asked this many times but I just have to ask before we go on because I know we are all dying to find out the answer."
+
+Betsey Goldmen	"Who is Conrad? The one you're always writing about!
+
+Jennifer	"...what?"
+
+Betsey Goldmen	"Oh come on! It's just us girls...and they entire country I guess." *laughs
+
+Betsey Goldmen	"We have all fallen madly in love. Who is the mysterious Conrad?"
+
+Jennifer	"Well, it's hard to pinpoint, just like all my characters, I gather inspiration from everyone I meet."
+
+Jennifer	"While Conrad's inspired by many people, saldy he is fictitious. Sorry, ladies."
+
+Betsey Goldmen	"Hmm...I'm not buying it! That answer seems rehearsed."
+
+Jennifer	*Laughs awkwardly "Well, that's the answer I have. I don't know what else to say."
+
+Betsey Goldmen	"Well, it'll just have to be a mystery for now, then!"
+
+Betsey Goldmen	"Oh! What a lovely Christmas pin! Someone's in the holiday spirit!"
+
+Jennifer	"Who doesn't love Christmas?"
+
+Betsey Goldmen	"The Grinch?" *laughs
+
+Betsey Goldmen	"So...any plans for the holidays?"
+
+Jennifer	"Uh yes, I'm going home to visit my family this year."
+
+Betsey Goldmen	"Oh, how lovely! Well, we wish you the best holiday season, filled with love and inspiration!." *laughs
+
+Betsey Goldmen	"And for everyone here, and everyone tuning in at home, we wanna thank you so much for your time."
+
+Betsey Goldmen	"And remember to buy Jennifer Monroe's fabulous new book, 'Winter Nights and Music Delights'."
+
+Betsey Goldmen	"It truly is a magical gift this season."
+
+Betsey Goldmen	"My name is Betsey Goldmen and on behalf of myself and my entire crew of Rise and Shine America, have a beautiful day."
+
+Jennifer	"Hello?"
+
+Mrs. Monroe	"I watched your interview."
+
+Jennifer	"Betsey Goldmen is something else, isn't she?"
+
+Mrs. Monroe	"Yes, not my cup of tea, but you looked great!"
+
+Mrs. Monroe	"You're leaving soon, right? Don't wanna miss your flight."
+
+Jennifer	"No I'm packing right now, I'll get in tonight at midnight."
+
+Mrs. Monroe	"Gosh, that's late."
+
+Jennifer	"I know, it's the best I could do."
+
+Mrs. Monroe	"I suppose. Uh, Johnny will be picking you up."
+
+Mrs. Monroe	"We're all excited to see you. It's been too long."
+
+Jennifer	"Cause all those years you made me feel guilty for not coming back home to visit finally paid off.
+
+Mrs. Monroe	"A mother's love, dear."
+
+Jennifer	"Okay, mom, I really gotta go though, alright, I'll see you soon, alright?
+
+Mom	"Okay, travel safe."
+
+Jennifer	"Alright, love you, bye."
+
+Lucas	"Oh, thank goodness, I thought that phone call would never end. What do you say, one more round before we leave, huh?"
+
+Jennifer	"You know you can still come with me."
+
+Lucas	"No, no, no, no, don't do that."
+
+Jennifer	"Do what?"
+
+
+Lucas	"Well we were supposed to be in Fiji for the holidays but you cancelled."
+
+Jennifer	"Yeah but for a very good"
+Lucas	"I know, I know. Family matters. I stand by your decision, however, as I've told you before, Lucas, will either be in Fiji celebrating the birth of Christ, or here in New York, the city that I love."
+
+Jennifer	"Fine."
+
+Lucas	"Oh, oh baby. Pwease don't be sad. You know what I can do for you, I can leave you something to remember me by."
+
+Jennifer	"Hmm?"
+
+Lucas	"And I guarantee you it will leave you completely satisfied, until the duration of your trip."
+
+Jennifer	"Oh, okay. Do you think you could, um..."
+
+Lucas	"Yeah?"
+
+Jennifer	"not eat on my bed and give me a ride to the airport?"
+
+Lucas	*sighs "Alright, you win."
+
+Jennifer	"Only with you."
+
+Lucas	"I'll go change."
+
+Lucas	"You know if we wait here any longer, you're gonna miss your flight. And eventually these guys are gonna ask me to move, or they might just straight up ticket me, I mean, who knows in New York."
+
+Lucas	"It's nice to see you smile. Relax, okay? It'll be fine."
+
+Jennifer	"I just wish you'd be there."
+
+Lucas	"I know. Go home. Okay? Enjoy the time with your family, I will be right here when you get back."
+
+Jennifer	"Alright, I love you."
+
+Johnny	Alright!"
+
+Jennifer	"Wow."
+
+Johnny	"What?"
+
+Jennifer	"It's the same as when I left it."
+
+Johnny	"Yeah, mom wouldn't let us touch a thing. She wanted it perfect for you when you came home."
+
+Jennifer	"I'm gonna go to sleep."
+
+Johnny	"Yeah, yeah."
+
+Johnny	"I'm glad you're back."
+
+Jennifer	"Me too. Goodnight."
+
+Johnny	"Night."
+
+Lucas	"Oh, boy. What a long day."
+
+Secretary	"You're gonna need to put that back on,
+
+Lucas	"Hmm?"
+
+Secretary	"We'll need protection, don't you think?"
+
+Lucas	*Laughs
+
+Jennifer	"Good morning."
+
+Mrs. Monroe	"Oh my baby, it's so good to see you."
+
+Jennifer	"Hi mom.
+
+Mrs. Monroe	"Hi! You look nice."
+
+Jennifer	"Thanks I found it in the closet!"
+
+Mrs. Monroe	"I think that's your sister's."
+
+Jennifer	"Oh, where is she?"
+
+Mrs. Monroe	"She's with Caleb, they took Willie to see Santa."
+
+Mrs. Monroe	"I have to get busy, the Blake's are gonna be here any minute."
+
+Johnny	"Gonna sit down?"
+
+Jennifer	"Mom's into football?"
+
+Johnny	"Yeah.
+
+Johnny	"Obviously you've been gone way too long."
+
+Mark Berry	"Enjoying the islands, jerk."
+
+Mark Berry	"How's my beautiful little girl?" *smooching "Come here. Come here. I got ya, I got ya."
+
+Mark Berry	"Here's your toy, here's your toy. You are so special." *smooch
+
+Mark Berry	"Hey."
+
+Babysitter	"Hi, Mr. Berry, I am so sorry that I'm late."
+
+Mark Berry	"Oh, no worries. Come on in, it's cold out there."
+
+Babysitter	"Thank you."
+
+Babysitter	Hi honey!"
+
+Mark Berry	"Okay, so I fet Jemma."
+
+Babysitter	"Okay."
+
+Mark Berry	"Which means she'll probably zonk out and be done for the rest of the evening."
+
+Babysitter	"Oh, no!"
+
+Mark Berry	"Now, I put emergency numbers on the refrigerator."
+
+Babysitter	"Okay."
+
+Mark Berry	"And of course, I will have my cell phone on me just in case. And uh, let's see, is there anything else?"
+
+Babysitter	"Mr. Berry, don't worry I've done this before."
+
+Mark Berry	"Okay, thanks, but if you do need me"
+
+Babysitter	"I won't."
+
+Mark Berry	"Okay, but if you do--"
+
+Babysitter	"Mr. Berry, please, go have a good night. My mom says that you deserve to have a good night."
+
+Mark Berry	*laughs "Okay. Well thank you."
+
+Babysitter	"Yeah."
+
+Mark Berry	"Alright."
+
+Babysitter	"Say bye dad!"
+
+Mark Berry	*kiss
+
+Babysitter	"Oh!"
+
+Mark Berry	"Thank you!"
+
+Babysitter	"Bye! See you, have fun."
+
+Babysitter	"Hey, let's go, hun."
+
+Tyrese	"He's coming, right? Did he get a babysitter?"
+
+Flin	"He is".
+
+Flin	"Uh yeah, I believe so. It'd be good though, haven't seen him in a while."
+
+Tyrese	"Forever. He's gonna miss this game."
+
+Flin	"I know. Oh there he is."
+
+Tyrese	"Hey, hey."
+
+Mark Berry	"Hey, guys."
+
+Flin	"Good to see you, man. It's been a while."
+
+Mark Berry	"Absolutely"
+
+Tyrese	"What's going on?"
+
+Mark Berry	"It's good to see you, man."
+
+Mark Berry	"Oh, man does it feel good to be out."
+
+Flin	"Yeah?"
+
+Tyrese	"We've got beer for you."
+
+Mark Berry	"Nice, thank you. What did I miss?"
+
+Flin	"Just all the good parts."
+
+Flin	"I'm just kidding."
+
+Tyrese	"You're good, man, it's just the start of the third quarter."
+
+Mark Berry	"Cool."
+
+Announcer	"The Pittsburgh win, 2015."
+
+Jennifer	"Hey, dad."
+
+Mr. Monroe	"Hey, hey, my girl! Come here. Hey get in here, the game's just getting started. Come on, guys. You remember the Blake's from next door, right?"
+
+Mrs. Blake	"Of course she remembers us, we've known her since she was in diapers."
+
+Mr. Monroe	"Well, it's been a while, was thinking maybe she might have forgotten."
+
+Mrs. Blake	"Oh yeah, maybe you're the one who's forgotten in your old age."
+
+Jennifer	"No, no, no. I remember you guys. Thank you, it's nice to see you again."
+
+Mr. Blake	"Touchdown!"
+
+All	*Cheering
+
+Mr. Blake	"Alright, hahaha" "Knock, knock! Hi everybody!"
+
+Caleb	"Hey." "Hi Jenn!" "Lily, you remember your Auntie Jenn, yeah?"
+
+Jennifer	"Hi" "Hey, can you say hi?" "She's just a little bit shy."
+
+Jennifer	"Okay. Well, I'm gonna go do my stuff, so, uhh, I'll see you later. It was nice seeing you." 
+"You too, bye."
+
+Jennifer	"Hi, Caleb." "Alright, let's go. Go see grandpa, go see grandpa."
+
+All	Go, go, go."
+
+Announcer	"They'll take it in!"
+
+All	"Yes!"
+
+Tyrese	"Yes!"
+
+Mark Berry	"Nice."
+
+Tyrese	"Sucker! Now, now, don't cry!"
+
+Flin	"I'm not crying."
+
+Tyrese	"Well, you'll have another chance to win, next year."
+
+Betsey Goldmen	"Who is Conrad? Tune in tomorrow for a recap of our exclusive interview with romance novelist Jennifer Monroe and some never before seen footage and hopefully get to the bottom of the question that is on all of our minds. Who is Conrad?"
+
+Tyrese	"Who is Conrad? Who is Conrad? OMG who is Conrad?"
+
+Tyrese	"My wife loves these books. Can't get enough of them. Apparently, Conrad is the man every woman wants."
+
+Tyrese	"This guy's basically perfect. Annabelle is constantly saying 'Conrad this, Conrad that, OMG you're such a jerk why can't you be more like Conrad, blah, blah'"
+
+Flin	"Dude..."
+
+Tyrese	"What?"
+
+Flin	"Jennifer Monroe? Jenny Monroe?
+
+Tyrese	"You keep repeating the name, doesn't mean I'm gonna get it, what am I missing here?"
+
+Flin	"Mark's girlfriend all through college."
+
+Tyrese	"You dated Jennifer Monroe, the novelist?"
+
+Mark Berry	"Kind of."
+
+Tyrese	"Oh, man, how come you didn't tell me? Oh, do you have the hookup? My wife would love me forever if she got to meet her."
+
+Mark Berry	"Guys, it's not a big deal, that was years ago. And no, we don't really even talk anymore."
+
+Flin	"Yeah, not a big deal. Except that she took every single one of their intimate moments, added a happier ending and made it into a successful book series for all the desperate women to enjoy."
+
+Tyrese	"What?"
+
+Mark Berry	"Well, I wouldn't quite say it like that."
+
+Tyrese	"Wait, wait, give me a sec..."
+
+Flin	"The dude is Conrad."
+
+Tyrese	"He's Conrad?"
+
+Flin	"Yeah, he's Conrad."
+
+Tyrese	"Mark is Conrad?"
+
+Flin	"Yes! Mark is Conrad."
+
+Mark Berry	"Guys, can we please relax. I am not Conrad."
+
+Flin	"You're not?
+
+Mark Berry	"We dated in college for a while, that's it. And it didn't work out."
+
+Flin	"Mark graduated a year ahead of her, their relationship became long distance and she dumped him.
+
+Tyrese	"Damn!"
+
+Flin	"And now she makes a whole lot of money writing about him."
+
+Mark Berry	"Hey!"
+
+Flin	"Sorry, uh, writing about Conrad."
+
+Tyrese	"That's cold."
+
+Flin	"Yeah..."
+
+Mark Berry	"Guys, those stories could be about anyone."
+
+Flin	"Yeah, but they're not."
+
+Mark Berry	"Okay can we please just move on?"
+
+Tyrese	"Yes. Absolutely. Look, moving on."
+
+Flin	"For sure, man."
+
+Mark Berry	"Thank you."
+
+Tyrese's Wife	"Tyrese!"
+
+Tyrese	"Hey, baby!"
+
+Tyrese's Wife	"Don't pretend like you didn't get my text, game's over, time to leave. And hurry, I'm double parked."
+
+Tyrese	"I gotta go. Before she makes me walk home."
+
+Flin	*laughs "Go, get out of here, man."
+
+Mark Berry	"See ya later, buddy."
+
+Mark Berry	*laughing
+
+Flin	"Wow."
+
+Mark Berry	"Wow's right."
+
+Flin	"I gotta go clock in, man. You good?"
+
+Mark Berry	"Yeah, I'm good, gotta take off anyway and run some errands."
+
+Flin	"Okay."
+
+Mark Berry	"This is for you."
+
+Flin	"Don't even worry about it, I gotcha."
+
+Mark Berry	"Thanks, buddy.
+
+Barista	"Woah, Jennifer Monroe, back in town! Gettin in touch with her roots, I like it. What can I get for ya?"
+
+Jennifer	"I will have a cinnamon latte, almond milk, no sweetener, no syrup."
+
+Barista	"Okay, got ya so no sweetener, we can do. No syrup, eh, probably not gonna taste great, but we can do it. Unfortunately, we don't have any almond milk.
+
+Jennifer	"Fine, coconut milk?"
+
+Barista	"No, but can I interest you in some whole milk?"
+
+Jennifer	"No, uhh, what else do you have?"
+
+Barista	"Whole milk, half & half..."
+
+Jennifer	"That's all you have?"
+
+Barista	"Yup!"
+
+Jennifer	"I'll just have a coffee, black.
+
+Barista	"Excellent choice. Would you like to add a slice of cherry pie? Made with our famous homemade Anne's Pie filling?"
+
+Jennifer	"Sure, why not?"
+
+Barista	"Awesome. The cherry pie's my favorite."
+
+Jennifer	"This is so bitter."
+
+Barista	"Uhh, we've got sweetener in the corner, help yourself."
+
+Mark Berry	"Hey man, how's it going?"
+
+Barista	"Oh, hey Mark.
+
+Mark Berry	"Good to see ya."
+
+Barista	"Good to see ya, man."
+
+Barista	"Oh, dude. You just missed it.
+
+Mark Berry	"Miss what?"
+
+Barista	"Jenn was here. Like five minutes ago."
+
+Barista	"Jennifer Monroe? Oh, snap, you didn't know that she was back in town? Yeah, she was here. She's back. Oh man, what if she was here, and you were here at the same time she was still here. Oh, man, if you guys saw each other, the tension, the chemistry, the lack of chemistry, god!"
+
+Mark Berry	"Hey can I get a coffee?
+
+Barista	"Yeah. Yeah I can get you a, just a normal coffee?
+
+Mark Berry	"Yeah, that'd be great."
+
+Barista	"Cool, man, I'm gonna go get it."
+
+Babysitter	"I am so sorry, Mr. Berry, I was just resting my eyes."
+
+Babysitter	"You okay? You look like you just saw a ghost." *laughs
+
+Mark Berry	"Yeah, no, I'm fine."
+
+Babysitter	"Well Gemma was perfect, as always."
+
+Mark Berry	"Oh, good."
+
+Babysitter	"Yeah."
+
+Mark Berry	"Good to hear."
+
+Babysitter	"Yeah."
+
+Mark Berry	"Hey, can I offer you a ride home?
+
+Babysitter	"Uh, no actually, my birthday was a few days ago and I got a car."
+
+Mark Berry	"Oh, well happy late birthday. And congrats."
+
+Babysitter	"Thank you."
+
+Mark Berry	"Get home safe?"
+
+Babysitter	"Thanks, will do. Goodnight."
+
+Mark Berry	"Goodnight."
+
+Johnny	"Hey sis.
+
+Jennifer	"Hmm, hey."
+
+Johnny	"Whatchya doin?"
+
+Jennifer	"Just checkin e-mails, what's up?"
+
+Johnny	"Just wanted to make sure you were okay."
+
+Jennifer	"I'm fine."
+
+Johnny	"Yeah, you seem fine."
+
+Jennifer	"Jill looks good, I don't see much of a difference
+
+Johnny	"Yeah. Yeah she's doing well."
+
+Johnny	"She's strong. Ya know? And complete. If that makes sense."
+
+Jennifer	"That's good. I'm glad."
+
+Johnny	"Yeah, me too. Hey, you going skating with us tomorrow?"
+
+Jennifer	"Skating?"
+
+Johnny	"Yeah, it's Lily's birthday. You know, and she wanted to go ice skating so."
+
+Jennifer	"I totally forgot. I guess I have to go."
+
+Johnny	"Well you don't have to go. It'd be nice of you though. And she is your niece and all so."
+
+Jennifer	"Yeah, I guess.
+
+Johnny	"No, no. She is."
+
+Jennifer	"I know, it's just, she doesn't even say hi. Do you think something's wrong with her?"
+
+Johnny	"You know, in her defense, she doesn't really know you.
+
+Jennifer	"Yeah. Whatever."
+
+Johnny	"Hey, don't beat yourself up, alright? You'll get to know her soon enough."
+
+Johnny	"But I'll see you tomorrow."
+
+Jennifer	"Goodnight."
+
+Johnny	"Goodnight."
+
+Ice Rink Employee	"Here for Lily's party?"
+
+Jennifer	"Thanks."
+
+Ice Rink Employee	"Sure thing."
+
+Mr. Monroe	"Oh, this looks so beautiful.
+
+Johnny	"Yeah."
+
+Mrs. Monroe	"She's gonna love it."
+
+Mr. Monroe	"Yeah, come on, let's get going. Okay we're gonna grab our skates, okay?"
+
+Mrs. Monroe	"Okay."
+
+Mr. Monroe	"Alright, sweety. Really beautiful.
+
+Jennifer	"Hey!"
+
+Mr. Monroe	"Hey! Those are so beautiful! Oh fantastic."
+
+Mrs. Monroe	"Oh my gosh, she's gonna love these."
+
+Jennifer	"Yeah. Can I help?"
+
+Mrs. Monroe	"Um yeah, actually, umm, why dont you put some more plates near the cake, I think that'd be great."
+
+Mark Berry	"Sorry I'm late, buddy."
+
+Ice Rink Employee	"It's all good."
+
+Mrs. Monroe	"They look happy, don't they?"
+
+Jennifer	"Yeah, they do."
+
+Mrs. Monroe	"I'll tell ya, some people are just meant to be."
+
+Lily	"Grandma, come skate with us!"
+
+Mrs. Monroe	"Coming!"
+
+All	"Happy birthday to you, happy birthday to you, Happy birthday dear Lily, happy birthday to you."
+
+Caleb	"Blow em out!"
+
+Jillian	"You got it, blow em out!"
+
+Jill	and Caleb	"One more, one more!"
+
+Johnny	"Whatchya lookin at?"
+
+Jennifer	"They did good."
+
+Johnny	"Yeah they did."
+
+Jennifer	"So, what about you? Do you have a lady friend?"
+
+Johnny	*laughs "No, no, no"
+
+Jennifer	"Well do you date?"
+
+Johnny	"Not at the moment but, you know I'm just too busy. Workin a lot and helpin 
+
+Caleb	and
+
+Jillian	take care of Lily
+
+Johnny	"Yeah, I mean I'll get back into it when the time is right. I feel like there's more important things going on."
+
+Jennifer	"Yeah"
+
+Johnny	"So you gonna come skate?"
+
+Jennifer	"In a minute, I gotta finish my cake."
+
+Johnny	"Come on, I better see you out there on that ice."
+
+
+Jennifer	"Alright."
+
+Johnny	"Alright."
+
+Jennifer	"You will."
+
+Johnny	"I better."
+
+Jennifer	"Everything okay?"
+
+Jillian	"Yeah, yeah, yeah, I just, oh, need to rest for a second."
+
+Jennifer	"You sure?"
+
+Jillian	"Yeah."
+
+Caleb	"Okay, baby, lean on me."
+
+Jillian	"Ah, thanks, babe."
+
+Caleb	"Yeah."
+
+Jillian	"Hey, I'm really glad you're here."
+
+Jillian	"Come here."
+
+Jennifer	"You sure you're okay?"
+
+Jillian	"Yeah, yes. Get out there, skate. Never too late to learn how. Go! No time like the present."
+
+Mark Berry	"Hey, didn't I see you at the coffee shop last night.
+
+Jennifer	"What are you doing here?"
+
+Mark Berry	"Well, I work here and I live here, what are you doing here?
+
+Jennifer	"It's Lily's birthday?"
+
+Mark Berry	"I meant what are you doing here in Wisconsin?"
+
+Jennifer	"It's Christmas time"
+
+Mark Berry	"It's been Christmas before and you've never come home, so what are you doing here? Wait, are you actually staying for Christmas?"
+
+Jennifer	"Yeah, is that a problem?"
+
+Mark Berry	"No, I'm just surprised to see you, I didn't think you were ever going to come home."
+
+Jennifer	"Well, I wouldn't if it was up to me but my family refuses to leave from this place so here I am."
+
+Mark Berry	"Okay."
+
+Mark Berry	"I gotchya. I gotchya."  "You never could skate. This is great. You can't run like you did at thecoffee shop. You're stuck here on the ice with me. You have no choice but to chat."
+
+Jennifer	"Oh no, we can skate in silence. Cause I really have nothing to say to you.
+
+Mark Berry	"Really? After all this time?"
+
+Jennifer	"Nope."
+
+Mark Berry	"Nothing at all?"
+
+Jennifer	"Okay, look. I won't play this game. Did you have something in mind you wanted me to say to you?
+
+Mark Berry	"I wanna know why you're here
+
+Jennifer	"I already told you!"
+
+Mark Berry	"Wait, did Flin tell you about me and Laura, is that why you're here?"
+
+Jennifer	"Who's Laura? Look, I don't know what's happening right now, but I'm not one of those girls that stalks their exes on social media just to get insight into their life."
+
+Jennifer	"We were done seven years ago. You screwed up. Chapter closed."
+
+Jennifer	"So whatever fun you and your floozy Laura are having, kudos!"
+
+Jennifer	"Now if you'll excuse me
+
+Jennifer	"Do you know where mom is?
+
+Johnny	"She went to bed."
+
+Caleb	"What do you have there?"
+
+Jennifer	"Epsom salt, I can't feel my feet."
+
+Johnny	"I don't know how salt's gonna help you with that." *laughs
+
+Jennifer	"Very funny. I need a bucket. Do you know where she keeps them?"
+
+Johnny	"I don't know, beats me."
+
+Caleb	"Check with Jill, she's upstairs."
+
+Jennifer	"Ow." *groans
+
+Jill	"Hey."
+
+Jennifer	"Hi."
+
+Jill	"Different, isn't it?"
+
+Jennifer	"How do you feel?"
+
+Jill	"Tired but happy. Lily had a great day. I'm really glad you came."
+
+Jennifer	"Yeah, me too."
+
+Jennifer	"So, when did you move back in with mom and dad? I had no idea."
+
+Jill	"A couple months ago. Things have just been coming in waves. So it's just been easier on everybody to have mom and dad close by. Ya know? A little bit of stability."
+
+Jill	"And Johnny	too. Lily loves her Uncle Johnny."
+
+Jill	"What are you doin back here, Jennifer? Don't get me wrong, we are so happy that you're back and I would love to think that you're here to see me but I don't really think that's the case. It's never been a reason before."
+
+Jennifer	"Well, I was supposed to go to Fiji for Christmas with Lucas	but you know something just didn't feel right between us. So I cancelled the trip and I told him I needed to come back home and that there was an emergency."
+
+Jill	"Interesting."
+
+Jennifer	"How so?"
+
+Jill	"No, just your family's an excuse when you need us to be."
+
+Jennifer	"Oh, Jill, I didn't mean it like that.
+
+Jill	"No, we'll take what we can get. Honestly, Jenn, we're just happy to see you."
+
+Jill	"I saw you with Mark	today. Come on. Tell me everything."
+
+Jennifer	"It was nothing really."
+
+Jill	"Come on."
+
+Jennifer	"Can I at least get a bucket first?"
+
+Jenifer	"And I couldn't stand up. So bad.
+
+Jill	"We saw you! Everybody saw you."
+
+Jennifer	"And then he asked me, he's like, did Flin tell you about Laura? One: I don't know why you'd think I still talk to Flin. And two, I have no idea who Laura is. I don't know why I would care."
+
+Jennifer	"Wait, what?"
+
+Jill	"Nothing."
+
+Jennifer	"I saw you. Now you have to tell me."
+
+Jill	"Okay, just don't tell him I told you."
+
+Jennifer	"Okay."
+
+Jill	"Mark started dating Laura pretty soon after the two of you broke up. We all thought it was a rebound, of course. But, it wasn't. They were in love. And six years went by, they were still together and she got pregnant."
+
+Jennifer	"Oh my god."
+
+Jill	"Yeah...we were excited for them, we were but Laura was really weird about it all"
+
+Jennifer	"How so?"
+
+Jill	"I don't know she would just steer the conversation away from it, just kind of like half smile when you congratulate her. It was noticeably off."
+
+Jennifer	"Hmm"
+
+Jill	"Turns out she never wanted a baby. Mark	had to beg her to keep it and I guess she agreed reluctantly but as soon as Gemma was born, she left."
+
+Jennifer	"Oh my god.
+
+Jill	"Yeah."
+
+Jennifer	"Wow that's a lot."
+
+Jill	"Yeah, it is. But it's good, no, he's doing great. And Gemma is the cutest little kid you've ever seen. Except for Lily."
+
+Jill	"What?"
+
+Jennifer	"I just can't belive he's a dad. I mean, a single dad, at that. Just wouldn't have pegged him for it."
+
+Mrs. Monroe	"Good morning, love."
+
+
+Jennifer	"Good morning, mom
+
+Mrs. Monroe	"How did you sleep?"
+
+Jennifer	"Great, actually."
+
+Mrs. Monroe	"Good to hear. A little bird told me that you and your sister were quite chatty last night."
+
+Johnny	"Wasn't me"
+
+Mrs. Monroe	"It doesn't matter who it was. It was nice to hear."
+
+Jennifer	"What are you doin?
+
+Mrs. Monroe	"I'm making a last minute grocery list. I've got lots to do. Clean house, bake cookies, run errands."
+
+Jennifer	"Do you need my help?"
+
+Mrs. Monroe	"I would adore your help, thank you love. Would you mind going to the store for me?"
+
+Jennifer	"Sure. You guys gonna be okay?"
+
+Johnny	"Yeah"
+
+Mr. Monroe	"Sure."
+
+Jennifer	"I need to get a latte anyways. Store's on the way."
+
+Mrs. Monroe	"Bye. Can you believe it? She offered. Well then, I better start cleaning."
+
+Bartender	"Hey, how can I help you?"
+
+Jennifer	"This used to be a market, right?"
+
+Bartender	"Yeah, Pete's. My husband and I bought it a couple months ago. Comfy sports bar, it's always been our dream."
+
+Bartender	"You okay?"
+
+Jennifer	"Yeah, sorry. A lot of memories here. My ex and I would come and suck the helium out of the balloons, sound like a cartoon for  seconds. Drove Pete crazy."
+
+Bartender	"I can imagine."
+
+Jennifer	"Where is Pete, is he around?"
+
+Bartender	"I'm not sure. Store went out of business a couple years ago. Building was vacant, for gosh, almost a year. But I'm sure he's off enjoying retirement, somewhere in the Florida Keys or something."
+
+Bartender	"Well look who it is."
+
+Mark Berry	"Hey, Kim."
+
+Bartender	"And you brought the baby. Hi Gemma."
+
+Mark Berry	"Well, we actually just came to drop these off."
+
+Bartender	"And he cooks. Ladies, he's a keeper."
+
+Mark Berry	"Well, my mom cooks and she knows how much you love her poppy seed cake."
+
+Bartender	"I do, thank you. That's so thoughtful of her. I'm gonna go put these in the fridge."
+
+Jennifer	"Hey."
+
+Mark Berry	"Hey."
+
+Jennifer	"Look, I owe you an apology, for yesterday. I'm sorry, I shouldn't be so mean to you and I called Laura a bad word. And for that I'm sorry
+
+Mark Berry	"Apology accepted."
+
+Jennifer	"Just like that?"
+
+Mark Berry	"Well what am I supposed to do? Curse at you? Make a scene?
+
+Jennifer	"I--"
+
+Mark Berry	"We're not in college anymore."
+
+Jennifer	"Right. Can I buy you a drink? Look, I don't know when I'm gonna be back here and I'd really like to catch up. Please."
+
+Mark Berry	"Okay."
+
+Jennifer	"She's perfect.
+
+Mark Berry	"Yeah. I lucked out."
+
+Jennifer	"Is it hard? Raising her by herself?"
+
+Mark Berry	"Might be too early to tell yet, but I had no idea this is how my life would turn out. It is what it is."
+
+Jennifer	"Do you ever think about not having her?"
+
+Mark Berry	"The thought never once crossed my mind. Anyway, enough about me. How's life treating you?"
+
+Jennifer	"I guess it's good. Ya know?"
+
+Mark Berry	"Excuse me. I am so sorry I have to go."
+
+Jennifer	"Oh."
+
+Mark Berry	"But hey, you can say no if you want but if you'd like to I'd like to take you out tonight and maybe finish this conversation?"
+
+Jennifer	"I'd love that."
+
+Mark Berry	"Great. Pick you up at ?"
+
+Jennifer	"See ya then."
+
+Lily	"Yummy"
+
+Mr. Monroe	"You better watch her or we'll have none left."
+
+Mrs. Monroe	"Oh there she is. Oh my god, Jenny, where have you have been? I thought you'd left and went back to New York without saying goodbye.
+
+Jennifer	"No I went to see an old friend and had some coffee."
+
+Mr. Monroe	"Get your gear miss and come on the game's about to start, guys. Don't be late."
+
+Jillian	Woo woo!
+
+Jennifer	"No, no, no. I'm not watching the game tonight."
+
+Mrs. Monroe	"Have you lost your mind, love?"
+
+Jennifer	"No, I'm just having dinner with my old friend. So if you'll excuse me, I have to get ready."
+
+Mrs. Monroe	"Jillian, now that you and your sister are speaking again, you're gonna have to find out details."
+
+Jillian	"Alright, I'm on it."
+
+Caleb	"Go."
+
+Jillian	"An old friend?
+
+Jillian	Jenny, who you going out with?"
+
+Jennifer	"Mark."
+
+Jillian	"Mark."
+
+Jennifer	"I ran into him at the coffee shop and we talked."
+
+Jennifer	"Stop that."
+
+Jillian	"What?"
+
+Jennifer	"Smiling, stop smiling."
+
+Jillian	"Oh, what I can't smile now?"
+
+Jennifer	"Ugh, nothing to wear. Everything I bought was for lounging around the house.
+
+Jennifer	Ugh. Lord knows knows none of these high school dresses are gonna fit me. Guess I'm going in this."
+
+Jillian	"Hmm, mm-mm."
+
+Jennifer	"What?"
+
+Jillian	"Come with me."
+
+Jillian	"Come on. Come on.
+
+Jillian	You look beautiful.
+
+Jennifer	"Thank you."
+
+Jillian	"Here you go, it's cold."
+
+Jillian	"Perfect."
+
+Babysitter	"Hi, Mr. --Woah! You look nice for a game."
+
+Mark Berry	"Change of plans, I got myself a date."
+
+Annabelle	"Oh!"
+
+Tyrese	"I planned it out, trust me."
+
+Flynn	"Alright, alright. Who's ready for this game?"
+
+Tyrese	"I am."
+
+Annabelle	"Me."
+
+Flynn	"Can you say it a little more convincing next time?"
+
+Annabelle	"I don't really wanna be here."
+
+Tyrese	"Baby! It's date night. The important thing is that we are together. Now, where is Mark? Is he on his way?"
+
+Flynn	"What? You gotta be kidding me? He's not coming anymore."
+
+Tyrese	"What?"
+
+Flynn	"Yeah, it says 'Sorry guys, last minute date with an old friend. Date?
+
+Tyrese	"Old friend?"
+
+Annabelle	"Looks like everybody's having fun tonight but me."
+
+Flynn	"Yeah, being third wheel isn't exactly my idea of fun."
+
+Annabelle	"Great, I'll leave then! Problem solved! I'd rather be at the movies anyway. You two, enjoy your dates.
+
+Tyrese	"Wait, baby!"
+
+Annabelle	"It's cool, baby. I'll see you at home."
+
+Flynn	Well that worked out.
+
+Flynn	What? What's wrong with you?"
+
+Tyrese	"Are you going to share a Margherita pizza with me?"
+
+Flynn	"I guess."
+
+Tyrese	"That's right. At least you'll be a cheaper date We're going dutch."
+
+Mark Berry	"Wow, you look beautiful."
+
+Jennifer	"Thank you."
+
+Mark Berry	"Are you ready?"
+
+Jennifer	"Let's go"
+
+Jennifer	"So where are we going?"
+
+Mark Berry	"It's a surprise."
+
+Jennifer	"You know I hate surprises."
+
+Mark Berry	 "Oh, I know, I remember. But trust me, this is good."
+
+Mark Berry	"Your eyes are closed, right?"
+
+
+Jennifer	"Yes."
+
+Mark Berry	"You ready?"
+
+Jennifer	"'Yes."
+
+Mark Berry	"Okay, open them.
+
+Mark Berry	Welcome to Candy Cane Lane."
+
+Jennifer	"It's amazing"
+
+Mark Berry	"Yeah, pretty cool, huh?"
+
+Jennifer	"Very impressed.
+
+
+Mark Berry	Wow
+
+Mark Berry	"It's good right?"
+
+Jennifer	"So good."
+
+Mark Berry	"This is pretty amazing, huh?"
+
+Jennifer	Sorry.
+
+Jennifer	Hello?
+
+Jennifer	Mom, slow down. I can't understand you.
+
+Jennifer	Oh my god, okay. I'll be right there.
+
+Jennifer	Jill's in the hospital, I gotta go.
+
+Receptionist	"Can I help you?"
+
+Jennifer	"I'm looking for my sister."
+
+Receptionist	"Name please."
+
+Jennifer	"Jillian	Monroe"
+
+Receptionist	"And your name."
+
+Jennifer	"Jennifer	Monroe."
+
+Receptionist	"Jennifer	Monroe?"
+
+Jennifer	"Yes."
+
+Receptionist	"You look just like your picture!
+
+Receptionist	I can't believe it's you. I just love your books. It's my special time during the day, let's my mind wander a little bit. If you know what I mean."
+
+Jennifer	"So good to hear."
+
+Receptionist	"Oh my. Oh my goodness me. Lush sandy ahir, soft facial tickle. You must be Conrad!"
+
+
+Receptionist	Lush sandy hair, soft facial tickle.
+
+Receptionist	You must be Conrad!
+
+Mark Berry	"No, I am not Conrad."
+
+Jennifer	"He is not Conrad."
+
+Mark Berry	"Nope."
+
+Jennifer	"Definitely not.'
+
+Receptionist	"Oh no. Not Conrad.
+
+Receptionist	Even though you match exactly the description in the book.
+
+Receptionist	You are exactly what I imagined.
+
+Mark Berry	"Look, we're here to see her sister. Can you tell us what room she's in please?"
+
+Mark	Thank you."
+
+Mark	Hey. I should probably wait outside.
+
+Caleb	"Lily's gonna have to come see you."
+
+Jillian	"I know."
+
+Caleb	"The sooner the better."
+
+Jillian	"I know."
+
+Caleb	"Jill--"
+
+Jillian	I just want it to be under happier circumstances.
+
+Jillian	Hey Jen.
+
+Jennifer	"Hey Jill."
+
+Caleb	"I'll be outside if you need me okay?"
+
+Jillian	Okay.
+
+Jillian	I'm glad you came.
+
+Jillian	Come in, sit down.
+
+Jillian	And the root beer all over mom's white carpet
+
+Jillian	I thought she was gonna kill us.
+
+Jennifer	"Me too."
+
+Nurse	Ladies, keep it down. The whole floor's sleeping.
+
+Nurse	Oh.
+
+Nurse	And our Conrad had to leave. He didn't wanna interrupt.
+
+Jennifer	"My gosh, I totally forgot about him."
+
+Jillian	"I'm sorry."
+
+Jillian	Our Conrad?
+
+Jillian	Did she mean Mark?
+
+Jilllian	She did.
+
+Jillian	Oh Jenny. I'm so glad.
+
+Jillian	I'm so glad it's Mark.
+
+Jillian	That boy never stopped loving you.
+
+Jillian	Mm-mm. He just made a mistake. You know people make mistakes, Jenny.
+
+Jillian	But you deserve to be with somebody that makes you happy.
+
+Jillian	You deserve the best.
+
+Jennifer	"You deserve the best. If anyone in this world does, it's you."
+
+Jillian	"Jenny--"
+
+Jennifer	"It's true. You're a better person than I am."
+
+Jillian	"Oh, dont' say that."
+
+Jennifer	It's true.
+
+Jennifer	You're always thinking of others.
+
+Jenifer	You listen when people talk to you.
+
+Jennifer	You contribute to charity.
+
+Jillian	"So do you."
+
+Jennifer	I write a check.
+
+Jennifer	Anyone can write a check. You actually care.
+
+Jennifer	You donate your time and your heart
+
+Jennifer	and you see the impact that your being has on others.
+
+Jennifer	You have a little girl and she's so beautiful. And she has the whole world ahead of her.
+
+Jennifer	And she needs her mom.
+
+Jennifer	I don't know why God's taking you away from us.
+
+Jennifer	It's so soon. And I'm so angry at him and I hate that I am--
+
+Jillian	Hey
+
+Jillian	It's okay.
+
+Jillian	What you're feeling is fine.
+
+Jillian	Hey, I was mad
+
+Jillian	at first. I was mad.
+
+Jillian	Why, why me?
+
+Jillian	I know that.
+
+Jillian	I started to feel selfish.
+
+Jennifer	"What?"
+
+Jillian	"I just think
+
+Jillian	if I go
+
+Jillian	it's just because i'm neeeded in heaven.
+
+Jillian	Like
+
+Jillian	maybe I'll be more impactful as an angel.
+
+Jillian	I know that sounds childish
+
+Jillian	but I have to believe it.
+
+Jillian	It's better than asking all the reasons why.
+
+Jillian	Don't you think?
+
+Jennifer	"I'm so sorry I didn't visit sooner."
+
+Jillian	It's okay.
+
+Jillian	You're here now.
+
+Mark	Hey
+
+Mark	What are you doing here?
+
+Jennifer	Hi.
+
+Jennifer	I didn't wanna go home.
+
+Jennifer	You hungry?
+
+Jennifer	Like old times?
+
+Mark	Come on in.
+
+Mark	How did you even find a place open this late? Everything here closes at .
+
+Jennifer	Everything does close. I had to beg Mr. Donaldson to let me into the store.
+
+Mark	"I mean, all those years of veganism, you must've been really craving marshmallows and cocao."
+
+Jennifer	"I just wanted something that took me back to teh good times."
+
+Mark	"What, like frostbite?"
+
+Jennifer	No, like being here.
+
+Jennifer	Embracing the earth.
+
+Mark	Yeah, probably not a lot of starry nights in New York like there are here, huh?
+
+Jennifer	Not like this.
+
+Mark	How ya holding up?
+
+Jennifer	It's weird.
+
+Jennifer	It's been a while since I've been back."
+
+Mark	I know.
+
+Jennifer	A lot has changed.
+
+Jennifer	I'm so angry at myself.
+
+Jennifer	It was just so much easier staying away from this place.
+
+Jennifer	And the town.
+
+Jennifer	My family.
+
+Jennifer	You
+
+Jennifer	Now that I'm back, I don't know. I just--
+
+Jennifer	I regret not visiting more often.
+
+Mark	Well I mean you were pretty busy melting the hearts of millions of women with the adventures of the great Conrad Jacobson.
+
+Jennifer	Oh god.
+
+Jennifer	How much have you heard about Conrad?
+
+Mark	Oh, I don't know. I'd say everything.
+
+Jennifer	"Everything?
+
+Mark	It's all over the TV stations.
+
+Jennifer	This is true.
+
+Mark	I know I tease you about Conrad
+
+Mark	but you should be proud of yourself. I mean it.
+
+Mark	You made a life for yourself outside of this town and that takes guts.
+
+Jennifer	Thank you.
+
+Mark	Even if it was at the expense of sharing our intimate details for the entire world to enjoy.
+
+Jennifer	I'm sorry.
+
+Jennifer	I'm not sure I know what you mean.
+
+Mark	Yes you do.
+
+Jennifer	Help me out.
+
+Mark	Conrad.
+
+Jennifer	You're not Conrad.
+
+Mark	Yes, I am.
+
+Jennifer	No you're not.
+
+Mark	Come on.
+
+Mark	Wearing cowboy boots, falling in love on the dance floor?
+
+Mark	Chasing fireflies on the summer nights.
+
+Mark	Skinny-dipping on a dare.
+
+Mark	Jen, that was you and me.
+
+Jennifer	You read my books?
+
+Mark	All of them. Multiple times actually.
+
+Mark	I enjoy them, they remind me of our beginning chapters.
+
+Mark	Except for like a slightly skewed time capsule.
+
+Mark	They really remind me of the good times we had.
+
+Mark	Except we didn't have quite the same ending of course.
+
+Mark	Jen,
+
+Mark	I'm sorry I cheated on you.
+
+Jennifer	It was years ago, it's fine. Long distance is hard.
+
+Mark	Yeah, I know, but I don't think I ever apologized, so,
+
+Mark	I'm sorry.
+
+Jennifer	Me too.
+
+Flynn	That's good.
+
+Tyrese	Thank you, man.
+
+Flynn	It's a little fruity.
+
+Tyrese	No, it's good. It's like a cocktail.
+
+Flynn	Oh, hey man.
+
+Mark	Hey guys.
+
+Tyrese	Yo.
+
+Flynn	Whoa! You get your teeth whitened or something?
+
+Flynn	What's with the smile, it's nauseating.
+
+Mark	What are you talking about?
+
+Flynn	Dude, stop, you're creeping me out.
+
+Mark	I had a good night, that's all.
+
+Tyrese	Looks like a really good night.
+
+Flynn	What?
+
+Flynn	Did you?
+
+Tyrese	With Jennifer?
+
+Tyrese	Tell me it was Jennifer!
+
+Mark	She came over last night.
+
+Tyrese	Yes!
+
+Tyrese	It's about time man.
+
+Flynn	Looks like Jennifer finally hooked her Conrad.
+
+Mark	It was one night.
+
+Flynn	Yeah, but y'all will see each other again, right?
+
+Mark	Yeah, I'm actually on the way to the hospital now.
+
+Mark	Give her a little moral support.
+
+Tyrese	Being there for her sister, and her family at a time like this? That's a real man.
+
+Flynn	I knew you guys would get back together. I just knew it!
+
+Mark	Thanks. Well I came by to tell you guys I can't join you for the game. I tried texting both of you.
+
+Flynn	Oh yeah, my phone died like an hour ago.
+
+Flynn	Wifey took mine. I'm under the microscope again.
+
+Mark	Oh boy, what did you do?
+
+Flynn	I don't know. Annabell's going crazy.
+
+Mark	Alright, well I gotta take off, so enjoy the game.
+
+Flynn	Alright, have fun buddy.
+
+Mark	Thank you.
+
+Tyrese	Bye Conrad.
+
+Flynn	Run to her Conrad!
+
+Flynn	Run to her!
+
+Jennifer	Hey Donna.
+
+Donna	Jennifer, thank god I got a hold of you.
+
+Jennifer	Why, what's wrong?
+
+Donna	I wanna talk about your book tour. I talked to the publishers and they wanna put you on a worldwide tour starting this spring.
+
+Donna	Did you hear me? I said worldwide, three continents.
+
+Jennifer	Yes, yes, that's fantastic. Tell them yes.
+
+Donna	Okay, great. I just, we'll go over all the details later, I just needed a yes to move forward.
+
+Donna	And now that all that business talk is out of the way, how's home?
+
+Jennifer	It's good, it's good that I'm home.
+
+Donna	Okay, awesome. Hey, I wish I could talk more but my other line's ringing, so I really gotta run.
+
+Jennifer	Alright, I'll see you then.
+
+Mark	There you are. I've been looking all over for you. They're requesting us in the room.
+
+Jennifer	Why what's wrong?
+
+Mark	I don't know.
+
+Jennifer	What's wrong?
+
+Caleb	Nothing's wrong. Everyone we hae an announcement.
+
+Jennifer	What's happening?
+
+Caleb	As you know, the last couple days have really tested the limits of our family.
+
+Caleb	The news we've heard hasn't really been the best but
+
+Caleb	Jillian	and I have been talking and we agree, we wanna get married.
+
+Caleb	We'd like to do it tomorrow if that's okay.
+
+Mrs. Monroe	Tomorrow's Christmas.
+
+Mr. Monroe	A Christmas wedding?
+
+Caleb	If that's okay.
+
+Mr. Monroe	I like it.
+
+Mr. Monroe	Welcome to the family.
+
+Mrs. Monroe	Christmas. A Christmas wedding is perfect! Oh my god! I've got so much to do.
+
+Jillian	I know, I'm sorry.
+
+Mark	Congrats, guys.
+
+Caleb	Thanks.
+
+Mrs. Monroe	Is everyone excited about tomorrow?
+
+All Oh, yeah.
+
+Mrs. Monroe	Finally, you can call me mom.
+
+Caleb	No, I won't
+
+Johnny	Do not call him dad yet. No.
+
+Caleb	I'll work up to it, I'll work up to it.
+
+Mrs. Monroe	Excuse me.
+
+Lucas	Hi.
+
+Mrs. Monroe	Can I help you?
+
+Lucas	"You must be Mrs. Monroe. It is so lovely to finally meet you. Jennifer's told me so much about you.
+
+Lucas	I'm Lucas, Jennifer's boyfriend.
+
+Mrs. Monroe	Of course, of course. You must be freezing, come in.
+
+Lucas	Oh yes, thank you so much. It is crazy out there.
+
+Mark	Of course I have room for dessert. Come on, who doesn't right?
+
+Mrs. Monroe	Looks like we have a visitor.
+
+Lucas	Hello everyone. Hey baby.
+
+Jennifer	Lucas, what are you doing here?
+
+Lucas	You weren't picking up and I got so worried and Donna	told me what was happening with your sister here.
+
+Jennifer	She did?
+
+Lucas	Yeah, I wanted to be here for you.
+
+Lucas	You don't look happy to see me.
+
+Jennifer	No, no, no, I am, I'm just
+
+Jennifer	surprised that's all.
+
+Johnny	*clears throat
+
+Jennifer	I'm sorry, I'm so rude. This is my family That's my brother Johnny.
+
+Lucas	Hey man.
+
+Jennifer	My soon to be brother-in-law Caleb.
+
+Lucas	How ya doing man, how ya doing?
+
+Jennifer	That's my little niece Lily
+
+Lucas	Hi.
+
+Jennifer	You've already met my mom, that's my dad over there and
+
+Jennifer	this is Mark, a really good friend from childhood.
+
+Lucas	Well it is very nice to meet you all. I've heard so much. She's told me so much.
+
+Mrs. Monroe	You must be hungry after your travels.
+
+Lucas	Yes, I'm starving.
+
+Mrs. Monroe	"Let me get you a chair."
+
+Lucas	"Thank you, thank you so much."
+
+Mark	Actually, he can take my chair.
+
+Mrs. Monroe	Dear, you don't have to leave.
+
+Mark	No, it's okay. I was about to get out of here anyway.
+
+Mark	I promised my babysitter I'd be home at a reasonable hour.
+
+Lucas	You sure buddy?
+
+Mark	Yeah, I'm sure.
+
+Lucas	Thanks a lot, man.
+
+Lucas	What was your name again?
+
+Mark	Mark.
+
+Lucas	"Mark. Nice to meet you, Mark."
+
+Mark	Nice to meet you too.
+
+Mark	Thanks again guys, have a good night.
+
+Mrs. Monroe	We'll be seeing you tomorrow, yes?
+
+Lucas	Well...
+
+Lucas	Hey everyone.
+
+Everyone	Hey, hello.
+
+Lucas	Wow.
+
+Lucas	You look so different. You're happy.
+
+Mark	Yo!
+
+Tyrese	Hey!
+
+Tyrese	You're home early.
+
+Mark	Yeah. So, how was she?
+
+Tyrese	Went to sleep like an angel, stayed asleep like a miracle baby.
+
+Tyrese	What happened?
+
+Mark	Aww man, you're not gonna believe it. Her boyfriend showed up?
+
+Tyrese	Boyfriend?
+
+Mark	Yeah, he flew in and surprised her.
+
+Tyrese	Dang, I'm sorry.
+
+Mark	It's okay. This week was just way too perfect to be true.
+
+Tyrese	Yeah.
+
+Mark	I mean, I don't even know what I was thinking. It's been over, we both live our own realities now.
+
+Tyrese	Maybe. But there's only one Conrad.
+
+Tyrese	Oh yeah, that came for you, from the state.
+
+Mark	What's that about?
+
+Tyrese	Annbelle wants to know when I'll be home.
+
+Tyrese	Can I stay for a while? Hang? Guy time?
+
+Mark	Yeah, of course.
+
+Tyrese	Great
+
+Mark	You good?
+
+Tyrese	Everything's fine.
+
+Tyrese	She's just been overly annoying to me lately.
+
+Tyrese	She'll never know you came home early.
+
+Mark	Alright, in that case. What are we watching?
+
+Mark	It's okay. It's okay, baby. It's okay, it's sleepy time. What do we got here. Help me open this.
+
+Mrs. Monroe	Today's the day! Alright guys, it's wedding day! Time to celebrate!
+
+Flynn	So it's official.
+
+Flynn	Signed, sealed, stamped, delivered.
+
+Flynn	How's it feel?
+
+Mark	Honestly guys, I don't know.
+
+Tyrese	I think this is good.
+
+Mark	Yeah?
+
+Flynn	Yeah
+
+Mark	Yeah
+
+
+Mark	Guys, who leaves a baby?
+
+Mark	Leave me, I get it,
+
+Mark	but walk away from your own child?
+
+Mark	That I don't get.
+
+Mark	I knew it was coming.
+
+Mark	But that, that right there makes it real.
+
+Mark	What am I gonna do?
+
+Tyrese	What you've been doing.
+
+Mark	I mean when she grows up.
+
+Mark	How am I supposed to guide her through things?
+
+Mark	Guys, I dont know the first thing about teenage girls.
+
+Tyrese	Man you're thinking too much. You got time to figure it out.
+
+Flynn	Yeah, besides, you have us. We're not going anywhere.
+
+Mark	Thanks guys, I appreciate it.
+
+Bartender/Flynn	you're not on a break, I need you on the floor.
+
+Flynn	I was just-- see you guys.
+
+Mark	See ya buddy
+
+Mark	What? What's wrong?
+
+Tyrese	Annabell says hurry home, I need to talk to you. Urgent.
+
+Tyrese	I gotta go.
+
+Tyrese	Hey, weren't you supposed to go to a wedding today?
+
+Mark	I'm not going anymore. It's just gonna be a father daughter day today.
+
+Tyrese	Okay.
+
+Mark	Alright, call me later.
+
+Tyrese	Will do.
+
+Mark	Alright, Gemma, let's get out of here.
+
+Jillian	Who's your date?
+
+Jennifer	Just some guy I'm seeing
+
+Jillian	He's cute
+
+Jennifer	Yeah
+
+Jillian	Is Mark	coming?
+
+Jennifer	I don't know. I haven't heard from him.
+
+Jillian	Sorry
+
+Jennifer	This is your day, lets' talk about happy things. Like how beautiful you look.
+
+Jillian	Oh, thank you,
+
+Mr. Monroe	Are you ready?
+
+Jillian	Almost
+
+Tyrese	Baby, whats' going on? You okay?
+
+Annabelle	I'm pregnant
+
+Tyrese	Are you beingserious?
+
+Annabelle	Yup.
+
+Annabelle	We're having a baby.
+
+Annabelle	Please say something.
+
+Tyrese	Whoo! Thank God.
+
+Tyrese	I thought you were leaving me! You've been acting so crazy!
+
+Annabelle	What?
+
+Tyrese	Nevermind, girl I'm rambling.
+
+Tyrese	This is the best Christmas ever.
+
+Tyrese	We're having a baby.
+
+Annabelle	We're having a baby.
+
+Tyrese	I love you
+
+Annabelle	I love you too
+
+Mr. Monroe	You look beautiful
+
+Jillian	Thanks, dad.
+
+Lily	Can we open Christmas presents now?
+
+Johnny	Sure thing Lily
+
+Lily	Yay!
+
+Mark	Wow.
+
+Mark	Alright, is there anymore in there? Anything else in there?
+
+Lucas	Hello?
+
+Lucas	Yeah. Lisa, what did I tell you about calling me? Okay, text is better. Yeah.
+
+Lucas	Yes, I know it's been a while but I've been out of town remember?
+
+Lucas	Mm-hmm.
+
+Lucas	Yeah, I know. i know.
+
+Lucas	You know what, I'm actually at the airport right now. Yeah, so I'll be back soon.
+
+Lucas	Yeah, yeah, tomorrow. That's great.
+
+Lucas	Yes I'm excited too.
+
+Lucas	Okay. I'll see you tomorrow then.
+
+Lucas	Perfect. Okay. Okay. Alright. Okay, love you, bye.
+
+Lucas	I mean, what is taking them so long right?
+
+Lucas	These people are so difficult.
+
+Jennifer	Do you always say I love you when you hang up the phone?
+
+Lucas	What?
+
+Jennifer	The woman you were just talking to , Lisa.
+
+Jennifer	You just said "I love you."
+
+Lucas	Oh, well not like that.
+
+Lucas	We just work together, you know. She's new to the office. I have love for her as an employee.
+
+Lucas	You know, real smart girl. Real hard worker.
+
+Lucas	Not like nothing we have baby, come on.
+
+Lucas	Okay, she wants to hang out when I get back. You know, pick my brain on logistics, talk business, all that boring mumbo jumbo.
+
+Lucas	Told her I'd take her to lunch, keep it casual, just give her some pointers, help her out.
+
+Lucas	If that's alright with you, of course.
+
+Jennifer	Yeah, lunch, dinner, whatever you want.
+
+Jennifer	Whenever you want.
+
+Lucas	Thank you baby.
+
+Jennifer	Because we're over.
+
+Lucas	Wait, what?
+
+Jennifer	You must think I'm an idiot.
+
+Jennifer	Do you think I believe those lies?
+
+Lucas	But it's, baby--
+
+Jennifer	Stop
+
+Flight Attendant	We are now boarding for flight  with service to New York.
+
+Jennifer	Our chapter's over.
+
+Lucas	What, no? Jenny, come on.
+
+Flight Attendant	Please have your boarding pass out.
+
+Makeup Artist	How was Ibiza?
+
+Betsey Goldmen	Ugh, fabulous. But I'm so jet lagged.
+
+Makeup Artist	I bet. Make sure you drink a lot of water too.
+
+Betsey Goldmen	Oh, can I help you?
+
+Donna	Betsey, it's always a pleasure.
+
+Donna	Just so we're clear, there's no talking about her sister's passing. Just about the book and the tour.
+
+Betsey Goldmen	I wouldn't even think about it
+
+Donna	Great	thank you
+
+Showrunner	I need you, we're on in 
+
+Makeup Artist	She's almost ready Okay.
+
+Football Announcer	A spin and escape and drive! He'll take in!
+
+Flynn	Dude.
+
+Flynn	You don't look good.
+
+Tyrese	Man, what's wrong with you? You walk around like there's a cloud hanging over your head.
+
+Mark	Guys, I'm fine.
+
+Tyrese	Obviously you're not.
+
+Betsey Goldmen	Give it up for one of our favorite guests, the iconic book writer, Jennifer	Monroe.
+
+Betsey Goldmen	Oh, thank you so much for being here today.
+
+Mark	Guys, can we turn this please?
+
+Tyrese	No man, I wanna watch this
+
+Flynn	Yeah, it might be interesting
+
+Mark	Alright, fine, I'm out
+
+Betsey Goldmen	I know it's been a tough year for you,
+
+Betsey Goldmen	with your sisters passing and the launch of a new book tour.
+
+Jennifer	It's been quite the year.
+
+Jennifer	Bittersweet you know?
+
+Jennifer	I'm definitley ready for the year to be over.
+
+Jennifer	I'm ready for a new chapter.
+
+Betsey Goldmen	Well her book tour starts next week.
+
+Betsey Goldmen	Check online for a signing near you.
+
+Betsey Goldmen	And it gives us more information about our beloved Conrad than ever before.
+
+Betsey Goldmen	You won't be dissapopointed.
+
+Betsey Goldmen	Check out Jennifer's new book, "A Kiss on Candy Cane Lane"
+
+Betsey Goldmen	And her tour coming soon to a city near you.
+
+Annabelle	She's coming here December th! I need to her sign my copy.
+
+Annabelle	This book was by far the best one in the series.
+
+Annabelle	Over a romatnic winter's fire, we learn that Conrad is actually a soulmate from times past
+
+Annabelle	who entered her life to make her believe in love again.
+
+Annabelle	Only after that she admits that she believes in love he dissappears from earth because his purpose was fulfilled.
+
+Annabelle	A true angel. It's actually heartbreaking, but so powerful.
+
+Flynn	Wait, wait, wait. Over a romantic winter's fire?
+
+Annabelle	Yes! It's the best! They finally admit to each that they're soulamtes! Always have been and always will be.
+
+Flynn	Sounds like a certain experinece our friend had with Miss Monroe.
+
+Annabelle	Wait, what?
+
+Flynn	It's Mark. Mark	is Conrad.
+
+Annabelle	Mark	is Conrad?
+
+Flynn	Yup.
+
+Annabelle	Mark?
+
+Tyrese	Yes Annabell.
+
+Annabelle	Why didn't you tell me?
+
+Tyrese	What? Cause you love Conrad and all that
+
+Annabelle	So?
+
+Tyrese	So? Yeah, he's perfect! I can't compete with that.
+
+Annabelle	Well, if you guys would just
+
+Flynn	Guys, guys, guys, focus up. Let's regroup. What do we do next?
+
+Tyrese	Look, let's not get ahead of ourselves. First, we need to read the book.
+
+Tyrese	Thanks babe.
+
+Tyrese	Well then we need to find out when that signing is happening.
+
+Jennifer	From the moment our eyes met,
+
+Jennifer	my heart began to melt.
+
+Jennifer	A warm sensation filled my body, overtaking my sense.
+
+Jennifer	Is that what it feels like?
+
+Jennifer	After years of longing, the holes in my soul
+
+Jennifer	began to mend as the pieces of my heart were restored.
+
+Jennifer	Embraced in Conrad's arms and just one look into his eyes,
+
+Jennifer	I knew that I was safe and that I was home.
+
+Donna	Alright, we will open the floor to questions.
+
+Tyrese	I've got a question.
+
+Jennifer	What are you guys doing here?
+
+Tyrese	You thought you could get away with this.
+
+Jennifer	Get away with what?
+
+Tyrese	Oh, oh, so that's how it's gonna be?
+
+Tyrese	Let's see here.
+
+Tyrese	"I knew that moment we were soulmates. He loved me, I always loved him, never stopped.
+
+Tyrese	We kissed under the hue of a cozy fire. It was a beautiful night and worth the weight of what seemed like a lifetime."
+
+Tyrese	"Conrad came back to me, I couldn't let him go. I wouldn't.
+
+Tyrese	She wouldn't. Your words.
+
+Tyrese	Did you mean them?
+
+Donna	Sir, you're gonna have to calm down.
+
+Flynn	He's sorry, He's just passionate.
+
+Flynn	Look,
+
+Flynn	Jennifer, we all know that Mark	is Conrad.
+
+Flynn	Did you mean anything that you wrote in this book?
+
+Flynn	Because right now we've got a friend who's been literally moping around for the last  months thinking that he lost you for good.
+
+Flynn	Did he?
+
+Flynn	Did he lose you?
+
+Flynn	Because if there is even a possibility that you still love him and want him like your book says, then you need to come with us right now.
+
+Donna	You guys, I'm gonna have to ask you to leave.
+
+Jennifer	Wait!
+
+Jennifer	I'm coming with you.
+
+Donna	What?
+
+
+Tyrese	Yeah!
+
+Jennifer	I'm sorry Donna, I have to
+
+Donna	What am I supposed to do with all these people?
+
+Jennifer	I don't know. You'll figure it out. You always do.
+
+Jennifer	Thank you guys so much for coming. I'm so sorry, I gotta go.
+
+Jennifer	But I'll be back. I'm gonna go get my Conrad.
+
+Tyrese	Come on, let's go
+
+Jennifer	Okay, what do I do now?
+
+Tyrese	Go get him woman!
+
+Jennifer	Mark!
+
+Jennifer	Mark!
+
+Mark	Jen?
+
+Jennifer	Hi
+
+Mark	What are you doing here?
+
+Jennifer	Your friends came to get me.
+
+Jennifer	They're really great. I'm babbling.
+
+Jennifer	I miss you. Like really bad.
+
+Jennifer	I wanna be with you forever. 5 love you.
+
+Mark	I can't tell you how long I've waited to hear you say that.
+

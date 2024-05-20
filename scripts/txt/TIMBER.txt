@@ -1,0 +1,2590 @@
+TIMBER VO TCI-H264
+26/02/2016
+
+(BOUCLE 1 - 01:00:16:10)
+		01
+
+Insert	Montana. 1887
+
+Monty	Ca y est ! Tout est prêt, Hawk !
+
+Hawk	(h) (Ah !) Tout est prêt ?
+
+Monty	Quel dommage que tu parles pas le chien !
+
+Hawk	Bon, ça, j'en n'ai plus besoin !
+
+Monty	J'ai bien peur que personne ne trouve le trésor avec tous tes énigmes  ...!
+
+Hawk	Viens Monty, on va aller jeter un oeil à ce qu'il y a dans le coffre !
+
+(BOUCLE 2 - 01:01:09:12)
+		02
+
+Kaia	Attends une seconde, répète ce que tu viens de dire ! Le trésor est vraiment constitué d'os et de bacon ?
+
+Barbecue	Y'a pas mieux comme trésor !
+
+Sid	Personnellement, je trouve ça horrible !
+
+Thunder	Sois gentil avec les cochons, Barbecue ! Tu sais combien ils sont sensibles !
+
+Kaia	En plus, je croyais que c'était le trésor d'un humain pas d'un chien !
+
+Barbecue	Mais non, Kaia ! C'était le trésor de Monty, Hawk l'aidait juste à le porter !
+
+Kaia	C'est pas l'histoire que raconte Emmet !
+
+Barbecue	Tu veux écouter les sornettes d'Emmett ou MA vraie version de l'histoire ?
+
+Sid	Moi, j'préfère la vraie version !
+
+Manny	Moi aussi, au fait quand est-ce qu'on mange ?
+
+Sid	J'ai tellement faim que j'pourrais manger un cheval !
+
+Thunder	(eh!)
+
+Kaia	Oh, quelle horreur ! J'préfère sortir !
+
+Barbecue	Chouette ! On en aura plus !
+
+Sid	C'est super ! Je meurs d'envie de manger de belles tranches de bacon !
+
+Manny	Eh ! Fais attention à ce que tu dis, toi !
+
+Emmet	Il parait qu'il y a un trésor caché quelque part !
+
+Barbecue	Attends Emmett, j'veux écouter moi aussi ! J'adore ce genre d'histoire !
+
+Emmet	Et quand ils ont ouvert la malle, qu'est-ce qu'ils ont vu ? De l'or ? Des pierres précieuses ? Des objets de valeur ?
+
+(BOUCLE 3 - 01:02:08:10)
+		03
+
+Hawk	Et ben ... ça commence !
+
+Monty	Faudrait qu'on parte d'ici ! Ca risque de devenir dangereux.
+
+Hawk	Inutile d'enterrer le coffre ! Les explosions vont s'en charger ! Faut plutôt qu'on s'en aille ! J'vais pas pouvoir passer ! Tiens ! Tu l'apportes à la sorcière et tu rentres à la maison ! Allez ! Allez ! On se reverra de l'autre côté ! Bonne chance !
+
+(BOUCLE 4 - 01:02:54:14)
+		04
+
+Emmet	Ce fut la dernière fois où l'on vit mon arrière-grand-père vivant ... Hawk Jones ...
+
+(BOUCLE 5 - 01:03:02:20)
+		05
+
+Witch	Mais qui vaaaaaaaaaaa lààààààààà ?
+
+Monty	Je m'appelle Monty. J'ai à vous parler.
+
+Witch	Qu'est-ce que tu veux ? (ah!) Entre si tu as le courage ! (rire satanique ...........................)
+
+Kaia	C'est ce jour-là que Monty a été vu pour la dernière fois ?
+
+Barbecue	Non, il a réussi à rentrer chez lui. Autrement Mikey n'aurait pas cette clé autour du cou, Miss "Je sais tout" ! Qui ne sait pas tout !
+
+Kaia	Extrêmement drôle ...  !
+
+Barbecue	C'est vrai que j'ai un humour fou ! Content que tu apprécies !
+
+Thunder	Taisez-vous ! J'veux connaitre la fin de l'histoire !
+
+Billie	Et qu'est-il arrivé à Monty ?
+
+Emmet	Monty a donné le coffre à la sorcière celle qui vit dans les collines ... Et d'après ce qu'on m'a toujours dit, c'est elle qui détient la clé de l'énigme ...
+
+Chad	Et aujourd'hui, où est l'or, Monsieur Jones ?
+
+Emmet	Enterré quelque part dans les collines. Bien caché ... Il attend qu'un aventurier courageux le retrouve !
+
+Insert	Laura: Tu viens à la fête ce soir ? Claire: J'sais pas encore, j'vais essayer.
+
+Chad	J'pourrais y arriver ! Grâce à mon smart-phone !
+
+Billie	(h)
+
+(BOUCLE 6 - 01:03:59:17)
+		06
+
+Billie	Dans ce cas, tu devrais t'en servir pour appeler ton cerveau et le mettre sur "on" !
+
+Chad	Ah, ouais ? Et ben, j'suis sûr que Mikey, il le trouvera jamais !
+
+Emmet	Personne ne réussira à retrouver ce trésor sans les dernières pages du carnet de Hawk Jones. où il donne certains indices et des mises en garde sur les multiples pièges qu'il a mis. Pour être sûr que le trésor ne tombe pas entre de mauvaises mains.
+
+Mikey	C'est à dire pas entre celles de Chad !
+
+Chad	Et qu'est-ce qu'elles ont mes mains ?
+
+Billie	Elles serrent celles de Stonewall ! Celui qui veut nous piquer nos terres et ensuite, nous éjecter de nos maisons.
+
+Chad	Ah ouais ? Et ben, j'parie que c'est une légende qu'est même pas vraie ! Et ton arrière-grand-père n'a fait que qu'enterrer des os et pas un trésor !
+
+Barbecue	Tuez-le ! Il en sait trop, c'est dangereux !
+
+Mikey	Ce que mon père raconte est vrai à cent cinquante pour cent !
+
+Chad	Et même l'histoire de la sorcière ?
+
+Billie	Ouais ! Ma mère m'en a parlé de cette sorcière ! On raconte qu'elle vit dans les montagnes depuis deux cents ans ! Et qu'elle jette des sorts à tous ceux qui pénètrent sur son territoire !
+
+Chad	Moi, tu sais, je crois que ce que je vois !
+
+Jamie	(rire de sorcière ...........................................)
+
+Chad	(ah!)
+
+Jamie	(rire normal)
+
+Billie	Maman !
+
+Chad	C'est pas marrant ! J'vais dire à mon oncle que vous êtes tous cinglés !
+
+(BOUCLE 7 - 01:05:02:11)
+		07
+
+Sid	Il a raison, c'était pas drôle. Moi, je sais ce qui est drôle. Pourquoi les poules picotent le grillage ?
+
+Manny	J'sais pas. Dis pourquoi ?
+
+Sid	Pour aller de l'autre côté ! Vachement marrant, pas vrai ?
+
+Manny	Ouais ! Ca me rappelle quelqu'un !
+
+Poule	(rire .......................) J'vois pas ce qu'il y a de drôle !
+
+Manny	(rire ........)
+
+(BOUCLE 8 - 01:05:14:18)
+		08
+
+Emmet	J'voulais pas que la journée se finisse comme ça.
+
+Jamie	J'pensais pas qu'il le prendrait mal !
+
+Billie	Il serait temps de mûrir, maman ...
+
+Claire	On s'était dit que si on réussissait à montrer à Chad combien le ranch est génial, il pourrait convaincre son oncle de nous laisser plus de temps pour rembourser la banque.
+
+Jamie	(inspire) (expire) Tu espères que Stonewall fera preuve d'humanité ? A mon avis, tu rêves !
+
+Billie	Allez, on rentre ! A demain, Mikey !
+
+Mikey	Euh ouais ! A demain !
+
+Jamie	J'suis désolée d'avoir fait n'importe quoi !
+
+Emmet	C'est pas grave. Ca s'arrangera.
+
+Jamie	(mm)
+
+Claire	Je crois que tu lui plais.
+
+Mikey	A Madame Fanning ?
+
+Claire	Mais non, à Billie !
+
+Mikey	Ben évidemment que je lui plais, c'est ma meilleure amie !
+
+Claire	C'est pas ce que je voulais dire ... allez, laisse tomber ! Arrête de t'inquièter, ça va s'arranger ! C'était génial de travailler tous ensemble sur le ranch aujourd'hui, ça nous fera des super beaux souvenirs. Ca fait partie des bons moments de la vie !
+
+Emmet	Pourquoi ai-je l'impression que tu vas me demander l'autorisation    de sortir  ?
+
+Claire	Alors, là, j'vois vraiment pas de quoi tu parles !
+
+Emmet	Cool ! T'es trop jeune !
+
+Claire	Trop jeune ? J'ai seize ans !
+
+(BOUCLE 9 - 01:06:22:19)
+		09
+
+Emmet	C'est jeune, seize ans !
+
+Mikey	Jeune et bête !
+
+Claire	Ferme-là, on t'a rien demandé à toi ! Il faut que j'y aille, toute l'équipe de foot va y être, p'pa !
+
+Emmet	Raison de plus pour rester à la maison !
+
+Claire	Non, mais arrête, tous mes copains vont être là ! T'es vraiment trop ... maman m'aurait laissée y aller !
+
+Emmet	Ca fait partie des raisons pour lesquelles on n'est plus ensemble ! Promets-moi de la surveiller, Barbecue !
+
+Barbecue	(eh!) Si tu me nourris bien, je te jure que je fermerai les yeux, Claire !
+
+Emmet	Ecoute, je sais que c'est euh compliqué depuis que ta mère est partie, mais on va s'en sortir.
+
+Mikey	Tu crois qu'on va perdre le ranch ?
+
+Emmet	Non ! On va rester ici. L'héritage de ton grand-père arrive demain. Il nous a p't'être laissé une petite fortune ...
+
+Mikey	Tu crois ce que tu dis ?
+
+Emmet	Les dégonflés se dégonflent, les courageux agissent et l'espoir est à la portée de tous. Il suffit juste de le vouloir. La chance ne sourit qu'à ceux qui la mérite.
+
+Mikey	Qui a dit ça ?
+
+Emmet	Je,    je crois que c'est moi. C'est pas moi qui parlais ?
+
+Mikey	(ah....... !)
+
+Emmet	(ah!) Est-ce que t'as faim ?
+
+Mikey	Ouais.
+
+Emmet	Alors, viens !
+
+(BOUCLE 10 - 01:07:47:15)
+		10
+
+Sid	Si jamais ils perdent le ranch, qu'est-ce qu'on va devenir, nous  ?
+
+Thunder	On sera probablement vendus au plus offrant.
+
+Sid	Mais ici, c'est notre maison à nous aussi !
+
+Manny	Est-ce que les citrons y ont des pattes, Sid ?
+
+Sid	Bien sûr que non, quelle question !
+
+Manny	Alors, j'crois que j'ai écrasé un poussin ! Ah ! Ah ! Ah ! Ah !
+
+Thunder	Vous inquiétez pas ! Emmett a raison. La chance sourit à ceux qui la méritent.
+
+Sid	J'vois personne sourire !
+
+Thunder	Gardons espoir. La chance va tourner.
+
+(BOUCLE 11 - 01:09:40:12)
+		11
+
+Horse marron	Ouahouh ! Merci Emmett !
+
+Insert	Laura: Alors ? Tu viens ce soir ?
+
+Auteur 	(je ne vois pas ce qui est écrit)
+
+Lama	Bien le bonjour, Emmett !! J'espère qu'on n'aura pas à quitter le raaaaaanch !
+
+Thunder	Moi aussi !
+
+Manny	Bonjour Emmett !
+
+Kitten	On est trop bien ici, j'veux miaou pas partir !
+
+(BOUCLE 12 - 01:11:18:00)
+		12
+
+Emmet	Nous y voilà !
+
+(BOUCLE 13 - 01:11:52:21)
+		13
+
+Billie	Quoi de neuf ?
+
+Mikey	Pas grand chose ... et toi, ça va ?
+
+Billie	Viens, ma Kaia, viens ! Euh moi, ça va !
+
+Mikey	Super ...         j'continue à m'entrainer.
+
+Kaia	Mais qu'est-ce qui se passe ?
+
+Barbecue	C'est le méchant qui veut nous voler notre maison.
+
+Emmet	J'aurais p't'être dû me changer ...
+
+Jamie	Rassure-toi, c'est pas un concours d'élégance !
+
+Stonewall	Monsieur Jones ... Toujours sur mes terres, à ce que je vois ... j'ai presque l'impression que je devrais vous payer pour votre travail ...
+
+Emmet	Ce ne sont pas vos terres, Casper ...
+
+Stonewall	Encore cinq jours ... et là, ce sera officiel.
+
+Phil	Merci d'être passé !
+
+Stonewall	La notification, Phil, la notification !
+
+Phil	Euh, j'ai pas noté qu'y avait une notification ! (eh!) (eh!)
+
+Stonewall	Acceptez-vous d'être notre témoin, Officier Fanning ?
+
+Jamie	Si vous me demandez de témoigner de ce que je suis en train de voir ... je vous répondrais que je regrette d'avoir oublié mes lunettes !
+
+Insert	Préavis d'expulsion.
+
+Phil	(rire ......................)
+
+Jamie	Pas de soucis ... je suis témoin ...       je plaisantais.
+
+(BOUCLE 14 - 01:12:58:10)
+		14
+
+Stonewall	(h) Et bien, moi, j'suis très sérieux. (h) Si vous n'avez pas les deux cent cinquante mille dollars
+
+Auteur 	(250 000)
+
+Stonewall	(euh) tout ce que vous possédez sera à la banque et donc, ça me reviendra.
+
+Emmet	J'vais peut-être réussir à trouver une solution d'ici cinq minutes. Veuillez m'excuser !
+
+Stonewall	J'peux savoir ce qui se passe ?
+
+Jamie	Le grand-père d'Emmett est décédé le mois dernier ... et c'est son petit-fils qui hérite de la totalité de ses biens.
+
+Stonewall	(ah!) Quelle chance ...
+
+Jamie	Comme vous dites ...
+
+Mikey	Allons-y !
+
+Claire	Eh ! Si ça se trouve, c'est ce dont papa rêve ...
+
+(BOUCLE 15 - 01:13:50:19)
+		15
+
+Manny	Tu crois que cet héritage pourrait sauver le ranch ?
+
+Thunder	En tous cas, je l'espère ! J'ai un excellent pressentiment ...
+
+Lama	Ah ouaaaais ? C'est marrant, moi, je le sens paaaaas ...
+
+(BOUCLE 16 - 01:13:59:23)
+		16
+
+Livreur	Bonjour ! J'ai une livraison pour Monsieur Jones.
+
+Emmet	C'est moi.
+
+Livreur	J'pourrais avoir une peite signature ?
+
+Emmet	Pas de soucis ! (expire BO) Ainsi que vous le savez sans doute, mon grand-père était un grand aventurier ! Il avait découvert de très nombreux trésors enfouis dans le sous-sol. Il avait aussi un chien ...
+
+(BOUCLE 17 - 01:14:39:00)
+		17
+
+Timber	Bonjour à tous ! J'm'appelle Timber !
+
+Barbecue	Tu parles d'un trésor !
+
+Lama	J'vous disais que je le sentais paaas ...
+
+Manny	Bon, ben maintenant, j'ai plus qu'à faire mes valises, on a perdu le ranch !
+
+Thunder	J'avoue que je m'attendais pas du tout à ça ...
+
+Sid	Moi, j'crois pas que ce chien vale deux cent cinquante mille dollars, qu'est-ce que vous en dites ?
+
+Manny	Il vaut même pas deux cent cinquante jambons !
+
+(BOUCLE 18 - 01:14:57:04)
+		18
+
+Mikey	(ah!)
+
+Stonewall	(rire moqueur ...) Ouahouh, Jones !! Une nouvelle bouche à nourrir ! (rire ..............................) Félicitations ! Quelle jolie chienne !
+
+Timber	J'suis un garçon ! Tu veux voir de plus près ?
+
+Stonewall	(ooooooooooooh !)
+
+Barbecue	C'est pas très malin d'avoir fait ça !
+
+Jamie	(rire ...) Les enfants, c'est pas drôle !
+
+Stonewall	(ooooooh !) Je doute fort que ce sera ce sac à puces qui vous sauvera de la banqueroute, Jones ! Vous avez cinq jours ! CINQ !
+
+Emmet	(soupire BO)
+
+Stonewall	Et votre sale corniaud aussi ! (hm)
+
+Phil	Il est chou ce chien ! (oh !)
+
+Emmet	(h)
+
+(BOUCLE 19 - 01:16:03:13)
+		19
+
+Billie	Il ressemble à Monty. Le chien de Hawk ... dans votre histoire d'hier.
+
+Emmet	Oui, c'est probablement son arrière arrière petit-fils !
+
+Timber	Ouais ! Vous avez deviné.
+
+Emmet	Euh et bien, j'crois que,  va falloir faire avec.
+
+Mikey	Timber.
+
+Claire	Moi, j'aurais pas choisi ça comme nom ...
+
+Barbecue	Bon, ben bienvenue dans le Montana ! Le plus bel endroit au monde !
+
+Timber	J'espère qu'on va bien se marrer ensemble !
+
+Barbecue	Au fait, j'm'appelle Barbecue !
+
+Timber	Ben enchanté ! Ouahouh, elle est canon ! On peut savoir comment tu t'appelles ?
+
+Kaia	Officier Kaia ! Mais je vous autorise à m'appeler Madame !
+
+Timber	Avec plaisir, chérie, enfin j'veux dire, chère Madame ! Tu sais que t'as de beaux yeux ? Est-ce que je peux t'appeler Madame Jolis Yeux ?
+
+Kaia	(oh !)
+
+Emmet	Mikey, pourquoi tu ne ferais pas visiter la maison à Timber ?
+
+Mikey	Okay !
+
+Emmet	(inspire expire BO)
+
+(BOUCLE 20 - 01:17:01:15)
+		20
+
+Emmet	C'est légal ?
+
+Jamie	Malheureusement. Il est décidé à tout prendre. Ma maison aussi. J'sais pas ce qu'on va devenir ! Billie est née dans cette maison. On n'a pas envie de la quitter.
+
+Emmet	Il faut absolument se bouger. On va aller à la banque voir s'ils peuvent nous aider.
+
+Jamie	Je viens avec toi et Billie reste ici.
+
+Emmet	Ouais ... dis voir Claire, tu surveilles les petits ?
+
+Claire	L'ennui, c'est que j'ai des trucs à faire !
+
+Emmet	Ca peut pas attendre ? Tu sais que c'est important !
+
+Jamie	C'est cool de les élever seuls, hein ?
+
+Emmet	(soupire BO)
+
+Jamie	Kaia, tu restes là, tu surveilles les enfants !
+
+Kaia	Pas de problème, compte sur moi !
+
+Barbecue	(eh!) J'compte pour du beurre ?
+
+Emmet	Barbecue, tu les surveilles.
+
+Claire	Oh, ça me saoûle !
+
+Insert	Laura: Tu viens à la soirée, oui ou non ?
+
+Barbecue	Veuillez m'excuser. J'ai du mal à digérer.
+
+Kaia	Tu devrais essayer les croquettes sans gluten.
+
+Insert	Claire; J'arrive !
+
+(BOUCLE 21 - 01:18:02:03)
+		21
+
+Mikey	Voilà Timber, c'est ta nouvelle maison !
+
+Timber	Je crois que je vais me plaire ici.
+
+Billie	Timber a l'air d'avoir des tas d'affaires !
+
+Mikey	Tu l'as dit !
+
+Timber	Dis donc, mademoiselle, quand tu seras grande, on verra combien de paires de chaussures tu auras dans ton placard !
+
+Billie	C'est vieux ce truc-là !
+
+Mikey	C'est lui ! C'est Hawk Jones !
+
+Billie	(oh !) Et son chien, Monty ! Y'a une grande ressemblance !
+
+Timber	Ben évidemment, j'suis de sa famille ! Je suis le dernier descendant de Monty ! Faites très attention à ses affaires surtout !
+
+Billie	Eh ! Mikey ! C'est un parchemin !
+
+Mikey	Cloud Peak ? C'est ici ! Tu es venu avec des cadeaux, c'est bien !
+
+(BOUCLE 22 - 01:19:06:08)
+		22
+
+Barbecue	Quelqu'un a parlé de cadeaux ? C'est de la nourriture ?
+
+Mikey	Ca alors ? C'est la même clef que la mienne ! C'est un cadeau de papa. Elle lui venait de son arrière-grand-père.
+
+Billie	Dis donc ! Ecoute ça ! Où tu trouves la pierre, ton voyage commence ... C'est signé HJ !
+
+Mikey	(h) Hawk Jones !
+
+Billie	Mikey ! C'est une carte de la vieille mine !
+
+Mikey	(h) Tu sais ce que ça veut dire ?
+
+Timber	Vive l'aventure !
+
+Kaia	C'est l'appel aux armes !
+
+Barbecue	Et on mange quand ?
+
+Claire	Mikey !
+
+Mikey	Claire, on vient de découvrir un indice pour retrouver le trésor de Hawk Jones !
+
+Claire	Trop cool ! Tu peux venir une seconde ?
+
+Mikey	Qu'est-ce que tu veux encore ?
+
+Timber	Voici tous les biens que je possède. Je vous les montre. Une belle malle qui me sert de lit.
+
+(BOUCLE 23 - 01:20:02:03)
+		23
+
+Mikey	Faut que j'lui dise, il est où est Papa ?
+
+Claire	Il est à la banque avec la mère de Billie mais ça m'étonnerait que ça donne quelque chose !
+
+Mikey	Si on trouvait le trésor, on pourrait rembourser ce qu'on doit et sauver notre ranch.
+
+Claire	Mais en son absence, Papa m'a dit que je faisais ce que je voulais et j'vais aller à ma soirée !
+
+Mikey	Tes copines t'ont téléphoné ?
+
+Claire	J'suis sensée faire acte de présence pour vous surveiller Billie et toi mais si je m'absente, vous serez plus tranquilles.
+
+Mikey	T'es bizarre !
+
+Claire	Laisse tomber ! J'serais sûrement de retour avant Papa mais si jamais j'étais en retard, tu me couvres, Okay ?
+
+Mikey	Mais tu oublies le trésor, alors  !
+
+Claire	toi, tu vas le trouver mais tu restes ici, je compte sur toi !
+
+Mikey	(h...)
+
+Claire	Bye !
+
+Mikey	Elle est pas sérieuse ! C'est nul !
+
+(BOUCLE 24 - 01:20:42:21)
+		24
+
+Timber	T'aimes bien quand je fais ça ? Et ça ?
+
+Kaia	J'aime pas ça quand on fait son intéressant ...
+
+Billie	Qu'est-ce qu'elle t'a dit ?
+
+Mikey	Qu'on devait chercher le trésor       sans quitter la maison !
+
+Billie	Oh ... et comment est-ce qu'elle veut qu'on fasse ?
+
+Mikey	Ma soeur est cinglée ! Faut pas compter sur elle !
+
+Billie	Demande à ton père, alors !
+
+Mikey	Il est sorti.
+
+Billie	Ben  ... qu'est-ce qu'il nous dirait ?
+
+Emmet	Les dégonflés se dégonflent. Les courageux agissent et l'espoir est à la portée de tous. Il suffit juste de le vouloir. La chance ne sourit qu'à ceux qui la mérite.
+
+Mikey	Il nous dirait ... Tentez votre chance !
+
+Billie	(ah!) Génial ! J'ai du matériel. Mais ... il nous faut d'autres trucs ... des lampes frontales, des pelles et des pioches , des ...
+
+Mikey	(oh !) Ca peut être dangereux.
+
+Timber	Courage est mon deuxième prénom !
+
+Barbecue	Le mien, c'est Norman !
+
+Billie	Tu as raison. Ce qu'il nous faut, c'est une machette.
+
+Mikey	(euh) Tu veux peut-être rester en retrait avec Barbecue et Kaia ? J'voudrais pas qu'il t"arrive quelque chose.
+
+(BOUCLE 25 - 01:21:44:06)
+		25
+
+Billie	Alors ...     tu sais retrouver ton chemin dans la forêt ? Tu as appris à te guider avec les étoiles comme ma mère me l'a montré ? Et s'il fait nuit, tu sais comment on monte une tente ? Tu sais faire un feu ? Te protéger contre les loups s'ils t'attaquent ? Tu connais les baies qui sont comestibles ? Tu sais faire un noeud coulant ? Grimper à flanc de montagne ? Fabriquer un pont de singe ? Mikey, c'est beaucoup plus compliqué que ce tu lis dans tes livres pour survivre en pleine nature !
+
+Kaia	Elle n'a pas tort !
+
+Timber	Elle a raison ! Billie et Kaia doivent absolument nous accompagner !
+
+Mikey	Ben ... p't'être que tu peux venir ? En tant qu'assistante ? Okay, okay ... comme chef ?
+
+Billie	C'est mieux.
+
+Timber	Alors, c'est moi le chef ?
+
+Kaia	Ca m'étonnerait !
+
+Timber	Je suis certain que tu vas finir par m'adorer, tu vas voir ...
+
+(BOUCLE 26 - 01:22:35:07)
+		26
+
+Timber	Moi, j'suis prêt pour la chasse au trésor ! Et toi, ma belle ?
+
+Kaia	A mon avis, c'est une erreur car je persiste à dire que nous ne sommes pas suffisamment préparés. Qu'est-ce que tu en dis, Barbecue ?
+
+Barbecue	A vrai dire, j'en sais rien, je réfléchis ! Et c'est pas évident quand on n'est pas habitué ...
+
+Thunder	Eh ! Le nouveau ... approche voir !
+
+Timber	Parle-moi gentiment ou je monte sur mes grands chevaux !
+
+Thunder	Je m'énerve pas mais il faut être réaliste, Timber ! Cette chasse au trésor est vitale pour le ranch, nous comptons tous sur vous, il faut que vous réussissiez !! Notre avenir est entre vos pattes !
+
+Lama	Si on perd le ranch, je serais tellement triiiiiiste !
+
+Timber	Je vais faire du mieux que je pourrai avec toute mon équipe !
+
+Thunder	Tu dois suivre ton coeur ....            ainsi que ton intuition. Et le grand moment arrivera ! Ne laisse pas passer cette occasion unique !
+
+Timber	Merci de tes encouragements  !
+
+Kaia	Ca va être une mission difficile !
+
+Timber	Mais super cool !
+
+Thunder	Les deux sûrement !
+
+Timber	Vous pouvez compter sur moi.
+
+(BOUCLE 27 - 01:23:27:15)
+		27
+
+Mikey	Tu viens, Timber ?
+
+Billie	Allez, viens Kaia !
+
+Thunder	Bonne chance Timber ! Tu vas en avoir besoin ...
+
+Horse 1	Ca va bien se passer !
+
+Horse 2	Bonne chance Timber, bonne chance Kaia !
+
+Horse 3	Bon courage Timber, bon courage Kaia et bon courage les enfants !
+
+(BOUCLE 28 - 01:23:52:14)
+		28
+
+Emmet	Et il sera de retour quand Monsieur Pinser ?
+
+Employée de banque	Je ne peux pas trop vous dire, parfois, il prend une longue, longue pause déjeuner.
+
+Jamie	Longue, c'est à dire ?
+
+Employée de banque	Et bien, ça dépend s'il déjeune sur le bateau.
+
+Emmet	Le bateau ?
+
+Employée de banque	Oui ! Monsieur Pinser va souvent à la pêche avec Monsieur Stonewall pendant l'heure du déjeuner. Si c'est le cas, il ne rentrera pas avant quinze heures environ !
+
+Jamie	On va patienter.
+
+Employée de banque	Comme vous voulez !
+
+Emmet	Et les enfants ?
+
+Jamie	Faut pas t'inquiéter ! Mikey et Billie sont des enfants qui sont raisonnables. Qu'est-ce qui pourrait bien leur arriver ?
+
+(BOUCLE 29 - 01:24:27:09)
+		29
+
+Mikey	C'est parti pour l'opération "A la recherche du trésor "!
+
+Billie	On va le trouver !
+
+Barbecue	Eh ! attendez-moi !
+
+Timber	Tu as quoi dans tes sacoches ?
+
+Kaia	Une trousse de premiers secours, un GPS.
+
+Billie	Du répulsif à insectes, une boussole, une perceuse.
+
+Kaia	Une bâche imperméable. Un harnais d'escalade.
+
+Barbecue	T'as pensé à prendre du bacon ?
+
+Timber	Je crois que je suis amoureux !
+
+Billie	De la dynamite.
+
+Mikey	De la dynamite ?
+
+Billie	Ma mère me dit toujours qu'il faut être prêt à tout dans la vie !
+
+Mikey	Du coup, tu pars toujours avec de la dynamite !
+
+Billie	Timber ! Kaia ! Barbecue !
+
+Barbecue	On sera rentrés pour manger, j'espère ? Hein ?
+
+(BOUCLE 30 - 01:25:11:06)
+		30
+
+Billie	Mais cette mine, elle n'appartient pas à Monsieur Stonewall ?
+
+Mikey	Si !    Mais elle est fermée depuis des années. Parce qu'elle est située trop près de nos terres. Il était en pétard quand on il a été obligé de la fermer ! J'suis pas sûr qu'on devrait faire ça ...
+
+Billie	Bien sûr que si !
+
+Mikey	Tu crois ?
+
+Billie	Puisque je te le dis !
+
+Mikey	Tu nous attends dehors, Barbecue et tu nous préviens si quelqu'un arrive !
+
+Billie	Sois prudent ! J'sais pas si cet endroit est très sûr quand même !
+
+Mikey	T'inquiète, j'sais ce que je fais  ! (ah!) (ah!)
+
+Billie	(euh) Tu disais ? J't'écoute !
+
+Mikey	Honneur aux dames !
+
+Timber	Mais attends-moi ! Nom d'un chien ! (mm) (snif, snif) (mm)
+
+Kaia	On devrait faire demi-tour, c'est pas prudent de rester ici !
+
+Timber	Une seconde !      J'ai trouvé quelque chose !
+
+Billie	Regarde ! (pff!)
+
+Timber	Faut creuser ici !
+
+(BOUCLE 31 - 01:26:38:16)
+		31
+
+Mikey	Regarde ! Hawk Jones !
+
+Timber	Essaye avec ma clef ! C'est un indice, tu te souviens ?
+
+Billie	Essaye avec la clef de Timber !
+
+Mikey	Eh ! Timber ! Viens ici, bon chien ! (Ouah !) Un fer à marquer !
+
+Billie	C'est pas tout ! Regarde ! Allez dans la vallée, où se trouve le troupeau,
+
+Mikey	regardez-bien vos pieds, la tête de l'aigle vous indiquera la route.
+
+Billie	C'est un indice !
+
+Mikey	Ouais mais c'est où cette tête de l'aigle ?
+
+Billie	Mais je reconnais ce marquage de vache ! C'est celui du ranch des Roberts ! Ils sont dans la vallée !
+
+Mikey	Mais c'est à au moins à quatre kilomètres !
+
+Billie	On va y arriver !
+
+Mikey	C'est Barbecue !
+
+Barbecue	Timber ! Kaia ! Vite ! J'ai besoin d'aide !
+
+Mikey	Tu viens, Timber ?
+
+Barbecue	Viiite !
+
+Mikey	Dépêchons-nous !
+
+(BOUCLE 32 - 01:27:42:03)
+		32
+
+Stonewall	Alors, Chad, mon neveu préféré, mon seul neveu ! Est-ce que Jones a décrit l'endroit où selon lui, le trésor aurait pu être enterré ?
+
+Chad	Je lui ai demandé comme tu m'avais dit de le faire, et il m'a parlé d'une grotte sombre.
+
+Stonewall	Mais à l'extérieur, il a dit que c'était comment ?
+
+Billie	J'en étais sûre ! Je savais que Chad nous espionnait ! C'est pour ça qu'il est venu chez toi hier.
+
+Mikey	Stonewall est à la recherche du trésor lui aussi !
+
+Stonewall	Est-ce qu'il a parlé de       de grands arbres ? D'un lac, d'une vaste clairière ?
+
+Chad	Alors, c'est vrai, ces histoires ?
+
+Stonewall	Notre famille est à la recherche de ce trésor depuis cinquante ans. Alors, quand je réussirai enfin à avoir les terres des familles Jones et Fanning, je les fouillerai de fonds en comble, et alors, toute la montagne de Cloud Peak sera à moi ! Et personne ne pourra m'empêcher de creuser jusqu'à ce que je le trouve !
+
+Timber	Ah ouais ?
+
+Billie	Timber, non !
+
+Stonewall	Oooh! Non ! Il recommence ! Arrêtez immédiatement ce sale chien !
+
+Phil	(oh !)
+
+Stonewall	Non, non, va-t-en ! (ah!) (eh!)
+
+Mikey	Vas-y, Timber !
+
+Stonewall	(ah!) (ah!)
+
+Timber	(rire .......) J't'ai bien eu !
+
+Kaia	Oh, non ! Il a tout gâché, il faut qu'on s'en aille maintenant !
+
+(BOUCLE 33 - 01:28:49:11)
+		33
+
+Phil	Vous croyez qu'ils savent ce que vous mijotez ?
+
+Stonewall	Peu importe ! Ils ne m'arrêteront pas ! Je vais continuer !
+
+Chad	Eh ! ils ont laissé du matos là-bas !
+
+Stonewall	Quel plan est-ce qu'ils sont en train d'échafauder ?
+
+Phil	Le garçon est pas grand alors l'échafaudage devra être haut. Et la gamine est pas très grande, elle non plus !
+
+Stonewall	Je parlais de ce qu'ils allaient faire !
+
+Phil	Essayer de nous échapper !
+
+Stonewall	Je veux que vous les suiviez tous les deux ! Assurez-vous qu'ils vont pas faire échouer mes plans ! J'veux pas qu'il y ait le moindre couac !
+
+Phil	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Stonewall	Ah ! Mais qu'est-ce que vous faites ?
+
+Phil	Je vous montre de quel bois je vais me chauffer si jamais ils vous embêtent !
+
+Stonewall	(mm)
+
+Phil	(h)
+
+Stonewall	(ah!)
+
+Phil	(h)
+
+Stonewall	(ah!)
+
+Phil	(h)
+
+Stonewall	(oh .......)
+
+Marcus	(eh!)
+
+Phil	(h)
+
+Marcus	Viens ! J'connais un autre chemin derrière la mine, viens !
+
+Stonewall	J'te ramène à la maison. Je dois aller me changer.
+
+Chad	Fais attention à toi, Mikey Jones ! Je vais t'en faire baver !
+
+(BOUCLE 34 - 01:30:03:11)
+		34
+
+Barbecue	On s'arrête ? Pitié !
+
+Billie	Il faut qu'on prévienne ton père et ma mère de ce que Stonewall mijote.
+
+Mikey	On peut pas repartir maintenant ! Si Stonewall trouve le trésor avant nous, il aura tout, nos terres, nos maisons, faudra qu'on déménage, qu'est-ce qu'on deviendra ?
+
+Billie	Tu as raison. C'est à nous de jouer maintenant !
+
+Mikey	(euh) Quoi ?
+
+Billie	Non rien ! (h) Je commence à voir une légère ressemblance entre toi        et Hawk Jones !
+
+Mikey	(h)
+
+(BOUCLE 35 - 01:30:33:20)
+		35
+
+Phil	Viens !
+
+Marcus	Assis ! (eh!) Qu'est-ce qu'ils font là ces deux gosses à ton avis ?
+
+Phil	(euh) J'en sais rien peut-être que... peut-être qu'ils vont chercher du lait ?
+
+(BOUCLE 36 - 01:30:59:15)
+		36
+
+Timber	Bonjour Madame ! Moi, c'est Timber. Et vous, votre petit nom ?
+
+Meuh	Meuh.
+
+Timber	Non, j'vous ai demandé votre nom.
+
+Kaia	Vous pouvez parler avec nous ! Nous comprenons votre langage.
+
+Meuh	Meuh. Je m'appelle Meuh.
+
+Kaia	Les Roberts ont baptisé une vache Meuh ?
+
+Meuh	C'est leur fils qui a choisi. Il avait deux ans à l'époque. J'ai fini par m'y habituer ...
+
+Timber	La vache Meuh. Moi, j'aime bien, c'est simple, facile à retenir.
+
+Meuh	N'en fais pas trop ! Qu'est-ce qui vous amène chez moi ?
+
+Kaia	On cherche un trésor enfoui. Vous auriez-vu une tête d'aigle dans le coin ?
+
+Meuh	En voilà une drôle de question ?! En quoi ça vous intéresse ?
+
+Timber	Et on est censés regarder nos pieds.
+
+Meuh	Autour de moi, il n'y a que de l'herbe, j'vois pas d'aigle. Mais évidemment, ça dépend comment et où vous regardez !
+
+Timber	Certainement ... Ah ouais, c'est marrant dans ce sens !
+
+Kaia	Mais enfin, qu'est-ce que tu fais ?
+
+Timber	Ben, je me roule dans l'herbe ! Ca se voit pas ? Tu devrais essayer, c'est super agréable !
+
+Kaia	J'ai pas que ça à faire ! J'ai du boulot, moi, monsieur ! Tu as vu l'écusson sur mes sacoches ? J'ai des responsabilités, j'suis officier !
+
+Timber	Moi, j'écoute les conseils de Thunder ! J'fais confiance à mon instinct ! Et là, mon instinct me dit de me rouler dans l'herbe ! Alors, je me roule ! Regarde Meuh !
+
+Meuh	N'importe quoi !
+
+Kaia	Ca y est ? T'as fini de te rouler ?
+
+Barbecue	Oh ! Génial ! Elle est raide dingue de toi !
+
+Timber	Je les fais toutes craquer, mon petit Barbecue ! Mais ça y est ! J'ai trouvé ! Viens voir, Kaia !
+
+Kaia	Non, tu m'énerves !
+
+Timber	J'ai un truc super cool à te montrer !
+
+Kaia	De quoi s'agit-il ?
+
+Timber	Viens t'allonger à côté de moi !
+
+Kaia	Tu me prends pour une chienne facile ?
+
+Timber	Non mais viens juste une seconde, tu vas voir, tu vas être surprise toi aussi !
+
+Kaia	Bon, alors, qu'est-ce que je suis censée voir ? Oh ! Ca y est ! Faut leur dire !
+
+(BOUCLE 37 - 01:32:39:12)
+		37
+
+Mikey	Qu'est-ce qui vous arrive ?
+
+Billie	Pourquoi tu aboies comme ça, Kaia ?
+
+Mikey	Qu'est-ce qu'il y a ? (h) Mais ...
+
+Billie	(euh ...)
+
+Mikey	Billie ! Regarde vers tes pieds !
+
+Billie	La tête de l'aigle ! Elle indique le chemin de la vieille mine !
+
+(BOUCLE 38 - 01:33:08:10)
+		38
+
+Marcus	Il faut garder un oeil sur les petits !
+
+Phil	Un seul oeil, t'es vraiment sûr ?
+
+Marcus	(h) Tu sais, parfois, je me demande si tout est à sa place, dans ta tête ?
+
+Phil	Cet oeil ?
+
+Marcus	(oh !) Suis-moi ! Dépêche !
+
+(BOUCLE 39 - 01:33:32:23)
+		39
+
+Sid	Y'a personne !
+
+Marcus	Vous pouvez laisser un message après le bip sonore !
+
+Insert	Je suis chez Billie. Bisous. Mikey.
+
+(BOUCLE 40 - 01:33:42:18)
+		40
+
+Ambiance	(brouhaha fête des jeunes)
+
+Claire	(rire ....) (oh !) Mince ! Mon père ! C'est son portable ! Silence !
+
+Laura	C'est la cata !
+
+Claire	Salut ! Ca va bien ? (h)
+
+Laura	(oh .... !)
+
+Claire	(euh) Comment ça j'suis pas à la maison ? Oh, non, non ! Y'a que Billie, Mikey et moi. On joue dehors. Oui, avec les chiens.
+
+Laura	Mais ... (euh)
+
+Claire	(h) Tu entends quoi ? Oh, non ! On s'amuse ! Ouais. Mikey, tu veux venir au téléphone ? Okay ! Euh okay, super ! Ouais, pas de souci. A tout à l'heure.
+
+Laura	Mais enfin !
+
+Claire	Bye !
+
+Party dog	(uh uh) Ca va chauffer ... !!
+
+Laura	(euh...)
+
+(BOUCLE 41 - 01:34:25:11)
+		41
+
+Billie	Qu'est-ce que tu fais ?
+
+Mikey	Je rentre nos coordonnées GPS. Comme ça, quoiqu'il arrive, on saura où on est.
+
+Billie	C'est comme les mies de pain dans Hansel et Gretel ?
+
+Mikey	Tout à fait !
+
+Barbecue	Qui parle de mies de pain ?
+
+Timber	Y'a que la nourriture qui t'intéresse dans la vie ?
+
+Barbecue	(eh!) Y'a pas de mal à se faire du bien !
+
+Kaia	On dirait que quelqu'un a semé des pierres ? C'est pas la même que celle qu'on a trouvée dans la mine ?
+
+Timber	Dépêchez-vous ! Venez vite voir ce que j'ai trouvé !
+
+Kaia	Ce que J'ai trouvé !
+
+Timber	Ce qu'ON a trouvé, chère amie !
+
+Mikey	Qu'est-ce qu'il y a ? (ouahouh!)
+
+Billie	Regarde ! On nous a laissé un indice !
+
+Kaia	On commence à avancer !
+
+Timber	C'est une pièce en or !!
+
+Mikey	Ce sont les mies de pain d'Hawk Jones ! Venez ! On continue !
+
+(BOUCLE 42 - 01:35:41:03)
+		42
+
+Mikey	J'suis trop content qu'on ait trouvé un indice qui va nous mener au trésor d'Hawk Jones !
+
+Billie	On est sur la bonne route !
+
+Mikey	Sûrement ! Ca se mange ça ?
+
+Billie	Bien sûr, c'est bon !
+
+Mikey	Tu crois que c'est sûr ?
+
+Billie	(h) Ouais, ce sont des groseilles ! C'est super bon !
+
+Barbecue	(oh !) Je meurs de faim ! Les groseilles, ça a le goût de bacon ?
+
+Billie	Dans la forêt, y'a plein de plantes médicinales. Celle-là ! C'est une Achillée. C'est cicatrisant et ça calme les nausées.
+
+Mikey	Ah ? Et celle-là ?
+
+Billie	N'y touche pas ! C'est du sumac vénéneux. Il suffit que tu effleures cette plante et tu vas te gratter pendant des jours !
+
+Mikey	(eurk  !)
+
+(BOUCLE 43 - 01:36:22:07)
+		43
+
+Marcus	C'est quoi ce truc ?
+
+Phil	J'en sais rien ! J'en sais rien du tout ! Mais ça gratouille !
+
+Marcus	Oh la la ! (ah!)
+
+Phil	(ah!)
+
+Marcus	(ah!)
+
+Phil	(ah!) (Aaaaaaaaaaaah !) (Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhh mmmmmm !)
+
+Marcus	Chuuuuut ! Tais-toi ! Chut !
+
+(BOUCLE 44 - 01:36:46:19)
+		44
+
+Mikey	Toi qui connais tout de la forêt, ... quel genre d'animal est-ce que c'est ?
+
+Billie	Peut-être un ... un Pic Maculé, c'est possible !
+
+Mikey	tant que c'est pas une bête dangereuse !
+
+(BOUCLE 45 - 01:37:42:06)
+		45
+
+Billie	C'est super joli !
+
+Mikey	Ah ouais !
+
+Billie	On s'est trompés de route ?
+
+Mikey	Aucune idée ! Qu'est-ce qu'on fait maintenant, Hawk ? On continue      à regarder à l'envers ? (oh !) T'exagères Timber !
+
+Kaia	T'es vraiment dégoûtant !
+
+Timber	Comme dirait l'autre, c'était une envie pressante !
+
+Kaia	Mal élevé !
+
+Timber	(ah!....) Ca va mieux !
+
+Mikey	C'est dégueu !
+
+Billie	Eh ! Mikey, regarde ça !
+
+Mikey	Il y a un H et un J !
+
+Billie	Hawk Jones !
+
+Mikey	Oro y Plata ...
+
+Billie	Ca veut dire quoi ces mots ?
+
+Mikey	Or et Argent. C'est la devise du Montana.
+
+(BOUCLE 46 - 01:38:40:20)
+		46
+
+Marcus	De l'or et de l'argent, hein ?
+
+Billie	La tête de l'aigle est tournée vers l'autre côté du lac !
+
+Mikey	Ouais, c'est vrai, vers là-bas !
+
+Barbecue	On les a aidés à trouver le chemin !
+
+Kaia	Dis plutôt que tu l'as pollué !
+
+Marcus	Le Boss va être super content !
+
+Phil	J'espère qu'ils vont le trouver !
+
+Marcus	Eh ! Quand t'étais gosse, t'aurais pas été frappé violemment sur la tête par un cheval ?
+
+Phil	Non ! Bien sûr que non ! (euh) Il s'agissait de deux ânes. Ils m'ont trainé à plusieurs reprises dans une mare de boue. Et ils m'ont donné un bon coup ! Tac ! Et ensuite, l'ambulance m'a roulé dessus ! Et le camion des pompiers m'a heurté à la tête
+
+Stonewall	Quoi? Qu'est-ce qu'il y a  ?
+
+Marcus	(euh) J'ai quelque chose à vous dire !
+
+Phil	avec la sirène !
+
+Stonewall	J'écoute !
+
+Marcus	Les gamins font bien une chasse au trésor , j'en suis certain !
+
+Stonewall	Ne les perdez pas de vue !
+
+Phil	Oréos ! Double V plata !
+
+Stonewall	Qu'est-ce qu'il dit ? Mais qu'est-ce qu'il raconte ?
+
+Phil	Oréos !
+
+Marcus	(ah!)
+
+Phil	Les p'tits gâteaux !
+
+Marcus	(euh)
+
+Phil	Dis à Stonewalll qu'ils ont des gâteaux !
+
+Stonewall	Qu'est-ce qu'il dit, je ne comprends rien !
+
+Marcus	(euh) On va les surveiller, Boss, pas de soucis !
+
+Phil	Avec un oeil ?
+
+Stonewall	Je compte sur vous, ne me décevez pas !
+
+Phil	On jette un oeil ? Comment on va faire ? Regarde !
+
+Marcus	Arrête tes âneries !
+
+Phil	C'est vraiment pas évident avec un seul oeil !
+
+Marcus	Viens ! Tu me fatigues !
+
+Phil	J'arrive, t'énerve pas !
+
+(BOUCLE 47 - 01:39:46:23)
+		47
+
+Billie	(oh !)
+
+Mikey	Attention !
+
+Kaia	Billie !
+
+Mikey	Recule !
+
+Timber	T'inquiète ! Il la tient !
+
+Mikey	Ca va ?
+
+Billie	Oui, merci !
+
+Mikey	Attention !
+
+Billie	Tu, tu peux me lâcher maintenant !
+
+Mikey	Bien sûr !
+
+Timber	Y'a comme un parfum de romance dans l'air ...!
+
+Barbecue	(snif snif snif !) Tout ce que je sens, c'est le pipi !
+
+Billie	Alors, (euh)
+
+Mikey	Quoi ?
+
+Billie	comment on va faire pour descendre  ?
+
+Mikey	On peut toujours essayer de sauter !
+
+Billie	Ouais, le jour où je verrai Mikey Jones sauter d'une falaise ...
+
+Mikey	Faut reconnaitre que c'est flippant.
+
+Billie	Mikey !
+
+Mikey	Tout va bien !
+
+Billie	Je suis vachement épatée ! Tu es formidable !
+
+Mikey	Merci ! Ca va ! C'était facile !
+
+Billie	(mmm!)
+
+Auteur 	(expire BF)
+
+Billie	S'il peut le faire, (h) je peux aussi !
+
+Kaia	Quelle imprudence ! Tu ne connais pas la vitesse du vent, tu n'as rien calculé !
+
+Billie	(Yaouuuuuuuh !)
+
+Kaia	Ca m'énerve quand elle fait n'importe quoi !
+
+(BOUCLE 48 - 01:40:58:01)
+		48
+
+Timber	Arrête ! Ca a l'air marrant !
+
+Billie	(ah!) J'ai trouvé ça trop bien !
+
+Barbecue	Dites-voir les copains, comment on va s'y prendre pour descendre ?
+
+Kaia	Le vent est faible, trente kilomètres heure environ. Attends-voir, laisse-moi calculer ...
+
+Timber	Tu devrais prendre la vie plus à la légère ...
+
+Kaia	Non !    Je veux vivre très vieille et ce sera impossible, si je fais n'importe quoi !
+
+Timber	Moi, j'y vaaaaaaaaaaaaaaaaaaais !
+
+Kaia	Je déteste ceux qui se font remarquer !
+
+Barbecue	Surtout quand ils sont plus courageux que toi, pas vrai ? (rire)
+
+Kaia	N'importe quoi ! Regarde ! Qu'est-ce que tu dis de ça ?
+
+Barbecue	Ca, c'est bête alors, j'ai oublié d'apporter mes tongues !
+
+Billie	Où est Barbecue ?
+
+Barbecue	J'arriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiive ! (oh !) (oh !) On trouve du bacon dans l'eau ?
+
+Kaia	Tu me fais vraiment faire n'importe quoi ! J'peux pas croire qu'on ait sauté de là-haut !
+
+(BOUCLE 49 - 01:42:02:14)
+		49
+
+Phil	Le Boss nous a bien dit de pas les perdre de vue !
+
+Marcus	(Eh! Eh! Eh! Eh!) Ecoute-moi une seconde ! J'vais essayer de trouver un chemin plus sûr !
+
+Phil	Tu veux que je t'aide ?
+
+Marcus	Non ! (Aaaaaaaaaaaaaaaaaaaaaah !)
+
+Phil	Je suis pas convaincu que par là, ce soit plus sûr !
+
+(BOUCLE 50 - 01:42:30:22)
+		50
+
+Emmet	(h) C'est n'importe quoi !
+
+Auteur 	(la pendule extérieure indique 13h46)
+
+Emmet	Il va bientôt être quatorze heures ! Où est-il ? Ca fait trois heures qu'on attend !
+
+Employée de banque	Que vous attendez qui ?
+
+Jamie	Monsieur Pinser !
+
+Employée de banque	(oh !) Il a pris sa journée !
+
+Emmet	Quoi ? Il n'est pas revenu !
+
+Employée de banque	Bien sûr que si ! Mais Monsieur Pinser travaille à la succursale le vendredi ! Celle de Main Street.
+
+Emmet	(inspire expire BO) (h..........)
+
+Jamie	(oh !)
+
+Emmet	(h...)
+
+Employée de banque	Un petit stylo ? Ils sont offerts ! Ou vous préférez une sucette ?
+
+Emmet	(mmmm)
+
+Auteur 	(soupire BF)
+
+(BOUCLE 51 - 01:43:20:20)
+		51
+
+Ambiance	(brouhaha fête des jeunes)
+
+Roux	Il était baraqué mais j'ai avancé.
+
+Laura	(mm)
+
+Roux	Et là, j'ai foncé !
+
+Laura	Ouais, t'avais pas le choix !
+
+Roux	Qu'est-ce que tu voulais que je fasse ?
+
+Claire	(h) Je dois rentrer, Mikey est injoignable.
+
+Laura	Mais la fête vient de commencer !
+
+Claire	Tant pis pour moi  ! Si je rentre, que Mikey est pas là et que mon père est revenu, j'aurai plus jamais le droit de sortir !
+
+Laura	Okay, okay, laisse-moi cinq minutes et je te raccompagne chez toi, je dis juste au revoir à tout le monde !
+
+Claire	Okay ! Okay ! Je suis pas encore rentrée chez moi ...
+
+(BOUCLE 52 - 01:43:58:07)
+		52
+
+Billie	Je commence à avoir faim. Et j'ai super soif aussi, pas toi ?
+
+Mikey	Si,si ! On mange quoi ?
+
+Barbecue	Chouette ! C'est l'heure de manger !
+
+Timber	Cool, j'ai trop les crocs !
+
+Kaia	J'espère qu'on va manger équilibré ! C'est très important !
+
+Barbecue	Je me demande si Mikey sait pêcher ... j'ai un doute ...
+
+Kaia	Moi aussi ...
+
+Timber	Courage Mikey, tu vas y arriver !
+
+Barbecue	Y'a même pas un morceau de bacon dans cette rivière !
+
+Billie	Bon allez, donne-moi ça ! C'est plus dur de pêcher que de sauter d'une falaise, hein ?
+
+Mikey	Pas du tout !
+
+Timber	J'savais que t'y arriverais !
+
+Mikey	(ahah aha !)
+
+Barbecue	Oh! Oh! Oh ! J'suis trop content ! Des sushis !
+
+(BOUCLE 53 - 01:44:58:16)
+		53
+
+Barbecue	On les fait cuire ? Ca se mange cru d'habitude ! Bon, enfin, ce que j'en dis ...
+
+(BOUCLE 54 - 01:45:26:20)
+		54
+
+Barbecue	Pas mal. Tu te débrouilles. Continue ! Le poisson, c'est bon quand c'est cuit aussi ...
+
+Timber	Tu viens nous aider ?
+
+Barbecue	Je surveille le travail !
+
+Timber	Quel feignant !
+
+Kaia	Ah oui !
+
+Barbecue	Même pas vrai !
+
+Timber	Viens, on va le mettre au travail !
+
+Kaia	T'as raison ! On arrive Barbecue !
+
+Barbecue	Mais je vous ai rien demandé ! Ca me va très bien de rien faire !
+
+(BOUCLE 55 - 01:45:56:01)
+		55
+
+Phil	Pourquoi eux, ils ont un pique-nique ? T'en as apporté un pour nous ?
+
+Marcus	Bien sûr ! Y'a marqué épicerie sur mon front, p't'être ? Si t'as faim, attrape un poisson !
+
+Phil	Excellente idée ! J'ai ce qu'il faut !
+
+Marcus	(euh) Tu fais quoi avec ça ?
+
+Phil	C'est pas un vrai, c'est une arme tranquillisante ! Ca sert juste à ...
+
+Marcus	Donne-moi cette arme avant que tu te fasses du mal !
+
+Phil	(euh) Attends ! Je vais essayer de ...
+
+Marcus	Donne-moi ce truc !
+
+Phil	je te dis que je voudrais essayer de euh
+
+Marcus	(aaaaaaaaaaaaaaaaaah!)
+
+Phil	(réac de lutte.................................................................)
+
+Marcus	Donne-moi ce revolver, j'te dis ! (ah!)
+
+Phil	J'sais pas nager ! J'sais pas nager ! J'sais pas nager !
+
+Marcus	Idiot !
+
+(BOUCLE 56 - 01:46:32:20)
+		56
+
+Barbecue	C'est bon, les gars, arrêtez de me courir après ! Tiens ! Y'a une odeur qui me dit quelque chose ici ! J'ai trouvé un truc, venez voir !
+
+Kaia	Qu'est-ce que c'est ?
+
+Barbecue	Ben, j'sais pas trop ! Mais ça sent bizarre !
+
+Kaia	C'est la même pierre que tout à l'heure !
+
+Timber	Je ne peux pas croire qu'il s'agisse d'une coïncidence !
+
+(BOUCLE 57 - 01:47:00:05)
+		57
+
+Claire	Merci !
+
+Insert	Je suis chez Billie. Bisous. Mikey
+
+Claire	Mikey ! Mikey !
+
+(BOUCLE 58 - 01:47:36:00)
+		58
+
+Emmet	T'es là ?
+
+Claire	Où est-ce que j'pourrais être ? Ca a été ?
+
+Emmet	Non ! Un échec !
+
+Jamie	(h) Tu dis à Billie que je suis là ?
+
+Claire	Elle est déjà chez vous avec Mikey.
+
+Emmet	Si tu es ici, qui les surveille ?
+
+Claire	T'avais dit à Barbecue de s'en charger.
+
+Jamie	(h) Tu veux que je te le renvoie pour le dîner ?
+
+Emmet	(inspire expire BO) Ouais ! Merci Jamie !
+
+Jamie	Ca va s'arranger. On trouvera une solution !
+
+Emmet	T'as les cheveux mouillés ? Tu fais de la gym ?
+
+Claire	(soupire BF)
+
+(BOUCLE 59 - 01:48:14:05)
+		59
+
+Billie	L'aventure vous va trop bien, Monsieur Jones !
+
+Mikey	(euh) C'est gentil. Mais j'crois pas que je ressemble beaucoup à Hawk Jones. Je connais plein de garçons qui sont plus balèzes que moi.
+
+Billie	J'suis pas très grande mais rien ne me fait peur.
+
+Mikey	C'est délicieux.
+
+Billie	(mm)
+
+Mikey	C'est bizarre que les chiens soient pas là ...
+
+Billie	Ouais ... Ils devraient sentir l'odeur de la nourriture et être autour de nous !
+
+Mikey	Ben ouais ! Allons les chercher ! Timber ! Barbecue !
+
+Billie	Kaïa !
+
+Mikey	Mais qu'est-ce que vous faites ?
+
+Kaia	On vient de découvrir quelque chose !
+
+Timber	On a trouvé quelque chose! Venez vite voir !
+
+Mikey	(ouahouh!) (ouahouh!) C'est quoi ce truc ? C'est une urne ! Y'a une pierre bleue dessus ! C'est un indice ! Il y a même une cloche pour les vaches !:
+
+(BOUCLE 60 - 01:49:19:09)
+		60
+
+Billie	C'est marqué quoi sur le papier ?
+
+Mikey	Chers aventuriers, Vous êtes arrivés là où il le fallait. Maintenant, à vous de trouver celui que l'on craint pour l'indice final.
+
+Kaia	Qu'est-ce que ça veut dire ?
+
+Mikey	C'est quoi ce charabia ?
+
+Billie	(eh!)
+
+Mikey	(ouahouh!)
+
+Billie	Y'a des chiffres dessus. Quatre point cinq six cinq huit neuf N Et Cent dix point cinquante-six trente-six Double V Oh, bien sûr, ce sont des coordonnées !
+
+Timber	T'as trouvé un indice, Barbecue !
+
+Barbecue	(eh!) J'suis trop fort ! Et en plus, c'est même pas un indice qui se mange, j'vous ferais dire !
+
+Mikey	Ca nous indique peut-être l'endroit où se trouve le trésor ?
+
+Billie	Tu as raison ! C'est pas très loin ! C'est vers Falls Creek.
+
+Mikey	C'est à côté !
+
+Loup	(rire méchant ...........................................................................................)
+
+Barbecue	(oh !)
+
+Timber	Un loup ? Peut-être que c'est un loup gentil ?
+
+Loup	J'ai ... une faim ... de ... loup !
+
+Mikey	Billie ... ne dis rien surtout ! Un animal ...... a senti notre poisson !
+
+Loup	(aaaah!)
+
+(BOUCLE 61 - 01:50:27:06)
+		61
+
+Emmet	Allo ?
+
+Jamie	C'est Jamie. Nous avons un sacré problème ! Les enfants ne sont pas à la maison.
+
+Emmet	(inspire BO ...........) Claire !
+
+(BOUCLE 62 - 01:50:45:21)
+		62
+
+Marcus	(mm)
+
+Phil	(h)
+
+Marcus	(mm) (ah!)
+
+Phil	(tousse ....................) Comment nous avez-vous trouvés ?
+
+Stonewall	Votre téléphone a un système GPS intégré ! Alors ? Où sont les enfants ?
+
+Marcus	(euh ...) Quelque part !
+
+Stonewall	Quoi ? Ils vous ont semés ?
+
+Phil	Non ! On n'est pas des légumes ! C'est rigolo, pas vrai ?
+
+Stonewall	Pourquoi est-ce que j'ai envie de ... J'vous remercie !
+
+(BOUCLE 63 - 01:51:25:02)
+		63
+
+Loup	(rire méchant ........................................................................................................................)
+
+Mikey	Alors Miss " Dégourdie " ... quand tu es face à un loup ... explique ce que tu fais ? Vas-y !
+
+Loup	Comment osez-vous être ici ? Vous êtes sur mon territoire !
+
+Kaia	Attaque-le par l'arrière ! J'fais diversion !
+
+Timber	J'y vais !
+
+Loup	Tu crois que tes petits chiens chiens vont te protéger ?
+
+Mikey	Ne fais pas un geste ! Et tais-toi !
+
+Loup	(rire méchant ..........................)
+
+Billie	(Aaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Mikey	(Aaaaaah !)
+
+Barbecue	(oh !)
+
+Loup	Raté !
+
+Mikey	Va-t-en d'ici, sale bête !
+
+Loup	Ils sont pas nets ces humains ...
+
+Kaia	Ne t'approche plus jamais d'eux !
+
+Timber	Sinon, j'te botte les fesses !
+
+Barbecue	Ouais ! Et moi aussi !
+
+Timber	Et ben, moi, j'ai même pas eu peur !
+
+Kaia	Moi, non plus ! Oh non, Billie !
+
+Mikey	Billie ! Ca va ?
+
+Billie	T'es trop fort !
+
+Mikey	Ca a l'air de te surprendre ?
+
+(BOUCLE 64 - 01:52:30:05)
+		64
+
+Phil	(aaaaah!)
+
+Stonewall	Bien fait pour vous ! (oh !) (ouahouh !) (ooooooooooooooooooooooooooh !)
+
+Phil	Mais vous allez où ?
+
+Stonewall	Vous avez un loup aux fesses !
+
+Phil	Mais non, j'ai un caleçon  ! (aaaaaaaaaaaaaaaaaaaaaaah!) Au secours !
+
+(BOUCLE 65 - 01:53:08:17)
+		65
+
+Phil	Un loup ! Un loup ! Un loup ! Un loup !
+
+Stonewall	Il y a un loup sur la voiture ! J'ai un aiguillon à bétail derrière, prenez-le ! Allez, vite, passez-le moi !
+
+Phil	Allez, passe le truc !
+
+Marcus	(aaaah!)
+
+Phil	Dépêche ! C'est ça que vous vouliez ?
+
+Stonewall	Oui, oui !
+
+Phil	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Stonewall	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Marcus	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+(BOUCLE 66 - 01:53:35:23)
+		66
+
+Jamie	Euh ... bonne nouvelle ! Ils ont pris le GPS pour partir ! Avec le système de localisation, nous pourrons les retrouver !
+
+Emmet	Génial !
+
+Jamie	(h) J'aurais préféré qu'ils laissent la dynamite !
+
+Emmet	La dynamite ?
+
+Manny	De la dynamite ?
+
+Lama	Oh nooooooooooon!
+
+Thunder	J'espère que tout va bien pour eux ...
+
+(BOUCLE 67 - 01:53:54:01)
+		67
+
+Billie	J'crois que j'ai cassé l'urne ...
+
+Mikey	C'est pas grave. Comment tu vas, toi ?
+
+Billie	(oh !) Ca va, ne t'inquiète pas !
+
+Mikey	Tu es blessée à l'épaule.
+
+Billie	C'est qu'une égratignure !
+
+Mikey	J'espère que t'as pas trop mal !
+
+Billie	J'ai pas mal ! C'est pas une écorchure qui va m'empêcher de trouver le trésor ! N'oublie pas ces coordonnées !
+
+Mikey	Hawk Jones ... on arrive ! Viens !
+
+Barbecue	J'veux rentrer à la maison !
+
+(BOUCLE 68 - 01:54:26:10)
+		68
+
+Claire	Je suis super désolée ! Tout est ma faute, j'aurais jamais dû les laisser seuls !
+
+Emmet	Non, c'est MA faute ! Avec toutes mes histoires de trésors enfouis ! Le seul coupable dans tout ça, c'est moi et personne d'autre !
+
+Jamie	Oh, tu plaisantes ! C'est Stonewall, le coupable ! C'est à cause de lui si on en est là maintenant !
+
+Claire	J'suis d'accord pour rejeter la faute sur Stonewall ...
+
+Emmet	Tu sais que t'es punie à vie !
+
+Jamie	(oh !) Ils se sont remis en route. Ils se dirigent vers Falls Creek.
+
+(BOUCLE 69 - 01:55:03:10)
+		69
+
+Kaia	Où est-ce qu'on va ?
+
+Timber	M'en veux pas mais j'te le dirai quand on sera arrivés !
+
+Kaia	Alors Monsieur "Je sais tout" reconnait son incompétence !?
+
+Timber	J'ai jamais dit que j'savais tout !
+
+Kaia	Si vous aviez eu le courage de suivre une formation comme moi, je l'ai fait, et ben, on n'en serait pas là aujourd'hui !
+
+Timber	Tu oses rejetter la faute sur nous ?! Alors qu'on a quand même réussi à faire fuir un loup sans qu'aucun d'entre nous soit blessé, j'te ferais dire !
+
+Kaia	N'importe quoi ! Billie est blessée !
+
+Timber	Ecoute "Mademoiselle qui se croit parfaite", je sais que tu as toujours la solution à tout mais parfois, il y a des situations inattendues auxquelles il faut savoir s'adapter.
+
+Kaia	Il est évident que lorsqu'on agit sans réfléchir, il arrive des accidents Monsieur l'inconscient.
+
+Barbecue	Tout vous oppose donc tout vous rapproche !
+
+Timber	(hein ?)
+
+Barbecue	Parfois, quand on est d'accord sur rien c'est qu'on est d'accord sur tout !
+
+Timber	Euh, désolé, j'comprends rien à ce que tu dis !
+
+Barbecue	(ah?) Ca me semble clair pourtant !
+
+(BOUCLE 70 - 01:55:51:18)
+		70
+
+Marcus	(ah!)
+
+Phil	(ah!)
+
+Marcus	(ah!)
+
+Phil	(ah!)
+
+Marcus	(ah!) (ah!)
+
+(BOUCLE 71 - 01:56:26:01)
+		71
+
+Mikey	Tiens, on approche des coordonnées ! J'espère qu'elles sont correctes !
+
+Billie	C'est ... le chalet de la sorcière ?
+
+Mikey	(h) Il n'y a qu'un seul moyen de le savoir ... suis-moi !
+
+Timber	Oh ? Une sorcière ? Vous m'aviez pas dit qu'on risquait de rencontrer une sorcière !
+
+(BOUCLE 72 - 01:56:49:10)
+		72
+
+Stonewall	Le loup a fait un sacré ménage sur ce campement !
+
+Marcus	Eh, Boss ! Il y a des traces de sang à cet endroit ! Et il y en a dans cette direction !
+
+Phil	(renifle ...........................) Oui, c'est bien du caca de chien ! J'espère que les enfants n'ont rien !
+
+Stonewall	(mm) C'est tout ce que j'espère ... il va falloir qu'ils m'aident à retrouver mon trésor.
+
+Marcus	Viens !
+
+(BOUCLE 73 - 01:57:40:13)
+		73
+
+Billie	(oh !) Mon épaule n'est plus du tout douloureuse ! J't'assure !
+
+Mikey	On dirait que tu as la trouille ?!
+
+Billie	Nooon ! Bien sûr que non !
+
+Alice	(rire effrayant ......................................................................) Vous n'avez pas mis de déguisements ? (oh !) Salut les jeunes ! Vous êtes des aventuriers ! Une friandise ?
+
+Billie	Dites, ce n'est pas Halloween !
+
+Alice	Ah non ? Qu'est-ce que vous faites là ? Personne ne vient me voir à part à Halloween ! Cela dit, personne ne vient jamais même pas le jour d'Halloween !
+
+Mikey	Mon amie s'est blessée. Elle aurait besoin d'un pansement.
+
+Alice	(oooh!) Je croyais que c'était du faux ! Mais entrez ! Entrez ! Vite ! Allez ! Je suis désolée ! Je viens de me faire une petite tisane et en général, ça me donne un tout petit peu envie de dormir !
+
+Kaia	Je crois qu'on a affaire à une vraie zinzin !
+
+Barbecue	Je pense que tous les humains le sont plus ou moins...
+
+Alice	Figurez-vous que j'étais en train de faire un curieux rêve quand j'ai entendu vos voix dehors ! Au fait, quel mois est-on ?
+
+(BOUCLE 74 - 01:58:43:03)
+		74
+
+Mikey	Pardon ?
+
+Alice	Tu sais quoi ? On s'en moque ! Peu importe ! Laissez-moi juste trouver ... un peu de myrte ... que je vais mélanger à de la lavande. Ouiiiii ! Comme ça, on va désinfecter cette vilaine égratignure, viens. Alors, pourquoi êtes-vous montés jusque chez moi ? Perdus ?
+
+Mikey	En fait, on cherche ... (h) quelque chose !
+
+Alice	Ah oui ? Et vous y arrivez ?
+
+Billie	On arrive à quoi faire ?
+
+Alice	Et ben, à retrouver les choses ! Parce que j'ai égaré mon chat il y a quelques jours ainsi que, qu'un très joli collier et ma serpillière aussi, vous vous rendez compte ? !
+
+Mikey	Vous avez le téléphone ?
+
+Alice	Oui ! Et je sais où il est ! Il est sur ta gauche et encore sur ta gauche à côté de l'aquarium, tu peux pas le rater !
+
+Barbecue	(oooh !) Elle est toquée !
+
+Alice	Il est possible que ça sente fort !
+
+(BOUCLE 75 - 01:59:42:23)
+		75
+
+Billie	(ah!)
+
+Mikey	Et comment est-ce qu'il marche ?
+
+Alice	Oh, il est cassé ! Disons que je le laisse pour .... faire joli ! Lorsque je viens ici, ce que j'adore, c'est d'être seule au monde. J'ai aucune envie d'être enquiquinée. Avant, je venais ici avec maman rendre visite à grand mère mais, maintenant qu'elle a disparu, je viens juste pour regarder la nature ! Euh, au fait, j'm'appelle Alice ! Alice Bell !
+
+Mikey	Bell ? Comme une cloche en anglais ?
+
+Alice	Disons que je préfère comme dans (euh) la Belle et la Bête ! Ouuuu Belle comme le jour ! Mais si je te fais penser à une cloche, c'est pas très flatteur mais ça fait rien ...
+
+Billie	Moi, c'est Billie Fanning !
+
+Mikey	Mikey Jones ! Et Timber. Barbecue. Et Kaïa.
+
+Alice	Jones ? Tu es le descendant de Hawk Jones ?
+
+Mikey	Oui, c'était mon arrière-arrière-grand-père !
+
+Alice	(oh !) Ma grand-mère m'a raconté l'histoire d'un chien qui appartenait à un certain Hawk Jones, et qui est monté jusqu'ici il y a bien longtemps !
+
+(BOUCLE 76 - 02:00:43:15)
+		76
+
+Mikey	C'est une histoire vraie ?
+
+Alice	Ma grand-mère m'a dit que si un jour, un des descendants d'Hawk Jones revenait nous voir ici, dans la montagne je devrais absolument lui remettre ... (h) cette boite en cuir ! Il y avait aussi euh ... aussi quelque chose que je devais vous dire, qu'est-ce que c'était ?Oh, voyons ! (oh !) Vous avez toutes les clefs !
+
+Mikey	Viens Timber, viens !
+
+Billie	Essaye avec ta clef ?
+
+Mikey	(h) Trop bien !
+
+Billie	Bien au delà du mur de cristal, se trouve une porte qui te montrera tout !
+
+Mikey	(h) Qu'est-ce que ça peut vouloir dire ?
+
+Alice	Je pense que ça veut dire qu'il y a un mur de cristal avec une porte où on peut voir des choses !
+
+Billie	(uh uh)
+
+(BOUCLE 77 - 02:01:54:08)
+		77
+
+Alice	(eh!) Est-ce que vous attendez de la visite parce que moi, pas !
+
+Mikey	Stonewall !
+
+Billie	Stonewall ! J'imagine qu'il nous a sûrement suivis !
+
+Alice	Et bien, sauvez-vous ! Il y a une trappe ici !
+
+Mikey	Et ça conduit où ?
+
+Alice	Ca va vous conduire tout droit à l'extérieur ! Bonne chance !
+
+Billie	Merci pour tout, Alice !
+
+Mikey	Cool !
+
+Alice	(ah!) (h)
+
+(BOUCLE 78 - 02:02:35:06)
+		78
+
+Alice	euh ... est-ce que je peux vous être utile, messieurs ?
+
+Stonewall	Oui, chère madame. Nous sommes à la recherche de deux jeunes enfants. Un petit garçon, et une jeune fille.
+
+Phil	Et aussi leurs chiens ! Votre visage est magnifique !
+
+Marcus	Ils ont trois chiens. Un noir qui ressemble à un cochon. Un blanc et gris avec une tête de loup et un autre avec des espèces de sacoches comme un petit soldat !
+
+Alice	Je n'ai vu ni enfant ni chien !
+
+Marcus	(eh!) Elle raconte des mensonges !
+
+Stonewall	Vous n'avez rien vu. Vous en êtes vraiment sûre ?
+
+(BOUCLE 79 - 02:03:09:03)
+		79
+
+Barbecue	Eh, attendez-moi les copains !
+
+(BOUCLE 80 - 02:03:32:06)
+		80
+
+Jamie	La route ne va pas plus loin ! Maintenant, il faut qu'on marche !
+
+Claire	Ils cherchent le trésor.
+
+Emmet	Enfin, il n'existe aucun trésor !
+
+Jamie	Ce n'est pas ce que tu disais.
+
+Emmet	Ah non ? Tout le monde a envie de croire aux contes de fées ! Faut grandir un peu !
+
+Claire	Je suis désolée ...
+
+Jamie	On a le droit de croire aux contes de fées quand même. On y va ?
+
+(BOUCLE 81 - 02:04:13:09)
+		81
+
+Mikey	(ouahouh!)
+
+Billie	(oh !) (ouahouh!)
+
+Mikey	(ouahouh !) Allons-y ! C'est génial !
+
+Timber	Honneur aux dames !
+
+Kaia	Quelle galanterie !
+
+Timber	Je suis les conseils de Thunder, j'écoute mon coeur ...
+
+Barbecue	Et moi, mon estomac !
+
+Mikey	Super ! C'est le plus joli mur de cristal qui existe sur terre !
+
+Billie	C'est sûr !
+
+Mikey	Viens ! Bon alors, ça, c'est le mur de cristal,
+
+Billie	Mais où est la fameuse porte ?
+
+Mikey	Mystère ! Quelque part derrière sûrement !
+
+Timber	Eh ! Ca vous rappelle pas quelque chose, les copains ?
+
+Kaia	Bien sûr que si !
+
+(BOUCLE 82 - 02:05:16:11)
+		82
+
+Billie	Mais quoi, Kaïa ?
+
+Mikey	Qu'y a-t-il, Timber ? (ouahouh!) C'est dingue ?! Ca,        ça ressemble au fer à marquer !
+
+Billie	Ouais ! Et ça, c'est la hachette !
+
+Mikey	Et ça, c'est l'empreinte de la cloche !
+
+Billie	On vérifie ?
+
+Mikey	Ouais. Bravo Timber !
+
+Billie	T'es trop forte, Kaïa !
+
+Barbecue	Eh! Et moi, j'compte pour du beurre ?
+
+Mikey	Bravo Barbecue ! Super ! Ca rentre parfaitement. (ouahouh!)
+
+Billie	(ouahouh!)
+
+(BOUCLE 83 - 02:06:08:23)
+		83
+
+Billie	(Attends !) J'ai l'impression d'être surveillée !
+
+Stonewall	Mais c'est le cas !
+
+Timber	Stonewall ?!
+
+Stonewall	Stonewall ! Je pourrais vous dire merci mais je ne voudrais pas ternir ma réputation alors, j'vous dirais rien ! (rire ...)
+
+Alice	(oh !) Désolée les enfants, ils ont été si cruels ! Si méchants !
+
+Timber	Il faut faire quelque chose, les copains !
+
+Stonewall	Dites à vos chiens de ne pas bouger !
+
+Kaia	Bon, qu'est-ce qu'on fait ?
+
+Stonewall	On va continuer les recherches sans vous !
+
+Mikey	(h) Vous rigolez ? Le trésor vient des ancêtres de ma famille, et pas de la votre !
+
+Stonewall	(mm) Et bien, c'est ce qu'on va voir ! Qu'est-ce qu'il y a là-dedans ? Retenez-les !
+
+Mikey	(ah!)
+
+Barbecue	Il fait noir là-dedans !
+
+Timber	Barbecue !
+
+(BOUCLE 84 - 02:06:59:24)
+		84
+
+Stonewall	Qu'est-ce qu'il y a dans ce trou sombre ? (rire) (réac de peur) Des chauves-souris ! (oh !)
+
+Phil	(h)
+
+Stonewall	Des chauves-souris !
+
+Phil	Attention !
+
+Mikey	Viens ! Dépêche-toi !
+
+Stonewall	(oooooooooooh !)
+
+Alice	Allez-y, allez-y, j'vais me débrouiller !
+
+Phil	(ooooooooooooooooh !)
+
+Alice	(rire .....................................)
+
+(BOUCLE 85 - 02:07:23:16)
+		85
+
+Mikey	J'y vois rien du tout !
+
+Kaia	Mais lâchez-moi ! Je vous interdis de me toucher ! Bas les pattes, espèce de voyou !
+
+Billie	Mais on n'y voit rien là-dedans !
+
+Mikey	C'est sûr ! Mais ...
+
+Billie	(oh.......!) Moi, j'ai jamais vu un endroit aussi dingue !
+
+Mikey	Tout le monde va bien ?
+
+Billie	Ouais ! Tu es géniale, j'sais pas ce que j'deviendrais sans toi !
+
+Mikey	Viens, on va visiter ...
+
+Timber	T'as réfléchi avant d'entrer ici ?
+
+Kaia	J'ai pas eu le temps. Parfois, on n'a pas vraiment le choix ... il faut agir et réfléchir après ...
+
+Timber	C'est exactement ce queje pense...!
+
+(BOUCLE 86 - 02:08:31:03)
+		86
+
+Timber	J'suis sûr qu'on va bien se marrer ici !
+
+Kaia	Restons prudents surtout !
+
+Mikey	C'est dingue !
+
+Billie	(ouahouh!)
+
+Mikey	Quand je pense qu'on est derrière la cascade !
+
+Barbecue	J'ai une faim de loup !
+
+Timber	Par ici, les copains !
+
+Barbecue	Eh ! Attendez-moi, j'en peux plus, j'suis crevé !
+
+Mikey	Je suis sûr qu'on va trouver quelque chose ici !
+
+Timber	Ouahouh ! Regardez cet ancien petit chariot de mineur !
+
+Billie	Un chariot ! Viens, on s'approche !
+
+Mikey	Pourvu qu'on le trouve le trésor !
+
+Timber	J'adore vivre dangereusement, j'suis un aventurier !
+
+Barbecue	Maman, j'ai peur !
+
+Kaia	C'est bizarre, j'ai un mauvais pressentiment ...
+
+Timber	On ne craint rien tant qu'on reste ensemble !
+
+Mikey	On ne peut pas faire demi-tour ?
+
+Billie	Mikey, j'suis pas sûre qu'on devrait ...
+
+Mikey	Mais ça va aller !
+
+Kaia	A mon avis, c'est une mauvaise idée !
+
+(BOUCLE 87 - 02:09:35:18)
+		87
+
+Phil	(effort ........................................................)
+
+Marcus	(effort ......................................................) (ah!)
+
+Phil	(h h h h h!) Rien à faire !
+
+Marcus	(aaaaaaaaaaaaaaaaah!)
+
+Stonewall	Il y a forcément une autre entrée !
+
+Phil	(ah!) Eh, patron, j'ai trouvé un ouvre-boites !
+
+Marcus	Et moi, de la dynamite, patron !
+
+Stonewall	C'est déjà mieux. (rire ............................................)
+
+(BOUCLE 88 - 02:10:05:09)
+		88
+
+Mikey	C'est parti !
+
+Timber	Je savais bien que j'étais fait pour l'aventure ! Vive Timber, l'aventurier, vive Timber, c'est le meilleur !
+
+Barbecue	Arrêtez, j'ai le mal des transports !
+
+Timber	Timbeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeer ! (yaouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuh !)
+
+Billie	Mikey ! Tu sais comment arrêter ce truc ?
+
+Mikey	Ca doit pas être bien compliqué !
+
+Kaia	Oh la la ! On ne sait même pas où on va !
+
+Timber	(ouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuh !)
+
+Mikey	Attention !
+
+(BOUCLE 89 - 02:10:33:11)
+		89
+
+Marcus	(eh!) Eh ! Vous avez un briquet ?
+
+Stonewall	Soufflez moi ça !
+
+Phil	(pff!) Il a dit de souffler ! (pff!)
+
+(BOUCLE 90 - 02:11:13:07)
+		90
+
+Claire	Qu'est-ce que c'était ?
+
+Jamie	De la dynamite !
+
+Emmet	(euh)
+
+Jamie	J'ai perdu le signal !
+
+Emmet	C'est de la fumée qu'on voit au-dessus de la cascade ?
+
+Jamie	Billie !
+
+(BOUCLE 91 - 02:11:27:19)
+		91
+
+Billie	Oh ! C'est marrant !
+
+Mikey	Mais qu'est-ce qui s'est passé ?
+
+Timber	C'était super !       Vive l'aventure !!
+
+Mikey	Attendez ! Où est-ce que vous allez ?
+
+Kaia	Qu'est-ce que tu as trouvé, Timber ?
+
+Barbecue	Y'a un truc qui sent drôlement bizarre par ici !
+
+Timber	(oh !) On a trouvé les copains !
+
+Billie	Mikey ! Les chiens ont trouvé quelque chose ! Ca va t'intéresser !
+
+Mikey	C'est ... c'est le ...
+
+Billie	Est-ce que tu veux l'ouvrir ?
+
+Barbecue	Je vous l'avais dit ! Je le savais qu'il y avait un trésor caché ! Je le savais ! J'suis trop fort, j'en étais sûr !
+
+Kaia	(mm) Ce ne sont que des vieux os ...
+
+(BOUCLE 92 - 02:12:37:04)
+		92
+
+Barbecue	C'est super bon les vieux os !
+
+Mikey	(euh) c'est ... (oh !) j'sais pas quoi dire !
+
+Timber	Les copains !
+
+Billie	Les Jones ont toujours adoré les chiens, ça se voit ! En voici la preuve ...
+
+Timber	Je crois qu'il a laissé quelque chose pour toi aussi ...
+
+Mikey	T'as trouvé quoi, Timber ? On a trouvé le trésor !
+
+Billie	C'est magnifique ! Regarde tout cet or ! On l'a trouvé ! C'est trop bien !
+
+Timber	On vous a aidés quand même ! On est une équipe ! Heureusement qu'on était là ! Vous exagérez ...
+
+(BOUCLE 93 - 02:13:26:23)
+		93
+
+Mikey	Un combat ? Trop cool !
+
+Barbecue	J'adore l'odeur du trésor !!
+
+Mikey	On a assez d'or pour acheter dix ranches !
+
+Billie	Comment ton arrière-arrière-grand-père a t-il eu tout ça ? C'était un pirate ?
+
+Mikey	Non, mon père a dit qu'il a découvert un trésor en dix huit cent soixante deux.
+
+Auteur 	(1862)
+
+Mikey	Et l'arrière-arrière grand-père de Stonewall a commencé à racheter les terres et Hawk lui en a vendues contre de l'or et des pierres précieuses. Mais Stonewall voulait avoir tout le trésor et il le harcelait. Alors, il a caché son trésor pour pas se le faire voler !
+
+Stonewall	Jusqu'à aujourd'hui !
+
+Mikey	Stonewall ?
+
+Billie	Stonewall !
+
+Stonewall	(rire ............................................................) Ne touchez à rien sinon vous allez finir en barbecue ! Barbecue ! Figurez-vous que mon cher ancêtre était à ça de découvrir le trésor ! Vous imaginez ? Il a fait sauter de nombreuses pierres de cette caverne mais il n'a jamais réussi à trouver le pactole !
+
+(BOUCLE 94 - 02:14:23:17)
+		94
+
+Mikey	Il a tout fait effondrer !
+
+Stonewall	Au moins, ça a causé la mort de Hawk Jones !
+
+Alice	(oh !)
+
+Timber	Ce type est vraiment trop méchant !
+
+Stonewall	Chargez le chariot !
+
+Phil	Et les deux mômes ?
+
+Stonewall	Quoi, les deux mômes ?! Vous savez ce qu'on dit ? Les morts ne parlent plus !
+
+Phil	Non !
+
+Stonewall	(rire ...............................) Ca marche pour les enfants et les folles déguisées en sorcière ! Et les chiens aussi ! Je suis sûr qu'Hawk Jones a envie d'avoir de la compagnie !
+
+Alice	Ce sont des enfants, vous ne pouvez vraiment pas faire ça !
+
+Stonewall	Et qui va m'en empêcher ? Vous ? (rire) Le squelette du vieil Hawk Jones ? Tuez-la en premier !
+
+Phil	J'en suis amoureux.
+
+Alice	(euh) C'est mon chat, Fluffy ! Coucou Fluffy !
+
+Mikey	Ce n'est pas un chat !
+
+Billie	Ce n'est pas un chat !
+
+Timber	Un chat ? Je déteste les chats !
+
+Stonewall	Oh non ! Non, non, au secours ! Non !
+
+Timber	A l'attaque !
+
+Alice	(réacs .............................................................)
+
+Stonewall	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Mikey	Attention, c'est un piège !
+
+Alice	Sauvez-vous les enfants !
+
+Timber	Faites ce qu'elle dit, sauvez-vous !
+
+Ambiance	(brouhaha général ..........................)
+
+Alice	(ah!) Venez, on s'en va !
+
+Stonewall	(ah!)
+
+Mikey	Qu'est-ce qu'on fait du trésor ?
+
+Billie	On n'a plus le temps !
+
+Stonewall	(ah!)
+
+Alice	Viens vite, Fluffy !
+
+Phil	J'abandonne !
+
+Stonewall	Vite ! Arrêtez-les ! Rattrapez-les ! Il est hors de question qu'ils s'échappent ! (oh !) (ooooooooooooooooooooooooooooooooooooooooooooooooooooh !)
+
+(BOUCLE 95 - 02:15:56:03)
+		95
+
+Claire	Papa, regarde, y'a de la poussière ici !
+
+Emmet	(h) Mikey ! Billie !
+
+Marcus	(oh !)
+
+Phil	Oh ! Toute la caverne est en train de s'écrouler !
+
+Marcus	(oh !) (oh !)
+
+Stonewall	(h) (uh uh) (oh........................ !)
+
+Jamie	Non, ne va pas à l'intérieur, ça risque de s'écrouler !
+
+Emmet	Les gamins sont à l'intérieur !
+
+Mikey	On n'y est plus !
+
+Emmet	Mikey !
+
+Mikey	Papa !
+
+Emmet	Oh, mon garçon ! Tu te rends compte du souci que je me suis fait ?
+
+Mikey	J'te demande pardon.
+
+Emmet	Ca va ?
+
+Mikey	Oui, ça va !
+
+Jamie	Qui c'est ?
+
+Billie	Oh, elle, c'est Alice ! La sorcière ! Qu'est pas une vraie sorcière. Mais elle nous a aidés.
+
+Alice	Bonjour, ravie de vous connaitre. Oh, voici mon chat, Fluffy.
+
+Jamie	Euh, ce n'est pas un chat !
+
+Emmet	Et vous, qu'est-ce que vous faites là ?
+
+Marcus	(euh) Ben, disons, qu'on jettait un oeil sur vos enfants, histoire qu'il leur arrive pas le moindre souci ! Pas vrai, Philou ?
+
+Phil	Ouais ! Nous allions les tuer ainsi que Monsieur Stonewall nous l'avait ordonné (Prrrrrr !)
+
+Emmet	Quoi ? Stonewall est ici ?
+
+Mikey	Plus maintenant. Il est à l'intérieur avec Hawk Jones. On lui a échappé. Et maintenant, il a disparu !
+
+Stonewall	(il tousse .................) N'allez pas si vite ! (rire ...........................) Quoiqu'on puisse vous dire, à partir de mardi matin, toute cette montagne      et tout ce qui se trouve dedans, sera à moi ! Et vous ne pourrez plus rien y faire.
+
+Emmet	Attendez, qu'est-ce que vous dites ? Comment ça dedans ? Vous voulez dire que le trésor existe ?
+
+Stonewall	Mais maintenant, il est enfoui dessous ! Et ça va prendre des semaines, des mois pour le récupérer ! Ce sera trop long pour que vous puissiez rembourser la banque ! (aaaaaaaaah) J'ai gagné ! (aaaaaah!)
+
+(BOUCLE 96 - 02:17:38:20)
+		96
+
+Stonewall	(aaaaaaah!) Et vous avez perdu ! (ah!) (oh !) Non ! Arrête, arrête !
+
+Ambiance	(rire de tous....................................................................................................................................................... ............................)
+
+Stonewall	Dégagez les chiens, laissez-moi tranquille ! (oh !) Débarrassez-moide ces maudits clebs ! Faites quelque chose ! (oh !) Lâche-moi espèce de sale bestiole ! (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !) (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Phil	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Stonewall	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !)
+
+Ambiance	(rires de tous .........................................................................................................................)
+
+Jamie	(rire .......................................)
+
+Billie	(rire ............................................)
+
+Claire	Ils vont avoir un sacré mal de tête en se réveillant !
+
+Jamie	Surtout qu'ils seront tous les trois en prison ! Tentative de meurtre, c'est une accusation très grave même quand on est super riche !
+
+Mikey	Mais il avait raison ! On a failli rapporter le trésor ! Mais on s'est complètement planté ! On est vraiment nuls ...
+
+Billie	Oui, super nuls ...
+
+Emmet	Ecoute Mikey, c'est toi, mon trésor ! okay ? Le ranch, j'en ai rien à faire sans toi et ta soeur ! On s'en fiche de l'endroit où l'on vit ! Tant qu'on reste ensemble ! Comme une famille !
+
+Jamie	Il a raison, chérie. Le bonheur ne se mesure pas à la quantité d'or qu'on possède ! Mais aux personnes qu'on aime !
+
+(BOUCLE 97 - 02:18:42:20)
+		97
+
+Mikey	Où estTimber ?
+
+Billie	Je croyais qu'il était sorti !
+
+Barbecue	Oh non, alors !
+
+Kaia	Timber ! Il commençait à me plaire !
+
+Timber	J'arriiiive ! Pas de panique !
+
+Kaia	Timber ! Tu vas bien ?
+
+Barbecue	Je savais que tu t'en sortirais !
+
+Emmet	Oh la la ! Regardez ce qu'il rapporte ! (ooooooh !) C'est un os en or !
+
+Barbecue	T'es sûr qu'on peut pas le manger ?
+
+Emmet	Mais il pèse au moins huit cents grammes  ! Je crois que nous n'avons plus de soucis à nous faire au sujet de nos maisons !
+
+Jamie	Ouais !
+
+Emmet	(rire ......................)
+
+Billie	(ah!) Ouais !
+
+(BOUCLE 98 - 02:19:27:03)
+		98
+
+Insert	Titre de propriété du ranch Jones.
+
+Jamie	J'apporte le pain !
+
+Emmet	(oh !) Merci !
+
+Billie	Tu es devenu très fort au lasso ! Tu vas bientôt pouvoir faire de vrais rodéos !
+
+Mikey	T'es une excellente prof!
+
+Billie	J'ai un élève très doué.
+
+Thunder	Félicitations Timber ! Tu as sauvé notre maison !
+
+Manny	Je suis fou de bonheur !
+
+Lama	Félicitaaaaaations !
+
+Timber	(oh !)
+
+Sid	J'ai une nouvelle blague. Pourquoi les poules traversent les routes ?
+
+Timber	Pour aller de l'autre côté ?
+
+Sid	Non, pour rendre visite à leurs voisins !
+
+Timber	(Très drôle !)
+
+Sid	Faites une ovation à Timber et à Kaïa !
+
+Animaux	Hip hip hip hourra ! Hip hip hip hourra !
+
+Lama	Hip hip hip hourra !
+
+Animaux	Hip hip hip hourra !
+
+Manny	Hip hip hip hourra !
+
+Thunder	Hip hip hip hourra !
+
+Jamie	(euh) Tu as un peu de ... (ah!)
+
+Emmet	Quoi ? C'est mieux ?
+
+Jamie	(ah!) Oui ! Beaucoup mieux ! (rire .............................)
+
+Emmet	Dis-moi !
+
+Barbecue	Viens, je vais te nettoyer ! Approche-toi !
+
+Emmet	Regarde, j'ai quelque chose-là ! Enlève-le !
+
+Jamie	(rire)
+
+(BOUCLE 99 - 02:20:27:19)
+		99
+
+Laura	Alors ? Tu viens chez moi samedi prochain ? Y aura des beaux gosses !
+
+Claire	Laura !
+
+Laura	Allez, viens, ça va être super, allez viens, j't'en prie !
+
+Claire	Non. Pas question, mon père veut pas.
+
+Laura	J'peux pas faire de fête sans ma meilleure amie !
+
+Claire	Il est hors de question que je désobéisse à nouveau !
+
+Laura	Ton père n'en saura rien !
+
+Claire	Je suis déjà punie à vie, inutile d'en rajouter, ça m'tente vraiment pas !
+
+Emmet	(mmmmmm)
+
+Jamie	(aaaaaaaaaaaaaaaaaaaaaaaaaah!)
+
+Emmet	(oooooooooooooooooooooooooh!) (ooooooooooh!) Tu es gentil.
+
+Barbecue	J'adore la sauce barbecue !
+
+Jamie	Il t'adore !
+
+Emmet	Oui, je sais !
+
+Jamie	(rire)
+
+Emmet	C'est surtout un gourmand !
+
+Jamie	J'imagine !
+
+Emmet	Mon pépère ! (ptt ptt ptt) Viens ! (rire .........................................)
+
+Jamie	(rire) T'es un bon chien.
+
+Emmet	(oh !)
+
+Thunder	Tu as réussi à sauver notre ranch.
+
+Timber	J'ai fait ce que j'ai pu, tu sais et maintenant, je vais aller vers de nouvelles aventures.
+
+Kaia	Où est-ce que tu vas ?
+
+Timber	Là, où je pourrai m'amuser et me rendre utile ! Je veux punir les méchants et résoudre des énigmes !
+
+Kaia	Mais je trouvais qu'on faisait une sacrée équipe maintenant qu'on était devenus amis .
+
+Thunder	Vous êtes supers tous les deux !
+
+Timber	C'est vrai qu'on fait une équipe du tonnerre ! Alors, si tu veux, tu n'as qu'à partir à l'aventure avec moi ! Mais avant, il faut manger !
+
+(BOUCLE 100 - 02:21:26:22)
+		100
+
+Emmet	Les enfants ! On mange !
+
+Mikey	Allons-y ! Tiens ?
+
+Billie	Qu'est-ce que c'est que ça ?
+
+Mikey	Aucune idée ! Meriwether Lewis et William Clark. C'est une carte au trésor !
+
+Billie	Lewis et Clark ? Est-ce que ça vient des Lewis et Clark qu'on connait ?
+
+Timber	J'ai l'impression que c'est reparti pour un tour !
+
+Kaia	On va bientôt voir la suite des aventures de Timber, c'est vraiment génial !
+
+Auteur 	(on peut mettre ausssi le nom du film en français)
+
+Timber	Timbeeeeeeeeeeeeeeeeeeeeeeeeeer !

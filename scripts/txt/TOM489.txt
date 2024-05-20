@@ -1,0 +1,312 @@
+THOMAS 489
+Titre VO : Engine of the future
+ titre validé VF : La locomotive du futur
+Note pour Blanche : il y a 2 nouveaux personnages : FRANZ personnage humain/homme et HUGO locomotive (un zeppelin sur rails=locomotive à hélice )
+Les corrections de la cliente sont soulignées
+(BOUCLE 1 - 10:00:30:17)
+		01
+
+Narrator	La locomotive du futur.
+
+Narrator	Ce jour-là, quelque chose de très étrange traverse comme une fusée le pont de la ville des vicaires, et fait son entrée sur la petite ile de Chicalor.
+
+Duncan	Oh! C'était une locomotive, ça?
+
+Sir Handel	J'ai un doute! Euh, peut-être que c'était une sorte d'avion euh mais sans ailes! (h)
+
+Gordon	Oh!
+
+Caitlin	Oh!
+
+Fat control	Ah! Hein euh quoi? Oh! C'est quoi ça? Oh! Ah! J'ai rien sur la tête! (h) Mon chapeau!
+
+(BOUCLE 2 - 10:01:27:16)
+		02
+
+Millie	Oh!
+
+Stephen	Oh!
+
+Earl	Ohoh! Grands dieux! Salut toi! Dis-nous quel est ton prénom!
+
+Hugo	Bonjour M'sieur!! Moi, je m'appelle Hugo, le zeppelin sur rail! C'est mon conducteur qui voulait qu'on se rencontre!
+
+Earl	Franz!
+
+Franz	Ah! Ohoh!
+
+Earl	Ohoh bonjour!
+
+Franz	Ahahahahaha!
+
+Earl	Quelle bonne surprise!
+
+Franz	Ahahahaha! Bonjour Monsieur le Conte! Ah! Je tenais à vous présenter Hugo! Comme vous aimez  les engins originaux!
+
+(BOUCLE 3 - 10:02:08:18)
+		03
+
+Hugo	Oui je fonctionne au diésel, mais mon moteur sert à faire tourner l'hélice qui est à l'arrière.
+
+Earl	Il est très impressionnant à regarder, c'est vrai! Mais pour m'aider à me faire une opinion, il va falloir qu'Hugo m'emmène faire une petite balade!
+
+Franz	Avec grand plaisir! Bienvenue à bord! Héhé!
+
+(BOUCLE 4 - 10:02:38:21)
+		04
+
+Narrator	La nouvelle de l'arrivée d'Hugo se répand rapidement dans toute l'ile.
+
+James	D'après la rumeur, il ne ressemble pas à une locomotive en fait!
+
+Percy	Je sais oui! Il a même une hélice dans le dos!
+
+Philip	Une hélice?
+
+Percy	Il est toujours là-haut au château?
+
+Philip	Oh? Un château?
+
+voix off	Une locomotive entre en gare, éloignez-vous des quais, merci.
+
+Philip	(h)
+
+Fat control	Ah, Thomas! Emmène-moi au château des elfes s'il te plait! Il te reste  du temps libre avant ta prochaine mission;
+
+Thomas	Oui Monsieur, bien sûr!
+
+Fat control	(efforts) Ah, apparemment il y a un engin extraordinaire là-bas! Ohoh! En matière d'innovation, je suis ouvert à toutes les idées pour améliorer mon chemin de fer!
+
+(BOUCLE 5 - 10:03:24:08)
+		05
+
+James	Améliorer son chemin de fer? Qu’est-ce qu'il a voulu dire, le gros contrôleur?
+
+voix off	N'oubliez pas de composter vos billets, merci.
+
+Percy	Hmmm. Je n'en sais rien! Mais je crois savoir qu'il y a des wagons à livrer au Château des Elfes!
+
+James	Et je suis sûr que mes passagers aimeraient le visiter!
+
+Philip	Oh, euh  et je viens avec vous! Juste pour le plaisir! Haha!
+
+(BOUCLE 6 - 10:03:51:17)
+		06
+
+Fat control	Oh! Quelle merveille!
+
+Earl	Vous allez l'adorer, c'est sûr!
+
+Fat control	(rire)
+
+Earl	Hugo est extraordinaire!
+
+Thomas	Ohohoh!
+
+Stephen	Ohoho hohoho hoho! Oui je confirme!
+
+Thomas	Il est incroyable!
+
+Stephen	Ce Hugo, c'est la locomotive du futur!
+
+James	Wahou! Il est splendide, cet engin!
+
+Percy	Oh! C'était lui là?
+
+Philip	Hein?
+
+Philip	De qui vous parlez? Hé! Je crois que je l'ai raté,  non! Je l'ai raté!
+
+(BOUCLE 7 - 10:04:35:05)
+		07
+
+Thomas	Tu crois qu'on l'a engagé pour améliorer le chemin de fer?
+
+Stephen	Ohohoh! Oui! Les locomotives comme Hugo remplaceront bientôt toutes les autres! Rappelez-vous l'ancien temps! C'était des chevaux qui tiraient les wagons avant. Et les locomotives à vapeur sont arrivées! Et la vapeur a régné jusqu'à la découverte du diésel! Aujourd'hui, on a Hugo et l'ère de la technologie a commencé! Il faut l'accepter!
+
+Fat control	Oh! Ca c'est un voyage en douceur!
+
+Philip	(oh) (oh)
+
+Percy	(oh)
+
+Fat control	Et je ne parle même pas de la vitesse!
+
+Thomas	(h)
+
+(BOUCLE 8 - 10:05:12:07)
+		08
+
+Narrator	Ce soir-là, à la gare de triage, les locomotives discutent de la situation.
+
+Thomas	Et Stephen dit qu'on sera tous remplacés par des engins comme Hugo!
+
+Emily	Mais je ne veux pas être remplacée, moi! (h) J'aime travailler pour ce chemin de fer!
+
+Edward	Moi, pareil! Et d'autant plus que je ne sais rien faire d'autre!
+
+Henry	On va tous se retrouver à la casse!
+
+Gordon	Non, ils n'oseront pas me faire ça, à moi!
+
+Hugo	Bonsoir! Hah! Heu, dites, par hasard, vous n'auriez pas un box de libre?
+
+Gordon	Désolé, mais ce hangar est plein!
+
+Hugo	(h)
+
+James	C'est exact! Et il est réservé aux locomotives à vapeur!
+
+Percy	(h)
+
+Hugo	(h)
+
+(BOUCLE 9 - 10:05:50:14)
+		09
+
+Percy	Non attends Hugo! Je dois m'occuper du train postal! Tu n'as qu'à dormir dans mon box si tu veux!
+
+Hugo	(h)
+
+Gordon	Non, c'est impossible!
+
+Hugo	(h)
+
+Gordon	Il cherche à nous prendre notre place!
+
+Hugo	Ce n'est pas grave, ne vous inquiétez pas pour moi!
+
+Percy	(h)
+
+Hugo	Je vais bien trouver un autre endroit!
+
+Narrator	Hugo a donc passé la nuit tout seul près des hangars, mais le lendemain matin, les locomotives lui font toujours la tête!
+
+Gordon	(grrr BF)
+
+Hugo	(h)
+
+(BOUCLE 10 - 10:06:28:11)
+		10
+
+Hugo	Je peux savoir pourquoi vous êtes tous méchants avec moi?
+
+Thomas	Parce que tu veux prendre notre place!
+
+Hugo	(oh) Non c'est faux! Je ne compte remplacer personne, je vous assure!
+
+Thomas	Mais tu es plus rapide et plus moderne que nous!
+
+Percy	Stephen dit que tu peux tout faire!
+
+Hugo	Ah! Ca aussi c'est exagéré! Comme je n'ai pas de crochet d'attelage, je suis incapable de tracter des wagons!
+
+Thomas	Oh!
+
+Percy	Ah bon?
+
+Hugo	Et tout le monde a peur de mon hélice! Alors que je fais très attention à chaque fois que j'entre dans une gare!
+
+Percy	Thomas! Je crois qu'on lui a fait de la peine!
+
+Thomas	(h)
+
+Percy	Alors on doit trouver un moyen pour se faire pardonner!
+
+Thomas	Les autres aussi ont été méchants, y'a pas que nous!
+
+Percy	Dans ce cas, on va tous devoir essayer de nous racheter!
+
+Thomas	(h)
+
+(BOUCLE 11 - 10:07:17:11)
+		11 AMB passagers (duchess+duke+dowager hatt+1 fille et 1 garçon+ mayor entre autres) 
+
+voix off	Les voyageurs sont invités à composter leur billet avant de monter dans les trains.
+
+Fat control	Ah! Bonjour Hugo!
+
+voix off	N'oubliez pas vos valises sur le quai.
+
+Fat control	Alors, comment ça va ce matin?
+
+Hugo	J'suis content de vous voir Monsieur!
+
+Fat control	J'aimerais te présenter des passagers qui sont importants!
+
+Duchess	Comme c'est excitant.
+
+AMB passagers 	Ca va être fantastique/je ne suis jamais monté dans un truc pareil/oh j'ai hâte! rires enfants
+
+Fat control	Ils comptent sur toi pour les emmener faire un tour à la ville des vicaires et les ramener.
+
+Hugo	Ah!
+
+Percy	(h)
+
+Man	Hein? Aaah!
+
+Percy	(h)
+
+(BOUCLE 12 - 10:07:47:08)
+		12 
+AMB Locos= Thomas+Percy+Emily+Edouard+James+Henry+Gordon
+
+Narrator	Hugo a passé sa journée à transporter des passagers absolument enchantés par la balade!
+
+Dowager	Ohohoh! C'est comme si on était des oiseaux!
+
+Ducchess	Ohohoh c'est encore mieux qu'j'croyais!
+
+Narrator	Mais Hugo pense toujours à la façon dont l'ont traité les locomotives et ça le rend triste. Mais le soir venu, en arrivant aux Quatre Vents, Hugo est loin de s'attendre à la surprise qu'on lui a réservée!
+
+Hugo	Oh!
+
+AMB Locos	Coucou! Bienvenue!
+
+Hugo	(h)
+
+AMB Locos	Vive Hugo!
+
+Hugo	Oh!(petit rire)
+
+AMB Locos	T'es ici chez toi!
+
+Hugo	(h)
+
+Percy	Hourrah!
+
+AMB Locos	(rires____)
+
+Edward	Houhouhou!
+
+Emily	Ah!
+
+(BOUCLE 13 - 10:08:25:08)
+		13
+
+Fat control	Qu'est-ce qui s'passe?
+
+voix off	Le train pour le puits sec va entrer en gare quai numéro sept.
+
+Fat control	Je peux savoir ce que l'on fête?
+
+Thomas	Oui M'sieur! C'est juste un comité de bienvenue, pour Hugo!
+
+Percy	Et on s'excuse si on n'a pas été gentil avec toi. Et ce soir, on voudrait que tu dormes  dans notre hangar!
+
+James	Un grand bravo pour ce cher Hugo! Bip bip! Bip bip! Bip bip!
+
+Philip	Hourraaaah!
+
+AMB Locos	Hourrrah_____!
+
+AMB passagers	Hourrah______!
+
+Hugo	Oh ça m'touche! C'est une belle preuve d'amitié!  Vraiment les amis, je vous remercie, hah! (il éclate de rire)
+
+Narrator	Et ce soir-là, c'est avec un immense plaisir que les locomotives partagent leur hangar à la gare de triage avec Hugo, leur nouvel ami!
+
+1
+
+

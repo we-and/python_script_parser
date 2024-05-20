@@ -1,0 +1,808 @@
+
+
+KIZNAIVER 10
+
+
+
+
+
+
+1 (00:00:01:10)
+
+HISOMU	Bonjour, bonjour__!
+
+KATSUHIRA	h ? Ah__... Hisomu__. Euh__,... ... bonjour, bonjour__.
+
+HISOMU	Jourbon_! J'imagine que t'as encore rien mangé__,... j'me trompe_?
+
+KATSUHIRA	Oh_, c'est vrai_,... ... j'ai oublié___. Chidori me préparait toujours tous mes repas_.
+
+HISOMU	T'es vraiment grave Katsuhira_,... ... un vrai échec de l'espèce humaine_.
+
+KATSUHIRA	Et c'est toi qui me dit ça_, Hisomu_...
+
+HISOMU	J't'ai aussi acheté un ouvre- boite_.
+
+
+2 (00:00:42:00)
+
+KATSUHIRA	Une conserve party__?
+
+HISOMU	[sourit] * h h Oui_. S'il en reste, on pourra les garder_. Mais attention_, ça peut être dangereux à manger_. Attends, j'te montre_. Tu vois,... ... tu poses délicatement ta bouche sur le bord et tu verses_. Comme ça_.
+
+KATSUHIRA	Okay_. [boit/avale]
+
+HISOMU	[mélancolique] [soupire]
+
+KATSUHIRA	h
+
+HISOMU	h Depuis ce jour_, les autres ne font pas le moindre mouvement__.
+
+KATSUHIRA	.
+
+HISOMU	Je m'ennuie parce que je n'ai pas vécu de douleur brusque dernièrement_. C'est triste_.
+
+KATSUHIRA	[mâche] * h
+
+HISOMU	J'ai du mal à me contenter d'une douleur normale après tout ça_.
+
+KATSUHIRA	. * hm_ [in peto] Depuis ce jour_...
+
+OUT (00:01:17:05)
+
+
+3 (00:01:53:00)
+
+HISOMU	Ils ont dit que les Kiznas seraient libérés automatiquement_,... ... je m'demande bien quelle sensation ça va faire_. Ça va disparaître d'un coup__? Ou ça va être super___ génialement douloureux à souhait__?
+
+NOTE D'AUTEUR	------------------------------------------------------------------------
+
+KATSUHIRA	Est- c'que ça va_... ... au moins disparaître?
+
+HISOMU	h ? Ah oui, c'est vrai_,... ... ton Kizna avec Sonozaki_ n'avait pas disparu_, lui_.
+
+KATSUHIRA	* h Oui, mais_...
+
+OUT (00:02:20:00)
+
+
+4 (00:02:25:00)
+
+HISOMU	Il a bien disparu cette fois_.
+
+KATSUHIRA	Je n'ai jamais ... eu de blessure ici_,... ... et pourtant...
+
+HISOMU	Est- c'que tu es en contact avec Sonozaki__?
+
+KATSUHIRA	J'lui ai envoyé des mails. Pas d'réponse_. h
+
+HISOMU	h
+
+KATSUHIRA	?
+
+HISOMU	?
+
+NOTE D'AUTEUR	[out] VO- >
+
+KATSUHIRA	C'est toi__? L'été_ est sur le point de finir_. Les Kiznas sont sur le point de disparaître aussi_.
+
+INSERT	Tu aurais dû savoir que l'amour n'est pas toujours réciproque, hein?
+
+OUT (00:03:05:20)
+
+
+5 (00:04:30:10)
+
+INSERT	KIZNAIVER
+
+AMB FOULE ÉLÈVES	h
+
+ÉLÈVE 1	Wah__! J'hallucine__, comment t'as bronzée__!
+
+YAMADA	Salut, tout l'monde_! Ça faisait longtemps_!
+
+AMB FOULE ÉLÈVES	...
+
+YAMADA	Alors__,...
+
+AMB ÉLÈVES X 10	h[ brouhaha] -
+
+YAMADA	... vous allez tous bien___?
+
+ÉLÈVE 2	C'est la rentrée_, alors non__.
+
+YAMADA	Ouais__,... faut dire que pour vous_, les premières_, c'étaient vos dernières vacances heureuses_. Maintenant_,... la longue__ et cruelle__ route vers les examens de passage vous attend_!
+
+NOTE D'AUTEUR	---------------------------------------------------------------- -------------------------------------------------
+
+ÉLÈVE 3	Tu veux pas parler d'aut' chose_, Yamada_, t'es saoûlant_!
+
+AMB ÉLÈVES X 10	h[ "Très drôle"/"Hou"/etc...] -
+
+YAMADA	Soyez pas grognons comme ça__.
+
+AMB ÉLÈVES X 10	h[brouhaha reprend] -
+
+YAMADA	Ce dernier été_ vous aura laissé quelques bons souvenirs_, non___? J'suis sûr que les membres des clubs___... ... ont été en camp d'entrainement_. Vous avez dû faire des tests de courage la nuit_, hein_, bande de fripouilles_?
+
+AMB ÉLÈVES X 10	h[ rires moqueurs genre c'est nul/etc...]
+
+KATSUHIRA	h
+
+TAKASHIRO	h !
+
+KATSUHIRA	!
+
+ÉLÈVE 2	Des tests de courage_?
+
+AMB ÉLÈVES X 10	-
+
+ÉLÈVE 2	Ha___! V'là l'truc bidon_!
+
+
+6 (00:05:18:14)
+
+YAMADA	Ou des feux d'artifice au bord d' la mer__.
+
+AMB ÉLÈVES X 10	h [brouhaha reprend] -
+
+YAMADA	Peut- être aussi des parties d'action- vérité_ endiablées avec vos amis__.
+
+AMB ÉLÈVES X 10	...
+
+MAKI	h
+
+AMB ÉLÈVES X 10	h[ rires/"N'importe quoi!"/"C'est nul"/etc...]
+
+MAKI	!
+
+ÉLÈVE 2	Tu nous a pris pour des gamins ou quoi_?
+
+AMB ÉLÈVES X 10	-
+
+TENGA	# h[Gnnn] - !
+
+YUTA	L'enfoiré__...
+
+YAMADA	Pourquoi_ pas__?
+
+AMB ÉLÈVES X 10	! h[brouhaha reprend]
+
+YAMADA	Et puis, l'été_, c'est aussi la saison où tout s'emballe__.
+
+AMB ÉLÈVES X 10	-
+
+YAMADA	On déclare souvent son amour_,... ... et on s'fait jeter souvent_.
+
+AMB ÉLÈVES X 10	.
+
+YAMADA	Ça a bien dû arriver_, non_?
+
+AMB ÉLÈVES X 10	[oh] h ?!
+
+TAKASHIRO	h[voirVO] -
+
+AMB ÉLÈVES X 10	h[murmures] -
+
+TAKASHIRO	.
+
+YAMADA	Qu'y a t'il__,...
+
+AMB ÉLÈVES X 10	...
+
+YAMADA	Tenga_?
+
+NOTE D'AUTEUR	J'vais____...
+
+TENGA	W______...
+
+NOTE D'AUTEUR	... pisser____!
+
+TENGA	... C_______!
+
+
+7 (00:05:55:00)
+
+TENGA	h !?!
+
+AMB ÉLÈVES X 10	h
+
+TAKASHIRO	* h
+
+TENGA	Ourgh_!
+
+TAKASHIRO	!
+
+AMB ÉLÈVES X 10	! h[murmures] -
+
+TAKASHIRO	* h
+
+TENGA	Enflure__.
+
+YAMADA	[sourit]
+
+AMB ÉLÈVES X 10	...
+
+YAMADA	# h Un problème__? Allez_, il n'y a qu'à toi qu'ça a fait mal_.
+
+TENGA	# h !
+
+AMB ÉLÈVES X 10	h[murmures] -
+
+ÉLÈVE 3	Il saigne du nez__!
+
+HISOMU	h[gémit] - !
+
+YAMADA	Bon_,...
+
+AMB ÉLÈVES X 10	...
+
+YAMADA	de toute façon_, l'été_, et tout c'qui va avec, c'est terminé_! Il va falloir vous remettre dans l' bain et étudier_, les cocos_!
+
+OUT (00:06:22:05)
+
+
+8 (00:06:26:00)
+
+YUTA	Je n'ai ressenti aucune douleur_. Ni au coeur_, ni au corps_.
+
+MAKI	On a tous fait une promesse_, tu t'souviens_? Interdit d'se parler_.
+
+YUTA	Ouais, ouais, je sais_. Jusqu'à la fin de l'été_. Dis_, Honoka_... [tristounet] Oh__, j'y crois pas_.
+
+
+9 (00:06:46:15)
+
+KATSUHIRA	Y'a quelqu'un_?
+
+OUT (00:06:48:00)
+
+
+10 (00:06:54:15)
+
+HISOMU	Qu'est- c'que tu fais_?
+
+KATSUHIRA	Oh__... Ben_, je__... ... je cherche Nori_, tu l'as pas vue__?
+
+HISOMU	Nan_.
+
+KATSUHIRA	Je la trouve pas_.
+
+NOTE D'AUTEUR	[ filles en jupe au dessus d'eux...]
+
+HISOMU	Oh___ .
+
+NIYAMA	A__... Attendez______!
+
+KATSUHIRA	hm____µ?
+
+HISOMU	hm____ ? On avait l'air d'aller quelque part_? Généralement, on dit ça à des gens qui s'déplacent_.
+
+NIYAMA	Par_... Pardon_!
+
+KATSUHIRA	[se lève] h . Mais voyons_, ne t'excuse pas pour ça_.
+
+NIYAMA	Pardon_! Euh__... Comment dire__? Eh bien__,... ... je__... J'ai beaucoup réfléchi_!
+
+KATSUHIRA	*
+
+HISOMU	* h
+
+KATSUHIRA	h
+
+HISOMU	.
+
+KATSUHIRA	.
+
+
+11 (00:07:30:20)
+
+NIYAMA	Le fait d'avoir été_... ... séparée de vous m'a fait prendre conscience__... ... que______ j'avais passé un été hyper chouette_! C'est vrai qu'on s'est fait mal_, qu'on a beaucoup couru_ et pleuré_, mais__... Mais tout au long de_... de mes dix- sept ans d'vie_, je n'avais__... ... ja_______mais... vécu un été aussi génial_! h * h[sanglots] - * h h Et_ je__... Euhm_... Je crois_... ... que c'est parce qu'on était tous ensemble_.
+
+KATSUHIRA	Nico_...
+
+HISOMU	Ouais, sûrement_. Et Tenga est_ /....
+
+NIYAMA	[colère] Non_, il n'y avait pas qu'ça_, Yoshiharu__! [penaude] Maintenant_, c'est vrai que_... ... que je l'aime_, bien sûr_. Mais je_... ... j'aime aussi Katsuhira_... et je t'aime_, toi aussi_, Yoshiharu_!
+
+
+12 (00:08:14:00)
+
+HISOMU	Sacré Harem, dis donc_!
+
+NIYAMA	Mais non, c'est pas c'que voulais dire__! J'aime aussi Chidori__,... Honoka__, et aussi Tsuguhito__!
+
+NOTE D'AUTEUR	[ Yuta ]
+
+NIYAMA	Bref_, j'aime tout l'monde__!
+
+KATSUHIRA	h
+
+NIYAMA	Alors_... ... même sans les Kiznas, je voudrais qu'on soit liés__. Je voudrais qu'on devienne vraiment amis_. Je vous aime tous tellement_!
+
+KATSUHIRA	D'accord_. Devenons amis, alors_.
+
+NIYAMA	h !
+
+HISOMU	Ouais, allez_, pourquoi pas_. C'est un plaisir_,...
+
+NOTE D'AUTEUR	["nouveau pote" : masculin voulu-> plus du genre d'Hisomu]
+
+HISOMU	... nouveau pote_. Et pareil pour toi_, Katsuhira_.
+
+NIYAMA	Qu_... Quoi_, tout simplement comme ça__? [voirVO] h *h
+
+OUT (00:08:50:15)
+
+
+13 (00:08:55:20)
+
+NIYAMA	[voirVO] h ! h Ouais____! Pas besoin des Kiznas_, seule une poignée d'main suffit à nous lier_!
+
+HISOMU	Tant mieux, non__?
+
+NIYAMA	h Oui_____,... tant mieux______! h[rit]
+
+HISOMU	h[rit]
+
+NIYAMA	-
+
+HISOMU	-
+
+TENGA	Qu'est c'qu'ils fabriquent ceux- là__? J'hallucine_.
+
+HISOMU	Houlà__,... J'ai la tête qui tourne_! h[rit] -
+
+TENGA	T'es vraiment incroyable,...
+
+HISOMU	...
+
+TENGA	... Nico_.
+
+NIYAMA	...
+
+TENGA	* h !
+
+
+14 (00:09:26:05)
+
+MAIRE	Quel plaisir de te voir_, Nori_.
+
+NOTE D'AUTEUR	[Maire très mal à l'aise, il a une mauvaise nouvelle]
+
+MAIRE	Ça faisait longtemps_. Mais tu devrais être au lycée à cette heure là_, non_? Est- c' bien raisonnable_?
+
+SONOZAKI	Eh_ bien_,... je savais que vous veniez, monsieur l'Maire_,... ... je me devais donc d'être ici_. Quant aux nombreux invités qui vous accompagnent_,... il fallait que je m'assure de ce qu'ils venaient faire ici aussi_.
+
+MAIRE	h . h ... h . Le gouvernement à l'intention de mener une enquête en octobre_. [gêné] D'ici_ là___,... ... je compte fermer complètement ce laboratoire_.
+
+SONOZAKI	* h .
+
+
+15 (00:10:01:00)
+
+URUSHI	Euh_... Nori__?
+
+SONOZAKI	Le moment me semble opportun_. Je vais vous montrer directement les résultats de l'expérience_.
+
+MAIRE	Nori_, je__... Écoute_,... tous ceux qui ont participé au système Kizna te considèrent comme leur propre fille_. Il en est de même pour moi_. Pour rien au monde nous ne t'abandonnerons_,... tu le sais_.
+
+SONOZAKI	Monsieur le Maire_,... ... j'ignore vos réelles intentions_. Mais si_... ... nous pouvions nous lier_ via les Kiznas_...
+
+URUSHI	Nori__!
+
+MAIRE	Nori_, attends_! Nori__!
+
+HOMME	h ! Où est- c'qu'elle_...
+
+OUT (00:10:36:07)
+
+
+16 (00:11:00:15)
+
+MAIRE	[stress] Ne fais pas ça_!
+
+URUSHI	[stress] Nori_, non__!!
+
+OUT (00:11:04:00)
+
+
+17 (00:11:19:05)
+
+URUSHI	[oh] h !! Nori__!!!
+
+
+18 (00:11:23:15)
+
+KATSUHIRA	h ! h
+
+NIYAMA	h
+
+HISOMU	h ?!
+
+NIYAMA	?!
+
+KATSUHIRA	! h
+
+NIYAMA	Qu_...
+
+KATSUHIRA	!
+
+NIYAMA	Qu'est- c'qu'il y a__?
+
+KATSUHIRA	C'est bizarre_. Je crois que_... ... j'ai__... ... mal___.
+
+HISOMU	Ce serait_... ... un Kizna_?
+
+NIYAMA	Qui c'est, qui c'est, qui c'est_?! Où ça, où ça, où ça_?! Je ne ressens rien du tout____!! *
+
+HISOMU	Bah ça_, c'est la meilleure_!
+
+NIYAMA	h[voirVO]-
+
+HISOMU	Monsieur "Je suis insensible à la douleur_" est en train de souffrir_.
+
+NIYAMA	!
+
+HISOMU	Ah__,... ça a disparu_.
+
+KATSUHIRA	[naze] Je crois__... ... que c'était Nori_.
+
+NIYAMA	Sonozaki_? Est- c'que ça veut dire qu'elle a des ennuis_?
+
+KATSUHIRA	Vite__,... ... il faut la trouver_.
+
+OUT (00:11:58:05)
+
+
+19 (00:12:00:00)
+
+KATSUHIRA	Bon_,... on y est_. Lors de la tempête_, j'ai vu Nori sortir par là_.
+
+NOTE D'AUTEUR	[out]
+
+NIYAMA	Par là_? Où ça__? [voir VO] h ? h ! h !?!
+
+OUT (00:12:23:20)
+
+
+20 (00:12:26:00)
+
+MAIRE	Contacte- moi dès que Nori_ aura repris connaissance_.
+
+URUSHI	D'accord_.
+
+MAIRE	Quoi qu'il en soit_,... poursuivre l'expérience est impossible financièrement_. Et si cet endroit continuait d'exister_,... ... il représenterait aussi un danger pour Nori_. J'imagine que tu comprends_.
+
+URUSHI	Bien sûr_. Mais je_... J'ai bien peur que Nori___... h !?!
+
+MAIRE	Qu'y a- t'il_?
+
+URUSHI	Euh_, rien du tout_. Je vous contacte dès qu'j'ai des nouvelles_.
+
+OUT (00:12:54:20)
+
+
+21 (00:13:04:00)
+
+URUSHI	Dites donc, vous__!
+
+NIYAMA	[petit rire gêné] h ! Euh_, bon... bonjour_.
+
+HISOMU	Tu dis pas bonjour, bonjour_, toi__?
+
+NIYAMA	Comment ça_?
+
+KATSUHIRA	Tu n'connais pas_?
+
+URUSHI	Qu'est- c'que vous faites là_?
+
+KATSUHIRA	Euhm___... Je m'inquiète pour Nori_. Je crois qu'elle ne va pas bien_.
+
+URUSHI	h ? Tu as senti_... ... une douleur_?
+
+KATSUHIRA	Oui__,... ... même si elle a disparu_, maintenant_.
+
+URUSHI	hm___ . Je vois_.
+
+KATSUHIRA	Je__... ... crois que je reconnais cet endroit_. J'ai l'impression d'y être venu souvent__... avec Nori__ il y a longtemps_. Alors__,... je me suis dit qu'en venant ici__... ... je la trouverais peut- être_.
+
+URUSHI	[sourit] * h Sacré Katsuhira_,... ... tu n'as pas changé_. Suis- moi_.
+
+OUT (00:13:55:10)
+
+
+22 (00:13:58:10)
+
+NIYAMA	[beurk] h
+
+KATSUHIRA	Qu'est- t'il arrivé à Nori__?
+
+NIYAMA	!
+
+URUSHI	Elle a essayé de_... ... de se jeter du toit__.
+
+KATSUHIRA	Oh non__!
+
+URUSHI	Tout va bien_,... ... ce n'est pas comme l'autre fois__. [ flashback] [oh] h !! Nori___!!! ...... Elle n'est pas tombée_,... ... elle a juste perdu connaissance_. C'était probablement l'excès d'excitation_.
+
+NIYAMA	Hein_____?! h Ça arrive à Sonozaki d'être trop excitée__?! Nan___.
+
+KATSUHIRA	Mais alors_,... ... pourquoi j'ai ressenti cette sensation aussi__... ... bizarre_? Ça faisait mal_. Très mal_. Et pourtant_...
+
+NIYAMA	Oh_! Attendez_. Et si c'était la douleur du coeur, en fait__?
+
+
+23 (00:14:43:00)
+
+URUSHI	Non_, c'est___... ... c'est impossible_.
+
+NIYAMA	Ah_?
+
+KATSUHIRA	S'il vous plaît, dites- moi, mademoiselle_ /... Urushi__. Dites- moi tout_. Dites- moi tout au sujet de Nori_. Et aussi de Nori et moi_,... ... et de tous les enfants qui ont été liés avec nous par les Kiznas_.
+
+URUSHI	* h . Il y a douze ans_,... ... les chercheurs participant à l'expérience_ et aussi les sponsors_... ... ont rassemblé dix- neuf enfants pour les lier via les Kiznas_.
+
+NIYAMA	Dix- neuf___?! Tant que ça__?!
+
+AMB ENFANTS X 6	h[rires/etc...]-
+
+URUSHI	Dans un premier temps_, tous ces enfants ont vécu ici ensemble un moment_ afin de mieux se connaître_.
+
+AMB ENFANTS X 6	.
+
+
+24 (00:15:24:05)
+
+URUSHI	Yamada et moi_ étions encore de jeunes chercheurs de bas niveau_.
+
+AMB ENFANTS X 6	h[rires/etc...] -
+
+URUSHI	C'était un peu comme__... si nous avions eu des petits frères et soeurs_.
+
+AMB ENFANTS X 6	!
+
+URUSHI	Et puis__,... ... l'expérience a commencé__. Pour expliquer simplement le système Kizna_,... ... il consiste à extraire les perceptions individuelles_,... les diviser en parts_,... puis à les transférer à tous ceux qui sont connectés_.
+
+HISOMU	Transférer_... ... les perceptions_?
+
+URUSHI	Oui__. Vous plantez une graine de votre douleur_... ... au sein de ceux avec qui vous êtes lié__. C'est pourquoi il y a douze ans_, nous avons lié le plus d'enfants possible_. Le but était de répartir et minimiser_ la douleur au maximum_,... ... afin qu'un corps fragile comme le leur la perçoive à peine_.
+
+
+25 (00:16:09:05)
+
+URUSHI	Seulement_,... ce fut une erreur fatale_. Alors que la douleur aurait dû être répartie équitablement_,... ... un des enfants a fini par ressentir seul_ la douleur de cinq autres_.
+
+NIYAMA	h !! De cinq autres en même temps?!
+
+HISOMU	Oh_______,... le petit veinard____!
+
+URUSHI	L'expérience fut bien sûr interrompue_,... ... et il fut décidé de ramener la douleur de chacun à un stade normal_. Mais hélas_,... ... une fillette a eu un problème_. Les blessures des autres s'étaient ancrées bien plus profondément que prévu dans son corps_. Et elles sont restées_.
+
+KATSUHIRA	h ! Cette fillette, c'était_...
+
+URUSHI	[soupire] * h Nori_.
+
+OUT (00:16:49:22)
+
+
+26 (00:16:58:10)
+
+TENGA	Salut_.
+
+TAKASHIRO	* h
+
+TENGA	Dis__...
+
+TAKASHIRO	Quoi_?
+
+TENGA	[embêté] Tu pourrais m' mettre un bon râteau bien franc_?
+
+TAKASHIRO	h ?!
+
+TENGA	En fait_,... ... c'est une première pour moi, tout ça_. Éprouver de l'amour pour quelqu'un_,... ... être aimé par quelqu'un_. C'genre de chose_, quoi_. Alors_, j'ai beaucoup réfléchi ces derniers temps_... ... et___... ... j'me suis dit_... ... que ça faisait plus mal de ne pas pouvoir__... ... répondre_ aux sentiments de quelqu'un que_ de_... ... voir quelqu'un refuser les miens_.
+
+TAKASHIRO	[agacée] J'comprends rien du tout_!
+
+TENGA	Et__ /...
+
+TAKASHIRO	Où tu veux en venir_?!
+
+TENGA	h !
+
+TAKASHIRO	Qu'est- c'que tu veux exactement_? Que j'te mette un râteau afin que je sois libérée_, c'est ça_?
+
+TENGA	Euh__... Non__,... c'est pas ça_.
+
+TAKASHIRO	J'comprends rien à ton raisonnement_. Mais alors, rien du tout_!
+
+TENGA	[voirVO] * h * h
+
+TAKASHIRO	[émotion crescendo] Même si nos blessures ou nos émotions étaient liées_, je n'comprendrais pas_. Parce que_... ... cette émotion___,... elle_... elle ne m'appartient pas, après tout_! [sanglots] h
+
+TENGA	Chidori__...
+
+TAKASHIRO	.
+
+
+27 (00:18:01:20)
+
+URUSHI	Ce n'est pas tout_. Nous avons compris plus tard que Nori avait en fait_ reçu_,... ... à elle seule_, la douleur et les sensations des blessures_... ... des dix- huit autres enfants_.
+
+KATSUHIRA	[voirVO]
+
+URUSHI	Et ce_, d'un seul coup_.
+
+KATSUHIRA	h
+
+AMB ENFANTS X 6	h[rires/chamailleries] -
+
+URUSHI	Les autres enfants ne faisaient que vivre leur vie_. La pression qu'exerce une chaise_,... ... les secousses que l'on ressent quand on court_...
+
+AMB ENFANTS X 6	.
+
+URUSHI	Même légers_,... ... les chocs de la vie de tous les jours de ses dix- huit camarades provoquaient une douleur atroce chez Nori_.
+
+SONOZAKI ENFANT	[crie/hurle] h
+
+URUSHI	Et depuis l'échec de l'expérience__,... ... Nori ne peut plus vivre normalement sans qu'on lui administre un traitement qui la prive d'absolument toutes ses sensations_.
+
+SONOZAKI ENFANT	h
+
+
+28 (00:18:43:05)
+
+NIYAMA	Toutes ses sensations_? Mais c'est horrible_.
+
+NOTE D'AUTEUR	[out]
+
+HISOMU	Ah___... C'est pour ça qu'elle affiche ce visage impassible agaçant.
+
+URUSHI	Mais il y a autre chose_. Certains enfants_ ont suivi le processus inverse_. Ils ont perdu_... la sensation de douleur et les émotions qui vont avec_.
+
+KATSUHIRA	[oh] h
+
+HISOMU	Je croyais que la douleur était censée rester dans le corps__.
+
+NOTE D'AUTEUR	[out]
+
+URUSHI	Leur part de sensations donnée à Nori_... n'est, en fait, jamais revenue_. À cause de ça_, ils sont devenus incapable de gérer celle qui leur restait_. Leurs émotions se sont étiolées progressivement, et il est devenu difficile pour la plupart d'entre- eux de vivre en société_.
+
+KATSUHIRA	[oh] h !
+
+URUSHI	Quant à ceux_... ... qui ont pu garder un minimum de leurs sensations, ils ont été libérés_. Tu étais_... ... parmi eux__,... ... Katsuhira_.
+
+
+29 (00:19:28:08)
+
+NIYAMA	Tout s'explique enfin_! C'est pour ça que tu ne ressentais pas la douleur_!
+
+HISOMU	Je trouvais ça bizarre_, moi aussi__. À chaque fois qu'il se faisait frapper_, je ressentais une très puissante douleur merveilleuse_,... ... alors que lui_, rien du tout __.
+
+KATSUHIRA	Attendez_. Alors, tout ça_,... ... c'est parce que Nori prenait ma douleur sur elle_?
+
+URUSHI	C'est ça_. Depuis ce jour_,... ... et encore maintenant_.
+
+KATSUHIRA	[oh] h ! [ à lui- même] Nori_, pourquoi_ ... as- tu_...
+
+NIYAMA	[genre elle appelle un serveur] S'il vous plaît! Et les enfants qui n'ont pas été libérés_, ils sont devenus quoi_?
+
+URUSHI	* h
+
+OUT (00:20:04:06)
+
+
+30 (00:20:25:05)
+
+KATSUHIRA	[court] h
+
+HISOMU	h
+
+NIYAMA	Katsuhira_!
+
+HISOMU	?
+
+KATSUHIRA	... h[court] -
+
+AMB ENFANTS X 6	h[rires/etc...] - ...
+
+KATSUHIRA	! h[halète] - h Yûki__. h h !
+
+OUT (00:20:45:17)
+
+
+31 (00:20:56:20)
+
+SONOZAKI	Shiori__,...
+
+NOTE D'AUTEUR	[ flashback voix de l'épisode 9 -> réenregistrer car différent faute de place]
+
+SONOZAKI	avec les cheveux courts__. Yûki__,... qui connaissait si bien les plantes_. Asuka_,... qui marchait toujours comme en dansant_.
+
+AMB ENFANTS X 6	h[rires/etc...] -
+
+PETITE FILLE 1	Hey__! Katsuhira____! Viens____! Allez_____, dépêche____! Viens_, quoi__!
+
+KATSUHIRA	[oh] h !
+
+AMB ENFANTS X 6	...
+
+PETITE FILLE 1	J'voulais t'dire_. J'sais un truc_. J'sais que tu aimes Nori___.
+
+PETITE FILLE 2	[rit] * h
+
+KATSUHIRA ENFANT	Mais_, mais_... Mais non_, je_...
+
+PETITE FILLE 2	! Oh__!
+
+PETITE FILLE 1	h ?
+
+PETITE FILLE 2	Nori___!
+
+KATSUHIRA	[oh] h !
+
+PETITE FILLE 2	* h[glousse/rit]
+
+PETITE FILLE 1	Nori_, tu sais quoi_?!
+
+PETITE FILLE 2	-
+
+PETITE FILLE 1	Katsuhira_ m'a dit__... ... qu'il était amoureux d'toi_!
+
+KATSUHIRA ENFANT	Mais arrête__!
+
+SONOZAKI ENFANT	C'est vrai__?
+
+PETITE FILLE 2	h
+
+KATSUHIRA ENFANT	h !
+
+SONOZAKI ENFANT	Je t'aime aussi, Katsu_! Très_________ fort_!
+
+OUT (00:21:42:10)
+
+
+32 (00:21:47:00)
+
+KATSUHIRA	h[sanglotte/gémit] -
+
+NIYAMA	[oh] h
+
+HISOMU	[oh] h
+
+NIYAMA	!
+
+HISOMU	! Katsuhira_...
+
+KATSUHIRA	h[idem crescendo] - h ! h ! h[idem crescendo] - h[voirVO] - !!!
+
+OUT (00:22:14:00)
+
+
+33 (00:23:43:20)
+
+INSERT	
+
+NIYAMA	Allez, dépêchons, il faut dire ça à tout l'monde_!
+
+INSERT	KIZNAIVER
+
+HISOMU	Laisse tomber, laisse- les tranquilles_.
+
+INSERT	PROCHAIN EPISODE
+
+NIYAMA	Ah_, non, non, non_. Il faut s'appeler régulièrement pour s'assurer de nos sentiments_!
+
+INSERT	Il faut s'appeler régulièrement pour s'assurer de nos sentiments. Parce qu'on est des amis!
+
+NIYAMA	Parce qu'on est des amis_!
+
+HISOMU	Mais tu viens d'te prendre un râteau_.
+
+NIYAMA	h !?! Hisomu_, espèce de crétin_! h[
+
+NOTE D'AUTEUR	good luck...
+
+NIYAMA	] - !
+
+OUT (00:23:58:10)

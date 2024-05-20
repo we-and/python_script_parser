@@ -1,0 +1,1639 @@
+
+KÄPT‘N W	Klar zum Ankern! Los, los, ihr lahmen Hunde!
+
+MAXIMILIANO	Platz für den Käpt’n!
+
+KÄPT‘N W	Heda Drache, komm runter und zeig dich!
+
+DRACHE GRIMBART	Hmmm…
+
+DRACHE GRIMBART	Was willst du?
+
+KÄPT‘N W	Wo ist Frau Malzahn? Der Käpt’n der Wildenverlangt nach ihr.
+
+DRACHE GRIMBART	Frau Malzahn wurde besiegt.
+
+ÄPT‘N W	Wer hat das gewagt?
+
+DRACHE GRIMBART	Zwei Lokomotivführer. Sie haben sich in die Drachenstadt geschlichen wie Diebe.
+
+KÄPT‘N W	Zwei Lokomotivführer? 
+
+KÄPT‘N WEines Tages werden sich unserer Wege kreuzen.
+
+KÄPT‘N W	Dann werdet ihr den Tag verfluchen, an dem ihr geboren wurdet. 
+
+KÄPT‘N W	Denn wir sind die Wilde .
+ 
+DIV W . 	Jaaaa! 
+ 
+Erzähler	In Lummerland, unsere Insel mit den zwei Bergen, zwei Häusern, einem Bahnhof und dem Schloss, war die meiste Zeit schönes Wetter. Aber es gab natürlich auch manchmal Tage, an denen es regnete. Aber man darf nun nicht etwa glauben, dass es ein trübseliger Regen war, wie er bei uns manchmal vorkommt. Nein. Ganz und gar nicht. Denn in Lummerland war selbst das schlechte Wetter nicht wirklich schlecht, sondern fröhlich und übermütig. Es war eher eine Art Wasserkonzert. Die Regentropfen plitschten und platschten und trommelten lustig auf dem Fensterblech. Die Dachrinnen grölten und schwatzten und in den Pfützen rauschten die Wassergüsse, als ob eine begeisterte Menge in die Hände klatschte. Und genau so ein Regentag war der, an dem diesmal unsere Geschichte anfängt.
+
+JIM	Das gefällt dir, was?
+
+LUKAS	Sieh mal, Jim. 
+
+LUKAS	Das ist die Brücke nach Neu-Lummerland. Ganz aus Eisen und stabil genug für Emma und Molly zusammen.
+
+JIM	Lukas. Molly braucht jetzt richtige Abenteuer. Meinst du nicht? 
+
+LUKAS 	Naja, so’n richtiges Abenteuer, das kann man sich nicht suchen, es muss... es muss einen finden. Verstehst du?
+
+JIM	Hmm.
+
+LUKAS	Wir fahren bestimmt bald wieder raus. Wart’s ab.
+
+LUKAS	Hier wird’s langsam ungemütlich. Geh schon mal rein, ich räum’ hier noch auf.
+
+JIM	Gut.
+
+LUKAS	Ah. Was für’n Wetter. Der Nebel wird immer dichter. 
+
+LUKAS	Kann man bei euch eine schöne Tasse heißen Tee bekommen? Vielleicht mit einem ordentlichen Schuss Rum?
+
+FRAU WAAS	Sowohl als auch, lieber Lukas. Und wer möchte jetzt ein frisches Stück Guglhupf? 
+
+JIM 	Ich! 
+
+LI SI	Ich! 
+
+JIM	Zwei Schiffe: Gewonnen.
+
+LI SI	Das hättest du wohl gern. Vier Schiffe und ein Pirat.
+
+LI SI	Lässt du mich eigentlich mit Absicht gewinnen?
+
+JIM	Würde ich sehr gern. Aber immer gewinnst du. Egal, was ich mache.
+
+JIM	Da kämpfe ich lieber gegen eine Stadt voller Drachen.
+
+LUKAS	Wo wir gerade darüber sprechen, Hoheit. 
+
+LI SI 	Lukas! Du sollst mich nicht so nennen.
+
+LUKAS	Li Si. Was ich dich schon lange fragen wollte: wie geht’s dem alten Drachen Frau Malzahn?
+ 
+
+LI SI	Sie schläft noch immer tief und fest. Ihre Verwandlung ist fast vollendet. Hinunter bis zur Schwanzspitze glänzt sie als wäre sie aus purem Gold. 
+
+
+LI SI 	Ich kann kaum glauben, dass sie mal ein böser Dache war. Papa lässt sie Tag und Nacht bewachen.
+ 
+
+LI SI	Er hat befohlen, sofort Meldung zu machen, wenn sie aufwacht.
+
+
+LUKAS	Dann wird sie ein goldener Drache der Weisheit sein. Der alle Fragen beantworten kann.
+
+LI SI	Weißt du schon, was du sie fragen willst, Jim?
+
+JIM	Naja...
+
+FRAU WAAS	Vielleicht ist es ja auch gut, dass wir nicht auf alle Fragen der Welt eine Antwort wissen. 
+
+FRAU WAAS 	Huch?
+ 	
+POSTBOTE 	Hilfe! Hilfe!
+
+HERR ÄRMEL	Grundgütiger, was ist denn passiert?
+
+LUKAS	Kommen Sie mit, Herr Ärmel.
+
+
+POSTBOTE	Zu Hilfe!
+
+LUKAS	Heiliges Schmieröl!
+
+POSTBOTE	Helft mir!
+
+FRAU WAAS	Nicht schon wieder!
+
+LUKAS	Kommen Sie her, nehmen Sie meine Hand!
+
+FRAU WAAS	Vorsicht!
+
+HERR ÄRMEL 	Oh, Eure Majestät!
+ 
+KÖNIG ALFONS	Ach, du lieber Himmel. Frau Waas! Sie kümmern sich um den armen Tee und äh, kochen ihm einen schönen heißen Mann. Alle anderen Pakete – rettet die Lummerländer!
+
+HERR ÄRMEL	Jawohl, Eure Majestät. Sehr wohl.
+ 
+ FRAU WAAS	Achtung! Vorsicht! Verehrtester… Gut.
+
+HERR ÄRMEL	Verzeihung. Ich wollte nur, ich, äh…
+
+JIM	Vorsicht! 
+
+KÖNIG ALFONS	Oh!
+ 
+HERR ÄRMEL	Oje. Wie ungeschickt von Ihnen. Kommen Sie.
+
+LUKAS	Nee, nee, Herr Ärmel.Lassen Sie mal gut sein.
+
+HERR ÄRMEL	Hm?
+
+FRAU WAAS	Lukas!
+
+HERR ÄRMEL 	Ah, sehr gut. Geben Sie ihn mir.
+
+FRAU WAAS	Eh.
+
+KÖNIG ALFONS	Schnell jetzt, schnell schnell.
+
+HERR ÄRMEL 	Eh. Aber... Moment!
+
+FRAU WAAS	Mein lieber Herr Ärmel. Wollen Sie nicht einfach zu Hause warten?
+ 
+HERR ÄRMEL	Aber, aber, mei-meine Verehrteste. Wie Sie vielleicht wissen, bin ich ein ungewöhnlich gebildeter Mensch und ich verfüge über Kenntnisse, die in solchen Situationen von ganz ungeheurer Bedeutung sein könnten.
+
+KÖNIG ALFONS	Äh, ja...
+
+FRAU WAAS	Ja, aber in dieser speziellen Situation würden Sie sich ja nur Ihren schönen neuen Anzug schmutzig machen.
+HERR ÄRMEL	Nein, nein, ich, äh...
+ 
+KÖNIG ALFONS	Doch, doch, doch, da hat sie recht. Stehen Sie bequem, mein Bester.
+
+HERR ÄRMEL	Ja. Sehr wohl. Eure Majestät.
+
+KÖNIG ALFONS 	Mhm. Ja, kommen Sie, kommen Sie.
+
+HERR ÄRMEL	Oh, äh... Ich helfe Ihnen!
+
+KÖNIG ALFONS	Nein, nein. Keine Angst, kommen Sie. Schön ins Warme.
+
+POSTBOTE	Danke. Danke. Ah,ja. Ah, ja.
+
+LI SI	Jim, hast du alle? 
+ 
+HERR ÄRMEL	Ja, früher, früher einmal, da, da habe ich den kleinen Jim unterrichtet, aber der Junge braucht meine Hilfe auch nicht mehr. Überhaupt niemand braucht mehr meine Hilfe. 
+
+HERR ÄRMEL	Ich gehe spazieren und werde regiert. Zu mehr tauge ich nicht.
+
+JIM	Der arme Herr Ärmel. Wir müssen eine Aufgabe für ihn finden.
+
+LUKAS	Nur welche?
+
+POSTBOTE	Ich weiß gar nicht, wie ich Ihnen danken soll.
+
+FRAU WAAS	Das war nun schon der dritte Unfall. 
+
+POSTBOTE	Ja, aber diesmal war es ganz besonders schlimm. Es war so, so ein dichter Nebel, ich, ich konnte kaum die Hand vor Augen sehen und dann, dann bin ich auf Neu-Lummerland gerummst.
+
+KÖNIG ALFONS	Aha.
+
+POSTBOTE	Bevor ich es vergesse. Die Post. Majestät: ein Paket von Eurer ehrenwerten Frau Mama.
+
+KÖNIG ALFONS	Danke.
+
+POSTBOTE	Lukas. Für dich.
+
+LUKAS	Dankeschön.
+
+POSTBOTE	Bitte schön. 
+
+POSTBOTE	Eure Hoheit. Post von Eurem Vater, dem Kaiser.
+
+KÖNIG ALFONS	Hm? Oh!
+
+JIM	Ähm, ist vielleicht auch was für mich dabei?
+
+POSTBOTE	Ich, äh, leider nein, Jim. Dieses Mal nicht.
+
+JIM	Oh. Und auch nicht letztes Mal. Und das davor. Und das davor. Und das davor. Ich werd‘ ins Bett gehen. Gute Nacht. 
+
+LUKAS	Gute Nacht, Jim.
+
+FRAU WAAS	Gute Nacht, Jim.
+
+POSTBOTE	Gute Nacht. 
+
+
+KÖNIG ALFONS 	Gute Nacht.
+
+LUKAS	Geht’s Ihnen nicht gut, Frau Waas?
+
+FRAU WAAS	Ach, Lukas. Glaubst du, ich weiß nicht, was Jim den goldenen Drachen fragen wird, wenn er erwacht?
+
+LUKAS	Was denn?
+
+FRAU WAAS	Wo er herkommt. Wer seine Eltern sind, seine Familie. Das beschäftigt ihn die ganze Zeit. Hätt‘ ich mich noch besser um dich kümmern sollen, kleiner Jim?
+
+LUKAS	Sie kümmern sich doch um ihn. Sie denken von morgens bis abends an nichts anderes als an den Jungen.
+
+FRAU WAAS	Vielleicht reicht das nicht.
+
+LUKAS	Jim ist ein feiner Kerl. Wir sollten uns nicht zu viele Sorgen um ihn machen.
+
+FRAU WAAS	Was, wenn er findet wonach er sucht? Wenn ihm die Antwort nicht gefällt? Wenn ihm etwas zustößt? Du weißt doch, wie viele Gefahren da draußen lauern.
+
+LUKAS	Gefahren sind manchmal wie Scheinriesen. Groß und schrecklich aus der Ferne, aber wenn man ihnen näher kommt werden sie ganz klein. 
+
+FRAU WAAS	Gute Nacht, Lukas.
+
+LUKAS	Gute Nacht, Frau Waas.
+
+JIM	Herein!
+
+LI SI	Guten Morgen, Schlafmütze! Wir wollten doch einen Ausflug mit Molly machen.
+
+JIM	Ich komm gleich.
+
+LI SI	Ist doch noch was für dich in der Post gewesen?
+
+JIM	Das ist von dem Paket von der Wilden , in dem ich nach Lummerland gekommen bin.
+
+LI SI	Die Wilde . Papa hat sie über alle Meere jagen lassen. Aber sie sind immer entkommen. Seine Eltern nicht zu kennen ist komisch, oder?
+
+JIM	Du, du hast aber Eltern.
+
+LI SI	Meine Mutter ist gestorben als ich noch ganz klein war.
+
+JIM	Das tut mir leid.
+
+LI SI	Zu Hause haben wir Bilder von ihr. Wenn ich einen Wunsch frei hätte, einen einzigen... dann würd‘ ich mir wünschen, sie treffen zu können. Nur einmal.
+
+JIM	Von meiner Familie gibt‘s gar keine Bilder. Manchmal frag ich mich, ob sie überhaupt existiert hat.Ich will endlich wissen, wo ich herkomme, Li Si. Und wer ich bin. Hier auf Lummerland krieg ich‘s bestimmt nicht raus. Das ist sicher.
+
+KÖNIG ALFONS	Liebe Untertassen, äh, äh, Unter-Untertanten. Der Vorfall mit dem Postschiff hat mir nochmal unter die Augen gerieben, äh, äh, also, v-vor die Nase geführt, dass es so nicht weiter gehen kann. Die Vesta Volu und Neulu sind in höchster Gefahr.
+
+LUKAS	Die was?
+
+KÖNIG ALFONS	Die Vereinigten Staaten von Lummerland und Neu-Lummerland?
+
+FRAU WAAS	Ach!
+
+LUKAS 	Ah.
+
+FRAU WAAS	Aber, warum, Majestät?
+
+KÖNIG ALFONS	Nun, die Häufchen fallen, äh, also ich mein‘, die Fälle häufen sich! Und seitdem wir mit meinem Freund, Pung-Ging – dem Kaiser von Mandala – diplomatische Beziehungen unterhalten, hat sich der Schiffsverkehr erheblich verstärkt. Was ist denn jetzt, wenn sein Staatsschiff gegen die Küste von Neu-Lummerland, äh, rummst?Das ist ja gar nicht auszudenken! Deswegen habe ich beschlossen, dass dringend etwas geschehen muss. 
+
+LUKAS	Wir bräuchten einen Leuchtturm.
+
+KÖNIG ALFONS	Das ist eine hervorragende Idee, nur – wo sollen wir so einen Leuchtturm aufstellen? Hm? Wir platzen ja vor Mangel!
+
+JIM	Majestät. Fragen wir doch Herrn TurTur. Er braucht gar nicht viel Platz und von weit weg ist er viel größer als alle Leuchttürme übereinander. Wir müssen ihm nur eine Lampe geben. Komm schon, Lukas. Wir segeln mit Emma und Molly los! 
+
+ FRAU WAAS	Das ist viel zu gefährlich. Herr Turtur wohnt weit weg. Mitten in der Spiegelwüste.
+
+JIM	Wir schaffen das schon! Nicht wahr, Lukas?
+
+LUKAS	Mhm.
+
+KÖNIG ALFONS	Also, diese Angelegenheit ist von allerdringlichster Dringlichkeit. Lukas, wie schnell könnt ihr denn mit Emma in See stechen? 
+
+JIM	Gleich morgen! Eure Majestät. 
+
+KÖNIG ALFONS	Oh.
+
+LUKAS	Hm! Na, wenn mein junger Kollege das so sagt...
+
+KÖNIG ALFONS	Ich beschließe hiermit: Man möge Herrn Turtur nach Lummerland verbringen und erkläre die Regierungskrise für beendet!
+
+LUKAS	Da ist dein Wunsch ja schneller als gedacht in Erfüllung gegangen. Es geht wieder los.
+
+KÖNIG ALFONS	Geehrte Untertanen, ich bin, äh, außerordentlich ergriffen.
+
+HERR ÄRMEL	Dem möchte ich mich aufs Nachdrücklichste anschließen!
+
+KÖNIG ALFONS	Die "Ve-Sta vo-Lu-und Neu-Lu" blicken mit Stolz auf euch.
+
+JIM	Komm doch einfach mit uns mit.
+
+LI SI	Ein Schiff der kaiserlichen Flotte holt mich morgen ab. Papa erwartet mich zu Hause.
+
+JIM	Machst du immer, was dein Papa dir sagt?
+
+LI SI	Du hast doch bloß keine Lust auf den großen Ball. 
+
+FRAU WAAS	Jim? Hey. Pass gut auf dich auf.
+
+LUKAS	Jetzt lassen wir mal die ganze Sorgenmacherei. Wir Lokomotivführer haben schon ganz andere Sachen überstanden, was, Jim? Komm, alter Junge. Es wird Zeit.
+
+LUKAS	Alles auf Kurs, Jim?
+
+JIM	Aye, aye, Käpt’n! Molly! Geht’s dir gut?
+
+SURSULAPITSCHI	Hallo! Ihr da oben! Habt ihr nach mir gepfiffen? Ihr seid Landwesen!
+
+LUKAS	Guten Tag, kleine Dame.
+
+JIM	Lukas! Das ist...
+
+LUKAS	...eine Meerjungfrau. Die Meerleute sehen immer alles vom Wasserstandpunkt aus. Aber ansonsten sind sie sehr nett.
+
+SURSULAPITSCHI	Was sind das denn für sonderbare Schiffe?
+
+LUKAS	Molly und Emma sind Lokomotiven. Sie fahren mit Feuer und Dampf.
+
+SURSULAPITSCHI	Ich bin Sursulapitschi. Verzeiht, liebe Freunde, aber wenn ihr euch mit Dampf auskennt, dann sicherlich auch mit Maschinen, elektrischem Strom, Magneten und solchen Dingen, oder?
+
+JIM	Hm!
+
+LUKAS	Hm.
+
+LUKAS	Ja, natürlich.
+
+SURSULAPITSCHI	Oh, bitte folgt mir zum großen Gurumusch Magnetfelsen. Mein Ur-ur-ur-ur-Urgroßvater, der erste Meereskönig, hat diese Anlage einst errichten lassen. Jahrtausende hat sie funktioniert, aber jetzt herrscht überall nur noch Dunkelheit.
+
+ JIM	Wo liegt das Problem genau?
+
+SURSULAPITSCHI	Das Meeresleuchten ist erloschen.
+
+LUKAS	Wir können uns die Sache ja mal ansehen. Aber wir dürfen nicht zu viel Zeit verlieren.
+
+SURSULAPITSCHI	Ja.
+
+SURSULAPITSCHI	Wuh! Wuhuu!
+
+JIM	Was ist das denn? 
+
+SURSULAPITSCHI	Ah! Mein geliebter Uschaurischumm. Kennt ihr ihn zufällig?
+
+JIM	Ich bedauere, nein.
+
+SURSULAPITSCHI	Ach. Er ist ein reizender Schildnöck. Und noch so jung! Noch nicht mal zehntausend Jahre alt!
+
+JIM	Hm.
+
+SURSULAPITSCHI	Aber schon sehr klug.
+
+JIM	Wo ist dein Freund jetzt? 
+
+SURSULAPITSCHI	Das ist eine traurige Geschichte. Mein Papa ist schrecklich altmodisch, wisst ihr? Er sagt, wir dürfen erst heiraten, wenn wir das Kristall der Ewigkeit finden
+
+JIM	Das Kristall der Ewigkeit?
+
+SURSULAPITSCHI	Ein ganz besonderes Glas, das niemals zerbricht. Wie es gemacht wird ist ein großes Geheimnis. Wir suchen schon seit überJahren danach.
+
+JIM	Irgendwann findet ihr es. Ganz bestimmt.
+
+SURSULAPITSCHI	Nein. Ihr versteht nicht. Um das Kristall der Ewigkeit herzustellen brauchen wir die Hilfe eines Feuerwesens. Vor Jahrtausenden waren sie mal unsere Freunde. Jetzt sind sie unsere größten Feinde. Das ist hoffnungslos. 
+
+LUKAS	Hmm.
+
+JIM	Der Gurumusch Magentfelsen.
+
+LUKAS	Na, komm, mein Mädchen, jetzt lass mich hier nicht hängen.
+
+SURSULAPITSCHI	Der Eingang zur Beleuchtungsanlage ist gleich da oben. Seid bitte vorsichtig, meine lieben Freunde.
+
+LUKAS	Dann schauen wir mal...
+
+JIM	Lukas! Hier ist der Eingang.
+
+LUKAS	Wir müssten jetzt tief unter dem Meeresspiegel sein. Wir kommen dem Erdinnern näher, Jim.
+
+JIM	Ist es deswegen hier so heiß?
+
+LUKAS	Je tiefer man kommt umso heißer wird es. Weil das Erdinnere feurig ist. 
+
+JIM	Geht’s noch sehr weit runter?
+
+LUKAS	Hier ist der Schacht zu Ende. 
+
+JIM	Sieht aus, als ob hier jemand was herausgenommen hat.
+
+LUKAS	Da steht etwas.
+
+LUKAS	Dies ist die geheimnisvolle Weisheit des ersten Meerkönigs Gurumusch. Wer sie versteht ist klug, wer sie anwendet ist mächtig.
+
+JIM	„Die große Kraft aus Tag und Nacht, schläft tief verborgen hier und dort. Sind sie getrennt so schläft sie fort. Verbinde sie – die Kraft erwacht“. Verbinden wir die zwei Enden...
+
+LUKAS	...erwacht die Kraft.
+
+JIM	Ja.
+
+LUKAS	Wir müssen das Verbindungstück finden.
+
+JIM	Lukas!
+
+LUKAS	Gut gemacht, Jim.
+
+LUKAS	Keine Angst, es wird uns nichts tun. Es wird nicht durch Elektrizität hervorgerufen, sondern durch gewaltige Magnetkräfte. Die geheimnisvolle Macht von König Gurumusch. 
+
+JIM	Lukas! Guck dir das an.
+
+LUKAS	Nicht schlecht für zwei Lummerländer, was? 
+
+JIM	Die ganzen Schiffe. 
+
+LUKAS	Der Magnet hat ihnen die Nägel aus den Planken gezogen. Sie hatten keine Chance.
+
+JIM	Was machst du denn da oben, Molly?
+
+LUKAS	Heiliger Schienenstrang. Das muss der Magnet sein. Sowas hab ich noch nicht erlebt.
+
+SURSULAPITSCHI	Ihr habt es geschafft! Ihr habt es geschafft! Ich danke euch. Ist das Meeresleuchten nicht prachtvoll? Ich muss gleich allen Bescheid geben.
+
+LUKAS	Hey, wart‘ mal, warte, warte.
+
+JIM	Warte! Sursulapitschi! Wir kommen von hier nicht mehr weg. Der Magnet zieht unsere Lokomotiven an.
+
+SURSULAPITSCHI	Ach du liebe Tiefsee! Und was machen wir da?
+
+LUKAS	Wir müssen das Leuchten leider wieder abschalten.
+
+SURSULAPITSCHI	A-aber, das....
+
+JIM	Vielleicht kann es jemand anschalten wenn wir weit genug weg sind!
+
+LUKAS	Nur müsste dieser jemand für immer hierbleiben und es abschalten, falls nötig.
+
+JIM	Und es muss jemand sein, der die Hitze aushält.
+
+SURSULAPITSCHI	Mein Uschaurischumm. Er hat seinen Panzer. Ihm wird sie nichts ausmachen.
+
+JIM	Nur für dich ist sie lebensgefährlich. Ihr beide könntet nie wieder richtig zusammen sein.
+
+SURSULAPITSCHI	Vielleicht werde ich meinen Geliebten aus der Ferne sehen können. Wenn er Wache hält. Sorgt euch nicht, meine lieben Freunde.
+
+JIM	Aber Sursulapitschi! – Warte! Wir finden jemand anderen. Bestimmt. Ganz sicher.
+
+LUKAS	Euer Meer wird bald wieder leuchten.
+
+SURSULAPITSCHI	Habt Dank, liebe Freunde. Lebt wohl.
+
+LUKAS	Na, komm, Jim. Schalten wir’s ab. Nimm noch ein paar Kerzen mit.
+
+JIM	Molly! 
+
+LUKAS	Alles in Ordnung?
+
+JIM	Molly... Geht’s dir auch gut?	
+
+LUKAS	Wir sollten zusehen, dass wir vor Einbruch der Dunkelheit aufbrechen.
+
+LUKAS	Jiiimmm!
+
+JIM	Lukas! Hast du dir weh getan? 
+
+LUKAS	Donnerwetter, alter Junge! Wie hast du das denn angestellt? 
+
+JIM	Die beiden Brocken da hab ich an den zwei Felsspitzen gefunden. Und gerade eben hab sie mit dem Hammer verbunden. Mehr zufällig. Lukas, hast du diese Kraft gesehen? Die hat Emma bewegt als wär‘ sie nichts.
+
+LUKAS	Als wäre sie nichts. Natürlich! Da könnte man doch...
+
+LUKAS	Ja, mein Mädchen. Wart’s ab, wart’s ab.
+
+LUKAS	Das wird dir gefallen, mein Mädchen.
+
+LUKAS	Jim. Wach auf. Wach auf.
+
+JIM	Was hast du aus Emma gemacht? 
+
+LUKAS	Ein Perpetumobil. Eine Erfindung, Jim, auf die du mich gebracht hast!
+
+JIM	Und was kann das Perpetumobil?
+
+LUKAS	Es liefert uns unbegrenzte Energie. Wenn es funktioniert braucht Emma keine Kohle mehr, dann kann sie uns ganz einfach an jeden Ort der Welt bringen. 
+
+LUKAS	Ja, ja. Äh, es gibt nur ein Problem. Damit es funktioniert musste ich Molly’s Körbchen abbauen.
+JIM	Es abbauen? Aber wie nehmen wir Molly mit? 
+
+LUKAS	Gar nicht. Wir müssen sie hierlassen. Du hast selbst gesehen, wie stark der Magnet ist. Wir dürfen nichts riskieren. Es wäre viel zu gefährlich für Molly. Tut mir leid.
+
+JIM	Nein, Molly. Ich weiß auch nicht. Bestimmt dauert es nicht lange. Und wir sind bald zurück. Hab keine Angst.
+
+JIM	Verehrter Fremdling! Wenn du Molly findest, lass sie bitte stehen. Wir kommen bald wieder und holen sie. Jim und Lukas.
+
+
+LUKAS	Sei nicht traurig wegen Molly. Wenn unsere Erfindung funktioniert sind wir schneller wieder hier als du „Lummerland“ sagen kannst. Bereit?
+
+LUKAS	Halt dich fest!
+
+JIM	Lummerland!
+
+JIM	Juchhu!
+
+LUKAS	Warte, es wird noch viel besser!
+
+LUKAS	Jim!
+
+LUKAS	Nächster Halt: Herr TurTurs Oase!
+
+JIM	Die Wilde ! Lukas! 
+
+LUKAS	Jim! Lass los!
+
+LUKAS	Halt dich fest! O-ohoh!
+
+LUKAS	Junge, junge. Das war knapp.
+
+JIM	Die wilde ! Die Kinder, die in der Drachenstadt waren haben von einem Schiff erzählt. Einem Schiff mit blutroten Segeln. Du hast es auch gesehen! Stimmt’s, Lukas?
+
+LUKAS	Wir sind mitten in der Wüste, Jim. Das war eine Fata Morgana. Eine Luftspiegelung, verstehst du? Wir sind ihr doch schon einmal begegnet. Weißt du nicht mehr?
+
+LUKAS	Alles in Ordnung, mein Mädchen? 
+
+JIM	Entschuldige, Emma.
+
+JIM	Da ist Herr Turtur!
+
+TURTUR	Ach, was hab ich dir getan, dass du mir mein Haus und mein Wasser nimmst, du grausames Ungeheuer. Nein, nein, nein, nein, nein, nein.
+
+JIM	Der Arme, was hat er denn nur?
+
+TURTUR	Oje, oje, oje, oje!
+
+JIM	Herr Turtur!
+
+TURTUR	Warum verfolgst du mich, du Unhold? Willst du mich fressen?
+
+LUKAS	Wenn wir Ihr köstliches Frühstück nicht bekommen kann ich für nichts garantieren.
+
+JIM	Wir sind’s, Ihre Freunde! Jim Knopf und Lukas!
+
+TURTUR	Nein! Das ist unmöglich. Das Tal der Dämmerung ist eingestürzt. Niemand kommt da durch. Sie sind nur eine Fata Morgana!
+
+LUKAS	Zum Donnerwetter!
+
+TURTUR	Sie sind es ja wirklich! Meine Freunde! Jim und Lukas!
+
+TURTUR	Sie haben mich also nicht vergessen
+
+JIM	Natürlich nicht.
+
+LUKAS	Herr Turtur. Was ist denn hier eigentlich los?
+
+TURTUR	Ein Ungetüm hat sich in meinem Haus eingenistet. Ein schreckliches Monstrum. Mit einem riesigen Maul. Das Rauch und Feuer speit.
+
+LUKAS 	Ein Ungetüm, das Feuer speit
+
+JIM	Klingt wie ein Drache. 
+
+TURTUR	Ja. Ein Drache. Ein schrecklicher, grausiger Drache!
+
+LUKAS	Wir haben Erfahrung mit diesen Biestern. Was, Jim?
+
+LUKAS	Jim! Jim!
+
+NEPOMUK	Jetzt hab ich auch noch Sand im Hintern! Sand, nichts als Sand. Ach, was würde ich geben für eine schöne Portion schrecklich stinkender Lava.
+
+JIM	Nepomuk?
+
+NEPOMUK	Verschone mich! Du schrecklicher Riese!
+
+
+JIM	Nepomuk.
+NEPOMUK	Ich armer Wurm! Ich armer Wurm! Äh, woher kennst du meinen Namen?
+
+JIM	Ich bin’s, Jim!
+
+NEPOMUK	Oh, das ist doch nur eine Riesenlist! Aber du wirst mich nie finden. Wir Halbdrachen sind nämlich Meister im Verstecken! 
+
+JIM	Nepomuk. Ich kann dich noch sehen.
+
+NEPOMUK	Hä?
+
+JIM	Lukas!
+
+NEPOMUK	Jim! Du bist es wirklich! Los, komm! Da draußen ist ein Riese! Den müssen wir zu Mus stampfen!
+
+LUKAS	Nepomuk! Na, das nenn‘ ich mal eine Überraschung.
+
+NEPOMUK	Da isser!
+
+JIM	Nepomuk. Er ist ein Scheinriese. In Wirklichkeit ist er gar nicht so groß. Er hat genauso viel Angst vor dir wie du vor ihm. 
+
+NEPOMUK	Er hat Angst? Vor mir? Ein großer, schrecklicher Riese? 
+
+LUKAS	Wahrscheinlich hält er dich für einen richtigen Drachen.
+
+NEPOMUK	Wirklich? Oh, äh, könnten Sie sich vielleicht noch etwas mehr vor mir fürchten? Nur so’n klitzekleines bisschen. Wissen Sie, bis jetzt hat sich nämlich noch niemand so richtig vor mir gefürchtet und das ist ganz fürchterlich für so’n Drachen.
+
+LUKAS	Nun lasst doch mal die ganze Fürchterei. Wenn ihr ständig Angst voreinander habt könnt ihr ja niemals Freunde werden.
+
+NEPOMUK+TURTUR	Freunde?
+
+LUKAS	Ja, Freunde. Ihr habt schließlich viel gemeinsam.
+
+NEPOMUK+TURTUR	Ach ja?
+
+JIM	Ja, klar! Du bist ein Drache, der kein richtiger Drache ist und Sie sind ein Riese, der kein richtiger Riese ist. Also, seid ihr beide...
+
+LUKAS	...einzigartig.
+
+TURTUR	Wenn man einzigartig ist, ist man meistens auch sehr einsam.
+
+NEPOMUK	Oh, ja.
+
+TURTUR	Bitte verzeihen Sie, wenn ich Sie erschreckt habe. Ich bin untröstlich.
+
+NEPOMUK	Ach.Nicht der Rede wert. Ha! Herrlich trocken und heiß haben Sie’s hier in Ihrer Oase.
+
+TURTUR	Oh, danke schön. Nur der viele Sand, der kann manchmal doch recht lästig sein, wissen Sie.
+
+NEPOMUK	Ha, wem sagen Sie das? Hören Sie meine Zähne knirschen? Ich persönlich bevorzuge ja frische Lava. Herrlich wohlschmeckend und bekömmlich. Ich gebe Ihnen gern mal ein paar Rezepte, wenn Sie wollen.
+
+TURTUR	Oh, ja, das würde mich sehr interessieren.
+
+TURTUR	Es gibt nichts besseres in der Wüste, als einen frischen Feigenkaffee mit Kokosmilch, dazu Dattelplätzchen, Ananaskringel und Nussbutter. Und für Sie, mein lieber Freund, habe ich etwas ganz Besonderes. Etwas gerösteten Wüstensand.
+
+NEPOMUK	Oh, danke schön. 
+
+LUKAS	Das ist ja köstlich! Sowas müssten Sie ja eigentlich mal für unsere Freunde in Lummerland zubereiten. Frau Waas wäre begeistert. 
+
+TURTUR	Lummerland. Ich habe mir oft vorgestellt, wie schön es dort sein muss.
+
+JIM	Herr Turtur. Wollen Sie uns begleiten – nachLummerland?
+
+TURTUR	Ich? Sie begleiten? Nach Lummerland?
+
+JIM	Wir brauchen dringend einen Leuchtturm. Damit die Schiffe im Nebel nicht mehr gegen unsere Insel stoßen.Mit einer Laterne in der Hand wären Sie ideal.
+
+LUKAS	Und Sie wären nie mehr allein.
+
+TURTUR	Aber haben die Menschen dort gewiss auch keine Angst vor mir?
+
+JIM	Lummerland ist viel zu klein. Sie können gar nicht weit genug weg sein, dass hier einer fürchtet. 
+
+LUKAS	Also... Was ist?
+
+TURTUR	Liebe Freunde, ich...Ja. Tausendmal ja, ich danke Ihnen. Ich danke Ihnen vielmals.
+
+LUKAS	Wir brechen im Morgengrauen auf, wenn die Hitze noch nicht so stark ist.
+
+TURTUR	Das ist eine gute Idee, Herr Lukas. Die Fata Morganen sind in letzter Zeit immer schlimmer geworden.
+
+JIM	Eine Fata Morgana zeigt sie eigentlich manchmal die Wahrheit? 
+
+TURTUR	Sie ist trickreich, Herr Jim. Meist will sie ahnungslose Reisende ins Verderben locken. Manchmal aber gewährt sie uns auch einen Blick in die Vergangenheit. Oder verrät uns etwas über unsere Zukunft.
+
+LUKAS	Jim. Die gesamte mandalanische Flotte ist hinter der Wildenher. Irgendwann hat der Spuk ein Ende.
+
+JIM	Aber sie sind immer entkommen. Und vielleicht bringen sie ja immer noch Kinder nach Kummerland.
+
+NEPOMUK	Was? Nein! Haltet euch fern von Kummerland! Seit ihr Frau Malzahn besiegt habt sind die Drachen außer sich vor Wut. Wenn die euch finden dann werden die euch rösten und auf den Spieß stecken.
+
+LUKAS	Warum hast du deinen Vulkan verlassen, Nepomuk?
+
+JIM	Sie haben dich gezwungen, ist es nicht so?
+
+NEPOMUK	Sie, sie haben herausgefunden, dass ich euch geholfen hab. Und sie wollten, sie wollten eure Namen wissen. Und dann, dann haben sie mich als Verräter beschimpft und fort- fortgejagt! Sie haben mir meinen geliebten Vulkan weggenommen. 
+
+JIM	Wir müssen irgendwas machen. 
+
+LUKAS	Er braucht einen Platz, an dem er sicher ist vor diesen Bestien.
+
+JIM	Einen Platz, wo es ihm gefällt, heiß und dunkel und weit weg von Kummerland.
+
+LUKAS	Der Gurumusch Magnetfelsen.
+
+JIM	Ja!
+
+LUKAS	Das ist genial, Jim!
+
+NEPOMUK	Was?
+
+LUKAS	Ich weiß nicht, Jim. Ist eine sehr verantwortungsvolle Aufgabe. Sollten wir’s mit ihm versuchen?
+
+NEPOMUK	Ja! Versucht es mit mir! Ich werd‘ mich auch benehmen. Bitte, bitte, bitte, bitte! Worum geht’s eigentlich?
+
+JIM	Der Gurumusch Magnetfelsen hat keinen Wächter. 
+
+LUKAS	Ein schrecklicher Felsen im wilden, barbarischen Meer. Sehr hässlich, sehr heiß dort. Und extrem schmutzig.
+
+NEPOMUK	Da könnte ich mir meinen eigenen Lavabrunnen bohren. Sowas haben sonst nur die großen und gemeinen Drachen. Gebt mir eine Chance.
+
+LUKAS 	Hm?
+
+JIM	Mhm.
+
+NEPOMUK	Ich werd‘ euch nicht enttäuschen, ich versprech‘s euch!
+
+LUKAS	Gut, dann ist es beschlossen.
+
+NEPOMUK	Ja! 
+
+NEPOMUK	Oh! Es ist wunderbar hässlich!
+
+LUKAS	Ja, sieh dich ruhig mal um.
+
+NEPOMUK	Ja! Oh, das müsst ihr sehen! Iihh! Herrlich! Und wie das stinkt!
+
+SURSULAPITSCHI	Ihr seid wieder da.
+
+JIM	Sursulapitschi! Wir haben einen Wächter für das Meeresleuchten!
+
+NEPOMUK	Guckt mal! Oh, was haben wir denn hier?
+
+LUKAS	Nepomuk, komm doch mal her.
+
+NEPOMUK	Ich komme! Ihr müsst mal da hinten - Ein Wasserwesen!
+
+SURSULAPITSCHI	Ein Feuerwesen?!
+
+NEPOMUK	Ja, ich bin ein schrecklicher und grausamer Drache.
+
+SURSULAPITSCHI	Verschwinde, du hässliches Monstrum.
+
+NEPOMUK	Oh, danke für das Kompliment. 
+
+SURSULAPITSCHI	Feuerwesen sind von Grund auf böse!
+
+LUKAS	Moment, Moment, Moment, was ist denn hier eigentlich los?
+
+NEPOMUK	Hallo? Feuer und Wasser sind die allergrößten Feinde.
+
+SURSULAPITSCHI	Das wird uns schon in der Meeresschule beigebracht.
+
+LUKAS	Hat denn jemand von euch schon mal ein Feuer- oder Wasserwesen getroffen?
+
+NEPOMUK	Äh, also, ich, ähm....ähm, nee.
+
+LUKAS	Dann wird’s vielleicht mal Zeit, euch eine eigene Meinung zu bilden.
+
+JIM	Unsere Emma zum Beispiel könnte ohne Feuer und Wasser nicht fahren.
+
+LUKAS	Und Nepomuk? War deine Mutter nicht ein Nilpferd?
+
+NEPOMUK	Äh, hm, mh.
+
+LUKAS	Du bist also selbst ein halbes Wasserwesen.
+
+TURTUR	Es gibt nichts Herrlicheres, als ein erfrischendes Bad im Wasser.
+
+NEPOMUK	Richtige Drachen baden niemals. Schreib dir das hinter die Oh-ohhh!
+
+NEPOMUK	Hilfe! Äh, Hi-Hilfe ! Ich, äh, Ich schwimme!... Au! Oh, ich schwimme, ich kann schwimmen, wow!
+
+NEPOMUK	Hey, hör mal... Das kann ich auch! Hey! Mit Flosse ist unfair! 
+
+LUKAS	Und plötzlich haben sie vergessen, dass sie Feinde sind.
+
+NEPOMUK	Jetzt auch noch mit Wellen!Oh, noch mehr Wellen!
+
+JIM 	Ich hol‘ Molly.
+
+LUKAS	Ja.
+
+SURSULAPITSCHI	Das Kristall der Ewigkeit. Herr Drache, darf ich?
+
+NEPOMUK	Was soll ich damit? Kannst du haben.
+
+SURSULAPITSCHI	Seit überJahren suchen mein Geliebter und ich danach. Wir können endlich heiraten. 
+
+JIM	Lukas! Lukas! Die Wildehat Molly entführt! 
+
+LUKAS	Das ist doch nicht möglich. „Tsim und Luxas! Fereter tsie frau Maltsan erlext...“ Soll wohl „erlegt“ heißen. „Ir sult eure sendlise Tat tausenflax tsalen.“
+
+JIM	Die Wildeweiß Bescheid über Frau Malzahn.
+
+LUKAS	Die Burschen gehen mir langsam auf die Nerven. Wir werden Molly zurückholen. Verlass dich drauf!
+
+JIM	Aber wie?!
+
+LUKAS	Der goldene Drache der Weisheit müsste inzwischen aufgewacht sein. Er kann alle Fragen beantworten. Bestimmt auch diese. Entschuldigung, kleine Dame, ich weiß, Sie wollen Ihren Geliebten finden, aber wir haben noch eine Bitte. Unser Herr Turtur hier, der muss zu einer kleinen Insel namens Lummerland.
+
+SURSULAPITSCHI	Ich werde eine Kutsche holen. Und dazu die schnellsten Seepferdchen.
+
+JIM	Und was wird aus Uschaurischumm?
+
+SURSULAPITSCHI	Ach. Ich warte seitJahren. Was macht da noch ein Tag? Ich helf‘ euch mit Freuden.
+
+LUKAS	Lebt wohl, ihr Meereswesen. Und denk’ dran, Nepomuk, was wir besprochen haben. Wenn ein Schiff zu nahe kommt, dann steigst du runter in den Felsen und...
+
+NEPOMUK	.... schalte den Magneten aus. Keine Sorge, Sursel-Ursel und die schaurige Uschi helfen mir. 
+
+SURSULAPITSCHI	Sursulapitschi und Uschaurischumm.
+
+NEPOMUK	Sag ich doch!
+
+JIM	Auf Wiedersehen!
+
+NEPOMUK	Wiedersehen!
+
+SURSULAPITSCHI	Lebt wohl, meine Freunde. Und habt Dank für alles.
+
+LI SI	Du hast schon wieder verloren!
+
+LI SI	Jim!
+
+LUKAS	Majestät.
+
+KAISER	Liebe, verehrte Freunde! Und Retter meiner Tochter.
+
+LUKAS	Ping Pong, mein kleiner Freund! Du bist ja groß geworden!
+
+PING PONG	Jim! Lukas! Ehrenwerte Lokomotivführer einer treuen und tapferen Lokomotive!
+
+KAISER	Was führt euch her, meine Freunde? Ich sehe an euren Gesichtern, dass der Anlass ganz und gar nicht erfreulich ist.
+
+JIM	Die Wildehat Molly entführt.
+
+LUKAS	Wird Zeit, dass jemand den Burschen Benehmen beibringt.
+
+PING PONG	Unsere besten Kriegsschiffe jagen schon diese Piraten, aber sie sind schneller als der Wind.
+
+JIM	Vielleicht kann der Drache uns helfen. Wie geht es ihm, Ping Pong?
+
+PING PONG	Ich persönlich habe über seinen Schlaf gewacht, Jim. Zur Stunde des Affen, wenn ich ins Bett gehen musste, haben die besten Männer meine Aufgabe übernommen. Ich suchte jeden einzelnen persönlich aus. Mit äußerster Sorgfalt.
+
+LUKAS	Führ‘ uns doch mal zu ihm.
+
+PING PONG	Folgt mir, meine Freunde.
+
+PING PONG	Kommt her, meine Freunde, kommt her!
+
+JIM	Frau Malzahn. Goldener Drache der Weisheit. Bitte wachen Sie auf.
+
+FRAU MALZAHN	Wohlan! Ihr seid gekommen, die, die ich meine Herren nenne. Das Rätsel soll gelöst werden. 
+
+LUKAS	Weißt du denn, was wir vorhaben, Drache?
+
+FRAU MALZAHN	Mir, der ich einst mächtige Reiche im Meer versinken ließ, entgeht nichts von dem, was sich im Weltenrund ereignet. Ich weiß alles.
+
+LUKAS	Dann verrat uns doch erstmal, wie wir die Wildefinden.
+
+FRAU MALZAHN	Rüstet ein Schiff mit Waffen und streicht es in blauer Farbe, gleich den Wellen des Meeres. Solcherart schwer zu erkennen, sollt ihr euch treiben lassen vom Wind und der Strömung. Ergreift ihr auch nur ein Mal in Ungeduld und Eigensinn das Steuer, so werdet ihr den Ort verfehlen. Der Wind wird euch leiten, bis ihr erblickt die blutroten Segel. Wisset, dass die Wildekein Erbarmen kennt und niemals bezwungen wurde. Von ihrer uneinnehmbaren Burg Sturmauge kommen sie, aus jenem schrecklichen Land, Das Nicht Sein Darf.
+
+JIM	Werden wir den Kampf gewinnen?
+
+FRAU MALZAHN	Der Sieger wird unterliegen, der Unterlegene aber wird siegen. Im Auge des Sturms wirst du einen Stern erblicken, rot wie Blut und fünfstrahlig. Ergreife den Stern und mache dich zum Herrn. So wirst du das Geheimnis deiner Herkunft erfahren. 
+
+JIM	Lukas. Versteht du das alles? 
+
+LUKAS	Nein. Aber der Drache hat uns schon einmal geholfen. Wir sollten ihm vertrauen.
+
+PING PONG	Ehrenwerte Freunde. Ihr braucht ein Schiff und Waffen. Eure kaiserliche Majestät. Mit Eurer gütigen Erlaubnis werde ich alles in die Wege leiten.
+
+KAISER	Lass unseren hochverehrten Freunden jede Hilfe zukommen, die sie benötigen Ping Pong.
+
+PING PONG	Ich eile, ich fliege!
+
+LUKAS	Wir stehen das gemeinsam durch, mein Junge. Holen wir uns die Wilde !
+
+CHINESISCHER HG	(Allgemeines Stimmgewirr)
+
+LUKAS	Nein, altes Mädchen. Dieses Abenteuer müssen wir ohne dich bestehen.
+
+JIM	Wir bringen Molly zurück. Das verspreche ich. 
+
+LUKAS	Mach’s gut, mein Mädchen.
+
+LI SI	Goldener Drache der Weisheit. Ich habe noch nie zuvor so etwas Wundervolles gesehen.
+
+FRAU MALZAHN	Prinzessin Li Si.
+
+LI SI	Verzeiht mir! Ich wollte Euch nicht aufwecken.
+
+FRAU MALZAHN	Einst warst du Schülerin in meiner Schule in Kummerland. Nun ist es deine Bestimmung, deinem Erretter zu helfen, das Ungerade gerade zu machen, so wie es geschrieben steht. Bist du dazu bereit?
+
+LI SI	Ja, das bin ich, Goldener Drache.
+
+PINSELER CHINESISCH	Pass doch besser auf! 
+
+KAPITÄN	Nach dem Auslaufen nehmen wir diesen Kurs, Majestät.
+
+LI SI	Papa! Papa, er hat zu mir gesprochen! Er hat mir eine Nachricht für Jim mitgegeben. Ich verstehe sie nicht, aber mit ein bisschen Zeit werde ich sie bestimmt entschlüsseln können.
+
+KAISER	Du warst schon wieder bei dem Drachen? Weißt du nicht, dass es dir untersagt ist? 
+
+LI SI	Ich muss mit Jim mitfahren. Niemand außer mir wird die Nachricht überbringen können.
+
+KAISER	Schon einmal hab ich dich fast verloren. Ein zweites Mal würde mein altes Herz nicht überstehen.
+
+LI SI	Es steht aber soviel auf dem Spiel! Lass mich mitfahren. Bitte!
+
+KAISER	Kapitän, dieses Schiff ist meiner Tochter ab sofort verboten! Jene, die ihr trotzdem Zutritt gewähren sollen hart bestraft werden.
+
+KAPITÄN	Wie Ihr befehlt, Majestät.
+
+LI SI	Du wirst mich nicht aufhalten. Du hast mir gar nichts mehr zu sagen! 
+
+KAISER	So dickköpfig. So uneinsichtig. Und so mutig. Wie ihre Mutter es war.
+
+KAPITÄN	Hört auf! Und wer sich nochmal prügelt, den lass ich Kiel holen.
+
+LUKAS	Immer mit der Ruhe.
+
+KAPITÄN	Ruhe? Wir haben seit drei Tagen Flaute. Es gibt noch eine Meuterei.
+
+LUKAS	Wenn wir den Kurs auch nur einmal ändern sind wir verloren.
+
+JIM	Wir müssen es genauso machen wie der Drache es gesagt hat.
+
+KAPITÄN	Hat man sowas denn schon je gehört?! Befehle von einem Drachen! Ich bin der Kapitän! Und ich sage: Schluss mit diesem Unsinn! 
+
+JIM	Nein! 
+
+KAPITÄN	Hols‘ der Klabauterman! Das Steuer lässt sich nicht bewegen.
+
+KAPITÄN	Jemand hat die Ruderkette blockiert. 
+ 
+ERSTER OFFIZIER 	Käpt‘n!
+
+JIM	Li Si!
+
+LUKAS	Prinzessin. 
+
+KAPITÄN	Eure Hoheit! Vier meiner besten Männer bewachten das Schiff, ununterbrochen. Wie habt Ihr sie überlistet? Wie dem auch sei. Ich übernehme das Kommando. 
+
+LI SI	Habt Ihr nicht gehört, was Jim gesagt hat, Kapitän? Wir müssen die Worte des Drachen genau befolgen.
+
+KAPITÄN	Lasst das Schiff umkehren. Wir bringen die Prinzessin zurück.
+
+LI SI	Nein! Das werdet Ihr nicht tun! Ihr dürft nicht alles zerstören, was wir geschafft haben, jetzt wo wir dem Ziel schon so nah sind. Jim. Der Drache hat mir eine Botschaft mitgegeben.
+
+AUSGUCK	Schiff in Sicht!
+
+JIM	Das sind sie.
+ 
+LUKAS	Dreckige Halunken, die Kinde in Postpakete stecken.
+ 
+ KAPITÄN	Sie haben uns gesehen. Trotz der Tarnung. Alle Mann auf ihre Posten. Macht die Kanonen bereit. 
+
+ERSTER OFFIZIER	Aye, Aye, Käpt’n.
+
+KAPITÄN	Feuer!
+
+ERSTER OFFIZIER	Feuer!
+
+JIM	Die haben ihr Schiff gepanzert!
+
+KAPITÄN	Die sehen alle gleich aus.
+
+JIM	Molly! Lukas. Da ist Molly!
+
+WILDEGESANG	 Kerle auf dem Totensarg Hojahoh, heya-hoh! Soffen drei Tage und der Schnaps war stark.
+
+JIM	Molly, wir kommen und holen dich!
+ 
+IGNAZIO	Die werden ihr blaues Wunder erleben, haha!
+
+LUDWICO	Los, Brüder, den zeigen wir‘s!
+ 
+ANTONIO	Und los!
+
+ANTONIO	Zerschmettert sie!
+
+JIM	Ein Stern! So rot wie Blut...
+ 
+ANTONIO	Da der Kleine! Na komm' her Kleiner!
+
+LUKAS	Na, hörst du die Bienchen summen?
+
+KAPITÄN	Kommt nur, ihr dreckigen Ratten!
+ 
+
+MAXIMILIANO	Ich schneid dich in kleine Stückchen.
+ 
+LUKAS	Einmal links, einmal rechts, nochmal links!
+
+JIM	Li Si!
+
+MAXIMILIANO	Dich krieg' ich!
+
+MAXIMILIANO	Bleib' stehen du Miststück!
+
+. W	Hab' ich dich!
+ 
+. W 	Prinzesschen!
+
+KÄPT‘N W	So Dickerchen, hier ist eure Reise zu Ende!
+
+ANTONIO	Beeilung! Macht schon. Bewegt Euch!
+
+ULRICO	Nicht einschlafen jetzt! 
+
+. W 	Bisschen schneller, Prinzesschen.
+
+LI SI	Ich bin nicht dein Prinzesschen. 
+
+KÄPT‘N W	Vorsicht, wir brauchen sie lebend. Die Drachen brennen darauf, sie geliefert zu bekommen. 
+
+XAVERIO	Na los.
+
+ULRICO	Vorwärts, runter da.
+
+FERNANDO	Einer nach dem anderen.
+
+IGNAZIO	Nicht drängeln.
+
+ANTONIO	Den da, bindet ihn an den Masten! Ich will ein Auge auf ihn haben.
+
+IGNAZIO	Was für Waschlappen!
+
+FERNANDO	Wie sie die Zöpfe hängen lassen.
+
+MAXIMILIANO	Denen haben wir’s gezeigt, was!
+ 
+KÄPT‘N W	Macht euch bereit, Brüder! Es geht nach Hause!
+
+CREW	Ja!
+ 
+
+WILDEGESANG	 Kerle auf dem Totensarg Hojahoh, heya-hoh! Soffen drei Tage und der Schnaps war stark Hojahoh, heya-hoh!
+
+ANTONIO	Na los, hisst die Segel!
+
+FERNANDO	Bring uns in den Wind, Bruder!
+
+LUKAS	Habt ihr den Verstand verloren?! Der Taifun wird uns in Stücke reißen!
+
+KÄPT‘N W	Gewiss wird er das! 
+ 
+ANTONIO	Holt die Schoten dicht! 
+
+IGNAZIO	Yiehaa!
+ 
+KÄPT‘N W	Was für ein prächtiges Lüftchen!
+
+LI SI	Jim!
+ 
+ANTONIO	Festhalteeeen!
+
+XAVERIO	Jahaha!
+
+JIM	Das Land, das nicht sein darf!
+
+JIM	Molly! Wir holen dich hier raus. Hab keine Angst. Aber wo sind die anderen?
+
+LUDOVICO	Na los, schenk ein. Nicht so geizig!
+
+ULRICO	Wir haben gewonnen!
+
+MAXIMILIANO/NICOLO	Ich bin der größte!
+
+NICOLO/MAXIMILIANO 	Maul halten! Ich bin der größte!
+
+XAVERIO	Ach, wenn wir uns doch nur irgendwie unterscheiden könnten.
+
+XAVERIO	Na komm' trink schon Bruder.
+
+FERNANDO	Komm' schon, runter damit!
+
+FERNANDO	Das Prinzesschen könnte unsere Waffenmeisterin werden.
+
+IGNAZIO	Und der Dicke hilft mir beim Kochen. 
+
+ANTONIO	Heda, ihr versoffenen Hornochsen! Lasst mir auch noch was übrig! Ruhe! Mach Platz für deinen Käpt’n.
+
+LUDOVICO	Na los, schenkt ein!
+
+KÄPT‘N W	Brüder! Da draußen gibt es viele Zwillinge, Drillinge, auch Vierlinge und meinetwegen Fünflinge, aber solche verfluchten Teufelskerle wie uns Dreizehnlinge gibt es nur einmal!
+
+MAXIMILIANO	Ja!
+
+MAXIMILIANO	Darauf trinken wir, Brüder!
+
+. W 	Teufel, Pech und Hagelschlag. Wenn ich mir vorstelle, dass dieses Fass Drachengurgel unser letztes ist, wird mir das Herz ganz schwer.
+
+KÄPT‘N W	Wir haben einen der Verräter gefangen, die Frau Malzahn besiegt haben. Die Drachen werden ein Vermögen für ihn bezahlen. Bald werden wir in Schnaps baden! 
+
+ULRICO	Jawoll!
+
+IGNAZIO	Hört hört!
+
+. W 	Sagt, Brüder, dieser kleine Junge an Bord, kam er euch nicht irgendwie bekannt vor?
+
+. W 	Wir haben einen ganzen Stall solcher Bälger an die Drachen geliefert.
+
+. W 	Ja, schon, aber erinnert ihr nicht mehr? Wir haben ihn in einem kleinen Holzkörbchen aus dem Meer gefischt. Irgendwo in der Schatzkammer muss er noch sein.
+
+. W 	Ja, da war’n Brief dabei!
+
+KÄPT‘N W	Seit wenn kannst du denn lesen?! Jeder von euch Tölpeln kennt doch nur einen Buchstaben! 
+
+. W 	Du doch auch, du Schwachkopf.
+
+KÄPT‘N W	Sag das nochmal.
+
+ULRICO	Da traut sich einer was.
+
+. W 	Du kannst nicht lesen! 
+
+XAVERIO	Hört, hört.
+
+. W 	Glaubt mir.
+
+MAXIMILIANO	Gleich gibt's auf die Fresse.
+
+. W 	Du kannst nicht lesen! 
+ 
+FERNANDO 	Beruhigt euch.
+
+. W 	Schon gut, gut. Du bist der Kapitän. Noch...
+
+KÄPT‘N W	Verflucht! Dir ist wohl ne Kanonenkugel auf deinen verlausten Schädel geknallt?
+
+FERNANDO	Gib’s ihm Käpt'n!
+
+MAXILIANO	Na Kapitänchen, Nachschlag gefällig?
+
+KÄPTN	Meuterei! Na warte!
+
+JIM	Ergreife den Stern... und mach‘ dich zum Herrn.
+ 
+MAXILIANO	Du Ratte!
+
+KÄPT‘N W	Der hat erstmal genug. Teufel, Tod und blaue Bohnen! Es reicht jetzt, ich bin euer Kapitän!
+
+. W 	Ach ja? Und wo ist dann dein Stern, du besoffene Qualle? Ich bin der Kapitän!
+
+DIV W 	Ich bin der Kapitän!
+
+. W 	Es gibt nur einen Kapitän und das bin ich!
+
+EIN W 	Ich bin der Kapitän
+
+. W 	Ich bin der Kapitän!
+
+MAXIMILIANO	Ich geb‘ hier die Befehle, weil ich jetzt der Kapitän bin!
+
+IGNAZIO	Moment mal!
+
+EIN W 	Ich bin der Kapitän.
+
+. W	Ich bin der Kapitän!
+
+MAXIMILIANO	Mein Zahn! Mein schöner, neuer Zahn!
+
+. W 	Brü -
+
+IGNAZIO	Aye du Ratte!
+
+LI SI	Etwas höher, Lukas.
+
+JIM	Lukas?! Li Si?! Hört ihr mich?
+ 
+
+LI SI	Jim? Jim! 
+
+LUKAS	Jim, wir sind hier!
+
+JIM	Ich hol' euch hier raus!
+
+LUKAS	Was hast du mit der Bande angestellt?
+
+JIM	Die halten ein Nickerchen. Lukas, die haben noch den Holzkorb, in dem ich aus dem Meer gefischt wurde! Er muss irgendwo in Ihrer Schatzkammer sein. Und ein Brief soll mit dabei sein.
+
+LUKAS 	Ja, dann holen wir ihn. Worauf warten wir noch? Kapitän? Ihr kümmert euch um die Piraten.
+
+LUKAS	Jim? Li Si! Ich glaub, hier drüben.
+
+LI SI	So viele Schätze! 
+
+JIM	Der Korb. Die müssen ihn hier irgendwo versteckt haben.
+
+LI SI	Ich hab was gefunden.
+
+JIM	Sucht nach dem Brief.
+
+LUKAS 	Jim.
+
+JIM	Sind das…
+
+LUKAS	… deine Eltern.
+
+LI SI	Der Brief!
+
+JIM	"Unbekannter, der du dies Kindlein findest, wisse: Wer es errettet und aufnimmt in Liebe und Treue, den wird es für seine Güte königlich entlohnen. Wer ihm aber Böses tut, dem wird es alle Macht und Stärke nehmen. Denn durch dieses Kind wird das Ungerade gerade.“
+
+LI SI	„Dies ist das Geheimnis seiner Herkunft. Drei Heilige Könige kamen zum Christkind, um ihm Geschenke zu bringen. Eine aber von ihnen war schwarz von Angesicht und hieß Kaspar. Das große und herrliche Reich dieses Königs ging verloren, als die Drachen es im Meer versinken ließen. Seit jener Zeit ziehen die Nachkommen König Kaspars durch die Länder und suchen das verlorene Land, ihre Heimat, genannt: Jamballa“.
+
+LUKAS	„Dies Kind ist der letzte Nachkomme König Kaspars und ihm ist es verheißen, Jamballa wiederzufinden. Wir legen es in die Hände Gottes, darum sei sein Name: Prinz Myrrhen."
+
+LI SI	Prinz Myrrhen! Du bist ein Prinz!
+
+JIM	Was? Ich, ein Prinz? Das ist unmöglich.
+ 
+LUKAS	Hier steht es ja, schwarz auf weiß. Donnerwetter, Jim, alter Junge. Jetzt bist du auch noch Prinz geworden. 
+
+LUKAS	Und was für einer!
+
+ULRICO	Was ist hier los?
+
+IGNAZIO	Ich kann meine Arme nicht bewegen!
+
+ANTONIO	Schwefel, Pech und Hagelschlag! Die Wildewurde noch niemals besiegt.
+
+. W 	Wer war der Teufelskerl, der uns überlistet hat?
+
+JIM	Das war ich. 
+
+ANTONIO	Das, das...
+
+IGNAZIO	Ein Junge!
+
+. W 	Er hat den Stern! Alle Höllenhunde!
+
+MAXIMILIANO	Seht euch das an.
+
+. W 	So einen Kerl hätten wir als Kapitän haben sollen, dann hätten wir’s weit gebracht!
+
+NICOLO	Genau!
+
+KAPITÄN	Ruhe du Kaulquappe! Ich sage, sie verdienen den Tod. Die bekommen die Haie, so wie sie’s mit uns vorhatten.
+
+KÄPT‘N W	Na los, werft uns ins Meer! 
+
+. W 	Ja, ersäuft uns wie räudige Hunde!
+
+. W 	Ins Meer mit uns!
+
+. W 	Ja, wie räudige Hunde! 
+
+LI SI	Die Kerle haben uns entführt und für ein Fass Schnaps an Frau Malzahn verkauft, Jim. Sie haben Angst und Schrecken verbreitet.
+
+JIM	Ja. Ihre Taten waren schrecklich. Aber sie haben mich gerettet, als ich ein Baby war.
+
+LUKAS	Du hast sie besiegt, Jim. Du entscheidest
+
+JIM	Ich weiß wie es ist ein Niemand zu sein. Vor Jahren, damals in dem Paket, da hatte ich nicht mal einen Namen. Aber ich hab‘ eine Familie gefunden. Sie haben mir einen Namen gegeben. Wenn ich über euch entscheiden kann dann sollt ihr leben.
+
+KÄPT‘N W	Was?
+
+JIM	Und ich werde euch Namen geben. 
+
+ANTONIO	Was soll das? Was hat er vor?
+
+FERNANDO	Habt ihr das gehört?
+
+NICOLO	Aber wir hatten doch noch nie Namen, bei allen Höllenhunden!
+
+LUDOVICO	Namen, hehe.
+
+JIM	Jeder von euch bekommt einen Namen, der mit dem Buchstaben anfängt, den er schreiben kann. Schreib mir deinen Buchstaben auf.
+
+JIM	Von jetzt an ist dein Name Antonio. 
+
+ANTONIO	Antonio? Habt ihr gehört, Brüder? Ich bin Antonio!
+
+. W	Antonio! Ich freu mich so für dich. Antonio! Ich bin gespannt, wie er mich...
+
+JIM	Xaverio.
+
+XAVERIO	Xaverio! Ich bin Xaverio. Ist das nicht ein prachtvoller Name!?
+
+JIM	Ignazio.
+
+IGNAZIO	Ja! Ich bin Ignazio! Sei gegrüßt, Xaverio. Ich bin Ignazio! Ignazio!
+
+JIM	Ludovico.
+
+LUDOVICO	Ludovico. Ich bin Ludovico! Ludovico!
+
+JIM	Maximiliano! 
+
+MAXIMILANO	Maximiliano! Mein Name ist der Beste!
+
+LUDOVICO	Maul halten, mein Name ist der Beste! Ludovico!
+
+MAXIMILANO	Vergiss es, mein Name ist der Beste. Maximiliano!
+
+JIM	Ulrico.
+
+ULRICO	Ulrico! Ich bin Ulrico!	
+
+JIM	Und du bist Fernando.
+
+FERNANDO	Habt ihr das gehört, Brüder? Ich bin Fernrando! Ja!
+
+JIM	Theodoro.
+
+THEODORO	Theodoro!
+
+ULRICO	Endlich können wir uns auseinanderhalten. 
+
+IGNAZIO	Ignazio!
+
+JIM	Sebastiano.
+
+SEBASTIANO	Sebastiano!
+
+JIM	Emilio.
+
+JIM	Rudolfo.
+
+KÄPT’N W /ANTONIO	Jim Knopf! Wir waren fest entschlossen, ohne ein Wort zu sterben. Wenn wir je besiegt werden ist es aus mit der Wilden , das haben wir uns geschworen. Wüste Kerle sind wir, aber wir wissen was Großmut bedeutet. Wir schenken euch eure Freiheit und bringen euch zurück in eure Heimat. Wenn wir unseren Schwur erfüllt haben fahren wir in den Norden und lassen uns im ewigen Eis einfrieren.
+
+W 	Ja! 
+
+LI SI	Nein. Euer Schicksal ist ein anderes. Jim. Der Drache hat mich gebeten, dir etwas zu sagen. Und jetzt verstehe ich es endlich. Vor tausend und mehr Jahren ließ der Zorn der Drachen das wunderbare Land Jamballa in den Fluten versinken. Seitdem liegt es auf dem Grund der Meere, verborgen vor den Augen der Menschen. An seiner Statt erhob sich das “Land, das nicht sein darf“, jener unheilvolle Ort, der sich der natürlichen Ordnung der Elemente widersetzt. Dort, im Herzen der Burg Sturmauge, findet ihrkupferne Türen.
+
+FRAU MALZAHN	Dort, im Herzen der Burg Sturmauge, findet ihrkupferne Türen. 
+
+LI SI	Öffnet alleTüren zugleich, 
+
+FRAU MALZAHN	Öffnet alleTüren zugleich, 
+
+FRAU MALZAHN	so wird die Flut des Wassers hineinstürzen und „Das Land, das nicht sein darf“ wird versinken, so dass Jamballa wieder aus den Tiefen des Meeres emporsteigen kann. Doch voll Schrecken ist diese Tat. Und nur die , diezu sein glaubten, besitzen den Mut und die Stärke. Was gebunden war, wird frei, was Feind war wird Freund und was ungerade wird fortan für alle Zeiten gerade sein. Dann und nur dann wird Prinz Myrrhen sein Reich betreten.
+
+LI SI	Dann und nur dann wird Prinz Myrrhen sein Reich betreten.
+
+KÄPT’N W /ANTONIO	Die , diezu sein glaubten? Hagel und Granaten, wir sind doch !
+
+ W 	Ja.
+
+NOCHW 	Stimmt genau.Mann und ein Kapitän!
+
+LUKAS	Der Kapitän war schon immer einer von euch. Deswegen seid ihr auch nur .
+
+NICOLO	Nur zwölf? Das versteh ich nicht.
+
+MAXIMILIANO 	Verdammte Rechnerei!
+
+JIM	Ihr habt die Worte des Drachen gehört. Ihr allein könnt es tun. Aber es ist gefährlich. Es könnte euer Ende bedeuten.
+
+KAPITÄN	Zwingen wir sie eben.
+
+JIM	Nein! Wenn sie es tun, sollen sie es freiwillig tun.
+
+ANTONIO	Kommt her. Kommt her.
+
+ANTONIO	Also, Brüder, was sagt ihr?
+
+MAXIMILIANO	Guter Plan.
+
+XAVERIO	Ja? Alle einverstanden?
+
+FERNANDO	Hm.
+
+KÄPT‘N W	Jim Knopf. Wir haben geschworen, dich in deine Heimat zu bringen. Und genau das werden wir auch tun. 
+
+IGNAZIO 	Ja, in die Heimat!
+
+MAXIMILIANO	Ja, wir bringen dich Heim!	
+
+KÄPT‘N W	Hey, ihr da! Macht das Schiff klar.
+
+JIM	Hier geht es nicht weiter!
+
+ANTONIO	DieTüren, von denen der Drache gesprochen hat, sind dort unten. Das Gitter wurde schon ewig nicht mehr geöffnet. Los, Männer, anpacken! Kommt schon. Na kommt. Hoch damit!
+
+ANTONIO	Na los!
+
+ANTONIO	Jeder von euch an eine Tür!
+
+ANTONIO	Kehrt zurück an die Oberfläche. Ihr könnt hier unten nichts mehr tun.
+
+JIM	Aber…
+
+LUKAS	Er hat recht, Jim. Wenn es gelingt müssen wir schleunigst von hier weg.
+
+ANTONIO	Sei unbesorgt. Die Wildewurde nur einmal besiegt und das von einem wahren Teufelskerl. So ein bisschen Wasser kann uns nichts anhaben.
+
+LI SI	Der Wildenist jetzt der Rückweg versperrt. Sie werden ertrinken!
+
+LUKAS	Geht. Na, los.
+
+JIM	Lukas! Du willst doch nicht wirklich...
+
+LUKAS	Du hast ihnen das Leben geschenkt, ich sorg‘ dafür, dass sie es behalten. Außerdem kommen wir ohne sie nicht von hier weg. 
+
+LUKAS	Du hast es weit gebracht, Jim Knopf. Bleib jetzt nicht stehen. 
+
+LUKAS	Ich mach das schon. 
+
+ANTONIO	Brüder! Zugleich! Zugleich!
+
+W	Zugleich! Zugleich!
+
+LI SI	Für das Land, das nicht sein darf, ist das Ende gekommen. Der Wind und die See greifen es an. 
+
+JIM	Und sie gewinnen auch.
+
+KAPITÄN	Alle an Deck und Leinen los!
+
+KAPITÄN	Alle festhalten! 
+
+JIM	Lukas!?
+
+LI SI	Lukas?!
+
+JIM	Lukas, wo bist du? 
+
+KAPITÄN	Eure Hoheit! Das können sie nicht geschafft haben. Wir sollten nach Hause fahren.
+
+JIM	Nein, Li Si. Nein.
+
+LI SI	Wir fahren nirgendwo hin.
+
+KAPITÄN	Ja, meine Prinzessin.
+
+JIM	Lukas, lass mich jetzt nicht allein.
+
+JIM	Lukas!
+
+ANTONIO	Festhalten Männer!
+
+ANTONIO	Bleibt zusammen! Macht schon da vorne!
+
+JIM	Lukas! Lukas!
+
+LUKAS	Jim.  
+
+JIM	Molly! Molly! Molly alles gut?
+
+
+ANTONIO	Geschafft!
+
+FERNANDO	Teufel auch!
+
+LUDOVICO	Zieht mich hoch!
+
+XAVERIO	Wir haben es geschafft, Brüder.
+
+NIKOLO 	Hey, vergesst mich nicht!
+
+LUKAS	Auf nach Lummerland!
+
+JIM	Ja! 
+
+ANTONIO	Jawoll!
+
+JIM	Lukas. Seit wir von Burg Sturmauge weg sind, hast du fast kein Wort gesprochen.
+
+LUKAS	Es ist nichts. 
+
+JIM	Freunde sagen Freunden alles. Das habe ich von dir gelernt!
+
+LUKAS	Ist gar nicht so lange her, da hatten wir zu wenig Platz auf Lummerland. Jetzt haben wir bald zu viel.
+
+JIM	Wie meinst du das?
+
+LUKAS	Naja... Wenn du jetzt weg gehst, nach Jamballa...Was für‘n Lummerland soll das sein, so ganz ohne dich?
+
+JIM	Ich würde Lummerland nie verlassen, Lukas. Nicht für eine Million Jamballas.
+
+W 	Land in Sicht!
+
+W 	Hä?
+
+KAPITÄN	Mast und Schotbruch! Wenn das eine kleine Insel ist, dann will ich ein Floh sein. 
+
+LUKAS	Das ist unmöglich. Wir müssen den falschen Kurs eingeschlagen haben.
+
+KAPITÄN	Nein, der Kurs ist goldrichtig. Hab ich selbst überprüft.
+
+JIM	Lukas! Das ist...
+
+LUKAS	… Lummerland.
+
+LI SI	So hat der Drache es doch vorhergesagt. Das Land, das nicht sein darf wird versinken. Und Jamballa wird aus dem Meer emporsteigen. Wie das andere Ende einer mächtigen Waage. Jim. Das ist Jamballa!
+
+DIV W 	Na los.
+
+JIM	Frau Waas? Herr Ärmel? König Alfons?!
+
+LUKAS	Emma! Meine dicke, alte Emma! Hat das kaiserliche Schiff dich hier hergebracht?
+
+LUKAS	Warte, altes Mädchen. Wir haben ne Überraschung für dich.
+
+XAVERIO	Macht mal Platz für die Kleine	
+
+FERNANDO	Das ist aber schön hier!
+
+ANTONIO	Adrett ist nett.
+
+NICOLO	Was'n das für'n Ding?
+
+LUDOVICO	He, Brüder! Seht mal hier drüben!
+
+FRAU WAAS	Jim? Jim! Du bist es! Jim! Du bist es wirklich! Es gab ein schreckliches Erdbeben und wir haben uns alle hier versteckt. 
+
+KÖNIG ALFONS	Herr Fieber, habe ich Ärmel? Freibuben! Spitzbeuter! Piraten!
+
+HERR ÄRMEL	Und die sehen alle gleich aus
+
+TURTUR	Das muss eine Fata Morgana sein!
+
+HERR ÄRMEL	Gewiss ein alle Maßen seltenes Phänomen, für das die Wissenschaft noch keine Erklärung hat.
+
+HERR ÄRMEL 	Also, das ist ja wohl… Degoutant!
+
+KAISER	Ergreift sie!
+
+JIM	Nein!
+
+HERR ÄRMEL	Nicht doch! Jim!
+
+JIM	Nein! Steckt die Waffen wieder weg!
+
+KAISER	Wo ist meine Tochter?
+
+LI SI 	Papa!
+
+KAISER	Li Si! Du brauchst keine Angst zu haben. Sie werden dir nichts tun.
+
+JIM	Eure Hoheit! Das ist jetzt nicht mehr die Wilde , der Schrecken der Meere. Sie sind unsere Freunde.
+
+DIV W 	Ja!
+
+LUKAS	Er hat recht. Ohne ihre Hilfe wären wir verloren gewesen.
+
+LI SI	Sie sagen die Wahrheit, Papa. Vertraust du mir?
+
+IGNAZIO	Weg mit den Waffen Brüder!
+
+LUDOVICO	Da habt ihr aber nochmal Glück gehabt.
+
+HERR ÄRMEL	Frau Waas! Majestät!
+
+LI SI	Es tut mir sehr leid. Ich hätte nicht weglaufen sollen.
+
+KAISER	Nein. Li Si. Ich habe begriffen, ich muss dich um Verzeihung bitten. Du hast gemacht, was du musstest. Du bist mutiger und stärker als ich es je war. Ich bin unglaublich stolz auf dich. Und deine Mutter wär‘s bestimmt auch.
+
+TURTUR	Ich möchte die Herrschaften vielmals um Verzeihung bitten, aber kann mir vielleicht irgendjemand sagen, was hier eigentlich geschieht?
+
+JIM	Ist eine lange Geschichte.
+
+LUKAS	Ist wieder so eine kleine Wunderlichkeit. Unser Jim ist nämlich jetzt ein Prinz.
+
+KÖNIG ALFONS	Oh! Ah!
+
+LUKAS	Er hat endlich gefunden, was er so lange gesucht hat. Das Land Jamballa. Oder soll ich besser sagen: Jimballa, Eure Hoheit? 
+ 
+JIM	Lass den Unsinn, Lukas. Ich bin Jim. Für immer.
+
+KÖNIG ALFONS	Vielleicht kann ich ja mal einen Tipp geben, von König zu Prinz?
+
+TURTUR 	Oh!
+
+FRAU WAAS	Und wer möchte jetzt ein Stück Guglhupf?
+
+LUKAS	Ich!
+
+TURTUR	Ich!
+
+KÖNIG ALFONS	Ich!
+
+JIM	Ich!
+
+LI SI	Ich! 
+
+KAISER	Eine wundervolle Idee, Frau Waas! 
+
+FRAU WAAS	Herr Turtur, würden Sie uns etwas von Ihrem köstlichen Feigenkaffee kochen?
+
+TURTUR	Selbstverständlich!
+
+KÖNIG ALFONS	Mit Kokosmilch?
+
+JIM	Herr Ärmel?
+
+HERR ÄRMEL	Hm?
+
+JIM	Ich brauche Ihre Hilfe. 
+
+HERR ÄRMEL	Meine Hilfe? Ah…
+
+JIM	Sie könnten meine Freunde unterrichten. Den zwölf fast Unbesiegbaren Lesen beibringen und Schreiben auch. Und wenn Sie schon dabei sind auch gleich noch bessere Manieren. Kriegen Sie das hin?
+
+XAVERIO	Hände weg, du stinkende Qualle!
+
+ULRICO	Auseinander!
+
+NICOLO	Na warte, das wirst du noch bereuen.
+
+MAXIMILIANO	Ist das alles was du drauf hast?
+
+IGNAZIO	Noch `ne Backpfeife?
+
+HERR ÄRMEL	Ah, das, das wäre eine harte Nuss
+
+JIM	Sie sind der schlauste Mensch in Jamballa. Es gibt keinen besseren als Sie. 
+
+HERR ÄRMEL	Lum-mer-land. Und alle:
+
+WILDEALLE	Lum-mer-land.
+
+HERR ÄRMEL	Sehr gut!
+
+HERR ÄRMEL	Rechnen. Vier und neun – äh…
+
+NICOLO	Ohh nee! Nicht rechnen!
+
+HERR ÄRMEL	Wer war das?
+
+HERR ÄRMEL	Maximiliano – an die Tafel.
+
+MAXIMILANO	Aber ich bin doch Ludovico.
+
+. W 	Ich bin Ludovico.
+
+. W 	Ich bin doch Ludovico.
+
+DIV W 	Ich bin Ludovico.
+
+HERR ÄRMEL	Ruhe! Maximiliano, ich sag es nicht noch einmal.
+
+POSTBOTE	Frau Waas.
+
+FRAU WAAS	Majestät! Eure Lakritzbonbons!
+
+KÖNIG ALFONS	Ah! Endlich! Ich eile, meine Verehrteste!
+
+JIM LI SI	Guten Morgen, Herr Turtur!
+
+TURTUR	Wahrhaftig! Ein wunderschöner Morgen, liebe Freunde
+
+ 
+LUKAS	Jim! 
+
+ERZÄHLUNG	Tja, liebe Freunde. Und damit ist nun diese Geschichte von Jim Knopf und Lukas, dem Lokomotivführer, zu Ende.
+
+
+

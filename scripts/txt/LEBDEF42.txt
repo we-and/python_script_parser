@@ -1,0 +1,932 @@
+LA ESCLAVA BLANCA CAP42 25 FPS-H264
+12/10/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Eugénia	Alonso ! Toi ici, de si bon matin ! Que me vaut le plaisir de cette visite ?
+
+Alonzo 	Eugénia, où est l'argent que tu devais avancer ? Il nous le faut pour livrer notre client.
+
+Eugénia	Et si tu commençais par dire bonjour ?
+
+Alonzo 	Pardon, mais je suis très inquiet.
+
+Eugénia	Eh bien je dois dire que l'inquiétude te sied parfaitement. Tu es particulièrement beau .
+
+Alonzo 	(soupir) Arrête de plaisanter. On va avoir de gros problèmes si tu n'es pas capable d'avancer cet argent immédiatement. Non merci. Si notre livraison de cacao échoue, on est finis. Tu n'as pas l'argent, n'est-ce pas ?.   Tu m'as menti ?
+
+Eugénia	Cette accusation est infecte.
+
+Alonzo 	Non, c'est l'idée d'échouer qui est infecte, nom de Dieu! Je ne compte pas perdre ce que j'ai investi et les efforts que j'ai fournis parce que tu es incapable de faire preuve d'honnêteté Eugénia !
+
+(BOUCLE 2 - 00:01:47:07)
+		02
+
+Alonzo 	h_C'est si dur d'admettre que tu n'as pas cet argent ?
+
+Eugénia	Je te conseille de changer de ton, Alonso Marquez ! Je te rappelle que tu es chez moi. Bien sûr que j'ai l'argent.. C'est l'argent de la vente de nos terres haïtiennes , les propriétés de mon défunt époux. Le problème, c'est que notre cargaison par bateau a pris du retard.
+
+Alonzo 	Pour quand est prévue l'arrivée du bateau à Santa Marta?
+
+Eugénia	C'est pour bientôt. Mais si ta confiance... a totalement disparu, tu ne mérites pas d'être mon associé. A toi de voir.
+
+Alonzo 	h_hh_ hh_  D'accord. Je te laisse le bénéfice du doute.
+
+Eugénia	Merci. Ce sera suffisant.
+
+Alonzo 	Dans deux jours. J'y compte bien. Au revoir.
+
+(BOUCLE 3 - 00:02:47:22)
+		03
+
+Candéla	Trinidad... toujours aucune trace de la marquise.
+
+Joaquin 2	Il en manque un. Où est Miguel ?
+
+Thomas	Il a été réquisitionné, il est allé travailler à la maison des maîtres. Ils avaient besoin de lui là-bas.
+
+Noemi	Il a travaillé toute la nuit?
+
+Candéla	mts
+
+(BOUCLE 4 - 00:03:22:15)
+		04
+
+Rémédios	Attends... Tu es en train de me dire que tu comptes récupérer l'esclave le plus précieux que nous ayons ici, et l'envoyer travailler dans les champs, malgré les ordres de Donia Adela? Non! Je ne veux plus t'entendre. Hors de question que tu partes avec le seul homme qui assure notre sécurité ici et qui sert à quelque chose en l'absence de Don Nicolas. C'est compris ?Bien. Assez perdu de temps. Allons.  Allez, du nerf. hh_ Seigneur, aide- moi s'il teplait . hh_
+
+(BOUCLE 5 - 00:03:50:20)
+		05
+
+AMB	(rue animée)
+
+Abdul	Oui ?
+
+Manuela	Bonjour, c'est Manuela, l'hôtesse de la pension. Votre petit déjeuner est là. Vous avez demandé à être servis dans la chambre...
+
+Abdul	Couvre-toi ! J'arrive. Donnez-moi juste une petite minute. Bonjour.
+
+Manuela	Bonjour. Je vous le dépose ici, si vous le permettez.
+
+Abdul	Merci.
+
+(BOUCLE 6 - 00:04:31:13)
+		06
+
+Manuela	J'aimerais beaucoup vous consulter. Je n'ai pas vraiment les moyens.
+
+Abdul	Vous pouvez, mademoiselle, mais ça a un prix. Je peux vous proposer...h_ de déduire la valeur de cette consultation de notre note. Qu'est-ce que vous en dites ?
+
+Manuela	Je vous déduis une nuit.
+
+Abdul	Soyez raisonnable. Mon épouse peut prédire l'avenir, attention. C'est une grande prêtresse. Quatre nuits.
+
+Manuela	Deux nuits. Voilà ce que je peux payer.
+
+Abdul	hh_ Je vous garantis que mon épouse aura la réponse à toutes vos questions.
+
+Manuela	Bien. Et quand pourrai-je la consulter ?
+
+Abdul	Dès que nous aurons fini d'aménager son espace de travail, nous vous préviendrons.
+
+Manuela	J'attendrai avec impatience. A bientôt.
+
+Abdul	Au revoir.
+
+(BOUCLE 7 - 00:05:11:16)
+		07
+
+Abdul	(ricane) hh_ Tu as vu un peu? Quand je te dis qu'ici, c'est le meilleur endroit pour faire fortune! (rire)
+
+Lorenza	Tu t'en vas?
+
+Abdul	Mon amour...L'argent, il faut aller le chercher. Il ne viendra pas tout seul, hein. Et on a déjà dépensé une somme énorme pour arriver jusque là. Tu te charges de finir d'installer ton ... ton espace de consultation, et je me charge de récolter des clients.
+
+(BOUCLE 8 - 00:05:46:10)
+		08
+
+Marchand de rue	Elle est où la bille, messieurs dames ? Approchez ! Elle est où, la bille ? Venez tenter votre chance. Venez, venez ! Alors, où elle est ? Vous avez trouvé ? Elle est où la bille ?
+
+AMB	(brouhaha indistinct)
+
+Passant	A droite!
+
+Abdul	(rire) Je me lance.
+
+AMB	(acclamations)
+
+Marchand de rue	Avec moi, il n'y a que des gagnants, messieurs dames. A votre tour de tenter votre chance. Où est cachée la bille ?
+
+Abdul	(rire)
+
+(BOUCLE 9 - 00:06:06:24)
+		09
+
+Manuela	Cécilia, tu trouves que c'est du bon travail ? Bon, alors je ne te le dirai qu'une seule fois...
+
+Cécilia	Non, madame.
+
+Granados	Mademoiselle Pimentel ?
+
+Manuela	Cécilia...
+
+Cécilia	Excusez-moi.
+
+Manuela	h_ Manuela, capitaine. Avec moi, inutile d'être cérémonieux.
+
+Granados	Manuela... avec joie. Je suis là pour les besoins d'une enquête. h_ Comme il y a beaucoup de passage par ici...
+
+(BOUCLE 10 - 00:06:51:24)
+		10
+
+Félipé	J'arrive ! Oui, j'arrive !
+
+Granados	Monsieur Restrépo... Ana ! Ana, où tu es ? Ana !Ana, où es-tu ? Ana !
+
+Félipé	Attendez!  Vous croyez aller où comme ça? Je ne vous ai pas permis d'entrer.Vous n'avez pas le droit d'être ici, tout garant de la loi que vous êtes !
+
+Ana	Non, pas ça.  hh_(respiration haletante)
+
+(BOUCLE 11 - 00:07:19:12)
+		11
+
+Granados	hh_ h_ Ana... Ana, je ne dors plus, je ne pense qu'à toi depuis que tu m'as laissé sans dire où tu allais.  Ana...
+
+Ana	(sanglot)
+
+Félipé	Capitaine Granados,  il va falloir que vous partiez d'ici immédiatement.
+
+Granados	Tu vois ce que tu es en train de faire ? Quel spectacle lamentable...h_ Tu as assez importuné ce monsieur. Ton comportement est une honte pour nous deux. Viens avec moi, sois gentillle.
+
+Ana	(inspiration) (respiration haletante) Non. Je n'irai nulle part avec toi. (renifle)
+
+(BOUCLE 12 - 00:07:56:03)
+		12
+
+Granados	Comment ?
+
+Ana	Je n'irai ... (renifle)(halètement) Je n'irai nulle part avec toi. (halètements) Je sais bien que tu n'es qu'un assassin.h_ (sanglot) (cri)
+
+Granados	Tu vas faire ce que je dis. (cri) Lâchez-moi, imbécile !
+
+Félipé	Vous ne me laissez pas le choix.
+
+Ana	hh_ (renifle)
+
+Granados	hh_h_hh_h_ hh_J'en ai pas fini avec toi, espèce d'ingrate.hh_h_ Tu me fais honte...
+
+Félipé	Vous devriez avoir honte . Lever la main sur sa femme au lieu de la protéger, c'est indigne.
+
+Ana	(respiration haletante)
+
+Félipé	Je veux que vous partiez de chez moi.
+
+(BOUCLE 13 - 00:08:41:23)
+		13
+
+Félipé	Vous n'avez rien à faire sur ma propriété ! Vous avez débarqué sans autorisation, alors fichez le camp et ne revenez pas!
+
+Granados	Vous êtes un homme mort!
+
+Félipé	Tirez- moi dessus devant tout le monde! Allez-y.
+
+Général	Francisco!
+
+Granados	Maudite esclave !
+
+Général	Qu'est-ce qui vous prend ?
+
+Granados	Qu'est-ce qui me prend?  C'est lui qui a pris ma femme.hh_h_h__h_ J'ai totalement le droit de venir la chercher.
+
+Félipé	Elle ne veut pas vous suivre, c'est clair ? Si elle a besoin de rester, elle  restera !
+
+Général	Arrêtez ça tout de suite, Francisco! Reculez ! Vous êtes en train de causer un intolérable tapage public.   Quand on doit représenter la loi, on fait preuve d'un peu de tenue !    Cette affaire...est une affaire interne désormais.En route, nous partons. Allez!
+
+Paca	Ne vous approchez plus d'elle.
+
+Général	Francisco! Nous partons. En avant !
+
+(BOUCLE 14 - 00:09:33:00)
+		14
+
+Général	Francisco, vous n'êtes plus en pleine possession de vos capacités mentales. h_Si vous continuez comme ça, je crains que nous...
+
+Granados	Je démissionne.
+
+Général	Quoi ?
+
+Granados	Je ne veux plus faire partie de cette brigade qui me tourne le dos. J'ai fait tous les sacrifices pour cette uniforme, général . Je lui ai consacré toute ma vie. Mais c'est terminé.
+
+Général	C'est un uniforme qui se mérite ! Francisco, l'exercice de notre fonction est une question d'honneur et d'intégrité !Nous ne pouvons pas tolérer dans nos rangs un élément dont les actes discréditent et couvrent de honte  l'institution qu'il est censé servir.Oui!
+
+Granados	C'est vous qui me parlez d'honneur ?  Hein ? Vous vous agrippez au pouvoir juste pour ne pas vous sentir inutile pendant les quelques années qu'il vous reste à vivre.
+
+(BOUCLE 15 - 00:10:19:15)
+		15
+
+Granados	Vous devez l'admettre : vous avez fait votre temps, général. Il est temps de transmettre les rênes à quelqu'un de plus jeune. C'est ça, avoir de l'honneur.
+
+Général	Capitaine Francisco Granados, sachez que votre suspension prend effet immédiatement. Et si je vous reprends à pénétrer chez quelqu'un par effraction,ou à causer un autre scandale en public,h_ je vous boucle moi-même en prison.
+
+Granados	Vous êtes sourd ? J'ai démissionné. Vous avez choisi votre camp.
+
+Général	Mon camp est celui de la justice, de la loi et de la vérité.
+
+Granados	La loi, la justice et la vérité dépendent des personnes qui détiennent le pouvoir. N'est-ce pas ? Vous faites fausse route.
+
+Général	(respiration haletante) (soupir)
+
+(BOUCLE 17 - 00:11:37:06)
+		17
+
+Général	Depuis quand la marquise a-t-elle disparu ?
+
+Adéla	Depuis hier, en milieu de journée.
+
+Général	Donia Adela, pourquoi vous me prévenez si tard ? Mais enfin !
+
+(BOUCLE 18 - 00:11:48:05)
+		18
+
+Bumba	Eugénia, tu as de la visite.
+
+Eugénia	Si c'est Alonzo, dis que je suis sortie.
+
+Bumba	Non. Ce n'est pas lui.
+
+Eugénia	Etje ne suis pas non plus d'humeur à voir Nicolas, Bumba. hh_ Lucia ? hh_h_ Mais que vous est-il arrivé ?
+
+Victoria	Ce serait trop long à raconter.
+
+Eugénia	Asseyez-vous, j'insiste. J'ai toujours le temps pour vous.
+
+Victoria	Notre temps est compté... (respiration haletante)  Je sais que vous m'avez déjà aidée pour Isaïas, mais j'ai vraiment besoin de vous.
+
+Eugénia	Je vous étais redevable. Mais si je vous aide cette fois, vous serez redevable..
+
+(BOUCLE 19 - 00:12:25:02)
+		19
+
+Miguel	Et vous espérez quoi  ?
+
+Eugénia	Ne sois pas si méfiant envers moi, Miguel.Je veux offrir un échange de bons procédés, c'est tout.
+
+Victoria	Bien.
+
+Eugénia	Je vous promets... de ne rien dire à votre époux à propos de la petite amourette entre vous et cet esclave h_  , et en échange, vous me livrerez sur un plateau d'argent la première cargaison de cacao que Nicolas exportera.
+
+Victoria	Attendez... Vous êtes en train de dire que vous voulez qu'on vole le cacao de Nicolas ?
+
+Eugénia	(réac) h_ Pas de quoi s'offusquer très chère. h_ Lui voler une cargaison, c'est pas grand-chose comparé à le tromper avec un de ses esclaves. Mais je ne vous jette pas la pierre, Lucia.
+
+(BOUCLE 20 - 00:13:02:23)
+		20
+
+Victoria	h_ Je croyais que nous pouvions vous faire confiance, vu nos antécédents, mais j'avais tort.
+
+Eugénia	Vous et Miguel, je vous aime bienl. Je suis de votre côté.h_  Quoi de plus délicieux que les amours interdites ? Mais les affaires sont les affaires.
+
+Bumba	hh_
+
+Miguel	Donc voler, pour vous, c'est faire des affaires.
+
+Eugénia	Question de stratégie, Miguel. Si vous souhaitez protéger votre secret... Je pense que ce n'est pas cher payé. Il vous suffitjuste...  de vous emparer de la cargaison de Nicolas Parrenio. Je vous laisse une minute de réflexion. Viens, Bumba.
+
+Miguel	(respiration saccadée)
+
+(BOUCLE 21 - 00:13:50:21)
+		21
+
+Rémédios	Milagro, tu pleures ?
+
+Milagro	Je pense à eux.h_ On ne reverra peut-être plus  Victoria et Miguel.(renifle) Et s'ils restaient à jamais coincés dans ce tunnel ?
+
+Rémédios	Mais non, Milagro. Victoria a toujours été une femme forte, une battante déterminée. En plus, quand on a vécu avec des bonnes soeurs, tu sais, on peut  survivre à tout le reste. hh_et je sais de quoi je parle.
+
+Milagro	(respiration saccadée)
+
+(BOUCLE 22 - 00:14:24:22)
+		22
+
+Victoria	J'ai été stupide de croire qu'on trouverait de l'aide ici. h_ hh_ On risque de perdre l'argent et le bateau, Miguel. Nous n'avons plus de  plan . Le coup du tunnel tombe à l'eau si on ne peut pas transporter les gens.  C' est de ma faute. J'ai tout gâché, tout.
+
+Miguel	Tu ne pouvais pas deviner que cette femme avait un coeur de pierre.
+
+Victoria	h_ Mais l'argent de la cargaison était pour nous.  C'était le seul moyen d'alimenter le combat.
+
+Miguel	On va trouver une solution . Maintenant, l'important c'est de rentrer. h_hh_ hh_Ce n'est pas ta faute, mon amour. Je t'aime, et le plus important, c'est que tu ailles bien et qu'il ne te soit rien arrivé.
+
+Victoria	Oui, c'est pareil pour moi.
+
+Miguel	X
+
+Victoria	hh_
+
+Miguel	Tout ira bien.D'accord ?
+
+Victoria	Oui. (réac)
+
+(BOUCLE 23 - 00:15:16:15)
+		23
+
+Général	Je veux un détachement sur la partie nord . Vous couvrirez le chemin de la Guajira. Les autres viendront avec moi sur les chemins intérieurs.Je veux qu'on fouille chaque  recoin, quitte à soulever toutes les  pierres. C'est entendu ? En avant ! Allez! Pas de temps à perdre!
+
+Militaire 1	Oui, mon général!
+
+Militaire 2	Oui, mon général.
+
+Alonzo 	Père, que se passe-t-il?
+
+Général	(réac) La marquise de Bracamonté est introuvable depuis hier. Personne ne sait où elle est.
+
+Alonzo 	Et vous ne réagissez que maintenant?
+
+Général	Adela vient juste de m'en informer.
+
+Alonzo 	hh_  Et Nicolas dans tout ça ?
+
+Général	Ca, je n'en sais rien. hh_
+
+(BOUCLE 24 - 00:15:56:15)
+		24
+
+Nicolas	(respiration haletante)
+
+Julian	Don Nicolas! Il me reste encore un peu d'eau. Si vous voulez, on peut partager.
+
+Nicolas	Je suis épuisé. h_Je meurs de soif. Donne hh_ hh_h_ (réac)h_ hh_ (réac) h_ hh_ (respiration haletante)Ne parle à personne de ce qui est arrivé à Hilaria.h_D'accord ?h_
+
+Julian	Mais Hilaria était la favorite de Donia Adela. Il vaudrait mieux lui dire.
+
+Nicolas	Je parle chinois ou quoi? J'ai dit personne. C'est clair ? (respiration saccadée) Repartons.
+
+Julian	Comme vous voudrez patron.
+
+(BOUCLE 25 - 00:16:46:22)
+		25
+
+Bumba	Tu leur laisses trop de temps. Si Nicolas rentre à l'hacienda et voit que son épouse et son esclave ont disparu, sa réaction pourrait anéantir tous tes plans, alors il faut se dépécher.
+
+Eugénia	Tu te rends compte à quel point ils s'aiment  à mourir? C'est la première fois que je vois ça, Bumba.
+
+Bumba	(réac) Leur amour est condamné.
+
+Eugénia	Tu ne trouves pas ça dommage?
+
+Victoria	C'est bon. Nous allons faire ce que vous demandez. Mais nous allons le faire à notre manière.
+
+(BOUCLE 26 - 00:17:18:21)
+		26
+
+AMB	(brouhaha)
+
+Manuela	Gabriel ! Bonjour.  Comment ça va ?
+
+Gabriel	Bonjour. Bien.
+
+Manuela	Ca fait longtemps.
+
+Gabriel	Tu sais qu'on vit au même endroit.
+
+Manuela	Oui, mais tu as été tellement occupé ces derniers temps Alors... Entre tes répétitions et tes réunions avec les autres... C'est comme si tu n'étais pas là. On pourrait peut-être se voir plus tard tous les deux
+
+Gabriel	hh_ Voici une cliente. h_hh_
+
+(BOUCLE 27 - 00:17:50:21)
+		27
+
+Manuela	Je peux vous renseigner ?
+
+Lorenza	Pardon. Auriez-vous vu mon mari ? Il n'est pas encore rentré.
+
+Manuela	Non, mais si vous voulez  je vous préviens quand j'ai des nouvelles.
+
+Lorenza	S'il vous plaît. Merci.
+
+Gabriel	Elle est très étrange. Qui c'est ?
+
+Manuela	Ayotoundé. Une voyante africaine.  Tucrois qu'elle peut prédire l'avenir ?
+
+Gabriel	(réac) C'est des foutaises.
+
+(BOUCLE 28 - 00:18:26:02)
+		28
+
+AMB	(conversations mêlées)
+
+Abdul	(tape dans ses mains) J'ai cru comprendre que vous viviez des temps difficiles.  On vit une époque violente, pleine de bouleversements. Mon nom est Abdul ! Et si ça vous intéresse de savoir ce que l'avenir vous réserve , ou si vous voulez déméler les fils de votre passé, je serai votre meilleur allié.  Et je serai votre meilleur allié... parce que j'ai pour compagne de voyage la célèbre Ayotoundé, la grande voyante. Celle qui maîtrise le "atché", Elle a le don de voir le futur.
+
+(BOUCLE 29 - 00:19:12:02)
+		29
+
+Abdul	Elle est venue directement de son Afrique natale. Elle voit tout dans ses chamalongos, ses coquillages de l'au-delà. Il vous suffit simplement de lui dire  ce que vous voulez savoir.  Elle est aussi capable de  communiquer avec l'au-delà, avec tous vos défunts, vos êtres chers.  Conseils, protection contre les maléfices, talismans contre le mauvais oeil et la jalousie, lavage spirituel...Ayotoundé est là pour vous. Et nous vous accueillons à la pension Pimentel à compter d'aujourd'hui Vous savez où nous trouver. Santé, mes amis ! (rires) Santé.
+
+Badauds	Santé !
+
+(BOUCLE 30 - 00:20:00:09)
+		30
+
+Victoria	hh_h_hh_h_hh_ hh_ hh_h_
+
+Eugénia	Tu es très beau habillé comme ça, Miguel.
+
+Miguel	hh_ Je retourne à l'Eden.
+
+Eugénia	Ma calèche vous attend dehors.
+
+Miguel	(réac)
+
+Victoria	Fais attention à toi mon amour je t'en prie. hh_ hh_ hh_
+
+Miguel	hh_  Je t'adore. Toi aussi prends bien soin de toi.  (X)
+
+Eugénia	Arrêtez vous me donnez chaud ! Il faut que tu reviennes avec Nicolas. Tout ceci me donne une telle montée d'adrénaline. (rire)
+
+Bumba	(rire)
+
+Victoria	Ca vous amuse, mais c'est notre vie qui est en jeu.
+
+(BOUCLE 31 - 00:20:35:07)
+		31
+
+Victoria	hh_h_
+
+Miguel	Mon amour, hh_h_ tu vas devoir être persuasive. Il ne faut pas que Nicolas soupçonne quelque chose. h_hh_ J'espère pouvoir arriver discrètement à l'Eden.
+
+Victoria	Je sais. h_ Je sais. Ca va aller. C'est promis.h_hh_h_ Connaissant Rémédios, je sais que nous ne sommes pas seuls.Elle a sûrement déjà tout prévu en attendant.hh_ h_hh_h_  Mon amour.
+
+Miguel	J'espère que ça ira. hh_
+
+Victoria	(x) Fais bien attention à toi je t'en prie. hh_h_ hh_
+
+Miguel	hh_ (renifle) hh_
+
+(BOUCLE 32 - 00:21:10:17)
+		32
+
+Thomas	Vous avez du nouveau ?
+
+Rémédios	Rien. Donia Adela est sortie avec Isabelita sans nous dire où elles allaient.
+
+Thomas	(soupir) C'est frustrant. h_Très frustrant d'avoir du interrompre les recherches pour reprendre le travail ici.
+
+Trinidad	Il faut faire semblant Thomas. Impossible de bouger d'ici  sans que les contremaîtres ne s'en rendent compte.
+
+(BOUCLE 33 - 00:21:34:22)
+		33
+
+Milagro	Mais on doit trouver un moyen de couvrir Miguel. Don Nicolas va revenir et demander où il est.
+
+Thomas	Oui. Il fera facilement le lien avec la disparition de la marquise.
+
+Rémédios	Laisse-moi! Je n'ai pas besoin d'aide. (soupir) Ce qui est sûr, h_ c'est que je ne vais pas pouvoir dire à Don Nicolas que Miguel a été réquisitionné à l'habitation des maîtres..
+
+Thomas	Et donc?
+
+Rémédios	J'ai peut-être une idée.
+
+(BOUCLE 34 - 00:22:10:22)
+		34
+
+Rémédios	Etant donné l'absence de Don Nicolas, et la disparition ... soudaine de la marquise, Donia Adela a dû s'absenter momentanément... de l'Eden.  Mais elle a laissé des instructions concrètes et spécifiques... auxquelles vous allez devoir obéir... au doigt et  à l'oeil. Je dis ça pour vous, bien sûr.h_ Thomas, Miguel, Trinidad et Milagro, qui sont les esclaves de confiance de Donia Adela, comme vous le savez, ont été assignés à une... à une tâche spécifique et vont devoir s'absenter. Quant à vous, vous poursuivrez vos tâches habituelles.h_ Ca ne va rien changer pour vous.. Ils seront sous ma responsabilité. Et je veux qu'ils soient libérés de toute autre activité. D'accord ? Vous pouvez repartir travailler. Qu'est-ce que vous attendez ?  (soupir) (soupir)
+
+(BOUCLE 35 - 00:23:00:11)
+		35
+
+AMB	(brouhaha rue animée)
+
+Isabel 2	(soupir) Grand-mère, je peux t'attendre dehors, s'il te plaît ? Je voudrais être dehors et profiter du soleil.
+
+Adéla	Tu sais, ma petite,... tu ne dois pas t' éloigner du spirituel. C'est peut-être pour ça que tout cela nous est arrivé.
+
+Isabel 2	Ah oui ? Eh bien j'ai tendance à croire que ce qui s'est passé est le résultat de tes mauvaises décisions.
+
+Adéla	Nous reprendrons cette conversation blasphématoire ailleurs que dans une église. Tu t'assieds sur un banc et tu attends que j'aie fini de me confesser Tu te tais, maintenant !
+
+(BOUCLE 36 - 00:23:38:06)
+		36
+
+Père Octavio	Je vous salue Marie pleine de grâce...
+
+Adéla	Le seigneur est avec vous. Je m'accuse, mon père, d'avoir péché. J'ai été une mauvaise fille de Dieu. h_ Je ne suis pas allée à la messe régulièrement ces derniers temps, je le confesse. Mais surtout, mon père, je m'accuse d'avoir eu... des pensées pécheresses,  diaboliques, même.
+
+Père Octavio	Des pensées diaboliques ?
+
+(BOUCLE 37 - 00:24:20:15)
+		37
+
+Adéla	Contre la marquise.
+
+Père Octavio	Contre la marquise ?
+
+Adéla	Oui.  Je confesse m'être surprise à plusieurs reprises à espérer que la marquise...n'existe plus Qu'elle disparaisse.
+
+Père Octavio	Qu'elle disparaisse... pour aller où ?
+
+Adéla	Ca m'est égal . Elle a disparu depuis hier h_  et je dois avouer que je préférerais qu'elle reste où elle est. Que Dieu me pardonne, mais je ne veux pas de cette femme pour mon fils, non! J'ai beau essayer je n'arrive pas à m'y faire.
+
+Père Octavio	Ce ne sont pas des sentiments dignes  d'une fidèle aussi pieuse que vous.
+
+(BOUCLE 38 - 00:25:01:08)
+		38
+
+Adéla	Que faire, mon père ? h_Lucia de Bracamonte représente tout ce que je déteste chez une femme.Elle est rebelle, h_ capricieuse, h_ elle refuse l'autorité... et le pire, c'est que... je suis sûre qu'elle cache quelque chose.
+
+Père Octavio	Mais que pourrait bien vouloir vous cacher une femme de si haut rang, enfin ?.
+
+Adéla	C'est une intuition, mon père. Je crois qu'elle cache un terrible secret.
+
+(BOUCLE 39 - 00:25:32:00)
+		39
+
+Eugénia	Mais où êtes-vous allée trainer, Lucia ?
+
+(BOUCLE 40 - 00:25:41:00)
+		40
+
+Adéla	Vous croyez vraiment que j'ai eu raison de faire venir d'Espagne cette marquise pour qu'elle épouse mon fils ?
+
+Père Octavio	Bien sûr, Adéla. Mais nous en reparlerons une autre fois. Maintenant vous seriez aimable de céder la place à la personne suivante.
+
+Adéla	C'est que...ce n'est pas tout, mon père. h_ A force de...tant de spéculations et de pensées négatives, h_  j'ai fini par faire quelque chose qui mettra Nicolas hors de lui.
+
+Père Octavio	Qu'est-ce que vous avez fait ?
+
+Adéla	J'ai écrit une lettre au couvent, en Espagne, h_ pour leur dire que suite au comportement suspect de la marquise, je souhaitais avoir confirmation de ses titres.
+
+Père Octavio	Quoi ? Vous avez fait ça ?
+
+Adéla	h_ C'est si grave, mon père ?h_hh_
+
+(BOUCLE 41 - 00:26:22:20)
+		41
+
+Soeur Alicia	(éructe) h_Au nom du Ciel, madame la Marquise, h_ nous n'aurions jamais dû partir si loin. h_Et dire que nous n'en sommes qu'au début.L'Amérique va être une aventure terrible et sauvage.
+
+Marquise	C'est une question d'honneur. Nous devons prévenir Nicolas Parrenio qu'il est tombé dans le piège d'une servante qui se fait passer pour moi Si quelqu'un doit être à ses côtés en tant qu'épouse, c'est moi. Et pas cette usurpatrice, cette sale voleuse.
+
+Soeur Alicia	Le voyage sera encore long?
+
+Marquise	Je vous l'ai déjà dit mille fois : encore un mois et demi,  et ce sans compter qu'il est prévu de faire escale sur une île.
+
+Soeur Alicia	Nous n'en sommes qu'à la deuxième semaine ... (soupir) Je préfèrerais passer l'éternité en enfer.
+
+Marquise	Je vais sortir prendre l'air .  L'odeur de cette cabine est devenue insupportable.
+
+Soeur Alicia	(vomit) h_ (vomit) h_hh_
+
+(BOUCLE 42 - 00:27:24:00)
+		42
+
+Père Octavio	J'ai fait tout ce qui était en mon pouvoir, sur votre demande, pour trouver une épouse espagnole à votre fils. Quoi ? Pas quoi ?
+
+Adéla	Non ! Non, non . Pas ça, non. h_ J'ai dit à Isabélita de m'attendre en priant sur ce banc, et elle a disparu. h_  h_Cette enfant me rendra folle.
+
+Père Octavio	Attendez, attendez ! Adéla ! Attendez.
+
+(BOUCLE 43 - 00:27:42:15)
+		43
+
+Isabel 2	Bonjour ! Gabriel est là ?
+
+Manuela	Non.
+
+Jesus	..Si. Je viens de le croiser dans la salle de musique. Mais ma soeur ne l'a pas vu aujourd'hui, elle ne savait pas. Fais comme chez toi, va le rejoindre.
+
+Isabel 2	Merci .
+
+Manuela	Merci pour ton soutien.
+
+Jesus	Qu'est-ce qui se passe ? Je ne comprends pas ton comportement .  Arrête de faire la sorcière.
+
+Manuela	Quelque chose à redire à mon comportement?
+
+(BOUCLE 45 - 00:28:50:03)
+		45
+
+Gabriel	Isabel ?  Mais qu'est-ce que tu fais là ?  Ne me dis pas que tu es partie de chez toi sans prévenir.
+
+Isabel 2	Non. J'accompagne ma grand-mère.
+
+Gabriel	On peut pas dire que ça me rassure.
+
+Isabel 2	Bon... en fait... elle, elle est à l'église. Et moi, j'ai décidé de passer te voir... h_ pour te demander pardon pour ce qui s'est passé la dernière fois qu'on s'est vus. Tu me pardonnes ?
+
+Gabriel	Il n'y a rien à pardonner.
+
+Isabel 2	(réac)  Tu es très doué pour le chant. Comme pour tout le reste. mmh  Mais je t'ai interrompu. Tu peux reprendre.
+
+Gabriel	Très bien. Alors... hh_
+
+Isabel 2	Tu es prêt? Allez.
+
+(BOUCLE 47 - 00:29:44:00)
+		47
+
+Adéla	(respiration haletante) Isabel !
+
+Père Octavio	Adéla ! Attendez !
+
+Adéla	Isabel !
+
+Père Octavio	Isabel est une grande fille. Elle n'est sûrement pas en danger, elle connaît la ville. (réac)
+
+Adéla	Cette fois, vraiment, c'est trop ! h_ La marquise qui disparait, h_ Nicolas qui n'est pas là, et maintenant c'est Isabel qui part sans rien dire ! h_J'ai même perdu Hilaria !
+
+Père Octavio	Non ! On va demander au général de nous aider à la retrouver.
+
+Adéla	(sniff) Isabel ! (respiration haletante) Le général n'est pas là. Il est parti chercher la marquise.
+
+Père Octavio	Eh bien, dans ce cas, poursuivons jusqu'au parc, et si on ne la trouve pas là-bas, je suggère que nous retournions à l'église. Elle est très certainement là-bas, à vous attendre.  Là... Ne vous en faites pas.
+
+Adéla	(respiration haletante) Je suis à bout , mon père.
+
+Père Octavio	Allez... Reprenons nos recherches. Allons voir si elle est au parc. Allez, on y va. En avant, ma fille.
+
+Adéla	hh_Je n'en peux plus.
+
+(BOUCLE 48 - 00:30:34:05)
+		48
+
+Gabriel	C'est incroyable, cette histoire de marquise.
+
+Isabel 2	Je doute qu'elle revienne .hh_ Je n'ai jamais cru à ses sentiments pour mon père. Pour moi, elle s'est tout simplement enfuie.
+
+Gabriel	Tu crois ?
+
+Isabel 2	Je la comprends. Tu sais, parfois, h_ je ... songe aussi à m'échapper. Partir d'ici. Partir très loin, pour pouvoir...   pour pouvoir être libre, pouvoir étudier...
+
+Gabriel	(réac) Etudier ?
+
+Isabel 2	Oui. Oui, bien sûr ! J'ai toujours eu une passion pour les sciences. Je rêve d'être médecin.
+
+(BOUCLE 49 - 00:31:14:01)
+		49
+
+Gabriel	C'est très bien, ça, d'avoir un rêve. On en a tous un.h_ ... mais tu dois être consciente de tes limites, tu sais, Isabel.
+
+Isabel 2	De quoi tu parles ?
+
+Gabriel	Tu le sais bien. C'est impossible  pour une femme d'étudier. Qui va t'accepter dans une faculté ?
+
+Isabel 2	Toi aussi tu veux me couper les ailes, hein? Si.
+
+Gabriel	Non. Non, non, non, non. Jamais je ne ferais ça. Jamais.
+
+Isabel 2	Tu en es sûr ?
+
+Gabriel	Je raconte des bêtises.  Je te propose qu'on aille manger. Ce matin il y a des gateaux au tamarin, ils sont délicieux. Tu viens ?
+
+(BOUCLE 50 - 00:31:50:19)
+		50
+
+Gabriel	Voilà. On a tout ce qu'il faut.Alors, c'est bon ? (rire)
+
+Isabel 2	Délicieux Mmh. Chez moi, je ny'ai pas tellement droit.  Ma grand-mère...n'a toujours pas compris  que je vais très bien. Mmh...
+
+Gabriel	Elle finira bien par comprendre que tu n'es pas malade. Patience.
+
+Isabel 2	Je vais demander à une de nos esclaves de m'en faire un. A ce que je sache, la seule à connaitre la recette était Hilaria.
+
+(BOUCLE 51 - 00:32:20:22)
+		51
+
+Manuela	Si tu veux la recette, je te la donne. Bien sûr. Avec plaisir. Je t'en prie.Bon... pardonnez cette interruption, h_ mais je suis obligée de te demander, surtout après le scandale de la dernière fois,si tu es venue ici toute seule.
+
+Isabel 2	Mmh ? Ce serait gentil. Merci. Non. Ma grand-mère devait se rendre à l'église,  alors j'ai décidé de me balader en attendant qu'elle ait terminé, car je suis une femme indépendante.Oh...
+
+Manuela	Mmh. Bien sûr. h_ Adorable... Bon... je vous laisse.
+
+Isabel 2	D'accord. Merci.  Oh ! Gabriel, qui est cette personne étrange ? Qui c'est,  cette femme qui porte un voile ?
+
+Gabriel	Shhhht ! Chut ! Chut ! C'est une voyante africaine qui est là pour euh... recevoir des clients à la pension.
+
+Isabel 2	Gabriel ! C'est la meilleure nouvelle du monde ! On va lui demander si elle sait où se trouve la marquise !
+
+Gabriel	Att... Attends ! Attends !
+
+(BOUCLE 52 - 00:33:16:04)
+		52
+
+Abdul	J'ai parcouru Santa Marta de long en large, h_j'ai les pieds en compote.Mais la bonne nouvelle,h_ c'est que tu vas avoir une floppée de clients.
+
+Lorenza	Tu as bu, n'est-ce pas ?
+
+Abdul	hh_ Oh, Ayo...N e fais pas la surprise.. Je suis bien obligé d'être sociable, d'aller vers les gens. Si on m'offre un verre, hors de question que je le refuse. Tu vas me reprocher de m'investir dans mon travail ? Tout ce que je fais, c'est pour ton avenir.
+
+Lorenza	Non, non. Je m'inquiète pour ta santé.Tu ne devrais pas boire à jeun, Abdoul.
+
+Abdul	mts
+
+(BOUCLE 53 - 00:33:50:04)
+		53
+
+Isabel 2	Il y a quelqu'un ? Je voudrais savoir si la voyante peut me recevoir.
+
+Abdul	Oui ! Tu te rends compte ? Mes méthodes fonctionnent. Tu peux avoir totalement confiance en moi. La grande Ayotoundé va vous recevoir. Mais vous devrez patienter le temps qu'elle se concentre pour entrer en contact avec ses ancêtres.
+
+Isabel 2	Pourriez-vous lui demander les contacter le plus vite possible ? C'est que je suis un peu pressée, si ma grand-mère apprend que je...
+
+(BOUCLE 54 - 00:34:22:21)
+		54
+
+Rémédios	(Notre Père qui es au cieux, que ton nom soit sanctifié, que ton règne vienne... sur la Terre comme au ciel. Donne-nous notre pain de ce jour. Pardonne-nous nos offenses...)
+
+Milagro	Ca y est, ils arrivent ! hh_ Non, Don Nicolas et Julian.
+
+Rémédios	Miguel et Victoria ? hh_
+
+Milagro	(respiration saccadée)
+
+(BOUCLE 55 - 00:34:52:10)
+		55
+
+AMB	(brouhaha)
+
+Julian	x x (soupir)
+
+Candéla	Julian, où sont Hilaria et Diosdado ? A qui les avez-.vous vendus ?
+
+Julian	Arrête de faire la commère, Candéla.
+
+Candéla	Je ne fais pas la commère. J'ai besoin de savoir ce qui leur est arrivé.Parce qu'il s'agit de mon homme.
+
+Julian	Je suis épuisé. Je vais aller manger.
+
+(BOUCLE 56 - 00:35:25:01)
+		56
+
+Nicolas	Il n'y a personne ?. Où sont passées les femmes de cette maison ? Répondez, Rémédios. Où sont-elles ?
+
+Rémédios	Don Nicolas... La marquise... a disparu.
+
+Nicolas	Q'est-ce que vous me racontez ? Comment ça, la marquise a disparu ?
+
+Rémédios	Don Nicolas je vous prie de garder votre calme Votre mère et Isabel sont allées à Santa Marta pour la retrouver ...h_ Elles ont lancé une patrouille de recherches  avec des surveillants et des esclaves qui fouillent toute la zone entre la mer et le fleuve.
+
+Nicolas	Mais dites-moi comment ça a encore pu arriver !?
+
+Rémédios	Je ne sais pas.
+
+(BOUCLE 57 - 00:36:02:04)
+		57
+
+Nicolas	hh_ Nom de Dieu! Pas une seule seconde de répit.
+
+Milagro	Pardon, maître. Vous avez de la visite.
+
+Bumba	Nicolas, je sais où est votre épouse.
+
+Nicolas	Toi, tu sais où est mon épouse?
+
+Bumba	Il faudrait qu'on en parle en privé.
+
+Rémédios	Je ne bougerai pas d'ici. Je dois savoir.  Je suis responsable de tout ce qui concerne la marquise.
+
+Bumba	La marquise est chez Eugénia.
+
+Rémédios	Elle est chez Eugénia depuis hier ?
+
+Bumba	C'est ça.
+
+Nicolas	Mais que fait Lucia chez Eugénia ?
+
+Bumba	Elle était très remontée. Elle a posé des questions à Eugénia à propos de la nature de vos relations.
+
+(BOUCLE 58 - 00:36:39:12)
+		58
+
+Nicolas	Je n'ai aucune relation avec Eugénia. Ce sont des calomnies, rien que des racontars !
+
+Bumba	En tout cas, la marquise y a cru, et elle est persuadée... que tous les deux, vous entretenez une romance.
+
+Nicolas	Mais c'est faux. Tout cela est faux ! Comment elle a su que... Et je peux savoir ce que vous avez dit à Lucia ?
+
+Bumba	Elle et Eugénia ont discuté.
+
+Nicolas	Bon Dieu...
+
+Bumba	C'est pour ça qu'il faut que vous veniez. Eugénia a tout fait pour la calmer, mais face à unejalousie pareille, inutile d'argumenter.
+
+Nicolas	h_hh_
+
+(BOUCLE 59 - 00:37:18:02)
+		59
+
+AMB	(rue animée)
+
+Isabel 2	hh_ Non. Je fais juste ça pour tuer l'ennui et... pour m'occuper un peu.
+
+Gabriel	Tu crois vraiment à ces choses-là ? Ah !? (rire) Tu t'ennuies donc autant avec moi ?
+
+Isabel 2	Non, non non. Je voulais dire... euh... qu'il m'arrive souvent de m'ennuyer, alors...
+
+Abdul	Seulement la demoiselle. Ca vous coutera deux réals.,  s'il vous plait.
+
+Isabel 2	Oui.
+
+Gabriel	Prédire l'avenir, ça n'a pas de prix.
+
+Abdul	Vous pouvez le dire, jeune homme. h_ La voyance est un art millénaire, et c'est un savoir qui se valorise. Merci. Veuillez entrer.
+
+(BOUCLE 60 - 00:37:57:17)
+		60
+
+Abdul	Qui est cette jeune fille si distinguée ? Hein ?
+
+Gabriel	h_Cette jeune fille...  est la fille de Nicolas Parrenio, l'un des plus grands propriétaires de la région. Alors vous feriez mieux de la  traiter correctement .
+
+Abdul	Cela va sans dire. Bien sûr. Vous n'avez aucun souci à vous faire.
+
+Gabriel	Tant mieux. (soupir)
+
+(BOUCLE 61 - 00:38:29:05)
+		61
+
+Miguel	Pssst ! Pssst ! Psst ! Milagro !
+
+Milagro	h_ Miguel ! Comment tu as réussi à entrer sans que personne ne te voie ?
+
+Miguel	Tout va bien. Personne ne m'a vu et personne ne me verra.h_hh_
+
+Milagro	Et lui, il est avec nous ?
+
+Miguel	Oui. Et Bumba est de mèche.
+
+Milagro	hh_  Comment va Victoria ?
+
+Miguel	Elle va bien.  Je te raconterai. Qu'est-ce qui s'est passé ici en mon absence ?
+
+Milagro	Rémédios a trouvé un moyen d' expliquer tout ça. Maintenant... Tu  dois aller te mettre à l'abri . hh_ Cours, va là où on a fait la veillée de Rosita. Trinidad est sur place, il t'attend.  Vas-y,fais vite.  Passe par derrière les baraques.
+
+(BOUCLE 62 - 00:39:28:18)
+		62
+
+Adéla	Je crois qu'elle ne viendra pas. hh_h_ Je ne la vois pas. Et tous ces gens qui vivent leur vie comme si de rien n'était.
+
+Manuela	Donia Adéla ? Ah, bonjour.
+
+Adéla	Et vous êtes qui ?
+
+Manuela	Manuela Pimentel, de la pension Pimentel, un peu plus bas dans la rue. Notre table est très réputée.
+
+Adéla	C'est le cadet de mes soucis.
+
+Manuela	Excusez-moi.Je pensais que ça vous intéresserait, vu que votre petite-fille fait partie de nos clients et qu'elle a particulièrement apprécié la cuisine aujourd'hui.. Mais... je me suis trompée.
+
+Adéla	Pardon ! Isabel est là-bas ?
+
+Manuela	Oui. Je lui ai parlé tout à l'heure. Vous ne le saviez pas ?
+
+Adéla	Où se trouve la pension ?
+
+Manuela	Au bout de la rue de la banque. h_
+
+Père Octavio	Merci. Merci beaucoup, ma fille. Adéla ! Attendez-moi. Adéla, attendez !
+
+(BOUCLE 63 - 00:40:10:24)
+		63
+
+Isabel 2	Mmh... Et... quelles techniques de divination utilisez-vous, au juste ? Je m'y connais un peu, j'avais une esclave qui savait lire dans le tabac.
+
+Lorenza	Chut !   Prenez-les,  pour qu'ils absorbent votre chaleur. Pendant ce temps, pensez à une question et gardez-la bien dans votre tête.
+
+Isabel 2	C'est que dans ma tête, les questions se bousculent un peu trop.
+
+Lorenza	Vous n'avez payé que pour une question, mademoiselle. Mais il arrive qu'une question entraîne plus de réponses que prévu.
+
+(BOUCLE 64 - 00:40:47:17)
+		64
+
+Victoria	Nicolas n'arrive pas. Il n'est peut-être pas encore rentré.
+
+Eugénia	Du calme, Lucia. Si ça se trouve il est déjà en route.
+
+Victoria	Et s'il n'avait pas cru l'histoire de Boumba ?
+
+Eugénia	(soupir) Ah, mon Dieu... Ne voyez-vous pas qu'avec lui, il vous suffit de lever le petit doigt ? Regardez-vous dans un miroir. Vous savez pertinemment de quel genre d'homme il s'agit.
+
+Victoria	Oui, je sais.
+
+Eugénia	C'est un homme, il adore que les femmes se déchirent pour lui. Il n'est que pur ego. Et après tout ça,  vous me remercierez. Vous savez ce qu'il vous faut, Lucia ? Un verre.
+
+Victoria	hh_ Non. Merci. Je ne veux rien qui vienne de vous.
+
+(BOUCLE 65 - 00:41:17:04)
+		65
+
+Eugénia	Ne me détestez pas. Je fais ce qu'il faut pour vivre la vie que je mérite, c'est tout.
+
+Victoria	Je ne vous déteste pas. h_  La haine m'a fait prendre de mauvaises décisions. Et me voilà dans cette situation. Je pensais que nous étions amies !
+
+Eugénia	Oh, je vous en prie, gardez ça pour quand viendra votre mari.
+
+Victoria	(rire)  Evidemment, h_ vous faites toujours ce dont vous avez envie. Mais vous vous fichez  bien de mes problèmes, puisque vous m'obligez à voler la cargaison de Nicolas.
+
+Eugénia	Mmh mmh. h_ Dans ce cas, expliquez-moi tout, marquise.
+
+Victoria	Je veux juste qu'il n'arrive rien à Miguel.
+
+Eugénia	Dites-moi une chose, Lucia. Ce fut le coup de foudre pour Miguel dès votre arrivée à l'Eden, ou la passion a grandi peu à peu entre vous ? (respiration haletante)
+
+Victoria	(réac) h_ Pour vous, la passion est forcément fugace. Vous êtes incapable de comprendre.Et vous savez quoi ? J'ai de la peine pour vous. De la peine.

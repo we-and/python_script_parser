@@ -1,0 +1,300 @@
+(SINATRA)
+
+
+
+FILLE	Vous êtes ?
+FRANK	Bonjour, je suis Frank Sinatra !
+FILLE	Comment ? Ooooh !
+LESLEY	Il avait cette magie en lui, une authentique magie.
+WARREN	Frank Sinatra, c’est une success-story à l’américaine, fils d’immigrants qui devient une immense vedette, et accessoirement plus grand chanteur du monde de l’époque.
+MARK	Il représentait le parfait américain.
+MARTIN	D’après moi, il était si bon parce qu’il était tout à fait naturel.
+PETER	Il était très banal, finalement, tout le monde pouvait s’identifier à lui.
+TRIS	Cet énorme artiste pouvait chanter une chanson qui allait avoir une signification différente selon l’auditeur, c’est ça un grand artiste.
+TOM	Sinatra a signé la bande originale de la vie de l’Amérique et de bon nombre de personnes autour du globe.
+PAUL	 de ses chansons ont été classées dans le Top .
+DAVID	Il a enregistré des milliers de chansons.
+TONY	Quand vous êtes lié à votre chanson, à votre public, un genre d’hypnose collective se déroule. Il pouvait vous faire pleurer rien qu’en lisant les pages jaunes.
+SIR	C’est probablement le chanteur le plus populaire du ème siècle.
+ALICE	C’est la première rock star.
+CHARLES	Une véritable icône.
+TONY	Et au final, malgré son succès international, Frank était un gars normal.
+FRANK 	J’ai connu des problèmes dès le début. Je suis né le  décembre , on m’a raconté que c’était un jour très pluvieux. Et dès ma naissance, il y a eu problème. Je ne voulais pas sortir ! 
+FRANK	Le docteur a utilisé un forceps pour me déloger et a endommagé une partie de mon cou, de mon oreille tout comme mon visage. Il a dû me sortir pour sauver la vie de ma mère. Ma grand-mère, qui savait déjà que j’allais donner du fil à retordre, a tout de suite su quoi faire. Elle m’a passé sous l’eau froide, m’a un peu secoué et fait circuler mon sang. Et me voici parmi vous aujourd’hui. Puis j’ai grandi, pas énormément non plus, comme vous le voyez ! 
+FRANK 	J’ai grandi dans une famille modeste et merveilleuse, fils unique, car ma mère ne pouvait plus avoir d’autres bébés. Mon père était boxeur professionnel et il était engagé par les contrebandiers d’alcool pour surveiller leurs camions. C’était un dur à cuire. Son travail était de suivre les camions transportant de l’alcool pour qu’ils ne soient pas détournés. Je me souviens qu’une nuit, j’ai été réveillé par des sanglots et des pleurs. Mon père avait été victime d’un guet-apens et avait été frappé à la tête, il avait le crâne fendu, le sol de la cuisine était recouvert de sang, ma mère en était devenue folle. C’est ce jour-là que j’ai compris que j’étais dans la famille idéale. Après cet évènement, il a logiquement ouvert son propre bar, ce qui était plus calme que de suivre un camion de contrebande.
+TONY	En quittant l’école, il se rendait directement dans le bar de son père, le Marty O’Briens, où se trouvait un piano. Les clients réguliers savaient que Frank poussait la chansonnette, parce qu’il rendait visite à son père depuis son plus jeune âge et tous lui demandaient de chanter. Il s’installait sur le piano avec un mégaphone et chantait. Mais c’était une distraction pour la clientèle, parce qu’ils essayaient de jeter les pièces dans le mégaphone pour les lui faire avaler. Frank était très intuitif et a rapidement su ce qu’il voulait faire. Sa mère lui a acheté un amplificateur et un micro quelques années plus tard, donc il avait son propre équipement, ce qui lui a permis de jouer dans plusieurs quartets et trios du New Jersey, et de faire circuler son nom.
+TONY	Un jour, Frank dit à son père qu’il veut entrer dans le show business et qu’il veut être chanteur. Son père lui a répondu, « si c’est ce que tu veux faire, fais-le, mais ne t’attends pas à ce que je t’aide financièrement, alors fais tes valises, et pars ». Frank a fait ses valises, est sorti du domicile parental et une fois dans la rue, il s’est demandé ce qu’il allait devenir.
+PAUL	D’après moi, Sinatra doit sa carrière au concours de chant amateur de Major Bowes.
+MAJOR 	Nous allons maintenant écouter les Hoboken four, qui se sont surnommés les fous chantants !
+PAUL	C’était un programme au cours duquel les participants montraient leur talent au présentateur, Major Bowes, qui était susceptible de leur ouvrir les portes de la gloire et Sinatra a tout donné.
+MAJOR 	Qui est le porte-parole du groupe ?
+FRANK 	C’est moi, je suis Frank. Nous recherchons du travail, sachez qu’une fois que vous nous entendrez, vous allez adorer.
+PAUL	Sinatra est clairement le leader, mais il n’est pas artiste solo, il est juste membre des Hoboken Four. Mais ce que Sinatra est devenu, il l’était déjà au cours des années . Il est amusant de constater que ce genre de programmes est revenu en force ces dernières années et sont devenus très populaires. Et sachez que les premiers vainqueurs ont été Sinatra et les Hoboken four.
+SIMON	Les Hoboken Four remportent donc le concours de talents en , et une tournée de six mois à travers les Etats-Unis, diffusée sur les ondes radio. Mais une fois terminée, il ne restait plus rien, c’est alors qu’il commence à négocier des concerts pour lui-même, il allait de ville en ville, chaque soir et chantait pour les gens. Sa mère lui a ensuite trouvé un travail de serveur chantant dans un restaurant. Il a connu une période difficile, son succès n’est pas arrivé du jour au lendemain. Et c’est à cette époque qu’il va épouser son amour de jeunesse, Nancy Borbato.
+TONY	Elle l’a soutenu lors des années de vache maigre, pendant qu’il se tuait à devenir quelqu’un. Elle l’a toujours soutenu. Elle était secrétaire juridique et c’est elle qui nourrissait la famille, ce qui, pour un italo-américain, surtout à l’époque, était assez mal vécu.
+PETER	Il est frappant de constater à quel point il était débrouillard et intelligent, au point de travailler gratuitement parfois pour faire avancer sa carrière.
+TONY	Le cousin de Frank, Ray Sinatra, faisait partie de l’orchestre maison de la NBC. Ray a beaucoup aidé Frank ; par exemple, si un chanteur ne pouvait venir, alors Frank était immédiatement appelé pour le remplacer.
+TONY	Harry James a entendu une de ces émissions, et a aimé. Frank adorait l’orchestre de Harry James, à ses yeux, les deux meilleurs orchestres de l’époque étaient celui de Harry James et de Tommy Dorsey.
+TONY	Il était surexcité à l’idée de rencontrer Harry, ils se sont immédiatement bien entendu. Et Frank est parti sur les routes avec lui.
+PETER	Il a travaillé sa voix en permanence pour la faire sonner différemment. Tommy Dorsey a rapidement réalisé à quel point il était bon chanteur.
+TONY	Puis Tommy Dorsey a commencé à entendre parler de ce jeune chanteur, puis a approché Harry pour prendre Frank sous son aile. Harry aurait souhaité bonne chance à Sinatra et lui aurait également conseillé de s’assurer que Tommy le paierait plus que lui.
+PAUL	C’est en observant Dorsey jouer du trombone que Sinatra a appris à respirer.
+TONY	Il a étudié en profondeur la manière dont Tommy maîtrisait sa respiration pour faire la même chose avec sa voix.
+TONY	Il savait que sa popularité allait en croissant.
+PAUL	Sinatra est alors numéro un des classements des ventes en  pendant  semaines grâce à Tommy Dorsey, avec le morceau i will never smile again.
+TONY	Tommy a senti que son employé commençait à lui faire de l’ombre sur scène. Les gens venaient surtout pour voir Frank et Tommy a commencé à mal le prendre. C’était quelqu’un de très explosif et têtu, qui buvait beaucoup. Sinatra était également explosif, et il leur arrivait souvent de se battre. Au bout d’un moment, Frank a souhaité partir. Il sentait que le moment était venu. Tommy lui propose alors de signer une rupture de contrat conventionnelle, ce que Frank va faire. Et au bout du compte, au lieu de seulement payer  % de ses gains futurs à Tommy, il devait également verser % à l’avocat qui avait dressé le contrat. Frank avait du mal à soutenir cette pression financière, c’était invivable pour lui. Figurez-vous qu’un jour, Andy Sacks, Henry Jaffe et Lou Wasserman vont voir l’agent de Frank et lui disent « Frank vous quitte et part avec nous. » Ils lui avaient décroché un contrat chez Columbia. Figurez-vous que l’argent qu’ils ont reçu de Columbia est directement allé dans les poches de Tommy, ce dernier était bien plus qu’heureux. Je crois qu’en monnaie actuelle, ça devait représenter  dollars, en liquide.
+TONY	Et après avoir quitté le Tommy Dorsey Band, il va devenir la première rock star de l’histoire.
+PAUL	C’est alors qu’à lieu une des plus grandes transitions de l’histoire de la musique. Le chanteur n’est pas un membre du groupe, mais un artiste solo.
+WILL	Lorsqu’il quitte Dorsey en , le chanteur le plus populaire de l’époque est Bing Crosby, qui chantait accompagné d’un orchestre et de quatre violons.
+WILL	Lorsque Sinatra débute en solo, peu de personnes ont alors entendu parler de lui. Il va cependant insister pour avoir douze cordes derrière lui. Il fallait que ce soit plus fort, plus ambitieux, c’est ainsi qu’il se différencierait de Crosby, mais aussi de Perry Cromwell ou Dick Haynes.
+SIR	C’était un chanteur qui réagissait à ce que faisait son orchestre. C’était comme s’il conversait avec la musique.
+ERIC	Quand il chantait, il y avait une incroyable élégance dans sa diction, mais elle était tout à fait naturelle. Elle n’était aucunement travaillée.
+MARK	Sa voix est trop sous-estimée. Elle était enveloppée d’une impression d’intimité, on avait l’impression qu’il nous susurrait les paroles à l’oreille.
+WILL	Sinatra était unique parce que visionnaire. En , il est un chanteur de ,  ans, qui sait déjà quelle voie suivre. Il sait quelle musique est la plus populaire et ce qu’il doit faire pour que la musique populaire devienne bien plus que ce que les gens imaginaient à l’époque.
+NEWS 	Nos valeureux soldats, sur le front européen repoussent l’ennemi kilomètre après kilomètre, mètre après mètre.
+MARTIN	Les astres étaient alignés. C’était la guerre, les hommes étaient au front, les femmes étaient contraintes de travailler et gagnaient donc de l’argent. La révolution féministe et la frustration sexuelle se sont fondues pour donner un mélange détonnant.
+FILLE 	Dès que l’école se termine, nous nous rendons au magasin de disques pour y passer des heures à écouter de la musique.
+TOM	Quand Sinatra chante « All or nothing at all », il sait sur quoi il chante. Les adolescentes savent sur quoi il chante et lui, sait qu’elles savent.
+TOM	C’est l’entrée du sexe dans la musique populaire.
+MARK	Frank est la première personne à entrer en connexion avec une génération d’adolescents. C’est ainsi que sont nés les fans. Ce ne sont pas les Beatles qui en sont à l’origine, mais Frank.
+LOUIS	Il plaisait aux femmes et le savait. Dès le début, il savait exactement comment se servir de cet atout.
+ALICE	C’est le premier chanteur à avoir rendu les femmes hystériques.
+NEWS 	Au théâtre Paramount de New York, la foule se bouscule pour voir Frank Sinatra débuter une série de concerts de trois semaines.
+PAUL	Imaginez  femmes hurler pour entrer dans un théâtre.
+ALICE	Le Paramount de New York n’avait jamais connu ça, les jeunes femmes se bousculaient pour toucher Sinatra. Si ça, ce n’est pas une rock star, alors je ne sais pas ce que c’est.
+WILL	Les femmes appréciaient Bing Crosby, d’autres appréciaient Benny Goodman, mais Sinatra, c’était de l’amour fou.
+MARTIN	Elles ont commencé à mettre des photos de lui sur leurs affaires, puis à coudre son nom sur leurs vêtements. Elles collectionnaient tout ce qui le concernait. Elles ont commencé à suivre le courant de mode que l’on appelle les bobby-soxers et les garçons ont commencé à porter le nœud papillon pour faire comme Sinatra. L’industrie de la mode est alors en plein essor.
+FILLE 	La bobby-soxer porte des jupes et des chaussettes courtes.
+MARTIN	Les graines d’une industrie de plusieurs milliards de dollars sont alors plantées. Elle est née suite à ces concerts new yorkais des années . 
+MARTIN	Les filles bien sous tous rapports, qui n’avaient pas le droit de se laisser-aller,… ont soudainement eu la permission de le faire en public. Elles devenaient folles dans des salles de concert, hurlaient aussi fort que possible et relâchaient de la dopamine à ne plus savoir qu’en faire, la dopamine étant la substance du plaisir relâchée par le cerveau.
+MARK	Les adolescentes qui se trouvaient face à leur idole n’ont pas seulement vu en lui un magnétisme animal, du charme et du sex-appeal. Elles voyaient un homme d’influence et prospère, capable de les protéger et de leur montrer des choses magnifiques.
+MARTIN	Durant la seconde guerre mondiale, les vedettes sont John Wayne, un homme silencieux et stoïque, ou Gary Cooper, ils étaient les mâles vedettes de l’époque. Ils ne montraient jamais leurs émotions. S’ils pleuraient, c’était intérieurement, ils ne laissaient jamais rien transparaître, Sinatra, c’était l’opposé. Sinatra vous offre ses émotions, quand il se sent d’humeur romantique, on le sent. Tout ce qu’il pense, on le ressent. Les hommes n’avaient pas pour habitude de montrer leur sensibilité à l’époque.
+WILL	Sinatra était % honnête émotionnellement. S’il se sentait bien, il vous le faisait savoir, s’il se sentait triste, il vous le faisait savoir. S’il vous aimait, il vous le faisait savoir. S’il vous haïssait, il vous le faisait savoir, et à ce niveau-là, il aurait même dû se taire parfois. Il était honnête et mettait tout dans ses chansons. Chaque mot avait son importance. Nous savions tout ce qu’il ressentait, c’était un véritable livre ouvert.
+TONY	Il chantait sans filtre, il n’avait pas peur de montrer sa vulnérabilité au public.
+ERIC	Il a tout mis de lui dans ses chansons, au point de donner naissance à un nouveau genre de chanteur, qui avait le droit à la névrose. Bing Crosby n’y était pas autorisé et lui-même ne se le serait jamais permis s’il avait pu. Sinatra le pouvait et a ouvert la voie à la révolution du rock qui a suivi. Où les artistes avaient l’autorisation de se montrer sans fards.
+WILL	Sinatra n’avait pas le style d’une rock star, mais les rock stars ont le style Sinatra.
+PAUL	Les grandes vedettes précédant Sinatra ne laissaient pas leur côté sombre être vu en public. Le rock and roll pense avoir tout inventé, mais c’est Sinatra qui en est à l’origine.
+TOM	Tout le monde comprend alors que Sinatra fait ce qu’il souhaite.
+PETER	Il a souvent été blessé dans son ego, c’est pourquoi il a déclaré la guerre aux journalistes qui l’assassinaient dans leurs papiers.
+FRANK 	Dans ce pays, il existe des parasites. Ils prennent, prennent et prennent encore, mais ne donnent jamais rien.
+PETER	Il savait pertinemment que ce genre de déclarations plaisait et qu’elles le rendraient sympathiques aux yeux du grand public. Il faisait sentir qu’il était en pleine bataille, transcrite dans sa musique d’ailleurs, et qui a mené à une transcendance du divertissement. Il a mené le divertissement vers une autre dimension.
+TONY	Il était au gouvernail de son propre bateau, il sélectionnait les chansons, sélectionnait ses arrangeurs.
+WILL	L’idée de l’époque est que la musique populaire donnait dix nouvelles chansons une semaine, dix autres, la suivante. Sinatra est alors le seul à remettre au goût du jour des chansons vieilles de trois, cinq ou six ans en en faisant des reprises. Ce n’étaient pas des chansons contemporaines, mais elles étaient bonnes.
+TONY	Il va poser son empreinte sur toutes les chansons qu’il reprend, il n’y avait pas d’autre manière de faire selon lui.
+RECORD	Frank Sinatra, troisième prise ! 
+WILL	La moitié des chansons enregistrées par Sinatra chez Columbia sont de vieilles chansons. Et personne ne comprend sa démarche à l’époque, personne dans le monde de la musique n’imagine qu’une chanson peut avoir une durée de vie de plus d’une semaine. Ce qu’il a fait est radical. Et au milieu des années , il est responsable de chaque note qu’il chante. Le fait qu’il décide d’enregistrer un album entier en  est une démarche d’inédite. Et c’est une de ses propres décisions.
+TOM	Dans les années , il n’y a pas de télévision, pas d’internet, pas de youtube. À l’époque, pour se faire connaître, il faut jouer dans des films, c’est donc pour cela que Frank Sinatra décide de faire son entrée dans le monde du cinéma.
+MARTIN	La mélancolie transmise par sa voix lui a permis d’être adoré par les jeunes femmes, mais quand il est devenu acteur, l’adoration s’est mue en amour.
+PAUL	Les gens sont toujours étonnés quand une vedette de la musique devient un acteur crédible, personnellement, je trouve ça naturel.
+TOM	Dans ses premiers films, Sinatra ne fait que des apparitions en tant que chanteur.
+TOM	Le tournant de sa carrière se fait grâce au film « Escale à Hollywood », il se retrouve seul sur la scène du Hollywood Bowl, la caméra s’approche de lui et il commence à chanter « i fall in love too easily ».
+TOM	C’est à ce moment que tout va changer pour lui, il devient une vedette de cinéma.
+NEWS 	Frank Sinatra a reçu une excellent nouvelle de la part du directeur de production de la MGM, Lewis B. Mayer.
+LEWIS 	Frank, je suis heureux de t’annoncer que les lecteurs de Modern String Magazine t’ont élu acteur le plus populaire de l’année .
+FRANK 	Merci, monsieur Mayer.
+TOM	Puis tout s’est écroulé.
+FRANK 	 a annoncé le début d’une période très noire de ma carrière, ce n’est un secret pour personne, mais il m’était impossible de me trouver un boulot.
+TOM	Tout s’est écroulé parce qu’il a fait une mauvaise blague à Louis B. Mayer en public, qui l’a convoqué dans son bureau le lendemain pour le renvoyer et lui dire qu’il était fini. Et bien évidemment, à l’époque, ses ventes de disques s’effondrent également, car les adolescentes sont devenues des adultes.
+SIMON	Au début des années , les temps sont durs pour Sinatra, sa côte de popularité est au plus mal. Les styles de musique évoluent et les jeunes de l’époque s’intéressent à d’autres styles musicaux.
+SIMON	Sinatra pense alors que sa carrière est fichue à cause du nouveau directeur artistique de chez CBS records, Mitch Miller. C’était un musicien de formation classique pour qui la musique populaire est vulgaire et pour qui le fait que les disques de musique populaire puissent se vendre comme des petits pains est une aberration. Il sera à l’origine de chansons comme « How much is that doggy in the window », « if she wears red feathers » et « hula hula skirt ».  Sinatra les détestait et le détestait lui.
+TONY	Il a eu du mal à la fin des années , début . Il ne vendait plus un disque. Et Mitch Miller ne cessait de lui dire qu’il devait chanter des nouveautés qui deviendraient des tubes.
+PAUL	Il n’était pas heureux avec Mitch Miller, car il lui proposait des chansons dépassées avant même d’être sorties. Et je crois qu’il a touché le fond lors de son duo avec Dagmar.
+FRANK 	Dagmar !
+DAGMAR	
+Monsieur Sinatra ?
+FRANK 	En personne !
+DAGMAR 	Que vous arrive-t-il ?
+FRANK 	Vous me faites tourner la tête. Oh, vous voilà !
+AVA 	Je voulais le revoir de mes yeux. Il ne changera jamais.
+LESLEY	Frank et Ava vont se rencontrer dans le réfectoire de la MGM. Ava déjeunait avec Mickey Rooney, son nouveau mari, qui était alors la plus grosse vedette de l’écurie.
+MICKEY 	Que se passe-t-il, je suis étourdi. Cupidon m’a touché !
+LESLEY	Frank est passé devant leur table, a regardé Ava et ne l’a plus lâchée des yeux. Il lui aurait dit toi, si je t’avais vue en premier, j’aurais fait de toi mon épouse. Ils sont tombés amoureux au premier regard et ça a été explosif.
+TONY	Frank m’a dit un jour « nous étions à Palm Springs, à la maison, nous avons dîné, puis nous sommes mis à boire. Alors nous sommes partis à bord de ma Cadillac décapotable, avec un fusil, j’ai conduit dans Palm Springs en pleine nuit et on tirait sur les lampadaires. » Ils étaient du genre à bien s’amuser.
+LESLEY 	Sinatra était au sommet dans les années , et a atteint son paroxysme en . Au moment où il la rencontre en , il est sur la pente descendante, alors qu’elle est sur l’ascendante. Il ne l’a pas vraiment bien vécu.
+TONY	Leur relation va faire scandale à l’époque, souvenez-vous que nous sommes dans les années . Un homme marié avec des enfants qui s’affiche avec une autre femme, une énorme vedette en plus. C’était l’Angelina Jolie de l’époque.
+LESLEY	Leur romance était publique. Au point que Nancy ne pouvait rien faire, elle a dû le laisser partir.
+TONY	Nancy m’a un jour dit qu’il revenait toujours la nuit. Et elle a uniquement signé les papiers de divorce, parce que sa relation adultère risquait de coûter trop cher à Frank professionnellement parlant.
+LESLEY	Lorsqu’ils se marient en novembre , leur relation était déjà terminée. 
+TONY	Frank m’a confié, plusieurs années plus tard, toute passion brûlante est destinée à devenir cendres.
+LESLEY	Ils avaient tant en commun, sans en avoir vraiment conscience. Mais si elle avait été un homme, elle aurait été lui. Et si lui avait été une femme, il aurait été elle. Leur couple n’avait aucune chance.
+LESLEY	Ava a dit qu’en comptant les moments de tournage, ils n’ont été mariés que six ans. En , elle est enceinte et en Afrique pour le tournage de Mogambo. Tous les matins, elle était victime d’affreuses nausées. Et au même moment, Frank entend parler du casting de « Tant qu’il y aura des hommes », l’adaptation du roman de James Jones, il convoitait le rôle de Maggio, l’italien, qui lui allait comme un gant. Mais les studios ont refusé, parce qu’il n’intéressait personne à l’époque. Il va alors harceler tout le monde, dont Ava, malade, qui se trouvait en Afrique et a été contrainte d’appeler tous ses contacts et de jouer des coudes pour qu’il obtienne ce rôle.
+TONY	Harry Cohn était compositeur à l’époque ou Sinatra chantait avec des orchestres. Il est parti de compositeur pour arriver à la tête de Columbia et il lui a dit qu’il ne lui donnerait même pas d’opportunité de casting pour ce rôle, parce que c’était un rôle dramatique, et que d’après lui, Frank était fait pour chanter et danser. Frank était alors toujours marié à Ava, qui a appelé l’épouse de Cohn et l’a suppliée de parler à son mari.
+TOM	Ava Gardner a dit qu’il n’y avait qu’un homme pour ce rôle et que cet homme était son époux.
+TONY	Sinatra reçoit un appel, s’envole pour Hollywood pour le casting et le réalisateur lui demande alors d’improviser et de jouer Maggio, ce garçon des rues. Au cours de cette scène, Frank doit être sous l’emprise de l’alcool, accoudé au comptoir d’un bar. Frank va se saisir de deux olives qui se trouvent dans une tasse, les secouer et les jeter au sol comme si c’étaient des dés.
+FRANK 	Un petit cinq. Et sept, mince ! Perdu !
+TOM	C’est la signature de Frank Sinatra, secouer des dés imaginaires en chantant « Luck be a lady ».
+TONY	Cohn a dit cet homme est Maggio, je dois lui donner ce rôle.
+TOM	Sinatra a dit je vois Maggio tous les matins dans le miroir quand je me rase.
+MEC 	Tu m’as frappé ?
+FRANK 	Ouais, et je vais recommencer.
+PAUL	Si Sinatra n’avait jamais enregistré de disque, il serait devenu une grande vedette de cinéma, il a gagné un oscar pour ce film.
+MERCEDES 	Le vainqueur est Frank Sinatra.
+LESLEY	Le film a raflé  oscars, dont celui de meilleur second rôle, il s’est levé pour le recevoir, a remercié tout le monde à qui il pouvait penser, excepté Ava Gardner.
+NEWS 	Au cours de la dernière année, aux Etats-Unis, . divorces ont été prononcés, un million d’hommes et de femmes recherchent le bonheur tout en admettant ne pas l’avoir trouvé au cours de leur mariage.
+LESLEY	Ils vont divorcer en . Mais leur relation était terminée depuis bien plus longtemps, ils vivaient chacun de leur côté.
+TONY	Quelques années plus tard, Frank m’a dit que leur relation ne pouvait durer plus longtemps, car ils étaient trop identiques. Mais ils se sont beaucoup amusés durant leur mariage.
+ED 	En  ans, il a effectué le trajet depuis Hoboken jusqu’à Hollywood avec quelques arrêts entre les deux. La voix, ou comme l’a un jour appelé Jimmy Durante, Moonlight Sinatra, est devenu une des grandes vedettes d’Hollywood. Après une période d’inactivité, il effectue son grand retour sur le devant de la scène !
+TOM	Il a complètement réinventé son personnage. Le garçon aux costumes de marin avait disparu,… grâce à « Tant qu’il y aura des hommes », il a proposé un personnage bien plus sombre.
+FRANK 	Non.
+TOM	Il était si ambitieux qu’en , il va tourner dans cinq films, ce qui n’arriverait jamais de nos jours. Il était inarrêtable. Son moteur intérieur ne pouvait s’arrêter. Il était devenu un immense acteur, il était l’unique rival de Marlon Brando, qui est l’acteur majeur du ème siècle. Et ce qui est frappant, c’est que Brando s’inspirera de Sinatra pour son rôle dans « Sur les quais », et Sinatra fait du Brando dans « l’homme au bras d’or. »
+FRANK 	Je me suis retrouvé à faire tout ce que j’aimais, ce qui est très sain. J’ai surtout éprouvé cette sensation en jouant dans l’homme au bras d’or, j’étais très content de ma performance. J’ai eu beaucoup de chance de tourner dans ce film.
+PAUL	C’était osé de faire un film sur un homme dépendant aux drogues. On ne s’en rend pas compte aujourd’hui, mais dans les années , on ne parlait pas de drogues. Les gens en prenaient peut-être, mais n’en parlaient pas. Il a voulu se rendre sur des territoires que les autres acteurs et réalisateurs n’osaient même pas effleurer.
+MOUSTACHE 	Le manque ne disparait jamais vraiment. Tu crois l’avoir vaincu, mais il se cache dans un coin en attente de frapper de plein fouet.
+TONY	Il a été très touché par ce film. Pour se préparer à son rôle, il s’est rendu dans un centre de désintoxication pour observer un homme en plein sevrage. Il était dans une blouse blanche, frappait sa tête contre le mur et Frank a ensuite imité ce qu’il a vu.
+TOM	Il a souvent dit avoir remporté un oscar pour le mauvais film. Jouer ce rôle de drogué a probablement demandé bien plus de talent.
+FRANK 	Laissez-moi sortir ! Laissez-moi sortir !
+PAUL	C’était très osé. Sinatra n’avait peur de rien.
+NEWS 	Et si nous écoutions un peu de musique ? Nous allons vous emmener dans les coulisses de ce studio d’enregistrement pour vous expliquer comment la musique parvient à nos oreilles.
+TRIS	Capitol Records a été montée par des personnes créatives en réaction aux autres grands labels. Elle a toujours été vue comme marginale, indépendante, mais apte à proposer des projets intéressants aux artistes qui avaient déjà une certaine carrière derrière eux.
+SIMON	Au début des années , Sinatra obtient un nouveau contrat, avec Capitol Records. Le contrat était une horreur, parce qu’il devait payer ses propres enregistrements. Mais il s’est dit que s’il payait pour son propre disque, alors il pouvait faire exactement ce qu’il voulait. Et il avait en tête quelque chose de révolutionnaire pour un chanteur populaire. Il allait enregistrer des albums aux thèmes différents, un peu comme des films.
+TONY	Le concept album est une création de Sinatra à l’époque Capitol. Il choisissait un thème et tous les morceaux correspondraient à ce thème.
+PAUL	Il faut se souvenir que le disque sous format album est très jeune à l’époque. Les albums longue durée ne seront inventés qu’en .
+NEWS	Dans l’usine, le travail débute dès l’arrivée des masters depuis les studios d’enregistrement. C’est à partir de ces disques noirs que des centaines de milliers de copies verront le jour.
+WILL	L’industrie du disque est alors en pleine croissance. Il y avait de plus en plus d’argent à se faire et Sinatra l’a tout de suite compris.
+TONY	Au cours de sa carrière, il a toujours suivi de près l’évolution de la technologie, et d’un coup, il était possible de sortir un disque sur lequel se trouvait plus d’une chanson, il a décidé de transformer le disque en expérience.
+PETER	Tout le monde pense à tort que l’album concept est né avec le Sargent Pepper’s lonely heart club des Beatles, mais Sinatra ne serait pas d’accord.
+PAUL	Le disque long format a certes été inventé pour la musique classique, mais Sinatra a été le premier artiste populaire à profiter des possibilités offertes par le format. Ces albums sont devenus des classiques intemporels. La plupart d’entre eux font partie du panthéon de la musique moderne. Celui qui me plait le plus, c’est « Frank Sinatra sings for only the lonely ». Les gens avaient tendance à penser que musique rimait avec gaieté, mais Frank savait que l’humeur des gens pouvait varier.
+PETER	L’idée est parfaitement exécutée, j’adore l’idée de chanter la solitude.
+SIMON	Un jour, Sinatra a dit à un journaliste je suis un dépressif de  carats, je vis de violentes contradictions, je suis souvent triste ou extrêmement gai. Les concepts albums qu’il a enregistrés chez Capitol reflètent cet état d’esprit. Certains étaient extrêmement tristes et moroses, comme « Wee small hours » ou « songs for the lonely », et d’autres étaient bien plus gais, « come fly with me » qui en est l’exemple parfait.
+SIR	« Come fly with me » n’est pas seulement une liste exhaustive de jolis endroits. On sent qu’il souhaite vraiment nous faire voyager autour du monde avec lui.
+TOM	Il est la personnification de l’Amérique des années . Tout américain de l’après-guerre sent que le pays est un garant de la démocratie. En tant qu’américains, nous roulions à bord de nos Cadillacs, vers la terre promise de la banlieue et Frank faisait la musique qu’on écoutait. Il a enregistré ce que j’ai surnommé les albums tecnicolour.
+NEWS 	Affrontons la dure réalité de notre époque, des bombes atomiques pourraient être lâchées sur nos villes.
+TOM	Mais il fournit également l’opposé en enregistrant ce que j’appelle les albums film noir, comme « wee small hours of the morning » et « only the lonely ». Ces disques reflètent ce qui se produit alors aux Etats-Unis, car malgré la terre promise des quartiers résidentiels, tout le monde sait qu’à cause de la bombe, tout peut être instantanément détruit. Le monde entier pouvait être détruit. C’est pourquoi, d’après moi, dans les années  et , Sinatra est au pic de sa créativité.
+KENNEDY 	Nous ne voyons pas le bout du tunnel, mais il est certainement moins obscur que par le passé, il y a déjà plus de lumière.
+NEWS 	Des étudiants manifestent contre les interventions américaines au Vietnam.
+NEWS 	Il existe de nombreuses autres raisons pour ne pas fumer de marijuana.
+MEC 	Chaque victime des deux camps est due à notre politique.
+NEWS 	Cette base été utilisée pour lancer les appareils de la Nasa.  lancers ont été effectués depuis .
+LUTHER KING	Par le biais de cette marche pacifique, nous souhaitons montrer au monde la liberté, la dignité et la détermination du peuple américain.
+ALICE	Tout avait changé, l’Amérique était un mélange, de nombreuses idées contradictoires voyaient le jour. Et chacun luttait pour ses idéaux.
+TONY	Avant même que ce soit à la mode, il se battait pour les droits civiques. Quand il se baladait en bus dans les années  et qu’ils ne laissaient pas les noirs de son orchestre dormir dans les hôtels, il se battait pour eux.
+TONY	Il ne voyait ni couleur, ni ethnie, sa première apparition avec un artiste noir, c’était avec Sammy. Et c’était juste après avoir quitté Dorsey. Frank l’a clairement aidé dans sa carrière. Une fois que Frank vous prenait sous son aile, alors les gens vous respectaient et vous n’aviez plus de couleur de peau.
+ALICE	Il a fait de nombreux choix risqués pour sa carrière. Prendre Sammy Davis Junior sous son aile était un acte de rébellion. En plus, ce chanteur noir était marié à une blanche. C’était du jamais vu.
+FRANK 	Tu as changé !
+TOM	Comme l’a dit un autre avant moi, Frank et le Rat Pack à Vegas, c’est le paroxysme de l’amusement entre hommes.
+TONY	Le rat pack était composé de Dean et Sammy, avec Joey Bishop et Peter Lawford. Il y avait d’autres personnes, mais le noyau dur était le trio.
+ALICE	C’étaient les gars les plus classes du monde, lui, Dean Martin et Sammy Davis.
+MARTIN	Le rat pack était sa tribu.
+TOM	Tout le monde voulait être de la partie, tout le monde souhaitait accéder à ce monde de raffinement et ce pouvoir.
+TONY	Ils étaient en fait des garçons qui n’ont jamais grandi. Des adolescents, et c’est ce qui faisait leur charme. Ils s’amusaient. Et le faisaient savoir au public.
+MALE 	Voici monsieur le président, Lyndon Johnson.
+FRANK 	Espèce de rat !
+DEAN 	Dégage de là !
+FRANK 	Tu l’as frappée !
+SAMMY 	Même pas vrai !
+SIMON	Sinatra racontait tout ce qui se passait au cours de leurs soirées. Il aimait faire des nuits blanches. Et ce qui le faisait tenir, ce ne sont pas les femmes, comme on peut l’imaginer, mais l’alcool, il était fou amoureux d’un certain Jack Daniels.
+TONY	Vers huit heures du matin, un jour.
+FRANK 	Un toast !
+TONY	On était assis et on buvait, juste tous les deux, et j’ai dit à Frank, tu sais, même pour toi, c’est une de se coucher assez respectable. Il était assez ivre et titubait, donc je me suis dit que j’allais l’aider à se mettre au lit, histoire qu’il ne tombe pas où se blesse. Il s’est déshabillé et était complètement nu. Il s’est assis au bord du lit, et moi, je m’apprêtais à lui enfiler son pyjama et en essayant de passer son pied, il dit « Modon, où étais-tu passé ? », je l’ai regardé et j’ai compris qu’il parlait à son sexe. Un jour, George Burns a raconté qu’il jouait aux cartes avec Frank et d’autres, ils étaient un peu éméchés et ont décidé de comparer leurs sexes pour savoir qui avait le plus long. George Burns marche vers Frank et lui dit Frank, vas-y gentiment, sors juste le nécessaire pour gagner. Histoire vraie !
+TONY	La plupart des bars et clubs de Vegas étaient la propriété de gars de la mafia.
+CHARLES	À l’époque, la mafia détenait tous les bars. Ils étaient puissants et amusants. Ils ne le menaçaient aucunement et je pense qu’il appréciait le fait d’avoir un peu de pouvoir.
+ALICE	Il fréquentait les mauvais garçons et c’était son truc d’italien. Frank était un genre de caricature de l’italo-américain, alors il ne pouvait pas en être autrement. 
+SIMON	Le jeune Sinatra grandit dans un quartier italien difficile. Son père était boxeur, sa mère impliquée dans la politique locale et il lui arrivait fréquemment de rencontrer des gangsters, c’est certain. Sinatra a côtoyé leurs enfants à l’école. Sa mère et son père ont dû lui dire à mainte reprise de s’en faire des amis et non des ennemis. Mais pas trop amis non plus. Sinatra a retenu la leçon.
+TONY	On lui demandait parfois de prendre une photo avec quelqu’un, le genre de quelqu’un à qui il était impossible de dire non. Frank était si populaire qu’il faisait partie du gang mais sans même en avoir conscience. Du fait de ses origines, du fait de son succès, il était un faire-valoir pour ces gens.
+JUDGE 	Avez-vous déjà discuté avec monsieur Giancana du fait que vous seriez une façade pour ses activités et que ces dernières étaient tout à fait illégales ?
+FRANK 	Non, jamais.
+JUDGE 	D’accord.
+TONY	Le FBI a longtemps tenté de faire le lien entre Frank et la pègre, et même pensé qu’il avait été créé par la pègre. Sinatra s’enorgueillissait de dire qu’il avait chanté dans tous les bars détenus par la mafia. Et que par conséquent, il lui était forcément arrivé de traîner avec ces gars, car ils étaient ses patrons. Si des cardinaux ou le pape avaient été proprios de bars, alors il aurait traîné avec les cardinaux et le pape. Tous les mafieux de l’époque le voulaient dans leur bar, et lui ne pouvait refuser car c’est eux qui faisaient fonctionner l’industrie, ce sont eux qui détenaient les bars.
+TOM	Le lien avec la mafia est permanent au cours de sa carrière. Dans un de ses livres, Tina Sinatra écrit qu’elle a un jour demandé à son père comment il avait pu s’associer avec quelqu’un comme Sam Giancana. Elle a eu le courage de le lui demander. Et il lui a répondu « Je n’ai jamais vraiment su qui il était et cette personne a toujours été courtoise avec moi, et ce n’est pas non plus comme si je l’avais invité à ta première communion. »
+LOUIS	Il avait une image de mauvais garçon du fait de ses fréquentations, mais quand il chantait, tout le monde s’en fichait.
+MALE 	Le rock n roll est une rivière de musique. Le rock’n’roll est un art !
+FRANK 	Et il n’est pas prêt de mourir.
+ALICE	Soudain, il se retrouve dans le monde des Beatles. Tout avait changé. Au début, il avait du mal à apprécier ce style de musique.
+SIMON	Quand Elvis décroche son premier tube, Sinatra le déteste, il déteste ce nouveau style de musique. Il a d’ailleurs été très critique envers Elvis dans la presse. Il l’a surnommé une senteur aphrodisiaque rance que je déplore. Elvis lui a poliment répondu en disant j’admire cet homme, il a le droit de dire ce qu’il veut.
+PAUL	Il a manqué de respect à Elvis en public, et lorsqu’Elvis sort de l’armée, Sinatra va lui-même présenter une émission télévisée qui lui sera totalement dédiée. Sinatra va d’ailleurs dire au cours de ce programme « Très bien, tu es une star en vogue, mais moi, je suis la plus grande star de tous les temps. »
+WILL	Les choses changent dans les années , et pourtant, Sinatra va vendre plus de disques que par le passé. C’est fascinant.
+PAUL	Il a été assez intelligent pour savoir que suite à l’arrivée du rock n roll, il devait lui tenir la dragée haute et rester au niveau. Il allait rester le roi en créant son propre label. Il va lancer le label Reprise, sur lequel il a signé une floppée d’artistes qu’il admirait, provenant tous d’horizons très différents.
+TRIS	Le label a vu ses ventes exploser parce qu’il détenait la licence de Pye Records en Angleterre et ce sont eux qui ont sorti les Kinks, un groupe anglais qui a connu un énorme succès aux Etats-Unis. Reprise a également sorti les disques de Nancy Sinatra, dont le fameux « these boots are made for walking », un des plus grands succès de l’année .
+SIR	Quand j’ai rejoint EMI Records, ma première tâche a été de faire formateur de managers au siège social de Manchester Square. En . Et c’était au sixième du numéro . EMI se débrouillait très bien parce qu’ils avaient sorti les Beatles, c’était la plus grosse maison de disques du monde, il y avait beaucoup de groupes dans l’écurie. Et pourtant, quand j’ai été embauché, c’est Sinatra qui est numéro un avec « Strangers in the night ». Il était dans l’air du temps. Et ce que je trouve intéressant, c’est que dans les années , il n’y avait pas de haine pour ce qui n’était pas à la mode, il n’y avait pas de divisions musicales comme c’est le cas de nos jours.
+PAUL	« Strangers in the night » est numéro un. Aucun jeune de l’époque ne se disait que cette chanson n’avait pas sa place dans les classements. Il y avait un énorme brassage de musiques dans les années , toutes coexistaient. Sinatra va alors connaître une incroyable période de trois ans environ ou il a signé de nombreux tubes.
+SIMON	Il a enregistré plusieurs disques avec un nouveau feeling, un nouveau style, et il a également jeté son dévolu sur un nouveau style de femme.
+PUB 	Mia Farrow, plus hantée encore que dans Rosemary’s baby ! Nous livre une performance extraordinaire.
+MIA 	Albert ! Albert ! Albert !
+LIZBETH 	Je ne veux plus entendre ce nom.
+MIA 	Tu es toujours jalouse ?
+LESLEY	Mia Farrow était une actrice de télévision mineure, elle jouait le rôle d’Allison Mac Kenzie dans la série Payton Place, vers , je crois. Sa carrière commençait à décoller quand elle rencontre Frank sur le tournage de « l’express du colonel Von Ryan ». Et à la minute où elle a vu Sinatra, elle a fondu. Il lui fallait cet homme. C’était une séductrice, la première fois qu’elle l’a vu, elle s’est rendue au département des accessoires pour y emprunter une robe blanche transparente et attirer son attention. Elle a assisté au tournage du film et admiré Frank tous les jours.
+LESLEY	Un vendredi, il est venu vers elle et a dit « Petite, on va partir et récupérer mon avion pour partir dans le désert et y passer le week-end. On se voit la semaine prochaine ». Elle lui aurait répondu Amenez-moi. Il a répondu il n’y a que trois places dans l’avion. Et elle a dit renvoyez-le me chercher.
+LESLEY	Il ne savait que faire, alors il a appelé Ava pour lui dire qu’il allait prendre Mia Farrow, qui lui a répondu qu’elle savait qu’il finirait un jour au lit avec un garçon. Comme si Mia avait entendu cette remarque, la semaine suivante, elle avait les cheveux courts.
+TONY	Elle était aussi jeune, voire plus jeune que ses propres enfants.
+FEMALE 	Vous avez déjà embrassé quelqu’un du plateau ?
+MIA 	Oui.
+FEMALE 	Bien. 
+MALE 	Monsieur Sinatra ?
+FRANK 	Elle porte le même nom que moi.
+CLIVE	Jackie Mason se produisait à Vegas au même moment que Sinatra. Il a un jour parlé en public du mariage de Frank et Mia, Il aurait critiqué ses cheveux très courts, sa maigreur. Il a aussi insisté sur le fait qu’elle ressemblait à un petit garçon et qu’il y avait une étrange attirance. Sinatra en a entendu parler et peu de temps après, alors que Jackie Mason se trouvait au lit, trois balles ont traversé la fenêtre de sa chambre et l’ont manqué de peu.
+LESLEY	Il souhaitait qu’elle abandonne sa carrière. Elle voulait faire carrière, lui une femme au foyer.
+TONY	Avec le temps, ils se sont éloignés l’un de l’autre. Ses goûts en musique, ce qu’elle désirait, elle voulait par exemple partir en Inde pour rencontrer des gourous, comme l’ont fait les Beatles à l’époque. À mille lieues de ce que souhaitait Frank.
+LESLEY	Frank a demandé le divorce sans même que Mia ne s’y attende. Elle ne s’en doutait aucunement. Elle ne savait pas que leur mariage battait de l’aile, elle était amoureuse, mais pas lui.
+SIMON	A la fin des années , Sinatra a déjà trois divorces à son actif.
+TENDER 	Mesdames, n’imaginez pas qu’il ne profite pas de sa vie de célibataire !
+FEMME 	Tigre !
+TENDER 	Ce gentleman aime les blondes.
+FEMME 	Tigre !
+TENDER 	Mais aussi les brunes et les rousses.
+PETER	Sinatra a toujours conservé de bonnes relations avec ses ex. Il est très rare qu’elles se soient épanchées dans la presse pour se plaindre de lui. En général, quand le couple battait de l’aile, chacun le savait et chacun repartait de son côté.
+TRIS	L’album « Man Alone » est intéressant parce qu’il reflète ce style de vie de célibataire élégant. Celui que les célibataires vivaient dans les années . Mais il l’embellit avec sa vision très personnelle de la solitude.
+TONY	Il va rencontrer Barbara dans les années , alors qu’elle est hôtesse à l’hôtel Riviera. 
+TONY	Il la croise de nouveau dans les années . Elle était mariée à Zeppo Marx, le plus jeune des Marx Brothers. Zeppo et lui jouaient souvent aux cartes et il s’est approché d’elle ainsi. Il a dit à Zeppo je suis célibataire, j’organise de nombreuses fêtes chez moi, crois-tu que Barbara puisse venir y faire l’hôtesse de temps en temps ? Leur relation s’est progressivement transformée. Zeppo, qui était déjà âgé, est tombé malade et ils se sont mis ensemble.
+LESLEY	Elle était cette femme simple que la plupart des hommes rêvent de conquérir. Il avait la liberté d’être Frank avec elle, il pouvait être tout à fait naturel.
+GAMINE 	Tu en penses quoi ?
+NANA 	Voici le tetramatic .
+PRESENTATRICE 	Nous allons maintenant écouter Frank Sinatra qui va chanter Come fly with me ! »
+GARS 	Ce que vous êtes sur le point d’entendre est le fruit d’un miracle.
+VICTOR 	Voici le résultat de quatre ans et demi de recherches.
+PAUL	Watertown est connu pour être le seul album où il a chanté ses pistes sans être accompagné de ses musiciens directement en studio. On s’attendait à ce que ce soit un succès, parce que le disque est écrit par Jake Holmes, qui est seulement crédité pour sa chanson « so close » et la reprise de Led Zeppelin. Ils ont été contraints de le créditer. Bref, il a écrit cet album pur Sinatra, une émission spéciale promotionnelle a même été enregistrée. Mais le disque sera un fiasco parce qu’il ne sonne pas comme du Sinatra. Le disque était trop froid. Sinatra n’interagissait pas avec la musique comme à son habitude. Sinatra était fait pour un certain type d’enregistrements.
+’TONY	Il a été très intelligent de vouloir se retirer après l’album « Watertown ». C’était la fin des années , et culturellement, il était un peu dépassé.
+’PETER	Il y a des images incroyables assez faciles à trouver, je crois, où il chante une chanson avec le groupe Fifth Dimension et porte une chemise à jabots étrange. C’est un des trucs les plus embarrassants que je connaisse, avec le recul, musicalement, c’était génial, c’était juste horrible visuellement.
+’TONY	Il lui fallait se mettre dans l’air du temps, et c’est ce qu’il a essayé de faire dans les années , fin , il a essayé de coller à la musique du moment sans y parvenir vraiment. Et je pense qu’il ne se sentait pas du tout à l’aise, il sentait clairement que l’heure de la retraite avait sonné pour lui. 
+’PAUL	J’ai interviewé Claude François un mois avant sa mort et lui ai demandé ce qu’il pensait de « My way », qui était une reprise de sa chanson « Comme d’habitude ». Il m’a dit qu’il préférait l’original parce qu’il parlait de la fin d’une relation. Et les paroles que Frank a chantées, écrites par Paul Anka, parlent de la fin d’une carrière.
+'TONY	En entendant « My Way », les gens pensent que c’est du Paul Anka. Mais Paul n’a pas écrit « My way », il a juste co-écrit les paroles. Il a fait traduire le texte depuis le français et y a vu le parallèle avec Frank, puis arrangé les paroles.
+’SIR	Je suis partagé en ce qui concerne « My way ». La performance de Sinatra est magistrale. Mais quelques phrases et mots choisis m’ennuient un peu. Chanté par un autre, ça ne m’aurait pas dérangé plus que ça, je ne veux en aucun cas critiquer Anka, qui est un grand compositeur. Mais je trouve que certains mots n’avaient pas leur place dans la bouche de Sinatra.
+’TONY	Sinatra venait de se retirer du strass et des paillettes. Il voulait se reposer, passer du temps avec ses amis et sa famille et découvrir ce qu’il allait faire du reste de sa vie.
+’TONY	Quand j’ai rencontré Frank, j’étais un gosse, je jouais de la guitare jazz, je devais avoir  ans. Et je suis devenu un ami de Jilly Rizzo.
+’JUDGE 	Nom s’il vous plait.
+’JILLY 	Jilly Rizzo.
+’JUDGE 	Profession.
+’JILLY 	Manager.
+’JUDGE 	Depuis quand êtes-vous associé à Frank Sinatra ?
+’JILLY 	Près de  ans.
+’TONY	Il est intéressant de constater que le disque sorti par Sinatra en , un album live, est probablement un des meilleurs lives jamais enregistrés. Il n’arrête pas de parler de cet endroit, Chez Jilly, jilly, jilly !
+’FRANK 	Bonsoir à tous. Mesdames et messieurs, je vous souhaite la bienvenue au Jilly’s west !
+’TONY	Je jouais à l’époque dans tous les bars de New York, et me suis dit que j’allais jeter un œil à cet endroit. Je m’y suis rendu et suis très vite devenu ami avec le fameux Jilly. Il m’a écouté jouer et j’ai régulièrement été programmé, près de six mois plus tard, il m’a présenté à Frank. Ils sont entrés, dans le club, Frank avait du mal à se frayer un chemin parmi la foule pour atteindre la table qui lui était réservée. Puis, Jilly vient me voir et me dit Ta guitare est dans ta voiture ? » J’ai répondu « oui ». Il me répond « d’accord. Alors va la chercher parce que le gars veut profiter du bar et on va fermer plus tôt, je veux qu’il t’entende jouer. » Joe Pentrone était au piano, Lou Berryman à la basse et moi à la guitare. On est restés jusqu’à  heures du matin. Après avoir joué quatre chansons, Pentrone me dit joue un truc seul à la guitare. J’en tremblais. Je me trouvais juste devant Frank qui s’était approché de la scène. Il était à trois mètres seulement de moi. J’ai cherché quelle chanson jouer, Frank avait enregistré un album avec Tom Jobim et je savais qu’il éprouvait une certaine tendresse pour ce matériel, alors j’ai commencé à jouer « how insensitve ».
+’TONY	Alors que je joue les accords, Frank commence à fredonner, j’ai failli en faire tomber ma guitare. Et petit à petit, il a commencé à chanter la chanson. Il était assis, les yeux fermés et je l’accompagnais. À la fin de la chanson, il m’a dit de continuer sur une impro. Nous avons joué comme si nous jouions ensemble depuis des années. Frank a ouvert les yeux et m’a dit « joli travail, petit ». C’était un coup de foudre artistique.
+’TONY	Jilly s’assurait qu’à chaque venue en ville de Frank, je sois à l’affiche de son bar, il s’assurait que je discute avec lui, j’avais une place réservée à ses côtés. Et j’avais même l’autorisation d’amener mes amis. J’ai découvert quelques années plus tard, en discutant avec lui, qu’il avait longtemps hésité à faire son retour sur le devant de la scène à l’époque, parce qu’il n’était pas sûr d’avoir quoi que ce soit à dire à ma génération. Et mon enthousiasme, ainsi que celui de mes amis en sa présence, lui a donné la force et le courage de sortir de sa retraite. Nous lui avons fait comprendre qu’il avait encore des choses à dire.
+’PAUL	Peu d’artistes ont la capacité de sortir de leur retraite. Tout le monde s’en fiche petit à petit, mais le monde entier rêvait d’entendre les nouveautés que Sinatra avait à offrir.
+’SIR	Il est très inhabituel qu’un artiste signe de grandes chansons à la fin de sa carrière. « My way » est survenue très tard. Et « New York, New York » encore plus tard.
+’PAUL	Je trouve touchant que ce grand tube soit son dernier et un hommage à sa jeunesse, quand il était à Hoboken et observait les lumières de la ville de l’autre côté du pont de l’Hudson. Comme il le dit dans la chanson Si j’y arrive à New York, j’y arriverai partout. Et c’est exactement ce qui s’est produit.
+’PETER	Sur ses derniers disques, il effectue une tentative de réconciliation entre son propre mythe et son âge, c’est très émouvant.
+’TONY	Le concept de l’album de duos est venu de lui.
+’CHARLES	Je lui ai donné un million de dollars pour le signer alors qu’il avait  ans.
+’LOUIS	Sur le disque, il y a Anita Baker, Bono, Julio Iglesias, c’est fantastique.
+’CHARLES	On s’est débrouillés pour que Frank enregistre dans les studios de Capitol à Los Angeles, et lors de la première session d’enregistrement, il devait y avoir une cinquantaine de musiciens prêts à enregistrer. Frank est arrivé, s’est approché du micro, a regardé autour de lui, puis est parti.
+’TONY	Tout a failli prendre mauvaise tournure quand ils ont expliqué à Frank que les autres artistes ne seraient pas avec lui dans le studio, c’était étrange pour lui, parce qu’il aimait la spontanéité engendrée par le fait de chanter à deux.
+’CHARLES	Il avait peur. Lors de sa première session dans la cabine, alors qu’il a toujours été à l’aise face à un micro, il n’y arrivait pas, alors on l’a placé au beau milieu du studio. Il est revenu le deuxième soir pour une seconde session et il a enregistré neuf chansons d’un coup.
+’TONY	On est arrivés à vingt heures et à  heures , il avait enregistré neuf titres. C’est ainsi qu’il travaillait, tout en une prise.
+’LOUIS	Sinatra est au cœur du disque. Les autres ne sont que des seconds rôles, il est le cœur.
+’CHARLES	Le monde ne s’attendait pas à entendre Sinatra. C’était l’opposé. Le monde écoutait les New kids on the block, Wilson Philips et Vanilla Ice.
+’TONY	La semaine de la sortie du disque, Sinatra a  ans et va sortir Pearl Jam de la première place du classement des ventes de disques.
+’CHARLES	Peu après la sortie du disque, un grand évènement caritatif est organisé par Barbara Sinatra. J’avais dans ma poche un chèque d’un million de dollars, qui lui était destiné, je le lui ai donné et lui ai dit que ce n’était qu’un début. Il a jeté un œil au chèque et l’a tendu à Barbara en lui disant « tiens, c’est pour ton œuvre ».
+’TONY	Cet homme a connu le succès dans l’industrie du disque sur plusieurs décennies, les années , , , , ,  et  !
+’PETER	Ça ne dérange pas le public si les artistes qu’il aime montrent leur fragilité et leur vulnérabilité. Tant qu’il y a de l’émotion, tant que le public a une histoire commune avec l’artiste en question, alors la magie opère quoi qu’il arrive.
+’MARTIN	Lors des derniers concerts, le public est toujours sous le charme. Frank était encore capable de donner cette intensité, mais bien plus intérieure. À la fin de sa carrière, je me souviens de ce moment où il arrête de chanter et une personne du public lui crie « on t’aime ». Et toute la salle commence à crier la même chose. Le public lui rendait ce qu’il lui avait offert. La boucle était bouclée.
+’TONY	La seule fois où j’ai vu Sinatra en concert, c’était en , j’avais  ans. J’étais fou de joie, à cette période, il avait tendance à oublier les paroles et ce genre de choses. Mais il y avait des moments où c’était vraiment magique.
+’TONY	J’ai lu la critique d’un concert où le journaliste le comparait à un pilote d’avion vétéran très expérimenté essayant de faire atterrir un  avec un seul moteur.
+’TONY	Les gens l’aimaient tellement, il était comme un proche qui a vieilli en même temps que son public. Il a tant donné au fil des ans et moi, j’en suis devenu fou.
+’MARTIN	L’empathie et la compassion envers Sinatra ont été décuplées. Cette personne a été sur le toit du monde. Le seul et unique Sinatra. Imaginez l’émotion dans le public, quand il commence à oublier ses paroles. Il est comme un homme de  ans qui court le marathon. Le public l’encourage à chaque foulée, à chaque fois qu’il tombe, jusqu’à ce qu’il franchisse la ligne d’arrivée.
+’BONO 	Francis Albert Sinatra !
+’FRANK 	Je n’ai jamais été aussi bien accueilli… de toute ma carrière.
+’NEWS 	C’est dans cet hôpital californien, à  heures précises, que la légende s’en est allée. Il n’existait pas de plus grand chanteur que Frank Sinatra et ce matin, ses fans sont sous le choc.
+’TONY	C’était inattendu. J’avais déjeuné avec lui la veille, au bord de sa piscine à Beverly Hills. Je lui ai dit à demain et qu’on allait passer le week-end ensemble parce que Barbara allait voir ses amies. Puis je suis parti. Je ne sais pas pourquoi, mais j’ai senti le besoin de prendre de ses nouvelles un peu plus tard, alors j’ai appelé Vine. Elle était bien plus qu’une femme de ménage, elle s’occupait très bien de lui et elle m’a dit qu’il n’allait pas bien, il avait du mal à respirer. Je lui ai alors dit de l’amener à l’hôpital. En y arrivant, il était déjà en soins intensifs, ils ont tenté de le soigner. Mais il est mort.
+’FRANK 	Je ne regrette rien, parce que j’ai donné du plaisir aux gens.
+’TONY	Frank adorait raconter la fois où il a fait un concert avec Pavarotti. Il entre alors dans la loge de Pavarotti et lui dit « Maître, j’ai une question à vous poser. Quand je chante, j’ai du mal à terminer mes phrases en diminuant l’intensité de ma voix, à terminer la note en douceur, progressivement. Vous auriez un conseil ? » Pavarotti le regarde et lui répond « Frank, c’est simple, vous n’avez qu’à fermer la bouche. » Frank a dit qu’il ne lui demanderait plus jamais conseil.
+’PAUL	Sa popularité était telle, qu’elle a aidé à mettre un terme à la stigmatisation des italo-américains.
+’TONY	J’ai grandi dans l’état de New York, et dans toutes les maisons italiennes, on trouvait une photo du pape, mais aussi de Sinatra.
+’SIR	Tout ce qu’il a fait était sophistiqué sans être élitiste.
+’LOUIS	Il croyait en chaque mot de chacune de ses chansons.
+’TONY	Quand on a pris le cercueil, c’était un cercueil de bronze très lourd. Et Don Rickles avait du mal à comprendre pourquoi il était si lourd. Je lui ai dit que c’était un sujet sensible, et il m’a demandé pourquoi. Je lui ai répondu que nous devions un service à un mafieux, et le cercueil était si lourd parce qu’il y avait deux autres gars à l’intérieur avec Frank. Il n’y croyait pas. Aujourd’hui, il doit toujours pas savoir si c’était une blague ou pas.
+’PAUL	Bobby Darren, Connie Francis, Dion, Frankie Valli, tous ces gens occupaient le terrain situé entre la balade italienne populaire et le rock. Sinatra est important à la musique du ème siècle car il a reconnu ce terrain. Il a ouvert la voie à des milliers d’artistes.
+’CHARLES	Sinatra était un artiste énorme qui a influencé notre culture.
+’ALICE	Sinatra est le genre d’icône indépassable.
+’MARTIN	Il avait compris son histoire, et s’il se trouvait dans la même pièce que vous, il comprenait instantanément la vôtre.

@@ -1,0 +1,532 @@
+
+
+RE:ZERO 09
+
+
+
+
+
+
+1 (00:00:01:00)
+
+NATSUKI SUBARU	Levez les bras bien haut ! Puis croisez-les devant vous et respirez à fond ! Tournez les bras devant vous,
+
+RAM	Il a l'intention de nous aider ou il nous prend pour ses bonniches ?
+
+NATSUKI SUBARU	et relâchez tout !
+
+REM	Il met un peu d'animation.
+
+NATSUKI SUBARU	Et pour finir, crions : Victoire !
+
+FOULE 1	Victoire !
+
+FOULE 2	(rire, joie, blabla)
+
+ENFANTS	Ouais ! (rire, joie, blabla)
+
+NATSUKI SUBARU	Bien joué !
+
+TYPE À L'ÉPÉE	Merci ! (rire)
+
+NATSUKI SUBARU	(rire) (oh oh?)
+
+VIEILLE	Bien ferme ; ça me rappelle ma jeunesse. (rire)
+
+NATSUKI SUBARU	(hm?) (hm) C'est nickel, je les ai tous touchés.
+
+RAM	Bals.
+
+NATSUKI SUBARU	(oh?)
+
+RAM	Qu'est-ce que tu faisais avec ces gens ?
+
+NATSUKI SUBARU	Des exercices de gym. Si je devais donner une raison pour expliquer leur popularité, je dirais qu'ils procurent énormément de plaisir.
+
+RAM	Je ne veux pas savoir.
+
+BOUBOULE (MILD)	T'es super froide, Ramie.
+
+GARÇON BRUN	T'es trop méchante, Ramie.
+
+LUCAS (CHATAIN)	Tu fais peur, Ramie.
+
+
+2 (00:00:59:00)
+
+RAM	En plus, tu as trouvé le temps de leur apprendre mon surnom.
+
+NATSUKI SUBARU	Je dirais plutôt que je voulais rendre ce joli petit nom plus populaire.
+
+RAM	! Personnellement, ça m'est égal, par contre, Rem...
+
+BOUBOULE (MILD)	Remie ?
+
+GARÇON BRUN	Remie ?
+
+LUCAS (CHATAIN)	Remimie ?
+
+REM	(oh?) (oh oh)
+
+RAM	A part ça, tu as profité de ta visite pour faire ce que tu voulais ?
+
+NATSUKI SUBARU	Oui, au delà de toutes mes espérances. J'ai fini en tapant sur l'épaule du chef de village ! (oh?) Quoi ? Qu'est ce qu'il y a ?Je t'écoute, ma petite.
+
+FILLE VIOLETTE	Heu... Tu peux venir, là bas?
+
+RAM	Je t'accorde quelques minutes de plus.
+
+REM	Si Ram est d'accord, moi aussi.
+
+NATSUKI SUBARU	Super ! Merci, les filles. Je ne serais pas lent.
+
+OUT (00:01:47:22)
+
+
+3 (00:03:07:00)
+
+NATSUKI SUBARU	J'avais complètement oublié cet événement. Le chiot. C'est sûr que je vais pas y échapper.
+
+PÉTRA (NOEUD)	Ce chien est gentil, d'habitude.
+
+BOUBOULE (MILD)	Bizarre, avec toi, il sort les crocs.
+
+LUCAS (CHATAIN)	On dirait qu'il a une dent contre toi,Subaru.
+
+NATSUKI SUBARU	Je sais pas pourquoi mais quand il me voit, il a la rage. Il fait le coup à chaque fois et ça se termine toujours de la même façon. Bon ! Courage ! Si je peux me permettre. (ricane) Là, ça dépasse tous mes espoirs. Il a une fourrure de super qualité pour un chien errant ! (oh?!) Je vois qu'il a le haut du crâne rasé. C'est étrange. Il s'est blessé ? Aïe ! (ah ah!) Non mais, regardez-moi cette canaille, à chaque fois il me mord exactement au même endroit.
+
+LUCAS (CHATAIN)	Il fallait pas jouer avec le feu !
+
+BOUBOULE (MILD)	Et ouais, il fallait moins le caresser.
+
+PÉTRA (NOEUD)	Tu dis "le" mais c'est une femelle.
+
+NATSUKI SUBARU	Vous êtes gentils mais là, on s'éloigne du problème. Au lieu de dire n'importe quoi, vous feriez mieux de vous inquiéter pour moi.
+
+ENFANTS	(rire)
+
+
+4 (00:04:07:00)
+
+NATSUKI SUBARU	Je vais pleurer d'émotion. Je mérite un bon gros "good job, Subaru" !
+
+REM	Oui, tu as fait du bon travail.
+
+RAM	C'est ça, du bon travail.
+
+ROSWAAL 	Mais que vois-je, vous êtes tous sortis ensemble ? Parfait, cela m'évitera d'aller vous chercher.
+
+REM	Maître Roswaal.
+
+RAM	Maître Roswaal.
+
+NATSUKI SUBARU	Vous avez mis une tenue de ville ?
+
+ROSWAAL 	Monsieur a l'oeil. Certaines personnes sont agacées par la tenue que je porte habituellement, donc il m'arrive parfois de ménager la chèvre et le chou.
+
+REM	Nous avons un invité ?
+
+RAM	A moins que vous sortiez ?
+
+ROSWAAL 	Tu as tout compris, Ram. Je dois sortir. On vient de me rapporter quelques faits qui sont des plus fâcheux. Je vais donc faire un tour.
+
+NATSUKI SUBARU	(oh?)
+
+ROSWAAL 	Je vous averti, il y a fortes chances que je ne rentre pas ce soir. Je vous confie le manoir, mes jumelles.
+
+RAM	Bien maître, vous pouvez compter sur nous.
+
+REM	On le protégera coûte que coûte.
+
+
+5 (00:04:59:00)
+
+NATSUKI SUBARU	Roswaal n'est jamais sorti dans les boucles précédentes. (oh?)
+
+ROSWAAL 	Bien sûr, ça vaut pour toi aussi, Subaru. Je compte sur toi pour garder un œil sur dame Émilia.
+
+NATSUKI SUBARU	T'inquiète ! Tu peux compter sur moi, mon pote !
+
+ROSWAAL 	Au revoir, et gardez bien la maison !
+
+NATSUKI SUBARU	(oh?) Il peut voler ?! La magie, ça déchire. Les événements ont changé. Sûrement parce qu'on a visité le village en avance. Mon plan attrape-nigaud fonctionne comme prévu ! Madame Béato, pourrais-je bénéficier de vos lumières ?
+
+
+6 (00:05:41:00)
+
+BÉATRICE	Ton visage s'est transformé en une demi-journée. Tu n'as pas du travail à faire ?
+
+NATSUKI SUBARU	Je serais pas contre l'idée de faire une petite pause, mais vois-tu, je voudrais d'abord que tu vérifies un truc. Je pense que j'ai chopé une malédiction. Tu veux bien y jeter un œil ?
+
+BÉATRICE	Quelle idée ridicule.
+
+NATSUKI SUBARU	Je pense que j'ai chopé une malédiction. Tu veux bien y jeter un œil ?
+
+BÉATRICE	Pourquoi tu répètes ?! Je t'ai pas demandé de répéter ! On en a discuté il y a même pas douze heures et maintenant tu es maudit ! Tu es beaucoup trop influençable. Je sens un rituel dans l'air. On dirait que tu as réellement été maudit.
+
+NATSUKI SUBARU	Je savais que le lanceur de malédictions était un villageois. Tu as la possibilité d' analyser la malédiction ?
+
+BÉATRICE	Comment veux-tu que je l'étudie avec si peu d'informations ? Je t'avais pourtant prévenu. Maintenant, tu as neuf chances sur dix de décéder.
+
+
+7 (00:06:37:00)
+
+BÉATRICE	Ce qui n'a pas vraiment l'air de t'effrayer plus que ça, hein ?
+
+NATSUKI SUBARU	Non mais t'es complètement à la masse ! Je suis mort de trouille ! Qu'est-ce qui pourrait plus me foutre les jetons plus que ça ? Rien madame. Ceux qui disent qu'il " vaut mieux mourir " devraient essayer avant de parler. Mais cette fois laisse-moi te dire que j'ai l'intention d'échapper à mon destin. Bon, allez, libère-moi de cette malédiction. Le temps presse, ma chère.
+
+BÉATRICE	C'est trop facile. Explique-moi pourquoi je devrais te sauver ?!
+
+NATSUKI SUBARU	Je savais bien que tu ferais ta grincheuse, c'est pourquoi je t'ai préparé un argument en béton. Si je meurs, Pack sera triste.
+
+BÉATRICE	(ah?) Détrompe-toi, ta disparition n'émouvra pas mon chou plus que ça.
+
+NATSUKI SUBARU	Détrompe-toi, toi. Ma mort choquera la pauvre Émilia, qui sera bouleversée pendant un bon moment, ce qui atteindra Pack par ricochet. Et sachant que tu aurais pu l'éviter, tu ne te le pardonneras pas.
+
+
+8 (00:07:33:00)
+
+BÉATRICE	(huh!) (huh!) (huh!) ! Bon, d'accord, je vais te libérer de cette malédiction ! Mais je te préviens, c'est à titre exceptionnel ! Ça ne se reproduira plus !
+
+NATSUKI SUBARU	Okay ! Ceci dit, en cas de pépin, tu pourras toujours me donner un p'tit coup de main.
+
+BÉATRICE	(hm) Je vais briser le rituel de la malédiction et te sauver la vie. Il faut d'abord que je découvre la partie de ton corps qui a été touchée par le lanceur de malédiction. Tu es prêt ?
+
+NATSUKI SUBARU	Vas-y, vas-y, je t'en prie. J'ai quelques pistes. C'est peut être le mec qui avait coupe de Tintin, ou la vieille qui tripotait les fesses, ou le pseudo-chef du village, Ils m'ont tous touché à différents endroits. !? De la fumée noire ?
+
+BÉATRICE	C'est désagréable au possible !
+
+NATSUKI SUBARU	(oh?)
+
+
+9 (00:08:29:00)
+
+BÉATRICE	J'ai terminé. Normalement, tu devrais t'en sortir.
+
+NATSUKI SUBARU	Ça veut donc dire que le coupable m'a touché à l'endroit d'où la fumée est sortie ? C'était ce fichu chiot ? Je dois aller au village ! Il se sera foutu de moi jusqu'au bout !
+
+
+10 (00:08:56:00)
+
+RAM	Pourquoi tu vas au village ?
+
+NATSUKI SUBARU	D'après Béatrice, l'auteur de cette morsure est le lanceur de malédiction qui m'a maudit. C'est ce foutu chiot que les gamins adorent !
+
+REM	(oh?)
+
+NATSUKI SUBARU	Cette adorable petite boule de poils maudit tout ce qu'elle mord ! Ce qui veut dire que les enfants sont en grand danger ! Si vous trouvez cette histoire débile, suivez-moi et vous verrez. Par contre, il est hors de question qu'Émilia reste seule. Choisissez celle qui vient avec moi.
+
+REM	Tu n'as aucune autorité ici. Certes, nous sommes tenues d'obéir à notre maître, mais rien ne nous oblige à suivre tes ordres et à t'accompagner.
+
+NATSUKI SUBARU	Oui, je sais. Mais bon, mon petit doigt me dit que Roswall vous a demandé de me surveiller.
+
+
+11 (00:09:37:00)
+
+RAM	Très bien, Bals. Comme tu dis, on ne te laissera pas partir tout seul.
+
+REM	Mais ? Ram ?
+
+RAM	Rem t'accompagnera au village.
+
+NATSUKI SUBARU	Ça me convient parfaitement !
+
+RAM	Ne t'inquiète pas. J'irai dire à dame Béatrice que tu es partie avec Subaru, et surtout, je protégerai dame Émilia. Elle ne risque rien. Mais sache que je t'ai à l'oeil, Subaru.
+
+EMILIA	Allons Ram, ne le regarde pas avec ces yeux là.
+
+REM	(oh?)
+
+NATSUKI SUBARU	(hm?)
+
+EMILIA	Je suis descendue parce que j'ai cru entendre quelqu'un qui criait. Que s'est-il passé ?
+
+NATSUKI SUBARU	T'angoisse pas, il s'est rien passé. On s'est un peu pris la tête, mais rien de méchant.
+
+EMILIA	Tu vas encore t'attirer des ennuis.
+
+NATSUKI SUBARU	J'en sais rien, Émilia. En tout cas, ma décision est prise et les discussions sont closes.
+
+EMILIA	Donc quoi que je dise, tu iras ?
+
+NATSUKI SUBARU	J'imagine que oui, désolé. Si j'y vais pas tout de suite, les conséquences risquent d'être catastrophiques.
+
+EMILIA	! Ça a l'air sérieux, je comprends. Je ne t'arrêterai pas ! Je ne te dirai même pas d'être prudent, puisque tu n'en fais toujours qu'à ta tête.
+
+NATSUKI SUBARU	Ça risque de mal tourner, mais j'ai pas l'intention d'embrouiller les gens et de chercher la bagarre !
+
+
+12 (00:10:41:00)
+
+EMILIA	Que les esprits, te bénissent et guident chacun de tes pas.
+
+NATSUKI SUBARU	Heu... Qu'est-ce tu dis ?
+
+EMILIA	C'était une petite prière, pour que tu nous reviennes en un seul morceau.
+
+NATSUKI SUBARU	Entendu, Émi. Que le ciel t'entende. Sur ce, on y va !
+
+EMILIA	Soyez prudents.
+
+OUT (00:11:00:08)
+
+
+13 (00:11:11:00)
+
+NATSUKI SUBARU	(oh?)
+
+REM	(oh?) Il y a un problème ?
+
+VILLAGEOIS 1	Un sacré problème, oui ; plusieurs enfants ont disparu. Tous les adultes du village sont partis à leur recherche !
+
+NATSUKI SUBARU	On arrive trop tard ! Vite ! Je sais où chercher ! (huh!)
+
+REM	Subaru !
+
+NATSUKI SUBARU	(court)
+
+OUT (00:11:33:00)
+
+
+14 (00:13:03:00)
+
+NATSUKI SUBARU	(court)
+
+REM	(court)
+
+VILLAGEOIS 1	(court)
+
+NATSUKI SUBARU	! (hhh)
+
+REM	La barrière n'est plus active.
+
+NATSUKI SUBARU	(oh?) Mais c'est quoi cette barrière, exactement ?
+
+REM	Elle servait à maintenir les molosses de magie à l'écart.
+
+NATSUKI SUBARU	C'est quoi, ça ?
+
+REM	C'est la Sorcière qui les a créés et dotés de magie. Ils sont sont les ennemis des hommes depuis la nuit des temps. Ils vivent en meute, dans la forêt.
+
+NATSUKI SUBARU	En meute ? Donc il y a plein de chiens derrière cette barrière ? (oh?) Les enfants doivent être dans la forêt. Allez prévenir tout le monde !
+
+VILLAGEOIS 1	(hm?!) J'y vais !
+
+REM	(oh?) Subaru, tu fais quoi ?
+
+
+15 (00:13:50:00)
+
+NATSUKI SUBARU	Il faut que j'aille sauver ces gamins !
+
+REM	Tu ne peux pas prendre cette décision tout seul. Pour ne rien arranger, Maître Roswaal n'est pas là. Subaru, imagine que ce soit une ruse pour nous éloigner du manoir.
+
+NATSUKI SUBARU	Qu'est-ce que tu veux qu'on fasse, alors ? On abandonne les mioches et on rentre au manoir pour se mettre à l'abri, c'est ça ? C'est clair que si la mort de tous ces enfants t'indiffère, c'est une excellente solution.
+
+REM	(oh?!)
+
+NATSUKI SUBARU	On a pas le choix, Rem. Nous sommes les seuls à pouvoir les sauver. Allons-y !
+
+REM	Qu'est-ce qui te motive ? Tu n'as pourtant aucun proche dans ce village, tu ne connais personne.
+
+NATSUKI SUBARU	Tu vois Pétra ? Et bien figure-toi qu'elle rêve d'être couturière en ville, quand elle sera grande.
+
+REM	(hh?)
+
+NATSUKI SUBARU	Lucas, lui, veut succéder à son père, qui est le meilleur bûcheron de tout le village. Chaque jour, Mild part cueillir des fleurs dans les champs et avec ça, il tresse une couronne qu'il offre à sa maman. Meina est super contente, parce qu'elle aura bientôt un petit frère. Quant à Dyne et Cain, les deux frangins se disputent pour savoir lequel épousera Pétra.
+
+
+16 (00:14:53:00)
+
+NATSUKI SUBARU	Je suis attaché à tous ces enfants. Je connais leurs visages, leurs noms et je sais ce qu'ils veulent faire quand ils seront plus grands. En plus de ça, je leur ai promis un nouveau cours de gym. J'apprécie beaucoup les gens qui tiennent leurs promesses. Je suis donc prêt à tout pour refaire des exercices de gym avec ces gamins. A tout, comme braver cette forêt.
+
+REM	Je t'accompagne. Moi aussi, je n'ai pas vraiment le choix. Après tout, je dois garder un œil sur toi.
+
+NATSUKI SUBARU	Ben, j'y compte bien ! T'as intérêt à ouvrir l'oeil et à surveiller mes moindres faits et gestes !
+
+REM	Allons-y.
+
+NATSUKI SUBARU	(hm!) (oh?) Cette chaîne est vraiment nécessaire ?
+
+REM	C'est pour ma protection.
+
+NATSUKI SUBARU	Mais quand même heu
+
+REM	C'est pour ma protection.
+
+NATSUKI SUBARU	(oh?!) !
+
+
+17 (00:15:53:00)
+
+NATSUKI SUBARU	(hm!) (oh?)
+
+REM	(sniff!) (sniff!) (sniff!) Nous ne sommes plus très loin. Je sens un être vivant.
+
+NATSUKI SUBARU	Les enfants ?
+
+REM	Ce dont je suis sûre, c'est que c'est pas une odeur de molosse.
+
+NATSUKI SUBARU	Les enfants ! Ils sont là ! (court)
+
+PÉTRA (NOEUD)	(respire)
+
+NATSUKI SUBARU	Elle est vivante ! Ils sont vivants !
+
+PÉTRA (NOEUD)	On dirait. Ils respirent encore, mais ils sont gravement affaiblis. Si on ne fait rien...
+
+NATSUKI SUBARU	Ils sont maudits, j'en suis certain !
+
+
+18 (00:16:35:00)
+
+NATSUKI SUBARU	On voit encore les traces de morsures. Tu peux pas briser la malédiction ?
+
+REM	Je n'ai pas les compétences. Tout ce qu'on peut espérer, c'est que Ram nous observe. Ça ne changera pas grand-chose, mais je vais néanmoins les soigner. (hhh) On les transportera ensuite.
+
+NATSUKI SUBARU	Excellente idée. Moi je vais... C'est pas possible, je sers à rien ! Je vais faire le guet.
+
+PÉTRA (NOEUD)	Subaru.
+
+NATSUKI SUBARU	(oh?!) T'es réveillée, Pétra ? T'es très forte, jeune fille ! Surtout, ne fais pas d'effort. Je vais te ramener chez toi et tu pourras dire au revoir à tous ces vilains bobos. Reste calme.
+
+PÉTRA (NOEUD)	Une autre... Plus loin... Encore... plus loin.
+
+NATSUKI SUBARU	Hein ? Qu'est-ce que t'as dit ?! Pétra ! Pétra a raison ! Il en manque une ! La fille à la natte !
+
+REM	Toi, tu restes ici. C'est trop dangereux. Si les molosses de magie l'ont emmenée, tu risques-
+
+NATSUKI SUBARU	Je suis parfaitement conscient du danger qu'ils représentent. Mais je dois prendre exemple sur Pétra.
+
+
+19 (00:17:36:00)
+
+NATSUKI SUBARU	Elle m'a simplement dit que son amie avait été enlevée. Tu te rends compte ? Au lieu de demander de l'aide, Pétra s'est inquiétée pour son amie. Sa priorité n'était pas sa vie mais celle de son amie ! Je me reconnais totalement en elle. C'est pourquoi j'ai décidé de tout faire pour sauver les enfants.
+
+REM	L'héroïsme est une vertu noble et louable, mais si tu vois trop gros, tu risque de tout perdre.
+
+NATSUKI SUBARU	Et alors ? Si tu m'accompagnes, c'est pour éviter ça.
+
+REM	Désolé, mais je ne comprends pas où tu veux en venir.
+
+NATSUKI SUBARU	Toi, reste avec les gamins, ils ont besoin de toi. Quand les villageois les auront récupérés, si tu veux, tu pourras toujours me rejoindre. (oh?)
+
+REM	Nous ignorons toujours qui est l'ennemi, et quand arriveront les adultes. Quant à cette forêt, elle est immense, et je risque fort de ne pas t'y retrouver.
+
+NATSUKI SUBARU	Ça, ça m'étonnerait beaucoup. Tu retrouveras toujours ma piste.
+
+REM	Qu'est-ce qui te fait dire ça ?
+
+NATSUKI SUBARU	Les autres ne me trouveraient sans doute pas, mais toi, tu peux flairer mon odeur.
+
+
+20 (00:18:33:00)
+
+NATSUKI SUBARU	Il te suffira de pister la puanteur que je dégage. L'odeur de la Sorcière.
+
+REM	(hm?!) Subaru, dis-moi ce que tu sais.
+
+NATSUKI SUBARU	Je suis dans le flou le plus complet. Je comprends rien, et j'obtiens peu de réponses, malgré toutes ces boucles qui s'enchaînent. Je sais que tu te poses une tonne de questions sur moi. Et de mon côté, j'en ai à peu prêt autant à te poser. Une fois que toute cette histoire sera réglée, nous passerons une nuit entière à en parler. Je te le promets. Rem, j'ai entièrement confiance en toi. Mais je veux obtenir ta confiance. C'est important pour moi. Alors on se dira tout. Tu me le promets ?
+
+
+21 (00:19:17:00)
+
+REM	Si tu insistes. Je te le promets, Subaru. Mais attention, je vais vraiment te poser plein de questions.
+
+NATSUKI SUBARU	Génial !
+
+REM	Je te rejoins dès que les adultes auront récupérés les enfants. Ne prends aucun risque insensé avant que je sois là.
+
+NATSUKI SUBARU	T'inquiète pas mon amie, je risque rien. Moi je suis un vrai, un dur, un ogrisé.
+
+REM	C'est quoi, un ogrisé ?
+
+NATSUKI SUBARU	Ça veut dire possédée par un esprit, mais version ogre. J'adore ce mot.
+
+REM	Ne prends aucun risque inconsidéré !
+
+OUT (00:19:45:22)
+
+
+22 (00:19:52:00)
+
+NATSUKI SUBARU	Si c'est bien le petit chiot qui a maudit tous les gamins, je devrais normalement en venir à bout. Une poignée de sucre suffira à l'amadouer. (huh!) Ça sent le molosse. (oh?) Elle sert d'appât ? Émilia n'hésiterait pas une seconde.
+
+FILLE VIOLETTE	(oh) (oh)
+
+NATSUKI SUBARU	Ouf, elle est vivante. (oh?) (hhh) (oh?!)
+
+OUT (00:20:39:00)
+
+
+23 (00:20:46:00)
+
+NATSUKI SUBARU	Il était plus petit dans mes souvenirs. Comment il a fait pour grandir aussi vite. Cet enfoiré s'était planqué en attendant que je vienne morde à l'hameçon. (oh?) Je suis dans un cul de sac. Zut ! Allez ! Approche-toi si tu l'oses ! (ah?!) (hm?) Hein ?! Ça fait même pas mal ! Tu m'as mordu ? Molosse de mes deux ! (halète) ! (ah) J'ai gagné. (oh?)
+
+
+24 (00:21:51:00)
+
+NATSUKI SUBARU	Non, c'est pas vrai, j'hallucine. (hm!) Je vous attends, bande de molosses ! (oh!) ?! (huh?) Oh ?
+
+REM	Les enfants sont rentrés au village, sains et saufs. Alors comme promis, je suis venue te prêter main forte.
+
+NATSUKI SUBARU	(oh?) ! Rem, attention ! T'es trop bonne !
+
+REM	Non, dire à une fille qu'elle est trop bonne, c'est inapproprié !
+
+NATSUKI SUBARU	Bon, j'admets que mon vocabulaire est un peu limité ! Mais sérieux, t'es trop balèze ! A part ça, t'aurais pas une botte secrète pour tous les exterminer ?
+
+REM	On est fichus s'ils profitent de leur supériorité numérique.
+
+NATSUKI SUBARU	Fallait s'y attendre. Du coup, on va de- Là bas !
+
+REM	(huh!) Fonce !
+
+NATSUKI SUBARU	(hm!) (peur)
+
+OUT (00:22:52:00)
+
+
+25 (00:23:07:00)
+
+NATSUKI SUBARU	! Rem, je connais pas le chemin !
+
+REM	Cours, droit devant toi ! Une fois passée la barrière, on sera à l'abri ! Cherche les torches !
+
+NATSUKI SUBARU	Merci pour l'info ! (court) (court) Je vois la lumière ! On est pas loin de la barrière ! (oh?) (hhh?) Rem ! ! (oh?) (hh!) Rem !
+
+
+26 (00:24:04:00)
+
+NATSUKI SUBARU	(ah) (oh) Bon sang ! ! (oh?)
+
+REM	(rire dément) (rire dément) (rire dément) Molosses de magie, de magie, de magie, de magie, de magie ! Molosses de magie, de magie, de magie ! (halète, rire, amok)
+
+NATSUKI SUBARU	(oh?) (hhh)
+
+REM	(rire dément)
+
+NATSUKI SUBARU	C'est un ogre ?
+
+
+27 (00:25:04:00)
+
+REM	(ricane)
+
+NATSUKI SUBARU	(oh?) (hhh!)
+
+REM	(oh?)
+
+NATSUKI SUBARU	(ah!)
+
+REM	Subaru !
+
+NATSUKI SUBARU	(ah)
+
+REM	Ne meurs pas. Ne meurs pas. Ne meurs pas !
+
+INSERT	LE SENS DU COURAGE
+
+REM	Ne meurs pas !!!
+
+OUT (00:25:33:11)

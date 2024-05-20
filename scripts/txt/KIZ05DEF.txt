@@ -1,0 +1,820 @@
+
+
+KIZNAIVER
+Episode 05
+
+
+
+
+
+
+1 (00:00:02:00)
+
+NIYAMA	On est arrivés, c'est nous  !
+
+TENGA	L'ambiance est chouette, c'est pas mal du tout.
+
+NIYAMA	Eh  ! Regardez, il y a des bains ici !
+
+SONOZAKI	Cette maison est une auberge qui appartient au Comité Kizna. Il n'y a pas de gérant ni de personnel, mais quelqu'un passe faire le ménage régulièrement. Vous devrez donc préparer les bains et les repas vous-mêmes en faisant chauffer l'eau au feu de bois. Vous en trouverez dans le maquis.
+
+MAKI	(h\)
+
+TENGA	Dans le maquis ? Tu as entendu ce qu'elle vient de dire ? Elle a dit "  maquis  "! Maki ! Maki  !
+
+MAKI	Il a trois ans ou quoi...
+
+TAKASHIRO	(hh\) Alors, on souffle un peu et ensuite on se partage le travail. Nous allons faire deux groupes. Un pour les bains et un autre pour... les repas avec... Moi, Maki, Yuta et... Tenga!
+
+TENGA	(hmhm)
+
+TAKASHIRO	(huh) Heu... pour le groupe des repas, je crois que ça va aller.
+
+TENGA	(huh)
+
+NIYAMA	(hm)
+
+OUT (00:00:54:20)
+
+INSERT	([TITRE EPISODE : Un camp d'entraînement ! Cool  ! On va marcher dans les crottes de cerfs et faire des batailles de polochons !]) ([TITRE SERIE / KIZNAIVER])
+
+
+2 (00:02:28:02)
+
+TENGA	Mais qu'est-ce qui t'as pris !? Ressaisis-toi ! C'est toi qui fais les groupes. Et tu n'es même pas foutue de te mettre avec lui, ça va pas ! Eh !
+
+TAKASHIRO	C'est parce que tu n'arrêtes pas de me mettre la pression, c'est à cause de toi tout ça !
+
+YUTA	On y réfléchit à deux fois avec les emmerdeuses, tu sais.
+
+TAKASHIRO	(huh) Mais... Heu... C'est vous qui n'êtes vraiment pas discrets.
+
+YUTA	Non, ça crève les yeux. Pas besoin de dire quoi que ce soit.
+
+TAKASHIRO	(hh/)
+
+YUTA	Je te jure Takashiro, tu es un peu lourde.
+
+TAKASHIRO	(hhh/)
+
+TENGA	(hh/)
+
+YUTA	Du coup avec toi, on hésite à attaquer. Tu n'es pas du genre à prendre les choses à la légère.
+
+TAKASHIRO	Je suis trop lourde, c'est ça alors... Mais bien sûr...
+
+TENGA	Lâche pas la rampe, tu vas y arriver. Ne perds pas courage.
+
+
+3 (00:03:06:00)
+
+HISOMU	Katsuhira, tu veux bien tenir cette bûche pour qu'elle reste bien droite pendant que je la fends ?
+
+NIYAMA	Quoi ! Mais, tu es malade, c'est dangereux !
+
+HISOMU	(oh\)
+
+KATSUHIRA	Heu...
+
+HISOMU	Dans ce cas, tu veux bien t'assoir ici  ? Et tu ne la lâches pas des yeux le temps que je la coupe.
+
+NIYAMA	Eh  ! Mais  ça aussi c'est dangereux ! Il va se prendre des éclats de bois dans le visage !
+
+KATSUHIRA	(hm)
+
+HISOMU	Alors, est-ce que tu pourrais...
+
+NIYAMA	Attends un peu, une petite seconde! Tu ne serais pas en train d'essayer de trouver le moyen de lui faire du mal quand même ?
+
+HISOMU	(hm)
+
+NIYAMA	(huh) Non, mais ça va pas la tête  !
+
+
+4 (00:03:35:09)
+
+SONOZAKI	Alors ça y est  ? C'est parti  ? Mais pourquoi ? Ça ne devait être qu'un simple camp d'entrainement au départ. Non, ce n'est pas ce que j'ai voulu dire, je ne m'en plains pas. A plus tard.
+
+URUSHI	(h\) Nori...
+
+YAAMADA	Vas-y! Encore, encore, recule ! Stop !
+
+
+5 (00:03:56:00)
+
+KAMAISHI	Mademoiselle Urushi... Je vous demande pardon mais, c'est quoi ces drôles de machins, là ?
+
+URUSHI	Ça ? Ce sont vos camarades de travail.
+
+KAMAISHI	On va travailler avec eux  ? Ça veut dire qu'ils sont comme nous ? Eux aussi ils sont liés  par le Kizna ?
+
+URUSHI	Non. Eux, ils sont normaux.
+
+KAMAISHI	Hein ?!
+
+YOSHIZAWA	Quoi?! Pourquoi il n'y a que nous  ? C'est pas juste  !
+
+URUSHI	Pensez à Tenga.
+
+YOSHIZAWA	(hh\)
+
+URUSHI	Vous vouliez le tuer si je ne me trompe. Nous vous demandons seulement de leur faire peur. Mais si jamais Tenga trouvait accidentellement la mort dans cette épreuve, on s'occuperait de faire le ménage.
+
+YOSHIZAWA	Ça rigole pas votre truc !
+
+URUSHI	(mhh) Si l'un d'entre eux éprouve une peur bleue, peu importe lequel, je vous fais la promesse que vous serez libérés du kizna.
+
+
+6 (00:04:35:00)
+
+TENGA	Un régal  !
+
+NIYAMA	Oh oui! C'est trop bon, un vrai délice !
+
+TENGA	Les bouchées de poulet, les tempuras de légumes sauvages, les pommes de terre, rien à redire ! Et qui est-ce qui nous a mitonné tout ça  ? C'est Takashiro  !
+
+TAKASHIRO	(huh)
+
+TENGA	C'est à peine, croyable. Tu y crois toi, Katsuhira ?
+
+KATSUHIRA	Oui, ça ne m'étonne pas une seconde.
+
+TENGA	Hein?
+
+KATSUHIRA	Je sais très bien comment Takashiro cuisine. Elle me prépare souvent à manger.
+
+TENGA	Oui. C'est vrai... Mais... par ailleurs, je trouve que c'est une fille bourrée de qualités, elle est formidable.
+
+TAKASHIRO	Mais... Tenga, à quoi tu joues, là  ?
+
+TENGA	Elle fait super bien la cuisine et elle a un joli petit minois. Oui, c'est pas tous les jours qu'on tombe sur une merveille pareille. (huh)
+
+TAKASHIRO	C'est bon maintenant, ça suffit !
+
+TENGA	Il n'y a pas de quoi avoir honte. Avec des sauces de cette qualité, on s'enfilerait facile cinq bols de riz. Pas vrai, Yuta ? (hum)
+
+
+7 (00:05:21:00)
+
+TENGA	Qu'est-ce qu'il y a  ? Tu ne manges pas ?
+
+YUTA	Non, je n'ai pas le droit de manger de poulet ni de légumes frits.
+
+TENGA	Quoi  ? Mais attends, hier je t'ai vu manger du--
+
+YUTA	Du riz, oui. C'est tout.
+
+KATSUHIRA	Mais enfin, pourquoi tu ne me l'as pas dit  ? Qu'est-ce que tu peux manger alors ?
+
+YUTA	J'ai droit aux œufs et à la viande hachée.
+
+TAKASHIRO	(huh)
+
+TENGA	(huh)
+
+MAKI	Comme les bébés...
+
+TAKASHIRO	Je vais aller te préparer quelque chose. J'ai vu qu'on avait des œufs.
+
+YUTA	Non, ça va aller. J'ai ça.
+
+TAKASHIRO	(hhh/)
+
+TENGA	Quoi  ?! Eh, ça va, on sait que tu te la joues branché, mais t'es pas sérieux, là. il faut que tu manges. C'est bon, vas-y! Lâche-toi  ! Montre-nous comment tu faisais quand tu étais gros !
+
+YUTA	Fous-moi la paix. Je n'ai pas envie.
+
+TAKASHIRO	C'est bon, Tenga. Tais-toi et mange !
+
+
+8 (00:06:01:05)
+
+TAKASHIRO	(ahh) (h/)Ça fait du bien ! Maki aurait dû se joindre à nous. Elle a raté quelque chose  !
+
+NIYAMA	Oh oui  !
+
+TAKASHIRO	(hh)
+
+NIYAMA	(hh/)
+
+TAKASHIRO	(oh)
+
+NIYAMA	(huhhuh) (oh)
+
+SONOZAKI	Moi je sors, c'est bon, j'ai fini.
+
+NIYAMA	Rien ne l'impressionne, elle se fiche de tout!
+
+
+9 (00:06:31:00)
+
+MAKI	Non, attendez ! Je croyais pourtant vous avoir dit que je n'étais pas d'accord. Et, je n'ai pas l'intention de revenir sur... (hh/) ça a coupé...
+
+RURU	Maki! Maki ! Maki...
+
+MAKI	(hh\)(h/)(hh\)
+
+RURU	Maki !
+
+MAKI	Qu'est-ce que c'est ? (hh/)
+
+RURU	Maki! Tu peux bien te consumer ! Maki ? Consume-toi ! Maki ? Consume-toi !
+
+MAKI	(hh\) (hh/)Mais qu'est-ce que tu veux ?
+
+
+10 (00:07:13:00)
+
+SONOZAKI	(hh/)
+
+KATSUHIRA	Il ne passe pas inaperçu ce pyjama.
+
+SONOZAKI	Oui. Enfant j'étais déjà très grande. Du coup, mes pyjamas de petite fille me vont encore.
+
+KATSUHIRA	Je comprends mieux. Dis-moi...
+
+SONOZAKI	Qu'est-ce qu'il y a ?
+
+KATSUHIRA	Pourquoi nous as-tu accompagnés ?
+
+SONOZAKI	Je te rappelle que c'est toi qui m'as invitée.
+
+KATSUHIRA	Oui, c'est vrai, mais... c'est parce que tu as dit... que chacun d'entre nous avait besoin de se sentir lié à quelqu'un.
+
+SONOZAKI	(h/)
+
+KATSUHIRA	Je me demandais si au fond tu n'étais pas venue ici pour te lier à chacun d'entre nous.
+
+SONOZAKI	(mh\)
+
+
+11 (00:07:56:11)
+
+SONOZAKI	Là, sur ta joue...
+
+TAKASHIRO	(huh) Katchon! (hh/hh\)
+
+KATSUHIRA	(huh)
+
+TAKASHIRO	(h/)(h\) (h/) (huh)
+
+SONOZAKI	Un moustique.
+
+KATSUHIRA	Apparemment, il a fait un festin.
+
+SONOZAKI	Oui. Mais c'était son dernier repas.
+
+TAKASHIRO	(hh) ([Pleure]) Ça fait mal... (h/)(h\)
+
+
+12 (00:08:35:00)
+
+YUTA	(hh/)
+
+MAKI	(hm)
+
+YUTA	(hm)
+
+MAKI	Allez... Mange. Qu'est-ce que tu attends ?
+
+YUTA	(hh)
+
+MAKI	([boit]) (h\)
+
+YUTA	Tu as raison, j'attaque. Dis donc  ! Tu cuisines bien, Maki !
+
+MAKI	Ce n'est rien du tout, je n'appelle pas ça de la cuisine.
+
+YUTA	Tu es plutôt sympa finalement.
+
+MAKI	(mhm\) Si moi je suis sympa, alors toi tu es un véritable saint. Tu as épluché et découpé tous ces légumes sans rechigner, alors que tu n'en manges pas.
+
+
+13 (00:09:11:00)
+
+YUTA	Tu sais... j'étais le cas typique du gamin livré à lui-même. Pour me nourrir, j'allais acheter des trucs tout prêts à la supérette. A force de ne manger que des saloperies, j'étais devenu énorme. Tu es du genre à écouter sans décrocher un mot ?
+
+MAKI	Disons plutôt... que ça ne m'intéresse pas.
+
+YUTA	Message reçu. Dommage.
+
+MAKI	Yuta ?
+
+YUTA	(hm)
+
+MAKI	Tu aimes mes seins  ? Ils te plaisent pas vrai  ?
+
+YUTA	(oh) Toi alors  ! On peut dire que tu n'y vas pas par quatre chemins. Mais, j'avoue qu'ils me plaisent.
+
+MAKI	Qu'est-ce que tu en sais  ? Ils sont cachés sous mes vêtements, tu ne les as jamais vus.
+
+
+14 (00:09:50:08)
+
+MAKI	Qu'est-ce que tu ferais si tu découvrais que je ne suis pas comme les autres et que j'ai un troisième sein  ?
+
+YUTA	Un troisième sein ?
+
+MAKI	Ça te fait fantasmer ? Tu es déjà en train d'imaginer des choses. Tu ignores absolument tout de ce que je suis, mais tu t'es déjà fait une opinion à mon sujet.
+
+YUTA	Non. Pourquoi tu dis ça  ? Parle, c'est ton tour. Toi aussi tu as des choses à dire sur ton passé ? (hh/) (huh)
+
+MAKI	Tu veux les voir  ? De tes propres yeux  ?
+
+YUTA	(huh) Qu'est-ce que tu as ?
+
+MAKI	Tu vois Yuta, je n'en ai rien à faire de ce qui peut m'arriver. Je veux bien me consumer.
+
+YUTA	(mhh\)
+
+
+15 (00:10:29:00)
+
+YUTA	Je ne suis pas comme Hisomu. Je n'ai aucun penchant pour les trucs glauques. Je préfère les histoires normales.
+
+MAKI	C'est quoi "  normales  " pour toi ?
+
+YUTA	Quand on joue à ça, on fait attention à l'autre, on lui dit qu'on l'aime. Même si ce n'est pas vrai. C'est ça... une histoire normale.
+
+MAKI	Ce mec est chiant à mourir.
+
+YUTA	(huh) (huh)
+
+MAKI	Quand on me dit non, je ne sais pas pourquoi mais je me sens encore plus excitée.
+
+YUTA	Non  ! Attends !
+
+MAKI	Qu'est-ce que tu as  ? Ne me dis pas que tu es puceau  ?!
+
+YUTA	(hhh/)
+
+MAKI	(huh) (hh/)
+
+YUTA	(hh/)
+
+MAKI	(h\)
+
+YUTA	(h\)
+
+YAAMADA	Eh bien dis donc, jeunes gens !
+
+MAKI	(huh)
+
+YUTA	(huh)
+
+YAAMADA	On peut dire que vous n'avez pas perdu de temps. Souvenez-vous que je vous avais demandé de me montrer des images... de vos petites sauteries.
+
+INSERT	([TITRE SERIE : Kiznaiver])
+
+
+16 (00:11:17:00)
+
+YOSHIZAWA	(ahah)C'est horrible, ça gratte, ça gratte !(huh)
+
+KAMAISHI	Je t'avais pourtant dit de mettre de l'anti-moustiques ! Tiens ! Je te rappelle que tu partages ton corps alors essaie de faire gaffe.
+
+YOSHIZAWA	A quoi bon se protéger  ? Après ce qu'ils nous ont fait, ça n'a plus aucun sens. C'est trop tard maintenant !
+
+KAMAISHI	(hh/)(ahah) Permets-moi de te dire qu'on n'en serait pas là si tu ne t'étais pas acharné sur Katsuhira. (huh)
+
+YOSHIZAWA	Attends Kamaishi, je ne comprends pas . Tu ne serais pas en train de dire que c'est de ma faute ? Tu n'oserais quand même pas trahir notre amitié, pas vrai ?
+
+KAMAISHI	(hhhh) (huhhuh)
+
+YOSHIZAWA	Tu n'as qu'à t'en prendre à Tenga si tu cherches un responsable. Jamais on n'aurait eu envie de lui faire la peau s'il n'avait pas été là  !
+
+KAMAISHI	(ah) Mais ça va pas ?!
+
+YOSHIZAWA	On va faire comme Urushibara a dit  : on va lui mettre la main dessus, on va le coincer et on va le buter !
+
+
+17 (00:12:05:00)
+
+KAMAISHI	(oh\) J'ai vraiment pas eu de chance sur ce coup-là. Pourquoi il a fallu que je me retrouve lié à lui  ? (huh) (hh/)
+
+TAKASHIRO	([Pleure])
+
+KAMAISHI	(mh\)
+
+
+18 (00:12:20:00)
+
+SONOZAKI	Voici Yamada Kazunao. Mais tout le monde l'appelle Yaamada.
+
+YAAMADA	([rire])
+
+SONOZAKI	Notre professeur principal, membre numéro... trois cent quatre-vingt-quatorze du Comité Kizna.
+
+YAAMADA	Salut les jeunes !
+
+SONOZAKI	Et voici Urushibara Mutsumi. On l'appelle, Urushy. Urushi est notre conseillère scolaire, et le membre numéro trois cent vingt-huit du Comité Kizna.
+
+URUSHI	Ravie de vous rencontrer.
+
+TENGA	Alors, Yaamada... Urushy...
+
+YUTA	Attends, le prof principal et la conseillère sont dans ce comité ?
+
+URUSHI	Vous saviez que Nori était la mascotte du Comité?
+
+
+19 (00:12:51:00)
+
+NIYAMA	Waou  ! Vous avez vu  ? C'est Sonozaki !
+
+HISOMU	Alors, comme ça, ton petit nom c'est Nori  ?
+
+SONOZAKI	Oui, j'aurais dû me présenter plus tôt.
+
+KATSUHIRA	Nori...
+
+MAKI	Ça ne tourne pas rond dans cette assoc.
+
+TENGA	Tiens d'ailleurs, où est Takashiro ?
+
+NIYAMA	(oh)
+
+HISOMU	Je pensais qu'elle était aux toilettes. Mais ça fait un moment maintenant.
+
+NIYAMA	Vous voulez que j'aille la chercher ?
+
+YAAMADA	(huh) Bonne idée. Attention, vous êtes prêts  ? C'est parti  !
+
+TENGA	(huhhuh)
+
+HISOMU	(hhh)
+
+NIYAMA	([cri])
+
+
+20 (00:13:20:00)
+
+TENGA	(huh)
+
+INSERT	([Test de courage])
+
+TENGA	Quoi?! Un... un test de courage ? (huh)
+
+YUTA	(huh)
+
+MAKI	(huh)
+
+KATSUHIRA	Je ressens une étrange douleur...
+
+TENGA	Takashiro !
+
+KATSUHIRA	(h\)(h/)
+
+YAAMADA	Eh les jeunes  ! L'épreuve a démarré ! Il serait temps d'aller la chercher, non ? On dirait qu'elle a commencé à se payer du bon temps, pendant que vous vous êtes là à glander. Dépêchez-vous...
+
+TENGA	([grogne])Qu'est-ce que vous avez fait à Takashiro? Espèce de -- (huh) (h\) (huh)
+
+YAAMADA	(huh)
+
+TENGA	(huh) Pourquoi est-ce que vous-- (huh)
+
+YAAMADA	(ahah)
+
+
+21 (00:14:02:00)
+
+MAKI	([cri]) (hhh/)
+
+NIYAMA	([Cri])(huhhuh) (hhh/)
+
+TENGA	Niiyama !
+
+NIYAMA	([cri])
+
+MAKI	(hh/)(hh\)Attendez , c'est ça que vous appelez un test de courage ?
+
+URUSHI	Cette épreuve prendra fin, dès que vous aurez réussi à retrouver votre amie Takashiro.
+
+TENGA	(huh)
+
+YUTA	Ne restons pas là !
+
+TENGA	(hhh/)
+
+YUTA	On a plus de chance de retrouver Takashiro, que de gagner contre des tronçonneuses. (h/\)
+
+TENGA	(hh/\)
+
+NIYAMA	Vite ! ([pleurniche])
+
+
+22 (00:14:29:00)
+
+TENGA	(huh)(hh\)(hh/)(hhh\) (h/)(h\)
+
+KATSUHIRA	(hh\)(h/)(hh\) (h/\)
+
+TENGA	(h/\)
+
+MAKI	(h/)(h\)Vous croyez... qu'on les a semés ? (h/)([cri)]
+
+INSERT	([Famille Maki])
+
+NIYAMA	Des tombes ! (huhhuhhuhhuhhuh)
+
+TENGA	(huh)
+
+HISOMU	(huhhuh)
+
+INSERT	([Famille Niyama. Famille Hisomu. Famille Yuta. Famille Agata. Famille Tenga])
+
+YOSHIZAWA	(ahahahahah) (huhhuh) ([vomit])
+
+NIYAMA	([cri])
+
+MAKI	([cri])
+
+TENGA	([cri])
+
+URUSHI	([boit])
+
+YAAMADA	Allez jeunes gens !
+
+URUSHI	([boit])
+
+YAAMADA	Courrez à perdre haleine.
+
+URUSHI	(hh)
+
+
+23 (00:15:04:00)
+
+TAKASHIRO	(huh) (huh) (h/\) (huh) (h/\)(huh) (hm) (hh/\) (hh/\) (h/\) (ahahahah/)
+
+
+24 (00:15:33:00)
+
+NIYAMA	([cri])Non  ! Ça suffit, j'en ai marre  ! Laissez-moi  ! Laissez-moi  ! (oh)Ça alors ?
+
+MAKI	Ils ne sont pas très... vaillants...
+
+YUTA	(oh) Regardez  ! Vous avez vu  ? Ceux-là n'ont même pas d'armes!
+
+TENGA	Ah ouais ? Et tu pouvais pas le dire plus tôt ? ([cri])
+
+HISOMU	(oh)Trop bien ! Il a fait un lariat torpille avec les tombes !
+
+YUTA	On n'a plus le choix. Il va falloir qu'on se les fasse.
+
+MAKI	Je t'en prie, passe devant si tu y tiens !
+
+YUTA	(huh)
+
+TENGA	(huh) Katsuhira ! Va chercher Takashiro pendant ce temps-là !
+
+KATSUHIRA	Mais... je ne sais pas où --
+
+TENGA	Dépêche-toi  ! Tu as entendu ?
+
+KATSUHIRA	(h/)
+
+TENGA	Tu dois absolument la retrouver !
+
+KATSUHIRA	Oui.
+
+
+25 (00:16:16:00)
+
+NIYAMA	S'il fait ça, ça veut dire qu'il tient beaucoup à elle ?
+
+MAKI	(huh)
+
+NIYAMA	Mais moi aussi je suis capable  ! (h/) (ohohoh) (oh)
+
+YOSHIZAWA	Toi, tu vas prendre cher. Je ne te pardonnerai jamais  ! Tenga !
+
+NIYAMA	(huh)
+
+YOSHIZAWA	(huh)
+
+KAMAISHI	(huh) (ahahah)
+
+TAKASHIRO	(hh/) (hh\)
+
+KAMAISHI	(huhhuh)
+
+
+26 (00:16:40:16)
+
+SONOZAKI	Pourquoi leur faire subir des violences physiques ?
+
+URUSHI	Nori, cela fait partie de l'expérience.
+
+SONOZAKI	Lors de la mission dans l'hôpital en ruines, ils ont déjà été exposés à des peurs et des douleurs imprévues pour mesurer l'intensité des liens qui les unissaient. Ils en sont conscients désormais. Ce camp d'entraînement avait pour but de renforcer leur confiance mutuelle et leurs liens d'amitié.
+
+YAAMADA	Il se trouve, que de nouveaux éléments ont rendu cette expérience nécessaire.
+
+SONOZAKI	(hh)
+
+
+27 (00:17:05:11)
+
+TAKASHIRO	Kamaishi, c'est toi ?
+
+KAMAISHI	(ah) Cette douleur atroce. C'est sûrement Yoshizawa qui se fait rétamer par Tenga !
+
+TAKASHIRO	(hh/) Cette blessure... C'est impossible !
+
+KAMAISHI	Je n'ai vraiment pas eu de chance, je te le dis. Tout ça parce que je suis copain avec lui depuis la maternelle. Sans lui, je serais allé dans un meilleur lycée. Et j'aurais eu beaucoup plus de succès avec les filles, c'est sûr.
+
+TAKASHIRO	Quoi? Heu... Attends...
+
+KAMAISHI	Je ne suis même pas capable de foutre les pétoches à une nana. Et j'imagine qu'ils ne voudront jamais nous libérer du Kizna après ça.
+
+
+28 (00:17:33:08)
+
+TAKASHIRO	Arrête. Tu te fais du mal pour rien, là, crois-moi. Nous aussi on est liés par la douleur, tu sais ? On vit la même chose. Et pourtant, nous...(hhh/)
+
+KAMAISHI	C'est pas pareil ! Pour vous, c'est facile ! Yoshizawa a un caractère de chien, je te jure que je dérouille, moi ! Il est tout le temps en train de chercher la merde et il passe son temps à racketter les gens !
+
+TAKASHIRO	Oui, c'est pas faux.
+
+KAMAISHI	Pourquoi est-ce que je suis le seul à souffrir le martyr ? (oh)J'en ai assez. Je n'en peux plus. Ma vie est finie ! Je veux mourir, maintenant, sur-le-champ!
+
+
+29 (00:18:02:17)
+
+TAKASHIRO	Si tu dois mourir, alors rends-le-lui !
+
+KAMAISHI	(huh)
+
+TAKASHIRO	(hhh/)
+
+KATSUHIRA	Je crois que je me suis perdu.
+
+TAKASHIRO	Rends-lui l'argent que vous lui avez volé !
+
+KATSUHIRA	C'est curieux... C'est la même douleur... que tout à l'heure.
+
+
+30 (00:18:29:00)
+
+URUSHI	Voici l'analyse de leurs ondes cérébrales durant la mission qui consistait à retrouver Hisomu
+
+SONOZAKI	Attendez, cette onde, là...
+
+YAAMADA	En effet. Désormais, ce n'est plus seulement la douleur physique qui les lie.
+
+
+31 (00:18:40:01)
+
+KAMAISHI	Euh, ton bras, tu as vu, il est tout--
+
+TAKASHIRO	À cause de vous, Katchon a souffert bien plus fort encore et ça a duré une éternité  !
+
+KAMAISHI	Quoi? Comment ça, qu'est-ce que tu en -- ? (huh)
+
+TAKASHIRO	Je le sais parce que j'ai souffert aussi !
+
+KAMAISHI	Hein?!
+
+KATSUHIRA	(h/\)
+
+TAKASHIRO	Maintenant que je suis liée à Katchon, je comprends mieux.(h/) Je ressens moi aussi les douleurs qu'il éprouve, ça fait mal ! (hh/)Je peux te jurer qu'il souffre lui aussi  !
+
+
+32 (00:19:04:00)
+
+MAKI	C'est quoi bon sang cette étrange tristesse qui m'oppresse?
+
+HISOMU	(ah) Toi aussi tu sens ça, Maki ?
+
+NIYAMA	Moi aussi. Je ne comprends pas, je me sens au bord des larmes. J'ai l'estomac noué et plus on avance sur ce chemin plus je suis triste. C'est de plus en plus fort, de plus en plus fort  !
+
+TENGA	Punaise, j'aime pas ça, c'est horrible ! Je préfère encore une bonne vieille douleur physique.
+
+
+33 (00:19:24:00)
+
+TAKASHIRO	J'avais si mal, quand je voyais Katchon, (h/) vous donner tout ce qu'il avait ! (hh\) Quand il se faisait frapper j'étais dévastée. (h/)Je souffrais
+
+KATSUHIRA	(h\) (h/)(h\)
+
+TAKASHIRO	J'étouffais ! Mais nous avons tenu bon. On s'est accrochés Katchon et moi. (hh/)ça a été très dur mais on s'en est sortis.(h\/) Alors, je t'en prie (h/) ne me dis pas que tu as envie de mourir pour si peu !
+
+KAMAISHI	(huhhuh) Oui. Tu as raison.
+
+TAKASHIRO	Bien sûr que j'ai raison ! (h/) Mais pour moi (h\) les souffrances ne se sont pas arrêtées là, le cauchemar a continué, (h/) quand Sonozaki est apparue comme par enchantement !
+
+KAMAISHI	(huh)
+
+TAKASHIRO	J'ai enduré cette douleur. J'ai souffert avec Katchon pendant tout ce temps ! Alors, pourquoi ?! Pourquoi est-ce qu'il a fallu qu'elle débarque celle-là  ?!
+
+
+34 (00:20:10:00)
+
+KATSUHIRA	(hm) Je me demande aussi ce que Sonozaki vient faire dans cette histoire.
+
+TAKASHIRO	(hh/)
+
+TOUS	Heu... (hm)
+
+TAKASHIRO	([cri])
+
+TENGA	(hm) Kamaishi, espèce d'ordure !
+
+KAMAISHI	(hh/\)
+
+KATSUHIRA	Attends. Je veux lui parler.
+
+KAMAISHI	(huhhuh)
+
+KATSUHIRA	Je veux que tu me le rendes.
+
+KAMAISHI	Hein?
+
+KATSUHIRA	Je veux tout l'argent que je vous ai donné à toi et à Yoshizawa.
+
+TAKASHIRO	(h\/)
+
+NIYAMA	Katsuhira...
+
+KATSUHIRA	Chaque fois que je prenais des coups ou qu'on me volait mon argent, c'est le cœur de Tchidori qui souffrait. Mais je ne pouvais pas le savoir.
+
+TAKASHIRO	([pleure])
+
+KATSUHIRA	En plus, Tchidori n'est plus seule à souffrir maintenant. Chaque fois que j'ai mal, vous aussi vous souffrez. Alors, je veux cet argent.
+
+TAKASHIRO	Katchon !
+
+TOUS	(huh)
+
+
+35 (00:21:07:00)
+
+TENGA	Ah... Vous avez déjà vu un lever de soleil comme celui-ci ?
+
+MAKI	Vous êtes sûrs qu'on fait bien de les laisser tous les deux ?
+
+YUTA	Oh oui  !
+
+
+36 (00:21:16:17)
+
+TAKASHIRO	Désolée. Je me suis tordu la cheville quand j'ai couru pour échapper à Kamaishi.
+
+KATSUHIRA	Ne t'en fais pas.
+
+TAKASHIRO	Tu trouves que je suis lourde ?
+
+KATSUHIRA	Oui.
+
+TAKASHIRO	(huh)
+
+KATSUHIRA	Un peu.
+
+TAKASHIRO	(hh\) (h/) Je suis trop lourde. C'est ça, hein  ? Dis-le  !
+
+KATSUHIRA	Oui, c'est vrai, tu es lourde, mais c'est comme ça.
+
+TAKASHIRO	Qu'est-ce que tu veux dire  ?
+
+KATSUHIRA	Que ce n'est pas un problème. Pour moi, tu es très bien comme tu es.
+
+TAKASHIRO	Heu... comment ça?
+
+
+37 (00:21:46:18)
+
+KAMAISHI	Tiens, vous êtes là vous aussi.
+
+YAAMADA	Oui. Vous avez bien travaillé.
+
+YOSHIZAWA	(ahahah)
+
+KAMAISHI	Yoshizawa ! Eh, tu m'entends  ?
+
+SONOZAKI	Ils ont réussi. Ils ont gagné ce territoire que personne auparavant n'avait jamais atteint.
+
+YAAMADA	On dirait que nous sommes entrés dans la seconde phase.
+
+SONOZAKI	Les Kiznaivers... Peut-être vont-ils y arriver finalement.
+
+OUT (00:22:12:12)
+
+
+38 (00:23:42:00)
+
+MAKI	Avec vous,
+
+INSERT	([TITRE SERIE : Kiznaiver])
+
+MAKI	c'est les ennuis assurés.
+
+INSERT	([Dans le prochain épisode])
+
+YUTA	Tranquille Honoka ! Arrête de mordre.
+
+INSERT	([TITRE PROCHAIN EPISODE : Avec vous, c'est les ennuis assurés])
+
+YUTA	Quoi que... j'ai pas le droit aux pickles, mais j'aime bien les gens qui ont du piquant.
+
+MAKI	C'est bon le puceau, la ramène pas.
+
+YUTA	Toi, tu as l'art de frapper là où ça fait mal.

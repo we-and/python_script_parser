@@ -1,0 +1,660 @@
+[ CAREBEARS EP 148 ]
+
+
+
+
+
+
+1 (01:00:40:16)
+
+CHEER	Ah! On est arrivés! (h) Notre nouvelle mission peut commencer!
+
+DIBBLE	(h) Houhouuuu! Haha! [roooo]
+
+GRUMPY	Quelle mission? Il y a des fleurs à perte de vue! Alors il est où le problème?
+
+CHEER	Patience! Je t'explique! La tour des Bisous a reçu un rapport indiquant que les jardinous auraient quelques soucis.
+
+SHARE	On ne saura pas ce que c'est tant qu'on ne les aura pas trouvés et qu'on ne connaîtra pas l'état des choses.
+
+GOODLUCK	Alors... en route!
+
+CHEER	Là!
+
+AMB WHIFFLES	Houuuu! [rooooo] Ahah! [raaaa]
+
+CHEER	Je les entends! Ils sont en bas!
+
+
+2 (01:01:10:22)
+
+DIBBLE	Hein? [brrrrrrr] [brrrrrrr]
+
+GRUMPY	Euh... Cet endroit a l'air trop paisible pour qu'il y ait un problème! A mon avis, c'est une fausse alerte!
+
+SHARE	Ohhhhhh! [snif] Elles sentent trop bon! [snif] Aaaah!
+
+SHRINKING VIOLET	Hé! Je suis devant toi!
+
+SHARE	Hein? Est-ce que quelqu'un vient de me parler?
+
+GRUMPY	Hoh! Oui, moi! Tu es avec nous, oui ou non?
+
+SHARE	[snif] [snif] Aaaah!
+
+SHRINKING VIOLET	Ahahahah!
+
+
+3 (01:01:43:21)
+
+GOODLUCK	(h)
+
+WHIFFLE 1 JAUNE	[mmm]
+
+WHIFFLE 2 VERT	C'est mon tour de le faire!
+
+WHIFFLE 1 JAUNE	Non non!
+
+WHIFFLE 2 VERT	(h)
+
+WHIFFLE 1 JAUNE	Tu l'as fait en dernier!
+
+WHIFFLE 2 VERT	(h) Menteur!
+
+GRUMPY	Arrrgh!
+
+WHIFFLE 1 JAUNE	C'est toi qui mens!
+
+GRUMPY	On se calme! On se calme! On pourrait savoir pourquoi vous vous disputez?
+
+WHIFFLE 2 VERT	C'est à moi de passer le râteau dans le pré!
+
+WHIFFLE 1 JAUNE	Non non! C'est à moi!
+
+WHIFFLE 2 VERT	Menteur!
+
+WHIFFLE 1 JAUNE	Oh non!
+
+WHIFFLE 2 VERT	Oh si!
+
+FUNSHINE	Ils sont pas très commodes, ceux-là!
+
+WHIFFLE 2 VERT	[efforts]
+
+WHIFFLE 1 JAUNE	[efforts]
+
+CHEER	Ca c'est pour notre amie Tougentille et son talent pour réconcilier tout ce qui respire!
+
+CHEER CANADA	Ca c'est pour notre amie Egalours et son talent pour réconcilier tout ce qui respire!
+
+WHIFFLE 2 VERT	Ah!
+
+WHIFFLE 1 JAUNE	C'est mon tour!
+
+WHIFFLE 2 VERT	Ah!
+
+WHIFFLE 1 JAUNE	(h)
+
+WHIFFLE 2 VERT	Ah!
+
+WHIFFLE 1 JAUNE	(h)
+
+WHIFFLE 2 VERT	Non! Le mien!
+
+WHIFFLE 1 JAUNE	(h)
+
+WHIFFLE 2 VERT	(h)
+
+SHARE	(h/)
+
+GRUMPY	Tu perds ton temps!
+
+SHARE	(h) (h/)
+
+GRUMPY	A ta place, moi, je leur dirais de lâcher l'affaire!
+
+WHIFFLE 2 VERT	(h/) C'est à moi de le faire!
+
+SHARE	[elle n'a plus de voix, on n'entend rien]
+
+WHIFFLE 1 JAUNE	Non! C'est à moi de le faire!
+
+GOODLUCK	(h)
+
+WHIFFLE 2 VERT	C'est mon tour!
+
+WHIFFLE 1 JAUNE	Non non! Tu l'as fait hier!
+
+GRUMPY	Ben alors? Tu as perdu ta langue? Oh!
+
+CHEER	Ca va? Qu'est-ce que tu as?
+
+
+4 (01:02:33:19)
+
+CHEER	Tu as une extinction de voix?
+
+GRUMPY	Comment?
+
+CHEER	Oh!
+
+DIBBLE	Hein?
+
+FUNSHINE	Tu as perdu ta voix?
+
+GOODLUCK	Hein? Comment c'est arrivé?
+
+FUNSHINE	(h)
+
+CHEER	Bon d'accord, reprenons au début! Dis-moi exactement tout ce qui s'est passé après que tu sois descendue du Vaisseau-Nuage. Oh! Oui! Pardon! Hé je sais! T'as qu'à faire du mime!
+
+GRUMPY	Et des charades? Je suis un expert en charade!
+
+FUNSHINE	Ah non!
+
+GRUMPY	(h)
+
+FUNSHINE	C'est moi, l'expert!
+
+GOODLUCK	Hein? Menteur! C'est moi! Oh!
+
+GRUMPY	Tu étais dans un défilé militaire!
+
+GOODLUCK	Ah!
+
+FUNSHINE	Euh, tu euh, écrases du raisin!
+
+GOODLUCK	Tu voulais être majorette!
+
+DIBBLE	Ah! Hou hou! Euh, euh... Tu danses?
+
+FUNSHINE	Non Doublette, ce n'sont pas des pas de danse, ça!
+
+GRUMPY	Oh? Par contre, elle a vendangé tout à l'heure ?
+
+GOODLUCK	Je vote pour moi. Il n'y a pas de militaires dans la Contrée d'Argent!
+
+GRUMPY	[pff!]
+
+SHARE/VIOLET 1	Hé les jardinous! Vous êtes où?
+
+DIBBLE	Oh!
+
+CHEER+FUNSH	Oh!
+
+GOODLUCK	Oh!
+
+DIBBLE	Oh!
+
+CHEER	Tu pourrais répéter?
+
+
+5 (01:03:16:08)
+
+SHARE/VIOLET 1	Pourquoi vous ne m'écoutez pas?
+
+FUNSHINE	Whoooaaaa oh! Mais comment tu fais ça?
+
+CHEER	Euh.. dites, c'est la voix de Tougentille, mais elle vient d'ailleurs!
+
+CHEER CANADA	c'est la voix d'Egalours,
+
+SHARE/VIOLET 1	Dis carrément qu'elle vient d'ici!
+
+CHEER	De ce champ de fleurs!
+
+GRUMPY	Ooooh! Une voleuse de voix, donc! Il faut trouver laquelle c'est et la forcer à nous la rendre!
+
+GOODLUCK	Oui, on est avec toi!
+
+CHEER	Oui!
+
+FUNSHINE	En avant!
+
+
+6 (01:03:41:19)
+
+WHIFFLE 2 VERT	Tu n'y connais rien en jardinage!
+
+WHIFFLE 1 JAUNE	C'est toi qui n'y connais rien!
+
+WHIFFLE 2 VERT	Tu racontes n'importe quoi parce que tu te crois supérieur aux autres!
+
+WHIFFLE 1 JAUNE	Oh!
+
+SHARE/VIOLET 1	Les jardinous!
+
+WHIFFLE 1 JAUNE	J'en ai assez que tu me cries dessus tout le temps!
+
+SHARE/VIOLET 1	Calmez-vous!
+
+WHIFFLE 1 JAUNE	Je te répète que tu es nul en jardinage!
+
+SHARE/VIOLET 1	S'il vous plait.
+
+WHIFFLE 2 VERT	Menteur!
+
+SHARE/VIOLET 1	Ecoutez-moi, je vous parle, c'est important!
+
+WHIFFLE 2 VERT	Je ne suis pas nul! Je passe le râteau tout le temps!
+
+WHIFFLE 1 JAUNE	Tu exagères, comme d'habitude!
+
+SHARE/VIOLET 1	Vous pouvez vous taire et m'écouter?
+
+WHIFFLE 2 VERT	C'est toi qui mens!
+
+DIBBLE	Hein?
+
+WHIFFLE 1 JAUNE	C'est moi qui fais tout le travail alors tu ne manques pas de culot!
+
+SHARE/VIOLET 1	S'il vous plait! Vous devez m'écouter!
+
+WHIFFLE 2 VERT	Mais moi aussi, je travaille! T'as pas le droit de dire le contraire!
+
+CHEER	J'ai l'impression qu'on se rapproche, non?
+
+WHIFFLE 1 JAUNE	Je dis ce que je veux, surtout la vérité!
+
+SHARE/VIOLET 1	Oh! C'est bon , j'abandonne! Essaye de les raisonner, toi!
+
+WHIFFLE 2 VERT	Faut toujours que tu sois meilleur que les autres!
+
+WHIFFLE 1 JAUNE	Non, ce n'est pas vrai!
+
+SHARE/VIOLET 2	Mais je n'arrête pas! Seulement, ils ne veulent rien entendre!
+
+WHIFFLE 2 VERT	Bien sûr que si, reconnais-le!
+
+CHEER	Alors ça, c'est très étrange! Ta voix venait de ce côté tout à l'heure, et maintenant, elle vient de tout là-bas! Ohh!
+
+
+7 (01:04:19:01)
+
+GRUMPY	Hé, fleur! Peu importe qui tu es, tu as volé la voix de Tougentille!
+
+GRUMPY CANADA	Peu importe qui tu es, tu as volé la voix d'Egalours!
+
+GRUMPY	Alors tu dois la lui rendre!
+
+SHARE/VIOLET 1	Mais non, on ne l'a pas volée, on l'a empruntée, nuance! 
+
+GRUMPY	Oh!
+
+SHARE/VIOLET 2	Maintenant, partez, on doit parler aux jardinous! Héééé! Les jardinous!
+
+GRUMPY	Allez, la voleuse! Arrête de te cacher derrière ces pauvres fleurs! [snif] [snif snif snif ]
+
+DIBBLE	J'ai bien cherché, y'a personne! Héééé! Héééé! V'nez, v'nez! [rooooooo] V'nez vite!
+
+GOODLUCK	(h)
+
+FUNSHINE	Oh! Vous avez retrouvé la voix?
+
+DIBBLE	Non! On a perdu la voix de Touronchon!
+
+DIBBLE CANADA	On a perdu la voix de Grognours!
+
+CHEER	Oh non! Toi aussi?
+
+
+8 (01:05:04:21)
+
+GRUMPY	[ snif snif snif]
+
+GOODLUCK	Je sais! Ton nez coule! Un mouchoir!
+
+FUNSHINE	Oh j'ai trouvé, tu es malade! Tu as un rhume!
+
+CHEER	Non, pas besoin de charades. Je pense avoir compris ce qui se passe ici! Est-ce que vous vous rappelez avoir senti une fleur juste avant d'avoir perdu votre voix?
+
+GOODLUCK	Donc ils ont voulu sentir leur parfum! Qu'est-ce que ça veut dire?
+
+CHEER	Eh bien, que les voleuses de voix ne se cachent pas derrière les fleurs! Les voleuses de voix… sont en fait les fleurs!
+
+SHARE/VIOLET 1	Ah non! On n'est pas des voleuses!
+
+CHEER	Oh!
+
+GRUMPY/VIOLET 3	Laisse tomber, tu perds ton temps! Ils sont comme les jardinous! Ils ne nous écouteront pas!
+
+CHEER	Tout là-bas!
+
+GRUMPY/VIOLET 4	Hé les jardinous! Ecoutez-nous!
+
+CHEER	Eh coucou!
+
+SHARE/VIOLET 2	Coucou et au revoir!
+
+CHEER	Oh!
+
+SHARE	Oh!
+
+SHARE/VIOLET 2	Vous n'êtes pas des jardinous!
+
+CHEER	Oh! Euh, excusez-moi... qui que vous soyez! Mon amie Tougentille aimerait récupérer sa voix!
+
+CHEER CANADA	Mon amie Egalours aimerait récupérer sa voix! 
+
+CHEER	Tout de suite! (h) (h) (h) Oh! Et Touronchon également!
+
+CHEER CANADA	Et Grognours également! 
+
+
+9 (01:05:55:10)
+
+SHARE/VIOLET 1	Hmmmm.
+
+CHEER	(h)
+
+SHARE/VIOLET 1	Oh!
+
+CHEER	Ah!
+
+SHARE/VIOLET 1	Je suis désolée!
+
+SHRINKING VIOLET #1	Allez! S'il vous plait, on ne pourrait pas les garder encore un tout p'tit peu?
+
+CHEER	Mais qui êtes-vous?
+
+SHRINKING VIOLET #1	On nous appelle les violettes timides. On euh... habite sous les fleurs.
+
+FUNSHINE	Hé! C'est quoi le souci?
+
+GOODLUCK	C'est vous, les voleuses de voix?
+
+SHRINKING VIOLET #1	Encore pardon. Mais faut nous comprendre.
+
+FUNSHINE	C'est pas bien ce que vous faites!
+
+CHEER	On se calme, les garçons! Je les entends mal!
+
+SHRINKING VIOLET #1	Les jardinous ne nous entendent pas non plus. Parce qu'on parle tout doucement. Et eux... ils parlent fooort!
+
+CHEER	Vous avez fait quoi, des voix?
+
+SHRINKING VIOLET #1	Oh! Elles euh... Elles sont juste là!
+
+SHARE/VIOLET 1	On les utilise chacune son tour. On ne pensait pas à mal, je vous jure!
+
+DIBBLE	Ah! Oh! [hmmmmm]
+
+SHARE/VIOLET 1	On voulait simplement emprunter une voix...
+
+SHRINKING VIOLET #1	... qui réussirait à se faire entendre des jardinous!
+
+
+10 (01:06:46:18)
+
+SHRINKING VIOLET #2	Il y a quelque chose de très important que l'on aimerait leur dire. Mais le souci c'est qu'ils passent leur temps à se chamailler, et du coup, ils ne nous écoutent pas!
+
+WHIFFLE 2 VERT	C'est mon tour! Toi, tu l'as passé hier!
+
+WHIFFLE 1 JAUNE	Quoi? Tu mens!
+
+WHIFFLE 2 VERT	C'est faux!
+
+SHRINKING VIOLET #1	[soupir]
+
+CHEER	Je n'ai pas l'impression que la voix de Tougentille ait eu beaucoup d'effet sur eux!
+
+CHEER CANADA	Je n'ai pas l'impression que la voix d'Egalours ait eu beaucoup d'effet sur eux!
+
+GRUMPY/VIOLET 3	Cette voix-là n'a pas été très efficace non plus, hélas.
+
+GRUMPY	Ah!
+
+DIBBLE	Ah! Oh!
+
+SHRINKING VIOLET #3	Au moins j'aurais essayé!
+
+FUNSHINE	(h) Oh, je traduis! Tougentille dit qu'elle, au moins, elle vous écoute!
+
+CHEER	(h)
+
+FUNSHINE CANADA	Egalours dit qu'elle, au moins, elle vous écoute!
+
+FUNSHINE	(h) Youhou! Hé hé hé! J'ai gagné! J'suis le roi… des charades!
+
+
+11 (01:07:28:22)
+
+DIBBLE	Oh!
+
+CHEER	Regardez! On est tous à votre écoute!
+
+SHRINKING VIOLET #1	Bon, voilà, ces champs de fleurs sont presqu'aussi vieux que la Contrée d'Argent. Nous habitons donc ici depuis très très longtemps.
+
+SHRINKING VIOLET #3	Vous comprenez, on n'a plus assez de place pour loger tout le monde. On a besoin de plus de fleurs, pour construire plus de maisons souterraines.
+
+SHRINKING VIOLET #1	Mais le problème c'est que planter des fleurs magiques et s'en occuper, c'est le travail des jardinous, pas le nôtre! On a repéré une clairière secrète pas très loin d'ici qui serait parfaite pour y planter de nouvelles fleurs.
+
+SHRINKING VIOLET #2	Vous allez nous aider?
+
+WHIFFLE 2 VERT	Bien sûr!(h) Aaaah! Hah! On va vous aider!
+
+WHIFFLE 1 JAUNE	Bien sûr! (h) Aaaah! On va planter assez de fleurs pour vous toutes!
+
+
+12 (01:08:06:18)
+
+SHRINKING VIOLET #1	Merci beaucoup! Au fond de nos coeurs, on savait que vous accepteriez!
+
+FUNSHINE	Hourrah!
+
+GOODLUCK	Ouais!
+
+WHIFFLE 1 JAUNE	Ah!
+
+DIBBLE	Ouiiiii!
+
+SHARE	(h)
+
+WHIFFLE 2 VERT	Ahahah!
+
+CHEER	Ahahahahahahaha!
+
+WHIFFLE 2 VERT	Ah!
+
+CHEER	Hahaha!
+
+SHARE	J'suis très contente... que les jardinous... veuillent exaucer... vos voeux!
+
+CHEER	Oh! Ca y est!
+
+DIBBLE	Ah oh!
+
+CHEER	Tu as retrouvé ta voix!
+
+FUNSH+ WHIF JAUNE	Oh!
+
+GOODLUCK	Oh!
+
+SHARE	Oh! Ouiiii!
+
+DIBBLE	Ah!
+
+SHARE	C'est cool! Euhm, excusez-moi mesdames! Il faut aussi rendre sa voix à Touronchon.
+
+SHARE CANADA	Il faut aussi rendre sa voix à Grognours. 
+
+SHRINKING VIOLET #3	Oooooooh!
+
+GRUMPY	Hah! Je ne sens rien! Aaah! Ha! Hahaha!
+
+DIB+WIF	Ah!
+
+FUNSHINE	Ça a marché!
+
+CHEER	Oui c'est génial!
+
+SHARE	Oui!
+
+GOODLUCK	Ah!
+
+SHARE	Parfait!
+
+GRUMPY	Oui! Merci!
+
+
+13 (01:08:58:07)
+
+SHRINKING VIOLET #3	Merci surtout à toi de me l'avoir prêtée! C'est... C'est vraiment une très jolie voix!
+
+GRUMPY	Oh, merci. Oui, c'est vrai que je l'aime bien.
+
+DIBBLE	Oui, moi aussi!
+
+GRUMPY	Euh... euh...
+
+SHARE	Quoi? Si tu veux ajouter quelque chose, vas-y!
+
+GRUMPY	Oui, mais après j'ai pensé: "toi, parle moins, écoute plus!"
+
+CHEER	Bien! Mission accomplie donc! On va rentrer chez nous.
+
+WHIFFLE 1 JAUNE	Ah!
+
+SHRINKING VIOLET #1	Merci les Bisounours!
+
+SHRINKING VIOLET#1 CANADA	Merci les Calinours! 
+
+SHRINKING VIOLET #1	Et surtout on vous promet de ne plus jamais emprunter d'autre voix! Non, plus jamais!
+
+SHARE	Hahahah! Je compte sur vous mesdames!
+
+DIBBLE	Au revoir!
+
+GOODLUCK	(h)
+
+FUNSHINE	Au revoir!
+
+CHEER	Au revoir!
+
+GOODLUCK	Au revoir!
+
+DIBBLE	Au revoir!
+
+CHEER	A la prochaine!
+
+SHARE	Et soyez sages!
+
+DIBBLE	Ah!
+
+AMB VIOLETS	Au revoir!
+
+WHIFFLE 2 VERT	Au revoir!
+
+WHIFFLE 1 JAUNE	Au revoir!
+
+AMB VIOLETS	Au revoir!
+
+WHIFFLE 1 JAUNE	Rentrez bien!
+
+AMB VIOLETS	Au revoir! etc....
+
+SHRINKING VIOLET #1	Allez au travail!
+
+
+14 (01:09:42:09)
+
+DIBBLE	Ahah! [raaaaaaaa] [raaaaarooo] Des charades! Ah!
+
+FUNSHINE	Oh oh! Tu joues au baseball!
+
+GOODLUCK	Non, euh... Tu jettes la poubelle!
+
+GRUMPY	Et comme ça, vous prétendez être des experts en charades? [pfouf (h)] Tout le monde a déjà deviné qu'elle lançait un boomerang!
+
+FUNSHINE	(h) N'importe quoi!
+
+GOODLUCK	(h) C'est un coup d'chance!
+
+GRUMPY	Bien joué Doublette!
+
+DIBBLE	Merci Touronchon!
+
+DIBBLE CANADA	Merci Grognours! 
+
+GOODLUCK	Venez!
+
+FUNSHINE	Oui, venez! On va jouer!
+
+SHARE	Avec plaisir! Ahahahahahaha! (h)
+
+CHEER	Bon alors je suis... qui? [hmm] [hmm] [hmm]
+
+DIBBLE	Oooh oooh! Un gros monstre méchant!
+
+GRUMPY	Un jardinou géant à nez bleu!
+
+FUNSHINE	Grognard!
+
+GOODLUCK	C'est le monstre-plante, non?
+
+SHARE	Ce n'serait pas le lapin de Pâques?
+
+DIBBLE	Oh! Ah hou hou! Moi, j'ai trouvé! C'est toi, c'est toi!
+
+GRUMPY	(h) Hein? Quoi? (h)
+
+CHEER	Ahahahahah!
+
+DIBBLE	Ahahahahahahaha!
+
+GRUMPY	Argrr!
+
+FUN+SHAR+GOOD	Ahahahahah!
+
+GRUMPY	J'trouve pas ça drôle!
+
+CHEER	Ahah
+
+FUNSHINE	Ahahahahahahahahahahahaha!
+
+GOODLUCK	Ahahahahahahahahaha!
+
+SHARE	Ahahahahah! Ahahahahah!
+
+CHEER	Ahahah!
+
+GRUMPY	Ahahah!
+
+WHIFFLE 1 JAUNE	Ahahahahah!
+
+WHIFFLE 2 VERT	Ahahahahah!
+
+WHIFFLE 1 JAUNE	Ahahahahah!
+
+WHIFFLE 2 VERT	Ahahahahah!
+
+
+15 (01:10:39:22)
+
+NOTE	[Même short sequence de fin que l'ép107]
+
+GOODLUCK	[pouuu tchiii pou pou pou ] [tchi tchi pou pou tchiiii] [pou tchiii poupou pou pou ka ka kaaa]
+
+FUNSHINE	[grrr] Aaaaah!
+
+GOODLUCK	[tchiii pou pou pou tchiiii pou pou pou paf!]
+
+FUNSHINE	Oh grrr!
+
+GOODLUCK	[tadoudouta pou pou katakatakatka boum!]
+
+FUNSHINE	Ahhhh!
+
+OUT (01:11:00:01)
+
+NOTE	[FIN]
+
+
+
+
+
+
+
+1
+
+

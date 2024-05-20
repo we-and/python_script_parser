@@ -1,0 +1,1392 @@
+LA ESCLAVA BLANCA CAP45
+12/10/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+CANDELA	(h---) Allez pousse-moi!
+
+SIERVO	Ha!
+
+CANDELA	(hhan)
+
+SIERVO	T'es vraiment lourde!
+
+CANDELA	Allez mon vieux, pousse moi plus fort!
+
+SIERVO	(---h)
+
+CANDELA	(hhan)
+
+SIERVO	Deux secondes!
+
+CANDELA	(hhan) Dépêche-toi! J'y arrive pas!
+
+SIERVO	(---h) Vas-y,monte !
+
+CANDELA	(hhan)
+
+SIERVO	Allez!
+
+CANDELA	(hhan)
+
+SIERVO	(Ha) Monte! Vas-y, monte!
+
+CANDELA	(Ha)
+
+SIERVO	Allez!
+
+CANDELA	Aide-moi!
+
+SIERVO	(hhan)
+
+CANDELA	(Ha)
+
+SIERVO	(haaa)
+
+CANDELA	(hhan) (--hh--)
+
+SIERVO	(hh--hh--hh)
+
+CANDELA	(hhan) (--hh--)
+
+SIERVO	Vas-y!
+
+CANDELA	(hhan) (---h) (h---) (hhan)
+
+SIERVO	Accroche-toi bien ! (---h) (h---) (h---) (--hh--) Allez!
+
+CANDELA	(mhh) (h---) (---h) (hhan) (--hh--) (---h) (Ha) (---h) (Merci) J'me dépêche! J'veux pas traîner longtemps dans l'coin!
+
+SIERVO	( ---h) Bien! Mais fais bien attention jusqu'à la rivière (---h) avant que les gardes se rendent compte que t'es partie.
+
+CANDELA	Oui, j'y vais! (hh--hh--hh)
+
+(BOUCLE 2 - 00:01:48:02)
+		02
+
+ANA	(--hh--)
+
+PACA	Que pensez-vous de delui-ci? (mff)
+
+ANA	Comment... (mff) comment est-ce que tu m' trouves?
+
+PACA	Mais vous êtes très bien Donia Ana, vous êtes très belle!
+
+ANA	Ah,c'est vrai?
+
+PACA	Oui c'est vrai!
+
+ANA	(---h) Mais là?
+
+PACA	Pourquoi est-ce que j'vous mentirai?
+
+ANA	Comment c'est ici? Est-ce que c'est vraiment très..
+
+FELIPE	Donia Ana, il y a une chose dont j'aimerai vous...
+
+ANA	(---h) (Ha) Non! Fé, Félipé!
+
+FELIPE	Excusez-moi, excusez-moi! Mais la porte était grande ouverte!
+
+ANA	ça va! (h---) (---h)
+
+PACA	Pardonnez-moi!
+
+ANA	Paca! Pour l'Amour du Ciel! S'il te plaît!
+
+PACA	(--hh--) Je n'ai pas fait attention quand je suis entrée! (h---) (--hh--)
+
+FELIPE	Donia Ana! (---h) Il y a quelque chose dont je voudrais vous parler... Mais je vous laisse vous habiller!
+
+ANA	Ouiii! c'est mieux!
+
+PACA	(h---) J'vous demande pardon Madame! (--hh--) J' suis vraiment désolée Madame, (---h) j'suis entrée rapidement et j'ai oublié d'refermer la porte!
+
+ANA	Ne t'inquiète pas! Tout va très bien!
+
+PACA	Oui? (h---)
+
+ANA	Ne t'inquiète plus pour ça!
+
+PACA	Ah Madame, j'suis vraiment, vraiment désolée!
+
+ANA	(--hh--)
+
+(BOUCLE 3 - 00:02:48:03)
+		03
+
+AMBIANCE	(brouhaha indistinct)
+
+PERE OCTAVIO	Mais mon fils, vous buvez beaucoup trop tôt!
+
+GRANADOS	J'ai honte que vous me voyez comme ça! Mais ce qui se passe avec mon épouse me rend malade!
+
+PERE OCTAVIO	Qu'est-ce qui s'est passé avec votre femme, pour vous mettre dans cet état?
+
+GRANADOS	Elle s'est enfuie de chez nous! Et elle vit avec un autre homme.
+
+PERE OCTAVIO	Donia Ana? Mais c'est impossible!
+
+GRANADOS	Mais c'est vrai mon père. (---h) Maintenant elle vit avec Don Félipé Réstrépo.
+
+PERE OCTAVIO	Mais c'est un comportement honteux! U C'est un affront et un scandale!
+
+(BOUCLE 4 - 00:03:21:15)
+		04
+
+GRANADOS	Et vous savez ce qui est pire mon père? C'est que je l'aime! Et je suis disposé à oublier sa trahison. Et je suis d'accord pour qu'elle revienne à la maison mais je ne sais pas ce qu'elle a, elle a perdu la tête! (---h) Je suis désespéré, je n'sais plus quoi faire!
+
+PERE OCTAVIO	(---h) Je voudrais bien savoir ce qui se passe dans cette ville (---h) qui ressemble de plus en plus à Sodome et Gomorre! Où sont donc passées la morale et les bonnes manières? Dieu miséricordieux! (---h) Par tous les saints! (---h)
+
+GRANADOS	C'est aussi ce que j'aimerais savoir!
+
+(BOUCLE 5 - 00:03:54:03)
+		05
+
+JULIAN	(hh--hh--hh) Lâche ça Bon Dieu! quelqu'un s'est évadé! (---h) Vous allez m'dire où Candela est partie, nom d'un chien! J'suis sûr que vous le savez! Crachez l'morceau!
+
+NOEMIE	Monsieur! J'voulais vous dire Elle aime bien faire la lessive un peu plus bas!
+
+JULIAN	Vous savez pas où est Candéla? Vous m'le dites ou vous serez toutes punies!
+
+MILAGRO	Oh mon Dieu!
+
+JULIAN	Parlez-moi, bordel!
+
+CANDELA	Je suis là!
+
+MILAGRO	Elle arrive!
+
+CANDELA	Je suis là! (---h) (h---) (---h)
+
+JULIAN	Tu crois qu'tu peux t'en aller quand ça t'chante?
+
+CANDELA	(mts) (---h) (---h) (mts) (---h)
+
+MILAGRO	(---h) (h---)
+
+JULIAN	Dis moi où tu étais?
+
+MILAGRO	Allez! Allez Candéla! Où étais-tu?
+
+(BOUCLE 6 - 00:04:30:18)
+		06
+
+JULIAN	Allez! Dis-moi où tu étais!
+
+MILAGRO	Dis-lui la vérité! Où est-ce que tu étais?
+
+NOEMIE	(---h) Allez, répond-lui!
+
+JULIAN	Tu vas parler?
+
+CANDELA	(---h)
+
+JULIAN	Tu vas l' dire!
+
+MILAGRO	(---h) (mts) (---h) Elle a une aventure avec un esclave d'une autre hacienda, (---h) elle profite de ces moments pour s'échapper et le retrouver.
+
+JULIAN	Est-ce que  c'est vrai ça?
+
+CANDELA	(---h) Oui c'est vrai, j'vous en supplie, j'ai rien fait d'mal! (---h) Ne dites rien au maître sinon il va me punir, s'il vous plaît!
+
+JULIAN	(---h) (---h) (---h) (h---)
+
+MILAGRO	Je sais que ce n'est pas très correct mais... qui n'a jamais fait de folie par amour?
+
+JULIAN	(---h) retournez travailler! Retournez toutes travailler!
+
+CANDELA	Merci, Julian! (--hh--) (Ha) (--hh--) (--hh--)
+
+MILAGRO	(--h) (--hmff)
+
+NOEMIE	Tu l'as échappée belle!
+
+CANDELA	(--hh--)
+
+(BOUCLE 7 - 00:05:36:05)
+		07
+
+ANA	Félipé! Je m'suis habillée, c'est mieux non? (---h) Auhm...
+
+FELIPE	Oui, Eeeeet,
+
+ANA	Vous... Vous... vouliez me demander quelque chose?
+
+FELIPE	Ana, arrêtons de tourner autour du pot, je voudrais savoir... (---h) pourquoi vous avez qualifié votre mari d'assassin?
+
+ANA	(haaa)
+
+FELIPE	(---h) J'en suis venu à penser que les Lopez... ont été soutenus et aidés paaar... (---h) par tous les propriétaires. Je me trompe?
+
+(BOUCLE 8 - 00:06:13:02)
+		08
+
+ANA	Non! (---h) non, vous ne vous trompez pas! Francisco a quelque chose à voir avec la mort des affranchis. (---h) Je l'ai entendu le dire... (---h) à un de ses amis, à la maison. (---h)
+
+FELIPE	Et quel ami?
+
+ANA	Je n'veux pas le dire! Je ne peux pas vous le dire. (---h) Je ne peux pas. (---h) Félipé! (---h) ma vie est en danger! Depuis que je suis ici et à partir du moment où je vous parle, ma vie est en danger. (---h) et la vôtre, c'est pareil! (---h) Vous ignorez de quoi il est capable, (---h) vous ignorez de quoi est capable Francisco, vous l'ignorez!
+
+FELIPE	(---h) Ecoutez-moi, jeee.. C'est vrai, j'ai besoin de savoir... (---h)
+
+PACA	Excusez-moi, Le Père Octavio est là.
+
+FELIPE	Je ne traite ni avec la religion, ni avec ses émissaires!
+
+ANA	(h---)
+
+PACA	Mais il ne vient pas vous voir,
+
+ANA	(---h)
+
+PACA	Il vient pour voir ma Maîtresse.
+
+AMBIANCE	( Brouhaha indistinct rue)
+
+(BOUCLE 9 - 00:07:09:22)
+		09
+
+ADELA	Premièrement, il nous faut de la bonne musique. Parmi les modernes, j'apprécie Liszt. Mais je préfère les classiques, comme Bach. Le compositeur du divin!
+
+VICTORIA	On pourrait peut-être commencer par faire dire une messe pour Isabelle?
+
+ADELA	C'est une très bonne idée que j'aurais pu avoir. (mff)
+
+REMEDIOS	(Ha) Non! (h---) (---h) Je ne supporte plus cette chaleur. (h---) (---h)
+
+ADELA	Qu'est -ce qui vous arrive? Vous allez vous dénuder ici?
+
+REMEDIOS	(--hh--) Je n'en peux plus Donia Adéla, j'étouffe!
+
+ADELA	Lucia! Faites quelque chose, je vous prie!
+
+REMEDIOS	(pffff) (---h) (mhh) (---h)
+
+VICTORIA	Attends nous à la pension Pimentel,
+
+REMEDIOS	(--hh--)
+
+VICTORIA	Le temps que nous terminions les courses.
+
+REMEDIOS	(--hh--) (--hh--) Si je ne m'en sors pas, souvenez-vous bien de moi! (--hh--)
+
+ADELA	Il faut qu'on l'accompagne c'est ça?
+
+REMEDIOS	(oh!)
+
+VICTORIA	Non, ça ira, elle peut rester seule. N'est-ce pas?
+
+REMEDIOS	Oui!
+
+ADELA	Allons! Partons! C'est ce qui arrive quand on vient avec une boiteuse! (Ha!)
+
+VICTORIA	(h---)
+
+REMEDIOS	(--hh--)
+
+(BOUCLE 10 - 00:08:13:01)
+		10
+
+PERE OCTAVIO	Ma fille, ce que je n'arrive toujours pas à comprendre, c'est comment vous avez pu abandonner vos obligations d'épouse bénie et sanctifiée!! Vous êtes une femme dévouée, et tout ce qui est en train de se passer ici, n'a rien à voir avec ce que je connais de vous. C'est comme si le Diable lui-même vous chuchotait directement à l'oreille!
+
+FELIPE	Et alors? Qu'est-ce que vous voulez? Qu'elle retourne avec un assassin?
+
+ANA	(mff)
+
+PERE OCTAVIO	Mon Dieu, Don Réstrépo, pourquoi dites-vous celà?
+
+ANA	Il dit celà parce quee.. Francisco a failli me tuer en me battant! (mhh)
+
+(BOUCLE 11 - 00:08:43:09)
+		11
+
+ANA	(h---)
+
+PERE OCTAVIO	Eh bien, dans toutes les relations de couples, il y a toujours des hauts et des bas. Mais ce qui est important, c'est de... d'être solide dans l'accomplissement de l'engagement que le Ciel vous envoie!
+
+ANA	D'être solide? (---h) Pendant des années, mon père, je suis restée solide. (---h) Solide en supportant des agressions physiques et, et  verbales.
+
+PERE OCTAVIO	Eh bien, Dieu sait comment faire les choses, Il neeee... jamais, il ne... vous demanderait une tâche que vous ne puissiez accomplir!
+
+(BOUCLE 12 - 00:09:13:22)
+		12
+
+ANA	Je ne pourrai jamais revenir avec lui! (---h) je ne peux plus vivre avec quelqu'un qui me maltraite de cette façon.
+
+PERE OCTAVIO	Mais il m'a dit qu'il vous aimait!
+
+ANA	(---h) Vous avez l'impression que .. (---h) ça, c'est de l'amour, mon Père?
+
+PERE OCTAVIO	(---h) Eh bien, En tout cas, je vous demande de ne pas prendre une décision précipitée. vous devez vous entretenir avec Dieu, et il vous montrera que votre place, est aux côtés de votre mari repenti.
+
+ANA	(---h) (---h) (h---)
+
+PERE OCTAVIO	Eh bien jee, je vais m'en aller. mais n'allez pas jeter aux orties ce que je vous ai dit, c'est d'accord?
+
+ANA	(--hh--)
+
+FELIPE	Pardon! (---h) Je n'aurais pas dû lui dire ça!
+
+ANA	(---h) Je ne me sens pas très bien, excusez-moi!
+
+(BOUCLE 13 - 00:10:09:07)
+		13
+
+ANA	(h---) (mff) (--hh--) (--h) Paca viens m'aider avec ma robe, je suis en train d'étouffer. (h---) Aide-moi, s'il te plaît! (--hh--)
+
+FELIPE	Ce n'est pas Paca, juste moi. Mais je peux vous aider, si vous voulez.
+
+ANA	(mhh--hh) J'imagine que vous devez penser que je suis .... une lâche. Parce que je n'ai pas pu dénoncer Francisco. (mts) je sais que c'est ce que vous pensez! (---h)
+
+(BOUCLE 14 - 00:10:43:21)
+		14
+
+FELIPE	J'ai, pendant toute ma vie, (mff) (---h) j'ai pris des décisions en suivant mon éthique ... (---h) et mes idées, sur comment le monde devait être. (---h) Et de la même manière, (---h) j'ai poussé les gens qui m'entouraient à agir exactement comme moi.
+
+ANA	(mff) (mhh)
+
+FELIPE	(---h) (mff)
+
+ANA	(---h) (---h)
+
+FELIPE	Et... (mts) (---h) (En...) en donnant vraiment tout. Dans cette lutte contre les injustices, (---h) J'ai perdu la personne que j'aimais le plus au monde.
+
+(BOUCLE 15 - 00:11:26:13)
+		15
+
+ANA	Catalina! (---h) (h---)
+
+FELIPE	Je n'aurais pas dû lui donner des idées, je n'aurais pas dû la pousser, (---h) Et je ne ferais pas la même chose avec vous. (mhh) Je sais, qu'au-delà deee... n'importe quelle philosophie, (---h) il y a le bien-être des gens qu'on aime.
+
+ANA	(mff)
+
+FELIPE	Je voulais simplement vous dire que vous pouvez compter sur moi, pour ce que vous voudrez.
+
+(BOUCLE 16 - 00:12:00:13)
+		16
+
+ANA	(mff) (h---) (---h) J'vous remercie! (h----h) (---h) Merci! merci!
+
+FELIPE	Merci à vous,
+
+ANA	(mff)
+
+FELIPE	de m'avoir rappelé ce qui était réellement important.
+
+ANA	(mff) Je pense que le mieux ce serait que Paca finisse de m'aider. S'il vous plaît.
+
+FELIPE	Oui.
+
+ANA	(---h) (h---)
+
+FELIPE	Paca!
+
+ANA	(---h) (pffff) (mff) (h---) (h---) (h---)
+
+(BOUCLE 17 - 00:12:44:14)
+		17
+
+EUGENIA	C'est maintenant que Victoria vous envoie me dire que le plan change?
+
+REMEDIOS	Mais la marquise ne peut pas entrer, ni sortir de l'Eden comme elle veut. Elle m'a chargée de vous donner une information précise, à vous ensuite de voir ce que vous ferez!
+
+EUGENIA	Vous pouvez aller dire à la Marquise, (---h) que si ça ne marche pas, elle en paiera les conséquences. ça n'est pas... un petit jeu.
+
+REMEDIOS	Si ça ne l'est pas pour vous, qui vous souciez si peu du bonheur des autres, (---h) ça l'est encore moins pour elle.
+
+EUGENIA	S'il n'y a rien de plus...
+
+REMEDIOS	(--hh--)
+
+EUGENIA	(---h) Va tout de suite prévenir les hommes.
+
+BUMBA	(---h) Ils me demandent tous de les payer à l'avance.
+
+EUGENIA	Et toi, tu ne leur as pas dit (---h) qu'ils seraient payés quand ils auront fait le travail?
+
+BUMBA	Ils ne veulent pas entendre raison, et sans eux, on ne pourra jamais voler cette cargaison. (--hmff)
+
+(BOUCLE 18 - 00:13:33:03)
+		18
+
+BUMBA	Et si quelque chose se passe mal.
+
+EUGENIA	Tout va bien se passer.
+
+BUMBA	Comment tu peux en être aussi sûre?
+
+EUGENIA	Parce que je vais rester là-bas pour tout diriger.
+
+BUMBA	Quoi?
+
+EUGENIA	(Ha) J'ai tout mon capital investi là-dedans, (---h) je ne vais pas le laisser aux mains de quelques bandits.
+
+BUMBA	(h---)
+
+EUGENIA	Je ne suis pas aussi stupide, tu sais. (--hh--)
+
+BUMBA	(--hh--) Je ne suis pas du tout d'accord avec cette idée.
+
+EUGENIA	ne t'inquiète pas. (---h) On va réussir à tout reprendre, tu verras. (x) (x) (x)
+
+(BOUCLE 19 - 00:14:31:18)
+		19
+
+ISABEL 2	PAPA!
+
+NICOLAS	Qu'est-ce qu'il y a ma chérie? (h---)
+
+ISABEL 2	Puisque ni grand-mère, ni Lucia, ne sont à la maison, (---h) toi et moi, on pourrait aller se promener,non?
+
+NICOLAS	(---h) A cette heure-là, c'est impossible. il faut que je m'occupe de la cargaison de cacao .
+
+ISABEL 2	Ah oui, j'avais imaginé que je t'aurais pour moi toute seule, toute la journée. (---h) Puisque tu ne passes plus beaucoup de temps à la maison, je te voyais plus quand j'étais, soi-disant, malade.
+
+NICOLAS	(h---) (---h) (mff) (---h) D'accord, je te propose quelque chose de mieux.
+
+ISABEL 2	(---h)
+
+(BOUCLE 20 - 00:15:07:10)
+		20
+
+MIGUEL	(hhan)
+
+NICOLAS	Tout est prêt. Allons-y!
+
+TRINIDAD	(h---)
+
+MIGUEL	Et Mademoiselle Isabelita vient aussi?
+
+NICOLAS	Oui! Tu vas derrière avec Trinidad et la cargaison. Nous laisserons un garde.Julian! Toi tu restes ici. Surveille les esclaves! Je ne veux pas de problèmes.
+
+JULIAN	A vos ordres, patron!
+
+NICOLAS	Allons-y! Viens ma fille.
+
+TRINIDAD	C'est quoi ton problème,mon vieux?
+
+(BOUCLE 21 - 00:15:37:13)
+		21
+
+EUGENIA	Vous savez ce que vous devez faire. (---h) On y va pour la cargaison, je ne veux pas que quelqu'un soit bléssé. est-ce que c'est clair?
+
+CHEF VOLEUR	Ne vous inquiétez pas.
+
+EUGENIA	(---h) Parfait, et préparez-vous, le chargement va arriver d'une minute à l'autre.
+
+CHEF VOLEUR	Allons-y!
+
+EUGENIA	Allons-y! (h--)
+
+(BOUCLE 22 - 00:16:04:12)
+		22
+
+ISABEL 2	Papa, c'est comme une expédition! J'ai l'impression de faire partie de ton équipe.
+
+NICOLAS	Oui, ma chérie. C'est très bien de découvrir toutes les activités que nous avons à l'Eden. Un jour, l'hacienda sera à toi.
+
+MIGUEL	Quoi qu'il se passe, n'oppose aucune résistance. Et même si le maîre te l'ordonne.
+
+TRINIDAD	D'accord!.
+
+CHEF VOLEUR	Arrêtez! Yaaaah! Arrêtez, arrêtez, arrêtez!
+
+NICOLAS	Qu'est-ce qui se passe?
+
+GARDE	(haaa) (haaa)
+
+NICOLAS	Je suis Nicolas Parénio. Qu'est-ce que vous faites?
+
+VOLEUR 1	Arrêtez! Descendez!
+
+CHEF VOLEUR	Descendez! Descendez ou je la tue!
+
+ISABEL 2	Non!
+
+CHEF VOLEUR	Descendez ou je la tue!
+
+ISABEL 2	Non!Non!
+
+(BOUCLE 23 - 00:16:37:05)
+		23
+
+CHEF VOLEUR	On ne bouge plus, on bouge plus!
+
+NICOLAS	Ecoutez!
+
+CHEF VOLEUR	Descendez!
+
+ISABEL 2	Papa!
+
+NICOLAS	Prenez le chargement mais lâchez ma fille!
+
+ISABEL 2	Non, s'il vous plait, ne me faites pas de mal!
+
+CHEF VOLEUR	Du calme, Du calme ou je la tue, du calme ou je la tue! Reculez ou je la tue!
+
+NICOLAS	Vous savez que je suis Nicolas Parénio! Qu'est-ce que vous faites?
+
+CHEF VOLEUR	Reculez je vous dis!
+
+ISABEL 2	papa, papa s'il te plaît!
+
+CHEF VOLEUR	Tais-toi ou j'te tue!
+
+NICOLAS	Gardez le chargement mais relâcher ma fille!
+
+ISABEL 2	Papa!
+
+CHEF VOLEUR	Et moi, je vais la tuer, en arrière!
+
+ISABEL 2	papa! Non!
+
+CHEF VOLEUR	On y va!
+
+ISABEL 2	Papaaaaaa!!!
+
+NICOLAS	Relâchez ma fille!
+
+ISABEL 2	Nooon!!!
+
+NICOLAS	Relâchez ma file, laissez la!
+
+ISABEL 2	(Ha ha ha ha)
+
+CHEF VOLEUR	Arrière!
+
+NICOLAS	Relâchez ma fille! Isabelle!
+
+ISABEL 2	papaaaaa!!!
+
+NICOLAS	Relâchez la! Non!!!
+
+CHEF VOLEUR	On y va! On y va!
+
+NICOLAS	Isabelle!
+
+EUGENIA	(Hoooo) (Hoooo)
+
+NICOLAS	Isabelle! (hh--hh--hh) (mhh) (hh--hh--hh) Isabelle! Relâchez-la!
+
+GARDE	(hh--hh--hh)
+
+(BOUCLE 24 - 00:17:27:15)
+		24
+
+AMBIANCE	(brouhaha indistinct rue)
+
+ADELA	Je pense, qu'il serait convenable d'avoir une messe,juste avant la célébration. Parce que nous ne pouvons pas fêter un anniversaire sans remercier Dieu! Vous comprenez bien, (---h) que fêter un anniversaire, sans remercier notre seigneur au préalable, serait un affront! Ce qui se passe aussi c'est que NIcolas et La Marquise n'y connaissent rien!
+
+PERE OCTAVIO	Dieu tout puissant!
+
+VICTORIA	Je suis Victoria! Victoria Quintero! Et je suis venue vous voir, pour que vous le prouviez à tout le monde et pour reprendre ce qui m'appartient!
+
+ADELA	ça va mon Père? (mmm) Qu'est-ce qui se passe avec cette chaleur? Le prêtre est tout comme la boîteuse!
+
+(BOUCLE 25 - 00:18:07:18)
+		25
+
+ADELA	Vous aussi?
+
+VICTORIA	(mts) Non! (---h) J'étais en train d'imaginer ce que ça pouvait être de prétendre être dévoué à Dieu, quand en fait,vous vous passez de Lui, sans un seul regret.
+
+ADELA	Mais de quoi parlez-vous?
+
+PERE OCTAVIO	(Ha) veuillez m'excuser mais... mais j'ai une cérémonie de baptême.
+
+ADELA	(---h) Mon père, on fait ce qu'on a dit par rapport à Isabelita?
+
+PERE OCTAVIO	Oui, Bien entendu. (mmm) Que Dieu vous accompagne!
+
+ADELA	Merci!
+
+VICTORIA	(mff)
+
+(BOUCLE 26 - 00:18:34:07)
+		26
+
+ISABEL 2	Au secours!!!!!
+
+CHEF VOLEUR	Tais-toi!
+
+ISABEL 2	S'il vous plaît monsieur ne me faites pas de mal, je vous en supplie!
+
+CHEF VOLEUR	Boucle là!
+
+ISABEL 2	Papaaaa!!!! (Ha ha ha ha)
+
+CHEF VOLEUR	La ferme j't'ai dis!
+
+ISABEL 2	A l'aide !!!
+
+EUGENIA	je vous ai dit de ne pas lui faire de mal!
+
+ISABEL 2	Papaaaaaa!!!!
+
+CHEF VOLEUR	FERME LA!!!!! (Ha) (haaa) Allons-y!
+
+EUGENIA	Noooooon!!!!
+
+AMBIANCE	(ambiance vendeur arrière plan)
+
+(BOUCLE 27 - 00:19:07:14)
+		27
+
+HOMME HAUT DE FORME	Tu imagines bien que dans de telles circonstances, je n'ai rien pu faire.
+
+GABRIEL	Le docteur Tarazona voulait vous rencontrer parce qu'il est très intéressé par les instruments qui vous aident à marcher.
+
+REMEDIOS	Ce qui m'a le mieux aidé à remarcher, c'est ma volonté. Même si le médecin qui me soignait, que son âme repose en paix, (---h) disait que je ne remarcherai plus jamais! Il disait aussi que je n'aurai jamais d'enfants mais ça, ce n'est pas encore prouvé puisque je suis vierge.
+
+TARAZONA	(Ha ha ) (Ha ha ha ha)
+
+GABRIEL	(HUm )
+
+REMEDIOS	Pardon! ça m'est sorti tout seul! Mais on m'a toujours dit que parler avec un médecin, c'était comme se confesser! (Ha ha) (---h)
+
+TARAZONA	(mhh) (---h) Enchanté! Mademoiselle, vous permettez que je regarde vos jambes?
+
+REMEDIOS	Oui bien sûr, je vous en prie.
+
+GABRIEL	Assied-toi!
+
+TARAZONA	(mhh) (---h) (mhh) (--h) (h---)
+
+(BOUCLE 28 - 00:19:48:06)
+		28
+
+ADELA	Sainte Marie, Mère de Dieu!! A chaque fois que je viens ici, il y a toujours quelque chose d'obscène.
+
+TARAZONA	(---h)
+
+GABRIEL	Donia Adéla!
+
+ADELA	Vous, taisez-vous!!
+
+REMEDIOS	(---h) Je vous présente le docteur Tarazona!
+
+ADELA	(---h)
+
+REMEDIOS	Il vient juste d'arriver à Santa Marta et il m'examine.
+
+TARAZONA	(---h) Bonjour Mesdasmes, je vous assure que mon intérêt est purement médical.
+
+REMEDIOS	(mff)
+
+VICTORIA	Eh bien, Nous vous laissons à ce que vous faisiez. Gabriel,
+
+TARAZONA	(mff)
+
+VICTORIA	(---h) Isabelita aimerait... une musique très joyeuse pour son anniversaire.
+
+GABRIEL	(mff)
+
+VICTORIA	(---h) Bon, vous la connaissez assez pour savoir ce qu'elle aime.
+
+GABRIEL	Oui, bien sûr, Marquise. (---h) Avec Jésus, nous allons commencer les préparatifs. (---h) (mts) Mais vous ne le savez peut-être pas.... Donia Adéla m'a interdit de revoir Isabelle.
+
+(BOUCLE 29 - 00:20:28:24)
+		29
+
+VICTORIA	(---h) Donia Adéla n'a rien à voir là-dedans, Gabriel. (---h) Alors, venez dès que possible. (mhh)
+
+REMEDIOS	Bon sang!
+
+ADELA	Mais qu'est-ce qui vous prend?
+
+REMEDIOS	Je suis désolée, Madame! (---h) J'ai eu un réflexe.
+
+TARAZONA	(---h) Elle a raison, désolé.
+
+ADELA	Et vous êtes encore ici? Vous savez que personne ne veut vous voir ici?
+
+ABDUL	Et vous, qui êtes-vous pour vous permettre de me dire ça? (HUm? ) Vivez! Et laissez-nous vivre, Madame!
+
+ADELA	Scélérat!
+
+ABDUL	Et une chose encore... Si vous ne voulez pas nous voir.... ne venez pas par ici!
+
+ADELA	(---h) Vous entendez comme il me parle? Vous avez vu?
+
+REMEDIOS	Il vaudrait mieux qu'on s'en aille maintenant. Lucia! Lucia??
+
+VICTORIA	Qui était cette femme?
+
+ADELA	Une sorcière!
+
+(BOUCLE 30 - 00:21:20:13)
+		30
+
+LORENZA	(mhh) (mhh--hh) (mhh--hh)
+
+ABDUL	Mais qu'est-ce qui t'arrive? Encore un malaise?
+
+LORENZA	Oui! (---h) Mais.... Mais c'est le plus fort que j'ai eu depuis des années. Je sens comme un, comme un vide énorme, ici, à l'intérieur. (h---)
+
+ABDUL	Bon alors... Il va falloir que tu te prépares un de tes breuvages. (---h) Il va falloir que tu te concentres, cette nuit on va avoir beaucoup de travail. On va voir si on arrive à clouer le bec de ... cette vieille bigote aigrie.
+
+(BOUCLE 31 - 00:21:54:21)
+		31
+
+LORENZA	En fait, jeeee... Je ne peux pas rester ici. Je ne travaillerai pas ce soir.
+
+ABDUL	Quoi?
+
+LORENZA	Tu n' t'es aperçu de rien? Depuis qu'on est là... Ce n'est que problèmes sur problèmes, (---h) ici il n'y a rien de bon pour nous deux.
+
+ABDUL	Arrête de dire n'importe quoi! Tu penses que la nourriture, le logement et les voyages vont se payer tous seuls! Nous avons beaucoup de dettes.
+
+LORENZA	Des dettes? Pourquoi? Et nos économies? T'en as fait quoi?
+
+(BOUCLE 32 - 00:22:28:21)
+		32
+
+LORENZA	On a gagné beaucoup d'argent dans les autres villages, (---h) on a beaucoup travaillé, on a aussi voyagé...
+
+ABDUL	Arrête, tu n'as pas à m'interroger! Et fais bien attention de ne pas essayer (---h) de t'évader. Sinon je dirais que tu es mon esclave, que tu t'es échappée. Je te persécuterais et te ramènerais, enchainée. C'est ce que tu veux? (HUm ?) Ou bien tu préfères .... que je te laisse ici toute seule, abandonnée, sans mémoire, sans rien, ni personne? Sans le moindre argent? C'est ce que tu veux?
+
+LORENZA	Non!
+
+ABDUL	Très bien! Alors, tu fais ce que te demande. Et arrête de te plaindre!
+
+(BOUCLE 33 - 00:23:16:08)
+		33
+
+MIGUEL	Isabelle
+
+ISABEL 2	(Ha ha ha ha)
+
+MIGUEL	Isabelita! Petite!
+
+ISABEL 2	(---h) (Ha ha ha ha)
+
+MIGUEL	Maître!
+
+ISABEL 2	(Ha)
+
+MIGUEL	Maître! J'ai retrouvé la petite! (--hh--) Petite!
+
+NICOLAS	Isabelle!
+
+ISABEL 2	(mhh--hh)
+
+MIGUEL	(h---) Petite!
+
+ISABEL 2	(---h) (mhh--hh)
+
+MIGUEL	(hh--hh--hh)
+
+NICOLAS	Isabelle, chérie!
+
+MIGUEL	Petite, tout va bien?
+
+ISABEL 2	(hhan) (hh--hh--hh)
+
+MIGUEL	Ils vous ont fait du mal?
+
+ISABEL 2	(Ha)
+
+NICOLAS	(hh--hh--hh)
+
+ISABEL 2	(haaa)
+
+NICOLAS	Chérie!
+
+ISABEL 2	Papa! (---h) (Ha ha ha ha)
+
+NICOLAS	Tu vas bien? (hh--hh--hh) Qu'est-ce que ces salopards t'ont fait?
+
+ISABEL 2	(hh--hh--hh) (---h)
+
+NICOLAS	(---h)
+
+ISABEL 2	Ils m'ont jetée de la carriole et je crois que je me suis cassée la cheville parce que ça me fait très mal!
+
+NICOLAS	(mhh--hh)
+
+MIGUEL	(---h)
+
+ISABEL 2	(haaa)
+
+MIGUEL	Laissez-moi regarder!
+
+ISABEL 2	Non!
+
+NICOLAS	Arrête!
+
+ISABEL 2	(---h) (hh--hh--hh) (haaa) (Ha ha ha ha) Non!
+
+NICOLAS	C'est là?
+
+ISABEL 2	(Ha ha ha ha)
+
+MIGUEL	Monsieur, je peux la porter, ne vous inquiétez pas!
+
+ISABEL 2	(mff)
+
+NICOLAS	(mff) (haaa)
+
+MIGUEL	(--hh--) (hh--hh--hh)
+
+NICOLAS	Nous sommes très loin de Santa Marta, il faut qu'on retourne à l'Eden!
+
+ISABEL 2	(mff)
+
+TRINIDAD	Monsieur!
+
+ISABEL 2	(--hh--)
+
+TRINIDAD	Excusez-moi...
+
+ISABEL 2	(mhh--hh)
+
+TRINIDAD	(---h) ça vaudrait mieux qu'on ne traine pas ici, la nuit tombée.
+
+ISABEL 2	(hh--hh--hh)
+
+NICOLAS	Tu as raison, allons-y!
+
+ISABEL 2	(mhh) Je veux bien essayer de marcher!
+
+NICOLAS	(h---) Je vais la porter! Debout ma chérie!
+
+ISABEL 2	(--hh--)
+
+NICOLAS	(mhh) (h---)
+
+ISABEL 2	(hhan)
+
+NICOLAS	(hhan) Allons-y! Allez!
+
+ISABEL 2	(Ha) (mff) (h---)
+
+(BOUCLE 34 - 00:24:27:19)
+		34
+
+EUGENIA	(--hh--) T'es devenu fou ou quoi? (---h) Je t'avais pas dit que personne ne devait être blessé?
+
+CHEF VOLEUR	C'est quoi le problème? Vous vouliez le chargement, il est là! Maintenant ce qu'on veut, c'est être payé!
+
+EUGENIA	Je vous paierai quand le travail sera terminé, il n'est pas fini (---h) Vous devez livrer le chargement, vous débarrasser du cocher, relâcher le cheval, et qu'il n'y ait aucune trace de ce qu'on a fait!
+
+CHEF VOLEUR	Pas la peine de vous inquiéter! vous nous payez et on ne se reverra plus jamais!
+
+EUGENIA	(mhh) On va passer par la route royale, ce sera plus rapide que ce chemin. Allons-y!
+
+CHEF VOLEUR	On y va! Magnez-vous! On y va!
+
+(BOUCLE 35 - 00:24:59:22)
+		35
+
+ADELA	Nous ne pouvons pas rester sans rien faire, face à cette situation mon Père!
+
+PERE OCTAVIO	Le problème c'est que je n'ai jamais entendu parler de cette.....cartomancienne!
+
+ADELA	Rendez-vous compte, vous ne savez même pas ce qui se passe dans votre paroisse! Cette femme pourrait ouvrir une brèche par laquelle le démon pourrait nous atteindre. Il faut qu'on agisse! Et c'est votre rôle de veiller sur les bonnes gens de Santa Marta.
+
+(BOUCLE 36 - 00:25:26:09)
+		36
+
+TOMAS	(h---) Je ne sais pas si je devrais rester ici.
+
+MILAGRO	(mff) (---h) Ne t'inquiète pas, papa, (---h) Il n'y pas un seul maitre à la maison. Alors prends ton temps pour boire ça.
+
+TOMAS	(mff) Il faut qu'on aille voir comment Siervo s'en sort, dans la fosse! S'il arrive à creuser un peu plus.
+
+MILAGRO	(mhh) J'ai trouvé comment faire,
+
+TOMAS	(mpt) (---h) (h---) Par Julian?
+
+MILAGRO	Oui! Il faut qu'on se serve de ce moyen.
+
+TOMAS	Se servir de de moyen, tu dis?
+
+MILAGRO	(mhh) Appelle-ça comme tu veux, mais sans le savoir Julian nous a rendu service.
+
+(BOUCLE 37 - 00:26:02:14)
+		37
+
+TOMAS	Tu es sûre que c'est tout ce qu'il représente pour toi? Un simple moyen? Réponds-moi, s'il te plaît!
+
+MILAGRO	(---h) Laisse -moi te débarrasser.
+
+TOMAS	(---h) Ma fille, lorsqu'on joue avec les sentiments d'une personne, (---h) il faut en assumer toutes les conséquences. et parfois on n'a pas le temps de les voir venir.
+
+MILAGRO	Je sais.
+
+TOMAS	Non. Je ne crois pas que tu le saches. Tu penses que tu maîtrises, mais pas du tout. Julian est un contre-maître. Le patron qui le paye est Nicolas Parrénio. Alors fais vraiment très attention à qui tu fréquentes!
+
+MILAGRO	(---h) Je vais préparer à manger pour Siervo.
+
+(BOUCLE 38 - 00:26:44:05)
+		38
+
+SIERVO	(h---) (h---) (h---) (--hh--)
+
+(BOUCLE 39 - 00:27:26:06)
+		39
+
+SIERVO	(Ha) (h---) (--hh--) Pas par là... (Haaa) (hh--hh--hh) (hh--hh--hh) (hhan) (---h) Non! Non!! Non! Non! (Ha ha ha ha) NON! NOOON!!!!! (hhan) (hh--hh--hh) (hh--hh--hh) (hh--hh--hh) (h---) (---h) (h---)
+
+(BOUCLE 40 - 00:28:17:24)
+		40
+
+EUGENIA	Mais d'où sortent ces salopards de voleurs?
+
+BUMBA	Je t'avais prévenue, pourquoi t'es dans cet état?
+
+EUGENIA	(h---)
+
+BUMBA	tout s'est bien passé?
+
+EUGENIA	(---h) Ils ont failli tué Isabelle Parrénio!
+
+BUMBA	Mais qu'est-ce qu'elle faisait là?
+
+EUGENIA	J'n'sais pas! Je n'en sais rien! (mff) (h---) (h---) (---h) mais tout s'est bien passé! (---h) Dis à nos gens qu'ils mettent la machine en route. (---h) Je vais aller voir Alonso!
+
+BUMBA	(h---) (--hh--)
+
+EUGENIA	(--hh--) (h---) (mff)
+
+(BOUCLE 41 - 00:28:49:11)
+		41
+
+ADELA	(---h) Est-ce que c'est mon fils?
+
+REMEDIOS	C'est bizarre, il est parti à cheval et il revient à pied.
+
+ADELA	Nicolas! Qu'est-ce qu'il y a?
+
+NICOLAS	On s'est fait attaquer!
+
+ADELA	Isabelle!
+
+NICOLAS	Ils nous on volé toute la production de cacao.
+
+VICTORIA	Qu'est-ce qu'il y a? (---h) Isabelle!
+
+ADELA	Mais qu'ont-ils fait à Isabelle?
+
+NICOLAS	Ils étaient sur le point de la tuer.
+
+VICTORIA	(h---) (---h)
+
+MIGUEL	ça a tourné au Désastre!
+
+VICTORIA	(--hh--)
+
+MIGUEL	(---h) Les hommes d'Eugénia ont kidnappé Isabelle,
+
+VICTORIA	(h---)
+
+MIGUEL	(---h) ils l'ont jeté, en pleine course, de la carriole.
+
+VICTORIA	(h---) (h---) (---h)
+
+MIGUEL	(h---)
+
+VICTORIA	Et toi, tu vas bien?
+
+MIGUEL	(--hh--) Oui (---h) mais j'ai peur des conséquences  pour cette femme,
+
+VICTORIA	(h---)
+
+MIGUEL	(---h) et c'est pareil nous tous.
+
+VICTORIA	(--hh--) (---h) Tu crois qu'ils peuvent l' impliquer dans tout ça?
+
+MIGUEL	J'en sais rien! (--h) J'sais pas! (---h) J'imagine que Don NIcolas ne va pas en rester là! (---h) Victoria, il faut absolument qu'on arrive à dégager ce tunnel! (hh--hh--hh)
+
+VICTORIA	Oui!
+
+MIGUEL	(h---)
+
+VICTORIA	(mff)
+
+(BOUCLE 42 - 00:29:32:17)
+		42
+
+ADELA	Pourquoi est-ce que tu as amené la petite avec toi? Il y a des choses que tu ne peux pas faire avec elle!
+
+NICOLAS	Ce n'est pas de ma faute, maman!
+
+ISABEL 2	On a été attaqués par des bandits, je te l'ai dit! Grand-mère,s'il te plaît, est-ce que tu pourrais, ne pas crier? (---h) J'ai la tête sur le point d'exploser et une cheville qui me fait très mal!
+
+ADELA	Très bien, montre-moi ça!
+
+NICOLAS	H---
+
+ISABEL 2	Non!
+
+VICTORIA	Laissez-moi voir!
+
+ISABEL 2	(haaa)
+
+VICTORIA	(h---)
+
+NICOLAS	(---h)
+
+VICTORIA	(---h) C'est là?
+
+ISABEL 2	(haaa) (hhan)
+
+ADELA	Attention! Lucia!
+
+NICOLAS	Je vais chercher un docteur! Je vais chercher un docteur!
+
+ISABEL 2	Non! (---h) Personne, ne sort de cette maison, c'est trop dangereux! (---h) je vais déjà mieux, il faudrait juste que.. ma cheville se repose. Je vous le promets, ça va aller mieux .
+
+VICTORIA	D'accord. (---h) Mais je vais prévenir Milagro qu'elle te prépare quelque chose.
+
+ISABEL 2	(h---)
+
+VICTORIA	Isabelle, ta cheville est très enflammée. Regarde toi-même.
+
+ISABEL 2	(mmm)
+
+VICTORIA	(h---)
+
+ISABEL 2	(mts) Papa, jure-moi que tout le monde reste ici maintenant!
+
+NICOLAS	Je te le promets alors calme-toi! (--hh--) tout va bien!
+
+ISABEL 2	(---h) Merci! (---h)
+
+(BOUCLE 43 - 00:30:16:16)
+		43
+
+VICTORIA	(---h) Va dire à Milagro qu'elle prépare un breuvage pour calmer Isabelle. (---h) et qu'ensuite on se retrouve à la forge avec papa et aussi Miguel!
+
+(BOUCLE 44 - 00:30:39:24)
+		44
+
+NOEMIE	Allez Candéla, Julian doit savoir chez qui ils ont vendu Diosdado. Allez, Va lui demander! (---h) allez, vas-y, faut pas avoir peur, va lui demander!
+
+MILAGRO	(---h) La marquise m'a demandée d'aller apporter quelque chose à manger à Siervo. Et elle a demandé à ce que tu m'accompagnes par sécurité.
+
+JULIAN	(---h) (h---)
+
+(BOUCLE 45 - 00:31:14:07)
+		45
+
+CANDELA	Vous vous voulez bien me rendre un service?
+
+JULIAN	Qu'est-ce que tu veux en fait?
+
+CANDELA	Pouvez-vous me dire ce qui est arrivé à Diosdado? (mff) Je vais devenir folle si je sais pas ce qu'il est devenu. (mff)
+
+JULIAN	Il l'a vendu dans le nord, c'est tout c'que j'sais!
+
+CANDELA	(---h) Et Hilaria?
+
+JULIAN	Il l'a vendue à la mine comme elle voulait!
+
+MILAGRO	(---h) (--hh--)
+
+NOEMIE	Ca va aller, tu verras! Tout finira par s'arranger!
+
+CANDELA	(mff)
+
+(BOUCLE 46 - 00:31:53:24)
+		46
+
+MILAGRO	(---h) Ne te sens pas mal d'avoir menti à Candéla. Tu ne pouvais pas faire autrement!
+
+JULIAN	(--hh--) ça m' dégoûte d' lui avoir dit qu'Hilaria était vivante, alors que je l'ai enterrée!
+
+MILAGRO	(---h) C'est ce qui fait que tu es si spécial!
+
+JULIAN	Ou un imbécile!
+
+MILAGRO	Spécial, unique, un homme qui vit avec passion. S'il te plaît,j'veux qu'on arrête de s'disputer! (---h) ce qui s'est passé à la rivière, c'était stupide.
+
+(BOUCLE 47 - 00:32:20:18)
+		47
+
+JULIAN	J'ai pas trouvé ça stupide. (---h) On n'a fait que parler de notre futur, (---h) pour savoir si on en a un ensemble.
+
+MILAGRO	(mh) Et si... si pour l'instant, on pensait juste.. (---h) à ne pas avoir d'enfants et... qu'on profitait simplement de cet amour? Oui? (hhan) (x) (x)
+
+JULIAN	(x) (x)
+
+MILAGRO	(x)
+
+JULIAN	(x)
+
+MILAGRO	(x)
+
+JULIAN	(mhh) je me sens tellement bête de te surveiller!
+
+MILAGRO	Eh bien alors ne le fais pas! (---h) (mff)
+
+JULIAN	Prends- ça! Descend son repas à Siervo, je t'attends.
+
+MILAGRO	Merci.
+
+JULIAN	(---h)
+
+(BOUCLE 48 - 00:33:13:20)
+		48
+
+MILAGRO	Siervo! Siervo!
+
+SIERVO	(Ha) (hhan) J'suis ici! (hhan) (Ha) (Ha) (---h) J'suis ici, tu vois.
+
+MILAGRO	Viens, je t'envoie à manger.
+
+SIERVO	(---h) (Donne!) Vas-y! Va! (h---) Ecoute Milagro! (h---) (h---) Ecoute bien! (---h) Il faut que tu dises à Miguel et à Tomas, que pour le tunnel, c'est foutu!
+
+MILAGRO	Qu'est-ce qu'il y a? Pourquoi tu me dis tout ça?
+
+SIERVO	Il est bouché! Et pas seulement avec de la terre! Il y a un rocher qui est énorme, et je peux pas le déplacer, ni avec une lance, ni avec une pelle.
+
+MILAGRO	(---h) (h---) Qu'est-ce qu'on peut faire?
+
+(BOUCLE 49 - 00:33:54:01)
+		49
+
+SIERVO	J'en sais rien, moi, j'en sais rien! va et dis leur tout ça! Va tout leur raconter, et dis à Miguel ... que son foutu tunnel ne sert plus à rien!
+
+MILAGRO	Chuuuuut!! (haaa)
+
+(BOUCLE 50 - 00:34:10:09)
+		50
+
+ADELA	Couvre-toi bien Isabelle!
+
+ISABEL 2	Mais grand-mère, je n'ai pas froid!
+
+ADELA	Couvre-toi bien, s'il te plaît!
+
+ISABEL 2	(mff) (hhhsss)
+
+ADELA	Nicolas, la situation empire de jour en jour. Tous ces esclaves (---h)
+
+NICOLAS	Ce ne sont pas des esclaves qui nous ont attaqués.
+
+ADELA	On devrait...
+
+NICOLAS	Ils étaient tous bien blancs.
+
+ADELA	Qu'est-ce que tu dis?
+
+ISABEL 2	Et ce n'étaient pas tous des hommes.
+
+NICOLAS	De quoi est-ce que tu parles?
+
+ISABEL 2	(haaa) (---h) (---h) Quand cet homme était sur le point de me tuer, j'ai entendu une voix qui venait du devant de la carriole, qui lui a dit "NOn!" (---h) C'était la voix d'une femme, et je suis absolument certaine que c'est elle qui dirigeait tout.
+
+NICOLAS	(---h)
+
+(BOUCLE 51 - 00:34:54:01)
+		51
+
+ADELA	C'est impossible! Tu avais très peur, tu as dû confondre. Parce qu'une femme impliquée comme ça, ça ne peut pas...
+
+ISABEL 2	Grand-mère, qui était présente à ce moment là? Toi ou moi? C'était moi! (---h) Et je ne suis pas en train d'inventer des choses, alors s'il vous plait, croyez-moi, ce que j'ai entendu, c'est une femme qui parlait!
+
+NICOLAS	(mff) Bon , pas de problème!
+
+ISABEL 2	(haaa)
+
+ADELA	(mff)
+
+ISABEL 2	(mhh)
+
+(BOUCLE 52 - 00:35:20:23)
+		52
+
+ALONSO	En fait, je suis très surpris, tu sais! Je ne pensais pas que tu arriverais à rassembler les fonds pour payer ta part du cacao!
+
+EUGENIA	(---h) Vous vous rendez-compte, mon Général, le peu de confiance que votre fils m'accorde?
+
+ALONSO	(mff)
+
+GENERAL MARQUEZ	Tu ne devrais jamais douter d'une femme aussi charmante!
+
+EUGENIA	(mhh)
+
+ALONSO	Très bien! Premièrement, ce que nous devrons faire, c'est acheter la matière première!
+
+EUGENIA	C'est déjà fait! (---h) J'ai déjà acheté les 300 kilos de cacao qui nous manquaient.
+
+ALONSO	Ah oui?
+
+EUGENIA	(mff) (---h) Encore une inflexion d'incrédulité!
+
+GENERAL MARQUEZ	(---h) Alonzo, Apprend à reconnaître l'efficacité,
+
+ALONSO	(mff)
+
+GENERAL MARQUEZ	(---h) et permets-moi de te donner un conseil. (---h) personne ne devrait , jamais laisser partir, une associée comme cette très belle femme! (---h) Bon, (---h) trinquons à notre entreprise!
+
+ALONSO	(mff)
+
+GENERAL MARQUEZ	Santé! Mais sers-toi mon fils! Sers-toi!
+
+ALONSO	Je prends ma coupe! (mff)
+
+GENERAL MARQUEZ	Eugénia! Santé!
+
+EUGENIA	Santé mon Général!
+
+(BOUCLE 53 - 00:36:12:14)
+		53
+
+VICTORIA	Un rocher!
+
+REMEDIOS	Non mais quel manque de chance, c'est pas vrai!
+
+MIGUEL	Il faut qu'on essaye de le découper!
+
+MILAGRO	(---h) mais Siervo m'a dit que ça prendrait beaucoup trop de temps!
+
+VICTORIA	(---h) Il faut qu'on s'en tienne à ce qu'on avait prévu!
+
+REMEDIOS	Mais, comment?
+
+VICTORIA	(---h)
+
+TOMAS	Il doit bien y avoir un moyen de casser ce rocher.
+
+VICTORIA	Lequel?
+
+TOMAS	(h---) Quand j'étais jeune, j'ai travaillé dans les mines, avant de rencontrer Lorenza.
+
+MILAGRO	Je ne le savais pas, Papa.
+
+TOMAS	(h---) Ce n'est pas une phase de ma vie dont j'aime parler. Ni me rappeler. (---h) Ton grand-père Carmélo, est mort dans un glissement de terrain. (---h) On travaillait, avec des pieux et des pelles mais pour la montagne, (---h) la montagne, on la faisait sauter avec des barils de poudre!
+
+(BOUCLE 54 - 00:36:50:24)
+		54
+
+MILAGRO	Nous aussi, on pourrait en utiliser !
+
+VICTORIA	Oui! Où est-ce qu'on pourrait en trouver, papa?
+
+TOMAS	Sur le port! ça vaut très cher (---h) c'est très délicat... à manipuler et c'est vraiment très dangereux.. à transporter.
+
+MIGUEL	Oui, très bien, d'accord mais.. (hhhsss) Mais il y a autre chose: Comment on fait exploser le rocher sans qu'on nous entende, ni qu'on découvre ce qu'on est en train de faire?
+
+VICTORIA	Attendez! Je pense que j'ai une idée! (h---)
+
+(BOUCLE 55 - 00:37:18:06)
+		55
+
+ISABEL 2	Des feux d'artifices?
+
+ADELA	Des feux d'artifices! (---h) Est-ce que c'est sans danger?
+
+ISABEL 2	(Ha) Grand-mère, pour l'amour de dieu! Pourquoi tu gâches toujours tout?
+
+ADELA	Parce que.. je ne veux pas qu'on entreprenne quelque chose qui soit dangereux, C'est tout!
+
+VICTORIA	Rassurez-vous! (---h) Nous allons engager les meilleurs spécialistes, (---h) pour faire un spectacle, digne d'une vraie princesse!
+
+ISABEL 2	(mff)
+
+VICTORIA	(h---) (---h) Tu sais qu'il y a très, très longtemps, (---h) Le roi Louis 16 a célébré la naissance de ses enfants, avec des feux d'artifices pour que tout Paris les fête?
+
+ISABEL 2	J'adore cette idée, qu'est-ce que tu en dis Pa-pa?
+
+(BOUCLE 56 - 00:37:50:05)
+		56
+
+ISABEL 2	Pourquoi est-ce que tu ne parles pas? S'il te plaît, dis-moi oui, j't'en supplie! D'accord?
+
+NICOLAS	(---h) Tout ce que tu veux pour ton anniversaire, ma fille adorée!
+
+ISABEL 2	(Ha ha ha ha) Merci beaucoup! (---h) ça va être mon anniversaire... le plus magnifique!
+
+ADELA	Tu penses que c'est prudent de dépenser autant d'argent avec ça... surtout maintenant avec la cargaison qu'on nous a volée?
+
+NICOLAS	Et on ferait quoi alors? (---h) Lucia, viens avec moi, s'il te plaît!
+
+VICTORIA	Bien!
+
+(BOUCLE 57 - 00:38:22:00)
+		57
+
+NICOLAS	Je voulais te remercier pour tout ce que tu fais pour ma fille.
+
+VICTORIA	Non, ce n'est rien!
+
+NICOLAS	Bien sûr que si, (---h) Isabelle t'adore. Et tu as fait, tout ton possible, pour lui faire oublier cette journée atroce. (---h) Ta proposition, lui a vraiment fait oublier tout ce qui s'était passé. (mff) Tu m'as prouvé que tu as une grande âme, (---h) et de l'attachement envers notre famille.
+
+VICTORIA	Isabelle est vraiment adorable. Et je l'aime beaucoup. (---h) Et je suis heureuse qu'il ne se soit rien passé de grave.
+
+NICOLAS	(---h) Oui, ce qui est matériel, ce n'est pas important.
+
+(BOUCLE 58 - 00:38:54:11)
+		58
+
+VICTORIA	Oui, évidemment.
+
+NICOLAS	(---h)
+
+VICTORIA	Et qu'est-ce que tu vas faire pour le vol?
+
+NICOLAS	(---h) Je vais déposer une plainte. (---h) Même si je ne crois pas que ça serve à grand chose.
+
+VICTORIA	(---h)
+
+NICOLAS	Le Général n'est pas en très grande forme. Comme le démontre, le chaos qui règne dans cette ville! (---h) Nous sommes... à la merci des bandits!
+
+VICTORIA	(mff) (---h) Le plus important c'est que vous soyez sains et saufs.
+
+(BOUCLE 59 - 00:39:22:16)
+		59
+
+MIGUEL	(haaa) (---h) Je suis content qu'il ne soit rien arrivé à la petite Isabelle. Sinon, je n'aurais pas pu vivre avec ça sur la conscience.
+
+TRINIDAD	(---h) Si un blanc tombe à la place d'un des nôtres, de temps en temps, y'a pas de quoi pleurer.
+
+MIGUEL	Comment tu peux dire ça? (---h) La petite Isabelle est une innocente qui n'a rien à voir avec tout ça! Tu devrais avoir honte! Comme si la vie des gens n'avait aucune valeur!
+
+TRINIDAD	Comme si la vie des nôtres avait de la valeur pour eux! Mais dans tous les cas si ça s'est mal passé, c'est pas de ma faute mais de la tienne!
+
+TOMAS	Mais qu'est-ce qui te prend, Trinidad? Arrête de dire n'importe quoi?
+
+TRINIDAD	Mais je dis la vérité! Toute cette histoire de vol aurait été évitée, si Miguel avait pas cacher l'amourette qu'il a avec sa petite Marquise!
+
+TOMAS	BAISSE d'un ton!
+
+(BOUCLE 60 - 00:40:03:16)
+		60
+
+TOMAS	Tu es devenu cinglé?
+
+TRINIDAD	Mais c'est vrai ou pas?
+
+TOMAS	(---h)
+
+TRINIDAD	Si c'était pas vrai, on aurait pu éviter le chantage et le vol. (---h) quand est-ce que tu vas comprendre que cette femme est la raison de tous nos problèmes!
+
+MIGUEL	Fais très attention! Parce que cette femme, c'est Ma femme!
+
+TOMAS	Parle moins fort! Et c'est ma fille! Alors fais attention à c'que tu dis!
+
+TRINIDAD	Un blanc reste un blanc!
+
+MIGUEL	Je supporte plus ton comportement, J'sais pas ce que tu as derrière la tête mais écoute moi bien! (---h) Je ne veux pas t'entendre parler comme ça de Victoria ni de personne de la Cause!
+
+TOMAS	Du calme!
+
+MIGUEL	Elle est avec nous et point final!
+
+TOMAS	On se calme!
+
+TRINIDAD	Et sinon? On fait quoi  mon frère?
+
+MIGUEL	Tu fais plus partie du plan, nom de Dieu!
+
+TOMAS	Arrêtez, s'il vous plaît!
+
+MIGUEL	Est-ce que c'est ça que tu veux? M'obliger à ça?
+
+TOMAS	Chuuut!
+
+JULIAN	Hey! Qu'est ce qui se passe vous deux?

@@ -1,0 +1,744 @@
+LA ESCLAVA 1
+31/08/2016
+
+(BOUCLE 1 - 00:00:00:00)
+		01
+
+(texte)	GENERIQUE
+
+(BOUCLE 2 - 00:00:56:24)
+		02
+
+CHANT	chant des esclaves___________________________________________________________________________________________________________________________________________________________________________________________________---------------------------------------------------------------------------------------------
+
+(BOUCLE 3 - 00:02:40:21)
+		03
+
+DOMINGO	Bonjour Thomas. Entre...
+
+THOMAS	mts... _h hh_ _h_h  euh...  je... h_ voilà, c'est pour vous Don Domingo.
+
+DOMINGO	Thomas, alors ça veut dire que...
+
+THOMAS	Oui... c'est...  le dernier paiement...h_ je ne vous dois plus rien maintenant.
+
+DOMINGO	hh_ Assieds-toi.
+
+THOMAS	Mais... non, monsieur, je... je suis bien...
+
+DOMINGO	Assieds-toi s'il te plaît...
+
+(BOUCLE 4 - 00:03:17:16)
+		04
+
+DOMINGO	Il va falloir t'habituer, à partir de demain tu seras un citoyen à part entière! Il ne manque plus que le cachet du notaire     ...   sur ta lettre d'affranchissement, pour que tu sois le propre maître...          de ta vie....
+
+THOMAS	hhh_
+
+DOMINGO	_hh Demain je  me rendrai en ville, et je ferai le nécessaire.
+
+THOMAS	Euh___ Il y a autre chose dont je voudrais vous parler. hh_ _h_h_h je veux également acheter l'affranchissement de ma femme et de ma fille. Je sais que grâce à mon travail je pourrai.....             vous payer...          alors...     il faudrait seulement en... _h en fixer le prix, non? _h     _h je veux les avoir avec moi...
+
+DOMINGO	Je ne sais pas si ça va pouvoir ... être possible, Thomas. tu sais bien que....      Héléna ne peut pas pour l'instant se passer de Lorenza,   ça tombe très mal...
+
+THOMAS	Oui je sais. je sais mais... h_ Elles sont tout ce qui me reste, elles sont... ma seule famille...
+
+DOMINGO	_h
+
+(BOUCLE 5 - 00:04:24:11)
+		05
+
+THOMAS	_h  monsieur... comment vous sentiriez-vous, si on vous enlevait la vôtre?
+
+DOMINGO	Bon... Je te promets d'en parler à Héléna, pour voir si elle peut survivre sans Lorenza...
+
+THOMAS	hh_
+
+DOMINGO	ça te va comme ça ?
+
+THOMAS	Oui monsieur... Merci beaucoup Don Domingo.
+
+(BOUCLE 6 - 00:05:04:04)
+		06
+
+LORENZA	Fais dodo Victoria...  _h fais dodo ma ché-rie... _h endors-toi mon p'tit coeur, et fais de beaux rêves... _h si ta ma-man est d'a-cco-ord,...je la soutiendrai...._h  ma douce petite Victoria...  je te bercerai...     _h  fais dodo ma ché-rie, ... _h Avec de doux rêves...
+
+HELENA	Lorenza, pourquoi est-ce si long aujourd'hui?
+
+LORENZA	Donia Héléna... _hh Elle s'est réveillée avec un gros  appétit, et... _h c'est bon signe parce que...   ça veut dire qu'elle grandit bien.
+
+HELENA	h_h_
+
+LORENZA	Mais nous avons fini,       pas vrai mon bébé? Allez...
+
+(BOUCLE 7 - 00:05:52:21)
+		07
+
+LORENZA	hhh_ tt-tt-tt-tt-tt-tt-tt tt-tt-tt- shhhh
+
+BEBE	(pleurs-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   se calme__________________)
+
+HELENA	Qu'est-ce qu'elle a ? Elle est mouillée? Si elle n'est pas mouillée et qu'elle a mangé, pourquoi pleure-t-elle?
+
+LORENZA	Attendez... Elle va se calmer si vous la tenez bien fort, madame Héléna, voilà.... c'est tout, c'est tout... shhhhhh voilà Elle aime bien qu'on lui fasse des câlins, elle aime bien sentir l'odeur de... de sa maman.
+
+HELENA	Je sais... Je sais, je suis sa mère. Je sais ce qu'elle aime.
+
+LORENZA	Oui, bien sûr. Je vais profiter de ce que vous êtes avec la petite pour ...        pour ranger le linge qui est amidonné. Excusez-moi.
+
+HELENA	Lorenza attends ! Tu la connais mieux que moi, _h en fait, elle ne fait que manger et dormir, et je ne m'occupe pas de ces choses avec elle... elle est si petite... dis-moi ce qui plaît à Victoria, Et montre-moi ce que tu fais avec elle.
+
+(BOUCLE 8 - 00:07:01:22)
+		08
+
+ADELA	J'étais chez le couturier hier,                  j'ai appris que les anglais voulaient acheter le plus de coton et de quinquina possible... et nous on continue à leur acheter de la camelote !
+
+NICOLAS	Ce n'est pas de la camelote que j'importe, mère. ce sont des articles européens raffinés qui sont très prisés dans ce pays, j'apprécierais d'avoir un peu de soutien de la part de mes principaux partenaires.
+
+ISABEL	Tu devrais dire ça à mon père.
+
+NICOLAS	_h  Le dernier chargement est déjà en route. Il est même déjà vendu, Isabel. Je n'ai plus qu'à livrer la marchandise aux clients pour être payé..
+
+ADELA	_h Donc cette fois, tu es persuadé que ça va marcher?
+
+NICOLAS	Bien entendu, mère.
+
+(BOUCLE 9 - 00:07:53:05)
+		09
+
+ADELA	J'aimerais que nous cherchions une maison plus grande, avec une salle à manger qui serait... _h  au moins deux fois plus.... Qu'est-ce que tu as fait pauvre idiote!  Tu sais combien coûte ce plat ?
+
+ISABEL	Nicolas... Tous nos repas sont comme ça...
+
+ADELA	Regarde-moi ça!         Regarde! !
+
+ISABEL	A quand remonte la dernière fois que nous avons mangé en paix ?
+
+ADELA	Peut-on seulement espérer manger?!     Quand c'est une diablesse qui sert à table !!
+
+ISABEL	Depuis combien de temps n'avons-nous pas eu la paix?
+
+NICOLAS	Bon, assez, maintenant!  ça suffit!! ça suffit... Hilaria !
+
+HILARIA	Oui, maître ?
+
+NICOLAS	Nettoie le gâchis de Sara. Et toi viens par là,           allons dehors.
+
+(BOUCLE 10 - 00:08:41:17)
+		10
+
+ADELA	Maudit soit le jour où j'ai accepté de suivre mon mari ici. Je n'imaginais pas devoir vivre aussi à l'étroit et avec des créoles!
+
+ISABEL	Nicolas aussi est un créole. comme le seront vos petits-enfants.
+
+ADELA	Si j'ai la chance d'en avoir un jour. _hhh  j'ai perdu tout espoir pour ça. Nous savons toutes deux pourquoi, non?
+
+(BOUCLE 11 - 00:09:13:16)
+		11
+
+SARA	(cris coups de fouet-------------------------(cri------------------------------- (gémit_____) (cri_____ (cri_______  h_h_   cri_________ h_h_  ) (cri________
+
+NICOLAS	hha__
+
+SARA	h_h_ (cri moins fort)_ h_h_h
+
+NICOLAS	hha_
+
+SARA	(gémit_______    cri____   pleure______)
+
+NICOLAS	hha! Je crois que ça ira! ça devrait suffire pour que ma mère nous fiche la paix. Sara crois-moi, ça me fait aussi mal qu'à toi ! tu dois faire plus attention.... tu dois te concentrer sur ton travail... (baiser__________________________________________________________________________________________________________________________
+
+SARA	(baiser____________________________________________________________________________ Ne m'abandonnez pas....
+
+ISABEL	hh_
+
+SARA	une personne comme vous.... (baiser-----------)
+
+NICOLAS	Non, Sara... (baiser_____________
+
+SARA	Non, maître, (baiser__) non.... Pas ici, non ...             _h_h_h    si la maîtresse nous voit... elle va nous tuer!
+
+NICOLAS	Je m'en moque, Sara... J'en ai assez d'attendre...
+
+SARA	(baiser___________________________
+
+NICOLAS	(baiser_____________________________
+
+(BOUCLE 12 - 00:10:28:21)
+		12
+
+SARA	respi---  baiser--- moi aussi         (baiser________ respi__________      moi aussi, maître ---  respi---
+
+NICOLAS	(baisers______________________________respi____________________________________)
+
+SARA	_h mais...       hh_ snif_ h_mais si vous m'accordiez votre grâce... _h nous passerions plus de temps ensemble... _h   c'est à vous d'en décider... _h
+
+NICOLAS	(X)                (X)    _h _h _h                 je ne peux pas, Sara... hh_ ce ne serait pas accepté, et je perdrais mes relations...
+
+SARA	_h _h aujourd'hui...  bien des choses ont changé, malgré tout... _h _h parce que certains messieurs... (snif_) _h il y a certains maîtres qui ont fait en sorte de ....
+
+NICOLAS	Je ne suis pas ce genre d'homme...   mais je te dédommagerai... (baiser--) je te dédommagerai (baisers_______________________________
+
+SARA	(baiser) (baisers_______hh_     ______________________________   hh_ snif_)
+
+NICOLAS	(respi___________________________________________________________)
+
+SARA	Il vaut mieux que je... _h_h      reparte à la cuisine. je ne veux pas être punie encore une fois.
+
+NICOLAS	(soupir___    snif_     h_h_h_
+
+(BOUCLE 13 - 00:11:35:24)
+		13
+
+DOMINGO	Tu es sûr de l'information que tu viens de me donner?   Parce que c'est un problème délicat.
+
+MARCHAND	Oui monsieur. J'ai vu moi-même le bateau longer les côtes il y a quelques jours, quand j'étais en chemin pour venir ici.
+
+SIERVO	Excusez-moi! Vous m'avez fait appeler, maître?
+
+DOMINGO	Oui, Siervo, regarde... Tu vas emporter tout ça à la réserve. Fais bien attention, ce sont des trésors!
+
+SIERVO	A vos ordres, maître
+
+DOMINGO	Eh bien, mon brave, merci beaucoup pour ces marchandises...
+
+MARCHAND	A votre service, monsieur.
+
+DOMINGO	et pour l'information. Quand allons-nous pouvoir nous revoir?
+
+MARCHAND	Monsieur,  aujourd'hui je pars pour Mompox, avec une cargaison de choses importées... dans 3 semaines, monsieur.
+
+DOMINGO	Bien.         Je te dois combien?
+
+MARCHAND	5 pianas, monsieur.
+
+DOMINGO	Bien.
+
+SIERVO	attends, viens-voir...
+
+(texte)	(chuchote-------)
+
+SIERVO	un chargement part pour Mompox
+
+DOMINGO	Dieu te garde.
+
+MARCHAND	Merci monsieur.
+
+(BOUCLE 14 - 00:12:34:12)
+		14
+
+LORENZA	Milagro ! Ma chérie ! h_hm _h Tu as passé une bonne journée? (X)
+
+THOMAS	Lorenza !
+
+LORENZA	Papa...
+
+THOMAS	Viens-là, toi ! (rire____________  bisous________) ma jolie petite coquine!
+
+LORENZA	Mon chéri ? Qu'est-ce qui te rend si joyeux?
+
+THOMAS	Je viens de faire le dernier versement...  pour le maître.
+
+LORENZA	C'est vrai? (petit rire____)
+
+THOMAS	Et pas plus tard que demain,    il va aller en ville...    _h    et il signera ma lettre d'affranchissement.
+
+(BOUCLE 15 - 00:13:22:21)
+		15
+
+LORENZA	Ah Thomm...... (rire____________________________________________________
+
+THOMAS	(rire__________________________________________________
+
+LORENZA	Après toutes ces années d'effort!... _hh tu es libre, Thomas ! _h  libre ! h_h_ ah....
+
+THOMAS	_hh oui... libre... Et j'attends que le maître... _h    me donne la permission de payer pour vous deux. On va y arriver, Lorenza! On va être libres !  _h        _h          On va y arriver!
+
+LORENZA	Ah! Ah!  Ahahah ! (bisous_____
+
+CONTREMAITRE	Allez !  Tout le monde rentre ! Les hommes d'un côté, les femmes de l'autre !
+
+LORENZA	(X)
+
+CONTREMAITRE	On se dépêche !
+
+LORENZA	Bonne nuit chéri...
+
+THOMAS	Bonne nuit...
+
+CONTREMAITRE	Hé ! Vous deux aussi, allez!
+
+THOMAS	Oui monsieur.
+
+LORENZA	(rire___________)
+
+(BOUCLE 16 - 00:14:54:19)
+		16
+
+AMBIANCE	(cris assaillants____________________________________________________________________
+
+PRUDENCIO	Restez  tranquilles ! Nous sommes beaucoup plus nombreux que vous et nous allons prendre votre cargaison !     A vous de décider si vous voulez vivre ou mourir!
+
+(BOUCLE 17 - 00:15:43:19)
+		17
+
+SIERVO	Maître ! Maître Domingo ! Un malheur est arrivé ! Venez, maître !  Vous devez voir ça !
+
+HELENA	Qu'est-ce qui se passe?
+
+DOMINGO	Je n'en sais rien... Je vais aller voir, Héléna. reste-là.
+
+HELENA	Non, non... je viens avec toi !
+
+DOMINGO	Bon, si tu veux, prépare-toi.
+
+(BOUCLE 18 - 00:16:06:00)
+		18
+
+SIERVO	Maître... Maître.... Les gens disent que....     ce sont les esclaves fugitifs .... qui empoisonnent toute l'eau qui vient des propriétés des montagnes !
+
+DOMINGO	Mais pourquoi feraient-ils une chose pareille?
+
+SIERVO	Eh bien, maître... C'est sûrement pour faire peur... pour vous obliger à libérer tous les esclaves.
+
+HELENA	Qui sont ces gens qui disent ça, Siervo?
+
+SIERVO	Les esclaves de la propriété voisine, maîtresse... Ils l'ont entendu dire...   par un contremaître.
+
+DOMINGO	Eh bien ils se trompent...  ma chère il ne s'agit que de piqûres de serpent.
+
+HELENA	Domingo, c'est un mauvais présage.
+
+DOMINGO	_h allons, ne t'inquiète pas.
+
+HELENA	Empoisonnement ou piqûre de serpent, peu m'importe. Nous devrions quitter ces terres, je ne m'y plais pas... tu le sais bien.
+
+DOMINGO	Viens...
+
+(BOUCLE 19 - 00:17:12:01)
+		19
+
+DOMINGO	Chérie... tout ce dont tu dois te soucier, c'est l'amour à apporter à notre fille, Victoria. Rien de plus.
+
+HELENA	Domingo, ne va pas en ville, pas aujourd'hui
+
+DOMINGO	_h  Le général a convoqué le conseil, je suis obligé d'y aller. Siervo...
+
+SIERVO	Oui, maître.
+
+DOMINGO	Je ne veux plus ni ragots ni rumeurs dans cette Hacienda.
+
+SIERVO	Oui maître.
+
+(BOUCLE 20 - 00:17:45:09)
+		20
+
+Gal MARQUEZ	Messieurs, j'ai reçu des nouvelles de Villa del Rosario. _hh   il y a un peu moins d'un mois...      la nouvelle Constitution a été signée. hmm? Et Bolivar et Santander...     se sont employés à édicter un sacré paquet de nouvelles lois, une fois de plus... _h et je crois que ces lois    ne seront sans doute pas appliquées ici, _h   tout comme les précédentes, et celles d'avant les précédentes, n'est-ce pas ?   (rire__)
+
+AMBIANCE	(rires hommes_________
+
+Gal MARQUEZ	Mais toutefois, il y en a une, messieurs,  que nous devrons respecter et suivre à la lettre, c'est la loi du Ventre Libre, qui, comme certains d'entre vous le savent déjà, est le premier pas vers l'abolition de l'esclavage.
+
+NICOLAS	L'abolition? _h mais ça n'ira pas jusque là, ça coûterait beaucoup d'argent... h_ Je pense que  nous pouvons dormir tranquilles.
+
+Gal MARQUEZ	Mon cher Nicolas, C'est un pacte, c'est une loi. D'accord? _h Et cela signifie...       qu'à partir de cette année,   _h tout enfant , _h qu'une esclave portera en son sein, sera libre à partir de ses 18 ans. _h C'est une chose qui me semble très bien.   Le monde évolue, n'est-ce pas ?
+
+(BOUCLE 21 - 00:18:50:12)
+		21
+
+NICOLAS	Bon, ça nous arrange en fait. _h  La cargaison va prendre de la valeur.
+
+GUTIERREZ	Et avec elle ma commission.
+
+Gal MARQUEZ	Lieutenant!
+
+GRANADOS	Général ?
+
+Gal MARQUEZ	Il devient nécessaire de renforcer les inspections au port, à cause de l'interdiction de la traite d'esclaves.
+
+DOMINGO	Excusez-moi, Général... J'ai une information importante en relation avec ce dont vous venez de parler
+
+Gal MARQUEZ	Je t'écoute, Domingo, de quoi s'agit-il?
+
+DOMINGO	hhh_ J'ai été informé...         qu'il y a un bateau rempli de...      d'africains illégaux qui longe la côte entre Riohacha et Santa Marta, je pense qu'ils vont essayer de les débarquer près de notre port.
+
+Gal MARQUEZ	_h Lieutenant, voici l'occasion idéale de montrer à ces gens... comment nous investissons l'argent qu'ils nous donnent pour nos troupes.      Merci de votre coopération à tous.              Allons donc attraper ces trafiquants !       Santé!
+
+DOMINGO	Santé !
+
+HOMMES	Santé !
+
+NICOLAS	File au port en vitesse!  Dépêche-toi! (snif_)
+
+(BOUCLE 22 - 00:20:09:24)
+		22
+
+MORALES	(essouflé _________ Debout !      Où est le reste de l'équipage ?! Où êtes-vous ?    Montrez-vous!        On a des ennuis !               Hé, toi! Réveille-toi! Bon sang!       Y'a donc personne qui ne soit pas saoûl à bord ? (respi_______________________)  hé! Marco!  Debout ! Où sont les autres membres d'équipage ? Et la cargaison, hein? Où est-elle?
+
+MARCO	(réacs___________________________________) En bas... ils sont tous en bas... Ahhh
+
+MORALES	Arrhhh! (respi course___________________________________)
+
+(BOUCLE 23 - 00:20:39:24)
+		23
+
+AMBIANCE	(gémissements esclaves__ réacs esclaves_________________________________________
+
+MORALES	Dehors démons !!!  Sales bêtes !     Porcs!....     Taisez-vous  et levez-vous !      Vous allez tous sortir de là,                      et en vitesse !   Dépêchez-vous!  Dehors!       Sortez tous de là!     Plus vite que ça, tas d'immondices !          Sur le pont tout le monde, en vitesse !            Dépêchez-vous de monter sur le pont!    Allez!         Montez sur le pont!      Allez, plus vite que ça, tout le monde sur le pont!   Dehors!      Y'a des gens qu'ont payé très cher pour vous, alors on s'dépêche !
+
+(BOUCLE 24 - 00:21:12:01)
+		24
+
+AMBIANCE	(brouhaha réacs esclaves_______________________________________________________________________________
+
+MORALES	Personne ne reste sur le bateau, compris, tout le monde doit descendre, vous m'avez entendu,  je ne veux plus personne sur le pont ! Allez! Fais-les descendre, Marco!
+
+MARCO	Mais ils sont trop nombreux, le canot va couler, patron !
+
+MORALES	Qu'ils nagent, imbécile! Mais qu'ils fichent le camp tout de suite, débrouille-toi!! Allez ! J'ai dit "personne ne reste sur le pont!" vous avez compris, maintenant?   Alors sautez! A la flotte!  En vitesse!
+
+AMBIANCE	(cris__________________________)
+
+(BOUCLE 25 - 00:22:45:07)
+		25
+
+THOMAS	A l'heure qu'il est, Don Domingo doit être...        euh...    en ville avec le notaire, pour signer ma lettre d'affranchissement.
+
+SIERVO	Hmm.... Et après?
+
+THOMAS	Hum... Après?... Je travaille comme orfèvre, avec mon cousin Antonio... _h à Santa Marta, et avec ce que je gagnerai, je pourrai payer pour Lorenza et Milagro hh_
+
+SIERVO	Je ne te croyais pas aussi naïf, Thomas.
+
+THOMAS	Rien n'est jamais perdu d'avance,  Servio, regarde, moi finalement, je vais être libre!
+
+SIERVO	Thomas, tu crois vraiment qu'un papier signé par des blancs fera de toi un homme libre?
+
+THOMAS	Pas mal de noirs ont payé ici  pour leur liberté, et ils ont leur affaire en ville, regarde Téofilo ou-ou Cirilo!
+
+SIERVO	Mais la liberté est notre droit, on a pas à payer pour!
+
+THOMAS	Tu veux que je fasse quoi,  hein, quoi ? Tu veux que je travaille dans cette Hacienda toute la vie,  en attendant qu'on me donne ce droit?
+
+SIERVO	Bien sûr que non! On devrait s'échapper.
+
+THOMAS	mts
+
+SIERVO	Et rejoindre le campement de...   mes cousins, nous cacher comme les fugitifs. Là-bas ils vivent en respectant nos lois, nos traditions... c'est ça la liberté!
+
+THOMAS	Ah tu crois? C'est justement ça la naïveté! hha__ Siervio, non.
+
+(BOUCLE 26 - 00:24:05:07)
+		26
+
+THOMAS	Non, ce que je veux, mfh_ _hh   c'est avoir une bonne vie, près de ma femme et de ma fille, rien de plus.
+
+SIERVO	Quel genre de vie auras-tu Thomas? Ta fille, les blancs la verront...  toujours comme une marchandise, et toi aussi Thomas... quand bien même tu seras élégamment vêtu... Ohh...   Non, cette vie-là je n'en veux pas. Tu as oublié?... Comme on leur a servi de chair à canon face à l'armée indépendantiste, est-ce qu'ils ont tenu parole, ils nous ont accordé la liberté après ça?
+
+THOMAS	Non mais les temps ont changé depuis, j'ai entendu Don Domingo dire que l'abolition était ...     proche, sur bien des propriétés...
+
+SIERVO	Don Domingo,  Don Domingo! Pas ici ! Sûrement pas ici! Essaie de faire preuve d'un peu de jugeote! L'espoir c'est lui...         qui t'asservit,  plus que les chaînes!
+
+THOMAS	C'est mon espoir qui est ... sur le point de me libérer! (crache_)
+
+(BOUCLE 27 - 00:25:03:10)
+		27
+
+MORALES	Rame !  Rame vers la côte!   Bon sang, tu vas ramer ou je te jette à l'eau! Par là, je t'ai dit! Tu ne comprends rien! Rame plus vite!
+
+(BOUCLE 28 - 00:25:19:11)
+		28
+
+Gal MARQUEZ	Domingo, tu es sûr que tes informations sont exactes, hmm?  Parce que je te tuerai de mes propres mains dans le cas contraire... Me faire venir jusqu'ici, à mon âge et avec tout le rhum que j'ai bu !
+
+DOMINGO	Ne vous inquiétez pas mon Général, mes informateurs sont très fiables.
+
+NICOLAS	Qui sont-ils, Domingo?
+
+JOAQUIN	Ils sont là !
+
+GRANADOS	Allons les chercher!
+
+Gal MARQUEZ	Ce qui compte maintenant c'est de découvrir qui organise ce trafic, celui-là je veux le voir derrière les barreaux ! Ahh!  Ahh!
+
+DOMINGO	(hue !__)
+
+(BOUCLE 29 - 00:25:50:17)
+		29
+
+JEUNE AFRICAIN	Non...  c'est pas vrai.... Il les a tués ! ma pauvre maman...    il l'a tué!                    Il les a tous tués!.....
+
+AFRICAINE	se lamente_ pleure_____________________________________
+
+JEUNE AFRICAIN	Il est mort...  un enfant! Pourquoi il a fait ça ?!
+
+AFRICAINE	ah mon pauvre petit, mon pauvre petit...   Il a tué mon enfant, mon fils est mort, pourquoi il a fait ça?
+
+GRANADOS	Combien d'autres sont venus avec vous? Il y en avait combien d'autres avec vous, combien  ?
+
+JEUNE AFRICAIN	C'est pas juste...
+
+JOAQUIN	Combien d'autres sont venus avec vous ?! Y-a-t-il d'autres survivants ?
+
+SOLDAT	je vérifie, monsieur.
+
+DOMINGO	Ces trafiquants sont prêts à tout, Général...    pour éviter de se faire prendre. Quelque chose ne va pas, Don Nicolas?
+
+NICOLAS	Bien sûr, je pense que c'est un défi lancé au Conseil, nous devons donner l'exemple et...
+
+JOAQUIN	Rassemblez-les !
+
+NICOLAS	attraper le responsable.
+
+Gal MARQUEZ	C'est très juste! Lieutenant Granados, vous vous chargerez de tout.
+
+GRANADOS	Enterrez les morts !  Les survivants appartiennent désormais à la Grande Colombie!
+
+DOMINGO	Général, le propriétaire de ce canot est peut-être toujours à bord.
+
+Gal MARQUEZ	J'y pensais justement... Granados! Il faut confisquer ce bateau!
+
+(BOUCLE 30 - 00:27:11:15)
+		30
+
+GRANADOS	Tout de suite, Général!
+
+Gal MARQUEZ	Domingo,  tout ça c'est grâce à toi. Tu es de ces hommes qui respectent la loi et lui obéissent.
+
+NICOLAS	_h  Moi aussi je te félicite, Domingo, tu as fait du beau travail.
+
+(BOUCLE 31 - 00:28:09:12)
+		31
+
+NICOLAS	Qu'est-ce qui s'est passé, Morales?
+
+MORALES	Je suis désolé, monsieur... J'ai fait tout ce que j'ai pu, mais je n'ai pas eu assez de temps.
+
+NICOLAS	_hh ce n'est pas de ta faute. _h le responsable de ce grand désastre,.... _h c'est Domingo Quintero ça ne lui suffit pas de possèder le domaine le plus prospère... _h h_ de la province de Magdalena, il faut en plus qu'il détruise...     les petits patrons comme moi qui essaient de s'en sortir.
+
+MORALES	Par la faute de cet homme, Don Nicolas, _h les esclaves qui ne se sont pas noyés appartiennent désormais au Conseil. mfh__  nous avons tout perdu.
+
+NICOLAS	Je vais lui donner une bonne leçon, je veux qu'il sache ce que c'est de tout perdre! Je dois compter sur toi, Morales, ne me déçois pas cette fois-ci. Tu as compris ?
+
+MORALES	Oui monsieur.
+
+NICOLAS	Viens avec moi.
+
+(BOUCLE 32 - 00:29:33:10)
+		32
+
+LORENZA	si ta maman est d'acco-ord... je la soutiendrai....   ma petite Victoria-a, _h  je te bercerai...  _h endors-toi petite Victoria,  _h  à tout à l'heure mon trésor..... _h Tu es un bébé spécial. mts_  dors sans crainte ma douce Victoria. Ici tout le monde t'aime et te protège mmh? Je t'aime beaucoup tu sais.
+
+(BOUCLE 33 - 00:30:35:20)
+		33
+
+DOMINGO	hhh__
+
+HELENA	h____
+
+DOMINGO	Tu ne fais plus confiance non plus à la nounou ? Alors tu l'espionnes par la fenêtre, chérie?
+
+HELENA	Domingo, il s'agit de ma fille, je veux tout savoir en ce qui la concerne.
+
+DOMINGO	Ne t'inquiète pas, Lorenza est parfaite, tu le sais bien, elle fait tout ce qu'il faut.
+
+HELENA	Tu rentres tard...
+
+DOMINGO	Oui... Nous avons saisi un bateau rempli d'africains.
+
+HELENA	Que dis-tu ?
+
+DOMINGO	La loi du ventre libre est entrée en vigueur, l'abolition est proche. ça signifie que nous devons poursuivre les trafiquants d'esclaves. hh_ Tu n'imagines pas cette scène... des femmes, des enfants...  beaucoup ont péri.
+
+HELENA	C'est monstrueux mais...
+
+DOMINGO	Et le pire c'est que nous n'avons pas pu arrêter le propriétaire de cette cargaison, il n'était pas là.
+
+HELENA	Domingo, il faut que tu arrêtes de te mêler de ça, regarde ce qui est arrivé au bétail et...
+
+LORENZA	Don Domingo? vous êtes rentré je n'ai pas...   entendu les chiens aboyer?
+
+(BOUCLE 34 - 00:31:27:21)
+		34
+
+DOMINGO	Ils doivent être aussi fatigués que moi. _h va te reposer, Lorenza. Demain est un jour particulier, La lettre d'affranchissement de Thomas,  est sur mon bureau, signée par le notaire.
+
+LORENZA	mh_ _hh merci beaucoup Don Domingo, _hh Thomas m'avait annoncé la nouvelle... Vous êtes un bon maître. Merci
+
+DOMINGO	A demain.
+
+LORENZA	A demain. Excusez-moi.
+
+(BOUCLE 35 - 00:32:05:07)
+		35
+
+ADELA	Alors ? Que s'est-il passé, Nicolas?
+
+NICOLAS	Le bateau a coulé au large. _hh   Toute la cargaison est perdue.
+
+ADELA	Ohh___ dieu du ciel, encore... Encore un échec! _hh    Cette cargaison était notre ultime espoir de pouvoir nous relever de la situation désespérée dans laquelle nous sommes. elle s'est transformée en un clou qui va sceller notre cercueil! Tu avais dit que c'était sans risque!
+
+NICOLAS	Nous pouvons encore nous en sortir.
+
+ADELA	Comment?!
+
+NICOLAS	J'ai une solution!
+
+ISABEL	Hum
+
+ADELA	Ah oui ?     Si elle ressemble à celle-ci, garde-la pour toi! Tu as dilapidé la fortune de ton père,  il doit se retourner dans sa tombe.
+
+NICOLAS	Si tout ce que je fais te déplaît, propose autre chose!
+
+ADELA	Baisse le ton, Nicolas!
+
+NICOLAS	Sais-tu qu'il y a des femmes qui savent faire autre chose qu'exhiber leurs bijoux ou lire en français ?
+
+ISABEL	_h           Si mon pauvre père savait ce que j'endure...
+
+(BOUCLE 36 - 00:33:23:17)
+		36
+
+NICOLAS	C'est ce qui risque d'arriver quand on se marie par intérêt, chérie. Tu voulais un nom... _h du sang espagnol, tu les as _h l'argent ne vient pas aussi facilement.
+
+ISABEL	Je m'en suis aperçue.
+
+NICOLAS	Au moins j'ai rempli ma part du contrat. Ce qui n'est pas ton cas,  tu n'as même pas été capable de me donner un héritier, et en tant qu'épouse tu ne vaux rien.
+
+(BOUCLE 37 - 00:36:05:21)
+		37
+
+HELENA	Il y a le feu ! La petite! Oh! Mon bébé! C'est fermé ! Lorenza !
+
+DOMINGO	Siervo !          Thomas!  Siervo!
+
+HELENA	Allez chercher la petite, s'il vous plaît ! Eteins ce feu ! Lorenza, s'il te plaît!  Au secours! La petite, vite !
+
+DOMINGO	Aidez-nous !
+
+HELENA	A l'aide!        Le bébé s'il te plaît!  Le bébé!       le bébé !
+
+DOMINGO	Héléna, recule-toi !
+
+HELENA	Lorenza!   Au secours!
+
+DOMINGO	Siervo !        Siervo  !
+
+HELENA	Lorenza !   A l'aide!     Réveille-toi !  Il y a le feu !
+
+DOMINGO	Thomas !  Viens nous aider!
+
+HELENA	Le bébé, Lorenza, s'il te plaît, sauve le bébé !
+
+DOMINGO	Au secours !
+
+HELENA	A l'aide!    Au feu !     réveille-toi s'il te plaît, réveille-toi !    A l'aide !  Lorenza s'il te plaît!
+
+(BOUCLE 38 - 00:36:54:11)
+		38
+
+BEBE	(pleurs__________________________________
+
+(BOUCLE 39 - 00:37:49:08)
+		39
+
+LORENZA	(réac peur______   respi __________________________ (réac__  ohhh____  réac_ respi_______________ Don Domingo!  (respi___)  Don Domingo!  (respi______)   Don Domingo...   Non ! (sanglots__________________________
+
+(BOUCLE 40 - 00:38:31:04)
+		40
+
+LORENZA	Mon bébé...  _h _h mon bébé... _h _h mon bébé...
+
+MORALES	Tais-toi !
+
+LORENZA	_h_h  Oh mon bébé, non... _h
+
+MORALES	Prends la petite... et va-t-en loin, là où je ne pourrai pas vous retrouver, _h parce que je te jure que si je vous revois, je vous tue!
+
+LORENZA	h_h_ non... h_h_h_h_h_h (respi_____ tousse______    respi___________  tousse_____________
+
+(BOUCLE 41 - 00:39:07:04)
+		41
+
+SIERVO	(tousse_______________     _h_h Thomas... Thomas, Thomas réveille-toi... Thomas, réveille-toi !  Thomas! Réveille-toi!  L'hacienda... elle est en train de brûler! Lève-toi! Lève-toi!    réveille-toi! L'hacienda...
+
+THOMAS	Milagro....
+
+SIERVO	Réveillez-vous tous !  L'hacienda....     réveillez-vous!  Debout!
+
+THOMAS	_h_h   il faut aider Don Domingo, et Dona Héléna...
+
+SIERVO	Thomas! Thomas!    Il faut qu'on parte d'ici!
+
+THOMAS	Siervo, ma lettre d'affranchissement est là-bas!
+
+SIERVO	Non!...   Là, il faut se sauver d'ici, Thomas!
+
+THOMAS	Non!...       Je dois aller chercher ma famille!
+
+SIERVO	Sauvons-nous d'ici tout de suite!  Je m'en charge!  Il faut partir!  Vous ne voulez pas être libres?
+
+esclave homme	Et comment on va sortir?
+
+SIERVO	Je peux vous conduire à un village de fugitifs, c'est juste à quelques jours de marche! Que tous ceux qui veulent être libres me suivent! Je ne veux plus vivre en esclave! On va faire tomber la porte! On va faire tomber la porte!!
+
+AMBIANCE	(esclaves : efforts                             __s'échappent_____________________________________
+
+THOMAS	Lorenza ! Lorenza! Lorenza ! Lorenza! Milagro.... ça va, tu vas bien ? _h _h  attends-moi ici, h_h_ j'vais chercher maman... Reste-là... Lorenza! Lorenza !
+
+(BOUCLE 42 - 00:40:39:17)
+		42
+
+THOMAS	Lorenza.... Ah...  par ici, viens... Est-ce que ça va ?
+
+LORENZA	Oui...
+
+THOMAS	Mais que fais-tu avec la fille de Don Domingo et Dona Héléna?
+
+LORENZA	Je ne pouvais pas la laisser périr comme ses parents! h_h_
+
+THOMAS	Les maîtres sont morts? mais comment ça a pu se produire? _h Je ne comprends pas... _h
+
+LORENZA	J'en sais rien. _h Quand je me suis réveillée, tout était déjà en feu!
+
+THOMAS	_hh tu es vraiment sûre que les maîtres... _h   sont morts?
+
+LORENZA	Je ne les ai vus nulle part, Thomas. _hh Tout était déjà envahi par la fumée.
+
+THOMAS	_h hha_ _h   je vais monter...
+
+LORENZA	Non, Thomas, non!   S'il te plaît...
+
+THOMAS	_hh  si je peux les aider et que je ne fais rien, je ne me le pardonnerai jamais... en plus, _h là-bas il y a ma lettre d'affranchissement, Lorenza...
+
+LORENZA	_h Tout a été consumé par l'incendie, Thomas,  la seule chose que tu vas trouver c'est la mort! S'il te plaît ! Estimons-nous heureux d'être en vie!
+
+THOMAS	mfh je ne peux pas continuer à vivre comme ça, Lorenza, je ne veux plus continuer à vivre comme ça... _h _h  _h  cette lettre...  _h   c'est notre salut, tu le sais.
+
+(BOUCLE 43 - 00:41:44:12)
+		43
+
+LORENZA	Oublie cette lettre, Thomas! _h Tout le monde est déjà parti, on doit partir aussi.
+
+THOMAS	_h h_
+
+LORENZA	Est-ce que tu comprends, chéri ?! h_
+
+THOMAS	(cri ______________)
+
+LORENZA	(pleure___ respi____)
+
+THOMAS	Allons-y. mais... _hh  le bébé ne peut pas venir, _h tu dois laisser la fille des maîtres, _h Victoria ne peut pas venir avec nous.
+
+LORENZA	_h  Cette petite à présent, est la nôtre comme Milagro.
+
+THOMAS	Lorenza tu ne peux...
+
+LORENZA	_h  et elle part avec nous.
+
+(BOUCLE 44 - 00:42:20:11)
+		44
+
+insert	---- Thomas, esclave noir depuis 25 ans, a payé son affranchissement et cet homme ... -----
+
+(texte)	FIN EPISODE 1

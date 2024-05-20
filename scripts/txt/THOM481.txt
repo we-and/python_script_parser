@@ -1,0 +1,242 @@
+THOMAS EP 481
+Titre VO : Cautious Connor
+ Propositions Titres VF : La panne de Connor/Connor a peur/Vitesse minimum !
+
+(BOUCLE 1 - 10:00:31:11)
+		01
+
+Narrator	Titre français à placer là.
+
+Narrator	Des locomotives qui roulent très vite, ce n'est pas ce qui manque sur Chicalor! Il y a d’abord Gordon,, qui s'occupe du train express! Et Spencer, la locomotive privée du Duc et de la Duchesse de Beaufort. Puis il y a aussi Caitlin et Connor, qui viennent tous les deux du continent!
+
+Connor	Je suis dans les temps! Je suis dans les temps! Je suis dans les temps! Je suis dans les temps! Je suis dans les temps! Je suis dans les temps!
+
+Narrator	Connor et Caitlin sont encore plus rapides que Gordon et Spencer!
+
+(BOUCLE 2 - 10:01:18:10)
+		02
+
+Stephen	Tu es toujours dans les temps Connor! Oh oh oh oh! Tu me rappelles moi quand j'étais plus jeune! Oh! J'roulais vite, j'gagnais toutes les courses!
+
+Connor	Oh oh oh! Je crois que tu as toujours ça en toi Stephen!
+
+Stephen	Oh oh oh oui! (piyaou!) Je suis une fusée! Oh (oh oh)
+
+(BOUCLE 3 - 10:01:45:04)
+		03
+
+Narrator	Ce jour-là, Connor doit attendre devant le Pont des Vicaires qu'un bateau traverse le détroit.
+
+Connor	Oh! Dépêche-toi un peu! Allez avance! Mes passagers sont pressés! (soupir) Enfin, ça y est!
+
+Narrator	Et c'est la catastrophe!
+
+Connor	Je suis en retard! Je suis en retard! Je suis en… whoa! Woahahah!
+
+Amb passagers	(Reac choc)
+
+Connor	Oh!
+
+(BOUCLE 4 - 10:02:26:05)
+		04
+
+Narrator	Une des bielles d'accouplement de Connor s'est détachée, et il a failli dérailler!
+
+Connor	Peut-être que je roulais trop vite!
+
+Narrator	Le pauvre Connor est rapidement emmené à l'atelier de réparation où les mécaniciens remplacent la bielle endommagée.
+
+2 hommes	(hh)
+
+Narrator	Mais Connor n'est pas content pour autant!
+
+Connor	C'est la première fois que j'ai ce genre de panne Victor! Je ne casse rien d'habitude! Je devais rouler trop vite!
+
+Victor	Mais non, mon ami! Ca n'a vraiment rien à voir avec ta vitesse! L'assemblage s'est desserré, et une vis a sauté! Ca aurait pu se produire à l'arrêt!
+
+Man engineer	On a fait un  contrôle de sécurité Connor!
+
+Victor	(h)
+
+Man engineer	Tu n'as aucune raison de t'inquiéter, je t'assure!
+
+Connor	Bon d'accord! Je vous fais confiance!
+
+Narrator	En réalité, Connor est loin d'être rassuré!
+
+Victor	(h hh)
+
+(BOUCLE 5 - 10:03:17:08)
+		05
+
+Stephen	Salut Connor!
+
+Millie	Oh Héhé! Contente de voir que tu es de retour, après ton petit accident!
+
+Connor	Oh si tu savais! C'était assez effrayant! J'ai entendu un gros "bang" et  senti un truc casser! A partir de maintenant, je vais faire plus attention!
+
+Stephen	Oh!
+
+Millie	Oh!
+
+(BOUCLE 6 - 10:03:43:23)
+		06
+
+Thomas	Oh! Bonjour Connor! Euh, pourquoi tu roules aussi lentement? Un truc qui cloche?
+
+Connor	Non! Tout va bien! J'dois faire plus attention maintenant! Je ne veux pas qu'une autre bielle me lâche!
+
+Thomas	Oh! Mais tu sors de l'atelier de réparation! Si tu t'inquiètes pour tes rouages, peut-être que tu devrais y retourner pour les faire vérifier!
+
+Connor	Bonne idée Thomas! Mieux vaut prévenir que guérir! Non? Mieux vaut prévenir que guérir! Mieux vaut prévenir que guérir! Mieux vaut prévenir que guérir!
+
+(BOUCLE 7 - 10:04:26:09)
+		07
+
+Narrator	Connor retourne donc à l'atelier de réparation dès qu'il a une pause!
+
+Connor	Victor! Je roule lentement et en faisant attention, mais je sens qu'il y a quelque chose qui ne va pas!
+
+Victor	Tous tes rouages fonctionnent très bien Connor! Et tu es fait pour rouler à grande vitesse! Tu ne devrais pas t'inquiéter comme ça!
+
+Connor	(soupir) J'entends bien ce que que tu me dis, et tu as raison, c'est vrai, mais euh je ne veux pas prendre de risque en fait! (h)
+
+(BOUCLE 8 - 10:04:54:18)
+		08
+
+Narrator	Le lendemain, Connor roule toujours aussi lentement!
+
+Connor	Mieux vaut prévenir que guérir! Mieux vaut prévenir que guérir! Mieux vaut prévenir que guérir! (hh)
+
+Thomas	Salut Connor!
+
+Connor	Oh! Salut Thomas!
+
+Annie	(rire____) Alors là Thomas, je suis très impressionnée! Tu roules dix mille fois plus vite qu'une locomotive moderne! (rire___)
+
+Clarabelle	(rire____) Et en plus tu la laisses loin derrière ! (rire____)
+
+Thomas	(rire bf hihihi Oh) Mais en fait, c'est méchant de se moquer de lui! (h/) J'aimerais vraiment trouver un moyen pour lui redonner confiance en lui!
+
+Annie	Je suis d'accord avec toi!
+
+Clarabelle	Je suppose qu'on va lui confier beaucoup moins de missions!
+
+(BOUCLE 9 - 10:05:40:07)
+		09
+
+Narrator	Une idée fuse alors dans la cheminée de Thomas!
+
+Thomas	Ah! (rire bf)
+
+Connor	Terminus! Le château des elfes! Encore désolé pour le retard! Mieux vaut prévenir que guérir, comme je dis désormais!
+
+Man	Il est scandaleux ce chemin de fer!
+
+Man2	On serait arrivé plus vite en chameau!
+
+Woman?	Humpf!
+
+Connor	Oh! Coucou Thomas! Qu’est-ce que tu fais chez le Conte?
+
+Thomas	Je veux te dire un mot! Que dirais-tu si je te lançais un petit défi?
+
+Connor	(rire) Toi, tu me connais bien! J'relève toujours les défis!
+
+Thomas	Chouette! Tant mieux! On va faire une course!
+
+(BOUCLE 10 - 10:06:17:01)
+		10
+
+Connor	Oh! Une course? Oh! (rragh) Tu es sûr? Ma bielle pourrait encore se décrocher et causer un accident! Non! Thomas, on ne peut pas faire de course!
+
+Thomas	Pas contre moi Connor! J'vais beaucoup trop vite pour toi! Je pensais à quelqu'un comme Stephen!
+
+Stephen	Oui c'est moi! Tu vas avoir la chance de te mesurer à… la fusée! (h)
+
+Connor	Quoi?
+
+Stephen	A vos marques! Prêt? Partez!
+
+(BOUCLE 11 - 10:06:48:17)
+		11
+
+Stephen	(Piyou h)
+
+Connor	Mais j'suis bien trop rapide pour toi Stephen! Sans te vexer!
+
+Stephen	Pas de soucis! Et sans vouloir être désagréable non plus, tu n'es plus trop rapide pour moi désormais! Regarde l'avance que j'ai déjà prise! (rire)
+
+Connor	(gggg hh) (hhh) Non! (h) Je n'peux pas! Ma bielle peut se casser encore une fois!
+
+Stephen	Ta bielle? Ta bielle d'accouplement? Ne me parle pas de bielle d'accouplement! Dans ma jeunesse, Connor, on ne se préoccupait pas de ce genre de choses! On avait des pièces qui se cassaient, d'autres qui se détachaient! On avait l'habitude! Y'a des collègues dans mon chemin de fer qui ont même explosé (kaboum!)
+
+(BOUCLE 12 - 10:07:33:08)
+		12
+
+Connor	(reac bf)
+
+Stephen	Mais est-ce qu'ils ont renoncé? NON! Ils se sont concentrés, ils ont remis les pièces à leur place et ils ont continué à foncer! Comme les vrais héros qu'ils étaient! Des locomotives puissantes et très consciencieuses qui aimaient rouler vite! Pas comme toi Connor! (h/)
+
+Connor	Mais moi aussi j'adore la vitesse!
+
+Stephen	Alors vas-y lance-toi et prouve-le nous! Courage! Tu peux y arriver! Tu peux redevenir le bolide toujours dans les temps mais ça, il faut que tu le veuilles!
+
+(BOUCLE 13 - 10:08:10:19)
+		13
+
+Connor	Oui c'est vrai! Je peux y arriver! Je vais y arriver Je peux à nouveau être dans les temps!
+
+Thomas	Wouhou!
+
+Millie	Bravo!
+
+Stephen	Hééé!
+
+Amb people	Oui/Bravo!
+
+Millie	Oui! Hahaha!
+
+Thomas	Fonce Connor!
+
+Millie	Bravo!
+
+Thomas	(hh)
+
+Connor	Héhéhé!
+
+Amb people	(cris de joie____)
+
+Man	Oh!
+
+(BOUCLE 14 - 10:08:31:22)
+		14
+
+Thomas	Bravo Stephen! Ton discours était parfait! Les collègues avec qui tu travaillais, ils ont tous pu être réparés avoir explosé?
+
+Stephen	Non, tu t'en doutes!
+
+Thomas	(hh)
+
+Stephen	(rire bf+hh) J'ai inventé cette histoire! Mais de temps en temps, on a juste besoin d'un joli mensonge pour se remettre sur les rails! La preuve avec Connor! Il a foncé!
+
+Thomas	(h/) (rire_______)
+
+Millie	(rire______)
+
+Stephen	(rire jusqu'à la fin)
+
+Thomas	(rire jusqu'à la fin______)
+
+Millie	(rire jusqu'à la fin)
+
+Narrator	Connor a finalement repris confiance! Il n'a plus peur d'appuyer sur l'accélérateur, et il a hâte de montrer à ses passagers et à son Chef qu'il est à nouveau dans les temps!
+
+Connor	(hh) (hh) Ah(ahahah)
+
+
+
+
+1
+
+

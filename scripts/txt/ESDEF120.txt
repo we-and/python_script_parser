@@ -1,0 +1,974 @@
+EL SECRETO 120
+11/05/2017
+
+(BOUCLE 1 - 09:59:59:20)
+		01
+
+NOTE	(previously)
+
+(BOUCLE 2 - 10:04:25:16)
+		02
+
+PEPA	Une réponse? Tes voisins et tes amis attendent que tu leur expliques.
+
+DOLORES	Alberto est bien pâle, on dirait un fantôme. Il y a anguille sous roche, Pedro.
+
+PEDRO	Pourquoi est-ce qu'il reste planté là?
+
+PEPA	Raconte-leur comment tu t'es blessé à la jambe.
+
+ALBERTO	Pepa, je suis fatigué, je pense qu'il vaut mieux parler de tout ça une autre fois.
+
+VENANCIO	Une petite seconde. Reposez-vous bien, docteur.
+
+RAIMUNDO	Et quand vous aurez quelque chose à nous dire, nous serons tout ouïe.
+
+PEPA	Ecoute-moi bien-
+
+HIPOLITO	Tu as compris de quoi il s'agissait, toi?
+
+EMILIA	Je pense qu'on a intérêt à rester.
+
+ALFONSO	Tu sais quelque chose, Emilia?
+
+PEPA	Raconte-leur comment tu t'es toi-même tiré dans la jambe, dis-leur que Tristan est innocent. Sinon je leur raconte tout ce que tu m'as fait, et tu croupiras en prison pour le restant de tes jours.
+
+ALBERTO	Je te rappelle que j'ai de quoi me défendre.
+
+PEPA	Aie un peu d'amour propre pour une fois! A moins que tu préfères que ce soit moi qui t'humilie devant tous? Tu n'as pas même une once de dignité? Tu es lâche, Alberto. Tu ne mérites aucun respect. Ce qu'il devrait vous dire, c'est-
+
+ALBERTO	Pepa. Il y a eu un malentendu.
+
+PEPA	Un mensonge impardonnable.
+
+ALBERTO	La balle que j'ai reçue dans la jambe... c'est moi qui l'ai tirée. (h_\) C'était un accident.
+
+PEPA	Ca signifie que Tristan est innocent, non?
+
+ALBERTO	Oui. C'est exact. Tristan ne m'a pas tiré dessus.
+
+DOLORES	Doux Jésus...
+
+VENANCIO	Mais alors... pourquoi ne pas l'avoir dit plus tôt? Et surtout pourquoi nous avoir laissé risquer notre vie en courant au manoir- pour vous venger d'un crime qu'il n'a pas commis?
+
+AMBIANCE	(brouhaha accusateur)
+
+RAIMUNDO	Laisse-le, Venancio. Je pense qu'il a assez été humilié.
+
+PEPA	Maintenant vous savez que Tristan est innocent.
+
+(BOUCLE 3 - 10:07:38:20)
+		03
+
+JUAN	(h___\)
+
+DON ANSELMO	Sainte Marie mère de Dieu!
+
+FRANCISCA	Je n'arrive pas à croire ce que je vois. (nasal___/)
+
+SOLEDAD	(h___/) (h___\) (h___/) (h___/) Comment peux-tu me faire ça?
+
+JUAN	(h___/) S- S-S- Soledad... (h___/)
+
+SOLEDAD	(h___/)
+
+DON ANSELMO	Soledad, attends! Ne pars pas!
+
+JUAN	(h___\)
+
+FRANCISCA	Donia Eloisa. (h_/) Vous n'êtes pas dans un bordel. (h_/) J'attends des excuses de votre part.
+
+ELOISA	(nasal_________\)
+
+JUAN	(h___/) (h___\)
+
+(BOUCLE 4 - 10:08:28:19)
+		04
+
+DOLORES	Venancio n'en revient pas, il est complètement retourné.
+
+PEDRO	Grâce à Dieu il n'y a pas eu trop d'esclandre. L'affaire est réglée pour de bon. (h_/) Et pour être honnête, ça me surprenait que Tristan ait pu se montrer violent envers le docteur, c'est un honnête homme.
+
+DOLORES	Les hommes ne comprennent décidément rien. (h___/) C'est pourtant parfaitement évident. (h_/) Comme dirait mon grand-père, (h_/) la guerre pour le jupon est déclarée.
+
+PEDRO	Qu'est-ce que ça signifie?
+
+DOLORES	(h___/) Eh bien qu'il y a une femme derrière tout ça, c'est pourtant évident, non?
+
+PEDRO	Et qu'est-ce qui te fait dire ça?
+
+DOLORES	Je vais te le dire. (h___/) Don Alberto s'est tiré lui-même dans la jambe, (h_/) et Tristan a été vu le pistolet à la main, le tout dans la chambre à coucher de Pepa. (h___/) Ajoute à ça les histoires de la sage-femme et du seigneur de Montenegro. Et tu comprendras ce que j'ai voulu dire. C'est clair comme de l'eau de roche.
+
+PEDRO	(h___/) Pourquoi est-ce que Dieu n'a pas donné aux hommes une compréhension des choses aussi fine que celle des femmes?
+
+PEPA	Bonjour. Monsieur le maire, Dolores.
+
+DOLORES	Je suis soulagée que ton époux soit bien remis de sa blessure. (h___/) Comment est-ce qu'il a fait pour se faire mal de la sorte?
+
+PEPA	Comme je l'ai dit, c'était un malheureux accident.
+
+DOLORES	Mh, (h_/) Quelle coïncidence que Tristan soit arrivé à ce moment-là, et que tout ça ait eu lieu dans ta chambre. Le hasard nous joue parfois de sacrés tours.
+
+PEDRO	Dolores. (h_/) Va chercher ton tablier, tu veux bien?
+
+DOLORES	Non, quel mal y a-t-il à s'intéresser?
+
+PEPA	Il n'y a aucun mal à ça, mais en l'occurrence vous vous immiscez dans les affaires d'autrui et ça ce n'est pas la même chose. Monsieur le maire, je m'adresse à vous en tant que citoyenne de cette ville pour vous prier de demander au commandant Sanz de laisser sortir Tristan. (h___/) Et bien évidemment d'annuler toutes les charges qui pèsent contre lui.
+
+PEDRO	(h___/) Bien entendu; (h_/) je m'en occupe dès que possible.
+
+PEPA	Je vous remercie. Au revoir.
+
+DOLORES	Oui c'est ça, au revoir. Ben dites donc, quelle amabilité!
+
+PEDRO	Oui, mais tu l'as bien cherché. Allez, va donc chercher ton tablier.
+
+DOLORES	Oh!
+
+(BOUCLE 5 - 10:10:22:18)
+		05
+
+ELOISA	Juan. Calme-toi, bon sang.
+
+JUAN	Je suis une ordure. (halète) Je dois parler à Soledad. (h_/) (h___\) Même si je suis sûr que- qu'elle me déteste.
+
+ELOISA	Parfois il faut savoir être patient et laisser passer l'orage sous peine de faire empirer les choses. Prends le temps de réfléchir.
+
+JUAN	(h___/) La femme que j'ai épousée est un ange, madame. Elle ne méritait pas ça. Mais je n'ai pas été fichu d'éviter de l'humilier. Je suis un monstre. Ni vos flatteries ni vos avances n'auraient dû me faire fauter.
+
+ELOISA	Tu regrettes de m'avoir rencontrée?
+
+JUAN	Non, madame. Mais je regrette d'avoir été un si mauvais époux. J'aurais dû rester fidèle à ma femme.
+
+ELOISA	Bien sûr, mais souvent les êtres humains- (h___/) sont beaucoup plus compliqués que ne le voudrait cette société, et... (h_/) nous avons besoin de céder à la tentation.
+
+JUAN	Oui. (nasal___\) Et aussi- de détruire ceux qu'on aime? Non. (h___/) Je n'ai aucune excuse, et je le sais bien. (h_/) J'ai fait une chose affreuse, (h___/) et si je ne la répare pas, je perdrai tout. J'ai déjà tout perdu. Ma femme, et mon enfant! (h___/) (h___\)
+
+ELOISA	Non, tu n'as pas tout perdu.
+
+JUAN	(h_/) (h_\) (h_/)
+
+ELOISA	Je suis là, moi.
+
+JUAN	(h___\)
+
+ELOISA	Toi qui hésitais à m'accompagner à Madrid, il n'y a plus rien qui te retienne ici, maintenant.
+
+JUAN	(h___/) (h___\)
+
+ELOISA	(Hh________________/)
+
+JUAN	(h___/) (h_\)
+
+ELOISA	Tu vivras au château comme je l'ai proposé.
+
+JUAN	(h_/) (h_\) (h_/) (h_\) Arrêtez avec ça.
+
+ELOISA	(h___/) Hoh, mais pourquoi? Pourquoi diable refuserais-tu cette main que je te tends?
+
+JUAN	Ma place est ici. Et j'aurais dû m'en rendre compte.
+
+ELOISA	Mais tu n'auras pas toujours ce genre d'opportunité. Je comprends que tu aie l'esprit confus, mais quand tu auras réfléchi, tu comp-
+
+JUAN	Ca suffit! C'est compris? Laissez-moi passer. Je ne veux plus vous voir.
+
+ELOISA	(nasal___/) (h___\)
+
+(BOUCLE 6 - 10:12:33:14)
+		06
+
+SOLEDAD	(halète et pleure) (h_/) (h___\) (h_/) (h_\) (h_/) (h_/) (h_/) (h_\) (h_/) (h_/) (h_\) (h_/) (h___\) (h_/) (h___\) (h___/) (h___\) (h_/) (h___\) (h_/) (h___\) (h_/) (h___\) (h_/) (sanglots___________________________________________________________________) (h_/) (sanglots_____________________________) (h_/) (sanglots____________________________________) (h___/) (h_/) (h___\) (snif) (h_/) (h_\) (h_/) (h___\) (h_/) (h___\) (h___/) (h___\) (h___/) (h___\) (h___/) (h_\) (h_/) (h_\) (h_/) (h_\) (h_/) Huh! (h___\) (h_/) (h___\) (h_/) (h_\) Hah! (h_/) (h_\) (h_/) (h_\) (h_/) (h_\) (h_/) (snif)
+
+(BOUCLE 7 - 10:14:20:20)
+		07
+
+EMILIA	Docteur Guerra?
+
+ALBERTO	Qu'est-ce que tu veux? Tu n'vois pas que je suis occupé?
+
+EMILIA	(h___/) Je suis là parce qu'après une telle humiliation publique je pensais que vous méritiez un peu de compassion. Mais visiblement, je me suis trompée.
+
+ALBERTO	En effet, ça ne te regarde pas.
+
+EMILIA	Si, au contraire. Vous vous trompez. Parce que c'est moi qui ai trouvé Pepa enchaînée comme un chien dans votre cave.
+
+ALBERTO	Et alors quoi, tu vas m'insulter? Maudire le monstre que je suis? (h_/) Eh bien vas-y, je t'écoute.
+
+EMILIA	Non. C'est pas la peine. Vous avez été assez puni.
+
+ALBERTO	Oui... J'ai beau être médecin, je me suis retrouvé seul devant tout le village sans aucun moyen de me défendre. Maintenant j'aimerais seulement disparaître sous terre pour l'éternité.
+
+EMILIA	Vous espériez quoi? Vous avez torturé une femme et condamné un homme! Ce genre de crime ne reste pas impuni! (respire fort) J'espère que- que vous allez retenir la leçon comme je l'ai fait avant vous.
+
+ALBERTO	Quelle leçon?
+
+EMILIA	Qu'on ne pourra jamais obliger quelqu'un à nous aimer. Et surtout pas par la force.
+
+ALBERTO	Emilia- je regrette énormément le mal que je t'ai fait-
+
+EMILIA	C'est du passé. (nasal___/) Mais je veux que vous demandiez pardon à Pepa pour ce que vous lui avez fait. C'est le moins que vous puissiez faire avant de partir d'ici pour toujours.
+
+ALBERTO	Attends Emilia! Tu as raison, je dois lui demander pardon. (h___/) Mais elle n'acceptera pas de me voir. (mts) Tu peux la convaincre de me parler une dernière fois?
+
+EMILIA	(h_/)
+
+ALBERTO	Je t'en supplie, c'est la seule chose qui pourrait apaiser mon âme.
+
+EMILIA	Oui.
+
+(BOUCLE 8 - 10:16:23:12)
+		08
+
+SOLEDAD	(halète) (h_\) (h_/) (h_\) (h_/)
+
+ROSARIO	Qu'est-ce que- Han! Soledad! Donne-moi ce couteau!
+
+SOLEDAD	(h_/) Ce n'est pas ce que tu crois. Je me suis coupée en le ramassant.
+
+ROSARIO	Hhh... On est venues aussi vite qu'on a pu quand on a appris ce qui s'était passé. C'est vraiment affreux.
+
+SOLEDAD	Oui... j'ai appris que toute ma vie était un mensonge. Et que je me suis bien trompée. Je suis plus morte que vivante.
+
+MARIANA	Sch____t Ne dis pas ça.
+
+SOLEDAD	C'est pourtant vrai!
+
+ROSARIO	Mon fils a perdu l'esprit. (h___/) Il nous fait honte à tous.
+
+SOLEDAD	(h_\) Non, Rosario. Ce n'est pas à toi d'avoir honte. Tu n'es pas coupable de ses agissements.
+
+MARIANA	Soledad... Lui, qu'est-ce qu'il dit?
+
+SOLEDAD	(snif) Je ne l'ai pas vu.
+
+ROSARIO	Il n'est pas à la maison? Tu as vérifié sa chambre?
+
+SOLEDAD	Non. Il est là-bas, (h_/) avec la duchesse. Dans son lit.
+
+MARIANA	Non... Il n'est pas au manoir. Et personne ne l'a vu en ville. Tu as une idée d'où il aurait pu aller?
+
+ROSARIO	Où est donc passé ce misérable? (h___/)
+
+SOLEDAD	Peu importe, pourvu que je ne le revoie jamais.
+
+ROSARIO	(h_/) Maudit soit le jour où cet idiot a mis les pieds dans ce fichu manoir! (h___/) (h___\)
+
+(BOUCLE 9 - 10:17:48:15)
+		09
+
+FRANCISCA	Cette maudite duchesse avec ses titres de grande dame d'Espagne a déshonoré ma fille dans ma propre maison! (h___/) J'exige qu'elle s'en aille. Si elle ne donne pas l'ordre de faire préparer ses affaires demain à la première heure, c'est moi qui le ferai, crois-moi. Tristan, tu m'écoutes? A quoi est-ce que tu penses?
+
+TRISTAN	A Soledad. Juan Castaneda va avoir affaire à moi.
+
+FRANCISCA	Moi je me méfiais de lui depuis le début, mais tout le monde plaidait la cause de son magnifique amour. Ce n'était qu'un sale menteur, (h_/) une petite ordure sans parole! Il faut tomber bien bas pour humilier sa propre femme sous le toit de sa belle-mère!
+
+TRISTAN	Tout ce qui m'importe à moi c'est le mal qu'il a causé. Et ma pauvre soeur.
+
+FRANCISCA	Oui, à moi aussi. Bien entendu.
+
+TRISTAN	Depuis quand est-ce que vous vous souciez de Soledad?
+
+FRANCISCA	Comment peux-tu me demander ça?
+
+TRISTAN	Je jurerais que vous vous réjouissez de la situation. Après tout, elle vous donne raison.
+
+FRANCISCA	C'est fou comme tu peux être si cruel quand tu t'y mets.
+
+(BOUCLE 10 - 10:18:45:15)
+		10
+
+TRISTAN	J'ai eu un excellent professeur.
+
+PEPA	Tristan! Donia Francisca. Pardon de vous interrompre, j'ai des nouvelles du village.
+
+FRANCISCA	Excuses acceptées. (h_/) Cela dit, si ça ne te dérange pas, tu vas me faire le plaisir de sortir par là où tu es entrée, et attendre qu'on annonce ton arrivée. (h_/) Ainsi nous déciderons de te recevoir ou non.
+
+TRISTAN	Pepa sera toujours la bienvenue dans cette maison. Ecoutons-la.
+
+PEPA	(h_/) Alberto a avoué ce qu'il nous avait fait devant tout le monde. Le maire va faire annuler les charges, et le commandant Sanz viendra- te dire que tu es libre. Toute cette histoire est terminée.
+
+FRANCISCA	Le ciel soit loué.
+
+TRISTAN	C'est vrai? Je ne suis plus enfermé?
+
+PEPA	Du tout.
+
+TRISTAN	C'est grâce à toi. Tu l'as obligé à se confesser.
+
+PEPA	Aucune importance. Il va être chassé du village.
+
+TRISTAN	Tu es un ange.
+
+NOTE	(ils s'embrassent _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+FRANCISCA	Non mais quelle honte.
+
+TRISTAN	(smack)
+
+PEPA	Tu n'aurais pas dû faire ça devant ta mère.
+
+TRISTAN	Je veux t'embrasser devant la terre entière, pour que tout le monde sache que tu es mienne, et que je t'aime.
+
+NOTE	(ils s'embrassent_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _)
+
+(BOUCLE 11 - 10:20:24:02)
+		11
+
+AMBIANCE	(ambiance rue)
+
+DOLORES	(h___/) Je vous remercie ma chère dame, et revenez vite nous voir. Mais tâchez d'être plus généreuse. Non mais tu as vu cette vieille pie? Il a fallu polémiquer pendant une heure sur le prix pour lui vendre un malheureux sac d'épices.
+
+PEDRO	(nasal___/) Mais je rêve! Qu'est-ce que tu fabriques?
+
+HIPOLITO	Du calme, papa, je ne ramène pas un fusil!
+
+PEDRO	Pourtant je préfèrerais, parce qu'avec cette machine tu pourrais faire bien plus de mal qu'avec une arme à feu. Tu as la mémoire courte, jeune homme. Et toi, Dolores, tu vas le laisser faire?
+
+DOLORES	Ne nous dis pas que tu veux recommencer à écrire tes articles!
+
+HIPOLITO	Non, maman, cette fois je ressens l'appel de la littérature.
+
+PEDRO	Eh bien la littérature ne sait pas ce qui l'attend.
+
+HIPOLITO	J'ai eu une idée de roman au sujet de l'incident avec la chanteuse Marita Delgado et son époux, tu te souviens de cette histoire, pas vrai, papa?
+
+PEDRO	Je risque fort de l'oublier quand ils m'auront étripé. (h_/) Heum- (mts) Ecoute, fiston, tu ne pourrais pas choisir un autre épisode de notre vie? Un où ton pauvre père ne se tourne pas en ridicule?
+
+DOLORES	Mon chéri, ça, ça va être difficile.
+
+HIPOLITO	(h_/) Bon, je vais chercher du papier et ensuite je m'y mets.
+
+PEDRO	Ca ne lui suffisait donc pas de me ridiculiser dans la presse, voilà qu'il continue! (h_/) Il va encore faire de moi le dindon de la farce!
+
+DOLORES	Ca promet d'être drôle, accorde-lui au moins ça.
+
+PEDRO	Il faut qu'on réagisse. Ce garçon a beaucoup trop de temps libre, et ce désoeuvrement le pousse à entreprendre des projets qui le dépassent. Il faut absolument lui trouver une occupation!
+
+DOLORES	Oh, mais des occupations, il en a! Qu'est-ce qu'il te faut de plus, tu veux qu'il s'engage dans l'armée maintenant?
+
+PEDRO	Je veux qu'il arrête ces lubies! Et qu'il trouve un vrai travail, un qui lui remette un petit peu les pieds sur terre. Oui, hé! C'est ça! La terre! L'agriculture. Ca, c'est bien.
+
+DOLORES	Mais qui accepterait d'employer notre Hipolito?
+
+PEDRO	Bonne question. Peut-être que... Dolores, Je viens d'avoir une idée.
+
+DOLORES	Hhhmm.... J'en tremble d'avance.
+
+(BOUCLE 12 - 10:22:21:22)
+		12
+
+DON ANSELMO	Je suis heureux d'apprendre que tout est rentré dans l'ordre et que votre fils est libre. Je savais bien que le vent finirait par vous être favorable.
+
+FRANCISCA	Oui, mais ça n'enlève rien à ce que nous avons subi.
+
+DON ANSELMO	Les gens du village ont été très affectés (h_/) par ces évènements, ils m'ont fait part-
+
+FRANCISCA	(h___/) Bon, ça suffit, Don Anselmo. Tout ça s'est bien terminé et justice a été rendue. On ne va quand même pas en parler pendant des siècles. En revanche, je suis extrêmement inquiète pour Soledad. (h___/) Quand je pense à la douleur que ressent ma pauvre fille.
+
+DON ANSELMO	(h___/) En effet. Elle traverse une épreuve absolument terrible.
+
+FRANCISCA	Vous l'avez vue?
+
+DON ANSELMO	J'ai essayé, (h___/) mais Rosario m'a dit qu'elle ne voulait voir personne. Ce n'est pas surprenant, (h___/) il y a de quoi être dévasté quand une telle chose arrive.
+
+FRANCISCA	Je le savais. (h___/) Je n'aurais jamais dû la laisser épouser cette canaille. Ce n'est qu'un rustre d'illétré qui se prend pour un grand artiste. Dieu ne voyait pas cette union d'un bon oeil. Elle aurait dû m'écouter, mon père. Que le Seigneur lui pardonne.
+
+DON ANSELMO	(h_/) Ce n'est pas Dieu qui a saboté ce mariage. C'est un homme. (h___/) Mais cela me fait plaisir de vous voir si inquiète pour elle. Votre fille aura au moins la consolation d'avoir retrouvé sa mère.
+
+FRANCISCA	J'ai toujours été là. Je l'ai toujours aimée.
+
+(BOUCLE 13 - 10:23:40:16)
+		13
+
+ELOISA	Non, ne vous levez pas.
+
+FRANCISCA	Mais personne ne comptait le faire. Je ne vois aucune dame dans cette pièce.
+
+ELOISA	Je venais vous annoncer mon départ. Diverses affaires m'appellent dans la capitale.
+
+FRANCISCA	Je suppose qu'il s'agit d'affaires très urgentes pour que vous partiez immédiatement.
+
+ELOISA	Oui. Extrêmement urgentes. C'est un déchirement de devoir quitter une hôtesse si aimable et hospitalière.
+
+FRANCISCA	(h___/) Pour peu que vous ayez réellement trouvé ma maison hospitalière, je vous assure que vous avez reçu bien plus d'honneurs que ce que vous méritiez.
+
+ELOISA	Par chance, votre gendre n'est pas du même avis, (h___/) et il a fait l'impossible pour que je me sente reçue comme il se doit.
+
+FRANCISCA	L'impossible, oui, le mot est bien choisi. S'il y a un point sur lequel nous serons d'accord, c'est que les paysans se content de peu tant que c'est comestible. Même pas la peine d'être appétissante.
+
+ELOISA	Eh bien pourtant, il m'a trouvée bien plus appétissante que votre fille.
+
+FRANCISCA	Donia Eloisa, ne cherchez pas à vous comparer à elle. Elle n'a pas vos titres mais vous n'aurez jamais sa dignité.
+
+ELOISA	Donia Francisca, ne me parlez pas de dignité. Vous n'allez quand même pas prétendre que vous n'avez jamais voulu détruire ce mariage.
+
+FRANCISCA	(h___/) Je suppose que c'est là le genre de rumeur qu'on entend dans les maisons closes. Mais après tout, vous le savez sûrement mieux que moi.
+
+ELOISA	Si vous le dites. Quoi qu'il en soit, je quitte celle-ci.
+
+FRANCISCA	Dieu merci, oui.
+
+(BOUCLE 14 - 10:25:05:09)
+		14
+
+PEDRO	Mes hommages, madame la duchesse.
+
+ELOISA	Ôtez-vous de mon chemin!
+
+PEDRO	Pardonnez-moi, madame la duchesse.
+
+(BOUCLE 15 - 10:25:17:12)
+		15
+
+AMBIANCE	(ambiance auberge)
+
+SEBASTIAN	Sans l'intervention de Sanz, la moitié de la ville aurait sauté à la gorge des gens du manoir.
+
+RAIMUNDO	Que veux-tu, les gens ne prennent pas le temps de communiquer. Chacun ne voit que son intérêt au lieu de faire preuve d'un minimum de jugeotte. Dieu sait pourtant que la violence ne résout rien.
+
+SEBASTIAN	Et que Francisca ne leur pardonnera rien. Je sais d'avance qu'eux et leurs famille subiront longtemps les conséquences de leurs actes.
+
+RAIMUNDO	Oui. (h___/) Tout ça me fait penser... que toute cette agitation, cette colère, cette hargne se terminent souvent en révolution. Ca sent le changement, et mon flair ne me trompe jamais. Mauricio, qu'est-ce qu'on t'offre?
+
+MAURICIO	(h___\) Je n'suis pas là pour ça. Sebastian, vous êtes demandé au manoir.
+
+RAIMUNDO	Mon fils n'est pas un fichu esclave comme toi! Alors il parlera à cette femme quand il le souhaitera. Il est hors de question qu'il aille au manoir, Sebastian n'est pas le chien de sa majesté!
+
+MAURICIO	Je regrette, mais c'est elle qui décide. Et Sebastian ferait mieux d'obéir. Ou il pourrait bien le regretter.
+
+RAIMUNDO	Tu oses venir chez moi menacer les miens? Mauricio, tes fanfaronnades ne m'ont jamais impressionné, alors fais bien attention, parce que je ne suis plus tout jeune mais j'ai encore toute ma force!
+
+SEBASTIAN	Papa, calme-toi. Tu ne disais pas que la violence ne résout rien?
+
+RAIMUNDO	Si. Voilà que je manque à mes principes. Pour un idiot.
+
+SEBASTIAN	Mauricio. Dis-lui que je lui parlerai. A la conserverie.
+
+MAURICIO	Elle exige que vous veniez au manoir.
+
+RAIMUNDO	Et mon fils refuse de se rendre au manoir.
+
+MAURICIO	Très bien. (h___/) Je lui dirai. Mais je doute que ma patronne se conforme à cette décision.
+
+RAIMUNDO	Je renierais mes principes pour lui donner une bonne leçon, à celui-là.
+
+SEBASTIAN	(nasal___\)
+
+(BOUCLE 16 - 10:27:18:19)
+		16
+
+PEDRO	Alors à la première opportunité, j'ai saisi l'occasion de servir votre famille, et j'ai fait annuler les charges qui pesaient sur Tristan.
+
+FRANCISCA	Excellente nouvelle, merci Pedro.
+
+PEDRO	(h_/) Je peux vous dire que tous les fonctionnaires n'auraient pas réglé cette affaire avec autant d'efficacité, mais pour vous je pouvais bien intervenir en personne.
+
+FRANCISCA	(nasal___\)
+
+PEDRO	(h_/) D'ailleurs est-ce que je vous ai dit que c'est moi qui ai parlé au commandant Sanz pour le convaincre de lever la sanction contre Don Tristan?
+
+FRANCISCA	Avec celle-ci, je dirais que c'est la troisième fois.
+
+PEDRO	Veuillez m'excuser, mais je ne peux que me sentir fier de pouvoir vous être utile à d'aussi nombreuses reprises.
+
+FRANCISCA	Pas si nombreuses que ça si l'on enlève les répétitions. (h___/) Pedro, dites-moi ce que vous voulez. Vous n'êtes pas venu me voir uniquement pour me faire la liste de vos services rendus, est-ce que je me trompe?
+
+PEDRO	Hm- Eh bien, vous savez que j'ai un fils, n'est-ce pas?
+
+FRANCISCA	Je le sais. Eh bien quoi ?
+
+PEDRO	Je voulais vous demander du travail pour mon Hipolito.
+
+FRANCISCA	Bien, jusqu'à il y a peu j'aurais peut-être pu lui proposer un bon poste dans la gérance de l'entreprise, mais malheureusement, je n'ai plus rien pour lui ce moment.
+
+PEDRO	(h___\) Euh- pardonnez-moi de vous interrompre, mais- en- en réalité je vous demande de l'employer sur vos terres.
+
+FRANCISCA	Le fils du maire veut faire un travail de paysan?
+
+PEDRO	C'est justement ce dont il a besoin, parce qu'il faut qu'il sache ce que ça fait de devoir gagner son pain chaque jour à la sueur de son front.
+
+FRANCISCA	Mais c'est un travail très difficile, et très peu gratifiant.
+
+PEDRO	Ca lui servira de leçon et après ça je suis certain qu'il se tournera vers un métier digne de ce nom, vous comprenez?
+
+FRANCISCA	Votre requête me surprend quelque peu, (h___/) mais je suis d'accord pour dire que les jeunes d'aujourd'hui sont trop protégés. Et il est temps que votre gringalet de fils devienne un homme. (h_/) Donc c'est d'accord. (h_/) Dites-lui que je lui offre du travail, à condition qu'il accepte la même paie que les autres.
+
+PEDRO	(Hh) Absolument. Je vous remercie infiniment et je vais de ce pas le lui annoncer. Que Dieu vous bénisse, madame.
+
+FRANCISCA	Encore une petite chose, voulez-vous. (h_/) J'ai du mal à comprendre pourquoi les autorité n'ont pas encore pris de mesures contre les criminels qui ont fait irruption chez moi et ont menacé de nous tuer moi et mon fils l'autre soir. Est-ce que vous avez une explication?
+
+PEDRO	Eh bien disons que puisque le commandant Sanz nous a été envoyé par de hautes autorités, (h_/) et qu'il a rétabli la paix, je pensais que ce sujet était clos.
+
+FRANCISCA	Ah, vraiment? Vous laissez ces hommes en liberté? C'est ça, le message qu'on donne à la population? Qu'elle peut violenter ses seigneurs et sortir de la bataille impunie?
+
+PEDRO	Bien sûr que non. Je- je vais m'en occuper. Excusez-moi.
+
+(BOUCLE 17 - 10:29:44:08)
+		17
+
+PEPA	Alberto a demandé à me voir?
+
+EMILIA	Il voudrait s'excuser. Il m'a demandé de te supplier d'accepter.
+
+PEPA	Il peut toujours me supplier. Cet homme ne méritait même pas de vivre. Je refuse de m'approcher de ce monstre.
+
+EMILIA	Pepa. Je suis d'accord avec ce que tu dis. Je sais qu'il ne mérite même plus que tu le regardes après les atrocités qu'il t'a faites. Mais malgré ça, moi, à ta place-
+
+PEPA	Ne me dis pas que tu vas lui chercher des excuses parce que je n'ai pas l'intention de les écouter!
+
+EMILIA	Je ne lui cherche pas d'excuses. (h_\) Ce qu'il a fait ne mérite aucun pardon. Mais- (h___/) Je lui ai parlé hier, et-
+
+PEPA	Emilia, tu perds ton temps! N'oublie pas que cette ordure a complètement perdu la raison. C'est un assassin! Il n'a aucune compassion, c'est un homme dangereux.
+
+EMILIA	Je sais. Et je te donne raison.
+
+PEPA	J'espère que tu ne gobes pas tout ce qu'il dit.
+
+EMILIA	Pas du tout. Je n'suis pas dupe. Je me méfie toujours de lui. Et encore plus maintenant que je sais que c'est un horrible criminel.
+
+PEPA	Ca je l'espère, Parce que cet homme ne peut que rendre malheureuse la femme qui partage sa vie. Je n'arrive pas à croire qu'il ait pu me faire tout ce mal.
+
+EMILIA	C'est fini, Pepa. Maintenant, Alberto ne sera plus un obstacle entre toi et Tristan.
+
+PEPA	Il y a encore un document qui dit qu'Aberto est mon époux. Mais à vrai dire, ça m'est égal. Je vais être heureuse auprès de Tristan et de Martin.
+
+EMILIA	Oui, tu vas retrouver ta vie.
+
+PEPA	Ca en valait la peine. Même si j'ai traversé toutes ces épreuves.
+
+EMILIA	N'y pense plus. (h___/) J'ai quelque chose pour toi. (h___/) La lettre que tu m'as demandé de transmettre à Sanz, pour dénoncer Alberto. Tu sais, tu- tu me l'avais confiée, tu t'souviens?
+
+PEPA	Oui. Mais elle ne servira plus à rien. (h___/) Cette lettre est la dernière trace du cauchemar qu'il m'a fait subir.
+
+EMILIA	Adieu, Alberto Guerra.
+
+PEPA	Au revoir, et à jamais.
+
+(BOUCLE 18 - 10:32:00:11)
+		18
+
+FRANCISCA	Voici l'état des comptes de la compagnie actuellement. Je te prie de les tenir avec soin comme je l'ai toujours fait pour maîtriser notre situation financière.
+
+TRISTAN	Si Sebastian revenait ici, nous n'aurions pas à nous soucier de ça. (h___/) Vous devriez lui parler.
+
+FRANCISCA	Figure-toi que je l'ai fait demander. Il devrait bientôt être là.
+
+TRISTAN	Je compte sur vous pour le faire revenir, mère, et s'il le faut je l'en persuaderai moi-même.
+
+FRANCISCA	Une dernière chose, Tristan. Je ne tolèrerai pas d'autres exhibitions dans ma maison, est-ce que c'est compris?
+
+TRISTAN	(h_/) Je n'ai pas le droit d'embrasser Pepa?
+
+FRANCISCA	Je ne veux pas de cette femme chez moi, est-ce que c'est clair? Alors oui, je te l'interdis. Je refuse toute démonstration d'affection entre vous tant que tu vivras sous mon toit. C'est compris?
+
+TRISTAN	Non. Pepa est la femme que j'aime.
+
+FRANCISCA	Alors ayez au moins la décence de vous voir secrètement. Ca ne te dérange peut-être pas mais Pepa est une femme mariée, je te rappelle.
+
+TRISTAN	Oui, mais j'ai l'intention d'y remédier. Et sachez que bientôt, plus rien n'empêchera qu'on soit ensemble.
+
+FRANCISCA	Je suis ta mère et tu vis dans ma maison. Je mérite ton respect non?
+
+TRISTAN	C'est aussi le cas de Pepa. (h___/) Vous devriez la remercier pour tout ce qu'elle a fait pour moi. N'oubliez pas que c'est grâce à elle si je suis libre. Et elle nous a sauvé en prévenant Sanz et ses hommes.
+
+FRANCISCA	Bien sûr, j'aurais dû savoir que tu n'en ferais qu'à ta tête.
+
+TRISTAN	J'aime cette femme, mère.
+
+FRANCISCA	Ca je m'en contrefiche, mais fais donc ce que je te demande!
+
+TRISTAN	Je regrette. Et je n'ai que faire de ce que vous en pensez.
+
+MAURICIO	Bonjour.
+
+(BOUCLE 19 - 10:33:27:15)
+		19
+
+MAURICIO	Madame, Sebastian vous attend à la conserverie.
+
+FRANCISCA	Est-ce que je peux savoir pourquoi il n'est pas ici? Je t'ai déjà dit que je n'aimais pas recevoir d'ordres!
+
+MAURICIO	Euh, si vous voulez je peux-
+
+FRANCISCA	Non, surtout ne fais rien du tout. Tais-toi. (h___/) (h___\) Cela dit... je suis bien obligée d'admettre que j'ai encore une mission pour toi.
+
+MAURICIO	Dites-moi.
+
+FRANCISCA	Ca concerne le rejeton dégingandé des Miranar. A partir de demain, il travaillera dans les champs avec mes employés.
+
+MAURICIO	Hipolito Miranar veut faire les champs? Je ne vois pas trop comment faire travailler ce sac d'os, il a déjà un mal fou à se tenir sur ses pieds.
+
+FRANCISCA	C'est une promesse que je viens de faire au maire et je compte bien la tenir.
+
+MAURICIO	C'est son père qui nous l'envoie? Je me demande ce que ce garçon a bien pu faire pour mériter une punition pareille.
+
+FRANCISCA	Ca n'a aucune importance. (h___/) Son père l'éduque comme il lui plaît. Et il m'a gentiment demandé de lui enseigner les dures lois du travail.
+
+MAURICIO	Dans ce cas, je l'attendrai demain. Et je me chargerai de le mettre au travail.
+
+FRANCISCA	Oui mais attention, Mauricio. Ne le brusque pas trop, n'oublie pas qu'on a affaire à quelqu'un qu'on ne connaît pas encore. Veille à faire preuve de patience avec lui.
+
+MAURICIO	Vous pouvez compter sur moi. Est-ce qu'il y a autre chose?
+
+FRANCISCA	(h___/)
+
+(BOUCLE 20 - 10:34:53:01)
+		20
+
+HIPOLITO	(h_/)
+
+PEDRO	(h___/) Hipolito, il faut qu'on parle.
+
+HIPOLITO	Mais enfin, papa, tu as fait fuir mes muses!
+
+DOLORES	Quelles muses? Tu n'as rien écrit depuis ce matin- Pas même une feuille.
+
+HIPOLITO	Pa- parce que le plus difficile c'est de commencer. (h_/) Les grands chefs-d'oeuvre ne se sont pas écrits en un seul jour. Un grand écrivain va chercher les mots au plus profond de son âme, et ça demande énormément de concentration.
+
+PEDRO	Eh bien épargne-toi cette peine, mon garçon, et laisse donc les mots au plus profond de ton âme, car sache qu'à partir de demain, tu vas avoir un travail véritable.
+
+DOLORES	Ton père a réussi à convaincre Donia Francisca de t'employer dans ses cultures.
+
+PEDRO	Ca va être merveilleux. Le travail physique est très apaisant, il vous comble de satisfaction.
+
+HIPOLITO	Euh mais enfin, qu'est-ce qui vous prend? Moi qui n'ai jamais transpiré une goutte de ma vie, vous n'allez quand même pas me transformer en paysan!
+
+PEDRO	Ne discute pas ou tu en prends une!
+
+DOLORES	Donia Francisca te fait l'honneur de t'accorder sa confiance! (h___/) Tous les habitants de la région se damneraient pour une chance comme celle-ci.
+
+HIPOLITO	S'il cherchent du travail, donnez-leur donc le mien. (h_/) Tu vois, maman, quand on réfléchit bien, tout problème a une solution.
+
+PEDRO	Hipolito, tu te présenteras chez Donia Francisca demain matin et je ne veux pas entendre un mot de plus.
+
+HIPOLITO	(h_/) (h_/) (h_/) Et mon roman, alors?
+
+DOLORES	Eh bien, il attendra un peu. (h_/) Et comme ça, ton style aura le temps d'arriver à maturité.
+
+HIPOLITO	Je me sentais tellement l'âme d'un auteur.
+
+DOLORES	(nasal___\)
+
+HIPOLITO	Ca va, ne me regardez pas comme ça, c'est d'accord, j'irai. Mais je vais d'abord en parler à Mariana pour savoir ce qu'elle en pense.
+
+DOLORES	Tu crois que c'est une bonne idée? (h___/) Je ne suis pas certaine qu'Hipolito soit fait pour ce travail.
+
+PEDRO	Moi je suis sûr qu'il se comportera comme le digne héritier de son père.
+
+DOLORES	(h_/) C'est justement ça qui m'inquiète, mon amour. Et si jamais c'était un bon écrivain et qu'il abandonnait à cause de nous?
+
+PEDRO	(h_/) Ne t'en fais pas; parce que d'après ce que je vois, la littérature espagnole nous en sera éternellement reconnaissante.
+
+(BOUCLE 21 - 10:37:08:01)
+		21
+
+SANZ	(h___\)
+
+FRANCISCA	(h_/) Ne me dites pas que vous allez rester les bras croisés à ne rien faire!
+
+SANZ	(h___/) Vous étiez là comme moi. Vous vous souvenez sûrement que pour pouvoir régler ce conflit de manière pacifique, (h___/) nous avons promis aux agresseur qu'il n'y aurait pas de représailles.
+
+FRANCISCA	Oui, mais ils nous tenaient en joue avec leurs armes! Mon fils leur a dit ce qu'ils voulaient entendre pour régler cette situation.
+
+SANZ	Eh bien c'est justement à lui que j'ai juré de ne pas engager de représailles si vous me l'ordonniez.
+
+FRANCISCA	Vous n'allez quand même pas me resservir cet absurde code d'honneur militaire! Vous qui êtes le défenseur de notre belle patrie, je vous imaginais beaucoup plus prosaïque, et beaucoup moins impressionnable. (h_/)
+
+SANZ	(mts) (h___/) Je vais vous faire l'honneur d'ignorer vos paroles.
+
+FRANCISCA	Si mes paroles vous ont offensées, commandant, c'est que j'ai raison!
+
+SANZ	(nasal___\)
+
+FRANCISCA	J'aurais dû me douter que vous n'étiez pas la personne la plus apte à solutionner ce problème.
+
+SANZ	(h_/) Je savais que vous finiriez par atteindre cette conclusion. (h_/) Mais si je suis venu ici en premier lieu c'est pour vous mettre en garde.
+
+FRANCISCA	Que voulez-vous dire?
+
+SANZ	En enquêtant sur la mort de Prieto, (h_/) j'ai découvert qu'il vous arrivait souvent de vous réserver le rôle des institutions judiciaires et de l'incarner vous-même, certaines fois contre la loi.
+
+FRANCISCA	(pff..) Absolument pas. (h___/)
+
+SANZ	Ces rumeurs sont sûrement infondées. (h___/) Mais je veux quand même que vous sachiez que si j'apprends que vous avez sanctionné Venancio ou n'importe qui d'autre au village, je me verrai dans l'obligation de vous arrêter.
+
+FRANCISCA	(nasal___\) Ne perdez pas votre temps. Ce n'est pas du tout mon genre. (h___/) Soyez tranquille. (h_/) Informez donc ces agitateurs qu'ils peuvent dormir sur leurs deux oreilles, et encouragez-les à crier à qui veut l'entendre qu'à Puente Viejo, les mutineries sont joyeusement récompensées.
+
+SANZ	(h___/) Si vous n'avez pas d'autre question, madame, j'ai des affaires urgentes à régler. (h___/) Mais surtout, n'oubliez pas que Venancio est désormais intouchable.
+
+FRANCISCA	(nasal___/) (nasal___\)
+
+(BOUCLE 22 - 10:39:16:16)
+		22
+
+ALFONSO	Sers-nous du vin, Emilia, tu veux bien?
+
+EMILIA	D'accord. Voilà, messieurs. Si vous désirez autre chose, faites-moi signe.
+
+RAMIRO	T'es un crétin, mon pauvre.
+
+ALFONSO	Je te croyais trop intelligent pour penser avec ton entrejambe.
+
+RAMIRO	Tu as un enfant en route, Juan, et une femme qui t'aime!
+
+ALFONSO	Oui, alors que nous, on n'a ni l'un ni l'autre.
+
+RAMIRO	Si je pouvais te mettre une claque, crois-moi-
+
+JUAN	Je mérite tout ce que vous dites. (h___/)
+
+ALFONSO	(mts) (h___/) On s'est fait du souci pour toi. T'as dormi où, cette nuit?
+
+JUAN	Dehors. Je ne voulais parler à personne.
+
+RAMIRO	Eh ben arrête de fuir. Tu dois rentrer chez toi et gérer la situation comme un homme.
+
+JUAN	Que je rentre chez moi? Pour voir Soledad me détester?
+
+RAMIRO	(nasal___\)
+
+JUAN	J'ai trop honte de moi. Comment ai-je pu lui faire ça, (h_/) sachant qu'elle attend mon enfant? (h___/) Je suis une ordure; (h___/) et même pire que ça. (h___\) Elle méritait quelqu'un de mieux.
+
+ALFONSO	(h___/) Eh bien c'est à elle que tu devrais dire ça. Va lui dire que tu regrettes.
+
+RAMIRO	Dis-lui que tu t'en veux, et... que cette femme t'a fait perdre l'esprit.
+
+ALFONSO	Dis-lui que tu l'aimes, nom de Dieu. Tu l'aimes, non?
+
+JUAN	De tout mon coeur, Alfonso.
+
+ALFONSO	Alors aie un peu de courage! (nasal___\)
+
+JUAN	Vous avez raison. (h___/) Je rentre.
+
+ALFONSO	Bien, Juan. Sage décision. Euh... vas-y maintenant, et nous... on reste un peu ici.
+
+(BOUCLE 23 - 10:41:07:19)
+		23
+
+EMILIA	Alors il n'a pas parlé à Soledad?
+
+ALFONSO	Il va le faire, si Dieu le veut.
+
+EMILIA	Le coeur des hommes est bien mystérieux.
+
+RAMIRO	Tu parles de ton admirateur?
+
+EMILIA	Tu parles d'un admirateur. Jusqu'ici, il était romantique et attentionné, mais le vent semble avoir tourné.
+
+RAMIRO	(h___/) Et... tu ne veux pas le rencontrer?
+
+EMILIA	A vrai dire, si. Parce que ce petit jeu commence à me fatiguer.
+
+ALFONSO	Ah, mais je croyais que ça te plaisait, au contraire?
+
+RAMIRO	Oui, mais à condition que ça ne dure pas trop longtemps.
+
+EMILIA	Huh-
+
+RAMIRO	Et vu son attitude, j'imagine que quand il se montrera, tu lui donneras une bonne raclée.
+
+EMILIA	Ca se pourrait, oui. En tous cas il a intérêt de valoir la peine d'attendre, parce sinon, je l'envoie paître.
+
+ALFONSO	En route, Ramiro.
+
+RAMIRO	Mais où ça?
+
+ALFONSO	On rentre. A bientôt, Emilia.
+
+EMILIA	A bientôt. (h_/) Ramir- Et la note? (h___\)
+
+(BOUCLE 24 - 10:42:07:20)
+		24
+
+SEBASTIAN	Merci d'avoir accepté de venir ici, Donia Francisca.
+
+FRANCISCA	Tu ne m'as pas vraiment laissé le choix.
+
+SEBASTIAN	(h_____________/) (h___\) (h___/) Que puis-je faire pour vous?
+
+FRANCISCA	Sebastian, toi et moi avons toujours une affaire à régler.
+
+SEBASTIAN	Si c'est à ma dette que vous faites référence-
+
+FRANCISCA	C'est cela, en effet. Je désire récupérer l'argent.
+
+SEBASTIAN	Vous plaisantez?
+
+FRANCISCA	(h_\) Je ne vois pas en quoi réclamer ce qui m'appartient serait une blague.
+
+SEBASTIAN	Je sais qu'il est à vous, mais ma parole et ma reconnaissance de dette ne vous suffisent pas?
+
+FRANCISCA	Ni ta parole ni ce fichu papier ne nous aideront à payer nos factures, figure-toi.
+
+SEBASTIAN	Vous étiez d'accord pour garder mon salaire.
+
+FRANCISCA	(h___/) Oui, mais le problème, c'est que tu ne travailles plus pour moi. Alors je ne sais pas avec quel salaire tu vas me rembourser cette somme, (h___/) si les soi-disant voleurs dont tu parles ne te la rendent pas immédiatement.
+
+SEBASTIAN	(h___\)
+
+FRANCISCA	Je suis vraiment désolée, mais il va falloir que tu me rendes ce qu'on m'a volé et ce sans plus attendre.
+
+SEBASTIAN	Sinon?
+
+FRANCISCA	Je me verrai obligée de prendre les mesures qui s'imposent.
+
+SEBASTIAN	(h___\) Vous savez très bien que je ne possède pas une telle somme! (h___\)
+
+FRANCISCA	Je regrette d'en arriver là, crois-moi. Mais les affaires sont les affaires.
+
+SEBASTIAN	(nasal___\)
+
+FRANCISCA	Cela dit, il y a une chose qui pourrait t'aider à solder ta dette. Je ne suis pas sûre que cette idée va te plaire, (h___/) mais je ne vois pas ce que tu pourrais faire d'autre.
+
+SEBASTIAN	Je vous écoute.
+
+FRANCISCA	Ne me paie pas en espèce. (h___/) Donne-moi une chose de même valeur. Comme tes actions de la conserverie.
+
+SEBASTIAN	(mts)
+
+(BOUCLE 25 - 10:44:02:23)
+		25
+
+ROSARIO	Tu n'es qu'un minable.
+
+JUAN	Où est Soledad?
+
+ROSARIO	Ah, ça t'intéresse? Ca fait combien de temps que je te dis que tu négliges ta femme?
+
+JUAN	Maman, ce n'est pas le mom-
+
+ROSARIO	(h_/) Non, cette fois tu vas m'écouter! Je sais que les hommes perdent la tête à la vue d'un jupon.
+
+JUAN	(nasal___\) (nasal___\)
+
+ROSARIO	Mais humilier de la sorte une femme enceinte, (h_/) ma Soledad, Juan, alors que cette petite est comme une fille pour moi!
+
+JUAN	Je sais ce que j'ai fait. Et je vais tout réparer. (h___/)
+
+ROSARIO	Tu te réveilles trop tard! Tu as fichu en l'air ta vie et la sienne, (h_/) et tu as jeté l'opprobre sur cette maison. C'est comme ça que je t'ai élevé?
+
+JUAN	(nasal___/) (h___/) Je t'en supplie, maman. S'il te plaît, dis-moi où elle est. (h___/)
+
+ROSARIO	Même si je le voulais, je ne pourrais pas te le dire. (h_/) Je l'ignore. Elle a dû sortir prendre un peu l'air. Où est-ce que tu vas, encore?
+
+JUAN	La chercher. (h___/)
+
+ROSARIO	Laisse-la tranquille, tu lui as déjà fait assez de mal comme ça.
+
+JUAN	Mais il faut que je lui parle!
+
+ROSARIO	Laisse-la d'abord se remettre de ses émotions avant d'aller empirer les choses!
+
+JUAN	(snif) Mais je ne veux pas la perdre, maman.
+
+ROSARIO	Il fallait y penser avant. Maintenant tu dois attendre.
+
+SOLEDAD	Non. Ce n'est pas la peine d'attendre.
+
+JUAN	(h___/) Soledad.
+
+SOLEDAD	Je t'écoute.
+
+(BOUCLE 26 - 10:45:35:20)
+		26
+
+AMBIANCE	(ambiance auberge)
+
+EMILIA	Pepa? Prends un verre, c'est moi qui régale.
+
+PEPA	En quel honneur?
+
+EMILIA	Parce que... Parce que nous sommes deux femme qui vivent une grande passion. Toi tu as ton Tristan, et moi j'ai mon prince charmant.
+
+PEPA	Ton admirateur secret? Tu sais qui il est?
+
+EMILIA	Non. (h___/) Mais je suis complètement sous son charme, je ne peux pas m'empêcher de sourire sans raison en y pensant, et j'ai tellement envie de lui dire- (mts) "Allez, sors de ta cachette et embrasse-moi!"
+
+PEPA	(rire____________) (h_/) Apparemment, ce garçon a bien compris comment te séduire.
+
+EMILIA	(h_/) Quand je le rencontrerai enfin, j'hésiterai entre lui sauter au cou ou lui passer un savon pour m'avoir fait attendre.
+
+PEPA	Tu m'étonnes. On ne joue pas avec les nerfs d'une femme. Merci pour le vin. A nos amours, ma chère amie.
+
+EMILIA	A l'amour véritable. (h_\)
+
+(BOUCLE 27 - 10:46:24:12)
+		27
+
+TRISTAN	Mesdemoiselles.
+
+EMILIA	Je vous laisse. Tu me raconteras plus tard.
+
+TRISTAN	Pepa. Tu me ferais l'honneur de marcher dans la rue à mes côtés?
+
+PEPA	C'est complètement inconscient!
+
+TRISTAN	Mais tu es la femme la plus courageuse que je connaisse, alors tu vas accepter.
+
+PEPA	Tu es vraiment en train de me demander de marcher à ton bras devant tout le monde?
+
+TRISTAN	Il n'y a pas de mal à ça.
+
+PEPA	Ca va faire scandale, Tristan, tu le sais bien.
+
+TRISTAN	Je m'en fiche.
+
+PEPA	Ta mère pourrait croiser notre chemin. Et les gens du village vont cafter. On parlera de nous dans toute la région.
+
+TRISTAN	Qu'ils parlent autant qu'ils le veulent. Il est grand temps que tout le monde sache une bonne fois pour toutes que tu es mienne et que je suis tien.
+
+(BOUCLE 28 - 10:47:42:06)
+		28
+
+JUAN	(h___/) (h_\) Je suis désolé que tu aies vu... (h\) que tu aies vu ça! Ce n'était pas prévu. (h___/) (snif)
+
+SOLEDAD	Espèce d'ordure. Tu ne regrettes pas ce que tu as fait. Tu déplores juste que je sois au courant.
+
+ALBERTO	Mes aveux en échange de ma vie, tu l'as dit. (h___/) Et- et je dois encore te remercier de ne pas avoir parlé de ton enfermement.
+
+PEPA	Laisse ouvert!
+
+ALBERTO	Je ne veux pas te faire de mal!
+
+PEPA	Laisse-la ouverte!
+
+ALFONSO	Non... Je ne cautionnerai pas ça. (h___\) Madame, vous êtes peut-être une Duchesse mais ici c'est une maison décente, allez-vous en!
+
+ELOISA	Ne sois pas insolent, toi! Je suis venue parler avec ton frère. Et en général, je fais ce qui me plait.
+
+FRANCISCA	Ce Commandant a dit clairement qu'il n'allait pas prendre de mesures contre les perturbateurs. Du coup, je me repose sur vous.
+
+PEDRO	Moi? Mais euh... Madame, vous comprendrez- (h_/) que que donc, ce commandant représente l'autorité, (h/) et il ne m'a rien signalé qui plus est...
+
+FRANCISCA	Et? Mais ne me dites pas que vous ne ferez rien?
+
+ALBERTO	Juste... un petit conseil: sollicitez un autre praticien sans tarder! Et sachez aussi que peut-être, à Madrid, lorsque vous donnerez mon  nom comme médecin sortant, (h_/) ils risquent de s'emmêler un peu.
+
+PEDRO	(h_/) Ne vous en faites pas pour ça, je suis doué pour les tracasseries  bureaucratiques; Ca devrait aller!
+
+ALBERTO	Ne croyez pas ça. (h_/) On est parfois étonnés! Tout n'est pas comme il paraît.
+
+FRANCISCA	Vous avez tous le même défaut! Devant un  beau visage et une poitrine opulente, (h_/) vous êtes incapables de penser et vous vous perdez!
+
+VIRTUDES	Gerardo ne-
+
+SEBASTIAN	Je connais Gerardo. Je sais qu'il ne lâchera pas l'argent si facilement!
+
+VIRTUDES	(nasal___\)
+
+SEBASTIAN	Mais- j'ai pas mal réfléchi et si c'est si important pour lui, (h_/) ça m'est complètement égal si toi tu es là!
+
+VIRTUDES	(h___/) Mais tu ne te rends pas compte!
+
+SEBASTIAN	(h___/) On partira très loin d'ici. Pas demain non, on part aujourd'hui! Et on sera enfin tous les deux!
+
+VIRTUDES	Sebastian!!!
+
+SEBASTIAN	Mais-
+
+VIRTUDES	Tu ne te rends pas compte que c'est un leurre!
+
+TRISTAN	Je veux être le seul homme sur terre à avoir le droit de t'appeler ma femme.
+
+NOTE	(ils s'embrassent_ _ _ _ _ _ _)

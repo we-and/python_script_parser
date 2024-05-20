@@ -1,0 +1,1198 @@
+Claire Guillot – EL SECRETO 117
+
+(BOUCLE 0 - 10:00:00:00)
+		00
+
+NOTES	(PREVIOUS)
+
+(BOUCLE 1 - 10:04:33:14)
+		01
+
+PEPA	(mts) Oui, (/h) je suis venue te tuer. (/h)
+
+ALBERTO	Pepa, tu... .tu ne peux pas être en vie.
+
+PEPA	(respi tremblante)  Pourtant je le suis. (respi tremblante) Mon envie de te voir mourir m'a permis de survivre. (/h)
+
+ALBERTO	Ah... Quelqu'un a dû t'aider. C'était impossible que tu sortes de là-bas vivante.
+
+PEPA	(/h) J'ai encore des amis, Alberto. Des gens qui m'aiment, tu ne peux pas en dire autant. (/h) (/h) (/h) Tu aurais dû me tuer de tes mains... (/h) (/h) Mais il t'aurait fallu du courage pour ça, chose que tu n'as pas!
+
+ALBERTO	Et toi, t'en as?! (respi) Tout... tout ce que je voulais c'était mettre fin à ta souffrance, mais... (/h) mais je pouvais pas supporter de te voir mourir. (/h) Et toi, (respi tremblante)  tu vas me tuer comme ça, de sang froid ? Par...
+
+PEPA	(inspi profonde)
+
+ALBERTO	parce que si tu comptes le faire ça ne sera pas trop difficile... (/h)
+
+PEPA	(/h)
+
+ALBERTO	Tristan a... il t'a déjà avancé le travail...
+
+PEPA	(mmffh)
+
+ALBERTO	(respi) Si tu veux me tuer, fais-le bon sang !
+
+(BOUCLE 2 - 10:05:27:09)
+		02
+
+EMILIA	(/h) Pepa ! (/h) Pepa, regarde-moi ! (/h) Ne fais pas ça, s'il te plaît! (/h) (/h)
+
+PEPA	Du calme, Emilia...  (respi tremblante)
+
+EMILIA	Doucement.
+
+PEPA	Ce serait beaucoup trop simple, (respi) et tu ne mérites pas une mort rapide! (respi) Non, Alberto, je ne... je ne te tuerai pas de mes mains, (/h) parce que je ne suis pas une vermine comme toi!
+
+EMILIA	Shhh. Hé.
+
+PEPA	(/h)
+
+ALBERTO	Ah.
+
+PEPA	(respi)
+
+ALBERTO	Très bien... (/h) Déteste-moi,  méprise-moi, mais par pitié, aide-moi... (/h) Il me faut un autre traitement.
+
+PEPA	Dans tes rêves!
+
+AMBIANCE	(chien qui aboie en fond)
+
+PEPA	(/h) Je ferai appel à la justice pour qu'ils s'occupent de toi... (/h) (h_)
+
+ALBERTO	La justice?  Et qu'est-ce qu'elle va faire d'après toi?
+
+PEPA	(sanglots) Quand ils sauront que tu m'as maltraitée comme un animal...
+
+EMILIA	Hé!
+
+PEPA	(respi) que tu as essayé de m'assassiner...
+
+EMILIA	Shhh.
+
+PEPA	(respi) Tu vas passer le rester de ta vie en prison.
+
+(BOUCLE 3 - 10:06:24:07)
+		03
+
+PEPA	(respi)
+
+ALBERTO	(rire BO) C'est un calvaire que je réserve pour Tristan. Vas-y, vas-y, va voir la Garde Civile, et moi, j'irai voir Francisca, et je lui dirai qui tu es et de qui est le petit Martin...
+
+EMILIA	Calme-toi...
+
+ALBERTO	(/h) Qu'est-ce qui va se passer(/h) quand ils sauront que Martin est le fils d'une accoucheuse (/h) et de Carlos Castro? (/h) Tu ne le reverras plus jamais...
+
+PEPA	(respi tremblante) Comment peut-on être si mauvais... Je te maudis, et je maudis le jour où nos chemins se sont croisés! (/h)
+
+ALBERTO	Arrête de tout maudire, et s'il te plaît... (/h) s'il te plaît, apporte-moi de la gaze...
+
+PEPA	(/h) Tu as complètement perdu la tête si tu penses que je vais t'aider. (/h) De toute ma vie, je n'avais jamais autant méprisé quelqu'un. Tu es un misérable, Alberto. (crache) (/h)
+
+ALBERTO	Pepa! (/h) Emilia ! (/h) (pleure) (reac douleur) (h_)
+
+(BOUCLE 4 - 10:08:19:16)
+		04
+
+DON ANSELMO 	Non, Ceferino, je venais de donner une extrême-onction. J'ai eu l'impression qu'il y avait de la lumière dans l'épicerie. Ça doit être ma vue, je commence à me faire vieux et je dois perdre un peu la tête. Allez, retourne donc auprès de ta femme, je vous verrai sans doute dimanche à l'église, hm ?
+
+CEFERINO	Nous y serons... Au revoir, Don Anselmo.
+
+(BOUCLE 5 - 10:08:35:23)
+		05
+
+ANARCHISTE FEMME	C'était moins une !
+
+VIRTUDES	(/h) Heureusement pour nous.
+
+ANARCHISTE FEMME	Heureusement pour lui, (/h) moi, ça ne m'aurait pas gêné de mettre une balle entre les deux yeux de ce curé.
+
+GERARDO	(/h) Moi non plus ce n'est pas l'envie qui m'aurait manqué. Mais ce n'est ni l'endroit ni le moment. (/h) Ça aurait été très difficile de s'enfuir d'ici sans être vus.
+
+ANARCHISTE FEMME	Je continuerai d'attendre. (/h) Désormais je suis plus sereine,
+
+VIRTUDES	(/h)
+
+ANARCHISTE FEMME	je sais enfin où se cache ce bâtard et j'attendrai le temps qu'il faudra...
+
+GERARDO	Tu parles comme si tu le connaissais.
+
+ANARCHISTE FEMME	Si je n'ai pas été dupée par la nuit, ça fait des années.
+
+GERARDO	Toi? Un curé?
+
+ANARCHISTE FEMME	Celui-là, oui.
+
+GERARDO	Comment?
+
+ANARCHISTE FEMME	Lors d'un évènement terrible où sont morts nombre de camarades aux Asturies.
+
+GERARDO	C'est à cause de ce curé qu'ils ont fusillé pratiquement tous nos camarades asturiens?
+
+ANARCHISTE FEMME	(/h) (/h)
+
+GERARDO	Tu en es certaine?
+
+ANARCHISTE FEMME	Pratiquement certaine.
+
+(BOUCLE 7 - 10:09:42:02)
+		07
+
+DOLORES	C'est fou que dans un si petit village il se passe ce genre de choses... (/h) Si on me l'avait dit, je ne l'aurais pas cru!
+
+PEDRO 	Je n'en reviens pas non plus. (/h) Mais qui a bien pu commettre une chose pareille?
+
+DOLORES	Ah...
+
+HIPÓLITO	Ça doit sûrement être des étrangers, papa. Parce que dans le village, il n'y a pas de malfrats comme ça.
+
+RAMIRO	Et... qu'est-ce qu'ils ont pris?
+
+DOLORES	Tout ce qu'il y avait dans la caisse. (/h) il n'y avait qu'un petit peu de monnaie, et quelques provisions basiques : de la farine, du riz... et un petit peu d'huile.
+
+PEDRO 	Mais ils ont fait pas mal de dégâts!
+
+DOLORES	(/h) Oui, oui, c'est sûr que les dégâts sont considérables.
+
+RAMIRO	Ça ne m'a pas l'air si catastrophique. Il y a quelques haricots sur le sol, et... un peu de désordre car ils ont sûrement dû chercher ce qu'il leur fallait.
+
+PEDRO 	C'est toujours pareil... À première vue il n'y a pas grand-chose, mais après, au moment de tout remettre en place, tu vois des choses que tu n'avais pas vues au départ.
+
+(BOUCLE 8 - 10:10:29:20)
+		08
+
+RAMIRO	Mais comment ça "c'est toujours pareil"? On vous a déjà cambriolés?
+
+HIPÓLITO	Non, c'est la première fois.
+
+RAMIRO	Eh bien alors?
+
+PEDRO 	J'avoue que c'est déjà arrivé une fois! Et Dieu merci, on avait une bonne assurance. Je l'avais obtenue grâce à l'agent de la compagnie du canton... Ce n'est pas une assurance quelconque, vu que je ne suis pas un client quelconque... Il me l'a proposée parce que c'était moi! (hé hé) Je paie une prime ridicule! (rire BO)
+
+DOLORES	Et ils nous ont remboursé tout ce qu'on nous avait volé.
+
+PEDRO 	(rire BO)
+
+DOLORES	(rire)
+
+RAMIRO	La petite monnaie?
+
+PEDRO 	(mts)
+
+DOLORES	Et les jambons...
+
+RAMIRO	Les jambons?
+
+PEDRO 	(/h) (respi tremblante) Les jambons, les jambons de cochon noir, (/h) et le jambon cru de Leon...  (/h) et la soie!
+
+RAMIRO	La soie aussi?
+
+DOLORES	Eh oui, mon grand, oui, on nous avait volés de tout!
+
+PEDRO 	(rire BF)
+
+(BOUCLE 9 - 10:11:06:17)
+		09
+
+PEDRO 	(rac gorge)
+
+RAMIRO	Les voleurs vous avaient presque rendu service alors.
+
+PEDRO 	(/h)
+
+RAMIRO	Mm. Dans ce cas, je vais y aller...
+
+PEDRO 	(/h)
+
+RAMIRO	Hipólito, allons-y, Don Anselmo va nous attendre.
+
+PEDRO 	Oui, vas-y, fiston, vas-y... Et lavez vos âmes, c'est important de le faire.
+
+RAMIRO	Et un jour, vous m'expliquerez où étaient ces fameux jambons que je  n'ai jamais vus.
+
+PEDRO 	Tu ne sais pas de quoi tu parles... On ne pouvait pas les laisser en vue.  Il y a certaines choses qu'il faut garder cachées... dans des petits coins et... Allez-y, filez, filez, allez au confessionnal. Si vous êtes en retard, vos péchés seront deux fois plus graves.
+
+HIPÓLITO	Oh, dépêchons-nous!
+
+DOLORES	Il faut qu'on fasse une liste bien remplie, hein? (/h) On va faire marcher notre assurance bien comme il faut!
+
+PEDRO 	(rire BO)
+
+DOLORES	(rire BO) (/h) Ah...
+
+(BOUCLE 10 - 10:11:49:06)
+		10
+
+JUAN	Qu'est-ce que tu fais? Donne ça! Tu ne devrais pas porter ça, c'est Pepa qui l'a dit.
+
+SOLEDAD	Tu dormais encore... Tu avais l'air si tranquille...
+
+JUAN	(soupir BF) J'étais épuisé.
+
+SOLEDAD	C'est normal, avec tous les pinceaux que tu portes!
+
+JUAN	Ça fait des jours que... que je ne dors pas assez. (h__) (snif)
+
+SOLEDAD	Je le sais, mon amour, (/h) c'est pour ça que tu te lèves de mauvaise humeur.
+
+JUAN	(h\) (/h) Alors que toi, tu es toute guillerette.
+
+SOLEDAD	J'ai mes raisons. (/h)
+
+JUAN	C'est quoi cette lettre?
+
+SOLEDAD	Elle est arrivée hier. Lis-la.
+
+JUAN	Épargne-moi cet effort.
+
+SOLEDAD	(mts) (/h) Ça vient d'une entreprise de Madrid, ils sont intéressés par mes talents de dessinatrice d'étiquettes et de matériel publicitaire.
+
+JUAN	Et en quel honneur?
+
+(BOUCLE 11 - 10:12:42:04)
+		11
+
+SOLEDAD	J'ai envoyé une dizaine de lettres avec des exemples de mon travail pour la conserverie (/h) et en à peine deux jours... regarde! La première m'a répondu en m'offrant du travail. C'est pas merveilleux? Je suis tellement contente. (/h)
+
+JUAN	Je te félicite. (soupir BO)
+
+SOLEDAD	Tu pourras arrêter de peindre Donia Eloisa.
+
+JUAN	Et pourquoi je devrais faire ça?
+
+SOLEDAD	(/h) Mon amour, c'est évident que passer autant de temps avec cette femme te fait beaucoup de mal. Ça ne te fait aucun bien, et dorénavant, on ne va plus en avoir besoin.
+
+JUAN	Non, j'arrêterai pas.
+
+SOLEDAD	Mais, pourquoi ?
+
+JUAN	Tout d'abord parce que je le lui ai promis. Ensuite, parce que je suis un artiste, (/h) et j'ai bien l'intention de le rester.
+
+SOLEDAD	Mais, Juan, tu peux exercer ton art n'importe où ailleurs... Tu peux peindre tes tableaux à la maison et ensuite essayer de les vendre!
+
+JUAN	Cette femme me paie vraiment bien, Soledad.
+
+SOLEDAD	On n'en a plus besoin.
+
+(BOUCLE 12 - 10:13:33:02)
+		12
+
+JUAN	Ça m'amène à ma troisième raison de ne pas laisser tomber la duchesse. (/h) Soledad, je suis un homme et je vivrai pas aux crochets de ma femme.
+
+SOLEDAD	Ah... et ça change quoi?!
+
+JUAN	Je veux continuer d'être l'homme de la maison, je n'ai plus envie qu'on parle de ça. Je te félicite pour ton merveilleux... futur de dessinatrice d'étiquettes. (/h) Mais je continuerai de peindre des tableaux, si tu n'y vois pas d'inconvénients.
+
+(BOUCLE 13 - 10:14:11:18)
+		13
+
+EMILIA	C'est Tristan qui m'a demandé désespérément de parler à Alberto. (/h) Le Commandant Sanz lui a dit qu'il ne t'avait pas trouvée en ville, à l'adresse du télégramme, il s'est dit qu'Alberto y était pour quelque chose. Que la lettre était sûrement un piège.
+
+PEPA	J'ai eu de la chance...
+
+EMILIA	Ensuite, j'ai trouvé le pendentif de Flora dans le cabinet avec les mêmes tâches que sur la lettre, (/h) avec la même terre ocrée qu'Alberto avait sous ses semelles.
+
+PEPA	Heureusement que cette terre colle comme la poix.
+
+EMILIA	(/h) Je me suis souvenue qu'une fois (/h) Alberto m'avait parlé du... du sous-sol de Don Julian. (mf) Le reste, tu le sais déjà.
+
+(BOUCLE 14 - 10:14:50:23)
+		14
+
+PEPA	Tu fais une très bonne enquêtrice !
+
+EMILIA	Ah...
+
+PEPA	Merci pour tout, vraiment, Emilia. Merci de me laisser dormir avec toi.
+
+EMILIA	Ah... C'est normal, enfin ! Allez...
+
+PEPA	(/h)
+
+EMILIA	(h\) (/h) Pepa, c'est une chose de ne pas dénoncer cet homme, c'en est une autre que tu retournes avec lui... Quand je t'ai vue, j'ai eu peur qu'il soit déjà trop tard... (/h) Je n'arrive toujours pas à comprendre comment tu as pu survivre à ces gaz.
+
+PEPA	Tout a une explication...
+
+(BOUCLE 15 - 10:15:29:20)
+		15
+
+FLASHBACK	(début)
+
+FLORA	Tu dois dormir pour permettre à ton corps et à ton esprit d'être assez forts pour résister.
+
+PEPA	(respi_____________)
+
+FLORA	Pepa, tu as toujours été extrêmement courageuse, ce n'est pas le moment de flancher.…
+
+PEPA	(h__\)
+
+FLORA	Tu dois cesser de respirer ce poison au plus vite. Pepa !
+
+PEPA	(tousse) Je ne peux pas. (tousse)
+
+FLORA	Si tu peux.
+
+PEPA	(hh_)
+
+FLORA	Tu devras te couvrir le nez et la bouche avec un tissu humide pour t'aider à mieux respirer...
+
+(BOUCLE 16 - 10:15:50:01)
+		16
+
+FLASHBACK	(fin)
+
+EMILIA	Tout a une explication, mais tu ne vas pas me la donner... Ce... Ce qui m'étonne le plus, c'est que l'homme dont j'étais totalement folle est le plus misérable de tous les êtres humains. (/h) Te torturer de la sorte, vouloir ta mort, Pepa... Je le déteste!
+
+PEPA	Ne t'en fais pas, il nous a tous eu.
+
+EMILIA	On devrait le dénoncer et qu'il pourrisse dans un trou encore plus sombre que celui où tu étais.
+
+PEPA	On ne peut pas, il en sait bien trop, et il m'a menacée de tout raconter...
+
+EMILIA	(soupir) Bon sang... C'est... C'est... C'est un misérable!
+
+PEPA	On trouvera un moyen de lui faire payer pour ça... On doit tous rendre des comptes un jour. Et maintenant, dis-moi... Comment va Tristan ?
+
+EMILIA	Ah... (/h) Il est retenu au Manoir par la justice.  Le Commandant Sanz ne le laisse pas sortir car il a tiré sur Alberto.
+
+PEPA	Il faut que je le voie, avec le petit.
+
+EMILIA	Non, non, non, non... Pepa, finis d'abord ton déjeuner, tu dois reprendre des forces.
+
+PEPA	Je n'ai pas d'appétit, Emilia.
+
+EMILIA	Pepa, tu as encore une sale tête. Ou tu manges ou tu n'iras nulle part... Allez... Viens...
+
+(BOUCLE 17 - 10:17:09:15)
+		17
+
+TRISTÁN	Asseyez-vous.
+
+SANZ	(/h) Je n'en ai pas pour longtemps.
+
+TRISTÁN	Ah oui? Vous êtes juste venu vérifier que je ne m'étais pas enfui?
+
+SANZ	(/h) Vous savez très bien que j'ai posté des hommes pour ça. (/h) Je suis venu vous informer... de mes recherches...
+
+TRISTÁN	Sur Pepa? Vous avez du nouveau?
+
+SANZ	Mm... non. (/h) Mais... vous feriez mieux de moins vous occuper de Pepa et plus de vous-même...
+
+TRISTÁN	(mts) Commandant... (/h)
+
+SANZ	(h__)
+
+TRISTÁN	Pepa et moi ne formons qu'un,
+
+SANZ	(h__)
+
+TRISTÁN	si elle ne va pas bien, mes problèmes sont secondaires, compris?
+
+SANZ	(/h)
+
+TRISTÁN	De quoi voulez-vous m'informer alors?
+
+SANZ	Tous les voisins avec lesquels j'ai parlé m'ont confirmé que votre relation avec le docteur n'était pas vraiment très amicale ces dernières semaines...
+
+TRISTÁN	Non, Commandant, amicale, non.
+
+SANZ	Vous n'arrêtiez pas de vous disputer pour l'amour de cette jeune femme, Pepa.
+
+(BOUCLE 18 - 10:17:57:02)
+		18
+
+TRISTÁN	Eh bien... je vois que c'est de notoriété publique!
+
+SANZ	(/h) Dans les petits villages, c'est difficile d'avoir des secrets.
+
+TRISTÁN	Ce n'est pas un secret, vous savez... J'ai besoin d'un verre, vous en voulez un? (/h) Si ça ne vous dérange pas, je m'en sers un. J'ai l'impression que ce que vous allez me dire ne va pas me plaire.
+
+SANZ	Comprenez-moi . (/h) Tout ce qu'on me dit ne sont que des arguments en faveur du docteur Guerra... (h_) Vous aviez un mobile et le pistolet dans les mains.
+
+TRISTÁN	Commandant, je vous ai déjà dit mille fois...
+
+SANZ	Oui, oui, je sais, je sais... (/h) Si j'avais eu un fou avec une arme... en face de moi qui venait de se tirer dessus avec un pistolet, moi aussi je lui aurais pris.
+
+TRISTÁN	Il n'y a pas que ça, Commandant, je suis vétéran de guerre, vous croyez qu'à cette distance j'aurais raté mon tir? (/h) À un mètre, j'aurais tiré entre ses deux yeux, pas dans la jambe.
+
+SANZ	Impossible à savoir... (/h) dans la précipitation...
+
+TRISTÁN	Mais enfin, vous aussi vous le croyez?
+
+SANZ	(h__) (mts) (/h) Capitaine Castro, il ne s'agit pas de ce que je crois ou ne crois pas.
+
+(BOUCLE 19 - 10:18:48:07)
+		19
+
+SANZ	(/h) Sincèrement, et ça, je ne devrais pas vous le dire, (/h) je crois davantage en votre version, mais... mais je dois faire mon travail, et je dois faire vite en plus. (/h) Je viens de recevoir un télégramme de Madrid m'indiquant d'accélérer les pas.
+
+TRISTÁN	De Madrid?
+
+SANZ	(mts) Cette histoire fait beaucoup de bruit, et ils sont surpris... de façon désagréable.
+
+TRISTÁN	Oui... J'imagine...
+
+SANZ	(/h) Je n'ai toujours pas pris la déclaration du docteur, ni interrogé Emilia et Sebastian Ulloa, mais...  je dois vous dire que ça risque d'être difficile de vous innocenter, Capitaine.
+
+(BOUCLE 20 - 10:19:23:02)
+		20
+
+TRISTÁN	Je comprends parfaitement ma situation... D'abord le conseil de Guerre, la mort de Prieto, sa confession par écrit, la participation de mon frère, sa fugue... (/h) et maintenant cet incident...
+
+SANZ	(h__) (/h) Je sais bien, je vous assure, (/h) mais comprenez-moi, il n'y a personne qui a parlé en votre faveur. (/h) et je vous assure que le nom de Castro est partout... même jusqu'à Madrid... Ils veulent que je classe cette affaire le plus vite possible pour faire taire les "on-dit". et que vous vous rendiez..
+
+TRISTÁN	Oui... Je suis dans de beaux draps.
+
+JUAN	(boit)
+
+TRISTÁN	(déglutit) (/h)
+
+(BOUCLE 21 - 10:20:08:14)
+		21
+
+ALFONSO	Tu attends l'arrivée de quelqu'un pour être pendue à la fenêtre comme ça?
+
+EMILIA	J'attends l'heure de passage de la diligence.
+
+ALFONSO	Et pourquoi ça ? Je peux savoir?
+
+EMILIA	À ton avis... Pour attraper mon dévoué admirateur secret.
+
+ALFONSO	Ah oui! Et pourquoi tu penses qu'il va arriver par la diligence?
+
+EMILIA	Parce que je sais lire les indices... Tu me crois stupide ou quoi ?
+
+ALFONSO	Non, non, non. Jamais je ne dirais une chose pareille, jamais...
+
+EMILIA	Écoute, Alfonso... (/h) Tous ses cadeaux sont toujours, toujours, arrivés deux heures après l'arrivée du courrier de La Puebla par la diligence.
+
+ALFONSO	Et alors?
+
+EMILIA	Il a au moins fallu qu'il aille à La Puebla pour les trouver. Ça doit être quelqu'un qui y va régulièrement. Il me suffit de regarder les voyageurs qui descendent, pour l'attraper.
+
+ALFONSO	C'est vrai que tu es maline! Impossible de te la faire à toi! (/h)
+
+EMILIA	C'est presque l'heure. La diligence est sur le point d'arriver.
+
+(BOUCLE 22 - 10:21:09:20)
+		22
+
+AMBIANCE	(TOC TOC TOC TOC TOC) (TOC TOC)
+
+RAMIRO	Hipolito, qu'est-ce que tu fais ici à cette heure-là?
+
+HIPÓLITO	Je viens d'aller me confesser à Don Anselmo qui, d'ailleurs, t'attend encore pour que tu ailles toi aussi te confesser.
+
+RAMIRO	Je n'ai vraiment pas le temps de dire trente Ave Maria. Et pourquoi tu retournes pas à l'épicerie?
+
+HIPÓLITO	Mes parents ont décidé de ne pas ouvrir aujourd'hui. Ils sont en train de dresser la liste des choses qu'on nous a volées pour l'assurance, tu  vois bien. Ils en sont déjà à seize pages, et d'après eux, ce n'est pas terminé.
+
+RAMIRO	(/h) Ils n'ont vraiment que ça à faire...
+
+HIPÓLITO	Ils sont comme ça. On nous a volé quelques restes de nourriture et... et ils vont faire marcher l'assurance là aussi... Même les radis, Ramiro! (/h) Et bien sûr, comme... comme ils ne veulent pas de mon aide, bah... je me suis dit qu'on pourrait peut-être en profiter, toi et moi, pour... pour continuer avec la danse...
+
+RAMIRO	Avec le sermon que nous a donné Don Anselmo l'autre jour, tu veux continuer à m'attirer des ennuis?
+
+HIPÓLITO	C'est juste une petite danse, enfin.
+
+(BOUCLE 23 - 10:22:06:08)
+		23
+
+RAMIRO	Non, pas question! On ne dansera pas comme les hommes de Godome et Somorrhe! Je... je... je ne sais pas comment j'ai pu me laisser convaincre!
+
+HIPÓLITO	Sodome et Gomorrhe.
+
+RAMIRO	Oui, peu importe, ça reste des noms horribles.
+
+MARIANA	C'est quoi cette histoire? Tu as convaincu mon frère de faire quoi par rapport à Sodome et Gomorrhe? Et pourquoi vous vous êtes fait sermonner? Qu'est-ce que vous avez fait encore?
+
+HIPÓLITO	Rien, rien... On a juste dansé tous les deux, je te le promets.
+
+MARIANA	Toi et cette grande tige?
+
+RAMIRO	(claque)
+
+HIPÓLITO	Ah...
+
+RAMIRO	Faut toujours que t'en dises trop... C’est…... C’est pas possible! Je m’en vais pour ne pas t’en coller une autre parce que tu m’énerves !
+
+HIPÓLITO	Ramiro, tu as oublié ton talon, ça va être gênant pour danser...
+
+RAMIRO	C'est ton père qui va danser!
+
+(BOUCLE 24 - 10:22:43:02)
+		24
+
+HIPÓLITO	Bien sûr, avec ma mère!
+
+MARIANA	Dis-moi, c'est quoi cette histoire de danse?
+
+HIPÓLITO	Tu sais bien, Mariana. Je dois apprendre à danser à mes parents,  et de danser avec mon père et avec ma mère ça... ça me fait bizarre, alors j'ai besoin de quelqu'un d'autre pour leur montrer.
+
+MARIANA	(rire BF) Mon frère, Ramiro?
+
+HIPÓLITO	Oui, je le paie pour ça, bien sûr... Le problème c'est que je n'ai pas trouvé de fille prête à le faire, alors que j'ai un gramophone et des disques pour s'entrainer.
+
+RAMIRO	Menteur, tu n'as qu'un seul disque!
+
+HIPÓLITO	Je n'en ai pas acheté plus parce que Donia Francisca était intéressée par l'appareil! Mais comme elle n'en veut plus, j'ai décidé d'en acheter d'autres... J'en ai d'autres, c'est promis, hein? Et s'il n'y a pas eu de problèmes, ils ont dû arriver avec la diligence.
+
+MARIANA	Ah, non... je te crois, je te crois...
+
+(BOUCLE 25 - 10:23:23:13)
+		25
+
+HIPÓLITO	Ramiro, tu viens ou pas?!
+
+RAMIRO	J'arrive avec le fusil de chasse!
+
+HIPÓLITO	Mais qu'est-ce que j'ai encore fait? Pourquoi c'est à moi d'apprendre la danse à mes parents, alors que... (pff)  (/h) Je fais quoi, Mariana, je fais quoi?
+
+MARIANA	Eh bien... tu peux danser avec moi... Enfin, si... tu veux bien, (/h) et si ta mère accepte que tu danses avec une fille, bien sûr. (/h) Ah... Si je n'arrive pas à convaincre Ramiro.
+
+HIPÓLITO	Non! Non! Non! Je... je te préfère toi, Mariana, bien sûr!
+
+MARIANA	(rire BF) Bah alors, qu'est-ce qu'on attend? (/h) (rire BO) (hi hi hi)
+
+HIPÓLITO	(rire BO)
+
+(BOUCLE 26 - 10:24:08:22)
+		26
+
+ALFONSO	Alors? Rien?
+
+EMILIA	Ah... (/h) Ni paquet qu'on ait laissé là et qui puisse être un cadeau, ni admirateur secret... rien de rien!
+
+ALFONSO	Ça me fait de la peine de te voir comme ça, mais c'est peut-être mieux. Non?
+
+EMILIA	Comment ça? Écoute, Alfonso, dernièrement ma vie est pleine de problèmes. Ces cadeaux étaient la seule lumière dans cette obscurité... (mts) Ah...
+
+ALFONSO	C'est toi la lumière, Emilia... ne plonge pas dans les ténèbres...
+
+EMILIA	(rire BF) (mts) (/h) Tu dis ça juste pour me faire plaisir... (/h) T'imagines, je ne suis même pas capable de garder un... un admirateur fantôme... Quelle femme désespérée, vraiment!
+
+ALFONSO	J'ignorais qu'il t'intéressait autant.
+
+EMILIA	Il ne m'intéresse pas, non, pas du tout... C'est juste que... ça attisait ma curiosité... Je ne supporte pas de perdre la partie, eh. ?À quel moment dans ma réflexion j'ai pu me tromper? Je ne comprends pas. Je croyais que j'étais à deux doigts de le démasquer. Qui ça peut être? Je ne comprends vraiment rien... Peut-être que c'est celui qui vient le lundi et le mardi...
+
+(BOUCLE 27 - 10:25:15:12)
+		27
+
+ROSARIO	Excusez-moi, Madame...
+
+FRANCISCA	Qu'est-ce que tu veux, Rosario? Qu'est-ce qu'elle fait ici? D'où elle sort?
+
+ROSARIO	Elle a insisté pour voir Don Tristan, mais comme vous avez clairement dit que toutes les visites de cette maison devaient avoir votre autorisation..
+
+FRANCISCA	Tu as bien fait. (/h) Accompagne-la de nouveau vers la sortie. Elle ne verra pas mon fils. Ce serait mal venu, et je ne le tolèrerai pas.
+
+PEPA	Je ne partirai pas d'ici sans le voir, Donia Francisca. J'ai accepté de demander votre autorisation vis-à-vis de Rosario, pour pas qu'elle ait de problèmes, mais je le verrai.
+
+FRANCISCA	(/h) (mts) C'est marrant, il ne manquait plus que tu viennes me défier!
+
+PEPA	Je viens de vous dire ce que j'étais venue faire et ça n'a rien à voir avec le fait de vous défier.
+
+FRANCISCA	Tu es chez moi, je te rappelle. De quel droit tu viens ici et tu me parles ainsi?
+
+(BOUCLE 28 - 10:26:00:09)
+		28
+
+PEPA	J'essaie d'être respectueuse,  de garder mon calme... Je demande votre permission, mais si vous refusez, je vais devoir y aller de force... Je verrai Tristan, que ça vous plaise ou non...
+
+FRANCISCA	Hors de question! Tu as causé assez de problèmes dans cette maison! Rosario, vire-la d'ici tout de suite!
+
+PEPA	Madame, vous ne savez pas tout ce que j'ai dû subir pour venir le voir... J'ai même frôlé la mort! Vous croyez que je vais partir parce que vous le voulez?
+
+FRANCISCA	Bien sûr que tu vas partir.  Je te l'ordonne!
+
+PEPA	Vos ordres ne sont pas suffisants... Désolée, madame. Rosario, excuse-moi, mais je vais passer...
+
+ROSARIO	(/h)
+
+FRANCISCA	Pepa, reviens ici tout de suite!
+
+(BOUCLE 29 - 10:26:36:19)
+		29
+
+TRISTÁN	Pepa, mon amour!
+
+FRANCISCA	(mts) Tristan! Je t'ordonne de faire sortir cette sans-gêne de notre maison sur le champ!
+
+TRISTÁN	(h__) Mère, j'ai peur d'être trop vieux pour vos petits caprices. S'il vous plaît...
+
+FRANCISCA	Tristan...
+
+TRISTÁN	S'il vous plaît...
+
+FRANCISCA	Tristan!
+
+TRISTÁN	(/h) (h_) (/h) Comment tu te sens? (h__)
+
+PEPA	Tristan, c'était un cauchemar... (/h) C'était Alberto... Il m'a attrapée et m'a enfermée dans le... dans le sous-sol de son cabinet.
+
+(BOUCLE 30 - 10:27:19:12)
+		30
+
+TRISTÁN	Qu'il soit maudit! (/h) M... Mais, il t'a fait du mal? Tu vas bien? (/h) (h_)
+
+PEPA	Je vais bien... désormais.
+
+PEPA	Il a essayé de m'humilier, de me rabaisser, mais...   mais il n'a pas réussi, mon amour...
+
+TRISTÁN	Je le savais... Je savais qu'il était derrière tout ça. (/h) Mon amour, j'ai essayé de te retrouver, mais ce bâtard... (/h) ce bâtard aura envie de mourir quand il me reverra.
+
+PEPA	Non, Tristan, c'est... c'est terminé! (/h)
+
+TRISTÁN	(mts)
+
+PEPA	Il est déjà suffisamment fou comme ça.
+
+TRISTÁN	(/h) (h___)
+
+PEPA	Moi aussi j'ai eu envie de le tuer quand il était à mes pieds, mais... mais nous ne sommes pas comme lui... (/h) J'aide à donner la vie, pas à la briser.
+
+TRISTÁN	Où est-ce qu'il est?
+
+(BOUCLE 31 - 10:27:56:09)
+		31
+
+PEPA	Ne t'en fais pas, il ne viendra plus nous embêter. La blessure qu'il a ne lui permet pas de bouger.
+
+TRISTÁN	Mais il faut que l'on porte plainte contre ce monstre.
+
+PEPA	Non, Tristan! Non, non, non, il sait tout sur moi... (/h) sur nous deux... Il a menacé de dire la vérité sur Martin... (/h) Tu veux que notre fils reste à la merci de son père? D'un fou qui vagabonde de place en place?
+
+TRISTÁN	(h__)
+
+PEPA	Sans compter sur ce que ferait ta mère en l'apprenant.
+
+TRISTÁN	Mais, Pepa, l'iniquité d'Alberto ne peut pas rester impunie.
+
+PEPA	Elle ne le restera pas. Mais, mais agissons intelligemment... Bon, mais assez perdu de temps à parler de ce fou d'Alberto. (/h) Comment va mon fils, comment va Martin?
+
+(BOUCLE 32 - 10:28:35:08)
+		32
+
+PEPA	(/h)
+
+TRISTÁN	Il va parfaitement bien... Je l'ai emmené dans un internat. Pepa, ici, Martin était incontrôlable. Et avec Carlos dehors, j'avais peur... qu'il arrive quelque chose... (/h) J'ai essayé de t'en parler, mais tu avais déjà disparu...
+
+PEPA	Mais je suis revenue... (/h) Tristan, je... je veux l'avoir près de moi... Ramenons-le... Je ne me séparerai plus jamais de lui, et... et tu sais que je donnerais ma vie pour lui.
+
+TRISTÁN	J'aimerais pouvoir le faire, mais... les choses ici sont compliquées. Je ne peux pas sortir de ma propre maison. On m'accuse d'avoir essayé de tuer Alberto.
+
+PEPA	Emilia m'en a parlé.
+
+TRISTÁN	Je te jure que je n'ai jamais fait une chose pareille... Il m'a tendu un piège et je suis tombé dedans. J'en suis aussi sûr que de mon amour pour toi.
+
+PEPA	Pas besoin de me le jurer, parce que je te crois.
+
+(BOUCLE 33 - 10:29:20:01)
+		33
+
+PEPA	Je vous connais tous les deux, et je sais de quoi est capable Alberto.
+
+TRISTÁN	Le Commandant Sanz ne me laisse pas quitter le Manoir tant que tout n'est résolu... et j'ai peur que ça ne se finisse pas bien pour moi... (/h) C'est fort probable qu'on m'envoie en prison...
+
+PEPA	Non, Tristan, ne dis pas ça... tu ne le penses même pas. Pas encore... non, non... je ne le supporterai pas.
+
+TRISTÁN	Pourquoi faut-il que tout soit toujours contre nous?
+
+PEPA	Pas tout... Nous nous aimons...
+
+TRISTÁN	(petit rire BF) Mais, à quoi sert notre amour si le destin ne nous laisse pas être ensemble?
+
+PEPA ET TRISTAN	(s'embrassent_______________)
+
+(BOUCLE 34 - 10:30:20:00)
+		34
+
+PEDRO 	Les anchois sont très bons, mais l'huile, hein?   Qu'est... Qu'est-ce que tu penses de l'huile?
+
+DOLORES	Hmmm. C'est délicieux!
+
+PEDRO 	Mm.
+
+DOLORES	(ff) Tu as mis qu'on nous avait volé combien de boîtes? Cinq petites?
+
+PEDRO 	Non, mets plutôt... dix moyennes. Hm.
+
+DOLORES	Tant qu'à faire, mettons... Vingt d'un kilo.
+
+PEDRO 	Ah... très bien!
+
+DOLORES	(rire BO)
+
+PEDRO 	(ah ah ah) (/h) Très bien...
+
+MARIANA	Bien le bonjour.
+
+DOLORES	Euhm... C'est fermé, Mariana, on est en train de faire l'inventaire de ce qui a été volé.
+
+HIPÓLITO	Elle est avec moi, maman.
+
+DOLORES	Pour quoi faire?
+
+MARIANA	Pour danser, Dolores.
+
+HIPÓLITO	Oui... Avec elle, les cours c'est autre chose, croyez-moi.
+
+MARIANA	(rire BF)
+
+PEDRO 	Oui, et puis comme ça Don Anselmo n'y verra pas d'objection... (bouche pleine) Qu'est-ce que tu as là? Un autre disque?
+
+HIPÓLITO	Ah, papa, attention, tu as les doigts plein d'huile... Lave-toi les mains d'abord.
+
+PEDRO 	(mts) (mts) Mais cette huile est délicieuse... Délicieuse! (rire BF)
+
+DOLORES	Et c'est quoi le disque que tu as là?
+
+HIPÓLITO	Ah! C'est un chanteur italien qui fait sensation dans le monde entier.
+
+DOLORES	Et qu'est-ce qu'il chante?
+
+HIPÓLITO	Ah... vous allez bien voir...
+
+(BOUCLE 35 - 10:31:12:07)
+		35
+
+AMBIANCE	(grésillements gramophone)
+
+HIPÓLITO	Enrique Caruso!
+
+AMBIANCE	(musique opéra jusqu'à la fin de la scène)
+
+HIPÓLITO	Mesdames et messieurs!
+
+PEDRO 	Ça se danse?
+
+HIPÓLITO	Bien sûr, enfin, c'est... c'est de la musique...
+
+MARIANA	Hipolito, ton père a raison, c'est de la musique, mais c'est mou!
+
+DOLORES	Et qu'est-il arrivé à cet homme pour qu'il crie autant, il s'est fait mal?
+
+HIPÓLITO	Mais, maman... c'est... c'est de l'opéra, enfin... C'est... c'est de l'opéra.
+
+DOLORES	On a eu assez peur comme ça quand on s'est rendu compte qu'on avait été cambriolés, sans qu'on soit obligés à danser là-dessus... C'est terminé la danse! Et arrête ça, ça va me donner de l'eczéma.
+
+HIPÓLITO	Mais, maman, je...
+
+PEDRO 	Il n'y a pas de "maman" qui tienne! On était plein d'espoir, mais tu as tout gâché, fiston, tu as tout gâché!
+
+(BOUCLE 36 - 10:31:59:01)
+		36
+
+AMBIANCE	(musique opéra jusqu'à la fin de la scène)
+
+DOLORES	Écoute, je n'ai plus du tout envie d'essayer de danser, crois-moi. Je vais oublier cette idée. La danse, c'est terminé! Je n'en ai plus envie... Si ça m'embête? Pas du tout... J'en ai assez de me ridiculiser!
+
+PEDRO 	On continue notre liste?
+
+DOLORES	(bouche pleine) Oui...
+
+MARIANA	C'est pour ça que tu m'as fait venir?
+
+HIPÓLITO	Mariana... (pfff)
+
+(BOUCLE 38 - 10:32:44:15)
+		38
+
+MARIANA	Madame, ma mère m'a raconté ce qui s'était passé (/h) et je suis sûre qu'elle a fait tout son possible pour éviter que Pepa n'entre, mais...
+
+FRANCISCA	Je sais, Mariana, je sais. Elle... n'est pas là?
+
+MARIANA	Non, madame, elle est partie faire de courses et m'a laissé toute seule en charge de tout. (/h) Mais si vous voulez, je peux aller la chercher tout de suite...
+
+FRANCISCA	Non, non, non, non, non, ce n'est pas la fin du monde qu'un fils ferme la porte au nez de sa mère! (/h) Je peux attendre que ta mère revienne.
+
+MARIANA	Comme vous voulez.
+
+FRANCISCA	Rosario a de la chance, (/h) elle peut compter sur vous pour se libérer de ce qui lui arrive... toi, Ramiro, Alfonso... Alors que moi... (/h) Qui va se soucier de ce qui m'arrive? (/h) Allez, termine ça et... repose-toi un peu, ça n'a pas été une journée facile.
+
+(BOUCLE 39 - 10:33:37:07)
+		39
+
+MARIANA	M... Madame, (/h) il s'est passé quelque chose?
+
+FRANCISCA	Rien qu'elle ne sache ou ne comprenne pas. (/h) C'est pour ça que je voulais discuter avec elle, pour nous soulager mutuellement.
+
+MARIANA	Avec ma mère?
+
+FRANCISCA	Nous vivons une situation pratiquement identique. (/h) Son fils avec cette prostituée de haut vol... (/h) et ma fille... qui n'a aucune idée de tout ça, et... sa grossesse... Une tragédie pour nous toutes... (/h) Rosario est sûrement aussi inquiète que moi.
+
+MARIANA	Elle... Elle l'est, madame, bien sûr qu'elle l'est.
+
+(BOUCLE 40 - 10:34:15:07)
+		40
+
+FRANCISCA	À quoi pouvait bien penser ce jeune homme... (/h) Forniquer avec une duchesse! (/h) Elle a sûrement dû l'amadouer avec son maquillage, avec ses bijoux,  avec son... (/h) savoir-faire de courtisane amatrice...
+
+MARIANA	Madame, à la maison, personne ne l'approuve. Même si nous n'allons pas aussi loin que vous, parce que... (/h) à ce qu'on sache, il n'y a pas eu coucherie.
+
+FRANCISCA	(/h) Si, il y a eu... (/h) Il l'a trompée. Je crois désormais qu'il l'a trompée. (/h) Et, d'ailleurs, je suis presque contente que Soledad ne le sache pas pour ne pas souffrir... Parce que... elle ne le sait pas, hein?
+
+MARIANA	N-n-non, non, madame, elle ne sait rien du tout.
+
+FRANCISCA	Tant mieux, tant mieux, et que ça reste ainsi.
+
+(BOUCLE 41 - 10:34:56:11)
+		41
+
+FRANCISCA	(/h) (/h) La déception m'a fait parler avec beaucoup trop de précipitation... Tu ne raconteras rien à Soledad? (/h) Tu sais que tu pourrais lui faire beaucoup de mal... Elle... aime ton frère!
+
+MARIANA	Non, non, madame, qu'est-ce que vous dites? (/h)
+
+FRANCISCA	Vous êtes amies, ça sert à ça les amies...  Même si non, bien sûr, tu n'as pas à lui dire, (/h) parce que le rôle que joue Juan dans cette histoire n'est pas vraiment honorable.
+
+MARIANA	Je ne dirai pas un mot, madame, je vous le promets.
+
+FRANCISCA	(/h) On verra bien comment on se sort de cette fichue histoire! (h__) (/h) Passe un coup vite fait sur ces casseroles et... rentre donc chez toi.
+
+MARIANA	Bonne soirée, madame. (pff)
+
+(BOUCLE 42 - 10:35:53:14)
+		42
+
+JUAN	Salut... Et les autres?
+
+ALFONSO	(mts) (/__h) Ramiro est à l'intérieur, il se repose, et maman a profité du fait qu'elle devait faire des courses pour aller avec ta femme à votre nouvelle maison,  (h__) (/__h) elles prennent des mesures pour coudre des rideaux.  Tu devrais être avec elle, Juan. (h__) Mais, bien sûr, (__h) tu avais certainement mieux à faire.
+
+JUAN	Tu vas recommencer avec ça?
+
+ALFONSO	(/_h) Hier, je t'ai dit tout ce que j'avais à dire. (h_) C'est toi qui avais besoin de réfléchir. Tu l'as fait?
+
+(BOUCLE 43 - 10:36:38:07)
+		43
+
+ALFONSO	(mts)(___h) Évidemment... Tu te plais bien trop dans ses bras pour penser que tu as une vie ici bas... (mts) Avec des gens qui t'aiment et que tu avais toujours aimés, non? (___h) Même si ce n'est pas très important.
+
+JUAN	(h\) Oui, tu vas recommencer.
+
+ALFONSO	Oui, Juan, oui, je ne lâcherai pas! Il faut que tu mettes fin à cette relation absurde avec Donia Eloisa. Soledad t'a vraiment facilité la tâche... avec ce qu'elle va gagner, vous aurez de quoi payer la maison et vous nourrir.
+
+JUAN	(h__) (pf) Je sais, je sais...
+
+ALFONSO	(mpf__) Tu as tout, Juan, arrête ça avant de le regretter... C'est ta femme, la femme que tu as aimé toute ta vie, qu'est-ce qu'il y a de plus important que ça?
+
+(BOUCLE 44 - 10:37:24:20)
+		44
+
+ALFONSO	Tu peux dire pareil de cette duchesse...?
+
+JUAN	Non, je ne peux pas dire ça, non...
+
+ALFONSO	Alors tu attends quoi pour la quitter?!
+
+JUAN	J'attends de trouver la force pour être sincère avec elle. (/h)
+
+ALFONSO	(__h) Tu envisages de le faire? (h\)
+
+JUAN	Oui, oui, Alfonso... J'ai réfléchi à ce que vous m'avez dit Ramiro et toi, (____h) et je vais le faire.
+
+ALFONSO	(mh____) (___h) Je ne sais pas si je te crois.
+
+JUAN	Si, crois-moi, je te le promets... Alfonso, je vais avoir un enfant... Alors, dis-moi, qu'est-ce qu'il y a de plus important que ça?
+
+ALFONSO	(petit rire BF) Ah... (h___)  Maintenant je te reconnais, Juan, (petit rire BF) ça c'est bien mon frère...
+
+JUAN	(pff)
+
+(BOUCLE 45 - 10:38:37:10)
+		45
+
+ALBERTO	Les... les enfants Ulloa peuvent vous le dire Quand ils sont arrivés, Tristan avait encore le pistolet entre les mains...
+
+SANZ	(mts)(__h) Monsieur Castro affirme qu'il vous l'a pris après que vous vous êtes tiré une balle dans la jambe.
+
+ALBERTO	Et vous n'allez pas croire ça, non? (__h) Pourquoi aurais-je fait ça? Non... Je ne suis pas fou.
+
+SANZ	(___h) Votre but, d'après lui, était de l'inculper,  comme c'est le cas actuellement.
+
+ALBERTO	Il ment... (__h) Il me...  Il me visait, et quand j'ai vu que ma vie était en danger, je me suis débattu, et à ce moment-là, une balle est partie. (/h) Et c'est là que j'ai été touché à la jambe... (/h) Mais... si Emilia et Sebastian n'étaient pas arrivés, il m'aurait probablement donné le coup de grâce. (/h) Et c'est la seule vérité, Tristan Castro est venu me tuer.
+
+(BOUCLE 46 - 10:39:27:05)
+		46
+
+SANZ	(___h) La balle a été tirée de très près. (__h) C'est étrange qu'un homme avec l'expérience du capitaine se rate.
+
+ALBERTO	(mts) Je vous l'ai déjà dit... (__h) J'ai réussi à lui attraper la main à temps, mais... il visait mon coeur.
+
+SANZ	Mmh.
+
+AMBIANCE	(TOC TOC TOC)
+
+VENANCIO	Je peux entrer, docteur?
+
+ALBERTO	Je t'en prie, Venancio.
+
+VENANCIO	On m'a raconté ce qui s'était passé et je suis venu vous voir, mais si vous êtes occupé...
+
+ALBERTO	Non, c'est bon... Je vous présente Venancio... un... un cultivateur du coin qui travaillait pour les Monténégro, jusqu'à ce que... jusqu'à ce que Donia Francisca l'expulse de ses terres. Encore un de ses caprices, mais c'est un homme bien.
+
+VENANCIO	Vous aussi, et regardez ce qu'on vous a fait.
+
+(BOUCLE 47 - 10:40:11:07)
+		47
+
+VENANCIO	Jusqu'à quand allons-nous supporter les agissements des Monténégro? (/h) Ils se croient tout permis avec tout le monde parce qu'ils pensent que tout leur appartient!
+
+ALBERTO	Et c'est le cas, Venancio, c'est le cas... Tout... Ou presque...
+
+VENANCIO	Il faut les arrêter! Ce Tristan a dépassé les limites, et il faut le lui faire savoir, que ce soit de gré ou de force. Bon sang, il a essayé de le tuer!
+
+ALBERTO	(Rahh...)
+
+VENANCIO	A-alors que lui, c'est un saint... il a sauvé la vie de ma femme sans rien vouloir en échange.
+
+SANZ	(mts) Je ne le remets pas en doute.
+
+ALBERTO	Le Commandant s'occupe de l'enquête, Venancio.
+
+VENANCIO	Arrêtez Tristan Castro, mettez-le en prison... em.. emmenez-le loin d'ici! On n'aime pas les criminels à Puente Viejo!
+
+SANZ	(mts) Je vous laisse, docteur... (__h) Soignez votre blessure, elle n'est pas belle à voir. Ah... Bonne soirée.
+
+(BOUCLE 48 - 10:40:59:18)
+		48
+
+ALBERTO	Bonne soirée.
+
+VENANCIO	J'ai dit quelque chose qu'il ne fallait pas, docteur?
+
+ALBERTO	Non, Venancio, ce n'est rien, c'est... c'est simplement que je suis très fatigué. (/h) (mf)(h__) Maintenant, si ça ne te... si ça ne te dérange pas, j'aimerais être seul...
+
+VENANCIO	N'en dites pas plus, je vous laisse vous reposer... Prenez soin de vous, docteur.
+
+ALBERTO	Ah... ah... ah... ah... ah... ah-ah-ah... Aarh... Aaah... (respi tremblante________)
+
+(BOUCLE 49 - 10:42:06:24)
+		49
+
+PEPA	J'ai pu le voir et lui parler, mais (/h) la situation est compliquée.
+
+PEPA	(/h) Il ne peut pas sortir du Manoir tant qu'ils ne savent pas ce qui s'est passé avec... avec Alberto.
+
+EMILIA	Mais on ne le saura jamais... Alberto ne dira jamais la vérité.
+
+PEPA	Ce n'est pas le pire, Emilia, (/h) parce que les apparences laissent à penser que c'est Tristan qui a tiré... (mts) Ton frère et toi l'avez surpris avec le pistolet dans les mains... S'il est déclaré coupable de tentative de meurtre, son... son futur sera terrible, et par conséquent le mien aussi.
+
+EMILIA	Pepa, tu pourrais ruiner les plans d'Alberto. Dénonce-le! (/h) Raconte-leur tout ce qu'il t'a fait... J'irais avec toi et je parlerais du fait qu'il t'a enfermée dans le laboratoire et de ce que j'ai dû faire pour te sauver... Et tout ça grâce à l'insistance de Tristan.
+
+PEPA	Je ne peux pas faire ça.
+
+(BOUCLE 50 - 10:42:56:05)
+		50
+
+PEPA	Je ne peux pas. Alberto leur dira... qui est le père de Martin, ma véritable histoire... Et je perdrais mon fils.
+
+EMILIA	Je pourrais mentir, dire que je ne l'ai pas vu avec l'arme dans les mains...
+
+PEPA	Toi, mentir, Emilia Ulloa? (petit rire BF) Les poules auront des dents avant que ça n'arrive. Non, Emilia, Tristan est innocent, je veux qu'ils en concluent ça parce que c'est la vérité, et non en mentant. (/h) Je trouverai autre chose, mais... il est hors de question que je baisse les bras.
+
+EMILIA	Qu'est-ce que tu vas faire ?
+
+PEPA	Ce que je dois faire, je devrais le faire toute seule... Il y a des choses dont il ne faut parler à personne... Allons-nous-en, Emilia...
+
+(BOUCLE 52 - 10:44:03:14)
+		52
+
+ALBERTO	Pepa... ah... Pepa... (h_) (/h)(h\) (/h) (h\) (/h) Pepa, sans toi, je ne peux pas, Pe... (respi tremblante) Pepaaa! (respi tremblante)
+
+(BOUCLE 53 - 10:44:27:11)
+		53
+
+RAIMUNDO	Tu as investi trois mille pesetas et des heures de travail dans cette entreprise! Tu as autant de droits sur la conserverie que Francisca, si ce n'est plus!
+
+SEBASTIÁN	C'est trop tard, papa, et je n'ai rien à regretter. Je sais que tu m'avais mis en garde contre elle...
+
+RAIMUNDO	Vous, les jeunes, vous n'apprenez qu'en commettant vos propres erreurs. (rac gorge) Je le sais, moi aussi j'ai été jeune. Et sinon, regarde ta soeur. Allez, passe-moi le pain.
+
+EMILIA	Qu'est-ce que j'ai fait encore?
+
+RAIMUNDO	Eh bien... tu as commis une erreur par immaturité.
+
+EMILIA	Laquelle ?
+
+RAIMUNDO	Celle de rester à mes côtés au lieu d'aller à Madrid...
+
+EMILIA	Papa, papa, papa, arrête avec ça, hein?! Et puis, tu servirais quoi à manger si je n'étais pas restée?! Et toi, Sebastian, s'il te plaît, souris un peu. Tout a une solution, je t'assure.
+
+SEBASTIÁN	Je ne pense pas à mes problèmes, mais à ceux de Tristan. J'ai peur de ce qui va lui arriver...
+
+RAIMUNDO	Bon, on a assez parlé de cette famille pour aujourd'hui, vous ne croyez pas? Emilia, passe-moi la canne, s'il te plaît.
+
+(BOUCLE 54 - 10:45:20:07)
+		54
+
+EMILIA	(soupir) Tiens, papa... Papa, tu t'entraînes depuis quand à faire ce truc?
+
+SEBASTIÁN	Tu crois qu'il l'a fait exprès?
+
+EMILIA	Il fait ça pour que je pense qu'il voie. Il s'amuse à se moquer de moi... Mais ça ne m'amuse pas du tout, papa! Pas du tout! Donne-moi le verre!
+
+SEBASTIÁN	Qu'on me pende s'il y a trucage! Comment tu fais ça, papa?
+
+EMILIA	Papa?
+
+RAIMUNDO	Il n'y a aucun trucage, Emilia.
+
+(BOUCLE 55 - 10:46:01:00)
+		55
+
+RAIMUNDO	Je n'osais pas te le dire au cas où... au cas où ce n'était qu'une illusion de mon cerveau, mais...
+
+EMILIA	(/h) Tu vois?
+
+RAIMUNDO	Depuis avant-hier je discerne certaines choses. Ce n'est rien de concret, mais je distingue des formes, des ombres, des objets comme ce verre.
+
+EMILIA	Mais tu te rends compte de ce que tu dis?! Mais c'est merveilleux! Papa, tu vas recouvrer la vue! (/h)
+
+RAIMUNDO	Ne pleure pas, chérie.
+
+EMILIA	(/h) C'est de bonheur...
+
+RAIMUNDO	Dans ce cas, je t'autorise.
+
+EMILIA	(rire)
+
+RAIMUNDO	Et toi, Sebastian, ne fais pas ton fier, et viens donc me faire un câlin, je ne vais pas te le reprocher. Venez là tous les deux!
+
+EMILIA	(rire)
+
+SEBASTIÁN	(rire BO)
+
+(BOUCLE 56 - 10:46:46:23)
+		56
+
+SOLEDAD	Ta mère et moi avons pris toutes les mesures dans la maison. Et demain sans faute on commencera à coudre les rideaux, c'est le tissu que je veux pour la fenêtre juste à côté de la porte... Il n'est pas superbe?
+
+MARIANA	Si... Et les autres rideaux?
+
+SOLEDAD	J'achèterai le tissu après. (mts) (/h) Et avec ces chutes de tissu, je veux coudre des draps pour la naissance du petit... enfin, ou de la petite. (/h) Ah... J'ai tellement hâte de l'avoir dans les bras! (mts) Tu penses que ce sera quoi, Mariana? Moi, je pense que ce sera un garçon... (/h) Aussi beau que Juan, et... avec les mêmes cheveux en bataille...
+
+MARIANA	(/h) Fille ou garçon, il sera beau.
+
+SOLEDAD	Ah... Tu sais, je suis tellement heureuse que j'ai envie de pleurer! Je nous imagine tous les trois, dans cette jolie maison, en pleine santé, et avec tout ce que l'on veut...
+
+(BOUCLE 57 - 10:47:29:13)
+		57
+
+MARIANA	(snif)
+
+SOLEDAD	Mais, enfin, Mariana...
+
+MARIANA	Ah... (snif) Pardon, pardonne-moi, Soledad.
+
+SOLEDAD	Mais, pourquoi tu pleures, enfin?
+
+MARIANA	Je ne sais pas... Ça doit être l'émotion de te voir aussi heureuse... C'est forcément pour ça...
+
+SOLEDAD	Tu es sûre qu'il n'y a rien qui t'inquiète?
+
+MARIANA	Oui, je suis sûre.  Je sais que c'est ridicule. (/h) (snif) (snif) Ah, Madame... Si vous avez besoin de moi, j'arrive tout de suite!
+
+FRANCISCA	Du calme! Je ne suis pas venue pour toi, mais pour ma fille. (/h) Je dois lui parler de quelque chose de très important...
+
+(BOUCLE 58 - 10:48:17:05)
+		58
+
+ALBERTO	(respi) Vous mentez... (respi tremblante___________) (snif) (respi tremblante) Pourquoi vous m'avez abandonné? (respi) C'est comme ça que vous me remerciez pour tout ce que j'ai fait pour vous? Ah... (/h) (/h) Pepa, (respi tremblante) tu m'as entendu? (respi) (h\) Promets-moi que tu ne me laisseras plus seul...
+
+(BOUCLE 59 - 10:48:57:00)
+		59
+
+ALBERTO	(respi tremblante) Promets-le-moi...
+
+PEPA	J'aurais dû le faire...
+
+ALBERTO	(respi) (__h)
+
+PEPA	Depuis quand tu es par terre?
+
+ALBERTO	(___h) Pepa, je ne voulais pas te faire de mal, non.... (respi) et à Juana non plus, mais je finis toujours par faire du mal à ceux que j'aime...
+
+PEPA	Tais-toi! Tu es en train de délirer...
+
+ALBERTO	(respi) Écoute-moi, Pepa, (h\) j'ai dû laisser un morceau de balle dans ma jambe. S'il te plaît, il faut que tu m'aides. (/h) Il faut que tu m'emmènes au cabinet... Il faut qu'on l'enlève... (/h) Il faut que tu fasses tout ce que je te dis... (respi)
+
+PEPA	Tu m'as laissé mourir,  et maintenant, tu me demandes de te sauver la vie?
+
+(BOUCLE 60 - 10:49:38:15)
+		60
+
+ALBERTO	Pepa, s'il te plaît, je t'en supplie.
+
+PEPA	Moi aussi je t'ai supplié! Et tout ce que j'ai eu en retour c'est du mépris!  Fais-toi à l'idée que tu m'as tuée, alors maintenant je ne peux plus t'aider...
+
+ALBERTO	(/h) Pepa... Pepa, viens là! Pepa, ne me laisse pas tout seul! (respi) Pepaaaa! Ah... Ah... (reac douleur) Ah...
+
+(BOUCLE 61 - 10:50:10:06)
+		61
+
+NOTES	(COMING NEXT)
+
+ROSARIO	Comment as-tu pu faire une chose pareille?
+
+JUAN	Je ne euh ... j'sais pas ce qu'on t'a dit mais ... je ne, je ne...…
+
+ROSARIO	Tu vas arrêter de mentir, Juan ! Assieds-toi, j'tai dit ! Assieds-toi et regarde-moi dans les yeux !
+
+JUAN	J'suis pas sûr de pouvoir.
+
+ROSARIO	Si tu as tellement honte, pourquoi agis-tu ainsi ? Toi qui étais fou de Soledad.
+
+(BOUCLE 62 - 10:50:27:10)
+		62
+
+PEDRO 	Tu veux savoir ce que nous allons faire ?  (/h) A la première personne qui entre ici, je lui refile ce gramophone.
+
+AMBIANCE	(TOC TOC TOC TOC)
+
+HIPÓLITO	(ah!)  Je te dis que tu ne vas rien réussir à vendre au curé même pas un quart de vin.
+
+PEDRO 	Ah non ? Alors, regarde bien ce qu'est un talentueux vendeur en action !
+
+(BOUCLE 63 - 10:50:44:16)
+		63
+
+ALFONSO	Et tu n'as toujours aucune piste ?
+
+EMILIA	(/h) Il a dû venir en pleine nuit ou bien très tôt ce matin parce que moi, je n'ai rien vu ! Je me demande bien qui c'est !
+
+MARIANA	Tout ce mystère commence à me faire peur !
+
+ALFONSO	Je me demande...  D'un autre côté, il a l'air de te connaitre alors, tu devrais pas aller chercher bien loin.
+
+(BOUCLE 64 - 10:51:05:08)
+		64
+
+VIRTUDES	Regarde bien, je veux que tu en sois sûre. Imagine-toi que si tu jures que c'est lui, il paiera cher le fait d'avoir trahi ! Il ne faut pas que tu te trompes !
+
+(BOUCLE 65 - 10:51:14:08)
+		65
+
+DON ANSELMO 	Il suffirait d'une étincelle pour que la situation s'embrase !  Les gens s'en prendront aussitôt à Tristan.
+
+EMILIA	Mais Monsieur Tristan n'a pu faire de mal à personne, il a passé sa vie loin d'ici à faire la guerre !
+
+RAIMUNDO	Emilia, la haine ne fait pas dans la finesse, malheureusement !  Et dans ce village, ce ne sont pas les gens qui manquent pour détester sa mère et le nom de famille que porte Tristan.
+
+(BOUCLE 66 - 10:51:32:11)
+		66
+
+EMILIA	C'est sûr...
+
+VENANCIO	Et eux, ce sont les maitres du monde !  Mais aussi de nos vies !  Et ce n'est pas juste que lorsque ça leur prend, ils puissent décider de nous tirer dessus !
+
+VILLAGEOIS	Non, c'est pas juste ! Non, c'est pas juste, non ! c'est dégoûtant ce qu'ils font !
+
+VENANCIO	Si jamais le docteur meurt, le Monténégro, il aura intérêt à payer pour son crime !
+
+(BOUCLE 67 - 10:51:47:14)
+		67
+
+PEPA	Garde-la !  S'il m'arrive quelque chose, donne-la au Commandant Sanz.
+
+EMILIA	Qu'est-ce que tu racontes ? Tu es malade, Pépa !
+
+PEPA	On ne sait jamais ce qui peut arriver mais... comme je le disais, la mort arrive sans prévenir.

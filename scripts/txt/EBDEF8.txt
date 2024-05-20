@@ -1,0 +1,891 @@
+LA ESCLAVA BLANCA CAP8 25 FPS-H264
+25/08/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Capitaine bateau	Veuillez me suivre, je vous prie.Je vous montre le chemin.
+
+Capitaine bateau	Et voilà votre cabine. Je vais vous demander de régler.
+
+Victoria	Donne-lui son argent.
+
+Rémédios	Ah, oui. Bien sûr,h_ votre éminence madame la marquise.
+
+Capitaine bateau	La somme est incomplète.
+
+Victoria	Capitaine,vous parlez à la marquise de Bracamonte, sachez-le.. Je peux parler de vous à des personnes haut placées.
+
+Capitaine bateau	hh_Oui, oui, oui, oui... h_ Duchesse, marquise ou reine d'Angleterre... J'ai un bateau à acheminer jusqu'en Amérique. On va dire que c'est suffisant pour cette fois. Bienvenue à bord.
+
+(BOUCLE 2 - 00:01:46:10)
+		02
+
+Victoria	Je ne vois pas pourquoi il n'a pas cru que j'étais une marquise.
+
+Rémédios	Quel dommage, si j'avais un miroir à portée de main je t'aurais montré. Parce qu'exception faite de ta robe et de ta coiffure, eh bien je ne vois rien de noble chez toi, ma chérie. Heureusement qu'on a du temps devant nous pour te préparer, parce que sinon. (rire)
+
+Victoria	Tu n'as pas non plus l'air une dame de compagnie.. Regarde-moi cette nappe. (pouffe)
+
+Rémédios	Mais si voyons ! Je suis la comtesse de la pâte feuilletée. (rires)
+
+(BOUCLE 3 - 00:02:10:19)
+		03
+
+Soeur Alicia	Ma soeur, c'est un désastre. h_ (soupir) Le trousseau de la marquise a disparu de l'atelier de couture. h_Etje crois bien que Rémédios a disparu aussi.
+
+Mère supérieure	Elle nous a tout pris pendant que nous dormions.
+
+(BOUCLE 4 - 00:02:23:05)
+		04
+
+Rémédios	Mais qu'est-ce que tu fais ? Tu dois arrêter de porter ce collier,  tu risques de te faire démasquer !
+
+Victoria	C'est juste le temps du voyage.Ca m'aide à vaincre ma peur.
+
+Rémédios	Commence par vaincre ta peur en marchant droit. Allez. Tiens-toi bien droite.  C'est ça. Avance.  Victoria, un peu d'élégance ! Où est ta prestance ? Le dos bien droit ! C'est ça.  Fais un peu attention.
+
+Victoria	(soupir)  C'est trop compliqué. Le bateau bouge sous mes pieds.
+
+(BOUCLE 5 - 00:02:57:22)
+		05
+
+Rémédios	Arrête de chercher des mauvaises excuses. Redouble d'efforts. Tiens, on dirait que tu aimes bien parler en faisant ton exercice.Allez, dix Ave Maria pendant que tu marches d'un bord à l'autre.
+
+Victoria	h_Très bien, mère supérieure.
+
+Milagro	Je vous salue Marie....  vous êtes bénie entre toutes les femmes... et Jésus, le fruit de vos entrailles...  Lucia !
+
+Victoria	Je vous salue Marie pleine de grâce  vous êtes bénie entre toutes les femmes ... et Jésus, le fruit de vos entrailles...
+
+(BOUCLE 6 - 00:03:27:10)
+		06
+
+Rémédios	Madame la marquise ! Marquise Lucia de Bracamonté!
+
+Victoria	Je ne t'ai pas entendue. Avec le bruit de la mer et du bateau...
+
+Rémédios	Essaie de te concentrer un peu. C'est très sérieux. Alors essaie de te mettre dans le crane que maintenant, tu es Lucia Amélia Rocio... etj'oublie toujours la suite. Lucia Amélia Rocio... Mais combien de noms a cette dame, mon Dieu !? C'est à n'y rien comprendre. Bon allez, reprenons. Lucia Amélia Rocio...
+
+Victoria	(réac) Je le sais mieux que quiconque.  Lucia Amélia Rocio... Je sais pas mais ça fait beaucoup. Lucia Amélia Rocio...
+
+(BOUCLE 7 - 00:03:59:06)
+		07
+
+Adéla	Solès de Maciyas, Gayego, Estrada, D’artacho, Urdeola Zuluaga
+
+Milagro	(réac)Ca fait beaucoup de noms pour une marquise. Il faut vraiment lui dire tout ça ?
+
+Miguel	Elle a beau avoir deux-mille noms, moi je sais qu'elle reste un être humain comme les autres.
+
+Rosa	Elle fait partie de la noblesse, Miguel.Parce qu'elle a un nom composé avec mille particules.
+
+Miguel	Et comment tu sais ça, Rosita ? (réac) h_Donia Adela semble croire que sa marquise est un ange tombé du ciel,mais à mon avis, l'ange va se brûler les ailes sous notre soleil, et en plus elle va devoir supporter(réac) sa future belle-mère.
+
+Milagro	(rire)
+
+Adéla	Vous avez compris ? C'est bien clair, non ?
+
+Tous	Oui, madame.
+
+(BOUCLE 8 - 00:04:46:23)
+		08
+
+Rémédios	Concentre-toi, c'est important . La fourchette va toujours à gauche, sans exception. Et le couteau va à droite, avec la lame vers le bas. Au moins je tire une expérience de ces années à servir les bonnes soeurs. Allez, on reprend.
+
+Victoria	(rire) Bien. Euh...
+
+Rémédios	Montre-moi la cuiller à thé. hh_ Regarde. Celle-là, c'est pour la soupe. Et celle-là, c'est pour le thé.
+
+Victoria	Le thé. Le dessert.
+
+Rémédios	Celle-là, c'est pour le dessert. Et ça, c'est pour étaler le beurre sur le pain.
+
+Victoria	Daccord. La soupe. Le dessert...
+
+Rémédios	Le thé !
+
+(BOUCLE 9 - 00:05:29:21)
+		09
+
+Adéla	(soupir) Non, non. Non, non, non, non. Non !  C'est si difficile de poser des plats sur la table ? Je veux de l'harmonie. Siervo. Siervo, Siervo.
+
+Siervo	Oui, madame?
+
+Adéla	Vous êtes ridicule dans ces habits Qu'on le remplace par quelqu'un de plus jeune. Euh... Toi! Approche. Dehors. Hilaria! Sers donc la soupe.
+
+(BOUCLE 10 - 00:06:06:13)
+		10
+
+Adéla	Non ! Non! Non, non, non! Applique-toi un peu. Je ne veux rien entendre. Tu dois te montrer digne de ce raffinement.
+
+Hilaria	Madame, je ne suis pas habituée à porter des gants. Bien, madame.
+
+Adéla	Si vous n'y mettez pas du vôtre, nous ne serons pas prêts à accueillir la marquise de Bracamonté. Et je préfère vous prévenir : le premier parmi vous qui me fait honte partira terminer ses jours dans les mines du sud. Est-ce que c'est clair ?. On reprend du début. (soupir)
+
+(BOUCLE 11 - 00:06:52:04)
+		11
+
+Isabel 2	Ouille! (réac) Ils partent à la fête de la paroisse ? Laisse-moi voir. C'est lui, Miguel ?
+
+Rosa	(rire) Oui.
+
+Isabel 2	Bon alors, tu l'as embrassé? Tu es amoureuse ?
+
+Rosa	On s'est embrassés, il m'a prise dans ses bras, on a marché main dans la main... h_ mais seulement dans mes rêves. Ah, vous croyez?
+
+Isabel 2	Mais Rosa ! Tu dois lui dire ce que tu ressens.Oui, c'est un ordre. Si tu ne déclares pas tes sentiments, comment veux-tu qu'il sache? Il ne lit pas dans les pensées. Hein?
+
+(BOUCLE 12 - 00:07:29:19)
+		12
+
+Rémédios	Quelle explication va-t-on trouver pour justifier le fait que toi, la soi-disant marquise, tu voyages sans trousseau ni bijoux, ni rien... Tu n'as aucun signe de richesse.
+
+Victoria	Aie confiance en mon imagination . Elle peut faire des merveilles. Ne t'inquiète pas. hh_ Eh bien contente-toi d'être ma dame de compagnie. Reste près de moi et fais ce que je dis.  L'idée, c'est de partir au Mexique dès que j'aurai retrouvé ma famille Oui. h_Dans un des livres que j'ai lus chez les bonnes soeurs, c'était écrit que là-bas, ils ont aboli l'esclavage. C'est tout ce que je souhaite pourMiguel et ma famille.
+
+Rémédios	J'ai de quoi m'inquiéter. D'accord, d'accord. Au Mexique ? Et tu crois qu'après toutes ces années, Miguel... h_ est toujours accroché à l'idée de retrouver son premier amour  ?
+
+Victoria	h_  Si Miguel ressentait la moitié de ce que je ressens, rien ne pourrait nous séparer. (rire)
+
+Rémédios	(rire)
+
+(BOUCLE 13 - 00:08:19:17)
+		13
+
+Miguel	Dans toute la hacienda on ne parle que des préparatifs pour l'arrivée de la marquise. J'ai réussi à avoir le nom du bateau qui l'emmène aux Amériques. Sûr et certain.. J'ai obtenu ces informations en lisant un document sur le bureau de Don Nicolas. La marquise s'appele Lucia... quelque chose Bracamonté. Elle arrive demain. Son aventure est sur le point de commencer .  Ainsi que la nôtre.
+
+Esclave avec barbe	Tu es sûr qu'il s'agit du bon bateau ?
+
+Miguel	Allez! On va danser ! (rires)
+
+(BOUCLE 15 - 00:09:28:11)
+		15
+
+Miguel	Allez, hue ! Allez! C'est bien. Allez, au pas! En avant, au pas. Oui, c'est bien mon grand. Continue. C'est ça.  Allez! Hah !
+
+Rosa	Miguel !
+
+Miguel	Rosita, tu es là?
+
+Rosa	Je t'ai amené une douceur pour bien commencer la journée.Tiens.
+
+Miguel	Merci, c'est trop.
+
+Rosa	Il y en a plein la cuisine. C'est pour accueillir la marquise. Donia Adela est comme une folle. (rire) Enfin, encore plus que d'habitude.
+
+Miguel	C'est gentil mais tu ne devrais pas prendre de risques pour moi.
+
+Rosa	Mais j'avais envie de te faire plaisir. hh_
+
+(BOUCLE 16 - 00:10:11:21)
+		16
+
+Rosa	Tu t'es bien amusé à la fête hier soir ?
+
+Miguel	Oui. Pourquoi tu n'es pas venue ? A cause de ce petit problème avec ta maîtresse ? (soupir) Il ne faut pas désespérer. Dans très peu de temps, tout ira mieux.
+
+Rosa	Pourquoi tu es comme ça?
+
+Miguel	Je suis comment ?
+
+Rosa	Si gentil et doux.
+
+Miguel	Parce que tu es comme ma petite soeur.
+
+Rosa	Je n'ai pas envie que tu me voies comme une soeur, Miguel.. Tu n'as toujours pas réussi à oublier Victoria.
+
+Miguel	C'est exact.
+
+Rosa	Il faut que tu comprennes qu'elle est partie pour de bon. Mais moi, je suis là près de toi.
+
+(BOUCLE 17 - 00:10:44:13)
+		17
+
+Rosa	Regarde les choses en face, elle n'est plus là mais la vie continue. Avec moi ou avec une autre, peu importe.  En fait, non. Pas avec une autre Passe à autre chose avec moi. Tu sais, j'attends ça depuis toujours. (x)
+
+(BOUCLE 18 - 00:11:03:07)
+		18
+
+Isabel 2	(cris)(rire) Tu l'as embrassé !
+
+Rosa	(cris) Oui, oui, oui, oui ! Je l'ai embrassé ! Je l'ai embrassé !
+
+Isabel 2	Bon, bon, raconte-moi. Il t'a dit qu'il t'aimait ? Bon, mais tu sais que s'il t'épouse, tu devras rester vivre ici avec moi. Mmh.Oui. Mais ne t'en fais pas, Rosita. D'ici à ce qu'il t'épouse, je serai devenue proche de la marquise, donc ça te laissera le temps de voir Miguel. Tu verras, ce sera bien.
+
+Rosa	h_ Il ne l'a pas dit mais je l'ai senti. Vous savez comment sont les hommes. C'est sérieux ? Vous croyez ?
+
+Isabel 2	Oui, Rosita! Je sens que c'est le début d'un bonheur intense pour toi et moi! Ca me rend toute... aah!(réac) (réac)  h_ Oui. Oui.
+
+Rosa	Non, non, non, non. Respirez. Calmement. Venez, on va finir de vous préparer pour l'arrivée de la marquise. D'accord? Allez, venez.
+
+(BOUCLE 19 - 00:11:40:18)
+		19
+
+Thomas	La dernière fois que tu t'es approché d'une de mes filles, ça s'est mal terminé. Miguel, ta réputation n'est plus à faire. Rosita n'est pas comme ces autres écervelées dont tu obtiens les faveurs.
+
+Miguel	hh_ Thomas, je ne suis pas intéressé par Rosita. C'est fini tout ça, Thomas.
+
+Thomas	Ne me prends pas pour un idiot, Miguel. Si Rosita ne t'intéresse pas, pourquoi tu l'as embrassée ? Ah non?h_hh_ Mais traite-moi d'aveugle, tant que tu y es.Je sais bien ce que j'ai vu.
+
+Miguel	Je ne l'ai pas embrassée. Jamais je ne ferais de mal à Rosita. Je la respecte.
+
+Thomas	Tu as plutôt intérêt à tenir parole, crois-moi.
+
+Miguel	Je te le jure. Mais là, j'ai autre chose à faire. En avant. (réac) Allez.
+
+(BOUCLE 20 - 00:12:28:03)
+		20
+
+Adéla	Non.
+
+Nicolas	hh_ Mère, je suis fatigué de tout ce cirque.. Je veux juste me marier  et utiliser l'influence de la marquise en Espagne pour h_ causer la ruine d'Eugénia. Je ne suis pas obsédé par elle, mère. Je veuxjuste la ruiner.
+
+Adéla	Je n'aime pas celui-là. Cette obsession que tu as pour elle n'a aucun sens, cesse donc. Mais que tu es beau Nicolas !
+
+Miguel	hh_ Pardon, monsieur. J'apporte une mauvaise nouvelle.
+
+Adéla	Qu'y a-t-il?
+
+Miguel	La jument que vous comptiez offrir à la marquise a disparu.
+
+Adéla	Mais c'est une catastrophe !  Pars immédiatement à sa recherche.
+
+Miguel	L'ennui, c'est que si je pars chercher la jument avec mes assistants, nous serons absents à la cérémonie organisée pour la marquise, je le crains.
+
+Adéla	Mais personne n'a besoin de toi pour accueillir la marquise. Depuis quand tu es indispensable ? Qu'est-ce qui te prend ?
+
+Nicolas	hh_ Miguel , pour l'amour de Dieu, rassemble quelques esclaves et partez me retrouver la jument au plus vite.
+
+Miguel	Oui, monsieur.
+
+Adéla	Ne t'avise pas de revenir les mains vides. (pfff)
+
+Nicolas	Bon sang, il est déjà l'heure.
+
+(BOUCLE 21 - 00:13:21:23)
+		21
+
+Miguel	Ils doivent être sur le départ. Toi, tu vas accompagner le cortège pour assurer nos arrières. On se rejoint tout à l'heure à l'endroit convenu.
+
+(BOUCLE 22 - 00:13:43:05)
+		22
+
+Granados	Je ne vois vraiment pas ce qu'on fait là, Ana.
+
+Ana	Tout ce qui peut nous tirer de cette routine est bon à prendre. Merci !  Bonjour.
+
+Général	Bonjour. Alors, mon père ? Tout va bien ?
+
+Père Octavio	Oui, mais cette maudite chaleur est irrespirable.
+
+Alonso 	Qu'est-ce qui le rend si nerveux ?
+
+Général	Parce qu'il est mis à l'épreuve par Donia Adela, le pauvre. Je te laisse imaginer le scandale si la marquise ne lui convient pas.
+
+(BOUCLE 23 - 00:14:18:16)
+		23
+
+Eugénia	Elle est espagnole et célibataire. Cette marquise est certainement grosse et vieille. (rire)
+
+Femme 1	(rire)
+
+Nicolas	La marquise ne me plaît guère.
+
+Père Octavio	Oh...
+
+Adéla	Ne dis pas ça ! Avec des hanches pareilles, elle va te faire de beaux enfants. Va donc l'aider , ne reste pas là. Allons, Nicolas.
+
+(BOUCLE 24 - 00:14:42:07)
+		24
+
+Nicolas	Chère marquise, Je suis enchanté. Soyez la bienvenue.
+
+Rémédios	(rire) Vous faites erreur. Je suis Rémédios de Castiya, la dame de compagnie de la marquise, que voici.
+
+Adéla	Merci, mon père. Cette fois, on frôle la perfection.
+
+Père Octavio	Elle est... très jolie.
+
+(BOUCLE 26 - 00:15:45:01)
+		26
+
+Miguel	! (respiration saccadée) Chacun sait bien ce qu'il a à faire !  Restons concentrés, mes frères. Cet enlèvement sera la clé de notre liberté. Toi ! Viens avecmoi par la piste du nord.  C'est parti !
+
+(BOUCLE 27 - 00:16:04:17)
+		27
+
+Victoria	Ce voyage a été une véritable odyssée. h_ Notre bateau a été pillé sur la route des Antilles._
+
+Nicolas	Qui sont les bandits qui s'en sont pris à vous ?
+
+Victoria	Des pirates. Plus d'une cinquantaine. Ils nous ont abordés à la tombée de la nuit.
+
+Rémédios	Ils semblaient arriver par milliers.Nous avons craint un instant qu'ils n'essaient de nous prendre aussi notre vertu..
+
+Adéla	Quelle horreur !
+
+Rémédios	C'est très dommage qu'ils ne l'aient pas fait. Enfin, non ! Je veux dire... on l'a échappé belle. Veuillez m'excuser mais c'est... cette chaleur me rend folle.
+
+Victoria	En revanche, ils ont pris mes coffres à bijoux, et les malles contenant mes tenues de soirée.
+
+(BOUCLE 28 - 00:16:34:18)
+		28
+
+Adéla	L'important, c'est que vous soyez saine et sauve,  très chère marquise.
+
+Victoria	Appelez-moi par mon prénom je vous prie.
+
+Adéla	C'est un immense honneur, Lucia.
+
+Victoria	Quoi qu'il en soit, grâce à Dieu, nous voilà arrivées sur vos merveilleuses terres.
+
+Père Octavio	Seigneur tout puissant, nous te rendons grâce.
+
+Victoria	Mais le voyage a été si dur... Je me sens éreintée.
+
+Nicolas	Bien entendu. N'en dites pas plus. Partons dès maintenant vers l'Eden , votre future demeure.
+
+(BOUCLE 29 - 00:17:00:17)
+		29
+
+Rémédios	Euh... Un instant. En tant que dame de compagnie, je ne peux pas quitter la marquise des yeux. Nous devons veiller à respecter les coutumes espagnoles, cher monsieur.
+
+Père Octavio	Jusqu'à ce que votre union soit scellée devant Dieu, vous devrez obéir à la bienséance.
+
+Eugénia	C'est on ne peut plus normal.
+
+Nicolas	Très bien. Les carrosses sont juste ici. Partons. Mère, nous nous retrouverons à l'Eden. En route.
+
+(BOUCLE 30 - 00:17:30:11)
+		30
+
+Cocher	Hooohh !
+
+Nicolas	Cocher, qu'est-ce donc ?
+
+Esclave avec bouc	Livrez-nous la marquise .
+
+Nicolas	(respiration saccadée)
+
+Esclave avec bouc	Livrez-nous la marquise!
+
+Rémédios	Je suis là.
+
+(BOUCLE 31 - 00:18:06:09)
+		31
+
+Esclave avec bouc	Descendez. Descendez!
+
+Victoria	Non ! Un instant !. h_Je suis la marquise.
+
+Nicolas	Lucia que faites-vous ? N'y allez pas.
+
+Esclave avec bouc	Descendez, ou je les tue tous les deux. Plus vite ! Allez, du nerf ! Allez! Si vous refusez h_  d'appliquer la loi du ventre libre sur vos terres, vous pouvez dire adieu à votre future épouse. Imaginez la réputation que ça vous ferait en Espagne  En route.  Allez! Ya!
+
+Nicolas	(h_hh_) Vous n'avez pas le droit! Ne lui faites aucun mal! Maudits esclaves! (respiration saccadée)
+
+(BOUCLE 32 - 00:18:55:24)
+		32
+
+Victoria	(gémissements)
+
+Esclave avec barbe	Hooooohh! On est arrivés. Descendez.
+
+Victoria	( r   éac) (cri d'effroi) Que...Que faites-vous? (halètements) Vous m'emmenez où? (réac)
+
+Esclave avec barbe	Vous allez changer de cavalier.Quelque part dans la jungle. Là où personne pourra vous retrouver.
+
+Miguel	Baillonne-la!
+
+Victoria	(réac) Non, non! Non, non. Non! Non! (halètements) (sanglots)
+
+Esclave avec barbe	Avancez!
+
+Victoria	(gémissements)
+
+Miguel	(soupir d'effort)
+
+(BOUCLE 33 - 00:19:42:17)
+		33
+
+Femme 1	(toussottement)
+
+Isabel 2	Tu vois quelque chose ?
+
+Rosa	Non, rien. Elle n'est pas encore arrivée.
+
+Isabel 2	(soupir)
+
+(BOUCLE 34 - 00:20:07:05)
+		34
+
+Thomas	Où sont passés Miguel et Trinidad ?
+
+Milagro	Ils sont partis à la recherche de la jument.Sur ordre des maîtres.
+
+Morales	Vous avez intérêt à bien vous tenir face à une personne aussi importante que la marquise. Sinon, vous allez avoir affaire à moi.Allez, en place! Et ne décevez pas Donia Adela.
+
+(BOUCLE 35 - 00:20:31:06)
+		35
+
+Père Octavio	Où sont Don Nicolas et la marquise? Je ne les vois pas.
+
+Adéla	C'est très étrange. Ils sont partis bien avant nous. Ils auraient dû être là.
+
+Granados	Madame.
+
+Adéla	Et s'il leur était arrivé quelque chose ?
+
+(BOUCLE 36 - 00:20:48:01)
+		36
+
+Nicolas	Passez par ici.
+
+Rémédios	Don Nicolas, avez-vous la moindre idée de l'endroit où comptaient l'emmener ces messieurs ?
+
+Nicolas	Ces messieurs, comme vous dites, sont de dangereux bandits. Commençons déjà par sortir de là. Et puis ensuite, on pourra aller sauver la marquise.
+
+Rémédios	Vous croyez que madame court un grand danger? Aïe!
+
+Nicolas	hh_  Allez-y.
+
+(BOUCLE 37 - 00:21:20:17)
+		37
+
+Victoria	(gémissements)  (réac)
+
+Miguel	Calmez-vous!
+
+Victoria	(respiration saccadée) Je ne sais pas ce que vous comptez obtenir en échange, mais vous vous y prenez très mal! Quand on veut obtenir quelque chose, il faut en parler. Qui êtes-vous? h_hh_ Et pourquoi utilisez-vous la violence ? h_hh_  Vous ne répondez pas ?  Vous êtes devenu muet ou quoi ?
+
+(BOUCLE 38 - 00:21:42:03)
+		38
+
+Miguel	Nous avons de bonnes raisons d'agir ainsi.
+
+Victoria	Je peux concevoir que votre cause . soit d'obtenir une justice. (respiration saccadée)
+
+Miguel	Vous n'avez pas le droit de parler de justice ! Vous êtes une marquise, vous vivez dans un autre monde.
+
+Victoria	Allez-y, jugez-moi! Moi, au contraire, je vous vois, et malgré vos sales méthodes... de vaurien, je sais que si vous courez tant de risques,  c'est parce que vous servez une noble cause. (respiration saccadée)  (cri étouffé)
+
+Miguel	Vous m'excuserez, mademoiselle, mais je vous préfère silencieuse.
+
+Victoria	(réac) (respiration saccadée)
+
+(BOUCLE 39 - 00:22:32:06)
+		39
+
+Miguel	On doit se relayer pour la surveiller. Toi, tu vas rentrer à l'Eden pour ne pas éveiller les soupçons Moi, je peux faire durer un peu l'excuse de la jument. Tu diras qu'elle s'est emballée et qu'elle a fui dans la montagne.
+
+Esclave avec bouc	Bon...  Et qu'est-ce qu'on fait s'ils refusent d'appliquer la loi ? Mmh? Qu'est-ce que tu comptes faire de la marquise ?  Hé, je te parle !
+
+Miguel	Don Nicolas tientbeaucoup à elle. Trop, même. T u peux être sûr qu'il fera le nécessaire pour qu'elle lui soit rendue. Mmh?
+
+Esclave avec bouc	Mmh.
+
+(BOUCLE 40 - 00:23:16:18)
+		40
+
+Rémédios	On ne serait pas en train de tourner en rond? (halètements) (réac) Je trouve que tout se ressemble. En plus, tout commence à être un peu flou. (réac)
+
+Nicolas	C'est parce que ce paysage est nouveau pour vous . C'est un cauchemar. Mais qu'est-ce que j'ai fait au ciel ? hh_ (pfff)  (réac) Rémédios! hh_  hh_
+
+(BOUCLE 41 - 00:23:58:11)
+		41
+
+Miguel	Voilà de quoi manger, mademoiselle. N'allez pas croire que nous sommes des sauvages.
+
+Victoria	Mmh mmh. Des sauvages, c'est pourtant ce que vous êtes. Je sais ce que c'est, le coco.
+
+Miguel	C'est du coco. C'est un fruit local qui...
+
+(BOUCLE 42 - 00:24:18:09)
+		42
+
+Victoria	J'ai lu des livres sur vos coutumes.
+
+Esclave avec bouc	Silence ! Mangez ! On se fiche pas mal de ce que vous avez lu sur nous.
+
+Miguel	Bon, ça suffit. Si vous ne voulez pas être baillonée, vous feriez mieux d'écouter. Vous avez soif ?
+
+Victoria	Non. Mais je veux plus de coco; et des bananes ou du manioc, ce serait mieux !
+
+Miguel	Je vois que vous avez lu beaucoup de choses.
+
+Victoria	Mais si vous avez autre chose... Si je meurs de faim, je ne vous servirai plus à rien.
+
+Esclave avec bouc	(pfff)
+
+(BOUCLE 43 - 00:24:53:06)
+		43
+
+Général	Cette attente est insupportable. Granadosse, vous, vous restez ici au cas où. Alondzo, viens. Nous allons retrouver la marquise.
+
+Alonso 	Bien.
+
+Eugénia	Il ne faut pas s'alarmer comme ça. Peut-être que Nicolas et la marquise se sont juste arrêtés en route pour consommer leur union.
+
+Père Octavio	Eugénia, mon enfant... Consommez donc ceci.
+
+(BOUCLE 44 - 00:25:21:00)
+		44
+
+Tous	(chuchotements)
+
+Trinidad	Hoh ! Hoh! Hoh!
+
+Thomas	Où étais-tu passé ?
+
+Trinidad	Depuis quand tu es contremaître? Je n'ai pas de comptes à te rendre.
+
+Thomas	Tu sais pertinemment pourquoi je te pose la question.
+
+Trinidad	On a perdu une jument. C'était un cadeau pour la marquise. Avec Miguel, on a retrouvé sa trace. Mais comme elle est dure à capturer,  Miguel est resté là-bas  plus longtemps.
+
+Milagro	Les voilà ! Ils arrivent !
+
+(BOUCLE 45 - 00:25:56:11)
+		45
+
+Adéla	Où étiez-vous passés ?
+
+Alonso 	Nous les avons trouvés sur la route de la hacienda.
+
+Adéla	Tu vas bien, mon fils ?
+
+Nicolas	Oui, je vais bien.
+
+Général	Celle qui va moins bien, c'est la dame de compagnie.
+
+Adéla	Et la marquise, où est-elle ?
+
+Nicolas	hh_ h_hh_
+
+(BOUCLE 46 - 00:26:12:21)
+		46
+
+Nicolas	(réac)h_  Ils ont dit qu'ils nous rendraient la marquise  à condition qu'on libère tous nos esclaves potentiellement sujets à la loi du ventre libre.
+
+Granados	Nicolas. Nicolas! Nous avons déjà beaucoup donné.
+
+Ana	Pour l'amour de Dieu, c'est de la vie de la Marquise dont il s'agit, Francisco.
+
+Rémédios	(réac) Aïe!
+
+Eugénia	Qu'est-ce donc que cette fameuse loi ?
+
+Général	Les enfants d'esclaves nés après 1821 sont libres, ou doivent être affranchis dès l'âge de 18 ans. Le problème, c'est que ça concerne beaucoup trop d'esclaves, et que le gouvernement n'a pas les moyens d'indemniser les propriétaires.  Il est donc difficile de la faire appliquer.
+
+(BOUCLE 47 - 00:26:49:13)
+		47
+
+Granados	Cette loi est inapplicable parce qu'elle est absurde, mon Général. Ce n'est qu'un prétexte pour ruiner les propriétaires.
+
+Alonso 	Pas nécessairement.  Il y a beaucoup de possibilités pour compenser la perte de la maind d'oeuvre.
+
+Granados	Comme de perdre tout mon argent ? Celui que j'ai investi dans l'achat de ces esclaves?Mmh?
+
+Général	Messieurs, l'heure n'est pas au débat. Nous devons aller secourir la marquise. On est d'accord, Nicolas?
+
+Nicolas	Plus que jamais, mon Général. (respiration saccadée)
+
+(BOUCLE 48 - 00:27:16:12)
+		48
+
+Miguel	hh_ Hum. Vous ressemblez à tout sauf à une marquise .
+
+Victoria	Et combien de marquises connaissez-vous ?
+
+Miguel	En tout cas c'est pas ce que j'imaginais.
+
+Victoria	Alors comment?
+
+Miguel	Les Blancs ne nous parlent pas, ils nous aboient dessus. Tenez.
+
+Victoria	Il arrive que certains d'entre nous soient différents.
+
+(BOUCLE 49 - 00:27:50:15)
+		49
+
+Victoria	Mais..Mais arrêtez! Mmh!
+
+Miguel	Hé, qu'est-ce qui te prend ? Hein? Ca ne sert à rien de la maltraiter.
+
+Esclave avec bouc	Va monter la garde dehors. J'ai bien vu ton petit jeu avec la marquise.Tu préfères les Blanches maintenant, c'est ça? N'essaie pas de me mentir, je t'ai vu. A quoi tu joues ? Réponds!
+
+Miguel	Arrête. Ne dis pas n'importe quoi. Ca suffit! Arrête. Tu crois que dans un moment aussi grave que celui-ci j'ai envie de m'amuser à ça ? La liberté de toute une génération est en jeu.
+
+Esclave avec bouc	Justement, on dirait que tu l'as oublié.
+
+(BOUCLE 50 - 00:28:29:09)
+		50
+
+Esclave avec barbe	Hé, mes frères! Mes frères ! Ecoutez, c'est important. Les choses se gâtent pour nous. A l'Eden, Don Nicolas et son clan ont décidé de ne pas céder. Parreno ne va affranchir personne, et la forêt sera bientôt  remplie d'hommes du général Marquez. On doit plier bagage et partir d'ici, vite, avant qu'ils nous trouvent.
+
+Esclave avec bouc	Non! Où tu vas comme ça? De quoi tu as peur, mon frère? Qu'ils viennent!  Ils vont devoir payer. Et s'ils finissent par nous trouver, ils peuventtrembler. On ne va pas les éparger. Ressaisis-toi!
+
+Miguel	Qu'est-ce que tu comptes faire ?
+
+Esclave avec bouc	Si on ne met pas nos menaces à exécution, ils nous prendront jamais au sérieux.
+
+Miguel	Tu comptes la tuer ?
+
+Esclave avec bouc	Oui.Il faut la tuer. Et si tu ne t'en sens pas capable, sache que je suis prêt à tout pour servir notre cause. Ils ne vont pas s'en tirer si facilement.
+
+Miguel	Non!  C'est hors de question.
+
+(BOUCLE 51 - 00:29:17:07)
+		51
+
+Miguel	Personne ne va se faire tuer. On n'est pas des assassins, nous.
+
+Esclave avec bouc	C'est eux ou nous. Tu ne comprends pas ça?
+
+Miguel	Si tu veux commettre un crime, tu devras d'abord me passer sur le corps.
+
+Esclave avec bouc	Très bien.
+
+Esclave avec barbe	Calme-toi ! Qu'est-ce qui te prend ?
+
+Esclave avec bouc	Que je me calme?  Arrête, lâche-moi ! (réac) (halètements) (réac)
+
+Esclave avec barbe	Lâche-le! Fais pas ça ! Ca suffit! Arrête, lâche-le!
+
+Esclave avec bouc	(réacs bagarre)
+
+Esclave avec barbe	Laisse-le tranquille! Non!  Lâche-le !
+
+Miguel	(réac)
+
+Esclave avec bouc	(réacs bagarre)
+
+Esclave avec barbe	Arrêtez! Calmez-vous!
+
+Esclave avec bouc	(réac)
+
+(BOUCLE 52 - 00:30:11:06)
+		52
+
+Esclave avec bouc	Recule! Recule! Recule ou j'oublie qu'on est de la même race.
+
+Miguel	On est tous les deux dans le même camp, mon frère!
+
+Esclave avec bouc	Je ne crois pas, non.
+
+Esclave avec barbe	On est tous frères !
+
+Esclave avec bouc	Plus maintenant.h_hh_  (hurlement) h_ h_ h_  h_
+
+(BOUCLE 53 - 00:30:46:13)
+		53
+
+Victoria	(respiration saccadée) (réac) (réac) (réac)  (halètements)  (réac) (réac) (halètements)
+
+(BOUCLE 54 - 00:31:04:20)
+		54
+
+Rémédios	Je me sens comme une grosse gambas espagnole frite à cause du soleil .
+
+Adéla	Hilaria, allons, donne-lui une autre serviette humide. Ne vois-tu pas qu'elle est écarlate?  Qu'est-ce que la marquise va penser de nous? Quelle horreur ! Le général a-t-il une chance de la retrouver?
+
+Nicolas	Je n'en sais rien. Cette forêt est impénétrable. On a bien failli y rester. h_
+
+Adéla	Tout ce qu'il nous reste à faire, c'est prier, en espérant que Dieu nous entende.
+
+Nicolas	Tous les espoirs reposent sur moi-même pour sauver la vie de ma future épouse, mère.
+
+(BOUCLE 55 - 00:31:32:13)
+		55
+
+Eugénia	Ton inquiétude est compréhensible, Nicolas. Les titres de noblesse se font rares par les temps qui courent.
+
+Alonso 	(réac) Malheureusement Nicolas , je vois mal ce que tu pourrais faire, à part attendre leur retour.
+
+Nicolas	Je peux donner à ces bâtards ce qu'ils veulent.
+
+Adéla	En faisant ça, tu donneras raison à leurs méthodes.
+
+Nicolas	Ca m'est parfaitement égal.
+
+Rémédios	Oui, pour le coup je suis bien d'accord.
+
+Alonso 	Pardon mais il me semble que cette décision doit être prise de concert avec les autres. Elle concerne aussi le reste des propriétaires. Il serait sage de proposer un vote au conseil.
+
+Nicolas	Tu m'excuseras,Alonso, mais j'ai des choses personnelles à régler. Aussi, si Eugénia et toi vouliez bien nous laisser...
+
+Adéla	Oui; vous pouvez disposer.
+
+Nicolas	Le spectacle est terminé.
+
+Eugénia	J'espère que tu retrouveras ta marquise. Au revoir.
+
+Nicolas	(soupir) Mon Dieu...
+
+(BOUCLE 56 - 00:32:21:05)
+		56
+
+Esclave avec bouc	C'est arrivé à cause de toi. Tout est arrivé par ta faute !  Tu as ruiné les espoirs de liberté de notre peuple!
+
+Miguel	C'est pas le moment. Là, on a un sérieux problème. T'as pas le droit de dire ça ! Tu as entendu Marcos. Parreno a déjoué notre plan.  La marquise ne nous servait plus à rien, de toute façon.
+
+Esclave avec bouc	C'était notre seule monnaie d'échange !
+
+Miguel	Ah oui? C'est pas toi qui voulais la tuer ?  Je ne t'aurais jamais laissé faire.
+
+Esclave avec bouc	Tu te prends pour qui ? C'est pas toi qui décide.
+
+(BOUCLE 57 - 00:32:52:15)
+		57
+
+Esclave avec bouc	Notre organisation marchait très bien avant que tu viennes tout saboter.
+
+Esclave avec barbe	Ca suffit!  Arrêtez! Au cas où vous l'auriez oublié, les hommes du général nous poursuivent activement dans la forêt.  (sanglot) S'ils tombent sur la marquise, elle leur dira où on l'a retenue prisonnière.
+
+Miguel	On doit partir d'ici, les gars! Je dois rentrer à l'Eden. Sinon, ça va être suspect.
+
+Esclave avec barbe	Moi aussi, je dois retourner à mon hacienda.
+
+Esclave avec bouc	Ca ne vous servira à rien de rentrer à la hacienda. Si la fille parle, on est morts. Il faut la retrouver. Elle n'a pas pu aller bien loin, il faut l'attraper
+
+Miguel	Il faut qu'on parte maintenant. C'est le seul moyen de leur échapper.
+
+(BOUCLE 58 - 00:33:29:11)
+		58
+
+Victoria	(respiration saccadée) Ah !  (réac) (respiration saccadée)
+
+(BOUCLE 59 - 00:33:58:14)
+		59
+
+Nicolas	Morales! Morales!
+
+Morales	(réac) Oui, Don Nicolas. (halètements)
+
+Nicolas	Amène-moi les deux esclaves concernés par la loi du ventre libre. Ils m'accompagneront à Santa Marta.
+
+Morales	Bien, monsieur. Mais que vont-ils faire à Santa Marta, si ce n'est pas indiscret?
+
+Nicolas	Ce n'est pas ton affaire. Contente-toi d'obéir à mes ordres. Et puis ensuite,  tu vas montrer à nos esclaves qui commande dans cette habitation. Il faut qu'ils arrêtent de croire que cette maison est un terrain de jeu. Fais-les trembler de peur, Morales. Montre-moi que tu n'as pas perdu ton autorité de contremaître.
+
+Morales	Bien, monsieur. Je suis et je resterai votre bras droit. Et si ces sauvages ont oublié qui commande, je me ferai un plaisir de le leur montrer, Don Nicolas
+
+(BOUCLE 60 - 00:34:44:09)
+		60
+
+Morales	Mettez-vous bien ça dans le crane: vous n'êtes que des bêtes de charge.Votre devoir est de vous consacrer entièrement au travail au sein de notre hacienda. Vous avez la chance d'être logés et nourris par vos maîtres. Mais vous n'avez pas l'air de vous en rendre compte. Pour cette raison,  les règles vont changer définitivement .  A compter d'aujourd'hui, vos journées de travail seront deux fois plus intenses.   Vous travaillerez aux heures les plus chaudes de la journée, et vos heures de sommeil seront écourtées. A partir d'aujourd'hui, vous allez cesser de croire que vous pouvez exiger  de travailler selon vos conditions! Est-ce que je me suis fait comprendre? (reniffle) hh_
+
+(BOUCLE 61 - 00:35:25:05)
+		61
+
+Trinidad	Nos journées sont déjà trop longues.
+
+Morales	Tu peux répéter ça, Trinidad?
+
+Trinidad	Nous travaillons du lever au coucher du soleil, comme le veut la loi. A ce rythme-là, vous allez nous tuer à la tâche.
+
+Morales	Tu ne m'as pas bien écouté. Alors je vais me répéter, juste pour toi.
+
+Trinidad	(réac)
+
+Morales	Si vous me cherchez vous allez me trouver!  Suivez les ordres,  ou ma prochaine paye, je la consacrerai à rembourser le prix de vos misérables vies à vos maîtres
+
+(BOUCLE 62 - 00:35:58:08)
+		62
+
+Morales	Il est où, Miguel? h_ Je veux savoir où est Miguel!
+
+Trinidad	Il est allé chercher la jument de la marquise qui s'est échappée.
+
+Morales	(ricane) h_ J'en conclus qu'il aété obligé d'aller la chercher jusqu'à Cartagène. Parce qu'il aurait dû être rentré depuis longtemps. D'autant plus que monsieur est soi-disant le meilleur cavalier que notre province ait jamais porté. Ha! .  h_hh_
+
+(BOUCLE 63 - 00:36:22:20)
+		63
+
+Rémédios	C'aurait été un sacré gâchis de donner aux cochons toutes ces bonnes choses. C'est que quand je suis nerveuse, je peux manger jusqu'à épuisement.
+
+Adéla	Tu mettras un cadenas dans la cuisine.
+
+Rémédios	Je nagerais dans un bonheur parfait si ma chère marquise était avec nous. (réac) Rien que de penser à ce qu'ils doivent lui faire subir, mon coeur se serre.
+
+Rosa	Mais ça ne lui serre pas l'estomac.
+
+Rémédios	C'est si injuste. Avoir fait tout ce chemin jusqu'à ces terres lointaines et exotiques, pour recevoir un tel accueil. Je suis sûre que ma marquise pense déjà à repartir au plus vite
+
+(BOUCLE 64 - 00:37:04:16)
+		64
+
+Victoria	(respiration saccadée) (réac) (réac) (réac) hh_ (réac) (réac) (réac) (réac) (réac) (réac) (réac) (respiration saccadée) (réac) hh_ (respiration saccadée)  (réac) (respiration saccadée)
+
+(BOUCLE 65 - 00:38:06:20)
+		65
+
+Esclave avec bouc	(mts) Allez! (mts)
+
+(BOUCLE 66 - 00:38:22:11)
+		66
+
+Isabel 2	Et donc, la disparition de la marquise, ça veut dire que mon père ne va pas se marier ?
+
+Rosa	C'est bien possible.
+
+Isabel 2	(cri de joie) C'est la meilleure nouvelle du monde!
+
+Rosa	Je croyais que vous aviez hâte qu'il se marie.
+
+Isabel 2	Plus maintenant.Parce que depuis qu'elle est descendue du bateau, toute la hacienda ne pense qu'à elle. Et personnellement, je n'ai aucune envie que ma nouvelle mère me vole la vedette.  Donc on doit fêter ça.(réac) Allez, va me chercher du thé et des gateaux.
+
+Rosa	Oh, mais... Moi je l'attendais, ce mariage.
+
+Isabel 2	Mais comment oses-tu dire ça, Rosita ?
+
+Rosa	J'avais hâte que la marquise soit là. Au moins ça me permettait de voirce que c'est, la noblesse.
+
+Isabel 2	Mais tu t'en fiches, de la marquise! Tu m'as, moi. Allez, va donc chercher le thé et les gâteaux.  (ricane)
+
+(BOUCLE 67 - 00:39:09:07)
+		67
+
+Victoria	(respiration saccadée)
+
+Esclave avec bouc	Hoh ! Hoh!  Hoh!
+
+(BOUCLE 68 - 00:39:43:17)
+		68
+
+Général	Pas un geste, bandit! Reste là !. Ne bouge plus, tu es cerné! Attrappez-le!
+
+Esclave avec bouc	(réac)
+
+Général	Où caches-tu la marquise de Bracamonte, scélérat ? Tu vas parler ! Parle, bon sang ! Embarquez-le.
+
+(BOUCLE 69 - 00:40:17:15)
+		69
+
+Nicolas	Votre attention, s'il vous plaît ! J'ai une annonce importante à faire. J'ai pris une décision sans précédent. Je compte appliquer formellement la loi du ventre libre, Que ce geste soit interprété comme une preuve de bonne volonté et de justice historique.  Ce sont mes esclaves, donc je fais ce que je veux.
+
+Granados	Ne fais pas ça, Nicolas. Oh que non. Cette décision revient à tous les propriétaires d'esclaves  qui risquent de perdre de la main d'oeuvre sans que le gouvernement n'envisage la moindre compensation.
+
+Nicolas	Ma décision est prise. Je veux que la nouvelle se répande dans toute la province de Magdalena. Tout le monde doit le savoir.
+
+(BOUCLE 70 - 00:40:51:23)
+		70
+
+Granados	Revenez à la raison. Le bien commun doit primer sur le bien individuel.
+
+Nicolas	h_ Et que ceux qui détiennent ma future épouse, la marquise Lucia de Bracamonté notent bien que j'ai obtempéré. Et j'espère qu'ils tiendront parole  en lui rendant sa liberté. En avant.
+
+(BOUCLE 72 - 00:41:49:13)
+		72
+
+Lorenza	Uroujimi.
+
+Victoria	Maman. Maman.
+
+Lorenza	Mon enfant. Viens.
+
+Victoria	Maman. Maman.
+
+Lorenza	Uroujimi.
+
+Victoria	Oh, Lorenza ! Maman.  (cri)

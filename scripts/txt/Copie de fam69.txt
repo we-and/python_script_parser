@@ -1,0 +1,1138 @@
+
+20/04/2016
+
+(BOUCLE 0 - 09:59:58:01)
+		00
+
+SILVIA	(soupir____)
+
+AMBIANCE	(Générique)
+
+(BOUCLE 1 - 10:02:11:22)
+		01
+
+SILVIA	Léo... ? Sers-m'en une autre, s'il te plaît...
+
+FELIPE	Huhh...  Silvia, qu'est-ce qui m'a pris de t'ammener ici... dans ce bouiboui de Leblon, j'aurais dû t'amener dans un endroit plus approprié à ton niveau...
+
+SILVIA	Hah... Félipé... tu m'a amenée exactement où j'avais envie d'être... Aujourd'hui je vais tout boire...
+
+FELIPE	Huh... J'aimerais bien t'accompagner...
+
+SILVIA	Mhm...
+
+FELIPE	par solidarité...  mais j'ai bien peur que le prix à payer soit beaucoup trop grand... et qu'après ta crise de désespoir passée, il se pourrait que tu ne me le pardonnes pas...
+
+SILVIA	Non___, je vais tout te pardonner, aujourd'hui je te pardonne tout... mais je ne n'accepterai jamais, tu m'entends,  que tu rechuttes par ma faute...
+
+FELIPE	Non, non, ça n'arrivera pas, ne t'inquiète pas. Léo, une eau plate pour moi s'il te plaît.... Si je prends un premier verre, ce pourrait être le début d'une série qui ne terminerait jamais...
+
+SILVIA	Mhm...(elle boit______) Si tu veux t'en aller, tu peux..., parce que je suis suffisament grande pour savoir ce que je fais, c'est clair ?
+
+FELIPE	Oh, je sais...  mais disons... que je préfère rester, on se sait jamais... (Hé hé hé hé... )
+
+SILVIA	Mhm... Eh bien, dans ce cas..., tu vas porter un toast avec moi... , on va trinquer au futur mariage  de Veronica et de Cadou... (REAC) Tu pourrais me dire pour quelle raison il a choisi Veronica plutôt que moi... ?
+
+FELIPE	Désolé, Silvia, je n'en ai pas la moindre idée...
+
+SILVIA	Mais tu ne vas pas me laisser tomber pour autant, n'est-ce pas ?
+
+FELIPE	Je ne ferais jamais ça...  Ce serait aller l'encontre de mes principes... et je ne laisserai jamais tomber la femme que j'aime, si elle a été humilliée...
+
+SILVIA	Dans ce cas, embrasse-moi...
+
+FELIPE	Tu en es certaine...  ? Ne fais rien que tu puisses regretter un jour ou l'autre, Silvia...
+
+SILVIA	Je suis en train de m'offrir à toi, Félipé... . Où tu as l'intention de faire comme Cadou, de me larguer ?
+
+FELIPE	Non, non, jamais je ne ferais ça...
+
+SILVIA	Alors, qu'est-ce que tu attends... ?  Embrasse-moi...
+
+FELIPE	J'ai bien peur, Silvia, que tu veuilles m'embrasse parce que tu es en colère... par dépit ou parce que tu as envie de te venger... alors que si je t'embrasse, ce serait uniquement par amour...
+
+SILVIA	(Rire___)  Et ça fait quelle différence,  pour toi... ? (Rire...) Ah...
+
+FELIPE	ça fait une grande différence...  Finalement, tu as raison... un baiser venant de toi, qu'il soit volé... ou autorisé, serait un plaisir pour moi...
+
+(BOUCLE 2 - 10:04:16:18)
+		02
+
+HELENA	Je suis ravie, ma chérie... , que tu recommences à dessiner...
+
+LOUIZA	(Rire... ) Mais je n'ai jamais arrêter le dessin, Maman. C'est juste que je garde tout ce que je fais pour moi... Mais celui-ci, je crois que je le devais à Papa...
+
+VIRGILIO	(REAC) Tu as bien fait, il est très réussi... , surtout depuis que je suis dans ma nouvelle phase de séducteur... n'est-ce pas... ?   J'ai vraiment envie d'avoir plein de photos de moi... , des portraits disséminés dans toutes les pièces de la maison...  et dans toutes les manifestations artistiques comme celle que j'ai en ce moment, pour montrer à tout le monde combien je suis beau...
+
+LOUIZA	Ah ah ah ah... !  C'est tellement génial d'être avec toi... Tu as une aura puissante...  tu ressembles à un ange...
+
+VIRGILIO	Ah ah ah... ma petite chérie...  Ah oui... ? Comme tu l'aimes, ton papa... hein... ?
+
+HELENA	AY, POR DIOS. Cet amour que vous avez l'un pour l'autre ne laisse aucune place pour moi...
+
+VIRGILIO	(X) (X) (X) (X) ...
+
+LOUIZA	Et quoi... ? Tu es jalouse, Maman... ?
+
+VIRGILIO	Elle est plus que jalouse...  elle meurt de jalousie..., elle est affligée car même si vous êtes toutes le deux identiques... , c'est avec ton âme que je m'entends
+
+HELENA	Si vous voulez que je parte, je peux m'en aller...
+
+VIRGILIO	Non non... c'est moi qui pars... Je me sens comme une bête traquée par l'amour des deux déesses de ma vie...  Je vais aller me consoler avec le jus de fruits que Rosa m'a préparé...
+
+LOUIZA	Mais non___________...
+
+HELENA	Ah... !
+
+LOUIZA	C'est génial de voir Papa aussi heureux... après sa chirugie esthétique...
+
+HELENA	Tu as vu ça... ?
+
+LOUIZA	Oui...
+
+HELENA	On dirait une deuxième naissance...
+
+LOUIZA	J'en suis ravie...  Je ne crois pas...  que ce soit bien de vivre en traînant des casseroles...  (soupir_____)
+
+HELENA	Qu'est-ce qui se passe... ?  Je te sens tristounette, ma petite chérie...  ça ne marche pas bien entre toi et__________... H____ Laerté... ?
+
+LOUIZA	Si, ça va bien, Maman...  ___H Comme dans n'importe quel couple,  Un jour ça va bien... et un autre... pas tant que ça... Mais c'est bien que ce soit comme ça...  pour éviter l'ennui...
+
+VIRGILIO	Attention, mes chéries... !  Faut pas que je renverse... il y avait aussi des petits gâteaux...  alors je les ai pris...
+
+LOUIZA	Oh non... j'allais juste partir...
+
+(BOUCLE 3 - 10:06:02:11)
+		03
+
+FELIPE	(rire______________________________________________)
+
+SILVIA	(rire_______________________________________________)  Attends, attends... Dis-moi pourquoi tu ries, au juste... ?
+
+FELIPE	Eh bien, je rie parce que j'imagine que Gabriel passe dans cette rue et qu'il me voit te ramener chez toi dans cet état...
+
+SILVIA	Ah ah ! Arrête... Je ne suis pas non plus aussi pompette que tu veux bien le croire...
+
+FELIPE	Pas tant que ça, mais tu ne l'es pas parce que tu as rencontré en chemin quelqu'un qui n'a pas bu...  Moi...
+
+SILVIA	MMM. Tu sais que quelques fois j'ai envie de boire uniquement pour avoir le courage de faire TOUT ce que je n'ai pas le courage de faire quand je suis sobre ?
+
+FELIPE	C'est pourtant exactement ce que je faisais et c'est ce que tu critiquais...
+
+SILVIA	J'aimerais me trouver devant Véronica et Cadou et leur dire franchement ce que je pense face à face...  leur dire tout ce qui est caché au fond de moi et que me fait tellement souffir...  Parce que je peux te dire que ce n'est pas facile, ce n'est pas facile... j'aimerais aller leur dire... (REACS)
+
+FELIPE	Oh______
+
+SILVIA	Mais je n'irai pas. Pourquoi j'irai, hein... ? (Reac)
+
+FELIPE	Aïe, aïe, aïe... !
+
+(BOUCLE 4 - 10:06:55:07)
+		04
+
+VERONICA	Ah__________, je n'arrive pas à croire que je suis ici dans tes bras...
+
+CADOU	Mais le privilège est pour moi..
+
+VERONICA	Hi hi... huhh...
+
+CADOU	Une femme comme toi dans mes bras, c'est plus que je ne pouvais imaginer...  (______X)
+
+VERONICA	Oh... que c'est gentil...  Quoique...  un peu racoleur... Hi hi hi hi_________________... !    Mais j'ai adoré...  Maintenant tu vas me dire... je veux savoir...  Et savoir tout de suite...  Pourquoi... enfin, Cadou... pourquoi as-tu mis autant de temps pour me remarquer ?
+
+CADOU	Qu'est-ce que tu crois...  j'ai fait le difficile pour m'assurer de mon amour.
+
+VERONICA	Ah... tu as fait le difficile, hein... ?  Eh bien, sache que ça n'a pas du tout été agréable pour moi...
+
+CADOU	Je promets de te récompenser pour le temps perdu... (X)
+
+VERONICA	Mhm mhm...  Je n'ai rien perdu...  Ecoute, Cadou...  A l'âge que j'ai maintenant,  je n'aurais jamais imaginé rencontrer un homme comme toi...
+
+CADOU	Ah non ? Moi oui... je suis un optimiste invétéré...  Tu es la femme que j'attendais en rêve...  et je n'aurais jamais cru que je t'aurais rencontrée dans la chambre d'à côté...
+
+VERONICA	(rire______________________)
+
+CADOU	(rire____________________)  (baisers AD LIB)
+
+VERONICA	(baisers AD LIB)
+
+(BOUCLE 5 - 10:08:07:07)
+		05
+
+HELENA	Il reste une petite place pour moi sur ce canapé ?
+
+LOUIZA	Bien sûr que oui, Maman...
+
+HELENA	Ah la la...,   Est-ce que tu te souviens...  que je te massais les pieds quand tu étais petite, pendant qu'on regardait un film à la télévision ?
+
+LOUIZA	Oui... Maman... et tu me chatouillais la plante des pieds et je déteste qu'on me chatouille les pieds...  (Hé hé hé hé hé hé hé hé...
+
+HELENA	Huh... Oui...  Ce que je sais...  c'est que je vois bien que tu es triste, ma chérie...  J'ai surtout... la nette impression... que tu as envie de me dire quelque chose, je me trompe... ?
+
+LOUIZA	(___Hh Hh__)  J'aime Laerté, Maman...  enfin... je crois que je l'aime...
+
+HELENA	Ma fille...  il y a deux choses très différentes...  Le fait de croire que tu aimes une personne...  ou sentir que cette personne...  est la personne adéquate pour toi...  Que c'est elle...  qui te rendra heureuse...
+
+LOUIZA	Mais j'ai un doute...  sur son comportement, Maman...  Il lui arrive de changer...  d'un jour à l'autre...  d'une minute à l'autre et il est méconnaissable...  En une seconde il est hors de lui et dit qu'il ne veut plus rien savoir de notre mariage,  il fait une scène et il s'en va, il ouvre la porte de l'appartement...  __H et une demi-heure après...  il revient et remplit l'appartement de bouquets de fleurs...  en disant qu'il m'aime...  ça m'inquiète énormément, je ne me sens pas en sécurité...
+
+(BOUCLE 6 - 10:09:37:00)
+		06
+
+LOUIZA	(soupir) Je suis fatiguée...  ça t'embête si je dors ici ce soir ?
+
+HELENA	(__H ) Mais pas du tout, ma fille...  Ta chambre est toujours là...  et je vais même aller te faire un bon lit douillet...
+
+LOUIZA	Merci...  On pourrait remettre cette discussion à un autre jour...  ?
+
+HELENA	Bien sûr...  Excuse-moi, je voulais seulement dire, si j'ai parlé de ça c'est parce que...  ___Hhm j'ai remarqué que tu étais...  angoissée... que tu dissimulais...   tes émotions...  et j'ai cru que tu voulais parler un peu...  Je crois que tu n'as pas beaucoup de gens avec qui parler, parce qu'Alice...  (REAC) est du même âge que toi, sans expérience...   J'ai cru que tu voulais t'ouvrir à moi...  Mais je suis là si tu as besoin de moi, tu le sais...  (X)  (X)  Je vais te chercher une brosse à dents...  une neuve...
+
+LOUIZA	(REAC)
+
+HELENA	Et je vais tout de suite faire ton lit...
+
+LOUIZA	Fais-moi un petit lit douillet...
+
+HELENA	Un bon petit dodo... (X)  et je vais même te border...
+
+(BOUCLE 7 - 10:10:40:23)
+		07
+
+HELENA	Elle a demandé à dormir ici...
+
+VIRGILIO	Ah bon... ?
+
+HELENA	Je viens juste de la border...
+
+VIRGILIO	Chérie, ça veut donc dire qu'elle a des problèmes...
+
+HELENA	Bien sûr, Virgilio... ça fait plusieurs jours que je te le dit... ,  Elle a des problèmes, oui...  Mais je dois y aller très doucement...  pour ne pas l'effrayer...  jusqu'à ce qu'elle commence à parler...
+
+(BOUCLE 8 - 10:11:00:22)
+		08
+
+LOUIZA	Laerté, je ne suis pas à la rue, je suis chez mes parents, dans mon ancienne chambre, je ne suis pas dans un motel...
+
+LAERTE	Tu deviens vraiment très capricieuse,  Louiza...  Non, je ne comprends pas pourquoi tu décides de dormir là-bas tout d'un coup, sans aucune raison...
+
+LOUIZA	Il me faut une raison pour venir chez mes parents ?
+
+LAERTE	Mhm, il y a quelqu'un avec toi...
+
+LOUIZA	Bien sûr que non...  Si tu veux savoir s'il y a un autre homme ici, il n'y en a pas. Je vais me coucher, mes parents sont déjà au lit,  ils se lèvent très tôt demain matin.
+
+LAERTE	Très bien... je vais accepter tes arguments...  Maintenant laisse-moi retourner à mon travail avec Leto...  Attends...  ne laisse personne te monter la tête contre moi, d'accord ?
+
+LOUIZA	C'est ce qui te semble... ?  Très bien... Bonne nuit. Bisou. Tchao...
+
+LAERTE	Bonne nuit...
+
+LOUIZA	Hhh___
+
+LAERTE	Bon sans... comment font les femmes pour nous interrompre sans cesse...  Elles sont toujours en train d'inventer quelque chose...  C'est impressionnant...  On reprend... ?
+
+LETO	Prêt ?
+
+LAERTE	Allons-y...
+
+AMBIANCE	(départ mélodie 2 flûtes)
+
+(BOUCLE 9 - 10:12:04:22)
+		09
+
+JULIANA	Je suis ta patronne, c'est envers moi que tu dois être loyale...  Je paie ton salaire et je te traite comme quelqu'un de ma famille...
+
+GUIOMAR	Je sais...
+
+JULIANA	Parle-moi, dis-moi tout... Guiomar...
+
+GUIOMAR	Oh Madame...  elle m'a dit...  que c'était Monsieur Fernando qui lui avait prêté de l'argent...
+
+JULIANA	Avec son argent.
+
+GUIOMAR	Elle a dit que oui...  Elle a dit que cet argent...  un paquet de billets parce que...  par chèque ça aurait fait une preuve et qu'il voulait que personne ne le sache...
+
+JULIANA	Et ce personne, c'était moi, bien sûr.
+
+GUIOMAR	Je crois bien que oui...  Elle m'a aussi dit que...
+
+JULIANA	N'aie pas peur, parle-moi...
+
+GUIOMAR	Elle a dit qu'elle avait dormi avec Monsieur Fernando...
+
+JULIANA	C'est ce qu'elle a dit... ?  Et moi j'étais où ?
+
+GUIOMAR	(REAC renifle)  Est-ce que vous vous rappelez...  la fois où vous êtes allée à Goyania et que vous y avez passé une semaine entière...  c'est là qu'elle a dormi toutes les nuits avec lui...
+
+JULIANA	Ici...  ? Dans ce lit... ?  Dans ce lit... ?  Huh...  Mais oui...  Il la traitait avec beaucoup d'attention, c'est vrai...  avec beaucoup de considération...  (REAC) Oui...  Il augmentait son salaire alors qu'elle ne demandait rien, hein... ?  Je me rappelle qu'un jour...  je lui ai demandé...  s'il elle l'intéressait et il m'a répondu qu'elle avait l'âge d' être sa fille...  que'elle avait l'âge d'être sa fille... !  Pauvre type... ! Imbécile... !
+
+GUIOMAR	(REAC) Madame Juliana, pardonnez-moi, je n'aurais jamais dû vous le dire... (REACS)
+
+JULIANA	S'il te plaît, Guiomar, arrête de dire des sottises, ne soir pas idiote... !  Pour eux c'était très clair, ça ne devait pas les déranger que quelqu'un soit au courant...  Et moi j'étais...  j'étais compètement aveugle...  Je n'y ai vu que du feu... !  (sanglots)  Tu veux que je te dise, Guiomar...  il y a des hommes qui couchent avec leur employée de maison dans la chambre à côté de laquelle leur femme dort...   très paisiblement...  (soupir)
+
+GUIOMAR	Madame…, je vais tout vous raconter une bonne fois pour toutes...
+
+JULIANA	Il y a autre chose ?
+
+GUIOMAR	Elle... m'a aussi dit...  Elle m'a raconté un jour avant d'être renversée que...  qu'elle n'était pas en mesure de dire si Bia était la fille de Jaïro...  ou celle de monsieur Fernando...
+
+JULIANA	H___ Est-ce que tu es sûre de ce que tu viens de me dire ? Tu es sûre de ce que tu viens de me dire ?
+
+GUIOMAR	Je vous dis juste ce qu'elle m'a raconté...  maintenant, si c'est vrai ou pas, je n'en sais rien...  Elle a aussi ajouté... que quand elle a su qu'elle était enceinte... ,elle...  avait cette histoire avec Monsieur, vous comprenez ?  Et elle...  bon... il y avait des jours où elle allait avec les deux le même...  jour, et qu'elle ne pouvait pas être certaine... Donc... quand elle a appris...  qu'elle était enceinte...
+
+JULIANA	Je vois...  Fernando...  madre mia...
+
+GUIOMAR	Non...  Madame Juliana, je ne sais pas...
+
+JULIANA	Nando, est le père de Bia...
+
+GUIOMAR	Je ne sais pas si c'est vrai...  parce que Gorette n'en était pas sûre elle non plus...  Elle m'a dit qu'une fois...  elle avait...  elle avait bu quelques bières de trop et qu'elle s'était disputée avec Jaïro... _H et qu'ensuite...  elle ressentait tellement de haine envers lui...  qu'elle avait eu envie de lui avouer qu'il n'était pas le père de Bia...
+
+JULIANA	Mon dieu...
+
+(BOUCLE 10 - 10:15:52:10)
+		10
+
+SILVIA	Hé... ! ne la claque pas, elle se ferme toute seule...
+
+FELIPE	Oh________, Qui aurait pu imaginer, qui aurait bien pu dire qu'un jour j'entrerai...  ici avec toi complètement pompette..., et que je...
+
+SILVIA	Mhm... Ah___ Chhh Chh... Hé Hé ! Hé___ !  Qu'est-ce que tu dis ? Attention. Me mets pas mon sac là-dessus. Attention au respectr, petit... Une femme comme moi, écoute-moi bien n'est jamais pompette...
+
+FELIPE	Attends, je mets ça là...  Ahh____, c'est pas grave...
+
+SILVIA	__H elle est gaie_______ ! Hi hi hi hi____... !
+
+FELIPE	Elle est gaie,... joyeuse...  mais par-dessus tout, très séduisante...
+
+SILVIA	(REAC)  Mmm.... Hiahouh_____Chh Chh Chh...   Lâche-moi, d'accord ? Attention, je suis en train de sentir, je sens que tu___
+
+FELIPE	Qu'est-ce que tu sens, dis...
+
+SILVIA	que toi, oui... que tu as envie de profiter de moi_______
+
+FELIPE	Que moi, quoi...   Huh... Non, non pas du tout...  Aïe... Aïe...
+
+SILVIA	Oh ! Aïe ! Ah... !
+
+FELIPE	Oh non ! C'est pas vrai___ !
+
+SILVIA	Oh... !
+
+FELIPE	Hi hi hi... ____Hhh
+
+SILVIA	Ah ah ah ah... !
+
+FELIPE	Tu t'es fait mal... ?
+
+SILVIA	___Hh Non... Hi hi hi hi... ! Oui... , tout va très bien, ne j'ai rien...
+
+FELIPE	C'est vrai... ?  Reste là, ne bouge pas... Silvia... , je vais aller te chercher un verre d'eau...
+
+SILVIA	Mhm___  Non, non, non ! Reste ici, s'il te plaît. Viens ici avec moi____, allez_____,
+
+FELIPE	Ne demande pas comme ça, Silvia...  Hé... ! Hi hi...
+
+SILVIA	Je suis tellemen triste, j'ai besoin de câlins... Mmmm...
+
+FELIPE	(REAC)  Ahhh_____ !  Tu es triste et tu as besoin de câlins...  (REAC)  (rire)
+
+SILVIA	Mhm mhm______..  Oui___ Huh...  Tu as raison..., tu sais...   Je suis complètement saoûle...  Tu sais ce qui se passe quand je bois beaucou trop comme ce soir... ? (REACS)
+
+FELIPE	Non, je ne sais pas, mais je brûle de le savoir...
+
+SILVIA	Mmm___ J'ai des attaques de sincérité... (reac_)
+
+FELIPE	Ah oui... ?  Ah... mon dieu... !
+
+SILVIA	Mhm mhm...
+
+FELIPE	Attends un peu, tu vas avoir une attaque... de sincérité juste maintenant... ?
+
+SILVIA	Voui___ !  Mmm___...  Oh... je me sens si bien avec toi___...
+
+FELIPE	ça me fait plaisir...
+
+SILVIA	Je me sens tellement...  moi-même...
+
+FELIPE	Moi aussi... je me sens très bien avec toi...
+
+SILVIA	Huh... Mhm mhm mhm mhm... !  Mhmm_______ Mhm...  Ah oui______ ?
+
+FELIPE	Qu'est-ce qu'il y a... ?
+
+SILVIA	Tu embrasses très bien, tu le savais... ?
+
+FELIPE	Oh non... pitié_____...
+
+SILVIA	J'ai très envie de recommencer___...  (Baisers passionnés_____ AD LIB)
+
+FELIPE	(Baisers passionnés____ Ad LIB)  Mmm_____(X) Viens... Attention... Attends... ! Je vais te porter... (REAC)
+
+SILVIA	Ouh ! Qu'est-ce que tu fais ?  Oh ! Ne le lâche surtout pas ! Ah ah ah  ah ah... !
+
+FELIPE	Ne crains rien... Mmm___(X X X X) _
+
+SILVIA	Mhm___ Embrasse-moi encore...  Mmm____
+
+(BOUCLE 11 - 10:18:10:02)
+		11
+
+SILVIA	Mhm mhm_______  Félipé... !  Félipé ! Félipé !  Féli- Eh !Bon sang, mais enfin... !   Qu'est-ce qui s'est passé dans mon lit... ?
+
+FELIPE	Oui, Silvia... qu'est-ce qui s'est passé... ?  Que s'est-il passé...
+
+SILVIA	Quoi ? Quoi ? Quoi donc... !
+
+FELIPE	Il s'est passé, attends, comment je vais t'expliquer ça...  On a fait la même chose...  qu'Adam et Eve s'aumsaient à faire au Paradis... Huh huh huh...
+
+SILVIA	Oh non, ce n'est pas possible, c'est impossible, je dois rêver... . Il a fallu que je boive un tout petit peu pour que tu profites de la situation, hein ?
+
+FELIPE	Non, non, non, non, ça n'a rien à voir, je n'ai pas du tout profité de toi...  Je t'ai ramenée à la maison pour que tu ne courres aucun risque...   et c'est toi qui m'a demandé de rester...  Si quelqu'un ici qui a profité de l'autre, ce quelqu'un c'est bien toi...
+
+SILVIA	Non, écoute-moi...  Euh... euh... je suis sortie avec toi parce que j'étais triste à cause de Cadou... Tu ne t'en souviens pas ?
+
+FELIPE	Tu as profité de moi...  Si, je m'en souviens, Silvia, mais la soirée s'est prolongée...  On s'entendait de mieux en mieux...  l'ambiance est devenue propice... et... Huh huh...   Oh Silvia, ç'était merveilleux, je t'assure...  Et même si cette nuit n'aura été que la seule et unique de... de notre vie à tous les deux...  ça valait... , ça valait la peine...  (REAC)
+
+SILVIA	Mais je n'ai pas l'habitude d'agir comme ça, c'est clair ?  Je n'ai pas l'habitude d'agir comme ça, sans réfléchir...
+
+FELIPE	Eh bien, tu devrais...  Silvia,... Tu devrais agir comme ça beaucoup plus souvent..., tu a été merveilleuse...
+
+SILVIA	Ecoute-moi bien... tu n'es... tu n'es qu'un profiteur de femmes désespérées... C'est ce que tu es... ! C'est ce que tu es, Félipé... !
+
+FELIPE	Non ! Arrête... ! Ah ah ah ah !
+
+CARLOS	,
+
+FELIPE	(REAC)  Ah___ Non, non...  je n'ai profité de personne...
+
+SILVIA	Si... , tu as profité de moi...
+
+FELIPE	Mais non...
+
+SILVIA	Hhh____
+
+FELIPE	Silvia... arrête, maintenant, Viens te recoucher... tout va bien.. Viens-là...  On ne va pas transformer la délicieuse nuit qu'on vient de passer ensemble en en faisant un drame.. Viens -là...
+
+SILVIA	C'est exactement ce qui se passe... ma vie amoureuse es un véritable drame.... C'est vrai... Cadou me dit qu'il sortira avec moi... , je vais le chercher...  et je le trouve en train d'embrasser Veronica... Alors je bois plus qu'il n'en faut pour oublier mon chagrin et je me réveille avec toi dans mon propre lit... !  Qu'est-ce que ? Qu'est-ce que ? Qu'est-ce que tu penses de tout ça, hein ? Hein ?
+
+FELIPE	Ce que j'en pense... ?
+
+SILVIA	Huh...
+
+FELIPE	Qu'il manque encore une chose pour... pour clore cette histoire...
+
+SILVIA	Arrête, arrête, arrête de jouer avec moi...
+
+FELIPE	Oh oh oh... Arrête... !  Calme-toi ! Petite sauvageonne... !
+
+SILVIA	Je n'veux pas te voir... !
+
+FELIPE	Je vais te donner un conseil.  Un conseil d'ami...  Va parler avec Cadou... en tête-à-tête, et demande-lui ce qu'il veut, au final...  Tu es une chouette fille, Silvia, tu ne mérites pas... de vivre ainsi... dans le doute...   et la souffrance...
+
+(BOUCLE 12 - 10:20:39:14)
+		12
+
+VERONICA	Voilà... !
+
+CLARA	Oh__oh___... ! Hi... hi hi hi hi... !
+
+VERONICA	Clara, je...
+
+CLARA	Excuse-moi, Ivan voulait vous faire la surprise, mais je crois qu'on n'arrive pas au moment idéal...
+
+VERONICA	Non, non, pas du tout... Euh...
+
+CADOU	Coucou mon grand... !
+
+IVAN	Papa___ !  Tu m'as beaucoup manqué, tu sais...
+
+CADOU	C'est vrai ? Toi aussi, mon poussin..
+
+CLARA	(REAC)..  Excusez-moi d'arriver sans prévenir..
+
+VERONICA	Non, non... Non...  Euh... Ecoute, non... ce n'est pas ce que tu penses, je t'assure...
+
+CLARA	Arrête, Veronica....Cadou est mon ex-mari... Je te demande seulement de le rendre...  très heureux, car il le mérite... Et rien d'autre...
+
+VERONICA	HHh______ (REAC) (REACS) Ce ne sera pas difficile, crois-moi... ( Rire________)
+
+CLARA	(Hi hi hi hi... ) Vous êtes parfaits, c'est ce que je désirais...
+
+VERONICA	Entre... tu ne veux pas rester un peu avec nous ?
+
+CLARA	Non, je dois y aller. Je suis seulement venu déposer mon chéri___...  (REAC Mmm______) Au revoir mon poussin... je t'aime...
+
+VERONICA	Très bien... Viens, Ivan, je veux te montrer quelque chose... Au revoir, Clara...
+
+CLARA	(REAC) (X) (X)  Alors, c'est vrai... !
+
+CADOU	Allez, ne commence pas...
+
+CLARA	Je veux être le témoin, d'accord ?
+
+CADOU	(REAC)  Tchao...
+
+CLARA	(X)
+
+AMBIANCE	(fermeture de porte)
+
+(BOUCLE 13 - 10:21:45:03)
+		13
+
+RELIGIEUSE	Nous vous sommes très reconnaissantes pour tout ce que vous avez fait pour nos enfants...  Je peux même vous dire qu'ils comptent les jours avant votre arrivée...
+
+ANDRES	Non, c'est moi qui doit vous remercier, cette expérience m'a complètement transformé...
+
+BARBARA	J'ai été absente quelque temps, mais je viendrai toutes les semaines avec André à partir de maintenant.
+
+RELIGIEUSE	Avec plaisir...
+
+BARBARA	J'ai apporté ces livres pour les enfants, j'expère que ça leur plairai...
+
+RELIGIEUSE	Oh, merci, c'est très gentil...
+
+ANDRES	Bonjour, toi... (X)  (X)  Tu vas bien ?  Bonjour toi... tu es très jolie...
+
+RELIGIEUSE	Regardez... ce sont des livres de contes...
+
+ANDRES	A bientôt... Amusez-vous bien...
+
+BARBARA	Cette femme n'est pas_________ Madame Eloïsa... ?
+
+RELIGIEUSE	Oui, c'est elle... Notre ancienne cuisinière... Mais elle est revenue travailler avec nous depuis peu...
+
+ANDRES	Je vais aller lui parler...
+
+BARBARA	Non... Non, calme-toi, André...  Cette femme ne nous a jamais aidés, tu ne peux pas arriver comme ça...  Il se pourrait très bien qu'elle ne sache rien...
+
+ANDRES	(__Ff) Pourquoi cette femme apparait juste maintenant ?  Alors que j'avais décidé de laisser cette histoire derrière moi une bonne fois pour toutes...  Tu crois que j'aurais un jour la paix ?
+
+BARBARA	Oui... Tu y arriveras...  Ecoute, voilà ce qu'on va faire...  On va réfléchir ensemble à la façon d'obtenir une discussion définitive avec elle, ça te va ?
+
+ANDRES	Tu as raison...  je suis beaucoup trop énervé pour discuter avec elle maintenant, elle finirait par.. par prendre peur. Elle est passée et je ne la retrouverai plus jamais...  Hh___  Heureusement que je t'ai avec moi, hein... ?
+
+FELIPE	Tu sais me calmer...
+
+BARBARA	Mhm mhm mhm... Je serai toujours là...  __H Mais maintenant on doit aller s'occuper des enfants, tu viens ?  Ils ont besoin de nous et ça te fera du bien à toi aussi...  Huh... On y va ?
+
+ANDRES	C'est parti...
+
+(BOUCLE 14 - 10:23:09:21)
+		14
+
+CADOU	Samiro..., un capuccino pour la table 6...  marque-le sur leur note...
+
+SILVIA	Cadou... ?  Bonjour...
+
+CADOU	Bonjour...
+
+SILVIA	Est-ce que tu as une minute pour discuter avec moi ?
+
+CADOU	Bien sûr, Silvia, j'allais justement t'appeler...  J'attendais que le service de midi se calme un peu...  Je dois te demander pardon pour hier soir... je n'ai... pas pu me libérer comme prévu...
+
+SILVIA	Je suis venue ici... à l'heure convenue entre nous. J'ai préféré ne pas vous déranger, Veronica et toi...
+
+CADOU	Huh... excuse-moi, Silvia...  Je ne t'ai pas vue...  Je n'avais pas l'intention de te causer un désagrément...
+
+SILVIA	Je le sais...
+
+VERONICA	Quelque chose ne va pas, Silvia... ?
+
+SILVIA	Bonjour, Veronica...
+
+VERONICA	(____H) Hum... Est-ce que je vous dérange... ?
+
+CADOU	Veronica...,   Euh... , j'aurais besoin de discuter avec Silvia dans un endroit plus discret. Je peux utiliser ton bureau ?
+
+VERONICA	Bien sûr... oui...  le temps que vous voudrez... La porte est ouverte...
+
+CADOU	Merci...  Tu viens ?
+
+(BOUCLE 15 - 10:24:09:18)
+		15
+
+SILVIA	Vous êtes ensemble ?
+
+CADOU	J'ai besoin d'être honnête envers toi...
+
+SILVIA	Je n'attendais pas une autre attitude... venant de ta part...
+
+CADOU	Mais écoute-moi d'abord, avant toute chose...  Mff__ Je veux que tu saches que tu es quelqu'un de bien... ______Hh. Tu es le rêve de tous les hommes, Silvia...
+
+SILVIA	Mhm...  ____H  De tous les hommes, sauf toi... c'est bien ça... ?
+
+CADOU	Huh... , C'est difficile d'expliquer les préférences venant du coeur...
+
+SILVIA	Oui... je sais...   (___Hh___) je sais bien comment il fonctionne...  J'ai même remarqué le tien qui battait la chamade devant moi, sans que tu t'en rendes compte...   Et je crois que c'est ça...  qui m'a fait penser qu'un jour, il pourrait être à moi...
+
+CADOU	Ne me veux pas de mal... D'accord ?
+
+SILVIA	Jamais...  Jamais...  Je n'ai aucune raison pour te vouloir du mal...  Oui...  je suis triste...  je ne vais pas le nier...  Mais ça passera...  Mhm...  Savoir la vérité est aussi...  un soulagement...  Mhuhm... et ça me réveille d'un rêve tellement beau...  (X)  Hh___ Bonne chance...
+
+CADOU	A toi aussi...
+
+SILVIA	Mhhh______
+
+CADOU	(__Hhh)
+
+SILVIA	Je vais te laisser...
+
+CADOU	(FFf___)  (soupir)  Une dernière chose, Silvia...  Je crois que l'élu de ton coeur est beaucoup plus prêt de toi que tu ne l'imagines...  Ne le laisse pas d'échapper...
+
+SILVIA	(REAC)
+
+(BOUCLE 16 - 10:26:14:16)
+		16
+
+IVAN	Alors, Maman je peux avoir une glace... ?
+
+CLARA	Avant de déjeuner, mon chéri ? Non... non...
+
+MARINA	Mmm___ Qui a dit qu'une glace et un déjeuner ne pouvaient pas aller ensemble... ?
+
+CLARA	AH________________, AH_______________ ! Vous vous liguez contre moi, maintenant ?
+
+IVAN	T'es super gentille, Marina... de me défendre...
+
+CLARA	Très bien, Madame Maria. Tu es responsable du déjeuner d'Ivan. Je veux voir s'il va tout manger s'il prend une glace avant de passer à table...
+
+AMBIANCE	(Clara claque des mains)
+
+MARINA	Oh, mais je suis certaine qu'Ivan mangera tout même s'il prend une glace, avant, n'est-ce pas ?
+
+CLARA	Parfait, on va sortir pour acheter une glace. Chocolat !
+
+IVAN	Chocolat !
+
+MARINA	Citron !
+
+IVAN	Dis, Marina... je pourrais faire ma fête d'anniversaire dans la piscine de ton jardin ?
+
+MARINA	Mhm...  ?
+
+CLARA	Hé... ! Mais il manque encore plusieurs mois avant la date de ton anniversaire, mon trésor...
+
+IVAN	Et alors... ?  Je veux prévoir à l'avance. Mes copains vont adorer une fête avec une piscine...
+
+MARINA	Il a raison...  Ecoute... je vais___ noter la date dans mon agenda comme ça elle sera réservée pour Monsieur___...  qu'est-ce que tu en dis ?
+
+IVAN	Merci, Marina, t'es vraiment géniale... !  (X)  Et ma glace... ? Venez, on y va toute de suite...
+
+CLARA	Allons-y. Je veux en manger une moi aussi. J'en ai une envie folle, maintenant...
+
+IVAN	Hé___, Moi aussi j'en ai envie...
+
+MARINA	A moi aussi...
+
+IVAN	Vite !
+
+(BOUCLE 17 - 10:27:23:01)
+		17
+
+AMBIANCE	(ambiance rue, voiture de police, policiers qui discutent)
+
+VICTOR	Le commissaire Païva est à la tête de cette opération...  Il est de l'ancienne école..., très ami avec mon père...  Allez, descends...  Païva... ?
+
+PAIVA	Victor... encore un problème pour ne pas changer...
+
+VICTOR	Huh... Ma partenaire... Alice...
+
+PAIVA	Huh... En filant après une agression, le criminel et son complice ont volé la voiture d'un de nos collègues sans uniforme qui se reposait à l'intérieur...  Quand ils ont découvert qu'il était policier...  ils l'ont brutalisé sauvagement, de but en blanc...  Enfin... on a capturé le_______...   complice...  mais l'autre individu a réussi à s'enfuir. L'information qu'on a eue, c'est qu'il est planqué dans ce quartier...  et qu'il a plusieurs copines éparpillées dans la ville....  L'une d'entre elle habite ici...
+
+VICTOR	Alors il nous manque donc juste l'adresse...
+
+PAIVA	Huh.. Vous devez découvrir où il s'est réfugié avant que les gens se rendent compte de notre présence ici...
+
+ALICE	Je peux y aller...  habillée en civil et essayer de trouver des renseignements....
+
+PAIVA	Parfait. Enlève ton gilet pare-balle et laisse ta plaque... Reste habillée normalement. Ton téléphone doit toujours être ouvert et connecté celui de Victor.   On va rester à l'écoute. . Regarde, c'est lui...
+
+VICTOR	Sois très prudente..  Bonne chance...
+
+(BOUCLE 18 - 10:28:54:15)
+		18
+
+AMBIANCE	(FLASHBACK)
+
+FERNANDO	Youpi.. ! On va se promener_______ !
+
+JULIANA	Mais juste du marchand de glace à la maison et Guiomar vient avec vous.  Accompagne Nando, Guiomar, s'il te plaît.
+
+GUIOMAR	Oui, Madame...
+
+FERNANDO	Hé hé hé hé... !____Hh Tu dis au revoir à Maman... ?    Tchao, Maman___________ !
+
+AMBIANCE	(FIN FLASHBACK___ reprise FLASHBACK )
+
+FERNANDO	Bonjour mes chéries_____... ! Bia______________!
+
+GUIOMAR	Regarde qui est ici... !
+
+BIA	Oh... ! (REAC)
+
+FERNANDO	Ah ah___________ !
+
+BIA	C'est Nando________ !
+
+FERNANDO	Comme elle est jolie, ma petite chérie... !
+
+BIA	(Rire_____)
+
+AMBIANCE	(FIN FLASHBACK)
+
+(BOUCLE 19 - 10:29:23:21)
+		19
+
+JULIANA	(REAC)
+
+GUIOMAR	Il est arrivé...
+
+JULIANA	Qui ça, il ?
+
+GUIOMAR	Monsieur Fernando.  Il a dit qu'il venait voir les enfants...
+
+JULIANA	(REAC)
+
+FERNANDO	Il na____ge... il nage au fond de la mer, il nage... Ah_______ Il est tombé______ !
+
+BIA	Il nage lui aussi... !  Oh il est tombé... !
+
+FERNANDO	Allez,, petit poulpe, relève-toi... Viens nager avec moi... Ah ah ah ah________... !  Je suis en train de nager_____
+
+BIA	Regarde, Nando, il na___ge_____
+
+FERNANDO	Bonjour, Juliana, tu vas bien... ?
+
+JULIANA	Parfaitement...  tout va parfaitement bien...
+
+FERNANDO	Je suis très content de nager avec toi, petit poulpe... !  Oh, qu'on est bien dans la mer... !
+
+(BOUCLE 20 - 10:29:58:18)
+		20
+
+AMBIANCE	(ambiance rue, moto, piétons)
+
+JAIRO	Salut, mon pote...
+
+HOMME MOTO	Salut, Jaïro...
+
+JAIRO	Allô ?  Est-ce que ma femme s'est calmée ?
+
+GUIOMAR	Ta femme te déteste comme jamais, tu es en train d'abuser. Elle est folle de rage contre toi...
+
+JAIRO	C'est bon, je sais. Je me suis trompé en me mettant en rogne. Mais je lui demanderai pardon...
+
+GUIOMAR	Oui, oui, mais pas maintenant, d'accord ?  Mais disparaît de la circulation pendant deux ou trois jours, tu as compris ?  Le temps que la pression redescende.
+
+JAIRO	C'est bon, j'ai pigé...
+
+GUIOMAR	Oui, il faut... , il faut que tu attendes un peu...
+
+JAIRO	Elle est seule ou tout la famille s'est ramenée à la maison ?
+
+GUIOMAR	Elle est toute seule...,  mais elle ne prend personne au téléphone...
+
+JAIRO	T'inquiète pas, continue à me tenir au courant.  Salut.
+
+(BOUCLE 21 - 10:30:41:13)
+		21
+
+GUIOMAR	C'était Jaïro... ,   il a dit qu'il...  s'inquiétait pour vous, qu'il veut vous demander pardon.
+
+JULIANA	Je ne veux pas le savoir. Apporte-nous un café, s'il te plaît...
+
+GUIOMAR	Tout de suite.  (___Hh ) Madame, vous n'avez rien dit au sujet de l'histoire de Bia, n'est-ce pas ?
+
+JULIANA	Non...  Non..., je ne veux pas l'effrayer...
+
+GUIOMAR	Surtout ne dites rien, Madame Juliana, parce que Gorette n'avait pas toute sa tête quand elle m'a parlé...
+
+JULIANA	C'est bon, Guiomar, tout va bien ne t'inquiète pas...  Je veux juste qu'il confirme  cette histoire avec Gorette.  L'histoire de la paternité. Il doit faire un test d'ADN... Apporte-nous du café.
+
+GUIOMAR	J'arrive...
+
+(BOUCLE 22 - 10:31:10:24)
+		22
+
+CAROLINE	Ce Jaïro, toujours à courir, hein ?
+
+CARLOS	Il fait son boulot, ma jolie...
+
+MILTON	Il livre du gaz____, Caro...
+
+JANICE	Ouais_______... il a la belle vie, c'est évident... . Jaïro a trouvé le bon filon...
+
+MILTON	ça c'est de la jalousie, Janice, allez, avoue-le...
+
+JANICE	Tu crois que je l'envie, c'est ca ?   Bon sang, Milton...  oh... t'es cinglé____ ?
+
+CAROLINE	Milton_____...  C'que tu peux être bête...
+
+JANICE	Ah_____ Ha ha ha... !
+
+ALICE	Bonjour tout le monde...
+
+JANICE	Salut...
+
+CAROLINE	Salut...
+
+MILTON	Bonjour...
+
+CARLOS	Salut, tu vas bien ? J'vais encore mieux depuis que tu es apparue, ma belle...  (X)  Je peux t'aider... ?
+
+ALICE	Oui... Je voudrais savoir si vous connaissez mon oncle?
+
+CAROLINE	Montre-moi...
+
+ALICE	C'est lui sur cette photo...
+
+CAROLINE	T'es sûre que c'est vraiment ton oncle ?  Vous vous ressemblez pas...
+
+ALICE	Oui, je sais...  __H c'est qu'il est le demi-frère de ma mère du côté paternel...  Ils se sont perdus de vue depuis des années et je ne l'ai plus jamais vu. Maintenant j'essaie de voir si j'arrive à le localiser…
+
+CAROLINE	Huh...
+
+MILTON	Désolé pour toi, mais il n'habite pas ici.
+
+CARLOS	Attendez... je vois qui c'est.  Ce type est le mec de Créidé, celle de la maison en briques là en haut...  une zone vraiment moche...  Regardez-bien...
+
+MILTON	Ouais... C'est possible...  Je crois avoir vu ce type une ou deux fois ici...  On dirait que c'est lui, mais je n'en suis pas certain. Je ne peux pas dire si c'est vraiment lui ou pas.
+
+CARLOS	Tu veux que je t'accompagne là-bas ?
+
+ALICE	ça ne t'embête pas... ?
+
+CARLOS	Je t'assure...
+
+ALICE	Je suis un peu perdue, je ne suis pas d'ici...
+
+CARLOS	T'inquiète pas, Carlos va te le trouver.. J'ai pas mal d'années de services rendus  aux gens de ce quartier.  Attends, je prends juste mon portable, d'accord ?
+
+ALICE	Merci...
+
+CARLOS	Te mêle pas de ça, Milton...
+
+CAROLINE	(rires_____________________)
+
+JANICE	(rires_______)
+
+ALICE	Merci, les filles...
+
+CAROLINE	Tchao__________ !
+
+(BOUCLE 23 - 10:32:27:23)
+		23
+
+LAERTE	Maman... ?  Viens me voir une minute, s'il te plaît...
+
+SELMA	Oui, mon chéri...  Je peux faire quelque chose pour toi... ?
+
+LAERTE	J'espère que oui, parce que ça m'a tout l'air d'être encore un de tes coups.
+
+SELMA	Quel coup ?
+
+LAERTE	Où sont les partitions qui se trouvaient ici sur mon bureau ?
+
+SELMA	La pile de vieux papiers... ?  Ah____ Je les ai jetté en tas au fond de la remise. Mon chéri , c'était... c'était plein de mites et j'ai demandé qu'on y verse dessus de l'anti-mites pour ensuite voir ce que je pourrais en faire parce que...  je crois que ça ne servait plus à rien, n'est-ce pas... ?
+
+LAERTE	Maman...,  ces partitions sont des partitions de très grande importance que j'ai collectionnées d'années en années de ma carrière...  Quelques une de ces partitions sont très rares...  Elles étaient signées, autographiées et portaient des dédicaces à mon nom...
+
+SELMA	Au nom du ciel, Laerté, comment voulais-tu que je le sache... ?  N'importe quelle personne qui entre ici n'a pas besoin d'être un spécialiste pour remarque  que tes partitions étaient en train de pourrir...
+
+LAERTE	Et toi tu as cru qu'elles seraient mieux dans la remise, exposées à l'humidité ?
+
+SELMA	Comment voulais-tu que je le devine... ?   (Reac___) Je ne suis pas devin mais je sais quand quelque-/
+
+LAERTE	Non, tu ne sais rien Maman... !  Tu viens de faire une connerie monumentale !  Enfin... c'est une attitude typique de ta part. Tu fais ce qui te passe par la tête sans te préoccuper des personnes...
+
+SELMA	Tu me parles comme si j'étais une sorcière...
+
+LAERTE	Non, une folle... !  Il se peut...  que ta maladie empire de jour en jour, tout le monde s'en rend compte... !  Dans peu de temps tu ne serviras plus à rien...  ni pour faire semblant que tu travailles au centre d'Arts, hein ?  Il va falloir te faire interner, Maman,  parce que sinon tu vas finir par commettre une bourde irréversible,  contre quelqu'un...
+
+SELMA	Tu me fais beaucoup de peine...
+
+LAERTE	Ne commence pas à te plaindre...  Tu dois prendre tes responsabilités pour réparer ton erreur, si tant est que ça puisse se faire. Maman... je veux  que tu remettes ces particions sur ce bureau...  et que tu les remettes dans l'ordre dans lequel elles étaient.
+
+SELMA	(REACS_________) Excuse-moi, je crois que c'est la seule chose que je peux dire...
+
+FELIPE	Ne t'excuse pas...  Ecoute bien ce que je vais te dire...  Je veux que tu ne prennes aucune aucune décision ici, dans ce centre d'Arts...  sans m'avoir cosulté avant.  Est-ce que tu as compris ?
+
+SELMA	(Sanglots) Mhm mhm... (sanglots)
+
+(BOUCLE 24 - 10:34:35:06)
+		24
+
+LAERTE	Oh mon amour, tu es là... ?  Tu ne m'as pas dit que tu viendrais...
+
+LOUIZA	Pourquoi ? Si je ne te l'avais pas dit, que serait-il arrive ? Tu m'aurais humiliée comme tu viens d'humilier ta mère ?
+
+LAERTE	Tu vas prendre le parti de ma mère, c'est ce que tu dit ? Tu n'as pas entendu notre conversation ?  Louiza, j'ai peut-être un peu exagéré en lui parlant sur ce ton, mais j'ai entièrement raison, c'est évident... !
+
+LOUIZA	Quelle horreur... Laerté...  Ta réaction a été complètement disproporsionnée...
+
+LAERTE	Tu es venue ici pour me voir ou pour me critiquer ?
+
+LOUIZA	Je suis venue pour te voir...  mais j'ai changé d'idée. Je reviendrai à un autre moment, Laerté.
+
+LAERTE	Louiza...  tu n'as pas dormi à la maison.
+
+LOUIZA	Non, j'ai dormi à la maison...  Dans ma maison, dans la maison de mes parents...  D'un endroit duquel je n'aurais jamais dû sortir, Laerté...  Je ne suis pas à la maison quand je suis dans ton appart...
+
+LAERTE	Non, attends, Chérie, on va discu-/
+
+LOUIZA	Laisse-moi !  J'ai besoin d'une distance entre nous,  Laerté...,  au moins pendant quelques heures...
+
+AMBIANCE	(ambiance rue, voitures)
+
+(BOUCLE 25 - 10:35:25:06)
+		25
+
+ANDRES	Louiza.... ?  Louiza... !  Salut... !
+
+LOUIZA	Tu m'as fait peur, André, tu m'as vraiment fait peur...
+
+ANDRES	On te fait peur facilement, dis donc.  Tu veux fuir quelqu'un ?
+
+LOUIZA	Je crois que je veux me fuir moi-même, André...
+
+ANDRES	T'es sûre que ça va ?  (X)
+
+(BOUCLE 26 - 10:35:51:16)
+		26
+
+AMBIANCE	(ambiance terrasse de café, voitures... )
+
+LOUIZA	Excuse-moi, tu veux bien ?  Huh... , la crise de larmes est passée...  Je ne vais pas très bien...
+
+ANDRES	Oui... je m'en suis rendu compte, je te connais...
+
+LOUIZA	Je suis tellement préoccupée, André...  Je vis entièrement sur les nerfs...  avec ce mariage...
+
+ANDRES	Tss... Tu devrais plutôt te sentir heureuse, stressée...  Ce n'est pas ce que les futures mariés ressentent avec les préparatifs ?
+
+LOUIZA	Je ne me suis jamais mariée, alors...  mais j'ai bien l'impression que oui...  __Hh De toute manière, les futures mariées sont au bord de la crise de nerfs.  Et tu sais que mon histoire...  a commencé dans la confusion.
+
+ANDRES	(REAC) Oui...  Je ne peux trop rien dire... Tu sais ce que je pense de ton fiancé.  Mais toi... , tu es une personne formidable, tu ne mérites pas moins que le plus grand bonheur du monde...
+
+LOUIZA	Je sens renaître mes forces quand je discute avec toi, tu sais...  Avec toi... je peux parler de n'importe quoi ouvertement...  La tranquillité qu'on avait me manque...  On se disputait, mais c'était de bonnes disputes...
+
+ANDRES	Oui...  Louiza,   dis-moi la vérité. Qu'est-ce qui se passe exactement ?  Est-ce que Laerté te...  te fais du mal de quelque façon ? Parce que s'il le fait, je ne réponds plus de rien.
+
+LOUIZA	Non... non, non, non...  Laerté n'est pas le monstre que tu t'imagines, je t'en prie...
+
+ANDRES	Que moi, j'imagine... ? Mais s'il la démontré...
+
+LOUIZA	Arrêtons de parler de Laerté...  D'accord ?  Je ne veux pas parler de ça, je ne parle que de ça, je pense déjà à ça le jour et la nuit.  ___Hh Parlon plutôt... Hh____ de Barbara...  Vous êtes heureux tous les deux ?
+
+ANDRES	Très...  On est fou amoureux...
+
+LOUIZA	Alors c'est merveilleux...
+
+ANDRES	Le paradis...
+
+LOUIZA	Raconte-moi tout...
+
+AMBIANCE	(ouverture de porte)
+
+(BOUCLE 27 - 10:37:35:18)
+		27
+
+FELIPE	Tu es occupée... ?
+
+SILVIA	Non, non, tu peux entrer. Le patient que j'attends a 20 minutes de retard...
+
+FELIPE	Alors, c'est parfait...
+
+AMBIANCE	(fermeture de porte 1ère fois)
+
+FELIPE	Ce sera suffisant pour que je puisse de dire ce que je dois te dire.
+
+AMBIANCE	(2ème fois)
+
+SILVIA	Qu'est-ce qui se passe ? Ouh la... tu en fais une drôle de tête. Il t'est arrivé quelque chose ?
+
+FELIPE	Je me suis rendu compte, Silvia, je me suis rendu compte, que j'ai dépassé le bornes avec toi, tu sais.  Je ne veux pas être un obstacle sur ton chemin, te harceler, insister lourdement... Je ne veux pas interrompre le cours de ta vie.
+
+SILVIA	Tu fais allusion à la nuit qu'on a passé ensemble ?
+
+FELIPE	A ça aussi...
+
+SILVIA	Mais tu m'a rassurée en disant que tout allait très bien entre nous deux...  ce n'est pas vrai ?
+
+FELIPE	C'est vrai...  mais je ne veux pas t'ennuyer.  Tu vis une histoire avec Cadou et je ne veux pas me mettre en plein milieu. Tu es décidé à le conquérir coûte que coûte...  En parlant de ça, comment s'est passé ta discussion avec lui ?
+
+SILVIA	Hum...  On en reparlera plus tard...  Mais je voudrais te dire que notre relation ne va pas...  m'éloigner ou me rapprocher de Cadou...  J'avais même justement pensé à resserer les liens de notre relation...
+
+FELIPE	Oh... !
+
+SILVIA	professionnelle... !  Que ce soit bien clair...  Je voudrais te proposer de t'associer à moi dans un nouveau cabinet.  J'ai envie de partir d'ici et de commencer une nouvelle vie dans un autre endroit.  Est-ce que tu...  accepterais de relever ce défi avec moi ?
+
+FELIPE	Huh...  Moi... ?  Etre ton associé dans un nouveau cabinet ?
+
+SILVIA	Mais oui... !  On forme tous les deux une très belle  équipe, on a tout pour réussir...
+
+FELIPE	Mhm... (X)  Bon sang, Silvia, tu crois rellement en moi, c'est vrai ?
+
+SILVIA	Oui, je crois en toi...  Hé... on s'entend très bien tous les deux...  Tu es un excellent médecin... ta clientèle est très fidèle...  qui a souffert de ton absence. Tu dois excercer à nouveau ta profession... Tu ne peux pas abandonner ta vocation.
+
+FELIPE	Tu me remplis d'espoir en croyant en moi de cette façon.  Mhm...
+
+SILVIA	Je ne veux que ton bien...
+
+FELIPE	C'est toi...  c'est toi qui me fait du bien...  Associé...  Ah ah ah... !
+
+SILVIA	Associé... Ah ah ah... !
+
+(BOUCLE 28 - 10:40:03:21)
+		28
+
+LAERTE	Ah, c'est merveilleux... !  J'avais tellement peur de ne pas te trouver... (REACS)
+
+LOUIZA	Qu'est-ce qu'il y a, Laerté ? Que s'est-il passé ? Il t'est arrivé quelque chose ?
+
+LAERTE	Je n'ai pas une minute à perdre...
+
+LOUIZA	Pourquoi ? Je peux savoir...  pourquoi tu es aussi pressé ?
+
+LAERTE	Tout d'abord je suis toujours pressé de te voir.  Mon amour, c'est urgent...  Mais aujourd'hui...  je suis spécialement pressé , car j'ai une raison très importante.
+
+LOUIZA	Quelle raison ?
+
+LAERTE	Assieds-toi...  Ferme les yeux..
+
+LOUIZA	Tss... Oh, Laerté, qu'est-ce que... ?
+
+LAERTE	Ferme les yeux...  Ferme-les...
+
+LOUIZA	Très bien je les ferme...
+
+LAERTE	Louiza, détends-toi...
+
+LOUIZA	Huh Huh...
+
+AMBIANCE	(début mélodie à la flûte)
+
+(BOUCLE 29 - 10:41:38:15)
+		29
+
+AMBIANCE	(fin pièce de flûte)
+
+LAERTE	Tu as aimé ?
+
+LOUIZA	Oui, c'est merveilleux...
+
+LAERTE	C'est ta musique...  Je l'ai terminée...
+
+LOUIZA	Huh...  Je ne sais pas quoi dire...  mais c'est vraiment très beau...
+
+LAERTE	Tu sais ce que ça signifie... ?  Que c'est le moment...  qu'on peut se marier maintenant... aujourd'hui...  parce que c'était la seule chose qui nous manquait.  La musique...  sur laquelle tu entreras dans l'église.
+
+(BOUCLE 30 - 10:42:19:18)
+		30
+
+AMBIANCE	(ambiance rue, moto décélère puis moteur au ralenti)
+
+MILTON	Tenez, le voilà...
+
+JAIRO	Dis-moi, Milton, Carlos est là ?
+
+MILTON	Non, il est monté avec une fille qui cherchait son oncle, je sais pas trop....
+
+JAIRO	Merci, Milton. C'est typique de sa part. Je retourne bosser, la vie se gagne pas toute seule, mon frère.
+
+AMBIANCE	(départ moto)
+
+MILTON	Salut... vous voulez autre chose ?
+
+(BOUCLE 31 - 10:42:31:24)
+		31
+
+CARLOS	Je vais t'amener danser dans un endroit génial, tu vas beaucoup t'amuser, tu verras...
+
+FELIPE	Voilà, moi j'ai grandi ici... Ah ah ah... !  Je suis très fier de mon beau quartier...
+
+ALICE	Huh...  On est encore loi de la maison de mon oncle ?
+
+CARLOS	Attends, ma belle, je suis même pas sûr que c'est celle de ton oncle...  tu comprends ? Je suis tout de même porté à croire que c'est bien le mec de Créidé...  Mais il n'habite pas ici, il vient la voir de temps en temps, tu comprends ?   Il est pas dans une relation continue avec elle, mais ça oui, il vient pour le sexe et il s'en va.  (Rire) Il est très malin...
+
+ALICE	Je vois...
+
+CARLOS	Hé...  c'est ici... C'est cette maison là devant...
+
+ALICE	Laquelle... ?
+
+CARLOS	Celle en bleu, là...
+
+AMBIANCE	(coup de feu)
+
+ALICE	Ah... !  Aïe, aïe, aïe... !
+
+(BOUCLE 32 - 10:43:09:01)
+		32
+
+FERNANDO	Tchao_______ !  Hi hi hi !  J'adore le café mais je vais devoir l'abandonner à cause de mon ulcère,  huh... Bon, mais celui-ci est léger...
+
+JULIANA	Oui...
+
+FERNANDO	Il y a des femmes qui rajeunisses constamment...  sans recourrir à la chirurgie, sans avoir besoin de botox...  Elles rajeunissent tout simplement...  elles refleurissent... revivent...  Tu es un exemple de ce que je viens de dire, Juliana...
+
+JULIANA	Tu le crois... ?
+
+FERNANDO	Tu es une femme superbe... oui..  belle, attractive...  et très fougueuse...
+
+JULIANA	Merci... Huh... !
+
+FERNANDO	Ah ah ah ah ah... !  Tu n'aimais pas du tout ça quand je disais que tu étais fougueuse...
+
+JULIANA	Ah ah ah ah... !
+
+FERNANDO	Tu disais que c'est ce qu'on dit aux prostituées...
+
+JULIANA	C'est pourtant vrai, non ?
+
+FERNANDO	Comment ce fait-il qu'une femme rajeunisse continuellement, dis-moi ?  Tu es beaucoup plus belle maintenant que dans le passé...  et tout indique que tu seras encore plus belle dans le futur.
+
+JULIANA	Je l'espère bien...
+
+FERNANDO	Huh... (REAC)
+
+JULIANA	Tu m'aimais, n'est-ce pas ?
+
+FERNANDO	Beaucoup...  Même maintentant, je t'aime beaucoup plus qu'à l'époque de notre mariage....
+
+JULIANA	Oui, c'est parce que j'était tout le temps disponible, pas vrai ?  A n'importe quelle heure du jour ou de la nuit, tu disais que j'étais complète...   Pas vrai... ?  Pour le lit et la salle de bain... comme disait cette publicité de...  draps de bain...  Hi hi, tu te souviens ?
+
+FERNANDO	Oui...  Que c'est drôle, je croyais que tu ne te souvenais pas de ça...  Je croyais que tu avais tout oublié...  ça me fait très plaisir...  Tu es une femme complète, Juliana...  Quand tu étais avec moi, j'avais tout...  Je n'avais besoin de rien d'autre... de personne...
+
+JULIANA	Alors pourquoi as-tu eu besoin de Gorette... ?
+
+FERNANDO	Quoi ?
+
+JULIANA	Besoin d'aller coucher avec elle...  avec notre employée de maison ?
+
+FERNANDO	Comment ? Je ne comprends pas ce que tu dis. Tu dis que moi...
+
+JULIANA	Et pourquoi pendant mon absence ?  Comme par exemple la semaine que j'ai passée à Goyania...  Tu as dormi toutes les nuits avec elle, dans mon li... dans notre lit... , n'est-ce pas, Nando ?
+
+FERNANDO	C'est absurde, Juliana...  Qui a pu te raconter des insanités pareilles ?
+
+JULIANA	Tu vas le nier ? Peu importe qui me l'a dit, ou si c'est un plaisantin qui me la dit. Ce qui m'importe c'est ce que tu as fait.
+
+FERNANDO	Moi ?
+
+JULIANA	Tu l'as fait... !  Alors que moi j'ai attendu que le divorce soit prononcé pour faire entrer un autre homme dans mon lit.  Mais pas toi... !  Tu m'as fait passer pour une idiote devant notre employée de maison.  Ce n'est pas vrai ?
+
+FERNANDO	Mais qu'est-ce que tu dis ?
+
+JULIANA	Tu as ris avec elle dans mes draps de lit, et pendant qu'elle se serait de mon champoin, de mes crèmes et de mon parfum !  C'est pas vrai ?  Elle déambulait certainement toute nue dans ma maison et vous deviez faire le mort quand quelqu'un venait sonner à cette maudite porte !  (REACS)
+
+FERNANDO	Ne sois pas ridicule, Juliana, jamais de ma vie je n'aurais fait une chose pareille... Je t'ai toujours aimée... !
+
+JULIANA	(respirations / gifle / respirations... )
+
+AMBIANCE	(coming next)
+
+(BOUCLE 33 - 10:45:45:03)
+		33
+
+AMBIANCE	(Générique fin )

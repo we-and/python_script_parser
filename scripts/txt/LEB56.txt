@@ -1,0 +1,1717 @@
+ESCLAVA EP56-H264
+26/10/2016
+
+NdA	(générique de début)
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Miguel	(hh/ hh\) (hh\ hh/) Allez, ma chérie. (h/) Plus vite ! (h/) Dépêche-toi ! (h/) (hh\ h/ hh\) (hh/ hh\ h/)
+
+Victoria	Miguel...
+
+Miguel	(hh\)
+
+Victoria	(hh/ hh\)
+
+Miguel	(hh/ hh\)
+
+Victoria	Essaye de me comprendre.
+
+Miguel	(hh/) (h\ hh/) (hhh\)
+
+Victoria	Je ne peux pas abandonner mon père.
+
+Miguel	(h\ h/) Je te comprends tout à fait. (hh/)
+
+Victoria	(hh\)
+
+Miguel	Mais retourner à l'Eden est terriblement dangereux.
+
+Victoria	(soupire)
+
+Miguel	(hh/ hh\ hh/)
+
+Victoria	(soupire) (h/)
+
+Miguel	Je me sens mal parce que ça ne s'est pas passé comme prévu et ils n'ont pas pu fuir.
+
+Victoria	(hh\) (hh/ hhh\ hh/) Je me demande si fuir est la solution appropriée.
+
+Miguel	(hh\ hh/)
+
+Victoria	(soupire)
+
+Miguel	(hhh\)
+
+Victoria	(hh/)
+
+Miguel	(mts) (tst) Très bien. (hh\ hh/ hh\ hh/) On peut faire évoluer les choses ici. (hh\ hh/) On ne les abandonne pas.
+
+Victoria	(soupire)
+
+Miguel	(hh\ hh/ hh\ hh/ hhh\ hhh/)
+
+Victoria	(hhh/) (soupire) (h/) Il vaut mieux que tu t'en ailles...
+
+Miguel	(hh\)
+
+Victoria	(hh/) Tu dois t'occuper des nôtres.
+
+Miguel	(h\ h/) Quoi ?
+
+Victoria	(hh/) (soupire)
+
+Miguel	(hh/)
+
+Victoria	(hh/)
+
+Miguel	Tu te rends compte de ce que ça signifie ?
+
+Victoria	(hh\)
+
+Miguel	(h\ hh/) Que je vais devoir me perdre dans cette forêt et que toi, tu vas devoir jouer les marquises...
+
+Victoria	(hh/) (hh/)
+
+Miguel	(hh/)
+
+Victoria	(h\)
+
+Miguel	aux côtés de cette ordure !
+
+Victoria	(h/) Oui...
+
+Miguel	(hh\)
+
+Victoria	(h/) et c'est injuste...
+
+Miguel	(hh/) (h\)
+
+Victoria	(hh/)
+
+Miguel	(hh\)
+
+Victoria	(h/) On était sur le point d'y parvenir. (hhh/) (h\) (hh/)
+
+Miguel	(hh/)
+
+Victoria	Je ne veux pas être loin de toi... (hh/) mais je ne peux pas laisser mon père tout seul à l'Eden !
+
+(BOUCLE 2 - 00:02:01:20)
+		02
+
+Victoria	(hh/)
+
+Miguel	(hh/)
+
+Victoria	(hh\)
+
+Miguel	Je préfèrerais que tu viennes...
+
+Victoria	(hh/) (hhh\)
+
+Miguel	(hhh/)
+
+Victoria	(hhh/)
+
+Miguel	mais je trouverai le moyen de te faire savoir où nous sommes.
+
+Victoria	(hhh/) (hh\) (hh\)
+
+Miguel	(h\ hhh/)
+
+Victoria	(hh/)
+
+Miguel	Je t'enverrai un message, quelque chose...
+
+Victoria	(mts hh/)
+
+Miguel	(hh/)
+
+Victoria	(hhh\)
+
+Miguel	Ou j'irai te chercher à l'hacienda.
+
+Victoria	(hhh/) Non.
+
+Miguel	Si, Victoria !
+
+Victoria	Ne fais pas ça, c'est trop risqué !
+
+Miguel	(h/) Si, je reviendrai s'il le faut !
+
+Victoria	(h\) (hhh\) (hhh/ hhh\)
+
+Miguel	(mts) Je ne veux plus te perdre, comme ce jour-là au palenque. (h/)
+
+Victoria	(mts hh/) Moi non plus.
+
+Miguel	(hhhhh/)
+
+Victoria	(hh/) (h\) Mais dans notre coeur, jamais rien de nous séparera. Jamais.
+
+Miguel	(hh/) (hh\)
+
+Victoria	(hhh\)
+
+Miguel	(x)
+
+Victoria	(x) (x)
+
+Miguel	(x) (soupire) (hhh/) (hhh/) (h\) Viens.
+
+(BOUCLE 3 - 00:02:44:18)
+		03
+
+Ambiance	(gémissements de blessés, commentaires : "On en a encore qui arrivent. / J'ai été touché ! / Je ne peux plus marcher.")
+
+Garde1	(aaah!)
+
+Isabel2	(huh!)
+
+Garde1	(aah!)
+
+Isabel2	Voilà. Voilà, monsieur, c'est fini.
+
+Garde1	(aah!) (hh/)
+
+Tarazona	Isabel !
+
+Garde1	(hh\)
+
+Tarazona	(h/) Ne faites pas n'importe quoi ! Qu'est-ce que vous fabriquez ?
+
+Isabel2	J'ai stabilisé le pied de cet homme en m'inspirant d'un livre d'anatomie. Je l'ai bien fait ?
+
+Garde1	(huuuh) (hh\)
+
+Tarazona	(Euh), oui, si vous avez bien suivi un livre d'anatomie, c'est bien...
+
+Isabel2	Je viens de poser un garrot à cette femme, mais vérifiez quand même ! (h/ h\ h/ h\ h/ h\ h/ h\)
+
+FemmeGarrot	(Ah), j'ai tellement mal...
+
+Tarazona	Il est parfait !
+
+Isabel2	(huh?) (hhh\)
+
+Tarazona	A présent... (h/) aidez-moi à examiner les blessés, là-bas. (h/) Je vais d'abord traiter ceux qui sont dans le pire état. (hhh/)
+
+Isabel2	D'accord. (h/h\)
+
+FemmeGarrot	(gémit)
+
+Tarazona	(h\) Je vais vous soigner : ça va aller.
+
+FemmeGarrot	(gémit___) (gémit____)
+
+Tarazona	(hh/) Ca va aller, ça va aller.
+
+FemmeGarrot	(hh\)
+
+Isabel2	Vous êtes blessée ? A quel endroit ? Vous pouvez ouvrir l'oeil gauche ? Laissez-moi regarder.
+
+Tarazona	(h/) Respirez. (hh\) (hh\) (hh\ hh/ hh\)
+
+Isabel2	Ne bougez pas, je reviens.
+
+FemmeGarrot	(gémit)
+
+Tarazona	(hh/)
+
+Isabel2	Et vous ? Vous êtes blessé où ?
+
+Tarazona	Ca va aller, ça va aller. (h/ h\ h/ h\)
+
+(BOUCLE 4 - 00:03:18:01)
+		04
+
+Ambiance	(conversations occasionnelles : "Il ne faut pas déranger le général..." etc)
+
+Gabriel	(h\ h/) Je suis désolé, Papa.
+
+Général	(hh\) (hhh/)
+
+Gabriel	(mts hhh/)
+
+Général	Tu le savais.
+
+Gabriel	(hh\)
+
+Général	(hh/) Tu connaissais les projets... de ces... satanés esclaves.
+
+Gabriel	(snif)
+
+Général	(hhh/) Tu étais en train de les aider.
+
+Gabriel	(hh/_____) (h\) Oui... (mts) j'étais au courant... ça ne sert à rien de le nier.
+
+Général	(h/) Pourquoi tu ne m'en as pas fait part ?
+
+Gabriel	(snif) Pour quoi faire ? (hh/) Pour que tu puisses tout arrêter ? (hh/) Toi, tu es du côté de ces monstres de propriétaires esclavagistes !
+
+Général	(h/) Je suis du côté de la loi !
+
+Gabriel	(hh/) Quelle loi ? (pleure) (mts) C'est une loi injuste, Papa. (hhh/) Ces esclaves étaient traités encore moins bien que des animaux. (hh\) (hh/) C'était leur seul moyen de s'en sortir.
+
+(BOUCLE 5 - 00:03:59:21)
+		05
+
+Général	De s'en sortir...
+
+Gabriel	(hhh/)
+
+Général	(hh/) De s'en sortir ?
+
+Gabriel	(snif)
+
+Général	Tu as vu la même scène que moi sur la plage ?
+
+Gabriel	(hh/) (snif)
+
+Général	Des hommes et des femmes... (h\) (h/) (mts) des blessés... des morts...
+
+Gabriel	(hh\) (snif)
+
+Général	(hh/)
+
+Gabriel	(snif)
+
+Général	(mts) A cause de la loi...
+
+Gabriel	(pleure______)
+
+Général	(hh\)
+
+Gabriel	(hh\ snif hh\____)
+
+Général	(hhh/) Alonso est mort.
+
+Ambiance	(quelques conversations)
+
+Gabriel	(hhh/)
+
+Général	(hh/) J'ai perdu mes enfants.
+
+Gabriel	(hh\)
+
+Général	(pleure______)
+
+Gabriel	(hhh/) Non, Papa.
+
+Général	(snif)
+
+Gabriel	(mts) Je suis là, avec toi, moi.
+
+Général	(hh\ hh/) Ne dis pas de bêtises...
+
+Gabriel	(hh/ hh\ hh/ hh\ hh/)
+
+Général	(hh/ hh\)
+
+Gabriel	Pourtant je suis debout devant toi ! (hh/) (pleure) (hh/)
+
+Général	Plus pour très longtemps. (pleure) (hh/) Tu as aidé ces fichus esclaves au vu et au su de tous ! (hh/) Tu aurais pu éviter cette catastrophe !
+
+Gabriel	(hh\)
+
+Général	(h/) Tu l'as fait quand même. (hh/) Tu as transgressé la loi !
+
+(BOUCLE 6 - 00:04:50:02)
+		06
+
+Gabriel	(hh\) (snif)
+
+Général	(hh/) (h\) Je ne peux pas continuer à te défendre.
+
+Gabriel	(hh\) (h\) (h\ h/)
+
+Général	Garde ! (h/ h\) (hh\) (hh/) (pleure) (hh\ h/) Arrêtez cet homme.
+
+Gabriel	Papa ! (h/) Je suis ton fils, quand même ! (hh/)
+
+Général	Emmenez-le et jetez-le dans un cachot !
+
+Gabriel	Non ! Papa__! (hh/) On ne fait pas ça à son fils ! (pleure)
+
+Général	(pleure)
+
+Gabriel	Papa_____!
+
+Général	(h\ hh/)
+
+(BOUCLE 7 - 00:05:32:07)
+		07
+
+Ambiance	(quelques conversations : " J'ai besoin d'un autre brancard..." etc)
+
+Tarazona	(mts hh/) Il est dans un sale état, il faut l'amputer.
+
+Isabel2	(h/)
+
+Tarazona	Isabel... enfilez une blouse.
+
+Isabel2	(h\) Oui, Docteur. Gabriel ! (hh\) Pourquoi tu es attaché ? On t'emmène où ?
+
+Gabriel	(hh/)
+
+Isabel2	Hein ? (h/) (huh?)
+
+Gabriel	(h\) S'il te plaît, dis à Manuela qu'on m'envoie en prison.
+
+Isabel2	Non... (hh/)
+
+Gabriel	(hh\ huh)
+
+Isabel2	(hh\) (pleure) (hh/) (pleure) (hh/) (hh\) (hh/) (hh\) (hh\)
+
+(BOUCLE 8 - 00:05:54:18)
+		08
+
+Remedios	(hh\ hh/) (mh\) (hh\ hh/) (h\) (aïe!)
+
+Trinidad	(h\)
+
+Remedios	(hh\) (h/) (soupire) (hh/) (hh\ hhh/) (hh\) (hh\) (mh)
+
+Trinidad	Remedios... (h/) Remedios, écoute-moi, je t'en prie.
+
+Remedios	Non, laisse-moi tranquille. (hh\)
+
+Trinidad	S'il te plaît... (h/ hh\)
+
+Remedios	(huh!)
+
+Trinidad	(hh\ hh/) Remedios, je te demande de m'écouter ! (hh/ hhh\)
+
+Remedios	(soupire)
+
+Trinidad	Ce que j'ai fait à mademoiselle Isabelita est impardonnable. (hh/_____) Mais finalement, je ne lui ai pas fait de mal.
+
+Remedios	Tu avais l'intention de lui en faire. Je n'arrive pas à comprendre ce qui t'est passé par la tête pour vouloir faire du mal à une gamine ! (hh/)
+
+Trinidad	(soupire) (hh/)
+
+Remedios	Je croyais aimer quelqu'un de bien.
+
+Trinidad	(hh\) Je suis quelqu'un de bien ! (mts h/) Mais essaie de me comprendre, un peu ! (hh/) J'ai agi sous le coup d'années de haine accumulée. (hhh/ hhh\)
+
+Remedios	(hhh\)
+
+Trinidad	Pardonne-moi, je t'en prie.
+
+Remedios	Laisse-moi.
+
+Trinidad	(h/) Rémé...
+
+Remedios	Laisse-moi, Trinidad !
+
+Trinidad	(hh/ hhh\)
+
+(BOUCLE 9 - 00:06:58:16)
+		09
+
+Miguel	(hhh\) Allez. (hhh\ hh/) On va en profiter pour se reposer un peu. (hh\ hh/) (hh\ hh/) Viens mon amour... attention. (h\)
+
+Noémi	(huh h\) (h\ h/)
+
+Milagro	(h/ h\) (hh/)
+
+Noémi	Milagro...
+
+Remedios	(hhh\)
+
+Noémi	Tu peux m'expliquer ce qui se passe entre Miguel et la marquise ?
+
+Milagro	(h/) Victoria... (h\) (h/) est la fille adoptive de papa Thomas et maman Lorenza... la voyante qui est avec nous.
+
+Noémi	Qu'est-ce que c'est que cette histoire ?
+
+Milagro	(soupire)
+
+Noémi	(h/) Pourquoi vous ne m'avez rien dit avant ?
+
+Milagro	Il fallait que ce soit comme ça. (hhh/) (soupire)
+
+Noémi	Ou alors, vous vous méfiez de moi.
+
+Milagro	(mts h/) Noémi... (h\) c'est une longue histoire, je te raconterai plus tard. (hh/)
+
+Noémi	Si tu le dis...
+
+(BOUCLE 10 - 00:07:42:00)
+		10
+
+Trinidad	(mts) (hh\)
+
+Remedios	(soupire)
+
+Trinidad	(hh/) (hhh\) Je m'en vais, Miguel. (hh/ h\) Mais je... (mts hh/) je te souhaite de réussir ce que tu entreprends. (h\ h/) Mon travail ici est terminé.
+
+Miguel	Non, mon frère.
+
+Trinidad	(h\)
+
+Miguel	(mts hh/)
+
+Trinidad	(hh\)
+
+Miguel	Pas question que tu t'en ailles. Je veux que tu restes avec moi. (hh/) Ce qui s'est passé sur la plage prouve que tu es important pour notre groupe. (h\) Je te dois la vie.
+
+Trinidad	(mts hh/) (hh\) Ne dis pas ça, Miguel. (mts h/) Je ne l'ai pas fait pour que tu me doives quelque chose. (mts hh/) Mais je suis indigne de continuer avec vous.
+
+Miguel	Bien au contraire. (hhh/) J'ai besoin de toi pour mener ce combat.
+
+(BOUCLE 11 - 00:08:30:07)
+		11
+
+Victoria	Je dois partir avec Remedios. (hh\)
+
+Remedios	(hh\)
+
+Miguel	Fais attention à toi. (hhh\) (x)
+
+Victoria	Je t'aime.
+
+Miguel	Moi aussi.
+
+Victoria	(hh\)
+
+Milagro	Je retourne à l'Eden avec vous.
+
+Lorenza	Pourquoi ?
+
+Milagro	Maman... (h/) si elles font semblant de ne pas être au courant au sujet de ce plan, je suis obligée de faire la même chose... (hh/) sinon, ça aura l'air suspect. Ne te tracasse pas trop... (hh/) on se retrouvera très bientôt. (hhh/)
+
+Lorenza	(mts) Qu'Eloga vous montre le chemin et vous accompagne, mes filles.
+
+Milagro	(hh/) (hh\) (hh/) (hh\)
+
+Lorenza	(x) (x)
+
+Victoria	(x) Allons-y.
+
+Milagro	(x)
+
+Victoria	(x)
+
+Miguel	(x)
+
+(BOUCLE 12 - 00:09:49:00)
+		12
+
+Ambiance	(quelques conversations : "S'il peut encore marcher, il peut attendre un peu. On va de ce côté, je vais vous aider.")
+
+Isabel2	Manuela ? (h/) Tout va bien ? (h/)
+
+Manuela	Non... (hh/) mon frère est introuvable... (hh/) et je ne sais pas où je peux le chercher. (hh/)
+
+Isabel2	(hh\)
+
+Manuela	Tu crois qu'il est rentré à l'auberge et que je suis ici à m'inquiéter comme une idiote ? (hh/ hh\)
+
+Isabel2	Toutes les personnes présentes sur la plage ont été ramenées ici.
+
+Manuela	(mh mh)
+
+Isabel2	(hh/) Ceux qui sont indemnes sont là...
+
+Manuela	Oui... (h/) d'accord.
+
+Isabel2	les blessés sont là-bas...
+
+Manuela	Oui... (h/ h\)
+
+Isabel2	et les morts sont là-bas.
+
+Manuela	(hhh/) (hh\) Je vais le chercher parmi les indemnes... (hh/)  puis parmi les blessés. (h\ h/ hh\) (hh\)
+
+(BOUCLE 13 - 00:10:18:20)
+		13
+
+Isabel2	Tomas ? (hh\ hh/) Qu'est-ce qui t'est arrivé ? Tomas... (h\ h/ h\ h/)
+
+Tomas	(hh\ hh/ hh\) C'était...
+
+Isabel2	Thomas...
+
+Tomas	(h\ hh/) l'enfer, mademoiselle Isabelita.
+
+Isabel2	(hh\ hh/)
+
+Tomas	(hh/) L'enfer sur Terre. (h\)
+
+Isabel2	(h/) Tu sais où est Miguel ? Pourquoi il n'est pas là ? (hh/) Est-ce qu'il est mort ?
+
+Tomas	Non. Il a pu s'échapper. (hhh/ hhh\ hhh/)
+
+Isabel2	(soupire) (hhh\)
+
+Tomas	Il y a beaucoup de blessés ici. (hhh/) Nous avons besoin d'être soignés sur le champ !
+
+Garde2	Tais-toi, esclave !
+
+Tomas	(hh/ hh\) (h/) Il nous faut des médecins ici sur le champ !
+
+Garde2	(h/) Tu ne m'as pas entendu ?
+
+Isabel2	(h/) C'est vous qui allez vous taire ! Et allez nous chercher des bandages et de l'eau ! (h/) Profitez-en pour prévenir tout Santa Marta parce que le docteur et moi, nous n'avons que deux bras !
+
+Ambiance	(commentaire : "Vous deux, allez à droite.")
+
+Isabel2	(hh/) Dépêchez-vous ! (hhh/) Tomas... Non... (pleure) (pleure)
+
+(BOUCLE 14 - 00:11:08:19)
+		14
+
+Ambiance	(brouhaha, conversations)
+
+Belen	Non ! (h/) Pourquoi, mon Dieu ? (pleure_____) (pleure_______) (hhh\ hhh/)
+
+Félipé	Je vais chercher Miguel.
+
+Belen	(hh/) (hhh\) (hh/) (hh\) (hhh/ hhh\ hhh/)
+
+Ana	Mon Dieu, quelle horreur, Paca...
+
+Belen	(hhh\) (hhh/ hhh\) (hhh/)
+
+Ana	Suis-moi... (hh/) on doit aider ces gens. (hhh/ hhh\) On va vous aider, monsieur.
+
+Belen	Ils l'ont assassiné, Maître, ils l'ont assassiné ! (hhh/)
+
+Félipé	Je suis désolé, Belen.
+
+Belen	(pleure) (hhh\)
+
+Félipé	(hh\)
+
+Belen	(hhh/ hhh\)
+
+(BOUCLE 15 - 00:11:38:24)
+		15
+
+Félipé	(hh\) (hh\ hhh/) (hh\) Tomas...
+
+Tomas	(hh\) (hh\)
+
+Félipé	Dis-moi ce qui s'est passé.
+
+Tomas	(hh/) (hh\) (hhh/) Ca a très mal tourné, Félipé. Un vrai cauchemar... (hhh/) (soupire) Granados... (mts) il nous a tendu une embuscade avec ses hommes.
+
+Félipé	Je... j'ai raté le rendez-vous. (hh/)
+
+Tomas	(soupire)
+
+Félipé	Je l'ai raté parce qu'il me suivait, et je pensais que c'était à cause de ma relation avec Ana. (h/) Comment cette ordure a pu le savoir ?
+
+Tomas	(soupire) Je l'ignore... (hhhh/) je l'ignore, mais... (h\) (hhh/) si le général n'était pas arrivé... (hhh/) ils nous auraient tué jusqu'au dernier.
+
+(BOUCLE 16 - 00:12:20:07)
+		16
+
+Félipé	Et Victoria ?
+
+Tomas	(h\) (pleure) (mts hhh/) C'était tellement confus que je n'ai pas... (mts) la dernière fois que je l'ai vue... (hhh/) elle était avec Miguel... (hhh\) (hhh/) (hh\) ils allaient... vers la montagne.
+
+Ambiance	(quelques conversations : "Posez-le ici. Merci.")
+
+Tomas	(hhh/) (hhh\ hhh/) J'espère que je ne les reverrai jamais... (pleure) (mts hhh/) (h\) Je pourrai mourir en paix en sachant... (h\ hhh/) qu'ils ont réussi... à conquérir leur liberté. (hh\) (snif) (pleure) (soupire) (hh/) (soupire) (mts)
+
+(BOUCLE 17 - 00:13:05:08)
+		17
+
+Manuela	(hh\ hh/ hh\ hh/ hh\) (h\) (hh\) (hh/) (hhh\)
+
+Ambiance	(quelques commentaires :"On doit aller chercher des bandages.")
+
+Manuela	(huuh/) (huuh\) (hh/) N... (huh) (h/) (huh) (huh) Non, non, non... (huh\) (h/) (snif) Non, non, non... Non, non, non, impossible... Non, non, non... (h/) Non, non, non... Jésus n'est pas... non... (h\ h/ hh\) (huh\) C'est impossible... (hh/) Non, non, non... (huh/) Non... (huhh/ h\) (tremble) (gémit___) (gémit___) (huh\ hh/ hh\ hh/) Ce n'est pas lui !
+
+Isabel2	(soupire)
+
+Manuela	(h\ hh/) Ce n'est pas Jésus ! (hhh/ pleure hh/)
+
+Isabel2	(hh\)
+
+Manuela	(gloups) (gémit__) (gémit___) Non... non...
+
+Général	(soupire___)
+
+Manuela	non... (pleure) (pleure h/)
+
+Isabel2	(hhh/)
+
+Manuela	Non... (h\ h/) Non, non, non... (h/) Non. (h\)
+
+Isabel2	(soupire)
+
+Manuela	Non... (hh/) (pleure h\) (mmmmh________) (gémit_______) (hh/) (pleure)
+
+(BOUCLE 18 - 00:14:03:15)
+		18
+
+Manuela	(huh/) (ah_________________!) (pleure) Jésus, non_______________... (hhh/) (pleure____) Jésu__s... (hhh/) (pleure___) (hh/) (aah___) No____n... pas mon frère... no_________n... (pleure___)
+
+Ana	(snif)
+
+Manuela	(hh/) (aah) No____n... (h/) Jésu___s... (pleure) (pleure__) (hhh/) (pleure) (hhh/)
+
+Ana	(snif)
+
+Manuela	(hh\ hh/) (pleure h/) Jésus... (h/)(h\ h/) (pleure) (h/) (pleure) No______n... pas mo____n frè_________re...
+
+Félipé	Apparemment, le capitaine Granados est responsable de cette tuerie.
+
+Général	(soupire)
+
+Manuela	(hhh/)
+
+Général	Cet homme n'était plus capitaine.
+
+Manuela	(pleure) (hh/) (pleure)
+
+Général	(hhh/)
+
+Manuela	(gémit_____)
+
+Général	Il a déshonoré son rang.
+
+Manuela	(h/)(gémit)
+
+Général	(hhh/)
+
+Manuela	(h/) (pleure)
+
+Général	(soupire)
+
+Félipé	(mts h/)
+
+Manuela	(h\)
+
+Félipé	Toutes mes condoléances pour votre fils. (hhh\)
+
+Manuela	(pleure___)
+
+Général	(hhh/)
+
+Général	(soupire) (hh/)
+
+(BOUCLE 19 - 00:14:57:18)
+		19
+
+Général	Capitaine Cacero ! (hh/) (h/ hh\)
+
+Cacero	Général !
+
+Général	(hh/) Regroupez les esclaves qu'on a capturés... (hh/) puis ramenez-les à leurs haciendas respectives.
+
+Félipé	(hh\)
+
+Général	(hh/) Je me fiche qu'ils soient morts ou blessés. Exécution !
+
+Cacero	A vos ordres !
+
+Isabel2	Non ! Non, non, non, non ! Tomas a la cheville cassée. (h/) Il est incapable de marcher, il faut lui maintenir le pied !
+
+Général	(h/) Pas d'importance.
+
+Cacero	Dépêchez-vous !
+
+Général	(h/) Ces fichus esclaves ont causé la mort d'Alonso ! (h/) Par leur faute, j'ai perdu mon deuxième fils !
+
+Isabel2	Non ! Général, ne laissez pas la haine envahir votre coeur. Les seuls coupables sont Granados (h/) et la bande de malfrats qui l'accompagnait ! (hh/)
+
+Général	Tu as vécu la scène peut-être ? (hh/) Ces esclaves n'étaient pas en train de s'enfuir, peut-être ?
+
+Isabel2	(hh/ h\ h/ hh\ hh/)
+
+Général	(hhh/ hh\)
+
+Isabel2	(pleure)
+
+Général	Ils sont responsables de cette tragédie ! (h/) Comprends-le bien ! (h/) Parce qu'ils se sont crus au-dessus des lois ! (hh/) Parce qu'ils ont refusé leur destin !
+
+Isabel2	(h/) Parce que c'est un destin injuste, ils sont... (aah!)(hh/)
+
+Général	La vie est injuste, ma petite ! Toute la souffrance qui nous entoure en est bien la preuve !
+
+Isabel2	(pleure)
+
+Général	Cacero !
+
+Isabel2	(pleure)
+
+Général	On y va ! S'ils ne marchent pas, on les traînera ! En route ! Allez !
+
+Cacero	Dépêchez-vous !
+
+(BOUCLE 20 - 00:15:55:04)
+		20
+
+Manuela	Pourquoi, Jésus, pourquoi___?
+
+Félipé	(h\) (mts hh/)
+
+Ambiance	(brouhaha : "Allez, debout, je ne le dirai pas deux fois ! En route ! Plus vite que ça !")
+
+Félipé	Il est probable que le bain de sang ne s'arrête pas là.
+
+Ana	Pourquoi tu dis ça ? (hhh\)
+
+Félipé	(mts hh\) (hhh/)
+
+Manuela	(pleure)
+
+Félipé	(hhh\)
+
+Manuela	(h\ hhh/)
+
+Cacero	Dépêchez-vous !
+
+Manuela	(hh\)
+
+Ana	(hh\)
+
+Manuela	(pleure_____) (gémit)(snif) (gémit___) (hh/)(pleure) (h\ hhh/) (pleure) (hh/) (pleure) Pas mon frère, pas mon frère... (pleure)
+
+(BOUCLE 21 - 00:16:19:24)
+		21
+
+Miguel	(h\) Faites attention ici... (h\)  Le sol est glissant. (h\) Restez groupés. Ne vous dispersez pas. (h\) (h\) (boit__) (h\) (boit) (h\) Buvez de l'eau... pour préserver vos forces et continuer, mes frères. (hh/)
+
+Noémi	On va continuer pour aller où, Miguel ? On ne sait pas où on est.
+
+(BOUCLE 22 - 00:17:04:18)
+		22
+
+Miguel	Ecoutez-moi bien ! Je sais que nous avons laissé des amis et de la famille. (hh/) Mais on ne peut pas oublier ceux qui ont atteint le bateau ! Notre mission, c'est de rester ici... et de nous battre pour que de plus en plus d'esclaves suivent le même chemin ! Quand on libère une âme de ses chaînes... (h/) c'est une partie de notre âme à tous qu'on libère.
+
+Noémi	Tu as raison !
+
+Miguel	Chaque frère qui est libre est une victoire ! On n'a pas été capturés, donc ne baissons pas les bras, continuons la lutte ! Il ne tient qu'à nous de rester invaincus. Mais pour ça, on ne peut pas rester ici sans rien dire. Je sais qu'aucun de vous ne veut redevenir esclave. Alors, courage, mes amis ! (hh\) (hh\)
+
+Lorenza	Ecoutez-moi ! Tomas, les filles et moi... on est venus par ici quand l'hacienda a brûlé. Je crois... connaître un endroit que les Blancs ne trouveront pas, Miguel.
+
+Miguel	Je vous le dis encore une fois... buvez de l'eau... et on reprend la route. Allez ! Le temps presse !
+
+(BOUCLE 23 - 00:18:14:11)
+		23
+
+Général	Nous n'avons pas réussi à rattraper plus de dix esclaves, Nicolas. (hhh/) (soupire)
+
+Nicolas	(hh/)
+
+Adela	Seulement dix ?
+
+Nicolas	(hhh\) (mts h/) Merci de nous les avoir ramenés, Général.
+
+Général	(hhh/) Il n'y a pas de quoi. (h\)(hh/) Ca a tourné au désastre. (hh\) (hhh/) Je n'ai aucun mérite là-dedans. (hhh/) (mts) Personne n'a gagné. (mts) J'ai perdu... (mts) mon fils Alonso pendant la bataille.
+
+Victoria	(hh\) Je suis désolée, Général.
+
+Nicolas	(hh\)
+
+Général	Il a été tué par l'un des hommes de Granados.
+
+(BOUCLE 24 - 00:19:00:10)
+		24
+
+Nicolas	Tout a commencé quand ces fichus esclaves ont pris la fuite.
+
+Général	(hh/) Nicolas... (hhh/) Ne laisse pas un tel crime impuni, s'il te plaît.
+
+Nicolas	Je n'y comptais pas, Fidel. (mts h/)  Je vous assure que le châtiment que je leur prépare sera exemplaire... (mts hh/) et il va leur rappeler qu'ils ne peuvent pas se croire supérieurs à nous. (mts h/) Les maîtres... (h/) c'est nous !
+
+Général	Je vais prendre congé. (hhh/) (h\) (mts) Donia Adela... je vous laisse. (hhh/) Marquise...
+
+Victoria	(h\) (mts) Je vous raccompagne.
+
+Adela	(hh\)
+
+Nicolas	(mts hh/) (hhh\) (hh/) (soupire)
+
+(BOUCLE 25 - 00:19:53:22)
+		25
+
+Nicolas	(hh/) A cause de votre bêtise... je vais perdre de l'argent. (h/) Mais c'est vous... qui allez le payer de votre sang. (h/) Vous n'êtes qu'une bande de traîtres ! (h/ hhh\) Des chiens ingrats et ignorants... qui mordent la main de quiconque leur donne le gîte... le couvert, et du travail.
+
+Tomas	Un travail dont vous êtes le seul à tirer des bénéfices.
+
+Nicolas	(mts h/) Tu aimerais qu'il en soit autrement, Tomas ?
+
+Tomas	Oui, monsieur. (hh/) J'aimerais bien. Il y a des endroits où ça a changé. Pourquoi pas ici ?
+
+Nicolas	Parce qu'ici... on est dans une région du monde... où la loi n'a pas changé. Le fruit de ton travail m'appartient... aussi bien que toi ! (h/) Et tous autant que vous êtes, vous devriez vous estimer heureux... (h/) de pouvoir remplir le rôle pour lequel vous êtes nés.
+
+Tomas	Non ! (h\ hh/) Les Noirs ne sont pas nés pour être esclaves !
+
+(BOUCLE 26 - 00:20:47:22)
+		26
+
+Victoria	(h/) Assez ! (hh/) Je ne te permets pas de parler ainsi. (hh/) (h/) Nicolas... (hh/) il faut garder nos propriétés. (hh/ hh\ hh/ h\) C'est mauvais pour tout le monde. (h/) Les châtiments que tu infliges aux esclaves... (h/) les rendent incapables de travailler. (h/) On doit retourner sans attendre à la normale !
+
+Nicolas	Ce ne sera pas réglé...
+
+Général	(mts h/)
+
+Nicolas	(mts h/) tant qu'on ne saura pas par où ils sont passés... (mts h/) et qui est leur meneur... Vous pensiez profiter de mon état... (mts h/) pour tenter de bafouer mon autorité... (h/) et me mener à ma perte ? (h\) Vous ne pouvez pas agir au gré de vos envies ! Vous avez compris ? Emmenez-les aux baraques ! Et attachez-les !
+
+(BOUCLE 27 - 00:21:29:12)
+		27
+
+Tomas	Ca ne sert à rien de les punir. C'était moi, le leader. J'ai planifié notre fuite... c'est entièrement de ma faute.
+
+Nicolas	Donc Tomas... (hh/) attachez-le tout seul.
+
+Victoria	(h\ h/) Nicolas... qu'est-ce que tu penses lui faire ? (hh/) Le battre dans l'état où il est ? (h/) Tu vas le tuer à coup sûr !
+
+Nicolas	Je veux soumettre tous les esclaves et briser leur volonté !
+
+Victoria	(hh/)
+
+Nicolas	(hh/) J'ai d'autres projets pour Tomas.
+
+Tomas	(hhh/) (h\)
+
+Victoria	Dis-moi ce que tu vas lui faire. (hh/) Regarde-le ! (h\ h/ h\ h/) C'est... un simple forgeron, et... en plus... il est vieux...
+
+Nicolas	Lucia, je ne vais pas parler de ça avec toi. Rentre dans la maison. (hh/) Toi aussi, Mère ! Remedios !
+
+(BOUCLE 28 - 00:22:20:06)
+		28
+
+Nicolas	Emmenez-les aux baraques !
+
+Général	Emmenez-les !
+
+Garde3	En marche !
+
+Garde4	On y va !
+
+Nicolas	Général, merci de m'aider à rétablir l'ordre et la loi sur mes terres. (hh/) Comme vous le savez, je n'ai plus de contremaîtres pour s'en charger.
+
+Général	Tant que tu ne les auras pas récupérés, mes hommes sont à ta disposition. En marche !
+
+Victoria	(h/) Nicolas... (h/) tu crois vraiment qu'il est derrière tout ça ?
+
+Nicolas	(soupire)
+
+Garde4	Avance !
+
+Victoria	Regarde-le !
+
+Nicolas	Lucia,  tu sais déjà ce que j'en pense.
+
+Victoria	(hh/) Mais tu ne peux pas...
+
+Nicolas	Dans la maison !
+
+Général	En marche !
+
+(BOUCLE 29 - 00:22:48:16)
+		29
+
+Victoria	(hh\) (h/ h\ hh/)
+
+Remedios	Victoria... (h/) il ne faut pas aller là-bas : tu verrais ton père souffrir, tu pourrais te trahir.
+
+Victoria	(hhh/) (hh\) (hh/ hh\) (hh/) (h/) Ils vont peut-être l'épargner... (h/) si on donne des informations sur le tunnel au général.
+
+Remedios	Non, tu ne peux pas ! Tu ne peux plus rien faire !
+
+Victoria	(h/) Si ! (hhh/ hhh\)
+
+Remedios	(h/) Tomas était conscient des risques s'il se faisait prendre et toi aussi, quand on a décidé de revenir.
+
+Victoria	(hhh\ hhh/) (hh\ hh/) Oui, mais c'est mon père, Remedios. (hhh/ hhh\ hhh/) (hh\) (hh/) (hhh\ hh/) (hh\) (hh/) (hh\ hhh/) (hh\ hhh/) (h\ hh/)
+
+(BOUCLE 30 - 00:23:23:00)
+		30
+
+Nicolas	Dites à votre soldat de procéder comme bon lui semble.
+
+Général	Je vais m'en charger. (h\ hhh/) (h/ h\ hhh/) (hhh\) (hh/ hhh\) (huh) (hh/ hh\) (h/) (h\) Vous pouvez disposer.
+
+Tomas	(hh\) (h/)
+
+Général	(hh\) (hh/ hhhh\) (huh\)
+
+Tomas	(mh) (h/ huh\) (hh/)
+
+Général	(hh\) (hh/ hhh\) (h/) (huh!) (han!) (hh/) (han!) (aah!) (h/) (han!)
+
+Nicolas	(hh\)
+
+Général	(hh\)
+
+Nicolas	Je sais que tu ne veux pas parler. (h/) Mais tu finiras par le faire ! Je vous connais : vous êtes tous les mêmes. Vous vous êtes échappés par où ?
+
+Tomas	(crache)
+
+Victoria	(hhh/)
+
+Général	(h/)(han!) (ah!) (han!)
+
+Victoria	(hh\)
+
+(BOUCLE 31 - 00:24:13:06)
+		31
+
+Octavio	Seigneur, accordez-lui le repos éternel.
+
+Ambiance	(brouhaha, quelques conversations : "Si tu veux voir le général, il est à l'Eden"... etc)
+
+Octavio	(mts hh/) (hhh\) (hh/) Seigneur, accordez-lui le repos éternel.
+
+Isabel2	Mon père ? (hhh/) Vous ne comptez pas donner... l'Extrême-onction aux esclaves qui en ont besoin ?
+
+Octavio	Si, ma fille, mais certains... sont pioritaires. Je dois m'occuper des hommes du général en premier. (hh/)
+
+Isabel2	Mais les esclaves sont à côté ! Pourquoi les ignorer ? (h/) Parce que vous considérez qu'ils ne méritent pas la miséricorde de Dieu ? Dites-moi... (h/) comment vous faites pour différencier les uns des autres ?
+
+Octavio	Ne sois pas insolente !
+
+Isabel2	(h/) Et ne haussez pas la voix pour éluder la question.
+
+Octavio	(soupire)
+
+Tarazona	Qu'est-ce qui se passe ici ?
+
+Octavio	Rien, rien, rien... rien du tout.
+
+Isabel2	Rien, rien. (h/) Le Père Octavio veut donner l'Extrême-onction aux esclaves, parce que dans son infinie bonté, il reconnaît... (hh/) qu'ils sont aussi les enfants de Dieu, n'est-ce pas ?
+
+Octavio	Oui, oui. (h/) J'y vais. Je vais le faire tout de suite.
+
+Isabel2	(hh\)
+
+Tarazona	Isabel... suivez-moi s'il vous plaît : j'ai besoin de votre aide.
+
+Octavio	(h\)
+
+Isabel2	Je vous laisse.
+
+Octavio	Oui. Je viens, je viens. Je viens.
+
+(BOUCLE 32 - 00:25:09:13)
+		32
+
+Ambiance	(quelques commentaires de blessés :"(aah) j'ai tellement mal...")
+
+Octavio	(hhh/) Prépare ton âme à entrer au paradis, mon fils... parce que Dieu... nous aime tous de la même façon. (hh\) (hhh/) Prépare ton âme à entrer au paradis... (h/) parce que Dieu nous aime tous de la même façon...
+
+(BOUCLE 33 - 00:25:28:05)
+		33
+
+Général	(huh) (han!)
+
+Tomas	(hh/)
+
+Général	(huh\) (h/)
+
+Victoria	(hhh/ hh\)
+
+Tomas	(hh/)
+
+Nicolas	Avoue, moins que rien ! (h/) Vous êtes passés par où ? (h/) Comment vous avez fait pour ne pas être vus par les gardes ? (h/) Il y a quelqu'un qui vous a aidés !
+
+Victoria	(hh/) Tomas... (h/) si tu sais quelque chose, dis-le.
+
+Général	Espèce de salaud... avoue ! (h\ h/) Comment vous avez fait pour arriver à la plage nord, hein ? Dis-le-moi ! Personne ne vous a vus traverser la ville ! Vous avez fait comment... sans emprunter aucun chemin ? (h/) Avoue !
+
+Victoria	Général...
+
+Nicolas	(hh\)
+
+Victoria	(hhhh/) cet homme n'est au courant de rien.
+
+Nicolas	(hhh/) (hhh\)
+
+Victoria	(hh/ hh\ hh/ hh\)
+
+Général	(aah)
+
+Nicolas	(hhh/) (hhh\)
+
+Victoria	(hh/)
+
+Nicolas	Si tu n'avoues pas... (hh/) on te déchiquette... le dos à coups de fouet !
+
+(BOUCLE 34 - 00:26:11:18)
+		34
+
+Général	(han!) (haa!) (h\) (h\ h/) (han!)
+
+Tomas	(hh/)
+
+Nicolas	C'est comme ça que tu veux mourir ?
+
+Tomas	(hh\) (hh/ huh) (hh/ h\ hh/)
+
+Nicolas	Tu préfères qu'on fasse subir ça à ta fille ?
+
+Général	(huh)
+
+Victoria	(hh/)
+
+Général	(yaah!)
+
+Tomas	(gémit)
+
+Général	(h/)
+
+Tomas	(huh), non. (h/) Non ! (h/ h\ h/ h\) Non... (hh/ hh\ hh/ hh\ hh/) Ma fille ne sait rien. (hh/ hhh\)
+
+Général	(hhh\)
+
+Nicolas	(ah ah ?)
+
+Tomas	(hhh\ hh/)
+
+Victoria	(huuh\)
+
+Nicolas	(rit)
+
+Tomas	(hh\) Elle ne sait rien.
+
+Nicolas	Ta fille ne sait rien ?
+
+Tomas	(hh\)
+
+Nicolas	(h/) Tu me prends pour un imbécile ?
+
+Victoria	Nicolas !
+
+Tomas	(hh/)
+
+Nicolas	(hh\)
+
+Victoria	(hh/) Je t'ai dit que Milagros n'est pas-
+
+Nicolas	Je t'ai dit de rentrer à la maison, Lucia !
+
+Victoria	(hh\)
+
+Nicolas	(h\) Pourquoi tu te soucies tellement de ces moins que rien ?
+
+Victoria	(hh/) Toi ! Toi ! C'est de toi que je me soucie tant. (hh/) Tu es faible et j'ai peur qu'il t'arrive quelque chose. (hh/ hh\)
+
+Nicolas	(h/) Continuez, Général.
+
+Victoria	(hh/)
+
+Général	(raa___h!)
+
+(BOUCLE 35 - 00:26:54:11)
+		35
+
+Général	(huh) (han!)
+
+Tomas	(aah!) (h/) (aah!) (hh/)
+
+Général	(raah!)
+
+Tomas	(aah!) (h/) (ah!)
+
+Général	(hh\ hh/ hhh\)
+
+Tomas	(hh/) (hh\ hh/) (huh\) (h/) (huh\) (h/ h\)
+
+Général	(h\)
+
+Tomas	Il y a un... tunnel. (hh/ huh\ hhh/) Il y a un tunnel. (hh/ hh\ hhh/) (huh\ hh/)
+
+Nicolas	Où ça, un tunnel ?
+
+Tomas	(huuh\ hh/) (hh\)
+
+Nicolas	(hh/)
+
+Tomas	Ici, à l'Eden. (hh/)
+
+Nicolas	(hh\)
+
+Tomas	(hh\)
+
+Nicolas	Quel genre de tunnel, bon sang ? (h/) Vous l'avez creusé quand ?
+
+Tomas	(hh\ hh/ hh\ hh/) Il était déjà là.
+
+Nicolas	(hh/ hh\ hh/)
+
+Général	(hh\ hh/)
+
+Tomas	(hh/)
+
+Nicolas	A quel endroit ?
+
+Tomas	(hh\) (huuh\)
+
+Général	(huh)
+
+Tomas	(hh/)(hh\)
+
+Nicolas	(huuh\)
+
+Tomas	(hh\ hh/)
+
+Général	Tu peux y aller, Nicolas. (hh/)
+
+Nicolas	(huh\)
+
+Général	Je m'occupe de faire parler ce satané esclave.
+
+Tomas	(hh/)(huuh\)
+
+Général	(hh\) (han!) (ah!)
+
+Tomas	(huuh!) (hh\ hh/ hh\)
+
+Général	Tu vas parler... (han!)
+
+Tomas	(gémit)
+
+Général	(aah!)
+
+Tomas	(huuh\ hh/) (hh\) (hh/)(hh\) (hh\) (hhh\)
+
+(BOUCLE 36 - 00:27:44:01)
+		36
+
+Victoria	(hh\)
+
+Milagro	(mts) Qu'est-ce qu'ils ont fait à mon père ?
+
+Victoria	(h\ hh/) (mts) Il est dans les baraques, attaché. (mts) Ils le torturent... (h/) pour savoir par où tout le monde s'est échappé. (hh\ hhh/) (hh\)
+
+Milagro	(mts) Il a dit quelque chose ?
+
+Victoria	(huh)
+
+Remedios	Il n'a pas eu le choix, Milagro. Don Nicolas trouve ça très étrange que tu n'aies pas été mise au courant du plan.
+
+Milagro	(hh\) (h\) (hh/) (hh\) (pleure) Ils comptent me torturer aussi ?
+
+Victoria	Non ! (h/) Bien sûr que non !
+
+Milagro	(mh)
+
+Victoria	(hh/)
+
+Milagro	(hh\)
+
+Victoria	(h/) Je ne l'autoriserai pas.
+
+Milagro	(pleure)
+
+Victoria	(h\ hhh/) Je dirai qui je suis... (h/) avant qu'ils te fassent du mal à toi ou au bébé. (hh\ hhh/)
+
+Remedios	N'y pensons pas encore. (hhh/) Pour l'instant...  l'attention de ces hommes se concentre sur la révélation de Tomas. (hh/)
+
+Victoria	(hh/) J'ai pensé à te faire sortir d'ici avec Papa... (hh/) mais la maison est pleine de soldats et Nicolas refuse de se reposer. (hhh/ hhh\) (hh/ hhh\) (snif)
+
+(BOUCLE 37 - 00:28:41:20)
+		37
+
+Général	Soldat ! (hh/) Prenez la corde et descendez.
+
+Garde5	Oui, mon général.
+
+Général	Allez-y.
+
+Garde5	(hh\ hh/ hh\) (hh\) (hh\) (hh\ hh/ hh\) Mon général ! Il y a un tunnel qui s'enfonce assez loin.
+
+Général	Envoyez-lui des torches ! (h/) Inspectez le tunnel !
+
+Garde5	Oui, mon général.
+
+Général	Diaz...
+
+Diaz	Oui, chef !
+
+Général	prévenez les haciendas... (h/)  qui ont des esclaves manquants... (hh/) Dites leur de passer leurs terres au peigne fin... (hh/) à la recherche de tunnels comme celui-ci !
+
+Diaz	A vos ordres, mon général !
+
+Général	Exécution !
+
+Diaz	Oui ! (hh\ hh/)
+
+Général	(hh\) Tenez. Je vais descendre. (h\)
+
+Garde5	Soyez prudent, mon général.
+
+Général	(h/ huuh)
+
+(BOUCLE 38 - 00:29:38:12)
+		38
+
+Adela	(mts)(soupire______) (snif) La seule chose qui aide à... (gloups) à étancher ma soif, c'est... merci, c'est ça. (gloups) (gloups) (mphh\) (gloups mts) Il faut résister. Rien ne va plus dans cette maison. Il s'est passé des choses... (mts) pas jolies. (h/) (pleure) (hhh/) Pourquoi je te raconte tout ça, à toi ?
+
+(BOUCLE 39 - 00:30:19:11)
+		39
+
+Adela	(hhh/) J'avais mon esclave, Hilaria... et mon fils... mon propre fils... il l'a tuée. Comme on tue un vieux chien. (h/) (mts) Il m'a dit qu'il l'avait vendue aux mines, mais ce n'était qu'un mensonge. Elle est belle, ma famille, hein ! Elle est belle, ma famille. (soupire_______) (soupire) (hhhh/) (soupire___)
+
+(BOUCLE 40 - 00:31:05:10)
+		40
+
+Adela	(soupire) (hhh/______) La bouteille est vide... mais je veux un cinquième verre. (hhh/) (soupire) (hhh/____) (soupire______) (hh\) (hh\) (mts huh) (soupire) Ne me touche pas ! (hh/) Comment oses-tu m'approcher de la sorte ? (hh/) Je suis ici chez moi ! (h/) Je suis encore chez moi ! (hhhh/) (soupire____) (hhh/__) (soupire) (mts) (souffle_____) (hh/ h\) (mts) (hhh\)
+
+(BOUCLE 41 - 00:31:55:12)
+		41
+
+Adela	(h\ hh/ soupire) (hh/) (huh) (hum) (gloups) (hh\) (hhh/ hhh\) (hh/ hh\ hh/) (snif) (mts) (soupire) (h\ hh/ hh\ hhhhh/) (soupire) (huh\) (h\ h/) (mh) (hh\) (hhh/) Nicola___s... (hh/) Nico- (mh!)
+
+(BOUCLE 42 - 00:32:37:24)
+		42
+
+Adela	(h/) Nicolas ! (h\ snif hh\)
+
+Nicolas	(hh/) Quoi, encore ? (hh\)
+
+Adela	Le général n'est pas là ? (h/ h\)
+
+Nicolas	(mts h/) Le général... (h\) se trouve dans le trou par lequel ces maudits esclaves se sont échappés.
+
+Adela	(h\ hh/)
+
+Nicolas	Pourquoi ?
+
+Adela	(hh\ snif) Parce qu'ils nous ont volé ! (hh\) (th\) (hhh\)
+
+Nicolas	(hh/) Quoi ?
+
+Adela	(hh\) (hh/) (h/) Les esclaves nous ont volé tout ce qu'on possédait. (h/) Ils ont emporté tout l'argent qui était dans le coffre-fort ! (snif) Et mes bijoux ! (h/) Ils ont pris tout ce qu'on avait.
+
+Nicolas	(h/) Tu en es complètement certaine ?
+
+Adela	(souffle__)
+
+Nicolas	(h\) Et maintenant, on va faire quoi ? (hh/) (hh\) (hh/)
+
+Adela	(mh)
+
+Nicolas	(hhhh/) Les ordures...
+
+(BOUCLE 43 - 00:33:22:20)
+		43
+
+Victoria	(h/) Soldats... (h/) sortez. (hh\) (hh/)
+
+Garde6	Oui, madame.
+
+Garde7	Oui, madame.
+
+Garde6	(h\)
+
+Victoria	(hhh\) (hh/) (hh\) (hhh/) (hh\) (pleure)(hhh/)
+
+Tomas	(hh\) Pourquoi tu es revenue ?
+
+Victoria	(hhh\ hhh/) (hh\) (hhh/)
+
+Tomas	(hhh\)
+
+Victoria	(mts) Pour toi. Parce que je ne peux pas t'abandonner. (hhh/ hhh\) (hh/)
+
+Tomas	(h\) Non, Victoria... (hhh/)
+
+Victoria	(mts hh\ hh/)
+
+Tomas	Tu aurais dû partir avec les autres...
+
+Victoria	(hhh\)
+
+Tomas	(hh/) prendre le bateau...
+
+Victoria	(snif)
+
+Tomas	(hhh/) avec Miguel...
+
+Victoria	(hhh\)
+
+Tomas	avec Lorenza et Milagro...
+
+Victoria	(mts hh/) (h\ hh/) Et te laisser seul ici ? Non, Papa ! (hh/) Ils se sont réfugiés dans la montagne, ils nous attendent.
+
+Tomas	(soupire)
+
+Victoria	(hh/) Toi et moi... (pleure) Milagro et Remedios.
+
+Tomas	(h/) Comment ?
+
+Victoria	(hh/)
+
+Tomas	(h/ hh\) Comment tu vas y arriver ?
+
+Victoria	(hh/)
+
+Tomas	Dis-moi...
+
+Victoria	(hhh\)
+
+Tomas	(hh\) (hh/)
+
+Victoria	(hhh/)
+
+Tomas	comment ?
+
+Victoria	(mts)
+
+(BOUCLE 44 - 00:34:15:16)
+		44
+
+Victoria	(huh)(hh\)
+
+Tomas	Hein ? (hh/)
+
+Victoria	(snif)
+
+Tomas	J'ai tout essayé... (h\ h/)
+
+Victoria	(mts hhh/)
+
+Tomas	tout essayé... (hh/) Ca n'a servi à rien.
+
+Victoria	(hh\)
+
+Tomas	(hhh/)
+
+Victoria	(snif)
+
+Tomas	(h\) Quand vas-tu comprendre... (hh/) que ce plan a tourné au désastre ?
+
+Victoria	(snif) (h\)
+
+Tomas	(hhh/)
+
+Victoria	(mts hh/)(hh\)
+
+Tomas	Rien n'a fonctionné.
+
+Victoria	(hh\ hh/)
+
+Tomas	(hhh/) Rien n'a fonctionné...
+
+Victoria	Ca n'a pas d'importance. (hh/) Pas question... de vivre à nouveau séparés.
+
+Tomas	(hhhhh/)
+
+Victoria	(hh/)
+
+Tomas	(h/)
+
+Victoria	(hh/) Je suis revenue d'Espagne... pour tous vous sauver. (hh/) Tous vous sauver, sans exceptions. Et je compte bien y arriver.
+
+Remedios	(h\)
+
+Victoria	(hhh\)
+
+Remedios	Victoria...
+
+Tomas	(soupire)
+
+Remedios	moins fort, ils peuvent entendre....
+
+Tomas	Victoria... (h\)
+
+Victoria	(snif)
+
+Tomas	(hh/)
+
+Victoria	(hhh\ hhh/)
+
+Tomas	(h\) tu vas m'écouter, bon sang ?
+
+Victoria	(hh/)
+
+Tomas	(huh) (huh) Tu dois faire ce que je te dis ! (hh/)
+
+Victoria	Non !
+
+Tomas	(hh\ hh/) (hh\)
+
+Victoria	(hh\ hh/ hh\)
+
+Tomas	Je ne veux plus... (hh/) que tu me défendes.
+
+Victoria	(h\)
+
+Tomas	(h/)
+
+Victoria	(hh/)
+
+Tomas	Je ne veux plus...
+
+Victoria	(snif)
+
+Tomas	(hhh/ hh\)
+
+Victoria	(h\ hh/)
+
+Tomas	(hhh/)
+
+Victoria	(hh/)
+
+Tomas	que tu te consacres... (hhh/) à nous... (hhh/) ou à notre fuite.
+
+Victoria	(hhh\) (hh/)
+
+(BOUCLE 45 - 00:35:05:02)
+		45
+
+Victoria	(hh/ hhh\)
+
+Tomas	(hhh/) Victoria... (hh/) ma petite fille chérie...
+
+Victoria	(hhh/) (hhh\)
+
+Tomas	(hh/) (pleure) Ma vie, je l'ai déjà vécue.
+
+Victoria	(pleure)
+
+Tomas	C'est fini...
+
+Victoria	(hhh\) (snif)
+
+Tomas	(hhh/)
+
+Victoria	(hh\ h/)
+
+Tomas	Toi, tu as la vie devant toi.
+
+Victoria	(hh\ hh/) (hh\) (snif)
+
+Tomas	(hhh/) Ce n'est pas normal...
+
+Victoria	(hhh/)
+
+Tomas	(h\) qu'un père survive à ses enfants.
+
+Victoria	(huh) (hhh/)
+
+Tomas	(soupire) (hhh/)
+
+Victoria	(hh/) (hh\)
+
+Tomas	(pleure) J'ai déjà vu Rosita mourir.
+
+Victoria	(pleure)
+
+Tomas	(hhh/) Ne m'oblige pas... (hh/) à revivre la même chose avec toi et avec Milagro.
+
+Victoria	(hh/) (hhh\)
+
+Tomas	(hhh/) Promets-moi...
+
+Victoria	(pleure) (hhh\)
+
+Tomas	(mts hh/)
+
+Victoria	(snif)
+
+Tomas	que tu vas partir... (hhh/)
+
+Victoria	(gloups)
+
+Tomas	et que tu ne vas plus rien tenter.
+
+Victoria	(pleure)
+
+Tomas	(hhh/)
+
+Victoria	Non... non.
+
+Tomas	Promets-le-moi.
+
+Nicolas	Qu'est-ce que tu fais ici ?
+
+Garde7	Don Nicolas ?
+
+(BOUCLE 46 - 00:35:51:13)
+		46
+
+Victoria	(hh\)
+
+Tomas	(hhh\ hhh/)
+
+Victoria	J'étais simplement en train...
+
+Tomas	(hh\ hhh/)
+
+Victoria	(mts) d'essayer...
+
+Nicolas	Tais-toi !
+
+Tomas	(hh/ hh\)
+
+Victoria	(hhh/) (soupire)
+
+Tomas	(soupire)
+
+Victoria	(hhh/) (soupire)
+
+Tomas	(soupire)
+
+Victoria	(hh/)
+
+Nicolas	Après tout ce que j'ai fait pour toi et ta famille... (h/ h\ hh/) Je vous ai fait une faveur en vous gardant ensemble ! (h/) C'est comme ça que tu me remercies ?
+
+Tomas	(hh/)
+
+Nicolas	Hein ?
+
+Tomas	(hh/ hh\) (hh/ hh\)
+
+Nicolas	En me volant ?
+
+Tomas	(hhh/) (h\) C'était une faveur...
+
+Nicolas	(hh\ hh/)
+
+Tomas	(mts) qui ne vous a rien coûté. (hh/ hh\ hh/)
+
+Nicolas	(hh\)
+
+Tomas	Ce n'était pas... (hh/)  de la gentillesse, vous le savez très bien. (hhhh/) Vous ne nous avez... (h\)  (hh/) ni vendus ni séparés parce qu'on vous servait bien.
+
+Victoria	(pleure)
+
+Tomas	(hhh/ hhh\ hhh/) Pour les gens comme vous... (hhh/)
+
+Nicolas	(hhh\ hhh/)
+
+Tomas	il n'y a que l'argent qui compte.
+
+Nicolas	(hh/)
+
+Tomas	(hhh/)
+
+Nicolas	(fulmine)
+
+Tomas	Rien de plus.
+
+Nicolas	(h\ hh/)
+
+Tomas	(hhh/)
+
+Nicolas	(hh\ hh/) (h/)
+
+Victoria	(huuh!)
+
+Nicolas	(han!)
+
+Tomas	(ah!)
+
+Nicolas	(hh\ hh/ hh\ hh/ hh\)
+
+Tomas	(kof kof) (kof kof) (h/ kof) (kof) (h/) (kof kof) (h/ huh) (hh/)
+
+Nicolas	Soldats, surveillez-le !
+
+Tomas	(huhh\) (h/) (hhh\) (h/)
+
+Victoria	Qu'est-ce que tu vas lui faire ? (huh/) (hh\) (hhh/) (mh) (pleure) (hhh\) (hhh/) (hhh\) (hhh/) (hhh\) (hhh\) (hh/) (soupire)
+
+(BOUCLE 47 - 00:37:07:21)
+		47
+
+SoeurAlicia	(h/) Merci du fond du coeur. (h/) Dieu vous bénisse. (hhh\ hhh/) (hhh\ hhh/) (khh\) (hh/) (hh\ hh/) (hhh\ hhh/) (hh\) (hhh\) (hh/) (h\) (hh/) (hh\) (hhh\) (hh/ hhh\) (hhh\) (hh/)
+
+Marquise	Attendez, je sais : ils veulent nous faire payer.
+
+SoeurAlicia	(h/) Non. (hh/) Ils viennent de m'indiquer le chemin. (hh/)
+
+Marquise	(Ah), oui ?
+
+SoeurAlicia	(hh/) Allons bon, Marquise... (hh/)
+
+Marquise	(Ah), vous savez... j'ai arrêté de faire confiance... aux gens de ce pays... qui passent leur temps à nous mentir.
+
+SoeurAlicia	(hh/) Vous auriez au moins pu prendre congé.
+
+Marquise	Tant pis... (mts hh/) Poursuivons notre route, maintenant.
+
+SoeurAlicia	(hhh\) Voilà. (mts hhh/) Mais il semblerait que le pire soit derrière nous. (hhh/) Encore un petit effort... (hh/) et nous y sommes. (h\ hh/) (soupire) (hhh\) (hh/ hh\) Tenez.
+
+Marquise	Non, merci. Gardez votre bâton.
+
+SoeurAlicia	(hhh/) (soupire) (mts hh/) (h\) Allez, du courage, Marquise. (hhh\)
+
+Marquise	Comment pouvez-vous dire une telle chose ?
+
+SoeurAlicia	(hh\)
+
+Marquise	Je vais me fâcher, ça ne m'amuse pas du tout.
+
+SoeurAlicia	(soupire) (soupire)
+
+(BOUCLE 48 - 00:38:25:13)
+		48
+
+Noémi	On est déjà passés par là.
+
+Lorenza	Je ne crois pas, non.
+
+Miguel	On s'arrête deux minutes ! Ecoute... (hh\ hh/) j'ai l'impression qu'on est perdus aussi.
+
+Trinidad	(hh\)
+
+Miguel	(h/) Regroupez-vous... par là... vite, cachez-vous ! (h\ h/ h\) (h\)
+
+SoldatForêt1	Ne bougez pas ! Approchez.
+
+Miguel	(h\)
+
+Trinidad	(huh)
+
+SoldatForêt2	(huh!)
+
+SoldatForêt1	(ah!)
+
+SoldatForêt2	(ah!)
+
+Miguel	(h\ h/ h\) Il y en a combien avec vous ? (h/) Répondez !
+
+Trinidad	Tu as une idée de ce qu'on fait de ces deux-là ?
+
+Lorenza	Miguel ! Trinidad ! Ne les tuez pas ! Ca se voit que ces gamins sont terrifiés et qu'ils ont reçu des ordres !
+
+Miguel	(hh/) On vous laisse la vie sauve à une condition... (hh/) vous raconterez qu'ici, il y a une armée de Noirs prêts à couper la tête (h/) à quiconque veut nous persécuter ! Filez tant que vous pouvez ! Allez ! (hhh\)
+
+(BOUCLE 49 - 00:39:50:04)
+		49
+
+Nicolas	Relevez-le.
+
+Tomas	(hh\ hh/) (hh\) (huh) (h/ h\) (hhh\ hhh/) (hhh\ hhh/) Marquez-moi au fer rouge... (hh/) mille fois si ça vous chante... (hh/) jamais je ne vous appartiendrai.
+
+Nicolas	(sourit)
+
+Tomas	(mts hhh/) Moi... (h\) (hhh/) Tomas... je ne me soumettrai jamais. (hh/)
+
+Nicolas	(mts hh/) Je peux faire autre chose que te marquer au fer rouge. (h\)
+
+Tomas	(hh\) (aaa__________h!) (h/) (aaa_________h!)
+
+Victoria	(huh\)
+
+Tomas	(h/)(ah! aaah!) (ah!) (huh! huuh/)
+
+Nicolas	(hhh\)
+
+Tomas	(huuh\) (hh\)
+
+Nicolas	(hh\) (hhh\) (mts h/) Viens, ma chérie.
+
+Tomas	(hhh\)
+
+Nicolas	(hh/) Nous avons besoin de repos... (hh/ hh\) après les horreurs causées par ces sous-hommes.
+
+Tomas	(hh\)
+
+Victoria	(hh/) (hhh\) (hh\)
+
+NdA	(générique de fin)

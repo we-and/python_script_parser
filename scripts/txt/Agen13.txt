@@ -1,0 +1,782 @@
+
+
+[ AGENT 13 ]
+
+
+
+
+
+
+1 (10:00:00:01)
+
+JEAN-PIERRE	(h)
+
+OUT (10:01:52:14)
+
+
+2 (10:02:24:09)
+
+DELILAH	Le pistolet c'était une mauvaise idée. Utilisons plutôt le couteau à la place. Pour diminuer les chances de se faire prendre. Sinon on est foutus.
+
+MONTE	(mts) Ça risque rien on me fera entrer.
+
+DELILAH	Tu as un ticket?
+
+MONTE	Oui. (hm) Pour l'espace réservé.
+
+DELILAH	Tu es sûr que Lesego sera là?
+
+MONTE	(h) Oui, Blaze me l'a garanti.
+
+DELILAH	Et tu comptes tomber sur Lesego dans le vestiaire, et ensuite c'est à mon tour.
+
+MONTE	Non, ça c'était avant que je reçoive un ticket.
+
+OUT (10:02:58:22)
+
+
+3 (10:03:06:12)
+
+DELILAH	Tiens. Prends ce couteau.
+
+MONTE	(h) Je te garantis rien, ça sera pas facile.
+
+DELILAH	Mais alors... autant arrêter tout ça. Tu sais, t'es pas obligé de le faire...
+
+MONTE	Non non non, écoute... écoute-moi. C'est trop tard pour qu'on s'arrête maintenant, on doit aller jusqu'au bout.
+
+DELILAH	Et si tu te fais prendre, qu'est-ce que je vais devenir sans toi? Enfin, essaye de comprendre... Il y a des policiers dans les stades, qu'est-ce qu'on fera si la police te trouve et t'abat? Qu'est-ce que je vais devenir sans toi, Monte? Je suis foutue.
+
+MONTE	Delilah, écoute-moi, Delilah.
+
+DELILAH	Ça serait la fin pour moi. (h//\\)
+
+MONTE	Tu veux bien? Ce type... il a foutu ta vie en l'air. Il a détruit notre famille. Peut-être que toute ma vie n'a servi qu'à m'amener ici, qu'à me donner la chance de le punir.
+
+
+4 (10:03:51:07)
+
+DELILAH	D'accord. D'accord. Monte, je t'en prie... cet homme m'a volé ma liberté. alors reviens et rends-la moi. Reviens vivant. Et rends-moi ma liberté.
+
+OUT (10:04:12:04)
+
+
+5 (10:04:19:23)
+
+DELILAH	Ça va aller. (h)
+
+MONTE	(h) Allez.
+
+DELILAH	Fais attention.
+
+MONTE	D'accord.
+
+OUT (10:04:28:04)
+
+
+6 (10:06:54:19)
+
+BLAZE	Et merde. (hmhm) (h//) Allô?
+
+PHUMLANI	Tu m'as appelé.
+
+BLAZE	Oui, euh, est-ce que tu peux m'accorder cinq minutes par téléphone.
+
+PHUMLANI	Non, je crois pas, mais oublie le téléphone, je peux t'accorder quinze minutes en face à face.
+
+BLAZE	Euh, d'accord? Où... où tu veux qu'on se rencontre?
+
+PHUMLANI	J'ai une petite idée pour un lieu de rendez-vous. C'est dans la zone industrielle, je vais t'envoyer l'adresse. Viens pour huit heure trente.
+
+BLAZE	D'accord.
+
+PHUMLANI	Ah, Blaze? T'as pas intérêt à être en retard cette fois.
+
+OUT (10:07:21:20)
+
+
+7 (10:08:01:00)
+
+MILA	C'est trop peu, et beaucoup trop tard. (mts) Sli.
+
+OUT (10:08:06:24)
+
+
+8 (10:09:11:14)
+
+LESEGO	Tu sais, pour tout te dire, j'ai toujours cru que tu craquais sur Blaze et finirais avec. Et pas juste parce que vous êtes des fans du club de Liverpool, mais... enfin, tu vois.
+
+JADE	Ça m'est arrivé d'y réfléchir, mais... C'est jamais arrivé. (ahahah) (ah) (oh)
+
+LESEGO	(ahah) C'est pas mal ça!
+
+OUT (10:09:32:23)
+
+
+9 (10:09:39:00)
+
+LESEGO	J'arrive pas à y croire. (h//) J'ai un trac monstre, je te raconte pas. C'est comme si j'allais jouer mon tout premier match.
+
+JADE	C'est peut-être ton match d'adieu au club après tout.
+
+LESEGO	Ouais. (h) Crois-moi... (h//) Je le sais bien. Je... (mts) quand je vais entrer sur le terrain ce soir... Je vais donner tout ce que j'ai. Je vais faire du beau jeu. Et jouer autant que je veux, juste une dernière fois. Pour les fans.
+
+JADE	(ah) Tu penses vraiment à prendre... ta retraite à vingt neuf ans? C'est très jeune pour un footballeur!
+
+OUT (10:10:18:07)
+
+
+10 (10:10:24:19)
+
+LESEGO	(mts) Tout à l'heure... (mts) (h//) Après le match... Blaze et moi on a une interview pour toi.
+
+JADE	Une interview exclusive?
+
+LESEGO	(h) (mts) Pour t'arranger on pourra la faire en salle de réunion... (h//) au club. Juste... toi, moi et Blaze.
+
+JADE	Attends, tu annonces directement ta retraite?
+
+OUT (10:10:47:20)
+
+
+11 (10:10:58:06)
+
+LESEGO	C'est important, Jade. (h//\\) Tu peux faire ça pour moi?
+
+JADE	Bien sûr.
+
+OUT (10:11:06:11)
+
+
+12 (10:11:38:09)
+
+PHUMLANI	Le décompte pour tes quinze minutes commence maintenant.
+
+BLAZE	(h) (h) Faut qu'on parle de Lesego.
+
+PHUMLANI	D'accord, à quel sujet?
+
+BLAZE	Laisse-le jouer ce soir. Il est toujours le capitaine de l'équipe et ton porte-bonheur.
+
+PHUMLANI	Il me porte plus chance depuis longtemps, et tu le sais Blaze.
+
+BLAZE	Peut-être. Tu as peut-être raison. Mais quand je regarde la photo de l'équipe, je le vois à côté de Giovanni avec son brassard de capitaine.
+
+PHUMLANI	Et il le gardera pour quatre vingt dix minutes et pas une de plus.
+
+BLAZE	Donc il jouera?
+
+PHUMLANI	(h//) Giovanni m'a bassiné toute la matinée pour que je laisse jouer Lesego. Je peux bien le laisser gérer son dernier match en tant que coach comme il l'entend. Quoi d'autre?
+
+BLAZE	(mts) Hervé.
+
+PHUMLANI	Tu fais référence à l'offre d'Apollo?
+
+BLAZE	Si tu parles de l'offre qui bat tous les records, oui.
+
+PHUMLANI	L'offre ne battra les records que si on l'accepte. J'ai pas encore pris ma décision.
+
+BLAZE	Y a pas à réfléchir.
+
+
+13 (10:12:32:01)
+
+BLAZE	Même moi j'ai conscience que le gamin vaut pas une telle somme, pas encore en tous cas.
+
+PHUMLANI	(mts) Justement, j'hésite parce que cet offre n'a aucun sens, tu vois. (h//) Pourquoi Zoé irait faire une offre aussi aberrante, après tout? (hm?) A moins... (mts) qu'elle tente de m'intimider.
+
+BLAZE	Elle a conscience qu'Hervé vaudra bientôt cette somme, c'est tout.
+
+PHUMLANI	Le gamin n'a joué que... huit rencontres, dans toute sa carrière.
+
+BLAZE	C’est un apport de fonds très intéressant pour le club. (h//) Surtout en ce moment où-
+
+PHUMLANI	Ne prétend pas connaître nos finances.
+
+BLAZE	(h//) Laisse-moi être direct. (h//) Hervé n'a pas de futur dans ton club. Et tu n'as pas digéré qu'il m'ait choisi moi, Et pas toi ni Jean-Pierre comme agent.
+
+PHUMLANI	Continue, Blaze. Continue à m'insulter comme ça et ton petit protégé passera la journée sur le banc des remplaçants.
+
+BLAZE	Tu raterais l'opportunité de l'exposer aux acheteurs!
+
+
+14 (10:13:26:03)
+
+PHUMLANI	Blaze, tu forces ma main. Et je déteste par dessus tout qu'on me force la main.
+
+BLAZE	Phumlani... si tu refuses son offre... à Zoé... Je ne peux pas te garantir que tu recevras une offre comparable.
+
+PHUMLANI	Ce que tu devrais réellement craindre, c'est qu'après le match de ce soir, il y aura un nouveau monde, avec de nouvelles règles. Et je ferai ce que je veux, comme je le veux. Si tu n'as rien à rajouter, tu peux dégager de ma voiture.
+
+BLAZE	C'est quoi cette boîte?
+
+OUT (10:13:54:07)
+
+
+15 (10:14:27:10)
+
+BLAZE	Natalie?
+
+NATALIE	Sli!
+
+BLAZE	Qu'est-ce que tu fais là?
+
+NATALIE	Mais toi qu'est-ce que tu fais là?
+
+BLAZE	J'avais une réunion d'affaires.
+
+NATALIE	Une réunion d'affaire avec qui, Al Qaeda?
+
+BLAZE	Quoi? Non! (hm) J'étais avec le président de Malboro. Enfin, le nouveau président du club, Phumlani. C'est le fils de Walter.
+
+NATALIE	Oui bah je crois que ton président fréquente des terroristes.
+
+BLAZE	Attends, comment ça?
+
+NATALIE	Oui, je surveille ce quartier depuis un mois. On a tout mis sur écoute. Ça fait partie d'une enquête secrète sur une cellule terroriste active dans la région... Je devrais même pas te raconter tout ça. Surtout à découvert comme ça. Ça craint.
+
+BLAZE	(hm) Puisque t'es là, autant que je te prévienne. T'as pas besoin d'ouvrir d'enquête officielle sur Lesego et moi.
+
+
+16 (10:15:15:23)
+
+NATALIE	Et pourquoi?
+
+BLAZE	On va le faire pour toi.
+
+NATALIE	Pardon?
+
+BLAZE	Ce soir, après le match, on va annoncer au monde entier ce qu'on a fait. Jade va écrire l'article.
+
+NATALIE	Et ensuite?
+
+BLAZE	On va se rendre à tes collègues.
+
+NATALIE	C'est à cause de ce que j'ai dit?
+
+BLAZE	Non. (h) J'en ai assez de vivre dans le mensonge. J'en peux plus, je dois faire ce que j'aurai dû faire il y a six ans.
+
+NATALIE	Blaze, j'avais fini mon service, alors viens avec moi et on pourra y réfléchir, ou on pourra en parler, d'accord?
+
+BLAZE	On en a déjà parlé, tu te rappelles?
+
+
+17 (10:15:59:24)
+
+NATALIE	Qu'est-ce que tu veux que je te dise? Tu veux une tape dans le dos et que je te dise que tout ira bien?
+
+BLAZE	J'aurais dit que c'était plus l'affaire avec la baie de cristal le problème.
+
+NATALIE	Ah mais t'as raison. (h) C'était le cas, mais j'ai fini par l'accepter. Faut pas que tu fasses ça.
+
+BLAZE	Je dois le faire, j'ai plus le choix. J'aurai dû le faire il y a six ans déjà.
+
+NATALIE	(h//) Je t'aime. Espèce de salaud. Je t'aime.
+
+BLAZE	Je sais. Ça va aller. Mais je dois le faire. Je reculerai pas. Tu comprends?
+
+NATALIE	(h//) D'accord. (h//) Viens chez moi. Une dernière fois, Blaze.
+
+BLAZE	Bien sûr.
+
+OUT (10:16:57:09)
+
+
+18 (10:17:04:18)
+
+OLIPHA	Normalement, c'est lui qui donne le coup d'envoi?
+
+PHUMLANI	Oui, c'est lui qui s'en charge. Enfin, au moins pour la première mi-temps.
+
+OLIPHA	(hm) Très bien, je vais pouvoir exécuter le rituel sans difficulté. Vous aurez satisfaction.
+
+PHUMLANI	Je suis ravi de l'apprendre. (h//) a
+
+OLIPHA	(hm)
+
+PHUMLANI	Et une fois le problème "Lesego" réglé, ça sera au tour du gamin d'Abidjan. Et du rat qui leur sert d'agent.
+
+OLIPHA	(ah) Ne vous en souciez pas. Leurs trois destins sont liés.
+
+PHUMLANI	Excellent. On fera d'une pierre trois coups. Très bien. Thato, Creuse-moi un trou ici, en plein milieu de terrain. Et avant de le reboucher, tu vas prendre bien soin de mettre tout ce qu'on va te donner dans le trou. Proprement. Et précautionneusement.
+
+OUT (10:17:54:18)
+
+
+19 (10:18:00:08)
+
+NATALIE	Si tu avoues tout et que tu te rends... vu que ton client est une star du football... ça va devenir le procès du siècle.
+
+BLAZE	(mts) (oh) Merci de me réconforter.
+
+NATALIE	Le procureur va vous mettre au pilori... les médias vont vous massacrer dans les gros titres pendant des moi...
+
+BLAZE	Mais t'arrête pas. Continue.
+
+NATALIE	Conduite en état d'ivresse, kidnapping, homicide involontaire, viol, couvrir ces actes pendant six ans, meurtre, c'est des crimes particulièrement graves, Sli.
+
+BLAZE	Je suis au courant, merci!
+
+NATALIE	T'es un type bien, Sli, tu as juste fait une mauvaise action.
+
+BLAZE	Et que je fuis depuis tout ce temps.
+
+OUT (10:18:54:21)
+
+
+20 (10:21:18:11)
+
+JERRY	Monsieur Blaze!
+
+BLAZE	(ah) C'est vrai. (h) Comme quoi vous aviez tort, je suis revenu. Une dernière fois.
+
+JERRY	J'ai jamais dit que vous reviendriez pas. J'ai dit que c'était bientôt la fin, c'est tout.
+
+BLAZE	De quoi vous me parlez?
+
+JERRY	Je parle de ce chapitre de votre vie.
+
+BLAZE	Si vous connaissez la fin... racontez-moi.
+
+JERRY	Ça finit... sans répondre à tout. C'est ouvert. C'est clair pour vous?
+
+BLAZE	Non.
+
+JERRY	Ça finira pas comme vous l'imaginez. C'est pas votre destin, mais celui d'un autre.
+
+BLAZE	C'était un plaisir de vous revoir. Vous êtes un type bien.
+
+OUT (10:22:14:03)
+
+
+21 (10:22:27:18)
+
+JERRY	Vous ne serez jamais seul.
+
+OUT (10:22:30:03)
+
+
+22 (10:22:48:24)
+
+MONTE	Hé, Thato!
+
+THATO	Bonjour Monte.
+
+OUT (10:22:55:00)
+
+
+23 (10:23:22:00)
+
+VUYO	T'as deux minutes?
+
+BLAZE	Bien sûr Vuyo! Et s'il te faut quelque chose, hésite pas. Quoi de neuf?
+
+VUYO	Kim et moi... on a des nouvelles à t'annoncer.
+
+BLAZE	(hmhm?) Je t'écoute.
+
+VUYO	Kim est enceinte.
+
+BLAZE	Enfin! C'est génial! Je veux dire... Félicitations! Et transmets mes félicitations à Kim.
+
+VUYO	Elle est enceinte depuis quatre mois et demi.
+
+BLAZE	Déjà?
+
+VUYO	On voudrait que tu sous le parrain.
+
+BLAZE	D'accord, ouais, ça serait un honneur.
+
+VUYO	Mais seulement si...
+
+BLAZE	Seulement si quoi? Vuyo?
+
+VUYO	Seulement s'il est de moi.
+
+KIM	(sniff)
+
+VUYO	Blaze.
+
+KIM	(h)
+
+BLAZE	Evidemment que c'est le tien, il pourrait être de qui?
+
+VUYO	De Pascal.
+
+BLAZE	Mais Pascal a été...
+
+VUYO	Il y a quatre mois et demi, oui.
+
+BLAZE	Oh non.
+
+KIM	On va faire un test de paternité. Je te tiens au courant.
+
+OUT (10:24:13:09)
+
+
+24 (10:24:19:09)
+
+BLAZE	Merde!
+
+OUT (10:24:20:11)
+
+
+25 (10:24:34:03)
+
+ZOE	Tu fais la tête alors que j'ai offert plus d'argent que tu n'osais l'imaginer, Christopher. Tu devrais me remercier.
+
+CHRISTOPHER	Par bonté de coeur. Qu'est-ce que tu magouilles?
+
+ZOE	La magouille... c'est que j'espère que Marlboro va accepter mon offre. Je compte monter mon équipe autour d'Hervé l'année prochaine.
+
+CHRISTOPHER	(h) Non. Tu parles de construire... une équipe autour d'un gamin de dix huit ans, qui a à peine huit matchs à son actif?
+
+ZOE	Aucun club de France n'a voulu signer Antoine Griezman. Sociedad a pris un risque, et tout le monde connaît la suite, surtout toi.
+
+CHRISTOPHER	Oui, un sacré risque, Hervé c'est pas Griezman.
+
+ZOE	Je pense que ce gamin a un vrai don et que le signer pour neuf millions et demi ça aura l'air d'une sacré affaire dans cinq ans.
+
+CHRISTOPHER	Et si jamais Marlboro refuse ton offre?
+
+ZOE	Christopher, je fais que répondre à ta question. J'ai vu une opportunité, c'est tout.
+
+CHRISTOPHER	Et tu as décidé de ne pas en parler à Blaze, son agent?
+
+ZOE	Les meilleures décisions sont prises à l'instinct, tu le sais bien.
+
+CHRISTOPHER	Tu me baratines complètement. On sait très bien tous les deux quel est ton vrai objectif...
+
+
+26 (10:25:31:11)
+
+CHRISTOPHER	Une seconde. Christopher à l'appareil.
+
+NATALIE	Oh, euh... Bonjour Christopher.
+
+CHRISTOPHER	Et vous êtes?
+
+NATALIE	C'est Natalie. La flic qui vous fait si peur, à toi et à Blaze.
+
+CHRISTOPHER	Comment tu as eu mon numéro?
+
+NATALIE	Blaze l'avait enregistré.
+
+CHRISTOPHER	Tu l'as vu aujourd'hui?
+
+NATALIE	On s'est croisés, c'était pas intentionnel.
+
+CHRISTOPHER	Qu'est-ce que tu veux?
+
+NATALIE	Te prévenir.
+
+CHRISTOPHER	(h) Déjà? La police a déjà ouvert une enquête sur Blaze et moi?
+
+NATALIE	Il n'y a pas d'enquête, c'est autre chose.
+
+CHRISTOPHER	Quoi, tu veux me faire chanter?
+
+
+27 (10:26:09:08)
+
+NATALIE	Non, c'est pas de moi dont il est question. Je voulais te prévenir que Blaze et Lesego comptaient tout révéler à la presse après le match de ce soir.
+
+CHRISTOPHER	Il m'en aurait parlé.
+
+NATALIE	Il m'a dit qu'il ne voulait pas t'en parler parce que tu essayerais de l'en dissuader.
+
+CHRISTOPHER	(h//) Par curiosité... Qu'est-ce que tu en as à faire?
+
+NATALIE	Qu'est-ce que tu veux... Je l'aime. J'ai même essayé de l'en dissuader moi-même.
+
+CHRISTOPHER	Je m'en occupe. Et euh... Merci. Merde.
+
+OUT (10:26:46:22)
+
+
+28 (10:27:49:17)
+
+JADE	Salut!
+
+BLAZE	Salut.
+
+JADE	T'as entendu la bonne nouvelle?
+
+BLAZE	J'ai eu que ça toute la journée.
+
+JADE	On a la composition de l'équipe, Lesego est capitaine, ailier gauche et dans le onze de départ pour son dernier match... Et Hervé est dans le onze de départ aussi.
+
+BLAZE	Ça au moins, ça a marché!
+
+JADE	(h) C'est quoi que vous annoncez?
+
+BLAZE	Je peux pas te le dire.
+
+JADE	(h) C'est que Lesego prend sa retraite?
+
+BLAZE	C'est un scoop. Jade. Et c'est énorme.
+
+JADE	Donne-moi un indice, n'importe quoi!
+
+BLAZE	Des fois dans la vie, on se retrouve à la croisée des chemins. C'est ce moment-là pour Lesego et moi. On se voit après le match.
+
+OUT (10:28:23:12)
+
+
+29 (10:28:46:13)
+
+LESEGO	Euhm... Je euh, je sais pas quoi vous dire, pour être honnête. Je... J'ai joué beaucoup de matchs pour ce club. deux cent quatre vingt un matches pour être précis. et ce soir, ça sera mon deux cent quatre vingt deuxième. Et sans doute le dernier aussi. Ça veut dire dix ans. Dix ans que ce club c'est chez moi. Et j'ai joué avec vous tous. Même avec les petits nouveaux qui arrivez. Conrad, lève-toi. Debout. (h)
+
+CONRAD	(ah) (ah) (ah)
+
+LESEGO	Ça c'est pour avoir frimé lors du dernier match.
+
+
+30 (10:29:33:18)
+
+LESEGO	C'est un jeu d'équipe, vous m'entendez? Aucun de nous n'est plus important que ce club et que l'insigne sur votre maillot. Même pas moi, votre capitaine. Allez, relève-toi. (h) Il est doué, mais c'est pas lui qui compte. Ni moi. En tant que capitaine, il me semble que c'est mon devoir de... De m'excuser auprès de vous. Auprès de vous tous. J'ai... j'ai pas su vous montrer le bon exemple.
+
+
+31 (10:30:19:00)
+
+LESEGO	Allez, on va être honnêtes, (hm) j'ai fait des trucs pas acceptables. Vous l'avez tous vu. (hm) J'ai fait des choses horribles, et on peut pas revenir en arrière. Et je suis désolé. Je vous ai donné de mauvais conseils. Je vous ait dit des choses que j'aurais pas dû. Je vous ai incités à vous rebeller. A jouer contre vos coéquipiers. Et pire que tout, j'ai mis en avant l'individuel au détriment du groupe.
+
+
+32 (10:31:08:13)
+
+LESEGO	Tout ce que je vous ai dit, je... Je peux plus rien y faire, je peux pas revenir en arrière. Mais ce que je peux changer... c'est les quatre vingt dix minutes qu'il me reste. Je peux me battre. Je peux remonter le terrain, pénétrer la défense, marquer un but. Je peux montrer qui je suis sur le terrain et y mettre toutes les forces qu'il me reste. Et je promets de le faire. Je le fais pas pour vous. Et surtout pour les cols blancs là-haut. Mais pour les fans, bordel!
+
+HERVÉ	Ouais, pour les fans!
+
+EQUIPIER	Ouais!
+
+LESEGO	Alors aujourd'hui, aujourd'hui on joue pas avec notre tête. Vous laissez votre cerveau au vestiaire. Aujourd'hui, On joue avec... avec passion. On joue avec nos coeurs. On joue... avec nos âmes!
+
+
+33 (10:32:04:18)
+
+NDT	(repiquer chant, VO)
+
+OUT (10:32:41:11)
+
+
+34 (10:32:52:20)
+
+GODI	Hé, Blaze! Je suis venue voir comment Monte allait. Tout va bien, donc je repars.
+
+BLAZE	Il est plutôt bizarre, non?
+
+GODI	Oh oui, je vois ce que tu veux dire.
+
+BLAZE	(h)
+
+GODI	(ahah)
+
+BLAZE	(h//) Chris t'a déjà prévenue?
+
+GODI	Non, quoi?
+
+BLAZE	Ace Acting!
+
+GODI	C'est quoi?
+
+BLAZE	C'est le nouveau département de notre entreprise. Dont tu seras la directrice. Ça sonne comme une bonne idée, non? On sait tous les deux que tu gâches ton talent en étant mon assistante. Et... J'ai aussi prévenu Chris que s'il devait m'arriver quoique ce soit... quelle que soit la raison... tu récupérerais mes parts de l'entreprise.
+
+
+35 (10:33:33:22)
+
+GODI	Pourquoi tu m'en parles maintenant?
+
+BLAZE	Parce que j'ai jamais le temps de te remercier, pour tout. Pour tout ce que tu as fait pour moi. A compter du premier jour où on s'est rencontrés et où tu m'as couru après pour me rendre mon portefeuille.
+
+GODI	(h) C'était le bon temps, pas vrai? Ça va? Qu'est-ce qui t’arrive?
+
+BLAZE	(h) (h) (h//) (h) Désolé. (hahah) (mts) (h) Notre petite va bien?
+
+GODI	Qui ça, Mila?
+
+BLAZE	Oui.
+
+GODI	(h) Oui, elle est en plein tournage à l'étranger?
+
+BLAZE	Tu sais que tu comptes énormément pour moi?
+
+GODI	Oui.
+
+BLAZE	C'est pareil pour Mila. (h) A vrai dire, vous êtes plus que ça.
+
+
+36 (10:34:25:05)
+
+BLAZE	Vous êtes la seule famille que j'ai jamais connue. Et il y a des moments où... (mts) on a besoin de sa famille. & J'ai... j'ai un un sentiment étrange depuis ce matin.
+
+GODI	Blaze, écoute-moi... Concentre-toi sur le match, d'accord? Tu veux bien? Concentre-toi sur nos garçons, je m'occupe de la fille. D'accord?
+
+BLAZE	Tu t'occupes d'elle?
+
+GODI	Oui. Je m'occupe d'elle.
+
+BLAZE	D'accord.
+
+GODI	S'il lui arrive quoique ce soit, je... je t'appelle.
+
+BLAZE	D'accord. Godi... (hm) (h) Godi. Merci. Merci.
+
+OUT (10:35:16:08)
+
+
+37 (10:35:50:09)
+
+NDT	(repiquer phrase previously)
+
+SEAN	Je veux voir ta performance dans son entièreté, que tu me montres tout.
+
+OUT (10:35:58:20)
+
+
+38 (10:37:08:04)
+
+LESEGO	Comment tu te sens?
+
+BLAZE	Je voudrais que ça soit déjà fini!
+
+LESEGO	Tu vois... moi c'est l'inverse. Je voudrais que... ces quatre vingt dix minutes... durent toute l'éternité. (h//)
+
+BLAZE	T'as conscience que... qu'après le coup de sifflet final...
+
+LESEGO	C'est la fin du match. Et la fin pour nous.
+
+BLAZE	(mts) J'ai mis Natalie au courant. Elle voulait que je dise rien.
+
+LESEGO	(h) Sans blague, mec. Tout son char sur la réouverture de l'enquête, tout ça... c'était qu'un bluff.
+
+
+39 (10:37:51:20)
+
+BLAZE	Pendant un instant, elle m'a convaincu. De rien dire, de partir ailleurs, de recommencer ma vie. Peut-être même avec elle.
+
+LESEGO	Ça changerait rien, mon frère. Tu continuerais à fuir la même chose.
+
+BLAZE	Je sais. Je sais. (tsc) C'est pour ça que je suis là. (h) Je suis prêt. D'accord? Je serai jamais plus prêt que maintenant.
+
+OUT (10:38:14:17)
+
+
+40 (10:38:28:20)
+
+LESEGO	Hé, tiens... Pourquoi tu corriges jamais personne quand on t'appelle Blaze?
+
+BLAZE	C'est le nom que les fans m'ont donné.
+
+LESEGO	Ouais, mais ils se moquaient de toi. Tu envoyais voler le ballon comme s'il avait le feu au cul. Tu faisais un lob aux cages. C'était des ballons, pas des feux d'artifice.
+
+BLAZE	(ahahah)
+
+LESEGO	(ahah)
+
+OUT (10:38:46:17)
+
+
+41 (10:38:55:09)
+
+BLAZE	Je préfère qu'on m'appelle Blaze... plutôt que le noms que mes parents m'ont donné. Le nom dont j'ai hérité. C'est comme si... j'avais laissé Slindile, ma jeunesse et les conneries de mes parents derrière moi. J'ai abandonné Slindile et je me suis jamais senti mieux. Jamais.
+
+OUT (10:39:14:06)
+
+
+42 (10:39:21:22)
+
+LESEGO	Slindile "Blaze" Magoba, le meilleur agent que j'ai jamais eu.
+
+BLAZE	Lesego "Ace" Moleko, le pire putain de joueur que j'ai jamais représenté.
+
+LESEGO	(ahahah)
+
+OUT (10:39:44:04)
+
+
+43 (10:40:07:24)
+
+CHRISTOPHER	Je suis au courant. D'accord? Je sais absolument tout! Ce que vous avez prévu après le match. (h//) Vous voulez tout raconter à la presse. A Jade Singh.
+
+LESEGO	On leur dira que t'as rien à voir avec tout ça, que c'était que nous.
+
+BLAZE	D'accord?
+
+CHRISTOPHER	(ahah) (oh) Vous pensez que ça va être aussi simple? La vérité, finit toujours par ressortir.
+
+LESEGO	Mais c'est pas notre intention.
+
+CHRISTOPHER	Je m'en contrefous de vos intentions! Tu m'entends?
+
+BLAZE	Chris!
+
+CHRISTOPHER	[crache]
+
+BLAZE	Bon sang! Calme-toi. Calme-toi, merde! S'il te plaît. Chris.
+
+LESEGO	(h//\\)
+
+CHRISTOPHER	(hmhmhm)
+
+LESEGO	(h)
+
+CHRISTOPHER	D'accord.
+
+LESEGO	(h)
+
+CHRISTOPHER	Très bien.
+
+
+44 (10:40:48:05)
+
+CHRISTOPHER	(mts)
+
+LESEGO	(h)
+
+CHRISTOPHER	Je suis à court d'idées. Qu'est-ce que je peux vous dire de plus? (hm?)
+
+LESEGO	(h)
+
+CHRISTOPHER	Vous allez vous condamner. Et pourtant vous êtes convaincu que c'est la meilleure chose à faire. Pas vrai?
+
+LESEGO	(h//)
+
+CHRISTOPHER	Tais-toi! Alors...
+
+LESEGO	(h)
+
+CHRISTOPHER	Allez-y. Foutez vos vies en l'air.
+
+LESEGO	(h//\\)
+
+CHRISTOPHER	Moi, je vais faire ce que je peux pour ne pas finir en dommage collatéral.
+
+LESEGO	(h) (h)
+
+CHRISTOPHER	Gamins.
+
+LESEGO	(h//\\) (h//\\)
+
+BLAZE	Il faut aller sur le terrain.
+
+LESEGO	Ouais.
+
+BLAZE	On y va.
+
+OUT (10:41:33:10)
+
+
+45 (10:42:31:11)
+
+BRIAN	Bonsoir et bienvenue au dernier match de la saison. Marlboro United va affronter les Kwamashu Devils.
+
+REGGIE	C'est le dernier match de la saison pour Lesego Moleko avec Marlboro United, et ça arrive un soir de pleine lune!
+
+BRIAN	(ahahahah) Mais dis-moi Reggie, tu es devenu superstitieux ou quoi?
+
+REGGIE	Non Brian, mais on peut vraiment sentir qu'une atmosphère étrange s'empare du terrain ce soir.
+
+BRIAN	En tous cas c'est sûr que ça va être un jour pas comme les autres pour Lesego Moleko, vu que c'est le deux cent quatre vingt deuxième match qu'il dispute pour Marlboro. Quelle légende. Quelle star!
+
+OUT (10:43:08:04)

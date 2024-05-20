@@ -1,0 +1,2415 @@
+ (BOUCLE 1 - 01:00:14:18)
+		01
+
+ELLEN	Nous observons le ciel, nous chérissons les étoiles infinies et nous croyons que nous sommes tout seuls.
+	
+(BOUCLE 2 - 01:01:04:18)
+		02
+
+GARABON	On commence.
+
+(BOUCLE 3 - 01:01:44:12)
+		03
+
+DAVID	Tiens, t'as mérité un dessert.
+
+DAVID	Ceci est l'équivalent d'un gros steak.
+
+CAMERON	Ces haricots ?
+
+DAVID	Bien sûr !
+
+CAMERON	(mts)
+
+DAVID	(mts)
+
+CAMERON	C'est pas mal. C'est même bon.
+
+DAVID	Tu vois ? Je te l'avais dit.
+
+CAMERON	(mts)
+
+DAVID	(mts)
+
+DAVID	(Il mâche__)
+
+CAMERON	Y a rien à la télévision. Ca marche toujours pas.
+
+DAVID	C'est malin. Personne ne sait ce qui se passe.
+
+CAMERON	Qu'est-ce que tu veux dire ?
+
+DAVID	Hé bien,  il n'y a aucun moyen de savoir ce qui se passe.
+
+DAVID	Tout le monde est dans le noir et personne n'a reçu aucune information.
+
+DAVID	C'est ridicule.
+
+DAVID	(Hh)
+
+DAVID	Ca n'a aucun sens.
+
+(BOUCLE 4 - 01:02:36:18)
+		04
+
+CAMERON	Tu trouves pas ça bizarre ? Tout le monde va dans la même direction.
+
+DAVID	Vers le sud.
+
+DAVID	Ils vont tous vers le sud.
+
+CAMERON	Mais pourquoi ?
+
+DAVID	(nasal_/)
+
+DAVID	J'en sais rien.
+
+DAVID	(Déglutition)
+
+DAVID	(mts)
+
+DAVID	D'après Sarah, les gens pensent qu'ils seront en sécurité.
+
+CAMERON	Comment ça, en sécurité ?
+
+DAVID	Je sais pas. Il y a moins d'attaques.
+
+RUNNER	Sortez de l'immeuble !
+
+DAVID	T'inquiète pas. On est en sécurité.
+
+CAMERON	Qu'est-ce que t'en sais ?
+
+DAVID	T'es inquiet parce qu'on est en intérieur ?
+
+CAMERON	Il paraît qu'ils s'énervent quand les gens sont à l'intérieur.
+
+DAVID	(hh) Oui, ça les énerve que les gens se cachent.
+
+DAVID	C'est sûr.
+
+DAVID	(mts)
+
+DAVID	Il suffit de savoir quand ils vont arriver.
+
+CAMERON	Comment tu sais quand  ils arrivent ?
+
+DAVID	Le son des hurlements  se rapproche.
+
+(BOUCLE 5 - 01:03:37:15)
+		05
+
+LADY ELEVATOR	Vous avez appris ce qui s'est passé à Londres ?
+
+DAVID	L'attaque ?
+
+LADY ELEVATOR	C'est bien plus qu'une simple attaque. Ils disent que c'est une sorte d'épidémie.
+
+DAVID	Qu'est-ce qui se passe ?
+
+LADY ELEVATOR	Mais qu'est-ce qui vous arrive ?
+
+MAN IN ELEVATOR	(réac) Sortez de là tout de suite !
+
+DAVID	Qu'est-ce que vous dites ?
+
+MAN IN ELEVATOR	(hh_\)
+
+MAN IN ELEVATOR	Allez vous-en !
+
+MAN IN ELEVATOR	(respir) ( Hh_) Ah______ !
+
+LADY ELEVATOR	(cri)
+
+(BOUCLE 6 - 01:04:31:14)
+		06
+
+DAVID	Allô !
+
+SARAH	David ! Bébé, tu as entendu ?
+
+DAVID	Si j'ai entendu ? De quoi tu parles, bébé ?
+
+SARAH	L'épidémie !
+
+SARAH	Il n'y a pas qu'à Washington. Ils. disent qu'elle s'étend maintenant à New York.
+
+DAVID	Washington ? (Hh/) Je croyais que c'était à Londres.
+
+SARAH	David, ils sont partout.
+
+DAVID	D'accord, bon.... Dis-moi où tu es.
+
+SARAH	Je suis au bureau. Il y a eu une gigantesque explosion à quelques  immeubles d'ici.
+
+SARAH	Qu'est-ce qui se passe ?
+
+DAVID	Je sais pas.
+
+DAVID	Ne bouge surtout pas de là où tu es. Je viens te chercher. J'arrive.
+
+SARAH	Fais au plus vite.
+
+DAVID	Je comprends rien.
+
+AMBIANCE	(Cris de peur___)
+
+RYAN	Sors de la voiture !
+
+RYAN	(cri_____)
+
+DAVID	(cri___)
+
+BLACK WOMAN	(Cris) (Pleurs)
+
+(BOUCLE 7 - 01:07:06:12)
+		07
+
+ELLEN	Allez, pitié !
+
+VOIX HP F	Vous êtes priés d'évacuer les lieux immédiatement.
+
+VOIX HP F	Ceci n'est pas un exercice.
+
+DAVID	Sarah !   Sarah il faut qu'on quitte la ville.    C'est vraiment urgent !
+
+(BOUCLE 8 - 01:07:30:18)
+		08
+
+CAMERON	Maman !
+
+ELLEN	(respir)
+
+ELLEN	(soupir)
+
+ELLEN	Regarde.
+
+CAMERON	Je dois regarder quoi ?
+
+CAMERON	Je ne vois rien de spécial.
+
+ELLEN	Tu dois te concentrer.
+
+ELLEN	Regarde bien. Ils sont cachés.
+
+ELLEN	Mais ils sont bien là.
+
+(BOUCLE 9 - 01:08:20:20)
+		09
+
+DAVID	T'as vu la chance qu'on a eue aujourd'hui ?
+
+DAVID	Ces Organismes Infectés sont passés tout près de nous.
+
+DAVID	Ils nous ont presque frôlés.
+
+DAVID	(nasal_/)
+
+DAVID	Ouais, ça aurait pu mal tourner.
+
+CAMERON	C'est vrai, on a eu de la chance.
+
+CAMERON	David, (mts), qu'est-ce que tu prévois de faire ensuite ?
+
+CAMERON	Où est-ce que tu veux aller ?
+
+DAVID	Je vais retrouver Sarah.
+
+CAMERON	(mts)
+
+DAVID	Et on va retrouver ta mère.
+
+CAMERON	(réac)
+
+AMBIANCE	Attention, ils arrivent____________ ! Enfuyez-vous______ ! Passez par là______ ! Il faut surtout pas rester là !
+
+AMBIANCE	(cris________________)
+
+DAVID	Faut y aller !
+
+(BOUCLE 10 - 01:09:17:02)
+		10
+
+AMBIANCE	(Cris de foule sur toute la boucle)
+
+DAVID	Attention, va te cacher !.
+
+CAMERON	(réac douleur)
+
+CAMERON	(réac douleur)
+
+DAVID	Reste là ! Surtout ne bouge pas !
+
+CAMERON	(respir____)
+
+CAMERON	(respir__________________)
+
+DAVID	Qu'est-ce que tu fais ?
+
+CAMERON	(respir___________________)
+
+DAVID	Laisse ! Laisse, c'est pas grave.
+
+CAMERON	(respir_________)
+
+DAVID	Mais qu'est-ce que tu fais ?
+
+CAMERON	(Hh_\)
+
+(BOUCLE 11 - 01:10:07:05)
+		11
+
+CAMERON	(respir______)
+
+CAMERON	(Hh____\)
+
+CAMERON	(renifle)
+
+CAMERON	(respir)
+
+CAMERON	Ils vont me trouver, David. (respir__________________)  A cause de mon sang.
+
+DAVID	Non, c'est impossible. Personne te trouvera
+
+CAMERON	Ils sauront. S'ils analysent mon sang, ils sauront qu'il est à moi
+
+DAVID	Quoi ?
+
+CAMERON	(respir)
+
+DAVID	De quoi est-ce que tu parles ? Qui vi ate retrouver ?
+
+CAMERON	Les organismes. Ceux qui sont infectés.
+
+CAMERON	Dès qu'ils auront goûté à mon sang  ils sauront tout de suite que c'est le mien..
+
+DAVID	Personne ne va venir te chercher, alors, maintenant, du calme.
+
+(BOUCLE 12 - 01:10:45:02)
+		12
+
+DAVID	Oh non !
+
+CAMERON	(réac)
+
+DAVID	Fait chier !
+
+DAVID	Mec, on se tire de là !
+
+(BOUCLE 13 - 01:11:34:13)
+		13
+
+DAVID	On va passer la nuit ici. On sera en sécurité.
+
+CAMERON	(soupir)
+
+DAVID	Comment va ta main ?
+
+CAMERON	C'est juste une égratignure..
+
+CAMERON	Ca ne saigne plus.
+
+DAVID	(soupir)
+
+DAVID	(Hh_/) (Hh_\)
+
+DAVID	Cameron... C'était quoi, ça ?
+
+DAVID	Qu'est-ce qui  t'a pris ? Pourquoi tu t'es mis à paniquer d'un coup ?
+
+CAMERON	Il vaut mieux que tu n'en saches pas trop.
+
+DAVID	Je pense que si on doit rester ensemble, j'ai le droit de savoir.
+
+CAMERON	Alors, promets-moi que tu vas me croire.
+
+DAVID	Bien sûr, je te  promets de te croire.
+
+DAVID	Mais je dois savoir.
+
+(BOUCLE 14 - 01:12:31:18)
+		14
+
+CAMERON	(respir_________)
+
+CAMERON	Okay.
+
+CAMERON	Ce qui est en train de se passer, c'est pas ce que tu crois.
+
+CAMERON	Il n'y a jamais eu d'épidémie. Ces choses n'ont jamais été infectées.
+
+CAMERON	Elles sont sous contrôle.
+
+DAVID	Comment ça, sous contrôle ?   Sous le contrôle de qui ?
+
+CAMERON	Elles sont contrôlées par des personnes très dangereuses
+
+CAMERON	qui ont fait tout ça, envahir toute la planète, pour me trouver.
+
+(BOUCLE 15 - 01:13:10:18)
+		15
+
+DAVID	Pour te trouver ? Oh oh, attends, attends... qu'est-ce que tu veux dire par envahir la planète ?
+
+CAMERON	Tu vois, ils ne sont pas d'ici, de la Terre.
+
+DAVID	(réac)
+
+DAVID	(soupir)
+
+CAMERON	Ils sont là maintenant.
+
+DAVID	(soupir)
+
+DAVID	Donc, ces personnes dangereuses son__t ?
+
+CAMERON	Je sais pas. Des extraterrestres.
+
+DAVID	(mts)  Des extraterrestres.
+
+(BOUCLE 16 - 01:13:44:01)
+		16
+
+DAVID	C'est pa__s... exactement la réponse que je m'attendais à entendre.
+
+DAVID	Et ces extraterrestres auraient fai_t tout ce long  chemin uniquement pour toi ?
+
+CAMERON	Ouais.
+
+DAVID	Waouh ! Et___ ils veulent te trouver parce que ?
+
+CAMERON	Moi non plus, je ne suis pas d'ici.
+
+DAVID	Don_____c, tu_ es un extraterrestre
+
+CAMERON	Je me cache sur Terre depuis sept ans avec ma responsable,  l'équivalent de votre  mère ici.
+
+CAMERON	à cause de la guerre que les gens qui sont venus ici ont démarrée.
+
+CAMERON	Elle sera pas dans le Sud.  On se rejoint sur mon vaisseau.
+
+(BOUCLE 17 - 01:14:23:16)
+		17
+
+DAVID	Un vaisseau spatial ?
+
+DAVID	Bien sûr, c'est évident, Cameron. Tu réalises que c'est difficile de trouver une seu_le personne parmi sept milliards de personnes ?
+
+DAVID	C'est juste impossible !
+
+CAMERON	Je croyais que je pouvais te faire confiance.
+
+DAVID	Hé ben__, je savais pas que t'allais dire ça ! Et pour ta blessure ?
+
+CAMERON	Les O I goûtent le sang. Ils savent reconnaître le sang humain et____...
+
+CAMERON	(soupir)
+
+CAMERON	Alors, dis-moi, à ton avis, pourquoi les OI ne nous ont pas vus tous à l'heure ?
+
+CAMERON	C'est pas grâce à la chance qu'il nous a pa vus. Je nous ai cachés.
+
+CAMERON	Je nous ai rendus invisibles.
+
+DAVID	(mts) Tu nous as cachés ?
+
+CAMERON	Si je me concentre assez fort, je peux nous rendre invisibles. C'est pour ça qu'ils m'ont pas trouvé.
+
+(BOUCLE 18 - 01:15:10:02)
+		18
+
+DAVID	(réac) Cameron.
+
+CAMERON	Tu te souviens, je t'ai tenu le bras, je nous ai cachés tous les deux.
+
+CAMERON	Je nous ai protégés, David !
+
+DAVID	Okay.
+
+DAVID	(réac)
+
+DAVID	Recule.
+
+(BOUCLE 19 - 01:15:30:04)
+		19
+
+VOIX HOMME	(hh_)
+
+CAMERON	(respir)
+
+VOIX HOMME	(Hh_______)
+
+DAVID	Qu'est-ce que c'est ? (respir________________________________________)
+
+DAVID	Où ils sont allés ?
+
+CAMERON	Ne bouge surtout pas.
+
+(BOUCLE 20 - 01:17:05:02)
+		20
+
+WHIO	(nasale)
+
+WHIO	(respir_______________________)
+
+WHIO	Je sais que vous êtes là_____.
+
+WHIO	(cri_________)
+
+(BOUCLE 21 - 01:18:08:21)
+		21
+
+WHIO	(Cri___________)
+
+(BOUCLE 22 - 01:18:41:12)
+		22
+
+DAVID	(respir essoufflée_____________________________________________________________________________________________________________________________________________________________________________________________________)
+
+CAMERON	(respir essoufflée__________________________________________________________________________________________________________________________________________)
+
+DAVID	Tu nous as rendus invisibles ?
+
+CAMERON	(respir essoufflée_______________________) (renifle)
+
+DAVID	(respir essoufflée)
+
+DAVID	Et tout à l'heure, (respir__________), quand ils se sont approchés (respir) tu nous avais  déjà cachés.
+
+CAMERON	Ouais.
+
+DAVID	(respir________________) (rire________)(respir____________________) C'est impossible !
+
+DAVID	(respir_________________________________________________________________________________) T'es pas humain !
+
+(BOUCLE 23 - 01:19:38:20)
+		23
+
+CAMERON	(mts) Non.
+
+DAVID	C'est de la folie !
+
+DAVID	(respir______) Et... Et quelque part par là, il y a ton vaisseau spatial ?
+
+DAVID	(respir___) (rire)
+
+CAMERON	Trois.
+
+DAVID	(respir_____)
+
+DAVID	Troi____s ! Trois vaisseaux invisibles, pas possible  !
+
+DAVID	(rire)
+
+DAVID	(respir) Mais alors attends !
+
+DAVID	(respir_________) Alors, je suis le premier humain
+
+DAVID	à savoir que les aliens existent !
+
+CAMERON	(réac)
+
+DAVID	(respir_______________________________) Bienvenue sur Terre.
+
+CAMERON	Merci.
+
+DAVID	(rire) (respir_______________) Donc, t'es jamais monté sur un vélo ?
+
+CAMERON	Non jamais.
+
+DAVID	(rire____)
+
+DAVID	(respir_____________)
+
+DAVID	C'est vraiment incroyable !
+
+(BOUCLE 24 - 01:21:25:11)
+		24
+
+DAVID	Est-ce qu'il  y a une raison pour laquelle vous vivez si loin de votre vaisseau ?
+
+CAMERON	On y est resté environ deux ans.
+
+CAMERON	mais on était coincé au milieu de nulle part.
+
+CAMERON	Ellen  voulait que  je découvre votre monde, donc la troisième année, nous sommes allés en ville et nous avons commencé à voyager.
+
+DAVID	C'est là qu'ils sont arrivés. Ca a dû être fou pour vous !
+
+CAMERON	Oui. On ne savait vraiment pas quoi faire et Ellen ne voulait surout pas que je me rende.
+
+DAVID	Que tu te rendes ? Pourquoi il aurait fallu que tu te rendes ?
+
+CAMERON	Hé bien, regarde ce qu'ils font à ta planète.
+
+CAMERON	Tout est de ma faute.  Si je m'étais rendu, peut-être que...
+
+(BOUCLE 25 - 01:22:01:08)
+		25
+
+DAVID	Bien sûr mais c'est pas toi qui nous envahis, Cameron. C'est pas toi qui as fait ça. C'est eux !
+
+CAMERON	Je sais. Mais ils m'ont suivi pour me ramener.
+
+DAVID	C'est n'importe quoi !
+
+(BOUCLE 26 - 01:22:56:05)
+		26
+
+DAVID	Ecoute, je veux te parler de ce que tu disais à propos de te rendre. Tu ne dois surtout pas à en arriver là.
+
+CAMERON	En fait, si la situation dégénère, même Ellen dit que je n'aurai pas d'autre choix que de me rendre.
+
+DAVID	Tu te cacheras jusqu'à ce qu'ils abandonnent et partent.
+
+CAMERON	Non, David. Ils partiront pas comme ça.
+
+CAMERON	Ils feront de moi leur prisonnier, ou bien ils me tueront.
+
+DAVID	Comment ils  pourraient te tuer ?  Il est immense ce pays.  Ca reviendrait à chercher une aiguille dans une botte de foin.
+
+DAVID	Qu'est-ce que tu veux qu'ils fassent ?
+
+CAMERON	Ils brûleront la botte de foin.
+
+DAVID	Mais... qu'est-ce que tu veux dire ?
+
+CAMERON	S'ils ne me retrouvent pas, Devanera détruira la planète.
+
+DAVID	(nasal_/)
+
+DAVID	C'est de loin la conversation la plus stressante que j'aie eue.
+
+DAVID	Pourtant,  je suis sorti avec plein de filles.
+
+CAMERON	(rire_____)
+
+(BOUCLE 27 - 01:23:48:04)
+		27
+
+DAVID	Il faut qu'on accélère un petit peu le ryhtme.
+
+DAVID	On peut gagner beaucoup de temps si on coupe par cette montagne.
+
+DAVID	Mais ce sera plus dur. Ca va aller ?
+
+CAMERON	Il faudra bien.
+
+DAVID	Allons-y. T'en fais pas, on va trouver une solution.
+
+(BOUCLE 28 - 01:24:46:24)
+		28
+
+CAMERON	(réac)
+
+IO 1	Vérifie son sang.
+
+(BOUCLE 29 - 01:24:58:20)
+		29
+
+ELLEN	(réac)
+
+ELLEN	(Hh_/)
+
+GRANNY B	Bien sûr. Je suis absolument certaine d'avoir vu un lion,
+
+GRANNY B	deux éléphants, et un tigre Ils ont traversé notre camp hier soir.
+
+GRANNY B	Hhu____...
+
+GRANNY B	Ce qui me fait dire que j'ai dû faire le tour du cadran.
+
+ELLEN	Il faut garder les yeux grands ouverts.
+
+GRANNY B	(soupir)
+
+(BOUCLE 30 - 01:25:51:09)
+		30
+
+GARABON	Ah Des ! Humain a parié un milliard de dollars que je ne pouvais pas piloter ce vaisseau.
+
+DES	Humain ?
+
+GARABON	Oui, je l'ai appelé comme ça.
+
+HUMAN	(réac)
+
+GARABON	Cette bête me rappelle Pegaes.
+
+DES	Il ne vole pas.
+
+GARABON	Tu ne peux pas comprendre, Des, tu es une machine.
+
+DES	Devanera attend votre update. Que dois-je lui dire ?
+
+GARABON	Dis-lui que je fais du shopping.
+
+GARABON	Devanera,  il paraît que je suis convoqué.
+
+(BOUCLE 31 - 01:26:26:17)
+		31
+
+DEVANERA	Je suis  certain d'avoir été clair dans mes instructions, Garabon.
+
+DEVANERA	Pourquoi es-tu sur cette planète ?
+
+GARABON	J'explore d'autres mondes. D'ailleurs, j'ai fait une grande découverte.
+
+GARABON	Quelque chose que les humains appellent caféine !
+
+IRENKULL	Ce n'est pas le moment de faire du tourisme, Garabon.
+
+GARABON	Irenkull ! Tu ne devrais pas terroriser l'Asie plutôt que de faire une fixation sur moi ?
+
+IRENKULL	(mts) Je suis déjà en avance dans toutes les étapes de notre opération.
+
+GARABON	Alors, tu as trouvé le garçon ?
+
+IRENKULL	(rire______)
+
+(BOUCLE 32 - 01:27:03:19)
+		32
+
+IRENKULL	Non. Mais n'oublie pas. C'est ton opération que nous sommes en train de mener.
+
+IRENKULL	Pourtant, tu es là, à te pavaner sur cette planète, au risque de nous faire repérer par les humains.
+
+IRENKULL	J'ai pourtant été clair. C'était le pire plan qu'on pouvait suivre.
+
+GARABON	Humain. Quelqu'un dont la simple voix parvient à te rendre fou.
+
+HUMAN	Connard ?
+
+IRENKULL	On aurait dû détruire cette planète et reprendre la guerre.
+
+GARABON	Irenkull, t'es vraiment un connard !
+
+IRENKULL	Qu'est-ce que c'est, un connard ?
+
+DEVANERA	Taisez-vous !
+
+IRENKULL	Trouve ce qu'est un connard.
+
+(BOUCLE 33 - 01:27:43:05)
+		33
+
+DEVANERA	Quelle est notre progression ?
+
+GARABON	Les contrôleurs humains sont en train d'analyser le sang.
+
+GARABON	Soit nous trouverons le garçon, soit ceux qui l'accompagnent. C'est juste une question de temps.
+
+DEVANERA	Avec tous les dégâts que les contrôleurs humains ont infligé, le garçon devrait déjà être mort.
+
+GARABON	Les contrôleurs ne doivent utiliser les sphères bleues que pour la protection et la diversion.
+
+GARABON	Qui pouvait savoir qu'ils voulaient tout faire exploser, à commencer par eux-même ?
+
+DEVANERA	Quarante de leurs journées, Garabon. C'est tout le temps dont tu disposes.
+
+GARABON	Nous aurons trouvé le gosse d'ici là.
+
+(BOUCLE 34 - 01:28:26:01)
+		34
+
+SIPHIWE	J'en ai assez de marcher !
+
+SIPHIWE	Je suis désolée mais moi, je ne suis pas un cheval.
+
+SIPHIWE	(respir effort)
+
+SIPHIWE	Je suis taillée pour parcourir de courtes distances.
+
+ELLEN	On va se reposer ici.
+
+SIPHIWE	Je pourrais même porter l'une de vous.
+
+SIPHIWE	Mais mesdames, (respir_____) on est littéralement en train de traverser tout ce pays de long en large.
+
+SIPHIWE	Je peux plus avancer.
+
+GAYLE	Je vais voir s'il y a de la nourriture dans cette maison.
+
+SIPHIWE	Je viens avec toi.
+
+(BOUCLE 35 - 01:28:57:20)
+		35
+
+ELLEN	Il vaut mieux qu'elles ne restent pas trop longtemps à l'intérieur.
+
+ELLEN	J'ai encore fait un cauchemar au sujet de Cameron.
+
+GRANNY B	Oh, Ellen...
+
+ELLEN	J'ai tellement peur que quelque chose de grave ne lui soit arrivé.
+
+GRANNY B	Oh, ma chère Ellen, dans des situations comme celle-là, il est indispensable de garder la foi en la vie
+
+GRANNY B	et de penser que tout va bien pour lui.
+
+ELLEN	Tu es vraiment quelqu'un de bien, Nance. Je suis heureuse de t'avoir rencontrée.
+
+GRANNY B	Oh,  moi aussi.
+
+ELLEN	(Ah !)
+
+GRANNY B	(réac_____)
+
+(BOUCLE 36 - 01:29:30:08)
+		36
+
+IO	Tu seras la prochaine.
+
+IO	Tes copines seront les suivantes.
+
+(BOUCLE 37 - 01:29:39:11)
+		37
+
+DES	La communication a été établie entre les deux vaisseaux.
+
+DES	Nous avons une correspondance.
+
+IO	D'autres vont arriver.
+
+DEVANERA	Trouvez leur position exacte.
+
+DES	On envoie les coordonnées pour effectuer un scan.
+
+(BOUCLE 38 - 01:30:03:22)
+		38
+
+GRANNY B	Reculez, n'essayez pas de me toucher !
+
+IO	Pose cette canne, vieille femme ou je vais m'énerver !
+
+IO	(Cri de douleur)
+
+ELLEN	Cours, Nancy, cours !
+
+GRANNY B	(réac)
+
+GRANNY B	(réac)
+
+IO	(respir) (respir)
+
+IO	Tu penses m'arrêter avec ça !
+
+ELLEN	Non, mais avec ça oui !
+
+ELLEN	(respir_____________________)
+
+ELLEN	(Hh_\)
+
+ELLEN	(Hh_\)
+
+(BOUCLE 39 - 01:30:39:04)
+		39
+
+DES	La femme qu'ils ont découverte est sur ce continent. Elle n'est pas humaine.
+
+GARABON	Et le garçon ?
+
+DES	Il n'était pas avec elle. On continue de chercher.
+
+DES	Nous envoyons d'autres contrôleurs pour l'interroger.
+
+GARABON	Non, elle est au service du gamin.
+
+GARABON	S'il n'est pas avec elle, elle mourra plutôt que de dire où il se cache.
+
+GARABON	Je vais l'obliger à me mener à lui.
+
+DES	Tu y vas personnellement ?
+
+GARABON	J'aurais bien envoyé Humain.
+
+GARABON	Mais j'ai peur qu'il la fasse exploser.
+
+GARABON	Qu'il emploie la manière forte.
+
+GARABON	On va la jouer cool.
+
+(BOUCLE 40 - 01:31:36:08)
+		40
+
+DEVANERA	On a envoyé d'autres contrôleurs sur place.
+
+GARABON	Ce n'est pas une mission qu'on peut confier aux contrôleurs humains.
+
+GARABON	Laisse-moi gérer à ma manière, Devanera.
+
+GARABON	Au fond de toi, tu sais que j'ai toujours raison.
+
+DEVANERA	Contente-toi de trouver le petit.
+
+(BOUCLE 41 - 01:32:14:12)
+		41
+
+IRENKULL	Où est allé Garabon ?
+
+HACKER	Il se rend là où la femme a été localisée.
+
+DIANAU	Il est exposé. Considérons que c'est une opportunité pour nous.
+
+(BOUCLE 42 - 01:32:54:03)
+		42
+
+REAHVENIAH	Les êtres collectifs servent Devanera et commandent le pouvoir de la lumière bleue..
+
+REAHVENIAH	En ce moment, Nulsa Mathium maintient notre vaisseau invisible aux yeux des humains.
+
+NOTE	prononcer Neulsa Matiame
+
+REAHVENIAH	Mais c'est son frère, Harbien Gium qui parvient à transformer en arme la puissance de la lumière bleue.
+
+NOTE	Prononcer Harbième Gahoume
+
+REAHVENIAH	C'est lui qui maintient notre emprise sur les humains.
+
+REAHVENIAH	Nous sommes en train de dompter leurs forces pour répandre nos organismes depuis nos trois vaisseaux.
+
+REAHVENIAH	C'est un privilège de pouvoir observer ce processus.
+
+REAHVENIAH	Nous avons modifié ces cellules pour tester le sang des gens et déterminer s'ils sont humains ou pas.
+
+(BOUCLE 43 - 01:33:28:16)
+		43
+
+LEARAL	Vous en avez envoyés sur toute la planète ?
+
+REAHVENIAH	Non, ma chère.
+
+REAHVENIAH	Ils ont été conçus pour être inoculés aux guerriers pendant la bataille.  Ils bougent lorsque le guerrier bouge.
+
+REAHVENIAH	C'est pour ça qu'on garde les gens regroupés ensemble.
+
+(BOUCLE 44 - 01:34:22:02)
+		44
+
+SARAH	Bébé, tu fais quoi ?
+
+DAVID	C'est pour quand tu seras pas avec moi.
+
+DAVID	Et que tu me manqueras... dans cette tenue.
+
+SARAH	Arrête, tu me mets mal à l'aise.
+
+DAVID	(rire________________________________________) Ne sois pas mal à l'aise. Tu es magnifique.
+
+SARAH	(rire_________)
+
+DAVID	Vas-y, dis un truc gentil.
+
+SARAH	Comme quoi ?
+
+DAVID	Comme... attends...
+
+DAVID	"Je t'aime, David."
+
+SARAH	Je t'aime, David.
+
+DAVID	Sarah_______________!
+
+(BOUCLE 45 - 01:35:14:19)
+		45
+
+CAMERON	C'est merveilleux.
+
+CAMERON	C'est magnifi_____que !
+
+DAVID	Cameron, mon pote, essaie de ne pas dire aux Organismes où nous sommes.
+
+CAMERON	(réac___)
+
+DAVID	(rire)
+
+CAMERON	(Hhu_____)
+
+DAVID	Il faut partir.
+
+(BOUCLE 46 - 01:35:43:17)
+		46
+
+RUNNER	Ils décollent !
+
+AMBIANCE	(Cris_________________________________)
+
+AMBIANCE	(cris_________)
+
+AMBIANCE	(cris_____)
+
+AMBIANCE	(Hurlements__________)
+
+IO	(Ah___!)
+
+AMBIANCE	(cris_______________)
+
+(BOUCLE 47 - 01:36:14:17)
+		47
+
+DAVID	Fait chier...
+
+DAVID	Mon pote, il faut que tu nous ca_ches. Cameron ?
+
+(BOUCLE 48 - 01:36:54:21)
+		48
+
+CAMERON	Allez, viens !
+
+DAVID	Le monde est en train de s'écrouler et lui, il s'enfuit.
+
+CAMERON	Dépêche-toi, mo_nte. Ca va exploser.
+
+DAVID	Il fait quoi  ?
+
+DAVID	(respir____)
+
+(BOUCLE 49 - 01:37:30:07)
+		49
+
+CAMERON	Oh merde !
+
+DAVID	Fait chier !
+
+SHANNA	On va devoir courir.
+
+CAMERON	Non, non. Monte dans la voiture.
+
+SHANNA	Quoi ?
+
+CAMERON	Si tu veux vivre, faut me faire confiance. Allez !
+
+(BOUCLE 50 - 01:38:15:21)
+		50
+
+CAMERON	Tiens.
+
+SHANNA	Vous êtes tous les deux cinglés ?
+
+DAVID	(rire_______)
+
+SHANNA	Pourquoi vous restez à l'intérieur comme ça ? Vous êtes malades mentaux?
+
+CAMERON	Heu____?
+
+SHANNA	Vous avez une idée de ce qu'ils feront si ils vous trouvent à l'écart des groupes ?
+
+CAMERON	Et toi, tu n'es pas en dehors des groupes par hasard ?
+
+SHANNA	Et une dernière chose. Je veux savoir comment tu as fait pour nous cacher.
+
+CAMERON	(rire_____)
+
+SHANNA	Ca te fait marrer ? Explique-moi pourquoi tu rigoles, Cameron.
+
+CAMERON	Merde...(rire). Pardon. C'est juste que t'es tellement intense.
+
+SHANNA	Ne change pas de sujet. Comment t'as fait pour nous cacher ?
+
+(BOUCLE 51 - 01:38:58:08)
+		51
+
+CAMERON	La lumière du soleil, à certaines heures de la journée.. peut faire une occlusion...
+
+SHANNA	(réac)
+
+CAMERON	Heu__...
+
+DAVID	Allez, dis-lui.
+
+CAMERON	Tu veux que je dise tout, la vérité ?
+
+DAVID	Autant qu'elle soit au courant.
+
+(BOUCLE 52 - 01:39:27:13)
+		52
+
+CAMERON	D'accord.
+
+CAMERON	Tout ce qui s'est passé depuis le début, ce n'est pas ce que tu crois.
+
+CAMERON	Il n'y a jamais eu d'épidémie.
+
+CAMERON	Ces trucs n'ont jamais été infectés.
+
+CAMERON	Ma mère, celle dont je t'ai parlée, n'est pas ma vraie mère.
+
+DAVID	(réac___)
+
+CAMERON	Mais pour comprendre toute  l'histoire, il faut qu'on s'en aille d'ici.
+
+(BOUCLE 53 - 01:39:55:12)
+		53
+
+SARAH	David, j'aime notre vie.
+
+DAVID	Moi aussi, bébé.
+
+SARAH	(Hh_\)
+
+SARAH	Ne me quitte jamais.
+
+DAVID	Jamais, promis.
+
+(BOUCLE 54 - 01:40:17:15)
+		54
+
+DAVID	(cri_______)
+
+DAVID	Ah !
+
+DAVID	(effort) (cri)
+
+DAVID	(lutte) (cri_)
+
+DAVID	(cri__________)
+
+SARAH	Je me sens en sécurité avec toi.
+
+DAVID	Pour toujours.
+
+(BOUCLE 55 - 01:41:20:14)
+		55
+
+DAVID	Cours !
+
+(BOUCLE 56 - 01:41:27:13)
+		56
+
+ELLEN	(respir_____)
+
+RICHARD	Sortez ! Je sais que vous êtes là.
+
+ELLEN	Ca fait peur de rencontrer des étrangers parce qu'on ne sait pas sur qui on va tomber.
+
+ELLEN	Nous sommes quatre femmes. Ce serait bien que vous rejoigniez notre groupe.
+
+RICHARD	Ecoutez, je comprends. Nous sommes plus forts si nous restons ensemble.
+
+(BOUCLE 57 - 01:41:59:04)
+		57
+
+ELLEN	C'est entendu. Nous nous retrouverons en bordure de la forêt.
+
+ELLEN	Quand nous serons arrivées, je vous donnerai le signal.
+
+RICHARD	D'accord. Faites attention à vous.
+
+RICHARD	Ellen !  C'est quoi le signal ?
+
+ELLEN	Coco_____, coco_____!
+
+ELLEN	Coco______, coco_____ !
+
+RICHARD	D'accord, je vois.
+
+RICHARD	Ellen.
+
+ELLEN	(Hh_/) Bonjour Richard. Voici mes amies.
+
+(BOUCLE 58 - 01:42:28:03)
+		58
+
+FRAN	Bonjour Helen, Fran. (X) ravie de vous rencontrer.
+
+ELLEN	Bonjour.
+
+GARABON	Bonjour, Helen. Je m'appelle Graeme.
+
+ELLEN	Bonjour, Graeme. Ravie de vous rencontrer.
+
+SIPHIWE	Ellen !
+
+(BOUCLE 59 - 01:42:57:03)
+		59
+
+SHANNA	Ces gens qui sont venus te chercher,
+
+SHANNA	peut-être qu'ils vont abandonner
+
+SHANNA	et partir. Ils te laisseront tranquilles.
+
+CAMERON	Ce n'est pas ce genre de personne.
+
+SHANNA	Non. J'imagine que non.
+
+(BOUCLE 60 - 01:43:37:13)
+		60
+
+FRAN	Tiens, prends.
+
+FRAN	Et tiens, voilà pour toi.
+
+ELLEN	Merci, Fran.
+
+ELLEN	Tiens, Nance, tu as soif ?
+
+GRANNY B	Merci.
+
+SIPHIWE	Regarde-moi ça. Ca fait des mois que je n'ai pas mangé de confiture.
+
+GARABON	Alors, tout le monde ici recherche sa famille ?
+
+GRANNY B	Bien sûr !  C'est pas ton cas, mon chéri?
+
+GARABON	(rire) (hh/)
+
+GARABON	Si comme vous tous. Mon vieux père, Devan.
+
+GARABON	Il est très désagréable. Terriblement ennuyeux mais que peut-on faire ?
+
+GARABON	Nous devons tous vivre avec, jour après jour et tenir chaque jour encore.
+
+GARABON	Nous devons les aimer, bien que ce soient d'horribles vieilla___rds.
+
+(BOUCLE 61 - 01:44:24:10)
+		61
+
+GRANNY B	C'est très  difficile pour notre génération.
+
+GRANNY B	Ils ont fait de nombreuses guerres pour assurer notre sécurité.
+
+GRANNY B	Et voilà que le monde change juste sous leur nez, mais ils ne trouvent plus leur place dans ce monde.
+
+GARABON	Granny B.
+
+GRANNY B	Oui ?
+
+GARABON	Je ne vous connais pas bien, mais à ce que je vois,  vous êtes une dame délicieuse.
+
+GRANNY B	Merci, Graeme. Moi, je trouve que vous êtes un beau gosse.
+
+ELLEN	(rire__________)
+
+SIPHIWE	(rire___________)
+
+GRANNY B	(rire___________)
+
+GAYLE	(rire)
+
+FRAN	(rire)
+
+ELLEN	Ca nous fait du bien de rire de temps en temps. Ca calme un peu nos angoisses.
+
+(BOUCLE 62 - 01:45:15:05)
+		62
+
+GARABON	Votre fils et vous avez été séparés ?
+
+ELLEN	Oui.
+
+ELLEN	Cameron.
+
+GARABON	Est-ce que vous avez une idée de là où il est en ce moment ?
+
+ELLEN	Non, je ne sais pas vraiment où il est.
+
+GRANNY B	Mais tu sais où il va aller.
+
+ELLEN	C'est la seule chose à laquelle je me rattache maintenant.
+
+ELLEN	Nous avions un plan, au cas où nous serions séparés.
+
+ELLEN	Un endroit où nous retrouver, à environ deux jours de marche d'ici.
+
+GARABON	Hé bien, deux jours, ça va passer très vite.
+
+REAHVENIAH	Tu te rapproches, Garabon.
+
+(BOUCLE 63 - 01:45:53:17)
+		63
+
+ELLEN	Il faut que j'arrive à garder la foi et me dire qu'il va bien jusqu'à ce que je le retrouve.
+
+RICHARD	Nous devrions aller nous coucher.
+
+RICHARD	Une longue journée nous attend demain.
+
+GRANNY B	Oui, nous avons tous besoin de repos.
+
+(BOUCLE 64 - 01:46:22:21)
+		64
+
+CAMERON	Tu dors pas ?
+
+DAVID	Non.
+
+DAVID	Il va y avoir un orage.
+
+CAMERON	J'aime quand il pleut.
+
+CAMERON	J'aimerais ne pas être obligé de partir.
+
+DAVID	Moi aussi.
+
+(BOUCLE 65 - 01:47:03:22)
+		65
+
+GRANNY B	On dirait qu'il va pleuvoir.
+
+(BOUCLE 66 - 01:47:24:00)
+		66
+
+ELLEN	Je pense qu'il sera arrivé sur le site demain.
+
+GARABON	Je l'espère vraiment pour vous.
+
+GARABON	Mais vous ne devriez pas y aller seule.
+
+ELLEN	Oh, il le faut.  Je veux dire, tout le monde essaie de retrouver sa famille.
+
+ELLEN	A un moment, nous devrons tous prendre des directions différentes.
+
+GARABON	Ecoutez, je sais que je ne retrouverai pas mon père.
+
+GARABON	Il est déjà là-haut quelque part.
+
+ELLEN	Non, Graeme, il ne faut pas dire une chose pareille.
+
+GARABON	En fait, je veux vous accompagner. Je vais vous aider à trouver votre fils.
+
+GARABON	Où est-ce que vous devez vous retrouver ?
+
+ELLEN	Heu...
+
+(BOUCLE 67 - 01:48:11:17)
+		67
+
+RICHARD	Venez voir !
+
+RICHARD	Il y a des hangars.
+
+RICHARD	On devrait trouver de la nourriture et de l'eau.
+
+ELLEN	Du chocolat ! J'espère qu'il y aura du chocolat.
+
+GARABON	(soupir______)
+
+(BOUCLE 68 - 01:48:41:23)
+		68
+
+ELLEN	Vous avez vu comme on a de la chance de trouver tous ces lieux abandonnés !
+
+GARABON	Oui, c'est vrai, on a beaucoup de chance.
+
+ELLEN	Il y a un problème ?
+
+GARABON	Nous ne sommes pas seuls.
+
+GARABON	Ellen, courez !
+
+(BOUCLE 69 - 01:49:19:00)
+		69
+
+HOMME BLACK	(Hh_/)
+
+GARABON	Protégez la femme !
+
+GARABON	(Huh) (douleur)
+
+HOMME BLACK	(Ah !)
+
+ELLEN	Partez !
+
+ELLEN	Courez, c'est un piège !
+
+ELLEN	(cri)
+
+ELLEN	Nance !
+
+GRANNY B	(réac)
+
+GARABON	(cri douleur)
+
+GARABON	(réac)
+
+GARABON	Ah !
+
+GARABON	Ah !
+
+HOMME BLACK	(cri)
+
+(BOUCLE 70 - 01:49:53:03)
+		70
+
+HACKER	Les coups sont fatals. Il n'y a pas assez d'hommes.
+
+(BOUCLE 71 - 01:50:00:17)
+		71
+
+GARABON	Ah !
+
+ELLEN	(respir_______)
+
+ELLEN	(cri)
+
+RICHARD	Ah ____!
+
+HOMME BLACK 2	(Hhuu___)
+
+HOMME BLACK 2	(hhuu__)
+
+GARABON	(Ah_)
+
+GARABON	(effort)
+
+(BOUCLE 72 - 01:50:53:05)
+		72
+
+GARABON	Ils s'en prennent à moi___ !
+
+GARABON	Rappelez-les.
+
+GARABON	Immédiatement !
+
+GARABON	Elle ne m'a pas encore dit où se cache le garçon.
+
+DEVANERA	Tu es blessé ?
+
+GARABON	(réac) Tu insinues que tu n'as pas autorisé cette attaque ?
+
+DEVANERA	Ne dis pas de bêtise. C'est toi seul qui as eu l'idée de te faire passer pour un humain.
+
+GARABON	Ces gens sont censés être sous notre contrôle !
+
+GARABON	Est-ce que les contrôleurs ont été rappelés ?
+
+REAHVENIAH	Oui.
+
+DEVANERA	Ils sont repartis.
+
+GARABON	J'espère pour vous qu'elle n'est pas blessée. Que ça ne se reproduise plus jamais Devanera !
+
+DEVANERA	Trouvez qui a autorisé cela.
+
+DEVANERA	Et ne permettez plus jamais une chose pareille.
+
+DEVANERA	Protégez mon fils !
+
+(BOUCLE 73 - 01:51:49:12)
+		73
+
+ELLEN	Graeme !
+
+ELLEN	Je peux vous dire un mot ?
+
+GARABON	Evidemment
+
+ELLEN	Graeme, je suis désolée de vous demander ça maintenant mais...
+
+ELLEN	je dois absolument retrouver mon fils.
+
+ELLEN	Je vois trop de gens mourir.
+
+ELLEN	Je pensais pouvoir le faire seule.
+
+ELLEN	Mais non.
+
+ELLEN	Vous avez dit que vous m'aideriez.
+
+ELLEN	(sanglot_____)
+
+ELLEN	Je vous en prie. Je ne sais pas comment je vais y arriver sans vous.
+
+GARABON	Bien sûr, Ellen. Je vous aiderai à trouver Cameron.
+
+(BOUCLE 74 - 01:52:49:22)
+		74
+
+IO	Deux groupes. Il y a un homme d'âge moyen parmi elles.
+
+IO DRIVER	Que voulez-vous faire ?
+
+WHIO	On analyse le sang du garçon en premier.
+
+WHIO	Amenez-le-moi.
+
+(BOUCLE 75 - 01:53:08:02)
+		75
+
+DES	Devanera a reçu votre nouvelle position.
+
+DES	La délai reste fixé à midi aujourd'hui.
+
+(BOUCLE 76 - 01:53:30:16)
+		76
+
+IO DRIVER	Ils résistent !
+
+WHIO	Tuez l'homme. Ramenez le plus jeune.
+
+(BOUCLE 77 - 01:53:38:15)
+		77
+
+DAVID	(réac_______)
+
+DAVID	(respir_____)
+
+CAMERON	Shanna ! (respir_____________)
+
+(BOUCLE 78 - 01:54:44:10)
+		78
+
+DAVID	Ah_______!
+
+IO 2	(réac)
+
+DAVID	(Cri_____________)
+
+DAVID	(réac__)
+
+DAVID	(respir_______)
+
+DAVID	(réac)
+
+(BOUCLE 79 - 01:55:06:08)
+		79
+
+CAMERON	David !
+
+DAVID	Cameron ! Où sont passées les bonnes vieilles lumières bleues ?
+
+DAVID	(respir) Tu as vu ! Ils sont carrément passés aux mitrailleuses !
+
+CAMERON	David, ne bouge plus.
+
+IO 1	(respir essoufflée)
+
+DAVID	Il faudra que tu m'apprennes à faire ça.
+
+CAMERON	(rire)
+
+DAVID	Il faut partir d'ici.
+
+(BOUCLE 80 - 01:55:43:18)
+		80
+
+IO 3	(réac)
+
+IO 3	(réac)
+
+IO 3	(cri__)
+
+RICHARD	Baissez-vous. Je crois qu'il y en a un autre.
+
+RICHARD	Je l'ai eu. Il est mort.
+
+RICHARD	Je pense que c'est fini.
+
+DAVID	Quoi ?
+
+DAVID	C'est de la folie ? D'où il sort celui-là ?
+
+DAVID	(rire)
+
+DAVID	Allez, viens.
+
+(BOUCLE 81 - 01:56:55:04)
+		81
+
+IK SECURITY	Nous sommes en ligne avec Devanera.
+
+IRENKULL	Devanera, il est l'heure.
+
+IRENKULL	Le délai est bientôt écoulé.
+
+IRENKULL	Garabon a fait des efforts appréciables.
+
+IRENKULL	J'aurais aimé qu'il réussisse.
+
+DEVANERA	Irenkull,
+
+DEVANERA	je suis encore à la recherche de ceux qui ont voulu nuire à Garabon à travers cette attaque.
+
+IRENKULL	(mts) Un acte très regrettable.
+
+(BOUCLE 82 - 01:57:57:06)
+		82
+
+DEVANERA	Ce qui est regrettable, c'est le sort que je leur réserve
+
+DEVANERA	quand je les aurai trouvés.
+
+IRENKULL	Bien sûr.
+
+IRENKULL	Nous attendons votre ordre de tirer.
+
+(BOUCLE 83 - 01:58:23:14)
+		83
+
+ELLEN	Cameron !
+
+ELLEN	On doit se retrouver ici.
+
+ELLEN	Cameron !
+
+GARABON	Où peut-il être ?
+
+ELLEN	Je ne sais pas.
+
+ELLEN	Je pensais qu'il serait déjà arrivé.
+
+ELLEN	Je ne comprends pas.
+
+GARABON	Peut-être qu'il se cache.
+
+ELLEN	Non. Il serait venu en entendant ma voix.
+
+ELLEN	Cameron !
+
+GARABON	Je croyais qu'il serait là.
+
+ELLEN	Heu___ Je ne sais pas, Graeme. Peut-être qu'il est...
+
+(BOUCLE 84 - 01:59:10:10)
+		84
+
+GARABON	Peut-être ?
+
+GARABON	Je ne veux pas entendre de "peut-être", Ellen !
+
+ELLEN	Je suis désolée si je vous ai déçu.
+
+GARABON	Vous cherchez quelque chose ?
+
+GARABON	Vous avez dit qu'il serait là !
+
+(BOUCLE 85 - 01:59:42:18)
+		85
+
+ELLEN	Mais qui êtes-vous ?
+
+GARABON	Je suis celui que vous essayez de fuir.
+
+ELLEN	Vous êtes Neran ?
+
+GARABON	Je suis Garabon.
+
+ELLEN	Vous êtes cinglé.
+
+GARABON	Oui.
+
+GARABON	Fouillez chaque centimètre de cette zone Recherchez toute trace de vie.
+
+(BOUCLE 86 - 02:00:15:19)
+		86
+
+ELLEN	Tout ce qui nous arrive est de votre faute.
+
+GARABON	Nous allons détruire la Terre parce que Camiru n'est pas là où vous avez dit qu'il serait.
+
+GARABON	(Et ça, c'est de votre faute à vous ! C'est vous qui allez tuer tout le monde !)
+
+ELLEN	Ma faute ? Combien de personnes sont mortes pour cette cause, cette obsession ?
+
+GARABON	Ce n'est qu'un dommage collatéral, Vous le savez.
+
+ELLEN	Cette guerre est uniquement votre guerre.
+
+GARABON	Le jour où vous avez atterri sur Terre, c'est devenu la leur.
+
+(BOUCLE 87 - 02:01:00:19)
+		87
+
+DEVANERA	Il est midi.
+
+DEVANERA	Retourne sur ton vaisseau, Garabon.
+
+GARABON	Je viens d'arriver.
+
+GARABON	Laisse-moi du temps. Le garçon doit venir.
+
+DEVANERA	Retourne sur ton vaisseau et attends l'ordre de lancer l'attaque.
+
+GARABON	Ecoute-moi. Nous sommes sur cette planète depuis quarante jours.
+
+GARABON	Laisse-moi quelques heures de plus.
+
+DEVANERA	Je t'ordonne de retourner sur ton vaisseau tout de suite. Tu me dois obéissance !
+
+(BOUCLE 88 - 02:01:39:11)
+		88
+
+GARABON	Ca ne dépend pas de moi.
+
+GARABON	Ce monde va disparaître.
+
+(BOUCLE 89 - 02:02:26:00)
+		89
+
+SIPHIWE	C'est quoi  ce truc ?
+
+DAVID	Cameron !  Merde !
+
+CAMERON	C'est là que je dois retrouver Ellen.
+
+CAMERON	(respir___)
+
+DAVID	Tu penses qu'elle est là ?
+
+CAMERON	Et si jamais ils l'ont trouvée ?
+
+DAVID	(respir________) (mts)
+
+CAMERON	(respir____) Et si jamais ils l'ont tuée ?
+
+DAVID	Non, écoute,  tu ne dois pas penser à ça pour l'instant.
+
+CAMERON	(respir_______________)
+
+CAMERON	Merde, c'est maintenant !
+
+CAMERON	(respir______) Ils vont détruire la planète..
+
+CAMERON	David, on peut les arrêter avec mon vaisseau.
+
+DAVID	(respir___) Quoi ?
+
+(BOUCLE 90 - 02:03:13:01)
+		90
+
+CAMERON	Viens !
+
+CAMERON	Mon vaisseau est sur la montagne, on  va monter dedans et je vais me rendre!
+
+DAVID	Quoi ?
+
+DAVID	Oh___! Comment ça "on" va monter ?
+
+DAVID	(respir_____)
+
+CAMERON	Comme ça, si ça explose, tu mourras pas ici.
+
+CAMERON	Non, c'est pas vrai !  (cri)    Comment je vais sauver Shanna ?
+
+CAMERON	(respir________________________)
+
+DAVID	Cameron, si jamais ça explose, ça n'aura plus d'importance. Viens.
+
+(BOUCLE 91 - 02:04:24:10)
+		91
+
+SENTREDE	Nous pouvons procéder en toute sécurité.
+
+SENTREDE	Garabon est à l'abri., à bord du vaisseau.
+
+DEVANERA	Allez-y.
+
+(BOUCLE 92 - 02:04:50:17)
+		92
+
+GARABON	Vous ne méritez pas de mourir, Ellen.
+
+ELLEN	Et mon fils, Cameron ?
+
+GARABON	Camiru n'est pas votre fils, Ellen.
+
+ELLEN	Si. Il représente ce qu'il y a de plus précieux pour moi.
+
+GARABON	Alors, je suis désolé
+
+GARABON	il n'a aucune chance de survie.
+
+ELLEN	Mais...
+
+(BOUCLE 93 - 02:05:29:07)
+		93
+
+CAMERON	Allumez.
+
+CAMERON	Ouvrez les portes !
+
+DAVID	(hh______/)
+
+DAVID	Ça, c'est carrément génial.
+
+(BOUCLE 94 - 02:06:15:12)
+		94
+
+CAMERON	Ca va aller ?
+
+DAVID	C'est mon premier vol en navette spatiale.
+
+(BOUCLE 95 - 02:06:47:18)
+		95
+
+CAMERON	Allez, on  décolle !
+
+(BOUCLE 96 - 02:07:01:00)
+		96
+
+DAVID	Oh_____ !
+
+(BOUCLE 97 - 02:07:06:07)
+		97
+
+DES	Le noyau s'aligne.
+
+DES	Préparez-vous à l'initiation.
+
+DES	Préparez la séquence de frappe.
+
+(BOUCLE 98 - 02:07:19:07)
+		98
+
+DAVID	Combien de temps va durer le vol ?
+
+CAMERON	Quelques minutes.
+
+DAVID	(réac) C'est dingue !
+
+(BOUCLE 99 - 02:08:01:05)
+		99
+
+DAVID	(Hh_)
+
+WHIO	Bouge de ce vaisseau.
+
+DAVID	Cameron, il faut atterrir tout de suite  !
+
+CAMERON	On pourra pas !
+
+DAVID	(respir____) Tu vas tous nous tuer !
+
+DAVID	Ah !
+
+DAVID	Ah !
+
+DAVID	(cri______________________)
+
+WHIO	(cri____________)
+
+WHIO	(cri__________)
+
+CAMERON	Laisse-le partir !
+
+(BOUCLE 100 - 02:08:28:09)
+		100
+
+DAVID	(cri___________)
+
+WHIO	(cri____________)
+
+CAMERON	(respir_______________________________________)
+
+(BOUCLE 101 - 02:08:51:11)
+		101
+
+HARBIEM GIUM	(cri_____________________________)
+
+NULSA MATHIUM	Cri___________)
+
+CAMERON	Je les ai sentis.
+
+(BOUCLE 102 - 02:09:10:11)
+		102
+
+ELLEN	(respir______________________________________________________)
+
+GARABON	Ellen, que se passe-t-il ?
+
+ELLEN	C'est impossible.
+
+(BOUCLE 103 - 02:09:24:07)
+		103
+
+WHIO	(cri____________)
+
+WHIO	Ah_____!
+
+DAVID	Hé! On t'a assez vu !
+
+CAMERON	(respir_______)
+
+(BOUCLE 104 - 02:09:34:07)
+		104
+
+DEVANERA	Que se passe-t-il ? Pourquoi les collectifs sont-ils en détresse ?
+
+REAHVENIAH	Je l'ignore. Ils n'ont jamais réagi comme ça avant.
+
+DEVANERA	J'ai besoin de les contrôler pour tirer le canon.
+
+REAHVENIAH	Ils sont toujours sous contrôle malgré cette perturbation, Devanera.
+
+REAHVENIAH	Quoi qu'il leur arrive, cela n'affectera pas vos ordres.
+
+(BOUCLE 105 - 02:09:52:18)
+		105
+
+CAMERON	David, on va s'écraser.
+
+DAVID	(réac__)
+
+DAVID	Oh, merde ! (respir__)
+
+CAMERON	Tire sur les manettes,  vite !
+
+DAVID	Je sais pas faire voler ce machin !
+
+CAMERON	On va s'écra___ser !  Il faut que t'attrapes les manettes et que tu tires doucement.
+
+DAVID	Qu'est-ce qui t'arrive ?
+
+CAMERON	Ca, je l'ignore !
+
+CAMERON	Tout doucement !
+
+DAVID	J'arrive pas  !
+
+CAMERON	OK, maintenant redresse les manettes !
+
+DAVID	(cri______)
+
+CAMERON	Tire de toutes tes forces !
+
+DAVID	(cri___) Doucement, fo__rt, faudrait savoir, Cameron !
+
+(BOUCLE 106 - 02:10:51:09)
+		106
+
+CAMERON	C'était carrément dément !
+
+CAMERON	T'as été phénoména__l !
+
+DAVID	(réc____)
+
+(BOUCLE 107 - 02:10:59:08)
+		107
+
+GARABON	Vous ne pouvez pas être certaine que c'était lui.
+
+ELLEN	Je sais que c'était Cameron.
+
+ELLEN	Il a convoqué la force de la lumière et elle lui a obéi.
+
+ELLEN	Vous comprenez ce que ça signifie ?
+
+GARABON	Je ne peux annuler pas l'ordre de frappe, Ellen.
+
+GARABON	Quand le vortex sera aligné, le canon tirera.
+
+ELLEN	Tout ce temps passé, Graeme, et la récompense...   enfin à portée de main.
+
+GARABON	La récompense, c'est Camiru ?
+
+ELLEN	Mieux vaut l'avoir vivant    comme prisonnier,
+
+ELLEN	que de le tuer dans ce génocide.
+
+ELLEN	Arrêtez maintenant !   C'est tout un monde qui est sur le point d'être détruit.
+
+(BOUCLE 108 - 02:11:47:01)
+		108
+
+GARABON	(cri) Vous remplissez mon esprit de doute !
+
+GARABON	(Hh_/)
+
+GARABON	(grognement)
+
+GARABON	Nous aussi, nous nous battons pour notre survie.
+
+GARABON	Mon monde va mourir parce que le père de Camiru refuse de le sauver.
+
+GARABON	(nasal/)
+
+GARABON	Ça ne lui pose pas de problème  de laisser mon peuple entier dépérir.
+
+ELLEN	(réac__) (soupir)
+
+ELLEN	Ne faites pas de Cameron une monnaie d'échange.
+
+ELLEN	Darmirruan est vieux, inflexible et entêté.
+
+ELLEN	Garabon, Cameron a maîtrisé la lumière bleue.
+
+ELLEN	Il prend la succession de Darmirruan.
+
+(BOUCLE 109 - 02:12:41:04)
+		109
+
+SENTREDE	Le vortex est vivant.
+
+SENTREDE	Préparez-vous à une séquence de tir.
+
+(BOUCLE 110 - 02:12:51:06)
+		110
+
+ELLEN	Il peut sauver votre monde.
+
+ELLEN	(mts) Informez Devanera qu'il doit annuler l'ordre de frappe.
+
+GARABON	Je retourne sur la planète.
+
+(BOUCLE 111 - 02:13:30:00)
+		111
+
+CAMERON	David tu as piloté le vaisseau.
+
+DAVID	(Hh_) Enfin, je l'ai fait s'écraser.
+
+DAVID	Mais qu'est-ce que t'as ?
+
+CAMERON	(respir)  J'en sais rien.
+
+DAVID	(respir_ effort)
+
+CAMERON	J'ai maîtrisé la lumière bleue.
+
+DAVID	Je te le fais pas dire ! (tousse)
+
+DAVID	(respir essoufflée sur toute la boucle)
+
+CAMERON	(respir____)
+
+DAVID	Cameron ?
+
+CAMERON	Quoi ?
+
+DAVID	Qu'est-ce... qu'est-ce qui m'arrive ?
+
+DAVID	(respir) J'ai plus de force. (respir)
+
+DAVID	(déglutit)
+
+DAVID	(Hhu)
+
+DAVID	Je me sens très faible. (respir)
+
+(BOUCLE 112 - 02:14:12:18)
+		112
+
+DAVID	(respir sur toute la boucle)
+
+CAMERON	(mts)
+
+CAMERON	T'as touché la lumière bleue.
+
+DAVID	Toi aussi, tu l'as touchée.
+
+DAVID	(rire)
+
+CAMERON	Je sais.
+
+CAMERON	Je pensais pas que je pouvais la toucher.
+
+DAVID	(rire)
+
+DAVID	T'as été incroyable.
+
+CAMERON	David.
+
+DAVID	Je suis hyper fier de toi !
+
+CAMERON	David, la lumière bleue est en toi.
+
+CAMERON	Je pense qu'elle te tue.
+
+(BOUCLE 113 - 02:15:01:16)
+		113
+
+DAVID	(respir sur toute la boucle)
+
+DAVID	Je le sais.
+
+DAVID	(mh_)
+
+CAMERON	(sanglot)
+
+CAMERON	Tout est de ma faute.
+
+DAVID	Non ! Hé ! C'est de leur faute,   n'oublie pas !
+
+DAVID	Pas la tienne !
+
+DAVID	Cameron... le canon !
+
+DAVID	Il faut les empêcher de le lancer !
+
+CAMERON	Il est trop tard.
+
+DAVID	Non !  Hein, pas pour toi !
+
+DAVID	Tu maîtrises les boules bleues.
+
+DAVID	Va-t'en et va maîtriser ces vieillards !
+
+(BOUCLE 114 - 02:15:45:23)
+		114
+
+CAMERON	Les collectifs ?
+
+DAVID	Arrête-les.
+
+DAVID	Arrête-les, Cameron.
+
+DAVID	Tu peux sauver tout le monde.
+
+DAVID	Tu peux s_ sau_ver... (douleur) tu peux sauver Sarah !
+
+DAVID	Sauve-la pour... pour moi !
+
+CAMERON	(mts)
+
+CAMERON	David...
+
+CAMERON	(respir________________________________________)
+
+(BOUCLE 115 - 02:16:29:22)
+		115
+
+CAMERON	(respir___________________________________________________________)
+
+(BOUCLE 116 - 02:17:11:20)
+		116
+
+CAMERON	Je vous sens, je sais que vous me sentez.
+
+CAMERON	Vous me cherchiez.
+
+CAMERON	Je suis là..
+
+(BOUCLE 117 - 02:17:45:01)
+		117
+
+HARBIEM GIUM	(cri de douleur___)
+
+NULSA MATHIUM	(cri de douleur_____)
+
+REAHVENIAH	(réac____)
+
+REAHVENIAH	(réac)
+
+(BOUCLE 118 - 02:18:14:10)
+		118
+
+HARBIEM GIUM	(Cri___)
+
+HARBIEM GIUM	(cri____)
+
+CAMERON	(cri____)
+
+NOTE	(prononcer "rêvenailla)
+
+DEVANERA	Où est Reahveniah ?
+
+CAMERON	(cri___)
+
+HARBIEM GIUM	(cri____)
+
+(BOUCLE 119 - 02:18:36:04)
+		119
+
+GARABON	Pourquoi vous ne m'avez pas connecté à Devanera ?
+
+SENTREDE	Nous ne pouvons contacter le vaisseau de Devanera.
+
+SENTREDE	Nous ne sommes plus connectés au réseau central.
+
+GARABON	Quoi ?
+
+GARABON	Réquisitionnez toutes les fréquences, dont celle d'Irenkull et passez-moi Devanera.
+
+SENTREDE	Et si je ne parviens pas à établir une connexion ?
+
+GARABON	Alors, je vais mourir et c'est vous qui serez le responsable.
+
+SENTREDE	Oh...
+
+(BOUCLE 120 - 02:18:59:13)
+		120
+
+IRENKULL	Poussez-vous !
+
+VOIX ROBOT	(réac)
+
+SENTREDE	Ceci est une priorité de niveau un.
+
+SENTREDE	Appel à tous les Geneads.
+
+SENTREDE	Informez Devanera d'annuler le tir sur ordre de Garabon.
+
+IRENKULL	Coupez la communication !
+
+IK SECURITY	Je l'ai fait,  comme vous l'avez ordonné.
+
+IK SECURITY	Nous sommes les seuls à entendre ceci.
+
+IRENKULL	Est-ce qu'il a trouvé le garçon ?
+
+IK SECURITY	Je ne sais pas.
+
+IRENKULL	Et l'ordre de tir ?
+
+IK SECURITY	Il est toujours d'actualité.
+
+IRENKULL	Vraiment ?
+
+HACKER	Que fait-on du message ?
+
+IK SECURITY	Garabon retourne sur la planète.
+
+IRENKULL	Ne le transmettez pas.
+
+IRENKULL	Il va mourir dans l'explosion.
+
+(BOUCLE 121 - 02:20:09:10)
+		121
+
+DEVANERA	Qu'est-ce que vous attendez ? Tirez !
+
+DEVANERA	Faites feu !
+
+LEARAL	Tirez !
+
+(BOUCLE 122 - 02:20:40:04)
+		122
+
+CAMERON JEUNE	Pourquoi ça ne marche pas ?
+
+ELLEN	Ca marchera quand tu seras grand.
+
+ELLEN	Peut-être quand tu seras très âgé.
+
+ELLEN	Camiru, rappelle-toi ce que je t'ai enseigné.
+
+ELLEN	Maîtriser le pouvoir de cette façon  diminue ta propre force.
+
+ELLEN	Mais si tu le maîtrises comme ceci,  ta force sera sans limites.
+
+ELLEN	Tu seras puissant.
+
+(BOUCLE 123 - 02:21:28:22)
+		123
+
+CAMERON	(cri________)
+
+HARBIEM GIUM	(cri________________________)
+
+NULSA MATHIUM	(cri____)
+
+NULSA MATHIUM	(cri_______)
+
+HARBIEM GIUM	(cri_________)
+
+(BOUCLE 124 - 02:21:52:20)
+		124
+
+CAMERON	(Ah !______)
+
+IRENKULL	D'où vient cette puissance ?
+
+(BOUCLE 125 - 02:22:31:24)
+		125
+
+LEARAL	Le noyau va s'écrouler !
+
+REAHVENIAH	(réac_____)
+
+HARBIEM GIUM	(cri________)
+
+HARBIEM GIUM	(cri_____)
+
+(BOUCLE 126 - 02:23:02:07)
+		126
+
+HARBIEM GIUM	(cri________)
+
+REAHVENIAH	(Cri___________)
+
+CAMERON	(cri__________)
+
+DAVID	(Respir___________)
+
+CAMERON	(respir_____)
+
+(BOUCLE 127 - 02:23:35:20)
+		127
+
+HARBIEM GIUM	(HH________\)
+
+(BOUCLE 128 - 02:23:59:03)
+		128
+
+REAHVENIAH	(respir________)
+
+(BOUCLE 129 - 02:24:47:14)
+		129
+
+CAMERON	David, tu... tu vas bien !
+
+CAMERON	Comment ?
+
+DAVID	Je ne sais pas, Cameron.
+
+DAVID	Mais, quand tu as fait ce truc,
+
+DAVID	repousser le vaisseau spatial dans le ciel,
+
+DAVID	j'ai ressenti ta force.
+
+DAVID	J'ai senti la lumière bleue me soulever !
+
+DAVID	Je me sens super bien !
+
+CAMERON	Merci. Merci !
+
+DAVID	Merci de quoi ?
+
+CAMERON	D'être vivant.
+
+DAVID	De rien.
+
+DAVID	Maintenant, mon pote, il faut que tu retrouves la trace de Shanna !
+
+CAMERON	(rire)
+
+CAMERON	Je peux te laisser ?
+
+DAVID	T'en fais pas. Cours !
+
+CAMERON	(rire)
+
+(BOUCLE 130 - 02:26:06:23)
+		130
+
+GARABON	Ellen,   je préfère que vous soyez prête. Je vais emmener Cameron dans le vaisseau avec moi.
+
+(BOUCLE 131 - 02:26:34:11)
+		131
+
+ELLEN	Suis-je une mère capable de sacrifier la vie de son fils pour sauver la sienne ?
+
+ELLEN	Je l'ignore.
+
+ELLEN	Je pense qu'une mère ferait n'importe quoi pour protéger ses enfants.
+
+ELLEN	Je mourrais sans aucune hésitation pour Cameron.
+
+ELLEN	Et c'est ainsi que s'achèvent toutes ces années
+
+ELLEN	passées sur Terre à se cacher.
+
+ELLEN	Il existe différentes sortes de personnes dans ce monde.
+
+ELLEN	A laquelle est-ce que j'appartiens ?
+
+ELLEN	Je sais à quelle catégorie appartient Cameron.
+
+ELLEN	Il est de ceux devant lequel le soleil disparaît   pour faire rejaillir la lumière sur les ombres les plus noires.
+
+ELLEN	Il a sauvé le monde aujourd'hui.
+
+ELLEN	Il nous offre un lendemain.
+
+ELLEN	Une nouvelle chance, un nouveau jour.
+
+(BOUCLE 132 - 02:27:36:18)
+		132
+
+CAMERON	Shanna !
+
+(BOUCLE 133 - 02:28:15:23)
+		133
+
+CAMERON	(X)
+
+(BOUCLE 134 - 02:28:37:13)
+		134
+
+REAHVENIAH	La puissance des collectifs a été vaincue..
+
+DEVANERA	Comment ? Comment est-ce possible ?
+
+REAHVENIAH	Ca ne peut être que le garçon.
+
+REAHVENIAH	Le vaisseau de Garabon a été renvoyé dans le ciel.
+
+REAHVENIAH	Nous avons eu de la chance de nous trouver si loin.
+
+(BOUCLE 135 - 02:29:14:13)
+		135
+
+DES	Le général Garabon a mis le garçon de Miruan en sécurité.
+
+DES	Préparez-vous au voyage retour pour Nera.
+
+IRENKULL	(Ah _______!)
+
+(BOUCLE 136 - 02:29:40:15)
+		136
+
+ELLEN	(Hh_/) Mon fils !
+
+ELLEN	(hh_/)
+
+GARABON	Camiru, je suis Garabon. Tu retourneras avec moi sur mon vaisseau.
+
+CAMERON	Garabon, ma mère...
+
+CAMERON	autorisez-la à rester sur Terre.
+
+GARABON	Tu es mon prisonnier, Camiru.  Tu n'as rien à exiger.
+
+CAMERON	Inutile de la garder.  Elle n'a aucune valeur pour mon père.
+
+(BOUCLE 137 - 02:30:33:03)
+		137
+
+ELLEN	C'était un acte d'amour,    je n'en doute pas.
+
+ELLEN	Ce n'était pas un adieu, mais un au revoir.
+
+ELLEN	Ces moment ensemble  étaient certainement nos derniers.
+
+(BOUCLE 138 - 02:30:50:01)
+		138
+
+CAMERON	Je t'aime, maman.
+
+ELLEN	(Hh_/)
+
+ELLEN	Je t'aime, mon garçon.
+
+ELLEN	(pleurs_____)
+
+(BOUCLE 139 - 02:31:20:09)
+		139
+
+CAMERON	Qu'est-ce que tu vas faire maintenant ?
+
+DAVID	Je vais retrouver Sarah.
+
+(BOUCLE 140 - 02:31:44:03)
+		140
+
+ELLEN	Protégez mon fils, Garabon.
+
+GARABON	Vous avez ma parole.
+
+GARABON	Il ne lui sera fait aucun mal.
+
+(BOUCLE 141 - 02:32:26:08)
+		141
+
+CAMERON	Alors, que pensez-vous de la Terre ?
+
+(BOUCLE 142 - 02:34:20:21)
+		142
+
+SARAH	(Hh-/)
+
+SARAH	Tu vas bien, tu es vivant !
+
+SARAH	(X)
+
+SARAH	(X)
+
+SARAH	Ne me laisse plus  jamais seule.
+
+DAVID	Plus jamais.
+
+DAVID	(X)
+Taking		27.03.17
+

@@ -1,0 +1,2034 @@
+MANDY	Those are amazing! I have some bells if you want them for those stockings.
+
+CUSTOMER	Thanks!
+
+GABBY	Mandy, someone left a box for the donation drive out back.
+
+MANDY	Perfect!
+
+GABBY	Someone also left a whole bunch of trash NEXT to the dumpster.
+
+MANDY	Want some help?
+
+GABBY	I got it.
+
+MANDY	You sure, Gabby?
+
+GABBY	Yep! People. Who does that? A few  inches further and the trash is where it's supposed to go.
+
+MANDY	Huh....
+
+GABBY	A hymn book ?
+
+MANDY	Yeah. There are a lot of used books and toys here too.
+ 
+GABBY	I thought we were only taking new things. 
+
+MANDY	Whoever left this must not have known. It's okay. I'll take care of this 
+
+MANDY	Oh wow. Look at this. 
+
+GABBY	Cool.
+
+MANDY	A Christmas Carol. It's a classic. This is an old edition too. 
+
+GABBY	A child still isn't going to want it.
+
+MANDY	I know but 
+
+MANDY	Oh!
+
+GABBY	What's that?
+
+MANDY	I don't know.
+
+GABBY	Whoa.
+
+MANDY	It's a coin.
+
+MANDY	"Dear Santa. I have been good all year and tried to help my mother. I know we won't have much for Christmas. That is just fine by me. But could you help me? I found a coin I think my father would like. He died in the war though. For Christmas this year, could my present be you giving this to my father? He liked collecting these. I miss him and I know he would love it. Love, Judith."
+
+GABBY	That's ....
+
+MANDY	She put the date on it. December 11, 1947. So long ago.
+
+GABBY	Why is this here? It's sweet. Who would give this away?
+
+MANDY	Maybe they didn't know it was with this stuff.
+
+MANDY	Judith....
+
+MANDY	Who are you?
+
+MANDY	Creek Hill Chapel.....  
+
+GPS	In 800 feet, turn right.
+
+MANDY	Hello?
+
+MANDY	Excuse me.
+
+MANDY	Uh, hello?
+
+MANDY	Hey!
+
+MANDY	Ah. Okay then 
+
+JONAH	Oh!
+
+JONAH	Sorry!
+
+MANDY	It's okay.
+
+MANDY	Are you all right? I didn't mean to scare you.
+
+JONAH	No, you didn't. I mean, you startled me, but... don't tell anyone that.
+
+MANDY	You got it.
+
+JONAH	Um, you have  here.
+
+MANDY	Oh thanks.
+
+JONAH	I think I'm making it worse.
+
+MANDY	Oh, well 
+
+JONAH	Sorry.
+
+MANDY	It's okay.
+
+MANDY	Better?
+
+JONAH	Yes. It looked great before, but you know 
+
+MANDY	Got it.
+
+JONAH	So, are you looking for the pastor,n or 
+
+MANDY	Um, yeah. I'm trying to track down who donated these books.
+
+JONAH	Oh, I did. I took them to a dropoff in town for a book drive? 
+
+MANDY	That's my place. I'm Mandy.
+
+JONAH	Oh, nice to meet you. Jonah. 
+
+MANDY	So are these your books then?
+
+JONAH	No, there were a whole bunch of odds and ends in one of the rooms here. The pastor said to throw them out. Those books and a few other things seemed like they were worth saving, especially if someone else might like them.
+
+MANDY	Oh. You wouldn't by chance know who this book in particular belonged to?
+
+JONAH	No. Why?
+
+MANDY	This letter was inside the book, and a coin too. I wanted to find the person who wrote it.
+
+JONAH	Wow.
+
+MANDY	Amazing, isn't it?
+
+JONAH	Pretty neat. "Judith." From the date, she'd be...
+
+MANDY	In her late 70s, probably. You don't by chance know who that is, do you? Are you from around here?
+
+JONAH	I am, but a woman named Judith in her 70s? Sorry. It's kind of thin to go on.
+
+MANDY	Yeah, I know. Someone else probably would have thrown this away, but...there's something special about it, you know?
+
+JONAH	I guess so. Any kid's letter to Santa is, and with it being from so long ago ... I get it.
+
+MANDY	I was hoping maybe it came from someone here.
+
+JONAH	Look, maybe the pastor knows more. He's not here right now but I can ask him.
+
+MANDY	Would you? That'd be great. Or I can come back?
+
+JONAH	Why don't you leave me a way to reach you. I'll check with the pastor or have him call you. Okay?
+
+MANDY	Thank you. 
+
+MANDY	You said Jonah, right?
+
+JONAH	Right. Canton Construction & Renovations. 
+
+MANDY	Sorry to interrupt your work.
+
+JONAH	Not a problem at all.
+
+MANDY	Bye then.
+
+MANDY	And thanks again!
+
+JONAH	You're welcome.
+
+PASTOR	All done for the night?
+
+JONAH	Yeah. Just powering down everything. I'll pick up where I left off in the morning.
+
+PASTOR	Excellent! Are we still on schedule?
+
+JONAH	I think so. I'll let you know if any hiccups come up. 
+
+PASTOR	Thank you.
+
+JONAH	Oh, a woman came by today, asking if you knew anything about the books I found in the back rooms. She found something in one of them and was trying to track down the owner.
+
+PASTOR	I wish I knew. Everything there has accumulated over the years, before I was pastor here.
+
+JONAH	What about a woman named Judith? She would be much older now.
+
+PASTOR	There's Judith Tucker. She's only in her fifties though. 
+
+JONAH	Anyone else?
+
+PASTOR	No one I can think of. I'm sure Pastor O'Brien would have known more.
+
+JONAH	Are there church records that might go back aways?
+
+PASTOR	I had to throw out a whole bunch that were damaged from a burst pipe a few winters ago. Everything left is more recent. Is this woman a friend of yours?
+
+JONAH	I just met her.
+
+PASTOR	Oh. I thought she might...
+
+JONAH	What?
+
+PASTOR	You seem determined to help her. 
+
+JONAH	No, it's not... quite like that. 
+
+PASTOR	She must be a special lady.  
+
+MANDY	This turned out so great. You are quite the artist.
+
+MANDY	Have a Merry Christmas!  
+
+GABBY	I wonder if this is worth anything. 
+
+MANDY	If it is, maybe you shouldn't handle it like that.
+
+GABBY	Seriously, though. You should find out. 
+
+MANDY	Andre has his rare book shop down the street. 
+
+GABBY	He'd know something.
+
+MANDY	It doesn't matter though I want to return it to the letter writer.
+ 
+GABBY	It might matter to "Judith," if you find her. Which is a big if.
+
+MANDY	I know.
+
+GABBY	What if she's passed away? I mean, decades have gone by, so...
+
+MANDY	I get it the deck is stacked against me. But I still want to try.
+
+ANDRE	I'm not an expert, but I dabble in coins here and there. The hardest days are when some boy comes in here with his great uncle's collection, certain he's going to strike it rich.
+
+MANDY	Well, I was curious to know what I've been holding.
+
+ANDRE	Not to get your hopes up, but...
+
+MANDY	What?
+
+ANDRE	1895...
+
+ANDRE	Proof.
+
+ANDRE	This coin in mint condition could be worth $30,000 easily. It's a bit worn, but still... you've got quite the coin here.
+
+MANDY	$30,000? Really?
+
+ANDRE	Now, I said 'could be' and that's if it were in perfect condition.So no guarantees. 
+
+MANDY	Of course.
+
+MANDY	Thanks, Andre.
+
+ANDRE	Here.
+
+ANDRE	Now, if you decide to sell that, you'll let me bid on it, won't you?
+
+MANDY	You bet but it's not mine to sell. Thanks again.  
+
+GABBY	You've won the lottery.
+
+MANDY	No, Judith has.
+
+GABBY	Okay, but think about it. After you've done everything you can, and you can't find her 
+
+MANDY	Hey, don't jinx this.
+
+GABBY	Or she's passed away or is somehow unreachable, what will you do?
+
+MANDY	I'll find her. Or her family. Theydeserve to have the coin. And the letter. Oh! Wouldn't this be the best Christmas present for them?
+
+GABBY	Sure. Christmas is a couple of weeks away though.
+
+MANDY	Plenty of time.
+
+GABBY	Oh boy.
+
+GABBY	Any luck?
+
+MANDY	There are a lot of Judiths, even just around here. I didn't think it was that common of a name.
+
+GABBY	Too bad it's not 'Gabby.' There aren't many of us.
+
+MANDY	True.
+
+GABBY	Did you just type in "Judith" and think you'd find her?
+
+MANDY	I typed in the name of towns around here Everett, Kingston, you know... 
+
+MANDY	Hey, it's just a start.
+
+GABBY	I'll say. 
+
+GABBY	Anything else you need done tonight?
+
+MANDY	Ah, no. Thanks, Gabby.
+
+GABBY	All right. I'm going to clean these up and take off.
+
+MANDY	Night! 
+
+MANDY	Sorry, we're closed. 
+
+JONAH	Mandy? 
+
+MANDY	Oh, Jonah! Sorry, I thought you were a customer.
+
+JONAH	It's okay. Uh, I talked to the pastor.
+
+MANDY	You did? What'd he say?
+
+JONAH	He didn't know who it could belong to. 
+
+MANDY	Oh. Thanks for asking him though. Did you drive here just for that?
+
+JONAH	I was in the area, buying some supplies for a job. But I had an idea. 
+
+JONAH	I want to help you find Judith.
+
+MANDY	You do...?
+
+JONAH	I've lived in Everett most of my life. I know places to look assuming Judith was from around there or nearby too. So we team up.
+
+MANDY	I want to find her by Christmas, so I could use all the help I can get. But are you sure?
+
+JONAH	Yeah.
+
+MANDY	Why?
+
+JONAH	Why what?
+
+MANDY	You have your renovations and work to do.
+
+JONAH	That can run without me often. I have others and subcontractors who do a lot of the work.
+
+MANDY	But why spend your time with this?
+
+JONAH	The whole thing is intriguing and noble. And you seem like someone worth helping.
+
+MANDY	Thanks.
+
+JONAH	Plus, I have an idea of where to start.
+
+MANDY	Where?
+
+JONAH	The letter mentioned that her father died in the war. World War II.
+
+MANDY	So you're hoping we could find a  list of those who served from the Everett area?
+
+JONAH	Exactly.
+
+COUNTY CLERK	What do ya'll need?
+
+MANDY	Uh, hi. We're trying to track downsoldiers who died in World War II who lived in the county. Is that something you'd have record of?
+
+COUNTY CLERK	Name?
+
+MANDY	Um, yeah, we don't have that.
+
+JONAH	Sorry.
+
+COUNTY CLERK	Give me a few minutes. You can have a seat.
+
+MANDY	She thinks we're crazy.
+
+JONAH	There are worse things.
+
+MANDY	Thanks for this. You know, helping.
+
+JONAH	Glad I can.
+
+MANDY	I'm taking you away from your building. Or renovating?
+
+JONAH	We'll call it construction. General enough.
+
+MANDY	Have you done that long?
+
+JONAH	Yeah. Around here, it's more fixing up and building add-ons than it is new buildings, but every now and then, there's a big job.
+
+MANDY	Have you thought about going closer to a bigger city?
+
+JONAH	Been there. Done that. Didn't like it.
+
+MANDY	Why's that?
+
+JONAH	It's ... too tense. Everything costs more. More red tape. More stress. Building is supposed to be exciting, and I started to dread it.
+
+MANDY	So you left.
+
+JONAH	I came back home. It's not as busy here, and the money's... well, it's not as good. But I love being here.
+
+MANDY	Me too.
+
+COUNTY CLERK	Here it is. 
+
+MANDY	This is it?
+
+COUNTY CLERK	Yep. It's the whole county. You'll have to sift through it. 
+
+JONAH	Any way we can check this out?
+
+COUNTY CLERK	We're not a library. But we have acopy machine.
+
+MANDY	Without a name... There's so many.
+
+JONAH	It could be a starting point though.
+
+MANDY	Where is the copy machine?  
+
+JONAH	This is cool. You can make your own crafts?
+
+MANDY	Yeah. This time of year, it's all about decorating things for Christmas, but it stays busy year round with date nights, other holidays, birthday parties and such.
+
+JONAH	It's creative. And cute. Can I say  that?
+
+MANDY	Of course. 
+
+GABBY	Hey. We had a few more toy donations come in. Who's this? 
+
+MANDY	Gabby, this is Jonah. He's helping with the 
+
+GABBY	Mystery letter writer search. Welcome.
+
+JONAH	Thanks. Nice to meet you. So you work here?
+
+GABBY	Yup. I keep this place runnig when Mandy is 
+
+GABBY	 Distracted.
+
+JONAH	Oh. One of my job sites. Do you mind if we pick back up tomorrow? I should have everything settled by then. 
+
+MANDY	Sure.
+
+JONAH	Okay.
+
+MANDY	Oh, thanks.
+
+JONAH	Bye.
+
+GABBY	He's nice enough.
+
+MANDY	Yeah.
+
+GABBY	Make any progress today?
+
+MANDY	Yep. Well, sort of.
+
+GABBY	What's that? 
+
+MANDY	A haystack.
+
+JONAH	They've been waiting a long time to have this done right. So, let's not disappoint.
+
+WORKER	Got it. I'll get right on it.
+
+MANDY	Looks like you're pretty busy here. Are you sure you have time for this now?
+
+JONAH	Yeah, it'll be a nice break from this mess. There was some work donehere that ... how to put it? Failed spectacularly?
+
+MANDY	Ouch.
+
+JONAH	Yeah. I hired someone who messed up bad. And it's costing an extra fortune. But, it'll be great whenit's done.
+
+MANDY	I brought everything.
+
+ANDY	Including two copies of the letter, so I don't damage the original.
+
+JONAH	Thanks.
+
+MANDY	Ready?
+
+JONAH	I figure maybe start with those who died in Everett.
+
+MANDY	I wish these were organized better.
+
+JONAH	Yeah. Too bad the computer wasn't invented earlier.
+
+MANDY	I was crazy to think this would lead to something.
+
+JONAH	Actually it was my idea.
+
+MANDY	Sorry. It's just... it's like solving for X in a math problem without any other numbers.
+
+MANDY	Judith could have left more clues.
+
+JONAH	Yes, I'm sure she thought that too when she was writing it.
+
+JONAH	There's a next of kin listed for each of these soldiers. What if themother is named Judith?
+
+MANDY	Daughters aren't named after mothers very often.
+
+JONAH	Or another relative? I'm not saying we find a Judith Junior.
+
+MANDY	I wonder if we could cross-reference the county list with all the Judiths I found. Maybe something connects?
+
+JONAH	You really want to type all this up?
+
+MANDY	No, I 
+
+JONAH	What?
+
+MANDY	There's....
+
+MANDY	I saw something. 
+
+JONAH	What Victor Franklin.
+
+MANDY	It's his book. Maybe it's Judith's brother!
+
+JONAH	Or her father. Either way, it's a lead.
+
+MANDY	He's got to be here.
+
+JONAH	If he was a soldier. Maybe Victor isn't.
+
+MANDY	I'm more than halfway through. With my luck, it'll be the last one I go through.
+
+MANDY	Nope.
+
+JONAH	What if he was a brother? Check out the hand writing.
+
+JONAH	Kind of young looking.
+
+MANDY	But it could be her father's copy. The book was first published in 1843.
+
+JONAH	Not this edition.
+
+MANDY	Hmmm. Okay, say you're right. What do you suggest?
+
+JONAH	Victor Franklin. Age 78. Could be him.
+
+MANDY	What did you search?
+
+JONAH	roperty records and a phone number. He lives in Everett.
+
+MANDY	Really?
+
+MANDY	I'll call Victor to set something  up for tomorrow while Gabby's running the store.
+
+JONAH	Gabby wasn't kidding then.
+
+MANDY	What?
+
+JONAH	Running things when you're busy?
+
+MANDY	Oh, yeah.It's a lot to be cooped up in the store from sun-up to sun-down, so I was looking for someone to help. And Gabby comes and knocks on the glass door, selling solar panels.
+
+JONAH	Really?
+
+MANDY	She had this dead-pan blunt sales pitch straight out of whatever talking points she'd been given. It made me laugh.
+
+JONAH	And you hired her off of that?
+
+MANDY	I appreciated her honesty. She'll call it like she sees it. And as long as she believes in what she's doing, she'll work hard.
+
+JONAH	And now she works for your store.
+
+MANDY	Yeah. It was my great-grandfather's store, actually. Started out as abookstore. Then toys when my parents ran it. Over time, I've shifted it to do-it-yourself crafts and hobbies.
+
+JONAH	It's just you and Gabby running it? 
+
+MANDY	Since my parents retired, yes. In fact, they're on their dream vacation a 6-month cruise.
+
+JONAH	Wow.
+
+MANDY	Yeah. They've got three months left, I think? They won't even be back for Christmas.
+
+JONAH	Any brothers or sisters?
+
+MANDY	Two brothers, but they didn'tappreciate the business. They live in Oregon and Nevada.
+
+JONAH	So what do you plan to do this year for Christmas without your family around?
+
+MANDY	I'm trying to figure that out. I can sleep in. Go see a movie. Open presents for myself whenever I want. 
+
+MANDY	What about you? Any big plans?
+
+JONAH	Yes, I'm hosting my parents this year. I think they're expecting me to cook.
+
+MANDY	You can always get takeout.
+
+JONAH	For Christmas dinner? I think my mom would be horrified.
+
+WORKER	Hey Jonah. Can you come take a look at something?
+
+JONAH	Sure.
+
+MANDY	I should let you get back to work. See you later.
+
+JONAH	See you.
+
+VICTOR FRANKLIN 	This is Victor Franklin. Leave me your name and telephone number, and I will call you back. Thank you.
+
+GABBY	ou ever going to leave a message?
+
+MANDY	I already did.
+
+MANDY	I keep hoping he'll pick up, but I don't want to come across as too persistent.
+
+GABBY	Who are you calling? Jonah?
+
+MANDY	No!
+
+GABBY	Oh. I thought you were playing hard to get or something.
+
+MANDY	No, he's just helping. I was calling this man named Victor Franklin he might be the owner of the Christmas Carol book.
+
+GABBY	And he hasn't answered or called you back.
+
+MANDY	No.
+
+MANDY	Here. Use your phone. You call. Here's his number.
+
+GABBY	I'm not going to call a stranger
+
+MANDY	Just try it, please?
+
+GABBY	If he hasn't answered, there's probably a reason.
+
+MANDY	But it's important.
+
+GABBY	Yeah, you have to see if he owned a book once.
+
+MANDY	Come on just dial.
+
+GABBY	Do I get extra time off for this?
+
+MANDY	Shhh. Is it going through?
+
+GABBY	Voicemail. Guess he's not dodging your calls after all. Want me toleave a message?
+
+MANDY	No. Yes 
+
+MANDY	No
+
+GABBY	Good job. You'll just have to wait.
+
+MANDY	Jonah did find his address...Hi.
+
+MANDY	Hey. He never called back, so...
+
+JONAH	It looks like he's home though.
+
+MANDY	All right then.
+
+VICTOR FRANKLIN	Can I help you?
+
+VICTOR FRANKLIN	I don't know any Judith Franklin. I have a niece named Judith though.
+
+MANDY	Do you know when she was born?
+
+VICTOR FRANKLIN	Oh, 1960, I think?
+
+MANDY	She's too young for who we are looking for. Anyone else you knew with that name as you grew up?
+
+VICTOR FRANKLIN	Oh, now, my memory is not that good.
+
+JONAH	What about this book?
+
+MANDY	Is it yours?
+
+VICTOR FRANKLIN	Hmmm. I don't recall. I wasn't much of a Dickens fan.
+
+JONAH	It has your name in it.
+
+VICTOR FRANKLIN	Where did you find it?
+
+JONAH	At a church here in town. We figure you maybe left it behind at some point as you grew up.
+
+VICTOR FRANKLIN	I don't think so. I was born and raised in California. I moved out here, oh, maybe four years ago? My wife's sister needed some help, so we came on out. Uprooted ourselves. I sure miss the mild winters there. I'm not fit for the snow here.
+
+JONAH	It was worth a shot.
+
+MANDY	Jonah, did you see the book by his glasses?
+
+JONAH	No.
+
+MANDY	It was a yearbook.
+
+JONAH	It's not him though.
+ 
+MANDY	No. But odds are, there's a Victor Franklin is in a yearbook somewhere, right?
+
+JONAH	 You're thinking...
+
+MANDY	We could look at the schools around here and see if they have any Victor Franklins.
+
+JONAH	I like it. I'll pull up the school addresses.  
+
+JONAH	Hello?
+
+LIBRARIAN	Cell phones are supposed to be off here. 
+
+BILL COLLECTOR	Jonah Canton?
+
+JONAH	Yes?
+
+BILL COLLECTOR	I'm calling from Taggart Collection Agency about your overdue balances.
+
+JONAH	Yeah.
+
+MANDY	This school has been around since the 1950s, right?
+
+LIBRARIAN	Yes, 1949.
+
+MANDY	Do you have yearbooks from then?
+
+LIBRARIAN	Every one since the school opened.
+
+MANDY 	Perfect. Is there a way I can look at those?
+
+LIBRARIAN	Which year?
+
+MANDY	To be safe, how about 1949 to 19...63?
+
+MANDY	It's for a really good cause. 
+
+JONAH	I understand. Yeah. Okay. Bye. 
+
+MANDY	This might take awhile. Can I check these out?
+
+LIBRARIAN	The library is only for students and staff.
+
+MANDY	Oh. But where else can I find these?
+
+LIBRARIAN	Well, I'm not sure.
+
+MANDY	I promise I will take good care ofthem and bring them back soon.
+
+LIBRARIAN	I can ask the principal but she'sout today and tomorrow. Why don't you come back next week?
+
+MANDY	I'm kind of under a time crunch. Look, it's Thursday. How about I promise to bring them to you Monday?
+
+LIBRARIAN	That long?
+
+MANDY	I'll get it done this weekend. And then I'll bring them back first thing Monday morning.
+
+LIBRARIAN	Let me get you a box. I don't want these getting damaged or wet if it's snowing.
+
+MANDY	Thank you.
+
+GABBY	What's all that? 
+
+MANDY	Yearbooks.
+
+GABBY	I don't think those will be sought after from the donation bin. 
+
+MANDY	We're tracking down Judith and Victor.
+
+GABBY	That's a lot of yearbooks.
+
+JONAH	Three high schools' worth. Everett, Kingston, and we even drove toMidwell.
+
+MANDY	And they all want them back early next week before school closes for Christmas.
+
+GABBY	Sounds like a new haystack.
+
+MANDY	eah.
+
+JONAH	Let me take some home. We can divide them up. 
+
+MANDY	Okay.
+
+MANDY	Phew!
+
+GABBY	Well, I'm glad you're back. I have to run to my niece's school Christmas program tonight that I told you about.
+
+MANDY	Oh yeah. I'm closing then.
+
+GABBY	Yep.
+
+JONAH	Have a good night.
+
+GABBY	You too. 
+
+JONAH	What are they making? 
+
+MANDY	You've never seen an ugly Christmas sweater? 
+
+JONAH	I have. I just didn't know people made their own.  
+
+MANDY	They do here. What size sweater do you wear?   
+
+JONAH	Have you always wanted to run your family's store?
+
+MANDY	Sure. I love it.
+
+JONAH	Ever found a hidden letter in a book before? Maybe back when it was your grandpa's bookstore?
+
+MANDY	No. Receipts, yes. Inscriptions or "for my grandson Timmy"-type of sentiments, yes. But not a Santa letter.
+
+JONAH	I always made sure I put a postage stamp on my Santa letters. Took them to the mailbox myself.
+
+MANDY	Really? And what type of things did you write?
+
+JONAH	Oh, the usual. "Can I please have a skateboard, or a dog?" Or I'd plead for forgiveness if I felt guilty about something I'd done that I wassure would keep me from getting any gift at all.
+
+MANDY	That's sweet.
+
+JONAH	What about you? Ever write to Santa?
+
+MANDY	Yes. It was a tradition growing up. My brothers and I would sit aroundthe dinner table on the first Sundayof December and write our letters. 
+
+JONAH	And you wrote....
+
+MANDY	My memory's pretty vague. I remember what it felt like, that warm excitement of the season. Beyondthat, though... Well, I do remember one time. 
+
+JONAH	Yeah? Let's hear it.
+
+MANDY	My parents were actually struggling with this place. It was a bookstore still. A bad couple of years of sales, and then there was a fire next door that caused some damage here. No one wants to buy smokey books. So I wrote and asked Santa to help save the store.
+
+JONAH	No wonder you like Judith's letter.
+
+MANDY	What do you mean?
+
+JONAH	She was looking out for someone else's happiness, not just her own. Like you did.
+
+MANDY	You're giving me too much credit. I think I was scared at all the uncertainty.
+
+JONAH	But you could have wished for a stuffed animal or toy or something to comfort you. You got what you wanted, I assume.
+
+MANDY	We survived through it, yes. That'swhen my parents turned it into a toy store. And here we are, years later, with crafts. 
+
+JONAH	It's great.  
+
+JONAH	Is that why you do a toy and bookdrive now? An homage to your family's legacy?  
+
+MANDY	You figured me out. It's actually anannual drive the county has. I just like to help out. 
+
+MANDY	How's your sweater coming along? 
+
+JONAH	Do you have any of those fuzzy stickthings? 
+
+MANDY	Pipe cleaners?  
+
+JONAH	Ah, great.
+
+JONAH	Voila.
+
+MANDY	One of the finest I've seen.
+
+JONAH	We should get a picture of us wearing these.
+
+MANDY	What? No, I never 
+
+JONAH	Come on. 
+
+MANDY	Oh!     
+
+JONAH	"I found a coin I think my fatherwould like. He died in the war though.For Christmas this year, could mypresent be you giving this to myfather? He liked collecting these." 
+
+JONAH	A coin collector.  
+
+GABBY	Here you go. The paint's on the table, and glue guns are plugged in too.  
+
+CUSTOMER	Thanks! 
+
+MANDY	Here, come look through one of these. 
+
+GABBY	Can't I make an ornament too? 
+
+MANDY	Nope. Make sure you look at every name.
+
+GABBY	I will.
+
+MANDY	Because if you miss one 
+
+GABBY	I get it.
+
+GABBY	Saved by the  
+
+GABBY	Oh, it's just you.  
+
+JONAH	Hi. 
+
+MANDY	Hey. Did you find something?
+
+JONAH	I wish. I have a few books to go through still. But, I wondered about the coin.
+
+MANDY	What about it?
+
+JONAH	Judith said her dad was a collector. Coin collecting can be a communityof its own. I thought I'd follow up with someone I know and see if theyhave any ideas about how to trace the coin to its owner.
+
+MANDY	But Judith said she "found" the coin, not her dad. 
+
+JONAH	"Found" could mean she bought it, orsomeone else in her family. What if there's a way to find who bought that particular coin?
+
+MANDY	I guess it doesn't hurt to look into it.
+
+JONAH	Could I borrow it?
+
+MANDY	Take good care of it. It's... well,it might be worth a lot.
+
+JONAH	You bet.
+
+JONAH	I'll be back soon.
+
+MANDY	Thanks.
+ 
+GABBY	You know, tonight there's the Christmas kickoff celebration. You  should go. Sleigh rides, Christmas trees, hot chocolate bar, Santa, the whole big deal.
+
+MANDY	Oh, I don't know.
+
+GABBY	You can still celebrate Christmas even if your family's not around.
+
+MANDY	I know that.
+
+GABBY	Think about it then. And you know, maybe take someone with you.     
+
+MANDY	Keep searching.     
+
+ELI	And you can order ahead for Christmas. We need orders no later than the 21st. 
+
+JONAH	Hey Eli.
+
+ELI	Good to see you, Jonah.
+
+JONAH	I'll have a raspberry cream cheesepie.
+
+ELI	A whole pie? Going off the deep end?
+
+JONAH	Not at all. I have something that might catch your interest though.
+
+ELI	Hundreds of these were minted in1895, and they're pretty sought after now.
+
+JONAH	So it's valuable.
+
+ELI	Definitely. It's a proof coin, so it wasn't released to general circulation like the rest of money is.
+
+JONAH	So how would someone get their hands on one?
+
+ELI	Buying it from the mint. Inheritingit from another collector. Or someonecould have made the mistake of using it at face value and it went into circulation that way.
+
+JONAH	I'm helping someone track down the owner. Are there records of coins?Like, who owns what?
+
+ELI	What, are you looking for some magicaldatabase of coin collectors?
+
+JONAH	Too good to be true?
+
+ELI	You might be able to find credit card records from whichever store sold it.
+
+JONAH	Well, we're not sure it was sold ina store. If it was, it was 70 years ago.
+
+ELI	Good luck.
+
+ELI	Still want that pie?
+
+JONAH	Yes, actually. Throw in a couple of forks too.
+
+MANDY	You're back already?
+
+JONAH	Yep. I brought some pie.
+
+MANDY	Pie?
+
+JONAH	Yes. Oh, and the coin.
+
+MANDY	What'd you find out?
+
+JONAH	Nothing helpful. I was hoping coincollectors might have some communityor group or way of tracking who has what coin. But it's been so long that it's a dead end.
+
+MANDY	That's the challenge with this all around.
+
+MANDY	That looks amazing.
+
+JONAH	How is it?
+
+MANDY	You don't want any, right?
+
+JONAH	It's my favorite. I'm glad you like it too.
+
+JONAH	Sorry, work again.
+
+JONAH	Hello?
+
+JONAH	Two weeks, I'm hoping. That soon? My guys are on another site, so I can't No, I understand. I'll... I'll see what I can do. Yeah. Bye.
+
+JONAH	This one client you came there before  I guess they have a big event earlynext week. I have to have the job finished before then.
+
+MANDY	How much more work is there to do?
+
+JONAH	It's down to the cosmetic, fixturesand paint, and a few final things to touch up. But I can't get guys to go there in time. They're already on other jobs and it's the weekend.
+
+JONAH	I better get going.
+
+MANDY	Do you want some help?
+
+JONAH	What?
+
+MANDY	I'm not an expert builder but I can follow instructions.
+
+JONAH	No, I couldn't 
+
+MANDY	You've been helping me with the letter, and you brought pie.
+
+JONAH	But your store I don't want you toshut down for me. It's Christmas rush time.
+
+MANDY	Gabby's scheduled to come in anyminute.
+
+JONAH	All right then
+
+MAND	So I remember you said something went  wrong here and set things back.
+
+JONAH	Yeah.
+
+JONAH	I had a plumbing subcontractor who didn't properly seal a pipe. I'd already finished this room, and it was all done. But then the pipe came loose and  
+
+JONAH	Disaster.
+
+MANDY	Shouldn't the plumber have checked his work, or something?
+
+JONAH	Yeah. It got past him, and me. Anyway, he refused to fix it up or make things right, and tried to pass the blame on. The owner here wasn't happy. So...
+
+MANDY	You're left to pick up the pieces.
+
+JONAH	More like patch the pieces together.
+
+MANDY	That sounds....
+
+JONAH	Expensive?
+
+MANDY	I was going to say not fun.
+
+JONAH	Well, the work itself isn't bad. But paying for someone else's mistake? Yeah.
+
+MANDY	Point me wherever you want me to start. I bet we can get through this faster together.
+
+JONAH	Okay. Start on that wall. I'm going to grab the paint for the trims.
+
+JONAH	Wow. You have no idea how much time this saves me.
+
+MANDY	It's not all done though.
+
+JONAH	This gets me so much closer. I can handle the rest myself without losing sleep.
+
+MANDY	Good!
+
+JONAH	Seriously, thank you.
+
+MANDY	I'm just glad I could do something to help you too.
+
+JONAH	I think I at least owe you dinner.
+
+MANDY	Actually, I have a better idea.
+
+MANDY	Gabby told me about this. It sounded like a nice break from work.
+
+JONAH	It definitely is. You can just about feel the giddiness here. Why is that with Christmas?
+
+MANDY	I don't know. Maybe it reminds us of when we were young.
+
+JONAH	Any favorite holiday memories when you were younger?
+
+MANDY	Being with my family.
+
+JONAH	Didn't you say you were on your own this year?
+
+MANDY	I did.
+
+JONAH	Well, that's no good. Come to my place.
+
+MANDY	No, I couldn't. I don't want to intrude.
+
+JONAH	Intrude? It'd be nice to have you.
+
+JONAH	I mean, you can't be alone for Christmas when what you love aboutit is being with people.
+
+MANDY	Okay. But, only if you let me help with the dinner.
+
+JONAH	Perfect. I definitely need help with that.
+
+MANDY	Oh look! Kids can write their own letter to Santa.
+
+JONAH	Not just kids.
+
+MANDY	You'll write one too, won't you?
+
+JONAH	Why not.
+
+MANDY	What are you going to write?
+
+JONAH	Can we talk about that? I thought it had to be a secret.
+
+MANDY	That's birthday wishes.
+
+JONAH	Well, maybe I want to keep it a secret.
+
+MANDY	Okay, okay.
+
+MANDY	You all right there?
+
+JONAH	I want to get the wording right. view.
+
+JONAH	No peeking.
+
+MANDY	I wouldn't dare.
+
+JONAH	Ready?
+
+MANDY	Let's send them off.
+
+JONAH	On three?
+
+MANDY	One.
+
+JONAH	Two.
+
+MANDY/JONAH	Three!
+
+MANDY	Thank you.
+
+JONAH	Lots of choices.
+
+MANDY	Now that's a hot chocolate.
+
+JONAH	So what did you write in your letter?
+
+MANDY	I asked to find Judith in time for Christmas.
+
+JONAH	I thought you might.
+
+MANDY	What about you?
+
+JONAH	I'm not saying.
+
+MANDY	What?!
+
+JONAH	Just in case it's a birthday wish type of thing.
+
+MANDY	Then why did you ask me?
+
+JONAH	Can't blame a guy for being curious,can you?
+
+MANDY	It's a double standard.
+
+JONAH	I'll admit to that.
+
+MANDY	Okay, so don't tell me what's in theletter, but what is #2 on your Christmas list that you didn't writeSanta about?
+
+JONAH	Hmm. Second-best thing.... My bills paid.
+
+MANDY	Oh yeah? That's not exciting.
+
+JONAH	It is when you have a lot to pay offfor a certain plumber's mistakes.
+
+MANDY	Ah, yes. Sorry. But you have to have something you want.
+
+JONAH	What are you looking for? Like, something that would be wrapped under  my tree?
+
+MANDY	Sure, something tangible.
+
+JONAH	Okay. A good book.
+
+MANDY	A classic, like Christmas Carol?
+
+JONAH	Uh, maybe.
+
+MANDY	No Dickens then. What are your favorites?
+
+JONAH	Ones that have been made into movies.
+
+MANDY	You haven't even read the books, have you? You just watch the movie version.
+
+JONAH	Guilty. I can tell if I like it or not without spending the time to read it.
+
+MANDY	All right, then what movies do you like?
+
+JONAH	Spy movies.
+
+MANDY	Action-junkie?
+
+JONAH	Yes and no. I like the intrigue and subplots.
+
+MANDY	Interesting.
+
+JONAH	I know, I know. I've ruined your opinion of me.
+
+MANDY	No.
+
+JONAH	Sure I have. You were hoping I'd say I liked something deeper.
+
+MANDY	Nope. It doesn't matter. I just like learning more about you.
+
+JONAH	You do?
+
+MANDY	Yeah. Yeah, I do.
+
+COMMUNITY VOLUNTEER	Come on everyone! Time to meet Santa!
+
+SANTA	Ho ho ho!
+
+MANDY	Jonah. Good morning.
+
+JONAH	Hi. Sorry to bother you 
+
+MANDY	No, I'm just taking a break. I've been making a list of all the Judithsin the yearbooks.
+
+JONAH	Whoa. Any Judith Franklins?
+
+MANDY	No, and it could be a waste of timebut I thought it might come in handyif we find anything else. What areyou up to?
+
+JONAH	I'm looking at my kitchen andrealizing I probably need food if I'm going to make Christmas dinner.
+
+MANDY	That's a good assumption.
+
+JONAH	I'm not sure what to buy, or to make. Can I convince you to brainstorm with me on that?
+
+MANDY	Sure. I just have to make one quick stop first.
+
+JONAH	Hey, thanks for coming.
+
+MANDY	I brought ideas.
+
+JONAH	Good.
+
+JONAH	Come on in.
+
+JONAH	What do you suggest?
+
+MANDY	Any favorites your parents like?
+
+JONAH	Just traditional stuff. One year I suggested we have steak and my mom about lost it.
+
+MANDY	Okay. Ham maybe? Turkey's always good but after Thanksgiving, some people are done with turkey for  awhile.
+
+JONAH	Which is easier?
+
+MANDY	Ham, definitely.
+
+JONAH	Perfect.
+
+MANDY	What about sides?
+
+JONAH	Do rolls count?
+
+MANDY	Here 
+
+MANDY	Do your parents like sweet potatoes? Or more regular potatoes? Casseroles?
+
+JONAH	Uh, sweet potatoes. Sure.
+
+MANDY	Any other favorite veggies? My mom makes this amazing phyllo-dough tart, with mushrooms and this sauce on it. I still don't known what it really is, but it's a Christmas-only tradition.
+
+JONAH	Mushrooms, for Christmas?
+
+MANDY	Don't knock it till you try it. Isn't there something special that you'd want as part of the dinner?
+
+JONAH	Honestly? The raspberry cream cheese pie.
+
+MANDY	I'll bring one then.
+
+JONAH	Don't think that lets you off the hook for helping me cook.
+
+MANDY	Of course not.
+
+JONAH	Thanks for your help.
+
+MANDY	Don't lose that. Half the stress is knowing what you'll cook.
+
+JONAH	And the other half is the cooking itself?
+
+MANDY	Yep.
+
+MANDY	Oh, here.
+
+JONAH	Uh, thanks.
+
+JONAH	So what are you up to today?
+
+MANDY	I actually need to go round up donations at a few collection spots and drop them off at the county.
+
+JONAH	Well, I'll give you a hand.
+
+MANDY	You don't have to 
+
+JONAH	I want to.
+
+MANDY	You sure?
+
+JONAH	Yeah. Let's do it.
+
+MANDY	Wow, a lot came in here.
+
+JONAH	Do you want to take the whole box or just empty it?
+
+MANDY	There are still a few days before Christmas. Let's just empty it for now.
+
+JONAH	Have you finished going through your yearbooks?
+
+MANDY	Getting closer. I have this idea in my mind about what Judith looks like. Is that funny?
+
+JONAH	No, of course not.
+
+MANDY	When I look over the yearbook photos, I see certain ones and get excited if it fits that image.
+
+JONAH	Until you look at the name.
+
+MANDY	Yeah. This whole thing is kind of strange, isn't it?
+
+JONAH	No, because there's a good reason for it.
+
+MANDY	Be honest with me. Do you think we'll find her in time?
+
+JONAH	I don't know if we will find her by Christmas. But I do think we'll find her.
+
+GABBY	So how many bags of toys and books did we collect this year?
+
+MANDY	In our store, a good 4 large bags. But a lot more came in from other spots throughout town.
+
+GABBY	Nice of Jonah to help you.
+
+MANDY	Yes. I wish....
+
+GABBY	What?
+
+MANDY	I think Jonah is in a bit of trouble.
+
+GABBY	Really?
+
+MANDY	Like, money trouble. He talks about it like he's okay and can handle it, but I think it's worse than he's saying.
+
+GABBY	That's rough. He's a good guy.
+
+MANDY	Yeah. I want to help him, but I'm not sure...
+
+GABBY	 If he'd accept. He seems like the type who wants to earn his own way.
+
+MANDY	And I like that about him. But then how can I help 
+
+GABBY	Have an idea?
+
+MANDY	A little inspiration, yeah.
+
+PASTOR	Oh. Sorry, I'm afraid we're not open for services for a couple more weeks.
+
+MANDY	Oh, I know. Are you the pastor here then?
+
+PASTOR	Yes, I am.
+
+MANDY	Um, my name's Mandy. And I have something to ask you.
+
+MANDY	Oh!!
+
+MANDY	Come on.
+
+MANDY	What?
+
+JONAH	Mandy?
+
+JONAH	What's wrong?
+
+MANDY	The coin.
+
+MANDY	I've looked everywhere.
+
+JONAH	It's gone?
+
+MANDY	I thought I put it back. In my box.
+
+JONAH	Anywhere else you might have put it?
+
+MANDY	No. I've kept it here 
+
+MANDY	I can't believe it's gone.
+
+JONAH	You've checked the store? Maybe it fell?
+
+MANDY	That's what I thought. I dropped some stuff but I've been scouring through here all morning and 
+
+JONAH	What about Gabby? Would she have any ideas?
+
+MANDY	Called her already. Nothing.
+
+MANDY	What if I find Judith? Without the coin, how could I face her?
+
+JONAH	Hey, don't worry about that.
+
+JONAH	We'll be doing good if we even find her.
+
+JONAH	We'll look for it. Don't give up, okay?
+
+MANDY	It's just... it's worth a lot. If it were a regular coin, it wouldn't be a big deal, but that's not the case. It could change her life....
+
+JONAH	I know. It could change anyone's life.
+
+JONAH	So, when did you last see it?
+
+MANDY	Um.... You had just borrowed it.
+
+JONAH	Yeah. I brought it back after I showed it to a collector friend.
+
+MANDY	And I put it in the box.
+
+JONAH	Nothing since then?
+
+MANDY	No. Did you come back for it at all? Maybe to take a second look?
+
+JONAH	No. And I wouldn't take it without  asking you.
+
+MANDY	It's just, I know you said money's kind of an issue right now, and the coin could help.
+
+JONAH	Are you... Mandy, I'd never do that, and... I'm surprised you'd think that of me.
+
+MANDY	No, sorry, it's look, just forget it.
+
+JONAH	Look, I better go.
+
+MANDY	Jonah 
+
+JONAH	I have to finish cleaning up that job site.
+
+MANDY	I'm sorry. I shouldn't have said that 
+
+JONAH	Yeah.
+
+MANDY	Jonah, wait.
+
+MANDY	It's not like I was accusing him.
+
+GABBY	It sounds like it was.
+
+MANDY	You weren't there.
+
+GABBY	No, which is too bad, because that would have been interesting. I did go over the store with a fine-toothed comb, and couldn't find the coin either. You sure he didn't take it?
+
+MANDY	I don't know. Wait, do you think he took it?
+
+GABBY	No.
+
+MANDY	I'm totally frazzled, and not  thinking straight. What do I do?
+
+GABBY	About the coin or Jonah?
+
+MANDY	Both.
+
+GABBY	Well, to start, maybe apologize?
+
+MANDY	I tried.
+
+GABBY	He was upset. Understandably so.
+
+MANDY	Thanks, I get that. What about the letter? It helped having an extra set of eyes and ears.
+
+GABBY	Seems like if you fix things with Jonah, that solves the other problem.
+
+MANDY	You make it sound easy. It really hurt him though.
+
+GABBY	It'll be okay.
+
+MANDY	Thanks for listening.
+
+GABBY	Get some rest. Don't stew over it all night.
+
+MANDY	I'll try.
+
+GABBY	Good night.
+
+MANDY	Night.
+
+MANDY	"Don't open till Christmas. Love, Mom and Dad."
+
+MANDY	Oh no. It's Monday 
+
+LIBRARIAN	You've reached the library of Everett High School. Please leave a brief message. Thank you.
+
+MANDY	She is not going to be happy with me.
+
+MANDY	Hi.
+
+JONAH	Hey.
+
+MANDY	Um, I realized I never returned the yearbooks today to the schools. I just finished my part.
+
+JONAH	Did you find anything?
+
+MANDY	No. Um, the librarian at Everett High was especially anxious, so I should get those back to her. I think you have those ones.
+
+JONAH	I haven't finished. I have to drive near the high school tomorrow for work anyway. I can take those back.
+
+MANDY	You don't have to 
+
+JONAH	It's fine.
+
+MANDY	Okay. Thanks.
+ 
+JONAH	My dinner's probably burning on the stove. I gotta go.
+
+MANDY	Oh, okay. See you later.
+
+LIBRARIAN	Those are late.
+
+JONAH	I know. We're really sorry.
+
+LIBRARIAN	She promised.
+
+JONAH	It took longer than we thought. I actually have a couple more to go through. Could I sit here and finish them?
+
+LIBRARIAN	I have a class coming in here soon.
+
+JONAH	I'll be as fast as I can.
+
+LIBRARIAN	Make sure your cellphone is off.
+
+JONAH	Got it.
+
+JONAH	Victor Franklin.
+
+GABBY	What are you doing?
+
+MANDY	Going over the war records again.
+
+GABBY	Maybe you're putting too much pressure on yourself with this thing.
+
+MANDY	I'm not giving up.
+
+GABBY	I know. But finding Judith could be special anytime. You should stop so you can enjoy Christmas.
+
+MANDY	I am. I bought myself something online last night. It will arrive Christmas Eve.
+
+GABBY	Yeah, that's the spirit.
+
+MANDY	It's not a bad thing to stay busy anyway.
+
+GABBY	It is when you're trying to distract yourself from the real problem.
+
+MANDY	I keep thinking maybe there is something I've missed 
+
+MANDY	Gabby....
+
+GABBY	What?
+
+MANDY	I need a flashlight.
+
+GABBY	Here.
+
+GABBY	What is it?
+
+MANDY	It was here.
+
+GABBY	Okay, when I checked everywhere, I guess I missed that spot.
+
+MANDY	Me too.
+
+GABBY	Guess this means Jonah is really in the clear.
+
+MANDY	Jonah.
+
+JONAH	Hi.
+
+MANDY	Thanks for meeting me here. I have something to show you.
+
+MANDY	It fell in a floor vent.
+
+JONAH	I'm glad you found it.
+
+MANDY	Me too. And I'm glad you're here.
+
+MANDY	I shouldn't have even suggested you had anything to do with it being lost.
+
+JONAH	I returned the books to Everett High School.
+
+JONAH	Merry Christmas, Mandy.
+
+MANDY	What's this?
+
+MANDY	"Senior Victor Franklin with his cousin Judith Lewis, a sophomore."
+
+GABBY	So that has to be her. What's next then?
+
+MANDY	I find everything I can about Judith Lewis.
+
+GABBY	Great. How?
+
+MANDY	Her father. You're not busy tonight, are you?
+
+GABBY	Well, no, but 
+
+MANDY	Great! Come over and I'll make you dinner.
+
+GABBY	Lucky me.
+
+GABBY	Have you really looked at these war records? All those soldiers....
+
+MANDY	I know. It makes me think of Judith and her family, that Christmas she wrote the letter.
+
+MANDY	Oh! Here's a Lewis!
+
+GABBY	Really? I just found one too.
+
+MANDY	Paul Lewis.
+
+GABBY	Nathan Lewis.
+
+MANDY	Okay, I guess I shouldn't be surprised that there's more than one Lewis.
+
+GABBY	Should we make a pile?
+
+MANDY	Yeah.
+
+GABBY	I didn't think you'd get this far.
+
+MANDY	I wouldn't have. Not without Jonah's help, anyway. And yours of course.
+
+GABBY	Of course.
+
+GABBY	It was nice of him to give you what he found.
+
+MANDY	Yeah.
+
+GABBY	Are you mad at him?
+
+MANDY	No, it's more the other way around. I think I let it become too much.
+
+GABBY	"It"?
+
+MANDY	Our...relationship. Friendship. Acquaintances, really. He's just a nice stranger who helped me for a little while.
+
+GABBY	A nice-looking stranger.
+
+MANDY	Does it matter?
+
+GABBY	Depends on how you feel.
+
+MANDY	It's out of my control. He has his life, and I have mine. They're not going in the same direction anymore.  It's Christmas. We should focus on that.
+
+MANDY	And this. Found another one. Colin Lewis.
+
+PASTOR	Jonah! How are you?
+
+JONAH	Good, thanks. We're moving along well here.
+
+PASTOR	I can hardly wait till I can clean up all the dust.
+
+JONAH	It gets frustrating, I'm sure.
+
+PASTOR	As much as I am eager to have the church back in operation, make sure you get some rest and enjoy Christmas.
+
+JONAH	I will.
+
+PASTOR	Good. Oh 
+
+PASTOR	Here.
+
+JONAH	What's this?
+
+PASTOR	The balance of what I owe you for your work.
+
+JONAH	But I'm not done. You don't owe me until 
+
+PASTOR	I know. I thought you might need it though.
+
+JONAH	I... thank you.
+
+PASTOR	Merry Christmas.
+
+JONAH	Hey Pastor.
+
+JONAH	How... how did you know?
+
+PASTOR	A beautiful angel told me.
+
+JONAH	"This is one of the few spy novels I've read. It's a 'first edition, which seems less impressive since it was published just a couple of years ago. Even so, I loved it. I hope you  will too. Mandy"
+
+
+COUNTY CLERK	Merry Christmas. What can I do foryou?
+
+MANDY	I'm trying to track down a woman named Judith Lewis. She would have been born in late 1930s.
+
+COUNTY CLERK	Oh, I remember you.
+
+MANDY	Yes, sorry. I've made progress though. I know her dad is one of these men.
+
+COUNTY CLERK	Well, is she deceased?
+
+MANDY	I don't know. Could we look for her birth record?
+
+COUNTY CLERK	No, that's private information, reserved for family members. Which I assume you are not.
+
+MANDY	What else could I look for to narrow down who she is? Please, this is a matter of ... at least sentimental importance.
+
+COUNTY CLERK	Well, you could look up a marriage license. If you know the father's name, they list that on the records.
+
+MANDY	Even if he's deceased at the time of the marriage?
+
+COUNTY CLERK	Yep. Better hurry though. We close early today and don't reopen until the 26th.
+
+MANDY	What do we do?
+
+COUNTY CLERK	All right. I'm narrowing the search to marriages in the 1950s-70s. Give me the name of the first father.
+
+MANDY	Paul Lewis.
+
+COUNTY CLERK	e's listed on the marriage licenses of two children. Dorothy and Samuel.
+
+MANDY	Nope. How about Nathan Lewis?
+
+COUNTY CLERK	Father of Joan?
+
+MANDY	Hmmm. Any other children?
+
+COUNTY CLERK	Nope. Give me another.
+
+MANDY	Donald Lewis. Died in 1942.
+
+COUNTY CLERK	Nothing under that name.
+
+MANDY	Try Colin Lewis next.
+
+COUNTY CLERK	He's listed under one marriage 
+
+COUNTY CLERK	For Judith Lewis.
+
+MANDY	Really? Judith? Judith Lewis?
+
+COUNTY CLERK	Married in 1957 to William Cross. You want a copy of this?
+
+COUNTY CLERK	You going to pass out or something?
+
+MANDY	No, no, I'm fine. Please, I'd love a copy.
+
+MANDY	Excuse me, Merry Christmas!
+
+MANDY	I found her!
+
+GABBY	Merry Christmas.
+
+GABBY	Seriously?
+
+MANDY	Yep. Her dad is Colin, her mother is Ruth, and Judith married William Cross. It's her.
+
+GABBY	You're sure?
+
+MANDY	I checked all the Lewis soldiers just to be safe, but she's the only one.
+
+GABBY	And she's alive?
+
+MANDY	I even asked the clerk to search for a possible death certificate for  Judith and there is none. The clerk was about to toss me out by the timeI left. I think she had a work Christmas party to get to.
+
+GABBY	Wow. This is her.
+
+MANDY	I know!
+
+GABBY	So, Judith Cross. You just have to find her.
+
+MANDY	Yeah.
+
+GABBY	It's the 23rd of December.
+
+MANDY	I know. I have a lot to do.
+
+GABBY	Guess this means you could use some help till closing time.
+
+MANDY	Is that okay?
+
+GABBY	I would have made up an excuse if it wasn't.
+
+MANDY	You're the best. I'll be at home
+
+GABBY	I'll come over after I close up here.
+
+MANDY	Thanks!
+
+MANDY	No, it's okay. It sounds like I have the wrong Judith Cross. Thanks for chatting though.Okay. Bye bye.
+
+GABBY	How many more?
+
+MANDY	Keeping it within the county, I'm looking at three more. Beyond that...well, let's hope she's like most people in the area and loves it here.
+
+GABBY	When you find her 
+
+MANDY	I like how optimistic you are now.
+
+GABBY	Are you going to tell Jonah?
+
+MANDY	Would you?
+
+GABBY	Yeah.
+
+MANDY	I want to. I'll agonize over that after I've found the right Judith Cross.
+
+MANDY	Ugh. Voicemail.
+
+MANDY	Hi, my name's Mandy, and I am looking for Judith Cross. I found something that I think belongs to her, but I'm not sure if I have the right person. If you could call me back, I'd really appreciate it. Thanks.
+
+GABBY	What are you doing for Christmas Eve tomorrow?
+
+MANDY	Uh, I am...I think I'm just going to have a quiet night to myself. Maybe watch a movie and actually use my fireplace.
+
+GABBY	Sounds cozy. And Christmas Day?
+
+MANDY	Maybe I'll make it a movie marathon that day too.
+
+GABBY	You could come hang out with me and my family.
+
+MANDY	Thanks, but you don't have to do that.
+
+GABBY	I'm just saying, you might want a break and some company.
+
+MANDY	I'm pathetic, aren't I?
+
+GABBY	I purposely didn't say that.
+
+MANDY	It's the first time you've held back. That's how I know it's a sympathy invitation.
+
+GABBY	Well 
+
+GABBY	Fine. But promise me, that if you feel like it, you'll come over.
+
+MANDY	Okay. Thanks.
+
+MANDY	Hello?
+
+ABIGAIL 	Hi. We got a call from this number, about something that belongs to my mother?
+
+MANDY	Your mother? Is she Judith Cross?
+
+ABIGAIL 	Yes.
+
+MANDY	Hi! Hi, yes. Thanks for calling me back.
+
+JONAH	Hi Mom.
+
+JONAH'S MOTHER	Merry Christmas Eve!
+
+JONAH	Are you ready for Christmas?
+
+JONAH'S MOTHER	Me? You're the one doing all the work. I can't tell you how nice it is not to worry about cooking this year.
+
+JONAH	Yeah, you just relax. I have everything planned.
+
+JONAH'S MOTHER	Good! Now, don't forget to thaw the turkey in advance. Or the ham what are we having?
+
+JONAH	Ham. I'll make sure it's thawed, and nice and warm when you come.
+
+JONAH'S MOTHER	Is your friend still coming?
+
+JONAH	Ah, I...I don't know. She might have had something come up.
+
+JONAH'S MOTHER	Come up? It's Christmas.
+
+JONAH	Don't worry about it. Drive safely.I'll see you tomorrow.
+
+JONAH'S MOTHER	All right now. Love you.
+
+JONAH	Love you too, Mom.
+
+MANDY	Oh!
+
+JONAH	Mandy!
+
+MANDY	Sorry, I was about to knock.
+
+JONAH	I wasn't expecting you.
+
+MANDY	No, I...I thought I'd just stop by.
+
+MANDY	Here. I thought you could use it for tomorrow.
+
+JONAH	Is this.
+
+JONAH	Wow. Thank you.
+
+JONAH	Was it 
+
+MANDY	I
+
+MANDY	Sorry. Go ahead.
+
+JONAH	The pastor at the church paid me ahead of schedule. Was that...
+
+JONAH	That was you.
+
+MANDY	Sorry. I shouldn't have meddled. I ... It was the best thing I could think to... to make things better.
+
+JONAH	Thank you.
+
+MANDY	It was Pastor.
+
+JONAH	Thanks for caring though.
+
+MANDY	I found Judith.
+
+JONAH	You did?
+
+MANDY	I'm going there now. I thought you might want to come.
+
+JONAH	Oh. I... I have some last minute Christmas errands, and 
+
+MANDY	Oh, yeah. Of course. I just thought I'd check.
+
+JONAH	Do you want me to come?
+
+MANDY	Yes. I do.
+
+MANDY	I didn't tell you everything I wrote in my letter to Santa.
+
+JONAH	What do you mean?
+
+MANDY	I asked that I would find Judith, but I also asked that you and I could give her the letter together.
+
+JONAH	Let me put this in the fridge.
+
+JONAH	You ready?
+
+ABIGAIL	Yes?
+
+MANDY	Hi. I'm Mandy we spoke on the phone?
+
+ABIGAIL	Oh yes! My mother just took my kids to the town square for the tree lighting. I tried to stop her but I didn't want to give away why.
+
+MANDY	Oh should we wait here?
+
+ABIGAIL	I'm not sure how long they'll be. If you want, they should be easy to find.
+
+MANDY	Her daughter said she was wearing a light blue coat.
+
+JONAH	I don't see her yet.
+
+JONAH	Come on. Let's try over here.
+
+MANDY	Split up?
+
+TOWN MAYOR	Good evening, everyone! In just 15 minutes, we'll have our grand Christmas Eve tree lighting!
+
+MANDY	Could we have missed her?
+
+JONAH	It's getting cold. Maybe they went back early.
+
+MANDY	Wait.
+
+MANDY	Look.
+
+JONAH	Let's go.
+
+MANDY	Excuse me. Are you Judith Cross?
+
+JUDITH CROSS	Yes, that's me.
+
+JUDITH CROSS	Why don't you two go buy us something warm?
+
+TEENAGE GRANDKID	Be right back, Grandma.
+
+JUDITH CROSS	So, you're Mandy.
+
+MANDY	Yes. And this is Jonah.
+
+MANDY	We've been looking for you, to return something that's yours. 
+
+JUDITH CROSS	What's this? Christmas isn't till tomorrow, you know.
+
+MANDY	I can't wait till then.
+
+MANDY	Please, go ahead and open it.
+
+JUDITH CROSS	All right then. Just don't tell my grandkids. They'll want to open everything they can tonight. They'll deny it but teenagers are just as excited for presents.
+
+MANDY	When you were a young girl, do you remember writing letters to Santa?
+
+JUDITH CROSS	Oh yes. I wrote many.
+
+MANDY	And was there a time when you wrote Santa, not for a gift for yourself,
+ 
+MANDY	but for him to give a gift to someone else?
+
+JUDITH CROSS	My father...
+
+JUDITH CROSS	Victor's book!
+
+MANDY	Jonah and I came across this book, and the letter was inside it.
+
+JUDITH CROSS	Oh, look at my handwriting.
+
+MANDY	When I read it, I knew it was something you'd want back. And the coin too.
+
+JUDITH CROSS	I found this silver dollar after my father died. I knew it would have been a favorite for his collection. I missed him so much... And I thought if anyone could give it to my father, maybe it was Santa.
+
+MANDY	It's worth a decent amount of money now.
+
+JONAH	You'll want to keep it safe.
+
+JUDITH CROSS	Thank you both. This is...
+
+JUDITH CROSS	Amazing.
+
+JUDITH CROSS	"Dear Santa. I have been good all year and tried to help my mother. I know we won't have much for Christmas. That is just fine by me. But could you help me? I found a coin I think my father would like. He died in the war though. For Christmas this year, could my present be you giving this to my father? He liked collectingthese. I miss him and I know he would love it. Love, Judith."
+
+JUDITH CROSS	Thank you.
+
+TOWN MAYOR	It's the time you've all been waiting for! We welcome you all to our Christmas Eve tree lighting. We're so proud of our community, and lookforward to sharing this special evening with you....
+
+JONAH	Thank you, for bringing me with you.
+
+MANDY	This wouldn't have happened without you.
+
+JONAH	I think you would have found a way. You believed in this, in how special this was... You wouldn't have given up.
+
+MANDY	I don't know. But it certainly was better with you involved.
+
+JONAH	Maybe faster.
+
+MANDY	More fun.
+
+JONAH	The librarian might disagree.
+
+MANDY	Why did you volunteer to help me that day? At the church?
+
+JONAH	Because, no one else would have given the letter a second thought like you did. They might have thrown it away, told a friend about it as a cute story, or gotten rich off the coin, but not you.
+
+MANDY	Not you either. And no one else would have helped me.
+
+JONAH	Yes they would have. If they saw what I saw in you...
+
+TOWN MAYOR	Now, count down with me to light our glorious tree! 10, 9, 8, 7, 
+
+JONAH	Do you know what I put in my  letter to Santa?
+
+MANDY	What?
+
+JONAH	I asked for you to ... to love me.
+
+TOWN MAYOR	6, 5, 4, 3, 2, 1!
+
+MANDY	We both got our Christmas wishes.
+
+JONAH	Merry Christmas.
+
+MANDY	Merry Christmas.
+
+JONAH	You're still coming tomorrow for dinner, right?
+
+MANDY	I'd love to.
+
+JONAH	Good.
+
+MANDY	Have you started any of the recipes?
+
+JONAH	I haven't even gone to the grocery store.
+
+MANDY	At least we have pie.

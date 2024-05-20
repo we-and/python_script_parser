@@ -1,0 +1,265 @@
+THOMAS EP 470
+Titre VO : Henry gets the express
+ Propositions Titres VF : L’express de Henry/Henry récupère l’express/ Une perte insurmontable
+
+(BOUCLE 1 - 10:00:29:24)
+		01
+
+Henry	(il baille____)
+
+Narrator	Titre français à placer là. Ce matin-là, alors qu'il est encore tôt, toutes les locomotives quittent la gare de triage pour aller travailler. Enfin... toutes sauf Gordon!
+
+Thomas	Debout, gros paresseux! Ou tu seras en retard pour prendre l'express!
+
+Gordon	Je ne suis pas en état, Thomas. Tu dois prévenir le gros contrôleur! Ma chaudière a besoin d'un nettoyage!
+
+Henry	Quoi? Sérieusement? Pourquoi tu ne l'as pas faite nettoyer hier?
+
+Gordon	Oh, j'étais épuisé!
+
+Thomas	(rire BF) Alors (hh) ne te plains pas si le gros contrôleur demande à quelqu'un d'autre de s'occuper de ton train!
+
+Gordon	Hah! Tu divagues! Seul moi peux le faire!
+
+(BOUCLE 2 - 10:01:16:10)
+		02
+
+Thomas	Henry l'a déjà pris une fois!
+
+Gordon	Il en serait bien incapable aujourd'hui! Ne te vexe pas Henry mais c'est un travail très difficile! Tu dois connaitre tous les arrêts, bien contrôler ta vitesse! Ce n'est pas une mission pour une vieille locomotive dans ton genre!
+
+Thomas	(rire BF?) Ignore-le Henry! Gordon aime croire qu'il est particulier!
+
+(BOUCLE 3 - 10:01:53:16)
+		03
+
+Thomas	Bonjour Monsieur! Gordon m'a demandé de vous dire qu'il serait en retard parce qu'il doit aller faire nettoyer sa chaudière!
+
+Fat control	Quoi? Il le fait maintenant? Et le train?
+
+Thomas	Je sais Monsieur! Et je lui  ai dit que vous le remplaceriez pour l'express! J'avais pensé à Henry mais Gordon ne l'en croit pas capable!
+
+Fat control	Hah! Oui bien sûr, Henry va se charger de l'express! Excellente idée Thomas!
+
+Henry	Alors vous... croyez que j'y arriverai Monsieur?
+
+Fat control	Evidemment, Henry! Et tant pis pour Gordon, ça lui servira de leçon!
+
+(BOUCLE 4 - 10:02:28:15)
+		04
+
+Narrator	Et c'est ainsi qu'Henry se retrouve en charge de l'express! Bon, au début, c'est vrai,  il est un peu nerveux... mais très vite, il commence à prendre du plaisir!
+
+Henry	Ahahah! L'express passe avant tout!
+
+(BOUCLE 5 - 10:02:54:23)
+		05
+
+Fat control	Gordon! Il est de la plus grande importance que l'express soit à l'heure! Les passagers comptent sur nous! Puisque tu étais trop occupé ce matin, j'ai demandé à Henry de te remplacer!
+
+Gordon	(hh) Oh!
+
+Thomas	Et voilà Gordon!
+
+Gordon	Un train d'marchandises? Mais... J'ai du mal à comprendre Monsieur!
+
+Fat control	Oh! Toi, tu remplaces Henry, c'est plus simple comme ça?
+
+Gordon	Ohh (hh hh !)
+
+Man1	Merci beaucoup Henry pour cet agréable trajet!
+
+Henry	(rire) De rien, c'est normal!
+
+Stationmaster	Tu es plus chaleureux que Gordon! J'aimerais que ce soit toi qui tracte l'express tous les jours!
+
+Henry	(hh)
+
+(BOUCLE 6 - 10:03:48:21)
+		06
+
+Henry	Gordon, lui, est loin de s'amuser autant qu'Henry!
+
+Gordon	Un vieux train! (h) De vieux wagons! Oh! C'est trop génant!
+
+Salty	Tiens bonjour moussaillon! Qu'est-ce que tu fais là?
+
+Gordon	Henry  s'occupe de l'express aujourd'hui, alors moi, je dois faire ses missions!
+
+Porter	N'en fais pas un drame! Tu es tellement costaud que tu devrais faire son travail deux fois plus vite que lui!
+
+Gordon	Si, c'est un drame! Je n'ai pas été engagé pour faire ce genre de choses! C'est indigne de moi!
+
+Cranky	Ca, tu devrais adorer!
+
+Gordon	Oh! Des wagons dégoutants remplis de charbon? Pour moi?
+
+Salty	Désolé!
+
+Gordon	Oh quelle humiliation! (h)
+
+(BOUCLE 7 - 10:04:46:05)
+		07
+
+Gordon	Oh!
+
+Henry	L'express passe avant tout!
+
+Gordon	(h) Mais c'est ma ligne!
+
+Henry	Salut Gordon! Ahahah! Au r'voir Gordon!
+
+Gordon	Mmm!
+
+(BOUCLE 8 - 10:05:03:21)
+		08
+
+Gordon	Monsieur? Je peux récupérer mon train express maintenant?
+
+Fat control	Oh non! J'ai besoin que tu ailles à la Carrière de la Montagne Bleue!
+
+Gordon	Oh! (hh)
+
+Rheneas	(hh) Ce n'est pas Gordon que je vois, si? (h)
+
+Gordon	Attention!  L'express euh j'veux dire euh Gordon (h) passe avant tout!
+
+Rheneas	Content d'te voir Gordon! Ta journée s'passe bien?
+
+Gordon	Pouah! Comme si c'était sympa de transporter des marchandises!
+
+Amb trucks	(rires idiots)
+
+Gordon	Je ne suis pas d'humeur, je vous préviens, veuillez donc être sages!
+
+(BOUCLE 9 - 10:05:42:12)
+		09
+
+Truck1	Il veut qu'on soit sage, on va lui montrer! (rires)
+
+Amb trucks	(rires)(rires Haaaah!_)
+
+Narrator	Des wagons farceurs sages? C'est mal parti!
+
+Amb trucks	(rires_____) Pas vraiment utile! Pas si costaud! (rires____)
+
+Gordon	Oh! Un peu d'calme!
+
+Truck1	Tu veux qu’on soit calmes?   Hah! (rire_____)
+
+Amb trucks	(rires_____)
+
+Narrator	C'est alors qu'ils desserrent leurs freins.
+
+Gordon	Oooh! (hh) Ohohhh! Ohhh! (hh) Détachez-moi tout d'suite! Moi je rentre dans mon hangar!
+
+Rheneas	Visiblement, sa journée n'est pas si bonne que ça!
+
+(BOUCLE 10 - 10:06:23:11)
+		10
+
+Narrator	A la nuit tombée, Henry rentre à la gare de triage et s'installe à côté d'un Gordon particulièrement ronchon!
+
+Henry	Salut Gordon! Ca m'a fait plaisir de prendre l'express aujourd'hui mais tu sais quoi? J'ai vraiment hâte de récupérer demain mes missions!
+
+Gordon	Jamais plus je ne livrerai de marchandises! C'est clair?
+
+Fat control	Sache que c'est moi et moi seul qui distribue les tâches, Gordon!
+
+Gordon	(hh)
+
+Fat control	Tu n'as même pas fini ce que tu étais censé faire!
+
+Gordon	Ah euh...
+
+Fat control	Tu dois apprendre à faire le travail qu'on te donne! Et ce soir, je compte sur toi pour prendre le hareng volant
+
+Henry	Oh!
+
+Thomas	Oh!
+
+(BOUCLE 11 - 10:07:02:07)
+		11
+
+Gordon	Quoi? Je refuse de prendre le train qui sent mauvais! (hh)
+
+Fat control	Bon très bien! Mais si tu ne le fais pas, peut-être qu'Henry se verra confier l'express ... pour toujours cette fois!
+
+Gordon	Non!
+
+Henry	(h)
+
+Gordon	Tout ça c'est de ta faute Henry!
+
+Henry	Mais si j'ai pris l'express, c'est parce que le gros contrôleur me l'a demandé!  Tu as seulement à prendre le hareng volant!
+
+Gordon	(gros soupir)
+
+Henry	(hh) C'est vrai que s'occuper d'un train comme le hareng volant, ce n'est pas donné à tout le monde!
+
+(BOUCLE 12 - 10:07:35:11)
+		12
+
+Henry	Toutes les locomotives n'en sont pas capables!
+
+Thomas	(h)
+
+Henry	Tu n'as sûrement pas ce qu'il faut d'ailleurs!
+
+Thomas	Tu as tout à fait raison! James avait même trouvé ça très compliqué quand on le lui avait confié!
+
+James	Quoi? C'est faux! Ce qui est dur, c'est l'odeur!
+
+Gordon	Moi je suis, je vous signale, plus costaud et plus doué que James!
+
+Henry	Peu importe! J'ai des doutes!
+
+Gordon	Je t'en prie! Rien n'est trop dur pour moi! Evidemment que je peux livrer des wagons remplis de poissons! Je vais vous le prouver tout de suite!
+
+Thomas	(h)
+
+(BOUCLE 13 - 10:08:08:20)
+		13
+
+Narrator	Gordon est bien décidé à montrer à Henry qu'il a tort! Mais le temps qu'il revienne à la gare de triage, le soleil s'est déjà levé.
+
+Gordon	Alors? Vous voyez bien! J'ai réussi! J'ai livré tous les poissons infects, et je n'ai pas trouvé ça difficile du tout!
+
+Fat control	Oh! Tant mieux!
+
+Gordon	(hh)
+
+Fat control	Tu as enfin fait ce que je t'avais demandé Gordon, c'est bien!
+
+Gordon	(hh)
+
+Fat control	Je reconnais qu'Henry a fait du  bon travail avec le train express! Du coup, je le nomme remplaçant officiel de Gordon!
+
+Henry	(h)
+
+Gordon	Quoi? (h)
+
+Fat control	Mais... euh... tu peux quand même récupérer ton poste!
+
+Gordon	Oh, oui! Merci Monsieur! Je vais y aller, dès maintenant!
+
+Thomas	(snif snif) Hou!Ahah! (h/) Tu sens beaucoup la sardine, Gordon! Tu devrais aller faire un brin de toilette avant!
+
+Gordon	(Snif pouah!) Oooh_____!
+
+Henry	L'express qui sent mauvais passe avant tout! (rire)
+
+Fat control	(rire________)
+
+Thomas	(rire_________)
+
+Gordon	Oh, quelle humiliation!
+
+
+
+
+
+
+1
+
+

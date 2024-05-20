@@ -1,0 +1,1159 @@
+
+
+ARUANAS 6.
+
+
+
+
+
+AUTEUR	GENERIQUE ARUANAS 6
+
+
+1 (10:01:08:14)
+
+VERONICA	Nati est toute seule au milieu de la forêt de Cari pour essayer de réaliser un reportage suicide!
+
+GREGORY	(h)Baisse ton arme!
+
+LUIZA	Le reportage sur lequel Nati travaille est essentiel pour que Verônica obtienne l'injonction.
+
+MINISTRO	Ce qui m'intéresse, c'est le progrès de notre pays.
+
+VERONICA	L'ennui, c'est que votre idée du progrès est obsolète, Monsieur le ministre.
+
+LUIZA	Je cherche de l'or, pour le gringo qui est là-bas.
+
+ICARO	Cherchez pas plus loin!
+
+CLARA	C'est ici qu'ils séparent l'or du mercure ?
+
+ICARO	C'est tout à fait ça, jeune fille.
+
+LUIZA	Emmène-moi directement à la source ! J'suis sûre qu'on peut s'entendre.
+
+FEMME 1 EPISODE 5	Vous voulez acheter quelque chose ? Des bagues ?
+
+HOMME 3 EPISODE 5	Je veux celle-là.
+
+MAQUEREAU	Non, pas celle-là. J'la garde pour l'enchère aux vierges.
+
+CLARA	J'étais dans un endroit où ils obligent des jeunes filles à coucher avec des vieux.
+
+LUIZA	Je veux que tu restes concentrée, on a une mission bien précise. Je dois y aller seule, là, je suis sur une piste. Si je ne reviens pas d'ici 24h, c'est que ça a foiré.
+
+CLARA	Je vais les sauver. Et tu vas venir avec moi.
+
+INSERTS	Enchère aux vierges.
+
+NELSON	Natalie est à l'intérieur de la réserve, avec une équipe de tournage. Nos hommes ont encerclé le périmètre, ils attendent les ordres ;
+
+GREGORY	On y va, en route !
+
+NELSON	Si vous le souhaitez, on règle ce problème aujourd'hui.
+
+MIGUEL	Préparez mon hélicoptère ! Vous vous rendez compte de la situation dans laquelle vous étiez ?
+
+NATALIE	Je tournais un reportage
+
+MIGUEL	Suivez mon conseil, c'est un endroit extrêmement hostile !
+
+VERONICA	(Mmmm!) J'accepte ton aide avec le lobbyiste.
+
+AMIR 	Voici Véronica Muniz, mon avocate.
+
+VERONICA	Enchantée de vous rencontrer.
+
+OLGA	La zone regorge de mines illégales.
+
+VERONICA	C'est à l'État d'assumer la responsabilité des réserves !
+
+OLGA	Et qu'a fait le président ? Il a autorisé le lancement d'une opération.
+
+AMIR 	Il est très difficile pour un juge de faire annuler un décret présidentiel prévu par la loi.
+
+VERONICA	Bon, veuillez m'excuser.
+
+JUGE	Mais vous savez sans doute que cette injonction n'est pas éternelle.
+
+VERONICA	Rassurez-vous, ce sera suffisant.
+
+GREGORY	Le statut de la réserve est rétabli.
+
+AMBIANCE	réacs de joie.
+
+NATALIE	(ah!) (ah!)
+
+GREGORY	Ils ont annulé le décret présidentiel !
+
+NATALIE	(ah!) (ah!)
+
+OUT (10:02:42:17)
+
+
+2 (10:03:14:12)
+
+AUTEUR	(Je ne sais pas de quoi il parle )Tu vas découvrir ce fleuve
+
+ICARO	(h) Tu vas découvrir l'Agulhas,
+
+AUTEUR	...
+
+ICARO	ce n'est pas le plus grand, mais il est agité.
+
+LUIZA	Je voudrais savoir ce qu'il en est de notre demande.
+
+OUT (10:03:26:02)
+
+
+3 (10:03:53:18)
+
+AMBIANCE	Brouhaha des passagers.
+
+ICARO	Allez, ma jolie, c'est parti.
+
+LUIZA	Tu es inquiet, on dirait ?
+
+ICARO	Allez, on y va!
+
+AMBIANCE	Brouhaha ...
+
+OUT (10:04:32:10)
+
+
+4 (10:06:23:21)
+
+MINEUR 1	Tu es mignonne, dis donc ...
+
+LUIZA	(h) j'ai un mec, désolée.
+
+MINEUR 1	Un homme de plus, ça te fait peur ?
+
+LUIZA	Il parait qu'y a un bon filon ici ...
+
+MINEUR 1	Ouais, c'est pas trop mal ... mais il reste pas grand-chose pour nous. (h) Ils veillent au grain ... il y a eu beaucoup de vols ...
+
+LUIZA	Et tu comptais me payer comment ?
+
+OUT (10:06:45:24)
+
+
+5 (10:06:51:14)
+
+LUIZA	Bonjour!
+
+JUSSARA	Bonjour!
+
+LUIZA	(h)
+
+JUSSARA	Un café ?
+
+LUIZA	Une bière, vous auriez ?
+
+JUSSARA	(ah!) Bien sûr !
+
+LUIZA	Elle est fraîche ?
+
+JUSSARA	Oh, oui ! Super fraîche !
+
+LUIZA	C'est cool alors ...
+
+JUSSARA	C'est bien Ícaro qui vous a fait venir ici ?
+
+LUIZA	Peut-être bien ... (h) gardez la monnaie.
+
+JUSSARA	On va bientôt servir le déjeuner. C'est cinquante réais.
+
+LUIZA	(h) Écoutez...
+
+JUSSARA	(Hm ?)
+
+LUIZA	(h) qui récupère tout cet or ?
+
+JUSSARA	(Hm,) bien sûr, c'est pour le patron.
+
+LUIZA	Et c'est qui ? lui, là-bas ?
+
+JUSSARA	Lui, c'est son bras droit, le patron, en revanche, (h) presque personne ne le connait.
+
+LUIZA	(ttt!) N'importe quoi ! Hein que vous le connaissez?
+
+JUSSARA	(hah!) Peut-être. Je vais vous donner un tuyau ; (h) toutes les semaines, il envoie un bateau ici, chercher une cargaison, c'est aujourd'hui.
+
+LUIZA	J'ai une sacrée chance ...
+
+JUSSARA	C'est sûr ...
+
+LUIZA	Et ce bateau, à quelle heure il arrive ?
+
+JUSSARA	(ah ah!)
+
+LUIZA	Ça vous plaît ? C'est une bonne marque !
+
+JUSSARA	Ouais, je vois ... C'est le bateau bleu et blanc qui arrive à 10 heures.
+
+
+6 (10:08:07:19)
+
+LUIZA	Merci.
+
+ICARO	Jussara, ma chérie, alors, qu'est-ce qu'on mange aujourd'hui ?
+
+JUSSARA	(ah!) C'est copieux.
+
+ICARO	Ne lésine pas sur le piment, j'ai de la compagnie, ce soir.
+
+LUIZA	(Mmmmm!)
+
+ICARO	(X)
+
+JUSSARA	Oui, c'est ce que je vois.
+
+ICARO	Viens, ma jolie. Je vais faire les présentations.
+
+LUIZA	(Ttttt!) Oui, j'arrive !
+
+JUSSARA	Fais attention, surtout, garde un œil sur sa copine, d'accord ? Elle est imprévisible.
+
+LUIZA	Elle est ici ? (Ouh!) Quel bordel !
+
+OUT (10:08:27:04)
+
+
+7 (10:08:32:07)
+
+VERONICA	Je n'arrive pas à joindre Luiza, préviens-la que j'aurai un peu de retard, quelques minutes à peine.
+
+PONTOCOM	Toi aussi tu vas incognito à la mine, tu ne voulais pas repasser par ici ?
+
+VERONICA	Non. Je me rends à l'audience pour la garde de Yan. J'irai là-bas après. Pointcome, elle est où Luiza ?
+
+
+8 (10:08:47:06)
+
+MARIANA	Comme vous pouvez le constater, madame le Juge, même pour l'audience qui doit décider de la garde de son propre fils, Mme Luiza Lassi ne daigne pas se présenter. C'est pour cette raison que mon client demande la garde exclusive...
+
+VERONICA	Je vous prie de m'excuser, madame le Juge, j'arrive tout juste de Brasilia, tous les vols ont été retardés.
+
+JUIZA	J'étais sur le point de lever la séance.
+
+VERONICA	Heureusement que je suis arrivée à temps. Gilberto.
+
+GILBERTO	Où est Luiza ?
+
+VERONICA	(h) Madame la Juge, ma cliente est en Amazonie retenue par un engagement professionnel et malheureusement, elle ne pourra pas se présenter à l'audience d'aujourd'hui.
+
+MARIANA	Pardonnez-moi, madame la Juge, mais mon client et moi souhaiterions poursuivre.
+
+VERONICA	Ce serait tout à fait injuste, madame laJuge.
+
+MARIANA	Je rappelle qu'elle n'a pas vu son fils depuis deux semaines...
+
+VERONICA	(h) C'est ce qui était convenu avec le père. Luiza a accepté ce travail car elle savait que sa lutte profiterait non seulement à son fils, mais à tous les petits enfants de notre pays.
+
+GILBERTO	C'est un peu exagéré ! Mon travail aussi est bénéfique aux autres.
+
+VERONICA	Même quand vous passez un an à naviguer sans Yan ? (h) Madame la Juge, il s'agissait au départ d'une audience de conciliation, je demande donc qu'une nouvelle audience soit reprogrammée.
+
+JUIZA	Bon, très bien, cette audience de conciliation sur la garde de l'enfant est reportée à la semaine prochaine. Maitre, je vous prie de faire savoir à votre cliente qu'elle n'aura pas d'autre chance.
+
+
+9 (10:09:54:06)
+
+VERONICA	Luiza, je suis en route pour l'aéroport de Congonhas, je prends l'avion pour Cari, je te retrouve là-bas, bisou.
+
+OUT (10:10:01:01)
+
+
+10 (10:10:13:03)
+
+RESP MINE D'OR	Je sais ce que c'est, les étrangers nous prennent tout.
+
+LUIZA	(h) Mais il y a aussi des Brésiliens malins qui savent tirer leur épingle du jeu.
+
+RESP MINE D'OR	Comme vous, par exemple.
+
+ICARO	Et vous aussi, si vous nous aidez, vous prendrez cinq pour cent.
+
+LUIZA	Il nous faudrait 20 kilos.
+
+RESP MINE D'OR	(mmm!)
+
+AUTEUR	Rire BF. Sa bouche bouge même si on n'entend rien.
+
+RESP MINE D'OR	Vingt kilos? C'est ... impossible.
+
+ICARO	Pourquoi impossible ?
+
+RESP MINE D'OR	Il nous laisse pas faire de stock, par sécurité.
+
+LUIZA	C'est qui il ?
+
+RESP MINE D'OR	Le proprio, il a toutes les mines d'or de la réserve de Cari.
+
+LUIZA	N'importe quoi ; une mine illégale n'appartient à personne.
+
+RESP MINE D'OR	Celle-là, si.
+
+ICARO	(h)
+
+RESP MINE D'OR	On s'est déjà vus, non ?
+
+LUIZA	(h) j'suis madame tout le monde ...
+
+RESP MINE D'OR	(Mmm!) Madame tout le monde ? Je ne crois pas, non.
+
+ICARO	Combien vous pouvez nous obtenir au maximum ?
+
+RESP MINE D'OR	Je me renseigne et je vous le dis. D'accord ?
+
+ICARO	On fait comme ça.
+
+LUIZA	Ne traînez pas, le client est impatient.
+
+OUT (10:11:06:16)
+
+
+11 (10:11:36:05)
+
+ICARO	(X)
+
+LUIZA	J'ai entendu dire que ta femme était imprévisible.
+
+ICARO	On n'est pas mariés.
+
+LUIZA	(ah!) (X) Appelle-là, ça ne fera que pimenter la chose.
+
+ICARO	Elle craint trop ...
+
+LUIZA	J'adore ! (X) Appelle-là, ça lui faire un choc! (Mmmm?) (ah ah ah!)
+
+ICARO	(h)
+
+LUIZA	Allez, vas-y, je t'attends. (X) Le temps que ça fasse effet.
+
+ICARO	Alors, surtout, reste là, je reviens tout de suite.
+
+LUIZA	(huh huh!)
+
+OUT (10:12:12:20)
+
+
+12 (10:12:59:09)
+
+VAL	Je sais tout! Je sais que tu es avec mon mec !
+
+LUIZA	(aïe!) (h)
+
+VAL	Laisse Icaro tranquille, salope ! Sale pute, va!
+
+LUIZA	(ah!)
+
+VAL	Tu te prends pour qui, dis-moi ? Allez, viens ! On va régler cette affaire entre filles, allez viens !
+
+JUSSARA	Tu vas arrêter, Val !
+
+VAL	(ah!)
+
+JUSSARA	Tu arrêtes ? Maintenant, ça suffit, tu vas te calmer,
+
+VAL	(ah!)
+
+JUSSARA	y'en a assez de tes crises, est-ce que tu as entendu ?
+
+VAL	(ah!) Ta gueule ! Lâche-moi, Jussara!
+
+JUSSARA	Pas de scandale chez moi...
+
+VAL	(ah!)
+
+OUT (10:13:16:14)
+
+
+13 (10:14:16:17)
+
+AMBIANCE	Brouhaha aéroport.
+
+NATALIE	Ça alors, ça ne m'étonne pas !
+
+VERONICA	Arrête de dire ça, si ça avait été toi, je serais venue te sauver dans la forêt.
+
+NATALIE	Bravo pour l'injonction.
+
+VERONICA	Tu sais que ça ne nous laisse que quelques jours. Où est ce fameux indic' ?
+
+NATALIE	Regarde ça.
+
+INSERTS	Inconnu: Quittez la réserve maintenant.
+
+NATALIE	Il est toujours en vie.
+
+
+14 (10:14:41:06)
+
+VERONICA	Miguel a acheté une partie des terrains de la réserve.
+
+NATALIE	Et il peut faire ça ?
+
+VERONICA	Ça y est, tout est vendu, tout. Tu avais vu juste depuis le début, Nati, il n'a rien de l'entrepreneur philanthrope qu'il prétend être.
+
+NATALIE	(h) (h)
+
+VERONICA	Qu'est-ce qu'il y a ?
+
+NATALIE	Tu as vu Amir, non ?
+
+VERONICA	Oui, j'l'ai vu. C'est lui qui m'a aidée à découvrir que les terrains étaient tous vendus.
+
+NATALIE	On s'est disputés avant mon départ.
+
+VERONICA	(h) Pourquoi ?
+
+NATALIE	Tu trouves qu'il faut que je me soigne ?
+
+VERONICA	Comment ça, Nati ?
+
+NATALIE	(Tttt) Je n'arrive pas à lui dire au revoir, je continue à porter le deuil. Je me dis qu'en ayant du chagrin, c'est un peu comme comme si je restais avec Letícia,
+
+VERONICA	Ne t'inquiète pas, Nati. On a tous notre façon de gérer le malheur. Fais comme tu le sens.
+
+NATALIE	Je lui en veux énormément. Je ne peux plus le regarder de la même manière . C'est sûrement comme ça qu'on sait que l'amour est fini ? (Snif!) (oh!) (ah ...)
+
+OUT (10:16:08:05)
+
+
+15 (10:17:39:09)
+
+FALCAO	Super, c'est super! Félicitations! C'est vraiment génial!
+
+NATALIE	Alors, c'est bon, pour les images ?
+
+FALCAO	Oui, c'est bon, Pointcom a fait une sauvegarde. Les images sont incroyables, Nati, c'est génial.
+
+NATALIE	Oui, je sais. Je retourne à São Paulo, je vais les diffuser.
+
+FALCAO	Ça va faire l'effet d'une bombe. Avec ça, on va obtenir qu'ils prolongent l'injonction !
+
+VERONICA	(Mmmm!)
+
+FALCAO	La chance va tourner.
+
+PONTOCOM	Merde, putain, j'ai perdu la trace de Luiza.
+
+VERONICA	Réessaie!
+
+PONTOCOM	On n'a pas de signal.
+
+ANDRE	(h) Arrêtez de paniquer, elle sait se débrouiller.
+
+VERONICA	Elle a raté l'audience pour la garde de son fils.
+
+ANDRE	Mais elle m'avait dit que c'était jeudi.
+
+NATALIE	Alors elle va rentrer aujourd'hui.
+
+CLARA	Sûrement.
+
+NATALIE	Tout va bien, d'accord. Salut, tout le monde!
+
+PONTOCOM	Salut!
+
+CLARA	Salut!
+
+VERONICA	Bon, je pars à la recherche de la veuve d'Otávio. Elle se souviendra p't-être de quelque chose.
+
+ANDRE	Quoi ? Tu veux que je t'accompagne ?
+
+VERONICA	Non, je vais y aller seule, elle se confiera plus facilement.
+
+ANDRE	Pourquoi t'as fait ça? T'es folle ?
+
+CLARA	T'as oublié qu'on a quelque chose à faire, cet après-midi ?
+
+ANDRE	(ah?) t'as pas changé d'avis ?
+
+CLARA	(h) Viens!
+
+ANDRE	Tu me saoûles !
+
+PONTOCOM	Zut !
+
+OUT (10:18:26:17)
+
+
+16 (10:18:31:12)
+
+OLGA	Je sais qui a demandé l'injonction, elle était avec un ancien client à moi. Mais je vais la faire tomber, facile!
+
+MIGUEL	Moi aussi, je sais de qui il s'agit. Mais elle, qu'est-ce qu'elle sait exactement ? Inutile de chercher à me ménager.
+
+OLGA	L'important, c'est que je suis au courant désormais. Il y a un détective qui suit les filles, il faut envoyer quelqu'un surveiller le trio Natalie, Véronica, et Amir.
+
+MIGUEL	Amir ?
+
+OLGA	On va faire imploser Aruana de l'intérieur.
+
+
+17 (10:19:12:21)
+
+VERONICA	Qui est-ce ?
+
+ROSA	C'est moi, Rosa. Désolée d'insister.
+
+VERONICA	Bonjour, Rosa, entrez, entrez! Mettez-vous à l'aise! J'en ai pour une minute, je reviens !
+
+ROSA	(mmm!)
+
+VERONICA	Vous saviez que je vous cherchais ?
+
+ROSA	Non.
+
+VERONICA	Vous voulez un verre d'eau ?
+
+ROSA	Je vous dois des excuses.
+
+VERONICA	Pourquoi ?
+
+ROSA	Otavio utilisait cet appareil pour communiquer avec sa source, pour lui c'était normal. Protéger ses sources passait avant tout.
+
+VERONICA	Donc cette personne, la source d'Otávio, c'est notre indic ?
+
+ROSA	C'est ça !
+
+VERONICA	(h) Pourquoi vous ne me l'avez pas donné avant ?
+
+ROSA	Parce que je vous faisais pas confiance.
+
+VERONICA	Et qu'est-ce qui a changé ?
+
+ROSA	Voilà deux moi que mon mari a été retrouvé mort, et y'avait pas un seul jour, quand il était en vie, sans qu'il parle de l'amour qu'il portait à cette forêt. Je suis certaine que c'est ce qui l'a conduit à se mêler de cette affaire.
+
+VERONICA	(h) Vous savez pour l'injonction ?
+
+ROSA	J e veux que justice soit faite. J'espère que ce téléphone vous aidera.
+
+OUT (10:20:11:07)
+
+
+18 (10:20:19:00)
+
+FALCAO	Pointcom, tu penses pas qu'on devrait agrandir cette photo?
+
+PONTOCOM	Attends, c'est Verônica. Allô, Véronica. Si c'est à propos de Luiza, on n'a toujours rien.
+
+VERONICA	Note ce numéro, s'il te plait.
+
+PONTOCOM	Une seconde ! T'as un stylo? Vas-y, j'técoute!
+
+VERONICA	97 55 23 27 43. Celui qui a ce numéro est notre indicateur, trouve qui c'est et rappelle-moi.
+
+OUT (10:20:38:14)
+
+
+19 (10:20:46:06)
+
+VAGUINHO	J'ai la dalle, mec. Hier, j'ai pêché quelques poissons, on devrait les faire cuire, comme ça, à la casserole?
+
+JOAO	Tu as raison.
+
+INSERTS	André: T'es où ? Pointcom: Véronica est vénère. Falcão: Même moi, je m'inquiète. Véronica; J'ai réussi à faire repousser l'audience de deux jours. Ça aurait été plus facile si t'avais été là. Véronica: J'ai réussi à faire repousser l'audience de deux jours. Ça aurait été plus facile si t'avais été là.
+
+AUTEUR	A peine audible.
+
+LUIZA	Putain de merde, putain de merde !
+
+INSERTS	Falcao, préviens les autres que je vais bien.
+
+OUT (10:21:20:24)
+
+
+20 (10:21:29:15)
+
+PONTOCOM	C'est bon ? T'es assise ?
+
+VERONICA	Je t'écoute.
+
+PONTOCOM	(ah!) Putain ! Je fais de l'hypertension, tu m'as fait peur !
+
+FALCAO	Luiza a envoyé un message!
+
+VERONICA	Alors ?
+
+FALCAO	Elle va bien
+
+VERONICA	Ah, je suis soulagée.
+
+FALCAO	!
+
+VERONICA	À qui est le numéro ?
+
+PONTOCOM	C'est celui d'une morte ; Karen Kiriakos.
+
+VERONICA	La fille de Miguel Kiriakos.
+
+PONTOCOM	La fille de Miguel.
+
+
+21 (10:21:47:19)
+
+ANDRE	Clara, écoute, je tiens à te dire que je ne suis pas du tout sûr de ce qu'on est en train de faire!
+
+CLARA	Fais ce que je t'ai demandé et le reste, je m'en occupe.
+
+ANDRE	Et pourquoi j'obéis à la stagiaire, moi ? (Pffff!)
+
+OUT (10:22:01:20)
+
+
+22 (10:22:19:00)
+
+PONTOCOM	Karen s'occupait d'un organisme de bienfaisance qui venait en aide aux enfants du nord dans le besoin, principalement des filles. La ligne est enregistrée au nom de cet organisme, c'est une ligne pro. Et elle, c'est Gabi, sa filleule, elle est jolie.
+
+FALCAO	Et de quoi est-ce qu'elle est morte ?
+
+PONTOCOM	(h) Elle a eu un cancer très agressif. D'après ce que j'ai lu, c'était une femme très appréciée de tous.
+
+FALCAO	Alors, c'était tout l'inverse de son père.
+
+PONTOCOM	Elle ne s'entendait pas avec Miguel.
+
+FALCAO	On ne choisit pas sa famille hélas...
+
+VERONICA	Otávio a appelé ce numéro à deux reprises, avant de mourir. Il faut que je sache qui se sert de cette ligne aujoud'hui. Vous avez une idée ?
+
+FALCAO	Dis voir, ... il est possible de retrouver l'adresse associée à ce numéro, Pointcom ?
+
+PONTOCOM	Oui, ça devrait être faisable. Il me faudrait juste un peu de temps.
+
+VERONICA	Essaie de faire le plus vite possible, d'accord ?
+
+PONTOCOM	Okay
+
+VERONICA	(h) Où sont André et Clara ?
+
+OUT (10:23:12:11)
+
+
+23 (10:23:19:17)
+
+AMBIANCE	Brouhaha...
+
+ANDRE	Alors, c'est vrai!
+
+CLARA	Ouais ... c'est un bateau de pédophiles.
+
+ANDRE	Viens, Clara, avance !
+
+
+24 (10:23:38:13)
+
+AMBIANCE	Brouhaha ...
+
+ANDRE	C'est là, en bas. On y va.
+
+CLARA	Ouais !
+
+OUT (10:23:50:16)
+
+
+25 (10:24:16:01)
+
+AMBIANCE	Brouhaha ...
+
+HOMME 1	J'ai jamais vu aussi peu de matos.
+
+HOMME 2	Des filles avec des formes y'en a plus beaucoup ici.
+
+HOMME 1	Pourquoi ?
+
+HOMME 2	Ils exploitent une nouvelle mine dans la réserve.
+
+HOMME 1	(Mmm!) c'est un gros truc ?
+
+HOMME 2	On raconte que ce sera plus grand que la Serra Pelada et Eldorado.
+
+MAQUEREAU	On t'attend, Joyce !
+
+ANDRE	Je reviens.
+
+CLARA	Je t'attends ici.
+
+MAQUEREAU	Joyce, elle vient d'avoir quatorze ans.
+
+HOMME QUIDAM	Quarante !
+
+HOMME 3 EPISODE 5	Cent !
+
+HOMME 2	Cent trente!
+
+ANDRE	Trois cents !
+
+AUTEUR	Je ne sais pas ce qu'il dit, j'invente.
+
+HOMME QUIDAM	Quatre vingt douze mille !
+
+AMBIANCE	rires des hommes ....
+
+ANDRE	Je confirme, trois cents.
+
+MAQUEREAU	(Pffft!) Adjugé pour trois cents !
+
+OUT (10:25:11:11)
+
+
+26 (10:25:30:22)
+
+NATALIE	(X)
+
+AMIR 	Salut.
+
+NATALIE	Ça va ?
+
+AMIR 	Assieds-toi.
+
+NATALIE	Je ne reste pas longtemps.
+
+AMIR 	On ne s'est pas vus depuis un moment.
+
+NATALIE	Je sais ... et on s'est affreusement ennuyé l'un de l'autre, n'est-ce pas ?
+
+AMIR 	(Mmmm!)
+
+AUTEUR	Léger rire BF.
+
+NATALIE	(Mmm!)
+
+AMIR 	(Mm!)
+
+NATALIE	(h) Excuse-moi...
+
+AMIR 	(oh...) (h) Il faut qu'on parle sérieusement, Nati.
+
+NATALIE	Oui, je sais. Et je sais aussi de quoi il s'agit et quelle sera notre décision finale.
+
+AMIR 	Non. Tu ne sais pas tout. J'ai quelque chose à te montrer.
+
+OUT (10:26:10:14)
+
+
+27 (10:26:21:07)
+
+AMIR 	Voilà, (h) tu vas pouvoir recommencer à zéro. Et quand tu auras un peu de temps pour parler, j'aurai d'autres choses à te dire.
+
+NATALIE	Pour le moment, je ne pense qu'aux indiens. ce n'est pas le moment de parler de tout ça maintenant.
+
+AMIR 	C'est à cause des indiens?
+
+NATALIE	Non, Amir, je n'ai pas envie d'en parler.
+
+AMIR 	Si jai fait ça, c'est pour t'aider, Nati.
+
+OUT (10:26:56:08)
+
+
+28 (10:27:19:05)
+
+NATALIE	(ah) (ah!) (ah) (ah!) (Snif!)
+
+OUT (10:27:32:11)
+
+
+29 (10:27:54:06)
+
+ALAN	(h) Là, ça fait du sensationnalisme, il n'aurait pas aimé être dépeint comme ça.
+
+SHEIK	C'est impressionnant, hein ? Nati, je peux vous parler une minute ?
+
+NATALIE	Ça t'ennuie de nous laisser ?
+
+ALAN	Mais non.
+
+NATALIE	Alan!
+
+ALAN	(Mmm?)
+
+NATALIE	Tu peux rentrer chez toi.
+
+ALAN	Okay.
+
+
+30 (10:28:21:19)
+
+SHEIK	(h) (h) Je (euh) je suis très fier de vous.
+
+AUTEUR	Sourire BF
+
+NATALIE	(Mmm!) Crachez le morceau, Sheik, je sais que vous n'êtes pas venu pour me complimenter.
+
+SHEIK	(h) Je ne veux aucune impro en dehors de ce qu'on a préparé pour le direct, Okay ?
+
+NATALIE	Ça existe les impros préparées ?
+
+SHEIK	Nati...
+
+NATALIE	(Mmm!) Okay !
+
+SHEIK	Ah! Au fait, Miguel va participer à l'émission.
+
+NATALIE	Mais comment ça ?
+
+SHEIK	C'est lui qui vous a sauvée. L'hélicoptère, tout le cirque! Alors, évoquez l'Indien qui a péri et vous pourrez parler d'écologie autant que vous le souhaitez après.
+
+NATALIE	Vous n'imaginez pas ce que vous me demandez.
+
+SHEIK	Je demande pas, j'exige. Pire même, soit c'est ça, soit on diffuse un programme pré-enregistré aujourd'hui.
+
+NATALIE	Okay.
+
+SHEIK	Parfait.
+
+OUT (10:29:03:19)
+
+
+31 (10:29:11:22)
+
+VAGUINHO	Putain, João, t'en mets un temps pour manger!
+
+INSERTS	Pas de réseau.
+
+JOAO	Qu'est-ce que t'as ? T'es pressé ? Y'a le temps.
+
+ASSAILLANT	Ne bougez plus ! Plus un geste !
+
+GORDO	Les mains en l'air !
+
+JOAO	Doucement, doucement!
+
+GORDO	Bougez surtout pas, les mecs !
+
+JOAO	Arrêtez vos conneries !
+
+GORDO	Faites gaffe !
+
+LUIZA	(h)
+
+ASSAILLANT	Tu vas me dire où est l'or, bordel ?
+
+JOAO	(ah!)
+
+ASSAILLANT	On est venus pour ça, il est où l'or ?
+
+JOAO	Quel or ? J'en sais rien !
+
+ASSAILLANT	Arrête tes conneries !
+
+LUIZA	(ah!)
+
+JOAO	(ah!)
+
+ASSAILLANT	Pourquoi tu me regardes comme ça, toi ?
+
+JOAO	(ah!)
+
+LUIZA	(ah!)
+
+ASSAILLANT	Y'a rien, là !
+
+GORDO	Vas-y putain ! T'as envie de mourir ? Tu veux jouer au héros ?
+
+ASSAILLANT	Qu'est-ce qui se passe, putain ?
+
+OUT (10:29:45:14)
+
+
+32 (10:30:13:17)
+
+ASSAILLANT	Go, go, go, on traîne pas, allez, allez, il faut tout emporter!
+
+LUIZA	Putain ...
+
+ASSAILLANT	Eh, Gordo !
+
+GORDO	Quoi ?
+
+ASSAILLANT	Le boss va être content quand il va voir la quantité d'or qu'on lui rapporte, hein ?
+
+GORDO	Avec un peu de chance, il en restera même un peu pour nous!
+
+ASSAILLANT	Tu m'étonnes ! On va se gêner !
+
+GORDO	C'est sûr !
+
+ASSAILLANT	Bon allez, on se casse d'ici avant que quelqu'un se pointe. Allez, on y va, mec !
+
+GORDO	Ouais, on se casse.
+
+ASSAILLANT	Jette-moi ce tee-shirt dégueulasse, il pue la transpiration, ça va chlinguer dans la bagnole.
+
+GORDO	C'est bon, t'énerve pas !
+
+
+33 (10:31:00:11)
+
+ANDRE	(h) (h)
+
+JOYCE	Votre amie en a pour longtemps ?
+
+ANDRE	Non ! Non, elle devrait plus tarder.
+
+JOYCE	(h)
+
+ANDRE	Ben, la voilà !
+
+CLARA	On s'en va!
+
+ANDRE	Cool!
+
+JOYCE	Qu'est-ce que tu fais là, toi?
+
+CLARA	Tu m'as aidée l'autre jour ! Maintenant, c'est à mon tour.
+
+JOYCE	Non !
+
+CLARA	T'es pas obligée de faire ça, nous autres, on va prendre soin de toi, on va te tirer de cet enfer et te ramener à tes parents.
+
+JOYCE	(h) T'as aucune idée de qui sont mes parents! Tu te prends pour qui ? Regarde moi bien, et regarde toi, comment tu crois que j'achète mon maquillage, tous mes vêtements, ma bouffe, mes burgers ?
+
+CLARA	Excuse-moi, je voulais simplement t'aider, désolée.
+
+JOYCE	T'as envie de m'aider ? (h) Alors, recharge mon portable.
+
+OUT (10:31:48:01)
+
+
+34 (10:32:02:04)
+
+MIGUEL	Venez ! Venez !
+
+PAYALL	(Pffft!) (hhhh!) (ah!)
+
+
+35 (10:32:18:06)
+
+INSERTS	Titre de l'émission ?
+
+NATALIE	(h) Ce sont des images de la réserve de Cari, dans l'état de l'Amazonas où, malheureusement, ce genre de conflits est aujourd'hui monnaie courante. Voilà des années que s'affrontent les mineurs et ceux qui habitent et préservent cette merveilleuse région depuis des siècles. Nos peuples indigènes. Et aujourd'hui, je suis avec le directeur de la "KM Mineradoras", société pionnière de l'exploration de métaux dans la région, et grande pourvoyeuse d'emplois pour la population locale.
+
+SHEIK	Coupe la caméra deux.
+
+NATALIE	Soyez le bienvenu dans notre émission, monsieur Kiriakos.
+
+MIGUEL	Je vous remercie de m'avoir invité.
+
+NATALIE	Monsieur Kiriakos, vous qui étiez sur place avec moi, quelle est la solution pour que les Indiens ne soient plus massacrés, que doit faire l'État selon vous?
+
+MIGUEL	(h) Tout d'abord, j'aimerais dire aux téléspectateurs que j'ai eu le privilège d'admirer de près le côté guerrier de cette femme, ça a été un honneur.
+
+NATALIE	Merci. Mais que diriez-vous aux peuples indigènes qui, en plus de vivre en permanence sous la menace, voient leur fleuve pollué par le mercure ?
+
+MIGUEL	C'est une bien triste réalité. Mais vous l'avez vu, l'exploitation minière illégale contrôle la région, c'est une lutte de territoire. Tant que les mines ne seront pas autorisées dans la réserve, cette guerre continuera.
+
+
+36 (10:33:31:01)
+
+NATALIE	Mais l'État n'a-t-il pas l'obligation de protéger la réserve ?
+
+MIGUEL	La réserve sera protégée. Pour vous donner une idée, on estime qu'environ quatre-vingt pour cent de la végétation restera intacte, même après la, la réglementation sur l'activité minière, et les Indiens pourront compter sur notre protection.
+
+NATALIE	Mais on sait très bien qu'en pratique, ça ne se passe jamais comme ça. Et il est même irresponsable de donner ce pourcentage. La mine n'a pas seulement pour conséquence la déforestation, mais aussi une perte inestimable en biodiversité dont la valeur économique est bien plus élevée que celle de l'or.
+
+MIGUEL	Sachez que nous replantons des arbres ailleurs.
+
+NATALIE	D'après les recherches sur le sujet, il s'agirait de deux mille cinq cents espèces d'arbres, trente mille espèces de plantes et des milliards d'années d'évolution et d'intelligence. La bio-économie peut faire du profit grâce à la préservation de ce genre d'endroits. C'est pourquoi je vous interroge : pourquoi détruire tout ça, monsieur, pour de l'or ? Pour de l'or ?
+
+MIGUEL	Vous savez que la stabilité du système financier international repose sur l'or.
+
+
+37 (10:34:23:19)
+
+NATALIE	Non, ce n'est pas vrai. Ne serait-ce parce que l'on sait que l'or n'a cette valeur que parce que nous, les humains, nous en avons décidé ainsi. Tout comme à une époque, le sel a eu de la valeur mais au moins le sel sert à quelque chose. Du jour au lendemain, nous pouvons décréter que d'autres choses ont de la valeur. (h) Et afin que personne ne pense que mes paroles... ne sont pas suivies d'actes, j'arrête d'utiliser de l'or à partir d'aujourd'hui.
+
+OUT (10:34:48:08)
+
+
+38 (10:35:02:11)
+
+NATALIE	(h) Parce que ma richesse se situe ailleurs.
+
+OUT (10:35:07:00)
+
+
+39 (10:35:11:18)
+
+PONTOCOM	Je t'aime, Natalie ! Bon sang, avec ça, je suis sûr que Paris Hilton va arrêter de porter ses bijoux.
+
+FALCAO	Et ben, c'est pas trop tôt, vous deux !
+
+VERONICA	Vous n'êtes pas des activistes, vous êtes des amateurs, vous êtes des amateurs et des irresponsables !
+
+CLARA	C'est uniquement ma faute, j'ai insisté pour qu'André m'accompagne.
+
+ANDRE	Non, non, c'est moi qui ai voulu la suivre.
+
+VERONICA	Tu veux monter ta propre ONG ? Fais ce que tu veux mais ici, c'est non ! S'il y a des règles, c'est bien pour quelque chose ! En faisant ça, vous avez compromis toute notre action et même Luiza vous avait dit de rien faire. J'espère que c'est une bonne nouvelle!
+
+PONTOCOM	Le numéro est enregistré ici, à Cari il s'agit de la maternelle Karen Kiriakos, c'est l'une des écoles soutenues par son organisme de bienfaisance.
+
+VERONICA	Cette école est toujours ouverte ?
+
+FALCAO	Grâce à l'argent de la KM.
+
+VERONICA	(h) Tu les appelles pour prendre rendez-vous ?
+
+FALCAO	Pour quand ?
+
+VERONICA	Pour maintenant !Toi, tu viens avec moi.
+
+OUT (10:35:56:04)
+
+
+40 (10:36:02:17)
+
+MIGUEL	Les ventes d'or ont déjà chuté, la société me tient pour responsable, ils veulent m'évincer du Conseil. Et maintenant, ma chère Olga, rappelez-moi pourquoi je me suis engagé dans ce fichu programme ?
+
+OLGA	Pour faire taire les protestations contre le massacre des indiens.
+
+MIGUEL	Avez-vous la moindre idée de ce qu'a été ma vie ? Vous rendez-vous compte ... de ce qu'est la vie d'un mineur, qui naît et meurt en creusant des trous, ... pour avoir un fils qui fasse la même chose après lui ? Vous avez idée de ce que c'est que de perdre son père dans un éboulis ? (h) Non, vous n'en savez rien parce que vous êtes née riche et éduquée. Avez-vous déjà connu la faim, madame ?
+
+OLGA	(h) Sachez que madame n'est dupe de rien. Vous pourriez tirer une bonne leçon de cette histoire, Miguel. Mais vous savez ce qui vous tourmente, en ce moment ? C'est que vous avez été atteint dans votre vanité. Parce qu'une femme intelligente comme Natalie vous a fait descendre quelques marches de votre piédestal. (h) Et c'est dur, de perdre face à une femme.
+
+OUT (10:37:21:13)
+
+
+41 (10:37:37:05)
+
+INSERTS	Greg:Tu as été super aujourd'hui. C'est devenu viral !
+
+NATALIE	(Mmmm!)
+
+AUTEUR	Rire BF.
+
+OUT (10:37:44:10)
+
+
+42 (10:37:51:05)
+
+LIGIA	Là, c'est Karen Kiriakos, la fille de Miguel. Et lui, là, c'est Felipe Braga. C'est le directeur institutionnel de la KM.
+
+VERONICA	(h) Merci de nous avoir reçus aussi vite.
+
+LIGIA	Je vous en prie, c'est moi qui vous remercie d'être venus.
+
+VERONICA	Tu vois ce gamin, c'est le fils de Rosa et d'Otávio.
+
+LIGIA	On y va ?
+
+VERONICA	Oui ! Viens !
+
+LIGIA	C'est Karen qui a fondé cette école, elle s'est occupée des travaux, du choix des professeurs et des méthodes pédagogiques, de tout.
+
+ANDRE	Et pourquoi avoir fait ça à Cari ?
+
+LIGIA	Elle est venue ici dès son plus jeune âge avec son père, elle a grandi ici. Elle a suivi toute l'extraction du minerai, puis après, ils se sont fâchés.
+
+VERONICA	(h) C'est la KM qui finance l'école ?
+
+LIGIA	Oui. Et je prie le ciel tous les jours pour que ça continue, parce que Miguel a déjà essayé plus d'une fois de nous couper les vivres. Si ça devait arriver, ce serait dramatique. Ce reportage arrive à point nommé. Vous avez l'adresse web du journal ?
+
+ANDRE	Euh, j'vais vous la noter, madame.
+
+LIGIA	(Mmm) Karen mérite un peu de reconnaissance.
+
+ANDRE	Plus que quiconque, c'est sûr.
+
+
+43 (10:38:49:02)
+
+VERONICA	J'voudrais vous demander une dernière chose, j'ai reçu des appels venant de ce numéro, ça vous dit quelque chose ?
+
+LIGIA	Il y a longtemps que j'l'avais pas vu ce numéro.
+
+ANDRE	Mais vous le reconnaissez ?
+
+LIGIA	C'est une vieille ligne de chez nous, mais il y a longtemps que ce numéro n'est plus en service. C'est moi-même qui ai demandé à Felipe de l'arrêter.
+
+VERONICA	(Euh) Le Felipe de la photo, celui que vous nous avez montré ?
+
+LIGIA	Oui... c'est notre contact au sein de la KM depuis que Karen est morte. C'est lui qui se charge de nous faire parvenir les fonds pour l'école. C'est notre ange gardien.
+
+OUT (10:39:27:14)
+
+
+44 (10:39:45:16)
+
+VERONICA	(h) Nati, je ne peux pas tout t'expliquer maintenant... mais tout semble indiquer que Felipe Braga est notre indic.
+
+NATALIE	Felipe Braga, c'est le bras droit de Miguel.
+
+VERONICA	Lui-même. Mais on n'est encore sûrs de rien.
+
+NATALIE	Je t'ai dit que je l'avais rencontré lors de la visite de l'usine. Il y a eu quelque chose entre lui et...
+
+VERONICA	et Karen Kiriakos. Comment tu le sais ?
+
+NATALIE	Il m'a appelée au moins mille fois, je crois qu'il est temps de lui rendre un petite visite. Envoie-moi son adresse par texto.
+
+
+45 (10:40:14:10)
+
+INSERTS	"Un cadavre retrouvé sur la BR-256 dans la voiture d'une militante écologiste ".
+
+ICARO	(Pfff!)
+
+RESP MINE D'OR	Je t'ai dit que je la connaissais ? Je plaisante. ..
+
+ICARO	(Pfff!)
+
+VAL	(X)
+
+ICARO	(Mmm!) (h) (ttt) (h) (h) (h)
+
+OUT (10:40:44:07)
+
+
+46 (10:41:27:23)
+
+GORDO	Où est-il ?
+
+DECIO	Tenez... C'est pour qu'Oscar comprenne qu'il n'a jamais eu un aussi bon associé que moi.
+
+RECEPTADOR	Il le sait, monsieur. Votre récompense sera à la hauteur.
+
+DECIO	Il vaut mieux, tu m'entends ? Parce que Miguel ne serait pas content d'apprendre qu'on l'a volé. Ça lui apprendra à être aussi radin. Pour qui il se prend à vouloir tout contrôler ? Y'en a que deux ?
+
+RECEPTADOR	Non, y'en a une autre.
+
+DECIO	Il y en a combien dans celle-ci ?
+
+GORDO	Quarante-deux.
+
+DECIO	(Mmmm.) Et celle-ci, qui va l'ouvrir ?
+
+ASSAILLANT	Laissez, on s'en occupe.
+
+OUT (10:42:06:14)
+
+
+47 (10:42:25:13)
+
+CLARA	C'est vraiment dingue. Elle n'a que quatorze ans et elle a déjà plus d'expérience que nous.
+
+FALCAO	Oui, c'est vrai que c'est horrible. Tu sais que je suis du genre pacifiste mais parfois, j'aurais bien envie de foutre une raclée à ces ordures...
+
+CLARA	C'est pour ça que Véronica m'a fait un sermon. J'ai été si naïve de penser que je pourrais régler une telle affaire.
+
+FALCAO	Tu sais ce que tu vas faire ? Regarde-moi! Raconte-lui comment tu es sortie de taule l'autre nuit. Elle sera hyper fière de toi.
+
+CLARA	(h) (h) Je ne suis pas sortie toute seule.
+
+FALCAO	(ah?) tu es sortie avec qui ?
+
+CLARA	Ça a été affreux. Un jour, je te raconterai. Mais c'est du passé.
+
+OUT (10:43:07:02)
+
+
+48 (10:43:22:12)
+
+NATALIE	Merci !
+
+OUT (10:43:24:00)

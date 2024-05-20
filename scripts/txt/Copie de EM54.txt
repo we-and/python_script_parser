@@ -1,0 +1,1416 @@
+EM FAMILIA VO TCI EP 54-H264
+07/04/2016
+
+(BOUCLE 0 - 10:00:00:00)
+		00
+
+Juliana	Où est Bia? Qu'est-ce que tu en as fait, Jairo?
+
+Jairo	Attends, l'ami, où est la petite que j'ai laissée en train de manger?
+
+Homme 2	Je ne l'ai pas vue, monsieur.
+
+Juliana	(h__) Bia !
+
+Jairo	Calme-toi, on va la retrouver, du calme.
+
+Juliana	S'il arrive quoi que ce soit à Bia, tu vas avoir des problèmes!
+
+Jairo	Du calme.
+
+Juliana	Bia !
+
+Regina	Mais l'autre médecin m'a dit que c'était juste un virus!
+
+Infimier	Calmez-vous.
+
+Médecin	C'est bien plus grave que ça. Il souffre d'insuffisance respiratoire. Vous devez attendre ici, juste une minute.
+
+Regina	S'il vous plait, laissez-moi entrer.
+
+Médecin	Juste une minute, je vous rappelle, s'il vous plait.
+
+Regina	Je veux être près de mon fils.
+
+Silvia	Je te conseille de prier très fort, et si sa mère décide de porter plainte contre toi_, je ne te couvrirai pas.
+
+Gabriel	Allons-y Silvia.
+
+Felipé	Je viens avec vous.
+
+Gabriel	Non, tu ne viens pas, tu restes ici. Tu en as déjà assez fait pour aujourd'hui.
+
+Felipé	(réac) J'y vais !
+
+(BOUCLE 1 - 10:02:12:23)
+		01
+
+Felipé	(h__) Je vais où je veux !
+
+Gabriel	Tu ne vas nulle part ! Qu'est-ce que tu comprends pas ?
+
+Felipé	(hum) (hum)
+
+Gabriel	(mph) Tu bouges pas !
+
+Felipé	(couine)
+
+Gabriel	Tu comprends pas, tu sors pas d'ici ! C'est assez ! Quand on est ivrogne, on fait pas ce qu'on veut. Tu n'iras pas bourré dans cet hôpital. Tu vas rester ici !
+
+Felipé	Non_ ! M'enferme pas ! Ouvre la porte ! (h) Imbécile, ouvre cette porte ! Ouvre ! (h_) A__bruti ! Laisse-moi sortir d'ici ! (h__) Ah merde ! Reviens ! (h___) (h_____) (hh) (h____) (réac) (h____) (réac) (h____) (hh____) (h_____) (hh___) (h_____) (boit_________________________) (h_____) (hh_______) (hh____)
+
+(BOUCLE 2 - 10:03:04:17)
+		02
+
+Fernando	Il semble qu'il ne veuille pas parler, Alice. Allons nous-en.
+
+Alice	C'est vraiment ça, Josenaldo ? Vous n'avez rien à me répondre ou me dire sur ce jour-là alors ?
+
+Fernando	Ça ne sert à rien. Autant partir, Alice.
+
+Alice	Je vous ai déjà indiqué quand... et où cela s'est produit.
+
+Josenaldo	(mhh_____) Vingt ans ça remonte à longtemps.
+
+Fernando	Ah____. Mais c'est qu'il parle ! Je commençais à perdre espoir moi.
+
+(BOUCLE 3 - 10:03:41:06)
+		03
+
+Alice	Si vous étiez là, vous devez vous rappeler d'un van.
+
+Josenaldo	L'éternité tout entière pourrait s'écouler, (h___) je n'oublierai jamais ce jour. (hh) Je me souviens bien de ta mère.
+
+Alice	Avez-vous au moins des remords, sale vaurien ? Vous avez une idée du malheur et de la destruction que vous avez apportés dans la vie de ma mère ? De tout ce dont elle a souffert ?
+
+Fernando	Calme-toi, Alice. On n'est pas venus pour s'énerver, tu te souviens ?
+
+Josenaldo	Je suis un pêcheur.
+
+Alice	(h__)
+
+Josenaldo	(h____) Chaque minute qui passe je demande pardon à Dieu pour la brutalité dont j'ai fait preuve. Mais heureusement, (h___) Dieu m'a montré le chemin. Il m'a amené ici. (h____) (hh_____) Et j'ai trouvé le chemin de la vérité.
+
+Fernando	Oh, profitez-en, parce que... d'après mes informations, vous allez rester encore longtemps enfermé ici.
+
+Josenaldo	Oh mais...  ma dette à la société... sera payée dans quinze ans, deux mois et quinze jours.
+
+Alice	(h____)
+
+Josenaldo	Mais j'ai l'éternité devant Dieu, notre seigneur,
+
+Fernando	(hh)
+
+Josenaldo	pour expier mes péchés.
+
+Alice	Vous pouvez demander pardon jusqu'au jour du jugement dernier, rien ne vous fera revenir en arrière et rien n'effacera les souffrances de ma mère.
+
+Fernando	Ça ne sert à rien de lui répondre, Alice.
+
+Alice	Mais j'en ai besoin, Nando !
+
+(BOUCLE 4 - 10:04:55:05)
+		04
+
+Josenaldo	Dieu m'a appelé et m'a dit : "vos mains sont pleines de sang... lavez-vous, purifiez-vous. Otez de devant mes yeux la méchanceté de vos actions, cessez de faire le mal, apprenez à faire le bien.
+
+Alice	Si c'est le cas, vous pouvez faire le bien... en donnant le nom de vos complices. Dites-moi qui était avec vous cette nuit-là ! Parce qu'il y en a un de mort, mais l'autre pourrait être libre et commettre d'autres crimes.
+
+Fernando	Pour votre crime il y a prescription, mais nous cherchons un autre moyen de rendre justice.
+
+Josenaldo	La justice est un attribut de Dieu.
+
+Alice	Par pitié, donnez-moi un nom. Je vous en prie, s'il vous plaît.
+
+Josenaldo	Je n'ai rien à dire si ce n'est ce qui est écrit dans le livre. La vérité est dans le livre. Cessez de faire le mal, apprenez à faire le bien.
+
+Alice	(h____)
+
+Josenaldo	Gardien.
+
+Fernando	Viens, Alice, allons-nous en.
+
+Alice	Donnez-moi un nom.
+
+Josenaldo	Cessez de faire le mal, apprenez à faire le bien. Cessez de faire le mal, apprenez à faire le bien. Cessez de faire le mal, apprenez à faire le bien.
+
+Alice	Je veux juste un nom...
+
+Fernando	C'est trop tard, allons-y.
+
+(BOUCLE 5 - 10:06:21:23)
+		05
+
+Ambiance	(bruits de fond centre commercial toute la boucle)
+
+Jairo	Jul'... bois un peu d'eau.
+
+Homme	Il faut l'aider.
+
+Juliana	Je ne veux pas d'eau, Jaïro !
+
+Agent de sécurité	Excusez-moi, je peux vous aider ?
+
+Juliana	(h____) Ma fille a disparu. (h___) Ma fille a disparu. (hh) (h)
+
+Jairo	Mais ne t'énerve pas, elle ne doit pas être bien loin.
+
+Juliana	Ne pas m'énerver ? Mais tu... tu as laissé ma fille seule pour t'acheter une bière, imbécile, irresponsable !
+
+Jairo	Elle était à côté à boire tranquillement son jus, j'en ai eu pour à peine une minute !
+
+Juliana	Elle a pu être kidnappé idiot !
+
+Agent de sécurité	Du calme. Quelqu'un l'a vue se faire enlever ?
+
+Jairo	Nous avons demandé autour de nous mais personne n'a rien vu.
+
+Juliana	Ici c'est immense, elle pourrait être n'importe où.
+
+Agent de sécurité	Que porte-elle comme vêtements ?
+
+Juliana	(h__) Elle porte une... (h___) un manteau rose et une petite robe blanche. (h___)
+
+Agent de sécurité	On signale une petite fille perdue au troisième étage, secteur rouge. Elle porte un manteau rose et une robe blanche. Reçu ? Bon, nous allons attendre une réponse de mes collègues.
+
+(BOUCLE 6 - 10:07:08:20)
+		06
+
+Ambiance	(bruits de fond centre commercial toute la boucle)
+
+Juliana	Où est ma fille ?
+
+Homme	À l'intérieur, madame.
+
+Juliana	(h) (ahh___) (sniff) Elle te plaît cette poupée ? (h____) Tu l'aimes ? Maman va te l'acheter, d'accord ? Tu viens dans mes bras ? (h____) Un câlin. (h___) (h) (x) Je t'aime. (x) Je t'aime fort. (sniff) Viens là.
+
+Jairo	Juliana, laisse-moi la tenir un instant...
+
+Juliana	Tu ne t'approches plus de ma fille aujourd'hui.
+
+Jairo	Mais c'est ma fille aussi !
+
+Juliana	On dirait pas. (h) Ton irresponsabilité est impardonnable, Jaïro.
+
+Jairo	Enfin ce n'était qu'un...
+
+(BOUCLE 7 - 10:08:20:14)
+		07
+
+Regina	(sniff)
+
+Silvia	Regina, j'ai discuté avec le médecin qui s'est occupé de votre fils.
+
+Regina	(sniff)
+
+Silvia	Ils ont dégagé ses voies respiratoires et ils l'ont stabilisé.
+
+Regina	(sniff) Hum hum. Mais ça aurait pu être grave. Un médecin m'a dit que s'il avait reçu un diagnostic correct à temps... (h) il n'aurait pas eu à subir tout ça.
+
+Gabriel	Nous comprenons votre indignation.
+
+Regina	Mensonge. Hein ? Vous croyez que vous allez vous en sortir aussi facilement ? Non ? (h) Vous pensez que je n'ai pas vu de problème ? J'ai remarqué  que quelque chose clochait. (h) Mon fils a été victime d'un médecin alcoolique, d'un poivrot !
+
+(BOUCLE 8 - 10:09:32:24)
+		08
+
+Helena	Félipé... Lève-toi, viens, on va discuter.
+
+Felipé	Je veux pas. Je ne veux plus jamais sortir d'ici. (h) Tout le monde me déteste. Je ne fais que du mal aux autres personnes.
+
+Helena	Non... Ce n'est pas vrai. Mon frère. (h) Souviens-toi de tous les gens que tu as déjà sauvés.
+
+Felipé	(mh_) (sniff)
+
+Helena	Pense aux personnes âgées là bas, dans la maison de retraite qui t'adorent tant. Pense à ta famille
+
+Felipé	(mh) (h) (h____)
+
+Helena	qui t'aime fort.
+
+Felipé	(pleure) Je ne laisse derrière moi que de la déception, partout où je passe, Helena. Tout le monde me déteste. (h___) Et maintenant au lieu de sauver mes patients comme un vrai docteur, je tue mes patients !
+
+Helena	Chut...
+
+Felipé	(h_) J'ai laissé tomber mes collègues, j'ai laissé tomber Silvia. (h__) Je suis... un assassin !
+
+Helena	Sh_____.
+
+Felipé	(hh) (sniff)
+
+Helena	Doucement. Écoute,
+
+Felipé	(h____)
+
+Helena	tu vas bientôt avoir des nouvelles de ce petit, de ce garçon, mais ne reste pas comme ça.
+
+Felipé	(hh) (pleure) (pleure)
+
+Helena	Au lieu de ressasser ces pensées,
+
+Felipé	(gémit) (h___)  (hh____)
+
+Helena	prie Dieu pour lui. Prie.
+
+Felipé	(pleure___________)
+
+Helena	Prie pour lui. Viens. Viens là près de moi, mon frère, je vais t'aider.
+
+Felipé	(mh______) (gémit) (mh____)
+
+Helena	Je vais t'aider. Tu vas me laisser t'aider ?
+
+Felipé	(gémit___) (fh_____) (pleure) (sniff) (mh__) (duh) (h__) (sniff) (h)
+
+Helena	Oh...
+
+Felipé	(sniff)
+
+Helena	Assieds-toi-là.
+
+Felipé	(mh_____) Oh mon Dieu... (h_______) (hh__________) (hh)
+
+Helena	Qu'es-tu en train de faire de ta vie ?
+
+Felipé	Je ne sais pas, Helena. Je sais pas. (h___) Aide-moi. (hh__) Par pitié, aide-moi Helena. (hh__)
+
+(BOUCLE 9 - 10:11:19:24)
+		09
+
+Helena	(h____) Pour commencer je veux te demander pardon.
+
+Felipé	Non ! (pleure)
+
+Helena	Je veux te demander pardon,
+
+Felipé	(h_____)
+
+Helena	pour toutes les fois où tu as appelé au secours,
+
+Felipé	(hum)
+
+Helena	même si tu ne le disais pas comme ça, même si c'était en silence.
+
+Felipé	(h_____)
+
+Helena	Et que nous... nous protestions en criant, nous te mettions de force sous la douche.
+
+Felipé	(réac)
+
+Helena	Tu te souviens ? (h)
+
+Felipé	(réac)
+
+Helena	J'en étais arrivé à te battre avec une ceinture.
+
+Felipé	(h_)
+
+Helena	Et nous te menacions aussi.
+
+Felipé	(hh) (h___)
+
+Helena	Mais après nous cachions la poussière sous le tapis. (h__) Tu comprends ? Mais c'est parce que... c'était plus que difficile pour nous de te voir... comme ça, dans cet état.
+
+Felipé	(réac)
+
+Helena	Hein ?
+
+Felipé	(pleure) (hh____) (h___) Helena, il ne faut pas avoir pi____tié de moi, surtout Punis-moi, je le mérite. (pleure____________________________)
+
+Helena	Sh__________. Non, calme-toi. Tu es perturbé par tout ça.
+
+Felipé	(h_____)
+
+Helena	Félipé.
+
+Felipé	(gémit) (h___) (mhh_____) (sniff)
+
+Helena	Hum ?
+
+Felipé	(réac) (h_____) (réac)
+
+Helena	Écoute-moi. Tu sais bien ce que je dois faire. Quelle est l'unique solution pour te débarasser de ce problème. Tu le sais ?
+
+Felipé	(gémit) (h______) (snif) (hh__) (h___)
+
+Helena	(sniff)
+
+Felipé	(réac) (h____) (hh____) (sniff)
+
+Helena	Je vais devoir t'interner, dans un centre de désintoxication.
+
+Felipé	(h_)
+
+Helena	Pour ton bien.
+
+Felipé	(mh____)
+
+Helena	D'accord ? (mh___)
+
+Felipé	(hh__)
+
+Helena	Pour que tu te remettes,
+
+Felipé	(mh___)
+
+Helena	que tu guérisses et que tu reprennes ta vie en main.
+
+Felipé	(sniff)
+
+(BOUCLE 10 - 10:13:05:10)
+		10
+
+Felipé	(réac) (mh____)
+
+Helena	D'accord ?
+
+Felipé	(mh____)
+
+Helena	Tout va finir par s'arranger, mon chéri.
+
+Felipé	Helena, (h) Je... (hh) Je... je te laisse faire.
+
+Helena	D'accord.
+
+Felipé	Non non, je veux y aller... Je le veux.
+
+Helena	Tu en es certain ?
+
+Felipé	Oui je le veux.
+
+Helena	Tu vas le faire ?
+
+Felipé	(réac) (sniff) (hh____) (sniff)
+
+Helena	Nous allons le faire ensemble, d'accord ? Je vais t'aider, je suis avec toi. D'accord ? Je t'aime. Très fort.
+
+Felipé	Tu es si gentille avec moi. (rire___)
+
+Helena	Ne dis pas ça.
+
+Felipé	(réac) (h)
+
+(BOUCLE 11 - 10:13:40:09)
+		11
+
+Branca	Ce café est délicieux.
+
+Marina	Merci. (h) Mais tu n'es pas ici juste pour prendre un café avec moi, hein, Branca ?
+
+Branca	(hh__) En effet. Pas que pour ça non.
+
+Marina	Hum.
+
+Branca	Ma visite est en vérité motivée par le besoin de disc___uter affaires.
+
+Marina	Affaires ?
+
+Branca	Giselle m'a exposé les diverses difficultés que vous avez en ce moment au studio. Ça la... préoccupe et... vous avez du retard dans le paiement de son salaire.
+
+Marina	Ah oui d'accord, je comprends, tu es venue pour te plaindre de ce retard de salaire ?
+
+Branca	Non, Marina. S'il te plaît, calme-toi. Écoute ce que j'ai à te dire sans prendre la mouche, ok ?
+
+Marina	Ok.
+
+Branca	Ma fille ado_re travailler ici. C'est pourquoi elle est préoccupée par le sort du studio. Elle ne veut pas perdre ce travail.
+
+Marina	Bon, Branca, écoute... la... sollicitude... de Giselle me touche mais tu peux la rassurer et lui dire que tout va bien, tout est sous contrôle.
+
+Branca	Ces histoires d'argent sont compliquées, non ? Comme une boule de neige, elles grossissent sans qu'on s'en aperçoive, Marina. (h) Alors... parce que je pense à ma fille, j'ai décidé de te proposer une association.
+
+Marina	Tu veux être mon associée ?
+
+Branca	Non. C'est Gise__lle qui serait ton associée. (h____) Et moi j'en serais heureuse parce que je n'ai jamais vraiment aimé que Giselle soit une simple assistante ici. Je crois que c'est une opportunité idéa__le pour qu'elle ait enfin un rôle plus important, le statut qu'elle mérite.
+
+Marina	Oui... C'est tout à fait logique parce que Giselle travaille ici depuis lon_gtemps. Elle a du talent.
+
+Branca	Hum hum.
+
+Marina	Je vais en parler avec Vanessa, qui est aussi mon associée. Et avec nos avocats pour voir ce qui est possible.
+
+Branca	Ok.
+
+(BOUCLE 12 - 10:15:12:07)
+		12
+
+Branca	(h_) Je n'ai qu'une exigence.
+
+Marina	Hum...
+
+Branca	Je veux un droit de regard sur le contenu produit ici.
+
+Marina	Comment ?
+
+Branca	(mh_) Voilà, Marina, en fait je, j'ai un peu peur de voir mon nom de famille associé ainsi à, à de possibles campagnes inadéqua_______tes , de mauvais goûts, à des photos inappro______priées, tu comprends ?
+
+Marina	Ah... (rire) (h___) Non, non. Non, Branca, non.
+
+Branca	Hum.
+
+Marina	Excuse-moi mais je n'ai jamais admis que qui que ce soit me dise ce que je dois ou ne dois pas photographier, non, je ne crois pas.
+
+Branca	Je sais, ma chérie, mais tes finances actuelles ne te permettent pas de faire la fine bouche, si ?
+
+Marina	(h____) Branca,
+
+Branca	Hum.
+
+Marina	ce studio ne jouit du presti___ge qu'il a seulement grâce à mon nom. Si je n'avais pas de talent, ce ne serait qu'un studio de plus dans la ville.
+
+Branca	Ah Marina_, même quand ça va mal tu restes sur ton piédestal hein ?
+
+Marina	(mh___) (h) Ah, Branca, merci beaucou____p. C'est une très belle proposition mais je ne peux pas accepter, vraiment. Nous allons commencer des projets formidables, bientôt tout ira bien. Nous allons faire des profits et je n'aurais plus de retard pour payer le salaire de Giselle. Nous sommes d'accord ?
+
+(BOUCLE 13 - 10:16:22:22)
+		13
+
+Louiza	(mhh)
+
+Virgilio	(mh___)
+
+Louiza	Papa...
+
+Virgilio	(mhh)
+
+Louiza	Je n'ai jamais voulu que cela vous arrive, (h____) je n'ai jamais voulu ça papa. Et je ne voulais pas que vous me teniez responsable.
+
+Virgilio	Quoi ? Mais qui t'a mis des bêtises pareilles dans la tête ? Tu n'es responsable de rien ma chérie.
+
+Louiza	Ah... J'ai parlé avec grand-mère et elle a dit que tout le monde a une part de responsabilité dans tout ce qui nous arrive.
+
+Virgilio	Ah... Mais c'est la vérité, non ? Nous sommes responsables des succès et échecs de nos vies non ? Mais toi tu n'es pas responsable de notre séparation.
+
+Louiza	Oui mais mon mariage avec Laerte vous a perturbé non papa ?
+
+Virgilio	Hum, je t'ai déjà dit ce que je pensais de ce mariage.
+
+Louiza	Tu aimes encore maman ?
+
+Virgilio	Je l'aime oui. Je suis vraiment incorrigible, hein ? Hum ? (rire______)
+
+Louiza	C'est bon d'entendre ça. Je vous aime beaucoup tous les deux.
+
+Virgilio	Oh ma chérie, bien sûr. (x) Je t'aime moi aussi. Nous t'aimons.
+
+(BOUCLE 14 - 10:17:31:05)
+		14
+
+Neidinia	Et en quoi ça t'avance de savoir si cet homme a des remords ou pas, après tout ce qu'il a fait ?
+
+Alice	Ah, maman, quoi qu'il ait fait, il paie pour ses erreurs.
+
+Neidinia	Ah... Ça me met mal à l'aise de savoir que tu es allée dans cet enfer. Que tu étais là, face à face avec un monstre qui... qui pourrait être ton père.
+
+Alice	Il ne l'est pas maman. Il ne l'est pas et aucun d'entre eux ne l'est. L'un de ces bandits est peut-être responsable de ta grossesse, mais je n'ai pas de père.
+
+Neidinia	(hh___)
+
+Alice	Moi j'ai une mère qui... (h___) vaut deux parents.
+
+Neidinia	Hum... (rire)
+
+Alice	(x)
+
+Neidinia	(mh____) Ah ma chérie. (h) Tu vas abandonner cette quête, dis-moi ?
+
+Alice	Maman tu sais très bien que non ! Même si ce malheureux ne m'a pas donné le nom de son complice. Il était là à répéter que... (h__)
+
+Neidinia	Quoi ? Qu'est-ce qu'il y a ma chérie ? Il ne faisait que répéter quoi ?
+
+Alice	La vérité est dans le livre. Tu as une bible ici maman ?
+
+Neidinia	Oui, bien sûr. Je vais la chercher.
+
+(BOUCLE 15 - 10:18:27:22)
+		15
+
+Neidinia	La voici. J'ai toujours aimé te la lire.
+
+Alice	Je crois que grâce à ça je vais découvrir la réponse que je cherche. (mh__) Il me disait : (h_) "Cessez de faire le mal, apprenez à faire le bien. Ôtez de devant mes yeux la méchanceté de vos actions, cessez... de faire le mal, apprenez à faire le bien.
+
+Neidinia	Attends, je crois que c'est... le prophète Isaïe.
+
+Alice	Tu en es sûre maman ?
+
+Neidinia	Certaine !
+
+Alice	Oh, vérifie s'il te plaît.
+
+Neidinia	Oui. Donne. Ah, attends un peu. Isaïe, je l'ai. Isaïe... Ici... C'est là ! C'est là.
+
+Alice	C'est ça là ! Cessez de faire le mal, apprenez à faire le bien. C'est Isaïe, maman, Isaïe, c'est le nom que je suis allée chercher au pénitencier.
+
+Neidinia	Mais comment peux-tu en être sûre ma chérie ?
+
+Alice	Maman, parce que... j'ai senti qu'il souhaitait me donner (h___) je ne sais pas, une indication, tu comprends ? Ou même un signe pour que je découvre le nom de l'autre... sans qu'il ait besoin de me (h) sans devoir me le dire, maman, écoute... ces hommes qui se convertissent ils aiment... s'exprimer par des paraboles, des devinettes. Ils aiment communiquer à travers des énigmes.
+
+Neidinia	Hum.
+
+Alice	Tu vois ? Comme dans les romans policiers maman tu sais !
+
+Neidinia	(h_) Ma chérie, doucement ! Calme-toi. Tu vas bien ?
+
+Alice	Maintenant ça va mieux. (h___)
+
+Neidinia	(mhh)
+
+Alice	C'est déjà ça.
+
+Neidinia	Ah Dieu du ciel !
+
+Alice	C'est ça maman, c'est Isaïe !
+
+Neidinia	(rire_________________) Oh tu as trouvé !
+
+Alice	Isaïe, c'est son nom. (hh)
+
+(BOUCLE 16 - 10:19:54:23)
+		16
+
+Silvia	Bonjour à tous.
+
+Chica	Bonjour docteur.
+
+Fernando	Bonjour docteur.
+
+Silvia	Et Félipé, comment va-t'il ?
+
+Chica	Ah, il va... (h__) il va_____ beaucoup mieux, tout est sous contrôle, il dort maintenant. (h__) Je voulais vraiment vous demander pardon, docteur. Au nom de Félipé, pour les... les torts qu'il a causés... (h__) à la santé du petit qu'il a ausculté et... et pour les dommages dans votre cabinet.
+
+Silvia	Ah ne vous inquiétez pas Chica, ce n'est pas grand chose. (h__) Je suis venue avec une bonne nouvelle.
+
+Chica	(hh)
+
+Silvia	Le petit dont Felipé s'est occupé, il est hors de danger.
+
+Chica	(soulagée)
+
+Fernando	(soulagé)
+
+Chica	Ah____.
+
+Helena	(soulagée)
+
+Chica	(rire soulagée)
+
+Helena	Quel soulagement.
+
+Chica	(ahh___) C'est bien, c'est bien, c'est bien. (h__) Je suis soulagée.
+
+Silvia	(mh__) C'est une très bonne nouvelle.
+
+Chica	(h__)
+
+Helena	Docteur, Silvia...
+
+Chica	(x)
+
+Helena	Merci. Je voulais te remercier, Silvia. Merci beaucoup, du fond du cœur (h__) pour t'être montrée si généreuse avec mon frère et pour être restée son amie malgré tout.
+
+Silvia	(ts)
+
+Helena	Merci.
+
+Silvia	C'est normal.
+
+Helena	Merci beaucoup.
+
+Silvia	Enfin...
+
+Helena	(mh____)
+
+Silvia	Ce n'est rien.
+
+Helena	(mh____)
+
+Silvia	(hh___)
+
+(BOUCLE 17 - 10:20:42:21)
+		17
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Regina	Docteur, excusez-moi mais je ne vais pas en rester là.
+
+Gabriel	Et vous avez tout à fait raison. Écoutez, je respecte beaucoup mes collègues mais je n'ai jamais apprécié quelque forme de corporatisme. Vous devriez vraiment porter plainte au conseil régional de l'ordre des médecins. C'est très important. (h__) Vous pouvez demander une indemnisation.
+
+Regina	Non. Je ne veux pas nuire à votre cabinet. Ça ne concerne que l'autre médecin le docteur Félipé.
+
+Gabriel	Mais Regina, je suis moi aussi indigné. Une pratique médicale absurde et irresponsable à cause de la boisson, je ne peux pas la laisser passer. Vous comprenez ? Je témoignerai en votre faveur, c'est une question d'éthique. Je témoignerai. Je ferai tout ce que je peux pour que Félipé n'exerce plus jamais la médecine.
+
+(BOUCLE 18 - 10:21:27:02)
+		18
+
+Clara	Je me souviens de mon frère quand nous étions petits, nous étions plus que frère et sœurs, nous étions si proches, les meilleurs amis du monde. Comment... (h___) comment j'n'ai pas remarqué l'état dans lequel il était, Nando ? Je... (ts) je me sens mal de ne pas... (h______) avoir réussi à venir en aide à mon frère.
+
+Fernando	Ne te tourmente pas, Clara. C'est difficile pour tout le monde d'admettre qu'un de ses proches est dépendant. (h__) On pense toujours que c'est une phase, que ça va passer. Huh. Et moi, je suis allé tant de fois boire un verre avec Félipé.
+
+Clara	(ahh)
+
+Cadou	Félipé avait besoin d'un choc pour voir la réalité en face.
+
+Clara	Ah un choc oui mais pas comme ça, il a failli être poursuivi ! Écoutez, si c'était, si ce petit n'avait pas survécu, hein ? Vous imaginez ce que... ce que serait devenu mon frère !
+
+Fernando	Ah, la tragédie familiale aurait été complète.
+
+Clara	Ah, je ne veux pas plus de problèmes, non non !
+
+Cadou	Mais je crois que la famille Fernandes est justement en train de résoudre les problèmes. Elle trouve des solutions aux problèmes en suspens.
+
+Clara	Tu es le juge de la famille maintenant ?
+
+Cadou	Un homme ne peut supporter certaines choses très longtemps. Il faut laisser la corde se rompre.
+
+Clara	De quoi est-ce que tu parles exactement ?
+
+Cadou	De la séparation de Virgilio et Helena, par exemple. Aujourd'hui les couples divorcent quand ils ne s'aiment plus Tu n'es pas d'accord ?
+
+Clara	Je suis d'accord. Tu as tout à fait raison.
+
+Fernando	Ah, mais vous voilà lancés dans une sacrée conversation ! Je vais m'en aller avant d'être pris à parti !
+
+Clara	Non reste tenir compagnie à Cadou, je vais aller voir Ivan. (h___) Nous n'avons pas particulièrement de sujets de conversation à partager dernièrement.
+
+Cadou	(h) Ah...
+
+(BOUCLE 19 - 10:22:58:07)
+		19
+
+Ambiance	(bruits de fond rue toute la boucle)
+
+André	Mais je ne comprends pas comment Giselle, peut être la fille d'une femme comme Branca.
+
+Barbara	Personne ne choisit ses parents, André.
+
+Mathias	Elle a peut-être choisi son père non ? Lui il est bien !
+
+André	Oui. Si j'étais le fils de Branca, je serais parti de la maison il y a bien longtemps.
+
+(BOUCLE 20 - 10:23:14:24)
+		20
+
+Doulssé	Je donne un cours interdisciplinaire.
+
+Pedro Paoulo	Hum.
+
+Doulssé	Littérature et psychologie. C'est mon domaine de prédilection, les lettres. Mais je suis formée en psychologie. Je travaille avec les deux et ça marche hyper bien, les élèves adorent ! Hi.
+
+Pedro Paoulo	(h___) C'est en lien avec ce que je fais.
+
+Doulssé	Ah oui ?
+
+Pedro Paoulo	D'ailleurs je crois que nous devrions en discuter. (h__) Et si nous créions un cours ensemble pour le semestre prochain ? Vous aimez travailler en duo ?
+
+Doulssé	C'est une idée... (rire) (h_____) Mais dites, euh... alors vous pensez rester ici ? Vous n'allez pas juste remplacer le professeur de linguistique et repartir à la fin du semestre ?
+
+Pedro Paoulo	Non, c'est que ça devenait difficile pour moi, dans mon pays. J'avais besoin de changer d'air.
+
+Doulssé	On dirait que vous avez des choses à laisser derrière vous.
+
+Pedro Paoulo	(rire) Vous savez ce que c'est, des amours difficiles.
+
+Doulssé	Hum. Quel amour n'est pas difficile ?
+
+Pedro Paoulo	Oui...
+
+(BOUCLE 21 - 10:23:56:07)
+		21
+
+Silvia	Je n'arrive pas à croire que tu te sois proposé pour aller témoigner contre Félipé.
+
+Gabriel	C'est moi qui n'arrive pas à croire que tu vas encore passer l'éponge sur ce qu'il a fait !
+
+Silvia	Je ne protège pas Félipé mais je ne veux pas non plus le jeter aux abî__mes ! On ne fait pas ça à un ami Gabriel !
+
+Gabriel	C'est là qu'est la différence, Silvia, il n'est pas mon ami à moi.
+
+Silvia	Mais il est malade ! Est-ce possible que même ça tu ne le prennes pas en compte ?
+
+Gabriel	Je prends en compte qu'un gosse a failli mourir par sa faute, Silvia !
+
+Silvia	(hh)
+
+Gabriel	En tant que professionnel de la santé, je ne peux pas laisser passer ça.
+
+Silvia	Laisse la mè_____re prendre les mesures appropriées. Qu'est-ce que tu as à voir avec ça Gabriel ?
+
+Gabriel	Je veux voir Félipé s'effon____drer, Silvia.
+
+Silvia	Alors monsieur sache qu'à t'entendre parler comme ça, je finis par admirer beaucoup plus Félipé que toi. (h) Parce que Félipé est victime de lui-même, tu vois ? (h) Mais c'est un homme incroyable, doux, gentil. Alors que toi pas du tout, Gabriel. Tu es plein d'ame__rtu___me, tu as une perception très cruelle du monde autour de toi.
+
+Gabriel	Je commence à comprendre ce qui se passe. (mts) Tu me compares à Félipé, tu le préfères lui !
+
+Silvia	Oui ! Je préfère Félipé, oui. Je ne sais pas comment nous avons pu rester ensemble tout ce temps.
+
+Gabriel	Alors dans ce cas, docteur, nous pouvons résoudre ça ici et maintenant.
+
+Silvia	Je suis d'accord. Il vaut mieux que l'on fasse une pause.
+
+Gabriel	D'accord, docteur. Nous ferons comme tu veux, comme d'habitude. Voilà, je me retire du jeu. Ton ami l'alcoolique aura eu ce qu'il voulait. (hh) Sois heureuse.
+
+Silvia	(fhh)
+
+(BOUCLE 22 - 10:25:44:19)
+		22
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Louiza	Excuse-moi, excuse-moi de te déranger en pleine concentration.
+
+Livia	Non, non, ce n'était pas toi, ne t'inquiète pas. C'est moi qui n'arrive à rien aujourd'hui et je dois répéter avec Laerte.
+
+Louiza	(mhh) Il me dit beaucoup de bien de toi. Il parle de ton talent, il dit que tu as soif d'apprendre.
+
+Livia	(h___) Oui mais je ne suis pas très sûre de moi. Tu vois, Laerté, en plus d'être en expert dans son domaine, il est très exigent aussi.
+
+Louiza	Je sais. J'ai pris quelques cours avec lui. Pas beaucoup. (h___) Mais je crois que je vos très bien ce que tu veux dire.
+
+Livia	(rire)
+
+Louiza	Mais ne t'inquiète pas comme ça. Il se donne un air sévère mais il est incapa___ble d'être grossier envers qui que ce soit.
+
+Laerté	Qui se donne un air sévère ici, je peux savoir ?
+
+Louiza	(rire) J'expliquais juste à Livia que tu ne mords pas, qu'elle n'a aucune raison de ne pas se sentir sûre d'elle.
+
+Laerté	Tu ne l'es pas ? Mais tu t'en sors très bien !
+
+Livia	Ah Laerté jouer avec toi est un rêve, c'est une méga responsabilité et je... je ne veux pas te décevoir.
+
+Laerté	N'oublie pas que j'ai été jeu__ne, comme toi. En plus d'une bonne oreille, un musicien doit avoir concentration et discipline, deux caractéristiques qui te correspondent bien.
+
+Livia	Ah, ça fait du bien d'entendre tous ces éloges. Merci.
+
+Laerté	Je ne veux pas de merci. Remercie moi en jouant chaque jour toujours mieux. D'accord ? On répète ?
+
+Livia	Bien sûr !
+
+Louiza	Je peux rester ?
+
+Laerté	Tu fais tout ce que tu veux, mon amour.
+
+Louiza	(mhh)
+
+Livia	C'est bon ?
+
+(BOUCLE 23 - 10:27:23:06)
+		23
+
+Ambiance	(bruits de fond discussions toute la boucle)
+
+Clara	Tu as besoin de moi pour autre chose ?
+
+Cadou	Non. Mais on ne rentre pas ensemble à la maison ?
+
+Clara	Non, j'ai un rendez-vous. Et je voulais savoir si tu pouvais rester avec Ivan s'il te plaît.
+
+Cadou	Bien sûr que je peux rester avec mon fils. Pas besoin de me demander pour ça.
+
+Clara	Je sais que tu es un super papa, ok ? Je te demande parce que tu aurais pu avoir quelque chose de prévu, c'est tout. Merci.
+
+Cadou	Avant tu avais l'habitude de me dire où tu allais, et avec qui. Maintenant je sais juste que tu es prise.
+
+Clara	Je vais faire un tour, (h___) faire du shopping, m'acheter des nouveaux vêtements.
+
+Cadou	Même pour mentir tu étais plus habile avant. Clara, tu serais plus honnête envers nous si tu disais la vérité.
+
+Clara	Je vais aussi voir Marina.
+
+Cadou	Ah ! Quelle surprise !
+
+Clara	Où est le problème ? Elle compte énormément pour moi, tu le sais. Je ne peux pas voir une amie ? Je ne vais rien faire que mon mari ne puisse savoir, que je doives te cacher. (h__) Je sors aussi pour bavarder un peu, discuter. Je n'ai toujours parlé qu'à ma mère, mes sœur, ma nièce. Je n'ai jamais eu d'amies comme ça que... j'appréciais, à qui je peux ouvrir mon cœur, qui peut être ma confidente. Où est le problème Cadou ?
+
+Cadou	Formidable. La sincérité est essentielle dans une relation de couple. Amuse-toi avec cette femme qui compte tellement pour toi.
+
+Clara	(mhh___)
+
+Cadou	Juste une chose, Clara.
+
+Clara	Hum ?
+
+Cadou	Savoir que tu vas rejoindre Marina, ça ne me fait plus aussi mal qu'avant, ça m'est passé.
+
+Clara	Il vaut mieux pour toi qu'il en soit ainsi.
+
+Cadou	(mhh_______)
+
+(BOUCLE 24 - 10:28:52:16)
+		24
+
+Ambiance	(bruits de fond toute la boucle)
+
+Véronica	Laerté, je rentre chez moi. Tu restes ici ?
+
+Laerté	Je crois que je vais ranger deux ou trois choses ici vu que je n'ai rien de prévu aujourd'hui.
+
+Véronica	Hum. La fiancée n'est pas disponible ?
+
+Laerté	(h_____) Ses amies ont organisé un enterrement de jeunes filles pour Louisa. Ma présence est interdite.
+
+Véronica	Ah... Ce doit être amusant, non ? (rire) (h) Bon, tu vas pouvoir profiter de tous les cadeaux qu'elle va recevoir si le mariage a lieu. (h___) (hh) Pardon. Excuse-moi. (h____) Plutôt, quand votre mariage aura lieu. Je commence même à y croire.
+
+Laerté	Mais il va avoir lieu, Véronica, tu peux y croire oui.
+
+Véronica	Tu es nerveux ?
+
+Laerté	Je le suis oui. Je t'avoue que je suis nerveux.
+
+Véronica	Oui... (h_____) Toutes les premières fois nous rendent un peu comme ça, non ? Parce que notre couple ne... ne compte pas. Notre relation n'a jamais été célébrée, nous n'avons signé aucun papier. (h_______) (mph) Alors profite de cette nouvelle expérience. Au revoir
+
+(BOUCLE 25 - 10:29:57:13)
+		25
+
+Louiza	Celui-là il est de qui ?
+
+Alice	C'est un des miens !
+
+Filles (4)	(rires__________________)
+
+Alice	Allez ouvre-le !
+
+Giselle	Il faut l'ouvrir !
+
+Louiza	Oui je me lance !
+
+Alice	Allez. (rire)
+
+Giselle	(rire)
+
+Louiza	Hé mais... c'est pas de la lingerie !
+
+Giselle	(rire________)
+
+Paula	Non !
+
+Alice	(rires____)
+
+Paula	C'est un jouet qui ajoute du piquant !
+
+Giselle	(rire)
+
+Paula	C'est dangereux !
+
+Sandra	Wouh___ !
+
+Paula	(rire___)
+
+Louiza	C'est poilu dites !
+
+Sandra	Poilu oui ! (rires_____)
+
+Paula	(rires___)
+
+Louiza	(cri)
+
+Filles (4)	(rires/ réacs amusées___________________________________________________________________________________________________)
+
+Louiza	C'est pas vrai ! (rires_____________________) Ce sont des menottes !
+
+Paula	C'est ça !
+
+Sandra	C'est ça !
+
+Alice	Tu as trouvé Lou !
+
+Louiza	(rires_______________________________________________________)
+
+Giselle	Et tu as trouvé vite !
+
+Louiza	Sérieux !
+
+(BOUCLE 26 - 10:30:28:20)
+		26
+
+Clara	Bonsoir.
+
+Marina	Oh, bonsoir les filles, vous travaillez encore à cette heure-ci ?
+
+Flavia	Bonsoir.
+
+Vanessa	Nous voulions prendre un peu d'avance. On a pas mal de projets en retard.
+
+Marina	Hum...
+
+Flavia	Hum, oui. Vous avez l'air de bonne humeur,
+
+Clara	(hh_)
+
+Flavia	vous étiez au cinéma ?
+
+Marina	Non.
+
+Clara	Non, on a raté la séance.
+
+Marina	Oui, vous y croyez ? Mais regardez, Clara a trouvé un très jolie ceinture !
+
+Flavia	Oh... Ah...
+
+Marina	Voilà !
+
+Vanessa	Oh_________.
+
+Flavia	Elle est jolie. Waouh !
+
+Vanessa	C'est mignon, vous êtes allées faire les magasins ensemble.
+
+Marina	Hum.
+
+Vanessa	Ah, c'est super. Vous voulez boire un verre ?
+
+Marina	S'il te plaît !
+
+Clara	Moi je ne peux pas, il faut que je rentre à la maison, je vous laisse.
+
+Marina	Hum ? Oh... D'accord. J'ai adoré. (mh)
+
+Vanessa	Hé Clara, attention au méchant loup sur le chemin !
+
+Clara	(rire)
+
+Vanessa	Hum...
+
+Clara	(h__)
+
+Flavia	Ciao Clara. (x)
+
+Vanessa	(fredonne_______________________________)
+
+(BOUCLE 27 - 10:31:11:09)
+		27
+
+Laerté	(fhh)
+
+Louiza	Je pensais que tu rentrerais plus tôt.
+
+Laerté	Je savais que tu étais ici ! À cause de ton parfum, je l'ai senti !
+
+Louiza	(rire______) N'allume pas la lumière ! Trouve-moi.
+
+Laerté	Tu veux jouer hein ?
+
+Louiza	Dis donc ! Dis-moi pourquoi tu rentres si tard !
+
+Laerté	Ah je savais que tu étais avec tes amies. Je ne voulais pas être seul à la maison. Je suis resté au centre.
+
+Louiza	Hum... Tout seul ?
+
+Laerté	Non, comme toujours il y avait du monde.
+
+Louiza	Ok. Tu es resté entouré de ton fan club, hein ? (x)
+
+Laerté	Tu es magnifique !
+
+Louiza	(rire_)
+
+Laerté	(rire_____) (h___)
+
+Louiza	Tu aimes le cadeau ? Il est pour toi. Je ne peux plus attendre. Et je veux l'étrenner.
+
+Laerté	Tu me surprends de jour en jour. (x)
+
+Louiza	(x)
+
+(BOUCLE 28 - 10:32:20:23)
+		28
+
+Ambiance	(bruits de fond rue ->) (stop)
+
+(BOUCLE 29 - 10:32:40:20)
+		29
+
+Helena	Tout ce qui est bleu ensemble.
+
+Leila	D'accord.
+
+Helena	Ah, je reviens vite. Bonjour Shirley.
+
+Shirley	Helena... (x) (x) (x)
+
+Helena	Ah, je pensais que tu ne faisais que passer.
+
+Shirley	Je n'ai pas pu m'empêcher de m'arrêter, pour parler un peu avec toi, voir comment est-ce que ça va.
+
+Helena	Moi ? Je, je vais très bien, merci, pourquoi ?
+
+Shirley	Ma chérie, ta séparation. On ne parle plus que de ça. Tout le monde est consterné de voir la fin d'une relation qui semblait si parfaite.
+
+Helena	(ahh) Aucun mariage n'est parfait, hein ?
+
+Shirley	Non, je le sais, je le sais. Encore moins le tien. Mais c'est que les gens sont naïfs. Ils ont besoin de croire. Ils... (h__) Ils ont besoin de croire qu'il existe sur terre un mariage vraiment parfait, sans problèmes.
+
+Helena	Hum.
+
+(BOUCLE 30 - 10:33:26:04)
+		30
+
+Shirley	Tu dois être très triste ?
+
+Helena	Sincèrement Shirley ? (h_____) Je crois que toi et moi nous ne sommes pas assez proches pour partager mes sentiments avec toi. Mais je te remercie quand même.
+
+Shirley	Oui. Tu as raison. Tu as raison, je suis plus proche de Virgilio. Je vais l'appeler. Pour savoir comment il va, lui apporter mon soutien. Tu sais ce que c'est, un homme quand il se sépare a besoin de compagnie.
+
+Helena	Exactement. Fais donc ça si tu veux.
+
+Shirley	Tu n'aurais pas dû laisser Laerté anéantir ta vie de famille, Helena. Il va se marier avec ta fille. Et il s'en réjouit, il est tout excité. Tu vas rester ici, isolée, la seule à être malheureuse ? Faut pas rester comme ça Helena.
+
+Helena	Oh mais Shirley si je ne me trompe pas toi aussi tu vis ta vie sans compagnie, non ?
+
+Shirley	Mais confiante, heureuse, parce que je ne me bats pas contre le destin. Je vais patienter jusqu'à ce que le bonheur frappe à ma porte. Alors que toi, Helena, tu restes emprisonné dans un... (h__) dans un passé révolu... (h___) avec ses promesses disparues.
+
+(BOUCLE 31 - 10:34:28:00)
+		31
+
+Shirley	Je parie même que tu gardes encore ce phénix.
+
+Helena	Je ne sais pas de quoi tu parles.
+
+Shirley	Ah. Non rien, je me suis trompée on dirait. Mon intuition était fausse.
+
+Helena	(h____) Tu sais que tu as raison sur une chose ? Tu es tout à fait dans le vrai, je... Je cultive beaucoup trop le passé. Et je perds mon temps avec ça ! En fait, il faut que je pense plus à moi. Non ? À ce que je désire, à ce dont je rêve. Je dois penser à ce que je veux. À ce que, à ce qui me rend heureuse. Non ? Et me battre pour ça ! Ce n'est pas facile, mais je vais réussir. Je vais réussir. C'est vrai, tu vas voir. Merci beaucoup, Shirley. Tu... Eh bien, te voir aujourd'hui a été très enrichissant,
+
+Shirley	(rire)
+
+Helena	tu sais. Merci beaucoup, vraiment, tu m'as beaucoup aidé.
+
+Shirley	Hum.
+
+Helena	(x)
+
+Shirley	(x) (x)
+
+Helena	(x) (x)
+
+Shirley	(x) (mhh_____)
+
+Helena	Merci. Merci pour ton soutien. Au revoir.
+
+(BOUCLE 32 - 10:35:30:13)
+		32
+
+Silvia	Monsieur Ruy et madame Denise ont besoin d'un rendez-vous la semaine prochaine. Arrangez-vous pour les caser.
+
+Luana	Oui.
+
+Silvia	Ça vous pouvez l'archiver.
+
+Luana	D'accord, je m'en charge Silvia.
+
+Gabriel	J'ai déjà une personne intéressée pour louer.
+
+Silvia	De quoi ? J'ai pas entendu.
+
+Gabriel	Le bureau de Félipé. Une personne peut le remplacer immédiatement.
+
+Silvia	Mais qui a dit que Félipé arrêterait de travailler ici ? D'où tu sors cette idée ?
+
+Gabriel	Bon, d'abord il va être puni par le conseil régional des médecins. Il ne pourra sûrement plus exercer notre profession.
+
+Silvia	Ah, alors tu as déjà décidé de sa sentence.
+
+Gabriel	Oui, il est probable que ça arrive. Et même si c'est pas le cas, je ne veux plus de lui ci.
+
+Silvia	(h_) Tu as juste oublié de me consulter, non Gabriel ?
+
+Gabriel	(h_) Écoute nous, nous sommes associés majoritaires mais Felipé ne compte presque pas. Je ne sais pas pour toi... mais moi je ne veux pas de guerre ici.
+
+Silvia	Je ne peux pas croire que tu veuilles endossser le mauvais rôle maintenant.
+
+Gabriel	Et je peux pas croire que tu mettes notre collaboration en péril ! Nous ne dirigeons pas un salon de coiffure ici ! Nous avons la vie de personnes entre nos mains ! Felipé ne reste pas, ça ne se discute pas.
+
+Silvia	Pour moi il doit rester__.
+
+Gabriel	Nous verrons.
+
+Silvia	(fhh______)
+
+(BOUCLE 33 - 10:36:37:01)
+		33
+
+Chica	Non, je crois qu'il faut épargner Félipé de ces mauvaises nouvelles.
+
+Fernando	Oui je suis d'accord avec toi. En fait la mère du petit est déjà allée déposer une accusation (h_) au conseil régional des médecins.
+
+Chica	Quel est le pire qui pourrait arriver ? Mais dis-moi la vérité, que pourrait-il arriver de pire à Félipé ?
+
+Fernando	Bon, avant... quand on examinait l'éthique professionnelle, ça pouvait durer jusqu'à deux ans. (h____) Et là les condamnations prévues pouvaient allaient d'un avertissement verba___l puis passaient à un avertissement publique.
+
+Ricardo	Ça je connais. Je connais, ils publiaient dans un journal à grand tirage un article qui informait que le médecin était condamné. J'ai déjà ce genre de chose.
+
+Fernando	Oui, c'est ça. Et dans la pire des hypothèses (h__) ils peuvent le rayer de l'ordre des médecins et Félipé ne pourra plus exercer sa profession.
+
+Chica	Non, ça n'ira pas jusque-là, non. M-, mon fils. Si Dieu le veut, mon fils va se reprendre en main et il va prouver qu'il peut exercer la médecine sans risquer la vie de personne. Et même, en sauvant des vies.
+
+(BOUCLE 34 - 10:37:27:11)
+		34
+
+Ricardo	Ivan !
+
+Chica	Oh____ mon chéri, je ne m'habituerai jamais à l'idée que tu montes et descends de cet ascenseur tout seul, on dirait un adu______lte_ !
+
+Ivan	Ah__, mais enfin grand-mère, j'ai grandis !
+
+Chica	Ah, mais personne ne m'a rien dit et je ne m'en suis pas rendu compte ! Viens là, viens là.
+
+Ivan	Hum.
+
+Fernando	Tu t'es trompé d'appartement mon grand ?
+
+Ivan	Non. C'est que chez moi tout le monde est tendu.
+
+Fernando	(rire)
+
+Ivan	Alors je suis venu vous voir vu que je ne peux pas... aller dans la rue. Au moins j'peux prendre l'ascenseur.
+
+Ricardo	Ah oui__________ c'est dur d'être un enfant hein ?
+
+Chica	(rire___________)
+
+Ivan	Ah oui, j'ai hâte de grandir et de devenir adulte pour vivre seul !
+
+Chica	Oh !
+
+Ricardo	(rire)
+
+Fernando	Ah, si un jour ça arrive, viens me voir nous louerons un appartement, d'accord ?
+
+Ricardo	Oh !
+
+Fernando	Alors ?
+
+Ivan	Affaire conclue.
+
+Fernando	Ah ! (rires_________)
+
+Chica	Mais pourquoi est-ce que tu as l'air tout triste ? Dis-moi. Raconte à grand-mère.
+
+Ivan	(mhh) C'est rien grand-mère. C'est la vie.
+
+Chica	Oh_________. Qu'est-ce que tu es mignon.
+
+Ivan	Ah___.
+
+Chica	(x) (rires)
+
+(BOUCLE 35 - 10:38:16:16)
+		35
+
+Alice	Et que faire de cette information, Malou ?
+
+Malou	On ne peut pas faire grand chose, Alice. Isaïe a été le complice de Josenaldo dans plusieurs crimes. Isaïe Rodriguez. (ts) Alors qu'un de ses complices a été emprisonné et que l'autre est mort, lui a réussi à fuir.
+
+Alice	Ok, alors t'es en train de dire qu'on est de retour à la case départ.
+
+Malou	Oui, jusqu'à ce que surgisse un nouvel élément oui.
+
+Alice	Mais c'est pas possible, Malou. Écoute, des crimes sexuels sont commis tout le temps et on va rester ici à ne rien faire ?
+
+Malou	Profites-en pour prendre un repos bien mérité après une victoire merveilleuse.
+
+Alice	(hh)
+
+Malou	Oui, tu vas retourner à ton quotidien mais pas indéfiniment, Alice.
+
+Alice	Quel quotidien Malou ? Mon quotidien en ce moment c'est de rendre justice.
+
+Malou	Bon, tu n'es pas obligée de rester ine______rte. Tu pourrais profiter de ton temps libre pour te perfectionner.
+
+Alice	Oui je sais je peux m'entraîner___, retourner apporter mon soutien aux femmes victimes de violence...
+
+Malou	Tout à fait ! Ce serait génial !
+
+Alice	Mais tu sais quoi ? En fait, après avoir senti monter l'adrénaline en participant à cette arrestation, je trouve que tout va lentement. (rires_____________)
+
+Malou	Je connais ça, Alice ! (h___) Tu as déjà pensé à entrer dans la police ?
+
+Alice	Oh franchement, non Malou. Je crois que ce doit être difficile, non ?
+
+Malou	Ah... Ce n'est pas facile, mais ce n'est pas non plus la chose la plus difficile au monde. (h__) Et tu sais, je crois que tu as le talent nécessaire ! Et la vocation ! Penses-y bien !
+
+(BOUCLE 36 - 10:39:34:16)
+		36
+
+Chica	Ah, mon chéri, regarde ce que ta grand-mère t'a fait ! Un gâteau, un sandwich... du jus, des biscuits, tout pour le petit-fils le plus mignon du monde.
+
+Ivan	Merci beaucoup. Mais je n'ai pas faim.
+
+Chica	Oh mon amour ! Mais tu ne vas même pas goûter un peu ? Je l'ai préparé spécialement pour toi.
+
+Ivan	(ahh__) Je n'ai envie de rien.
+
+Chica	Et tu es tout triste pour quoi alors ?
+
+Ivan	(h______)
+
+Chica	Papa et maman ?
+
+Ivan	Oui... Mon père et ma mère se disputent tout le temps. Et... quand ils ne se disputent pas, ils ne parlent pas.
+
+Chica	Oh_____, mon amour, mais... le monde des adultes est comme ça, très compliqué____, tu comprends. (hum) Tu pourrais les aider peut-être un peu. Tu sais, avec... (h__) avec ta joie de vivre, avec tes petites blagues. Hum ?
+
+Ivan	Oui mais ils ne rigolent plus du tout. Ils ne souri_ent pas, ils sont tendus.
+
+Chica	Oh______________. Mon amour. Ah. Je sais que c'est pas facile, les adultes sont comme ça, ils sont très tendus, tout le temps. (h__) Ils se disputent beaucoup mais quand ils se réconcilient, c'est mieux qu'avant. (rire)
+
+Ivan	(sourire) Moi je ne serai pas comme ça plus tard.
+
+Chica	(h__) No___n. Non toi tu seras une personne différen___te, pas comme eux. Mais tant que tu n'es pas adulte, (h_) nous pourrions, (h) nous pourrions leur suggérer un voyage,
+
+Ivan	(h____)
+
+Chica	une escapade qui leur ferait plaisir.
+
+Ivan	Bonne idée !
+
+Chica	Oh !
+
+Ivan	À Orlando !
+
+Chica	Ah, en fait, c'est bien, c'est bien, Orlando c'est bien mais... (h___) je m'imaginais un voyage plus romantique. Tu vois ?
+
+Ivan	Ah, je comprends, le voyage c'est pour eux deux, pas pour nous. (h___) C'est même bien mieux tu as raison.
+
+Chica	Ah_______. Qu'est-ce que tu es intelligent !
+
+(BOUCLE 37 - 10:41:18:17)
+		37
+
+Ambiance	(bruits de fond restaurant toute la boucle)
+
+Clara	Cadou, tu ne pouvais pas m'attendre ?
+
+Cadou	Je ne pensais pas que ma compagnie te manquerait.
+
+Clara	(hh__)
+
+Cadou	Je croyais qu'elle te dérangeait.
+
+Clara	Quand est-ce que tu vas arrêter tes enfantillages ?
+
+Véronica	Ah, cette odeur de sucre caramélisé est en train d'envahir tout le centre ! (rire) Je suis venue voir ce que notre chef nous préparait.
+
+Cadou	Eh bien tu as eu raison, j'allais venir te chercher pour que tu sois le cobaye de cette recette.
+
+Véronica	(h______) Ohla !
+
+Cadou	Pudding au caramel avec un sirop de sucre roux et un soupçon de menthe.
+
+Véronica	Dis donc, c'est original ça !
+
+Cadou	Attends.
+
+Véronica	Hum ?
+
+Cadou	Il faut que tu le goûtes tout de suite. Attends.
+
+Véronica	Mais juste un petit bout.
+
+Cadou	Tiens goûte. Dis-moi.
+
+Véronica	Hum__________.
+
+Cadou	Dis-moi tout.
+
+Véronica	Mon dieu c'est un vrai délice ! (rire)
+
+Cadou	Tu aimes ?
+
+Véronica	Je veux tout pour moi ! (rire________)
+
+Cadou	(rire___)
+
+Véronica	(mhh_____)
+
+Cadou	Ah...
+
+Véronica	Tiens, où est Clara ?
+
+Cadou	(hh__)
+
+(BOUCLE 38 - 10:42:03:20)
+		38
+
+Ambiance	(bruits de fond restaurant toute la boucle)
+
+Cadou	(h____) Ça ne va pas bien entre nous, Véro. (h__) (mhh) Pardon, pardon, j'ai cette sale manie d'appeler tout le monde par un surnom.
+
+Véronica	Non, pas besoin de demander pardon. C'est juste que tu portes un regard léger sur les autres personnes et j'aime ça. (sourire) Mais dis-moi, vous vous êtes encore disputés ?
+
+Cadou	Encore une fois et une autre fois et encore. Tu te rappelles notre conversation ? J'espérais encore pouvoir sauver mon mariage mais c'est trop tard.
+
+Véronica	Ah, ne dis pas ça, Cadou. Ce n'est pas comme ça que l'on résout ses problèmes, si ? Vous semblez si parfaits ensemble tous les deux.
+
+Cadou	C'était vrai. (h___) Aujourd'hui nous ne sommes que tristesse. (mh) Ça ne date pas d'hier, ça fait déjà un moment que ça ne va pas entre nous. (mts) C'est comme ça.
+
+Véronica	C'est dommage.
+
+Cadou	(mhh)
+
+Véronica	Je... (mhh) c'est toujours tellement triste la fin d'une histoire d'amour.
+
+Cadou	Oui. La chance va et vient non ? Si bien que je suis complètement incrédule face à tout ça. (h___) Ah... Tu sais que... (mhh) tu sais ce qui m'apaise dans les moments comme ça ?
+
+Véronica	Hum ?
+
+Cadou	Fredonner des chansons.
+
+Véronica	C'est vrai ?
+
+Cadou	Ah, il y en a toujours une pour rappeler qu'on n'est pas les seuls que le monde a déçus.
+
+Véronica	Ah ah, c'est vrai.
+
+Cadou	Nos jalousies sont les mêmes que celles de tant d'autres.
+
+Véronica	(rire)
+
+Cadou	(h____) Ce sont elles qui exaltent un amour, une romance gâchée.
+
+Véronica	Hum. Bon, je ne peux qu'être d'accord avec toi. (h___) Au bout du compte, la musique, c'est ma vie. Mais c'est vrai, (h___) je crois que la musique nous fait espérer et nous console.
+
+Cadou	Regarde tout ce qu'on a en commun ! Hum ? Le pudding au caramel, des amours déchus...
+
+Véronica	(rire)
+
+Cadou	la musique pour nous consoler.
+
+Véronica	(mh)
+
+(BOUCLE 39 - 10:45:02:22)
+		39
+
+Felipé	Mmm, tu es si indiscrète.
+
+Louiza	(rire__)
+
+Felipé	Aïe, aïe, aïe, aïe,
+
+Louiza	(rire)
+
+Felipé	(x)
+
+Louiza	(rire)
+
+Felipé	ah, ma chérie, je suis content de te voir.
+
+Louiza	Ah_____.
+
+Felipé	(rire_____)
+
+Louiza	Moi aussi. (x___)
+
+Virgilio	Hé hé hé hé. Oh. Alors, comme ça, tu viens à Rio et tu ne me dis rien, tu ne me préviens même pas ? Ou alors, tu es une sœur jumelle d'Ana que je ne connais pas ?
+
+Ana	Virgilio. Non, c'est bien moi.
+
+Virgilio	Ça alors.
+
+Louiza	Oui, Laerté. Ce n'est peut-être plus mon petit ami, mais ce n'est pas mon ex-ami.
+
+Laerté	Ben il le deviendra, ex petit ami, ex-ami, ex-collègue, ex tout, et rien d'autre !
+
+Louiza	Ah, ta jalousie est ridicule.
+
+Laerté	La jalousie est toujours ridicule, Louiza, elle est toujours insensée, elle n’a jamais de explication !
+
+Louiza	Laerté, tu perds la tête ? Tu cries sur moi !

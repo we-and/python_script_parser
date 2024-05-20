@@ -8,12 +8,15 @@ import tkinter.font as tkFont
 import subprocess
 import platform
 import re
+import sys
 import csv
 import numpy as np
 import math
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import ctypes
 
+import threading
 from matplotlib.colors import ListedColormap, BoundaryNorm
 from matplotlib.gridspec import GridSpec
 last_row_id = None
@@ -49,7 +52,20 @@ currentScriptFilename=""
 outputFolder="tmp"
 currentXlsxPath=""
 currentBreakdown=None
+currentFig=None
+currentCanvas=None
 
+def make_dpi_aware():
+    try:
+        # Attempt to set the process DPI awareness to the system DPI awareness
+        ctypes.windll.shcore.SetProcessDpiAwareness(1)
+    except AttributeError:
+        # Fallback if SetProcessDpiAwareness does not exist (possible in older Windows versions)
+        ctypes.windll.user32.SetProcessDPIAware()
+
+# Only call this function if your application is running on Windows
+if sys.platform.startswith('win32'):
+    make_dpi_aware()
 
 if not os.path.exists(outputFolder):
     os.mkdir(outputFolder)
@@ -207,6 +223,8 @@ def runJob(file_path,method):
     reset_tables()
     # Check if the selected item is a file and display its content
     if os.path.isfile(file_path):
+        #show_loading()
+
         try:
             file_name = os.path.basename(file_path)
             currentScriptFilename=file_name
@@ -247,7 +265,7 @@ def runJob(file_path,method):
                     currentBreakdown=breakdown
                     fill_breakdown_table(breakdown)
                     fill_character_list_table(character_order_map,breakdown)
-                    fill_character_stats_table(character_order_map,breakdown)
+                    fill_character_stats_table(character_order_map,breakdown,enc)
                     fill_stats_table(breakdown)
                     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
                     update_statistics(content)
@@ -256,19 +274,28 @@ def runJob(file_path,method):
             else:
                 print(" > Not supported")
                 #stats_label.config(text=f"Format {extension} not supported")
+            hide_loading()
 
         except Exception as e:
             file_preview.delete(1.0, tk.END)
             file_preview.insert(tk.END, f"Error opening file: {e}")
+            hide_loading()
+
 
 def on_folder_select(event):
+    global currentScriptFilename
     global currentOutputFolder
     print("on_folder_select")
     print("FOLDER SELECT")
     selected_item = folders.selection()[0]
     file_path = folders.item(selected_item, 'values')[0]
-    
-    runJob(file_path,countingMethod)
+    if os.path.isfile(file_path):
+        currentScriptFilename=file_path
+        loading_label_txt.config(text="Analyzing "+file_path)
+        show_loading()
+        app.update_idletasks()  # Force the UI to update
+        threading.Thread(target=runJob,args=(file_path,countingMethod)).start()
+#        runJob(file_path,countingMethod)
 
 def update_statistics(content):
 
@@ -288,6 +315,7 @@ def open_folder():
     remove_all_tree_items()
     directory = filedialog.askdirectory(initialdir=os.getcwd())
     if directory:
+        update_ini_settings_file("SCRIPT_FOLDER",directory)
         load_tree("",directory)
 
 
@@ -302,11 +330,21 @@ def center_window():
     screen_width = app.winfo_screenwidth()
     screen_height = app.winfo_screenheight()
      # Calculate width and height as 80% of screen dimensions
-    width = int(screen_width * 0.8)
+    width = int(screen_width * 0.9)
     height = int(screen_height * 0.8)
     x = int((screen_width - width) / 2)
-    y = int((screen_height - height) / 2)
+    y = 20#int((screen_height - height) / 2)
     app.geometry(f'{width}x{height}+{x}+{y}')
+
+
+
+def reduce_width():
+    current_width = app.winfo_width()
+    current_height = app.winfo_height()
+    # Reduce width by 1 pixel
+    new_width = current_width - 1
+    # Set the new geometry
+    app.geometry(f"{new_width}x{current_height}")
 
 
 def stats_per_character(breakdown,character_name):
@@ -354,7 +392,7 @@ def fill_character_list_table(character_order_map, breakdown):
         character_list_table.insert('','end',values=(character_named,))
         
 
-def fill_character_stats_table(character_order_map, breakdown):
+def fill_character_stats_table(character_order_map, breakdown,encoding_used):
     print("fill_character_stats_table")
 
     total_by_character_by_method={}
@@ -407,7 +445,7 @@ def fill_character_stats_table(character_order_map, breakdown):
         
         total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-total-recap.csv"
-    generate_total_csv(total_by_character_by_method,totalcsvpath)
+    generate_total_csv(total_by_character_by_method,totalcsvpath,encoding_used)
     for item in character_stats_table.get_children():
         character_stats_table.delete(item)
 
@@ -425,11 +463,11 @@ def get_excel_column_name(column_index):
         column_index, remainder = divmod(column_index - 1, 26)
         column_name = chr(65 + remainder) + column_name
     return column_name
-def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
+def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
     print("generate_total_xlsx "+xlsx_file_path)
 
     # Read the CSV file
-    df = pd.read_csv(csv_file_path,header=None)
+    df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
 
     # Convert columns explicitly to numeric where appropriate
     for col in df.columns[1:]:  # Skip the first column if it's non-numeric (e.g., names)
@@ -479,7 +517,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n):
 
 
 
-def generate_total_csv(total,csv_path):
+def generate_total_csv(total,csv_path,encoding_used):
     global currentXlsxPath
     print("Total csv path          : "+csv_path)
     #header
@@ -521,7 +559,7 @@ def generate_total_csv(total,csv_path):
     currentXlsxPath=xlsx_path
     n=len(countingMethods)+1
     print("Total xlsx path          : "+xlsx_path)
-    convert_csv_to_xlsx2(csv_path,xlsx_path,n)
+    convert_csv_to_xlsx2(csv_path,xlsx_path,n,encoding_used)
 
 def on_button_click():
     print("Button clicked!")
@@ -570,9 +608,113 @@ def clear_table(treeview):
     for item in treeview.get_children():
         treeview.delete(item)
 
+
+###################################################################################################
+## .INI FILE
+def check_settings_ini_exists():
+    # Get the absolute path of the directory where the script is located
+    script_folder = os.path.abspath(os.path.dirname(__file__))
+    
+    # Define the path to the settings.ini file in the same directory as the script
+    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    
+    # Check if the settings.ini file exists
+    if os.path.isfile(ini_file_path):
+        print(f"settings.ini file exists at: {ini_file_path}")
+        return True
+    else:
+        print(f"settings.ini file does not exist in the directory: {script_folder}")
+        return False
+
+
+def write_settings_ini():
+    # Get the absolute path of the directory where the script is located
+    script_folder = os.path.abspath(os.path.dirname(__file__))
+    
+    # Define the content to write to the settings.ini file
+    content = f"SCRIPT_FOLDER = {script_folder}"
+    
+    # Define the path to the settings.ini file in the same directory as the script
+    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    
+    # Write the content to the settings.ini file
+    with open(ini_file_path, 'w') as ini_file:
+        ini_file.write(content)
+    
+    print(f"settings.ini file created at: {ini_file_path}")
+
+
+def read_settings_ini():
+    # Get the absolute path of the directory where the script is located
+    script_folder = os.path.abspath(os.path.dirname(__file__))
+    
+    # Define the path to the settings.ini file in the same directory as the script
+    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    
+    # Check if the settings.ini file exists
+    if not os.path.isfile(ini_file_path):
+        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {script_folder}")
+    
+    # Read the settings.ini file and store settings in a dictionary
+    settings = {}
+    with open(ini_file_path, 'r') as ini_file:
+        for line in ini_file:
+            line = line.strip()
+            if line and '=' in line:  # Ensure the line contains an '=' character
+                key, value = line.split('=', 1)
+                settings[key.strip()] = value.strip()
+    
+    return settings
+def update_ini_settings_file(field,new_folder):
+    # Get the absolute path of the directory where the script is located
+    script_folder = os.path.abspath(os.path.dirname(__file__))
+    
+    # Define the path to the settings.ini file in the same directory as the script
+    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    
+    # Check if the settings.ini file exists
+    if not os.path.isfile(ini_file_path):
+        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {script_folder}")
+    
+    # Read the current settings and store them in a dictionary
+    settings = {}
+    with open(ini_file_path, 'r') as ini_file:
+        for line in ini_file:
+            line = line.strip()
+            if line and '=' in line:
+                key, value = line.split('=', 1)
+                settings[key.strip()] = value.strip()
+    
+    # Update the SCRIPT_FOLDER field
+    settings[field] = new_folder
+    
+    # Write the updated settings back to the settings.ini file
+    with open(ini_file_path, 'w') as ini_file:
+        for key, value in settings.items():
+            ini_file.write(f"{key} = {value}\n")
+    
+    print(f"settings.ini file updated with SCRIPT_FOLDER = {new_folder}")
+
+###################################################################################################
+## MAIN
+
+settings_ini_exists = check_settings_ini_exists()
+if settings_ini_exists == False:
+    write_settings_ini()
+
+settings = read_settings_ini()
+
 app = tk.Tk()
 app.title('Script Analyzer')
 app.iconbitmap('app_icon.ico') 
+
+def on_resize(event):
+    print("on_resize")
+    print_frame_size(recap_tab)
+    if currentFig!=None:
+            currentCanvas.draw()
+
+#app.bind('<Configure>', on_resize)
 
 # Menu bar
 menu_bar = Menu(app)
@@ -666,8 +808,15 @@ def open_xlsx_recap():
     os_=get_os()
     print("Open"+currentXlsxPath)
     if os_=="Windows":
+        currentOutputFolderAbs = os.path.abspath(currentXlsxPath)
+        print("Absolute path          : "+currentOutputFolderAbs)
+
+    # Check if the folder exists
+        if not os.path.exists(currentOutputFolderAbs):
+            print(f"Folder does not exist: {currentOutputFolderAbs}")
+            return
         try:
-            os.startfile(currentXlsxPath)
+            os.startfile(currentOutputFolderAbs)
         except Exception as e:
             print(f"Failed to open file: {e}")
     else:
@@ -689,7 +838,6 @@ def show_popup_counting_method():
         button = ttk.Button(popup, text=i, command=set_counting_method(i))
         button.pack(side=tk.TOP, fill=tk.X)
 
-
     dropdown = ttk.Combobox(popup, values=countingMethods)
     dropdown.pack(pady=20)
     dropdown.current(0)
@@ -702,21 +850,37 @@ def resizechart(self, event=None):
             dpi = self.fig.get_dpi()
             self.fig.set_size_inches(width / dpi, height / dpi)
             self.canvas.draw()
-def draw_bar_chart(frame,breakdown,character_order_map):
-    #print("draw_bar_chart")
-    #print(str(character_order_map))
-    
-    keys=len(character_order_map.keys())
-    #print("draw_bar_chart n_char="+str(keys))
 
-    Nmaxchar=100
+def print_frame_size(fr):
+    # This function prints the size of the frame
+    # Ensure the frame has been rendered by Tkinter before calling this
+    print("Frame width:", fr.winfo_width())
+    print("Frame height:", fr.winfo_height())
+
+def show_loading():
+        print("SHOW LOADING")
+        loading_label.pack()
+        paned_window.pack_forget()
+def hide_loading():
+        print("HIDE LOADING")
+        paned_window.pack(fill='both', expand=True)
+        loading_label.pack_forget()
+def draw_bar_chart(frame,breakdown,character_order_map):
+    global currentFig
+    global currentCanvas
+    if currentFig!=None:
+        clear_chart()
+        currentCanvas.get_tk_widget().pack_forget()
+        currentCanvas = None
+        currentFig = None
+    #  if currentCanvas!=None:
+   #     currentCanvas.delete("all")  
+    Nmaxchar=1000
     n_char=len(character_order_map.keys())
-    #print("draw_bar_chart n_char="+str(n_char))
 
     plt.rc('font', size=11) 
     if n_char>Nmaxchar:
         n_char=Nmaxchar
-    #print("draw_bar_chart n_char="+str(n_char))
 
     # Set up a gridspec layout
     fig = plt.figure(figsize=(12, 10))
@@ -737,7 +901,7 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             
             for item in breakdown:
                 idx=idx+1
-                if idx<1000:
+                if True:#idx<1000:
                     line_idx=item['line_idx']
                     type_=item['type']
                     if(type_=="SPEECH"):
@@ -747,13 +911,6 @@ def draw_bar_chart(frame,breakdown,character_order_map):
                             values.append(1)
                         else:
                             values.append(0)
-            #print("LABELS="+str(labels))
-            #print("VALUES="+str(values))
-            #print("IDX="+str(charidx-1))
-            #print("LABELS size="+str(len(labels)))
-            #print("VALUES size="+str(len(values)))
-
-
             chunk_size = 5  # Adjust the size based on your specific needs
             pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
 
@@ -784,16 +941,6 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             aggregated_data = np.sum(v, axis=1)
             #print("done 1b"+str(aggregated_data))
 
-    #       new_width = 20 
-   #         new_width = 20 
-  #          num_rows = int(np.ceil(len(aggregated_data) / new_width))
-     #       print("done 1c"+str(num_rows))
-
- #           padded_data = np.pad(aggregated_data, (0, new_width * num_rows - len(aggregated_data)), mode='constant', constant_values=np.nan)
-    #        print("done 1d"+str(padded_data))
-#            data_matrix = padded_data.reshape(num_rows, new_width)
-
-
             num_rows = 1
             new_width = len(aggregated_data)  # Set the width directly to the length of the aggregated data
 
@@ -803,10 +950,12 @@ def draw_bar_chart(frame,breakdown,character_order_map):
             #print("done 1e"+str(data_matrix))
 
             ax1 = fig.add_subplot(gs[charidx-1, 0])
+             # Clear the existing plot
+            #ax1.clear()
             #print("done 1")
             cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
             #fig.colorbar(cax)
-                        
+            print("ADD LABEL "+char)           
             #ax1.bar(labels, values, color='red')
             #print("done 2")
             ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='10')
@@ -832,61 +981,37 @@ def draw_bar_chart(frame,breakdown,character_order_map):
     #print("done 7")
     plt.subplots_adjust(left=0.5)
     #print("done 8")
-    fig.tight_layout(pad=0.1) 
+    fig.tight_layout(pad=0) 
 #    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
-
+    print_frame_size(frame)
     canvas = FigureCanvasTkAgg(fig, master=frame)
     canvas.draw()
-    canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
-    
-    if False:
-        for char in character_order_map:
-            idx=1
-            print("draw_bar_chart char"+char)
-            labels=[]
-            values=[]
-            for item in breakdown:
-                idx=idx+1
-                if idx<50:
-                    line_idx=item['line_idx']
-                    type_=item['type']
-                    labels.append(str(line_idx))
-                    if(type_=="SPEECH"):
-                        character=item['character']
-                        if character==char:
-                            values.append(1)
-                        else:
-                            values.append(0)
-
-
-            # Create a figure and a set of subplots
-            fig, ax = plt.subplots(figsize=(5, 0.5))
-            ax.bar(labels, values)
-
-            # Set labels and title
-            ax.set_ylabel(char, rotation=0, labelpad=20, horizontalalignment='right')
-    #        ax.set_ylabel(char)
-            ax.set_title("")
-            ax.set_xticks(labels)
-            ax.set_xticklabels(labels, rotation=45)
-            ax.xaxis.set_tick_params(labelbottom=False)  # Hide x-axis labels
-            ax.tick_params(axis='x', which='both', length=0)  # Hide x-axis ticks
-            ax.set_xlabel('')  # Hide x-axis label
-            ax.set_yticks([]) 
-
-            #fig.subplots_adjust(left=0.25)  # Adjust this value to fit your label, if necessary
-            fig.tight_layout() 
-            # Create a Tkinter canvas containing the Matplotlib figure
-            canvas = FigureCanvasTkAgg(fig, master=frame)
-            canvas.draw()
-            canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
+    canvas.get_tk_widget().pack()
+    currentCanvas=canvas
+    currentFig=fig
+    currentFig.canvas.draw()
     print("draw_bar_chart")
+    #reduce_width()
 
+def clear_chart():
+    global currentFig
+    print("CLEAR CHART")
+    currentFig.clf()
+    currentFig.canvas.draw()
 settings_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="Settings", menu=settings_menu)
 settings_menu.add_command(label="Change counting method...", command=show_popup_counting_method)
-settings_menu.add_command(label="Set block length...", command=open_folder)
+#settings_menu.add_command(label="Set block length...", command=open_folder)
 
+
+loading_label = ttk.Frame(app)
+#loading_label.pack(side=tk.TOP, fill=tk.X,expand=True)
+# Load folder button
+#load_button = ttk.Button(loading_label, text="Hide ", command=hide_loading)
+#load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+loading_label_txt = ttk.Label(loading_label, text="Analyzing", font=('Arial', 12),padding="20 100 20 20")
+loading_label_txt.pack(side=tk.TOP, fill=tk.X,expand=True)
 
 
 # Create a PanedWindow widget
@@ -901,7 +1026,6 @@ right_frame = ttk.Frame(paned_window, width=400, height=400, relief=tk.FLAT)
 # Add frames to the PanedWindow
 paned_window.add(left_frame, weight=1)  # The weight determines how additional space is distributed
 paned_window.add(right_frame, weight=2)
-
 
 # Folder tree
 folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
@@ -923,7 +1047,7 @@ folders.tag_configure('normal', background='white')
 
 folders.tag_configure('hover', background='#f4f4f4')
 style = ttk.Style()
-style.configure('TNotebook.Tab', padding=[20, 20, 20, 20])  # Adjust these values as needed
+#style.configure('TNotebook.Tab', padding=[10,10,10,10])  # Adjust these values as needed
 
 style.configure("Treeview", rowheight=30)  # Increase the row height
 style.configure("Treeview.Item", padding=(3, 4, 3, 4))  # Top and bottom padding
@@ -946,15 +1070,13 @@ notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
 
 
 
-recap_tab = ttk.Frame(notebook)
-notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
 #char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
 #char_label.pack(side=tk.TOP, fill=tk.X)
 #recap_tab.bind('<Configure>', resizechart)
 
 
 # Configure the style of the tab
-style.configure('TNotebook.Tab', background='#f0f0f0', padding=(15, 12), font=('Helvetica', 14))
+style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', 9))
 # Configure the tab area (optional, for better Windows look)
 style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
 style.configure('TNotebook', padding=0)  # Removes padding around the tab area
@@ -968,6 +1090,10 @@ preview_tab = ttk.Frame(notebook)
 notebook.add(preview_tab, text='Original text',image=original_icon, compound=tk.LEFT)
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
+
+
+recap_tab = ttk.Frame(notebook)
+notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
 
 # Statistics tab
 character_tab = ttk.Frame(notebook)
@@ -1021,7 +1147,7 @@ breakdown_table.tag_configure('scene', background='#fffec8')
 bold_font = tkFont.Font( weight="bold")
 breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 breakdown_table.tag_configure('bold', font=bold_font)
-notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
+#notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
         
 
 
@@ -1038,24 +1164,36 @@ notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
 def open_result_folder():
     # Open a folder in Finder using the `open` command
     print("Opening "+currentOutputFolder)
+    currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
+    print("Absolute path          : "+currentOutputFolderAbs)
+
+  # Check if the folder exists
+    if not os.path.exists(currentOutputFolderAbs):
+        print(f"Folder does not exist: {currentOutputFolderAbs}")
+        return
     try:
-        subprocess.run(["open", currentOutputFolder], check=True)
-        print("Folder successfully opened in Finder.")
-    except subprocess.CalledProcessError:
-        print("Failed to open the folder in Finder.")
+        if sys.platform.startswith('darwin'):
+            subprocess.run(['open', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('win32'):
+            # Correct approach for Windows
+            subprocess.run(['explorer', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('linux'):
+            subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
+    except Exception as e:
+        print(f"Error opening folder: {e}")
 
 
 stats_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
-stats_table = ttk.Treeview(stats_tab, columns=('Line',  'Character','Text','Characters'), show='headings')
+stats_table = ttk.Treeview(stats_tab, columns=('Line number',  'Character','Text','Characters'), show='headings')
 # Define the column headings
-stats_table.heading('Line', text='Line')
+stats_table.heading('Line number', text='Line number')
 stats_table.heading('Character', text='Character')
 stats_table.heading('Text', text='Text')
 stats_table.heading('Characters', text='Characters')
 
 # Define the column width and alignment
-stats_table.column('Line', width=25, anchor='center')
+stats_table.column('Line number', width=25, anchor='center')
 stats_table.column('Character', width=100, anchor='w')
 stats_table.column('Text', width=200, anchor='w')
 stats_table.column('Characters', width=50, anchor='w')
@@ -1080,9 +1218,8 @@ cols=('Line #', 'Character','Character (raw)','Line')
 for i in countingMethods:
     cols= cols+(countingMethodNames[i],)
 
-style.configure('CleftPanel.TFrame', background='lightblue')
-style.configure('CrightPanel.TFrame', background='red')
-
+style.configure('CleftPanel.TFrame', background='#fafafa')
+style.configure('CrightPanel.TFrame', background='#fafafa')
 
 
 # Create left and right frames (panels) inside the tab
@@ -1133,10 +1270,8 @@ def on_item_selected(event):
         return
     clear_character_stats()
     character_name=record[0]
-    print("CHAR add"+character_name)
-
+    
     character_named = character_name 
-    print("CHAR add"+character_named)
     character_list_table.insert('','end',values=(character_named,))
    
     rowtotal=("",character_name,"","TOTAL")       
@@ -1216,36 +1351,25 @@ notebook.add(character_stats_tab, text='Lines by character',image=chat_icon, com
 export_tab = ttk.Frame(notebook)
 # Load folder button
 load_button = ttk.Button(export_tab, text="Open result folder...", command=open_result_folder)
-load_button.pack(side=tk.TOP, fill=tk.X)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+#load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
+#load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
 load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
-load_button.pack(side=tk.TOP, fill=tk.X)
-if False:
-    dropdown = ttk.Combobox(export_tab, values=countingMethods)
-    dropdown.pack(pady=20)
-    dropdown.current(0)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-    update_button = ttk.Button(export_tab, text="Recompute", command=reset_tables)
-    update_button.pack(side=tk.TOP, fill=tk.X)
+#load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
+#load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-    method_label = ttk.Label(export_tab, text="Current Method"+countingMethod, font=('Arial', 12))
-    method_label.pack(side=tk.BOTTOM, fill=tk.X)
-
-    def on_value_change(event):
-        reset_tables
-        """ Handle changes in dropdown selection. """
-        selected_value = dropdown.get()
-        print("Selected:", selected_value)
-        global countingMethod
-        countingMethod=selected_value
-        runJob(currentFilePath,selected_value)
-    # Bind the change event
-    dropdown.bind('<<ComboboxSelected>>', on_value_change)
 
 notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)
 
-load_tree("",os.getcwd())
+currentScriptFolder=settings['SCRIPT_FOLDER']
+if currentScriptFolder=="":
+    currentScriptFolder=os.getcwd()
+load_tree("",currentScriptFolder)
 
 center_window()  # Center the window
 

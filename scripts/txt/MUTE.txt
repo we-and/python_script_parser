@@ -1,0 +1,505 @@
+WILLIBRORD	…He maketh me to lie down in green pastures.
+
+WILLIBRORD	Is this it? Is it over?
+
+WILLIBRORD	You are here... You have waited for me...I missed you every day...
+
+NAMELESS	The Lord is gracious and compassionate, slow to anger and rich in love. The Lord is good to all; he has compassion on all he has made.
+
+WILLIBRORD	Laudetur Iesus Christus…
+
+NAMELESS	Stay down. The wound on your leg is bleeding again.
+
+WILLIBRORD	You saved me?
+
+NAMELESS	I dressed your wound.
+
+WILLIBRORD	Where are my people?
+
+NAMELESS	Dead.
+
+WILLIBRORD	What do they call you, man of God?
+
+NAMELESS	There is no one here who calls me.
+
+WILLIBRORD	Ale you alone?
+
+WILLIBRORD	You’re not now.
+
+NAMELESS	I know why you came here.
+
+WILLIBRORD	For God.
+
+NAMELESS	Have you found Him?
+
+WILLIBRORD	They have.
+
+WILLIBRORD	Requiescant in pace.
+
+NAMELESS	Amen.
+
+NAMELESS	There is no turning back now. No turning
+
+
+WILLIBRORD	back...It's just a boat...A bunch of planks...
+
+NAMELESS	Those planks could have taken you back home.
+
+WILLIBRORD	I have no home. Nothing awaits me there...Everything is over there...
+
+NAMELESS	I wanted to go there…
+
+WILLIBRORD	And?
+
+NAMELESS	I lacked faith.
+
+WILLIBROD	There is nothing wrong with your faith. It's persistence that you ran out of.
+
+NAMELESS	How do you know? You don't know me.
+
+WILLIBRORD	I can read you like an open book. Your heart has no secrets from me. You are young and lost. Courageous but weak. You need a different pair of eyes to learn the truth about yourself.
+
+NAMELESS	What do you intend to do?
+
+WILLIBRORD	Go to the pagans and bring them a God they don't know. There can be nothing more to life.
+
+NAMELESS	Were you promised a reward? Will you become their bishop?
+
+WILLIBRORD	There are no promises. I have to save them! The last time... Many were killed...I swore to God it would not happen again.
+
+NAMELESS	It looks like we took the same oath...
+
+WILLIBRORD	Let's move. We don’t have much time. The king is coming in a few months.
+
+NAMELESS	Why carry so much?
+
+WILLIBRORD	Consider the burden of your sins.
+
+NAMELESS	Let’s see if your legs hold out.
+
+WILLIBRORD	Where are we? Do you know?
+
+NAMELESS	What next?
+
+WILLIBRORD	I know as much as you do.
+
+WILLIBRORD	Maybe you should be a tailor?
+
+NAMELESS	Maybe... Needle and thread bring what's separate together. I like this feeling.
+
+WILLIBRORD	The sword divides into pieces what once was one.Do you want to learn that feeling as well? I can teach you.
+
+NAMELES	Live by the sword, die by the sword.
+
+WILLIBRORD	Live without the sword and you die sooner.
+
+NAMELESS	What is this?
+
+WILLIBRORD	Not “what”… “Who”.Someone is following us…Has been following us from the very beginning, the beach. from
+
+NAMELESS	Who?
+
+WILLIBRORD	I don’t know…I suppose it’s one of the pagans. He has good shooting skills. And he doesn’t want to kill us. Yet…
+
+NAMELESS	Or we would both be dead by now…
+
+WILLIBRORD	I feel we’re close. They must live somewhere around here. This must be their village.
+
+NAMELESS	That is what we call it. How they call it we do not know.
+
+WILLIBRORD	A church will stand here.
+
+WILLIBRORD	In nomine Patris, et Filli et Spiritus Sancti…
+
+WILLIBRORD	Their god must live somewhere here. A wooden log with 4 faces. Supposedly he’s the master of thunder…
+
+WILLIBRORD	Are you afraid?
+
+NAMELESS	I feel death…
+
+WILLIBRORD	That’s a good thing.
+
+WILLIBRORD	Show no fear. Remember, God is with you. And with me...
+
+WILLIBRORD	They wandered in the wilderness in a desert way. They found no city in which to live.Hungry and thirsty, their soul fainted in them.
+
+KARENGA	We won’t fall for beautiful words, liar!
+
+NAMELESS	Speak to them, not to yourself!
+
+WILLIBRORD	Some sat in darkness and in the shadow of death, being bound in affliction and iron, because they rebelled against the words of God, and condemned the counsel of the Most High.
+
+GEOWOLD	Leave him!
+
+WILLIBRORD	Get down.
+
+NAMELESS	What now?
+
+WILLIBRORD	Now is the time for magic...
+
+PRAHWE	Life.
+
+PRAHWE	Death.
+
+PEM	The goat is languid today. As if it had a strange and heavy god on its back; one he doesn’t know how to get rid of. This augury is invalid. We have to free the goat from strange powers and unwelcome riders.
+
+PRAHWE	He says that your god sat on the goat’s back. The decision isn't valid.
+
+WILLIBRORD	Our God is everywhere. Even on a goat’s back.
+
+NAMELESS	What are they doing?
+
+PRAHWE	They are washing the horse to wash the strange god from its back.
+
+PEM	Enough. It’s light again. It can continue with the augury.
+
+PRAHWE	It has been decided. You can stay but you cannot enter the village.
+
+WILLIBRORD	Why is that?
+
+PRAHWE	My father decided that.
+
+NAMELESS	Was it grace or chance?
+
+WILLIBRORD	God turns chance into grace.
+
+WILLIBRORD	We will go back there soon. They have to let us in.
+
+NAMELESS	You wanted to build the church.
+
+WILLIBRORD	We shall build... There  and here... 
+
+NAMELESS	How will you convince them?
+
+WILLIBRORD	God will find a way.The question is... how will I convince you? I came here with you.
+
+WILLIBRORD	But you still need to believe.Right now you are still afraid…
+
+WILLIBRORD	I would like to confess. Will you listen?
+
+WILLIBRORD	I keep seeing faces. The faces of people who died under my sword. I keep seeing them. I pray so that the faces of those whom my work has helped would come just as often. But they don’t.
+
+NAMELESS	Have you killed many men?
+
+NAMELESS	I keep seeing one face... I used to know him well...His mother came from far away... She died too soon...His father... He couldn’t... he couldn’t cope...He destroyed everything...Now someone has to be found... someone...
+
+WILLIBRORD	Leave it...Maybe the time for your confession hasn’t come yet...
+
+WILLIBRORD	Oh God! Sacred martyrs… They were here before us…
+
+NAMELESS	Is that what will remain of us?
+
+WILLIBRORD	...fear no evil, for you are with me.
+
+WILLIBRORD	Your day will come soon. You need to be strong.
+
+NAMELESS	Why do I have to be strong?
+
+NAMELESS	Why do I have to be strong? Maybe it’s better to be weak and poor? Does the rain sent by God not fall on all equally? Don't we all breathe the same air? Why do we force all other peoples to be blind and mute?
+
+WILLIBRORD	I knew such apostles but they ended up like those before us – only bones are left of them.The pagans want to see someone better than them, someone supported by the strongest of gods.
+
+NAMELESS	They do not even understand your language.Something else is needed here.
+
+WILLIBRORD	What?
+
+NAMELESS	I don't know yet…
+
+WILLIBRORD	They don't have to understand. They will see miracles.
+
+WILLIBRORD	Look! I tore your god's charm off! Nothing happened! No thunder struck me! See? Nothing happened!
+
+PRAHWE	He says our gods are weak and can be ridiculed.He tore the charm off and Perun’s anger didn’t strike him.
+
+PEM	Beware of Perun, the father of all fathers, the strongest of gods, straight as a poplar, the master of lightning, whose thunder is louder than the bellow of a bull and banging on clouds with a goat horn. Every man wishes to be hit by his stone hammer that gives a long life and freedom from disease. But it turns strangers into ashes and into a black rock.
+
+
+WILLIBRORD	Praise God in his sanctuary; praise him in his mighty heavens![a] Praise him for his mighty deeds; praise him according to his excellent greatness! Praise him with trumpet sound; praise him with lute and harp! Let everything that has breath praise the Lord! Praise the Lord!
+
+PEM	Even if Perun doesn’t turn you into a huge torch, Swarozyc will reach you. Boh svarycsa - his earthly flames consume whatever they find. We pray to the god of flames because he is the one who orders others in the skies. Veles and Triglav, Trojan and Radegast, Hors, Mokosh, Dazbog and Stribog, Simargl and Pereplut, they all obey fire.
+
+WILLIBRORD	How long, O Lord? Will you forget me forever? How long will you hide your face from me? How long must I take counsel in my soul and have sorrow in my heart all the day? How long shall my enemy be exalted over me? Consider and answer me, O Lord my God; light up my eyes, lest I sleep the sleep of death,
+
+WILLIBRORD	I challenge you to the trial of fire…
+
+PRAHWE	He wants a trial of fire, he says he has a stronger Swarozyc on his side.
+
+WILLIBRORD	Blessed be those who believe without understanding…
+
+NAMELESS	Where’s the artifice in this?
+
+WILLIBRORD	There was none.
+
+WILLIBRORD	Stay!
+
+WILLIBRORD	I told you… This is just the beginning…
+
+NAMELESS	The beginning of what?
+
+WILLIBRORD	Of their new lives… and ours. You wanted it yourself…
+
+NAMELESS	We were supposed to save lives, not take them!
+
+WILLIBRORD	Leave it! This is God’s will.
+
+WILLIBRORD	Do it… You shall set me free… and yourself… That would be easier. You wanted it from the start…Once you kill me, you won't have to convert them anymore…You will become one of them! And that is what you want, right? Tell me… isn't that true? Tell me!
+
+NAMELESS	I will tell you nothing more…
+
+GEOWOLD	Disperse! This is a conversation for leaders! Nobody else can be here!
+
+GEOWOLD	We need to talk.
+
+WILLIBRORD	How come you know the speech of men?
+
+GEOWOLD	I am a man just like you.
+
+GEOWOLD	It's bad, isn't it? You get used to it with time.
+
+WILLIBRORD	It's hard to get used to bad things.
+
+GEOWOLD	I have lived here long. I got used to it.
+
+WILLIBRORD	Where have you come from?
+
+GEOWOLD	I was a merchant. A young merchant... I lost everything at sea. Fate cast me onto this island. I stayed…
+
+WILLIBRORD	You rejected God for wooden idols.
+
+GEOWOLD	I rejected your god for my wife and daughter. And for peace, which you have disturbed by coming!
+
+WILLIBRORD	Is that why you killed those who came before us?
+
+GEOWOLD	We killed no one. It was a disease. Maybe your god did not bless them.
+
+WILLIBRORD	You are lying!
+
+GEOWOLD	Listen to me, priest. You are alive. Do you know why? I will not follow the mistake of the tribe I saw as a young man.
+
+GEOWOLD	They killed a priest of Christ and were all killed themselves within a year! Not by god, but by a regular army! No... I am patient.
+
+GEOWOLD	You can do whatever you like. My people will soon be bored.
+
+GEOWOLD	You will leave. By water. To preach to the fishes.
+
+WILLIBRORD	Your days are numbered, my friend. The king will come in a few months, with his army. And when that happens you will either greet him as a Christian duke, or you will die. As bishop I will have the power to make you a duke, so it is in your interest to accept the true God. Or to remember you are one of his lambs!
+
+GEOWOLD	Now you are lying. We are the last island anyone would like to come to.
+
+WILLIBRORD	This autumn things will change. You have my word.
+
+GEOWOLD	You can build the church and convert people. But leave our sacred grove alone and keep away from the village.
+
+WILLIBRORD	Remember, you are only postponing what has to come.
+
+GEOWOLD	Remember that my patience has its limits. That gate is the limit.
+
+NAMELESS	Blessed are the poor in spirit,for theirs is the kingdom of heaven… Blessed are the meek, for they will inherit the earth…Blessed are the merciful, for they will be shown mercy…Blessed are the peacemakers, for they will be called children of God…
+
+GEOWOLD	Did the knight sew your mouth?
+
+PRAHWE	Please,  take  him  to  your  home  to  tend  to  his  wounds. You are the only one who can take him in.
+
+GEOWOLD	Do as my daughter says.
+
+PRAHWE	I prayed for you... You are the prophet who shall lead us out of here...From these damned rocks inhabited by demons. You shall lead us to green pastures. Like it’s written. You will bring life back to us…The life we used to know before my father made us leave our homes and hide in these mountains. Before he handed us to the devil.
+
+PRAHWE	Words are not necessary...
+
+GEOWOLD	Did he do this to you?
+
+GEOWOLD	You did it for him?
+
+GEOWOLD	Do you feel your god did it to you or did you do it yourself?
+
+GEOWOLD	So it was god… Let it be.Tell me one more thing…Is the king really coming here?
+
+GEOWOLD	When the damned church stands, would the Knight protect us from the king? Can you promise me that, Mute?
+
+GEOWOLD	Your sincerity saved you.
+
+WILLIBRORD	Who sent you? Who?
+
+WILLIBRORD	Speak!
+
+WILLIBRORD	Why are you doing this?
+
+WILLIBRORD	Higher. Slowly. Hold it. Tie it stronger. Pull. Stay focused.
+
+WILLIBRORD	Steady, steady… Are you all thumbs? Careful on the right… Now…
+
+WILLIBRORD	Not only are you the litter of this tribe, but you have to destroy everyone’s work, too! Is it so hard to focus? To do the same the others do? I don’t want to see your face ever again.
+
+WILLIBRORD	Hey, you! Wake up! What happened?
+
+WILLIBRORD	What is it?
+
+KARENGA	is Mokosh’s curse. We know it. It happened before. We are building a strange temple. You never asked his consent…
+
+WILLIBRORD	Where are you going? Get back! Get back right now!
+
+WILLIBRORD	Stop! I said stop!
+
+WILLIBRORD	Let us in!
+
+WILLIBRORD	Let us in, for Christ's sake! We have brought a sick man!
+
+PRAHWE	They blame you.
+
+WILIIBRORD	Me? Why is that?
+
+PRAHWE	They say is a curse of Mokosh. For building a strange temple.
+
+WILLIBRORD	Superstitions!
+
+PRAHWE	I do not believe that... But the Mute tells you not to come near the village.
+
+WILLIBRORD	Some became fools through their rebellious ways and suffered affliction because of their iniquities.
+
+WILLIBRORD	He sent out his word and healed them; he rescued them from the grave.
+
+WILLIBRORD	A miracle...
+
+PRAHWE	It is a gift.
+
+WILLIBRORD	From whom?
+
+PRAHWE	God maybe...
+
+WILLIBRORD	Or maybe quite the opposite!
+
+PRAHWE	He is our only hope.
+
+WILLIBRORD	Who is?
+
+PRAHWE	The Mute.
+
+WILLIBRORD	Tell him... Tell him he knows where to find me.
+
+WILLIBRORD	You praise demons! You're unworthy of building a House of God! This is God’s doing! Unlike your homes in the rocks. They weren’t built by God, but by his foe. He wanted to ridicule him and he built something that resembles a cathedral but that isn’t one!
+
+WILLIBRORD	Go to Hell! He will claim your soul when the time comes! And it will come!
+
+WILLIBRORD	What are you looking at? Go back to work. God will not wait forever! He will lose his patience too!
+
+WIILIBRORD	What do you want?
+
+WILLIBRORD	You've got a beautiful wife…
+
+WILLIBRORD	What? You do not speak? You can hold your tongue, but not the rest of your body!
+
+PRAHWE	No… It is not what you think.
+
+WILLIBRORD	Silence! I did not ask you! Let the prophet speak.Either men's or angel's tongue!
+
+WILLIBRORD	You think you're a saint! It's pride! You think you can convert and heal these people? How? You mess with their heads! That is a huge sin!
+
+PRAHWE	He wants to help you. The Mute will build the church. He does everything for you. And for your God. He wants to be where you are.
+
+WILLIBRORD	He? Who is he? This stray. That is him! Your saint Mute!
+
+PRAHWE	I am afraid of you and I hate you! You are not sent by God but by demons.
+
+WILLIBRORD	Who exactly are you? How do you know what he has to say?
+
+PRAHWE	I can feel it. Here…
+
+WILLIBRORD	Go away! Out of my face! Don't ever come to a sacred land again.
+
+WILLIBRORD	I don’t want anything from you!
+
+WILLIBRORD	Sinners and their gifts end up in flames.
+
+WILLIBRORD	…but without love I'd be nothing… Nothing… Nothing…
+
+WILLIBRORD	Nothing...
+
+KARENGA	Nothing...
+
+WILLIBRORD	From now on you are the Sentinels. You will defend the House of God with all your might. With your blood and your lives. Nothing shall be more important than your work for the Lord. For God. The Maker. And for me…Do you understand?
+
+PRAHWE	Do not hesitate. You are doing this for us, not for him. And for me.
+
+WILLIBRORD	Go away! All of you! Being baptised by a nameless mute means nothing! He is a traitor and a sinner! Go back to your homes! Away!
+
+KARENGA	He is a liar! This ceremony is wrong. We will save your souls.
+
+WILLIBRORD	We witnessed witchcraft. She's a demon that beguiled the Mute man! I saw her whispering hellish spells into his ear. This witch has to be purified in sacred fire.
+
+GEOWOLD	Only you can save us! Remember who you are!
+
+WILLIBRORD	You know what to do…
+
+WILLIBRORD	Try to bring him back to life…
+
+WILLIBRORD	My son was only a child…He was made a knight… I remember – before the fight – his face when he bid me farewell. He kissed my ring. He was so proud. He said: "Father, I won't bring you shame." That's the last time I've seen him. I recognised the body by the clothes. The face was past recognition…That is life. Unfair. The dead cannot be brought back to life. They remain dead.
+
+WILLIBRORD	Please… My heart was made of stone for half of my life. Now I feel something and I don't want to lose it again. My life would be pointless without it…That is why I could not... I could not do it... There, at the beach... I could not do it...
+
+WILLIBRORD	You don’t even know the extent of your mistake. You became a false massiah. Evil led you. You changed these poor people and now you leave them. Run! This is your last chance.
+
+WILLIBRORD	I cannot lose you for the second time…
+
+WILLIBRORD	Come with me.
+
+WILLIBRORD	Listen up! The devil has left this place once and for all!
+
+WILLIBRORD	It is the time of purification. All... all that you have here. Is... wood. It has no more meaning. The time of real God has come. And with it, the time of the real King that will come. We will thus purify ourselves in the fire to greet the King and ruler with dignity. And we will purify in the fire to greet God. Because God... real God...
+
+WILLIBRORD	Likes fire…
+
+WILLIBRORD	Witch...
+
+WILLIBRORD	Set it alight!
+
+NAMELESS	I am free... Give it to him when he comes...
+
+WILLIBRORD	Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me...
+
+WILLIBRORD	Lord, it's a miracle! You are witnessing the miracle of conversion and of eager faith! It's an epiphany Its sign is in my church!
+
+KING	Where is my son?
+
+KING	My son Aethelbald...
+
+KING	Did you kill him?
+
+WILLIBRORD	Yes. He was the last man I have ever killed.
+
+KING	You fulfilled your mission...
+
+WILLBRORD	That was your will, Master...
+
+KING	This was the will of the heavens! There was no other way!
+
+WILLBRORD	You know it, Master... I am just your humble servant...
+
+KING	You have done your part. I will make you the Bishop of this people. If you want it.
+
+WILLIBRORD	I do, my lord. I want it.
+
+KING	Bring it in.
+
+KING	This is your bishop's ring. Take it!
+
+KING	Leave, bishop. You have done your part.
+
+KING	You haven't asked – why? You did right. You're not supposed to ask the king questions like that. Why his son hated him. He didn't want wars, bloodshed, where did he get that? He wanted to destroy the kingdom I have been building my whole life. He understood nothing. And I counted on him so much... You're not supposed to ask why he ordered his own son's murder. Why hasn't he made him his heir. Why didn't he want to see him on the throne? Why didn't he want to hold his grandchildren? Why is that? You are not supposed to ask. There is no answer to that.
+
+KING	And you? You were supposed to kill him, not turn him into a pagan saint!
+
+KING	What were his last words? Did he regret it?
+
+WILLIBRORD	No, Master. He said: show my work to the King. He inspired these people, he brought real God to them. He won. With me... and you.
+
+KING	What’s the name of that village on the mountain?
+
+WILLIBRORD	Thule, my lord.
+
+KING	Burn it down.
+
+WILLIBRORD	But there are Christians among them...
+
+KING	That’s even better. God will pick his souls.
+
+KARENGA	The king has come, master…

@@ -1,0 +1,2628 @@
+GHOST SQUAD VF
+(BOUCLE 1 - 10:00:00:00)
+		01
+
+INSERT	RAPPORTS DE MISSION - DOSSIERS 'CHASSEURS ELITE DE MONSTRES' - MERCREDI 18H00
+
+CHARLIE	(Rhh!_)Je vois rien du tout. Aïe! Arrête de faire ça!
+
+ALEX	Quoi?!
+
+CHARLIE	Ca, c'est mon pied!
+
+ALEX	Mais j'ai rien fait. Hé! Arrête!
+
+NICK	Désolé, c'était mon coude.
+
+ALEX	Hah! Ça m'étonne pas.
+
+CHARLIE	Quelqu'un veut bien trouver la lampe de poche ?
+
+NICK	Ecoutez(...)
+
+CHARLIE	Quoi ? J'entends rien!
+
+ALEX	Ca y est, je crois que je l'ai trouvé.
+
+NICK	Attends(...) Je l'entends à nouveau.
+
+ALEX	Tu dois avoir l'ouï d'un chien parce que tout ce que j'entends, c'est Charlie qui respire fort.(_h/_)Sortons d'ici, toute cette histoire est ridicule!
+
+(BOUCLE 2 - 10:00:34:13)
+		02
+
+CHARLIE	Ouais, c'est vrai! Et la prochaine fois qu'on te dit qu'un horrible monstre habite dans un immeuble abandonné, (_h/_)rend-nous service et laisse nous en dehors, d'accord?
+
+NICK	Hé! J'avais une piste sérieuse! Jeannie Taylor l'a dit à Marti Nixon qui l'a ensuite dit à Ethan Reynolds pendant le cours de sport.
+
+CHARLIE	Quoi?
+
+ALEX	Huh? (_hh_hh_)
+
+NICK	Et tu sais, j'aurais jamais cru une seconde qu'on se ferait piéger dans un placard à balais!
+
+ALEX	Quoi! T'appelle ça une piste sérieuse? Bien joué, La Binocle, t'es vraiment pas doué pour ce genre de chose.
+
+NICK	Hé! Je t'interdis de m'appeler comme ça.
+
+CHARLIE	C'est bon, ça suffit tous les deux! Écoute-moi, peu importe ce que t'as cru entendre, y'a plus rien! Vaut mieux qu'on rentre.
+
+NICK	Mhhmm.
+
+
+(BOUCLE 3 - 10:01:18:23)
+		03
+
+CHARLIE	Tu vois? 	Je t'avais bien dit qu'il n'y avait rien. (Huh!!)
+
+ALEX	(Huh!)
+
+NICK	(Huh!) Tu disais quoi déjà?
+
+ALEX	Ca doit sûrement être le vent ou un truc comme ça.
+
+NICK	A mon avis, c'est autre chose que le vent!
+
+CHARLIE	Dans ce cas, allons voir ce que c'est.
+
+NICK	Non, je crois pas que ce soit une bonne idée.
+
+CHARLIE	T'as qu'à rester ici alors!
+
+ALEX	Ouais, reste ici.
+
+NICK	(Euh__hh__)c'est encore pire comme idée!
+
+(BOUCLE 4 - 10:01:53:09)
+		04
+
+ALEX	C'est quoi ça?
+
+INSERT	TRAQUEUR DE MONSTRES
+
+NICK	Une caméra thermique. Pour traquer les monstres!
+
+ALEX	(Oh!)
+
+CHARLIE	(Shhh!) J'ai entendu quelque chose.
+
+NICK	Qu'est-ce que c'était?
+
+CHARLIE	Y'a quelque chose là derrière.
+
+ALEX	Je vois rien, moi.
+
+CHARLIE	(h/__)Les gars(...) 	je crois qu'il est temps qu'on s'en aille. (Ahhhhhhhhhhhhhhhhhhh!!!!)
+
+ALEX	(Ahhhhhhhhhhhhhhhhhhh!!!!)
+
+NICK	(Ahhhhhhhhhhhhhhhhhhh!!!!)
+
+
+(BOUCLE 5 - 10:02:31:20)
+		05
+
+CHARLIE	(_hh_hh__________________)
+
+JAKE	Tiens, tiens, tiens, regardez ce que j'ai trouvé !
+
+ALEX	(_hh_hh_________________)
+
+JAKE	Nos mauviettes préférées du collège !
+
+BRENT	(hahahahaha__)
+
+JAKE	L'équipe des Chasseurs Geek de monstres.(_hahahah)
+
+BRENT	(ahhaahahahha)
+
+CARTER	(hahaha_______)
+
+NICK	En fait, on est l'Équipe des Chasseurs Elite de Monstres, espèce de Neandertal.
+
+JAKE	(Rhhah!_)Allez, lève-toi! Allez.
+
+CARTER	(Tss!) Neandertal? 	(hah!_) Ca, ça a l'air moche! C'est un mot à plusieurs(_uh...) 	comment on appelle ça déjà?
+
+ALEX	Des syllabes, pauvre tâche.
+
+CARTER	Ah ouais?! Tu veux un coup de poing par syllabe ?
+
+ALEX	(ah__ah__ahh___ahahah__________)
+
+CARTER	Ne-an-der-tal!
+
+JAKE	(hahahaha_____)
+
+BRENT	(hahahaha_____________________)
+
+JAKE	Qu'est-ce qui va pas, les losers ? Le club d'échec est fermé alors vous avez décidés de devenir des criminels et entrer par effraction ?
+
+BRENT	(haha__HAHA_)
+
+JAKE	(_hahah_)
+
+
+(BOUCLE 6 - 10:03:09:01)
+		06
+
+NICK	Pour ton information, on était en train de traquer une créature ultra monstrueuse non identifiée dans cet immeuble abandonné... (h/_) et on l'a piégé à l'intérieur.
+
+JAKE	On t'a rien demandé !
+
+BRENT	(hahahaha)
+
+CARTER	(hahaha)
+
+JAKE	Tais-toi, espèce de geek ! Dis-moi Charlie(...) vous faisiez quoi au juste dans l'ancienne banque?
+
+ALEX	Ça te regarde pas, crétin!
+
+BRENT	Wouah! Tu vas te calmer tout de suite l'intello où je te fais déguster une salade de patates...
+
+CARTER	(haha_) suivi d'un "pin à l'aïe". (_hahaahha)
+
+JAKE	Ouais(_hahaha)
+
+CARTER	Hé! Mais c'est quoi ton délire avec cette veste? Tu portes cette horreur tous les jours.
+
+BRENT	(haha)
+
+JAKE	Il pense qu'il va aller à la Fac de HARTFORD,(_euh_)ça, j'en doute!
+
+BRENT	(hahaha)
+
+CARTER	(hahaha)
+
+JAKE	(hahahah_____)
+
+CARTER	(hahaha______)
+
+BRENT	(hahaha____)
+
+CHARLIE	C'est HARVARD, espèce d'idiot! J'aurais cru qu'être au lycée t'aurai rendu beaucoup plus malin. Cette veste appartenait à son grand frère... 
+	le marine!
+
+(BOUCLE 7 - 10:03:49:13)
+		07
+
+JAKE	(hahahahaha_________________)
+
+CARTER	(hahahahahah_________________________________________________________________________________________________)
+
+BRENT	(pphouahhh____________) Ils sont où les marines quand on en a besoin? (hahahahah_______)
+
+JAKE	(Ohh!_)Quelle monstrueuse créature! Vous êtes vraiment des mauviettes ! (_haha_)
+
+BRENT	C'est n'importe quoi!
+
+JAKE	Pas étonnant que des mauviettes comme vous ayez peur d'un chaton! (_haha_) Attend que je le dise à tout le monde au collège !
+
+CARTER	(hahaha)
+
+BRENT	(ahahah)
+
+CHARLIE	(Uh!)
+
+JAKE	(Ho!!) (Pff!) J'aurai ta peau, Hamilton ! (huh)
+
+INSERT	(GENERIQUE DEBUT)
+
+
+(BOUCLE 8 - 10:06:10:07)
+		08
+
+AMB	(AMB ECOLE COLLEGE)
+
+FILLE 1	Sympa ton déguisement... loser!
+
+ALEX	(uh/_)
+
+CHARLIE	(Argh!) Tu vois que j'avais raison, personne d'autre ne porte de déguisement ! Je m'sens complétement idiot !
+
+ALEX	M'enfin, c'est Halloween, on porte toujours des déguisements !
+
+CHARLIE	T'as pas un peu l'impression qu'on a passé l’âge de se déguiser?
+
+ALEX	Non.
+
+
+(BOUCLE 9 - 10:06:37:23)
+		09
+
+NICK	Les gars! Ca y est, je l'ai enfin reçu! Le Monstre des Marais Deux Cent Dix Sept! C'est celui où l’Alien doit combattre l'armée des zombies visqueux. Il finit par manger son propre cerveau!
+
+BRANDY	Bonjour Charlie!
+
+NICK	(haha)
+
+CHARLIE	(Ohh!_)Bonjour, Brandy! Salut! Comment ça va aujourd'hui?
+
+BRANDY	Tu as fini le résumé des chapitres pour le cours de physique?
+
+CHARLIE	(Oh, )oui, le résumé des chapitres. Absolument, j'ai( euh ) je l'ai ici. Allez... allez! Trouvé!
+
+
+(BOUCLE 10 - 10:07:10:16)
+		10
+
+ANGELA	Sympa ton déguisement, t'es censé être un chien, c'est bien ça?
+
+CHARLIE	En fait, non. 	J'suis un loup-garou.
+
+BRANDY	C'est chouette.(_haha_)
+
+CHARLIE	Ouais, en fait, on était en train de se moquer de tous les losers qui se déguise pour Halloween. Ouais, d'habitude, on est beaucoup plus mature.
+
+BRANDY	Oui, je vois ça.
+
+NICK	(Arhh rhhahhh_______________________)
+
+ALEX	(Arhh rhhahhh_______________________)
+
+CHARLIE	(_hh_) zut.
+
+NICK	(Arhh rhhahhh_______________________)
+
+ALEX	(uhhh__________)
+
+(BOUCLE 11 - 10:07:45:24)
+		11
+
+AMB	(AMB ECOLE COLLEGE)
+
+CHARLIE	(Awh____ )Génial!
+
+NICK	Hé, arrête! Non, rends-moi ça!
+
+JAKE	Donne-moi ça. Mais tais-toi!
+
+CARTER	(hahahah_______)
+
+ALEX	On peut toujours s'enfuir... Il parait que le Mexique est splendide à cette époque.
+
+JAKE	C'est quoi ça? Le Lexique des Démons, des monstres et des aliens. Et toi, t'es dans quel chapitre?
+
+BRANDY	T'es trop nul de lui faire ça, laisse-le tranquille.
+
+JAKE	(haha)
+
+CARTER	(hahah____________________)
+
+JAKE	(Awh! )Regardez, c'est l'Unité des Mauviettes!
+
+BRENT	(_hh_)
+
+JAKE	Tu fais moins le malin quand j'ai pas un milkshake à la main!
+
+BRENT	(hahaha)
+
+BRANDY	Je suis sérieuse! Je vais le dire à maman!
+
+CHARLIE	Hé! Vous feriez mieux de vous arrêter. C'est quoi ton problème? T'as personne à embêter au lycée, alors tu reviens ici?
+
+(BOUCLE 12 - 10:08:22:08)
+		12
+
+BRANDY	Jake!
+
+CHARLIE	(_hh_)
+
+JAKE	(Rhh_)A ton avis, quelle quantité de gazon il peut avaler avant de vomir? Hein? Hein? Vient, on essayer pour voir!
+
+ALEX	Arrête! Laisse le tranquille!
+
+CARTER	On se fait une partie, bande de losers.
+
+BRENT	(hahahaha)
+
+JAKE	(Hoho, )on les écraserait. Ils pourraient pas gagner contre le club de tricot de ma grand-mère!
+
+JAKE	(hahaha)
+
+BRENT	(hahah)
+
+CARTER	(ahhaah)
+
+JAKE	Et elles sont toutes en chaises roulantes! (hahaha)
+
+CHARLIE	(_hh_hh_) 	Oui, justement, on voulait trouver une activité qui ne sollicite pas l'utilisation de notre cerveau. Alors, peut-être qu'une partie de football américain est la solution.
+
+JAKE	Qu'est-ce que tu viens de dire, morveux? On aurait dit une insulte, mais... c'est pas possible, parce qu'il faudrait que tu aies du cran! Chose que toi et ta bande de mauviettes, vous n'avez pas!
+
+CARTER	(hahahaha_________)
+
+BRENT	(hahaha________________)
+
+NICK	Charlie, t'es en train d'envenimer les choses, tu sais?!
+
+(BOUCLE 13 - 10:09:04:14)
+		13
+
+CHARLIE	N'importe quel débile peut lancer un ballon de football américain. 	Enfin, non, apparemment pas n'importe quel débile puisque toi et ton équipe, vous avez perdu quasiment tous les matches cette saison, n'est-ce pas?
+
+JAKE	(Hh->) Tu crois ça? Essaie de faire ça, Einstein. (Mhah!)
+
+MAN VELO	(UH!)
+
+JAKE	(hahaha_________)
+
+CARTER	(Ohohoho_hoho________)
+
+BRENT	(hahaha________________)
+
+JAKE	(Euh___ )Alors, tu disais?
+
+BRENT	(hahaha____)
+
+CHARLIE	Je disais que c'était pas difficile pour une bande de crétins d'aller sur un champs et de se mettre à se massacrer entre eux.
+
+JAKE	(Hah->!)
+
+BRENT	C'est un terrain, professeur, c'est pas un champs!
+
+CARTER	(hahahah)
+
+BRENT	(hahahah)
+
+JAKE	Ca va, c'est bon. D'accord Charlie, j'ai un défi pour toi... vu que t'es un vrai dur à cuire maintenant.
+
+CHARLIE	(hh_) Je t'écoute. Vas-y, lance ton défi.
+
+(BOUCLE 14 - 10:09:48:15)
+		14
+
+JAKE	(Houah!) (Euh_)d'accord...(_euh...) La vieille demeure des Sullivans... 	toute une nuit. Toi et ton unité Elite de mauviettes, vous devez y passer toute une nuit.
+
+CHARLIE	Qu'on fasse quoi?
+
+JAKE	(Oho_)T'as bien compris. La demeure des Sullivans... une nuit entière.
+
+CHARLIE	Cette maison est censé être hanté. 
+
+CARTER	Sans blague, l'intello. C'est justement pour ça!
+
+BRENT	(hahahahah)
+
+CARTER	(Hah!_)Vous dites toujours que vous êtes experts en tout ce qui fait peur... eh ben, prouvez-le!
+
+BRANDY	Non...
+
+JAKE	C'est bien ce que je croyais.
+
+BRENT	(hahaha)
+
+CARTER	(hahahah)
+
+CHARLIE	Dis-moi quand tu veux qu'on y aille, et on y sera.
+
+JAKE	Demain soir, 	la nuit d'Halloween.
+
+CHARLIE	D'accord.
+
+JAKE	(hahaha_h/_)Okay, Charlie, c'est toi qui voit.
+
+ALEX	Quoi?
+
+NICK	(huh?)
+
+BRENT	(hahah)
+
+JAKE	Rendez-vous derrière l'école, près des bancs, demain... dix-huit heures. Et pas d'excuses. (hahaah)
+
+CARTER	(hahahah)
+
+(BOUCLE 15 - 10:10:51:18)
+		15
+
+NICK	(h->) Tu nous as embringué dans quoi encore? Pitié, dis-moi que je rêve!
+
+ALEX	Non, c'est plutôt un cauchemar !
+
+CHARLIE	Allez, les gars... Est-ce qu'on va les laisser nous malmener jusqu'à la fin du lycée? 	On va les laisser nous humilier devant tout le monde encore combien de fois?
+
+NICK	J'en sais rien Charlie, mais je préfère encore être humilié que rester la nuit dans la maison des Sullivan.
+
+ALEX	Ouais, Charlie, la maison est hantée. Je vois vraiment pas ce que tu comprends pas.
+
+CHARLIE	(haha_)Vous croyez quand même pas à ses histoires!
+
+NICK	Si! Pourquoi on en douterait?
+
+ALEX	T'as juste envie qu'on vienne avec toi.
+
+CHARLIE	Les gars, on va être dans le même lycée qu'eux l'année prochaine. T'as vraiment envie d'être leur souffre-douleur pendant quatre ans? Tant pis. J'arrête.
+
+ALEX	Alors... c'est quoi le plan?
+
+NICK	Ouais, on fait quoi?
+
+CHARLIE	Rendez-vous chez moi à dix-huit heures et je vous expliquerai tout.
+
+ALEX	En fait, tu vas tout improviser.
+
+CHARLIE	T'as tout compris!
+
+(BOUCLE 16 - 10:11:59:08)
+		16
+
+CAROL	Charlie, j'aimerais que tu boives plus de lait et que t'arrêtes les sodas.
+
+CHARLIE	Mais je suis allergique aux produits laitiers maman, tu le sais... et ça fait je n'sais combien de temps que j'ai pas bu un soda.
+
+TODD	Ouais, il est allergique à absolument tout, spécialement les filles!
+
+CHARLIE	Ferme la, crétin!
+
+TODD	(Oh )non, qu'est-ce qu'il y a? Tu craques toujours pour la nana dans ton cours de physique?
+
+CHARLIE	Je plaisante pas, Todd.
+
+TODD	J'ai une meilleure idée... t'as qu'à venir ici et obliger à la fermer. Hé! Il m'a jeté ses haricots verts!
+
+CHARLIE	Et on dit qu'on ne peut pas dresser un bébé.
+
+(BOUCLE 17 - 10:12:31:12)
+		17
+
+CAROL	Charlie, Todd, vous mangez et vous vous taisez ! Je t'ai acheté du lait d'amande. On dit que c'est meilleur pour le système digestif.
+
+TODD	Ouais, Charles, ou tu préfères peut-être boire le biberon de Noah?
+
+CHARLIE	Je te préviens une dernière fois, Todd.
+
+CAROL	(h->)
+
+TODD	Vas y, préviens moi encore.
+
+RUSS	Assieds-toi tout de suite et boucle-la Todd, sinon je laisser Charlie avoir cinq minutes seul avec toi.
+
+TODD	Ça c'est pas cool, Russ!
+
+(BOUCLE 18 - 10:13:10:17)
+		18
+
+NICK	Hé, les gars... 	je pense que vous allez vouloir lire ce que j'ai trouvé. Au cours des années Cinquante, le Gang des Sullivan a été soupçonné d'avoir cambrioler plus d'une trentaine de banques rien qu'en Californie. Ils ont finalement trouvé la mort, ici, à Elk Falls, lors une fusillade qui a eu lieu dans la Demeure des Sullivan. (h/_)La police dit que c'était un véritable bain de sang, 	qu'il y avait des morceaux de corps partout! 	Il est aussi dit que la demeure est censée être hanté par le gang et leur vieux chien vicieux, SALTY.
+
+
+(BOUCLE 19 - 10:13:46:00)
+		19
+
+ALEX	Quoi? Hanté par un chien? Laisse-moi voir ça. A travers les années, plusieurs habitants de Elk Falls ont signalés des bruits étranges qui provenaient de la maison des Sullivan, maison qui est toujours abandonnée à ce jour 	suite à un conflit continue entre les ayant-droits... 	ainsi que l'incapacité de la ville à trouver un acheteur potentiel voulant endosser le lourd héritage de cette propriété.
+
+NICK	Non, mais... regardez un peu leur visage... on dirait des psychopathes !
+
+ALEX	Ouais. Hé, (h/_)celui-ci te ressemble beaucoup, Labinocle.
+
+CHARLIE	La maison est hanté par un chien ? C'est vraiment n'importe quoi ! C'est rien qu'une vieille maison! On y va, un point, c'est tout!
+
+ALEX	T'as raison, il faut qu'on y aille. Si on n'y va pas, ça va être l'enfer pour nous au collège puis au lycée. On n'a vraiment pas le choix.
+
+NICK	C'est déjà l'enfer pour nous.
+
+(BOUCLE 20 - 10:14:32:12)
+		20
+
+CHARLIE	Oui, mais si on n'y va pas, ce sera encore plus l'enfer pour nous.
+
+NICK	Et comment on va obtenir la permission de nos parents pour y rester toute la nuit.
+
+CHARLIE	C'est très simple... 	On dit à nos parents qu'on reste les uns chez les autres et le lendemain, on est des héros... et cette bande de crétins ne pourra plus jamais nous malmener.
+
+NICK	Je dois rentrer chez moi. Ma mère va nous faire ce qui ressemble vaguement à un pain de viande(_h/_)et si j'arrive trop tard, ma sœur aura déjà donné sa part au chien.
+
+CHARLIE	D'accord, 	mais rappelle-toi, rendez-vous derrière l'école à dix-huit heures.
+
+NICK	Ca veut dire qu'on va rater Halloween alors ?
+
+ALEX	Ben forcément, oui.
+
+CHARLIE	Ce sera encore mieux qu'Halloween, crois-moi !
+
+NICK	Bon, d'accord Charlie...
+
+(BOUCLE 21 - 10:15:09:14)
+		21
+
+ALEX	On se voit demain soir alors.
+
+RUSS	Non, désolé... 	Y'a ton entraineur de lutte qui passe demain soir, rappelle toi.
+
+NICK	Mais Charlie ne fait pas de lutte!
+
+CHARLIE	Je déteste la lutte, tu le sais.
+
+RUSS	C'est pour ça que tu vas prendre des cours.
+
+CHARLIE	C'est pas logique du tout!
+
+RUSS	(gulp) 	Il faut que tu te trouves une activité physique. Tu passes bien trop de temps devant ton ordinateur.
+
+ALEX	Quel genre d'entraineur va voir quelqu'un le soir d'Halloween?
+
+RUSS	Au revoir les garçons.
+
+CHARLIE	Non, mais, on a un devoir sur table en géométrie bientôt et on est dans le même groupe d'étude. Je peux pas les décevoir !
+
+RUSS	Mais moi, tu peux me décevoir.
+
+CHARLIE	Je le verrai après demain, je te le promets !
+
+RUSS	T'as intérêt à avoir un 'A' sur ce test.
+
+ALEX	Ouais!
+
+(BOUCLE 22 - 10:15:47:22)
+		22
+
+CHARLIE	(arhhhh__génial)
+
+TODD	Alors, t'as un DST en géométrie... Je sais ce que vous avez prévu de faire.
+
+CHARLIE	Non, tu sais rien du tout.
+
+TODD	Ah ouais? Peut-être qu'on devrait en discuter avec les parents?
+
+CHARLIE	Je ferais tes devoirs pendant une semaine. Non, je te donnerai pas ma tirelire.
+
+TODD	J'ai déjà regardé et t'as pas assez d'argent. Je veux vingt cinq dollars, c'est ça le prix de mon silence.
+
+ALEX	Je m'occupe de lui gratuitement si tu veux.
+
+CHARLIE	D'accord... mais pas... un mot.
+
+TODD	Et... tu fais tous mes devoirs.
+
+(BOUCLE 23 - 10:16:38:06)
+		23
+
+JAKE	Je suis impressionné. J'aurai cru que vous changeriez d'avis.
+
+CHARLIE	Il en faut plus pour nous effrayer.
+
+JAKE	Si tu fais ça pour impressionner ma sœur, laisse tomber. T'as aucune chance avec elle.
+
+CHARLIE	Je fais ça parce que j'en ai marre que vous nous malmenez tout le temps. 	Si on fait ce que tu demandes, tu nous laisseras tranquille pour toujours. D'accord?
+
+JAKE	D'accord. 	Mais, si j'étais toi, je crierai pas victoire tout de suite. (haha) Vous êtes vraiment prêt?
+
+CHARLIE	(h/_) Plus que prêt!
+
+JAKE	(hahahah___)
+
+CARTER	(pphahah_)
+
+BRENT	(hahahaha___)
+
+CARTER	Ah ouais? C'est facile de jouer les gros bras, professeur. Je parie que tu n'tiendras pas jusqu'au soir.
+
+JAKE	(hahaha)
+
+BRENT	Je parie qu'ils rentrent même pas dans la maison.
+
+JAKE	(hahaha)
+
+CARTER	(hahah)
+
+BRENT	(hahah)
+
+(BOUCLE 24 - 10:17:18:06)
+		24
+
+CHARLIE	Allez, qu'on en finisse.
+
+BRANDY	T'es sûr de vouloir faire ça, Charlie, t'es pas obligé.
+
+JAKE	Bien sur que si. 	Le défi, c'est que vous y restiez toute la nuit. 	Évidemment, si vous décidez de partir avant l'heure, tout le monde qui regarde en streaming, le verra. Vous serez filmé en caméras cachées toute la nuit. (euh_) A plus, les mecs.
+
+ANGELA	C'est bon, on peut y aller maintenant ?
+
+
+(BOUCLE 25 - 10:17:52:15)
+		25
+
+CHARLIE	Tu verras, on va bien s'amuser ce soir. (h!/_Oh )non!
+
+NICK	Mais qu'est-ce que tu fabriques ? On n'est même pas encore arrivé à la maison !
+
+CHARLIE	C'était mon père ! On est censé être chez toi en train de réviser pour un contrôle de math ! Allez, c'est bon, on y va!
+
+(BOUCLE 26 - 10:18:34:13)
+		26
+
+ALEX	(Ahhh___)
+
+NICK	C'est quand qu'on arrive, hein Charlie?
+
+CHARLIE	Bientôt.
+
+ALEX	(Arhh___)
+
+CHARLIE	(Arhh_)
+
+(BOUCLE 27 - 10:18:56:01)
+		27
+
+ALEX	Hé, vous avez lu le dernier numéro d'Invasion Zombies?
+
+NICK	Bien sûr, c'était génial! Tu l'as lu, toi?
+
+ALEX	Bien sûr, mais je préfère les Zombies Guerriers.
+
+NICK	Oui, moi aussi, mais c'est parce que c'était le premier, c'est normal qu'on le préfère.
+
+CHARLIE	(h/____um) (gulp) 	(mh->_)
+
+NICK	(mh/__)on fait quoi maintenant?
+
+ALEX	(uh/__)On fait comment pour rentrer là-dedans.
+
+CHARLIE	Venez avec moi.
+
+(BOUCLE 28 - 10:19:47:23)
+		28
+
+CHARLIE	Voilà! On va entrer par ici. On enlève ces planches et on se glisse à l'intérieur. Voyons si j'y arrive. (mhh)
+
+NICK	Est-ce qu'on est vraiment certain de vouloir entrer là-dedans?
+
+ALEX	Faut surtout pas craquer maintenant. Ils sont peut-être en train de nous observer.
+
+CHARLIE	(arrhhaarrhhh_) (h->_) On peut plus faire marche arrière. (mhhah!)
+
+(BOUCLE 29 - 10:20:14:09)
+		29
+
+JAKE	C'est trop facile. Ca va vraiment être une super soirée!
+
+CARTER	(hahahah)
+
+BRENT	(ahahahaha)
+
+JAKE	Rendez-vous chez moi dans une heure. Avant, vérifie que ça fonctionne.
+
+CARTER	Ça marche.
+
+JAKE	Ce soir, ces trouillards vont enfin avoir une double dose fantômes ! (hahaha)
+
+ANGELA	Vous avez vraiment mis des caméras ?
+
+BRENT	Son père travaille dans la sécurité.
+
+JAKE	Il m'a donné quelques joujoux pour que je m'amuse un peu. En plus, on doit s'assure que tes amis ne se font pas la malle.
+
+BRANDY	Ce que tu fais est vraiment très méchant tu sais?
+
+JAKE	(hahaha_) Absolument. 
+
+BRENT	(hahahaha)
+
+JAKE	(hahaha_)
+
+CARTER	(hahaha)
+
+(BOUCLE 30 - 10:20:53:17)
+		30
+
+NICK	(urh urh_________)
+
+CHARLIE	(Arhh____uhuh________tousse________)
+
+ALEX	(Ohh___)mon visage.
+
+CHARLIE	(Ohh______hoho________)
+
+NICK	(Ohh______)
+
+ALEX	(arhhh____arh________arh________)
+
+CHARLIE	(_tousse__________)
+
+ALEX	(Uh_)Fais attention, tu m'écrases.
+
+NICK	Désolé, j'essaie de me lever.
+
+CHARLIE	(uh______arh_________________)
+
+NICK	(uh_____uh____uh_________________)
+
+(BOUCLE 31 - 10:21:19:05)
+		31
+
+CHARLIE	Ben dis donc, c'est plus haut que je n'croyais. On arrivera jamais à ressortir par là même si on le voulait.
+
+NICK	Génial! Alors quoi, on est coincé ici?
+
+ALEX	On devrait même pas être là, Charlie, tout ça c'est ta faute.
+
+NICK	Ouais, j'avais mon costume de super héro mort vivant prêt pour ce soir... 	mais non, je suis coincé dans cette stupide maison hantée avec vous deux!
+
+CHARLIE	Vous allez vous arrêter tous les deux! Vous êtes pire que mon petit frère!
+
+ALEX	Quoi, tu nous traites de bébés?
+
+CHARLIE	Oui, avec le nez qui coule et des couches culottes de bébés..
+
+ALEX	C'est bon, ça suffit, je m'en vais, fini la fête. Fais-moi la courte échelle.
+
+NICK	Non, toi tu me fais la courte échelle.
+
+(BOUCLE 32 - 10:21:54:01)
+		32
+
+CHARLIE	Vous êtes sûr de vouloir partir? Vous en avez pas marre de vous laisser pourrir la vie par ces types? C'est notre chance de montrer à tout le monde de quoi on est capable. Si on repart maintenant, on n'pourra plus jamais montrer nos visages à l'école. Vous savez très bien qu'on peut y arriver. 	Sinon ils vont croire qu'on est vraiment des losers comme ils disent.
+
+ALEX	On n'est pas des losers!
+
+CHARLIE	Alors, prouve-le! S'il vous plait, les gars.
+
+ALEX	On s'en fiche de ces types, pas vrai?
+
+NICK	Ouais, peut-être.
+
+(BOUCLE 33 - 10:22:29:04)
+		33
+
+NICK	Faisons l'inventaire de ce qu'on a apporté. J'ai pris de quoi nous divertir: (h/_)une tablette, des jeu vidéos, des dvds, un lecteur et un GPS, juste au cas où. (Oh! )et( uh) ceci...
+
+CHARLIE	Très drôle Nick.
+
+NICK	Je savais que t'apprécierai le clin d'œil!
+
+ALEX	J'ai apporté la nourriture : des chips, de la salsa, pas trop épicée, des boissons, des petits gâteaux au chocolats, et le plat de résistance incontestable : les fameux plateaux repas au poulets frits.
+
+NICK	Ce sont des plateaux repas surgelés !
+
+ALEX	Ils auront décongelés d'ici ce soir.
+
+CHARLIE	Bon, j'ai apporté des allumettes, des piles neuves, j'ai aussi des bougies qui ne coulent pas, 	comme ça personne n'saura qu'on était là.
+
+ALEX	Ils pourraient remarquer la fenêtre !
+
+CHARLIE	C'est le chat!
+
+(BOUCLE 34 - 10:23:15:08)
+		34
+
+CHARLIE	(Oh! )et j'ai ça aussi... des lampes torches réglementaires de l'armée. Elles sont authentiques.
+
+NICK	Ca va aller, j'ai pris mon canif Ranger Jack de poche avec moi, il y a une lampe intégrée! Regarde!
+
+ALEX	(h->_) T'as eu ça dans une boite de céréales?
+
+NICK	C'est pour voir dans des espaces étriqués !
+
+ALEX	Comme ton cerveau?
+
+CHARLIE	(Rh->_)Faisons le tour et trouvons un endroit où s'installer pour la nuit.
+
+NICK	On devrait peut-être juste rester ici.
+
+ALEX	Tu veux vraiment qu'on reste dans un sous-sol poussiéreux ? Non, moi je vote non.
+
+CHARLIE	Allez, on y va! Ça pu le moisie dans cette cave. Vous êtes prêt? C'est bon?
+
+(BOUCLE 35 - 10:24:06:12)
+		35
+
+ALEX	Pas un bruit... juste au cas où.
+
+NICK	Juste au cas où quoi?
+
+ALEX	Au cas où les cadavres ensanglantés du gang des Sullivan hantent la maison.
+
+NICK	C'est pas drôle!
+
+CHARLIE	Hého, y'a quelqu'un là haut?
+
+ALEX	T'as perdu la tête ou quoi?
+
+CHARLIE	Y'a que nous. Allons-y. Vous voulez que je vous envoie un bristol, c'est ça?
+
+P2	Vous attendez que je vous envoie une invitation ou quoi?
+
+NICK	Peut-être qu'on devrait retourner au sous-sol. Personne le saura!
+
+CHARLIE	Un ranger n'a jamais peur!
+
+(BOUCLE 36 - 10:24:58:02)
+		36
+
+CHARLIE	Alors vous venez, ou quoi?
+
+ALEX	Qu'est-ce que tu vois?
+
+CHARLIE	(Uh_)une grande maison toute vide! Venez voir vous même!
+
+(BOUCLE 37 - 10:25:29:01)
+		37
+
+CHARLIE	(Wouah!_)vous avez vu ça!
+
+NICK	(Wouah!) 	(h/_)J'avoue, c'est plutôt cool!
+
+CHARLIE	Je vous l'avais dit: pas de chien fantôme et pas de gang des Sullivan.
+
+NICK	Ouais!
+
+(BOUCLE 38 - 10:25:56:07)
+		38
+
+ALEX	(h/_Hé!_)Je crois que j'ai trouvé l'endroit idéal.
+
+CHARLIE	Ce qui est génial dans cette histoire, c'est qu'à partir de demain, Jake et ses potes ne nous embêteront plus.
+
+NICK	J'avoue, j'ai vraiment cru que t'avais perdu la tête quand tu nous as embarqué dans cette aventure.
+
+ALEX	Ouais, finalement, c'était pas une si mauvaise idée que t'as eu, Charlie. (haha) Donc, si vous, les Neandertals, vous nous regardez,(_h/_)on est en direct de la maison hanté des Sullivan!
+
+ALEX	Jake, au secours, (h/_)des zombies nous ont transformés en morts vivants.
+
+NICK	Ouais, dites à nos professeurs qu'on ne reviendra plus en cours, ils peuvent donner nos devoirs à quelqu'un d'autre.
+
+ALEX	(ahhahaah___________)
+
+CHARLIE	(hahahaahha____)
+
+NICK	(hahahaha_)
+
+(BOUCLE 39 - 10:26:41:02)
+		39
+
+NICK	(mh->_) (mfp/_) 	Tu crois que le gang des Sullivan a vraiment habité ici?
+
+CHARLIE	J'en sais rien, peu importe. T'as vu tous les meubles à l'intérieur, quelqu'un a dû y habiter, y'a longtemps, en tous les cas.
+
+ALEX	D'ailleurs, les fantômes, ça n'existe pas.
+
+NICK	C'est toujours ce que l'un des personnages dit dans un film juste avant qu'un fantôme arrive en douce pour lui arracher le visage !
+
+(BOUCLE 40 - 10:27:21:03)
+		40
+
+CHARLIE	(Wouah!_) c'est super joli.
+
+ALEX	Ouais, c'est comme Brandy Benson.
+
+CHARLIE	Je t'interdit, Alex!
+
+NICK	(mh/_)Il a pas tort, Charlie, on serait pas dans cette galère si Brandy n'avait pas été avec nous hier.
+
+CHARLIE	Ouaip, tu serais en train de faire la tournée des voisins comme chaque année!
+
+NICK	Où est le mal à fêter Halloween!
+
+CHARLIE	C'est pour les enfants.
+
+NICK	(Rhâh_)Alors quoi, ça veut dire que tu te considères comme un adulte maintenant?
+
+ALEX	Ca suffit les gars. Regardez, un coucher de soleil, trois bons amis, on dirait une pub pour de la bière. Et tous les deux, vous cassez l'ambiance.
+
+CHARLIE	D'accord, j'arrête, 	mais c'est lui qui a commencé !
+
+NICK	(_hh_)
+
+CHARLIE	Et oui, Brandy Benson est vraiment très jolie.
+
+ALEX	(BF_mh->_)
+
+(BOUCLE 41 - 10:28:23:03)
+		41
+
+ALEX	Qu'est-ce que tu fais?
+
+NICK	Je tente le diable. C'est ce que font tous les rangers.
+
+ALEX	Non, c'est ce que font les idiots. Viens ici.
+
+CHARLIE	Allez, viens, Nick.
+
+ALEX	N'importe quoi.
+
+(BOUCLE 42 - 10:28:37:19)
+		42
+
+ALEX	Dis-moi, il faisait aussi sombre que ça tout à l'heure.
+
+CHARLIE	Tu fais quoi, maintenant ?
+
+NICK	Je voulais voir si l'un des interrupteurs fonctionnaient.
+
+CHARLIE	Excellente idée s'il y avait quelque chose à allumer ! Mais il n'y a rien. Alors, reste près de nous, d'accord?
+
+NICK	(_hh_)
+
+(BOUCLE 43 - 10:29:15:23)
+		43
+
+NICK	On l'avait laissé ouverte, la porte?
+
+ALEX	C'est quoi ce truc là-bas?
+
+CHARLIE	C'était que le vent.
+
+NICK	(Mh_hh_)j'aurai juré entendre quelqu'un nous parler. (mhh/___)
+
+ALEX	Nick, je vais venir te chercher !
+
+NICK	Si jamais il vient me chercher, je te promets qu'il t'aura toi d’abord !
+
+(BOUCLE 44 - 10:30:07:03)
+		44
+
+AMB	(AMB BROUHAHA RUE HALLOWEEN)
+
+(BOUCLE 45 - 10:30:15:15)
+		45
+
+JAKE	C'est ça, les garçons, installez-vous confortablement, ça va secouer !
+
+BRENT	(Hé! )Ils arrivent quand, les fantômes?
+
+JAKE	Soit patient, amigo ! 	Ils vont bientôt leur rendre visite. J'ai synchronisé les éléments sur cet appareil. On contrôlera tout d'ici.
+
+CARTER	T'as dit que je pourrais m'occuper de ça.
+
+JAKE	Oui, et je suis quelqu'un qui tient parole.
+
+JAKE	(hahahaha__________)
+
+BRENT	(hahaha_______)
+
+CARTER	(hahaha___)
+
+(BOUCLE 46 - 10:30:35:18)
+		46
+
+NICK	J'ai jamais mangé une cuisse de poulet congelée avant.
+
+CHARLIE	Si tu grignotes, petit à petit, ça finit par ramollir.
+
+ALEX	Désolé. J'ai dû attraper ce qu'il y avait avant que ma mère me demande pourquoi je prenais trois plateaux repas surgelés.
+
+NICK	Ce morceau est un peu plus mou. (mts) (mts) Décongelé, on dirait un sorbet.
+
+
+(BOUCLE 47 - 10:30:56:00)
+		47
+
+MAN TV	Allez Danny, lève-toi!
+
+PIEUVRE HOMME	(Arhhh_________________________________________________________________________________________________________________________________________________________________________________)
+
+MAN TV	(Arhhh________)
+
+FEMME TV	(Cris_______________________________________)
+
+MAN TV	Allez, vient!
+
+MAN TV 2	(Arh_________________)
+
+MAN TV	Il vient vers nous! Chérie attention!
+
+FEMME TV	(Arhhh_________________)
+
+(BOUCLE 48 - 10:31:14:23)
+		48
+
+RUSS	Qu'est-ce qu'il y a?
+
+AMB	(AMB TV AD LIB OU SONOTHEQUE___________________________________)
+
+CAROL	Non, rien. 	Parfois je me dis que t'es beaucoup trop dur avec Charlie. C'est tout.
+
+RUSS	Non. Mon père était dur avec moi. (h/_)J'ai travaillé dès l’âge de treize ans. Aujourd'hui, ils ont la belle vie.
+
+CAROL	Je trouve que tu pourrais faire un effort dans son sens. C'est tout ce que je dis.
+
+RUSS	Il a refusé de m'aider à réparer la voiture ce weekend. C'est pas ma faute.
+
+CAROL	C'est un garçon intelligent. Il aime ce qu'il aime... Et c'est peut-être pas la lutte, ni réparer les voitures, tu sais?
+
+RUSS	Quel genre de garçon n'aime pas la lutte ou les voitures?
+
+(BOUCLE 49 - 10:31:50:15)
+		49
+
+CAROL	Ce serait sûrement mieux que tu t'intéresses aux choses qui l'intéresse lui. Charlie est en train de grandir, Todd aussi. On a un créneau très étroit où les garçons ont encore envies de faire des choses avec nous. Tu vas tout rater! (Orh_!) Je crois que Noah a besoin d'être changé. Tu veux bien renifler ses fesses?
+
+RUSS	Allez Todd, on y va! On va acheter le diner. Allez, en voiture!
+
+TODD	(Oh )non!
+
+RUSS	Arrête de râler!
+
+(BOUCLE 50 - 10:32:19:12)
+		50
+
+AMB	(MINI AMB GAMINS)
+
+FILLE 2	Vas-y!
+
+BOY 1	Ouais, vas-y!
+
+ALEX	(Booh_________!)
+
+FILLE JASMINE	(cris__________________________________________________)
+
+BOY WOLVERINE	(cris___________________________________________________________________)
+
+AMB	(tous les enfants (cris___________________________________________________________________)
+
+(BOUCLE 51 - 10:32:49:10)
+		51
+
+ALEX	(haha_)C'est tellement plus facile comme ça!
+
+NICK	(Ooh! )Génial, des caramels!
+
+ALEX	(_hh_)
+
+NICK	(uh hah) Regarde ça, j'ai rajouté un crane ici, et aussi un bras qui sort d'un tombeau.
+
+CHARLIE	T'as dessiné ça sur ton livre de chimie?
+
+NICK	Oui, c'était ça où réviser le tableau périodique.
+
+CHARLIE	Mais si jamais quelqu'un le voit?
+
+ALEX	T'as lu Zombies Invasion numéro Trente-trois?
+
+NICK	(mhah!_)
+
+ALEX	(Who ho hooh!_) Qui gagnerait a ton avis: le Zombie Guerrier ou la Plante Monstrueuse dans le numéro seize?
+
+NICK	(Ohh_______)
+
+(BOUCLE 52 - 10:33:26:10)
+		52
+
+NICK	(hahaha)
+
+CHARLIE	On pourrait pas parler d'autre chose pour une fois au lieu de ressasser ces bêtises de gamins?
+
+ALEX	J'adore être un gamin, Charlie.
+
+NICK	Ouais! 	Tu crois que devenir adulte, c'est bien peut-être? Chaque fois que mes parents se parlent, c'est pour se plaindre des factures, ou savoir qui va s'arrêter pour faire les courses en rentrant du travail. Ils sont toujours inquiets de savoir comment faire baisser leur cholestérol.
+
+ALEX	D'accord, monsieur "je suis adulte", t'as promis de nous raconter l'histoire de Brandy. On t'écoute.
+
+NICK	Ouais, qu'est-ce que cette fille t'as fait pour que tu te laisses embarquer dans des histoires pas possibles ? C'est pas normal.
+
+(BOUCLE 53 - 10:33:58:15)
+		53
+
+CHARLIE	Y'a pas grand chose à raconter...
+
+ALEX	Peut-être, mais tu te souviens même plus de ton nom quand elle est là, alors parle!
+
+CHARLIE	Bon... 	(h/__)Tout a commencé... au cours de l'été dernier. Je rentrais à pied de la piscine, 	et j'ai vu le père de Brandy en train de jardiner... Je lui ai offert un coup de main…
+
+NICK	Et il a dit 'Oui, venez épouser ma ravissante fille'.
+
+CHARLIE	Non... 	j'ai ensuite passé les deux prochaines heures à ramasser les feuilles et à les mettre dans une grosse pile.
+
+ALEX	Qu'est-ce que ça a à voir avec Brandy?
+
+CHARLIE	Ben, quand j'ai eu fini, Monsieur Benson est entré chez lui et ensuite...
+
+(BOUCLE 54 - 10:34:45:22)
+		54
+
+CHARLIE	Brandy est sortie me donner de l'argent pour mon travail. On aurait dit que le monde s'était arrêté.
+
+ALEX	Et ensuite...?
+
+CHARLIE	J'ai dit au revoir et je suis rentré.
+
+NICK	C'est tout?
+
+ALEX	Donc, elle t'a touché la main et t'es devenu raide dingue de cette fille.
+
+CHARLIE	Plus ou moins.
+
+(BOUCLE 55 - 10:35:15:02)
+		55
+
+NICK	Quoi?
+
+CHARLIE	(huh!)
+
+NICK	Oh non! C'était quoi ce bruit?
+
+CHARLIE	Allons voir.
+
+NICK	Pas question, je veux rester ici!
+
+ALEX	Comme tu veux. 	On revient...
+
+NICK	Vous pouvez pas me laisser ici tout seul!
+
+ALEX	On pari!
+
+CHARLIE	Allez, donne mon ton canif Ranger Jack.
+
+NICK	Pas question, je viens avec vous.
+
+(BOUCLE 56 - 10:35:40:09)
+		56
+
+JAKE	(uh_)Qu'est-ce que tu fais? On a dit qu'on attendait plus tard pour commencer !
+
+CARTER	(Uh____)J'ai rien fait, c'était pas moi.
+
+(BOUCLE 57 - 10:35:56:15)
+		57
+
+CHARLIE	Pair ou impair?
+
+ALEX	Quoi?
+
+CHARLIE	C'est pour savoir qui va d'abord.
+
+NICK	Tout ça, c'était ton idée, o' grand chef courageux. (h/_)Je vote que ce soit toi! Allez... 	Pour votre information, si jamais c'est un psychopathe avec une tronçonneuse, je vous laisse sur place.
+
+CHARLIE	(huh!)
+
+NICK	(huh!)
+
+ALEX	(huh!)
+
+NICK	Charlie...
+
+CHARLIE	(Arh_arh__arh________________________)
+
+ALEX	(Arh______________________)
+
+NICK	(Arh__________________________)
+
+ALEX	Tu peux baisser ton arme, Labinocle, c'était qu'une branche. Le vent a dû la casser.
+
+NICK	Hé! (h/__)Un Ranger n'est jamais trop prudent tu sais! (h->_)
+
+(BOUCLE 58 - 10:36:45:13)
+		58
+
+AMB	(AMB RESTO)
+
+CAISSIERE	Vous voulez des pommes de terre avec ça?
+
+FEMME RESTO 1	Je vais prendre plutôt des frites.
+
+BRANDY	(hahaha_)j'en sais rien.
+
+TODD	(mh/_) (um) 	Je vais prendre le grand menu extra croustillant six morceaux, Russ, avec que des ailes et des cuisses.
+
+RUSS	Lorsqu'on est dehors, ce serait gentil que tu m'appelles papa.
+
+TODD	D'accord, papa. Et un blanc de poulet avec sa sauce.
+
+(BOUCLE 59 - 10:37:13:11)
+		59
+
+BRANDY	Oui, je sais. 	Est-ce que je peux faire quelque chose pour toi?
+
+TODD	T'es Brandy Benson.
+
+BRANDY	Est-ce qu'on se connait ?
+
+TODD	T'es le fond d'écran sur l'ordi portable de mon frère. Il passe sa journée à regarder ta photo.
+
+BRANDY	Et comment s'appelle ton frère?
+
+TODD	Charlie, Charlie Hamilton.
+
+ANGELA	Je te l'avais dit qu'il était dérangé.
+
+TODD	Tu sais qu'il fait ça rien que pour t'impressionner.
+
+BRANDY	Mais, de quoi tu parles?
+
+TODD	J'suis au courant qu'il doit passer toute la nuit dans la maison des Sullivan... 	lui, et les deux autres génies avec qui il traine tout le temps. T'es plus jolie en personne.
+
+(BOUCLE 60 - 10:37:52:08)
+		60
+
+ANGELA	Il est bizarre, non
+
+BRANDY	(mh/__h->__) 	Je m'inquiète pour Charlie. J'aurai jamais dû le laisser accepter ce défi stupide.
+
+ANGELA	Non, tu n'l'as pas "laissé accepter" quoique ce soit. Il a fait son propre lit et il doit s'y coucher. 	Il se trouve seulement que le lit est une vieille maison hantée qui fait peur.
+
+AMB	(FIN AMB RESTO)
+
+(BOUCLE 61 - 10:38:19:05)
+		61
+
+ALEX	(Huh!_h/______) C'est que la foudre.
+
+CHARLIE	(h->_) On a qu'à garder ça allumer au cas où.
+
+NICK	Au cas où quoi, Charlie!
+
+ALEX	Ca devait sûrement être la porte du sous-sol, non?
+
+CHARLIE	Ouais, bien sûr, c'était probablement le vent.
+
+ALEX	D'accord... le vent ferme la porte, je l'ai entendu claquer... 	alors, comment fait le vent pour l'ouvrir à nouveau?
+
+NICK	(huh!)
+
+ALEX	(huh!)
+
+CHARLIE	(huh!)
+
+NICK	(h/_)Très bien, monsieur 'c'est que le vent', tu veux peut-être m'expliquer ce qui se passe!
+
+(BOUCLE 62 - 10:38:59:16)
+		62
+
+CARTER	(ahahahah_________________)
+
+JAKE	(hahaha______________________________________)
+
+BRENT	(hahaah____________________________________)
+
+CARTER	L'équipement de ton père est génial !
+
+CARTER	Regarde ces losers. T'as drôlement bien truqué la maison.
+
+JAKE	Encore, c'est rien. J't'parie qu'avec ça, ils vont s'enfuir en moins de deux!
+
+(BOUCLE 63 - 10:39:14:21)
+		63
+
+CHARLIE	(h/_)
+
+NICK	Qu'est-ce que c'était, ça?
+
+ALEX	Y'a quelqu'un dans la maison avec nous.
+
+NICK	Moi, je dis qu'il est temps qu'on s'en aille d'ici. J'ai été lâche assez de fois dans ma vie pour savoir quand il faut jeter l'éponge, et là, c'est le moment ou jamais!
+
+ALEX	Il a raison, allons-nous en, et tant pis pour le défi.
+
+CHARLIE	Je partirai pas d'ici! 	(h/_)J'ai toujours voulu savoir à quoi ressemblait un fantôme.
+
+ALEX	T'es cinglé?
+
+CHARLIE	Non mais je crois pas au fantômes, c'est tout.
+
+ALEX	(Oh!_)
+
+CHARLIE	Si je ne reviens pas... 	assurez-vous que Todd ne touche pas mon argent.
+
+(BOUCLE 64 - 10:40:02:02)
+		64
+
+CHARLIE	(Huh!) (Oh )non!(_Arhh_)
+
+ALEX	(_hh_)On pouvait pas te laisser tout seul.
+
+CHARLIE	(h->_) Hé-ho! 	(Arh___)Vite!(_Argh__!)
+
+NICK	(Arh!_)Courrons!
+
+ALEX	Allons nous en!
+
+CHARLIE	(__cours__efforts_____________________________)
+
+NICK	(__cours__efforts_____________________________)
+
+ALEX	(__cours__efforts_____________________________)
+
+(BOUCLE 65 - 10:40:26:04)
+		65
+
+NICK	(hh_hh_hh_hh_hh________)
+
+CHARLIE	Ouais! Venez m'aider les gars!
+
+ALEX	(_pousse_efforts_______________________)
+
+NICK	(_pousse_efforts_______________________)
+
+CHARLIE	(_tir_efforts_______________________) Bon, maintenant on pousse contre la porte. 	(_hh_hh_hh_________________)
+
+ALEX	Allume ta lampe, Charlie, je vois rien là dedans.
+
+CHARLIE	Désolé, je l'ai laissé tomber dans le couloir.
+
+NICK	Excellente nouvelle, Charlie!
+
+CHARLIE	T'as pas ton canif de Ranger qui s'allume?
+
+NICK	Je l'ai laissé dans mon sac de couchage.
+
+ALEX	On pourra jamais sortir par là!
+
+NICK	Il est quelle heure?
+
+ALEX	Pourquoi c'est important?
+
+NICK	(h/_)Le soleil se lève à six heure quarante huit demain. J'ai vérifié chez moi. Je crois qu'on devrait rester ici jusqu'à l'aube, 	puis on se précipite vers la porte d'entrée.
+
+CHARLIE	Si quelque chose là dehors voulait nous faire mal, il l'aurait déjà fait. E	Peut-être que, tout ce qu'il veut, c'est juste nous faire peur?
+
+ALEX	Je trouve qu'il fait du bon boulot!
+
+NICK	Ouais.
+
+CHARLIE	(Ahh)
+
+(BOUCLE 66 - 10:41:19:07)
+		66
+
+NICK	Vous avez vu ça, les gars? Ce drap là bas vient de bouger.
+
+ALEX	Peut-être que c'est encore le vent.
+
+NICK	Mais enfin, y'a pas de vent dans cette pièce!
+
+CHARLIE	Tu veux que je regarde quoi au juste?
+
+NICK	J'aurai juré que ce drap là-bas avait bougé tout seul.
+
+CHARLIE	Écoute, il y a forcément une explication logique à toute cette histoire. Cette maison est vraiment très vieille, elle craque, elle grince et fait toutes sortes de bruits étranges.
+
+NICK	Exactement comme ma grand-mère Arletta!
+
+(BOUCLE 67 - 10:41:52:23)
+		67
+
+NICK	(h/_______________________) Ca bouge à nouveau!
+
+CHARLIE	Je croyais qu'on avait réglé ça.
+
+NICK	Les gars...
+
+ALEX	(h/__) Charlie! 	(_hh_hh__________________) Il a raison!
+
+CHARLIE	Courez !
+
+NICK	Par où?
+
+CHARLIE	Par ici! Allez, vite!
+
+ALEX	C'est bon! Vite!
+
+(BOUCLE 68 - 10:42:18:14)
+		68
+
+NICK	(_hh_cours____Arh!)
+
+CHARLIE	(Oh!_)Est-ce que ça va?
+
+NICK	J'ai trébuché sur quelque chose.
+
+CHARLIE	(huh!)
+
+NICK	(huh_hh_)
+
+ALEX	On dirait que tu t'aies pris les pieds dans ça?
+
+NICK	C'est quoi ce truc?
+
+CHARLIE	(hh) Venez. (Arh!)
+
+(BOUCLE 69 - 10:42:54:06)
+		69
+
+CHARLIE	C'est bien ce que je croyais. Jake! Lui et ses potes ont truqués la maison pour nous faire partir et gagner le pari. Réfléchissez une minute, les portes qui claquent, les bruits de pas effrayants dans le couloir... C'était pas vrai !
+
+ALEX	Voyons voir ce qu'ils nous ont préparé d'autre.
+
+NICK	Ouais! Peut-être qu'on pourrait leur rendre la monnaie de leur pièce!
+
+(BOUCLE 70 - 10:43:20:24)
+		70
+
+RUSS	Carol! On n'a plus de bonbons!
+
+BRANDY	Monsieur Hamilton? 	(uh) Il faut que je vous dise quelque chose.
+
+(BOUCLE 71 - 10:43:32:11)
+		71
+
+BRENT	(hahahaah__________________)
+
+JAKE	(hh)
+
+JAKE	(hh)
+
+BRENT	Hé! Qu'est-ce qui se passe?
+
+CARTER	Je t'ai dit de ne rien toucher!
+
+BRENT	Mais... T'as vu, j'ai rien touché!
+
+JAKE	Dans ce cas, où est passé l'image?
+
+BRENT	Peut-être que c'était un fantôme.
+
+JAKE	(hahah_)Très drôle, mais on est en train de tout rater!
+
+CARTER	Faut le rebooter!
+
+BRENT	Je l'ai fait et ça marche toujours pas!
+
+JAKE	(h->_)Allez, venez, on va voir ça de plus près.
+
+CARTER	(uhm )a quel point plus près?
+
+JAKE	On va se mettre au premier rang.
+
+(BOUCLE 72 - 10:44:01:20)
+		72
+
+RUSS	Donc tu savais que ton frère allait passer la nuit là-bas et t'as rien dit à personne?
+
+TODD	Parce qu'il m'a supplié !
+
+RUSS	Je veux plus entendre un mot de ta part ! Vingt-cinq dollars! C'est le prix d'un mensonge de nos jours?
+
+BRANDY	(Uh_)Monsieur Hamilton, Charlie était vraiment très déterminé!
+
+RUSS	Charlie et ses amis ont mentis! Si jamais ils leur arrivaient quelque chose, je saurai même pas où les trouver.
+
+BRANDY	(Uhm )Monsieur Hamilton, vous n'avez jamais rien fait quand vous étiez enfant?
+
+TODD	Mon père n'a jamais était un enfant.
+
+RUSS	Monte dans la camionnette, Todd, on en a pas fini. Allez, Brandy, je te raccompagne et ensuite je m'occupe de régler cette histoire. On y va!
+
+TODD	Pas cool, Russ!
+
+(BOUCLE 73 - 10:44:34:17)
+		73
+
+CHARLIE	Voici les fantômes du gang des Sullivan dans un joli petit tas d’électroniques ! Tout ça, ça appartient au père de Jake. C'est avec ça qu'ils ont truqué toute la maison, qu'ils faisaient claquer les portes et tout le reste.
+
+ALEX	Donc, pas de fantômes.
+
+NICK	On dirait que t'es un peu déçu.
+
+ALEX	Oui, c'est vrai.
+
+NICK	Peut-être qu'on devrait s'en aller maintenant, ils sauront jamais la vérité.
+
+CHARLIE	Oublie le défi. 	En fait, j'aimerai plutôt voir la tête de Jake quand on sortira d'ici demain matin et qu'on lui jettera tout ça au visage.
+
+ALEX	Neandertal !
+
+NICK	(hahhahahah____)
+
+CHARLIE	(phahahah___)
+
+ALEX	(hahaha)
+
+CHARLIE	Mais avant de partir, refaisons un tour pour nous assurer qu'il n'y a pas d'autres surprises... 	S'il vous plait.
+
+ALEX	Bon, d'accord.
+
+(BOUCLE 74 - 10:45:30:12)
+		74
+
+JAKE	Allez, vérifiez toutes les fenêtres et dites-moi où on peut voir le mieux à l'intérieur. Et surtout, ne faites pas de bruit. Ces losers pensent qu'ils sont super futés.
+
+(BOUCLE 75 - 10:46:02:13)
+		75
+
+BRANDY	Vous êtes fâché, n'est-ce pas?
+
+RUSS	(h/_ )Au revoir, Brandy, désolé qu'on t'aie impliqué là-dedans.
+
+BRANDY	C'est pas grave! Charlie est mon ami. (uhm) Je sais qu'il vous a menti, mais c'était pour une bonne raison.
+
+RUSS	Oui, pour prouver aux autres que, maintenant, c'est un gros dur.
+
+BRANDY	Il n'est pas du tout comme ça, vous savez. Je crois qu'il le fait pour se prouver qu'il n'a pas peur. Aujourd'hui, c'est compliqué d'être un enfant, surtout lorsqu'on a peur de tout, tout le temps.
+
+RUSS	Et qu'est-ce que t'en sais, toi?
+
+(BOUCLE 76 - 10:46:35:19)
+		76
+
+BRANDY	J'ai peur de tout, tout le temps. J'ai peur que les gens ne m'aiment pas, j'ai peur de décevoir mes parents, j'ai peur que les gens découvrent que je suis comme tout le monde, et que j'arrête d'être la fille populaire du lycée.
+
+RUSS	(mh/_)On dirait que c'est compliqué d'être un gamin parfois.
+
+TODD	C'est exactement ce que j'essaie de te dire, Russ!
+
+RUSS	Tu la ferme, Todd!
+
+(BOUCLE 77 - 10:47:15:21)
+		77
+
+BRENT	Y'a rien là-bas derrière.
+
+CARTER	Pareil, toutes les pièces sont vides.
+
+JAKE	Ils sont à l'intérieur, j'ai vu une lumière dans le couloir. Attend, je crois qu'ils reviennent par ici. Ouais, je vois quelque chose.
+
+(BOUCLE 78 - 10:47:31:21)
+		78
+
+ALEX	C'est quoi? T'as entendu?
+
+NICK	Mmmm.
+
+(BOUCLE 79 - 10:47:43:22)
+		79
+
+CARTER	(Ahhh!!!____________________________________)
+
+BRENT	(Ahhh!!!_________________________________________)
+
+JAKE	(Ahhh!!!___________________________________________)Allez, on se casse! 	(Ahhh!!!______________________________)
+
+(BOUCLE 80 - 10:48:01:04)
+		80
+
+CHARLIE	Apparemment, c'était rien.
+
+ALEX	On s'amuse plus ici que si on faisait la tournée des voisins pour des bonbons.
+
+NICK	Y'a toujours l'année prochaine.
+
+CHARLIE	On aura quatorze ans l'année prochaine !
+
+NICK	Hé, tant qu'il y aura des gens pour donner des bonbons gratuits, je porterais un déguisement. Je le ferais même à cinquante ans.
+
+CHARLIE	(rhh__)
+
+(BOUCLE 81 - 10:48:30:03)
+		81
+
+JAKE	(__hh__cours____________________________)
+
+CARTER	(_hh_efforts__________________________)
+
+BRENT	(_hh__efforts___________________________________________)
+
+CARTER	C'était quoi ça?
+
+BRENT	Sûrement un fantôme ou un monstre.
+
+JAKE	Non, ça n'existe pas.
+
+CARTER	Alors, c'était quoi? 	Il avait de grandes dents, des yeux rouges et d'énormes griffes.
+
+JAKE	Peu importe ce que c'était, ces petits morveux sont coincés avec dans la maison.
+
+CARTER	On devrait faire quelque chose, non?
+
+JAKE	Ouais... 	(_hh_hh_)rentrez chez vous et surtout ne dites rien. Si ces mauviettes veulent nous montrer à quel point ils sont courageux, c'est l'occasion qu’ils le fassent. Sauf si... t'as envie de les aider peut-être.
+
+CARTER	(_hh_hh____)
+
+JAKE	Ouais, c'est bien ce que je croyais. Allons-y. (_hh_hh________________)
+
+(BOUCLE 82 - 10:49:18:03)
+		82
+
+RUSS	Voilà, c'est ici que tu descends. Rentre.
+
+TODD	Tu vas faire quoi ?
+
+RUSS	(h/_) J’ai pas encore décidé.
+
+TODD	Tu veux dire qu'il y a encore une chance que je touche mes vingt-cinq dollars ?
+
+RUSS	T'es vraiment qu'un idiot ! Rentre et dis à ta mère que je l'appelle dans cinq minutes.
+
+TODD	Je veux aller avec toi.
+
+RUSS	Non, il n'en est pas question. Bonne nuit.
+
+TODD	Je suis sérieux.
+
+RUSS	Oui, moi aussi ! Je veux que tu rentres.
+
+TODD	Je sais que je suis pas le meilleur petit frère de la terre...
+
+RUSS	Non, tu crois?
+
+TODD	mais je m'inquiète quand même pour Charlie. Je veux m'assurer qu'il va bien.
+
+RUSS	Met ta ceinture de sécurité, on y va.
+
+TODD	Bon, j'ai peut-être aussi envie de protéger mon investissement.
+
+RUSS	Tu vas la fermer, Todd!
+
+(BOUCLE 83 - 10:50:13:22)
+		83
+
+CHARLIE	Bonne nuit les gars.
+
+NICK	Laisse la lumière allumée, d'accord?
+
+CHARLIE	D'accord.
+
+ALEX	Oui, et plus d'histoires de fantômes qui font peur.
+
+CHARLIE	(_hh_) 	Je crois qu'on s'est assez amusé pour ce soir. A demain matin, les gars.
+
+ALEX	Ouais, bonne nuit.
+
+NICK	(BF ronfle____________________________________)
+
+CHARLIE	(Rhh___)
+
+ALEX	(hahaha___)
+
+CHARLIE	(ahahahahah_____________________________)
+
+(BOUCLE 84 - 10:50:53:14)
+		84
+
+CAROL	Je n'crois pas que ce soit une bonne idée.
+
+RUSS	Tu veux bien juste m'écouter une minute !
+
+CAROL	Il nous a menti, Russ ! 	Et ses amis aussi, on doit prévenir leurs parents.
+
+RUSS	Je n'cautionne pas ce qu'il a fait...
+
+CAROL	Si on le laisse passer la nuit dans cette maison, c'est comme si on l'autorisait à mentir.
+
+RUSS	Mais non, je vais le punir, je te le promets.
+
+TODD	Ouais te laisse, pas faire, Russ!
+
+RUSS	Tu la ferme Todd, ou te rentre à pied!
+
+CAROL	J'en sais rien, chéri, 	et surtout ne me dit pas que c'est un truc de mec.
+
+RUSS	Ben, en fait, ç'en est un. La copine de Charlie avait raison... il faut qu'il passe la nuit dans la maison, qu'il aille jusqu'au bout de cette histoire. Il en sortira grandit.
+
+
+(BOUCLE 85 - 10:51:30:23)
+		85
+
+CAROL	Il ferait mieux d'apprendre l'honnêteté.
+
+RUSS	S'il nous avait demandé la permission d'y passer la nuit...
+
+CAROL	On aurait bien sur dit non.
+
+RUSS	Exactement. Il a treize ans ! Il fait ça pour devenir un homme. Tu m'as demandé de m'intéresser à ce qu'il fait, alors laisse-moi faire ! Rien ne va lui arriver. Todd et moi sommes devant la porte, si je vois qu'il y a un problème, je les sors de là.
+
+CAROL	(mff->_) D'accord Russ,(_haha_)mais t'es responsable sur ce coup.
+
+RUSS	Je te verrai demain matin.
+
+TODD	Merci encore de m'avoir laissé venir, Russ.
+
+RUSS	Ouais, ben... 	t'as plus qu'à surveiller la maison.
+
+(BOUCLE 86 - 10:52:10:14)
+		86
+
+CHARLIE	(_hh_hh________________________________)
+
+NICK	(__ronfle_______________)
+
+CHARLIE	Alex, Nick, debout !
+
+ALEX	Quoi, qu'est-ce qu'il y a?
+
+CHARLIE	Il se passe un truc bizarre là.
+
+ALEX	(_hh_hh_)
+
+NICK	Je croyais qu'on avait trouvé tous les gadgets de Jake.
+
+CHARLIE	Ben, faut croire que non. Va vérifier !
+
+NICK	(h->__)
+
+CHARLIE	Qu'est-ce que tu fais?
+
+NICK	(_hh_hh_)Je cherche mon canif de Ranger!
+
+ALEX	Pourquoi?
+
+NICK	(Rh->__)On sait jamais. Hé! "Danger", c'est mon deuxième prénom !
+
+CHARLIE	Dis-moi, est-ce que t'es tombé sur la tête quand t'étais enfant?
+
+NICK	Rien qu'une fois !
+
+CHARLIE	(hahm______)
+
+(BOUCLE 87 - 10:53:06:02)
+		87
+
+CHARLIE	(Ah )non, c'est au tour de quelqu'un d'autre!
+
+NICK	Allez, vas-y, enlève le drap qu'on en finisse ! Allez! Quoi?
+
+ALEX	(gulp) 	(mh/_______________________________________)
+
+NICK	(BF gulp)
+
+CHARLIE	(_hh_hh__________________)
+
+ALEX	(_hh_hh___________________________________)
+
+CHARLIE	Ca s'est allumé par accident.
+
+ALEX	Vous voyez une télécommande quelque part?
+
+CHARLIE	Je crois que cette télé a été fabriqué avant l'invention des télécommandes.
+
+NICK	Peut-être qu'il y a eu une surcharge électrique ?
+
+CHARLIE	Y'a pas d'électricité ici, donc il n'peut pas y avoir de surcharge !
+
+NICK	(Euhm___ )les gars... la télé n'est pas branché!
+
+ALEX	(huh!)
+
+CHARLIE	Ne nous emballons pas.
+
+ALEX	Comment t'explique la télé alors!
+
+CHARLIE	(h/_)Je l'explique pas, d'accord! Mais c'est pas le moment de paniquer...
+
+(BOUCLE 88 - 10:53:59:13)
+		88
+
+PRESENTATEUR TV	En direct de Elk Falls: l'histoire des célèbres hors-la-loi, connu sous le nom du Gang des Sullivan, arrive à sa fin. Les autorités locales ont annoncé avoir piégés les Sullivan, recherchés pour plus de trente braquages depuis mille neuf cent cinquante-deux. 	La police les ont encerclé dans leur cachette. Le Gang des Sullivan est connu pour avoir perpétré l'un des braquage de banque les plus meurtrier de ce siècle. Étant donné leur caractère impitoyable, la confrontation risque d'être sans merci.
+
+ALEX	(_hh_hh___)
+
+NICK	C'est sur le Gang des Sullivan !
+
+ALEX	Bon, je crois qu'il est temps de paniquer! Allons-nous en!
+
+NICK	On se retrouve devant!
+
+CHARLIE	Allez!
+
+(BOUCLE 89 - 10:54:25:14)
+		89
+
+ALEX	(_hh_hh______)
+
+NICK	(_hh_hh_)
+
+CHARLIE	(_hh_hh_)
+
+ALEX	Hé!
+
+NICK	Laisse-moi essayer !
+
+ALEX	On est enfermé !
+
+NICK	(Oh )non! J'aime pas ça du tout !
+
+CHARLIE	La porte de derrière. Allons-y doucement.
+
+NICK	(Huuuuhh!__________)
+
+ALEX	Est-ce que quelqu'un sait ce que c'est, ça!
+
+NICK	(Arh_____________________________________!)
+
+ALEX	(Arhhh_____________________________!)
+
+CHARLIE	(Arh______________________________________________!)
+
+(BOUCLE 90 - 10:55:06:09)
+		90
+
+NICK	(_hh_hh_)C'était quoi?
+
+CHARLIE	(_hh_hh_hh_______________________)
+
+ALEX	(_hh_hh________________)
+
+CHARLIE	J'en sais rien, tu veux y retourner ?
+
+NICK	Non merci !
+
+ALEX	(_hh_hh_________________)
+
+NICK	On fait quoi ?
+
+ALEX	Vise le avec ta lampe torche !
+
+NICK	Vas-y!
+
+CHARLIE	(mhah!) (Oh! )Y'a plus de piles! Où est la tienne?
+
+ALEX	Je l'ai laissé près de mon sac de couchage.
+
+NICK	Bien joué, Sherlock!
+
+ALEX	Courrez!
+
+NICK	Mais où?
+
+CHARLIE	Allons par là!
+
+(BOUCLE 91 - 10:55:41:08)
+		91
+
+NICK	(rrrhhhrrrhhh_____) Vite, allons là-dedans!
+
+CHARLIE	Attend, on sait pas si on sera en sécurité là-dedans?
+
+ALEX	Ouais. On n'a qu'à tenter notre chance!
+
+NICK	On n'a qu'à tenter notre chance!
+
+CHARLIE	Ouais! Verrouille la porte, Alex!
+
+ALEX	Y'a pas d’verrou!
+
+NICK	(_hh_hh_)je veux rentrer à la maison!
+
+CHARLIE	Rien ne passera cette porte!
+
+ALEX	C'était quoi? C'était sûrement pas Jake et ses potes!
+
+NICK	J'en sais rien, et j’veux surtout pas le savoir!
+
+CHARLIE	Vas t'en et laisse nous tranquille !
+
+ALEX	(urrhhh____________________________)
+
+CHARLIE	(urrhhh____________________________)
+
+NICK	(urrhhh____________________________)
+
+(BOUCLE 92 - 10:56:35:03)
+		92
+
+CHARLIE	Je crois qu’il est enfin parti.
+
+ALEX	Et s'il attend qu'on ouvre la porte?
+
+CHARLIE	Il faudra qu'on l'ouvre éventuellement.
+
+NICK	Non, c'est pas vrai!
+
+CHARLIE	Tu veux qu’on reste ici jusqu'à quand?
+
+ALEX	Jusqu'à la fac?
+
+NICK	Ou... jusqu'à ce que nos parents viennent enfin nous chercher.
+
+CHARLIE	Ouais, c'est ça, mais ils vont nous tuer!
+
+NICK	Les parents, ça je peux gérer.
+
+CHARLIE	Peu importe ce qui nous attend dehors, il y en a qu'un et nous, on est trois.
+
+ALEX	Et c'est quoi qui nous attend exactement?
+
+CHARLIE	(mh/_)j'en sais rien. 	Si on reste ensemble, ça ira. Allons y doucement.
+
+(BOUCLE 93 - 10:57:06:07)
+		93
+
+CHARLIE	On avance, on tourne à droite, tout droit jusqu'à la porte de derrière et on court! Et surtout, on n's'arrête pas!
+
+ALEX	Et nos affaires?
+
+NICK	Je crois que ta mère serait d'accord pour laisser les plateaux repas.
+
+CHARLIE	Allons-y!
+
+(BOUCLE 94 - 10:57:34:23)
+		94
+
+CHARLIE	(Rhh____rrhhhh____________________________________)
+
+NICK	Charlie!
+
+ALEX	(_hh_hh________________________________________________)
+
+NICK	(_hh_hh________________________)
+
+CHARLIE	(_hh_hh____________)
+
+NICK	(_hh_hh_______________)
+
+ALEX	(_hh_hh________)C'était dingue, ça!
+
+CHARLIE	(_hh_hh_hoo!_)
+
+NICK	Ca, c'est sur!
+
+CHARLIE	J'ai jamais eu autant la trouille de ma vie!
+
+ALEX	C'était quoi ce truc?
+
+NICK	Un fantôme! Un authentique fantôme!
+
+CHARLIE	(hahaha_)J'en sais rien, en fait, on l'a pas bien vu.
+
+ALEX	(_hh_)C'était quoi cette boule de feu, ou ces yeux rouges, ou ce bruit de griffes sur la porte. C'était pas le vent!
+
+NICK	Il se passera quoi quand on verra Jake?
+
+CHARLIE	On s'occupera de ça demain matin.
+
+ALEX	Le soleil devrait se lever dans environ deux heures.
+
+CHARLIE	On reviendra, on l'attendra et on gagnera le pari.
+
+NICK	(hah_)Comment t'en es si sur?
+
+CHARLIE	On a enlevé tous les gadgets et toutes les caméras, donc, pour l'instant, ils n'savent pas qu'on n'est plus à l’intérieur.
+
+NICK	(_hh_hh___)
+
+CHARLIE	Allez, rentrons à la maison.
+
+NICK	Ouais.
+
+CHARLIE	(h->_)
+
+NICK	(wouah!)
+
+(BOUCLE 95 - 10:58:26:04)
+		95
+
+CHARLIE	(h->__) Alors, tu viens ou quoi?
+
+ALEX	Il faut que j'y retourne.
+
+CHARLIE	Pourquoi tu veux y retourner ?
+
+ALEX	J'ai laissé ma veste, il faut que j'aille la chercher.
+
+CHARLIE	Mais enfin, c'est qu'une vieille veste, Alex!
+
+ALEX	Je dois y retourner, j'ai pas envie que quelqu'un l'abîme.
+
+CHARLIE	Si tu retournes là-dedans, il pourrait t'arriver quelque chose. Tu peux y retourner quand il fait jour...
+
+ALEX	Je t'ai pas demandé de venir à moi!
+
+NICK	C'est quoi le problème, les gars?
+
+CHARLIE	Alex veut retourner là-dedans et récupérer sa vieille veste!
+
+ALEX	C'est ma veste porte bonheur, je vais pas repartir sans elle.
+
+CHARLIE	C'est quoi ton délire avec cette veste, Alex?
+
+ALEX	Elle est spéciale.
+
+CHARLIE	Elle tombe en lambeaux ! Et en plus, tu l'as porte tous les jours à l'école!
+
+ALEX	C'est la veste de mon frère! J'y tiens parce qu'il a été déployé à l'étranger. On n'a jamais de nouvelles et la plupart du temps, on n'sait pas où il est stationné. Donc, tant que je porte sa veste, je sais qu'il est vivant. Je vais chercher ma veste.
+
+CHARLIE	Alex... (h->_) On y va.
+
+
+(BOUCLE 96 - 10:59:24:01)
+		96
+
+CHARLIE	Alex! Attend nous.
+
+ALEX	Qu'est-ce que vous faites ici?
+
+CHARLIE	On est ensemble sur ce coup. Amis pour la vie.
+
+NICK	(gulp) Ouais.
+
+ALEX	Vas-y, cache ta joie, La binocle.
+
+NICK	Allons chercher ta veste pour qu'on s'en aille d'ici.
+
+CHARLIE	Tu sais où tu l'as laissé ?
+
+ALEX	Elle est sûrement à côté de mon sac de couchage. Sauf si ce monstre l'a déchiré avec ses griffes.
+
+CHARLIE	R A S. allons-y.
+
+ALEX	Hé, Charlie, Merci d'être revenu m'aider.
+
+CHARLIE	(ahaha)
+
+(BOUCLE 97 - 11:00:18:10)
+		97
+
+NICK	Ce morceau de bois ne te servira à rien contre un fantôme !
+
+CHARLIE	Qu'est-ce que t'en sais ?
+
+NICK	Il a pas tort.
+
+ALEX	Il a pas tort.
+
+(BOUCLE 98 - 11:00:39:24)
+		98
+
+RUSS	(baille_h/____h->_______) (mmmmmhhhh____) (snif) (Uh!) (Oh_hh_hh___) 	(mh/_________) (mh->__________) (h/___________h->_______________)
+
+(BOUCLE 99 - 11:01:14:10)
+		99
+
+ALEX	Elle est plus là!
+
+NICK	Mais comment ça elle est plus là?!
+
+CHARLIE	Peut-être que tu l'as laissé à un autre endroit.
+
+ALEX	Non, elle était là!
+
+NICK	Dépêchez-vous les gars, vite, il faut s'en aller!
+
+CHARLIE	Ouais, ta lampe torche fonctionne encore!
+
+NICK	Allez! La télé va pas s'allumer à nouveau j'espère.
+
+CHARLIE	J'aimerais bien savoir comment cette télé s'est allumé toute seule.
+
+NICK	Ouais, ou d'où est venue cette boule de feu tout à l'heure. Et ses yeux rouges!
+
+CHARLIE	Peut-être qu'on n'a pas tout trouvé. Je parle des gadgets que Jake aurait pu installer.
+
+NICK	Dépêche-toi Alex, allez, il faut qu'on s'en aille, vite!
+
+ALEX	Je refuse de quitter cette maison sans ma veste !
+
+NICK	(Arhhh__!)
+
+CHARLIE	Alors on se sépare et chacun prend une des chambres.
+
+NICK	Qu'est-ce qu'il y a? t'as jamais vu un film d'horreur dans ta vie ou quoi? 	Hors de question! Je vais rester avec toi et cette lampe torche d'accord?!
+
+CHARLIE	D'accord, allez vient!
+
+(BOUCLE 100 - 11:02:46:20)
+		100
+
+NICK	(Ahh!__) Encore un fantôme!
+
+ALEX	(Ohh!__)
+
+CHARLIE	Attend une seconde...
+
+NICK	(gulp)
+
+ALEX	(_hh_)C'est fini, tu peux ouvrir les yeux maintenant, Rambo!
+
+NICK	(ohhoohh_) (_haha_haha_hahaha___haahah) (_hh_hh____ohh___)
+
+(BOUCLE 101 - 11:03:14:20)
+		101
+
+ALEX	Elle est là! Ma veste adorée!
+
+NICK	T'es certain de pas l'avoir laissé tomber quand on est parti en courant ?
+
+ALEX	Oui, certain.
+
+NICK	Alors comment elle est arrivée ici?
+
+CHARLIE	Les gars, 	on est passé par ici quand on est rentré dans la maison. Elle était pas là, on l'aurait vu quand même!
+
+ALEX	Peut-être qu'on l'a pas vu.
+
+NICK	Ou... peut-être que quelque chose l'a mis ici... après qu'on soit rentré, donc, peu importe ce que c'était, c'est encore dans la maison avec nous! Quoi, t'as une meilleure explication? Dépêchons nous Charlie, il est temps qu'on se décide à quitter cette vieille maison pourrie!
+
+ALEX	(h/_________)Je crois que t'as mis en colère la vieille maison pourrie!
+
+CHARLIE	On s'en va!
+
+(BOUCLE 102 - 11:04:05:12)
+		102
+
+ALEX	Essaie d'ouvrir une des fenêtres !
+
+CHARLIE	(rhh_rhh__________________)J'arrive pas à l'enlever! (hh__)
+
+ALEX	(huh!)
+
+NDA	(RONFLEMENTS RUSS OU TODD - VI? REPIQUAGE?)
+
+(BOUCLE 103 - 11:04:23:09)
+		103
+
+CHARLIE	(_hh_)Gardons notre calme, ils essaient juste de nous faire peur.
+
+NICK	Ouais, ben je trouve que s'est plutôt réussi !
+
+CHARLIE	(_hh_)Restons groupés et surtout, ne bougez pas! On s'en sortira tant qu'on surveille nos arrières!
+
+ALEX	Charlie! Je crois que c'est une mauvaise idée de ne pas bouger! Y'a encore ces yeux rouges!
+
+(BOUCLE 104 - 11:05:00:02)
+		104
+
+NICK	(_tousse_tousse_awhh______) (Arhh________)(Ahh______) (ohh____ahhh____________)
+
+CHARLIE	Allez, debout !
+
+NICK	(Oh non!_)Ma mère va me tuer!
+
+ALEX	(Arhh_)Allez, viens!
+
+NICK	(h->__)
+
+(BOUCLE 105 - 11:05:21:19)
+		105
+
+NICK	(_hh_hh_)Laissez nous sortir! Je vous donnerais mon canif Ranger Jack de poche si vous voulez! Mais laissez-nous tranquille!
+
+ALEX	(Ah___)
+
+CHARLIE	Alex!
+
+ALEX	Quelque chose me tir par le pied!
+
+NICK	Qu'est-ce que c'est?
+
+ALEX	Comment tu veux que je sache? Au secours, Charlie! Fait quelque chose! Hé les gars!
+
+(BOUCLE 106 - 11:05:51:05)
+		106
+
+CHARLIE	Alex, est-ce que tu m’entends ? Tiens bon!
+
+NICK	Tu vois, je t'avais dit qu'il fallait pas revenir!
+
+CHARLIE	Aide moi plutôt !
+
+NICK	En fait, on n'aurait jamais dû venir dans cette maison, c’était stupide! 	(h/_)Tout ça, c'est entièrement ta faute, Charlie! Je devrais être chez moi en train de me goinfrer de bonbons à en vomir! (h/_) mais non! Il a fallu que t'acceptes ce pari idiot !
+
+CHARLIE	C'est pas le moment. Alex est en danger !
+
+NICK	Au cas où tu l'aurais pas remarqué, nous aussi !
+
+ALEX	Charlie! Nick! Au secours!
+
+NICK	(_hh_hh_hh_)
+
+CHARLIE	Tu dois reprendre le dessus ! Ce monstre a attaqué notre ami et il faut qu'on aille le sauver. Aide moi avec la porte. (_hh_hh_hh_)
+
+NICK	(_hh_hh_hh_)
+
+CHARLIE	(Wouoh_hoh!_)
+
+NICK	(Wouoh_hoh!_) (hh->___) (_hh_hh_) Ce boulot, ça vaut quand même plus que onze mille cinq cent dollars par an!
+
+NDA	(vérifié dans la vf de sos fantômes - dit par Med!)
+
+NICK	SOS Fantômes?!
+
+CHARLIE	En fait, t'es vraiment bizarre.
+
+(BOUCLE 107 - 11:06:49:08)
+		107
+
+ANGELA	Rappelle moi pourquoi on fait ça?
+
+BRANDY	(h/_)Je veux voir la tête de mon frère quand Charlie et ses amis auront gagné le défi.
+
+ANGELA	Qu'est-ce qui te fais croire qu'ils seront restés toute la nuit ? Après tout, ce sont pas non plus les gamins les plus courageux du collège.
+
+BRANDY	Parce que je connais Charlie, il est gentil, et surtout, il tient toujours parole. 	Pas un bruit sinon mes parents se réveillent.
+
+(BOUCLE 108 - 11:07:17:05)
+		108
+
+CHARLIE	Alex! Est-ce que tu m'entends? Où es-tu? (Oh!_)
+
+NICK	(Ohhh!__) 	(_tousse_ tousse_tousse_) (Ohhh______) (Oh non! )C'est pas vrai!
+
+CHARLIE	(Wouah!!)
+
+ALEX	(Arhhh________________________________!)
+
+CHARLIE	(_hh_hh_)
+
+NICK	(_hh_hh_hh___________) Charlie! Regarde... le jour s'est enfin levé.
+
+CHARLIE	(_hh_hh__________________)
+
+(BOUCLE 109 - 11:07:59:10)
+		109
+
+JAKE	(h->___) Arrête de me coller!
+
+CARTER	Tu crois qu'ils sont encore là-dedans?
+
+JAKE	(huh!_) Tu le serais, toi?
+
+(BOUCLE 110 - 11:08:14:00)
+		110
+
+CHARLIE	Alex, t'es là-dedans?
+
+ALEX	Oui, je suis ici, 	mais tu vas jamais croire ce qui est devant moi.
+
+CHARLIE	(_hh_hh______Ohh!__) (ohh/___________________) (ohhh/________________uhun!____)
+
+NICK	L'addition, s'il vous plait(_hh_hh_)
+
+CHARLIE	(_hh_hh_hh_hh)
+
+NICK	J'ai une idée, nouveau plan, on rentre chez nous, on oublie cette nuit et on commence à chercher un nouveau meilleur pote! On aurait dit...
+
+CHARLIE	Salty!
+
+NICK	Le chien du gang des Sullivan? Il a déchiqueté toutes les personnes qui ont trahis le gang.
+
+CHARLIE	Tu la ferme, Nick!
+
+NICK	Quoi?! C'est ce qu'ils ont dit dans l'article du journal!
+
+(BOUCLE 111 - 11:08:58:13)
+		111
+
+CHARLIE	Alex, t'arrive à bouger?
+
+ALEX	Il veut pas me laisser.
+
+CHARLIE	(Hah!_)Il faut qu'on fasse quelque chose!
+
+NICK	(uh_)j'ai une idée! (euh__) (uh) Gentil le toutou!
+
+CHARLIE	(h->__)
+
+NICK	Quoi, ça valait le coup d’essayer !
+
+CHARLIE	(Phah_)il nous faut une diversion! Il faut quelque chose qui nous donne assez de temps pour sortir Alex!
+
+NICK	(Ahhh___________) Donne-moi ton téléphone, je vais demander une frappe aérienne.
+
+CHARLIE	J'ai une idée.
+
+NICK	(h->__)
+
+(BOUCLE 112 - 11:09:29:12)
+		112
+
+RUSS	(Huh/________)
+
+TODD	Café(_hh->__)
+
+(BOUCLE 113 - 11:09:44:03)
+		113
+
+NICK	Je suis pas certain de pouvoir faire ça, Charlie!
+
+CHARLIE	(Oh!_ )Je croyais qu'"Un Ranger ne battais jamais en retraite", qu'il "tentait le tout pour le tout"?
+
+NICK	Je dis aussi que je veux fêter mes quatorze ans! (h->__)C'est sûrement la chose la plus débile que j'ai jamais fait!
+
+CHARLIE	(h->_)Non, 	c'est le plus courageux. Allez!
+
+ALEX	Les gars!
+
+NICK	(Ahh_ahhh___ahhhh________________________________________)
+
+CHARLIE	Est-ce que ça va?
+
+ALEX	Je crois que oui.
+
+NICK	(Ahhh__________________________________) Charlie!
+
+CHARLIE	Dépêche!
+
+NICK	(Ahhh_______________________)
+
+CHARLIE	Hé! Par ici!
+
+(BOUCLE 114 - 11:10:39:22)
+		114
+
+CHARLIE	Allez, va t'en, laisse moi!! (_hh_hh____) Assis!
+
+ALEX	(Oh_____________________________________________)
+
+NICK	Charlie!
+
+CHARLIE	Doucement...
+
+(BOUCLE 115 - 11:11:28:03)
+		115
+
+NICK	Arrête! Ca fonctionne pas ce que t'es en train de faire!
+
+CHARLIE	Assis! C'est ça... C'est bien.
+
+NICK	Qu'est-ce qu'il essaie de faire?
+
+ALEX	C'est un chien... qui a besoin d'un ami.
+
+CHARLIE	Gentil toutou...
+
+ALEX	(Hoooo____)génial, ouais!
+
+NICK	(hahahaah_______)
+
+CHARLIE	Tu vois... on te veut aucun mal.
+
+ALEX	(_hh_______)
+
+NICK	(hahaha______)
+
+CHARLIE	(h->__) C'est le meilleur ami de homme, non?
+
+ALEX	Et si on prenait nos affaires et qu’on s'en allait?
+
+(BOUCLE 116 - 11:12:15:12)
+		116
+
+CHARLIE	(BF ahahah_)
+
+ALEX	N'oublie pas ton canif, La binocle, au cas où...
+
+NICK	Tu crois que ce truc était vraiment un fantôme ?
+
+CHARLIE	Les fantômes, ça n'existe pas, rappelle toi.
+
+ALEX	(hah_)
+
+NICK	(hahaha_)
+
+CHARLIE	D'ailleurs, qui nous croirait ?
+
+NICK	C'était vraiment l'aventure la plus folle qu'on ait jamais vécu!
+
+ALEX	Oui, et la plus cool !
+
+NICK	On va dire quoi aux gens à l’école ?
+
+CHARLIE	Rien. C'était une soirée tranquille. Hé, j'ai une idée.
+
+ALEX	Plus de pari, d'accord?
+
+(BOUCLE 117 - 11:12:58:02)
+		117
+
+CHARLIE	Non, ce sera encore mieux... (um_) on raconte partout à tout le monde que, si nous, l'unité des mauviettes geek, on peut passer une nuit ici, 	alors Jake et ses potes devraient en faire autant.
+
+NICK	Ouais, je crois savoir que Jake aime les chiens.
+
+CHARLIE	(haha) 	Tu crois qu'ils nous laisseront sortir?
+
+(BOUCLE 118 - 11:13:23:18)
+		118
+
+NICK	(Ah, ça fait du bien.) (hahahah)
+
+CHARLIE	(haha)
+
+ALEX	(h->____) 	(Oho_)Charlie, y'a ton père.
+
+CHARLIE	(Oh_)Todd a dû tout raconter.
+
+NICK	Qu'est-ce que tu vas lui dire ?
+
+CHARLIE	Je vais devoir lui dire la vérité, je suppose, du moins, en grande partie. (h/__h->___) 	il est temps d'affronter la musique. (h->_)
+
+(BOUCLE 119 - 11:13:54:08)
+		119
+
+RUSS	Bonjour les garçons.
+
+CHARLIE	Salut.
+
+ALEX	Bonjour monsieur Hamilton.
+
+NICK	Bonjour monsieur Hamilton.
+
+RUSS	Alors... c'était comment votre groupe d'étude hier soir.
+
+CHARLIE	Je suis vraiment désolé, en fait c'est une longue histoire.
+
+RUSS	Je sais, on m'a tout raconté.
+
+CHARLIE	Todd!
+
+TODD	C'était pas moi cette fois-ci, je te jure!
+
+RUSS	Pour une fois, il dit la vérité. Ta copine Brandy est venue chez nous hier soir et m'a tout raconté.
+
+CHARLIE	Elle est venue jusque chez nous?
+
+TODD	Oui, et personnellement, je crois qu'elle craque pour toi, mais t'inquiète Charlie, je vais la raisonner.
+
+RUSS	Todd!
+
+TODD	Quoi? Ah, c'est vrai. 	Désolé.
+
+RUSS	C'est une gentille fille.
+
+CHARLIE	(h->_m) je suis désolé de t'avoir menti, désolé pour toute cette histoire.
+
+RUSS	Je sais, mais tu seras quand même puni. Ce sera pareil pour vous deux dès que vos parents le sauront.
+
+NICK	Oui, monsieur Hamilton.
+
+ALEX	Oui, monsieur Hamilton.
+
+(BOUCLE 120 - 11:14:44:22)
+		120
+
+RUSS	Mais j'suis aussi fier de toi.
+
+CHARLIE	Merci.
+
+RUSS	Vous avez du vivre une sacrée aventure là-dedans.
+
+CHARLIE	Rien qu'on n'puisse pas gérer.
+
+RUSS	Allez, c'est bon, je vous ramène. Allez.
+
+CHARLIE	Hé(_uh_ ) on peut rentrer à pied? Je vais direct à la maison, c'est promis.
+
+RUSS	D'accord, je t'attends. 	Allez, on y va.
+
+TODD	Désolé, frangin.
+
+CHARLIE	(Wouah! )je dois être en train de rêver.
+
+TODD	On pourra discuter du paiement de mes vingt-cinq dollars tout à l'heure.
+
+RUSS	Todd! Monte dans cette camionnette!
+
+(BOUCLE 121 - 11:15:31:00)
+		121
+
+RUSS	Au fait, si ta mère te demande, dis-lui que j'étais très en colère et que j'arrêtais pas de crier, comme j'ai l'habitude de faire, d'accord?
+
+CHARLIE	(hahaha) Ce sera notre secret.
+
+RUSS	D'accord.
+
+TODD	Étant donné que t'es d'humeur à pardonner, Russ, je voudrais te parler d'une lettre du directeur de l'école qu'on a reçu y'a environ deux semaines.
+
+RUSS	Todd!
+
+TODD	Ouais?
+
+RUSS	Tu vas la fermer!
+
+(BOUCLE 122 - 11:16:00:23)
+		122
+
+ALEX	(Wouah!) ton père est plein de surprises.
+
+CHARLIE	Ouais... 	on dirait que c'est notre jour de chance.
+
+BRANDY	Salut, Charlie!
+
+CHARLIE	(Hé!_)Qu'est-ce que vous faites ici?
+
+ANGELA	Elle t'attendait espèce d'idiot.
+
+BRANDY	Je suis vraiment désolée, j'ai tout dit à ton père!
+
+CHARLIE	C'est pas grave. 	En fait, il était assez cool avec tout ça.
+
+BRANDY	(h/_)J'étais inquiète pour vous.
+
+CHARLIE	(Euh_) Pour moi? Enfin, oui, pour nous, oui, t'étais inquiète...
+
+NICK	(Rhhh___!!)
+
+BRANDY	Oui, c'est vrai, (um) 	j'espère que...
+
+ANGELA	Tout ça, c'est stupide. Tu craques pour elle, elle craque pour toi, c'est bon, avouez !
+
+BRANDY	Angela!
+
+ANGELA	(h/___)C'est toi que tout le monde surnomme La binocle, non?
+
+NICK	Ouais...
+
+ANGELA	En fait, t'es assez craquant sans tes lunettes.
+
+NICK	(BF mh/_____________)
+
+(BOUCLE 123 - 11:16:48:03)
+		123
+
+JAKE	Hé, les intellos!
+
+CHARLIE	(huh!) (_hh_)
+
+JAKE	(_hh_hh_)
+
+CHARLIE	J'ai jamais dit que je savais pas attraper un ballon, c'est toi qui l'as dit.
+
+JAKE	Alors vous êtes resté toute la nuit, hein?
+
+NICK	Ouais... c'était bien ça le pari, non?
+
+CHARLIE	Et mon nom, c'est Charlie!
+
+JAKE	(_hh_)
+
+CHARLIE	C'est pas "l'intello, ni "loser", ni "la mauviette"!
+
+ALEX	Ouais!
+
+BRENT	(hahaha)
+
+JAKE	La ferme, Brent! 	Je m'en souviendrais. Allez, venez. (Oh...) A un de ces jours, Charlie.
+
+ALEX	(_hh____quoi?)
+
+NICK	J'arrive pas à le croire... je dois avouer qu'il était plutôt...
+
+ALEX	gentil!
+
+NICK	J'allais dire qu'il était plutôt magnanime, mais ensuite, je me suis dit qu'il allait peut-être entendre et revenir nous taper pour chaque syllabe.
+
+CHARLIE	(hahaha) Allez, rentrons à la maison.
+
+(BOUCLE 124 - 11:17:42:23)
+		124
+
+BRANDY	Qui c'est, ça?
+
+CHARLIE	J'en sais rien.
+
+BRANDY	Il n'a pas de collier. 	C'est quoi son nom?
+
+CHARLIE	T'as raison, j'en vois pas.
+
+NICK	C'est peut-être Salty?
+
+BRANDY	(hahaha) En tous cas, il a l'air de te connaître Charlie. Il est trop mignon! Regarde comme il est beau!
+
+ANGELA	(h/__)On peut rentrer à la maison maintenant!
+
+ALEX	(_hh_hh_)
+
+CHARLIE	(h/__siffle_) Allez, vient!
+
+(BOUCLE 125 - 11:18:17:09)
+		125
+
+NICK	(_hh_hh_)
+
+ALEX	Merci d'être retourné avec moi.
+
+NICK	(haha__euh__)En fait, c'est Charlie qui m'a forcé la main!
+
+ALEX	C'était vraiment flippant quand cette télé s'est mise en marche toute seule...
+
+NICK	(ahaha)
+
+ALEX	ou quand y'a eu cette boule de feu !
+
+NICK	Ouais, c'était le fantôme le plus laid que j'ai jamais vu !
+
+ALEX	Nick, c'est le seul fantôme que t'aies jamais vu !
+
+BRANDY	De quoi est-ce qu'il parle ?
+
+CHARLIE	C'est rien, c'est qu'une histoire de fantôme.
+
+BRANDY	Pourquoi il lui a dit 'merci d'être retourné avec moi'? Dis-moi Charlie! Dis-moi la vérité. Il s'est passé quelque chose là-bas hier soir?
+
+CHARLIE	Oui. J'ai compris qui sont mes amis. Et ça m'est égal ce que Jake, ses imbéciles de potes, ou n'importe qui peut dire: Je m'appelle Charlie Hamilton et j'aime les maths, et les sciences, les jeux vidéo et les vieux films d'horreurs! 	Je trouve tout ça plutôt cool!
+
+BRANDY	Moi aussi!
+
+(BOUCLE 126 - 11:19:15:14)
+		126
+
+BRANDY	Quoiqu'il en soit, vous avez du bien vous amuser ! Tu vas le garder?
+
+CHARLIE	Oui. Sauf si quelqu'un vient le chercher.
+
+NDA	(continue -->)
+
+INSERT	L'Histoire du Gang des Sullivan
+
+BRANDY	(ahahah___)Allez, vient! Vient le toutou!
+
+INSERT	(GENERIQUE FIN)
+
+NDA	(FIN GENE FIN)

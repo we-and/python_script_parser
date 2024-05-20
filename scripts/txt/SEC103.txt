@@ -1,0 +1,982 @@
+EL SECRETO VO TCI EP 103-H264
+11/04/2017
+
+(BOUCLE 1 - 10:05:01:17)
+		01
+
+PEPA	Réponds de tes actes, si tu es un homme ! (hh) Je veux te l'entendre dire de tes propres lèvres ! Allez, je t'écoute ! C'est toi qui as écrit la lettre qui incrimine Tristan, oui ou non ?
+
+ALBERTO	Je ne l'ai pas accusé lui spécifiquement ! Comme je ne l'ai pas défendu...
+
+PEPA	Tu n'as aucune parole, Alberto Guerra ! (hh)
+
+ALBERTO	Pepa, je n'ai fait que dire ce que je savais... Que malgré les nerfs fragiles de sa femme enceinte, il n'a eu aucun scrupule à chercher une femme plus jeune pour lui être infidèle. (h_) Et aussi que lui et sa famille sont de vrais tyrans qui n'ont aucune considération pour les gens du village !
+
+PEPA	Mais tu m'avais promis que tu lui viendrais en aide ! (h_) Que tu intercèderais en sa faveur auprès des responsables militaires pour qu'ils t'apportent leur soutien ! (hh_) Et tu as fait tout le contraire ! (hh) Tu es un menteur, un imposteur et un traître !
+
+ALBERTO	Quand est-ce que j'ai menti, hein ?
+
+PEPA	Tu m'as menti à moi ! Tu m'as trahie, moi ! Celle que tu appelles ton épouse !
+
+ALBERTO	Pepa...
+
+PEPA	C'est toi qui mériterais d'être mort !
+
+ALBERTO	Pepa tu es complètement aveugle ! Tu ne te rends pas compte qu’il n’a jamais eu d’obstacle pour obtenir ce qu’il voulait…  Et... Il fait passer ses désirs avant tout autre chose.
+
+PEPA	Tout ce que désire Tristan, de toute son âme, c’est moi ! Et c’est réciproque. Et ça tu ne peux pas le supporter !
+
+ALBERTO	Pepa, je te promets que je vais effacer Tristan Castro de ta vie une bonne fois pour toutes !
+
+PEPA	(réac) Ah... (hh) Je sais que c’est toi qui as insisté pour que tu fasses un examen médico-légal du cadavre de Prieto. (h__) Ainsi tu pouvais accuser Tristan !
+
+(BOUCLE 2 - 10:06:14:18)
+		02
+
+PEPA	Avec tes subterfuges tu peux l’effacer de ma vie, mais pas de mon cœur, tu peux en être certain ! Et fais bien attention... parce que c’est moi qui vais disparaître de ta vie ! Plus rien ne me retient à tes côtés. Tristan et moi, nous allons emmener Martin et vivre heureux !
+
+ALBERTO	Permets-moi d’en douter.
+
+PEPA	Ouvre les yeux et regarde moi faire…
+
+ALBERTO	Tu seras l’épouse dévouée et respectueuse (h) que mérite d’avoir un médecin ! Sinon, je m'en irais crier sur tous les toits que sauver le père légal de ton enfant
+
+PEPA	(hh)
+
+ALBERTO	(h) était un motif plus que suffisant pour s'en prendre à Prieto… Tu deviendrais ainsi la principale suspecte dans cette affaire de meurtre. Hum !
+
+PEPA	Tu n’oserais pas.
+
+ALBERTO	Mets-moi à l’épreuve et tu verras… (h) Où tu vas, Pepa ? (h_) Pepa !
+
+PEPA	Lâche-moi !
+
+ALBERTO	(hh) (h_)
+
+PEPA	(hh)
+
+(BOUCLE 3 - 10:08:05:00)
+		03
+
+TRISTAN	Nous sommes presque arrivés, madame.
+
+ELOISA	(petit rire)
+
+MARIANA	Je vais vous aider à vous coucher, madame.
+
+ELOISA	Non, ce n’est pas nécessaire, Mariana. (h_) Tristan, vous ne trouvez pas qu'il est dommage que le chemin entre le salon et la chambre soit si court ? (petite rire) (h_) Je dois dire qu'il se pourrait que je prenne goût à ce genre de locomotion.
+
+TRISTAN	Doucement...
+
+ELOISA	(hh) Je vous propose un accord !   Moi je vais rester invalide et vous vous allez me promettre de tout le temps me porter dans vos bras ! (petit rire)
+
+TRISTAN	Cet accord c’est la paradis. Ce serait un plaisir.
+
+ELOISA	Fantastique ! Vous êtes un homme adorable. Je dois vous avouer que... quand votre mère m’a parlé de la mort de votre petite sœur je… (h__) J’ai été très touchée par votre malheur.
+
+TRISTAN	Ah madame, c’est un sujet plutôt délicat. Ma mère ne s’entend pas bien avec ma petite sœur. Elle est morte c’est vrai, mais seulement à ses yeux.
+
+ELOISA	(oh!) (h_) Votre mère est une femme très particulière, ça ne fait aucun doute.
+
+TRISTAN	C’est ce qu’il paraît. Mais ne vous inquiétez pas, ma sœur est bien en vie et mariée à l’homme qu’elle aime.
+
+ELOISA	Et je suppose qu’il n’est pas au goût de madame votre mère.
+
+TRISTAN	Vous supposez juste. (sourire)
+
+ELOISA	Ah... Satanée fatigue ! Il est temps pour moi de mettre fin à cette journée… (h___) Je vous prie de m’excuser…
+
+TRISTAN	Bien entendu. Bonne nuit.
+
+(BOUCLE 4 - 10:09:20:19)
+		04
+
+ELOISA	(h_) Toi qui est jeune et innocente, (h_) tu sais que c'est seulement grâce à toi que je supporte mon mal de jambe. (mhh) Mon seul réconfort est de savoir que grâce à cet accident, je vais gagner une grande amitié... la tienne, Mariana. (petit rire)
+
+(BOUCLE 5 - 10:09:44:06)
+		05
+
+EMILIA	Comme ça... (ah____) (ah!) Doux Jésus ! Mais comment tu fais, Sebastian ? (h__) (hh__) C'est que tu restes caché en attendant le moment précis où père s'en va pour entrer, c'est ça ?
+
+SEBASTIAN	Bonjour... (h_) (x)
+
+EMILIA	Mais qu'est-ce que je vais faire de toi ? C'est malin, maintenant, je vais partir à Madrid, dépitée de ne pas avoir réussi à vous faire faire la paix...
+
+SEBASTIAN	Tu ne pouvais rien y faire, Emilia. (mhh) Nous ne pouvions rien faire, si tu préfères.
+
+EMILIA	Oui, parce que tu ne m'écoutes jamais.
+
+SEBASTIAN	Bien sûr que si je t'écoute !
+
+EMILIA	Ah oui ? Et je peux savoir quand ?
+
+SEBASTIAN	Tu seras contente de savoir que j'ai suivi ton conseil dans l'affaire qui me lie à Virtudes et Gerardo.
+
+EMILIA	Est-ce que c'est vrai ?
+
+SEBASTIAN	J'ai déjà commencé les premières étapes pour, disons... faciliter sa sortie le plus vite possible. (h___) Tu avais raison, Emilia. Et je suis venu te remercier de m'avoir ouvert les yeux.
+
+EMILIA	Tu as bien fait Sebastian.  Je suis bien consciente du sacrifice que ça représente pour toi de te séparer de cette femme.
+
+SEBASTIAN	(hh) (h_____) Je ne sais pas comment j'ai pu être aussi naïf. (h_) Je voulais la rendre heureuse. Et je suis sûre que j'aurais pu y parvenir... Mais ce n'était pas moi qu'elle voulait. Elle a le béguin pour l'autre monstre...
+
+EMILIA	(réac)
+
+SEBASTIAN	(h__) Enfin, c'est mieux pour tout le monde.
+
+EMILIA	Oui tout à fait !
+
+SEBASTIAN	(mh____) (mhh)
+
+(BOUCLE 6 - 10:10:58:10)
+		06
+
+EMILIA	Sebastian, tu sais tu vaux mi_lle fois mieux que cette femme. Et tu mérites quelqu'un qui t'aime sincèrement. Fais-moi confiance. Je veux ton bonheur.
+
+SEBASTIAN	Qu'est-ce que tu as mûri, petite sœur... (mhh)
+
+EMILIA	Tu t'en rends enfin compte ?
+
+SEBASTIAN	Je m'en rends compte chaque fois que je viens ici !
+
+EMILIA	(mhh)  Je me suis beaucoup donnée pour cette posada et regarde... on a du monde !
+
+SEBASTIAN	Tu as pris les rênes quand il le fallait.
+
+EMILIA	Oui.
+
+SEBASTIAN	(h___) Je regarde autour de moi et je vois ta patte dans tout ce que je vois...
+
+EMILIA	(petit rire)
+
+SEBASTIAN	Dans les tout petits détails... Cette affiche, qui est juste là. C'est une combinaison parfaite de modernité, élégance et bon goût.
+
+EMILIA	(rire)
+
+SEBASTIAN	(h__)
+
+EMILIA	(rire)
+
+SEBASTIAN	Seule une femme... distinguée et raffinée est capable de choisir un tel objet.
+
+EMILIA	Elle te plaît vraiment ?
+
+SEBASTIAN	Oui vraiment ! (h_) J'aimerais même une écriture similaire sur les étiquettes de mes conserves...
+
+EMILIA	Eh bien tu as de la chance, (h__) parce que cette écriture appartient à une femme toute aussi distinguée et raffinée que moi.
+
+SEBASTIAN	Qui ?
+
+EMILIA	Soledad. Propose-lui ! Elle a besoin de travail et toi d'un dessin pour tes étiquettes. Où est le problème ?
+
+SEBASTIAN	Le problème s'appelle Francisca Montenegro. (h_) Mais je vais y réfléchir.
+
+(BOUCLE 7 - 10:12:09:04)
+		07
+
+MARIANA	Quelle belle peau vous avez, madame.
+
+ELOISA	(petit rire)
+
+MARIANA	Si vous m'autorisez à parler ainsi... Vous faites des bains au lait d'ânesse, comme faisaient les anciens ?
+
+ELOISA	Ah non pas du tout, ça me paraît impur ! (h__) Je me lave avec un savon que je fais venir de Marseille, de la France. (h_) Et tu pourrais en avoir toi aussi, si je te donnais un petit savon.
+
+MARIANA	Moi ? Vous m'en donneriez ?
+
+ELOISA	Hum hum. (h_) Seulement si tu me racontes une bonne histoire. C'est ma condition.
+
+MARIANA	(h) Quelle histoire ? (h__) Moi je ne suis pas très cultivée vous savez... Même pas du tout.
+
+ELOISA	Ne t'inquiéte pas... L'histoire qui m'intéresse, je suis sûre que tu la connais jusque dans les moindres détails. (h__) (h_) Ma curiosité est piquée au vif par cet amour interdit entre Soledad et l'homme qu'elle a choisi. (h_) Je m'ennuie des bonnes manières et de cette manie de vouloir conserver un savoir vivre d'un autre temps. (h__) Et cette histoire, ma chérie, a l'air... si romantique. (hh) (nh_) Et très riche en émotions.
+
+(BOUCLE 8 - 10:13:01:02)
+		08
+
+MARIANA	Pour moi ? (rire) Romantique c'est si peu dire ! (h_) Je n'ai jamais vu deux personnes qui s'aiment autant que ces deux amoureux !
+
+ELOISA	Ah, raconte-moi donc ! Soulage moi de mon ennui permanent avec un peu de potins, fais-moi confiance !
+
+MARIANA	C'est une histoire merveilleuse, vous allez voir. (h_) Depuis qu'ils sont enfants ils passent tout leur temps ensemble et se voue un amour secret. (h) Quand ils ont grandi, Salvador, le père de Soledad, (h_) s'est mis à les poursuivre comme un vrai chien de chasse ! (rire) (h__) (rire) Je parle trop ! (h__) Ah madame, je commence à jacasser, et quand je commence je ne sais pas m'arrêter ! (h__) (hh)
+
+ELOISA	Mais enfin, tant que tu ne dis rien d'inconvenant... Et je suis une tombe, fais-moi confiance. À la cour tout le monde se confiait à moi et je ne peux t'en dire plus... (hh)
+
+MARIANA	Non, c'est moi qui ne peux en dire plus. (h___) (hh___)
+
+ELOISA	Ah, Mariana, tu refuses ce petit caprice à une pauvre boîteuse ?
+
+(BOUCLE 9 - 10:13:50:11)
+		09
+
+ELOISA	(mhh___) (humhh)
+
+MARIANA	D'accord, madame, je vous raconte... (h__) Mais ne le dites à personne, d'accord ?
+
+ELOISA	Non.
+
+MARIANA	Alors... (hh) Monsieur fini par décéder. Mais ils avaient encore Donia Francisca contre eux, (h__) et l'amoureux de Soledad dû risquer sa vie pour défendre son amour.
+
+ELOISA	C'est fascinant !
+
+MARIANA	(hh) Jusqu'à ce qu'il comprennent qu'on les traquerait toujours. (h___) Là ils décidèrent de sa marier en secret, à la barbe de tous ! (h__)
+
+ELOISA	Dans une clairière au crépuscule ? Comme Roméo et Juliette ?
+
+MARIANA	(hh) Ceux-là leur histoire ne me plaît pas. (h___) Mais oui c'est dans la forêt qu'ils se sont mariés. (h_) Ils ont même dû duper le curé pour l'y conduire et qu'il les marie !
+
+ELOISA	(h_____) Ah, dieu du ciel ! Quel homme est capable d'aimer ainsi, avec cette passion ?
+
+MARIANA	(mhh) Il ne faut pas oublier qu'elle aussi a renoncé à tout ce qu'elle avait pour être avec lui.
+
+ELOISA	C'est une belle histoire, Mariana. (mhh) Et maintenant je ressens le besoin de connaître cet homme... et son épouse aussi. (h_) Et je suis certaine que tu pourras m'aider ! (nh___) Hum... Il sent bon, comme un ange, tiens sens.
+
+MARIANA	(hh) (h__) Bien entendu que je pourrais vous aider, (h_) parce qu'il se trouve que l'époux de Soledad n'est autre que mon propre frère, Juan. (petit rire)
+
+ELOISA	(mhh) (hh)
+
+(BOUCLE 10 - 10:14:59:16)
+		10
+
+AMBIANCE	(bruit de fond rue ad lib)
+
+PEPA	Tu vois bien quel genre d'homme est mon mari ! (mhh) Tu n'as vraiment rien perdu, Emilia. Tu es bien mieux comme ça.
+
+EMILIA	Quelle bassesse que de te menacer, Pepa ! Vraiment... Je ne le pensais pas capable...
+
+PEPA	Pourtant ça s'est passé comme je te l'ai raconté ! Il m'a dit que si je l'abandonnais il me ferait passer pour la coupable de la disparition de Prieto, parce que Tristan est le père légal de mon enfant.
+
+EMILIA	(hh)
+
+(BOUCLE 11 - 10:15:29:03)
+		11
+
+AMBIANCE	(bruit de fond ad lib)
+
+SANZ	Bonjour mesdames !
+
+EMILIA	Bonjour, commandant.
+
+PEPA	Qu'est-ce que vous voulez ?
+
+SANZ	Justement je voulais vous parler. Je passais ici en vous cherchant. (mhh) Ce doit être mon jour de chance.
+
+EMILIA	Vous voulez boire une tisane à l'anis ? La matinée est fraîche, ça vous réchauffera.
+
+PEPA	Laisse, Emilia. Vous disiez...
+
+SANZ	Alors... Ça concerne une rumeur à propos de l'enquête que je suis en train de mener. (h_____) Il semblerait qu'il soit de notoriété publique que... le capitaine Prieto était un client assidu d'un bordel juste aux portes de La Puebla.
+
+EMILIA	Mais nous... nous n'sommes pas au courant.
+
+(BOUCLE 12 - 10:16:06:06)
+		12
+
+PEPA	Et qu'est-ce que ça a à voir avec moi, je peux savoir ?
+
+SANZ	(h__) Je suis allé interroger le personnel. Ils ont tous parlé d'une femme de mauvaise vie avec qui discutait Pietro la dernière fois qu'il y était. Et cette femme vous ressemblerait. (h__) En tout cas, si je me fie à la description qu'on m'en a faite.
+
+PEPA	Qu'est-ce que vous insinuez ? J'ai un métier, monsieur Sanz !
+
+SANZ	Ça n'empêche pas une deuxième activité. Maintenant répondezs, (h_) vous êtes allée à la maison close pour aller voir Prieto habillée comme une prostituée, oui ou non ?
+
+EMILIA	Pepa est restée ici avec moi toute la sainte journée !
+
+PEPA	Je ne...
+
+EMILIA	Je suis en train de la former pour qu'elle aide mon père pendant que je serais à Madrid puisqu'on m'a proposé de travailler comme aide de cuisine dans la capitale.
+
+SANZ	Vous pouvez confirmer, c'est vrai ?
+
+PEPA	(h) Oui oui, j'étais avec Emilia à cette même place.
+
+SANZ	Ah.
+
+EMILIA	Maintenant monsieur, si vous pouviez me donnez votre avis sur ce pain perdu... Je me permets de vous demander parce que... (mhh) (h____) seuls les hommes de votre posture ont l'esprit critique suffisant pour en juger, car c'est très sérieux étant donné que je vais présenter cette recette à la société madrilène.
+
+SANZ	(hh) (h) Vous me croyez assez stupide pour vous laisser tenter d'influencer mon professionnalisme... avec une simple part de pain perdu ?
+
+EMILIA	Ce que je crois c'est que vous n'êtes pas assez stupide pour partir d'ici sans en avoir mangé.
+
+PEPA	Avec la bouche pleine il ne pourra plus m'interroger. (h)
+
+EMILIA	(mhh)
+
+(BOUCLE 13 - 10:17:26:13)
+		13
+
+SEBASTIAN	L'idée c'est que les conserves puissent être identifiées directement grâce à un dessin qui nous représente. Qu'en dis-tu, Soledad ? Tu veux le faire ?
+
+SOLEDAD	Je te remercie sincèrement pour la proposition et pour tes compliments sur la commande que j'ai faite pour Emilia... Mais comme tu peux te l'imaginer, je préfère me maintenir à distance de tout ce qui a à voir avec ma mère.
+
+SEBASTIAN	J'avais deviné que tu me répondrais ça... Donc je l'ai anticipé... et j'ai trouvé une solution... Écoute... Ta mère ne se charge que de vérifier les grosses dépenses de l'entreprise. L'affaire qui nous concerne a un coût minime, je pourrais faire appel à tes services sans lui rendre de compte. (h_) En fait, rien ne m'oblige à l'informer que je t'embauche, et l'argent viendrait entièrement de ma poche... J'insiste, Soledad. C'est une bonne manière de gagner ta vie dignement, en te servant de tes qualités.
+
+JUAN	Sebastian, tu as entendu ma femme. (h_) Si elle te dit non, c'est non. Nous te remercions du fond du cœur d'avoir pensé à elle, m...
+
+SOLEDAD	Je vais le faire. Je vais le faire, mais uniquement à la condition que ma mère ne sache sous aucun prétexte que c'est moi... (h) qui ai dessiné les étiquettes.
+
+(BOUCLE 14 - 10:18:26:11)
+		14
+
+SEBASTIAN	Mais, tu es sûre de toi, Soledad ?
+
+SOLEDAD	Ça me fera du bien de m'occuper l'esprit, de penser à autre chose qu'au bébé un peu.
+
+JUAN	Tu es sûre d'en avoir la force ?
+
+SOLEDAD	Parfaitement ! Et toi tu pourrais... (h_) mettre sur papier n'importe quelle illustration que j'inventerais sur les fruits et les légumes... (h_) Juan, cet argent c'est une aubaine tu ne crois pas ?
+
+JUAN	D'accord, si tu veux.
+
+SOLEDAD	(sourire)
+
+JUAN	Si c'est ta décision, il n'y a plus à discuter.
+
+SEBASTIAN	Affaire conclue alors ?
+
+SOLEDAD	(hh) Affaire conclue.
+
+(BOUCLE 15 - 10:18:59:15)
+		15
+
+AMBIANCE	(bruits de fond ad lib)
+
+RAMIRO	Comme la dernière fois vous n'avez pas apprécié les femmes que nous vous avions trouvées parce qu'elles étaient trop jeunes, nous vous en avons trouvé d'autres.
+
+ALFONSO	Et avec ça je vous garantis qu'on va réussir à vous convaincre. Elles sont toutes très douées aux fourneaux, certaines sont maîtresses de maison, et, comme demandé,  d'un âge bien avancé.
+
+RAIMUNDO	Et bien en chair, je suppose.
+
+RAMIRO	Avant de vous plaindre, laissez-nous vous les énumérer.
+
+ALFONSO	(hh) Voyons, qui pourrait vous plaire ? Isidora, celle de Primitivo.
+
+RAIMUNDO	Celle avec la verrue sur le nez ?
+
+RAMIRO	Celle-là même. Elle n'est pas très gracieuse, mais elle a bon cœur vous savez.
+
+ALFONSO	En plus elle est organisée et elle mène son monde à la baguette.
+
+RAIMUNDO	Oui, plus qu'un général je crois même ! Non, on écarte cette Isidora.
+
+RAMIRO	Bon... qu'est-ce que vous pensez___ de... la dame Casilda, celle de Felipe ?
+
+RAIMUNDO	Là cest le pompon ! Si la première avait du caractère, celle-là c'est le diable en personne ! En aucun cas je ne fréquenterai une de ces deux-là, non !
+
+ALFONSO	D'accord. Mais... on a encore trois candidates de plus...
+
+RAIMUNDO	Ça suffit maintenant ! Aucune de ces femmes ne me plaît et il n'y a rien  d'autre à dire ! Laissez-moi vivre ma vie comme je veux et occupez vous de vos propres affaires !
+
+EMILIA	Et de quelles affaires ces deux-là doivent-ils s'occuper ?
+
+ALFONSO	Euh... Nous parlions du verger. On essaie de le convaincre d'embaucher trois manœuvres de plus. Pa___r ce qu'il faut débroussailler sous les fruitiers, mais rien n'y fait, il refuse de prendre de nouveaux ouvriers.
+
+EMILIA	Bon, papa, tu pourrais céder pour une fois, quand ils veulent récolter les fruits, les chardons leur arrivent jusqu'au nombril !
+
+ALFONSO	Et oui, Raimundo !
+
+RAIMUNDO	Vous allez arrêter de me dire ce que je dois faire oui ou non ! Je m'organiserai moi-même. Arrêtez tous les deux. (h) Et que ce soit bien clair, je ne veux plus entendre parler de ce sujet ! Hum ? De l'air !
+
+(BOUCLE 16 - 10:20:28:00)
+		16
+
+AMBIANCE	(bruit de fond ad lib)
+
+EMILIA	Papa, pourquoi est-ce que tu traites les garçons comme ça ? Ils veulent seulement t'aider !
+
+RAIMUNDO	Parce que eux me traitent comme un invalide, et j'en suis pas un.
+
+EMILIA	Oui mais il y a beaucoup de choses que tu ne peux plus faire comme avant papa !
+
+RAIMUNDO	Ah oui ? Et d'après qui ? J'ai récupéré presque toute ma vue et je peux m'occuper moi-même de mes affaires ! Je n'ai besoin de personne. Et d'ailleurs de toi non plus.
+
+EMILIA	Espèce de vieille tête de mule !
+
+(BOUCLE 17 - 10:20:57:12)
+		17
+
+VIRTUDES	Tu as envoyé les lettres que je t'ai remises ?
+
+SEBASTIAN	À ton avis ?
+
+VIRTUDES	C'est important. Tu les as envoyées ?
+
+SEBASTIAN	Mais bien sûr que oui enfin, comme tu me l'as demandé ! (h?)
+
+GERARDO	Je t'ai fait peur ?
+
+SEBASTIAN	Tu étais obligé de me surprendre de la sorte ?
+
+VIRTUDES	Gerardo, écoute, Sébastian a quelque chose à te dire.
+
+SEBASTIAN	Rien que tu ne saches déjà je suppose. Depuis l'explosion du chariot, la Guarde Civile a doublé ses effectifs, et elle intensifie ses recherches. Il paraît qu'il y a un groupe d'anarchistes non loin d'ici...
+
+GERARDO	(h) Il n'y a pas d'anarchistes dans la région !
+
+SEBASTIAN	Ah bon ? Et moi qui pensais tout à fait le contraire...
+
+GERARDO	Tu fais erreur. Car même si je ne suis pas de leur groupe, ils m'auraient identifié et ils m'auraient contacté au moins, or ils ne l'ont pas fait...
+
+SEBASTIAN	Ah ! D'accord... (h______)
+
+VIRTUDES	Fais-lui confiance, Sebastian, il est toujours au courant de tout...
+
+SEBASTIAN	Oui... (h__) Jusqu'au mystère de l'humanité !
+
+VIRTUDES	(h)
+
+SEBASTIAN	C'est une éminence, sans aucun doute !
+
+GERARDO	(rire) (hh___) (h_____) Je vais reprendre mon éminent... (hh) travail de jardinier.
+
+(BOUCLE 18 - 10:21:56:08)
+		18
+
+VIRTUDES	Pourquoi tu t'obstines à tout rendre difficile ? Aie confiance, bientôt viendront des jours meilleurs...
+
+SEBASTIAN	Qu'est-ce qui te fait dire ça ? Tu lui as parlé de toi et moi ?
+
+VIRTUDES	Je lui dirai très bientôt.
+
+SEBASTIAN	Quand ça ?
+
+VIRTUDES	Plus vite que tu ne te l'imagines. (h__) Je ne peux plus faire durer cette situation. (h__) Je n'ai jamais cessé de t'aimer.
+
+SEBASTIAN	(mhh) (mh__) À quel point m'aimes-tu, réellement, Virtudes ? (x)
+
+VIRTUDES	(x)
+
+SEBASTIAN	(h_) Mieux vaut que tu ne dises rien.
+
+VIRTUDES	(mhh__) (h____) (ahh___)
+
+(BOUCLE 19 - 10:22:48:11)
+		19
+
+SANZ	Je vous assure que je ne baisserai pas les bras tant que je n'aurais pas le coupable, ce n'est pas mon genre.
+
+ALBERTO	Et si vous avez besoin d'informations médico-légales supplémentaires, vous pouvez compter sur ma collaboration.
+
+SANZ	C'est d'autres preuves péremptoires dont j'ai besoin, Guerra.
+
+PEPA	Excusez-moi de vous interrompre. On m'a dit que vous étiez ici et je suis venu vous voir avant que vous ne partiez, commandant Sanz.
+
+SANZ	Je vous écoute.
+
+PEPA	Je préfèrerais vous parler en privé. Parce que mon mari...
+
+ALBERTO	Je ne m'inquiète pas de ce que tu as à dire. Tu es mon épouse et... Et je dois être au courant de tout ce qui te concerne.
+
+PEPA	Fais comme tu préfères.
+
+(BOUCLE 20 - 10:23:24:09)
+		20
+
+PEPA	Ce matin vous m'avez demandé si j'étais la femme que certains ont vue à La Puebla en train de parler à Prieto.
+
+SANZ	Hum hum.
+
+PEPA	(h___) Eh bien vous aviez raison, c'était moi.
+
+SANZ	(h____) (mhh____________) Asseyez-vous, s'il vous plaît. (h______) Alors vous admettez que vous étiez au bordel pour parler à Maximiliano Prieto le jour précédent sa mort ?
+
+PEPA	Je l'admets oui.
+
+SANZ	Et pourquoi ?
+
+PEPA	Je suis allée là-bas pour savoir pourquoi il avait menti dans sa déclaration et pour qu'il se rétracte, dans le but de sauver la vie de Tristan Castro. (h__)
+
+SANZ	Et... pourquoi prendre autant de risques pour sauver la vie de ce condamné ?
+
+PEPA	Tristan Castro et moi entretenons une relation... intime. (hh)
+
+(BOUCLE 21 - 10:24:17:12)
+		21
+
+SANZ	(h________) (hh)
+
+ALBERTO	Non, ne soyez pas gêné. (déglutit) J'étais déjà au courant. Prenez exemple sur mon épouse, qui le proclame avec... (h__) avec toute l'impertinence du monde ! Vas-y, dis-le lui ! Dis-lui comment tu as essayé de te vendre comme une fille facile alors que cet homme ne voulait pas t'acheter !
+
+PEPA	(mhh__)
+
+SANZ	(h__) Et dites-moi, quel accord avez-vous passé avec Prieto ?
+
+PEPA	J'ai pleuré et supplié pour le capitaine Castro (h__) jusqu'à ce que je réussisse à l'émouvoir et à le convaincre de me promettre... (h__) d'envoyer une lettre au Tribunal Militaire pour demander la clémence pour son ami, revenir sur ses dires et... (h__) et avouer avoir menti parce qu'il était envieux et malveillant.
+
+SANZ	(h__) Quelque chose dans son attitude vous a fait penser qu'il se suiciderait ?
+
+PEPA	Non, pas le moins du monde ! Mais c'est certain qu'il semblait sincèrement se repentir... (hh)
+
+SANZ	(hh__) Encore une chose, Pepa Aguirre, si vous m'avez menti ce matin, pourquoi je devrais vous croire maintenant ?
+
+PEPA	Parce que ce matin je me suis tu par respect, mais comme je l'ai perdu, maintenant je parle par amour.
+
+(BOUCLE 22 - 10:27:37:01)
+		22
+
+GERARDO	Il faut qu'on soit prudents, qu'on agisse rapidement. La Guarde Civilie a déployé des effectifs et ils ne tarderont pas à nous trouver si nous ne prenons pas garde. Vous avez apporté nos..? Bien. C'est parfait, camarades !
+
+(BOUCLE 23 - 10:28:22:01)
+		23
+
+PEDRO	En tant que représentant des habitants de cette ville, vous pouvez disposer de moi à votre plaisir. (hh) Bon, enfin, vous m'avez compris... (eh) (h__)
+
+DON ANSELMO	Dites-nous comment nous pouvons vous être utiles, commandant.
+
+SANZ	(h__) Je vous remercie pour votre collaboration. (h______) Regardez, j'ai en ma possession la première lettre que Pietro a remise au Juge Militaire, où il accusait Castro... des meurtres de Matéu et Seville. Maintenant, j'ai aussi une lettre où Pietro innocente Castro et revient sur sa première déclaration. (h_) Cette lettre a été trouvée dans ses poches, après son suicide... Je vous prie d'analyser ces deux lettes jusque dans les plus petit détails, (h) parce que si je vous ai fait venir ici aujourd'hui,  (h_) c'est pour que vous soyez tous les deux témoins dans cette affaire et pour que vous confirmiez, ou pas, que ces deux lettres ont été écrites par la même main.
+
+DON ANSELMO	C'est une responsabilité très importante.
+
+SANZ	Pas plus que sauver les âmes de ses paroissiens, mon père.
+
+(BOUCLE 24 - 10:29:11:09)
+		24
+
+SANZ	(mhh) Je vous prie d'examiner très attentivement la calligraphie sur les deux lettres. Échangez-les vous... et donnez-moi votre avis.
+
+PEDRO	Je ne sais pas ce qu'en dit le père Anselmo, mais... (mhh) si vous voulez mon humble avis, l'écriture sur les deux lettres est identique.
+
+DON ANSELMO	Oui, en effet, je suis d'accord, il s 'agit de la même écriture. (h__) La personne qui a écrit la première, a aussi écrit la seconde, ça ne fait aucun doute.
+
+SANZ	Je me réjouis que nous soyons d'accord. (h__) Et en même temps, ça corrobore le témoignage de votre épouse, docteur...
+
+ALBERTO	(mhh__)
+
+SANZ	Bon, la seconde lettre... invalide donc... l'inculpation de monsieur Castro. Quand j'aurais présenté ces deux lettres, il sera au-dessus de tout soupçon.
+
+(BOUCLE 25 - 10:29:59:13)
+		25
+
+DON ANSELMO	(hh__)
+
+ALBERTO	Alors vous avez terminé ?
+
+SANZ	Effectivement. (h) Maintenant si vous voulez bien m'accompagner, nous allons écrire et signer vos déclarations, (h) et nous classerons cette affaire aujourd'hui même.
+
+DON ANSELMO	Hum.
+
+PEDRO	(h_) (eh_) Nous sommes à votre dispositon, commandant. (petit rire)
+
+ALBERTO	(mhh) J'ai du mal à croire que vous arrêtez tout. Vous... (h_) Vous avez lu mon rapport d'autopsie, vous savez qu'il avait des marques partout sur le cou.
+
+SANZ	(h__)
+
+ALBERTO	Ce pauvre bougre ne s'est pas suicidé.
+
+SANZ	(h_)
+
+ALBERTO	Et son assassin est toujours en liberté, commandant !
+
+SANZ	(hh) Je trouve bien curieux que vous soyez l'auteur de cette autopsie, docteur.
+
+ALBERTO	Qu'est-ce que vous voulez dire par là ? Vous m'accusez d'avoir manipulé un rapport médical ?
+
+SANZ	(h_) Si je vous accusais vous seriez à genoux avec des menottes aux poignets. (h__) Mais pour l'instant je ne suis sûr de rien concernant cette autopsie. (h__)  Ce dont je suis sûre c'est que vous avez envoyé cette lettre en accusant Castro avec l'unique intention de vous venger de l'infidélité de votre épouse. (mhh) Chacun vit avec sa propre conscience... Bonsoir, docteur Guerra.
+
+(BOUCLE 26 - 10:31:02:06)
+		26
+
+AMBIANCE	(bruit de fond ad lib)
+
+EMILIA	(mhh) Hipolito, il faut qu'on parle.
+
+HIPOLITO	Qu'est-ce que je peux faire pour toi ?
+
+EMILIA	Je voudrais que tu attaches ce Cerbère qui te sert de gardienne !
+
+HIPOLITO	Qu'est-ce que tu me racontes ? Je ne sais pas de qui tu me parles.
+
+EMILIA	D'une folle qui m'a attrapée sur la place pour me menacer de m'arracher les cheveux si je n'enlevais pas mes sales pattes de "son" Hipolito ! Oh !
+
+HIPOLITO	Ah oui, oui je sais... Mais ne lui en tiens pas rigueur s'il te plaît, la pauvre fille.
+
+EMILIA	Elle est complètement fo_lle !
+
+HIPOLITO	Oui, mais folle de moi. (h)
+
+EMILIA	Quoi ?
+
+HIPOLITO	Oui... (h_) Ah, ma petite Emilia, c'est que je... Je suis désolé, je suis désolé, je sais que j'aurais dû t'expliquer les raisons de tout ça mais... (hh) c'est que cette pauvre fille a eu la bêtise de tomber amoureuse de moi !
+
+EMILIA	La bêtise oui, c'est bien dit ça...
+
+HIPOLITO	Et... Il faut que je te dise... (h) eh bien, que moi aussi je crois... avoir des sentiments pour elle, Emilia.
+
+EMILIA	C'est naturel Hipolito. Qui se ressemble... s'assemble, comme on dit.
+
+HIPOLITO	Hum hum mais écoute-moi, je suis désolé. Je sais que je dois te causer une grande douleur... (h__) en t'annonçant que maintenant, mon cœur appartient à une autre, mais... (hh__)
+
+EMILIA	Je m'en vais de ce pas, pour que tu ne me vois pas pleurer devant toi.
+
+HIPOLITO	Je ne vous oublierai jamais, Emilia ! (hh)
+
+EMILIA	(h) Ah... Qui d'autre que moi ?
+
+HIPOLITO	Je n'oublie pas Mariana non plus ! (h_) Et cette pauvre demoiselle n'est toujours pas au courant de mon histoire d'amour avec Angelina.
+
+EMILIA	La pauvre Mariana, ça va lui faire du mal, Hipolito. (h__) Mais ne t'inquiète pas, je vais m'en remettre. D'ailleurs, nous toutes, les femmes qui t'admirons dans cette ville, nous allons nous en remettre.
+
+HIPOLITO	Hum. Merci beaucoup pour ta compréhension Emilia. (h__) Pour dire vrai, je peux pas le contrôler, je peux pas contrôler cette attraction animale, ce... (h_) ce "charme" qu'ont... qu'ont toutes les françaises et que... (h_) moi j'ai aussi.
+
+EMILIA	Hum hum.
+
+(BOUCLE 27 - 10:32:40:17)
+		27
+
+HIPOLITO	Tiens, prends. (h_) Je t'offre ce ruban pour orner ta coiffure comme garantie qu'Angelina ne touchera à aucun des cheveux sur ta tête.
+
+EMILIA	Merci, tu es un bien brave garçon tu sais.
+
+HIPOLITO	Ah.
+
+EMILIA	Ah... (h_) Je voulais dire que... Hipolito, mon Dieu... tu es... Tu n'es qu'un sale tombeur, un Don Jua____n et un briseur de cœur, j'en ai marre de ton cinéma ! J'en veux pas.
+
+HIPOLITO	C'est vrai que je suis un Don Juan.
+
+(BOUCLE 28 - 10:33:15:11)
+		28
+
+PEPA	Pourquoi tu me regardes comme ça ? Tu n'as rien à me reprocher.
+
+ALBERTO	De toute ma vie je n'avais jamais été aussi humilié !
+
+PEPA	Tu étais prévenu... et tu as toi-même choisi de rester... (mhh) De toute façon, ce que j'ai dit tu le savais.
+
+ALBERTO	Tu m'as tourné en ridicule devant ce commandant enfin ! (h) C'est une chose que moi je sois au courant, une autre que tu proclames sur tous les toits ta liaison avec un autre !
+
+PEPA	Ce que toi tu appelles une liaison avec un autre, moi je l'appelle l'amour de ma vie... Un jour peut-être tu comprendras.
+
+ALBERTO	Tu n'avais pas le droit de m'humilier de la sorte. (h__)
+
+PEPA	Et toi tu n'avais pas le droit de mettre en danger la vie d'un homme bon par colère Alberto ! Comment as-tu pu te montrer aussi malveillant et aussi tordu ? Jamais je n'aurais pensé que tu puisses faire une telle chose.
+
+ALBERTO	Tu ne t'es pas demandé pourquoi je l'ai fait ?
+
+PEPA	Pour moi ? Tu n'as pensé qu'à Tristan et comment tu pouvais t'en débarrasser, (h_) mais tu aurais dû te battre pour gagner mon affection. Mais  ça jamais tu ne l'as fait, et tu ne le feras jamais.
+
+(BOUCLE 29 - 10:34:13:03)
+		29
+
+ALBERTO	Tu prends plaisir à être cruelle envers moi.
+
+PEPA	Moi je suis cruelle ? (hh) Avais-tu seulement pensé que si Tristan avait été mis à mort, tu aurais été en partie responsable ? Tu aurais pu vivre avec ce poids sur ta conscience ?
+
+ALBERTO	(mts) Tu t'inquiètes de mes sentiments maintenant ?
+
+PEPA	À l'heure actuelle j'espère que tu sais que je n'ai plus aucun respect pour toi, parce que tu ne le mérites plus.
+
+ALBERTO	Fais attention à ce que tu dis, Pepa Aguirre, parce que tu es mon épouse et tu le resteras alors tu me dois respect et obéissance.
+
+PEPA	Si tu crois que je vais suivre au pied de la lettre toutes tes règles et tes envies, je te conseille d'ouvrir les yeux dès maintenant et de ne pas compter dessus !
+
+ALBERTO	Bien alors attends-toi aux conséquences...
+
+PEPA	Il en va de même pour toi au cas où tu ne l'aurais pas compris aujourd'hui. Sors de la chambre maintenant s'il te reste encore un peu de dignité. (hh) (h______) (hh___) (sniff)
+
+(BOUCLE 30 - 10:35:24:07)
+		30
+
+ANGELINA	Quel cadre parfait pour notre amour, avec le doux parfum des fleurs sauvages, (h__) le vent qui fait onduler mes cheveux, (h) le ciel bleu qui se reflète dans nos yeux, (h) et le gargouillis des petits oiseaux qui chantent perchés sur les branches des... (h_) de ces... Hipolito, comment s'appellent ces arbres ?
+
+HIPOLITO	(h_) Ben je dirais que c'est simplement l'arbre commun, Angelina. (h) L'arbre le plus courant et ordinaire que l'on puisse trouver. (h) Mais de l'espèce spécifique des Pêchus Persicus Magnificus... (h) Enfin, comme vous autres l'appelez vulgairement, le pêcher.
+
+ANGELINA	Ah... Alors ils donnent des pêches ?
+
+HIPOLITO	(rire__) Mais bien sûr, ils ne vont pas donner des fraises ! (h) À la bonne saison ils donneront des pêches oui.
+
+ANGELINA	(h) De la même couleur que mes joues ! (h) Tu as remarqué mon teint de pêche, Hipolito ? (h__)
+
+HIPOLITO	Hum hum. C'est très joli. Là, c'est l'endroit idéal pour notre goûter, Angelina.
+
+ANGELINA	Ah... (petit rire) tout est si magnifique ici. (h_) Et si romantique aussi... (h) Et si merveilleux... (h) si... si masculin.
+
+(BOUCLE 31 - 10:36:32:12)
+		31
+
+ALFONSO	(eh) Bien le bonjour Hipolito et mademoiselle.
+
+ANGELINA	(h_) Angelina. Je me présente... Vous voulez vous joindre à nous pour manger un morceau sous ce luxuriant pêcher messieurs ?
+
+HIPOLITO	Non non enfin tu vois bien qu'ils sont... (h_) qu'ils sont en plein travail voyons.
+
+RAMIRO	Vous vous trompez, mademoiselle, ce sont des frênes. (hh)
+
+ALFONSO	Et ceux là-bas, des chênes...
+
+ANGELINA	Des frênes ? Et des chênes ? Ignorant ! Ce ne sont pas des pêchers, ce sont des frênes et des chênes ! Et à ce que je sache, ni les frênes, ni les chênes ne donnent des pêches !
+
+HIPOLITO	(mh____) (mhh)
+
+ANGELINA	Je vous en prie, asseyez-vous.
+
+RAMIRO	(h)
+
+ANGELINA	Toi, ici, à côté de moi.
+
+RAMIRO	Si vous voulez. (hh____)
+
+(BOUCLE 32 - 10:37:20:13)
+		32
+
+TRISTAN	Un cigare ?
+
+SANZ	Non, je vous remercie. (h_) Je ne vous dérangerai pas une seconde de plus que nécessaire.
+
+TRISTAN	(h_____) Allez-y, je vous écoute...
+
+SANZ	Comme vous êtes l'accusé principal des meurtres de cette affaire... je suis venu vous informer en premier de la dernière décision que j'ai prise...
+
+TRISTAN	Et donc ?
+
+SANZ	(h) Ce n'était pas une décision facile, soyez-en certain. J'ai comparé les deux lettres qui semblaient venir de Prieto, celle où il vous accusait et celle où il se rétractait. Elles ont bien été écrites par la même personne. (mhh) L'écriture était exactement la même, donc je ne pense pas qu'une des lettres ai été écrite sous la contrainte. (h__) Et ensuite j'ai interrogé vos voisins, dont Pepa Aguirre... (h_) Et son témoignage a été décisif.
+
+TRISTAN	Pourquoi dites-vous ça ?
+
+SANZ	C'est elle qui aurait pris l'initiative de parler à Prieto pour le convaincre de se rétracter. Ce qu'il a fait...
+
+TRISTAN	Pepa ?
+
+SANZ	Vous pouvez sourire sans souci... Je compte maintenant rédiger un rapport pour dire que la dernière volonté de Prieto était de revenir sur l'injure qu'il vous a faite en vous accusant des crimes de Cayo Esmeralda.
+
+TRISTAN	Ce qui confirme que l'acquittement du tribunal était donc tout à fait pertinent au final, n'est-ce pas ?
+
+SANZ	(mhh) Effectivement oui. Heureusement qu'il est déjà ratifié.
+
+(BOUCLE 33 - 10:38:34:17)
+		33
+
+FRANCISCA	Commandant... On vient de m'informer de votre visite. (h) Vous avez du nouveau dans votre enquête ?
+
+SANZ	(h__) Oui, madame. Félicitations, votre fils est acquitté de toutes les charges.
+
+FRANCISCA	(sourire) Ah mon fils !
+
+TRISTAN	(mhh___)
+
+FRANCISCA	(ahh)
+
+TRISTAN	(x)
+
+FRANCISCA	(h_) Dieu soit loué ! (h) Je n'ai plus besoin de pleurer, ni de prier les saints et les supplier. (h) Ce mauvais cauchemar se termine enfin.
+
+SANZ	Il reste encore à découvrir qui a mis fin à la vie du capitaine Maximiliano Prieto. (mhh) (h__) Je trouverai le coupable, surtout n'en doutez pas...
+
+FRANCISCA	Ce problème ne me fait aucunement peur. (h) Aucun membre de ma famille n'est coupable de ce crime.
+
+SANZ	Désolé de vous contredire, madame, mais ça reste encore à démontrer.
+
+(BOUCLE 34 - 10:39:24:23)
+		34
+
+ANGELINA	Et je pense, mon petit Ramiro... (h_) que pour travailler dans les champs... (h_) il faut être très fort et être particulièrement bien fait.
+
+RAMIRO	Oui c'est vrai, il faut de la force.
+
+ANGELINA	Et ma parole, tu es aussi fort et gaillard qu'un étalon..!
+
+ALFONSO	Écoute-moi bien, Hipolito, parce que ce que j'ai à te dire est très sérieux, ma vie en dépend. Et surtout... ne me quitte pas des yeux.
+
+HIPOLITO	D'accord... Alors ? De quoi tu veux me parler ?
+
+ALFONSO	Euh des... des patates ! De l'augmentation du prix des patates.
+
+HIPOLITO	Ta vie dépend de l'augmentation du prix des patates ?
+
+ALFONSO	Eh bien en fait Hipolito, Hipolito ! C'est que si le prix des patates augmente, je fais manger quoi à toute la famille ?
+
+HIPOLITO	Ce que tu veux et que tu trouveras dans ton potager ?
+
+ALFONSO	Mais que devient mon plat de côtelettes accompagnées de patates, sans patate ?
+
+HIPOLITO	Beh alors tant pis, tu manges pas de côtelettes !
+
+ALFONSO	Ah non monsieur ça je ne peux pas l'accepter !
+
+(BOUCLE 35 - 10:40:09:12)
+		35
+
+ANGELINA	Aïe ! Je me suis fait piquer par une bestiole. (h_) Mon petit Ramiro, enlève-moi cette bestiole, je la sens sur ma jambe et je déteste ça.
+
+HIPOLITO	Maintenant ça suffit, j'en ai assez, ça doit finir !
+
+ANGELINA	Hum.
+
+HIPOLITO	Ça suffit ! Tu ne peux pas continuer à manquer de respect à cette demoiselle !
+
+RAMIRO	Enfin Hipolito ! Je n'ai pas bougé d'un pouce c'est elle qui s'est jeté sur moi !
+
+HIPOLITO	Et par dessus le marché tu oses l'insulter ? (h) (h) Je me dois de réparer son honneur dans un duel d'homme à homme Ramiro !
+
+ALFONSO	Hipolito, n'éxagère pas non plus.
+
+HIPOLITO	(h) Mais, mais... Debout, Angelina, nous partons ! Et toi je te reverrai c'est pas fini entre nous...
+
+(BOUCLE 36 - 10:40:54:24)
+		36
+
+ALBERTO	Bon, tes blessures se cicatrisent de manière normale, mais n'arrête pas des les laver à l'eau claire et au savon, comme je te l'ai dit.
+
+JUAN	Oui docteur. (h_) Mais ce qui m'inquiète le plus ce sont mes côtes, (h_) la douleur m'empêche de dormir. (mhh)
+
+ALBERTO	Les os cassés ne guérissent pas si facilement. Pour tes côtes il faut être patient, mais ne t'inquiète pas, elles vont guérir. (mhh)
+
+JUAN	Merci beaucoup docteur.
+
+ALBERTO	(hh) (mh) (h__) Juan, maintenant que tu es presque remis sur pied, tu ne vas pas me dire comment tu t'es blessé ?
+
+JUAN	Je vous l'ai déjà dit docteur. J'ai perdu le contrôle de la mule et... (h__) il y avait un talus et avec le chariot je suis tombé...
+
+ALBERTO	Écoute, si c'est ce que tu veux raconter, je t'en prie, mais moi rien ne m'oblige à te croire...
+
+JUAN	Merci de vous être occupé de moi.
+
+(BOUCLE 37 - 10:41:42:01)
+		37
+
+ALBERTO	Attends Juan ! Tu ne sais pas la chance que tu as, hein ? Tu as une épouse qui t'adore d'un amour on ne peut plus ardent et sincère. (h_) Tu as un enfant en route, le fruit de cet amour, c'est une bénédiction, Juan... (h__)
+
+JUAN	(h) Pas besoin de me le dire, docteur.
+
+ALBERTO	Bien alors ne l'oublie pas ! Et ne prends pas de risques inutiles qui te feraient courir au désastre. (h_) Malheureusement, ce genre de chose nous manque quand nous les avons perdues, (h__) quand il est déjà bien trop tard...
+
+JUAN	(h___) (mhh__)
+
+(BOUCLE 38 - 10:42:26:13)
+		38
+
+TRISTAN	(x)
+
+PEPA	(x) (x)
+
+TRISTAN	(x)
+
+PEPA	(x)
+
+TRISTAN	(x)
+
+PEPA	(h) (x)
+
+TRISTAN	(x) Merci mon amour,
+
+PEPA	(hh)
+
+TRISTAN	Tu m'as sauvé !
+
+PEPA	(hh) Je ne l'ai pas fait pour toi, (h) mais pour moi. Parce que sans toi, je ne peux survivre. (h) (x)
+
+TRISTAN	(x) (mhh) (x)
+
+PEPA	(x) (x)
+
+TRISTAN	(x) Pepa, je suis libre. Et je peux te tenir entre mes bras. (h__) Existe-t-il un homme plus heureux que moi ?
+
+PEPA	(rire)
+
+TRISTAN	Je ne pense pas. Allons-y, cours à ta chambre ! Viens, cours !
+
+PEPA	Mais qu'est-ce que tu racontes ? Tu as perdu la tête ?
+
+TRISTAN	Non, je n'ai jamais été aussi sûr de moi... (h_) Pepa, réunis tes affaires, je vais chercher Martin on se retrouve là où tu veux, et cette nuit nous prenons le large.
+
+(BOUCLE 39 - 10:43:26:11)
+		39
+
+PEPA	Tristan, non, on ne peut pas partir comme ça. (h_) Sanz irait penser qu'on fuit, qu'on s'échappe d'une certaine manière et il enverrait des hommes à notre poursuite. (h__)
+
+TRISTAN	(mhh)
+
+PEPA	On a attendu très longtemps de pouvoir faire les choses bien, ne gâchons pas tout maintenant.
+
+TRISTAN	Tu as raison. Il vaut mieux attendre la fin de l'enquête pour être lavés d'absolument tout soupçon. Mais quand ce sera terminé, nous partirons d'ici pour toujours... (mhh) À propos... qu'est-ce que tu as dit pour le convaincre que l'intention de Prieto était de se rétracter et de m'innocenter ?
+
+PEPA	Est-ce que c'est si important ? (x)
+
+TRISTAN	(x)
+
+PEPA	Embrasse-moi.
+
+TRISTAN	(x)
+
+PEPA	(x) Embrasse-moi, ne t'arrête jamais. (x)
+
+TRISTAN	(x)
+
+PEPA	(rire)
+
+TRISTAN	(x)
+
+PEPA	(x)
+
+TRISTAN	(x)
+
+PEPA	(x)
+
+TRISTAN	Mon amour, (mhh) quand tombe la nuit et... et que je sens les draps glisser sur mon corps, je ne peux m'empêcher de penser que c'est Alberto qui sens le contact de ta peau... Et ça me rend fou !
+
+PEPA	Je te jure sur ma vie qu'il n'y a aucune intimité entre lui et moi, Tristan.
+
+TRISTAN	(hh)
+
+PEPA	Et je ne supporte pas les moments où je me retrouve avec Alberto dans le lit.
+
+TRISTAN	(h) Alberto ! (h___) (mhh) Rien que t'entendre prononcer ce prénom me torture.
+
+PEPA	Ce n'est pas lui qui devrait te causer du souci, mais un autre. (h__) (hh)
+
+TRISTAN	De qui tu parles ?
+
+PEPA	De Carlos... (h___) Il se souvient de tout, en ton absence il a juré de m'éliminer ! (h)
+
+(BOUCLE 40 - 10:44:50:16)
+		40
+
+PEPA	Et ne viens pas me dire que je me laisse emporter par la rancœur que je ressens envers lui, parce que...
+
+TRISTAN	(mhh)
+
+PEPA	(mts) je ne le supporterais pas !
+
+TRISTAN	Calme-toi.
+
+PEPA	(hh)
+
+TRISTAN	Si ce que tu dis est vrai, il va falloir qu'on fasse attention.
+
+PEPA	C'est vrai. Et ce que je redoute le plus c'est qu'il découvre... (h) l'amour que j'éprouve pour Martin. (h) Et s'il était déterminé à se venger de moi en se servant du petit ? (h__)
+
+TRISTAN	Mais pourquoi ferait-il ça ? Tu crois qu'il a deviné que Martin est en fait ton enfant ?
+
+PEPA	Je suis certaine qu'il ne le sait pas, mais il m'accuse de sa mort par contre.
+
+PEDRO	(h__) Et s'il découvrait que Martin est son fils ? (hh) Je ne saurais absolument pas quoi faire si jamais il...
+
+TRISTAN	Pepa, Pepa, calme-toi, ne panique pas.
+
+PEPA	(hh)
+
+TRISTAN	Ça n'arrivera pas. (h______) Tu n'as rien à craindre, fais-moi confiance. (x)
+
+(BOUCLE 41 - 10:45:38:00)
+		41
+
+CARLOS	Qu'est-ce que tu regardes comme ça ? Qu'est-ce que tu aimes les cicatrices ! Je parie que tu ne sais pas que j'en ai une laissée par une morsure de serpent sur une jambe...
+
+MARTIN	Les serpents venimeux ont deux crochets, c'est mon père qui me l'a dit, parce qu'il en a vu beaucoup dans les forêts de Cuba.
+
+CARLOS	(mhh) (h_) C'était un serpent à sonnettes, au Maroc. (hh) Une simple morsure... est mortelle, à cause du venin. (h) Nous cherchions de l'eau au pied d'une montagne... Il est sorti de sa cachette sous une pierre et "Hop" il s'est jeté sur moi. Mais j'ai réussi à l'attraper avant qu'il ne goûte à ma chair, (h) et je l'ai étranglé en serrant très fort de mes mains nues. (h___)
+
+MARTIN	Alors il ne vous a pas mordu ?
+
+CARLOS	(h) Je l'ai jeté sur le sol croyant qu'il était mort, (h__) et quand j'allais reprendre mon chemin, il m'a sauté dessus et a planté ses dents dans ma jambe. (h_) Un des guides a sorti une dague et l'a plongée dans ma chair. Ensuite... il a aspiré le venin avec sa bouche avant de le cracher. (h__) Et la nuit, il a chauffé la lame de la dague grâce au feu du campement. Et... regarde... il a cautérisé la blessure. (mh__)
+
+(BOUCLE 42 - 10:46:45:00)
+		42
+
+CARLOS	Toi tu n'as pas encore de cicatrice parce que tu es petit.
+
+MARTIN	Si j'en ai une mon oncle ! Je me la suis faite en jouant dans le fleuve et c'est Pepa qui me l'a soignée. Vous voulez la voir ?
+
+CARLOS	Mais bien sûr, mon petit neveu...
+
+MARTIN	Aidez-moi à lever ma chemise, elle est dessous... Vous la voyez ? Elle est très grande ! Vous la voyez ou pas ?
+
+CARLOS	(h___)

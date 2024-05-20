@@ -1,0 +1,905 @@
+ESCLAVA EP59-H264
+04/11/2016
+
+(BOUCLE 1 - 00:00:57:15)
+		01
+
+Julio	Mon père !
+
+Père Octavio	Qu'y-a-t-il, mon enfant ?
+
+Julio	(h) (h) (h) (h) Je n'ai pas pu entrer au presbytère. Je n'ai pas réussi à récupérer l'argent. Parce que le Général est arrivé avec des soldats qui voulaient l'amener à la mairie. Expliquez-moi ce qui se passe, mon père !
+
+Père Octavio	Il vaut mieux que tu ne saches rien pour ne pas mettre ta vie en danger. Mais sache que je vais avoir besoin de ton aide !
+
+Julio	(h) Oui, oui, évidemment, comptez sur moi.
+
+Père Octavio	Il faut absolument que je quitte ce village       le plus vite possible.
+
+Julio	Je vais vous aider, mon père !
+
+(BOUCLE 2 - 00:01:43:17)
+		02
+
+Ambiance	(brouhaha)
+
+Adela	Je voudrais vraiment qu'on parte. (h) Je n'en peux plus, j'ai envie de vomir.
+
+Nicolas	Pense à ton avenir derrière les barreaux !
+
+Adela	(mm) (mm)
+
+Nicolas	Tu verras que ça ira tout de suite mieux.
+
+Remedios	Don Nicolás.. (h) (h) Donia Adela
+
+Nicolas	Où est mon épouse ? Je pensais que vous étiez ensemble.
+
+Remedios	Oui, oui, nous étions ensemble mais (euh ....) mais madame la marquise, elle arrive justement !
+
+Felipe 	Nicolás, bonjour !
+
+Victoria	Bonjour !
+
+Nicolas	Bonjour ! Les nouvelles ne sont pas très bonnes. Surtout pour le Père Octavio.
+
+Ana	Quoi ? Qu'est-ce qu'il y a ? Pourquoi est-ce que vous dites ça ?
+
+Nicolas	Ma mère et moi, sommes venus nous confesser comme nous le faisons habituellement. Nous avons trouvé deux femmes mortes dans son bureau.
+
+Ana	Et le Père Octavio ?
+
+Nicolas	Il n'était pas là. Je vous avoue que ça nous a beaucoup étonnés.
+
+Ana	Paca m'a dit qu'elle avait vu sortir le Père Octavio comme s'il avait vu le diable en personne !
+
+Nicolas	Il fuyait quelque chose ?
+
+Ana	Les assassins des deux femmes, peut-être ?
+
+Nicolas	Mais non ! Ici, il n'y avait personne ! On n'a vu personne d'autre sortir ! Si ça se trouve, le père Octavio s'est enfui pour ne pas qu'on sache ce qui se passait ici !
+
+(BOUCLE 3 - 00:02:45:08)
+		03
+
+Victoria	Tu crois que que c'est le Père Octavio l'assassin ?
+
+Nicolas	Ce serait irresponsable de dire une chose pareille, ma chèrie. Je ne peux que vous dire ce que ma mère et moi avons vu. Regardez comment elle est ! Au bord de l'évanouissement ! (h) Mère, tu vas bien ?
+
+Adela	(mm)
+
+(BOUCLE 4 - 00:03:06:21)
+		04
+
+Felipe 	Général, qu'est-ce qui s'est passé ?
+
+Général	Pour l'instant, je n'en ai pas la moindre idée, Félipé. Ca vient de se produire. Ce sont malheureusement Don Nicolas et Donia Adela qui ont découvert les deux victimes.
+
+Victoria	Qui sont ces pauvres femmes ?
+
+Nicolas	(h) Il vaut mieux que tu ne connaisses pas les détails morbides. De plus, je veux oublier ce que ma mère et moi, avons vu.
+
+Ana	Il me parait impossible que le Père Octavio ait commis une horreur pareille.
+
+Général	Je crois hélas que rien n'est impossible, Donia Ana. Dans cette époque de violence extrême, il vaut mieux être particulièrement prudent. Martínez  !
+
+Martinez	A vos ordres, mon général !
+
+Général	Organisez les recherches ! Je veux que tout le village et ses alentours soient fouillés ! Ramenez-moi vite le Père Octavio ! Allez-y !
+
+Martinez	A vos ordres, mon Général !
+
+Général	Même si pour l'instant, nous ne pouvons encore l'accuser de rien, (h) je veux que nous retrouvions vite le Père Octavio, afin qu'il nous explique     ...              ce qui s'est réellement passé dans la sacristie. Mesdames,                     messieurs. (h)
+
+(BOUCLE 5 - 00:04:14:01)
+		05
+
+Père Octavio	Tu es bien sûr que c'est le chemin qui mène à Cartagène ?
+
+Julio	Oui, absolument, mon Père, j'en suis absol ... Mon Père ! Les soldats !
+
+Père Octavio	Oh l la ! La !
+
+Julio	Mon Père, c'est mieux que vous continuiez seul dans la montagne !
+
+Père Octavio	Mais quel chemin dois-je prendre ?
+
+Julio	Vous n'aurez qu'à demander votre route aux paysans, ils vous diront où se trouve le Monastère de Cartagène.
+
+Père Octavio	Que Dieu te bénisse, prie pour moi ! Surtout, n'oublie pas: tu ne m'as pas vu !
+
+Julio	(uh uh) Que le ciel vous garde, mon Père !
+
+(BOUCLE 6 - 00:05:01:08)
+		06
+
+Eugénia	Et qui sont les deux victimes ?
+
+Général	Pour l'instant, je l'ignore. (h) Elles n'avaient pas de papiers sur elles. Et en plus, personne du village ne parait les connaitre. Elles ne semblent être arrivées ici ni par la route ni par la voie des mers Enfin, si l'on se fie aux registres des arrivées de carosses et de bateaux.
+
+Eugénia	Et le curé ?
+
+Général	J'ignore où il est, il ne va pas tarder à réapparaitre !
+
+Eugénia	Et s'il n'y a plus de curé à Santa Marta qui va nous marier, Fidel ?
+
+Général	(oh !) Eugénia ...
+
+Eugénia	(ah!)
+
+Général	Nous en trouverons un autre ! Moi, tout ce que je veux, c'est être avec toi. Je rêve qu'on soit toujours ensemble. Et je ferai tout ce qui est en mon possible pour que ça se produise.
+
+Eugénia	Je sais que tu as beaucoup de problèmes avec tout ce qui se passe alors, je ne veux pas t'en créer plus.
+
+Général	(ah!) Tu n'es pas un problème pour moi. Non. Je suis juste un peu préoccupé en ce moment. Il est vrai que j'ai de nombreux problèmes qui s'accumulent dans ma tête. (h) Mais je vais te révéler un secret. Ces misérables esclaves qui se sont échappés et qui se sont réfugiés dans la montagne, (h) nous n'avons pas réussi à les retrouver et je crois que ça va être très difficile désormais. Et aujourd'hui, avec la disparition du curé, ça complique encore les choses pour moi. Mets-toi à ma place !
+
+Eugénia	(mm)
+
+Auteur	(inspire BF)
+
+Eugénia	Moi, ce qui me semble plus problématique, Fidel, c'est que tu te contentes de la version de Nicolas au sujet de ce qui s'est passé au presbytère.
+
+Général	Ma très chère Eugénia, je n'ai aucune raison de douter de ses paroles. Sa mère et lui, (h) sont des personnes respectables et sont depuis longtemps les piliers de la communauté de notre région. A des moments très difficiles,     Nicolas et sa mère m'ont énormément soutenu. Ils ont toujours respecté mes décisions.
+
+(BOUCLE 7 - 00:06:42:00)
+		07
+
+Nicolas	Je veux que nous restions ensemble, mon amour. Nous allons nous soutenir. (h) Crois-moi, j'ai l'impression d'aller beaucoup mieux désormais.
+
+Victoria	Je te trouve extrêmement pâle.
+
+Nicolas	(h) C'est pour ça que je voudrais que tu viennes avec moi. J'aimerais que tu m'aides à changer mon pansement. (hein ?)
+
+Victoria	Oui. Nous allons le changer mais ensuite, il te faudra du repos.
+
+Nicolas	Allons-y.
+
+Victoria	Oui.
+
+(BOUCLE 8 - 00:07:19:16)
+		08
+
+Remedios	(h) Vous allez bien, Donia Adela ? Je vous ai rarement vue silencieuse aussi longtemps.
+
+Adela	(hein ?) Quoi ?
+
+Remedios	Est-ce que vous allez bien ? Donia Adela ?
+
+Adela	Oui, je vais bien mais ... je suis encore remuée après cette épouvantable journée.
+
+(BOUCLE 9 - 00:07:43:24)
+		09
+
+Victoria	Je vais appeler une esclave pour qu'elle t'aide à te changer et après, tu iras te reposer.
+
+Nicolas	Non ! Je veux que ce soit toi. Avec ton dévouement, je récupèrerai bien plus rapidement ! (h) Qu'ai-je donc fait pour mériter une femme comme toi ? Je m'interroge tous les jours.
+
+Victoria	Je me pose la même question à ton sujet.
+
+Nicolas	(mm) (h) Nous sommes décidément deux personnes très chanceuses. Nous allons devoir remercier le Seigneur. (mm)
+
+Victoria	Nicolas !
+
+Nicolas	(mm)
+
+Victoria	Nicolás !
+
+Nicolas	La meilleure manière de remercier le Seigneur (...) est de lui offrir notre amour comme sacrement (...) au moment que tu choisiras.
+
+Victoria	(h) Pas maintenant !
+
+Nicolas	(X)
+
+Victoria	Tu sais que tu n'vas pas bien !
+
+Nicolas	(h) (h) (h) Je trouverai la force, sois en certaine ! C'est cette nuit que nous allons concevoir notre fils ! Pour rendre grâce au Seigneur ! (X) (h) (X)
+
+Victoria	Tu sais que ce serait de la folie ! Tu pourrais avoir une attaque. (oh !)
+
+Nicolas	Nous avons déjà trop attendu pour avoir un enfant. (h) Je veux un fils qui sera le symbole de notre amour. Aide-moi à me déshabiller. (X)
+
+(BOUCLE 10 - 00:09:09:03)
+		10
+
+Adela	(h) (h) (h) (h) (h) Je te demande pardon, Seigneur. (h) Mille fois pardon pour ce que mon fils a fait. Je t'implore de le pardonner. Je te demande instamment de l'éclairer. (h) Je te supplie de guider ses pas! Que ses choix le conduisent enfin à son éternel salut ! (h) Il n'a pas suivi ta route. (snif) Non ! Il est ... (h) complètement perdu. Hélas. (ah!) Ce sont les circonstances qui l'ont égaré. (h) Sa blessure, ce qui s'est passé l'a conduit (euh) (...) (mm) Oh ! Seigneur tout-puissant , (ah!) Apporte-moi ta lumière, père céleste et dis-moi ce qu'on doit faire ! (ah!) Je t'implore de me répondre. (snif) Réponds-moi, Seigneur ! (h) Père très céleste, dis-moi ce qu'on doit faire. (snif) Envoie-moi la lumière qui me manque tellementaujourd'hui ! (h) Rappelle-moi à toi ! (ah!) Ne m'abandonne pas Seigneur, sans toi, je ne suis rien ! (ah!) Ne m'abandonne pas, Seigneur, je t'en conjure ! (snif) Je suis perdue ! (h) (h) (h) (h) (ah!) (h) (h) (h) (ah!) (ah ah ah ah ah ah !)
+
+(BOUCLE 11 - 00:10:35:04)
+		11
+
+Victoria	(h) Nicolás ! Est-ce que tu te rends compte de l'état dans lequel tu es ? C'est de la folie de faire ça, nous pourrions attendre un peu !
+
+Nicolas	Je n'en peux plus ! (h) (h) (h) (h) (h) Je suis fou de toi ! (X) Je te désire ! (X) Tu ne veux donc pas de ton mari ?
+
+Victoria	Ca n'a rien à voir ! Mais j'ai peur de te faire souffrir. On
+
+Nicolas	(h)
+
+Victoria	(...)
+
+Nicolas	(h)
+
+Victoria	on a bien le temps !
+
+Nicolas	(h) (h) Je n'en peux plus d'attendre ! (h) Nous avons attendu beaucoup trop longtemps avant d'accomplir notre devoir conjugal. (h) (h) (h) (h) (X) Je t'aime ! (X) Je te désire ! (h) (h) (h) (h) (h) Je veux te posséder ! (h) (h) (X) (X) (h) Dis-moi que tu m'aimes ! Dis-le moi ! (X)
+
+Victoria	(h)
+
+Nicolas	(h)
+
+Victoria	Je t'aime.
+
+Nicolas	(h) (h) Tu me quitteras jamais ? (h) (h) (h) (h) (h) (h)
+
+Victoria	Non jamais.
+
+Nicolas	(h)
+
+Victoria	Jamais.
+
+Nicolas	(h) (h) (X) (X) (h) (X) (h) (h) (h) (h)
+
+(BOUCLE 12 - 00:11:33:04)
+		12
+
+Père Octavio	(ah!) (ah!) (ah!) Mon dieu tout puissant, pourquoi m'envoies-tu une épreuve aussi dure ?
+
+Miguel	Bonjour Père Octavio. Pouvons-nous vous venir en aide ?
+
+Père Octavio	Bonjour mes chers enfants !
+
+Trinidad	Vos chers enfants ? J'comprends pas que vous nous appeliez comme ça. Vous ne vous êtes jamais occupé de nous.
+
+Miguel	(h) Que faites-vous si loin de votre église, mon père ?
+
+Trinidad	Vous avez l'air d'être inquiet ?
+
+Miguel	Qu'est-ce que vous faites dans cette forêt ? Vous avez un message du Général ?
+
+Père Octavio	Non, non, non ! Du général ? Non, non ! Je suis ici en mission pastorale.
+
+Miguel	(ah!)
+
+Trinidad	(ah!)
+
+Père Octavio	Voyez-vous, mon travail en tant que représentant de l'église, consiste évidemment à rencontrer de nouveaux fidèles (...) partout, dans tous les recoins isolés !
+
+Trinidad	Mais j'aimerais savoir une chose ... il est normal qu'on vous retrouve endormi dans la forêt alors que vous êtes censé aller à la rencontre des gens ?
+
+Père Octavio	J'me suis perdu !
+
+Miguel	(ah!)
+
+Trinidad	(ah..............!)
+
+Miguel	Il s'est perdu ?
+
+Trinidad	Il s'est perdu !
+
+Miguel	(ah ah ah ah ah ah !)
+
+Père Octavio	Bon, les enfants, j'ai été ravi de discuter avec vous, il faut cependant que je continue ma mission d'évangélisation. Est-ce que vous pourriez m'indiquer le chemin qui mène à Cartagène ?
+
+Trinidad	Bien sûr, mon Père !
+
+Miguel	Sans aucun souci ! On vous conduit. Venez !
+
+Père Octavio	(oh !) (oh !) (oh !)
+
+Miguel	Nous allons vous mettre sur la route.
+
+Père Octavio	Merci !
+
+Miguel	Faites-nous confiance, ce n'est pas très loin.
+
+(BOUCLE 13 - 00:12:59:18)
+		13
+
+Victoria	(mm) (mm)
+
+Nicolas	Ca fait des heures que je te regarde ! Et je ne me lasse pas de contempler ta beauté. Tu as bien dormi ? Moi, j'ai dormi profondément. Je me sens revivre quand je suis à tes côtés.
+
+Victoria	(mm) Je suis heureuse de l'entendre.
+
+Nicolas	(X) (h) Grâce à toi, je récupère mes forces. Nous allons rattraper le temps perdu. (h)
+
+Victoria	(h)
+
+Nicolas	(h)
+
+Victoria	(h)
+
+Nicolas	(h)
+
+Victoria	(h)
+
+Nicolas	(h) (X) (h)
+
+Victoria	(h)
+
+Nicolas	(h)
+
+(BOUCLE 14 - 00:13:53:18)
+		14
+
+Remedios	Bonjour Donia Adela.
+
+Adela	Quoi ?
+
+Remedios	(h) Est-ce que vous avez passé une bonne nuit ?
+
+Adela	(h) Je vais voir mon fils.
+
+Remedios	Il est avec Lucia. La marquise a dû passer la nuit à veiller sur lui parce que (h) elle n'est pas venue dormir dans sa chambre.
+
+Milagro	Maitresse ! (ah!) Maitresse ! Le maître doit venir, il est arrivé quelque chose d'horrible !
+
+(BOUCLE 15 - 00:14:25:11)
+		15
+
+Nicolas	(h) (h) (h) (h) (h) (h)
+
+Adela	Nicolás !
+
+Nicolas	(h) Aurais-tu oublié qu'on frappe toujours avant d'entrer dans la chambre d'un couple ?
+
+Adela	Nicolás,
+
+Nicolas	(mm)
+
+Adela	cette fois, le châtiment de Dieu nous frappe de plein fouet !
+
+Nicolas	De quoi est-ce que tu veux parler ?
+
+Adela	(mm)
+
+(BOUCLE 16 - 00:14:57:09)
+		16
+
+Nicolas	(h) Des sauterelles ?
+
+Esclavo	Elles ont attaqué cette nuit, maitre. Elles ont ravagé toutes les cultures.
+
+Nicolas	Débarrasse-moi de ça !
+
+Esclavo	Tout de suite.
+
+(BOUCLE 17 - 00:15:18:13)
+		17
+
+Nicolas	(h)
+
+Adela	C'est l'une des sept plaies d'Egypte quand le Seigneur a puni les pêcheurs et aujourd'hui, le ciel nous punit !
+
+Nicolas	Mère, arrête d'avoir peur du Seigneur ! Tu as l'air fatigué, tu n'as pas bien dormi ? Tu as mauvaise mine. Je m'inquiète pour toi.
+
+Remedios	Vous avez entendu Donia Adela,      je ne suis pas la seule à le dire !
+
+Nicolas	(h) Tu devrais retourner t'allonger.
+
+Adela	Oui. (h) C'est sans doute mieux.
+
+Nicolas	(mm) Il faut qu'on stoppe ces bestioles. Sinon, c'est la catastrophe, où est Julian ?
+
+Remedios	(euh) Julian a été blessé par Morales quand il a attaqué l'hacienda. Il se remet doucement.
+
+Nicolas	Il garde la chambre ? Il se croit où ? A l'hopital ?
+
+Remedios	(h) Tu as couché avec lui, Victoria ?
+
+Victoria	(h) Ce n'est pas le moment. Avance. (h)
+
+(BOUCLE 18 - 00:16:12:13)
+		18
+
+Trinidad	Mes amis ! Regardez qui on vient de rencontrer dans la forêt !
+
+Noémi	Qu'est-ce que ce curé fait ici ?
+
+Miguel	Hélas ! Il n'a encore rien voulu nous dire ! Mais nous allons vite le savoir. En attendant, mettez une assiette de plus, le Père va manger avec nous. Asseyez-vous. Allez, asseyez-vous, mon père !
+
+(BOUCLE 19 - 00:16:39:05)
+		19
+
+Julian	Don Nicolás, je m'apprêtais à aller travailler. Que voulez-vous que je fasse ?
+
+Nicolas	Rien du tout. (h) Il est évident que comme employé, tu as toujours été un incapable. Alors, prends tes affaires au plus vite et disparais.
+
+Julian	Don Nicolas, je ne comprends pas ...
+
+Nicolas	Tu as été incapable de faire le peu qu'on te demandait. Combien de temps te faut-il pour te remettre ? (h) Moi, ils m'ont presque tué et je me suis levé avant toi !
+
+Julian	Dans ce cas, payez-moi pour mon travail ! C'est un dû !
+
+Nicolas	Que je te paye quoi ? (h) Tiens-toi le pour dit  c'est toi qui me dois de l'argent à moi, pour avoir vécu et mangé chez moi sans avoir travaillé ! (h) Alors, sauve-toi vite si tu ne veux pas que les soldats te descendent !
+
+Milagro	Mais monsieur, Julian a toujours été un employé très responsable !
+
+Nicolas	Tais-toi !
+
+Milagro	(ah!)
+
+Julian	Vous ne touchez pas à ma femme !
+
+Nicolas	Ne te mêle pas de ça, tu entends ?
+
+Julian	(h)
+
+Nicolas	Dépêche-toi de partir !
+
+Julian	(h) (h)
+
+Nicolas	Fous-moi le camp de chez moi !
+
+Julian	(h) (h) (h) (h)
+
+(BOUCLE 20 - 00:17:49:13)
+		20
+
+Noémi	Tenez mon père, mangez, c'est délicieux, c'est moi qui l'ai préparé.
+
+Père Octavio	(ah!) (h)
+
+Noémi	Nous vous dégoûtons ? Dans ce cas, mon Père, laissez-vous mourir de faim ! Et de soif.
+
+(BOUCLE 21 - 00:18:23:14)
+		21
+
+Adela	(h) (h)
+
+Nicolas	(h) (h) Quelles sont ces âneries que tu viens d'oser dire ?
+
+Adela	J'ai dit la vérité. Dieu voit tout, mon enfant, tu dois te repentir.
+
+Nicolas	Arrête avec ça, non de non ! S'il y a bien quelque chose que je regrette, c'est de t'avoir écoutée alors que tu ne dis que des sottises ! (h) Il faut absolument que tu surveilles ton langage. Sinon, tu vas faire naitre des doutes chez ... Victoria. Ne va pas tout faire échouer. Parce que sinon ...
+
+Adela	Parce que sinon quoi ? Tu vas me tuer ? C'est ça que tu vas faire ?
+
+Nicolas	(euh) Pour l'amour du ciel, tu ...
+
+Adela	Ah, non ! Je t'interdis ! N'insulte pas le Seigneur ! Après tout le mal que tu as fait, tu n'as même plus le droit de prononcer son nom ! Parce que tu as tué deux femmes innocentes sans même l'ombre d'un regret ! Aujourd'hui, je te renie Nicolas. Je t'ai porté. Je t'ai éduqué   ...    pour faire en sorte ...  que tu deviennes ...   un homme de valeur. Une bonne personne. Mais tu n'es rien de tout ça. J'ai peur de toi, aujourd'hui, tu me fais            peur, Nicolas.
+
+(BOUCLE 22 - 00:19:54:12)
+		22
+
+Nicolas	(mm) (h) (h) Maman, tu n'as pas à avoir peur.
+
+Adela	(h)
+
+Nicolas	(mm) (h) Tu es ma petite maman. (h)
+
+Adela	(h)
+
+Nicolas	Mon unique famille.
+
+Adela	(h) (ah ah ah ah ah ah !) (ah ah ah ah ah ah !)
+
+Nicolas	La seule femme en qui je peux avoir confiance. (h) Toutes les autres femmes (...) m'ont déçu.
+
+Adela	(h) Je ne veux pas que tu perdes ton âme à cause d'elles.
+
+Nicolas	Maman, je ne m'inquiète pas de ce qui va m'arriver dans l'autre monde. Je m'inquiète de celui-ci. Où Victoria va finir par apprendre que nous savons qui elle est.
+
+Adela	(h)
+
+Nicolas	(h) C'est pour ça qu'il faut, écoute-moi bien, il faut que tu prennes sur toi.
+
+Adela	(h) (h)
+
+Nicolas	Tu me promets d'essayer ?
+
+Adela	(uh uh)
+
+Nicolas	(X)
+
+Adela	(snif) (ah!) (h) Qu'est-ce que tu vas faire ?
+
+Nicolas	J'vais les tuer. (h) Je vais tuer Victoria et son salaud d'amant. Comme ça, je récupèrerai enfin mon honneur. (h) Et mon patrimoine ne courra plus le moindre risque. (X)
+
+(BOUCLE 23 - 00:21:26:17)
+		23
+
+Julian	Ca m'angoisse de te laisser seule ici, mon amour.
+
+Milagro	Ne t'inquiète pas pour moi. (h) Je sais que tu reviendras quand tout sera prêt.
+
+Julian	Je vais enfin pouvoir être libre de mes actes désormais. Je vais lutter aux côtés de Miguel et de ses amis. Je trouverai bien le moyen d'entrer en contact avec toi.
+
+Milagro	(mm) (mm) (h) Tu vas beaucoup nous manquer.
+
+Julian	Je t'aime.
+
+Milagro	(ah!) (ah!)
+
+Julian	Je vous aime.
+
+Milagro	Nous aussi, on t'aime. (X) (ah!) (ah ah ah ah ah ah !) (ah ah ah ah ah ah !) (ah ah ah ah ah ah !) (X) (aaaaahaaa!)
+
+(BOUCLE 24 - 00:22:34:19)
+		24
+
+Victoria	(h)
+
+Remedios	(h) Il va falloir que tu m'expliques ce qui se passe. (h) Hier soir, je t'ai attendue et ce matin, je me lève et je découvre que tu as couché avec Nicolas.
+
+Victoria	(h) (h) Il m'a obligée à le faire.
+
+Remedios	Mais enfin, il est fou ! Il est encore blessé, il pouvait attendre.
+
+Victoria	(h) Et il y a autre chose, (h) Il m'a parlé tout le temps. Il me répétait qu'il m'aimait. Il n'arrêtait pas de me cajoler et il voulait que je lui dise que je l'aimais aussi. C'était comme s'il cherchait à me faire du mal.
+
+Remedios	Je suis tellement désolée pour toi.
+
+Victoria	(ah!) Et Miguel qui ne revient pas. (h) Si ça ne tenait qu'à moi, je partirais avec toi et Milagro à l'aventure et on ne reviendrait plus jamais !
+
+Remedios	Mais il y a ton père !
+
+Victoria	Oui ! Et je ne vais pas l'abandonner ici ! A moins qu'il me supplie ou bien qu'il me l'ordonne, je ne le laisserai jamais ici. (h) Je ne suis pas prête à affronter tout ça, Rémédios. (ah!) Et j'ai vraiment peur des conséquences !
+
+Remedios	Mais tu n'es pas prête à quoi  ? Est-ce que tu as peur d'être enceinte ?
+
+Victoria	(mm) (h)
+
+(BOUCLE 25 - 00:24:35:08)
+		25
+
+Ambiance	(brouhaha)
+
+Lorenza	Laissez-ça ! Vous devez avoir faim, monsieur !
+
+Père Octavio	Mon Père ! Je suis curé, appelle-moi mon Père !
+
+Lorenza	Mon père, c'est Elogua. Et ma mère, c'est la terre ! Que faisiez-vous dans la montagne ? J'imagine que vous alliez quelque part et que vous vous êtes perdu ?
+
+Père Octavio	Tout ce que je peux te dire, c'est que je n'ai fait de mal à personne !
+
+Lorenza	Que s'est-il passé ? Pourquoi me dites-vous ça ?
+
+Père Octavio	Je ne veux plus rien dire. Tout ça m'est arrivé car j'ai trop parlé. J'ai fraternisé avec les mauvaises personnes. J'ai voulu aider des gens infréquentables. Alors, aujourd'hui, les paroles (...) moi, je te dis qu'elles servent plus à rien !
+
+Lorenza	Je crois que nous autres, on pourrait vous aider.
+
+Père Octavio	(h) La seule chose que vous pourriez faire pour m'aider, ce serait ce serait de me libérer afin que je puisse quitter cet endroit.
+
+(BOUCLE 26 - 00:25:51:00)
+		26
+
+Julian	Bonjour !
+
+Ambiance	(brouhaha)
+
+Manuela	Bonjour !
+
+Julian	Mademoiselle, auriez-vous une chambre de libre pour cette nuit ?
+
+Manuela	Oui. Mais il faut payer à l'avance.
+
+Julian	(euh) J'peux pas vous payer demain ?
+
+Manuela	Non. Je suis vraiment désolée. (h) Mais la plupart du temps, les gens partent sans payer la chambre. Si je ne suis pas payée, je ne donne pas la chambre.
+
+Julian	Ca ne fait rien !
+
+Isabel 2	Julian ?
+
+Julian	Donia Isabelita ?
+
+Isabel 2	Que fais-tu ici ?
+
+Julian	C'est que je ne travaille plus à l'Eden. Tous ces châtiments qui sont donnés aux esclaves, c'est pas pour moi ! (mm) (h) Je n'aime pas les traiter en esclaves.
+
+Isabel 2	Nous partageons les mêmes idées.
+
+Manuela	C'est peut-être l'un de tes amis, Isabel mais il n'a pas de quoi payer. Et hélas,                je ne peux rien faire.
+
+Isabel 2	Attends.
+
+Julian	Que faites-vous, Isabelita ?
+
+Isabel 2	Cette nuit, je la paye !
+
+Julian	Non, non !
+
+Isabel 2	Nous nous arrangerons, Julian ! Je suis une femme indépendante, je peux faire ce genre de choses.
+
+Julian	Je vous promets de vous rembourser.
+
+Isabel 2	Il n'y a aucune urgence !
+
+Julian	Merci infiniment.
+
+Isabel 2	(mm)
+
+Manuela	Signez ici. C'est la chambre sept.
+
+Julian	D'accord. Merci.
+
+Isabel 2	De rien.
+
+Manuela	Si désormais, tu décides de faire la charité en plus de ton travail, tu ne vas pas chômer, je te préviens.
+
+Isabel 2	Manuela  ! (ah...!)
+
+(BOUCLE 27 - 00:27:37:06)
+		27
+
+Noémi	Il va rester combien de temps avec nous ?
+
+Miguel	Jusqu'à ce qu'on vérifie qu'il nous a bien dit la vérité.
+
+Lorenza	On a l'impression que cet homme a encore le diable à ses trousses. Je sais reconnaitre la terreur dans les yeux des gens.
+
+Miguel	(h) C'est vrai, maman Lorenza. Trinidad pense la même chose. Il faut qu'on découvre son secret. Mais pour l'instant, nous avons autre chose à faire. (h) Nous n'avons toujours pas reçu de réponse au message que nous avons envoyé aux différents propriétaires.
+
+Trinidad	Ces maudits blancs ne nous prennent pas au sérieux.
+
+Lorenza	Attendez ! Et écoutez-moi ! Il faut leur laisser un peu de temps.
+
+Noémi	Non, maman Lorenza. Si on attend leur réponse, on va pouvoir patienter longtemps.
+
+Lorenza	Vous savez bien qu'il n'est pas facile d'aller et de revenir de Santa Marta. Le général doit déjà tous les réunir puis ils devront se mettre d'accord. Mon garçon, il faut leur laisser une chance avant de déclarer la guerre.
+
+Miguel	Laissons leur jusqu'à demain, (h) nous avons commencé à leur mettre la pression avec le fléau que nous avons envoyé aux Parrenio.
+
+(BOUCLE 28 - 00:28:46:15)
+		28
+
+Général	(h)
+
+Eugénia	Tu viens déjeuner ? (h) Tu ne sais toujours pas si tu vas réunir les propriétaires ? Si tu ne fais rien, Fidel, les esclaves qui se sont enfuis, risquent de prendre ça comme une véritable offense.
+
+Général	Si je fais cette réunion, (h) ce serait une véritable offense aux soldats. Une offense pour moi également. Rendre public ce que ces maudits esclaves nous ont fait subir, ils nous ont désarmés et j'ai dû porter un message, ça a été la pire humiliation de toute ma vie.
+
+Eugénia	Je comprends ce que tu ressens. Mais tu dois également comprendre que si tu ne fais rien, une tragédie encore pire risque d'arriver. Tu vois ce que je veux dire ?
+
+Général	(h) (mm)
+
+(BOUCLE 29 - 00:29:41:08)
+		29
+
+Victoria	Milagro, tu te souviens quand tu envisageais de te débarrasser du bébé ?
+
+Milagro	(mm) Ne me parle plus de ça. (h) Je n'arrête pas de penser à cet enfant que je vais donner à Julian et à la vie qu'on va avoir. Pourquoi me demandes-tu ça ? Tu crois que tu es ... ?
+
+Victoria	Hier, j'ai couché avec Nicolas. Et rien que le fait de penser que je pourrais avoir un enfant de lui me donne envie de vomir. (h) Prépare-moi une de tes potions.
+
+Milagro	(h) Mais ce n'est pas comme ça qu'il faut faire ! Il faut déjà être sûre que tu es bien enceinte et ensuite, on ira chercher les herbes nécessaires et
+
+Remedios	Victoria, (h) (h) (h) Don Nicolas te cherche partout !
+
+Milagro	(h)
+
+Remedios	Vous étiez en train de parler de quoi ? Si je peux le savoir...
+
+Milagro	(h) (h) C'est que Victoria se demande si ...
+
+Victoria	(h) Milagro (euh,) elle est très triste du départ de Julian.
+
+Milagro	(mm) Oui ...
+
+Victoria	Bon, allez ! je ne voudrais surtout pas faire attendre le Maitre de cette maison !
+
+(BOUCLE 30 - 00:30:51:20)
+		30
+
+Nicolas	Comment s'est passée ta journée, mon amour ?
+
+Victoria	(tt) Bien ! A part ces sauterelles. (h) Est-ce que tu penses avoir trouvé une solution ?
+
+Nicolas	Il y a différentes façons d'agir. Nous devons compter sur le savoir des indigènes qui s'y connaissent. Je leur fais assez peu confiance mais hélas, je n'ai pas vraiment le choix.
+
+Victoria	Tout va bien se passer.
+
+Nicolas	(mmh) Avec toi à mes côtés, je n'en doute pas une seconde. (h) Tu veux bien me donner le vin, s'il te plait ? Tu es très en beauté.
+
+Victoria	(mm) C'est gentil. (mm)
+
+(BOUCLE 31 - 00:32:00:00)
+		31
+
+Adela	Tu passes la nuit avec ton épouse ?
+
+Nicolas	(h) Je voudrais qu'elle croit que non. Qu'elle soit tranquille. (h) Et dans la nuit, j'irai la voir. Et je l'obligerai à faire son devoir.
+
+Adela	N'en fais pas trop quand même !
+
+Nicolas	(mm) (h) Je vais la torturer  ! Sache que (h) rien ne me paraitra jamais assez suffisant pour lui faire payer la trahison qu'elle m'a infligée.
+
+Adela	Nicolás, (h) j'ai réfléchi toute la journée à ce que tu as fait ainsi qu'à ce que tu m'as raconté. Mais j'avoue qu'il y a quelque chose qui m'échappe encore.
+
+Nicolas	(h) De quoi s'agit-il, chère mère ?
+
+Adela	Si jamais Victoria persiste (...) à vouloir menacer tout ce que nous possèdons alors, je ne comprends pas pourquoi tu lui laisses la vie sauve.
+
+(BOUCLE 32 - 00:32:54:08)
+		32
+
+Nicolas	J'aimerais savoir ce qu'il est advenu de la femme (h) qui me jugeait pour ce que j'avais fait fait au presbytère ? Celle qui était désespérée et qui priait pour le salut de nos âmes ?
+
+Adela	Tu m'as dit qu'il ne te restait plus que moi et que tu n'avais plus personne  ? Et bien, je suis là. Pour te prouver qu'une fois de plus, je suis avec toi . (h) Ceci est une poudre de feuilles que l'on appelle Paradis. Hilaria me l'a donnée il y a bien longtemps. Son ingestion cause une grave congestion pulmonaire. Les esclaves l'utilisaient pour se faire passer pour malades et ainsi, ne pas aller travailler. Mais c'est très dangereux. Si elle est administrée à trop forte dose, elle peut provoquer la mort par asphyxie à celui qui la prend.
+
+Nicolas	Et pourquoi est-ce que tu as ce genre de chose ?
+
+(BOUCLE 33 - 00:33:53:11)
+		33
+
+Adela	Tu n'as pas oublié les scènes que ton défunt père m'infligeait ?
+
+Nicolas	Alors, tu .. ? tu m'as toujours dit qu'il était mort d'un infarctus ?
+
+Adela	Euh oui, oui ! (h) (h) (h) (h) C'est la vérité. Il est mort d'un infarctus. Mais Dieu sait qu'il avait bien des mobiles pour l'envoyer outre-tombe. Surtout quand il te corrigeait si violemment et ça, devant moi ! (h) Tu t'en souviens ? (ah!) Tu te souviens de cette frayeur qui s'emparait alors de nous ? Je n'ai jamais eu le courage d'utiliser cette fiole jusqu'à aujourd'hui. Alors, si tu donnes à Victoria la moitié d'une cuillère dans une boisson (...) elle en mourra ! Il n'y aura aucune trace, rien du tout. (h) Nous dirons qu'elle est décédée d'une maladie fulgurante. Une affection au coeur. (h) Et comme ça, nous pourrons habiter indéfiniment à l'Eden sans courir le risque qu'on nous en dépossède. Fais ce que je te dis, Nicolas. (snif) Fais-le ! Fais-le sans attendre !
+
+(BOUCLE 34 - 00:35:03:18)
+		34
+
+Victoria	Vous ne trouvez pas que Nicolas et sa mère sont très bizarres en ce moment ? Ils passent tout leur temps enfermés,       ils parlent à voix basse.
+
+Milagro	Et moi, ils ne me laissent même plus leur servir quoi que ce soit.
+
+Remedios	Il se passe des choses très étranges de tous les côtés ! Qu'en est-il des deux mortes qu'on a retrouvées à l'église ? Vous n'avez même pas envie de savoir qui elles sont ?
+
+Victoria	J'ai des choses plus importantes à faire que de savoir qui sont ces deux femmes.
+
+Remedios	Quelles choses ? Tu veux peut-être déjà mettre fin à cette vie que tu portes en toi ?
+
+Milagro	Je ne lui ai rien dit !
+
+Remedios	Alors, c'est vrai ? C'est de ça dont vous parliez dans la cuisine et que je ne pouvais pas entendre ?
+
+Victoria	Mais si je ne t'ai rien dit, c'est parce que tu n'es pas obligée de tout savoir ! Ce sont des choses personnelles ! Qu'est-ce que tu veux que je fasse ? Que je vive une vie que je déteste ?
+
+Remedios	Tu as bien cherché ce qui t'arrive, Victoria. Tu es venue en Amérique en te faisant passer pour une Marquise épouser un homme que tu détestes. Tu croyais quoi ? Qu'il n'y allait pas avoir d'obstacles ?
+
+Milagro	(chut) Parlez moins fort surtout !
+
+Victoria	Tu ne comprends rien. Tu n'imagines pas l'horreur que c'est de penser que je suis peut-être enceinte de cet homme ?
+
+(BOUCLE 35 - 00:36:03:05)
+		35
+
+Remedios	Moi, au moins, j'accepte les conséquences de mes actes ! Regarde-moi ! Je suis mal en point mais est-ce que tu m'as entendu me plaindre depuis que je t'ai pardonné ?
+
+Victoria	Qu'est-ce que ça a à voir dans tout ça,   Remédios ? (h) On dirait que tu es jalouse ?
+
+Remedios	Sois franche, Victoria. Tu crois que je te dis ça parce que je ne pourrai jamais avoir d'enfant ? Si le fait que je ne puisse plus être mère a un rapport avec mes paroles, toi, qui peux avoir des enfants, Victoria, tu n'as pas le droit de mettre fin à cette petite vie innocente !
+
+Milagro	Parlez plus bas, voyons, on risque de vous entendre !
+
+(BOUCLE 36 - 00:36:44:13)
+		36
+
+Nicolas	Non, mère, non ! (tt) Ce n'est pas le moment de supprimer cette traitresse !
+
+Adela	Tu as dit que tu voulais en finir avec elle !
+
+Nicolas	Bien sûr que je veux en finir avec elle ! Et avec Miguel également ! Je veux me débarrasser des deux.
+
+Adela	Débarrasse-toi d'abord d'elle et ce sale esclave sortira vite du trou où il s'est caché ! Tue Victoria et tu ne tarderas pas à le revoir !
+
+Nicolas	Ce n'est pas comme ça que je veux procéder.
+
+Adela	(ah!) Dans ce cas, ça signifie que tu ne les tueras pas ! (ah!)
+
+Nicolas	Oserais-tu me mettre au défi ?
+
+Adela	Oui ! Tu viens de confirmer ce que je pensais. Tu deviens faible dès qu'il s'agit de cette maudite femme ! Tu approuves tous ses faits et gestes depuis le début ! Ainsi que sa manière de penser ! Tu disais que la Marquise était émue de toutes les punitions données aux esclaves alors qu'en réalité, elle fomentait avec eux. Elle s'est bien fichue de toi ! Elle t'a trompé depuis le début et aujourd'hui, elle continue !
+
+(BOUCLE 37 - 00:37:51:21)
+		37
+
+Nicolas	Tu peux toujours dit ce que tu veux. Je sais parfaitement de quelle façon Victoria va quitter ce bas monde ! (h) Je veux d'abord qu'elle voie mourir Miguel ! Et quand ce sera fait, je me chargerai d'elle ! Tu as compris ?
+
+Adela	Tu y arriveras ?
+
+Nicolas	Bien sûr que j'y arriverai ! (h) Nous sommes assez différents là-dessus ! Je fais toujours ce que je dis. Tandis que toi, tu as été incapable de tuer mon père. Et tu l'as laissé nous martyriser pendant des années !
+
+Adela	(h) Mais c'était ton père !
+
+Nicolas	Et elle, c'est mon épouse !
+
+Adela	Est-ce que tu te rends compte ? En dépit de tout ce qu'elle t'a fait endurer, tu ne peux t'empêcher de la considérer comme ton épouse ! C'est elle qui va gagner, Nicolas ! Tu éprouves encore des sentiments pour une créature comme elle ! Tu crois que Victoria éprouve une quelconque compassion ? Est-ce que tu imagines à quel point elle a dû se moquer de toi quand elle était avec Miguel ?
+
+(BOUCLE 38 - 00:38:46:01)
+		38
+
+Adela	Cet esclave que tu as si souvent défendu ! Toi ! C'est toi le cocu de l'histoire mais malheureusement, tu ne réagis pas comme tu le devrais car tu en es toujours amoureux et tu masques ta peine !
+
+Nicolas	Ce n'est pas du tout ça !
+
+Adela	(ah!)
+
+Nicolas	Ce n'est pas du tout ça !
+
+Adela	(ah!) (euhm) (ah!) (ah!) (ah!) (ah!)
+
+Nicolas	Il est fort possible que je l'aie aimée
+
+Adela	(h) (h) (euh)
+
+Nicolas	mais ce sentiment a totalement disparu, je peux te le jurer !
+
+Adela	(euh) Nic... Nic... (h) (h) (h) (h) (h) Fais ce qui te paraitra le mieux pour toi. (mm) Mais je peux t'assurer que je vois briller dans tes yeux la même flamme que pour Sara, l'esclave.
+
+Nicolas	Je n'ai jamais détesté Sara autant que j'exècre Victoria, je peux te le jurer ! Et il est possible que je sois obsédé parce que je veux me débarrasser des deux ! Je veux éliminer les deux, comprends-tu ?!
+
+Adela	Oui. (snif) Oui. (X) (X) (X) (h) (h)
+
+Nicolas	Je vais les tuer tous les deux.
+
+Adela	(h) (h)
+
+Nicolas	(h)
+
+Adela	(mm)
+
+(BOUCLE 39 - 00:39:58:19)
+		39
+
+Nicolas	(h) Tout va bien ?
+
+Victoria	Oui ! Vous aussi ?
+
+Nicolas	J'étais justement en train de dire à ma mère qu'il se faisait tard et (h) qu'on devrait aller se reposer. N'est-ce pas ?
+
+Victoria	(h) Non, Nicolas. Toi, si tu veux, tu peux aller dormir. Je vais rester seule cette nuit. Adela, faites-lui entendre raison. Tu dois te reposer afin de récupérer, Nicolas.
+
+Adela	Mon fils est un homme intelligent et il sait fort bien ce qu'il doit faire. (h) De plus, il y a des conversations qui ne regardent pas une maman.
+
+Nicolas	Vous pouvez disposer. Viens, mon amour.
+
+(BOUCLE 40 - 00:41:07:13)
+		40
+
+Remedios	Pour l'amour du ciel, Milagro,           ne donne rien à Victoria !
+
+Milagro	Je ferai ce qu'elle me demandera !
+
+Remedios	(h) Ce n'est pas bien ! Il faut accepter la volonté du Seigneur, s'il te plait !
+
+Milagro	Je ne peux pas contraindre Victoria à avoir un enfant de l'homme qui lui a tout volé ! Ce serait un trop grand  sacrifice !
+
+Remedios	Oui mais ce serait un péché, Milagro ! Pense à Miguel !
+
+Milagro	(ah!) N'essayez surtout pas de m'attendrir avec ça ! Victoria et vous, connaissez l'histoire aussi bien que moi.
+
+Remedios	De quoi tu parles ?
+
+Milagro	(h) La mère de Miguel a été la maitresse du maitre de son propre gré.
+
+Remedios	Qu'est-ce que tu racontes ?
+
+Milagro	(mm) Il ne l'a obligée à rien ! Ils sont tombés amoureux et elle a réussi à s'échapper quand elle était enceinte. Nous avons appris tout ça au Palenque.
+
+Remedios	Oui mais elle eu l'enfant. Un enfant reste toujours un enfant, Milagro !
+
+Milagro	Remédios, je vous en supplie, ouvrez un peu les yeux ! La vie n'est pas toujours simple ! Il faut la prendre comme elle vient. On a tous notre chemin de vie et on ne doit jamais juger celui des autres.
+
+Remedios	(ah!) Oh seigneur ! (oh !)
+
+(BOUCLE 41 - 00:42:10:13)
+		41
+
+Victoria	(h)
+
+Nicolas	(h)
+
+Victoria	(h)
+
+Nicolas	Allons nous coucher. Pourquoi me regardes-tu comme ça ? Tu as raison quand tu dis que je dois prendre soin de moi.
+
+Victoria	(h) C'est bien de m'écouter.
+
+Nicolas	(h) Je te remercie de ta sollicitude. Tu es un véritable ange gardien. (h) Je devrais écouter davantage tes conseils. (h) Comme je t'ai écoutée pour l'histoire des soldats.
+
+Victoria	(h) Et tu les as renvoyés ?
+
+Nicolas	Ils partent demain.
+
+Victoria	Parfait.
+
+Nicolas	Tu avais raison, il suffit de deux gardiens pour surveiller la maison. (h) Nous ne pouvons pas vivre dans la peur sur notre propriété. Ton hacienda.
+
+Victoria	(h) Merci de m'avoir écoutée. Tu es un mari merveilleux.
+
+Nicolas	Et toi, la meilleure épouse dont un homme peut rêver.
+
+Victoria	(h) (h)

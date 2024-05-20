@@ -89,7 +89,7 @@ Scene 88: {'MARTIN'}
 Scene 89: {'MARTIN'}
 Scene 90: {'MARTIN'}
 Scene 91: {'LISA'}
-Scene 92: {'LISA', 'MARTIN'}
+Scene 92: {'MARTIN', 'LISA'}
 Scene 93: {'US ANNOUNCER'}
 Scene 94: {'MARK RAMLEY'}
 Scene 95: {'MARTIN'}
@@ -173,7 +173,7 @@ Scene 172: {'MARTIN'}
 Scene 173: {'LISA'}
 Scene 174: {'MARTIN'}
 Scene 175: {'LISA'}
-Scene 176: {'LISA', 'MARTIN'}
+Scene 176: {'MARTIN', 'LISA'}
 Scene 177: {'OLGA'}
 Scene 178: {'MARTIN'}
 Scene 179: {'OLGA'}
@@ -337,7 +337,7 @@ Scene 336: {'US PRESIDENT'}
 Scene 337: {'TATYANA'}
 Scene 338: {'MARTIN'}
 Scene 339: {'TATYANA'}
-Scene 340: {'TATYANA', 'MARTIN'}
+Scene 340: {'MARTIN', 'TATYANA'}
 Scene 341: {'MARTIN'}
 Scene 342: {'TATYANA'}
 Scene 343: {'LISA'}
@@ -453,7 +453,7 @@ Scene 452: {'TREVOR'}
 Scene 453: {'MARTIN'}
 Scene 454: {'TREVOR'}
 Scene 455: {'SECURITY OFFICER'}
-Scene 456: {'SECURITY OFFICER', 'MARTIN'}
+Scene 456: {'MARTIN', 'SECURITY OFFICER'}
 Scene 457: {'SVITANOK CLERK #2'}
 Scene 458: {'MARTIN'}
 Scene 459: {'SVITANOK CLERK #2'}
@@ -524,10 +524,10 @@ Scene 523: {'MARTIN'}
 Scene 524: {'LISA'}
 Scene 525: {'MARTIN'}
 Scene 526: {'LISA'}
-Scene 527: {'LISA', 'MARTIN'}
+Scene 527: {'MARTIN', 'LISA'}
 Scene 528: {'MARTIN'}
 Scene 529: {'LISA'}
-Scene 530: {'LISA', 'MARTIN'}
+Scene 530: {'MARTIN', 'LISA'}
 Scene 531: {'TREVOR'}
 Scene 532: {'TREVOR'}
 Scene 533: {'LISA'}

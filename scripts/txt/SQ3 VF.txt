@@ -1,0 +1,2447 @@
+SQ3 VF
+23/01/2017
+
+(BOUCLE 1 - 01:00:22:23)
+		01
+
+pirate	A nous les lingots d'or !
+
+pirates	En avant !
+
+ambiance villageois	(panique, cris)
+
+pirate 1	Bonsaï !
+
+bank teller	Oooooohh ! (huh !)
+
+pirate boss lady	A nous les lingots !
+
+bank teller	(h/)_ (huh !)_
+
+pirate boss lady	Ouvre le coffre, mon ami, sinon, gare à toi...
+
+bank teller	Je suis désolé... Je ne connais même pas la combinaison !
+
+pirate boss lady	Donnez le signal !
+
+pirate 1	(huh !)
+
+(BOUCLE 2 - 01:01:01:10)
+		02
+
+pirate ship captain	A tribord toutes !
+
+pirate gunner	Feu !
+
+pirate 1	(Ooooh-oooooh...) (h/)_
+
+pirate boss lady	Comment vous trouvez mon ouvre-boîtes ?
+
+bank teller	(réacs peur)_
+
+pirate boss lady	(huh ?!)_
+
+(BOUCLE 3 - 01:01:27:11)
+		03
+
+pirate boss lady	Je peux savoir qui vous êtes, marin d'eau douce ? Bien le bonjour et du balai !
+
+ROLLAN	Les gens m'appellent "Le Grand Rollan". Je suis une légende dans tout le pays. Je vais vous apprendre à voler de pauvres innocents.
+
+pirate 1	oh... On sait déjà faire ça tout seuls !
+
+pirates	(rire)_
+
+pirate 1	(rire)_
+
+pirate 2	(ahahahahahahah)
+
+pirate boss lady	Tu serais beaucoup plus impressionnant si tu avais une arme ou une épée à la main...
+
+ROLLAN	Rendez-vous immédiatement, ou je vous corrigerai avec mon... (huh)_ (huh ?)_ (huh !)_ (huh)_ Avec ça !
+
+pirate 1	(rire)_ Il va nous frapper avec son poisson !
+
+pirates	(rire)_
+
+pirate 1	(rire)_
+
+village boy 1	Regardez un peu Rollan la légende !
+
+village boy 2	Rollan le loser, oui !
+
+village boy 1	(rire)_
+
+village boy 2	(huh !)
+
+village boy 1	(huh !)
+
+(BOUCLE 4 - 01:02:12:15)
+		04
+
+ROLLAN	C'est d'accord. Je vais vous mettre en boîte avec mon thon rouge ! A l'attaque ! (ah_ ouh-ouh-aïe-aïe-ouh-huh !-ah! ah! ah! ouh-ouh-ouh-ouh-ouh-ouh-ouh-ouh) Olé ! (mmmh)
+
+pirate 3	(rire)_
+
+pirate boss lady	(hoh ?!)_
+
+pirate 1	(huh !)
+
+pirate 3	(huh ?!)_
+
+pirate boss lady	Joli déhanché...
+
+ROLLAN	Aaaaaaaaaaaaaaaaargh ! (mmmh)
+
+pirates	(rire)_
+
+pirate 1	Faut prévenir les autres. Tous au bateau.
+
+pirate boss lady	Tu me fais penser à moi quand j'avais ton âge... Moi aussi, je rêvais de devenir une légende quand je serais grande.
+
+ROLLAN	(h/)_
+
+pirate boss lady	Un jour, quelqu'un m'a donné ce livre, et m'a dit, "Lis-le, et fonce". Tiens. A moi de l'offrir à un doux rêveur... Si tu veux devenir une légende un beau jour, lis-le, et fonce.
+
+(BOUCLE 5 - 01:03:12:08)
+		05
+
+ROLLAN	(hoh ?!)_ (hmm)
+
+INSERT	La Reine des Neiges 3, le Feu et la Glace_
+
+(BOUCLE 6 - 01:03:45:03)
+		06
+
+GERDA	(h/)_ (h/)_
+
+KAI	(soupir b.f.)_
+
+schoolgirls	(brouhaha : Si, si c'est lui ! C'est Kaï ! Il est trop mignon ! Je vais jamais oser lui parler)_
+
+girl 1	Vas-y, n'aie pas peur !
+
+girl 2	(huh !)
+
+KAI	(oh\)_
+
+GERDA	(rire b.f.)_
+
+girl 2	(hoh !)
+
+GERDA	Tu as vu ? Ces filles sont toutes complètement folles de toi !
+
+girl 1	Ooooooh...
+
+KAI	Tu l'as dit, elles sont folles. Et ça n'a rien à voir du tout avec moi.
+
+boy	Je t'aime très fort, papa.
+
+little girl	(huh !) Regardez !
+
+Earl	Quoi ?
+
+KAI	Pourquoi ils nous envient tant que ça ? On est orphelins, on est obligés de parcourir le monde comme des gitans.
+
+GERDA	On est des légendes pour ces enfants. On a vaincu la Reine des Neiges et sauvé le monde !
+
+KAI	Des légendes ? Tu es sérieuse ? J'ai plutôt l'impression d'être une bête de foire ou un singe qui joue des cimballes.
+
+(BOUCLE 7 - 01:04:27:13)
+		07
+
+teacher f	Les élèves seront là d'une seconde à l'autre maintenant. Vous pourrez commencer dans cinq petites minutes.
+
+GERDA	Ces enfants sont notre nouvelle raison de vivre, ils ont besoin de nous.
+
+KAI	Personne ne remplacera jamais nos parents, Gerda. Tiens, c'est pour toi. Je voulais t'offrir ce cadeau. C'est une peinture que j'ai faite pour toi.
+
+GERDA	Wouahou... Kaï... C'est toi qui as fait ça ? Merci beaucoup, elle est magnifique. C'est incroyable. Mais... tu étais si petit la dernière fois que tu as vu papa et maman. Comment tu t'es souvenu de leurs visages ?
+
+KAI	Il m'arrive de les voir dans mon sommeil.
+
+GERDA	Oh, Kaï... Merci beaucoup.
+
+(BOUCLE 8 - 01:05:06:14)
+		08
+
+teacher f	Nous avons des invités très spéciaux aujourd'hui, mes chers enfants...
+
+school kids	(applause) (oh...)_
+
+teacher f	Je suis fière de vous présenter ceux qui sont venus à bout de la Reine des Neiges, les jumeaux légendaires, Gerda et Kaï !
+
+school kids	(Woooooh ! Bravo ! Wooohoooo !)_ (moins fort)_
+
+(BOUCLE 9 - 01:05:24:18)
+		09
+
+GERDA	Et c'est ainsi que nous avons vaincu la Reine des Neiges.
+
+school kids	(Wouh ! Hourra !)_
+
+GERDA	Nos parents seraient très fiers de nous.
+
+teacher f	Les enfants, vous avez cinq petites minutes pour poser des questions à nos invités.
+
+school kids	(chahut jusqu'à fin de boucle)_ (K1 : Kaï, je peux avoir un autographe ! K2 : Hé, me pousse pas j'étais là avant toi ! K3 : Moi d'abord Kaï !)_
+
+GERDA	(h/)_ Reculez, les enfants, vous allez nous écraser ! S'il vous plaît, (h/)_ne vous approchez pas si près !
+
+boy 2	Non, à moi, il est à moi !
+
+boy 1	C'est le mien, c'est le mien !
+
+KAI	(huh !)
+
+GERDA	(hoh !) (huh !) (oh...)_ (hoh...)_ (h\)_
+
+kid	Non, moi d'abord !
+
+GERDA	(h/)_ (huh !)
+
+boy 3	Moi aussi je veux un autographe ! Wouhooooooooooooou !
+
+teacher f	Ils sont tellement adorables !
+
+(BOUCLE 10 - 01:06:07:14)
+		10
+
+KAI	(respi course)_
+
+GERDA	(respi course)_
+
+school kids	(Reviens Kaï ! Où est-ce que tu vas ? Je t'aime tellement Kaï, reviens ! Ne pars pas ! Je n'ai pas eu mon autographe, reviens ! Un bisou, je veux un bisou !)
+
+GERDA	(huh)_
+
+KAI	(haaaah !)_ En avant, cocher, en avant !
+
+schoolgirl 1	J'ai eu une mèche de ses cheveux !
+
+school kids	(Fais voir ! Donne-la-moi ! Je veux la voir ! Montre ! Fais voir !)
+
+teacher f	Attendez ! Attendez ! Vous avez oublié votre argent ! Voilà pour vous deux. Vous avez été absolument fabuleux, merci encore.
+
+KAI	(h/)_ Il va encore falloir se serrer la ceinture ce soir !
+
+(BOUCLE 11 - 01:06:44:20)
+		11
+
+KAI	N'oublie pas, personne ne peut détruire nos souvenirs. Ne sois pas triste. Je vais te le réparer.
+
+GERDA	On n'a vraiment pas de chance. (h/)_ D'accord. Quel est le programme ? Euh... Demain, on doit rencontrer les enfants d'une autre école, et juste après ça...
+
+pirate boss lady	Donne-moi ce programme.
+
+GERDA	Kaï !
+
+KAI	On parcout le monde, de ville en ville, pour des cacahuètes ! On ne nous traiterait pas comme ça si nos parents étaient toujours en vie, tu peux en être sûre !
+
+GERDA	Mais on n'a plus nos parents, on doit se débrouiller tout seuls. Qu'est-ce qu'on peut faire d'autre ? On irait  où ?
+
+KAI	Ne t'en fais pas, j'ai déjà pensé à tout. On va rester chez Orm quelque temps. Il va être tellement content de nous voir, et les autres trolls se moquent bien de savoir qui nous sommes. Imagine un peu, plus d'enfants pour nous jouer de mauvais tours ou nous arracher les cheveux pour avoir un souvenir.
+
+(BOUCLE 12 - 01:07:29:00)
+		12
+
+GERDA	Tu veux aller chez Orm ?
+
+KAI	Oui ! On va rester chez lui et ensuite on décidera de ce qu'on veut faire.
+
+GERDA	Ce n'est peut-être pas une mauvaise idée. Mais si tu n'aimais pas notre façon de vivre, pourquoi tu ne l'as pas dit plus tôt ?
+
+KAI	J'ai essayé ! Mais tu ne m'écoutais pas.
+
+GERDA	Oh, Kaï... Je... (uh-huh !)
+
+KAI	(uh-huh !)
+
+driver	Hé ! Revenez ! Hé_
+
+GERDA	J'ai l'impression qu'on va devoir aller chez Orm à pied.
+
+KAI	(hoh...)_ (huhm !)_ (rire b.f.)_
+
+(BOUCLE 13 - 01:07:59:02)
+		13
+
+KAI	Allez, souris un peu ! Pense un peu à la chance qu'on a ! On va vivre au calme, dans une jolie maison. Et surtout plus d'histoires de Reine des Neiges ! Promets-le-moi.
+
+GERDA	Je te le promets.
+
+KAI	Personne ne saura qui on est vraiment ! Alors profitons-en pour une fois. Je me suis même dit qu'on pourrait changer de prénom.
+
+GERDA	Changer de prénoms ? Pourquoi ?
+
+KAI	Il nous faut des prénoms simples et passe-partout. Qu'est-ce que tu penses de Hansel et Gretel ? On est des enfants comme les autres, pas des héros légendaires !
+
+GERDA	Ou on pourrait prendre... le nom d'un méchant pirate ! Tu pourrais t'appeler, Carl l'impitoyable et moi je serais...
+
+KAI	Les pirates !
+
+GERDA	Kaï, tu peux me dire ce que tu fabriques ?
+
+KAI	Alfida vient parfois skier dans cet endroit, elle connaît mon signal et avec un peu de chance elle nous verra.
+
+GERDA	Alfida ? La fille pirate ?
+
+(BOUCLE 14 - 01:08:56:22)
+		14
+
+ALFIDA	Kaï !
+
+GERDA	Attends un peu, c'est ça que tu appelles skier ? ahah (h/)_ Formidable !
+
+ALFIDA	On dirait que vous avez bien besoin d'un véhicule. Montez à bord ! Qu'est-ce que vous faites dans le coin ? Vous vous êtes enfin décidé à devenir pirates ?
+
+KAI	(hah !) Non, ça jamais ! Tu nous emmènes chez Orm ?
+
+ALFIDA	(mmmh) Bien sûr ! Je suis libre comme l'air, je commence à peine mes vacances.
+
+(BOUCLE 15 - 01:09:29:14)
+		15
+
+ORM	(ronfle)_ héhéhé (ron...)_ (mmh-hmm) (ronfle)_ (ff) (huh !!)_ (gggggrrr)_ (hein ?)_
+
+troll kids	(rire démoniaque hahahaha !)
+
+ORM	Gggggggrrr... Vous allez voir !
+
+troll kids	Wouaaaaaaaaaaaaah! (rires)_
+
+ORM	Je vais vous attraper !
+
+troll kids	(rires)_
+
+ORM	(ha-ha-ha) (hah ?)_ (h/)_ (mmmh...)
+
+baby Orm 3	(rire démoniaque ahahahahah !)
+
+baby Orm 1	(hah !)
+
+baby Orm 2	(hah !)
+
+baby Orm 1	(hah !)
+
+baby Orm 2	(hah ! hah ! hah !)
+
+baby Orm 1	(hah !)
+
+ORM	(huh !) (huh !) (h/)_
+
+troll kids	(rires)_
+
+ORM	(Ppff !) (huh !) (argh !)
+
+baby Orm 1	Ouais !!!!!!!!
+
+baby Orm 2	(hoh !)
+
+baby Orm 3	(hoh !)_
+
+ORM	Gggrr... (Rrrrrrrrrrrrrrrrrrraaaaaaaaaaaaaaaaah !)_
+
+troll kids	(Aaaaaaaaaaaaaaaaaaah !)_
+
+ORM	Gare à vous !
+
+(BOUCLE 16 - 01:10:18:00)
+		16
+
+KAI	Orm n'a pas l'air de s'ennuyer ici.
+
+GERDA	Louta !
+
+ALFIDA	Salut, Orm !
+
+ORM	(huh ?) Kaï, Gerda, Alfida ! Mes chers amis !
+
+KAI	(huh !) (huh)_
+
+GERDA	(hoh !)_
+
+ALFIDA	(h/)_ (rire)_
+
+GERDA	(rire)_
+
+ALFIDA	Ma vengeance sera terriiiiiiiiiiiiible !
+
+baby Orm 2	Wouahou !
+
+ALFIDA	(rire)_
+
+GERDA	(rire)_
+
+(BOUCLE 17 - 01:10:45:12)
+		17
+
+GERDA	Oh... Cette maison est vraiment parfaite.
+
+ALFIDA	Mille sabords ! Gerda a raison, cette cabane est vraiment épatante !
+
+baby Orm 1	(hoh !) (oh-hoh)
+
+ORM	Oh, vous savez, grand-mère est devenue reine. J'ai des cousins dont je n'avais jamais entendu parler.
+
+KAI	Je pars me promener en montagne.
+
+troll kids	(hahaha)_
+
+KAI	J'ai envie de peindre le paysage au clair de lune. (ouh !)
+
+ROLLAN	Salut la compagnie !
+
+ORM	Bah alors ! On ne t'a jamais appris à frapper ?
+
+ROLLAN	Désolé, Orm, mais tu m'as promis de me raconter une autre légende.
+
+KAI	(mmmmmmmmmmmmh) (oooohm)
+
+ORM	D'accord, viens t'asseoir. Je te présente Gerda, Alfida, et Kaï.
+
+KAI	(Mmmmff!)
+
+ORM	Les amis, je vous présente Rollan.
+
+prop 2	Bonsoir à tous !
+
+ROLLAN	Hola amigos !
+
+troll kids	(rires)_
+
+GERDA	Bonsoir. (rire)_
+
+(BOUCLE 18 - 01:11:29:16)
+		18
+
+GERDA	Alors comme ça, tu es espagnol ? Qu'est-ce que tu fais si loin de chez toi ?
+
+ROLLAN	Une femme pirate m'a offert un livre qui m'a ouvert les yeux et changé ma vie à jamais ! Je suis fasciné par les légendes alors je suis venu ici, au Royaume des Légendes ! Après tout, qui mieux qu'un troll pour raconter ces histoires ?
+
+ALFIDA	Une femme pirate ? (oh !)_ (rire)_ C'était ma mère. Elle m'a parlé de toi en long, en large et en travers. Le fanatique des légendes...
+
+ROLLAN	(rire)_
+
+troll kids	(chahut)_
+
+ROLLAN	(huh !) (huh)_
+
+ALFIDA	(rire)_ Les pirates ne s'en sont toujours pas remis.
+
+ROLLAN	J'aime me rappeler cet ancien dicton. "Il n'y a pas de fumée sans feu."
+
+ORM	(gggrrrrr)_
+
+ROLLAN	Les légendes existent. Elles sont toutes autour de nous ! Gerda et Kaï, prenez ces prénoms, par exemple. Ils sont tirés de cette légende qu'Orm m'a racontée.
+
+KAI	(Ooohh...) (euh...) Tu sais, c'est prénoms sont très utilisés dans le pays d'où l'on vient.
+
+GERDA	(hmm)
+
+troll kids	(chahut)_
+
+GERDA	Alors, Orm t'a tout raconté ?
+
+ORM	(uh-huh) (huh ?)
+
+GERDA	Comme c'est intéressant...
+
+ORM	(huh !) (huh)_ (hah !)
+
+GERDA	De quelle légende tu parles ? Dis-nous tout.
+
+ORM	(huh)_
+
+troll kids	(hop ! hop !)_
+
+ROLLAN	Comme tu voudras.
+
+(BOUCLE 19 - 01:12:23:08)
+		19
+
+ROLLAN	Je vais vous raconter ma légende préférée, qui raconte comment Gerda
+
+ORM	(huh !)
+
+troll kids	(chahut)_
+
+ORM	(mmh-hmm) (huh !) (ah-ah-aaaaah...)
+
+ROLLAN	a sauvé tous les trolls de la Reine des Neiges.
+
+ORM	Non, non, non, non, non, non ! (oh...)_
+
+troll kids	Louta ! (rires)_
+
+ROLLAN	Vous vous souvenez, il y a quelques années, on a eu un hiver très long et personne ne savait pourquoi. Certains ont dit que c'était la faute d'une vague de froid, d'autres, une conspiration de vendeurs de skis et de luges mais en fait, c'était dû à la méchante Reine des Neiges !
+
+KAI	Sans rire ? T'es sûr ?
+
+ROLLAN	Oui, mon ami ! Et on serait tous morts congelés, sans l'intervention de nos deux héros,
+
+KAI	(hoh !)
+
+ROLLAN	Gerda et Kaï ! (hah !)_
+
+GERDA	Wouah !
+
+ROLLAN	Je vais vous raconter toute l'histoire.
+
+(BOUCLE 20 - 01:12:56:14)
+		20
+
+ROLLAN	C'est alors que Gerda se jette sur la Reine des Neiges en criant : “Abracadabra!” Puis Gerda attrape la méchante reine par le col, et lui met une vraie raclée !
+
+ALFIDA	(rire b.f.)_
+
+ROLLAN	(hah !)_
+
+GERDA	(huh) (euh...)_
+
+ROLLAN	Et la Reine des Neiges lui dit "Oh, gentille Gerda, pitié, ne me tue pas !"
+
+ALFIDA	(rire)_
+
+ROLLAN	et Gerda lui dit : "Tu as kidnappé mon petit frère, tu as congelé mes parents, je vais te détruire une fois pour toutes !" et elle l'anéantit avec de la magie toujours plus de magie !
+
+ALFIDA	(rire)_ (rire)_
+
+ORM	(huh ?!)_
+
+ROLLAN	Tiens, prends ça ! (Ggggggnnnnn !) (hargh !) (gu-ahahahahahha) (ah-gu-aaaaaaaaheeeeeeuh)
+
+ALFIDA	(rire)_
+
+ROLLAN	Abracadabra ! Alakazam, Alakazim ! Et Gerda envoie la Reine des Neiges direct dans les étoiles, et maintenant, la voilà... l'Etoile du Nord...
+
+(BOUCLE 21 - 01:13:39:16)
+		21
+
+GERDA	Wouahou ! C'est vraiment incroyable ! (h/)_ Mais qu'est-ce qu'il y avait avant l'Etoile du Nord ?
+
+ROLLAN	(hmm) (h/)_
+
+ORM	(huhuhuh)_ Je vais chercher du bois pour le feu. Il commence à faire très froid par ici.
+
+GERDA	Orm.
+
+ORM	Quoi ?
+
+GERDA	Tu n'essaierais pas de le troller ?
+
+ORM	Hein ? Quoi ? (huh !) Pourquoi tu t'en prends à moi ? Les trolls de tout le royaume participent au concours de la légende la plus drôle racontée aux nouveaux venus en ville ! Je suis désolé, Rollan...
+
+ROLLAN	Oh, non, c'est pas vrai, je me suis encore fait avoir... Attendez. Qui vous dit que cette légende n'est qu'une légende ?
+
+(BOUCLE 22 - 01:14:12:19)
+		22
+
+ROLLAN	Avouez tout, vous êtes les celèbres supers héros de cette super légende ?
+
+KAI	Oh...
+
+ROLLAN	Serais-tu le mélange incroyable de génialitude et de puissance qu'on appelle Kaï ?
+
+KAI	(huh)_ (mh)_ (huh !) (aaaaaaaaaaaah) (Gggggnnn...)
+
+ROLLAN	Et serais-tu Gerda
+
+KAI	(hoh...)_
+
+ROLLAN	la plus magnifique et héroïque des filles de tout l'univers ?
+
+KAI	(aïe...)_
+
+GERDA	Oui.
+
+KAI	(huh !) Non !
+
+GERDA	Si !
+
+KAI	Non, tu m'avais promis.
+
+GERDA	Oui, je t'avais promis mais ce n'est pas bien de mentir.
+
+KAI	Tu me traites de menteur ? Mais on avait décidé tous les deux de garder ça secret, tu te rappelles ?
+
+GERDA	Il n'a fait que me poser une simple question et je lui ai donné une réponse honnête.
+
+KAI	Je connais bien les garçons dans son genre ! Et maintenant, ils débarquent même d'Espagne pour venir se moquer de nous ! Pour voir les curiosités ! Tout le monde imagine qu'on est des légendes, qu'on vit une vie de rêve mais c'est faux ! On est sans arrêt sur les routes comme des vagabonds, et tout ça pour de la monnaie de singe ! Mais tout ça c'est terminé !
+
+(BOUCLE 23 - 01:14:56:09)
+		23
+
+GERDA	C'est grâce à cette monnaie de singe qu'on a réussi à survivre !
+
+ROLLAN	(huh !) (hoh)_
+
+GERDA	Je refuse de continuer à cacher qui je suis ou de dire des mensonges aux gens !
+
+ALFIDA	Arrêtez de vous crier dessus !
+
+KAI	Tu n'es qu'une narcissique et une égoïste !
+
+GERDA	(ohoh) Et toi tu n'es qu'un sale petit ingrat !
+
+KAI	(hoh !) D'accord, fais ce que tu veux ! Tu n'as qu'à raconter tes exploits à tout le monde si ça te chante, mais ce sera sans moi !
+
+GERDA	Tant mieux ! Je vais peut-être le faire ! Mais qui va prendre soin de toi ? Regarde les choses en face, tu ne sais presque rien faire sans moi !
+
+KAI	Je n'ai pas besoin qu'on s'occupe de moi ! Je n'ai pas besoin de soeur !
+
+GERDA	(hoh !) Si nos parents étaient encore là, tu te comporterais autrement !
+
+KAI	Mais ils sont morts !
+
+GERDA	(h/)_
+
+(BOUCLE 24 - 01:15:36:10)
+		24
+
+ALFIDA	Attends, qu'est-ce que tu fais ?
+
+KAI	Je fiche le camp ! Très loin d'ici !
+
+ALFIDA	C'est mon bateau.
+
+KAI	Alors aide-moi !
+
+(BOUCLE 25 - 01:15:46:01)
+		25
+
+ORM	(h/)_
+
+troll kids	(ronflent)
+
+ORM	(soupir)_ (huh !) (h\)_ (effort)_ (effort)_
+
+baby Orm 2	(baille)_
+
+troll kids	(fin ronflements)
+
+(BOUCLE 26 - 01:16:04:07)
+		26
+
+ROLLAN	Je n'arrive pas à comprendre pourquoi Kaï a réagi de cette façon. Tu lui as sauvé la vie. Si quelqu'un m'avait sauvé la vie, je ferai tout pour qu'il soit heureux.
+
+GERDA	Je crois que Kaï ne se rend pas compte de tout ce que j'ai dû faire depuis que nos parents ne sont plus là.
+
+KAI	Elle n'en a rien à faire de ce que je peux penser.
+
+ALFIDA	Ta soeur t'adore, voyons. Elle a parcouru la moitié de cette planète et vaincu la Reine des Neiges rien que pour te sauver, toi.
+
+KAI	C'était il y a très longtemps maintenant. Elle a tellement changé depuis ça. Aujourd'hui, je ne suis plus que euhm... qu'un poids pour elle.
+
+(BOUCLE 27 - 01:16:37:15)
+		27
+
+GERDA	Tout ce que j'ai fait, c'était pour nous offrir une vie meilleure. Mais... Mais sans nos parents, j'ai bien peur d'avoir échoué. (h/)_ Kaï était... tout ce qui me restait sur cette Terre.
+
+KAI	A partir de maintenant, je me débrouillerai tout seul. Je m'en vais, c'est décidé !
+
+ALFIDA	Tu es sûr que c'est la bonne décision ?
+
+KAI	Oui ! Ca vaudra mieux pour elle et moi, tu peux me croire.
+
+(BOUCLE 28 - 01:17:01:12)
+		28
+
+ROLLAN	Je sais à quel point c'est dur de ne plus avoir ses parents. Tu sais, si je suis passionné de légendes c'est parce que je suis moi aussi à la recherche de ma mère disparue.
+
+GERDA	C'est vrai ?
+
+ROLLAN	Oui. C'est mon voeu le plus précieux, de réussir à la retrouver un jour. Et je sais maintenant que ce jour approche. Je sais comment la retrouver, grâce à cette légende de trolls qui dit que...
+
+GERDA	Non, attends. Tu veux dire que Orm t'a raconté celle-là aussi ?
+
+ROLLAN	(h/)_ Non ! Regarde ça. On l'appelle la Pierre aux Souhaits. Si une personne la trouve et fait un voeu, il se réalisera. Ca fait longtemps maintenant que je cherche cette pierre, les trolls n'ont pas pu m'aider, ils ne savent pas où elle se cache.
+
+GERDA	Les grottes du Sultanat d'Oman, le lac Gao, le temple ?
+
+(BOUCLE 29 - 01:17:41:16)
+		29
+
+GERDA	Les trolls connaissent parfaitement cet endroit, tu sais. Mais personne ne peut y aller, c'est interdit.
+
+ROLLAN	Interdit ?
+
+GERDA	Oui, c'est très dangereux ! On risque d'être maudit, ou de se faire jeter un sort, ou on peut causer des problèmes à toute la ville et même au monde entier ! Allons-y !
+
+ROLLAN	Où ça ?
+
+GERDA	Allons trouver cette Pierre aux Souhaits, tu n'es pas le seul à avoir un voeu à faire !
+
+ROLLAN	Mais, tu oublies qu'on n'a pas le droit d'y aller...
+
+GERDA	Poule mouillée ?
+
+ROLLAN	Je ferais n'importe quoi pour ma mère !
+
+(BOUCLE 30 - 01:18:16:07)
+		30
+
+ROLLAN	C'est la chose la plus incroyable que j'ai jamais vue ! Je te jure, il y en avait des milliers ! Elles n'étaient pas plus grosses qu'une petite punaise. Tu n'as pas l'air de me croire !
+
+GERDA	(rire)_ C'est comme ça que ça s'est passé. C'est ce miroir qui m'a permis de vaincre la Reine des Neiges. (mmmh) (mmmh)
+
+ROLLAN	(euuuuuuuuh !)
+
+GERDA	(rire)_
+
+ROLLAN	(rire)_
+
+GERDA	Ca va ? Allez, viens !
+
+ROLLAN	Allez, viens ! (effort)_
+
+(BOUCLE 31 - 01:18:51:11)
+		31
+
+GERDA	Tout à fait. C'est fini, on n'est plus des amateurs, on est des pros !
+
+soldier 1	T'es sûr ?
+
+soldier 2	Oui... Tu me revaudras ça !
+
+soldier 3	Je te l'ai dit l'autre soir, bêta !
+
+soldier 4	Oui, c'est vrai !
+
+soldier 3	(rire)_
+
+(BOUCLE 32 - 01:19:25:13)
+		32
+
+ROLLAN	Est-ce que tu as déjà fait du... Du patin à glace ?
+
+GERDA	Non.
+
+ROLLAN	T'en fais pas, je vais t'apprendre.
+
+GERDA	(ah-hah !) (hoh !) (hoh... hoh...) (respi peur)_ (mmmh) (oh-hoh !)
+
+ROLLAN	(huh)_
+
+GERDA	(hoh !) (sourire gêné) (h\)_
+
+(BOUCLE 33 - 01:20:29:04)
+		33
+
+ROLLAN	(Ooooooohhhhh...) (hmm) (huh ?) (huh !) (oh ! euh euh euh oh ! euh euh... euheuheuh ! mmhmmhmmhmmh !)
+
+GERDA	(h/)_(mmhmmhmmh !) (mmh !) (mmh !)_
+
+ROLLAN	(hoh !)
+
+shaman	Hé_dashalan, dashalan !
+
+attendants	Hé_dashalan !
+
+ROLLAN	(huh !)
+
+GERDA	(h/)_
+
+ROLLAN	(huh)_ Regarde, deux pierres ! Ils ne parlent que d'une seule dans la légende. Et on en a deux !
+
+GERDA	On dirait plutôt deux pierres maléfiques, tu as vu cette statue ? Elle me fait peur.
+
+ROLLAN	(h/)_
+
+(BOUCLE 34 - 01:21:04:23)
+		34
+
+ROLLAN	Tu n'as aucune raison d'avoir peur.
+
+attendants	Hé_, dashalan dashalan ! Hé_, dashalan dashalan ! Hé_, dashalan dashalan !
+
+ROLLAN	Elle est juste là pour faire peur aux touristes ! Mais nous, on est de vrais pros. (huh !) (effort)_ (effort)_ (effort)_ Elle est coincée. (h/)_
+
+GERDA	(huh !)
+
+GERDA / ROLLAN	(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !) (aaaah !) (mmh !) (hoh...)
+
+GERDA	(huh)_ (huh !)
+
+ROLLAN	(hoh !)_ (huh !) (huh)_ (h/)_ (huh)_
+
+(BOUCLE 35 - 01:21:41:04)
+		35
+
+ROLLAN	On est peut-être tombés dans un piège.
+
+GERDA	Je ne vois rien.
+
+ROLLAN	Je vais aller voir. (huh !)
+
+GERDA	Rollan !
+
+ROLLAN	(huh !) Gerda !
+
+GERDA	Qu'est-ce qui se passe ?
+
+ROLLAN	(huh !) (huh !) (huh)_ (euh)_
+
+GERDA	Rollan ! Rollan !
+
+ROLLAN	(huh !)
+
+GERDA	Réponds-moi, est-ce que ça va ?
+
+ROLLAN	Je vais bien. T'en fais pas pour moi. Et toi, ça va ?
+
+GERDA	Oui, ça va, merci. Je ne comprends rien. Qu'est-ce qui se passe ici ?
+
+ROLLAN	Tu vois quelque chose autour de toi ?
+
+GERDA	Oui, j'ai trouvé quelque chose !
+
+(BOUCLE 36 - 01:22:20:18)
+		36
+
+GERDA	(effort)_ (effort)_ (huh !) (mmmmh!) (huh !) (Ooooohooooooohoooooh) (Ooooohoooooh) (huh ?)
+
+ROLLAN	Qu'est-ce que tu as trouvé ?
+
+GERDA	(euh...)_ Je ne sais pas encore. (huh !) (Euh...)_
+
+ROLLAN	(huh !) (huh !)
+
+(BOUCLE 37 - 01:22:54:03)
+		37
+
+ROLLAN	Qu'est-ce qui se passe ? Gerda ?
+
+GERDA	(huh !)
+
+ROLLAN	(huh ?) (aouch !) (Aaaaaaaaaaaaaaah !) (ouh ! ah ! Euh ! ah ! ouh ! ah ! ouh ! aïe_ ! ouh_ ! )
+
+GERDA	(hoh !)_ (h\)_
+
+ROLLAN	(wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou ! wou !)
+
+GERDA	(euh...)_ (huh !) (h/)_ (huh !) (huh !) (huh !) (euheuheuh...)_ Peut-être ça.
+
+ROLLAN	(Aaaaaaaaaaaaaaaaaaah !) (aïe, aïe, aïe, aïe, aïe, aïe !)
+
+GERDA	Je vais te sortir de là, Rollan ! Tiens bon !
+
+ROLLAN	(ouille, ouille, ouill, aïe, aïe, aïe ! oh ! Oh ! )
+
+GERDA	(effort)_ (effort)_
+
+ROLLAN	(huh !) (huh)_
+
+(BOUCLE 38 - 01:23:26:09)
+		38
+
+ROLLAN	(h/)_ (souffle)_ (hmm ?) (ouille ouille ouille) (h\)_ (huh !) (oh !) (huh !) (aïe !)_ (argh !) (huh !) (Aaaaaaaaaaaaaah!) (Ooooooh !) (huh !) (aïe, aïe, aaaaaaaaaaargh !)
+
+GERDA	(mh)_
+
+ROLLAN	(Aaaaaahaaaah !) (huh)_ (huh)_ (huh)_ Non, non, non, non ! Gerda ! Au secours ! (Oooooooorgh) (aaargh) (ouh ! huh !) (ouh !) (Aaaaaah !) (Ooooh...) (aïe, aïe, aïe, aïe, aïe, aïe, aïe...)
+
+GERDA	(Aaah !)
+
+ROLLAN	(Ooooooh !) (huh !)_ (h\)_ (huh !) (wooooaaah !) (orgh) (hoh !)
+
+(BOUCLE 39 - 01:24:10:08)
+		39
+
+ROLLAN	(sourire)_
+
+GERDA	(soupir)_
+
+ROLLAN	(respi soulagement)_
+
+GERDA	(souffle)_ (h\)_ (huh !) (oh-ho)
+
+ROLLAN	(huh ?!) (Aaaaaaaah !) (huh !) (hah !)
+
+GERDA	(huhuhuhuhuhuhuh...)
+
+ROLLAN	(douleur)_
+
+GERDA	Rollan, est-ce que ça va ?
+
+ROLLAN	Merci de m'avoir sauvé la vie.
+
+GERDA	(euh...)_ Oh, de rien.
+
+ROLLAN	(huh...)_
+
+(BOUCLE 40 - 01:24:38:09)
+		40
+
+GERDA	(hoh...)_ Wouahou !
+
+ROLLAN	C'est magnifique...
+
+GERDA	Je n'ai jamais rien vu de si beau... Tu avais déjà entendu parler de cet endroit ?
+
+ROLLAN	Non...
+
+GERDA	Moi non plus.
+
+ROLLAN	Peut-être que personne n'est jamais sorti vivant d'ici. (h/)_
+
+(BOUCLE 41 - 01:25:28:11)
+		41
+
+ROLLAN	(hoh !)_ Gerda, regarde ! La pierre aux souhaits ! Je n'arrive pas à y croire ! On a réussi ! On l'a trouvée !
+
+GERDA	(h/)_ Chère pierre à souhaits, fais vite revenir mes parents s'il te plaît.
+
+ROLLAN	Glaciem. Versus Ignis !
+
+GERDA	(huh !) (AaaaAaaaah !)
+
+ROLLAN	(souffle_ souffle_)
+
+(BOUCLE 42 - 01:26:11:00)
+		42
+
+GERDA	Qu'est-ce qui se passe ?
+
+ROLLAN	Je ne sais pas du tout !
+
+GERDA / ROLLAN	(Aaaaaaaah !)
+
+ROLLAN	(haaaah) (huh !)
+
+SNOW QUEEN / FIRE KING	Tu deviendras chaud comme le feu,            ou froid comme la glace,             et cette force maléfique cachée au fond de toi             deviendra ton esclave.             Mais au moment où l'étoile du Nord apparaîtra dans le ciel            cette force démoniaque             fera de toi son esclave !
+
+GERDA / ROLLAN	(huh !) (haaaah !) (douleur)_ (huh) (huh !) (effort)_ (effort)_ (effort)_
+
+GERDA	(hoh !)_ (huh !) (huh !)
+
+ROLLAN	(huh !)
+
+GERDA	(effort)_
+
+SNOW QUEEN / FIRE KING	(écho)_
+
+GERDA	La Reine des Neiges !
+
+ROLLAN	(Aaaaaaaah !) (huh !) (euh ah! tagada ! huh ! Gnnnnnn... Aaaaaaaaaaaaaah !)
+
+GERDA	(hoh !) (uh-huh)_ (hah) (mhuh)_
+
+(BOUCLE 43 - 01:26:48:12)
+		43
+
+SNOW QUEEN	Dès que l'étoile du Nord brillera dans les Cieux,
+
+GERDA	(h/)_
+
+SNOW QUEEN	mon Règne sur cette Terre n'en sera que plus glorieux !
+
+GERDA	(h/)_ (hah !)_
+
+SNOW QUEEN	(rire démoniaque)_
+
+GERDA	(respi course)_
+
+SNOW QUEEN	(huh !)_ (huh)_ (Ooooooooh...) (Aaaaaaargh !)
+
+GERDA	(huh !) (mh)_
+
+(BOUCLE 44 - 01:27:12:19)
+		44
+
+Hippie	Yaaaaah Euh_ Yaaaah man ! (rire)_ Sitting out on his co-co-nut ! (rire)_ watching dudes fishing by the moonlight !
+
+fisherman	(mmmh)
+
+Hippie	With my horse of course, it feels all right !
+
+fisherman	(huh !) (Aaaaaaaaaaaaaaaaaaaaaah !)
+
+Hippie	Yo, man !
+
+fisherman	(Aaaaaaaaaaaaaaaaaaaah !)
+
+Hippie	Yo ! Faut croire qu'il aime pas le reggae.
+
+trolls	Aaaaaaaaaaaaaaaaaaaaaaaaaah !
+
+Hippie	Faut croire que personne aime le reggae ici...
+
+(BOUCLE 45 - 01:27:53:21)
+		45
+
+troll	ah-ha... (course ah-ha-) (Aaaaaaaaaaaaah !)
+
+troll 2	(baîlle)_
+
+troll	(Aaaaaaaaaaaaaaaaaaaargh !)
+
+troll 2	(bâille)_
+
+troll	(huh)_
+
+troll 2	(huh ??)_
+
+troll	(rire)_ (huh)_
+
+troll 2	(hmm)
+
+troll	(Aaaaaaaaaaah !)
+
+troll 2	(Aaaaaaaaaaaaaah !)
+
+(BOUCLE 46 - 01:28:21:06)
+		46
+
+shaman	Dashalan... (huh !) (hoh...)_ (hoh !)_ (oh-ho) (hoh !)_ (gggggrrr...) (h/)_ (huh !) (huh)_ (effort)_ (réacs panique)_
+
+(BOUCLE 47 - 01:29:01:07)
+		47
+
+GERDA	(huh)_ (oh...) (hou...)_ (oh...) (huh !) (hoh !) (oh !)_ (Oooooh !) Rollan ! Rollan, est-ce que ça va ?
+
+ROLLAN	(huh...)_ (hah) J'en suis pas sûr. (huh !)
+
+GERDA	(huh !) (Oh...)_ (hoh ?)
+
+ROLLAN	(hoh !) (huh) (huh !) (tousse-tousse !)
+
+GERDA	Oh, mais...
+
+ROLLAN	(h\)_ Trop génial !
+
+(BOUCLE 48 - 01:29:39:01)
+		48
+
+ROLLAN	Gerda, est-ce que c'est toi ? J'ai eu très peur. Tu... Tu, tu ressembles à la Reine des Neiges.
+
+GERDA	(h/)_
+
+ROLLAN	Comment tu as fait ça ?
+
+GERDA	Euh_
+
+ROLLAN	Hein ? Mais quoi ?
+
+GERDA	(h/)_
+
+ROLLAN	Pourquoi tu me regardes comme si j'avais la tête en feu ?
+
+GERDA	(mhuh...)_
+
+ROLLAN	(hah !)
+
+GERDA	(Aaaaaah !)
+
+ROLLAN	Qu'est-ce qui nous est arrivé ? C'est bien moi dans le miroir ?
+
+GERDA	Je ne comprends pas du tout ce qui s'est passé. Je lui ai seulement demandé de faire revenir mes parents.
+
+ROLLAN	C'était tes parents ? Tu aurais dû me le dire plus tôt !
+
+GERDA	(hoh !) Ne sois pas stupide ! On dirait que la Reine des Neiges m'a possédée et qu'un genre de démon du feu est entré en toi.
+
+ROLLAN	En moi ? Un démon ? Oh mais quelle horreur !
+
+(BOUCLE 49 - 01:30:18:08)
+		49
+
+ROLLAN	(h/)_ (huh !)_
+
+GERDA	(huh !)_
+
+ROLLAN	(h/)_
+
+GERDA	(h/)_ Qu'est-ce qu'on va faire maintenant ?
+
+ROLLAN	J'en sais rien du tout.
+
+GERDA	(h\)_
+
+little snow queen	(bâille)_
+
+GERDA	(hoh !)_
+
+little snow queen	(rire)_
+
+ROLLAN	(Oh...)_
+
+little snow queen	(rire)_
+
+GERDA	(hoh !)_ (huh !)_ (hahah !)_
+
+ROLLAN	(hoh !)_ (rire)_ (souffle)_
+
+little fire king	(huh...)
+
+little snow queen	(hoh !) (rire b.f.)_
+
+little fire king	(hoh !)_ (oh... aba-aba) (oh-hoh !)_ (h/)_ (oh...)_ (euh...)_ (hoh !)_ (Ohooooooh)
+
+(BOUCLE 50 - 01:31:17:10)
+		50
+
+GERDA	(hoh...)_ J'ai peur qu'on n'arrive jamais à réaliser nos rêves...
+
+ROLLAN	(ahah) Et maintenant ?
+
+embers	(repiquer VO ?)
+
+ROLLAN	(Aaaaah !) (Aaah...)
+
+GERDA	(Oooh...)_
+
+little fire king	(peur) (h/)_ (hoh ?) (douleur)_ (respi course peur)_
+
+(BOUCLE 51 - 01:31:53:11)
+		51
+
+ROLLAN	(huh ?) (huh !) (euheuh...) (huh !) (Mmmh !)
+
+GERDA	Il y a très longtemps, Orm était le serviteur de la Reine des Neiges. Il sait sûrement ce qui nous est arrivé. Il va pouvoir nous aider.
+
+ROLLAN	Tu en es sûre ?
+
+GERDA	Absolument ! Et si jamais j'apprends que c'est lui qui t'a parlé de cette Pierre aux Souhaits, je vais le...
+
+ROLLAN	(huh !) Euh... D'accord. (rire)_ (huh)_ (huh !) (huh)_
+
+(BOUCLE 52 - 01:32:18:14)
+		52
+
+ORM	(mmh-hmm) (mmmh) (rrrrrroh-gggna-gggrrrrrr-Yaaaaaaaaaah !) (bâille)_ (hah) (huh)_ (hein ?!)_
+
+dictor voice	En haut, en bas, en haut, en bas. En haut, en bas. Très bien ! Et maintenant, on s'étiiiiiiiiiiiiire !
+
+ORM	(huh)_
+
+dictor voice	Le dos bien droit. On bombe bien le torse !
+
+ORM	(mmmmh !) (effort)_ (mmh-mmh-mmh-mmh !)
+
+dictor voice	Et maintenant, on va travailler les fessiers !
+
+ORM	(blrblrblrblr)
+
+dictor voice	Et un, et deux, et un, et deux, et un, et deux, on serre les fessiers !
+
+ORM	(mh)
+
+(BOUCLE 53 - 01:33:08:00)
+		53
+
+ORM	(effort)_ (huh !) (hoh ?) (huh) (mmh-hmm) (effort)_ (effort)_ (effort)_ (rah !)_ (huh)_ (uh-huh) (aargh !) (effort)_ (effort)_ (h/)_ (Ggggrrrr !)
+
+troll kids	(rires)_
+
+ORM	(huh ?) Qu'est-ce que j'entends ? Hein ?
+
+Lokum	(rire)_
+
+Rahat	(huh !) Oh, c'est vraiment trop super...
+
+troll kids	Tonton Orm !
+
+Rahat	Tiens, salut, toi, dépêche, viens te baigner avec nous !
+
+baby Orm 2	(huh !)
+
+baby Orm 1	(huh !)
+
+ORM	Pouaaaah !
+
+baby Orm 1	(chahute)_
+
+ORM	C'est quoi cette puanteur ?
+
+Lokum	(hah...)_ Oh, c'est le pied.
+
+baby Orm 3	atchoum
+
+Rahat	Non, c'était pas moi !
+
+Lokum	(rire b.f.)_
+
+Rahat	(huh !)
+
+ORM	(hoh...)_
+
+Lokum	Moi non plus !
+
+ORM	(huh !) Alors qui ? (huh !)
+
+Rahat	(hoh !)_
+
+Lokum	(huh !)
+
+Rahat	(huh !) (hein ?)
+
+Lokum	(hein ?)
+
+ORM	(Aaaaaaaaaaah !)
+
+troll kids	(rires)_
+
+Rahat	(huh !) (rire)_
+
+Lokum	(h/)_
+
+troll kids	(aaaaaaaaaaaaaaaaah !)
+
+ORM	(aaaaaaaaaaaaah !) (huh !) Wouaaaaaaah !
+
+baby Orm 1	(rire)_
+
+ORM	(aaaaaaaaaaaaaaaah !) (ouf...)_
+
+baby Orm 1	(oh...)_
+
+troll kids	(ahahah !)
+
+Lokum	(huh !)
+
+Rahat	(huh)_
+
+baby Orm 2	(rire)_
+
+Rahat	(huh !)
+
+(BOUCLE 54 - 01:34:21:19)
+		54
+
+GERDA	(mh)_
+
+ROLLAN	Tu crois qu'on est toujours dans la zone interdite ?
+
+GERDA	Aucune idée. Ne parle pas si fort.
+
+shaman	Votre Majesté, il faut à tout prix annuler cette célébration ! Et nous devons réfléchir à un moyen de sauver nos vies !
+
+ARROG	On ne peut pas échapper à son destin. Evitons de répandre la panique !
+
+shaman	Mais quelqu'un n'a pas hésité à réveiller l'ancienne malédiction du Lac Gao ! Le monde court un grand danger !
+
+ARROG	Il y a bien longtemps, mon grand-père est mort sur le champ de bataille en tentant de combattre cette malédiction. Les trolls ont bien failli ne pas y survivre, et aujourd'hui, on m'offre enfin une chance d'accomplir le destin de mon aïeul !
+
+(BOUCLE 55 - 01:35:00:08)
+		55
+
+shaman	Quel est donc l'idiot qui s'est aventuré dans les grottes interdites ?
+
+GERDA	(h/)_
+
+ARROG	Nous devons le trouver avant qu'il ne soit trop tard ! Mais comment ?
+
+shaman	Nous le reconnaîtrons dès qu'il paraîtra devant nous !
+
+ARROG	Alors cherchez-le ! Pendant ce temps, j'irai voir mon peuple et j'essaierai de le calmer.
+
+(BOUCLE 56 - 01:35:24:04)
+		56
+
+GERDA	Qu'est-ce qu'on a fait Rollan ? (h/)_ Allons vite chez Orm ! Il faut que tout redevienne comme avant !
+
+ROLLAN	(mh)_
+
+GERDA	Mais fais très attention, il ne faut pas qu'on se fasse remarquer. (soupir)_ Comment on va faire pour passer inaperçu dans les rues ? Avec ta tête en feu, tu n'iras pas loin.
+
+ROLLAN	Et toi, tu es absolument ravissante.
+
+GERDA	Ca c'est sûr. Attends, et pour tes cheveux !
+
+(BOUCLE 57 - 01:35:55:03)
+		57
+
+troll magician	(mmh-hmm) (mmh-hmm) (mmmh)
+
+ROLLAN	(rire)_
+
+little fire king	(hah...)_ (huh !) (rire)_
+
+little snow queen	(mmh ?) (mmh !) (h/)_
+
+little fire king	(ahahahahah) (ah)
+
+troll magician	(hmm !)
+
+trolls	(rires)_
+
+troll magician	(huh !)_ (mmmh) (huh !) (euh...euh... euh... euh... euh...)_ (rire gêné) (sourire)_
+
+trolls	(rires plus forts)_
+
+ROLLAN	(rire)_
+
+troll magician	(huh)_ (mmmh) (huh !)
+
+(BOUCLE 58 - 01:36:44:05)
+		58
+
+ROLLAN	Profitez de ces tours. Gerda, regarde... (ah !)_ Oh, ça fait mal ! (douleur)_
+
+GERDA	Arrête !
+
+ROLLAN	(hoh...)
+
+GERDA	C'était juste un peu d'eau.
+
+ROLLAN	De l'eau ? (hoh !)_ (huh...) Tu m'as fait trop mal...
+
+GERDA	Oh, pitié, n'attire pas l'attention sur nous. Si tu continues à chouiner, on va se faire remarquer !
+
+ROLLAN	(huh !)
+
+troll guard	(Hmmm ?!) (h/)_ (mmh-hmm)
+
+(BOUCLE 59 - 01:37:10:23)
+		59
+
+ROLLAN	(Pppffiou !) On est passés carrément inaperçu.
+
+GERDA / ROLLAN	(hoh ?!)_
+
+ARROG	Gerda !
+
+shaman	(hoh !)_ Votre Majesté,
+
+ARROG	(mmmh !)
+
+shaman	les voilà !
+
+ARROG	(huh)_
+
+shaman	Les coupables ! Ils sont juste là !
+
+ARROG	(mmmh) (mmh-hmm)
+
+GERDA	(h/)_
+
+ROLLAN	(h\)_
+
+GERDA	Attention mesdames et messieurs, trolls de tous âges, bienvenue à notre seule et unique représentation dans votre jolie ville ! Le Feu et la Glace ! Avec dans le rôle principal, le légendaire maître du feu :
+
+ROLLAN	(euhm) (sourire)_ (h/)_ (rire gêné)_
+
+trolls	(Ouais ! Bravo !)
+
+ROLLAN	(ha...) Euuuuuuuuuuuuuh euuuuuuuuh (sourire)_
+
+GERDA	le Grand Rollan !
+
+ROLLAN	Euuuuuuh ?
+
+shaman	(se débat)_
+
+ARROG	(Aargh !) Balivernes ! C'est Gerda ! La jeune fille qui nous a sauvés de la Reine des Neiges.
+
+trolls	(Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda ! Gerda !)
+
+GERDA	(ah-ha !) J'ai toujours su garder la tête froide ! A toi de jouer maintenant. Tu les occupes pendant que je trouve une issue.
+
+ROLLAN	(rire)_
+
+(BOUCLE 60 - 01:37:54:15)
+		60
+
+ROLLAN	(Euh...)_ (euh...)_ (grosse expi)_ (souffle) (souffle)_ (huh !) (euheuheuh...) (oooh)_ (oohooh oohooh) (aaaah) (aaah-aaah aah-aah euh_ aah-aah) (euh_ohoh) (ouh) (douleur)_
+
+GERDA	(huh !)
+
+trolls	(Oh...)_ (rires)_
+
+ARROG	Il ne fallait pas s'attendre à autre chose de la part de ce balourd !
+
+MARIBEL	(rire)_
+
+ROLLAN	(mmmh) (mhuh)_
+
+GERDA	Rollan !
+
+ROLLAN	(huh !)
+
+GERDA	C'est bien, continue.
+
+troll in audience	(huh !)
+
+troll 3	Rollan la légende ! Oui... Moi je dirais plutôt Rollan le Loser !
+
+troll in audience	(rire)_
+
+(BOUCLE 61 - 01:38:40:14)
+		61
+
+trolls	(hoh...)_ (Ooooooooooooh !) (oooooh !)
+
+shaman	C'est lui !
+
+trolls	(Oooooh !)_
+
+MARIBEL	(hoh !)_
+
+trolls	(Oooooh !)_
+
+shaman	(Ooooh !)
+
+troll 3	(hohoh !!)
+
+(BOUCLE 62 - 01:39:23:02)
+		62
+
+GERDA	(huh !)
+
+trolls	(huh !)_
+
+MARIBEL	(huh !)
+
+ARROG	(huh !)
+
+troll 3	(huh !)
+
+ROLLAN	(h\)_
+
+GERDA	(h/)_
+
+ROLLAN	(h/)_
+
+GERDA	(rire)_
+
+ROLLAN	(h\)_ (h/)_ (h\)_
+
+troll 4	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !!!)
+
+GERDA	(rire)_
+
+shaman	Capturez-les !
+
+MARIBEL	(Aaaah !)
+
+GERDA	Cours !
+
+ROLLAN	(huh !) (huh !)
+
+GERDA	Dépêche-toi !
+
+ARROG	Attrapez-les. Je dois savoir ce qui se passe ! Le temps du Chaos et de l'Anarchie est-il venu ?
+
+guard	(huh)_
+
+guard 2	(huh !)
+
+guard 3	(huh !)
+
+ROLLAN	(respi course)_
+
+GERDA	(respi course)_ (hmm !)
+
+ROLLAN	(huh !)
+
+(BOUCLE 63 - 01:40:04:18)
+		63
+
+banana guard	(h/)_ (aaaaah)
+
+GERDA	(huh)_
+
+ROLLAN	(huh)_
+
+GERDA	Dépêche-toi !
+
+guard 4	(Aaaaaah !)
+
+guard 5	(huh !)_
+
+guard 6	(aouch)
+
+GERDA	C'est fini, on est pris au piège !
+
+boxer guard	Aaaaaargh !
+
+ROLLAN	Ne bouge pas ! (h/)_
+
+(BOUCLE 64 - 01:40:54:09)
+		64
+
+ROLLAN	(huh)_
+
+GERDA	(huh)_
+
+boxer guard	huh
+
+ROLLAN	Ne pose pas de question.
+
+GERDA	(rire)_
+
+(BOUCLE 65 - 01:41:16:02)
+		65
+
+guards	(Allez, on se dépêche, le temps presse)
+
+ROLLAN	On va prendre cette caravane pour quitter la ville. Regarde, et retiens bien la leçon. Dites, monsieur. Vous nous emmenez ?
+
+Hippie	Tiens, salut, Gerda, comment ça va la vie ?
+
+GERDA	Ca pourrait aller mieux. Tu veux bien nous emmener chez Orm, c'est très urgent.
+
+Hippie	(rire)_ Allez-y, montez, on va mettre les bouts. Personne n'aime le reggae ici.
+
+guards	Allez, on s'active ! Il faut les retrouver avant qu'ils ne quittent la ville !
+
+(BOUCLE 66 - 01:41:41:16)
+		66
+
+ARROG	Je n'arrive pas à croire que c'était Gerda. Elle nous a sauvé la vie.
+
+shaman	Elle regrette peut-être de l'avoir fait. Vous êtes sûr de ne pas l'avoir offensée d'une quelconque façon ?
+
+ARROG	Vous plaisantez, j'espère ! Vous êtes un shaman, pas un clown ! Qu'est-ce qu'on fait maintenant ?
+
+shaman	Euh... Je n'en sais rien !
+
+ARROG	Vous devriez, pourtant ! Si vous ne savez rien, à quoi me servez-vous ?
+
+shaman	Il existe bien un moyen sérieux de tout arranger, c'est vrai...
+
+ARROG	Découvrez ce qui s'est passé et faites-moi parvenir votre rapport ! Il ne vous reste que quelques heures avant la nuit. Si vous échouez, vous jouerez les fous du roi pour le reste de votre vie.
+
+shaman	(huh !) (Ppppppfffffffff !)
+
+(BOUCLE 67 - 01:42:24:22)
+		67
+
+little fire king	(repiquer VO)
+
+little snow queen	(repiquer VO)
+
+troll 6	Haaaaaah !
+
+embers	(repiquer VO)
+
+(BOUCLE 68 - 01:43:49:16)
+		68
+
+GERDA	Je me demande où Kaï a bien pu aller.
+
+ROLLAN	Il a dû se rendre compte qu'il avait eu tort et fait demi-tour.
+
+ALFIDA	Tu es sûr que c'est la bonne décision ? Tu ne veux vraiment pas faire demi-tour et dire au revoir ?
+
+KAI	Non. J'ai déjà pris ma décision. Elle n'a pas besoin de moi, et je n'ai pas besoin d'elle non plus. Je suis enfin libre comme le vent !
+
+(BOUCLE 69 - 01:44:08:11)
+		69
+
+ORM	Vite !
+
+troll kids	(huhuh)_
+
+ORM	Chaque minute compte ! Ne prenez que le nécessaire !
+
+ROLLAN	Gerda, je t'en prie, ne sois pas si triste. Il n'a nulle part où aller, il reviendra vers toi.
+
+KAI	Je serai le premier peintre pirate de toute l'histoire ! Je peindrai les grandes batailles navales !
+
+troll kids	(chahutent)_
+
+ORM	Vous ne pouvez jamais tenir en place !
+
+troll kids	(fin)
+
+KAI	Gerda... Ca m'est complètement égal, ce qui peut bien lui arriver maintenant.
+
+ROLLAN	Cet engin ne peut pas aller plus vite ?
+
+Hippie	Désolé, mon frère y'a que la fin du monde qui f'rait courir mon bon vieux Honey plus vite.
+
+troll kids	(chahutent)
+
+ORM	Le voilà, enfin ! Allons-y les enfants !
+
+(BOUCLE 70 - 01:44:48:08)
+		70
+
+GERDA	(hoh !)
+
+ROLLAN	(hoh...)
+
+Hippie	(huh)
+
+KAI	(hoh !)
+
+ALFIDA	(hoh !)_
+
+KAI	Gerda ! Nooooooooooooooooooon !
+
+ALFIDA	Kaï !
+
+Hippie	Oh-oooooh... On devrait peut-être attacher nos ceintures...
+
+(BOUCLE 71 - 01:45:22:06)
+		71
+
+troll kids	Woooooooooooooooooooouh !
+
+ORM	Ooooooh !
+
+GERDA	(huh)_ Vous êtes vivants ! Oh, Dieu merci, vous allez bien. Mais, où est Kaï ?
+
+ORM	On est encore en vie, mais pas pour très longtemps !
+
+GERDA	Quoi ?
+
+ORM	Ravin, droit devant !
+
+Hippie	Moi, y'a jamais rien qui me prend la tête, man, je suis un vrai Maître de la Zénitude Attitude...
+
+Rahat	Haaaaaaaaaaaaaaaah
+
+Lokum	Hooooooooooh
+
+ROLLAN	Gerda !
+
+troll kids	Ouais !
+
+ORM	Haaaaaah !
+
+(BOUCLE 72 - 01:46:23:19)
+		72
+
+Lokum	(Aaaaaaaaaaaaaaaaaaargh)_
+
+Rahat	(Aaaaaaaaaaaaaaaaargh)_
+
+baby Orm 1	Hourra ! Hourra ! Hourra !
+
+troll kids	(rires)_
+
+GERDA	Tout le monde va bien ?,
+
+Rahat	(uh-huh...)_
+
+(BOUCLE 73 - 01:46:49:17)
+		73
+
+ORM	(Hmmmmmmmm)_
+
+baby Orm 2 et 3	(effort)_
+
+baby Orm 1	Hourra ! Hourra !
+
+GERDA	Où est Kaï ?
+
+ORM	Il a pris la mer avec Alfida. (hoh...) J'espère qu'ils vont bien.
+
+Rahat	(mmmmh-hmmm)_
+
+ORM	(claque des dents)_ Sers pas si fort... (claque des dents)_
+
+GERDA	Merci, Rollan.
+
+(BOUCLE 74 - 01:47:24:15)
+		74
+
+ORM	Euh... Quelqu'un pourrait-il m'expliquer ce qui se passe ici ? Pourquoi tu es toute gelée, et pourquoi lui il tout brûlant, et pourquoi moi je suis tout perdu ?
+
+GERDA	C'est ce qu'on voudrait savoir ! Est-ce que c'est toi qui as parlé à Rollan de la Pierre aux Souhaits ? C'était encore une de tes blagues ? Parce que comme tu peux le voir, personne ne rigole !
+
+ORM	Je lui aurais dit quoi ? Je n'ai jamais entendu parler d'une telle pierre de toute ma vie !
+
+Rahat	(huh !)
+
+GERDA	Rollan, donne-moi ce dessin !
+
+ROLLAN	Euh... Euh. Euh, je l'ai perdu. Ou brûlé par accident. Je ne me souviens plus. Quatre-vingt pour cent de chance que je l'ai perdu et vingt que je l'ai brûlé.
+
+GERDA	Aaaargh ! La Pierre aux Souhaits ! Dans la grotte interdite !
+
+ORM	(huh)_
+
+GERDA	Sous le lac Gao !
+
+Hippie	Oh ! Oh, vous me fichez les j'tons les mecs...
+
+(BOUCLE 75 - 01:48:05:12)
+		75
+
+GERDA	On l'a trouvée !
+
+ORM	(hoh !)_
+
+GERDA	Mais... On n'a pas eu ce qu'on avait demandé, à la place, les esprits de la Reine des Neiges et du Roi du Feu sont sortis de la Pierre aux Souhaits et nous ont possédé, Rollan et moi !
+
+ORM	(Aaaaaaaaaaaaaaaah !)
+
+Hippie	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !) Cours, mon vieux Honey, l'apocalypse est en marche !
+
+Rahat	(hé !)_
+
+ROLLAN	Apparemment, il n'est pas aussi zen qu'il le croit.
+
+ORM	Pourquoi vous êtes allés dans les grottes interdites ? Vous ne vous êtes pas dit qu'on les avait interdites pour une bonne raison ?
+
+GERDA	On parlera de ça plus tard, réfléchissons plutôt à ce qu'on va faire maintenant.
+
+ORM	Et comment je le saurais ? Tu me prends pour WikiOrm ?
+
+GERDA	J'étais sûre que tu pourrais nous aider.
+
+ORM	Je pourrais peut-être... mais je n'ai pas la moindre idée de ce qui a pu vous arriver.
+
+GERDA	(hoh...)_
+
+(BOUCLE 76 - 01:48:45:15)
+		76
+
+ORM	Qu'est-ce que tu as ? Mais enfin, qu'est-ce qui vous arrive ?
+
+ROLLAN	On perd notre temps, Orm, voilà ce qui nous arrive. Quand l'étoile du Nord prendra sa place, là-haut, dans le Ciel, nous nous transformerons pour toujours. On dirait qu'on est condamnés.
+
+ORM	Non, mais est-ce que tu es sérieux ? Si tu faisais un peu plus attention, il ne t'arriverait pas tous ces malheurs ! Tu crois toutes les bêtises qu'on te raconte ! On dirait un vrai bébé ! Tu devrais passer plus de temps à la bibliothèque à te cultiver un peu !
+
+ROLLAN	Alors tout est de ma faute ? C'est toi qui m'a raconté toutes ces histoires !
+
+GERDA	Attends, il y a une bibliothèque dans votre Royaume ?
+
+ORM	Bien sûr, qu'est-ce que tu crois ? On est des trolls, pas des gobelins complètement illettrés.
+
+GERDA	Il y a des recueils sur les légendes ?
+
+ORM	Non que des mangas et des bandes dessinées.
+
+(BOUCLE 77 - 01:49:29:08)
+		77
+
+ORM	Bien sûr qu'il y a des recueils de légendes, enfin ! Toutes les légendes de trolls sont recensées là-bas.
+
+GERDA	Alors dépêchons-nous ! Allons faire un tour à la bibliothèque !
+
+ROLLAN	Mais comment ? Même si on y arrive avant le coucher du soleil,  on se fera arrêter dans la seconde. On est les personnes les plus recherchées du royaume !
+
+GERDA	Ne t'en fais pas, on trouvera un moyen d'entrer. C'est notre seul espoir.
+
+(BOUCLE 78 - 01:49:55:23)
+		78
+
+ORM	(hoh...)_
+
+ROLLAN	Oooohh... Non, mais regardez ça ! Tu as fabriqué une locomotive en glace ! Trop la classe ! On va défoncer les portes de la ville et entrer comme des lions dans l'arène ! Tiens, tiens, Prends ça ! Gare à toi ! Je suis le Grand Rollan !
+
+troll kids	(chahutent)
+
+ROLLAN	Tatata ! Ha ha ! Ouhouhouhouh ! Ah ! Oh...
+
+GERDA	La locomotive servira à faire diversion pendant qu'on entrera dans la bibliothèque. En voiture ! Vos numéros de siège sont sur vos billets.
+
+(BOUCLE 79 - 01:51:14:20)
+		79
+
+Hippie	(huh !)
+
+troll kids	(blblblblbllblblbl)_
+
+GERDA	(huh)_
+
+ROLLAN	(oh...)_
+
+(BOUCLE 80 - 01:51:33:21)
+		80
+
+trolls	(brouhaha peur)
+
+ARROG	Dépêchez-vous. Il nous faut plus d'eau. Faites vite !
+
+MARIBEL	Mon Roi ! Dites-leur d'éteindre ce feu tout de suite ! Je dois à tout prix sauver cette adorable paire de chaussures ! (h\)_
+
+ARROG	Plus vite ! Nos trolls ont-ils retrouvé Gerda ?
+
+shaman	On la cherche mais il nous faudrait beaucoup plus de trolls. La moitié de la ville est en feu !
+
+ARROG	Si on ne les retrouve pas bientôt, c'est le monde tout entier qui sera dévoré par les flammes. Vite, ils s'enfuient ! Arrêtez-les !
+
+MARIBEL	Vous oubliez mes chaussures !
+
+(BOUCLE 81 - 01:52:15:15)
+		81
+
+ROLLAN	(huh !)
+
+GERDA	(effort)_
+
+ORM	(effort)_
+
+baby Orm 3	ahahahahhahah
+
+shaman	(essoufflé)_
+
+(BOUCLE 82 - 01:52:32:02)
+		82
+
+Lokum	(effort)_
+
+Rahat	(effort)_
+
+Hippie	Un... deux... Un... deux... tirez. Des pirates ? Oh, non... Ils détestent le reggae !
+
+KAI	Sérieux, tu détestes vraiment le reggae ?
+
+ALFIDA	Oh... Je peux pas supporter ça...
+
+KAI	Rahat, tu aurais vu Gerda ?
+
+Rahat	Je ne suis pas sûr que tu aies envie de savoir comment elle va.
+
+(BOUCLE 83 - 01:53:03:10)
+		83
+
+ORM	Wouahou.
+
+troll kids	(hoh !)_
+
+ROLLAN	Tu es sûr que c'est une bibliothèque ?
+
+Rahat	On dirait plutôt une pâtisserie, si tu veux mon avis.
+
+ORM	Excusez-moi, pourriez-vous me dire...
+
+GRANDMA	(mh)_
+
+ORM	Grand-mère ?
+
+GRANDMA	Orm... mon chéri...
+
+ORM	Qu'est-ce que tu fais là ?
+
+GRANDMA	C'est très simple, cette bibliothèque est à moi ! Je m'efforce de prouver une théorie scientifique selon laquelle l'absorption de cookies favorise l'apprentissage de nouveaux savoirs ! Qui est venu avec toi, mon grand ?
+
+(BOUCLE 84 - 01:53:39:20)
+		84
+
+GRANDMA	Ce ne serait pas Gerda ?
+
+GERDA	(mmmh)
+
+GRANDMA	Et qui est ce jeune homme ?
+
+GERDA	Je vous présente Rollan.
+
+ROLLAN	Aaah...
+
+GRANDMA	C'est ton petit-ami ?
+
+GERDA	(rire gêné)_ Non...
+
+ORM	Mamie, où est la section des pierres magiques et des légendes ?
+
+GRANDMA	Il faut aller à la section magie. Faites bien attention et n'oubliez pas d'attacher vos ceintures. Cet ascenseur va vous conduire directement à la section magie.
+
+(BOUCLE 85 - 01:54:13:07)
+		85
+
+troll kids	Oh !
+
+GRANDMA	Qui veut de la soupe et des cookies ?
+
+(BOUCLE 86 - 01:54:19:15)
+		86
+
+GERDA	(mh)_
+
+ROLLAN	(mh)_
+
+ORM	(huh !)
+
+(BOUCLE 87 - 01:55:03:01)
+		87
+
+ROLLAN	(huh...)
+
+GERDA	(huh !) Où sont les livres et les parchemins ?
+
+ORM	On est à la section magie, Gerda. Tu t'attendais à quoi ?
+
+(BOUCLE 88 - 01:55:34:09)
+		88
+
+GERDA	Il y a tellement d'histoires là-dedans. La voilà ! double v-double v-double v-pierre-aux-souhaits-point-troll. Edité par le Professeur Trollolo. Mais enfin, qu'est-ce que ça veut dire.
+
+ROLLAN	Ils ont vraiment écrit n'importe quoi.
+
+ORM	C'est vous les "n'importe quoi". Ca s'appelle un lien. Aidez-moi s'il vous plaît. Je m'occupe du lien et vous du numéro.
+
+GERDA	Le numéro un !
+
+ORM	Je suis prêt !
+
+ROLLAN	Nous aussi ! Et maintenant ?
+
+ORM	Ca aurait dû marcher !
+
+ROLLAN	On perd notre temps !
+
+ORM	Tu as une autre idée ?
+
+(BOUCLE 89 - 01:56:15:02)
+		89
+
+ROLLAN	C'est toi qui nous as traînés ici. Le monde est en grand danger, on n'a plus le temps ! Si on allait à la bibliothèque ?!
+
+ORM	Ggggrr...
+
+GERDA	Arrête un peu.
+
+ROLLAN	Et ensuite, petit génie ? L'aquarium ? Ou le cinéma ? Oh, peut-être un défilé de mode !
+
+ORM	C'est pas ma faute si tu fourres toujours ton nez où tu ne devrais pas !
+
+ROLLAN	Oh, bien sûr, parce que ton museau géant reste toujours à sa place, lui ! Nez-saucisse !
+
+ORM	(hoh !)_ Tu vas voir ce que je vais te faire avec mon nez saucisse !
+
+GERDA	Les garçons...
+
+ROLLAN	Vas-y pour voir. Comment tu veux que je te cuise ton nez-saucisse ? Plutôt saignant, ou bien cuit ?
+
+GERDA	Arrêtez de vous chamailler ! On dirait deux garnements !
+
+(BOUCLE 90 - 01:57:13:08)
+		90
+
+ORM	(h/)_
+
+GERDA	(h/)_
+
+ROLLAN	Wouah
+
+SNOW QUEEN / FIRE KING	Situ veux réveiller les Eléments et voir le monde sombrer dans le chaos, dépêche-toi... Dis "Glaciem, Versus, Ignis !" et touche la Pierre aux Souhaits ! Tu deviendras chaud comme le feu, froid comme la glace, et cette force maléfique cachée au fond de toi deviendra ton esclave. Mais au moment où l'étoile du Nord apparaîtra dans le ciel, cette force démoniaque fera de toi son esclave. Si tu veux libérer ce monde du chaos et enfermer dans cette pierre la force maléfique des Eléments, hâte-toi ! Tu dois retourner à la grotte sacrée, dire "Pacem, bonis, venis !" et toucher la Pierre aux Souhaits !
+
+(BOUCLE 91 - 01:58:26:10)
+		91
+
+GERDA	C'est aussi simple que ça ? Alors il faut faire vite ! Il ne nous reste plus qu'une heure pour agir !
+
+shaman	C'est déjà trop tard ! Arrêtez-les !
+
+ROLLAN	C'est ce qu'on va voir !
+
+shaman	C'est quoi ça ?
+
+ROLLAN	Oh, c'est quoi ça ?
+
+shaman	Une bonne vieille pincée de poivre noir... Rien de magique là-dedans !
+
+GERDA	Laissez-nous partir ! On est très pressés !
+
+shaman	Je connais un moyen très simple pour que les choses redeviennent comme avant.
+
+(BOUCLE 92 - 01:58:59:14)
+		92
+
+GERDA	(huh !)
+
+ARROG	Arrêtez ! Relâchez-les, immédiatement !
+
+guard 6	(huh)_
+
+guard 5	(huh)_
+
+shaman	Vous ne comprenez pas ! Nous allons tous mourir à cause de ces deux-là !
+
+ARROG	C'est vous qui ne comprenez pas. Mon grand-père avait l'habitude de résoudre tous ses problèmes par la force ! Et il a bien failli mener les trolls à une mort certaine. Tandis que Gerda nous a tous sauvés, quand notre pouvoir semblait nous avoir quitté. Je ne suivrai pas les traces de mon grand-père. On ne combattra pas le mal par le mal. Au lieu de ça, nous allons leur venir en aide. Telle est ma volonté.
+
+troll guards	Hourra ! Longue vie à Gerda ! Longue vie au Roi !
+
+shaman	Longue vie au roi...
+
+ARROG	Gerda, je crois en toi de tout mon coeur, et je sais que tu peux encore nous sauver, mais je ne peux pas être aussi sûr de lui.
+
+(BOUCLE 93 - 01:59:51:20)
+		93
+
+ARROG	(h/)_ C'est entendu. Alors il faut vous dépêcher, le soleil va se coucher. Si tu ne réussis pas à le faire à temps, je n'aurais pas d'autre choix que de donner l'ordre d'en finir.
+
+(BOUCLE 94 - 02:00:12:06)
+		94
+
+MARIBEL	Elle est tellement magnifique que j'en ai presque oublié cette paire de chaussures !
+
+troll guards	huh !
+
+MARIBEL	Soldats ! Notre patrie est en danger !
+
+(BOUCLE 95 - 02:00:40:13)
+		95
+
+GERDA	(effort)_
+
+little snow queen	(huh !)
+
+little fire king	(hoh-oh-oh...)_
+
+ROLLAN	(hoh !)_
+
+GERDA	Je suis en train de me changer en Reine des Neiges...
+
+ROLLAN	Tiens bon. Je ne t'abandonnerai pas.
+
+(BOUCLE 96 - 02:01:02:08)
+		96
+
+trolls	(panique)
+
+KAI	Grand-mère Rosa ! Vous savez où Gerda et Orm sont passés ?
+
+GRANDMA	J'ai oublié... Une petite tasse de camomille, les enfants ?
+
+baby Orm 1	(mmh-hmm)
+
+soldier	Par ici !
+
+KAI	Cours !
+
+GRANDMA	Venez, mes petits chéris.
+
+(BOUCLE 97 - 02:01:26:04)
+		97
+
+GERDA	(h/)_
+
+ROLLAN	(mmmh)
+
+GERDA	Pacem, bonis, venis.
+
+SNOW QUEEN	(mmmh)
+
+GERDA	Rollan ! ça a marché ! On a réussi ! Rollan ? Oh, Rollan ! Ca n'a pas marché, la formule n'a eu aucun effet sur toi ! Comment on va s'en sortir ?
+
+ROLLAN	Oh, non ! Comment on va s'en sortir ? La magie n'a servi à rien ! La formule n'a eu aucun effet sur moi.
+
+(BOUCLE 98 - 02:02:22:13)
+		98
+
+ROLLAN	Mais... et si je n'avais pas voulu que la formule ait un effet sur moi ?
+
+GERDA	Quoi ? Je... Je ne comprends plus rien du tout.
+
+ROLLAN	Quand j'étais enfant, je voulais devenir un super héros. Mais en grandissant, je me suis rendu compte que je voulais juste être "super", et que je n'en avais rien à faire d'être un super-héros ou un super-méchant.
+
+GERDA	Mais enfin, de quoi tu parles ? Tu oublies ta maman ? Tu as dit que la seule raison qui t'avait poussé à étudier les légendes était de la retrouver !
+
+ROLLAN	La seule raison que j'avais d'étudier les légendes était de trouver un moyen d'obtenir des super-pouvoirs ! Et maintenant, je les ai !
+
+(BOUCLE 99 - 02:03:01:23)
+		99
+
+ROLLAN	Ma mère va très bien. J'ai menti à son sujet pour obtenir ta confiance.
+
+GERDA	Comment tu as pu mentir à ce point au sujet de ta propre mère ?
+
+ROLLAN	Pour tout te dire, c'est très facile. Quand on sait ce qu'on veut.
+
+GERDA	Tu n'as aucune idée de ce que tu es en train de faire ! Nous devons arrêter ça à tout prix !
+
+ROLLAN	Tu plaisantes ? (rire)_ Tu aurais dû m'arrêter quand tu avais encore tes pouvoirs magiques. Mais tu ne penses toujours qu'à une chose,  l'amour !
+
+GERDA	Tu es complètement aveugle !
+
+ROLLAN	Moi, je suis aveugle ? Tu veux bien me rappeler lequel de nous deux a préféré les conseils d'un étranger à ceux de son propre frère ? Il t'avait mise en garde contre moi. Ce n'est pas pour rien qu'il s'est éloigné d'une fille aussi égoïste que toi !
+
+GERDA	(huh !) Ce n'est pas un don, c'est une malédiction ! Tu n'es plus toi-même ! Cette force diabolique va te détruire ! (haaah !)
+
+(BOUCLE 100 - 02:03:54:19)
+		100
+
+ROLLAN	Non. Cette force diabolique va te détruire ! Et je deviendrai enfin Le Légendaire Rollan ! Pour toujours et à jamais ! (rire)_
+
+GERDA	(hoh...)
+
+(BOUCLE 101 - 02:04:43:00)
+		101
+
+GERDA	(mmh-hmm)
+
+(BOUCLE 102 - 02:05:28:23)
+		102
+
+ARROG	(hmm)
+
+KAI	Orm, tu sais où est Gerda ?
+
+ORM	(euheuheuh...) Elle doit être avec Rollan !
+
+Captain	Halte ! Ne faites pas un pas de plus !
+
+ROLLAN	Je m'appelle Rollan. Et je suis une légende dans ce pays.
+
+guards	(huh !)
+
+shaman	Arrêtez-le avant qu'il ne soit trop tard !
+
+ROLLAN	Il est déjà trop tard !
+
+shaman	Nooooooooon !
+
+(BOUCLE 103 - 02:06:21:19)
+		103
+
+guards	(huh)_
+
+ARROG	(huh)_
+
+ALFIDA	(huh !)
+
+ORM	(huh !)
+
+KAI	(huh !)
+
+shaman	(huh)_ (Aaaaaaaaaaaaah !)
+
+ARROG	A l'attaque !
+
+troll guards	(Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaargh !)
+
+ARROG	Vite, préparez l'artillerie !
+
+(BOUCLE 104 - 02:06:57:06)
+		104
+
+little fire king	Là, là !
+
+little snow queen	(huh)_
+
+GERDA	(pleure)_
+
+(BOUCLE 105 - 02:07:07:07)
+		105
+
+ORM	(respi course)
+
+ALFIDA	(respi course)
+
+KAI	(respi course)
+
+little snow queen	(huh !)
+
+ALFIDA	Il n'y a aucun accès !
+
+KAI	Gerda !
+
+GERDA	(huh !)
+
+KAI	Gerda !
+
+GERDA	(huh !) Kaï ?
+
+KAI	Gerda !
+
+GERDA	Fais demi-tour ! Tu ne peux plus rien faire pour moi ! Tout ça, c'est ma faute. Ne restez pas là ! Sauvez-vous, vite !
+
+(BOUCLE 106 - 02:07:42:23)
+		106
+
+ALFIDA	Elle a raison. Tu ne pourras pas traverser, c'est beaucoup trop dangereux.
+
+GERDA	(hoh !)_
+
+KAI	(effort)_
+
+ORM	(oh...)
+
+(BOUCLE 107 - 02:08:27:20)
+		107
+
+GERDA	(mh)_
+
+KAI	(huh !)
+
+ALFIDA	(h/)_
+
+GERDA	(effort)_ Kaï... Tu es venu à mon secours finalement.
+
+KAI	Tu es ma soeur, voyons, et je serai toujours là pour te protéger.
+
+(BOUCLE 108 - 02:09:26:11)
+		108
+
+ALFIDA	(huh !) (huh !) accrochez-vous ! Je vais vous sortir de là !
+
+ORM	(huh !)
+
+(BOUCLE 109 - 02:09:45:23)
+		109
+
+trolls	(panique)_
+
+ARROG	On fait feu sur le feu ! En avant !
+
+troll kids	Aaaaaaaaaaaaaaaaaaah !
+
+GRANDMA	(hoh !)_
+
+(BOUCLE 110 - 02:10:16:01)
+		110
+
+GERDA	(hoh !)_
+
+KAI	(huh !)
+
+ALFIDA	Est-ce que ça va ?
+
+ORM	(huh !)
+
+troll kids	Aaaaaaaaaaaaagh !
+
+ORM	(Aaaah !)
+
+ARROG	(effort)_ On se replie ! On abandonne le combat !
+
+GERDA	Mais votre Majesté, vous ne pouvez pas battre en retraite !
+
+ARROG	Gerda ?
+
+GERDA	Il faut qu'on l'arrête ! Sinon, il va causer tellement de dégâts que la Reine des Neiges aura l'air d'une petite écolière à côté de lui.
+
+ARROG	Bande d'idiots ! Sauvez la Reine !
+
+MARIBEL	Noooooooooon ! Mon précieux !
+
+(BOUCLE 111 - 02:11:07:22)
+		111
+
+ARROG	effort
+
+GERDA	effort
+
+KAI	effort
+
+troll kids	effort
+
+ORM	effort
+
+KAI	Qu'est-ce qu'on peut lui jeter dessus ?
+
+ARROG	Je ne sais vraiment plus quoi faire. Nos armes ne peuvent rien contre lui.
+
+burning soldier	Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah !
+
+soldier	(h/)_ Merci.
+
+GERDA	(hoh !) Vous n'êtes pas obligé de le vaincre, il faut le court-circuiter !
+
+ARROG	Oui, ça fait une heure qu'on essaie de le court-circuiter et visiblement, c'est un échec !
+
+GERDA	Pour le court-circuiter, il suffit de l'arroser !
+
+ARROG	Quoi ?
+
+GERDA	Oh, tu es devenu sourd ou quoi ? Il faut l'arroser pour éteindre ses flammes !
+
+ARROG	Quoi...
+
+(BOUCLE 112 - 02:11:50:13)
+		112
+
+ARROG	Gerda, tu es un génie !
+
+GERDA	(h/)_
+
+ARROG	Si ça marche, je ferai de toi un général ! Tu deviendras grosse et riche, et tu pourras mener tout le monde à la baguette !
+
+(BOUCLE 113 - 02:12:00:07)
+		113
+
+winemaker	Fais un peu attention !
+
+ARROG	Ce vin de Loto-Trollolo a plus de deux cent vingt ans ! Chaque goutte de ce nectar est un trésor...
+
+troll kids	(efforts)_
+
+ARROG	Vite, prenez tout !
+
+ALFIDA	(huh)_
+
+GERDA	(effort)_
+
+ARROG	J'espère qu'il saura apprécier les arômes de ce nectar. Chargez ! Prêts ? Feu !
+
+KAI	(h/)_
+
+GERDA	Ca a marché ! Il est touché !
+
+ARROG	Joli lancer. Bien joué ! Hé, vous ! J'ai besoin de barrils pour ma petite fête !
+
+(BOUCLE 114 - 02:13:09:22)
+		114
+
+ARROG	Arrosez-moi cette canaille ardente !
+
+GERDA	Chargez !
+
+baby Orm 1	Ggggnnnnnnnnnnn
+
+KAI	(effort)_
+
+ALFIDA	(effort)_
+
+ORM	(effort)_
+
+GERDA	Encore un effort et on l'envoie faire un plongeon dans le lac !
+
+ARROG	Achevez-le !
+
+KAI	On n'a plus de barriques !
+
+ARROG	Quoi ?
+
+(BOUCLE 115 - 02:14:05:05)
+		115
+
+ARROG	(h\)_
+
+ALFIDA	(h\)_
+
+KAI	(h\)_
+
+GERDA	(h\)_
+
+ARROG	Reculez, fichons le camp d'ici !
+
+trolls	(panique)_
+
+baby Orm 1	Aaaaaaaaaaah
+
+ORM	(mmmh)
+
+KAI	Attention !
+
+ALFIDA	Gerdaaaaaaaaaaaaa !
+
+(BOUCLE 116 - 02:14:59:09)
+		116
+
+ALFIDA	(huh !)
+
+GERDA	(huh !)
+
+troll kids	(réacs peur)_
+
+(BOUCLE 117 - 02:15:45:22)
+		117
+
+GERDA	(sniff)_
+
+KAI	(h/)_
+
+troll kids	(h/)_
+
+ORM	(h/)_
+
+ALFIDA	(h/)_
+
+(BOUCLE 118 - 02:16:33:20)
+		118
+
+ALFIDA	(h/)_
+
+KAI	Non...
+
+ORM	Huh ! Je n'arrive pas à croire qu'elle n'est plus parmi nous... Elle était si courageuse.
+
+ALFIDA	Oui... Je suis bien d'accord... Il n'y avait pas fille plus courageuse sur cette Terre.... Et je suis bien triste qu'elle soit morte engloutie par la mer...
+
+ARROG	Elle nous a sauvés encore une fois. Et je la nomme dès à présent... Generalissima Gerda...
+
+(BOUCLE 119 - 02:17:19:16)
+		119
+
+GERDA	(effort)_
+
+KAI	Je ne l'ai jamais remerciée pour tout ce qu'elle a fait pour moi. Merci pour tout, Gerda.
+
+GERDA	Je t'en prie, ça a été un plaisir, Kaï. N'en parlons plus.
+
+KAI	C'est marrant, j'entends encore sa voix si douce, aimante, et généreuse.
+
+ORM	Moi aussi. Ca fait quand même un peu peur...
+
+GERDA	Euh... Personne n'a pensé à sauter à l'eau pour essayer de me sauver la vie ?
+
+ORM	Non, il n'y a aucune chance que tu aies pu survivre à une telle chute.
+
+GERDA	Je suis désolée, mais je pourrai ne pas être de ton avis...
+
+KAI	Elle a raison ! Il faut que j'essaie de la sauver !
+
+ALFIDA	Non !
+
+KAI	Gerda ! Tu es en vie !
+
+trolls	Hourra !
+
+(BOUCLE 120 - 02:18:00:04)
+		120
+
+trolls	(hourra)
+
+KAI	(hoh !)_ Je m'en veux tellement d'avoir dit que je n'avais pas besoin de toi.
+
+GERDA	Pardonne-moi, s'il te plaît. Tu avais raison. Je me suis montrée si égoïste... A partir de maintenant, on s'appellera Hansel et Gretel !
+
+KAI	Ca n'a plus aucune importance. Tu es ma famille. Et même si elle est toute petite, c'est tout ce qui compte.
+
+GERDA	Mon frère !
+
+trolls	(Hourra !)
+
+ORM	Hourra !
+
+(BOUCLE 121 - 02:18:26:19)
+		121
+
+trolls	(Hourra)
+
+shaman	(soupir)_
+
+ARROG	Il y a une chose que j'ai toujours du mal à comprendre. Comment une jeune fille aussi frêle que notre Gerda peut se battre comme le plus courageux et vaillant des soldats ?
+
+shaman	Vous avez agi de façon on ne peut plus éclairée depuis le début de cette histoire, votre Majesté. Vous êtes un grand roi, votre grand-père aurait été tellement fier de vous !
+
+ARROG	Tu crois, bouffon ?
+
+shaman	Tout le monde le croit, Majesté !
+
+officer	Qu'est-ce qu'on fait d'eux ? On les jette dans le lac ?
+
+ARROG	Pourquoi les jeter dans le lac ? Jetez-les plutôt dans la fournaise. Et mettons-les tous au travail
+
+embers	Hourra !
+
+(BOUCLE 122 - 02:19:11:15)
+		122
+
+trolls	Au revoir !
+
+ALFIDA	Alors, c'est ça que tu avais demandé à la Pierre à Souhaits ? Que les trolls nous offrent une pleine pile de pièces d'or ?
+
+GERDA	Bien sûr que non ! C'est sûrement un cadeau du Roi Arrog. Je crois qu'il est plus que ravi que cette histoire se soit bien terminée. Et maintenant, nous prenons la mer.
+
+KAI	Dis-moi quel voeu tu as fait quand tu as trouvé la pierre aux Souhaits ?
+
+GERDA	J'ai... J'avais demandé que nos parents reviennent. Malheureusement, la légende de la Pierre aux Souhaits n'était qu'un mensonge.
+
+little snow queen	(rire)_
+
+(BOUCLE 123 - 02:20:45:03)
+		123
+
+GERDA	Papa.
+
+Una	Gerda !
+
+Master Vegard	Kaï !
+
+Una	Kaï !
+
+GERDA	Maman !
+
+Master Vegard	Gerda !
+
+Una	Vous nous avez tellement manqué.

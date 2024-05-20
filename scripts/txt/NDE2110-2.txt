@@ -1,0 +1,1124 @@
+AURORA (V.O)	Join Me
+
+MASON	Let’s see a prosthetic do that
+
+DEZZIE	I got to get to work
+
+MASON	That was work
+
+DEZZIE		Maybe you need a prosthetic after all, might help with your stamina
+MASON		Hey I promised you seven minutes of blissful ecstasy-
+DEZZIE		And this time, you were only five short. Look at you making progress
+
+DEZZIE	You know those things will kill you right?
+
+MASON	That’s what my father used to say
+
+MASON	Last pack then I quit for good…promise
+
+MASON	See me later?
+
+FEN	I’ll let you know
+
+MASON	Uncle Fen
+
+FEN	What the hell is this?
+
+FEN	The Commander wants to see you now
+
+MASON	Can I shower first?
+
+FEN	No
+
+FEN	Try to remember that it’s my ass on the line. Keep your 
+	answers short, keep them honest, but mostly short.
+
+MASON	I will. Thank you. For the opportunity
+
+FEN	Don’t thank me yet
+
+FEN	By the way, we got a new science officer. Try not to stare
+
+MASON	What happened to Corrigan?
+
+FEN	Shot himself
+
+FEN	Captain Fen, Major Mason to see the Commander
+
+COMMANDER		At ease gentlemen.
+
+COMMANDER		This is our new science officer, Aurora Owon. We’ll make this brief. Our scanners have picked up an uncharted planet and have navigated us within deployment range. What does that mean Major?
+MASON		It means that you need a leader for the expedition to determine if the planet is habitable. I would like to volunteer sir
+
+AURORA	We understand you’ve never lead an expedition
+
+MASON		No. No sir. But on account of my father, I’ve been scouting my entire life
+
+COMMANDER		There are few left in the corps like him, damn shame, I’m sorry for your loss
+
+MASON	Thank you sir
+
+COMMANDER		You are not my first choice Major, but the rest of my lead expedition scouts are deployed. You say he’s ready Fen?
+
+FEN	He’s ready
+
+AURORA		Officer Corrigan’s voyager reports noted an incident of violence between you and an android medical assistant
+
+MASON	Sir, we all get frustrated with technology from time to time
+
+FEN		Obviously Officer Corrigan was never really the most stable human being. Major Mason has never once demonstrated any unnecessary aggression toward anything with an actual heartbeat
+
+COMMANDER	You understand what it means to lead
+
+MASON		When all else fails, complete the mission I understand the protocol sir
+
+COMMANDER		Keep him in line Fen. Aurora will issue a preliminary briefing package. EOC in four hours. I’ll assemble the rest of your team. Dismissed
+
+MASON/FEN	Thank you Sir
+
+DEZZIE	To brave souls and new worlds
+
+DEZZIE	Congratulations John
+
+MASON	She’s going to miss me
+
+FEN	Never underestimate the unknown kid, especially women
+
+FEN	You might want to say goodbye to her
+
+MASON	Eh, she’s busy
+
+FEN	You’re telling me. You might not get another chance
+
+MASON	Hey Dez, headed out. Want to come back to my cabin. I think I owe you five minutes
+
+DEZZIE	I can’t, but I’ll miss you. Maybe we can catch back up at port
+
+MASON	But what if I don’t come back to port?
+
+ANDROID	*robot language*
+
+MASON	Yeah I don’t think I was talking to you. Come on Dez
+
+DEZZIE (O.C.)	Hey guys
+
+MASON	No don’t worry about it, sometimes these old-
+
+DEZZIE	Stop!
+
+ANDROID	*robot language*
+
+MASON	What? It’s not human. It’s broken not dead
+
+FEN	I thought I told you to say goodbye, not get your assed kicked
+
+MASON	Yeah well your advice was vague, as usual. 
+
+FEN	Here
+
+MASON	Thanks
+
+FEN (O.C.)	Did your father ever tell you what happened on the Pioneer scout?
+
+MASON	I know it was abandoned
+FEN (O.C.)	That’s what the history courses teach everybody
+
+FEN	We got a distress signal. Your father and I naturally volunteered to go down and investigate. You know, find out what happened, bury the bodies, you know the drill. The expedition leader, he picked up a climbing axe and he ripped open the stomachs of his pilot and science officer. Nobody knows why. Totally took us by surprise. Damn near killed me. Saved my life. 
+
+MASON	Why are you giving me this?
+
+FEN		Because you’re in charge now. Trust only your instincts, and this. And you’ll be ready for anything. From anybody. Of course, my advice is always vague. I have to go clean up your mess.
+
+MASON		Expedition Vanguard, like most expeditions, three main objectives. Number One: determine suitability for colonization. Two: determine resources for economic exploitation. Three: We complete the mission and this mission is not over until we’re all safely back on this ship headed home
+
+COMMANDER		Vanguard will be comprised of the standard six-man scout team. Captain. I recommend a strong cup of coffee before take off. Once on the ground, Major will take command for the remainder of the stay
+
+RONDEAU	How long are we on the ground?
+
+AURORA	About four thousand hours before Nova returns to port
+
+COMMANDER		These rangers are at your command. If you should encounter anything problematic, it won’t be a problem for long. And with that, I’ll hand it over to your science officer.
+
+AURORA		Thank you commander. The planet is an E-Class system. The molten core makes for ideal gravity and atmosphere. An asteroid ring, several moons, one which orbits in retrograde, another with a hard metal surface, chases and reflects the solar rotation. The planet is mostly cold desert, so we’ll be wearing base layer insulation suits.
+
+SATO	Even if we’re upgraded?
+
+AURORA		Yes, utilizing the benefits of an individual’s prosthetics is optional, but corps guidelines enforces a modicum of standardization to accommodate those without upgrades. Polar ice caps, snow at high elevations, will be landing in what seems like a very fertile valley. Initial scans indicate broad vegetation and organic life.
+
+BOKA	Hostile?
+
+COMMANDER		You’ll find out. Alright, your shuttle is in the deployment bay. Complete the mission. Dismissed.
+
+VANGUARD (V.O.)	All Expedition personnel, report to Hanger B for further
+	instruction
+
+VANGUARD (V.O)	Captive hatches, initiated
+
+SATO	Yeah, I’m not wearing this thing. I’ll sweat my ass off
+
+MASON		You don’t have to wear it now. But on planet, we all follow regulations
+
+BOKA		You really should consider upgrading. You know my rifle has a lot more stopping power than that little thing.
+
+MASON	I like my revolver. It’s simple
+
+BOKA		But it only has five bullets, you see my baby here? Can carry 200 rounds. Because size matters. She knows
+
+AURORA	I know what?
+
+BOKA	I’m around if you need anything
+
+MASON	Good to know, thanks
+
+SATO	Come on Boka, leave the lovebirds alone
+
+AURORA	May I assist you with anything?
+
+MASON	No
+
+MASON	No
+
+MASON	Captain
+
+MASON	Alright, let’s warm her up
+
+FEN	I’m already warmed up
+
+MASON	Coffee right?
+
+MASON	Ah, we’re all going to die
+
+FEN	Ok, buckle them down John
+
+MASON	Buckle them down… sir
+
+FEN	We’re not on the ground yet
+
+MASON	Vanguard crew, please take your seats and ready for departure
+
+AURORA	We’re ready Captain
+
+FEN	Alright, prepare for separation. Give me an EC pressure reading
+
+MASON	Stable. Seven thousand PSI
+
+FEN		Ah, shout out if it changes. Deactivate the exterior bay captive hatches and the locking systems
+
+MASON	Uh Captain, pressure seals?
+
+FEN	Thank you
+
+FEN (O.C.)	Now deactivate
+
+MASON	And we are…clear
+
+FEN	Here’s where the fun begins
+
+FEN	Go ahead take her down
+
+MASON	Yes sir
+
+FEN	Nova this is Vanguard. Comm check. How do you copy, over?
+
+VANGUARD  (V.O.)	Read you loud and clear Vanguard. All looks good on our end. Over
+
+MASON	Approaching interspace
+
+MASON	Turbulence
+
+RONDEAU	What the hell did we just hit?
+
+MASON	Upper atmosphere, hold on. We’re going down fast. Fifteen thousand, fourteen, thirteen, eleven, ten, eight, six, five
+
+FEN	Small corrections, small corrections! Ease up on your power
+
+MASON	Three… what the hell was that?
+
+FEN	You flooded it, stand by your anchors
+
+FEN	Nova this is Vanguard, we’re going down hard
+
+VANGUARD  (V.O.)	Captain, you’ve switched off your guidance-
+
+FEN	Anchors! ... Anchors!
+
+FEN		Damnit! We lost ventral thrusters and the inertial dampeners. Hold on back there, it’s going to get rough
+
+FEN (O.C.)	Give me manual override
+
+MASON	Are you sure?
+
+FEN	I want full control right now
+
+MASON	It’s yours
+
+FEN		Alright, we’re going to get down as close as we can. Then we’re going to bellyflop. I’m just being honest
+
+FEN (O.C.)		Okay I want my landing gear and a full reverse firing in three, two, one-
+
+MASON	That was different
+
+FEN	Wanna go again?
+
+FEN		Nova this is Vanguard, we have a perfect touchdown, how do you copy, over?
+
+MASON	Everyone alright back there?
+
+RONDEAU	Eat too much sweetheart?
+
+MASON	Not a big fan of flying?
+
+SATO	What gave you that idea?
+
+BOKA	Amateur
+
+AURORA	Is that wind? It sounds-
+
+MASON	Stranger
+
+FEN	Well, you’ll either get used to it, or you won’t. Hey there she goes
+
+MASON	Alright Captain Fen, You’re going to need to talk to the generator, make sure the Tracker survived that landing. Officer Owon, I need you to prepare the perimeter cameras, get your lab online.
+
+RONDEAU	Area secured 
+
+MASON	I’m going to take the Rangers for a walk
+
+SATO (O.C.)	There are roads everywhere
+
+BOKA	Yeah no shit
+
+RONDEAU	Why are there roads here?
+
+MASON	I don’t know, maybe a previous -woah!
+
+BOKA	It’s a dead plant
+
+MASON	Actually it’s in some sort of hibernation.
+
+MASON	Carbon reads nearly three million hours
+
+BOKA	So?
+
+MASON	So that’s three times longer than you’re ever going to live
+
+BOKA	Oh because you know so much about me?
+
+RONDEAU	Can the attitude Boka 
+
+BOKA	What?
+
+SATO	Is there a reason for this little science lesson?
+
+MASON		well it means it’s waiting for water, out of respect try not to…
+
+RONDEAU	What the hell is that?
+
+MASON	Woah, do not activate your weapons unless I give you a direct		order
+MASON	That clear?
+
+RONDEAU	Major, I suggest we keep moving. Boka, you lead the way
+
+BOKA	Yes sir
+
+BOKA	Just making sure it works
+
+FEN			I can’t believe they made thirty-two of these
+
+AURORA		Lab is online, habitat is running peak efficiency, that landing required me to patch-
+
+FEN		Well listen, if we had relied on your automated guidance, neither one of us would be here right now.
+
+AURORA		yes sir, I didn’t mean to imply that the dampener failure was your fault. My apologizes
+
+FEN	Listen, the machines fail. All the time. These tires need rotating
+
+AURORA	I can help
+
+FEN		Relax doll, it’s a man’s job. If I can remember where they put the jack
+
+AURORA	Be careful, machines fail all the time
+
+FEN	Nova, all systems are reading nominal, over
+
+VANGUARD  (V.O.)	Copy that Vanguard, we’ll be in service range for the next thirty minutes
+
+SATO	Power’s on. We got water
+
+RONDEAU	I could definitely use a drink
+
+BOKA	Tell me about it
+
+RONDEAU	Boka, I need to talk to you 
+
+FEN	Copy that, we’re good to go. God speed Nova. Vanguard out. 
+
+RONDEAU	You need to give him a break 
+
+FEN (O.C.)	Four thousand hours, starts now
+
+FEN	See anything interesting?
+
+MASON (O.C.)	Saw some ancient ruins, bunch of rocks
+
+FEN	You’ll get used to it-
+
+MASON	Yeah or you won’t. I get it. 
+
+MASON	Need something
+
+BOKA	Yeah Major look, uh, I want to apologize for earlier. I was clearly out of line and it won’t happen again sir.
+
+MASON	Alright.
+
+MASON	That what you mean about uh, underestimating the unknown?
+
+MASON	Four thousand hours
+
+MASON	Alright, I’ll be right back
+
+FEN	I’ll keep an eye out
+
+MASON (V.O.)	We on schedule Aurora?
+
+AURORA	Confirmed sir, you’re making good time
+
+MASON	Alright
+
+MASON (V.O.)	I’m at Site 5
+
+AURORA	Confirmed sir, you’re making good time
+
+RONDEAU (V.O.)	There, now you can shave with that
+
+SATO (V.O.)	Sharp
+
+RONDEAU (V.O.)	What did I just tell you?
+
+BOKA (V.O.)	Dumbass
+
+MASON (V.O.)	Register my visuals?
+
+SATO (V.O.)	Sharp
+
+AURORA	Good visuals sir
+
+SATO (V.O.)	I don’t need a bandaid
+
+AURORA	We are Five by Five
+
+MASON (V.O.)	Alright, headed back
+
+BOKA	I’m still hitting low. I don’t know if it’s my optics or my rifle
+
+RONDEAU	It’s your optics. Have Aurora check you out
+
+BOKA (V.O.)	With pleasure
+
+MASON	Alright, that’s taken care of. Should I, uh, get out the Stryker, see if it works? Captain?
+
+FEN	There’s something wrong with this planet
+
+MASON	What do you mean?
+
+FEN	Would you want to live here?
+
+MASON	well we have to adapt to the planet.
+
+FEN	Or, it adapts to us
+
+FEN				By the way, you know she’s synthetic right?
+AURORA	You need to keep your processor cleaner
+
+BOKA	Hey what do you want me to say huh? I’m a dirty guy
+AURORA	It’s your vitreous behind your lens. You have too much fluid and blockages are developing
+BOKA	So you want to help with that huh? You want to help me relieve some of that fluid blockage?
+SATO	I’d watch
+RONDEAU	Me too
+AURORA	Tempting
+
+AURORA	This may sting
+
+BOKA	Woah, woah, woah, wait, wait, wait!
+
+BOKA (O.C.)	Shit
+
+BOKA	That’s not funny guys. That’s not funny at all
+
+AURORA	What?
+
+SATO	So they’re way out there and they encounter this asteroid field, one of them goes up to the ship’s mechanic and says if the ship’s oxygen tank gets ruptured by one of those rocks? How long until we all suffocate? Ship’s mechanic says, for the rest of your life?
+RONDEAU	Don’t ever say that joke again
+SATO	You will hear it tomorrow
+BOKA	Today is tomorrow guys, take a look
+SATO	Oh what is that, tremors?
+AURORA	I recorded several throughout the past few hours.
+MASON	Should we be worried?
+AURORA	Many small tremors could be a sign of gradual pressure release, which is of course better for us
+AURORA	They’re birds
+
+MASON	Uncle Fen, we’re going to go take a closer look at the ruins. Wanna come along?
+
+FEN	Those rocks are moving.
+
+MASON	What was that?
+
+FEN	What? Oh no, no, I’m good here. I’ll wanna wait and see if those birds come back
+
+SATO				Back home the uh, birds eat the worm sir
+
+AURORA	Something triggered camera four. Would you like to see?
+
+BOKA (O.C.)	What is it this time?
+
+BOKA	Is it one of those huge things again?
+
+RONDEAU	We’d probably hear the ground shaking
+
+BOKA	I don’t see anything
+
+AURORA	There it is
+
+AURORA (O.C.)	Apply grid. Enhance Cell R8-C20
+
+AURORA	Sharpen
+
+BOKA	I still don’t see it
+
+RONDEAU	The rock?
+
+AURORA (O.C.)	Enhance two hundred percent
+
+RONDEAU	Well, at least we know they work
+
+MASON	How did we miss this creek before?
+
+MASON	I dunno, maybe tremors opened up some underground source- hey! Hey! Don’t touch that
+
+SATO	Don’t worry. Not going to cook you yet
+
+MASON	Well, that should be enough for Aurora to run plenty of tests. Let’s get out of here.
+
+SATO	Ah fu-
+
+MASON (O.C.)	Hey Sato, you coming?
+
+SATO	Yeah
+
+SATO	Very strange
+
+MASON	They were there
+
+SATO	Yeah I saw it
+
+MASON (V.O.)	We all did. I don’t know, maybe Captain Fen is right.
+
+SATO (V.O.)	About what?
+
+MASON (V.O)	He said the rocks move
+
+SATO	Wait a minute. Seriously?
+
+SATO	Tremors? Or something worse?
+
+MASON	You mean one of those
+
+MASON (V.O.)	Officer Owon, can you read me?
+
+AURORA (V.O.)	Yes sir. We felt two tremors here. Are you alright?
+
+MASON (V.O.)	We’re fine. We’re going to be headed back to the hab.
+
+MASON	Sato!
+
+SATO (V.O.)	Down here!
+
+SATO	I’m fine
+
+MASON	Hold on! 
+
+SATO (V.O.)	Get me out of here!
+
+MASON	Watch your head!
+
+MASON (V.O.)	Grab on!
+
+SATO (V.O.)	Got it
+
+MASON (V.O.)	You’re going to be okay!
+
+MASON	Shit
+
+MASON	You’re going to be okay. Come on. Hold on to me! You can do this! Come on, come on! Get up
+
+MASON (V.O.)	We’re going
+
+AURORA	Major, we’re back online. What happened to Sato?
+
+MASON	I don’t know
+
+MASON	God damnit! Aurora!
+
+BOKA	Rondeau, let’s go
+
+RONDEAU	Right behind you
+
+BOKA	It won’t open
+
+RONDEAU	Let me try
+
+RONDEAU	What the hell?
+
+MASON	Open the door Aurora!
+
+AURORA	We cannot let him inside, if he has a biological infection, we could all be compromised
+
+RONDEAU	Aurora!
+
+BOKA	Damnit!
+
+RONDEAU	What the fuck’s going on?
+
+AURORA	No that’s a direct violation of the Discovery Corps protocol
+
+RONDEAU	Sato needs our help!
+
+MASON	Open the God Damn door. That is an order.
+
+AURORA	You’re not thinking clearly, we can not risk it
+
+MASON	Open the God Damn door!
+
+SATO (V.O.)	Aurora please
+
+BOKA	Open it. Now
+
+SATO	I’m fine. I’m fine. It’s just my head. It’s just my head hurts. It’s just, my head, there’s this ringing in my head
+
+AURORA	Most prosthetics and organic systems seem to be functioning normally. I’ll have his blood analysis shortly. 
+
+SATO	I’m fine
+
+RONDEAU	Sato-
+
+SATO	I’m fine!! I am fine! Get off me. I’m fine
+
+MASON	Keep an eye on him
+
+BOKA	Yeah no shit
+
+SATO	It’s just my head. I’m fine. I’m fine
+
+AURORA	You broke Mission Protocol. 
+
+MASON	I saved a man’s life
+
+AURORA	And put us all at risk. 
+
+MASON	I made the right call. A human would understand
+
+AURORA	You made a reckless call sir. 
+
+MASON	We found a water source. I’ll bring you the samples
+
+SATO	Don’t fucking drink that water
+
+RONDEAU	By the time this is all over, you’re going to have to make tougher decisions than that sir. 
+
+MASON	I didn’t endanger your men
+
+MASON	There is something wrong with this place
+
+RONDEAU	Aside from that giant worm, earthquakes and strange weather? What happened to Sato
+
+MASON	I don’t know
+
+RONDEAU	It’s your job to know
+
+MASON	That’s why I have Aurora checking him
+
+RONDEAU	We need a strong leader. Those men are my responsibility too. 
+
+MASON	Do your job. I’ll do mine
+
+MASON	Where’s Fen?
+
+RONDEAU	Maybe just out for a walk?
+
+MASON	Uncle Fen?
+
+MASON	Uncle Fen?
+
+AURORA	His blood looks fine
+
+BOKA	That’s good
+
+BOKA	You want me to make some chow Ranger?
+
+SATO	You want to make me feel worse?
+
+MASON (O.C.)	Uncle Fen?
+
+MASON	Uncle Fen? He’s gone
+
+RONDEAU	We don’t know that
+
+MASON	Well he’s not here
+
+AURORA	I have activity on Camera Three
+
+MASON	I don’t see anything
+
+AURORA	Looping clip
+
+BOKA	There it is
+
+AURORA	All other channels are clear. He’s within the perimeter
+
+MASON	Alright, let’s go
+
+AURORA	I should stay here sir
+
+MASON	Yeah, probably should
+
+SATO	I’m fine, really. No, I’m serious I’m feeling much better. Look I know I look pretty hammered, but I’m fine. I can watch a few monitors
+
+MASON	Have you checked his blood?
+
+AURORA	I’ve checked Sato with everything that I have. I can’t explain it but, he’s returned to homeostasis. I’ll do as you command sir. 
+
+MASON	Stay here. Watch him. And those monitors
+
+BOKA	Major, time to pop your cherry
+
+SATO	I’m fine. I’m fine. I’m fine
+
+BOKA (O.C.)	Captain Fen?
+
+RONDEAU	There are a lot of tracks out here
+
+MASON	Alright, let’s spread out
+
+MASON (O.C.)	Uncle Fen?
+
+BOKA	Fen?
+
+RONDEAU	Captain Fen?
+
+MASON	Uncle Fen!?
+
+BOKA	Captain Fen?
+
+RONDEAU	Captain Fen?
+
+RONDEAU	Captain?
+
+MASON (O.C.)	Uncle Fen?
+
+RONDEAU	Boka, are you alright?
+
+BOKA	Yeah I’m good. I just got a little spooked that’s all. 
+
+RONDEAU	Captain?
+
+MASON	Uncle Fen!? …. Shit
+
+BOKA	So what do you think is wrong with Sato?
+
+RONDEAU	I don’t know. I mean, he’s just not right. 
+
+BOKA	He’s got to be on the other side of the perimeter
+
+AURORA	That’s impossible, I’d catch something on the monitors
+
+RONDEAU	Where ever he is, we are going to find him. Eat, rest, and	 when you’re recharged, we’ll go out and keep looking
+MASON	Fine
+BOKA	You want to tell me what’s wrong with that hand?
+SATO	It’s in my head. It’s burning in my head. Get back, get back! Get back.
+
+SATO	No one’s there. Get back. No, no, no, no. Back.
+BOKA	Easy, easy
+
+SATO	Get back! 
+
+SATO	Get back! Back!
+
+SATO	It’s in my head!
+
+MASON	Sato, Sato
+
+MASON	Ranger
+
+BOKA	Listen to me
+
+MASON	Ranger!
+
+SATO	That feels much better. That’s much better. That feels a lot 
+	better
+
+AURORA	Let me help you
+
+MASON	Ranger put down the knife that’s an order!
+
+MASON	Someone get that God damn knife out of his hand!
+
+AURORA	No one touch anything
+
+BOKA (V.O.)	The hell happened out there?
+
+MASON	I don’t know
+
+RONDEAU	How could you not know?
+
+MASON		We were at the stream taking samples, the quake hit and I lost Him
+
+AURORA	Did he drink the water?
+MASON	I don’t know
+AURORA			I need to examine these
+BOKA				Right now? We need to bury him
+MASON	No
+
+BOKA	No?
+
+AURORA	We need to burn the body
+
+RONDEAU	We bury our own!
+
+AURORA	If what he had was infectious
+
+MASON	I don’t want to take any chances. Do it.
+
+RONDEAU	Sato was a Ranger, you have no right to tell us what to do
+
+MASON		I’m in charge here. Burn the body, that’s an order
+MASON	Aurora, I’m going to want a complete sweep of the cabin, make sure it’s clean. I’m going to go look for Fen
+AURORA	We should go in teams. Alternating shifts.
+MASON		Alright, Boka, you’re with me.
+BOKA			This expedition is fucked
+RONDEAU		I know. Boka? Watch your back
+BOKA			Yeah that’s right. You better run
+BOKA (V.O.)	Sir, we’ve been out here more hours than I can count. Maybe it’s time we head back.
+MASON		Alright, give me two minutes, I’ll meet you back at the tracker
+BOKA (V.O.)		Copy that. Actually, I’m already at the Tracker
+MASON		How long you been there?
+BOKA 			Awhile
+MASON 		I’m going to take a last look, I’ll be down in one minute.
+BOKA			Good enough for me.
+MASON		UNCLE FEN!
+BOKA			I needed this
+BOKA			Major do you Copy?
+MASON (V.O.)	Copy
+BOKA			I think I got something sir
+MASON		Is it Captain Fen?
+BOKA			No. This is something else
+MASON		Well damnit Boka, what is it?
+BOKA			It’s camouflaged sir. I think it’s one of those creatures
+MASON	Is it hostile?
+
+BOKA	Not yet
+
+MASON (V.O.)	Well leave it alone
+
+BOKA	It seems to be feeding
+
+MASON	On what?
+
+BOKA	On one of them sir
+
+BOKA (V.O.)	Now it’s staring straight at me
+
+BOKA	That’s it, come on
+
+MASON	Boka, don’t do anything stupid
+
+BOKA	Make a move
+
+MASON	Boka!
+
+BOKA	Damnit
+
+MASON	Boka!
+
+MASON (V.O.)	What happened?
+
+BOKA	I missed
+
+MASON	Did it attack you?
+
+BOKA	No
+
+MASON (V.O.)	Then why did- 
+
+MASON	-you shoot it? Boka I’m at the tracker
+
+MASON (V.O.)	Boka are you reading me?
+
+BOKA	Yes, I read you, I read you. I just don’t care
+
+MASON (V.O.)	Well get back and let’s get the hell out of here
+
+MASON (V.O.)	Boka!
+
+MASON	Boka!
+
+MASON	Boka! Boka! Boka!
+
+MASON	Boka
+
+MASON	I got you. It’s going to be okay. I got you. I got you
+
+MASON	Aurora is going to fix you up. You’re going to be fine
+
+MASON	I got you
+
+MASON	Aurora is going to fix you up. She’s going to take care of you
+
+RONDEAU	Well? What happened to Boka?
+
+MASON	I told you, I don’t know. Something attacked him
+
+RONDEAU	This is bullshit. I don’t understand how you could walk away, covered in Boka’s blood and not have a single scratch on you
+
+AURORA		Calm down Rondeau. 
+
+MASON		It was an accident
+
+RONDEAU	What?
+
+MASON	I shot him, I-
+
+MASON	Put it down Rondeau
+
+AURORA	Both of you put your guns down
+
+RONDEAU	He just admitted to killing him
+
+MASON	I did not kill Boka! Something attacked him. Now stand down!
+
+RONDEAU	Not happening
+
+AURORA	We need to investigate
+
+MASON	Listen to her Rondeau. I can take you to him. 
+RONDEAU	I can’t trust him. Not now. 
+AURORA	I have a solution, just put your gun down
+AURORA	I know how to get the truth. 
+AURORA	It’s terrible. It wasn’t murder. Something attacked him first. If anything it was a merciful accident. 
+RONDEAU	We need to extract his memory card so Discovery has recordation
+AURORA	Major, may I borrow your knife?
+RONDEAU	Now?
+AURORA	It will be faster this way. 
+AURORA	This may be unpleasant to watch. 
+MASON	Lieutenant Boka, Discovery Corps thanks you for your service
+MASON	Rondeau
+MASON (O.C.)	Rondeau
+MASON	Rondeau!
+RONDEAU	I’m going to take a look at his footage for myself
+MASON	I am doing the best that I can down here
+AURORA	We have activity on Camera Three
+RONDEAU	It’s probably just-
+AURORA	It’s Captain Fen!
+AURORA	About fifteen minutes ago
+MASON	Rondeau you’re with me. 
+AURORA	What if he needs medical attention-
+MASON	Then Rondeau can handle it! Come on!
+MASON (O.C.)	There’s the camera!
+MASON	Uncle Fen!
+RONDEAU	Captain?
+MASON (O.C.)	Where are you?
+MASON (O.C.)	Uncle Fen?
+AURORA	Sir, I’m picking up a lot of interference
+MASON (O.C.)	We just saw him!
+RONDEAU	Captain Fen!
+MASON	Uncle Fen!
+MASON (O.C.)	Uncle Fen? God damnit
+MASON	Uncle Fen!?
+MASON	Uncle Fen
+FEN	No, no, no, no, you have to kill me and run!
+MASON	You need to calm down. You need to calm down
+FEN	Go!
+RONDEAU	My god
+MASON	You got to listen to me-
+FEN	Kill me! Now!
+RONDEAU	Let’s pick him up, let’s take him back to the habitat
+MASON	Good
+FEN	No! No! They’re everywhere! No! You got to kill me and run! They are everywhere. Kill me, now, now do it!
+FEN	Kill me now, please
+MASON	No Rondeau. We are not doing that. 
+RONDEAU	He wants to die. 
+MASON	I need your help
+RONDEAU	Lower your gun
+MASON	You shoot him, you die. 
+MASON	No!
+AURORA	Mason are you alright? 
+AURORA (O.C.)	Is Rondeau dead?
+AURORA	Run Mason now
+AURORA (O.C.)	Get out of there!
+AURORA (O.C.)	Mason, do you copy? You’re breaking up can you hear me? Mason, what’s happening? Mason, can you hear me? What’s happening, are you in danger? Mason?
+MASON	They’re out here
+AURORA	Move now!
+AURORA	Mason to your right!
+AURORA	Mason, are you alright?
+AURORA	Mason, run now!
+AURORA	They’re right behind you
+AURORA (O.C.)	To your right! Shoot it!
+AURORA	Mason move now!
+AURORA	It’s on your left!
+MASON	Aurora?
+MASON (O.C.)	I’m at the ship
+AURORA	Get inside! 
+AURORA	Hurry!
+AURORA	We’re almost there sir!
+AURORA	It’s good you’re doing very good. 
+AURORA	Ok, this may sting
+AURORA	Just keep breathing, slow deep breathes. We can manage this. You’re very lucky
+MASON	They were my responsibility and now they are dead because of me
+MASON	I never should’ve volunteered for this
+MASON	I’ll never serve Expedition again. I don’t know anything else. Sorry, Dad
+AURORA	Your father made some tough decisions
+MASON	You know nothing about him 
+AURORA	I accessed his file. I understand he was in an accident
+MASON	Accident? A driverless vehicle swerved to avoid hitting a group of children. Only my father was killed, and I walked away with-
+AURORA	With post traumatic stress. I’m sorry sir. 
+MASON	Empathy? From a machine?
+AURORA	What choice would you have made? It’s true, programming morality is complex. 
+AURORA (V.O.)	Technology can be dangerous but that doesn’t mean it should be avoided or blamed. Boka, Rondeau, Sato, they died because of what’s out there. 
+AURORA	But you’re still here. And you can still complete this mission. Trust me.
+MASON	What are you?
+AURORA	Adapting
+MASON (V.O.)	Alright fourth marker. Here we go, I’m getting out. We all clear?
+
+AURORA	We’re all clear. Looks good
+
+MASON (V.O.)	You know, I’d feel a whole lot better if you were down here, packing that minigun
+
+AURORA	This is a superior vantage point. I have my crosshairs right on your back sir
+
+MASON	Not comforting to hear Aurora
+
+AURORA (V.O.)	Two more, and then we can stay in the hab until Nova returns
+
+MASON (V.O.)	Ready down here
+
+AURORA	All clear. Fire away
+
+MASON	Good readings coming in. There’s an ocean of water just below the surface. 
+
+AURORA	Too bad it’s all poison
+
+MASON	Gold, a giant vein. Well this planet might not be habitable-
+
+MASON (V.O.)	But at least there are economic resources
+
+AURORA	Sir, don’t move
+
+AURORA (V.O.)	Do you see it?
+
+MASON	I do now. Shoot it. 
+
+AURORA (V.O.)	Just a moment
+
+MASON (V.O.)	What are you waiting for Aurora?
+
+AURORA	Hold on
+
+MASON	Take the shot!
+
+MASON (V.O.)	What are you doing?
+
+AURORA (V.O.)	Trust me, don’t move
+
+MASON	Shoot it!
+
+AURORA	Got them. You’re clear
+
+MASON	Sure about that?
+
+AURORA (V.O.)	Yes. You trust me right?
+
+MASON	Looks like I don’t have a choice
+
+MASON	Well the tablet’s broken
+
+AURORA (V.O.)	We can still deploy the last two transmitters. Unless you would rather head back to the habitat now sir
+
+MASON	Well, since we’re already out here. Let’s just complete the mission
+
+AURORA (V.O)	Yes sir. 
+
+MASON (V.O.)	Thank you by the way
+
+AURORA (V.O.)	Just doing my job sir. 
+
+MASON	Also, I wanted to tell you-Ah!
+
+AURORA	Close call
+
+MASON	Alright, coming over
+
+AURORA (V.O.)	Copy that sir
+
+AURORA	Sir?
+
+MASON	Aw shit
+
+MASON	Aurora!
+
+AURORA	We need to move
+
+AURORA	Mason? I’m here. I’m going to turn you over okay? One, two, three, come on, nice and gentle. 
+
+AURORA	Your right lung is collapsed. Okay, I’m going to get you back to the habitat. But first I have to cause you some more pain, so you can breathe. Do you trust me?
+
+AURORA	Try and relax
+
+AURORA	One, two, 
+
+AURORA	Better?
+
+MASON	Yeah
+
+AURORA	Okay we need to get you back within ten minutes or we have to do that all over again. Ok? Let’s get you up.
+
+MASON	No, you drive. I’ll cover your back this time
+
+AURORA	Yes sir
+
+AURORA	How you feeling back there?
+
+MASON	Dangerous
+
+MASON	Can’t this thing go any faster?
+
+AURORA	Something’s broken!
+
+MASON (V.O.)	We’re ditching!
+
+AURORA	Ok!
+
+MASON	How bad is it?
+
+AURORA	Bad
+
+AURORA	They’re blocking the doorway
+
+AURORA	We might have to make a run for it
+
+MASON	Aurora?
+
+MASON	Complete the mission!
+
+AURORA	Mason!
+
+AURORA	Mason!
+
+MASON	Aurora!
+
+MASON	Get down!
+
+	
+	
+	
+	
+	
+

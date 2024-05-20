@@ -1,0 +1,1105 @@
+EL SECRETO  EP 104
+08/04/2017
+
+INSERT	EL SECRETO DE PUENTE VIEJO EP 104
+
+(BOUCLE 1 - 10:04:28:01)
+		01
+
+SEBASTIAN	(ha__) La commande de Silverio Ortiz, le cuisinier de Madrid,représente de nouveaux moyens d'expansion pour vendre nos produits.
+
+TRISTAN	De quelle manière?
+
+SEBASTIAN	Si un des meilleurs restaurant de la capitale se met à utiliser nos conserves...pourquoi les autres n'en feraient pas autant? Il suffit d'y aller pour nous faire connaître!
+
+TRISTAN	(hmm) C'est un projet très excitant mais... j'ai peur que ce soit trop ambitieux pour le moment, Sebastian. Nous aurions besoin de représentants et d'un réseau dont nous manquons actuellement!
+
+SEBASTIAN	(ah ptt) Excuse-moi. (ha__) J'ai laissé aller mon imagination sans réaliser que je n'ai pas d'expérience dans ce domaine.
+
+TRISTAN	Mais je trouve l' idée excellente Sebastian. Pour l'instant, il vaut mieux se donner des objectifs plus accessibles et par la suite, nous implanter dans les grandes villes avec plus de garanties.
+
+SEBASTIAN	(ha) Oui, tu as raison!
+
+(BOUCLE 2 - 10:05:11:10)
+		02
+
+SEBASTIAN	Je me réjouis d'être à tes côtés. A un moment, j'ai bien cru que nous t'avions perdus.
+
+TRISTAN	Moi aussi...si tu savais. Mais depuis que je suis passé à deux doigts de la mort, j'ai encore plus d'énergie pour reprendre le contrôle de ma vie.
+
+SEBASTIAN	Si seulement, je pouvais en dire de même!
+
+TRISTAN	Il y a quelque chose dont tu voudrais me parler?
+
+SEBASTIAN	J'ai quelques difficultés personnelles..mais ça me fait plus de mal que de bien d'en parler. Mais toi, dis-moi, quelle est donc cette vie que tu désires?
+
+TRISTAN	(aha) Je voudrais être avec Pepa et mon fils. Je n'en demande pas plus.
+
+SEBASTIAN	Ni moins! Je ne veux pas jouer les rabats-joie mais Pepa est mariée à Alberto.
+
+(BOUCLE 3 - 10:05:49:23)
+		03
+
+TRISTAN	C'est justement ce qui me ronge actuellement... quand je pense que je l'ai jetée dans ses bras. Je n'aurais pas dû douter d'elle.
+
+SEBASTIAN	Ecoute Tristan, Pepa t'a prouvé qu'elle t'aimait de tout son coeur, vous avez suffisamment souffert, rien ne l'empêchera de se libérer.
+
+TRISTAN	Mais il n'y a pas que le mariage, j'ai d'autres soucis à régler. Mon frère par exemple...
+
+SEBASTIAN	Qu'est-ce que Carlos a à voir avec vous?
+
+TRISTAN	Rien, rien. Il est mon frère et il n'a plus que moi. Etant donné son état mental, je ne peux pas l'abandonner à son sort.
+
+SEBASTIAN	Je te comprends mais ça va s'arranger! Rien ne pourra vous séparer. Je t'envie tu sais.
+
+TRISTAN	Tu ne devrais pas! Toi aussi, tu vas bientôt pouvoir épouser la femme que tu aimes, c'est bien ça?
+
+SEBASTIAN	(ah hhhhm) Oui, c'est vrai!
+
+INSERT	EL SECRETO DE PUENTE VIEJO EP 104
+
+(BOUCLE 4 - 10:07:29:09)
+		04
+
+EMILIA	(ah__ah) (oh) Pepa, tu pourrais regarder où tu vas!
+
+PEPA	(ahah) Excuse-moi Emilia! J'étais dans mes rêves et je ne t'ai pas vue, pardonne-moi.
+
+EMILIA	Je sais, parfois, tu es dans la lune! Tu attends quelqu'un?
+
+PEPA	(ah____) Je marchais tranquillement vers le fleuve et... à un moment, j'ai eu très peur .
+
+EMILIA	Tu as eu peur? Toi?
+
+PEPA	Depuis que ce monstre de Carlos Castro a sorti ses griffes, je suis obligée de faire attention. Je sens qu'il a un oeil sur moi ; ça me donne la chair de poule rien que d'y penser.
+
+EMILIA	Tu as peut-être un peu trop d'imagination.
+
+PEPA	Peut-être. Allez, donne-le-moi, c'est à moi de balayer.
+
+EMILIA	D'accord, je ne dis pas non parce qu'en ce moment,...
+
+PEPA	En ce moment, quoi?
+
+(BOUCLE 5 - 10:08:13:00)
+		05
+
+CARLOS	Mademoiselle. Madame.
+
+PEPA	Qu'est-ce qui lui prend, comment ce monstre a le courage de venir ici?
+
+EMILIA	C'est ce que je vais essayer de savoir. (hmm) (ah__)
+
+PEPA	(ptt)
+
+(BOUCLE 6 - 10:08:48:14)
+		06
+
+PEPA	Qu'est-ce qu'il veut?
+
+EMILIA	Une carafe de vin et du saucisson au piment fait maison.
+
+PEPA	Il t'a seulement demandé du vin et du saucisson?
+
+EMILIA	Non il m'a demandé aussi comment...se rendre quelque part!
+
+PEPA	Où ça?
+
+EMILIA	(euh ah) Il m'a demandé commant aller à la Pierre du Miel. C'est un rocher qui se trouve en haut du fleuve. (ah) Il y a des années il y avait des rûches et les gens allaient récolter du miel. Mais les abeilles sont parties et plus personne n'y va parce que c'est escarpé, tu es contente?
+
+PEPA	Mais pourquoi il veut savoir où c'est?
+
+EMILIA	Je n'en sais rien Pepa. Tu devrais arrêter de t'inquiéter! Tu ne crains rien tant que tu es là et ton fils non plus, puisqu'il est sous la protection de Tristan . D'accord?
+
+(BOUCLE 7 - 10:09:43:05)
+		07
+
+ALFONSO	(snif) Ca sent bon mes enfants. (haha rire hahah)
+
+RAMIRO	Arrête de renifler la cuisine,de toute façon, les fromages du Maréchal sont les meillleurs de la région, c'est parce que lui, il met des os de chiens dans son bouillon pour les cuire.
+
+ALFONSO	(haha rire ahaha) (haha rire ahaha)
+
+JUAN	(ahaha rire ahaha) Ne me fais pas rire, ça me fait encore mal aux côtes quand je ris ou quand je respire! Faut pas faire de bruit, Soledad se repose!
+
+ALFONSO	(aha rire ahahaha) Qui est-ce?
+
+HIPOLITO	Hipolito Miranar. Je voudrais voir Ramiro Castaneda.
+
+ALFONSO	Entre Hipolito, la porte est ouverte.
+
+RAMIRO	(hh___)
+
+HIPOLITO	Je suis venu personnellement pour régler les détails du duel, Ramiro. (ptt) J'avais l'intention de vous envoyer un officiel mais on m'a prévenu que ses appointements allaient me coûter très cher.
+
+(BOUCLE 8 - 10:10:31:10)
+		08
+
+JUAN	Tu crois encore à cette bêtise, Hipolito?
+
+HIPOLITO	Ca n'a rien d'une betise Juan, je suis un homme outragé et je veux obtenir réparation de cette offense!
+
+RAMIRO	Bon très bien, je me suis déjà excusé mais je veux bien le refaire! Excuse-moi si je t'ai offensé quand j'ai voulu regarder la piqûre de puce de ta fiancée.
+
+juan alfonso	(hhh rire hhh)
+
+HIPOLITO	(aeh eh) Et en plus, ça vous fait rire?
+
+JUAN	(ahahhh gr) Non, Hipolito, non! Pourquoi tu es aussi méfiant, mon frère et moi, on riait seulement du côté absurde de ses excuses!
+
+ALFONSO	Et pour être honnête Hipolito, les offensés, ça devrait plutôt être nous, ça faisait des jours que tu tournais autour de notre soeur et aujourd'hui, tu as trouvé une autre fiancée!
+
+HIPOLITO	(hm) Mais bon... c'est pas pareil, les circonstances sont différentes et en plus,ce n'est pas le sujet de la discussion.
+
+(BOUCLE 9 - 10:11:14:08)
+		09
+
+HIPOLITO	Revenons à nos moutons : je suis là parce que je veux être dédommagé immédiatement.
+
+RAMIRO	(Ah) Très bien! Mais on devrait suivre la procédure, non?
+
+HIPOLITO	Quelle procédure?
+
+RAMIRO	(ah hmm) Eh bien, celle qui dit qu'avant de régler les détails du duel, les duellistes et le témoin doivent boire un verre de vin ensemble!
+
+HIPOLITO	Bon, très bien... Si c'est ce que prévoit la procédure, Ramiro!
+
+ALFONSO	(ah___ ha___)
+
+(BOUCLE 10 - 10:11:55:24)
+		10
+
+ALFONSO	Et dis-nous, Hipolito? (ah___) quelles nouvelles tu as de l'explosion du chariot? Toi, en tant que fils du maire, tu as sûrement des informations avant les autres.
+
+HIPOLITO	Non, non, ne crois pas ça, mon père ne me donne pas tant d'informations, je suis le dernier au courant!
+
+JUAN	Mais ... on sait à qui il appartenait ou pas?
+
+HIPOLITO	(ah__) Non, l'explosion ressemble à un vrai tour de magie!
+
+JUAN	Ah oui! Ca veut dire... que vous ne savez pas du tout ce qui s'est passé?
+
+HIPOLITO	(ha) Tellement peu que j'ai entendu mon père dire qu'il voulait carrément arrêter l'enquête!
+
+JUAN	D'accord.
+
+ALFONSO	(aha___)
+
+(BOUCLE 11 - 10:12:43:04)
+		11
+
+EMILIA	Je me suis dit que ça te ferait du bien un peu de distraction!
+
+SEBASTIAN	Bonsoir Emilia!
+
+EMILIA	Et que je te trouverai en train de travailler!
+
+SEBASTIAN	Il faut bien que quelqu'un s'occupe des factures à payer dans cette maison. (aha) Les frais d'une entreprise de cette importance sont colossaux.
+
+EMILIA	Je travaille dans une auberge, je sais ce que ça veut dire. Tu as réussi à te mettre d'accord avec Soledad pour les étiquettes des conserves?
+
+SEBASTIAN	(ah__) Demain, elle vient me voir avec les premières ébauches. Je suis sûr qu'elle a bien  travaillé!
+
+EMILIA	Oui, je n'ai pas de doute là dessus. (ah__ hmm) (hhh)
+
+SEBASTIAN	(ah__) Quand on est aussi silencieux tous les deux, ça me fait trembler!
+
+EMILIA	(ha)
+
+SEBASTIAN	Tu as quelque chose à me dire? Vas-y, parle!
+
+(BOUCLE 12 - 10:13:19:23)
+		12
+
+EMILIA	Non,non...je ne suis pas venu te parler, je voulais savoir si tu avais mis les choses au clair avec Virtudes et ce parvenu de Gerardo!
+
+SEBASTIAN	(ah__) Je n'ai pas encore eu le temps! (h\ Mais rassure-toi,il ne se passera rien demain. (ah__) Et en plus, j'ai entendu dire par un ami qu'il allait récupérer le contrôle de sa vie! (ah) Et je vais en faire de même.
+
+EMILIA	Comment tu feras?
+
+SEBASTIAN	Je ne sais pas encore. (ah__) Je dois y réflechir et je veux avoir l'esprit totalement libre pour affronter ce moment.
+
+EMILIA	C'est pour ça que tu travailles comme un fou! Pour ne pas te retrouver seul face à ce que tu ressens, c'est ça?
+
+SEBASTIAN	(ah__) Ca m'ennuie tellement de savoir que Virtudes a profité de ma bonne volonté. Qu'elle ne ressentait rien pour moi alors que je...
+
+EMILIA	Alors que tu l'aimais! C'est ça?
+
+(BOUCLE 13 - 10:13:58:12)
+		13
+
+SEBASTIAN	Il faut voir les choses telles qu'elles sont. (ha inspi) Tu ne sais pas ce que c'est d'aimer quelqu'un qui ne ressent pas d'amour pour toi.
+
+EMILIA	(ha__) Si je le sais. (hh)
+
+SEBASTIAN	(ahha rire) On ne peut pas dire que les Ulloa soient très heureux pour les choses de l'amour!
+
+EMILIA	(hh) (ah) J'espère qu'on sera heureux au moins en affaires.
+
+SEBASTIAN	(ah__) Tu auras du succès à Madrid, Emilia. J'en suis sûr.
+
+EMILIA	Oui! Je t'avoue que je ne me fais pas d'illusions Sebastian. Et puis... je me fais du souci à l'idée que Papa restera tout seul.
+
+SEBASTIAN	Papa ne sera pas seul.
+
+EMILIA	(hmm)
+
+(BOUCLE 14 - 10:14:36:16)
+		14
+
+SEBASTIAN	Tu as vu comment tous les gens du village l'ont aidé à construire la posada, ils l'aiment!
+
+EMILIA	Oui mais je serai quand même beaucoup plus tranquille de savoir que c'est TOI qui prendra soin de lui.
+
+SEBASTIAN	(ahh_ hmmah) Emilia... (ah______) Il est vrai que Père et moi avons des différents, mais je veillerai sur lui en ton absence. A une condition.
+
+EMILIA	(hmm hh)
+
+SEBASTIAN	(ah) Que la célèbre cuisinère Emilia Ulloa...
+
+EMILIA	(ahaha)
+
+SEBASTIAN	n'oublie jamais que son frère est pauvre.
+
+EMILIA	(hhh) (ah) Entendu!
+
+SEBASTIAN	(haha)
+
+EMILIA	(haha rire)
+
+SEBASTIAN	(haha rire)
+
+(BOUCLE 15 - 10:15:30:03)
+		15
+
+RAIMUNDO	Les frères Castaneda? Vous êtes là ... C'est la maison qu invite . Pain aux olives et chocolat à volonté aujourd'hui!
+
+RAMIRO	Merci beaucoup, c'est gentil Raimundo! Et à quoi on doit cet accueil? Vous avez gagné à la loterie, c'est ça?
+
+RAIMUNDO	Vous êtes là, c'est comme si j'avais gagné à la loterie. Vous êtes toujours près de moi... et ce serait injuste que je ne vous reçoive pas bien. Hier, j'étais un peu contrarié parce que je vous rendais responsable de ne pas trouver de personne qualifiée pour remplacer Emilia!
+
+ALFONSO	(aha__) Si on oubliait ce qui s'est passé, Raimundo!
+
+RAIMUNDO	Ce n'est pas parce qu'on est pauvres qu'on doit être désagréable, je l'ai été avec vous, c'est pourquoi je vous demande d'accepter mes excuses.
+
+RAMIRO	(hh) Excuses acceptées, Don Raimundo!
+
+RAIMUNDO	Merci!
+
+ALFONSO	Et maintenant? On doit continuer à chercher une cuisinière? On a pas encore vue toutes les candidates de Puente Viejo, on va devoir aller à la Puebla!
+
+RAIMUNDO	Mais d'abord régalez-vous avec ce déjeuner, et les affaires sérieuses, on en parlera plus tard. Allez-y, mangez!
+
+(BOUCLE 16 - 10:16:36:00)
+		16
+
+DON ANSELMO	Vous vous comportez comme si vous y voyez clair alors que vous ne voyez rien du tout, Raimundo! Quand allez-vous comprendre que vous êtes complètement aveugle!
+
+RAIMUNDO	(chut) Père Anselmo, baissez d'un ton, vous voulez qu'Emilia s'en rende compte?
+
+DON ANSELMO	(ah__) Emilia est en cuisine où elle est en train de préparer à manger à tous ces clients affamés! Vous nec royez pas que vous avez assez  fait l'idiot comme ça Raimundo? Quelle drôle d'idée de faire à croire à votre fille que vous voyez clair alors que vous ne voyez rien?
+
+RAIMUNDO	Soyez gentil, laissez-moi faire comme je le veux!
+
+DON ANSELMO	Vous comme moi n'avons plus l'âge de faire ce genre d'idioties! Pourquoi vous ne lui dites pas la vérité et puis voilà?
+
+RAIMUNDO	(ha) Vous voulez que je lui gâche la vie et que je l'oblige à rester pour soigner un père aveugle et inutile?
+
+DON ANSELMO	C'est à elle de prendre sa décision, pas à vous.
+
+RAIMUNDO	Vous connaissez ma fille mieux que personne. Vous croyez qu'elle oserait partir à Madrid et vivre sa vie, si elle savait que son père n'a pas recouvré la vue? Non!
+
+DON ANSELMO	(ptt)
+
+RAIMUNDO	Je veux qu'elle profite de toutes les possibilités que lui offre la vie. Elle le mérite!
+
+DON ANSELMO	Et comment ferez-vous tout seul sans Emilia, malheureux?
+
+RAIMUNDO	Je l'ignore! Je ne sais pas comment sera ma vie sans elle. Je sais qu'elle me manquera plus que mes propres yeux. Mais on verra plus tard, j'y penserai quand elle sera sur le point de partir.
+
+DON ANSELMO	(hhh___) (ptt)
+
+(BOUCLE 17 - 10:17:56:03)
+		17
+
+PEPA	Donc tu n'as pas eu de nouvelles douleurs ?
+
+SOLEDAD	Non, pour la centième fois, non Pepa! Pas de douleurs, pas de fièvre, pas de contractions. (ahhh__) Pas de perte de sang. (ah___) Quand est-ce que tu vas comprendre que je vais bien? Ca se voit non?
+
+PEPA	(ah__) Je le vois et je m'en réjouis. Mais... Continue à faire attention! Tu dois absolument te reposer!
+
+SOLEDAD	Mais j'en ai assez de rester enfermé entre ces quatre murs avec pour seule occupation...d'écrire des étiquettes de conserves. (ah__)
+
+TRISTAN	Je peux?
+
+SOLEDAD	Tristan?
+
+TRISTAN	Comment vas-tu?
+
+PEPA	J'essayais de lui faire comprendre qu'elle devait se reposer et faire attention sinon je me fâche!
+
+TRISTAN	Tu dois écouter ses conseils!
+
+SOLEDAD	ah___)
+
+TRISTAN	Dans quelques mois, je veux m'occuper de mon premier neveu.
+
+SOLEDAD	Vous vous en occuperez tous les deux! (ah__) Si je continue à vivre reclue, je vais finir par mourir d'ennui!
+
+PEPA	(hhh)
+
+TRISTAN	(hhh)
+
+(BOUCLE 18 - 10:18:44:20)
+		18
+
+TRISTAN	(ah hmm) (x)
+
+PEPA	Qu'est-ce que tu fais Tristan?
+
+TRISTAN	Je ne pouvais pas résister, j'avais envie de sentir la chaleur de ta bouche! Et puis, ne t'en fais pas pour ma soeur!
+
+PEPA	Un peu de patience, tu pourrais attendre que ce soit le bon moment.
+
+TRISTAN	C'est toujours le bon moment quand on a envie de fournir des preuves de son amour.
+
+PEPA	Ce n'est pas la peine de sortir des belles phrases, je ne me jetterai pas dans les bras d'un beau parleur!
+
+TRISTAN	Bon très bien! Un seul baiser et je te laisse tranquille! Parole d'un ancien capitaine sur le point d'être fusillé!
+
+(BOUCLE 19 - 10:19:17:18)
+		19
+
+PEPA	(hhh) (x) Ce sera tout pour cette fois!
+
+SOLEDAD	(ah hhh) Le problème de cette maison c'est le manque d'intimité. Les murs sont fins comme du papier et...on entend absolument tout! Je suis contente de vous voir heureux tous les deux! Vous formez un beau couple! Vous le savez?
+
+TRISTAN	(x)
+
+PEPA	(ah hahaha)
+
+TRISTAN	(hhh)
+
+(BOUCLE 20 - 10:19:43:22)
+		20
+
+SEBASTIAN	(ah___ ah___ ah___) (ptt)
+
+VIRTUDES	Quelle belle journée aujourd'hui.
+
+SEBASTIAN	Elle pourrait être encore plus radieuse!
+
+VIRTUDES	Qu'est-ce que tu as? Je te trouve bien morose aujourd'hui.
+
+SEBASTIAN	Peut-être parce que rien ne me rend assez heureux dans ma vie.
+
+VIRTUDES	Pourquoi tu dis ça?
+
+SEBASTIAN	Dis-moi que tu m'aimes. Et que tu attends le bon moment pour quitter ton mari.
+
+VIRTUDES	(ah__) Tu sais bien que je le ferai.
+
+SEBASTIAN	Non. (ah hhh inspi nez) Je commence à ne plus y croire. (ha__) (ah___) Je ne me cacherai pas plus longtemps, Virtudes. Je veux que tu viennes aujourd'hui même à Puente Viejo.
+
+VIRTUDES	Sebastian, tu ne parles pas sérieusement, il y a des patrouilles militaires...
+
+SEBASTIAN	Je me moque des ces patrouilles! Viens avec moi, pars avec l'amour de ta vie.
+
+VIRTUDES	Mais l'amour de ma vie, c'est toi! Je t'aime de tout mon être.
+
+(BOUCLE 21 - 10:20:38:13)
+		21
+
+VIRTUDES	J'ai toujours souhaité être avec toi et on y arrivera un jour.
+
+SEBASTIAN	Tu n'es qu'une menteuse.
+
+VIRTUDES	Non, je ne t'ai jamais menti.
+
+SEBASTIAN	(hmm ah) Tu veux me faire croire que tu ne sais pas que Gerardo voit tous les jours un groupe d'anarchistes armés jusqu'aux dents!
+
+VIRTUDES	(ah)
+
+SEBASTIAN	Pars avec moi aujourd'hui et quitte-le une fois pour toutes.
+
+VIRTUDES	Non, ...tu ne peux pas me demander ça. Où on ira après? Gerardo est poursuivi par des gens qui veulent le tuer.
+
+SEBASTIAN	Il n'aura que ce qu'il mérite!
+
+VIRTUDES	Quand il saura que tu ne lui apportes plus ton soutien, il sera totalement désemparé.
+
+SEBASTIAN	Je ne veux pas le savoir. Si demain à cette heure, tu n'es pas loin d'ici, c'est moi qui vous dénoncerais. Dis bien ça à ton mari.
+
+VIRTUDES	(ahah) Sebastian. (ah___) (aha__) (aha_______)
+
+(BOUCLE 22 - 10:21:32:20)
+		22
+
+ALFONSO	(ahaa_) C'est encore toi, Hipolito! Je te vois plus souvent que le soleil en ce moment!
+
+HIPOLITO	Et tu me verras plus souvent tant que Ramiro et moi, nous n'aurons pas réglé nos affaires.
+
+RAMIRO	Qu'est-ce que tu veux encore?
+
+HIPOLITO	Hier soir tu as fait diversion avec ton fromage et ta procédure et je suis parti sans discussion. Mais je ne suis pas le genre d'homme à oublier facilement un outrage, espèce de pauvre guignol.
+
+ALFONSO	Calme-toi mon vieux! Entre Hipolito, je t'en prie. Pourquoi tu ne te contentes pas de simples excuses?
+
+HIPOLITO	Parce que lorsqu'on veut laver son honneur, on ne peut le faire qu'en faisant couler du sang, Alfonso.
+
+ALFONSO	Mais réflechis un peu... Tu ne trouves pas ça complètement idiot que toi et Ramiro vous vous battiez en duel alors que vous vous connaissez depuis votre enfance?
+
+HIPOLITO	Mais non justement, la douleur de l'humiliation est encore plus forte.
+
+(BOUCLE 23 - 10:22:15:06)
+		23
+
+HIPOLITO	Tu as essayé... tu as essayé de séduire Angelinita Ramiro,de séduire MON Angelinita!
+
+RAMIRO	Mais non, c'est elle qui m'a fait voir son mollet, ne dis pas d'idioties!
+
+HIPOLITO	Mais..mais, avoue-le, tu as touché la partie charnue de sa jambe et... et..et moi, en tant qu'ancien militaire, je veux... et j'exige réparation, espèce de filou malhonnête.
+
+RAMIRO	Bon ça suffit, je commence à en avoir assez de tes insultes.
+
+HIPOLITO	Oui, eh bien, eh bien dans ce cas, dans ce cas, accepte mon défi.
+
+ALFONSO	Ca va, ça va, maintenant, réfléchissez. Les duels sont non seulement absurdes mais ils sont interdits!
+
+HIPOLITO	Non, vous ne m'aurez pas bande de voyous,pas cette fois, je ne m'en irai pas tant qu'on ne se sera pas mis d'accord. Dans la Vanguardia, il est écrit qu'il y a eu plus de mille duels, dont trente-cinq d'entre eux, ont eu lieu pour laver l'honneur d'une jeune promise.
+
+(BOUCLE 24 - 10:22:58:07)
+		24
+
+HIPOLITO	Et il ne faut pas oublier qu'il ya peu de temps, votre frère Juan et le Marquis d'Albi se sont battus en duel devant de nombreuses autorités. Alors, qu'est-ce que tu me dis Ramiro? Tu acceptes mon défi ou bien je serai obligé de crier aux quatre vents que tu n'es qu'un  jeune lâche sans aucun courage.
+
+RAMIRO	Bon très bien. Avec quelle arme on se battra?
+
+HIPOLITO	Eh bien, j'avoue que je n'ai pas encore pensé à ce détail mais... Quand je saurai quelle arme je veux utiliser, je te donnerai de mes nouvelles. Messieurs.
+
+ALFONSO	(aha) (oh)
+
+(BOUCLE 25 - 10:23:53:07)
+		25
+
+TRISTAN	Bonjour Carlos. J'allais justement te chercher pour te parler d'un sujet qui me tient à coeur.
+
+CARLOS	Je voulais te voir moi aussi.
+
+TRISTAN	A toi l'honneur.
+
+CARLOS	Je voudrais te parler de Martin.
+
+TRISTAN	Qu'est-ce qui se passe avec mon fils?
+
+CARLOS	Il est très éveillé. Quel âge il a  déjà?
+
+TRISTAN	(ptt ah) Il vient juste d'avoir sept ans!
+
+CARLOS	C'est à la même période que j'ai perdu ma femme et mon fils dans cet horrible incendie en Asturies.
+
+TRISTAN	(ah__ )C'est très triste Carlos. Feue mon épouse a réussi à sortir vivante miraculeusement de cet incendie.
+
+CARLOS	Oui, je suis au courant. (ah) Tu m'as raconté que ta femme était invitée chez nous ce soir-là.
+
+(BOUCLE 26 - 10:24:45:16)
+		26
+
+CARLOS	Et elle devait être enceinte de ton fils à l'époque. Comment se fait-il qu'ils aient réussi à échapper aux flammes mais pas ma femme et mon fils? Tristan?
+
+TRISTAN	(ptt) Carlos, comme tu le sais... à cette époque,moi, je me trouvais en outre-mer. Mais je sais de source sûre qu'Angustias dormait près de l'endroit où s'est déclaré l'incendie. Où tu dormais toi aussi malheureusement ainsi que ta femme...et ton fils.
+
+CARLOS	(ah__) L'incendie serait dû à un cigare mal éteint. Ce que je trouve dommage... c'est que bien que je ne me souvienne pas de mon fils, je suis certain que si le malheur ne s'était pas abattu sur ma famille, Martin et lui seraient devenus meilleurs amis.
+
+TRISTAN	J'en suis sûr aussi!
+
+(BOUCLE 27 - 10:25:30:09)
+		27
+
+TRISTAN	(pt ah__) Mais tu ne m'as pas dit pourquoi tu voulais me parler de mon fils.
+
+CARLOS	(a__) Je voulais juste te proposer qu'on s'en aille tous les trois quelques jours d'ici! On pourrait se faire mijoter un sanglier dans la forêt sur un feu de bois!
+
+TRISTAN	C'est une idée!
+
+CARLOS	Et toi? De quoi tu voulais me parler?
+
+TRISTAN	(ah__) Oui,...maintenant que tout est réglé pour le problème de Cuba, je voudrais qu'on parle à nouveau de l'idée du traitement du docteur Mendibil.
+
+CARLOS	(ah___) Oui, je trouve ton idée excellente. (ah__) Je souhaite plus que quiconque me souvenir de mon passé.
+
+TRISTAN	(hh hm)
+
+(BOUCLE 28 - 10:26:14:17)
+		28
+
+HIPOLITO	(ptt) Alors,je vois que tu as réussi à quitter la ville et venir jusqu'ici,Castaneda! Tu envisageais peut-être de quitter Puente Viejo sans que personne ne s'en rende compte?
+
+RAMIRO	(hmm)
+
+ALFONSO	(ah___) Hipolito, ne dis pas ça, tu sais que mon frère Ramiro t'apprécie. Mais tu vas finir par l'énerver avec tes bêtises!
+
+HIPOLITO	C'est ce que tu crois ? Que ce sont des bêtises? Mais j'ai bien l'intention de lui donner une bonne leçon ...à ce bonimenteur de jeune fille innocente.
+
+RAMIRO	Angelina n'a rien d'une jeune fille innocente. Et d'ailleurs, Alfonso et moi, on les connaît ses filles qui aiment les histoires. Vas-y dis-lui Alfonso!
+
+ALFONSO	C'est comme avec les filles de Zacarias, quand on s'en approche, on sait que ça tournera mal!
+
+HIPOLITO	De quel droit tu oses la comparer avec cette serveuse de bas étage?
+
+(BOUCLE 29 - 10:26:55:04)
+		29
+
+ALFONSO	(ah) Eh bien, celle là tu vas la payer cher! Hipolito, tu n'as rien dans la cervelle ou quoi, calme-toi ou tu vas repartir avec des dents en moins.
+
+HIPOLITO	Tais-toi espèce d'idiot, quand j'en aurai fini avec ton frère, je m'occuperai de toi.
+
+ALFONSO	(aha)
+
+HIPOLITO	Comment vous trouvez l'arme que j'ai choisie?
+
+RAMIRO	Je me rends compte que tu es encore plus fou que je le pensais! On ne se battra pas : ni mon frère, ni moi.
+
+HIPOLITO	Jusqu'à la première goutte de sang. Je pense que c'est l'arme idéale ... pour me laver de cette offense puisqu'elle me permet de prouver mon amour pour Angelina sans prendre le risque de nous tuer ni vous, ni moi.
+
+ALFONSO	Ecoute... On ne veut surtout pas que tu soies blessé, alors on préfère te laisser là et passer à autre chose.
+
+(BOUCLE 30 - 10:27:35:10)
+		30
+
+HIPOLITO	Comment?
+
+ALFONSO	Viens, on y va!
+
+HIPOLITO	Vous voulez partir sans me donner réparation?
+
+RAMIRO	On préfère partir oui, parce que tu es devenu fou sûrement à cause des champignons vénéneux que tu as mangés! Tu devrais faire plus attention!
+
+HIPOLITO	Vous êtes des lâches... Les frères Castaneda sont des trouillards.
+
+ALFONSO	(aha__) Ta mère aurait pas dû te mettre au monde! Hipolito! Comme tu continues à dire des idioties, on va le faire ton duel!
+
+HIPOLITO	Affrontez votre destin comme de vrais hommes, pas comme des trouillards dégonflés. Je veux obtenir réparation!
+
+RAMIRO	La c'est trop! On recule de dix pas!
+
+HIPOLITO	Neuf pas!
+
+(BOUCLE 31 - 10:28:12:09)
+		31
+
+ALFONSO	Un, deux, trois, quatre, cinq, six, sept, huit, neuf.
+
+HIPOLITO	(ah)
+
+ALFONSO	(ah hm) (ha___) (hhh ah ahaha)
+
+(BOUCLE 32 - 10:28:31:24)
+		32
+
+MARIANA	On devrait peut-être appeler le docteur Guerra! Quand madame descendra,on sera dans un sacré pétrin.
+
+RAMIRO	S'il ne se réveille pas d'ici là, on ira chercher Pepa, je suis sûr que ce n'est pas grave.
+
+MARIANA	Et pourquoi vous avez joué avec des lance-pierres, c'est de l'inconscience.
+
+ALFONSO	C'est à cause d'Hipolito, on n'avait pas le choix, il nous a tellement provoqués qu'on a été obligés d'accepter le duel.
+
+MARIANA	Ca m'étonne beaucoup de toi, Ramiro! Tu aurais pu tirer ailleurs!
+
+RAMIRO	Mais, mais je ne lui ai pas tiré dessus, je te jure sur ma tête que...
+
+MARIANA	Si bien sûr, arrête de mentir! Expliquez-moi pourquoi il a l'oeil aussi rouge?
+
+ALFONSO	Parce qu'il a tellement tiré sur l'élastique de son lance-pierres, que la pierre est tombée et il a pris le manche de son arme dans l'oeil!
+
+HIPOLITO	(aha) Qui est là? Qui va là, qui c'est?
+
+MARIANA	Hipolito,
+
+JUAN	Hipolito, c'est Mariana.
+
+HIPOLITO	(hhh) Mariana?
+
+(BOUCLE 33 - 10:29:11:15)
+		33
+
+HIPOLITO	Mariana, est-ce que je suis mort et je suis monté au ciel?
+
+MARIANA	Ne dis pas d'idioties! (ah_) Mes frères t'ont ramené à la maison.
+
+HIPOLITO	Mariana, ma petite Mariana, je t'en supplie, sois honnête envers moi, je ne suis pas un homme fragile, je suis réserviste de l'armée et je peux tout entendre! (ah) Je vais rester aveugle comme Don Raimundo, c'est ça?
+
+MARIANA	(ahah) Tu ne seras pas aveugle, arrête de t'inquiéter.
+
+HIPOLITO	(ahah)
+
+MARIANA	Attends...
+
+ALFONSO	Oh non, tu as vu l'état de son oeil?
+
+RAMIRO	Il faudrait mettre quelque chose de froid dessus, sinon, tu n'arriveras plus à l'ouvrir!
+
+HIPOLITO	(aha) (ah) Mais...je l'ai eu mon duel... donc je crois qu'on est quitte.
+
+(BOUCLE 34 - 10:29:51:08)
+		34
+
+HIPOLITO	Excusez-moi si durant le procès, j'ai pu vous offenser d'une manière ou d'une autre.
+
+MARIANA	Je peux savoir pourquoi vous vous êtes battus en duel?
+
+ALFONSO	Parce que Ramiro a vu le mollet de sa fiancée.
+
+MARIANA	Tu as une fiancée?
+
+HIPOLITO	Hein? Hein? Quoi, euh, non, non, mais non enfin Mariana, c'est une relation qui ne me mènera à rien, j'envisage sérieusement de tout arrêter!
+
+MARIANA	Ah oui, va raconter ça aux autres filles!
+
+HIPOLITO	Mais, qu'est-ce que tu dis Mariana, mais non, je n'irai jamais chercher une fille aussi capricieuse qu'Angelina! Regarde, je vais te le prouver tout de suite. Vous pouvez courtiser Angelina autant que vous le voulez.
+
+RAMIRO	Ca suffit, laisse-nous tranquilles avec ça, Hipolito!
+
+MARIANA	(ahaha) Et alors, tu as rencontré la jeune fille que tu cherchais?
+
+HIPOLITO	(aha) J'ai l'impression que je suis sur le bon chemin!
+
+MARIANA	(hhh)
+
+JUAN	(hmm)
+
+(BOUCLE 35 - 10:31:01:14)
+		35
+
+SEBASTIAN	(aha) (ptt)
+
+SOLEDAD	Je sais que tu m'as demandé quelque chose de sobre mais,... mais je me suis dit que si c'était plus joyeux,on vendrait plus de conserves.
+
+SEBASTIAN	(hh)
+
+SOLEDAD	(hhh ah) Ne t'inquiète pas, tu ne me payeras pas si mon travail ne te convient pas!
+
+SEBASTIAN	(ah)
+
+SOLEDAD	Je peux tout recommencer si tu veux que je fasse autre chose...
+
+SEBASTIAN	C'est très bien Soledad. Rassure-toi, c'est exactement ce que je voulais.
+
+SOLEDAD	C'est vrai?
+
+SEBASTIAN	Eh oui! Je vais l'apporter tout de suite à l'imprimerie. Félicitations!
+
+(BOUCLE 36 - 10:31:33:13)
+		36
+
+SEBASTIAN	Ca c'est pour toi... pour le travail que tu vas fournir cette semaine!
+
+SOLEDAD	Celui de cette semaine?
+
+SEBASTIAN	(ah) Oui, je veux que tu commences à dessiner toutes les étiquettes de nos produits! Je pense que ce travail te prendra au moins ...au moins cinq semaines! Qu'en penses-tu?
+
+SOLEDAD	(ah__ ah) J'en pense que je te suis très reconnaissante. Mais non! Ma mère va s'en rendre compte et on aura des problèmes tous les deux!
+
+SEBASTIAN	Ne t'inquiète pas pour moi!
+
+(BOUCLE 37 - 10:32:00:16)
+		37
+
+PEPA	Excusez-moi de vous déranger. Je suis venue t'apporter de la gentiane, je ne reste pas longtemps!
+
+SOLEDAD	Merci!
+
+SEBASTIAN	Ne t'en va pas Pepa. Aide-moi à convaincre Soledad? Elle est têtue comme une mule et elle ne m'écoute pas.
+
+SOLEDAD	(ptt)
+
+PEPA	Ca ne m'étonne pas!
+
+SEBASTIAN	Je lui ai proposé de dessiner les étiquettes de tous nos produits en échange d'un bon salaire... et elle a dit non!
+
+PEPA	Et pourquoi, le salaire ne te convient pas?
+
+SOLEDAD	Bien sûr que si! Mais je ne veux rien devoir à ma mère!
+
+SEBASTIAN	Mais cet argent sortira de ma bourse!
+
+SOLEDAD	Et alors Sebastian.
+
+PEPA	Garde ta fierté pour toi ma belle! Si on te paye pour accomplir un travail, tu ne devras rien ni à ta mère,ni à Sebastian. Pardonne-moi de me mêler de ce qui ne me regarde pas mais toi et moi, on ne peut pas refuser un salaire quand on fait bien notre travail!
+
+SEBASTIAN	(hmm aha) Je crois que c'est clair!
+
+SOLEDAD	(ah__)
+
+(BOUCLE 38 - 10:32:53:22)
+		38
+
+FRANCISCA	(ah__) Oui, entrez!
+
+SANZ	Excusez-moi de vous déranger, Donia Francisca.
+
+FRANCISCA	Commandant Sanz. (ah__) Je ne pensais pas avoir le plaisir de vous revoir de si tôt puisque mon fils a été disculpé. Mais je vois que je vais devoir vous faire préparer une chambre finalement.
+
+SANZ	(ah__) Je vous ai déjà dit que les faits survenus à Cuba devraient suffir à l'innocenter sauf si de nouvelles preuves  sont mises à jour, madame.
+
+FRANCISCA	Et il ne faut surtout pas que vous en trouviez.
+
+SANZ	Par contre, ce qui reste encore en suspens, c'est la question de l'assassinat du capitaine Prieto.
+
+FRANCISCA	(ah__) Et est-ce que vous insinuez que moi ou un de mes hommes, nous sommes responsables de cela?
+
+SANZ	(ah__) Non, je n'insinue rien.
+
+(BOUCLE 39 - 10:33:32:01)
+		39
+
+SANZ	(ah) Je ne fais qu'accomplir mon devoir.
+
+FRANCISCA	Eh bien, dépêchez-vous. Parce que je suis une femme très occupée, que voulez-vous ?
+
+SANZ	(ah__) Je suis là pour Carlos Castro, votre autre fils.
+
+FRANCISCA	(ah__ hhexpi nez) Grâce à Dieu, vous faites erreur dans la deuxème partie de votre phrase, Commandant Sanz. (ah__) Cet homme, et c'est bien dommage, est le frère de mon fils, mais je ne suis pas sa mère.
+
+SANZ	(ah__) Dans ce cas, il est le fils du premier mariage de votre mari.
+
+FRANCISCA	Mais quelle perspicacité, je vois que vous irez loin! (ah_) Et alors, dites-moi, pourquoi vous le cherchez?
+
+SANZ	(ah__) La dernière fois qu'on a vu le Capitaine Prieto en vie, il se rendait à la maison close de la Puebla.
+
+(BOUCLE 40 - 10:34:10:09)
+		40
+
+SANZ	(ah__) Des témoins affirment qu'un homme sinistre, avec des cicatrices importantes, se trouvait là bas lui aussi ce soir-là.
+
+FRANCISCA	C'est sûrement lui! Je reconnais la description physique que vous faites ainsi que ses habitudes en matière de femmes (aha), aucun doute qu'il ressemble à son père!
+
+SANZ	(ah__) Et vous savez où je peux le trouver?
+
+FRANCISCA	Carlos a des habitudes pour le moins étonnantes. Quand ça lui prend, il part se balader, comme vous avez pu le constater, ou bien il erre dans le jardin, comme un mort-vivant qui essaye de retrouver sa mémoire perdue. Sincèrement, cela m'importe peu!
+
+(BOUCLE 41 - 10:34:41:12)
+		41
+
+FRANCISCA	(hm) Vous croyez qu'il pourrait être l'assassin?
+
+SANZ	C'est ce que je voudrais vérifier. (ah__) Et vous, vous le croyez?
+
+FRANCISCA	Malheureusement, cet homme a connu un énorme choc lorsque sa famille a été décimée, et cela a irrémédiablement altéré son jugement. (ah) Je le crois capable de faire n'importe quoi.
+
+SANZ	(ah___) Merci beaucoup pour votre collaboration, madame, si ça ne vous dérange pas, je vous attends dans le salon.
+
+FRANCISCA	Allez-y, vous êtes chez vous, commandant.
+
+SANZ	(ah__) Merci, c'est très gentil. Si vous voulez bien m'excuser.
+
+(BOUCLE 42 - 10:35:36:07)
+		42
+
+JUAN	(ah) Qu'est-ce que tu bois?
+
+SOLEDAD	(ah__) C'est une infusion de gentiane...d'après Pepa, ça me fera beaucoup de bien!
+
+JUAN	(ah) Je t'avoue que je n'ai pas très envie de goûter à ton infusion .
+
+SOLEDAD	Le docteur Guerra t'a dit de rester tranquille, et tu n'arrêtes pas Juan!
+
+JUAN	C'est toi qui me fais la leçon! (aha___)
+
+SOLEDAD	(aha) C'est vrai! J'ai une bonne nouvelle à t'annoncer! Qu'est-ce que tu dis de ça?
+
+JUAN	Ben... C'est bien mais il y a en a que deux.
+
+SOLEDAD	Mais tu peux les multiplier par cinq! Parce que Sebastian m'a chargé de faire toutes les étiquettes de la conserverie.
+
+JUAN	(hh) Félicitations.
+
+SOLEDAD	Et c'est tout? J'ai l'impression de t'avoir annoncé une mauvaise nouvelle.
+
+(BOUCLE 43 - 10:36:25:14)
+		43
+
+JUAN	(hh) Non! Non, ce n'est pas ça Soledad. C'est que... c'est moi qui devrais rapporter l'argent du foyer, pas toi.
+
+SOLEDAD	(ahhhh) Et alors, ce n'est pas important.
+
+JUAN	Mais je suis un homme!
+
+SOLEDAD	(hh) Et moi, une femme... Et ce que tu sens ici...c'est ton enfant. On ne fait plus qu'un tous les trois. Ce n'est pas grave que ce soit toi ou moi qui gagne de l'argent.
+
+JUAN	(hhh) Je t'ai déjà dit que je t'aimais?
+
+SOLEDAD	(ah__) Pas souvent...à vrai dire! (x)
+
+JUAN	(x) (x) (x)
+
+(BOUCLE 44 - 10:37:17:13)
+		44
+
+PEDRO	(ah)
+
+ELOISA	Grâce au ciel, le docteur Guerra me laisse faire ces petites promenades pour entretenir ma jambe! (ah__) Dans la maison, j'ai l'impression d'étouffer.
+
+PEDRO	(ah) (ah ah) Vous devez sûrement avoir les os durs comme de la pierre dans votre famille, pour récupérer aussi vite de votre lésion, madame la Duchesse. (aha rire)
+
+ELOISA	Si c'était le cas, je serai en train de parcourir les couloirs de la maison, pas ces allées!
+
+PEDRO	(aha) Mais vous serez d'accord avec moi, les paysages de Puente Viejo sont d'une beauté...céleste, n'est-ce pas?
+
+ELOISA	Oui, je suis d'accord monsieur Alcalde, il ne me reste que ça! Et oui...ces allées sont belles mais je préfère les admirer d'une calèche, et loin de toute civilisation.
+
+(BOUCLE 45 - 10:37:50:12)
+		45
+
+MAURICIO	Excusez-moi...madame la Duchesse, vous ne devriez pas aller plus loin. Vous ne voudriez pas dépasser les limites du domaine.
+
+ELOISA	Vous insinuez que je suis en prison, contremaître?
+
+MAURICIO	Non, bien sûr que non! (ptt ah) Si vous souhaitez aller quelque part, demandez-le. Et un des hommes du domaine vous accompagnera.
+
+ELOISA	(ahah rire haha) Il ne manquait plus que ça : être escortée par un tas de misérables inutiles!
+
+MAURICIO	Ce sont les ordres de Donia Francisca.
+
+PEDRO	(ah hm)
+
+ELOISA	(hh)
+
+PEDRO	(ah) Tout ça, c'est pour votre sécurité, vous le savez; car nous sommes à la merci de ces anarchistes, en ce qui me concerne, je suis chargé de l'enquête du chariot qui a explosé.
+
+ELOISA	Et d'ailleurs, nous ne savons toujours pas ce qu'il en est.
+
+PEDRO	Les bruits circulent vite dans une maison, comme vous le savez! (rire hahahaha)
+
+ELOISA	Ne vous agitez pas s'il vous plaît, monsieur Alcalde, avec cette jambe, nous n'irons pas loin. Et puis si ces chemins n'étaient pas couverts de nid-de-poule, je pourrais au moins voyager en calèche.
+
+(BOUCLE 46 - 10:38:43:14)
+		46
+
+PEDRO	Patience, madame La Duchesse.
+
+ELOISA	Ma patience...s'est effritée dans cet endroit perdu au bout du monde.
+
+PEDRO	(ha__ )Et vous ne vous ne sentez pas bien traîtée par les gens de Puente Viejo?
+
+ELOISA	Si...bien traîtée, ça oui! Mais je crois vous avoir déjà dit qu'ici, il me manque de nombreuses commodités.
+
+PEDRO	Ne dites pas cela à Donia Francisca, elle pourrait se sentir offensée. Et elle n'est pas du genre à pardonner les remarques à la légère!
+
+ELOISA	(ah) Eh bien sachez que pour cette maison, c'est un honneur de m'héberger. Et ce que vous appelez des "remarques" ne sont que des demandes correspondant à mon niveau social. Maintenant, retirez-vous, je vous en prie.
+
+PEDRO	Comme vous voudrez, au revoir madame.
+
+ELOISA	Une dernière chose, Alcalde.
+
+PEDRO	Oui, dites-moi?
+
+ELOISA	Où est logée la famille qui sert dans ce logis?
+
+PEDRO	(ptt ah aha)
+
+(BOUCLE 47 - 10:39:42:18)
+		47
+
+ROSARIO	(ah)
+
+PEPA	Qu'est-ce que tu fais, attends tu vas te faire mal.
+
+ROSARIO	(ah ah rire)
+
+PEPA	Vas-y, donne-le moi!
+
+ROSARIO	Merci, c'est très gentil, Pepa!(aha) Je n'ai plus l'âge pour faire ces travaux!
+
+PEPA	Tu ferais mieux de garder tes forces pour courir après ton neveu.
+
+ROSARIO	Oui!
+
+PEPA	Je le laisse là?
+
+ROSARIO	Oui, laisse-le-là! Oh, ça me procure tellement de joie. Les enfants vont enfin pouvoir aller de l'avant.
+
+PEPA	Ils s'aiment tellement que rien pourra jamais les atteindre!
+
+ROSARIO	(aha) Et pourtant, ce n'était pas évident! J'ai eu peur pour elle tu sais!
+
+(BOUCLE 48 - 10:40:11:10)
+		48
+
+ROSARIO	Mais ça en valait la peine. Soledad attend un enfant! (ah) Jamais j'aurais cru que mes yeux verraient ce jour merveilleux!
+
+PEPA	Il ne faut plus t'en faire maintenant! (ah) Soledad va de mieux en mieux. mais parfois elle n'a pas assez de bon sens! Elle peut commencer à marcher mais...elle doit absolument se reposer! Tu dois t'occuper d'elle Rosario!
+
+ROSARIO	Ce soir, je la ferai assoir de force même si elle refuse! Qui t'a amenée jusqu'ici?
+
+PEPA	(ah__)
+
+ROSARIO	Tu es venue voir Martin prendre son goûter comme tous les jours?
+
+PEPA	C'est ça!
+
+ROSARIO	En tous cas,il n'a pas eu à se plaindre aujourd'hui .
+
+PEPA	(ah__) Ah bon pourquoi?
+
+(BOUCLE 49 - 10:40:47:04)
+		49
+
+ROSARIO	(aha) Je lui ai donné du pain et du chocolat et il m'a dit qu'il ne voulait pas ce goûter.
+
+PEPA	(aha)
+
+ROSARIO	Il s'était mis en tête qu'il voulait du pain et du miel.
+
+PEPA	(ah__) Et avec le caractère qu'il a,il serait capable de se servir dans l'étagère directement.
+
+ROSARIO	Mais le pire, c'est qu'il ne voulait pas du miel qui était dans le placard, il m'a dit qu'il savait où trouver du meilleur miel . Mais que c'était un secret.
+
+PEPA	Du miel?
+
+ROSARIO	Oui, c'est ce que j'ai dit Pepa, du miel.
+
+EMILIA	Il m'a parlé de la Pierre du Miel. C'est un rocher qui se trouve en haut du fleuve. Il y a des années il y avait des rûches et les gens allaient récolter du miel. Mais les abeilles sont parties et plus personne n'y va parce que c'est escarpé.
+
+PEPA	Oh mon dieu.
+
+ROSARIO	Mais qu'est-ce qu'il y a Pepa?
+
+(BOUCLE 50 - 10:41:46:14)
+		50
+
+ELOISA	Bonjour.
+
+JUAN	Qu'est-ce que vous voulez?
+
+ELOISA	Je suis Eloïse Garcinunez del Moral, Duchesse de Caldas et l'invitée de Dona Francisca Montenegro. Je me promenais dans le domaine et je me suis perdue.
+
+JUAN	Mais, mais si... si vous suivez ce sentier, vous arriverez à la maison.
+
+ELOISA	Comme tu peux le constater jeune homme, je suis...blessée. Je voudrais me reposer et boire un peu d'eau.
+
+JUAN	Je vous en prie, asseyez-vous. Je vous donne de l'eau tout de suite.
+
+ELOISA	Merci beaucoup. (aha)
+
+JUAN	Tenez, madame.
+
+ELOISA	C'est très gentil. Dis-moi jeune homme... comment tu t'appelles?
+
+JUAN	Juan...Juan Castaneda.
+
+ELOISA	Toi aussi tu travailles pour Donia Francisca?
+
+JUAN	Non, ma famille a toujours été à son service mais moi,...j'ai pris un autre chemin.
+
+ELOISA	(ah) Je vois ça signifie que tu es un homme qui a du caractère et de la curiosité.  (ahaha)
+
+JUAN	Je préfère rester libre de choisir ma vie, madame.
+
+ELOISA	J'aime les hommes qui sont... vigoureux comme toi Juan Castaneda. (ah ah aha essoufflée) (ah h h h h h) (hmmm aha) (aha) Une petite minute... nous nous sommes déjà vus!
+
+JUAN	Non, vous devez confondre, je ne vous ai jamais vue.
+
+ELOISA	C'est toi l'individu qui a provoqué l'accident qui m'a justement blessée ce jour-là.
+
+(BOUCLE 51 - 10:43:27:10)
+		51
+
+DON ANSELMO	Je t'ai administré les saints sacrements déjà deux fois pour rejoindre notre Seigneur et deux fois, tu as pu esquiver la mort.
+
+TRISTAN	Espérons que la troisème fois ne soit pas la bonne mais si ça se produit, ne me laissez pas!
+
+DON ANSELMO	Si Dieu ne t'a pas gardé à ses côtés, c'est parce que tu as d'autres choses à faire ici, mon enfant. (ahah) Et parce que tu as un ange gardien terriblement efficace. Je parle de l'accoucheuse, ne l'oublie pas!
+
+TRISTAN	(ah__) Je ne l'oublierais pas!
+
+DON ANSELMO	(ah__) Je dois dire que c'est un peu l'habitude chez les Castro: d'esquiver la mort. Je parle bien sûr de ton frère Carlos...qui a réussi à échapper miraculeusement au terrible appel du Seigneur.
+
+TRISTAN	Le prix à payer était élevé mon Père. Parce qu'exceptées ses cicatrices, tout son passé s'est malheureusement effacé de sa mémoire.
+
+DON ANSELMO	(ptt ah) Il y a une chose qui me tourne dans la tête depuis quelques jours au sujet de ton frère... et que je n'ai jamais eu l'occasion de te demander Tristan.
+
+TRISTAN	Je vous écoute.
+
+DON ANSELMO	La première fois que nous nous sommes revus, il m'a reconnu et il m'a appelé par mon nom. Quand je lui ai fait remarquer, il m'a dit que tu lui avais parlé de moi et qu'en me voyant avec mon habit de prêtre, il l'avait compris.
+
+TRISTAN	Soit on m'a fait un lavage de cerveau, soit cette excuse est un mensonge, mon Père. Je ne lui ai jamais parlé de vous.
+
+DON ANSELMO	Si ce que tu dis est vrai, il ne doit pas avoir perdu la mémoire autant qu'il veut bien nous le faire croire. Tu ne penses pas?
+
+(BOUCLE 52 - 10:44:53:00)
+		52
+
+ROSARIO	Monsieur... je me fais peut-être du souci pour rien mais il fallait que je vous le dise.
+
+TRISTAN	Que se passe-t-il Rosario?
+
+ROSARIO	C'est au sujet de Pepa et du petit Martin. Il se passe quelque chose, j'en suis sûre.
+
+DON ANSELMO	Dis-nous ce qu'il y a s'il te plaît!
+
+ROSARIO	(ah) En début d'après midi, je suis allée donner son goûter à Martin, et il s'était mis en tête qu'aujourd'hui, il voulait absolument manger du miel. Il m'a raconté une histoire, comme il le fait si souvent. Il m'a dit qu'il ne voulait pas de celui du placard et qu'il savait où en trouver.
+
+TRISTAN	Rosario, enfin, je n'y comprends rien, je ne vois pas ce que Pepa a à voir avec ce que tu dis.
+
+ROSARIO	Je sais monsieur, mais quand je lui en ai parlé, elle a immédiatment changé de tête, je ne l'avais jamais vue aussi inquiète de toute sa vie. Elle est sortie de la cuisine comme une furie.
+
+TRISTAN	Martin est à quel endroit?
+
+ROSARIO	Je n'en sais rien monsieur! (aha pleure) Je ne sais pas, je ne sais pas du tout. J'ignore où il est allé.
+
+(BOUCLE 53 - 10:45:56:08)
+		53
+
+PEPA	Martin... Martin, tu es là? Martin?
+
+CARLOS	Pepa l'accoucheuse! Quelle agréable surprise!
+
+PEPA	Où est Martin? Si jamais tu lui as fait du mal... je te ferai souffrir sur cette terre et au delà, je te le jure.
+
+CARLOS	Pourquoi ce ton dramatique, Pepa Balmes. Et comme tu es prévisible. Tu es tombée dans le piège comme les autres.
+
+PEPA	Martin. Martin, où es-tu?
+
+CARLOS	Ne t'en fais pas pour Martin, il n'a rien, il voulait voir comment on castre un cheval. Mais chut, il ne faut pas le dire à qui que ce soit, c'est un secret entre son oncle et lui. Mais dis-moi Pepa, pourquoi tu t'inquiètes pour un enfant qui n'est même pas ton fils?
+
+PEPA	(ah ah aessoufflée)
+
+CARLOS	Peut-être parce qu'il EST ton fils?
+
+PEPA	(hhh) C'est quoi cette plaisanterie?
+
+CARLOS	Une plaisanterie. Tu veux connaître mon idée là dessus? Tu ne voulais pas rester sans enfant... Tu aurais pu en avoir une dizaine comme n'importe quelle femme mais tu ne voulais pas du mien, du nôtre!
+
+PEPA	Tu ne sais pas ce que tu dis.
+
+CARLOS	Mais si au contraire. La vengeance était ta seule obsession, c'est toi qui a mis le feu à ma maison et puis, tu es partie avec mon fils, notre fils, Pepa.
+
+PEPA	Tu mens. (ah)
+
+CARLOS	Tais-toi garce.
+
+PEPA	(aha)
+
+CARLOS	Et aujourd'hui, c'est terminé, ton heure est venue.
+
+PEPA	(ahahh hh)
+
+CARLOS	(aha___)
+
+PEPA	(aha)
+
+CARLOS	(aha aha aha__________)
+
+PEPA	(hm) (hmma ah)
+
+CARLOS	(aha__)
+
+PEPA	(ha__) (ah ah)
+
+CARLOS	(argh) (aha) (ahah ahah aha ah) (aha__) (h__) (aha__ aha__)
+
+PEPA	(ahhh)
+
+INSERT	PUENTE VIEJO EP 104 FIN

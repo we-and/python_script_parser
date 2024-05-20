@@ -1,0 +1,1284 @@
+EM FAMILIA 061
+13/04/2016
+
+(BOUCLE 1 - 09:59:58:20)
+		01
+
+(texte)	PREVIEW
+
+FELIPE __	Je ne vais pas vous mentir, Monsieur Rodrigo, parce que mon premier serment est de dire la vérité....
+
+LUANA	Le docteur Horacio vous attend à son cabinet.
+
+FELIPE __	Je suis alcoolique... et je suis en voie de guérison... Je ne bois plus, mais ma maladie est incurable.... je vais être obligé de me traiter le restant de mes jours pour éviter une rechute.
+
+(BOUCLE 2 - 10:00:18:14)
+		02
+
+JULIANA	Qu'est-ce que vous avez donné à ma fille, Jairo? Je savais qu'elle n'irait pas bien sans ma protection, sans ma tendresse... Jairo, tu es un irresponsable!
+
+JAIRO	ça y est, madame recommence? Baisse un peu le ton... Tu peux ou tu peux pas aider ma fille? Après tu reviens ici, dans ton palais de cristal.
+
+JULIANA	Bien sûr que je vais venir! Guiomar, sors sa nourriture qui est dans le réfrigérateur. Mets tout dans un sac isotherme
+
+GUIOMAR	Tout de suite madame
+
+JULIANA	Je pars tout de suite.
+
+(BOUCLE 3 - 10:00:38:24)
+		03
+
+LAERTé	Louiza, Tu es enfin venue
+
+LUIZA	Je ne veux pas, je n'arrive pas à rester loin de toi...
+
+LAERTé	J'ai cru que tu allais renoncer à tout.
+
+LUIZA	Non, j'avais perdu la tête hhh___
+
+(BOUCLE 4 - 10:00:59:20)
+		04
+
+(texte)	GENERIQUE
+
+(BOUCLE 5 - 10:02:11:20)
+		05
+
+AMBIANCE	(HAMILTON/WANDA/HELDER/ROBERTO/KATIA réacs_______________________________________
+
+FLORA	Ahhhh......  enfin! (rire___)   mon docteur préféré!
+
+FELIPE __	Ah ma chère Flora, comme vous m'avez manqué!...   Honneur aux dames, hein?
+
+HELDER	D'accord...
+
+WANDA	Ahhh... je croyais que vous nous aviez abandonnés pour de bon...
+
+FELIPE __	Vous pensiez que j'allais oublier votre bronchite allergique,  très chère Wanda?
+
+WANDA	Oui, parce que l'époque de la bronchite approche, et je n'ai plus de médicaments.
+
+FELIPE __	Ne vous inquiétez pas, je vais renouveler votre prescription...  (rire___)
+
+WANDA	Ahh... (rire___)
+
+FELIPE __	Et votre "labyrinthite", monsieur Hamilton?
+
+HAMILTON	Ah-ah-ah, j'ai bien du mal à m'y retrouver, vous savez... (rire_____)
+
+(tous)	(rires___________________ ambiance réacs_____________________)
+
+LAUREN	Eh bien ?    On ne vous a pas interdit de pratiquer la médecine?
+
+FELIPE __	J'ai reçu un avertissement, miss Lauren, mais je...   j'ai le droit d'exercer comme avant.
+
+LAUREN	Mmm... vous avez toujours votre titre de docteur médecine?
+
+FELIPE __	Oui, est-ce que par hasard vous auriez un problème de santé?
+
+LAUREN	Non, je vais très bien...   merci.
+
+FELIPE __	Ah, tant mieux.
+
+LAUREN	_hh et puis je ne consulterais pas un...    médecin qui a été publiquement réprimandé par le conseil de l'ordre.
+
+(BOUCLE 6 - 10:03:08:20)
+		06
+
+LAUREN	D'ailleurs, je vous signale que j'ai déjà demandé et obtenu l'autorisation de mes supérieurs,  _h pour vous remplacer dans notre maison,  vous n'êtes donc plus notre  praticien. par conséquent vous pouvez disposer.
+
+VIRGILIO	Excusez-moi, miss Lauren, euh... Felipe n'est pas venu ici pour donner une consultation, c'est un ami de vos...  _h de nombre de vos résidents... il m'accompagne parce que je suis venu voir mon père...
+
+FLORA	Oui, c'est ça, exactement.
+
+LAUREN	Bon, très bien, dans ce cas, tenez-vous en à ça... c'est entendu? Rien de plus.
+
+VIRGILIO	ehh h__  comment va notre Benjamin?
+
+NEIDINHA	Ah, Virgilio, il n'est pas au mieux, c'est pour ça que je t'ai appelé. _hh  voilà, Benjamin il... il ne quitte plus beaucoup sa chambre.
+
+VIRGILIO	Déprimé?
+
+NEIDINHA	Non, je ne dirais pas ça... je dirais... je dirais qu'il est triste... Il parle beaucoup d'Ariana.
+
+VIRGILIO	Ah... il est tellement attaché à cette chienne, et vous n'acceptez pas les animaux ici. ahh...  ma petite Neidinia,  écoute, je crois bien que... d'une certaine manière, il a passé assez de temps dans cette maison, non? Nous avons respecté la volonté de papa, et... il est venu, il est resté.... mais on n'est jamais si bien qu'auprès de sa famille, n'est-ce pas?
+
+NEIDINHA	hha___  ça ...   c'est bien vrai.
+
+(BOUCLE 7 - 10:04:21:12)
+		07
+
+RICARDO	Je vais aller travailler un peu et je reviens. _h Jour après jour mes rotations sont de plus en plus fastidieuses.
+
+CHICA	Mais au moins tu fais quelque chose qui te plaît, non, plus que ça, que tu aimes, non? Allez... tu es un pilote...   reconnu, et l'avantage de ces petits vols rapides,  _h c'est que je peux rester ici et te préparer un merveilleux dîner en t'attendant... (petit rire_______) (X) (réac_)
+
+RICARDO	Tu n'es pas obligée ma chérie, je vais rentrer tard, je mangerai un truc à l'aéroport, profites-en pour dîner avec tes enfants.
+
+CHICA	Oui, les enfants ont toujours besoin de moi, chacun à leur manière _h en particulier Juliana.
+
+RICARDO	Comment va-t-elle?
+
+CHICA	Ah, toujours aussi écervelée, comme d'habitude, on verra comment elle se débrouillera après la naissance du bébé.
+
+RICARDO	Elle s'en sortira très bien, elle voulait tant être mère... _h mais fais attention à Felipe, c'est lui qui a besoin d'une attention spéciale en ce moment.
+
+CHICA	Tss tss tss   C'est toi qui est spécial mon chéri, tu es incroyable, tu penses à tout, tu t'inquiètes pour tout le monde, tu prends soin de tous.... Seigneur, comme je suis fière de toi. C'est pour ça que je t'aime... mm (X) (X) ma merveille!  (X)
+
+RICARDO	Tu sais que...      _h       je t'aime beaucoup... (X)
+
+CHICA	Fais attention à toi, fais attention pour moi... (X) fais attention...
+
+RICARDO	Promis...
+
+(BOUCLE 8 - 10:05:36:21)
+		08
+
+MARINA	Oui, c'est bien... Tu peux regarder par ici? Parfait...
+
+BRANCA	Ouais !
+
+MARINA	Oui, bien!
+
+BRANCA	Toi, ça suffit....       viens-là, toi....
+
+MARINA	C'est super comme ça!
+
+BRANCA	J'adore le champagne!
+
+MARINA	Oui c'est bien
+
+BRANCA	Alors?
+
+MARINA	ça y est...     c'est dans la boîte! ---
+
+VANESSA	Donne-moi la coupe. On change de robe, non?  Tu as déchiré, hein?
+
+MARINA	Oui, tu peux te changer.
+
+VANESSA	Je ne connaissais pas cette veine artistique.
+
+BRANCA	Ah ma chérie je dévoile mes secrets petit à petit!  (rire___)
+
+VANESSA	(rire________)
+
+BRANCA	Alors, Clara est-ce queje m'en sors aussi bien ou mieux que ta mère?
+
+CLARA	Oh tu sais Branca, vos styles sont différents, on ne peut pas vous comparer toutes les deux.
+
+BRANCA	Ahh là, je te rejoins... pleinement!
+
+(BOUCLE 9 - 10:06:21:18)
+		09
+
+JULIANA	Tu as tout mangé ma princesse... bravo ma chérie, tu vas devenir encore plus forte, tu seras encore plus jolie.
+
+JAIRO	Je crois que je devrais l'emmener au dispensaire de la communauté, le médecin lui donnera quelque chose pour lui ouvrir l'appétit.
+
+JULIANA	ça ne l'aidera pas, Jairo.
+
+JAIRO	Comment ça? ça marche avec tout le monde.
+
+JULIANA	Ce qu'elle a ne se guérit pas avec des médicaments. Sa mère lui manque.
+
+JAIRO	Ne profite pas de la situation pour essayer de l'influencer, Juliana.
+
+IOLANDA	Je déteste devoir donner raison à Juliana, mais cette fois je n'ai pas le choix. Je veux voir ma petite fille en bonne santé.
+
+JULIANA	Iolanda, vous pouvez emmener Bia à côté, s'il vous plaît?
+
+IOLANDA	Viens, Bia. Viens avec mamie ma chérie, viens ma petite poupée,        viens
+
+(BOUCLE 10 - 10:07:05:06)
+		10
+
+JULIANA	Je sais exactement ce qu'elle a, Jairo. _h Bia ressent la douleur de la perte. Pas de Gorete elle ne s'en souvient pas, parce qu'elle était trop petite,  de moi!... et je lui manque, parce qu'elle sait que je suis sa mère, et elle ne comprend pas pourquoi nous sommes séparées toutes les deux!
+
+JAIRO	Parce que tu préfères rester dans ton château. Quand tu seras décidée, la porte est ouverte, tu peux venir.
+
+JULIANA	Je n'ai jamais eu besoin d'un château! On ne va quand même pas laisser cette enfant souffrir parce qu'on a pris nos décisions! on ne peut pas non plus couper un enfant en deux! Elle mérite de rester entière, et c'est tout ce que je souhaite!
+
+JAIRO	Il faut aussi qu'elle mange, comment on fait?
+
+JULIANA	hh__  Jairo, s'il te plaît,      _h laisse-moi garder _h  Bia chez moi...  aujourd'hui et demain, pour compenser ces jours où elle a si peu mangé.
+
+JAIRO	Non,   hors de question!
+
+JULIANA	S'il te plaît!
+
+IOLANDA	Jairo, c'est pour son bien. pour le bien de ta fille.
+
+JAIRO	Très bien. Tu peux l'emmener. Mais demain soir je viens la chercher, t'as compris?
+
+JULIANA	hhh______
+
+JAIRO	Iolanda, allez chercher Bia, et mettez ses affaires dans un sac s'il vous plaît .
+
+(BOUCLE 11 - 10:08:07:21)
+		11
+
+SILVIA	On fait la fête ici, on dirait?
+
+CADOU	ah, salut Silvia, tu arrives au bon moment. (X) Je te présente Rafa, le fils de Valdemar, l'homme généreux grâce à qui j'ai un coeur.
+
+SILVIA	_h Ra-fa...  bonjour, enchantée... je suis le médecin qui veille sur le coeur de ton père, qui bat maintenant dans la poitrine de Cadou.
+
+RAFAEL	Ah c'est cool...
+
+IVAN	On dirait une aventure de super héros, non?
+
+SILVIA	mmh j'suis d'accord! (rire_)
+
+CADOU	(rire__) Et on ne doit pas parler la bouche pleine,  garnement, tu le sais...
+
+SILVIA	(rire_____)
+
+CADOU	(rire________________
+
+SILVIA	Il est espiègle, ce garçon.
+
+CADOU	Oui, il est très sociable.
+
+SILVIA	_h jétais tout près,  alors je suis passée te faire un bisou. Tu allais partir?
+
+CADOU	Non... j'ai dû improviser un petit menu spécial pour eux, je supervise, tu vois... _h Ils vont bientôt partir, et je ne suis pas pressé de rentrer pour dîner, Véronica doit répéter tard ce soir.
+
+SILVIA	Oui... Veronica est plutôt occupée, et tu n'as sans doute pas très envie de passer la soirée tout seul, c'est ça?
+
+CADOU	oh.... tout va bien, c'est agréable parfois d'être un peu seul, et j'ai un livre super à terminer!
+
+SILVIA	Bon, je vais en profiter pour grignoter quelque chose...
+
+CADOU	Très bonne idée, parfait, attends, tu vas avoir un aperçu de ce que j'ai préparé pour les garçons, ce ne sera pas long... Rita, prépare une table s'il te plaît, pour Silvia ...
+
+SILVIA	C'est bon, je vais m'assoir  avec les garçons.
+
+CADOU	Parfait.       Rita, prépare un hot-dog comme....
+
+(BOUCLE 12 - 10:09:15:02)
+		12
+
+THEO	je me disais que... _h  que peut-être on pourrait... je pensais faire un truc un peu différent aujourd'hui t'emmener dans un lieu  plus tranquille, hein? pour être un peu seuls tous les deux... on boira un...    un verre de vin... Qu'est-ce que tu en dis?
+
+NEIDINHA	Théo !!! hh_ _h h_  je n'aurais pas dû faire ça... Oh, Théo... h_ Je t'ai toujours demandé d'être patient avec moi.
+
+THEO	Je n'arrive pas à comprendre tes réactions...
+
+NEIDINHA	hmh_ Il n'y a rien à comprendre. si tu veux mon amitié, c'est très bien. sinon... chacun va de son côté point final.
+
+(BOUCLE 13 - 10:10:05:14)
+		13
+
+THEO	Comment fais-tu pour être aussi froide Neidinia, tu es...   impressionnante. Tu m'effaces de ta vie comme ça, tout simplement?
+
+NEIDINHA	C'est pas ça, Théo, c'est juste que... plus j'essaie de... de donner une explication... plus je m'embrouille...
+
+THEO	C'est bien vrai, c'est difficile de te suivre!
+
+NEIDINHA	mhh__ Oui, je sais, je suis... désordonnée, confuse... je te l'avais dit.
+
+THEO	alors écoute-moi bien une bonne fois pour toutes, Ce n'est pas ton amitié que je veux, je veux me marier avec toi. hh_ oui, exactement, tu as très bien entendu. je veux fonder une famille avec toi, vivre une grande histoire avec toi. Seulement pour ça il faut se détendre, et apprendre à mieux se connaître, Neidinia.
+
+(BOUCLE 14 - 10:11:10:22)
+		14
+
+NEIDINHA	hh_  _h Théo, tu...  tu es sûr de ça, de ce que tu dis?
+
+THEO	Bien sûr que oui, j'en ai la certitude absolue, je ne vais pas abandonner si facilement, ça non, je suis persévérant, tu le sais.... Sauf que pour l'instant tu as raison, mieux vaut rester chacun de son côté. Ciao. (X)
+
+NEIDINHA	hh_ hh_ Se marier? hhh_ _h
+
+(BOUCLE 15 - 10:12:02:04)
+		15
+
+CADOU	Quelle surprise!... Entre!
+
+SILVIA	Ahh je suis...(X) désolée de... (X) venir comme ça à l'improviste.
+
+CADOU	Quand le concierge m'a dit que c'était toi, j'ai cru qu'il se trompait.
+
+SILVIA	Ahh!
+
+CADOU	Un problème? Assieds-toi je t'en prie.
+
+SILVIA	En fait, j'avais envie de partager cette bouteille avec toi....  bon, tu m'as dit que tu étais tout seul... alors j'ai décidé de venir te tenir compagnie.
+
+CADOU	ça tombe bien, j'ai fait des pâtes, on va pouvoir les partager... j'allais dîner dans la cuisine, mais...    on sera mieux ici, non?
+
+SILVIA	On peut dire que j'ai de la chance, non seulement je suis en bonne compagnie, mais en plus j'ai droit à un menu spécial...!
+
+CADOU	Non, rien de spécial, ne t'attends pas à des merveilles, c'est un plat tout simple!
+
+SILVIA	_h  Tout ce que tu fais est toujours spécial.
+
+CADOU	Coucou Veronica.
+
+VERONICA	Bonsoir... Oh, on a de la visite? h_h_h_
+
+SILVIA	_h h_
+
+VERONICA	Hé...   j'arrive juste  à temps pour boire un petit verre de vin, non? ...
+
+CADOU	Le timing est parfait! Ta répétition est déjà finie?
+
+VERONICA	Ah la la, elle n'a même pas commencé!  Figure-toi que Michel a eu un... un rendez-vous de dernière minute, et il n'est jamais arrivé.
+
+CADOU	Oh...
+
+VERONICA	_hhh Mais je... hh_ est-ce que je tombe mal, je ne voudrais pas vous interrompre, surtout.
+
+SILVIA	Veronica, vous êtes chez vous, voyons.
+
+CADOU	J'allais mettre la table pour dîner avec Silvia, je vais mettre une assiette de plus !
+
+VERONICA	Merci.
+
+(BOUCLE 16 - 10:13:16:22)
+		16
+
+CHICA	Rosa...
+
+ROSA	Que se passe-t-il ?
+
+CHICA	_hh  Rosa, il faut m'aider, c'est terrible...
+
+HELENA	Bonsoir maman! _h maman?
+
+CHICA	-h -h -h c'est Ricardo...
+
+HELENA	Qu'est-ce qui s'est passé? Calme-toi, dis-moi, dis-moi, raconte...
+
+CHICA	Au...        au...     _h au ... il a fallu qu'il fasse un atterrisage  forcé dans le... _hh le Mato Grosso... il s'est...  posé...     posé en urgence...  je ne sais pas, j'ai vu ça au... _h au journal à la télévision...
+
+HELENA	Mais est-ce que... est-ce qu'il est blessé?...
+
+CHICA	J'en sais rien, je...        je ne pouvais pas rester toute seule, _h _h je suis venue directement chez toi.
+
+HELENA	calme-toi maman.
+
+VIRGILIO	Je vais allumer la télé.
+
+ROSA	Que dieu protège le commandant.
+
+HELENA	Maman,  je vais regarder sur internet...   on va... on va appeler la compagnie aérienne aussi...  garde ton calme, maman...  ne te morfonds pas....     pas avant de savoir ce qui s'est passé...
+
+VIRGILIO	Ne vous inquiétez pas, Chica.       Pour l'instant on ne sait rien.
+
+(BOUCLE 17 - 10:14:00:09)
+		17
+
+VIRGILIO	Ah, voilà, ils retransmettent les infos en direct
+
+REPORTER TV	... et des témoins ont vu l'avion qui décrivait des cercles au-dessus de l'aéroport, _h  et quand l'avion s'est rapproché du sol,  ils ont été surpris de voir qu'un des trains d'atterrissage n'était pas sorti. C'est là qu'ils ont réalisé qu'il s'agissait d'un atterrissage en urgence.
+
+FEMME TEMOIN	Le pilote est resté très calme, vous savez? Ce qui fait que personne n'a paniqué, il nous inspirait une telle confiance, un tel sentiment de sécurité, il était incroyable....
+
+REPORTER TV	Nos spécialistes envoyés sur place pour couvrir l'évènement sont unanimes pour affirmer que grâce à l'habileté du commandant Ricardo Luis, cet atterrissage d'urgence s'est déroulé sans incident.  Nous attendons une déclaration officielle de la compagnie aérienne, parce qu'ici dans cet aéroport, jamais un tel incident ne s'est produit. Nous espérons également obtenir quelques mots du pilote, afin qu'il nous donne sa version des faits....
+
+CHICA	_hh  dieu merci
+
+VIRGILIO	Ils font tous l'éloge de la performance de Ricardo, on dirait.
+
+HELENA	Quel bonheur que personne n'ait été blessé.
+
+ROSA	dieu est miséricorde!
+
+VIRGILIO	Et Ricardo est un crack, non? Les accidents d'avion sont rares, mais il faut avoir de l'expérience, et lui il en a beaucoup.
+
+CHICA	Oui, oui, oui,      ce qui compte le plus dans sa vie, c'est ça, c'est son...
+
+VIRGILIO	Non...   après vous, Chica...
+
+CHICA	(rire___________
+
+HELENA	Ahhhh
+
+(BOUCLE 18 - 10:14:49:13)
+		18
+
+CLARA	Alors, Ivan, c'était cool le déjeuner avec Rafa ?
+
+IVAN	c'était...    plutôt animé... Papa nous a fait un menu spécial.
+
+CLARA	Hmm? Sympa... avec Rafa vous vous entendez bien, non?
+
+IVAN	Ouais il est vachement cool. Hé, maman,   je peux te dire un secret? Tu dois jurer de le dire à personne, personne!
+
+CLARA	Promis  ! (X) (X) Juré!
+
+IVAN	Bon, alors, _hhh          c'est bientôt son anniversaire, et papa m'a demandé de réfléchir à un cadeau super qu'on pourrait lui offrir...
+
+CLARA	Tu y as pensé?
+
+IVAN	_hh  euh... oui, peut-être un puzzle... comme celui que Marina m'a donné...
+
+CLARA	Ah...  oui, si ça te plaît à toi...   ça pourrait lui plaire aussi
+
+IVAN	Ah ça pour me plaire il me plaît,   mais le problème c'est que Marina n'est pas là pour nous aider! Parce qu'il est difficile!
+
+CLARA	_h  ben je vais l'appeler...      je lui dirai qu'elle doit venir.
+
+IVAN	_h hé maman, je la trouve cool Marina.
+
+(BOUCLE 19 - 10:15:38:08)
+		19
+
+CLARA	Oh ça me fait plaisir d'entendre ça, tu sais, je suis bien contente que... que tu l'aimes bien parce que... Marina est ....    une amie très... très spéciale pour moi, et je l'aime beaucoup.
+
+IVAN	Je sais. Elle va prendre la place de papa?
+
+CLARA	Non.      Jamais. Jamais...    personne ne prendra la place de ton père. Parce que sa place est unique, elle n'appartient qu'à lui tu sais. _h on lui gardera toujours et personne ne remplacera ton père _hhh   mais Marina, elle c'est une amie...    que maman aime aussi beaucoup, elle est entrée dans notre vie et... _hh on peut lui laisser une petite place... une petite place qui sera rien qu'à elle... moi je crois... qu'on arrive toujours à trouver un peu de place dans un coin de notre coeur... _hh pour accepter tout le monde, tu crois pas?
+
+IVAN	Si, je crois aussi. mfh_
+
+CLARA	Cool! (bisou) hmm  (snif__)
+
+IVAN	Bon, on essaie ?
+
+(BOUCLE 20 - 10:16:38:03)
+		20
+
+CADOU	C'est dommage, je dois me lever tôt demain, je ne peux pas m'attarder.
+
+SILVIA	Ahh   moi aussi... En revanche, je suis sûre que Véronica aime veiller jusqu'à l'aube...    Elle est musicienne, non? Et les musiciens en général sont assez bohêmes.
+
+CADOU	C'est vrai, oui, mais...     Veronica, non,  _h pour le moins d'après ce que j'ai vu depuis que j'habite ici.
+
+SILVIA	Et tu... penses rester ici encore longtemps?
+
+CADOU	Non, je n'aime pas m'imposer... _h je cherche un appartement,  mais je ne suis pas pressé.
+
+SILVIA	Oui, ton intimité doit te manquer, non?
+
+CADOU	mon intimité, oui...   la solitude, non. J'adore avoir de la compagnie, être entouré de plein de gens...
+
+SILVIA	Je sais... (rire___________) _hhhh Au revoir, et puis, merci... beaucoup.
+
+CADOU	C'est moi qui te remercie.
+
+SILVIA	_h pardon...
+
+CADOU	Bonsoir. (X)
+
+SILVIA	(petit rire___________)
+
+CADOU	(rire_) (X) (rire___)
+
+SILVIA	Ciao.
+
+CADOU	Bonne nuit.
+
+SILVIA	Ciao Veronica!
+
+VERONICA	Ciao Silvia!
+
+(BOUCLE 21 - 10:17:26:06)
+		21
+
+VERONICA	Bon.... alors, maintenant que nous sommes seuls, je veux que tu me répondes franchement Cadou...
+
+CADOU	Oui ?
+
+VERONICA	J'ai interrompu quelque chose entre vous, non?
+
+CADOU	Pas du tout, Silvia est une amie, pas plus que ça.
+
+VERONICA	Tu es sûr? (rire__)  D'accord, je me sentais presque coupable, tu sais....
+
+CADOU	Pourquoi ?
+
+VERONICA	_hh Parce que... ah, non, rien, c'est pas la peine d'en parler, enfin, si, il faut que je te dise, je n'ai pas pu éviter d'entendre ce que vous disiez à la porte et...
+
+CADOU	Et... ?
+
+VERONICA	_hh  hh_ Je n'ai pas aimé... mfh_ (rire______)
+
+CADOU	Ah bon ? Pourquoi?
+
+VERONICA	Oui... pourquoi ? Parce que... mmm tu as dit que... _h que tu cherchais un appartement, voilà.
+
+CADOU	Ah j'ai menti un petit peu, en fait je n'ai encore rien cherché du tout...
+
+VERONICA	(rire__________________) tant mieux...
+
+CADOU	(rire______________________________
+
+VERONICA	(rire__________) Ah,  Rita m'a dit qu'Ivan est venu au centre pour déjeuner avec Rafael...
+
+CADOU	C'était sympa, _h Ivan s'entend très bien avec Rafa, ça me fait plaisir... _h   Je m'sens comme investi d'une mission envers ce gamin.
+
+(BOUCLE 22 - 10:18:26:01)
+		22
+
+VERONICA	ça ne m'étonne pas, tu es si généreux.
+
+CADOU	hha_ tu ferais la même chose. mts _h Il m'a dit que c'était son anniversaire, que son père lui avait promis une fête et... que maintenant il ne pourrait plus lui offrir... _h entendre ça d'un enfant c'est déjà malheureux... dans sa bouche à lui... _h ah_     ça m'a fait pitié tu sais...
+
+VERONICA	hha____  j'imagine, oui... _h Pourquoi tu n'organiserais pas une belle fête pour lui ? Je pourrais t'aider, Cadou... Je suis sûre que ça lui ferait le plus grand bien,  et beaucoup de bien à toi aussi.
+
+CADOU	Oui c'est super! Quelle bonne idée, je vais en parler à sa mère dès demain!
+
+VERONICA	On peut l'organiser au centre, tu ne crois pas? _hh En plus ça fait longtemps que Laerte et moi on a envie de créer un programme pour les enfants, on pourrait commencer avec cettefête!
+
+CADOU	C'est évident ! Il faut profiter de la création de ce  programme et faire des deux un grand événement!
+
+VERONICA	(rire____)
+
+(BOUCLE 23 - 10:19:20:08)
+		23
+
+FELIPE __	Salut la famille!
+
+(tous)	Hé... salut !!!
+
+VIRGILIO	Ah, bienvenue!
+
+FELIPE __	Vous savez qu'à l'aéroport on n'entend parler que de notre grand héros! Félicitations champion, je suis fier de toi!  (rire______)
+
+RICARDO	S'il y a un champion ici, c'est bien toi ! C'est bien que tu sois allé prendre soin de ta tante à Goiania, je suis heureux que tu te rapproches de la famille.
+
+CHICA	Ahh... quelle bonne idée ma chère soeur d'être venue avec Felipe!
+
+HELENA	Bienvenue!
+
+VIRGILIO	Vous avez fait bon voyage?
+
+FELIPE __	Excellent!
+
+SELMA	Parfait, parfait, mais si j'avais su pour Ricardo, jamais je ne serais montée dans l'avion, j'en ai une trouille bleue, je ne suis pas Itamar, lui il n'a jamais eu peur, ça me sidère.
+
+RICARDO	Ah mais l'avion est un moyen de transport très sûr, Selma,  je crois même que c'est le plus sûr de tous.
+
+SELMA	Le moyen le plus sûr pour mourir, oui, quand ça tombe, il n'y a aucune échappatoire.
+
+RICARDO	(rire______________________)
+
+FELIPE __	C'est vrai, mais avec moi tu étais en parfaite sécurité et bien protégée, non?
+
+HELENA	Un peu de modestie, petit frère....
+
+FELIPE __	(rire______) Alors, qu'est-ce qu'il y a de bon ?  Hmm je vais prendre un peu de ça.. Ah mince! J'y vais Rosa ! Laisse, je vais ouvrir!
+
+VIRGILIO	mais reste assis! Elle va y aller... attends, il n'y a pas d'urgence voyons... une chose à la fois, une chose à la fois...
+
+FELIPE __	Non, elle est occupée!
+
+RICARDO	respire un peu, Felipe!
+
+SELMA	Ah merci Rosa, c'est gentil
+
+FELIPE __	Ah! Gisele! salut.
+
+GISELE	Bonjour, ça va ?
+
+FELIPE __	Bien et toi?
+
+GISELE	Oui merci.
+
+RICARDO	Quelle surprise!
+
+AMBIANCE	(tous :  Ahh....   bonjour....____________
+
+RICARDO	Ma chérie, tu es venue!
+
+GISELE	Il fallait que je te serre dans mes bras pour m'assurer que tu étais bien vivant!
+
+RICARDO	(rire______)
+
+CHICA	On a tous eu très peur...
+
+VIRGILIO	ahhh je parie que ça lui fait battre le coeur plus vite encore que de faire un atterrissage en urgence.
+
+HELENA	Oui....
+
+(BOUCLE 24 - 10:20:42:10)
+		24
+
+JAIRO	(baille___  ahhh_) (snif_) (réac____) Saperlipopette! Tss   c'est que du bonheur! Eh, cocotte, dis-moi ce que tu faisais dans la cuisine ?
+
+CAROLINA	Du café. J'aipas le droit?
+
+JAIRO	Si, tu as la permisssion, tu peux prendre tout ce que tu veux ici... (rire_____)
+
+CAROLINA	Bon, à part ça, tu en veux ?
+
+JAIRO	Avec plaisir.
+
+CAROLINA	J'allais te l'apporter au lit, mais tu es déjà debout, alors...
+
+JAIRO	Traîner au lit ou faire la grasse matinée c'est un luxe que je ne peux plus m'offrir.
+
+CAROLINA	Bia est un amour, mais elle te prend beaucoup de temps. Sans elle tu serais plus cool, non?
+
+JAIRO	Ouais mais je ne peux rien y faire. C'est la fille de Gorette, et si c'était la tienne ce serait pareil.
+
+CAROLINA	Tu serais prêt à courir le risque?
+
+JAIRO	ha pas de problème, ok... (rire_)
+
+IOLANDA	Jairo !
+
+CAROLINA	Ouh... ça va barder, on dirait !
+
+IOLANDA	Jairo ! Ouvre ! C'est moi !
+
+JAIRO	Oh, t'inquiète pas, avec ma belle-mère je me débrouille.
+
+IOLANDA	Jairo !
+
+JAIRO	Oui, j'arrive ! Vous allez finir par démolir la porte! Qu'est-ce qu'y a ?
+
+IOLANDA	Ah-ah, je vois que tu batifoles,     pendant que ta fille est là-bas, avec l'autre !
+
+CAROLINA	Attendez, je ne vois aucun batifolage ici, Iolanda!
+
+IOLANDA	Jairo, va là-bas chercher la petite ! Ou alors tu as peut-être peur qu'en arrivant tu trouves déjà quelqu'un à ta place?
+
+JAIRO	Hé, ne vous mêlez pas de ça, et gardez votre venin !
+
+IOLANDA	Ah, mon garçon,   _h   elle n'a peut-être pas toute sa tête, mais c'est une belle nana, il doit sûrement y avoir la queue devant chez elle !
+
+JAIRO	ça vous amuse de dire n'importe quoi? Juliana s'occupe bien de ma fille, je le sais!
+
+IOLANDA	Ah, c'est ça, fripouille, je te crois!
+
+JAIRO	Je bois mon café tranquille!  D'accord?
+
+(BOUCLE 25 - 10:21:56:17)
+		25
+
+FERNANDO	Bonjour Guiomar.
+
+GUIOMAR	Bonjour! (rire_____)
+
+FERNANDO	Bonjour les filles !    Bia !
+
+GUIOMAR	Regarde qui est là! (rire________________
+
+FERNANDO	(rire________) arhhhhhhhh
+
+BIA	Tonton Nando !
+
+GUIOMAR	(rire________
+
+FERNANDO	qu'elle est jolie cette petite princesse !...  Regarde ce que tonton Nando t'a apporté.... regarde ça........ Des brioches... au sucre !
+
+JULIANA	Des brioches au sucre pour un enfant à cette heure-ci?
+
+FERNANDO	Si je lui avais apporté des brocolis, j'suis pas sûr qu'elle m'aimerait autant, hein? Hé...  comment va la petite princesse, hmm? Et Jairo, il est dans le coin ou je peux prendre un café tranquillement avec vous?
+
+JULIANA	Ah... Nando, ne me prends pas pour une idiote, tu n'aurais même pas sonné si tu n'avais pas été certain qu'il n'était pas là.
+
+FERNANDO	Tu me connais par coeur, hein, Juliana?
+
+JULIANA	Hé oui...
+
+FERNANDO	Tu as une mine superbe.
+
+JULIANA	Moi ? Parce que tu ne m'agaces pas.
+
+FERNANDO	Voilà pourquoi j'ai préféré céder ma place à Jairo, comme ça c'est lui qui te stresse maintenant
+
+(BOUCLE 26 - 10:22:52:01)
+		26
+
+JULIANA	Nando, aujourd'hui tout ce qui m'importe, c'est mon bébé, et ma fille.
+
+FERNANDO	Et le sexe ?...
+
+JULIANA	Comment ça?
+
+FERNANDO	Le sexe du bébé, tu le connais déjà?
+
+JULIANA	_hh Non, non, je préfère attendre l'accouchement, pour le prénom aussi, je déciderai quand je verrai sa petite bouille, à lui ou à elle...
+
+FERNANDO	Ahh.... ça alors...
+
+JULIANA	Je déciderai à ce moment-là.
+
+FERNANDO	Comme au bon vieux temps ..... _h  essaie de ne pas lui donner un prénom de l'époque,  hein ?....
+
+JULIANA	(rire__________)  __hhh Nando... j'ai tellement attendu ce bébé, mais tellement, que de toutes façons tout lui ira bien, j'ai envie que les choses se passent naturellement.
+
+FERNANDO	Quel bon sens... J'adore ton détachement....
+
+JULIANA	Au fait....   tu es venu pour quoi exactement ?
+
+FERNANDO	euh... j'en sais rien J'ai oublié... (petit rire)
+
+JULIANA	T'as oublié ?
+
+FERNANDO	Non ! Je suis venu boire un café!
+
+JULIANA	(rire_)
+
+FERNANDO	(rire_)  on va boire un café, Bia !
+
+JULIANA	h_h_
+
+FERNANDO	Hum ?
+
+(BOUCLE 27 - 10:23:41:04)
+		27
+
+VANESSA	Tu n'as jamais dit que tu ne voulais pas faire ce genre de séances, tu as dit que tu préfèrerais ne pas les faire, c'est différent !!
+
+MARINA	Tu aurais voulu que je sois plus explicite, c'est ça ?! _h tu m'obliges à photographier des tas de gens inintéressants, pour des clopinettes en plus, si c'est ça qui te branche, vas-y, mais ne compte pas sur moi !
+
+VANESSA	Nom d'un chien !!!           Si on a réussi à sauver ce studio, c'est grâce à l'argent que Branca y a investi, et toi, tu la snobes !
+
+MARINA	Si on a réussi à sauver ce studio, pourquoi on ne continue pas à faire ce qui nous plaît, explique-moi !
+
+VANESSA	Pourquoi ?! Parce que nous avons des dettes ! Nous avons des dettes, tu comprends ?!  L'argent que tu gagnes ici c'est pour payer la bouffe, les boissons, l'eau, l'electricité, le téléphone !
+
+MARINA	Et tu crois que ça justifie toute cette merde qu'on fait?! Tous ces sacrifices,     tu crois que ça vaut le coup ?!
+
+VANESSA	Ecoute... Oui ça vaut le coup, n'importe quoi vaut le coup, fais un effort!
+
+MARINA	J'en ai assez, j'arrête,  là !  Je ne veux plus le faire ! Demande à Flavinia !
+
+VANESSA	Ils veulent que ce soit ta signature sur la photo, petite maligne!
+
+MARINA	D'accord!  Avec plaisir ! _h Flavinia prend les photos, je signe, aucun problème, je n'en peux plus, je n'ai plus la patience de photographier ces prétentieux, _h je suis une artiste !!! Tu ne l'as pas encore compris ?
+
+(BOUCLE 28 - 10:24:47:00)
+		28
+
+VANESSA	Moi je n'ai pas compris? Tu es devenue folle ou quoi , tu as oublié que c'est moi qui ai fait de toi une artiste, moi !
+
+MARINA	Ahh___
+
+VANESSA	Quand je t'ai rencontrée tu étais une photographe, tellement nulle, c'était de la merde tes photos,  voilà!
+
+MARINA	Finalement t'es une prétentieuse pas possible!
+
+VANESSA	Et toi rien de plus qu'une ingrate!
+
+MARINA	hh_  je suis une ingrate ?!
+
+VANESSA	une ingrate !
+
+MARINA	Tu m'as exploitée, c'est ce que tu as toujours fait, tu m'as exploitée!
+
+VANESSA	Qu'est-ce que j'ai fait?....       Qu'est-ce que j'ai fait ?
+
+MARINA	Oui, tu m'exploites, là ! Tu as ce que tu voulais non,Vanessa ? Tu as réussi à être associée dans cette boîte merdique, _h moitié-moitié !  Et tu  y fais quoi?  Réponds qu'est-ce que tu fais?
+
+VANESSA	Ahh_ Ahh ! Ingrate ! Espèce d'ingrate ! Tout ce que j'ai gagné avec ce studio à l'époque où il rapportait encore de l'argent, je n'en ai rien gardé, _h j'ai payé ta paresse, _h j'ai payé tes excès d'alcool, j'ai payé pour éloigner ceux qui ne te plaisaient pas, tu es une capricieuse, une petite.... _hh  (cri______________________ bagarre_________________________________   Sale capricieuse !  Tu vas voir !    pourrie-gâtée!    (cris___________________________________________
+
+MARINA	(réacs bagarre________________________________
+
+FLAVINIA	Stop!  Arrêtez!    ça suffit, arrêtez, ça suffit! C'est pas vrai, quelle horreur ! Allez, viens, relève-toi.
+
+CLARA	Qu'est-ce qui se passe?  Bon sang, arrêtez ! ça suffit, ça suffit, arrêtez!   Qu'est-ce ça veut dire ? Vous êtes devenues folles ?  Marina !
+
+VANESSA	(respi essoufflée_________________________________________________________________________________________________________________
+
+MARINA	(respi essoufflée__________________________________________________
+
+CLARA	ça ne te ressemble pas !
+
+FLAVINIA	Calme-toi...       Respire, allez.......
+
+CLARA	Du calme !  Assez ! Non, mais tu te rends compte ?                 A quel point vous en êtes arrivées !
+
+(BOUCLE 29 - 10:26:02:09)
+		29
+
+CLARA	eh____ J'peux faire quelque chose?
+
+MARINA	hh__ Il n'y a pas grand-chose à faire, je suis... J'ai mal... J'ai mal au corps et à l'âme...
+
+CLARA	mts-   pourquoi tu dis ça?
+
+MARINA	Parce que Vanessa....   Vanessa trouve toujours le moyen de m'humilier, tu sais,   devant tout le monde... (respi-nez__) et je suis à bout.
+
+CLARA	Vous vous disputez tout le temps, hein Marina? _h chaque semaine il y a une dispute, et je me retrouve au milieu, je suis devenue un personnage de cette histoire...
+
+MARINA	mfh__
+
+CLARA	du roman de vos disputes.
+
+MARINA	En vérité elle... elle est follement jalouse de toi.  (mts_) _h c'est très curieux mais...  elle n'agissait pas ainsi avec les autres femmes, seulement avec toi.
+
+CLARA	(X) Parce que nous on s'aime. Elle ne le supporte pas. _hh      Je croyais que j'étais compliquée mais je suis une débutante comparée à vous...
+
+MARINA	hh_ (petit rire____)
+
+CLARA	(petit rire__________)
+
+MARINA	(réac________   hhh_____
+
+(BOUCLE 30 - 10:27:17:03)
+		30
+
+AMBIANCE	(entraînement____________________________________
+
+VITOR	44................. 45................. 46                    47............... 48..................49................ 50. Terminé !    Repos! (mh-mh_)  Alors,       comment tu te sens ?
+
+ALICE	_hh épuisée  hh_____
+
+VITOR	(mh-mh_)  bientôt tu seras habituée.
+
+ALICE	Oui___ si je ne suis pas morte avant... (rire_____) (effort____)  hhh____
+
+VITOR	Je suis en train de former un groupe spécial, pour travailler en toute cohérence. ça t'intéresse?
+
+ALICE	Pourquoi pas ?
+
+VITOR	Tu as un peu de temps pour qu'on en discute?
+
+ALICE	mmh  si c'est pas loin de la fac, oui, j'ai un cours tout à l'heure que je ne peux pas louper, ça ira ?
+
+VITOR	C'est bon. Je te déposerai.
+
+ALICE	OK
+
+(BOUCLE 31 - 10:28:17:01)
+		31
+
+ANDRE	Salut Lou
+
+LUIZA	Salut André.
+
+ANDRE	ça va?
+
+LUIZA	Bien et toi?
+
+ANDRE	(X)
+
+LUIZA	J'allais à la cafétéria, tu m'accompagnes?
+
+ANDRE	Je peux, ça ne pose pas de problème ?
+
+LUIZA	Ben hh_ non, pourquoi tu demandes ça?
+
+ANDRE	J'sais pas, maintenant que tu as un fiancé qui est très jaloux, je me méfie...
+
+LUIZA	Ah  oui, c'est vrai, Laerte est jaloux comme personne, mais jamais je n'arrêterai de te parler à cause d'un fiancé...
+
+ANDRE	Ah... je retrouve la Louiza que j'ai toujours connu...
+
+LUIZA	(rire____)
+
+ANDRE	Tu es heureuse de te marier?
+
+LUIZA	_hh très. Je suis vraiment heureuse, oui. Mon coeur me dit que j'ai raison.
+
+ANDRE	Moi je... j'aurais préféré que ce soit moi le fiancé.
+
+LUIZA	(rire____)
+
+ANDRE	Mais je suis heureux pour toi. je te souhaite beaucoup de bonheur.
+
+LUIZA	Moi aussi je te souhaite beaucoup de bonheur André. Je veux te voir heureux et en paix. Et vous êtes ensemble Barbara et toi?
+
+ANDRE	Non. Non, nous sommes juste.....            bons amis.
+
+LUIZA	oh...   sérieux? Pourtant quand je vous ai vus l'autre jour, j'ai cru qu'il se préparait...
+
+ANDRE	Non, non, j'ai compris,   je ne mélange plus les sentiments... j'ai été échaudé... ça ne se reproduira pas, je ne veux pas perdre son amitié, je ne prends aucun risque.
+
+LUIZA	Les grandes histoires d'amour peuvent commencer comme ça, tu n'y as pas pensé?
+
+ANDRE	Je sais. Mais pas dans notre cas.
+
+LUIZA	huh__
+
+ANDRE	J'peux aller commander ton jus? Un jus vert c'est ça?  Non, j'plaisante!
+
+LUIZA	ah-ah-ah-ah
+
+ANDRE	Je plaisante! Ananas avec de la menthe, je sais.
+
+LUIZA	Sans sucre! (rire______
+
+(BOUCLE 32 - 10:29:37:22)
+		32
+
+VITOR	Tu vois, l'idée c'est de former une équipe d'élite spécialisée dans l'investigation et la répression des délits sexuels. Comme tu es encore à l'académie, tu serais la plus jeune à intégrer le groupe.
+
+ALICE	Hmm  tous les autres sont des anciens.
+
+VITOR	Y compris Malou.
+
+ALICE	Si Malou en fait partie je ne vois pas comment refuser.
+
+VITOR	mh-mh__  ce serait la première équipe, d'ici un an ou deux, elle va se diviser, et on créera d'autres avec le même profil, peut-être qu'à ce moment-la tu te retrouveras à la tête de l'une d'elles.
+
+ALICE	Oui, ce serait une ascension rapide dans une carrière.
+
+VITOR	Avec un diplôme d'études supérieures, tu pourrais devenir inspecteur, ou commissaire, tout dépendra de ta persévérance, et de ta valeur, hm ?
+
+ALICE	D'accord, j'accepte Vitor.
+
+VITOR	hh________
+
+ALICE	Ce sera un plaisir de faire partie de ton équipe.
+
+VITOR	Parfait, je suis très heureux que tu aies accepté.
+
+(BOUCLE 33 - 10:30:27:23)
+		33
+
+RICARDO	J'ai de sérieuses accusations à formuler.
+
+SALDANIA	Mon cher Ricardo, cette semaine tu es notre grand héros national, profite donc un peu de cette gloire!...
+
+RICARDO	Saldana j'ai été obligé de me poser en urgence, pour un problème de maintenance des appareils. Et visiblement c'est ce qui se passe désormais à droite et à gauche dans cette compagnie. Ce qui m'est arrivé est peu de chose à côté de la tragédie qui pourrait se produire, et si elle se produit, Saldana, cette société sera emportée comme par un tsunami.
+
+SALDANIA	Les ordres sont de réduire les coûts.
+
+RICARDO	C'est une impression ou bien... je perçois comme un certain cynisme dans votre attitude?
+
+SALDANIA	Tout ça n'est pas nouveau, on en a tous assez de cette politique, mais que veux-tu que je fasse?
+
+RICARDO	Que vous fassiez parvenir ce que j'ai dit aux oreilles de la direction.
+
+SALDANIA	Ici nous obéissons à leurs ordres.
+
+RICARDO	Vous êtes en train de me dire que la direction est au courant de tout ça?
+
+SALDANIA	Ni toi,    ni moi,   n'avons le pouvoir de changer la réalité
+
+RICARDO	Cette réalité est tout à fait inacceptable.
+
+SALDANIA	Mais immuable. Tu dois pas décoller, là?
+
+RICARDO	Et je ne peux pas être en retard,  c'est ça? Parce qu'avec cette compagnie on ne sait jamais si on va arriver à destination,   mais on doit toujours partir à l'heure.
+
+(BOUCLE 34 - 10:31:46:03)
+		34
+
+SHIRLEY	Je sais que c'est délicat, mais... on ne peut plus l'ignorer, non? Ta mère n'est plus parmi nous, les gens réels, elle est partie sur Mars, et de là elle nous envoie un petit signal de temps en temps. La plupart du temps, c'est une angoisse, parfois c'est un appel au secours, un SOS, Cette fois elle a fait appel à moi,   elle m'a confié qu'elle t'avait appelé, pour avoir ton aide, et tu n'y as pas prêté attention?
+
+LAERTé	_h comment j'aurais pu deviner que c'était sérieux ? Elle exagère toujours, elle dramatise... L'autre jour on est allé à Goiania, et il n'y avait rien du tout.
+
+SHIRLEY	Hhmm Rien, oui et non. Je suppose que ce n'est pas facile pour un fils de voir sa mère dans cet état, mais ....        il faut rester attentifs aux signaux. Même si c'est un écran de fumée pour attirer l'attention, ça reste des signaux Ils peuvent masquer un incendie.
+
+(BOUCLE 35 - 10:32:34:03)
+		35
+
+LAERTé	Je ne sais pas gérer ça. Je perds patience, quand je réalise qu'elle me manipule, je... Par chance tu es là ... pour m'alerter.
+
+SHIRLEY	Je ne suis pas là uniquement pour ça, tu sais. _hhh  mais c'est bon,  ça ira pour aujourd'hui... _hhh  J'ai appelé Chica il y a peu, elle a emmené ta mère chez le médecin, on saura bientôt ce qui se passe.  De toutes façons, elle pourra revenir à la maison, ne t'inquiète pas,    je prendrai soin de ma petite belle-mère.
+
+(BOUCLE 36 - 10:33:06:21)
+		36
+
+LUIZA	Coucou... Bonjour Shirley ça va? Bonjour chéri... (X) Je viens juste te faire un bisou,  je suis avec des amis pour organiser la grande fête de juin.
+
+LAERTé	Merci, tu es sûrement plus douée que moi pour organiser la fête....
+
+SHIRLEY	Waoh...    ces festivités du mois de juin, j'adore! (rire____)  _h Quelle bonne idée d'en organiser une au Centre. Je me charge d'un stand, évidemment.
+
+LUIZA	Je comptais bien sur ta présence Shirley.
+
+SANDRA	Lou !
+
+LUIZA	J'y vais, d'accord chéri?    On se retrouve après.      (X)
+
+LAERTé	D'accord. Je finis de régler quelques trucs avec Shirley.
+
+LUIZA	Ok
+
+SHIRLEY	Ton amoureuse ne peut pas me sentir.   Pourquoi à ton avis?              hh_______   Je crois que c'est parce que je suis jolie, blonde et riche...    (rire________)
+
+LAERTé	(rire___)  ton seul défaut c'est ton excès de modestie, non? (rire_)  Tu es un ange, qui m'observe et qui veille sur moi. Shirley,   _hh     je te serai éternellement reconnaissant de...  prendre soin de ma mère. (X) C'est vrai
+
+(BOUCLE 37 - 10:34:09:09)
+		37
+
+RICARDO	Ciao, Ciao,  à bientôt.
+
+ERICSSON	Ricardo Munis ? Pouvons-nous bavarder un instant? Mon nom est Ericsson Amaral. Puis-je vous offrir un whisky? _h ma nièce était sur le vol que vous avez sauvé, et je tenais à venir vous remercier personnellement.
+
+RICARDO	ah-ah Je n'ai fait qu'accomplir mon devoir, et honnêtement je n'avais pas envie de mourir là-bas. Ce sont les risques du métier.
+
+ERICSSON	_hh   Je sais bien ce que c'est,  _h je suis PDG d'une entreprise assez importante, et je passe peut-être autant de temps que vous en avion, je survole ce pays du nord au sud, et de temps en temps je dois aussi aller à l'étranger. Toujours avec un de nos Jets.
+
+RICARDO	Oui. C'est une vie difficile mais qui offre des compensations...
+
+ERICSSON	Ah, je ne me plains pas. _h         Il y a quelque temps j'ai appris une nouvelle qui m'a...    attristé, vous voyez... _hh mon pilote de confiance a fait un check-up, et le médecin lui a conseillé de... _h prendre sa retraite, de profiter de sa maison. Comme il est seul avec sa femme, ils sont allés habiter à Miami, pour se rapprocher de leurs petits-enfants qui vivent là-bas.. Et c'est là que vous entrez en jeu.
+
+(BOUCLE 38 - 10:35:12:10)
+		38
+
+RICARDO	Vous êtes en train de me proposer son poste, c'est ça?
+
+ERICSSON	J'en serais absolument enchanté. La rémunération serait à la hauteur, évidemment, au moins le double de ce que vous gagnez actuellement.
+
+RICARDO	En effet... et, par simple curiosité, Ericsson, quel est votre appareil?
+
+ERICSSON	_hh  C'est un Jet privé de luxe, pour 12 passagers, je sais que vous êtes habilité à piloter ce genre d'avion, je me suis renseigné. S'il vous plaît, prenez le temps de réfléchir.
+
+RICARDO	euh... je suis très flatté, mais....
+
+ERICSSON	Ecoutez, promettez-moi juste que vous allez... réfléchir... Voici mes numéros personnels, vous pouvez me joindre à tout moment.  Sincèrement Ricardo, j'espère que vous travaillerez pour moi, et que vous ne tarderez pas à me donner votre réponse.
+
+(BOUCLE 39 - 10:36:13:11)
+		39
+
+CADOU	Hey...   (rire_____)   Bonjour, bonhomme, comment ça va?
+
+RAFAEL	Vous avez fait ce que mon père m'avait promis....   une belle fête.
+
+CADOU	Ivan m'a bien aidé,   tous tes amis aussi, de l'école, du quartier.... ça te plaît?
+
+RAFAEL	J'ai jamais eu un anniversaire avec autant de couleurs!
+
+CADOU	Alors amuse-toi bien,  tout ce qu'il y a ici c'est pour toi.
+
+(BOUCLE 40 - 10:36:51:11)
+		40
+
+GUIOMAR	Oui?
+
+JULIANA	Ah...   c'est-c'est encore vous ?
+
+IOLANDA	Bonsoir à vous aussi, merci. Coucou Bia,  tout va bien ?  Tu viens avec mamie?   papa est à la maison, il t'attend, Bia
+
+JULIANA	C'est la deuxième fois que vous venez chercher ma fille à la place de son père, il fuit ses responsabilités ou quoi?
+
+IOLANDA	Il n'a pas votre train de vie, Juliana, il travaille, lui.
+
+JULIANA	Je ne veux rien savoir, je compose avec son père, nous avons conclu un accord, qui me garantit que vous avez l'autorisation d'emmener ma fille à sa place?
+
+IOLANDA	hmm  vous êtes drôlement méfiante, hein? Ah, j'en ferai part à Jairo, vous pouvez compter sur moi
+
+JULIANA	Si vous voulez....
+
+IOLANDA	Allez, Bia, on s'en va.   Tu viens avec mamie?   Viens ma chérie, on s'en va!
+
+JULIANA	Elle ne veut pas venir avec vous, Iolanda. Vous n'allez pas l'emmener de force, je ne  permettrai pas une telle violence ici.
+
+IOLANDA	Quelle mascarade!   Vous voulez rendre cette petite aussi capricieuse que vous, mais ça ne se passera pas comme ça, je vous le garantis!
+
+JULIANA	hé !!!    ( rire_______)   Bia va rester encore un peu avec maman,  c'est génial !    Et qu'est-ce qu'on va faire ? On va...  aller à une fête, la fête de tonton Cadou,  c'est une fête pour les enfants !!!   Ouais!........
+
+BIA	Ouais.....
+
+GUIOMAR	euh... dites Juliana, on risque d'avoir des problèmes, non?  Parce que Jairo va être furieux quand il saura que vous n'avez pas voulu confier Bia à sa grand-mère...
+
+JULIANA	Rien ne l'obligeait à rompre notre accord, pas vrai? On avait un arrangement, non?  Alors...   On va faire la fête?...
+
+(BOUCLE 41 - 10:38:09:02)
+		41
+
+AMBIANCE	(fête_____applause_________
+
+RAFAEL	(souffle bougies_____)
+
+CADOU	Hé!... Bravo !
+
+CLARA	Ah ah.......
+
+MARIA	Les mots me manquent pour dire combien je vous remercie. Cadou est un homme en or. Vous avez de la chance.
+
+CLARA	Oui, Cadou est merveilleux, c'est le meilleur père dont mon fils pouvait rêver. Je vous remercie de ce que vous avez fait...  pour lui. _hhhh     Allez !    Le gâteau !!!    Il faut couper le gâteau !!!   Cadou, le gâteau !
+
+CADOU	Oui, le gâteau!    Ecoutez tous !   Il m'a dit qu'il ne voulait pas de chanson, genre : "  C'est pour qui? .... c'est pour qui ?  Alors passons aux choses sérieuses, coupons le gâteau.... allez, vas-y,  Rafa, applique-toi ! C'est parti...  Un, deux,   trois!.............. (rire___)  alors dis-moi, Rafa, ce sera pour qui la première part du gâteau?
+
+IVAN	Il l'a bien coupé.
+
+CADOU	ah-ah....
+
+IVAN	Merci beaucoup Rafa
+
+CLARA	Tu as l'air heureux...
+
+CADOU	Très....  je suis très heureux...     C'est un des plus beaux jours de ma vie.    Avoir l'occasion d'offrir une fête à ce gamin.... mts_
+
+(BOUCLE 42 - 10:39:05:06)
+		42
+
+VERONICA	Je trouve ça charmant de voir un couple aussi uni. Même s'ils ne sont plus ensemble,  _hhh         c'est le signe que l'histoire qu'ils ont vécu valait la peine.
+
+SILVIA	_hh  oui, et ils ont un enfant      .. c'est ce qui fait toute la différence.
+
+VERONICA	Oui, mais il y a des tas d'ex-conjoints qui ont eu des enfants et qui restent ennemis à jamais.
+
+SILVIA	Oui. _h je me demande même si Cadou arrive à oublier Clara? Parce que s'il ne l'a pas oubliée,  _h  ça va être très difficile pour une autre femme d'occuper une place dans son coeur. Ils ont l'air d'être tellement amoureux...
+
+(BOUCLE 43 - 10:39:41:16)
+		43
+
+SILVIA	Bonsoir.
+
+FELIPE __	Bonsoir...   Oh, Silvia...
+
+SILVIA	Oh, Felipe ? Que tu fais-tu là à cette heure-ci?
+
+FELIPE __	Ah, ne t'inquiète pas, aujourd'hui je n'ai pas bu, d'accord?
+
+SILVIA	Tant mieux parce que sinon je t'aurais tué, ok? Tu viens faire quoi à cette heure-ci?
+
+FELIPE __	Je t'attendais. Je voulais te remettre... ceci.
+
+SILVIA	Ah Tu  viens ici... _h juste pour me donner les clés du cabinet?
+
+FELIPE __	Je...
+
+SILVIA	Je n'en veux pas.
+
+FELIPE __	Il fallait que je le fasse, Silvia, ça me déprime, _h mais, bon si tu n'en veux pas, je les remettrai directement à Gabriel, pas de problème, salut....
+
+SILVIA	Non, non, c'est pas vrai ...  ouh mais ce que tu es têtu, toi...
+
+FELIPE __	(rire_________) Je sais, oui, comme un mule,  _hh   mais cette histoire me stresse trop, Silvia, prends ces clés, je ne retournerai pas là-bas, pour le bien de tout le monde.
+
+SILVIA	Tu ne dois parler à ma   place. Bon,  puisque tu es là, on a qu'à monter et discuter de tout ça, d'accord?
+
+FELIPE __	D'accord... Je veux bien monter pour te tenir compagnie, mais n'espère pas me faire changer d'avis.
+
+SILVIA	T'es chiant
+
+FELIPE __	(rire_______
+
+SILVIA	Allez, viens me tenir compagnie, j'ai vraiment besoin d'un ami.
+
+FELIPE __	Tu me supplies en fait? Demandé comme ça je ne peux pas refuser. Et puis, te tenir compagnie, c'est pas une mauvaise idée...
+
+SILVIA	Ahh____
+
+(BOUCLE 44 - 10:40:51:12)
+		44
+
+MARINA	Tu veux que je fasse un arrêt cardiaque!
+
+VANESSA	Au contraire, je veux faire battre ton coeur. Tu me manques, tu sais.
+
+MARINA	ah oui, je te manque, après la dispute horrible qu'on a eue...
+
+VANESSA	mts_
+
+MARINA	Dis-moi... Flavinia sait que que tu es là à réchauffer mon lit avec ta nostalgie.
+
+VANESSA	Depuis quand je devrais raconter ma vie à Flavinia? Elle n'est pas ma copine.
+
+MARINA	Ah bon, on dirait.
+
+VANESSA	Ah... les apparences... tu sais très bien que je lâcherais tout pour rester avec toi... si tu voulais...
+
+MARINA	Mmmmhhhh
+
+VANESSA	(renifle__) tu sens bon....
+
+MARINA	Ahh non, Vanessa, arrête, maintenant, on en a parlé 100 fois, je suis avec Clara, et je veux être heureuse avec elle.
+
+VANESSA	Ahh mon dieu je sais, je sais, je sais, c'est terrible de voir l'investissement émotionnel que tu as avec cette femme... __hhhh Tu ne vois pas que ça ne marchera pas? C'est évident, vous venez de 2 planètes complètement différentes.
+
+(BOUCLE 45 - 10:41:49:09)
+		45
+
+MARINA	Et alors, qu'est-ce que ça fait qu'on soit différentes?  Si tout le monde se ressemble, où est le charme?
+
+VANESSA	Tu as déjà pensé à toutes les choses auxquelles tu seras obligée de renoncer dans ta vie, pour que ta vie s'adapte à la sienne? (Réfléchis,    une femme au foyer, un enfant petit, un ex-mari, _h tu seras toujours plus disponible pour elle que elle pour toi, Marina.)
+
+MARINA	Tu as raison. Tu as tout à fait raison. Mais on s'aime. Est-ce que tu voudrais continuer à...  penser à ma place par hasard, c'est ça?
+
+VANESSA	Non... mm-hm mais je serais rassurée de savoir que tu sais que ce ne sera pas facile. Pas du tout....
+
+MARINA	Je ne suis pas naïve, ok Vanessa? Et j'suis fatiguée, laisse-moi dormir.
+
+VANESSA	C'est bon, c'est bon, c'est bon, je reste là, je ne dis rien
+
+MARINA	Aïe Vanessa...    _h pousse-toi un peu, laisse-moi respirer.
+
+VANESSA	Oui ? hmmm_________ Je me sens tellement mal, j'ai un truc qui m'oppresse la poitrine, tu sais. J'suis très malheureuse
+
+MARINA	C'est pas nouveau, tu adores être déprimée! (rire_)
+
+VANESSA	C'est toi que j'adore.
+
+MARINA	huh_
+
+VANESSA	J'adore ton sourire, j'adore quand tu me regardes avec tes grands yeux... J'adore aussi nos bagarres je les aime bien... (rire_______)
+
+MARINA	Ah ouais, je suis toute endolorie, moi...
+
+VANESSA	Tchac, tchac ! _hhh  une  tape d'amour c'est indolore....
+
+MARINA	c'est pas drôle. ça fait mal,    trop,    trop mal
+
+VANESSA	_hh  ahh  Marina. ce qui est douloureux c'est l'indifférence. ça c'est dur.
+
+(BOUCLE 46 - 10:43:16:20)
+		46
+
+FELIPE __	C'est un phénomène ce Cadou, non?   Il est beau...   il est gentil,     il cuisine bien.... et il a traversé une sacrée épreuve en plus. Il mérite bien ce fan-club de jolies femmes qui lui courent après...
+
+SILVIA	hmm en plus de moi ? (rire_____)  Y'en a pas...
+
+FELIPE __	Oh, si, il arrache des soupirs à tout le monde... mais de toute évidence ses préférées c'est toi et la pianiste.
+
+SILVIA	hha________   mais quelle ... peste  cette Véronica!
+
+FELIPE __	(rire____)  ah ben ce serait étrange que tu apprécies une rivale...
+
+SILVIA	Tu me fais un petit massage s'il te plaît,  d'accord? (rire_______) _hhh Non, n'exagère pas non plus, Felipe, j'aime bien Cadou, mais bon,  je ne vais pas me lancer dans une bataille.
+
+FELIPE __	Silvia, d'après ce que tu m'as dit, tu es déjà dedans... (petit rire_) et en attendant, je reste là, je suis désespéré, j'ai le coeur déchiré, et je n'ai personne pour me consoler.
+
+SILVIA	Ohh mon dieu...    c'est trop triste...
+
+FELIPE __	mfh___
+
+SILVIA	Arrête, gros bêta, et haut les coeurs!  Reviens travailler au cabinet, Felipe, qui sait, tu rencontreras peut-être une jolie patiente
+
+FELIPE __	Hors de question Silvia. je suis nul pour les aller-retours.
+
+SILVIA	(inspi___)
+
+FELIPE __	En plus Gabriel a raison, je salirais votre réputation, Je suis anéanti, je ne reviendrai pas. _h Silvia, tu réalises que mon nom s'est étalé en grand dans le journal, comme celui d'un criminel?
+
+SILVIA	hé, passe à autre chose. Pense...    différemment s'il te plaît, Felipe, écoute, ça aurait pu être bien pire. Tu aurais pu perdre le droit d'exercer ta profession. Mais ce n'est pas le cas, et tu peux revenir quand tu veux.
+
+(BOUCLE 47 - 10:44:50:09)
+		47
+
+FELIPE __	Ce que j'ai perdu c'est ma dignité, Silvia,  je me suis senti désavoué, je n'aurais plus le courage de signer une ordonnance... et..........  écoute, je suis venu te rendre les clés du cabinet, et me voilà encore en train de me lamenter, ça ne va pas, et pour couronner le tout, je t'écoute me parler de Cadou, à moi, c'est du masochisme, bon, je m'en vais, Silvia.
+
+SILVIA	Non, non, non, je ne te laisserai pas partir comme ça, pas dans l'état où tu es, sûrement pas. Il n'en est pas question Felipe, tu vas dormir ici
+
+FELIPE __	Silvia!
+
+SILVIA	Reste dormir...  allez! Oui, tu dors ici et demain tu pars de bonne heure, je ne te laisse partir comme ça, je ne veux pas.
+
+FELIPE __	Silvia, laisse-moi partir, d'accord ?  Je suis un boulet pour toi,  je ne veux pas te prendre encore plus la tête.
+
+SILVIA	Arrête de dire ça... pourquoi tu te martyrises comme ça, Felipe? Ne fais pas ça...   Allez, tu dors ici. _h on a assez discuté maintenant,    tu vas te relaxer... Je t'apporte une couverture, tu vas dormir là, sur le sofa, je ne te laisse pas partir, tu es tout triste et... hmmm
+
+(texte)	A SUIVRE......
+
+(BOUCLE 48 - 10:45:56:24)
+		48
+
+JULIANA	Tu as perdu la clé?
+
+JAIRO	Non. Mais je n'habite plus ici alors je sonne avant d'entrer.
+
+JULIANA	Ah, très bien, je ne savais pas que tu étais si bien élevé. Entre!
+
+JAIRO	Merci
+
+SHIRLEY	Héléna !!    Quelle coïncidence ! Tu vas bien ? C'est drôle de se retrouver comme ça, dans la rue... (hmm_) nos chemins se croisent. (rire____
+
+HELENA	J'habite ici.
+
+SHIRLEY	Je suis venue chercher ma belle-mère, elle vient vivre chez moi à nouveau.
+
+HELENA	Ta... ta belle-mère?
+
+SHIRLEY	Oui, on s'entend tellement bien que je l'appelle comme ça.
+
+HELENA	Ahh
+
+LAERTé	Et à propos d'enfant, comment va ton fils, Clara, tout va bien?
+
+CLARA	Tout va très bien, ce soir c'est la fête, il est avec sa grand-mère et il adore ça.
+
+MARINA	hha_ c'est trop mignon les enfants.
+
+CLARA	Et tendres!
+
+(texte)	GENERIQUE FIN EPISODE 61

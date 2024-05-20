@@ -312,11 +312,18 @@ def remove_all_tree_items():
 
 
 def open_folder():
+    print("Change folder")
     remove_all_tree_items()
     directory = filedialog.askdirectory(initialdir=os.getcwd())
     if directory:
         update_ini_settings_file("SCRIPT_FOLDER",directory)
         load_tree("",directory)
+
+def open_folder_firsttime():
+    print("Change folder")
+    directory = filedialog.askdirectory(initialdir=os.getcwd(),title="Choose your scripts folder")
+    if directory:
+        update_ini_settings_file("SCRIPT_FOLDER",directory)
 
 
 def exit_app():
@@ -701,12 +708,15 @@ def update_ini_settings_file(field,new_folder):
 settings_ini_exists = check_settings_ini_exists()
 if settings_ini_exists == False:
     write_settings_ini()
+    open_folder_firsttime()
 
 settings = read_settings_ini()
-
+app_dir = os.path.dirname(os.path.abspath(__file__))
+icons_dir =app_dir+"/icons/"
+print("App dir           :"+app_dir)
 app = tk.Tk()
-app.title('Script Analyzer')
-app.iconbitmap('app_icon.ico') 
+app.title('Scripti')
+app.iconbitmap(icons_dir+'app_icon.ico') 
 
 def on_resize(event):
     print("on_resize")
@@ -720,15 +730,15 @@ def on_resize(event):
 menu_bar = Menu(app)
 app.config(menu=menu_bar)
 
-folder_icon = tk.PhotoImage(file="folder_icon.png")  # Adjust path to your icon file
-txt_icon = tk.PhotoImage(file="txt_icon.png")  # Adjust path to your icon file
-docx_icon = tk.PhotoImage(file="docx_icon.png")  # Adjust path to your icon file
-original_icon = tk.PhotoImage(file="textd_icon.png")  # Adjust path to your icon file
-char_icon = tk.PhotoImage(file="character_icon.png")  # Adjust path to your icon file
-timeline_icon = tk.PhotoImage(file="timeline_icon.png")  # Adjust path to your icon file
-scene_icon = tk.PhotoImage(file="scenes_icon.png")  # Adjust path to your icon file
-export_icon = tk.PhotoImage(file="export_icon.png")  # Adjust path to your icon file
-chat_icon = tk.PhotoImage(file="chat_icon.png")  # Adjust path to your icon file
+folder_icon = tk.PhotoImage(file=icons_dir+"folder_icon.png")  # Adjust path to your icon file
+txt_icon = tk.PhotoImage(file=icons_dir+"txt_icon.png")  # Adjust path to your icon file
+docx_icon = tk.PhotoImage(file=icons_dir+"docx_icon.png")  # Adjust path to your icon file
+original_icon = tk.PhotoImage(file=icons_dir+"textd_icon.png")  # Adjust path to your icon file
+char_icon = tk.PhotoImage(file=icons_dir+"character_icon.png")  # Adjust path to your icon file
+timeline_icon = tk.PhotoImage(file=icons_dir+"timeline_icon.png")  # Adjust path to your icon file
+scene_icon = tk.PhotoImage(file=icons_dir+"scenes_icon.png")  # Adjust path to your icon file
+export_icon = tk.PhotoImage(file=icons_dir+"export_icon.png")  # Adjust path to your icon file
+chat_icon = tk.PhotoImage(file=icons_dir+"chat_icon.png")  # Adjust path to your icon file
 
 
 # File menu
@@ -1081,10 +1091,11 @@ style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('He
 style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
 style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
-def on_tab_selected(event):
-    print("Tab selected:", event.widget.select())
+#def on_tab_selected(event):
+    #print("Tab selected:", event.widget.select())
 
-notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
+
+#notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
 preview_tab = ttk.Frame(notebook)
 notebook.add(preview_tab, text='Original text',image=original_icon, compound=tk.LEFT)

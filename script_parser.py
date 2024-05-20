@@ -974,4 +974,3 @@ def process_script(script_path,output_path,script_name,countingMethod):
 #process_script("scripts/examples/Gods of the deep - CCSL.docx","GODS/","GODS","ALL")    
 #process_script("scripts/examples/Blackwater Lane.docx","Blackwater Lane/","Blackwater Lane","ALL")    
 
-print("Done.")

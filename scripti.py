@@ -1,6 +1,6 @@
 import os
 import tkinter as tk
-from tkinter import ttk, filedialog, Text,Menu
+from tkinter import ttk, filedialog, Text,Menu,Toplevel
 from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt
 import pandas as pd
 import chardet
@@ -56,6 +56,7 @@ currentTimelinePath=""
 currentBreakdown=None
 currentFig=None
 currentCanvas=None
+currentCharacterMergeFromName=None
 currentCharacterSelectRowId=None
 currentCharacterMultiSelectRowIds=None
 currentDisabledCharacters=[]
@@ -64,7 +65,10 @@ currentResultEnc=""
 currentResultName=""
 currentResultLinecountMap=None
 currentResultSceneCharacterMap=None
-
+currentMergePopupTable=None
+currentMergedCharacters={}
+currentMergedCharactersTo={}
+currentMergePopupWindow=None
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness
@@ -359,8 +363,6 @@ def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,s
     fill_character_stats_table(character_order_map,breakdown,enc)
     fill_stats_table(breakdown)
     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
-    #hide_loading()
-
     draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
 
 def on_folder_select(event):
@@ -376,8 +378,8 @@ def on_folder_select(event):
         loading_label_txt.config(text="Analyzing "+file_path)
         show_loading()
         app.update_idletasks()  # Force the UI to update
-        for item in disabled_character_list_table.get_children():
-            disabled_character_list_table.delete(item)
+        #for item in disabled_character_list_table.get_children():
+         #   disabled_character_list_table.delete(item)
     
         threading.Thread(target=runJob,args=(file_path,countingMethod)).start()
 #        runJob(file_path,countingMethod)
@@ -462,6 +464,9 @@ def fill_character_table(character_order_map, breakdown,character_linecount_map,
         if item in currentDisabledCharacters:
             status="HIDDEN"
             character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/50)),scenes),tags=("hidden"))
+        elif item in currentMergedCharacters:
+            status="MERGED (into "+str(currentMergedCharacters[item])+")"
+            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/50)),scenes),tags=("hidden"))
         else:
             order_idx=order_idx+1
             character_table.insert('','end',values=(str(order_idx),item,status,str(character_count),str(math.ceil(character_count/50)),scenes))
@@ -479,7 +484,7 @@ def fill_character_list_table(character_order_map, breakdown):
 
     for character_name in character_order_map:
         #print("CHAR add"+character_name)
-        if not character_name in currentDisabledCharacters:
+        if (not character_name in currentDisabledCharacters) or (not character_name in currentMergedCharacters):
             character_named = character_name 
             #print("CHAR add"+character_named)
             character_list_table.insert('','end',values=(character_named,))
@@ -508,7 +513,6 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
             line_idx=item['line_idx']
             type_=item['type']
             if(type_=="SPEECH"):
-
                 speech=item['speech']
                 character=item['character']
                 character_raw=item['character_raw']
@@ -630,22 +634,34 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
     
     data = []
     order_idx=0
+
+
+    
+
     for character in total:
-        
-        print(currentDisabledCharacters)
-        print(character)
-        print(character in currentDisabledCharacters)
-        if not character in currentDisabledCharacters:
+        if (not character in currentDisabledCharacters) and (not character in currentMergedCharacters):
             order_idx=order_idx+1
             datarow=[str(order_idx)+" - " +str(character)];
             for method in total[character]:
                 if method!="ALL":
+                    #check merged characters and add eventually
+                    print("char="+str(character))
+                    if character in currentMergedCharactersTo:
+                        print("in merged"+str(currentMergedCharactersTo))
+                        mergedwith=currentMergedCharactersTo[character]
+                        for k in mergedwith:
+                            print("in merged add "+str(k))
+                            total[character][method]=total[character][method]+total[k][method]
+                    else:
+                        print("not merged")
                     #print(str(character)+": Add method "+method+" = "+str(total[character][method]))
                     datarow.append(str(total[character][method]))
+
             data.append(datarow)
         else:
             print("generate_total_csv skip"+character)
     
+            
     #print("data"+str(data))
     with open(csv_path, mode='w', newline='',encoding=encoding_used) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -1061,7 +1077,14 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
         charidx=charidx+1
         
         if charidx<=Nmaxchar:
-            if not char in currentDisabledCharacters:
+            charlist=[char]
+            
+            if char in currentMergedCharactersTo:
+                additional=currentMergedCharactersTo[char]
+                for k in additional:
+                    charlist.append(k)
+            
+            if (not char in currentDisabledCharacters) or (not char in currentMergedCharacters): 
             
                 idx=1
                 #print("draw_bar_chart char="+char)
@@ -1077,7 +1100,7 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
                         if(type_=="SPEECH"):
                             labels.append(str(line_idx))
                             character=item['character']
-                            if character==char:
+                            if character in charlist:
                                 values.append(1)
                             else:
                                 values.append(0)
@@ -1162,15 +1185,18 @@ menu = tk.Menu(app, tearoff=0)
 menu.add_command(label="Open File", command=open_file_in_system)
 def merge_characters():
     print("merge_characters")
-    global currentCharacterMultiSelectRowIds
-    currentCharacterMultiSelectRowIds=character_table.selection()
+    global currentCharacterMergeFromName
+    name = character_table.item(currentCharacterSelectRowId, 'values')[1]
+    currentCharacterMergeFromName=name
+    print("Merge "+name)
+    create_popup(currentResultCharacterOrderMap)
 
 def hide_character():
     print("hide_character")
     global currentDisabledCharacters
     name = character_table.item(currentCharacterSelectRowId, 'values')[1]
     currentDisabledCharacters.append(name)
-    disabled_character_list_table.insert('','end',values=(name,))
+    #disabled_character_list_table.insert('','end',values=(name,))
 
     print("Hide "+name)
     reset_tables()
@@ -1182,7 +1208,7 @@ def hide_character():
 
 
 char_menu = tk.Menu(app, tearoff=0)
-char_menu.add_command(label="Merge...", command=merge_characters)
+char_menu.add_command(label="Merge with...", command=merge_characters)
 char_menu.add_command(label="Hide", command=hide_character)
 
 #######################################################################################
@@ -1518,12 +1544,6 @@ character_list_table.bind('<ButtonRelease-1>', on_item_selected)
 
 
 
-
-
-
-
-
-
 character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings')
 # Define the column headings
 character_stats_table.heading('Line #', text='Line #')
@@ -1572,18 +1592,77 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 #load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
 #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
-stats_label.pack(side=tk.TOP, fill=tk.X)
+#stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
+#stats_label.pack(side=tk.TOP, fill=tk.X)
 
-disabled_character_list_table = ttk.Treeview(export_tab, columns=('Character'), show='headings')
-# Define the column headings
-disabled_character_list_table.heading('Character', text='Character')
+def merge_with():
+    global currentMergedCharacters
+    global currentMergedCharactersTo
+    global currentMergePopupTable
+    
+    first_selected_item = currentMergePopupTable.selection()[0]
+    first_cell_value = currentMergePopupTable.item(first_selected_item, "values")[0]  
+    print(str(first_cell_value))
+    mergeto=first_cell_value
+    mergefrom=currentCharacterMergeFromName
 
-# Define the column width and alignment
-disabled_character_list_table.column('Character', width=50, anchor='w')
+    currentMergedCharacters[mergefrom]=mergefrom
+    if mergeto in currentMergedCharactersTo:
+        currentMergedCharactersTo[mergeto].append(mergefrom)
+    else:
+        currentMergedCharactersTo[mergeto]=(mergefrom,)
+    
+    currentMergePopupWindow.destroy()
+
+    reset_tables()
+    postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+
 
 # Pack the Treeview widget with enough space
-disabled_character_list_table.pack(fill='both',expand=True)
+#popup_character_list_table.pack(fill='both',expand=True)
+
+
+def create_popup(character_map):
+    global currentMergePopupWindow
+    global currentMergePopupTable
+    popup = Toplevel(app)
+    popup.title("Merge with")
+    popup.geometry("200x350")  # Size of the popup window
+    currentMergePopupWindow=popup
+
+    popup_character_list_table = ttk.Treeview(popup, columns=('Character'), show='headings')
+    # Define the column headings
+    popup_character_list_table.heading('Character', text='')
+
+    # Define the column width and alignment
+    popup_character_list_table.column('Character', width=50, anchor='w')
+   # popup_character_list_table.bind('<Button-1>', merge_with)
+    popup_character_list_table.pack(fill='both',expand=True)
+    
+    for k in character_map:
+        popup_character_list_table.insert('', 'end', text=k, values=[k])
+
+    currentMergePopupTable=popup_character_list_table
+
+
+    # Frame to control the size of the button
+    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
+    button_frame.pack(fill='x')  # Fill frame horizontally
+    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
+
+    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
+    close_btn.pack(fill='x',expand=True)
+
+
+#disabled_character_list_table = ttk.Treeview(export_tab, columns=('Character'), show='headings')
+# Define the column headings
+#disabled_character_list_table.heading('Character', text='Character')
+
+# Define the column width and alignment
+#disabled_character_list_table.column('Character', width=50, anchor='w')
+
+# Pack the Treeview widget with enough space
+#disabled_character_list_table.pack(fill='both',expand=True)
 
 
 notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)

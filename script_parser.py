@@ -7,6 +7,7 @@ from docx import Document
 import csv
 import pythoncom
 import win32api
+import pdfplumber
 import win32com.client
 from pyth.plugins.rtf15.reader import Rtf15Reader
 from pyth.plugins.plaintext.writer import PlaintextWriter
@@ -470,7 +471,7 @@ def read_docx(file_path):
     return doc
 def is_supported_extension(ext):
     ext=ext.lower()
-    return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf"
+    return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf" or ext==".pdf"
 
 
 
@@ -591,7 +592,6 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
         if len(character)>0:
             current_character=character
         if len(dialogue)>0:  
-
             is_didascalie=dialogue.startswith("(")
             if not is_didascalie: 
                 dialogue=filter_text(dialogue)             
@@ -628,6 +628,37 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
         pythoncom.CoUninitialize()
     return ""
         
+def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
+    print("convert_pdf_to_txt")
+    print("currentOutputFolder             :"+absCurrentOutputFolder)
+    print("Input             :"+file_path)
+    converted_file_path=""
+    if ".pdf" in file_path:
+        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".pdf",".converted.txt"))
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        with pdfplumber.open(file_path) as pdf:
+          page_idx=1  
+          for page in pdf.pages:
+            # Extract tables from the page
+            print("page"+str(page_idx))
+            page_idx=page_idx+1
+            tables = page.extract_tables()
+            for table in tables:
+                # Add a table to the Word document
+                if table:  # Check if the table is not empty
+                    headers=table[0]
+                    print("headers"+str(headers))
+                    character_index = headers.index('CHARACTER')
+                    dialogue_index = headers.index('DIALOGUE')
+                    for row in table[1:]:  # Skip header
+                        character = row[character_index]
+                        dialogue = row[dialogue_index]
+                        character=(character.upper())
+                        print(str(row))
+                        # Write to file with a tab between CHARACTER and DIALOGUE
+                        file.write(f"{character}\t{dialogue}\n")
+    return converted_file_path
+
 
 def convert_word_to_txt(file_path,absCurrentOutputFolder):
     print("convert_docx_to_txt")
@@ -665,6 +696,8 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder):
                 if t=="CHARACTER ID":
                     characterIdCol=idx
                 if t=="CHARACTER":
+                    characterIdCol=idx
+                elif t=="ROLE":
                     characterIdCol=idx
                 elif t=="DIALOGUE":
                     dialogueCol=idx
@@ -849,7 +882,14 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
             print("  > Conversion failed 1")
             return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod)
-        
+
+    if extension==".pdf":
+        converted_file_path=convert_pdf_to_txt(script_path)
+        if len(converted_file_path)==0:
+            print("  > Conversion failed 1")
+            return None,None,None,None,None,None
+        return process_script(converted_file_path,output_path,script_name,countingMethod)
+
     uppercase_lines=[]
     current_scene_id=""
     wasEmptyLine=False

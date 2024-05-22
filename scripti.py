@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel
-from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt
+from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt,convert_pdf_to_txt
 import pandas as pd
 import chardet
 import tkinter.font as tkFont
@@ -296,7 +296,19 @@ def runJob(file_path,method):
                     enc=txt_encoding
                     file_path=converted_file_path
                     print("Conversion file path :",file_path)
-                    
+
+                if extension==".pdf":
+                    print("Conversion PDF to txt")
+                    converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
+                    if len(converted_file_path)==0:
+                        print("Conversion pdf to txt failed")
+                        print("Failed")
+                        hide_loading()
+                        return
+                    enc=txt_encoding
+                    file_path=converted_file_path
+                    print("Conversion file path :",file_path)
+
                 print("Opening")
                 with open(file_path, 'r', encoding=enc) as file:
                     print("Opened")
@@ -1041,7 +1053,7 @@ def hide_loading():
 def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     global currentFig
     global currentCanvas
-    if currentFig!=None:
+    if currentFig!=None:    
         clear_chart()
         currentCanvas.get_tk_widget().pack_forget()
         currentCanvas = None

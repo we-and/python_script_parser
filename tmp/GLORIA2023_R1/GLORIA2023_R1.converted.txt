@@ -1,0 +1,114 @@
+FIDELIA	Kids!
+BAMBINO 1	Hurry!
+ROMEO	Teresa, I made something for you.
+ROMEO	It took me a while.
+ROMEO	Like it?
+ROMEO	Remember...
+ROMEO	odd keys always sound good together.
+ROMEO	Yes...
+ROMEO	INSIDE THE WALLS OF SANT'IGNAZIO
+ROMEO	SOMEWHERE NEAR VENICE
+ROMEO	AT THE DAWN OF THE YEAR 1800
+FIDELIA	Don't just stand there!
+FIDELIA	Get to work!
+FIDELIA	Be more vigorous with that rag!
+FIDELIA	Hurry up, I'm getting cold.
+LUCIA	My bones ache.
+MARIETTA	Lucia?
+PRUDENZA	How do you feel?
+LUCIA	Awful.
+PRUDENZA	Keep them warm,we can't risk losing them.
+BETTINA	It's freezing in this big room.
+LUCIA	I was cold last nightbecause I was only given one log.
+BETTINA	Oh Luigi...
+BETTINA	More, Luigi...
+BETTINA	Yes, Luigi!
+LUCIA	Knock it off, dummy!
+BETTINA	I'm sure you saw him the other night...
+LUCIA
+PRUDENZA	- Obviously.- Did he propose?
+LUCIA	He won't see an inch of my skintill we marry.
+MARIETTA	Where'd you get them?
+BETTINA	Aren't they pretty?
+BETTINA	Close that!
+BETTINA	They cost me three months of tutoringthe countess' idiotic son.
+BETTINA BETTINA	But it was worth it.
+PRUDENZA
+LUCIA	- They're beautiful.- But wasted in this place.
+BETTINA	You're not the only one with a lifeoutside here. I have friends too.
+FIDELIA
+MARIETTA	- Girls, it's late.- Quiet...
+FIDELIA	Hurry up!
+FIDELIA	Lucia?
+LUCIA
+FIDELIA	- Yes?- I don't like locked doors!
+LUCIA	I'm getting dressed, be right out.
+FIDELIA	Hurry!
+LUCIA	Shoes, quick!
+PERLINA	Good morning.
+SIGNORA ELEGANTE	He's pretending to conduct.
+PERLINA	Give thanks to the Lordfor He is good,
+PERLINA	for His unfailing love,
+PERLINA	and for His wonderful deedsfor mankind.
+PERLINA	For He satisfies the thirsty
+PERLINA	and fills the hungry with good things.
+PERLINA	Hallelujah!
+GOVERNATORE
+
+PERLINA	-Sant'Ignazio... can you believe it?Right here.-Right here.
+GIACOMINO
+GOVERNATORE	- Dad, let's play.- Go take a walk.
+GOVERNATORE	Well? You have nothing to say?
+GOVERNATORE	For the first time in history,a pope will be crowned in Venice.
+GOVERNATORE	It's incredible! But there's more...
+GOVERNATORE	he wants to visit some small churches,including Sant'Ignazio.
+GOVERNATORE	Why that face?
+PERLINA	I thought the Pontifexwould seek refuge in Rome.
+GOVERNATORE	Nonsense,Rome is full of French pigs
+GOVERNATORE	and that brute Napoleon...Don't get me started.
+GOVERNATORE	I'm tired of procuring moneyfor this herd of bums.
+GOVERNATORE	They're a burden on the coffers...
+GOVERNATORE	He's coming here,
+GOVERNATORE	we need to make an impression.
+GOVERNATORE	It's our chance, understand?
+PERLINA	What can we dofor this momentous occasion?
+GOVERNATORE	We? You!
+GOVERNATORE	I want a concertin honor of Pope Pius VII.
+GOVERNATORE	Write it.
+GOVERNATORE	You can still compose, right?
+PERLINA	Of course.
+GOVERNATORE	Then why do you always playthe same thing on Sundays?
+GOVERNATORE	The concert's in a month.
+GOVERNATORE	It'll be in the papers,
+GOVERNATORE	everyone will know that Venicecan still produce magnificence
+GOVERNATORE	despite the Austriansand that Napoleon clown.
+GOVERNATORE
+PERLINA
+GOVERNATORE
+PERLINA	- Do you agree?- Indeed.
+GOVERNATORE	What is she doing there?
+PERLINA	Come with me, you halfwit.
+PERLINA	How many times have I told youto stay away from that boy?
+PERLINA	Remember the deal?
+PERLINA	You're playing with fire.
+PERLINA	It won't end well for you,I'll kick you out.
+PERLINA	Out!
+BARCAIOLO	Slowly!
+RAGAZZONE	Here.
+RAGAZZONE	FOR SANT'IGNAZIO'S CHOIRGIRLS
+FIDELIA
+PERLINA	- Who's it for?- Me.
+PERLINA	It's a giftfrom Johann Stein's daughter.
+FIDELIA	Who?
+PERLINA	He used to visit here years ago.
+FIDELIA	Dear Lord!
+FIDELIA	You won't bring itinto the Lord's home?!
+PERLINA	Leave it to me,you can go to bed without concern.
+FIDELIA	We can obtain good moneyfor this contraption and we need it.
+FIDELIA	So we don't embarrass ourselveswith His Holiness.
+PERLINA	We won't be embarrassing ourselves.
+PERLINA	And now, please get going...
+PERLINA	Come with me.
+PERLINA	Does it fit? Come on.
+PERLINA	Come on, hurry!This way.
+PERLINA	Vermin!

@@ -1,0 +1,13 @@
+FIDELIA: {''}
+BAMBINO 1: {''}
+ROMEO: {''}
+LUCIA: {''}
+MARIETTA: {''}
+PRUDENZA: {''}
+BETTINA: {''}
+BETTINA BETTINA: {''}
+PERLINA: {''}
+SIGNORA ELEGANTE: {''}
+GOVERNATORE: {''}
+BARCAIOLO: {''}
+RAGAZZONE: {''}

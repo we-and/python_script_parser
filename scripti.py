@@ -20,6 +20,7 @@ import threading
 from matplotlib.colors import ListedColormap, BoundaryNorm
 from matplotlib.gridspec import GridSpec
 last_row_id = None
+showTimeline=False
 
 countingMethods=[
 #    "LINE_COUNT",
@@ -37,7 +38,7 @@ countingMethodNames={
   #  "LINE_COUNT":"Lines",
    # "WORD_COUNT":"Words",
     "ALL":"Characters",
-    "BLOCKS_50":"Blocks (50)",
+    "BLOCKS_50":"Lines",
 #    "BLOCKS_40":"Blocks (40)",
 #    "ALL_NOSPACE":"No space",
  #   "ALL_NOPUNC":"No punctuation",
@@ -296,7 +297,6 @@ def runJob(file_path,method):
                     enc=txt_encoding
                     file_path=converted_file_path
                     print("Conversion file path :",file_path)
-
                 if extension==".pdf":
                     print("Conversion PDF to txt")
                     converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
@@ -375,7 +375,8 @@ def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,s
     fill_character_stats_table(character_order_map,breakdown,enc)
     fill_stats_table(breakdown)
     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
-    draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
+    if showTimeline:
+        draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
 
 def on_folder_select(event):
     global currentScriptFilename
@@ -832,7 +833,7 @@ def update_ini_settings_file(field,new_folder):
 settings_ini_exists = check_settings_ini_exists()
 if settings_ini_exists == False:
     write_settings_ini()
-    open_folder_firsttime()
+    update_ini_settings_file("SCRIPT_FOLDER",os.getcwd()+"/examples")
 
 settings = read_settings_ini()
 app_dir = os.path.dirname(os.path.abspath(__file__))
@@ -843,6 +844,8 @@ app.title('Scripti')
 app.iconbitmap(icons_dir+'app_icon.ico') 
 
 def on_resize(event):
+    if not showTimeline:
+        return
     print("on_resize")
     print_frame_size(recap_tab)
     if currentFig!=None:
@@ -962,7 +965,7 @@ def open_xlsx_recap():
 
 def open_file_in_system():
     global currentRightclickRowId
-    print("Open in system" )
+    print("open_file_in_system" )
     selected_item = folders.focus() 
     file_path = folders.item(currentRightclickRowId, 'values')[0]
     print(file_path)
@@ -1053,6 +1056,8 @@ def hide_loading():
 def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     global currentFig
     global currentCanvas
+    if not showTimeline:
+        return
     if currentFig!=None:    
         clear_chart()
         currentCanvas.get_tk_widget().pack_forget()
@@ -1158,6 +1163,12 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     #reduce_width()
 def restore_characters():
     print("restore_characters")
+    global currentDisabledCharacters
+    currentDisabledCharacters=[]
+    reset_tables()
+    postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+
+
 def clear_chart():
     global currentFig
     print("CLEAR CHART")
@@ -1317,16 +1328,16 @@ notebook.add(preview_tab, text='Original text',image=original_icon, compound=tk.
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
-
-recap_tab = ttk.Frame(notebook)
-notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
+if showTimeline:
+    recap_tab = ttk.Frame(notebook)
+    notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
 
 # Statistics tab
 character_tab = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
 
-character_table = ttk.Treeview(character_tab, columns=('Order', 'Character','Status', 'Characters','Blocks (50)','Scenes'), show='headings')
+character_table = ttk.Treeview(character_tab, columns=('Order', 'Character','Status', 'Characters','Lines','Scenes'), show='headings')
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
@@ -1335,7 +1346,7 @@ character_table.heading('Status', text='Status')
 #character_table.heading('Lines', text='Lines')
 character_table.heading('Characters', text='Characters')
 #character_table.heading('Words', text='Words')
-character_table.heading('Blocks (50)', text='Blocks (50)')
+character_table.heading('Lines', text='Lines')
 #character_table.heading('Blocks (40)', text='Blocks (40)')
 character_table.heading('Scenes', text='Scenes')
 
@@ -1346,7 +1357,7 @@ character_table.column('Status', width=50, anchor='w')
 #character_table.column('Lines', width=50, anchor='w')
 character_table.column('Characters', width=50, anchor='w')
 #character_table.column('Words', width=50, anchor='w')
-character_table.column('Blocks (50)', width=50, anchor='w')
+character_table.column('Lines', width=50, anchor='w')
 character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
@@ -1598,8 +1609,9 @@ load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xls
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
-load_button = ttk.Button(export_tab, text="Open timeline...", command=open_timeline)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+if showTimeline:
+    load_button = ttk.Button(export_tab, text="Open timeline...", command=open_timeline)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
 #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)

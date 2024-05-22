@@ -332,10 +332,11 @@ def is_didascalie(name):
 def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
-    if line.endswith(':'):
-        # Return the string without the last character (the colon)
-        return line[:-1]
-    # Return the original string if there is no colon at the end
+    if line:
+        if line.endswith(':'):
+            # Return the string without the last character (the colon)
+            return line[:-1]
+        # Return the original string if there is no colon at the end
     return line
 #    return line
 
@@ -643,11 +644,14 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
             print("page"+str(page_idx))
             page_idx=page_idx+1
             tables = page.extract_tables()
+            pdf_mode="?"
             for table in tables:
                 # Add a table to the Word document
                 if table:  # Check if the table is not empty
                     headers=table[0]
                     print("headers"+str(headers))
+                    if 'CHARACTER' in headers and 'DIALOGUE' in headers:
+                        pdf_mode=""
                     character_index = headers.index('CHARACTER')
                     dialogue_index = headers.index('DIALOGUE')
                     for row in table[1:]:  # Skip header

@@ -825,17 +825,37 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
                 print(text)
                 textlines=text.split("\n")
                 current_character=""
+                current_characters_split=[]
                 speech=""
+                mode="linear"
                 for line in textlines:
                     if line.isupper():
-                        current_character=line
+                        if " THEN " in line:
+                            mode="split"
+                            current_characters_split=line.split(" THEN ")    
+                            current_character=line
+                        else:
+                            current_character=line
+                            mode="linear"
                     else:
                         speech=line
-                        if current_character=="":
-                            current_character="__VOICEOVER"
-                        s=current_character+"\t"+speech+"\n"  # New line after each row
-                        print("Add "+ current_character + " "+ speech)
-                        file.write(s)
+                        if mode=="split":
+                            speeches=speech.split("\n")
+                            charidx=0
+                            for sp in speeches:
+                                sp=sp.replace("- ","")
+                                current_character=current_characters_split[charidx]
+                                s=current_character+"\t"+sp+"\n"  # New line after each row
+                                print("Add "+ current_character + " "+ speech)
+                                file.write(s)
+                                charidx=charidx+1
+
+                        if mode=="linear":
+                            if current_character=="":
+                                current_character="__VOICEOVER"
+                            s=current_character+"\t"+speech+"\n"  # New line after each row
+                            print("Add "+ current_character + " "+ speech)
+                            file.write(s)
 
                 if False:
                     tables = page.extract_tables()

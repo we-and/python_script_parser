@@ -1,0 +1,678 @@
+1,NATE,What idiot fired that?,22,0.44
+2,BRITT,Nate.,5,0.1
+3,NATE,MacMasters.,11,0.22
+4,BRITT,"I've been looking for you, Nate. Passed through Butte. Felt sure you'd be in the saloon.",88,1.76
+5,NATE,I kinda figured that.,21,0.42
+6,BRITT,I was gonna buy you a drink.,28,0.56
+7,NATE,I'm sorry I missed that.,24,0.48
+8,BRITT,That's why I brought it with me.,32,0.64
+9,BRITT,Top shelf.,10,0.2
+10,BRITT,"What's the matter, Nate? Don't you like top shelf?",50,1.0
+11,NATE,Thought you were down near Medicine Bow.,40,0.8
+12,BRITT,"Heard you were, too.",20,0.4
+13,NATE,"I was, month back.",18,0.36
+14,BRITT,It's what I heard.,18,0.36
+15,NATE,"How about we go down to the saloon, I'll buy you that drink?",60,1.2
+16,BRITT,"Nate Mason. I'm arresting you on three counts of murder. Bank president and bank guard, in Casper, Deputy Bill Clark in Laramie. I'm also arresting you for the robbery of those banks.",183,3.66
+17,NATE,"Damn, Marshal. I've done a hell of a lot more than that.",56,1.12
+18,BRITT,Those are the ones I've got paper on. Don't do it.,50,1.0
+19,ALBERT,"Jessie, your long run is over. Now reach for the sky.",53,1.06
+20,ALBERT,"Turn around slowly and don't make any sudden moves. Jessie James, I'm arresting you, all charges against you. Most recently, stagecoach at Hot Springs. But now it's over. You made the mistake of coming to Clearmont and crossin' paths with the great Britt MacMasters.",266,5.32
+21,CHAD,"Criminy, Albert. I told you, use your name, not my pa's.",56,1.12
+22,ALBERT,But your pa is famous.,22,0.44
+23,CHAD,"Not to me, he ain't. And I can't look at you sayin'-- with you saying you're him.",81,1.62
+24,ALBERT,What the hell does that mean?,29,0.58
+25,CHAD,It means what I'm saying!,25,0.5
+26,ALBERT,You never wanna be the Marshal and now it sounds like you don't wanna be the outlaw either.,91,1.82
+27,CHAD,It means what I'm saying.,25,0.5
+28,ALBERT,"It is, Chad. If you wanna be the Marshal, then be the Marshal. I don't care.",76,1.52
+29,CHAD,I told you I don't wanna be Marshal MacMasters! Why in the hell would I wanna be him? And you'd be Marshal Hansen or somethin'.,127,2.54
+30,DEX,"Hey, boys! Get in here, food's gettin' cold.",44,0.88
+31,CHAD,"Yes, grandpa.",13,0.26
+32,ALBERT,"Looks like you escaped to fight another day, Jessie.",52,1.04
+33,DEX,"Come on, hurry up. You go any slower, you're gonna have to eat with the pigs! Well, so the only way we could get anywhere near that cabin was to climb Lookout Mountain. Don't forget now that's a 4000-foot fall. I blew in through that door and your daddy, he's got a rifle through the window and we got him dead to rights.",321,6.42
+34,ALBERT,Did they surrender?,19,0.38
+35,DEX,"Well, when they found out it was the MacMaster brothers, they just gave up their ghosts!",88,1.76
+36,CHAD,"Wait, wait. Pa told me when he kicked in the door, one of the gang shot him, so he busted three of them to Kingdom Come.",120,2.4
+37,DEX,"Well, that may have been another cabin, we were hittin' a lot of cabins in those days.",86,1.72
+38,ALBERT,"Be right back, the privy calls.",31,0.62
+39,DEX,"His pa is over in Sheridan, trying to get a bank loan. He'll be back in a couple of days. And your pa, he's out there doing what he does for a living. If he had a choice, he'd be home here with you.",198,3.96
+40,CHAD,"I ain't seen him in nearly three months, grandpa.",49,0.98
+41,DEX,"Well, now that don't mean he don't like you. He loves you, boy. That's why he's out there.",90,1.8
+42,CHAD,Sure has a funny way of showing it.,35,0.7
+43,DEX,"Yeah, you listen to what you just said. Show me a little gratitude.",67,1.34
+44,CHAD,Gratitude? For leaving me alone?,32,0.64
+45,DEX,He's out there providin'. He's--,32,0.64
+46,ALBERT,"Six riders coming, over the ridge.",34,0.68
+47,ALBERT,Who are they?,13,0.26
+48,DEX,No good by the looks of 'em.,28,0.56
+49,JED,Hold up there!,14,0.28
+50,JED,Evenin'.,8,0.16
+51,DEX,Yep.,4,0.08
+52,JED,Me and my boys been ridin' all day. We are mighty thirsty.,58,1.16
+53,DEX,You got a lot of water right in front of ya!,44,0.88
+54,JED,"It's a bit dirty. You mind putting that rifle down, mister. Them things is dangerous, don't you know? We don't want no dead geezer on the front porch, do we?",157,3.14
+55,DEX,What you looking for?,21,0.42
+56,JED,I'm looking for someone.,24,0.48
+57,DEX,Who's askin'?,13,0.26
+58,JED,An old friend. Ain't this the ranch of Marshal Britt MacMasters? And I'd like to see him.,89,1.78
+59,DEX,"Well, he's not us, he ain't here.",33,0.66
+60,JED,"You wouldn't mind if me and my friends here had a look inside, would you?",73,1.46
+61,DEX,You're not coming in this house.,32,0.64
+62,JED,Jack.,5,0.1
+63,CHAD,"Grandpa! Grandpa, wake up!",26,0.52
+64,CASS,"Huh! Hiya, up there.",20,0.4
+65,DEX,I'm alright.,12,0.24
+66,CASS,Hiya!,5,0.1
+67,JED,MacMasters!,11,0.22
+68,CHAD,Grandpa!,8,0.16
+69,JED,"Marshal MacMasters! Search the house! Silas, middle. Willie. Blade.",67,1.34
+70,CHAD,"My pa ain't here. And if he was, you'd be dead by now!",54,1.08
+71,JED,"MacMasters is your daddy, boy?",30,0.6
+72,JED,Ain't that a kick o' the mule!,30,0.6
+73,SILAS,He ain't here.,14,0.28
+74,BLADE,Ain't that the luck.,20,0.4
+75,JED,"We'll make MacMasters come to us. Where's your pa, boy?",55,1.1
+76,CHAD,I don't know.,13,0.26
+77,JED,How long he been gone?,22,0.44
+78,CHAD,"Too long. Albert, run!",22,0.44
+79,JED,"Albert! You stay put. You a MacMasters, too?",44,0.88
+80,ALBERT,"No, sir.",8,0.16
+81,JED,Good.,5,0.1
+82,JED,"He's dying, kid. You're coming with us.",39,0.78
+83,BRITT,York.,5,0.1
+84,YORK,Marshal. I heard you coming a mile away. And smelled you coming 2 miles away.,77,1.54
+85,BRITT,Nate Mason and the Giles brothers.,34,0.68
+86,YORK,"Hey, judge ordered 'em alive.",29,0.58
+87,BRITT,"Well, Nate didn't know that.",28,0.56
+88,YORK,I have something for you.,25,0.5
+89,YORK,"Here you go, Marshal, you deserve it. You get 'em all at once?",62,1.24
+90,BRITT,Yep. I need you to bury 'em for me.,35,0.7
+91,YORK,"I can do that for a price, everything for a price. I'll take their guns... ...and the horses.",93,1.86
+92,BRITT,Don't matter to me. Wire the Sheriff. He'll get word to the judge.,66,1.32
+93,YORK,"Marshal, that hangman's kid's gonna starve if you don't get out of this business.",81,1.62
+94,SILAS,"Hey Jed, we been ridin' for a while.",36,0.72
+95,JED,Come on! We'll make it to the hills before dark.,48,0.96
+96,CASS,"We have the direction of where we're going from here, Jed.",58,1.16
+97,JED,"Heading south, into Sioux territory.",36,0.72
+98,CASS,"South, I like that, Mexico.",27,0.54
+99,SILAS,"Them hills are close enough, holdin' up here 10 minutes won't hurt.",67,1.34
+100,JED,Get back.,9,0.18
+101,JED,Thought you'd be tougher.,25,0.5
+102,CHAD,I never walked this far before.,31,0.62
+103,JED,"You wouldn't be walking at all if your pa had been back home looking after you. Instead, he left you with some old coot to get kidnapped. Things went as they was planned, your pa would be dead, you'd be an orphan.",213,4.26
+104,CASS,Let's hurry up with that plan.,30,0.6
+105,JED,Get up.,7,0.14
+106,WILLIE,Catch up with Blade over yonder.,32,0.64
+107,SHERIFF,Britt.,6,0.12
+108,BRITT,What's goin' on?,16,0.32
+109,SHERIFF,It's your pa.,13,0.26
+110,BRITT,Pa.,3,0.06
+111,DEX,"Hey, Britt.",11,0.22
+112,BRITT,"You don't look too good, pa.",28,0.56
+113,DEX,Oh. Nothin' a little whiskey don't fix.,39,0.78
+114,BRITT,What happened?,14,0.28
+115,DEX,"Oh, uh... There were five or six of 'em and I-- I tried to...",61,1.22
+116,DEX,I-- I just passed out.,22,0.44
+117,BRITT,Chad. Chad!,11,0.22
+118,BRITT,Chad?,5,0.1
+119,SHERIFF,"It's not Chad, Britt. It's Albert Hansen, Jack's boy.",53,1.06
+120,BRITT,Where's Chad?,13,0.26
+121,SHERIFF,"We don't know. I rode out here this mornin', 'cause Dex was supposed to pick up an order from the mercantile yesterday.",119,2.38
+122,SHERIFF,"But he never showed up. Starr asked me to check up on him, found him unconscious along the Signal Road.",103,2.06
+123,DEX,"I tried to saddle up and I just tried to get in town. Um, uh.",61,1.22
+124,BRITT,How long ago did it happen?,27,0.54
+125,DEX,Three days ago.,15,0.3
+126,SHERIFF,We looked everywhere for Chad. I got a whole search party out looking from him now. We'll find him.,99,1.98
+127,BRITT,"If he escaped from whatever happened here, he would've come back by now.",72,1.44
+128,SHERIFF,I telegraphed to Sheridan to see if they had any activity.,58,1.16
+129,BRITT,Jed Blake.,10,0.2
+130,SHERIFF,"Yeah. Robbed a stage on the Laramie trail, and the bank in Casper. You know him?",80,1.6
+131,BRITT,I put him away five years ago.,30,0.6
+132,SHERIFF,Yep.,4,0.08
+133,BRITT,He's got five more ahead of him. Escaped last month with his man. Cass Gibbs.,77,1.54
+134,DEX,"Cass Gibson, that son of a bitch.",33,0.66
+135,BRITT,"Robbed a bank in Arvada, Wednesday.",35,0.7
+136,SHERIFF,That's the same day Chad was taken. Must've joined up with the rest of his boys.,80,1.6
+137,BRITT,"Looks like Jed's my pigeon. Pa, listen to me, I'm gonna go find Chad, okay?",75,1.5
+138,DEX,Yeah.,5,0.1
+139,BRITT,"Alright, you take care of yourself, I'll be back.",49,0.98
+140,SHERIFF,Nothin' on him says who he is or where he's from.,49,0.98
+141,BRITT,Looks like there were a lot of 'em. I think someone came here looking for me.,77,1.54
+142,SHERIFF,Why shoot Dex and kill Albert?,30,0.6
+143,BRITT,'Cause I wasn't here.,21,0.42
+144,SHERIFF,I have to bury that boy's body before it starts turnin'.,56,1.12
+145,BRITT,I'd appreciate if you'd notify Albert's daddy.,46,0.92
+146,SHERIFF,"Yeah, I will. When are you headed out?",38,0.76
+147,BRITT,"They got a hefty head start, better get goin' right away.",57,1.14
+148,SHERIFF,"Yep, I'll get a posse together.",31,0.62
+149,BRITT,No. Too much time. And they'll just get in the way.,51,1.02
+150,SHERIFF,Sure about that? Gonna take on Jed Blake's gang alone?,54,1.08
+151,BRITT,I did it before.,16,0.32
+152,SHERIFF,I'll come with you.,19,0.38
+153,BRITT,"I need you to stay here. Watch out for my pa, in case they circle back.",71,1.42
+154,SHERIFF,Then take Clay with you.,24,0.48
+155,BRITT,No time for greenhorns.,23,0.46
+156,SHERIFF,"He's green, but he can shoot. I taught him. And Britt... ...Starr sent these along for your boy when you find him.",114,2.28
+157,SHERIFF,It's his favorite penny candy from the mercantile.,50,1.0
+158,BRITT,What's his favorite?,20,0.4
+159,SHERIFF,"Whole town knows. Heads out to that mercantile, wooh! â€œLook out, peppermint sticks!â€ Good luck!",99,1.98
+160,SILAS,Ain't we got enough to deal with? The Marshal on our ass.,57,1.14
+161,BLADE,"Why, you gettin' jittery, Silas?",32,0.64
+162,SILAS,"You see them mountains over there, crawlin' with Sioux.",55,1.1
+163,BLADE,Them mountains are more than 50 miles away and ridin' past 'em.,63,1.26
+164,JED,"Once we kill the Marshal, we can go to Mexico.",46,0.92
+165,WILLIE,You hate Mexico.,16,0.32
+166,JED,"Damn right, I do.",17,0.34
+167,WILLIE,Why don't we just head straight South? It'd be faster.,54,1.08
+168,JED,"Where is your sense of adventure, Willie? We's easy targets out here, blind man can track us.",93,1.86
+169,SILAS,"Jed, you better let that kid ride tomorrow. If Indians come down on us, we're gonna have to ride fast.",102,2.04
+170,JED,"Well, if he can't keep up, drag him.",36,0.72
+171,SILAS,"He's a kid, Jed. Damn, even I got a little compassion.",54,1.08
+172,JED,"That's why you're following, Silas. Not leading. I'll be back. Hey. You know I'm always watchin' you, right? Good.",114,2.28
+173,SILAS,What's gotten into him?,23,0.46
+174,BLADE,"He's always been a mean prick, but not like this. Them five years in prison were hard on him. And all he thinks about is going after MacMasters.",144,2.88
+175,SILAS,"He ain't no prairie rose, but he damn sure has changed.",55,1.1
+176,BLADE,Damn right. Watch yourself.,27,0.54
+177,WILLIE,"Hey. Here, eat this. Leave before sunrise. Ain't makin' breakfast.",66,1.32
+178,CHAD,I ain't hungry.,15,0.3
+179,WILLIE,"Yeah, but you know will be tomorrow and you know it.",52,1.04
+180,CHAD,Why? Why did he have to kill Albert? He didn't even have a gun.,63,1.26
+181,WILLIE,"Kill all witnesses, I suppose.",30,0.6
+182,CHAD,He was-- he was just standing there and he shot him.,52,1.04
+183,WILLIE,Yeah.,5,0.1
+184,CHAD,"He wasn't shot dead, he shot him some more.",43,0.86
+185,WILLIE,"You need to quit thinkin' about it, kid.",40,0.8
+186,CHAD,"He's gonna kill me, too. Ain't he?",34,0.68
+187,WILLIE,"Nah, he wants your pa.",22,0.44
+188,CHAD,My pa most likely don't even know you took me.,46,0.92
+189,WILLIE,"Once he finds out, ain't nothin' on his mind but coming for you.",64,1.28
+190,CHAD,"In a month or two. Sometimes, he's gone as long as three. I bet... I bet you got Sheriff Wilkins and a posse from Clearmont tracking you down.",142,2.84
+191,WILLIE,Jed wouldn't like that.,23,0.46
+192,CHAD,Makes two of us.,16,0.32
+193,JED,"Get up, Willie. Stop talking to that boy.",41,0.82
+194,WILLIE,"Take care, kid.",15,0.3
+195,WILLIE,"Hey, Jed. Talkin' to that MacMasters' kid.",42,0.84
+196,JED,Yeah?,5,0.1
+197,WILLIE,"He says the sheriff from that town is gettin' up a posse and comin' after us, not the Marshal. Not MacMaster.",109,2.18
+198,JED,No. It will be MacMasters.,26,0.52
+199,WILLIE,I was just sayin' Marshal could be another month or so before he gets back to the ranch.,88,1.76
+200,JED,"What if he got back the same day we took the kid, Willie?",57,1.14
+201,BLADE,He could be here tonight.,25,0.5
+202,WILLIE,We ain't got a lookout.,23,0.46
+203,JED,"That's right, we don't. That's why I just elected you, Willie. Cass'll spell you in two hours. Blade, saddle up.",112,2.24
+204,BLADE,What?,5,0.1
+205,JED,"Saddle up. Want you to backtrack. I'll find a spot from here to them hills, look out. Once you find MacMasters and his posse, get your ass back here.",149,2.98
+206,BLADE,Right. I know what to do.,25,0.5
+207,JED,And Blade. You leave MacMasters alone. You hear me?,51,1.02
+208,BLADE,I heard you.,12,0.24
+209,SILAS,Better get some sleep.,22,0.44
+210,BRITT,"Hey kid, wake up!",17,0.34
+211,TUCKER,"I'm awake! Marshal, we've been ridin' all night, can't we camp?",63,1.26
+212,BRITT,Last thing I need is for you to fall off your horse and slow us down.,69,1.38
+213,TUCKER,"I said, I'm awake!",18,0.36
+214,BRITT,Half asleep ain't full awake.,29,0.58
+215,TUCKER,"You're a real mean son of a-- Damn! Damn, Marshal! What'd you do that for?",74,1.48
+216,BRITT,Peace of mind. Now I know you'll stay awake.,44,0.88
+217,TUCKER,"Son of a bitch! I got a loose tooth, dammit!",44,0.88
+218,BRITT,You can tell they're running fast. Prints are deep.,51,1.02
+219,TUCKER,"Yep, I see.",11,0.22
+220,BRITT,"If they hit up the bank, then this way makes sense. Avoid a posse from the Laramie trail.",89,1.78
+221,TUCKER,"Yeah, it's just what I was thinkin'.",36,0.72
+222,BRITT,"You done much tracking, Tucker?",31,0.62
+223,TUCKER,Ain't much of it called for in town.,36,0.72
+224,BRITT,Suspected as much. These tracks are from a war party.,53,1.06
+225,TUCKER,What?,5,0.1
+226,BRITT,Hooves are unshod. Jed Blake's gang turned south a mile back.,61,1.22
+227,TUCKER,Why don't we follow 'em?,24,0.48
+228,BRITT,Need to pick up my guide.,25,0.5
+229,TUCKER,A guide? What for?,18,0.36
+230,BRITT,If the trail goes cold.,23,0.46
+231,TUCKER,"Hell, if a trail go cold, no one can follow it.",47,0.94
+232,BRITT,Chaska can.,11,0.22
+233,TUCKER,Chaska? An Injun?,17,0.34
+234,BRITT,"Half Injun, half white.",23,0.46
+235,TUCKER,How can we trust him?,21,0.42
+236,BRITT,He's a good man.,16,0.32
+237,TUCKER,"I didn't figure you for much of an Injun-lover, Marshal MacMasters.",67,1.34
+238,BRITT,"Well, I might even learn to like you one day. I'm full of surprises.",68,1.36
+239,TUCKER,"MacMasters, I'm not ridin' with no half-breed!",46,0.92
+240,BRITT,Then turn your horse and head for home.,39,0.78
+241,BRITT,I need Chaska on this hunt a hell of a lot more than I need you.,64,1.28
+242,JED,"Come here, boy. Give me that hat.",33,0.66
+243,CHAD,"Hey, give it back. It's hot as blazes out here, give me my hat!",63,1.26
+244,JED,"Let the sun burn in your scalp, boy. Could take the fight out of ya.",68,1.36
+245,BRITT,"Tucker, check on her.",21,0.42
+246,TUCKER,Is that the blacksmith?,23,0.46
+247,BRITT,"Damn. Yeah, it's Harry Dyer.",28,0.56
+248,TUCKER,"This his wife, too?",19,0.38
+249,BRITT,"Yeah, that's his wife.",22,0.44
+250,TUCKER,Where you goin'?,16,0.32
+251,BRITT,To get a ride. That war party might pick up Jed's trail by cutting east.,72,1.44
+252,TUCKER,Aren't we gonna bury 'em? It'll take 15 minutes.,48,0.96
+253,BRITT,You got a shovel?,17,0.34
+254,TUCKER,No.,3,0.06
+255,BRITT,Neither do I. So it'll take more than 15 minutes. We ain't got the time. Let's go. Hiya!,88,1.76
+256,SILAS,"Hey, Willie.",12,0.24
+257,WILLIE,What?,5,0.1
+258,SILAS,We robbed a stage and bank days ago. And we ain't divide the loot up yet.,73,1.46
+259,WILLIE,True.,5,0.1
+260,SILAS,We always divide it up as soon as we can.,41,0.82
+261,WILLIE,Jed'll do it.,13,0.26
+262,SILAS,"Willie, when? I don't wanna die broke.",38,0.76
+263,WILLIE,Who said you gonna die?,23,0.46
+264,SILAS,"We're out here ridin' in the open in Indian territory with a Marshal behind us, takes us dead, not alive! We're sittin' ducks.",126,2.52
+265,WILLIE,What's your point?,18,0.36
+266,SILAS,We're gonna die. Sooner than later.,35,0.7
+267,WILLIE,"You don't need that money, do you?",34,0.68
+268,JED,"Willie! Silas! Don't be makin' any plans now! Come on, boy!",59,1.18
+269,BRITT,Hello. Chaska? Hello? Chaska?,29,0.58
+270,TUCKER,He's not here.,14,0.28
+271,CHASKA,Hold it right there. State your business.,41,0.82
+272,BRITT,"Chaska. If you've lost your eyesight, you ain't worth a plug-nickel to me.",74,1.48
+273,CHASKA,Britt MacMasters.,17,0.34
+274,BRITT,"Hello, brother.",15,0.3
+275,CHASKA,"Hell no, I haven't lost my eyesight. You should come ridin' in with the sun at your back like you always do. You know it. What brings you in?",141,2.82
+276,BRITT,Got a tracking job for you.,27,0.54
+277,CHASKA,I'm listenin'.,14,0.28
+278,BRITT,Could be Jed Blake and his gang.,32,0.64
+279,CHASKA,You don't need me to get those pissants.,40,0.8
+280,BRITT,"I do, if they go above the tree line.",37,0.74
+281,CHASKA,Mountains?,10,0.2
+282,BRITT,"Uh, I said, ""if"". Tracks head south, maybe Mexico, but I can't take a chance, I-- I need you.",93,1.86
+283,CHASKA,"You know the deal, $10 for the week. Anything more, I get $1 a day extra.",73,1.46
+284,BRITT,Fair enough.,12,0.24
+285,TUCKER,$10?,4,0.08
+286,CHASKA,"That's right, kid. You see those hills over there? That's Sioux territory. And whether we go desert or high country, my scalp is worth at least $10. What'd they do, Britt?",171,3.42
+287,BRITT,"Shot Dex, killed a boy, and kidnapped my son.",45,0.9
+288,CHASKA,"I'll find them. You kill them, you owe me nothin'. Who's the greenhorn?",71,1.42
+289,BRITT,"He's Clay Tucker, deputy out of Clearmont.",42,0.84
+290,TUCKER,"You know, he don't talk much like an Injun.",43,0.86
+291,BRITT,"Father was Ki wa-go, great warrior. His mom was Kate Ryan, missionary. Gave him a good schoolin'.",97,1.94
+292,CHASKA,"Where we headed, Britt?",23,0.46
+293,BRITT,Follow me.,10,0.2
+294,BRITT,What do you got?,16,0.32
+295,CHASKA,"I see hills ahead, lots of rocks for cover.",43,0.86
+296,BRITT,How far?,8,0.16
+297,CHASKA,Half a day.,11,0.22
+298,TUCKER,It's a good place for an ambush.,32,0.64
+299,BRITT,"Circle far around. They left anyone there, you come in behind him. We'll ride in the front door.",96,1.92
+300,CHASKA,Got it.,7,0.14
+301,BLADE,"Woah. Yeah, that's right, keep comin'. Another half a mile and I got you dead to rights.",88,1.76
+302,CHASKA,Only on one of your good days.,30,0.6
+303,BRITT,Let's go. Hiya! Hiya!,21,0.42
+304,BLADE,I'm bleedin' out. Give me something to stop this bleeding.,58,1.16
+305,CHASKA,You give me some answers now.,29,0.58
+306,BLADE,"I was just restin', I'm heading to Oregon.",42,0.84
+307,CHASKA,You're lyin'.,13,0.26
+308,BLADE,"I'm not, it's the truth.",24,0.48
+309,CHASKA,"""I got you dead to rights."" Hardly the words of a guy restin'. Now get that arm up. Real nice and easy, give me your iron. Slow.",128,2.56
+310,CHASKA,Who are you?,12,0.24
+311,BLADE,I'm just a lookout.,19,0.38
+312,CHASKA,A lookout for who?,18,0.36
+313,BLADE,"Indians, we're in Sioux territory.",34,0.68
+314,BRITT,That sounds like a lot of trail dust to me.,43,0.86
+315,BRITT,How about sneakin' some truth into those words of yours?,56,1.12
+316,BRITT,"Ain't got a lot of patience, mister.",36,0.72
+317,BRITT,"Now, how about you sing me a nice little song about everything you know?",72,1.44
+318,BLADE,"I don't think so. Marshal, I don't sing.",40,0.8
+319,BRITT,Really? Where's Jed Blake?,26,0.52
+320,BLADE,He cut dirt yesterday. Headin' southwest.,41,0.82
+321,BRITT,My son?,7,0.14
+322,BLADE,He's fine last time I seen him.,31,0.62
+323,BRITT,How many ridin' with him?,25,0.5
+324,BLADE,Four. Maybe five.,17,0.34
+325,BRITT,Why southwest? Mexico's south.,30,0.6
+326,BLADE,I don't know.,13,0.26
+327,CHASKA,Sioux territory.,16,0.32
+328,BRITT,Now why the hell would he do that?,34,0.68
+329,BLADE,Jed's gone loco. Crazy. All he talks about is huntin' you down.,63,1.26
+330,BRITT,What do they call you?,22,0.44
+331,BLADE,Blade.,6,0.12
+332,BRITT,"Bound to be paper on a mean-lookin' nibbler like you. Tucker, toss down some rope. Chaska, tie his hands and drag his ass up the hill.",134,2.68
+333,CHASKA,Get up.,7,0.14
+334,BRITT,You didn't search him?,22,0.44
+335,CHASKA,No. I didn't think you'd want to drag him along.,48,0.96
+336,BRITT,You were right.,15,0.3
+337,TUCKER,Your back was toward him. How'd you know he was gonna draw?,59,1.18
+338,BRITT,The little glint in his eye said he knew better than me.,56,1.12
+339,CHASKA,"Lots of hoof print, shod.",25,0.5
+340,BRITT,These are our boys.,19,0.38
+341,CHASKA,"Yep, day ahead.",15,0.3
+342,TUCKER,You know this place?,20,0.4
+343,BRITT,Crosses into Sioux territory.,29,0.58
+344,TUCKER,I thought he was headed for Mexico.,35,0.7
+345,BRITT,Guess he fooled us.,19,0.38
+346,TUCKER,What about the Injuns?,22,0.44
+347,BRITT,"Jed likes to play rough. Sioux on one side, us on the other.",60,1.2
+348,TUCKER,"That's comfortin', considerin' we still got warriors behind us.",63,1.26
+349,BRITT,"Let's get through this as fast as we can, we'll find a place to fight on the other side.",88,1.76
+350,TUCKER,How long is it gonna take to cross?,35,0.7
+351,CHASKA,Four hours.,11,0.22
+352,BRITT,Hiya!,5,0.1
+353,CHASKA,I'll ride ahead...,18,0.36
+354,BRITT,"Okay, we'll see you tonight.",28,0.56
+355,CASS,It is awful dry.,16,0.32
+356,SILAS,There ain't no water anywhere.,30,0.6
+357,JED,We'll get water just beyond them buttes.,40,0.8
+358,SILAS,"Hey Jed, I gotta ask you. Why did we come this way?",51,1.02
+359,JED,"Cat and mouse, Silas. Little bit of torture first.",50,1.0
+360,CASS,What's the difference between killin' him now or killin' him later?,67,1.34
+361,WILLIE,"You need to be nice to that kid, you need him alive.",52,1.04
+362,JED,You're right. I want MacMasters to hate me as much as he can.,61,1.22
+363,WILLIE,You need his pa.,16,0.32
+364,JED,I do need his pa. To kill him.,30,0.6
+365,CHAD,Hiya!,5,0.1
+366,CHAD,Hiya!,5,0.1
+367,WILLIE,Go get him!,11,0.22
+368,TUCKER,"Injun smoke signals, and you wanna have a campfire?",51,1.02
+369,BRITT,Gets cold at night.,19,0.38
+370,TUCKER,You really trust that Injun friend on yours?,44,0.88
+371,BRITT,With my life.,13,0.26
+372,TUCKER,"I couldn't, I just couldn't.",28,0.56
+373,BRITT,You ever hear of the Massacre Canyon battle?,44,0.88
+374,TUCKER,Didn't pay any mind to it. Just a bunch of Injuns that killed each other.,73,1.46
+375,BRITT,"Pawnee were on their summer buffalo hunt. Sioux war party of 1,500 attacked them. Killed over 150. Most were women and children, including Chaska's wife and son. You can bet the bank he hates 'em a hell of a lot more than you ever will.",236,4.72
+376,JED,Anything?,9,0.18
+377,CASS,"Yeah, I saw fire over there.",28,0.56
+378,JED,MacMasters?,11,0.22
+379,CASS,"No, Injuns. Heard a war yelp or two.",36,0.72
+380,JED,They could pick up our trail.,29,0.58
+381,JED,"We need to get outta here, Cass.",32,0.64
+382,CASS,You can't get outta here any too soon for me.,45,0.9
+383,JED,What y'all gawking at? Hey! Look at me. Why do you look guilty?,63,1.26
+384,SILAS,Got a little explainin' to do.,30,0.6
+385,JED,"Dammit! No! Dammit, boys! You had one job, one job!",51,1.02
+386,CASS,"Jed, if you shoot that pistol, the Indians are gonna be all over us.",68,1.36
+387,JED,"Who let him go, huh? Was it you, Silas? Huh?",44,0.88
+388,SILAS,It wasn't me.,13,0.26
+389,JED,"How about you, Willie?",22,0.44
+390,WILLIE,"Hey, Jed, Jed.",14,0.28
+391,JED,"You liked that boy, huh? You liked that boy.",44,0.88
+392,CASS,"Jed, I searched him, and he didn't have a knife.",48,0.96
+393,JED,"Oh, he didn't have a knife. Then what the hell is that, Cass?",61,1.22
+394,CASS,Whatever. He can't be too far.,30,0.6
+395,JED,"Dammit, boys! Get on your horses, let's go find him. And if you don't, I'm killin' every one of you.",100,2.0
+396,SILAS,Told you he was gonna be pissed.,32,0.64
+397,JED,Hiya! Let's go! Let's go!,25,0.5
+398,JED,"I'm gonna find you, boy! I'm gonna find you. And when I do... ...I'm gonna shoot your pa and then you!",102,2.04
+399,JED,"Where are you, boy? I'm gonna find you! I'm gonna get you! Where are you, boy? I'm gonna find you! I'm gonna find you, MacMasters! I'm gonna kill you and your pa! You can't run from me! I'll get you! I'll get you! I'll get you!",227,4.54
+400,JED,"You yell out for help, and them Indians will have our scalp before you can close your mouth.",92,1.84
+401,JED,"Get up, get up.",15,0.3
+402,JED,"Get up, go! Go! Come on, go! Go! Get up!",40,0.8
+403,BRITT,Smoke signals.,14,0.28
+404,CHASKA,Should I ride ahead?,20,0.4
+405,TUCKER,"Why, so you can join 'em?",25,0.5
+406,CHASKA,And why would I do that?,24,0.48
+407,TUCKER,"You're one of 'em, aren't you?",30,0.6
+408,CHASKA,"I'm not Sioux, I'm Pawnee.",26,0.52
+409,TUCKER,You're all the same.,20,0.4
+410,CHASKA,"And you're white, so is MacMasters. He's of sound judgement and smart, you're a fool. Same race, both different.",112,2.24
+411,TUCKER,Now you listen to me!,21,0.42
+412,CHASKA,I could kill you off that horse right now if I wanted to. You'd be dead before you hit the ground.,98,1.96
+413,BRITT,You'd have to hit him in the heart or between the eyes to do that.,66,1.32
+414,CHASKA,I could do it.,14,0.28
+415,BRITT,You're that fast?,17,0.34
+416,CHASKA,Hell yeah.,10,0.2
+417,BRITT,"Well, prove it.",15,0.3
+418,TUCKER,Hey! No. What the hell!,23,0.46
+419,JED,"Walk, boy. Get up there, boy.",29,0.58
+420,CHAD,I don't think I can.,20,0.4
+421,JED,I sure as hell can't carry ya.,30,0.6
+422,JED,"Get up, boy! And stop acting like a girl!",41,0.82
+423,JED,Is Marshal MacMasters really your daddy? He know he raisin' a son that cries like a little girl?,96,1.92
+424,CHAD,And you cried a little girl when you got your eye poked out!,60,1.2
+425,JED,"I'm gonna shoot your eye right now, boy. Get up that mountain.",62,1.24
+426,JED,"Come on, Chad! I got the son of Marshal MacMasters and he can't climb a damn hill! My damn son.",95,1.9
+427,JED,"Stop! Stop, kid! Stop! Don't run away from me! Yeah.",52,1.04
+428,JED,"Keep walking, boy. Woah, boy.",29,0.58
+429,WILLIE,"Jed, Jed. You fire that gun, you're gonna have Sioux from all around these hills comin' down on us.",99,1.98
+430,JED,I don't give a damn.,20,0.4
+431,WILLIE,"Hey look, Jed, you've been beatin' on him enough. You need him alive.",69,1.38
+432,JED,"You better not die, boy. I wanna see you suffer some more, you little MacMasters brat. Why? I ain't even begin to dig my claws in you yet, little fella. You're the only MacMasters I got just now. We're gonna play game some more. Then I'm gonna crush the breath out of your throat.",280,5.6
+433,JED,"Willie. This your apple peeler, Willie?",39,0.78
+434,WILLIE,Yeah.,5,0.1
+435,JED,You lost it.,12,0.24
+436,WILLIE,You found it.,13,0.26
+437,JED,Ain't that a damn shame.,24,0.48
+438,WILLIE,"God, Jed, what'd you do that for?",33,0.66
+439,JED,"Make sure you don't lose it again. Lucky, I don't slit your throat. Come on, kid.",81,1.62
+440,JED,Now you boys keep a look out for Cass.,38,0.76
+441,WILLIE,"Cass ain't coming back, he left last night.",43,0.86
+442,SILAS,He must be the smartest one of us all.,38,0.76
+443,JED,"Stop here, boy. We're gonna stop for water.",43,0.86
+444,CHAD,Can I have some water?,22,0.44
+445,JED,"Easy now, back up. Back up! Back up!",36,0.72
+446,JED,"Don't drown yourself. You know, you tough as nails, boy. Remind me of myself when I was your age. You a good shot?",114,2.28
+447,CHAD,"My pa says I am. But he said, ""Don't aim at anything you're not willin' to destroy.""",84,1.68
+448,JED,That's a good rule.,19,0.38
+449,CHAD,He's done a heapin' of destroyin' over the years.,49,0.98
+450,JED,How?,4,0.08
+451,CHAD,You'll soon find that out.,26,0.52
+452,JED,"Give me that. Let's go, boys!",29,0.58
+453,SILAS,"Willie, what the hell are you doin'?",36,0.72
+454,WILLIE,Tryin' to get drink.,20,0.4
+455,SILAS,This is Indian country.,23,0.46
+456,JED,"Get on your horse, Willie.",26,0.52
+457,WILLIE,Gonna be a minute. Ah!,22,0.44
+458,JED,Fuckin' Indians!,16,0.32
+459,SILAS,Willie! Willie!,15,0.3
+460,JED,To the rocks!,13,0.26
+461,SILAS,Willie! Willie!,15,0.3
+462,JED,"Cover that boy! Silas, I'm-- I'm gonna get the boy.",51,1.02
+463,SILAS,Willie.,7,0.14
+464,JED,"Come on! Come on, come on, come on! Let's go!",45,0.9
+465,SILAS,He's dead.,10,0.2
+466,JED,"Dammit! Get on your horse, Silas! Let's go, boy. Come on, boy.",62,1.24
+467,BRITT,"Tucker, find us some cover.",27,0.54
+468,TUCKER,"Camp, already?",14,0.28
+469,BRITT,About to have company. Injuns just behind us.,45,0.9
+470,BRITT,"Put your gun down, Tucker. If I were a Sioux warrior, you'd already be dead.",76,1.52
+471,TUCKER,"If I can't hear them, how will you and Chaska?",46,0.92
+472,BRITT,That's a very good question.,28,0.56
+473,TUCKER,"Well, how about giving me a very good answer?",45,0.9
+474,BRITT,"When I think of one, I'll let you know. Until then, just sit there and look invitin'.",85,1.7
+475,TUCKER,Like a worm on a hook.,22,0.44
+476,BRITT,You sure this is the way they'll come?,38,0.76
+477,CHASKA,"Unless they circle wide and come in behind us. I know we haven't spoke of it, but we should. You do understand that...",118,2.36
+478,BRITT,Chad might be dead.,19,0.38
+479,CHASKA,Yeah.,5,0.1
+480,BRITT,"He doesn't know why we moved to Clearmont, I never told him.",60,1.2
+481,CHASKA,You have to one day.,20,0.4
+482,BRITT,"I plan on it. When he's older, he'll understand better, but not now.",68,1.36
+483,CHASKA,"Chad is left at home without his mother. He sees her rocking chair, her stove. Constant reminders. You stay away, so you don't have to face those reminders. It's easier for you when you're away.",194,3.88
+484,BRITT,Easy?,5,0.1
+485,CHASKA,"Chad is 12. And he's left alone with sad memories. I've known you long enough, Britt, it's why I'm speaking.",108,2.16
+486,TUCKER,What the hell! Why'd you take so long to shoot?,47,0.94
+487,BRITT,Shoot as fast as I could.,25,0.5
+488,TUCKER,Damn.,5,0.1
+489,TUCKER,"The one that came flyin' through the air, if you didn't shoot him, I'd be dead.",79,1.58
+490,BRITT,I didn't shoot him.,19,0.38
+491,CHASKA,They've all gone or we killed all they sent.,44,0.88
+492,TUCKER,You shot the one that jumped towards me?,40,0.8
+493,CHASKA,"Pretty good shootin' for a half-breed, wouldn't you say?",56,1.12
+494,BRITT,"Let's get outta here. Hey, hiya!",32,0.64
+495,SILAS,That's an ambush.,17,0.34
+496,JED,Must be Marshal and the Injuns. Go find out who won.,52,1.04
+497,SILAS,What?,5,0.1
+498,JED,You heard me.,13,0.26
+499,SILAS,"It's less than a mile away. Whoever it is, be coming down this path real soon.",78,1.56
+500,JED,Get your ass back here and tell me who.,39,0.78
+501,SILAS,"Yeah, I wouldn't mind taking a crack at MacMasters myself.",58,1.16
+502,JED,"You don't touch MacMasters, you understand me? If he's alive, see to it he stays that way.",90,1.8
+503,SILAS,"Yeah, Jed.",10,0.2
+504,JED,Get outta here. Posse don't stand a chance against me up here. Mow 'em down. Where the hell is that posse? Where the hell are you?,130,2.6
+505,SHERIFF,Maybe they're not in there. They know we're followin' them. I think they kept ridin'.,85,1.7
+506,BRITT,I doubt it. Check it out.,25,0.5
+507,SHERIFF,Take the horses around back and cover us.,41,0.82
+508,BRITT,Ed! Ed Ryan!,12,0.24
+509,ED,"That you, Marshal?",18,0.36
+510,BRITT,"Ed, you come on out peaceful-like.",34,0.68
+511,ED,That's the funniest thing I've heard all week.,46,0.92
+512,SHERIFF,"Ed, you stay in there, things are gonna get a whole lot worse for you.",70,1.4
+513,ED,I'm fine. I got three hostages. Make that two hostages. Let us ride and they live.,82,1.64
+514,BRITT,"No deal, Ed.",12,0.24
+515,ED,One of 'em has a nice little locket. It's got a picture inside. It looks like you!,82,1.64
+516,SHERIFF,What the hell is he talking about?,34,0.68
+517,BRITT,Laurel came out here this afternoon to visit.,45,0.9
+518,SHERIFF,Goddammit.,10,0.2
+519,BRITT,Ed?,3,0.06
+520,ED,Yeah?,5,0.1
+521,BRITT,You let them go and I'll give you one hour head start.,54,1.08
+522,ED,"Alright, Marshal. We're comin' out.",35,0.7
+523,BRITT,Laurel.,7,0.14
+524,SHERIFF,He wanted us to think she was one of them.,42,0.84
+525,BRITT,"Laurel. Laurel, Laurel, don't leave me. Don't leave me. Laurel. Oh God, no. Oh God.",83,1.66
+526,BRITT,"Oh God, stay with me. Stay with me. Stay with me. Stay with me. God no, please. Oh God, no. Oh God. Oh. Laurel. Oh God. Laurel. I'm so sorry.",141,2.82
+527,CHASKA,Many tracks have joined Jed's gang. They are being followed.,60,1.2
+528,BRITT,Can you tell how many?,22,0.44
+529,CHASKA,No.,3,0.06
+530,TUCKER,Think they've already been attacked?,36,0.72
+531,CHASKA,Tracks are less than a day old. It is possible.,47,0.94
+532,BRITT,Let's get moving.,17,0.34
+533,CHASKA,I think we should wait here till sunrise.,41,0.82
+534,BRITT,Burnin' moonlight.,18,0.36
+535,CHASKA,Trail's gettin' very difficult to read now.,43,0.86
+536,BRITT,That's why you're here.,23,0.46
+537,CHASKA,"The warriors following them may also know of us. With sunlight, I can be certain. I think you were right about my eyes, they are getting old. Not as good in the dark as they used to be.",185,3.7
+538,BRITT,"Well, sun rises in two hours. We'll wait till then.",51,1.02
+539,TUCKER,Oh good. Two more hours of sleepin' on hard rocks. What the hell was that?,74,1.48
+540,BRITT,"Saddle the horses, we may need 'em in a hurry.",46,0.92
+541,TUCKER,Where are you goin'?,20,0.4
+542,BRITT,"Just stay here, keep alert.",27,0.54
+543,BRITT,Is that a war dance?,20,0.4
+544,CHASKA,It is a celebration.,20,0.4
+545,BRITT,Oh.,3,0.06
+546,CHASKA,It'd take hours to reach â€˜em. And they'd gone by the time we do. MacMasters. MacMasters.,90,1.8
+547,BRITT,"Five Sioux? Circlin' around to a front, war paint.",50,1.0
+548,BRITT,Tucker. Tucker. Tucker?,23,0.46
+549,TUCKER,"Marshal. Don't bet that bank yet. I think me and Chaska, I think we're even.",76,1.52
+550,BRITT,Tucker. Tucker.,15,0.3
+551,CHASKA,"Come on, Britt. Britt, come on.",31,0.62
+552,CHASKA,What the hell did he mean when he said we were even?,52,1.04
+553,BRITT,He said he learned the difference between the Sioux and the Pawnee.,67,1.34
+554,JED,Wake up.,8,0.16
+555,JED,Wake up.,8,0.16
+556,JED,"Come on, wake up, kid. Sun's about to rise, we gotta get outta here.",68,1.36
+557,CHAD,Injuns?,7,0.14
+558,JED,"Yeah. Little ways back, they attacked us.",41,0.82
+559,JED,"We gotta make tracks, get some distance between us. With my luck, they already killed your pa.",94,1.88
+560,SILAS,"Hey Jed, is that you?",21,0.42
+561,JED,Silas? Thought you was dead.,28,0.56
+562,SILAS,"You know, I thought the same thing about you. When they attacked, I went out back. Thought I'd pick off an easy few.",116,2.32
+563,JED,What happened?,14,0.28
+564,SILAS,"Well, my horse fell down, knocked myself out. Came to about an hour ago.",72,1.44
+565,JED,Damn.,5,0.1
+566,SILAS,Found my horse about a half a mile away.,40,0.8
+567,JED,Get up. Damn.,13,0.26
+568,SILAS,They burned their bodies back there.,36,0.72
+569,JED,How many of 'em?,16,0.32
+570,SILAS,"Jed, I didn't go back for another look. But they'll be breakin' camp till mornin'.",82,1.64
+571,JED,We was just gettin' ready to vamoose.,37,0.74
+572,SILAS,Better hurry.,13,0.26
+573,SILAS,"All these Injuns on the ground. I'm sure one more won't make much difference. Been hearin' a long time, how fast you are on the draw?",133,2.66
+574,SILAS,Let's find out.,15,0.3
+575,JED,"What the hell was that? What the hell! Silas! Silas! Told him to look, not to attack. Son of a bitch. Silas! Silas! You leave MacMasters for me! Son of a bitch. He's a good scout. If he didn't wanna be seen, he wasn't seen. Silas! Ain't afraid of your pa, boy. This is what I've been wantin' all along.",302,6.04
+576,CHAD,"But now, it's just you. No gang. I can-- I could talk to him for ya.",68,1.36
+577,JED,"Talk to him for me? What's the discussion gonna be about, little mouse? Where the hanging's gonna be?",101,2.02
+578,CHAD,No.,3,0.06
+579,JED,"Hey, little mouse. Bring my saddlebag, need another round of ammo.",66,1.32
+580,CHAD,What?,5,0.1
+581,JED,Bullets. I got eight rounds on me.,34,0.68
+582,CHAD,Eight?,6,0.12
+583,JED,"Little mouse, bring my saddlebag. Give me extra ammo. We may have a long-shoot out.",83,1.66
+584,CHAD,Okay.,5,0.1
+585,JED,What you limping for? It's your arm got stuck.,46,0.92
+586,CHAD,"I ache all over, Jed. I think I got the fever.",46,0.92
+587,JED,"Hey, what's takin' you so long? You stick the ammo in your pockets? You best not be up to somethin'. Tell me, boy! Come on.",123,2.46
+588,JED,Silas. Silas! No! You know how much work I put into this? Do you? You know how long that took me? Do you? I think it's about time the cat carved up the little mouse.,165,3.3
+589,CHAD,What?,5,0.1
+590,JED,"You're the only MacMasters here, you're gonna have to do.",57,1.14
+591,CHAD,"Jed, no.",8,0.16
+592,JED,Let's play Catch the Bullet.,28,0.56
+593,JED,"Catch the bullet now, huh? Where you goin'? Catch the bullet! Now boy, you can't run. I'm coming, I'm coming! I'm coming! Stop! Now we're gonna play Catch the Bullet. I'm gonna shoot, and you either duck or catch it. It's fun.",226,4.52
+594,CHAD,I don't wanna play Catch the Bullet. I can't play Catch the Bullet.,67,1.34
+595,JED,"You're a MacMasters. Of course, you can. I need to rid myself of this feeling. This feeling that MacMasters bested me. Even when he's gone, I feel like he's bested me. 'Cause I ain't the one who killed him. I ain't got no braggin' rights. And nobody knows what I went through. But you do. That's why you're gonna catch this bullet one last time. It's comin' right for you.",372,7.44
+596,CHAD,Jed.,4,0.08
+597,JED,"Go, boy! Go!",12,0.24
+598,JED,"Yeah, catch it, boy. Ha, yeah.",30,0.6
+599,BRITT,I'll play Catch the Bullet with ya. Let him go.,47,0.94
+600,JED,"No, I don't really like that idea. Gotten to know the kid, feel like I have to kill him. Get that ammo ready, boy.",114,2.28
+601,BRITT,"Chad, where are you?",20,0.4
+602,CHAD,"Shoot, pa, I'm covered.",23,0.46
+603,JED,"Shut up. Ah! Dammit! Get the ammo! You almost got me, MacMasters! That was a good one. Hey! MacMasters! Where's the posse? How many you got?",140,2.8
+604,BRITT,"You think you rate a posse? Just me, Jed.",41,0.82
+605,JED,"Just you and me, huh? You ever think you'd go out like this? On a butte. Hey! You ain't shot back in a while, Marshal. You out of ammo?",135,2.7
+606,BRITT,Come on out in the open and find out.,37,0.74
+607,JED,"Hey, that's a pretty funny joke! Think I'm dumb enough to try? Shoot back, dammit! Son of a bitch is out of ammo! Your pa is out of ammo!",137,2.74
+608,BRITT,Jed! You're right. I'm out of ammo. Old teacher of mine once told me I didn't have a brain for arithmetic.,106,2.12
+609,JED,Would you look at that? The great Marshal MacMasters.,53,1.06
+610,BRITT,"Listen, Jed. I'll make a deal with ya.",38,0.76
+611,JED,I'm listenin'.,14,0.28
+612,BRITT,You let Chad right outta here and I'll stay with you.,53,1.06
+613,JED,"That's a dumbass deal, Marshal.",31,0.62
+614,BRITT,"Don't kill my son, Jed.",23,0.46
+615,JED,He's half-dead as it is.,24,0.48
+616,BRITT,I'm the one you want. Let him go.,33,0.66
+617,JED,"First, you step out with your hands up. Leave the pistol where you are.",71,1.42
+618,BRITT,Alright. I'm coming down.,25,0.5
+619,JED,"Walk where I can see ya. Got your pa now, boy. No, no.",54,1.08
+620,JED,"Keep your hands up. You stay right there. Keep your hands nice and high, just like that.",88,1.76
+621,BRITT,"Let Chad go, Jed.",17,0.34
+622,JED,"That was your deal, not mine.",29,0.58
+623,BRITT,Why kill him?,13,0.26
+624,JED,"'Cause I don't want him to grow up into his pa, who was huntin' me down.",72,1.44
+625,BRITT,I think you set him on the road for that already.,49,0.98
+626,JED,Yeah. Guess I did. That's why he dies here right now with you. That's close enough. Now how about a game of Catch the Bullet?,125,2.5
+627,BRITT,You mind if I have last smoke?,30,0.6
+628,JED,"You ain't got a little pepperbox on you, do you?",48,0.96
+629,BRITT,Nope.,5,0.1
+630,JED,Real slow.,10,0.2
+631,BRITT,Now tell me about this Catch the Bullet. Who catches it? You?,61,1.22
+632,JED,Why ain't you scared?,21,0.42
+633,BRITT,Let's play. Let's see who catches the bullet.,45,0.9
+634,JED,It's time to make peace with myself.,36,0.72
+635,CHAD,Ah!,3,0.06
+636,BRITT,Come on.,8,0.16
+637,BRITT,"I'm here now, son. I'm here.",28,0.56
+638,BRITT,"Don't look at him, look at me. Look at me, look at me. It's over, Chad. It's over, I'm here. Oh, son. Oh.",105,2.1
+639,BRITT,Let's get these ropes off of you.,33,0.66
+640,BRITT,Yeah.,5,0.1
+641,CHAD,Yeah.,5,0.1
+642,BRITT,"I'm real proud of you, son.",27,0.54
+643,CHAD,You are?,8,0.16
+644,BRITT,You bet I am.,13,0.26
+645,CHAD,I'm so sorry. I knew you would come. I'm so sorry.,50,1.0
+646,CHAD,I knew it.,10,0.2
+647,BRITT,Sorry? Sorry about what?,24,0.48
+648,CHAD,Doesn't matter now.,19,0.38
+649,BRITT,"Hey, I uh, I got somethin'. Starr sent these for ya. She said they're you're favorite, right? Alright, alright. Here, you uh, you hang onto these, okay? Can you get up?",168,3.36
+650,CHAD,"Yeah, it's uh...",16,0.32
+651,CHAD,So did you really run out of ammo?,34,0.68
+652,BRITT,I have plenty in my saddlebag.,30,0.6
+653,CHAD,Pa.,3,0.06
+654,BRITT,Half mile down the trail.,25,0.5
+655,CHAD,That's reckless.,16,0.32
+656,BRITT,"I'm gettin' old, son.",21,0.42
+657,CHAD,"Nah, I don't think so.",22,0.44
+658,SHERIFF,"Well, I'm real sorry, Dex, I still haven't heard from my posse. They've been searchin' for days.",96,1.92
+659,DEX,"Well, I just hope they're still alive.",38,0.76
+660,SHERIFF,I'll ask Pastor Bailey to say a prayer from 'em.,48,0.96
+661,DEX,"Well, thank you. Appreciate that. The only family I got.",56,1.12
+662,SHERIFF,"Yeah, I like consider them the only family I got, too.",54,1.08
+663,DEX,Yeah. My eyesight's not so good. Can you see who that is?,57,1.14
+664,DEX,I hope it's not Jed and his boys.,33,0.66
+665,SHERIFF,"Looks like somebody's comin' this way, I'm not sure who. But we're gonna have company.",86,1.72
+666,DEX,"Oh, we don't wanna fight.",25,0.5
+667,SHERIFF,Uh. Can't believe my eyes. It's Britt and Chad.,47,0.94
+668,DEX,"I think my eyesight's improvin'. Welcome home, son.",51,1.02
+669,SHERIFF,Britt! You're alive.,20,0.4
+670,BRITT,"Yeah, we're alive.",18,0.36
+671,CHAD,Grandpa! I thought you was dead.,32,0.64
+672,DEX,"Well, they tried to get me, but they failed. Get up here. I'm gonna outlive all of ya.",86,1.72
+673,SHERIFF,"You know, I got a whole posse out there looking for you?",56,1.12
+674,BRITT,"You want me to head back out, so they can find me?",50,1.0
+675,SHERIFF,"Nah. They'll give up eventually, you ain't that special.",56,1.12
+676,BRITT,"Thanks a lot, Sheriff.",22,0.44
+677,SHERIFF,"Come on, let's get you inside. There's a shot of whiskey with your name on it. Lord knows you deserve it.",105,2.1
+678,BRITT,I-- I'll take it.,17,0.34

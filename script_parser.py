@@ -11,6 +11,7 @@ import pdfplumber
 import win32com.client
 from pyth.plugins.rtf15.reader import Rtf15Reader
 from pyth.plugins.plaintext.writer import PlaintextWriter
+import logging
 # Initialize COM
 #print("CoInit")
 pythoncom.CoInitialize()
@@ -22,6 +23,13 @@ pythoncom.CoInitialize()
 #script_path="scripts2/ZERO11.txt"
 #output_path="ZERO11c/"
 #script_name="ZERO11b"
+logging.basicConfig(filename='app-parser.log',level=logging.DEBUG)
+logging.debug("Script starting...")
+
+def myprint1(s):
+    logging.debug(s)
+    print(s)
+
 
 action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
 
@@ -194,7 +202,7 @@ def is_matching_character_speaking(line,character_mode):
     elif character_mode=="CHARACTER_SEMICOL_TAB": 
         return matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
     else:
-        print("ERROR wrong mode")
+        print("ERROR wrong mode="+character_mode)
 
 
     """Checks if the line indicates a character speaking."""
@@ -333,10 +341,16 @@ def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
     if line:
+        if "(O.S)" in line:
+            line=line.replace("(O.S)","")
+        if "(O.S.)" in line:
+            line=line.replace("(O.S.)","")
+        if "(CONT'D)" in line:
+            line=line.replace("(CONT'D)","")    
         if line.endswith(':'):
-            # Return the string without the last character (the colon)
-            return line[:-1]
-        # Return the original string if there is no colon at the end
+            line= line[:-1]
+        if line.endswith(')'):
+            line= line[:-1]
     return line
 #    return line
 
@@ -523,10 +537,165 @@ def convert_docx_combined_continuity(file,table):
                     #print("linear mode add "+s)
                         
                     file.write(s)
+def match_uppercase_semicolon(text):
+    # Regex pattern to match text in uppercase ending with a semicolon
+    pattern = r'^[A-Z\s]+:$'
+    
+    # Use re.match to check if the text matches the pattern
+    if re.match(pattern, text):
+        return True
+    else:
+        return False
+def remove_semicolon(s):
+    """
+    Remove a semicolon at the end of a string if it exists.
+    
+    Args:
+    s (str): The string from which to remove the semicolon if present at the end.
+
+    Returns:
+    str: The string without the trailing semicolon.
+    """
+    # Check if the string ends with a semicolon and remove it
+    if s.endswith(':'):
+        return s[:-1]  # Slice off the last character
+    return s  # Return the original string if there's no semicolon at the end
+
+def get_text_without_parentheses(input_string):
+    pattern = r'\([^()]*\)'
+    # Use re.sub() to replace the occurrences with an empty string
+    result_string = re.sub(pattern, '', input_string)
+    return result_string
+def remove_text_in_brackets(text):
+    """
+    Remove all text within square brackets from the provided string.
+
+    Args:
+    text (str): The string from which to remove the text in brackets.
+
+    Returns:
+    str: The string with text in brackets removed.
+    """
+    # Regular expression to find text in square brackets
+    pattern = r'\[.*?\]'
+    # Use re.sub() to replace all occurrences of the pattern with an empty string
+    cleaned_text = re.sub(pattern, '', text)
+    return cleaned_text
+def filter_speech(input):
+    s=get_text_without_parentheses(input)
+    s=remove_text_in_brackets(s)
+    s=s.replace("â€™","'")
+    return s
+
+def convert_docx_dialogwithspeakerid(file,table,dialogwithspeakerid):
+    idx=1
+    row_idx=1
+    current_character=""
+    cumulated_speech=""
+    for row in table.rows[1:]:
+            if idx<10:
+                myprint1("---------------------------------------------")
+                myprint1("Row "+str(row_idx))
+            row_idx=row_idx+1
+            scenedesc=row.cells[dialogwithspeakerid].text.strip()        
+            if idx<100:
+                myprint1(scenedesc)
+            parts=scenedesc.split("\n")
+            part_idx=1
+            for part in parts:
+                if idx<10:
+                    myprint1("part "+str(part_idx)+":"+part)
+                
+                part=part.strip()
+                part_idx=part_idx+1
+                if len(part)>0:
+#                    if idx<10:
+ #                       print("part "+str(part_idx)+":"+part)
+                    part=filter_speech(part)
+                    if match_uppercase_semicolon(part):
+                        #flush cunulated speech
+                        if len(cumulated_speech)>0:
+                            s=current_character+"\t"+cumulated_speech+"\n"
+                            file.write(s)
+                            if idx<10:
+                                print(">>>>>>>>> "+current_character+"\t"+cumulated_speech)
+                            idx=idx+1
+                            cumulated_speech=""
+                        current_character=remove_semicolon(part) 
+                        if idx<10:
+                            print("new character "+current_character)
+                    else:
+                        if not part.isupper():                    
+                            speech=part.strip()
+                            current_character=clean_character_name(current_character)
+                            if len(current_character)>0 and len(speech)>0:
+                                cumulated_speech=cumulated_speech+" "+speech
+                                #s=current_character+"\t"+speech+"\n"
+                                #file.write(s)
+    if len(cumulated_speech)>0:
+        s=current_character+"\t"+cumulated_speech+"\n"
+        file.write(s)
 
 
+def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
+    print("Conversion mode       : SCENEDESCRIPTION")
+    current_character=""
+    idx=1
+    cumulated_speech=""
+    row_idx=1
 
-
+    for row in table.rows[1:]:
+        if row_idx<35:
+                print("---------------------------------------------")
+                print("Row "+str(row_idx))
+                scenedesc=row.cells[titlesIdx].text.strip()        
+                print("Row content"+str(scenedesc))
+        row_idx=row_idx+1
+    row_idx=1
+    for row in table.rows[1:]:
+            if idx<10:
+                print("---------------------------------------------")
+                print("Row "+str(row_idx))
+            row_idx=row_idx+1
+            scenedesc=row.cells[titlesIdx].text.strip()        
+            if idx<100:
+                print(scenedesc)
+            parts=scenedesc.split("\n")
+            part_idx=1
+            for part in parts:
+                if idx<10:
+                    print("part "+str(part_idx)+":"+part)
+                
+                part=part.strip()
+                part_idx=part_idx+1
+                if len(part)>0:
+#                    if idx<10:
+ #                       print("part "+str(part_idx)+":"+part)
+                    part=filter_speech(part)
+                    if match_uppercase_semicolon(part):
+                        #flush cunulated speech
+                        if len(cumulated_speech)>0:
+                            s=current_character+"\t"+cumulated_speech+"\n"
+                            file.write(s)
+                            if idx<10:
+                                print(">>>>>>>>> "+current_character+"\t"+cumulated_speech)
+                            idx=idx+1
+                            cumulated_speech=""
+                        current_character=remove_semicolon(part) 
+                        if idx<10:
+                            print("new character "+current_character)
+                    else:
+                        if not part.isupper():                    
+                            speech=part.strip()
+                            current_character=clean_character_name(current_character)
+                            if len(current_character)>0 and len(speech)>0:
+                                cumulated_speech=cumulated_speech+" "+speech
+                                #s=current_character+"\t"+speech+"\n"
+                                #file.write(s)
+    if len(cumulated_speech)>0:
+        s=current_character+"\t"+cumulated_speech+"\n"
+        file.write(s)
+                                                    
 def clean_character_name(title):
     title = title.replace("to herself","")
     title = title.replace(" said","")
@@ -628,40 +797,189 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
         # Make sure to uninitialize COM
         pythoncom.CoUninitialize()
     return ""
-        
+
+                      
 def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
     print("convert_pdf_to_txt")
     print("currentOutputFolder             :"+absCurrentOutputFolder)
     print("Input             :"+file_path)
     converted_file_path=""
-    if ".pdf" in file_path:
-        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".pdf",".converted.txt"))
+    if ".pdf" in file_path.lower() :
+        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
     with open(converted_file_path, 'w', encoding='utf-8') as file:
         with pdfplumber.open(file_path) as pdf:
           page_idx=1  
-          for page in pdf.pages:
-            # Extract tables from the page
-            print("page"+str(page_idx))
+          for page in pdf.pages[1:]:
+
             page_idx=page_idx+1
-            tables = page.extract_tables()
-            pdf_mode="?"
-            for table in tables:
-                # Add a table to the Word document
-                if table:  # Check if the table is not empty
-                    headers=table[0]
-                    print("headers"+str(headers))
-                    if 'CHARACTER' in headers and 'DIALOGUE' in headers:
-                        pdf_mode=""
-                    character_index = headers.index('CHARACTER')
-                    dialogue_index = headers.index('DIALOGUE')
-                    for row in table[1:]:  # Skip header
-                        character = row[character_index]
-                        dialogue = row[dialogue_index]
-                        character=(character.upper())
-                        print(str(row))
-                        # Write to file with a tab between CHARACTER and DIALOGUE
-                        file.write(f"{character}\t{dialogue}\n")
-    return converted_file_path
+            if page_idx<40000:
+                # Extract tables from the page
+                print("########################################################")
+                print("convert_pdf_to_txt page"+str(page_idx))
+                crop_coords = [0.68,0.20,0.95,0.90]
+                my_width = page.width
+                my_height = page.height
+                my_bbox = (crop_coords[0]*float(my_width), crop_coords[1]*float(my_height), crop_coords[2]*float(my_width), crop_coords[3]*float(my_height))
+                page = page.crop(bbox=my_bbox)
+                text = str(page.extract_text())
+                print(text)
+                textlines=text.split("\n")
+                current_character=""
+                speech=""
+                for line in textlines:
+                    if line.isupper():
+                        current_character=line
+                    else:
+                        speech=line
+                        if current_character=="":
+                            current_character="__VOICEOVER"
+                        s=current_character+"\t"+speech+"\n"  # New line after each row
+                        print("Add "+ current_character + " "+ speech)
+                        file.write(s)
+
+                if False:
+                    tables = page.extract_tables()
+        #            tables = page.extract_tables(table_settings={"vertical_strategy": "text",    "horizontal_strategy": "text"})
+                    pdf_mode="?"
+                    print("convert_pdf_to_txt tables = "+str(len(tables)))
+                    
+                    for table in tables:
+                        # Add a table to the Word document
+                        if table:  # Check if the table is not empty
+
+                            print("convert_pdf_to_txt testheader")
+                            print(table)
+                            headerSuccess=False
+                            for i in range(3):
+                                print("test row"+str(i))
+                                header=table[i]
+                                success=test_pdf_header(file,table,header)
+                                if success:
+                                    headerSuccess=True
+                                    break
+                            if not headerSuccess:
+                                return ""
+    print("Converted")                       
+    print(converted_file_path)
+    return converted_file_path,encoding
+
+
+
+def convert_pdf_title(file,table,titleIdx):
+    print("ROW LEN="+str(len(table[0]))+str(table[0]))
+    for row in table[1:]:  # Skip header
+        lastIdx=-1
+        for i in range(len(row)):
+            if row[i]:
+                print("has data"+str(row[i]))
+                lastIdx=i
+        print("---------------------------------"+str(lastIdx))
+        title = row[lastIdx]
+        print("item "+str(i)+" "+str(row[i]))
+        print("ROW LEN="+str(len(row))+str(row))
+        print(str(row))
+        print(">>>>>> TITLE"+str(title))
+        if title:
+            parts=title.split("\n")
+            character=""
+            speech=""
+            hascharacter=False
+            for part in parts:
+                if part.isupper():
+                    character=character+" " +part
+                else:
+                    hascharacter=True
+                    speech=speech+speech
+
+            file.write(f"{character}\t{speech}\n")
+
+def test_pdf_header(file,table,header):
+            print("test_pdf_headers"+str(header))
+            dialogueCol=-1
+            characterIdCol=-1
+            titlesCol=-1
+    
+            print("headers"+str(header))
+            if 'CHARACTER' in header and 'DIALOGUE' in header:
+                pdf_mode="PDF_CHARACTER_DIALOGUE"
+            if 'Title' in header:
+                pdf_mode="PDF_TITLE"
+            if "CHARACTER" in header:
+                characterIdCol = header.index('CHARACTER')
+            if "Title" in header:
+                titlesCol = header.index('Title')
+            if "DIALOGUE" in header:
+                dialogueCol = header.index('DIALOGUE')
+
+            pdf_mode_title=titlesCol>-1
+            if pdf_mode_title:
+                print("test_pdf_header pdf_mode_title")
+                convert_pdf_title(file,table,titlesCol)
+                return True
+
+
+
+
+def test_word_header(file,table,header):
+            print("test word header")
+            dialogueCol=-1
+            characterIdCol=-1
+            combinedContinuityCol=-1
+            titlesCol=-1
+            dialogWithSpeakerId=-1
+            sceneDescriptionCol=-1
+            idx=0
+            for cell in header.cells:
+                t=cell.text.strip()
+                print("Header cell"+str(t))
+                if t=="CHARACTER ID":
+                    characterIdCol=idx
+                if t=="CHARACTER":
+                    characterIdCol=idx
+                elif t=="ROLE":
+                    characterIdCol=idx
+                elif t=="DIALOGUE":
+                    dialogueCol=idx
+                elif t=="Scene Description":
+                    sceneDescriptionCol=idx
+                elif t=="Titles":
+                    titlesCol=idx
+                elif t=="Dialog With \nSpeaker Id":
+                    dialogWithSpeakerId=idx
+                elif t=="COMBINED CONTINUITY":
+                    combinedContinuityCol=idx
+                idx=idx+1
+
+            docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
+            docx_mode_combined_continuity= combinedContinuityCol>-1
+            docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
+            docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
+            if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid:
+                print("Headers found")
+            else:
+                print("Headers not found")
+                print(" CharacterId"+str(characterIdCol))
+                print(" sceneDescriptionCol"+str(sceneDescriptionCol))
+                print(" dialogueCol"+str(dialogueCol))
+                print(" titlesCol"+str(titlesCol))
+                print("dialogWithSpeakerId"+str(dialogWithSpeakerId))
+                print(" combinedContinuityCol"+str(combinedContinuityCol))
+                return False
+            if docx_mode_dialogue_characterid:
+                convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
+                return True
+            elif docx_mode_scenedescription:
+                convert_docx_scenedescription(file,table,sceneDescriptionCol,titlesCol)
+                return True
+            elif docx_mode_dialogwithspeakerid:
+                convert_docx_dialogwithspeakerid(file,table,dialogWithSpeakerId)
+                return True
+            elif docx_mode_combined_continuity:
+                convert_docx_combined_continuity(file,table)
+                return True
+            else:
+                print("Tables but no ")
+                return False
 
 
 def convert_word_to_txt(file_path,absCurrentOutputFolder):
@@ -688,39 +1006,17 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder):
             # Get the first table
             table = doc.tables[0]
             
-            header=table.rows[0]
-            dialogueCol=-1
-            characterIdCol=-1
-            combinedContinuityCol=-1
+            row_idx=0
+            headerSuccess=False
+            for i in range(3):
+                header=table.rows[i]
+                success=test_word_header(file,table,header)
+                if success:
+                    headerSuccess=True
+                    break
+            if not headerSuccess:
+                return ""
 
-            idx=0
-            current_character=""    
-            for cell in header.cells:
-                t=cell.text.strip()
-                if t=="CHARACTER ID":
-                    characterIdCol=idx
-                if t=="CHARACTER":
-                    characterIdCol=idx
-                elif t=="ROLE":
-                    characterIdCol=idx
-                elif t=="DIALOGUE":
-                    dialogueCol=idx
-                elif t=="COMBINED CONTINUITY":
-                    combinedContinuityCol=idx
-                idx=idx+1
-
-            docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
-            docx_mode_combined_continuity= combinedContinuityCol>-1
-            if docx_mode_dialogue_characterid or docx_mode_combined_continuity:
-                print("Headers found")
-            else:
-                return "" 
-            if docx_mode_dialogue_characterid:
-                convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
-            elif docx_mode_combined_continuity:
-                convert_docx_combined_continuity(file,table)
-            else:
-                print("Tables but no ")
         else:
             print("No tables")
             convert_docx_plain_text(file,doc)
@@ -880,18 +1176,20 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
         print("  > File type "+extension+" not supported.")
         return
 
-    if extension==".docx":
+    if extension.lower()==".docx":
         converted_file_path=convert_word_to_txt(script_path)
         if len(converted_file_path)==0:
             print("  > Conversion failed 1")
             return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod)
 
-    if extension==".pdf":
-        converted_file_path=convert_pdf_to_txt(script_path)
+    if extension.lower()==".pdf":
+        converted_file_path,encoding=convert_pdf_to_txt(script_path)
+        print("process 1")
         if len(converted_file_path)==0:
             print("  > Conversion failed 1")
             return None,None,None,None,None,None
+        print("process")
         return process_script(converted_file_path,output_path,script_name,countingMethod)
 
     uppercase_lines=[]

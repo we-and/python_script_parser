@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel
-from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt,convert_pdf_to_txt
+from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
 import pandas as pd
 import chardet
 import tkinter.font as tkFont
@@ -12,15 +12,21 @@ import sys
 import csv
 import numpy as np
 import math
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import logging
+
+logging.basicConfig(filename='app.log',level=logging.DEBUG)
+logging.debug("Script starting...")
+showTimeline=False
+if showTimeline:
+    import matplotlib.pyplot as plt
+    from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+    from matplotlib.colors import ListedColormap, BoundaryNorm
+    from matplotlib.gridspec import GridSpec
+
 import ctypes
 
 import threading
-from matplotlib.colors import ListedColormap, BoundaryNorm
-from matplotlib.gridspec import GridSpec
 last_row_id = None
-showTimeline=False
 
 countingMethods=[
 #    "LINE_COUNT",
@@ -53,6 +59,7 @@ currentScriptFilename=""
 outputFolder="tmp"
 currentRightclickRowId=None
 currentXlsxPath=""
+currentDialogPath=""
 currentTimelinePath=""
 currentBreakdown=None
 currentFig=None
@@ -70,6 +77,19 @@ currentMergePopupTable=None
 currentMergedCharacters={}
 currentMergedCharactersTo={}
 currentMergePopupWindow=None
+def myprint2(s):
+    logging.debug(s)
+    print(s)
+def myprint3(s):
+    logging.debug(s)
+    print(s)
+def myprint4(s):
+    logging.debug(s)
+    print(s)
+def myprint5(s):
+    logging.debug(s)
+    print(s)
+
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness
@@ -111,12 +131,6 @@ def compute_length_by_method(line,method):
     #print("compute_length_by_method METHOD "+method+" "+str(res))
     return res
 
-
-def get_text_without_parentheses(input_string):
-    pattern = r'\([^()]*\)'
-    # Use re.sub() to replace the occurrences with an empty string
-    result_string = re.sub(pattern, '', input_string)
-    return result_string
 
 def convert_csv_to_xlsx(csv_file_path, xlsx_file_path):
     # Read the CSV file
@@ -255,17 +269,17 @@ def runJob(file_path,method):
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
             
-            print("Extension           :"+extension)
+            myprint3("Extension           :"+extension)
             if is_supported_extension(extension):
-                print("Supported           : YES")
+                myprint3("Supported           : YES")
 
                 encoding_info = detect_file_encoding(file_path)
                 encoding=encoding_info['encoding']
-                print("Encoding detected   : "+str(encoding))
-                print("Encoding confidence : "+str(encoding_info['confidence']))
+                myprint3("Encoding detected   : "+str(encoding))
+                myprint3("Encoding confidence : "+str(encoding_info['confidence']))
 
                 enc=get_encoding(encoding)
-                print("Encoding used       : "+str(enc))
+                myprint3("Encoding used       : "+str(enc))
     #            encodings = ['windows-1252', 'iso-8859-1', 'utf-16','utf-8']
      #           for encod in encodings:
      #               print("try encoding"+encod)
@@ -274,60 +288,60 @@ def runJob(file_path,method):
                 currentOutputFolder=outputFolder+"/"+name+"/"
                 if not os.path.exists(currentOutputFolder):
                     os.mkdir(currentOutputFolder)
-
+                extension=extension.lower()
                 if extension==".docx" or extension==".doc":
-                    print("Conversion Word to txt")
+                    myprint3("Conversion Word to txt")
                     converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder))
                     if len(converted_file_path)==0:
-                        print("Conversion docx to txt failed")
-                        print("Failed")
+                        myprint3("Conversion docx to txt failed")
+                        myprint3("Failed")
                         hide_loading()
                         return 
                     file_path=converted_file_path
-                    print("Conversion file path :",file_path)
+                    myprint3("Conversion file path :"+file_path)
                     
                 if extension==".rtf":
-                    print("Conversion RTF to txt")
+                    myprint3("Conversion RTF to txt")
                     converted_file_path,txt_encoding=convert_rtf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
                     if len(converted_file_path)==0:
-                        print("Conversion rtf to txt failed")
-                        print("Failed")
+                        myprint3("Conversion rtf to txt failed")
+                        myprint3("Failed")
                         hide_loading()
                         return
                     enc=txt_encoding
                     file_path=converted_file_path
-                    print("Conversion file path :",file_path)
+                    myprint3("Conversion file path :"+file_path)
                 if extension==".pdf":
-                    print("Conversion PDF to txt")
+                    myprint3("Conversion PDF to txt")
                     converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
                     if len(converted_file_path)==0:
-                        print("Conversion pdf to txt failed")
-                        print("Failed")
+                        myprint3("Conversion pdf to txt failed")
+                        myprint3("Failed")
                         hide_loading()
                         return
                     enc=txt_encoding
                     file_path=converted_file_path
-                    print("Conversion file path :",file_path)
+                    myprint3("Conversion file path :"+file_path)
 
-                print("Opening")
+                myprint3("Opening")
                 with open(file_path, 'r', encoding=enc) as file:
-                    print("Opened")
+                    myprint3("Opened")
                     content = file.read()
-                    print("Read")
+                    myprint3("Read")
                     file_preview.delete(1.0, tk.END)
                     file_preview.insert(tk.END, content)
                     
 
-                    print("Process")
+                    myprint3("Process")
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
 
-                    print("Processed")
+                    myprint3("Processed")
 
                     if breakdown==None:
-                        print("Failed")
+                        myprint3("Failed")
                         hide_loading()
                     else:
-                        print("OK")
+                        myprint3("OK")
                         currentBreakdown=breakdown
 
                         png_output_file=currentOutputFolder+name+"_timeline.png"
@@ -340,7 +354,7 @@ def runJob(file_path,method):
                         postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
                         
             else:
-                print(" > Not supported")
+                myprint3(" > Not supported")
                 #stats_label.config(text=f"Format {extension} not supported")
             hide_loading()
 
@@ -352,41 +366,63 @@ def runJob(file_path,method):
 def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
 
     global currentResultCharacterOrderMap
-    if False:
-        if len(currentDisabledCharacters)>0:
-            order_idx=1
-            newmap={}
-            print(" ------------ > reorder postprocess")
-            for k in currentResultCharacterOrderMap:
-                print("reorder postprocess"+str(k))
-                if not k in currentDisabledCharacters:
-                    print("reorder postprocess"+"add"+str(order_idx))
-                    newmap[k]=order_idx
-                    order_idx=order_idx+1
-                else:
-                    print("reorder postprocess skip"+k)
-
-            currentResultCharacterOrderMap=newmap
-            character_order_map=newmap
-
-    print("Post process")
+    myprint3("Post process")
     fill_breakdown_table(breakdown)
     fill_character_list_table(character_order_map,breakdown)
     fill_character_stats_table(character_order_map,breakdown,enc)
     fill_stats_table(breakdown)
     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
+    save_dialog_csv(breakdown,enc)
     if showTimeline:
         draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
 
+def save_dialog_csv(breakdown,enc):
+    global currentDialogPath
+    totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-dialog.csv"
+    currentDialogPath=totalcsvpath
+    
+    data=[]
+    for item in breakdown:
+        line_idx=item['line_idx']
+        type_=item['type']
+        if(type_=="SPEECH"):
+            speech=item['speech']
+            character=item['character']
+            character_raw=item['character_raw']
+            
+            filtered_speech=filter_speech(speech)
+            datarow=[str(line_idx),character,filtered_speech];
+            for m in countingMethods: 
+                        #myprint4("add"+str(m))
+                        le=compute_length_by_method(filtered_speech,m)
+                        datarow.append(le)
+                
+            data.append(datarow)
+    else:
+        myprint3("save_dialog_csv skip"+character)
+    
+            
+    myprint3("Saving dialog csv encoding="+enc)
+    #myprint3("data"+str(data))
+    with open(totalcsvpath, mode='w', newline='',encoding=enc) as file:
+        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        
+        # Write data to the CSV file
+        for row in data:
+            #myprint3("Write "+str(row))
+            writer.writerow(row)
+    xlsxpath=totalcsvpath.replace(".csv",".xlsx")
+    myprint3("xlsx"+xlsxpath)
+    convert_dialog_csv_to_xlsx2(totalcsvpath,xlsxpath,enc)
 def on_folder_select(event):
     global currentScriptFilename
     global currentOutputFolder
-    print("on_folder_select")
-    #print("FOLDER SELECT")
+    logging.debug("on_folder_select")
+    #myprint3("FOLDER SELECT")
     selected_item = folders.selection()[0]
     file_path = folders.item(selected_item, 'values')[0]
     if os.path.isfile(file_path):
-        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+        logging.debug(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
         currentScriptFilename=file_path
         loading_label_txt.config(text="Analyzing "+file_path)
         show_loading()
@@ -405,7 +441,7 @@ def remove_all_tree_items():
 
 
 def open_folder():
-    print("Change folder")
+    myprint3("Change folder")
     remove_all_tree_items()
     directory = filedialog.askdirectory(initialdir=os.getcwd())
     if directory:
@@ -413,7 +449,7 @@ def open_folder():
         load_tree("",directory)
 
 def open_folder_firsttime():
-    print("Change folder")
+    myprint3("Change folder")
     directory = filedialog.askdirectory(initialdir=os.getcwd(),title="Choose your scripts folder")
     if directory:
         update_ini_settings_file("SCRIPT_FOLDER",directory)
@@ -456,12 +492,12 @@ def stats_per_character(breakdown,character_name):
         if item['type']=="SPEECH":
             if item['character']==character_name:
                 t=item['speech']
-                filtered_speech=get_text_without_parentheses(t)
+                filtered_speech=filter_speech(t)
                 line_count=line_count+1
                 le=compute_length_by_method(filtered_speech,"ALL")
                 character_count=character_count+le
                 word_count=word_count+len(t.split(" "))
-    #print(character_name,character_count)
+    #myprint3(character_name,character_count)
             
     replica_count=math.ceil(character_count/50)
     return line_count,word_count,character_count,replica_count
@@ -493,30 +529,30 @@ def compute_length(method,line):
     return len(line);
 
 def fill_character_list_table(character_order_map, breakdown):
-    #print("fill_character_list_table")
+    #myprint3("fill_character_list_table")
 
     for character_name in character_order_map:
-        #print("CHAR add"+character_name)
+        #myprint3("CHAR add"+character_name)
         if (not character_name in currentDisabledCharacters) or (not character_name in currentMergedCharacters):
             character_named = character_name 
-            #print("CHAR add"+character_named)
+            #myprint4("CHAR add"+character_named)
             character_list_table.insert('','end',values=(character_named,))
         
 
 def fill_character_stats_table(character_order_map, breakdown,encoding_used):
-    print("fill_character_stats_table")
+    myprint4("fill_character_stats_table")
 
     total_by_character_by_method={}
     for character_name in character_order_map:
-        #print("CHAR add"+character_name)
+        #myprint4("CHAR add"+character_name)
 
         character_named = character_name 
-        #print("CHAR add"+character_named)
+        #myprint4("CHAR add"+character_named)
     #    character_list_table.insert('','end',values=(character_named,))
         
         
         character_order=character_order_map[character_name]
-        #print("CHAR"+str(character_name))
+        #myprint4("CHAR"+str(character_name))
         rowtotal=("-",character_name,"-","TOTAL")
         total_by_method={}
         for m in countingMethods:
@@ -530,18 +566,18 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
                 character=item['character']
                 character_raw=item['character_raw']
                 
-                filtered_speech=get_text_without_parentheses(speech)
+                filtered_speech=filter_speech(speech)
 
                 if character==character_name:
-                    #print("    MATCH"+str(speech))
+                    #myprint4("    MATCH"+str(speech))
 
                     row=(str(line_idx),character,character_raw, speech)
                     for m in countingMethods: 
-                        #print("add"+str(m))
+                        #myprint4("add"+str(m))
                         le=compute_length_by_method(filtered_speech,m)
                         row=row+(str(le),)
                         total_by_method[m]=total_by_method[m]+le
-                    #print("add"+str(row))
+                    #myprint4("add"+str(row))
                     character_stats_table.insert('','end',values=row)
         
         #round for BLOCKS
@@ -564,7 +600,7 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
 
 def save_string_to_file(text, filename):
         """Saves a given string `text` to a file named `filename`."""
-        print(" > Write to "+filename)
+        myprint4(" > Write to "+filename)
         with open(filename, 'w', encoding='utf-8') as file:
             file.write(text)
 def get_excel_column_name(column_index):
@@ -575,17 +611,17 @@ def get_excel_column_name(column_index):
         column_name = chr(65 + remainder) + column_name
     return column_name
 def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
-    print("convert_csv_to_xlsx2 "+csv_file_path+ " to "+xlsx_file_path+" "+encoding_used)
+    myprint4("convert_csv_to_xlsx2 "+csv_file_path+ " to "+xlsx_file_path+" "+encoding_used)
 
     # Read the CSV file
     df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
-    print("convert_csv_to_xlsx2 4")
+    myprint4("convert_csv_to_xlsx2 4")
     # Convert columns explicitly to numeric where appropriate
     for col in df.columns[1:]:  # Skip the first column if it's non-numeric (e.g., names)
         df[col] = pd.to_numeric(df[col], errors='ignore')
 
     # Write the DataFrame to an Excel file
-    print(" > Write to "+xlsx_file_path)
+    myprint4(" > Write to "+xlsx_file_path)
 
     header1=["SCRIPT_NAME"]
     header2=["Role"]
@@ -601,7 +637,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
         header1,
         header2
     ])
-    print("convert_csv_to_xlsx2 3")
+    myprint4("convert_csv_to_xlsx2 3")
     # Concatenate the header rows and the original data
     # The ignore_index=True option reindexes the new DataFrame
     df = pd.concat([header_rows, df], ignore_index=True)
@@ -624,14 +660,47 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
         sheet['A2'] = "Length: "
         sheet.column_dimensions['A'].width = 50 
  # Load the workbook and get the active sheet
-    print("convert_csv_to_xlsx2 4")
+    myprint4("convert_csv_to_xlsx2 4")
+  
+def convert_dialog_csv_to_xlsx2(csv_file_path, xlsx_file_path, encoding_used):
+    myprint4("convert_dialog_csv_to_xlsx2 "+csv_file_path+ " to "+xlsx_file_path+" "+encoding_used)
+
+    # Read the CSV file
+    df = pd.read_csv(csv_file_path,header=None,encoding=encoding_used)
+    # Convert columns explicitly to numeric where appropriate
+    for col in df.columns[1:]:  # Skip the first column if it's non-numeric (e.g., names)
+        df[col] = pd.to_numeric(df[col], errors='ignore')
+
+    # Write the DataFrame to an Excel file
+    myprint4(" > Write to "+xlsx_file_path)
+
+    header1=["Line","Character","Dialog"]
+    header2=[]
+    for i in countingMethods:
+            txt=countingMethodNames[i]
+            if i=="BLOCKS_50":
+                txt="Lines"
+            header1.append(txt)
+        
+    header_rows = pd.DataFrame([
+        header1,
+    ])
+    myprint4("convert_csv_to_xlsx2 3")
+    # Concatenate the header rows and the original data
+    # The ignore_index=True option reindexes the new DataFrame
+    df = pd.concat([header_rows, df], ignore_index=True)
+
+    # Write the DataFrame to an Excel file
+    with pd.ExcelWriter(xlsx_file_path, engine='openpyxl') as writer:
+        df.to_excel(writer, index=False, sheet_name='Sheet1')
+
   
 
 
 
 def generate_total_csv(total,csv_path,encoding_used,character_order_map):
     global currentXlsxPath
-    #print("Total csv path          : "+csv_path)
+    #myprint4("Total csv path          : "+csv_path)
     #header
 
     s=""
@@ -643,7 +712,7 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
                 s=s+str(m)+","
         s=s[0:len(s)-1]
         s=s+"\n"
-    #print("Total csv path          : 1")
+    #myprint4("Total csv path          : 1")
     
     data = []
     order_idx=0
@@ -658,43 +727,43 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
             for method in total[character]:
                 if method!="ALL":
                     #check merged characters and add eventually
-                    print("char="+str(character))
+                    myprint4("char="+str(character))
                     if character in currentMergedCharactersTo:
-                        print("in merged"+str(currentMergedCharactersTo))
+                        myprint4("in merged"+str(currentMergedCharactersTo))
                         mergedwith=currentMergedCharactersTo[character]
                         for k in mergedwith:
-                            print("in merged add "+str(k))
+                            myprint4("in merged add "+str(k))
                             total[character][method]=total[character][method]+total[k][method]
                     else:
-                        print("not merged")
-                    #print(str(character)+": Add method "+method+" = "+str(total[character][method]))
+                        myprint4("not merged")
+                    #myprint4(str(character)+": Add method "+method+" = "+str(total[character][method]))
                     datarow.append(str(total[character][method]))
 
             data.append(datarow)
         else:
-            print("generate_total_csv skip"+character)
+            myprint4("generate_total_csv skip"+character)
     
             
-    #print("data"+str(data))
+    #myprint4("data"+str(data))
     with open(csv_path, mode='w', newline='',encoding=encoding_used) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Write data to the CSV file
         for row in data:
-            #print("Write "+str(row))
+            #myprint4("Write "+str(row))
             writer.writerow(row)
 
     
     xlsx_path=csv_path.replace(".csv",".xlsx")
     currentXlsxPath=xlsx_path
     n=len(countingMethods)+1
-    #print("Total xlsx path          : "+xlsx_path)
+    #myprint4("Total xlsx path          : "+xlsx_path)
     convert_csv_to_xlsx2(csv_path,xlsx_path,n,encoding_used)
 
 def on_button_click():
-    print("Button clicked!")
+    myprint4("Button clicked!")
 def export_csv():
-    print("Export")
+    myprint4("Export")
 
 def fill_breakdown_table(breakdown):
     for item in breakdown:
@@ -712,7 +781,7 @@ def fill_breakdown_table(breakdown):
         elif(type_=="NONSPEECH"):         
             text=item['text']
             breakdown_table.insert('','end',values=(str(line_idx),"Other",text,""), tags=('nonspeech',))
-    #print("NB ROWS = "+str(len(breakdown_table.get_children())))
+    #myprint4("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
 def fill_stats_table(breakdown):
@@ -721,12 +790,12 @@ def fill_stats_table(breakdown):
         line_idx=item['line_idx']
         if(type_=="SPEECH"):
             speech=item['speech']
-            filtered_speech=get_text_without_parentheses(speech)
+            filtered_speech=filter_speech(speech)
             character=item['character']
             tout=len(filtered_speech)
             if not character in currentDisabledCharacters:
                 stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout)))
-    print("NB ROWS = "+str(len(breakdown_table.get_children())))
+    myprint4("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
 
 
@@ -752,10 +821,10 @@ def check_settings_ini_exists():
     
     # Check if the settings.ini file exists
     if os.path.isfile(ini_file_path):
-        print(f"settings.ini file exists at: {ini_file_path}")
+        myprint4(f"settings.ini file exists at: {ini_file_path}")
         return True
     else:
-        print(f"settings.ini file does not exist in the directory: {script_folder}")
+        myprint4(f"settings.ini file does not exist in the directory: {script_folder}")
         return False
 
 
@@ -773,7 +842,7 @@ def write_settings_ini():
     with open(ini_file_path, 'w') as ini_file:
         ini_file.write(content)
     
-    print(f"settings.ini file created at: {ini_file_path}")
+    myprint4(f"settings.ini file created at: {ini_file_path}")
 
 
 def read_settings_ini():
@@ -825,29 +894,32 @@ def update_ini_settings_file(field,new_folder):
         for key, value in settings.items():
             ini_file.write(f"{key} = {value}\n")
     
-    print(f"settings.ini file updated with SCRIPT_FOLDER = {new_folder}")
+    myprint4(f"settings.ini file updated with SCRIPT_FOLDER = {new_folder}")
 
 ###################################################################################################
 ## MAIN
+logging.debug("Checking settings ini file")
 
 settings_ini_exists = check_settings_ini_exists()
 if settings_ini_exists == False:
+    logging.debug("Writing settings ini file")
     write_settings_ini()
     update_ini_settings_file("SCRIPT_FOLDER",os.getcwd()+"/examples")
 
 settings = read_settings_ini()
 app_dir = os.path.dirname(os.path.abspath(__file__))
 icons_dir =app_dir+"/icons/"
-print("App dir           :"+app_dir)
+myprint4("App dir           :"+app_dir)
 app = tk.Tk()
 app.title('Scripti')
 app.iconbitmap(icons_dir+'app_icon.ico') 
+logging.debug("Creating app")
 
 def on_resize(event):
     if not showTimeline:
         return
-    print("on_resize")
-    print_frame_size(recap_tab)
+    myprint4("on_resize")
+    myprint4_frame_size(recap_tab)
     if currentFig!=None:
             currentCanvas.draw()
 
@@ -877,33 +949,33 @@ file_menu.add_separator()
 file_menu.add_command(label="Exit", command=exit_app)
 
 def on_folder_open(event):
-    print("on_folder_open")
+    myprint4("on_folder_open")
     # Find the node that was opened
     oid = folders.focus()  # Get the ID of the focused item
     values = folders.item(oid, "values")
-    print("on_folder_open 1")
+    myprint4("on_folder_open 1")
 
     if len(values) > 0 and values[0] == "dummy":
-        print("values>0 ignore")
+        myprint4("values>0 ignore")
         # Ignore the dummy nodes (if the first value in the tuple is "dummy")
         return
-    print("on_folder_open 2")
+    myprint5("on_folder_open 2")
 
     # Check if the node has the dummy child indicating it hasn't been loaded
     children = folders.get_children(oid)
     if len(children) == 1 and folders.item(children[0], "values")[0] == "dummy":
-        print("on_folder_open 3")
+        myprint5("on_folder_open 3")
 
         # Remove the dummy and load actual content
         folders.delete(children[0])
-        print("Load "+str(folders.item(oid, "values")))
+        myprint5("Load "+str(folders.item(oid, "values")))
         load_tree(oid, folders.item(oid, "values")[0])
     else:
-        print("on_folder_open 4 oid="+str(oid)+" val="+str( folders.item(oid, "values")))
+        myprint5("on_folder_open 4 oid="+str(oid)+" val="+str( folders.item(oid, "values")))
         load_tree(oid, folders.item(oid, "values")[0])
 
 def toggle_folder(event):
-    print("Toggle folder")
+    myprint5("Toggle folder")
 # Identify the item on which the click occurred
     x, y, widget = event.x, event.y, event.widget
     row_id = widget.identify_row(y)
@@ -914,16 +986,16 @@ def toggle_folder(event):
     if widget.tag_has('folder', row_id):  # Check if the item has the 'folder' tag
         
         if widget.item(row_id, 'open'):  # If the folder is open, close it
-            print("opened, close")
+            myprint5("opened, close")
             widget.item(row_id, open=False)
 
         else:  # If the folder is closed, open it
-            print("not opened, open")
+            myprint5("not opened, open")
             widget.item(row_id, open=True)
 #            on_folder_open(event)
             children = folders.get_children(row_id)
             if len(children) == 1 and folders.item(children[0], "values")[0] == "dummy":
-                print("on_folder_open 3")
+                myprint5("on_folder_open 3")
 
                 # Remove the dummy and load actual content
                 folders.delete(children[0])
@@ -944,77 +1016,98 @@ def get_os():
 def open_xlsx_recap():
     global currentXlsxPath
     os_=get_os()
-    print("Open"+currentXlsxPath)
+    myprint5("Open"+currentXlsxPath)
     if os_=="Windows":
         currentOutputFolderAbs = os.path.abspath(currentXlsxPath)
-        print("Absolute path          : "+currentOutputFolderAbs)
+        myprint5("Absolute path          : "+currentOutputFolderAbs)
 
     # Check if the folder exists
         if not os.path.exists(currentOutputFolderAbs):
-            print(f"Folder does not exist: {currentOutputFolderAbs}")
+            myprint5(f"Folder does not exist: {currentOutputFolderAbs}")
             return
         try:
             os.startfile(currentOutputFolderAbs)
         except Exception as e:
-            print(f"Failed to open file: {e}")
+            myprint5(f"Failed to open file: {e}")
     else:
         try:
             subprocess.run(['open', currentXlsxPath], check=True)
         except subprocess.CalledProcessError as e:
-            print(f"Failed to open file: {e}")
-
-def open_file_in_system():
-    global currentRightclickRowId
-    print("open_file_in_system" )
-    selected_item = folders.focus() 
-    file_path = folders.item(currentRightclickRowId, 'values')[0]
-    print(file_path)
-    if os.path.isfile(file_path):
-        
-        print(f"Opening file for item: {file_path}")
-        abs_file_path=file_path#folders.item(selected_item)
-        os_=get_os()
-        print("Open"+file_path)
-        if os_=="Windows":
-         
-        # Check if the folder exists
-            if not os.path.exists(abs_file_path):
-                print(f"Folder does not exist: {abs_file_path}")
-                return
-            try:
-                os.startfile(abs_file_path)
-            except Exception as e:
-                print(f"Failed to open file: {e}")
-        else:
-            try:
-                subprocess.run(['open', abs_file_path], check=True)
-            except subprocess.CalledProcessError as e:
-                print(f"Failed to open file: {e}")
-
-def open_timeline():
-    global currentTimelinePath
+            myprint5(f"Failed to open file: {e}")
+def open_dialog_recap():
+    global currentDialogPath
     os_=get_os()
-    print("Open"+currentTimelinePath)
+    myprint5("Open"+currentDialogPath)
     if os_=="Windows":
-        currentOutputFolderAbs = os.path.abspath(currentTimelinePath)
-        print("Absolute path          : "+currentOutputFolderAbs)
+        currentOutputFolderAbs = os.path.abspath(currentDialogPath)
+        myprint5("Absolute path          : "+currentOutputFolderAbs)
 
     # Check if the folder exists
         if not os.path.exists(currentOutputFolderAbs):
-            print(f"Folder does not exist: {currentOutputFolderAbs}")
+            myprint5(f"Folder does not exist: {currentOutputFolderAbs}")
             return
         try:
             os.startfile(currentOutputFolderAbs)
         except Exception as e:
-            print(f"Failed to open file: {e}")
+            myprint5(f"Failed to open file: {e}")
+    else:
+        try:
+            subprocess.run(['open', currentDialogPath], check=True)
+        except subprocess.CalledProcessError as e:
+            myprint5(f"Failed to open file: {e}")
+
+def open_file_in_system():
+    global currentRightclickRowId
+    myprint5("open_file_in_system" )
+    selected_item = folders.focus() 
+    file_path = folders.item(currentRightclickRowId, 'values')[0]
+    myprint5(file_path)
+    if os.path.isfile(file_path):
+        
+        myprint5(f"Opening file for item: {file_path}")
+        abs_file_path=file_path#folders.item(selected_item)
+        os_=get_os()
+        myprint5("Open"+file_path)
+        if os_=="Windows":
+         
+        # Check if the folder exists
+            if not os.path.exists(abs_file_path):
+                myprint5(f"Folder does not exist: {abs_file_path}")
+                return
+            try:
+                os.startfile(abs_file_path)
+            except Exception as e:
+                myprint5(f"Failed to open file: {e}")
+        else:
+            try:
+                subprocess.run(['open', abs_file_path], check=True)
+            except subprocess.CalledProcessError as e:
+                myprint5(f"Failed to open file: {e}")
+
+def open_timeline():
+    global currentTimelinePath
+    os_=get_os()
+    myprint5("Open"+currentTimelinePath)
+    if os_=="Windows":
+        currentOutputFolderAbs = os.path.abspath(currentTimelinePath)
+        myprint5("Absolute path          : "+currentOutputFolderAbs)
+
+    # Check if the folder exists
+        if not os.path.exists(currentOutputFolderAbs):
+            myprint5(f"Folder does not exist: {currentOutputFolderAbs}")
+            return
+        try:
+            os.startfile(currentOutputFolderAbs)
+        except Exception as e:
+            myprint5(f"Failed to open file: {e}")
     else:
         try:
             subprocess.run(['open', currentTimelinePath], check=True)
         except subprocess.CalledProcessError as e:
-            print(f"Failed to open file: {e}")
+            myprint5(f"Failed to open file: {e}")
 
 def set_counting_method(i):
-    print("set method "+i)
+    myprint5("set method "+i)
     global countingMethod
     countingMethod=i
 
@@ -1039,18 +1132,18 @@ def resizechart(self, event=None):
             self.fig.set_size_inches(width / dpi, height / dpi)
             self.canvas.draw()
 
-def print_frame_size(fr):
-    # This function prints the size of the frame
+def myprint5_frame_size(fr):
+    # This function myprint5s the size of the frame
     # Ensure the frame has been rendered by Tkinter before calling this
-    print("Frame width:", fr.winfo_width())
-    print("Frame height:", fr.winfo_height())
+    myprint5("Frame width:"+str( fr.winfo_width()))
+    myprint5("Frame height:"+str( fr.winfo_height()))
 
 def show_loading():
-        #print("SHOW LOADING")
+        #myprint5("SHOW LOADING")
         loading_label.pack()
         paned_window.pack_forget()
 def hide_loading():
-        #print("HIDE LOADING")
+        #myprint5("HIDE LOADING")
         paned_window.pack(fill='both', expand=True)
         loading_label.pack_forget()
 def draw_bar_chart(frame,breakdown,character_order_map,output_file):
@@ -1104,10 +1197,10 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
             if (not char in currentDisabledCharacters) or (not char in currentMergedCharacters): 
             
                 idx=1
-                #print("draw_bar_chart char="+char)
+                #myprint5("draw_bar_chart char="+char)
                 labels=[]
                 values=[]
-                #print("draw_bar_chart L="+str(len(breakdown)))
+                #myprint5("draw_bar_chart L="+str(len(breakdown)))
                 
                 for item in breakdown:
                     idx=idx+1
@@ -1145,13 +1238,13 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
                 
 
     # Adjust subplots to have a uniform starting point
-    #print("done 7")
+    #myprint5("done 7")
     plt.ion()
     plt.subplots_adjust(left=0.5)
-    #print("done 8")
+    #myprint5("done 8")
     fig.tight_layout(pad=0) 
 #    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
-    #print_frame_size(frame)
+    #myprint5_frame_size(frame)
     canvas = FigureCanvasTkAgg(fig, master=frame)
     canvas.draw()
     canvas.get_tk_widget().pack()
@@ -1159,10 +1252,10 @@ def draw_bar_chart(frame,breakdown,character_order_map,output_file):
     currentFig=fig
     currentFig.canvas.draw()
     fig.savefig(output_file, dpi=300) 
-    print("draw_bar_chart")
+    myprint2("draw_bar_chart")
     #reduce_width()
 def restore_characters():
-    print("restore_characters")
+    myprint2("restore_characters")
     global currentDisabledCharacters
     currentDisabledCharacters=[]
     reset_tables()
@@ -1171,7 +1264,7 @@ def restore_characters():
 
 def clear_chart():
     global currentFig
-    print("CLEAR CHART")
+    myprint2("CLEAR CHART")
     currentFig.clf()
     currentFig.canvas.draw()
 settings_menu = Menu(menu_bar, tearoff=0)
@@ -1207,21 +1300,21 @@ paned_window.add(right_frame, weight=2)
 menu = tk.Menu(app, tearoff=0)
 menu.add_command(label="Open File", command=open_file_in_system)
 def merge_characters():
-    print("merge_characters")
+    myprint2("merge_characters")
     global currentCharacterMergeFromName
     name = character_table.item(currentCharacterSelectRowId, 'values')[1]
     currentCharacterMergeFromName=name
-    print("Merge "+name)
+    myprint2("Merge "+name)
     create_popup(currentResultCharacterOrderMap)
 
 def hide_character():
-    print("hide_character")
+    myprint2("hide_character")
     global currentDisabledCharacters
     name = character_table.item(currentCharacterSelectRowId, 'values')[1]
     currentDisabledCharacters.append(name)
     #disabled_character_list_table.insert('','end',values=(name,))
 
-    print("Hide "+name)
+    myprint2("Hide "+name)
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
  #   show_loading()
@@ -1283,7 +1376,7 @@ def on_right_click(event):
             currentRightclickRowId=row_id
             menu.post(event.x_root, event.y_root)  # Show the context menu
     except Exception as e:
-        print(e)
+        myprint2(e)
 
 def on_character_right_click(event):
     global currentCharacterSelectRowId
@@ -1296,7 +1389,7 @@ def on_character_right_click(event):
             currentCharacterSelectRowId=row_id
             char_menu.post(event.x_root, event.y_root)  # Show the context menu
     except Exception as e:
-        print(e)
+        myprint2(e)
 folders.bind('<Button-3>', on_right_click)  # Right click on Windows/Linux
 folders.bind('<Button-2>', on_right_click) 
 
@@ -1318,7 +1411,7 @@ style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
 style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
 #def on_tab_selected(event):
-    #print("Tab selected:", event.widget.select())
+    #myprint2("Tab selected:", event.widget.select())
 
 
 #notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
@@ -1417,13 +1510,13 @@ breakdown_table.tag_configure('bold', font=bold_font)
 
 def open_result_folder():
     # Open a folder in Finder using the `open` command
-    print("Opening "+currentOutputFolder)
+    myprint2("Opening "+currentOutputFolder)
     currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
-    print("Absolute path          : "+currentOutputFolderAbs)
+    myprint2("Absolute path          : "+currentOutputFolderAbs)
 
   # Check if the folder exists
     if not os.path.exists(currentOutputFolderAbs):
-        print(f"Folder does not exist: {currentOutputFolderAbs}")
+        myprint2(f"Folder does not exist: {currentOutputFolderAbs}")
         return
     try:
         if sys.platform.startswith('darwin'):
@@ -1434,7 +1527,7 @@ def open_result_folder():
         elif sys.platform.startswith('linux'):
             subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
     except Exception as e:
-        print(f"Error opening folder: {e}")
+        myprint2(f"Error opening folder: {e}")
 
 
 stats_tab = ttk.Frame(notebook)
@@ -1519,7 +1612,7 @@ def on_item_selected(event):
     item = tree.item(selection)
     record = item['values']
     # Do something with the selection, for example:
-    print("You selected:", record)
+    myprint2("You selected:", record)
     if len(record)==0:
         return
     clear_character_stats()
@@ -1545,15 +1638,15 @@ def on_item_selected(event):
             filtered_speech=get_text_without_parentheses(speech)
 
             if character==character_name:
-                #print("    MATCH"+str(speech))
+                #myprint2("    MATCH"+str(speech))
 
                 row=(str(line_idx),character,character_raw, speech)
                 for m in countingMethods: 
-                    #print("add"+str(m))
+                    #myprint2("add"+str(m))
                     le=compute_length_by_method(filtered_speech,m)
                     row=row+(str(le),)
                     total_by_method[m]=total_by_method[m]+le
-                #print("add"+str(row))
+                #myprint2("add"+str(row))
                 character_stats_table.insert('','end',values=row)
     for m in countingMethods:
         if m.startswith("BLOCKS"):
@@ -1608,6 +1701,9 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
+load_button = ttk.Button(export_tab, text="Open dialog recap...", command=open_dialog_recap)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
 # Load folder button
 if showTimeline:
     load_button = ttk.Button(export_tab, text="Open timeline...", command=open_timeline)
@@ -1626,7 +1722,7 @@ def merge_with():
     
     first_selected_item = currentMergePopupTable.selection()[0]
     first_cell_value = currentMergePopupTable.item(first_selected_item, "values")[0]  
-    print(str(first_cell_value))
+    myprint2(str(first_cell_value))
     mergeto=first_cell_value
     mergefrom=currentCharacterMergeFromName
 
@@ -1690,6 +1786,8 @@ def create_popup(character_map):
 
 
 notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)
+
+logging.debug("Launch")
 
 currentScriptFolder=settings['SCRIPT_FOLDER']
 if currentScriptFolder=="":

@@ -1,0 +1,15 @@
+NATE: {''}
+BRITT: {''}
+ALBERT: {''}
+CHAD: {''}
+DEX: {''}
+JED: {''}
+CASS: {''}
+SILAS: {''}
+BLADE: {''}
+YORK: {''}
+WILLIE: {''}
+SHERIFF: {''}
+TUCKER: {''}
+CHASKA: {''}
+ED: {''}

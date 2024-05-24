@@ -5,1893 +5,2102 @@
 5,LAUREN,Triple?,7,0.14
 6,JACK,Yeah.,5,0.1
 7,LAUREN,"Tough guy, huh?",15,0.3
-8,LAUREN,Maybe not so tough.,19,0.38
-9,JACK,"If I want a roller coaster,",27,0.54
-10,JACK,I'll take Six Flags.,20,0.4
-11,LAUREN,"Oh, lighten up. It's a vacation, Jack.",38,0.76
-12,JACK,Yeah. Sipping rum and Coke at a beach in Bora Bora;,51,1.02
-13,JACK,"now, that's a vacation.",23,0.46
-14,LAUREN,We did those. Boring.,21,0.42
-15,LAUREN,We wanted an adventure.,23,0.46
-16,JACK,We?,3,0.06
-17,LAUREN,Me. The kids.,13,0.26
-18,LAUREN,You. It's good all around.,26,0.52
-19,JACK,Yeah. It'll be fun.,19,0.38
-20,JACK,I just don't like the fact that this family's become,52,1.04
-21,JACK,a democracy all of a sudden.,28,0.56
-22,LAUREN,"It was a velvet coup, honey.",28,0.56
-23,JACK,Hah.,4,0.08
-24,LAUREN,You never noticed.,18,0.36
-25,LAUREN,"Whoa, heaven, Jack.",19,0.38
-26,LAUREN,"I've landed in heaven. Thank you. Hey, Sam. Uh, so we just landed and, um…",74,1.48
-27,NOAH,"Mom, where are we? Hey, Sam. We are just outside of Amboseli Park in Kenya. Amboseli. Check this place out, isn't it cool? It's like animals.",141,2.82
-28,NOAH,"Hey, uh, Zoe, Billy.",20,0.4
-29,NOAH,"Guys, say hi to Sam. Hi, Sam. Hey, Sam. How's it going? You should be here, yo. Fucking good!",93,1.86
-30,LAUREN,"Come on, Billy.",15,0.3
-31,BILLY,"I'm sorry, Missus. We're headed to a lodge and then we're going to, uh, on a safari tomorrow. I wish you could come. But, uh… Dad.",130,2.6
-32,NOAH,"Dad, say hi to Sam. Hi, Sam.",28,0.56
-33,LAUREN,"It's so hard, Jack? Send me a video back, okay?",47,0.94
-34,JACK,"Hey, I said hi. I said hi.",26,0.52
-35,JACK,"Okay. Uh, asante.",17,0.34
-36,STAFF MEMBER,Okay.,5,0.1
-37,JACK,Okay. All right.,16,0.32
-38,JACK,"Let's go. Let's go, kids.",25,0.5
-39,JACK,"Billy, let's go get our car.",28,0.56
-40,POLICE OFFICER,"Wait, wait, wait.",17,0.34
-41,JACK,"Whoa, whoa, whoa.",17,0.34
-42,POLICE OFFICER,Wait.,5,0.1
-43,LAUREN,What's happening?,17,0.34
-44,JACK,I don't know. We're just gonna wait here.,41,0.82
-45,ZOE,What are they doing?,20,0.4
-46,MITCH,Team Lioness.,13,0.26
-47,MITCH,Anti-poaching unit. All female.,31,0.62
-48,ZOE,Women soldiers?,15,0.3
-49,ZOE,That's badass.,14,0.28
-50,MITCH,Yeah. Hm.,9,0.18
-51,CHARLIE,Looks like they caught their man.,33,0.66
-52,MITCH,They say they haven't lost,26,0.52
-53,MITCH,an elephant in years.,21,0.42
-54,NOAH,"Wait, wait, those men are poachers?",35,0.7
-55,MITCH,They're lucky they're arrested.,31,0.62
-56,MITCH,"Usually, they're shot on sight.",31,0.62
-57,LAUREN,What?!,6,0.12
-58,ZOE,Good.,5,0.1
-59,ZOE,Fuckers.,8,0.16
-60,JACK,"Zoe, just--",11,0.22
-61,LAUREN,That's just an execution.,25,0.5
-62,LAUREN,How is that even legal?,23,0.46
-63,MITCH,"""This Is Africa.""",17,0.34
-64,MITCH,Must be your,12,0.24
-65,MITCH,first time here.,16,0.32
-66,JACK,"No, no. I've…",13,0.26
-67,JACK,"I've been to Nairobi before,",28,0.56
-68,JACK,"not… I mean, this Africa is different. I…",41,0.82
-69,JACK,my sightseeing was basically,28,0.56
-70,JACK,the inside of corporate boardrooms.,35,0.7
-71,MITCH,"So, uh,",7,0.14
-72,MITCH,"what is your business, my friend?",33,0.66
-73,JACK,I work for Exxon.,17,0.34
-74,MITCH,Ah…,3,0.06
-75,MITCH,Oil man.,8,0.16
-76,JACK,"Well, .",7,0.14
-77,LAUREN,Are you here on vacation?,25,0.5
-78,MITCH,"No, no, no, no. Uh… we… uh…",27,0.54
-79,MITCH,"we help run a community outreach program,",41,0.82
-80,MITCH,teaching locals how to thrive off their land.,45,0.9
-81,LAUREN,Good for you.,13,0.26
-82,ZOE,That's really cool.,19,0.38
-83,BILLY,That's really cool.,19,0.38
-84,JOE,"Jack, isn't that cool?",22,0.44
-85,JACK,"Zoe, Zoe.",9,0.18
-86,POLICE OFFICER,"Okay, you can now leave.",24,0.48
-87,JACK,Okay.,5,0.1
-88,JACK,Nice meeting you. Nice meeting you.,35,0.7
-89,CHARLIE,Thank you.,10,0.2
-90,BILLY,TIA and all that.,17,0.34
-91,ZOE,He looked great.,16,0.32
-92,BILLY,"You didn't even know him, Zoe.",30,0.6
-93,MITCH,"This country's gonna eat them alive. This… is the luxury Africa cruiser? This is actually the best luxury cruiser. I asked for a Mercedes. No, sir, just come, come. I ordered… This is the best cruiser. This is actually the best vehicle here in Kenya. …a Mercedes. This is the best one for you all. For your price.",313,6.26
-94,JACK,I--I don't even know what to say.,33,0.66
-95,NOAH,I like it.,10,0.2
-96,BILLY,Come on in. Come on in. Come on in.,35,0.7
-97,LAUREN,I think she's perfect.,22,0.44
-98,LAUREN,"I think we gotta name her. Hey, does the AC work? No. The AC does not work. Have a lovely holiday. Bye-bye.",107,2.14
-99,NOAH,How can they not have,21,0.42
-100,NOAH,a paved road from the airport?,30,0.6
-101,JACK,It's a developing nation. I guess they don't have,49,0.98
-102,JACK,the money for that kind of thing.,33,0.66
-103,JACK,"Oh, my gosh. Look, look, look, look.",36,0.72
-104,LAUREN,Wow. Wow. Wow. Look at that.,28,0.56
-105,ZOE,"Oh, my gosh.",12,0.24
-106,LAUREN,Aw.,3,0.06
-107,ZOE,"Oh, my God. They're real.",25,0.5
-108,ZOE,.,1,0.02
-109,NOAH,Just some zebras just hangin' out.,34,0.68
-110,NOAH,It's amazing.,13,0.26
-111,JACK,"Oh, cool.",9,0.18
-112,JACK,Welcome to Africa.,18,0.36
-113,NOAH,"Oh, wait.",9,0.18
-114,BILLY,"Wow. What have they got behind those gates, man?",48,0.96
-115,LAUREN,Here we are.,12,0.24
-116,JACK,This is the lodge.,18,0.36
-117,NOAH,"Whoa, this is where we're staying?",34,0.68
-118,BILLY,Whoa!,5,0.1
-119,BILLY,Home sweet home.,16,0.32
-120,BILLY,"Oh, yeah.",9,0.18
-121,STAFF MEMBERS,Hello.,6,0.12
-122,LAUREN,Jambo. Jambo.,13,0.26
-123,NOAH,Hello.,6,0.12
-124,STAFF MEMBER,"Welcome, .",10,0.2
-125,LAUREN,Thank you.,10,0.2
-126,STAFF MEMBER,Here we go.,11,0.22
-127,ZOE,Come on. Thank you.,19,0.38
-128,BILLY,Jambo. Jambo.,13,0.26
-129,JACK,Huh.,4,0.08
-130,LAUREN,"Oh, look at this view.",22,0.44
-131,LAUREN,"Oh, look at this room.",22,0.44
-132,LAUREN,Jack!,5,0.1
-133,JACK,Wow.,4,0.08
-134,LAUREN,Look at this.,13,0.26
-135,JACK,Huh!,4,0.08
-136,LAUREN,Beautiful.,10,0.2
-137,JACK,"Yeah, it should be for the price we paid. Wow.",46,0.92
-138,LAUREN,"Oh, Jack.",9,0.18
-139,JACK,Huh.,4,0.08
-140,JACK,"Do you see a WiFi password, huh?",32,0.64
-141,LAUREN,"Oh, Jack. Would you just relax?",31,0.62
-142,JACK,I will. I will. I just--,24,0.48
-143,JACK,I wanted to send a couple of emails first,41,0.82
-144,JACK,and then…,9,0.18
-145,JACK,I will relax.,13,0.26
-146,LAUREN,Hey.,4,0.08
-147,JACK,Huh?,4,0.08
-148,LAUREN,Still high.,11,0.22
-149,JACK,What?,5,0.1
-150,LAUREN,My levels.,10,0.2
-151,LAUREN,Still high from the travel.,27,0.54
-152,JACK,"Oh, wait.",9,0.18
-153,JACK,It's beautiful.,15,0.3
-154,LAUREN,It really is.,13,0.26
-155,JACK,"No, you are.",12,0.24
-156,JACK,You're always beautiful.,24,0.48
-157,LAUREN,Jack.,5,0.1
-158,BILLY,Ooh.,4,0.08
-159,ZOE,Ugh.,4,0.08
-160,ZOE,"Oh my God, wait.",16,0.32
-161,ZOE,Are we all sharing?,19,0.38
-162,ZOE,I thought we get our own rooms.,31,0.62
-163,NOAH,You think I'm happy about it?,29,0.58
-164,BILLY,This is not cool.,17,0.34
-165,ZOE,Fucking Jack.,13,0.26
-166,ZOE,He doesn't even get us our own rooms.,37,0.74
-167,NOAH,Stop calling him Jack.,22,0.44
-168,NOAH,Why don't you call him Dad anymore? It's weird.,47,0.94
-169,NOAH,"Well, you guys can fight over the car.",38,0.76
-170,ZOE,"No, no, no.",11,0.22
-171,NOAH,I'm not sleeping over there.,28,0.56
-172,LAUREN,"When I was a little girl,",25,0.5
-173,LAUREN,"I had this book about Africa,",29,0.58
-174,LAUREN,and this mountain was on the cover of it.,41,0.82
-175,LAUREN,And I used to stare at it for hours,35,0.7
-176,LAUREN,just wishing I was there.,25,0.5
-177,LAUREN,And now I'm finally here.,25,0.5
-178,LAUREN,I just can't believe it.,24,0.48
-179,JACK,"Hey, I'm sorry.",15,0.3
-180,JACK,I'm sorry if I've been…,23,0.46
-181,LAUREN,An asshole?,11,0.22
-182,JACK,"I was gonna say distant. But asshole works, yeah.",49,0.98
-183,LAUREN,"Sorry, Jack. I know-- I can tell you've got",43,0.86
-184,LAUREN,a lot on your mind.,19,0.38
-185,LAUREN,"You know, you could share.",26,0.52
-186,JACK,I just want the last family vacation,36,0.72
-187,JACK,before Zoe goes off to college to be special.,45,0.9
-188,LAUREN,If she goes off to college.,27,0.54
-189,LAUREN,"You heard her, Jack.",20,0.4
-190,JACK,She's gonna go to college.,26,0.52
-191,JACK,"Who drops out of MIT to work in a vegan coffee shop,",52,1.04
-192,JACK,for crying out loud?,20,0.4
-193,JACK,Is she gonna throw her life away?,33,0.66
-194,LAUREN,"Well, I spent seven years in medical school",43,0.86
-195,LAUREN,and haven't worked in 15.,25,0.5
-196,LAUREN,She wants to find herself.,26,0.52
-197,JACK,She can find herself after college.,35,0.7
-198,JACK,"You know, you know what it is?",30,0.6
-199,JACK,It's that boyfriend of hers.,28,0.56
-200,JACK,That's who's doing this.,24,0.48
-201,JACK,"I mean, why is he even here, huh?",33,0.66
-202,LAUREN,"You want Zoe, you get Billy.",28,0.56
-203,LAUREN,That's young love.,18,0.36
-204,JACK,"Yeah, he's not that young.",26,0.52
-205,LAUREN,Same age difference as we were.,31,0.62
-206,JACK,Yeah. But you didn't make me cut all my hair off.,49,0.98
-207,JACK,Quit college.,13,0.26
-208,LAUREN,You never had long hair.,24,0.48
-209,LAUREN,"Look, he's a nice kid.",22,0.44
-210,LAUREN,He really likes Zoe. I like him.,32,0.64
-211,JACK,Yeah.,5,0.1
-212,JACK,You don't have to pay for him.,30,0.6
-213,LAUREN,"Gosh, can you just relax, Jack?",31,0.62
-214,LAUREN,Relax.,6,0.12
-215,JACK,Shoot.,6,0.12
-216,JACK,I stink. I'm gonna have a shower.,33,0.66
-217,BILLY,Lots of frogs.,14,0.28
-218,NOAH,"Oh, remember that little frog I had?",36,0.72
-219,NOAH,Ice Cream?,10,0.2
-220,ZOE,"Oh, yeah. Whatever happened to him?",35,0.7
-221,NOAH,I put him in my pocket and he died.,35,0.7
-222,ZOE,"Jesus, Noah.",12,0.24
-223,NOAH,I didn't mean to.,17,0.34
-224,BILLY,"Oh, little guy.",15,0.3
-225,BILLY,I found you.,12,0.24
-226,ZOE,"Oh, my God. Oh…",15,0.3
-227,BILLY,Do you know what this is?,25,0.5
-228,NOAH,Grass?,6,0.12
-229,BILLY,"No, my friend. Not grass.",25,0.5
-230,BILLY,This…,5,0.1
-231,BILLY,is salvia.,10,0.2
-232,ZOE,Salvia.,7,0.14
-233,BILLY,Also known as Lady Sally.,25,0.5
-234,BILLY,Used by many for its analgesic and antispasmodic properties.,60,1.2
-235,BILLY,"But most importantly, it gets you high as fuck.",47,0.94
-236,NOAH,I'm sure it's just a shrub.,27,0.54
-237,BILLY,"Guess we'll find out in, what?",30,0.6
-238,BILLY,Twenty minutes?,15,0.3
-239,NOAH,Zo!,3,0.06
-240,ZOE,What?,5,0.1
-241,NOAH,We're like a 100 miles from a hospital.,39,0.78
-242,ZOE,"Oh, my God. You sound like Jack. Ugh.",37,0.74
-243,NOAH,"You know, that actually makes him really upset",46,0.92
-244,NOAH,when you call him that.,23,0.46
-245,ZOE,He can take it.,15,0.3
-246,ZOE,It's fine.,10,0.2
-247,BILLY,"Come on, Zoe.",13,0.26
-248,NOAH,I'm actually going to do a workout,34,0.68
-249,NOAH,"with Dad before dinner,",23,0.46
-250,NOAH,doing like an African circuit thing…,36,0.72
-251,NOAH,Okay.,5,0.1
-252,LAUREN,You've been fired?,18,0.36
-253,JACK,You looked… you looked at my phone?,35,0.7
-254,JACK,That's an invasion of my--,26,0.52
-255,LAUREN,"Don't you dare, Jack.",21,0.42
-256,JACK,Give me my phone. Give me my phone. Give me my--,48,0.96
-257,LAUREN,What happened?,14,0.28
-258,JACK,Nothing. I wasn't fired. It was…,32,0.64
-259,JACK,it's administrative leave-- It is nothing.,42,0.84
-260,LAUREN,Jack! Stop it!,14,0.28
-261,JACK,Nothing happened. Okay?,23,0.46
-262,LAUREN,What happened?,14,0.28
-263,JACK,Nothing. I just-- there was a small problem,43,0.86
-264,JACK,with the Dakota pipeline and it…,32,0.64
-265,JACK,it's standard protocol,22,0.44
-266,JACK,to put the project manager on administrative leave,50,1.0
-267,JACK,while they clean it up.,23,0.46
-268,LAUREN,Clean it up? What?,18,0.36
-269,LAUREN,Was there a spill?,18,0.36
-270,JACK,A little bit. It was handled.,29,0.58
-271,JACK,"I mean, maybe a little late.",28,0.56
-272,LAUREN,Ho-- how bad was it? Why didn't you tell me?,44,0.88
-273,JACK,I did-- I didn't tell you because I wanted you,46,0.92
-274,JACK,"to enjoy this vacation, okay?",29,0.58
-275,JACK,God knows it costs enough.,26,0.52
-276,LAUREN,Wait… do we have to worry about money now? I--,46,0.92
-277,JACK,Things could get a little tight,31,0.62
-278,JACK,and we might need to tighten our belts a little after this. Yeah.,65,1.3
-279,LAUREN,Are you going to be fired?,26,0.52
-280,JACK,"No, I'm not going to be fired. Okay?",36,0.72
-281,JACK,"No, it's not like that. I…",26,0.52
-282,JACK,I don't think so.,17,0.34
-283,JACK,I'll go back as soon as they sort it out.,41,0.82
-284,JACK,Can I please have my phone?,27,0.54
-285,ZOE,"Wait, Billy. Wow.",17,0.34
-286,BILLY,Whoa.,5,0.1
-287,ZOE,Wow.,4,0.08
-288,ZOE,What is this place?,19,0.38
-289,BILLY,Wow.,4,0.08
-290,ZOE,So cool.,8,0.16
-291,ZOE,"Wait, Billy, look. Look at the Milky Way.",41,0.82
-292,ZOE,"Oh, my God. It's so cool.",25,0.5
-293,ZOE,You see this?,13,0.26
-294,ZOE,Oh.,3,0.06
-295,BILLY,"Hey, baby?",10,0.2
-296,ZOE,What?,5,0.1
-297,BILLY,You're the starlight queen.,27,0.54
-298,ZOE,Hm.,3,0.06
-299,LAUREN,"Oh, thank you.",14,0.28
-300,ZOE,That was so cool.,17,0.34
-301,ZOE,"Hey, come dance!",16,0.32
-302,ZOE,Come on.,8,0.16
-303,ZOE,Come and dance.,15,0.3
-304,ZOE,No? Okay.,9,0.18
-305,JACK,Let's go. Come on.,18,0.36
-306,JACK,Seven-eight-nine.,17,0.34
-307,JACK,"More pushups, let's go.",23,0.46
-308,JACK,"One-two-three, and now clap it out.",35,0.7
-309,JACK,Five-six-seven. Come on. Come on.,33,0.66
-310,JACK,"Hey, seven, seven.",18,0.36
-311,NOAH,"Oh, geez, Dad. Slow, slow. Come on.",35,0.7
-312,NOAH,Okay.,5,0.1
-313,JACK,"Hey, come on. One more set. One more set.",41,0.82
-314,NOAH,We've been going for like 10 minutes.,37,0.74
-315,NOAH,Jesus.,6,0.12
-316,JACK,"All right. All right, let's go.",31,0.62
-317,JACK,"Oh, okay. You get a break. You get 30 seconds. Let's go.",56,1.12
-318,NOAH,Dad…,4,0.08
-319,JACK,Huh?,4,0.08
-320,NOAH,Are you okay?,13,0.26
-321,JACK,"Yeah, I'm fine.",15,0.3
-322,NOAH,You and Mom got in a fight again.,33,0.66
-323,JACK,Twenty-five--,13,0.26
-324,JACK,"no, no, we're fine. Everything's good. We--",43,0.86
-325,JACK,We're fine.,11,0.22
-326,JACK,"I promise. How's your,",22,0.44
-327,JACK,"uh, relationship? How's your, uh…",33,0.66
-328,NOAH,Sam?,4,0.08
-329,JACK,How's Sam?,10,0.2
-330,NOAH,You don't have to ask. I know you don't… want to.,49,0.98
-331,JACK,No. I do. I do.,15,0.3
-332,JACK,I want to know how… how is he?,30,0.6
-333,NOAH,Fine?,5,0.1
-334,JACK,"He's not distracting you, is he?",32,0.64
-335,NOAH,"No, he's not distracting me.",28,0.56
-336,JACK,All right.,10,0.2
-337,JACK,"It's just, you know, it's… something that your coach said.",58,1.16
-338,NOAH,What?,5,0.1
-339,JACK,He was just checking if you were okay.,38,0.76
-340,JACK,"I mean, what with all the doctor's appointments",47,0.94
-341,JACK,that you've been going to over the last few weeks.,50,1.0
-342,JACK,The ones that conveniently fall between the hours,49,0.98
-343,JACK,"of 6 and 8 p.m., right in the middle of practice.",49,0.98
-344,JACK,"I mean, from where I'm standing,",32,0.64
-345,JACK,this thing is distracting you.,30,0.6
-346,NOAH,No. Sam is not a thing.,23,0.46
-347,JACK,You know what I'm saying.,25,0.5
-348,NOAH,"Yes, I do know what you're saying.",34,0.68
-349,NOAH,You wish that Sam was my girlfriend.,36,0.72
-350,NOAH,But he's not. He's my boy--,27,0.54
-351,JACK,That's not--,12,0.24
-352,JACK,Hey!,4,0.08
-353,JACK,I don't know. I don't know. But--,33,0.66
-354,NOAH,What is it?,11,0.22
-355,JACK,I don't know.,13,0.26
-356,JACK,What the hell happened?,23,0.46
-357,LAUREN,It was a hyena.,15,0.3
-358,LAUREN,He just walked right up here.,29,0.58
-359,LAUREN,Ran right up here.,18,0.36
-360,JACK,"Well, is-- is everyone okay?",28,0.56
-361,LAUREN,Everyone's fine.,16,0.32
-362,JACK,You okay? You okay?,19,0.38
-363,LAUREN,Yeah. Yeah.,11,0.22
-364,WOMAN,It came… it came tripping off of the trees.,43,0.86
-365,LAUREN,"Oh, wow.",8,0.16
-366,LAUREN,"Yeah, look at him. Yeah, he's right there.",42,0.84
-367,JACK,"Yeah, he's right there.",23,0.46
-368,MAN,Did you see that mangy looking dog like thing?,46,0.92
-369,LAUREN,"Oh, I thought he was pretty handsome.",37,0.74
-370,LUCAS,He was just looking for food.,29,0.58
-371,LUCAS,"No harm, everyone.",18,0.36
-372,ZOE,"Hey, are you okay?",18,0.36
-373,LAUREN,"It's a hyena, Noah.",19,0.38
-374,NOAH,"My God. But they're-- they're kind of dangerous, right?",55,1.1
-375,BILLY,"Well, they're scavengers, bro.",30,0.6
-376,BILLY,"Nature's trash cans, right?",27,0.54
-377,LUCAS,"That's true, Billy.",19,0.38
-378,LUCAS,But when alone is just harmless.,32,0.64
-379,LUCAS,"But if they're in a group, they're very dangerous.",50,1.0
-380,LUCAS,They can even kill a lion.,26,0.52
-381,LAUREN,Okay.,5,0.1
-382,LUCAS,"If found alone, this can do the magic.",38,0.76
-383,LUCAS,"It's all you need, really.",26,0.52
-384,LUCAS,That's okay. Just go back to having fun.,40,0.8
-385,JACK,"You know, uh, no hyenas in Bora Bora.",37,0.74
-386,JACK,Come on.,8,0.16
-387,ZOE,"Oh, thank you.",14,0.28
-388,LAUREN,"Jack, can you put that away?",28,0.56
-389,JACK,"Yeah, yeah.",11,0.22
-390,ZOE,Good morning.,13,0.26
-391,LAUREN,"Morning, honey.",15,0.3
-392,JACK,"Morning, sweetheart.",20,0.4
-393,ZOE,"So cool, Jack.",14,0.28
-394,JACK,What?,5,0.1
-395,ZOE,Mom. Why so early?,18,0.36
-396,LAUREN,"Adventure begins early, honey.",30,0.6
-397,LAUREN,Have some coffee to wake up.,28,0.56
-398,ZOE,Isn't there any adventure after 10 a.m.?,40,0.8
-399,LAUREN,Who's ready for the big five?,29,0.58
-400,NOAH,What's the big five?,20,0.4
-401,BILLY,"Ah, lion, elephant, buffalo, leopard and… shit.",47,0.94
-402,ZOE,Rhino.,6,0.12
-403,LAUREN,"Oh, I hope we see a rhino.",26,0.52
-404,LAUREN,"Jack, do you think we'll see a rhino?",37,0.74
-405,JACK,Thank you.,10,0.2
-406,JACK,We will. We will see a rhino.,29,0.58
-407,JACK,I promise.,10,0.2
-408,ZOE,Whoo. Big promise.,18,0.36
-409,LAUREN,We just have to find them.,26,0.52
-410,JACK,What the brochure said to us.,29,0.58
-411,ZOE,Obviously that wouldn't lie.,28,0.56
-412,JACK,Never.,6,0.12
-413,LAUREN,Wow.,4,0.08
-414,JACK,"Oh, my goodness. Okay.",22,0.44
-415,LAUREN,"What do you feel, Jack?",23,0.46
-416,JACK,I feel like… I feel like we're in a--,37,0.74
-417,LAUREN,"Yeah, well.",11,0.22
-418,LAUREN,Get ready for our day.,22,0.44
-419,LUCAS,"Good morning, Halsey family.",28,0.56
-420,ALL,Good morning. Good morning.,27,0.54
-421,LUCAS,And what do you have planned for this glorious day?,51,1.02
-422,ALL,A safari.,9,0.18
-423,LUCAS,Oh. Um…,7,0.14
-424,LAUREN,Is something wrong?,19,0.38
-425,LUCAS,"No, not at all.",15,0.3
-426,LUCAS,Could I please have a word with you?,36,0.72
-427,JACK,"Yeah, of course, of course.",27,0.54
-428,LUCAS,"Listen, Mr. Halsey.",19,0.38
-429,LUCAS,The safari is not part of your particular package.,50,1.0
-430,LUCAS,"If you recall, when you booked, you canceled all the extras.",60,1.2
-431,JACK,"Yes, yes, that's right. I-I did, didn't I.",42,0.84
-432,LUCAS,Of course.,10,0.2
-433,LUCAS,But if you'd like to pay for the extras now…,44,0.88
-434,JACK,And how much would that be?,27,0.54
-435,JACK,Great news.,11,0.22
-436,JACK,We get to do our own safari today.,34,0.68
-437,LAUREN,What?,5,0.1
-438,JACK,"Yeah, yeah. Our friend Lucas back there,",40,0.8
-439,JACK,he just told me we--,20,0.4
-440,JACK,"if we want the best experience possible,",40,0.8
-441,JACK,we gotta go into the park on our own.,37,0.74
-442,NOAH,That… doesn't sound… right.,27,0.54
-443,JACK,It is. It is.,13,0.26
-444,LAUREN,Don't we need a guard?,22,0.44
-445,ZOE,"Yeah, and guns.",15,0.3
-446,JACK,"No, no, no, all that stuff is just fluff. It's extra.",53,1.06
-447,JACK,It's just one big safari park in there.,39,0.78
-448,JACK,"Besides, we have our van and our map.",37,0.74
-449,JACK,And we get to do it together. It'll be fun.,43,0.86
-450,JACK,"Our big five finds their big five, right?",41,0.82
-451,BILLY,Yeah.,5,0.1
-452,JACK,Prrrr. Right. Come on. Let's go. Let's go. Come on.,51,1.02
-453,TOURISTS,Bye.,4,0.08
-454,BILLY,Bye.,4,0.08
-455,FEMALE TOURIST,Bye. Have fun.,14,0.28
-456,JACK,Bye-bye. Have a good one.,25,0.5
-457,NOAH,We have to try. Let's see.,26,0.52
-458,BILLY,"One, two, three.",16,0.32
-459,LAUREN,"Oh, my God. Oh, that's great, guys.",35,0.7
-460,NOAH,Cool.,5,0.1
-461,LAUREN,This is gonna work out just fine.,33,0.66
-462,ZOE,"Plastic water bottles, Jack?",28,0.56
-463,ZOE,They have glass ones here.,26,0.52
-464,ZOE,Here they actually care about the environment.,46,0.92
-465,BILLY,"Yeah, you know, the main product",32,0.64
-466,BILLY,"of the water bottle industry is plastic. Not water, Jack.",57,1.14
-467,JACK,Excuse me. Excuse me.,21,0.42
-468,ZOE,You know that?,14,0.28
-469,JACK,Thank you.,10,0.2
-470,STAFF MEMBER,You're welcome.,15,0.3
-471,JACK,"Did you know that, honey?",25,0.5
-472,LAUREN,"It's true, honey.",17,0.34
-473,LAUREN,Too much plastic in the world.,30,0.6
-474,LAUREN,Okay. Are we good to go?,24,0.48
-475,NOAH,Yeah. Got your insulin?,23,0.46
-476,LAUREN,"Yes, I do.",10,0.2
-477,LAUREN,Are we ready for an adventure?,30,0.6
-478,ZOE,Yeah.,5,0.1
-479,BILLY,Mm-hm.,6,0.12
-480,JACK,"All right, here we go.",22,0.44
-481,LAUREN,Let's do this.,14,0.28
-482,JACK,"Oh, shit. I forgot my sunglasses.",33,0.66
-483,JACK,That's… it's gonna be what it's gonna be.,41,0.82
-484,LAUREN,Oh… are you sure?,17,0.34
-485,JACK,It's fine. Whoo. Do not get out of your vehicle at any time.,60,1.2
-486,NOAH,"Oh, this is cool. Do not exceed 30 kilometers an hour. Do not litter.",69,1.38
-487,JACK,Here we are.,12,0.24
-488,ZOE,Okay.,5,0.1
-489,BILLY,Okay.,5,0.1
-490,LAUREN,"Zoe, are you seeing this?",25,0.5
-491,JACK,"Wow, wow, wow.",14,0.28
-492,LAUREN,I'm so excited.,15,0.3
-493,JACK,I can't believe it. Okay. I'm a little bit excited.,51,1.02
-494,MAN,How are you? .,14,0.28
-495,NOAH,"Oh, she's gonna try and sell you something, Mom.",48,0.96
-496,LAUREN,They're so pretty!,18,0.36
-497,LAUREN,"Zoe, are you seeing this?",25,0.5
-498,ZOE,No. Mom.  like 20 bucks.,24,0.48
-499,STAFF MEMBER,Hello.,6,0.12
-500,JACK,"Hi there, hi. Good morning.",27,0.54
-501,STAFF MEMBER,"How are you, sir?",17,0.34
-502,JACK,"Hi, there. Hi. Good morning. Ah, jambo.",39,0.78
-503,BILLY,That one was late.,18,0.36
-504,ZOE,"Mom, you gotta get one.",23,0.46
-505,STAFF MEMBER,Welcome to Amboseli.,20,0.4
-506,WOMAN,"Please, please.",15,0.3
-507,NOAH,Did you bring Kenyan money?,27,0.54
-508,LAUREN,They look like this.,20,0.4
-509,JACK,What are you doing?,19,0.38
-510,JACK,What are you doing?,19,0.38
-511,LAUREN,"Shh. Jack, come on.",19,0.38
-512,LAUREN,Did you bring--,15,0.3
-513,JACK,We don't need a belt.,21,0.42
-514,LAUREN,It's so beautiful. This one was made here.,42,0.84
-515,NOAH,Hi.,3,0.06
-516,BILLY,.,1,0.02
-517,TOURIST,"Hey, what's going on?",21,0.42
-518,JACK,What do we need a belt for?,27,0.54
-519,JACK,"Don't-- don't waste our money, hon.",35,0.7
-520,LAUREN,They're made here.,18,0.36
-521,JACK,Made-- made here.,17,0.34
-522,JACK,Made in China.,14,0.28
-523,NOAH,"Oh, no thanks.",14,0.28
-524,LAUREN,Wow. What's going on over there?,32,0.64
-525,ZOE,Why is he--,11,0.22
-526,BILLY,…poachers.,10,0.2
-527,LAUREN,I thought they said poaching wasn't really a thing here.,56,1.12
-528,NOAH,They don't look like poachers.,30,0.6
-529,ZOE,And what are poachers supposed to look like?,44,0.88
-530,NOAH,Not tourists.,13,0.26
-531,BILLY,"Those bastards kill, like,",26,0.52
-532,BILLY,"a 1,000 rhinos a year.",22,0.44
-533,ZOE,Holy shit. That's three rhinos a day.,37,0.74
-534,JACK,"That's quick math, hon.",23,0.46
-535,LAUREN,"Wait, so you don't think we'll see a rhino?",43,0.86
-536,ZOE,"You don't have to sound too shocked, Jack.",42,0.84
-537,BILLY,"Nah, sorry, Mrs. H.",19,0.38
-538,BILLY,They're as rare as pink and fluffy unicorn shit.,48,0.96
-539,JACK,"Hey, excuse me. Excuse me. Do you mind?",39,0.78
-540,STAFF MEMBER,One minute.,11,0.22
-541,STAFF MEMBER,Please wait.,12,0.24
-542,JACK,"Excuse me, sir. Do you mind if--",32,0.64
-543,JACK,do you mind if we just go through?,34,0.68
-544,LAUREN,"Oh, my God.",11,0.22
-545,NOAH,Holy shit.,10,0.2
-546,LAUREN,"Jack. Jack, what are you doing?",31,0.62
-547,JACK,You wanna go on a safari?,25,0.5
-548,JACK,I'm gonna take you on a gosh darn safari.,41,0.82
-549,LAUREN,Jack! Jack! Jack!,17,0.34
-550,JACK,Sometimes you have to break the rules.,38,0.76
-551,JACK,We'll pay when we come out.,27,0.54
-552,NOAH,Yeah!,5,0.1
-553,ZOE,Are these the right roads?,26,0.52
-554,ZOE,I don't see any animals.,24,0.48
-555,ZOE,We did come to the right place.,31,0.62
-556,ZOE,Right?,6,0.12
-557,JACK,"There's not much here, is there?",32,0.64
-558,LAUREN,"Well, you know, it's not a zoo.",31,0.62
-559,LAUREN,"I mean, they're here. They're just not close.",45,0.9
-560,LAUREN,Jack.,5,0.1
-561,JACK,What?,5,0.1
-562,LAUREN,What are you doing?,19,0.38
-563,NOAH,We're not allowed that way.,27,0.54
-564,JACK,I bet it loops back to the main road.,37,0.74
-565,LAUREN,What makes you think that?,26,0.52
-566,JACK,Go check the map.,17,0.34
-567,NOAH,There's no sign.,16,0.32
-568,JACK,"Look, your mom wants to see a rhino.",36,0.72
-569,JACK,I'm gonna find her a rhino.,27,0.54
-570,JACK,This… I will make happen.,25,0.5
-571,ZOE,"All about breaking the rules today, huh?",40,0.8
-572,JACK,Looks like it.,14,0.28
-573,JACK,"Hey, if you see a traffic cop, let me know.",43,0.86
-574,JACK,Off-road adventure.,19,0.38
-575,JACK,All right. Watch your head.,27,0.54
-576,JACK,Watch your heads. Just a little--,33,0.66
-577,JACK,little  in here.,16,0.32
-578,BILLY,"Oh. Oh,",7,0.14
-579,JACK,All right. Here we go.,22,0.44
-580,LAUREN,"Any water back there, guys?",27,0.54
-581,ZOE,Yeah.,5,0.1
-582,BILLY,Here you go.,12,0.24
-583,BILLY,"Here you go, Mrs. H.",20,0.4
-584,LAUREN,Thank you.,10,0.2
-585,BILLY,I know.,7,0.14
-586,BILLY,I spy with my little eye something beginning with…,50,1.0
-587,BILLY,Holy shit.,10,0.2
-588,ZOE,What?,5,0.1
-589,JACK,What is it?,11,0.22
-590,BILLY,"No, no. Over there.",19,0.38
-591,NOAH,"I don't think that's how the game works, Billy.",47,0.94
-592,BILLY,"No, no. Over there. Over there.",31,0.62
-593,ZOE,Where?,6,0.12
-594,BILLY,There.,6,0.12
-595,ZOE,What?,5,0.1
-596,BILLY,The dead thing in the tree right there.,39,0.78
-597,ZOE,Ugh.,4,0.08
-598,NOAH,"What is that, a deer?",21,0.42
-599,BILLY,Maybe an antelope or something?,31,0.62
-600,ZOE,How did it even get up there?,29,0.58
-601,NOAH,Jump?,5,0.1
-602,ZOE,And get stuck?,14,0.28
-603,JACK,Can they climb?,15,0.3
-604,LAUREN,"No, I don't think so.",21,0.42
-605,JACK,Geez.,5,0.1
-606,ZOE,That's gross.,13,0.26
-607,ZOE,"Billy, that's gross.",20,0.4
-608,BILLY,Gross?,6,0.12
-609,ZOE,It's dead.,10,0.2
-610,BILLY,It's… it's wildlife.,20,0.4
-611,BILLY,There's flies there. They're alive.,35,0.7
-612,ZOE,Billy.,6,0.12
-613,BILLY,I see some maggots over there and some flies.,45,0.9
-614,JACK,"All right, come on. Hold on.",28,0.56
-615,NOAH,"Wait, wait. Can I get a picture?",32,0.64
-616,JACK,"No, you can't get a picture, Noah.",34,0.68
-617,ZOE,Ew. Are you a serial killer?,28,0.56
-618,NOAH,What?,5,0.1
-619,ZOE,Don't take a picture of that.,29,0.58
-620,NOAH,We're not gonna see another animal in a tree.,45,0.9
-621,JACK,I'm sure we will see lots of dead animals.,42,0.84
-622,NOAH,I'm gonna send it to Sam.,25,0.5
-623,NOAH,Dad?,4,0.08
-624,JACK,"Yeah, bud.",10,0.2
-625,NOAH,Can I drive for a bit?,22,0.44
-626,JACK,"Um. Well, it's a stick.",23,0.46
-627,NOAH,I can drive a stick.,20,0.4
-628,JACK,"I don't know, pal.",18,0.36
-629,JACK,I don't think the insurance will cover--,40,0.8
-630,NOAH,What? You said you were all about breaking the rules today.,59,1.18
-631,LAUREN,"Come on, Jack. Let him drive.",29,0.58
-632,JACK,"Okay, all right. All right, bud. Yeah, you can drive.",53,1.06
-633,ZOE,"Well, that's us dead.",21,0.42
-634,NOAH,I'm actually a really good driver.,34,0.68
-635,ZOE,Mm. I think the back of Dad's Porsche,37,0.74
-636,ZOE,would disagree with that.,25,0.5
-637,NOAH,That was not my fault. I buffed it out.,39,0.78
-638,NOAH,At least I have a license.,26,0.52
-639,ZOE,"Hey, I can drive.",17,0.34
-640,BILLY,She can drive.,14,0.28
-641,ZOE,I can drive.,12,0.24
-642,NOAH,Not according to the state of California.,41,0.82
-643,LAUREN,"Guys, guys, guys.",17,0.34
-644,ZOE,That's just a piece of paper.,29,0.58
-645,NOAH,It's actually--,15,0.3
-646,LAUREN,"Noah, come on up here.",22,0.44
-647,JACK,Want to do it here?,19,0.38
-648,LAUREN,I need my fixin'.,17,0.34
-649,JACK,All right. All right. Hold on.,30,0.6
-650,JACK,All right.,10,0.2
-651,LAUREN,…my fix.,8,0.16
-652,JACK,"All right. Hop up here, bud.",28,0.56
-653,JACK,There you go.,13,0.26
-654,JACK,"All right, big guy. There you go. Okay.",39,0.78
-655,JACK,"All right. No more than 10, okay?",33,0.66
-656,NOAH,What? That's walking.,21,0.42
-657,BILLY,Do it.,6,0.12
-658,BILLY,"Come on, Noah. Put your feet on the gas.",40,0.8
-659,ZOE,No. 20.,7,0.14
-660,LAUREN,Twenty. No. no.,15,0.3
-661,JACK,Shut up. Okay.,14,0.28
-662,JACK,"Both-- both feet down, right. Clutch all the way",48,0.96
-663,JACK,to the floor.,13,0.26
-664,JACK,"Over and up. Now, a little bit of gas.",38,0.76
-665,JACK,Let go of that clutch.,22,0.44
-666,JACK,That's okay. That's okay.,25,0.5
-667,ZOE,"Oh, wow. Such a good driver.",28,0.56
-668,BILLY,"Way to go, Noah.",16,0.32
-669,ZOE,Such a good driver.,19,0.38
-670,LAUREN,"Yeah, there we go.",18,0.36
-671,BILLY,Now we're gonna see some wildlife.,34,0.68
-672,NOAH,We don't want any more zebra. Okay?,35,0.7
-673,ZOE,Yeah.,5,0.1
-674,LAUREN,Are we bored with zebra?,24,0.48
-675,LAUREN,"Gosh, I can't believe--",23,0.46
-676,LAUREN,Yeah. Whoever thought we'd be bored by a zebra.,47,0.94
-677,JACK,"Bored by zebras. Bored by zebras, that's right.",47,0.94
-678,LAUREN,Bored by zebras. Right?,23,0.46
-679,JACK,"That is amazing. Billy, Zoe, not again.",39,0.78
-680,LAUREN AND NOAH,"Oh, my!",7,0.14
-681,ZOE,"What the fuck, Noah!",20,0.4
-682,LAUREN,Oh my… gosh.,12,0.24
-683,LAUREN,"My gosh! Oh, my…",16,0.32
-684,ZOE,"Oh, wow.",8,0.16
-685,JACK,"Got you a rhino, baby.",22,0.44
-686,LAUREN,"Oh, yes, you did, baby. This is incredible.",43,0.86
-687,LAUREN,Wow. It's gorgeous.,19,0.38
-688,JACK,Wow!,4,0.08
-689,LAUREN,"Hey guys, can we get a little closer?",37,0.74
-690,LAUREN,Just a little bit.,18,0.36
-691,NOAH,Can I?,6,0.12
-692,LAUREN,Please.,7,0.14
-693,JACK,"Yeah, yeah, go ahead. Just put some nice--",42,0.84
-694,LAUREN,"Oh, wow. This is unbelievable.",30,0.6
-695,LAUREN,"Just a little, ah! Giant animal with a spike on its face.",57,1.14
-696,BILLY,What could possibly go wrong?,29,0.58
-697,NOAH,"Mom, are you getting the picture?",33,0.66
-698,LAUREN,"I mean, never in my wildest dreams.",35,0.7
-699,LAUREN,Are you seeing--,16,0.32
-700,LAUREN,"Oh, wow.",8,0.16
-701,LAUREN,"Oh, wow.",8,0.16
-702,LAUREN,"Zoe, look at this. Is this--",28,0.56
-703,LAUREN,"is that a baby? Look, is that a baby?",37,0.74
-704,ZOE,"Oh, my God. That is so cute.",28,0.56
-705,LAUREN,Hi! Look at the baby.,21,0.42
-706,BILLY,"Wait, we shouldn't be getting",29,0.58
-707,BILLY,between them. Right?,20,0.4
-708,JACK,"Yeah, I can't believe",21,0.42
-709,JACK,"I'm saying this, but I agree with you, Billy.",45,0.9
-710,JACK,"Back, back it up just a bit.",28,0.56
-711,NOAH,"Wait, I'm not--",15,0.3
-712,NOAH,"Wait, I'm not good at reversing.",32,0.64
-713,JACK,"Lauren, Lauren. Would you get down, honey?",42,0.84
-714,NOAH,Is that in reverse?,19,0.38
-715,JACK,That's in reverse. There you go. There you go.,46,0.92
-716,ZOE,"Oh, my God. Noah, back it up.",29,0.58
-717,ZOE,"Noah, back it up!",17,0.34
-718,JACK,It's okay.,10,0.2
-719,NOAH,"I'm sorry. Sorry, okay?",23,0.46
-720,ZOE,"Oh, my gosh. Stop it. Noah!",27,0.54
-721,NOAH,"I'm not good at reversing, I'm sorry.",37,0.74
-722,JACK,Slowly. There you go.,21,0.42
-723,LAUREN,"Oh, my gosh. Oh, my gosh.",25,0.5
-724,NOAH,"Oh, my God! Dad.",16,0.32
-725,JACK,"No, you're okay.",16,0.32
-726,LAUREN,"Drive! Jack, drive.",19,0.38
-727,JACK,"Oh, oh, my gosh. Oh, my gosh. It's okay. It's okay.",51,1.02
-728,JACK,She's done. She's done.,23,0.46
-729,JACK,She's not done. She's not done.,31,0.62
-730,LAUREN,Jack!,5,0.1
-731,BILLY,She gone?,9,0.18
-732,JACK,Shh… shh…,9,0.18
-733,JACK,No! No! No!,11,0.22
-734,JACK,"Oh, my God!",11,0.22
-735,LAUREN,Everybody okay?,15,0.3
-736,LAUREN,Noah. Zoe.,10,0.2
-737,ZOE,"Oh, fuck!",9,0.18
-738,NOAH,She's gone.,11,0.22
-739,NOAH,She's gone. She's gone. She's gone.,35,0.7
-740,NOAH,Are you okay?,13,0.26
-741,NOAH,She's gone. She's gone. She's gone.,35,0.7
-742,LAUREN,"She's gone, Jack.",17,0.34
-743,LAUREN,You got-- you got tagged.,25,0.5
-744,JACK,Did it hit the femoral?,23,0.46
-745,LAUREN,"Ah, no. It did not hit the femoral.",35,0.7
-746,LAUREN,"If it did, you'd be dead by now.",32,0.64
-747,LAUREN,But you know what? You're bleeding badly.,41,0.82
-748,JACK,That's okay. Is everyone okay?,30,0.6
-749,LAUREN,"I'll be right there, Zoe.",25,0.5
-750,LAUREN,You hang in there.,18,0.36
-751,BILLY,"Okay, okay.",11,0.22
-752,NOAH,Zoe?,4,0.08
-753,ZOE,"Yeah, yeah. Just stop touching it.",34,0.68
-754,JACK,"Honey, are you okay, baby?",26,0.52
-755,LAUREN,Okay. Put all your weight on that.,34,0.68
-756,JACK,Okay. That's great.,19,0.38
-757,LAUREN,All right. Okay.,16,0.32
-758,ZOE,My head--,9,0.18
-759,NOAH,Are you okay?,13,0.26
-760,JACK,"Noah? Are you okay, buddy?",26,0.52
-761,LAUREN,There's so much blood.,22,0.44
-762,NOAH,"I'm all right, Dad.",19,0.38
-763,LAUREN,So much blood.,14,0.28
-764,JACK,I think-- I think it's bad.,27,0.54
-765,ZOE,Mom… Mom…,9,0.18
-766,NOAH,"Mom, what's happening?",22,0.44
-767,LAUREN,"Are you all right, Noah?",24,0.48
-768,LAUREN,Are you okay? Okay. All right.,30,0.6
-769,LAUREN,"Okay, Zoe, here I come.",23,0.46
-770,ZOE,"Mom, it's broken.",17,0.34
-771,LAUREN,It might not be broken.,23,0.46
-772,ZOE,It is broken. I know it's broken.,33,0.66
-773,LAUREN,Let me see. Let me see.,23,0.46
-774,NOAH,"Dad, what happened?",19,0.38
-775,ZOE,--fucking thing off me!,23,0.46
-776,LAUREN,Okay. All right.,16,0.32
-777,ZOE,Is it broken?,13,0.26
-778,LAUREN,Remember what happened when you fell off your bike?,51,1.02
-779,ZOE,Yeah. I remember how much it hurt.,34,0.68
-780,LAUREN,"Okay, I remember how brave you were.",36,0.72
-781,ZOE,No. I wasn't brave.,19,0.38
-782,ZOE,"I'm not, Mom. What! Billy--",27,0.54
-783,LAUREN,Brace it from behind. There we go.,34,0.68
-784,ZOE,"Oh, fuck!",9,0.18
-785,LAUREN,I'm fine. I'm fine. Jack?,25,0.5
-786,JACK,"Ah, yeah, yeah.",15,0.3
-787,LAUREN,Okay.,5,0.1
-788,JACK,Thank you. Okay.,16,0.32
-789,LAUREN,"Baby, I would have done the same.",33,0.66
-790,JACK,That's okay. It's okay.,23,0.46
-791,JACK,You guys all right?,19,0.38
-792,LAUREN,"Are you okay, Zoe?",18,0.36
-793,NOAH,If I would've-- if I would've just backed up…,45,0.9
-794,NOAH,faster.,7,0.14
-795,ZOE,Been able to drive faster?,26,0.52
-796,JACK,"It's done now. It's done, all right?",36,0.72
-797,LAUREN,"Zoe, lay off.",13,0.26
-798,BILLY,"Ah, jeez.",9,0.18
-799,JACK,"Well, let's, uh, let's see if we can right this thing.",54,1.08
-800,JACK,See if it still drives.,23,0.46
-801,ZOE,What? How are we gonna do that?,31,0.62
-802,LAUREN,"Yeah. How are we gonna do that, Jack?",37,0.74
-803,JACK,We're gonna act like a family.,30,0.6
-804,JACK,All right. We're gonna work together.,37,0.74
-805,BILLY,"Yeah, we got to try, man.",25,0.5
-806,JACK,Right.,6,0.12
-807,JACK,"All right, let's get some legs and arms on each corner.",55,1.1
-808,NOAH,"Dad, this thing's not gonna move.",33,0.66
-809,BILLY,.,1,0.02
-810,BILLY,"On three, right?",16,0.32
-811,JACK,Yep.,4,0.08
-812,ALL,"One, two, three.",16,0.32
-813,LAUREN,"Well, we tried.",15,0.3
-814,NOAH,Let me just get my phone.,25,0.5
-815,NOAH,Where's my phone? We can call for help.,39,0.78
-816,JACK,Come on.,8,0.16
-817,NOAH,Ah! I don't have any signal.,28,0.56
-818,LAUREN,"Hey, guys, stay close.",22,0.44
-819,LAUREN,"Don't go too far, okay? Noah?",29,0.58
-820,ZOE,Yeah. I don't .,15,0.3
-821,LAUREN,"Well, I mean, let's stay close to each other",44,0.88
-822,LAUREN,and the van.,12,0.24
-823,NOAH,Does anybody have a signal?,27,0.54
-824,BILLY,"Here you go, Mr. H.",19,0.38
-825,JACK,"Thanks, Billy.",14,0.28
-826,JACK,It's gonna cost a fortune.,26,0.52
-827,LAUREN,"The important thing is everybody's alive, okay?",47,0.94
-828,LAUREN,Insurance will cover it.,24,0.48
-829,LAUREN,Te-- tell me you got insurance. You got insurance?,50,1.0
-830,JACK,I got insurance. Yeah.,22,0.44
-831,LAUREN,Great.,6,0.12
-832,JACK,Fully comp was expensive.,25,0.5
-833,LAUREN,What-- what… what are we gonna do?,34,0.68
-834,LAUREN,"We've got no car, no signal.",28,0.56
-835,LAUREN,What are we gonna do?,21,0.42
-836,JACK,I… don't know. Do you?,22,0.44
-837,LAUREN,No. No. I don't.,16,0.32
-838,JACK,Then how about… how about a little equality?,44,0.88
-839,JACK,Because I'm no more equipped to deal with any of this,53,1.06
-840,JACK,than any of you.,16,0.32
-841,JACK,"Besides, someone will find us. Someone will realize",51,1.02
-842,JACK,that we haven't checked back into the lodge.,44,0.88
-843,ZOE,"No, they won't.",15,0.3
-844,ZOE,You drove through the gate without registering.,47,0.94
-845,ZOE,Do you remember?,16,0.32
-846,ZOE,No one knows that we're here.,29,0.58
-847,NOAH,"Okay, so we go back out",23,0.46
-848,NOAH,onto one of the main roads and get some help.,45,0.9
-849,NOAH,"I mean, there were cars that were passing by.",45,0.9
-850,LAUREN,We can't go walking through the bush.,37,0.74
-851,LAUREN,That's crazy.,13,0.26
-852,ZOE,Aren't you supposed to wait,27,0.54
-853,ZOE,by where the accident happened?,31,0.62
-854,BILLY,That's right.,13,0.26
-855,ZOE,"That's what they teach you. Wait, and then someone comes.",57,1.14
-856,BILLY,On a closed back road?,22,0.44
-857,NOAH,"Yeah, exactly. How is anyone gonna find us here?",48,0.96
-858,BILLY,We start a fire.,16,0.32
-859,ZOE,That's a good idea.,19,0.38
-860,NOAH,"Billy, can you start a fire?",28,0.56
-861,BILLY,I saw it on TV.,15,0.3
-862,BILLY,Naked and Afraid.,17,0.34
-863,BILLY,"You know, they do it all the time.",34,0.68
-864,BILLY,Rub sticks together.,20,0.4
-865,ZOE,"Yeah, you can start a fire. Just take the battery wires",55,1.1
-866,ZOE,from the sparkplug and make a short circuit.,44,0.88
-867,ZOE,Total fuck.,11,0.22
-868,NOAH,How are you gonna do that?,26,0.52
-869,ZOE,"Yeah, I know, the current hasn't stopped",40,0.8
-870,ZOE,because the terminal's fucked.,30,0.6
-871,JACK,"You know, that's not as dumb as it sounds, sweetheart.",54,1.08
-872,ZOE,"Oh, I'm sorry. Did it sound dumb?",33,0.66
-873,JACK,"Geez, babe.",11,0.22
-874,ZOE,"Oh, my God, Mom?",16,0.32
-875,JACK,Honey?,6,0.12
-876,BILLY,You all right?,14,0.28
-877,LAUREN,I'm fine. I'm just a little…,28,0.56
-878,LAUREN,a little anxious. Ah.,21,0.42
-879,BILLY,"You're shaking, Mrs. H. Are you cold?",37,0.74
-880,ZOE,She's not cold. It's 500 fucking degrees.,41,0.82
-881,JACK,Are you cold?,13,0.26
-882,LAUREN,"No, I, uh…",10,0.2
-883,LAUREN,could someone get my insulin?,29,0.58
-884,JACK,Okay.,5,0.1
-885,ZOE,Noah.,5,0.1
-886,JACK,"It's in her bag, Noah.",22,0.44
-887,NOAH,Okay.,5,0.1
-888,JACK,.,1,0.02
-889,NOAH,Where is it?,12,0.24
-890,JACK,It's in her little bag.,23,0.46
-891,JACK,Her little purse that she wore.,31,0.62
-892,JACK,"That's it. That's it, bud.",26,0.52
-893,JACK,It's a black… it's a black purse.,33,0.66
-894,LAUREN,I'm fine.,9,0.18
-895,JACK,"There you go, bud.",18,0.36
-896,JACK,There you go. There you go.,27,0.54
-897,JACK,You're kidding me.,18,0.36
-898,LAUREN,No. I'll be fine.,17,0.34
-899,LAUREN,"My glucose levels are high so I'll feel a little rough,",55,1.1
-900,LAUREN,but I'll be… maybe a little water.,34,0.68
-901,LAUREN,"Thanks, Billy.",14,0.28
-902,BILLY,No water.,9,0.18
-903,LAUREN,What?,5,0.1
-904,JACK,We brought water.,17,0.34
-905,BILLY,The glass bottles broke.,24,0.48
-906,JACK,"Oh, my gosh.",12,0.24
-907,NOAH,"Oh, that's-- that's great. Save the planet.",43,0.86
-908,ZOE,Shut up.,8,0.16
-909,BILLY,"Come on, dude.",14,0.28
-910,LAUREN,"Guys, please stop.",18,0.36
-911,LAUREN,Not now.,8,0.16
-912,JACK,Okay. Okay.,11,0.22
-913,LAUREN,We've got some time. About a half a day.,40,0.8
-914,BILLY,Are you all right?,18,0.36
-915,ZOE,Diabetic ketoacidosis.,22,0.44
-916,BILLY,What does that mean?,20,0.4
-917,ZOE,"It means in about eight hours,",30,0.6
-918,ZOE,she's gonna be in a coma.,25,0.5
-919,ZOE,And then…,9,0.18
-920,BILLY,"Oh, geez.",9,0.18
-921,JACK,"Hey, hey, there's something over there.",39,0.78
-922,BILLY,What did the guy at the lodge say?,34,0.68
-923,BILLY,"One is not a problem, right?",28,0.56
-924,JACK,Right. Right.,13,0.26
-925,BILLY,Okay. I got this.,17,0.34
-926,ZOE,Billy.  Billy.,14,0.28
-927,LAUREN,Don't.,6,0.12
-928,BILLY,Go on.,6,0.12
-929,BILLY,Go on.,6,0.12
-930,BILLY,"Hey, fuck right off, you mangy half dog.",40,0.8
-931,BILLY,I didn't think that would actually work.,40,0.8
-932,BILLY,You gotta get primal!,21,0.42
-933,JACK,"Guys, guys, guys.",17,0.34
-934,NOAH,Billy.,6,0.12
-935,JACK,"Hey, Billy.",11,0.22
-936,ZOE,"Oh, shit. Billy.",16,0.32
-937,JACK,Get in the van. Get in the van.,31,0.62
-938,BILLY,"Oh, shit.",9,0.18
-939,JACK,Get in the van. Get in.,23,0.46
-940,JACK,"Get in the van. Guys, get in the van.",37,0.74
-941,JACK,Come here. Get in. Come on. Get in.,35,0.7
-942,LAUREN,"Billy, get in.",14,0.28
-943,NOAH,What are we gonna do?,21,0.42
-944,LAUREN,Just keep still and be quiet.,29,0.58
-945,ZOE,Billy.,6,0.12
-946,JACK,I think they're gone.,21,0.42
-947,JACK,We're gonna be okay.,20,0.4
-948,JACK,Hey. Are you okay?,18,0.36
-949,LAUREN,Yeah. It's just hot.,20,0.4
-950,NOAH,Dad.,4,0.08
-951,NOAH,Does the AC work?,17,0.34
-952,JACK,Well…,5,0.1
-953,JACK,"Nope. No, it still doesn't work.",32,0.64
-954,LAUREN,It's still not working.,23,0.46
-955,JACK,Still not working.,18,0.36
-956,ZOE,"Mom, you got to get in the shade.",33,0.66
-957,BILLY,"Oh, wait. We can make a sunshade",32,0.64
-958,BILLY,out of this blanket.,20,0.4
-959,BILLY,"Give me a hand, Noah.",21,0.42
-960,JACK,Take it through here and trap it in that window.,48,0.96
-961,ZOE,"What are you doing, Mom?",24,0.48
-962,LAUREN,I'm making you a sling.,23,0.46
-963,LAUREN,We need to keep your arm still.,31,0.62
-964,LAUREN,"Billy, can you please wrap it up in this?",41,0.82
-965,ZOE,"You guys know we can't stay here, though, right?",48,0.96
-966,ZOE,Like the hyenas are gonna come back.,36,0.72
-967,JACK,I think we should wait.,23,0.46
-968,JACK,"I mean, you said so yourself.",29,0.58
-969,ZOE,"Yeah, but that was BH.",22,0.44
-970,BILLY,Before hyena.,13,0.26
-971,JACK,Someone will come after us.,27,0.54
-972,NOAH,Is there any water left in those bottles?,41,0.82
-973,NOAH,Is there any at all?,20,0.4
-974,JACK,There's tourists all over this place.,37,0.74
-975,LAUREN,This… This place is the size of--,33,0.66
-976,ZOE,Yeah. New York.,15,0.3
-977,ZOE,"We know, Mom.",13,0.26
-978,JACK,"Hey, we're gonna stay put.",26,0.52
-979,JACK,That's my decision. That's final. Okay?,39,0.78
-980,ZOE,"Oh, you made that decision?",27,0.54
-981,ZOE,"So, we have no say in that?",27,0.54
-982,JACK,That's right.,13,0.26
-983,ZOE,My God. You're such a dick.,27,0.54
-984,LAUREN,"Zoe, stop.",10,0.2
-985,JACK,What--,6,0.12
-986,JACK,"what did you say, young lady?",29,0.58
-987,ZOE,That you're a dick.,19,0.38
-988,LAUREN,"Oh, Zoe.",8,0.16
-989,JACK,Oh.,3,0.06
-990,JACK,"Okay, well, well, uh, you're right. I am.",41,0.82
-991,JACK,"So, let's see those, um, those festival tickets?",48,0.96
-992,JACK,Canceled. They're trash.,24,0.48
-993,JACK,And your phone payment? That's gone.,36,0.72
-994,JACK,"Uh, your allowance? See you later.",34,0.68
-995,LAUREN,How is this helping?,20,0.4
-996,JACK,"It's not, but I'm a dick! Remember?",35,0.7
-997,JACK,"That's how dicks act, right?",28,0.56
-998,ZOE,Mm-hm.,6,0.12
-999,JACK,"Yeah. Okay, well.",17,0.34
-1000,ZOE,Guess what?,11,0.22
-1001,ZOE,"The joke's on you, Jack.",24,0.48
-1002,ZOE,I don't need festival tickets if we're all fucking dead.,56,1.12
-1003,LAUREN,Zoe!,4,0.08
-1004,JACK,Don't call me Jack!,19,0.38
-1005,JACK,"Goddammit, Zoe!",15,0.3
-1006,NOAH,Be quiet.,9,0.18
-1007,LAUREN,"Zoe, nobody's dying.",20,0.4
-1008,JACK,I'm your father.,16,0.32
-1009,ZOE,"Technically, you're not.",24,0.48
-1010,JACK,"Jesus, Zoe.",11,0.22
-1011,NOAH,Can you guys not argue right now?,33,0.66
-1012,NOAH,"Can you just save it for later, please?",39,0.78
-1013,JACK,"I'm sorry. I'm sorry, everyone.",31,0.62
-1014,JACK,"I'm sorry, Zoe.",15,0.3
-1015,ZOE,"Sorry, too.",11,0.22
-1016,LAUREN,There's no signal.,18,0.36
-1017,JACK,"Not here, but…",14,0.28
-1018,JACK,Maybe back there. There was higher ground back there.,53,1.06
-1019,JACK,"If there's a signal anywhere,",29,0.58
-1020,JACK,that's where it's gonna be.,27,0.54
-1021,LAUREN,What are you doing?,19,0.38
-1022,JACK,I am gonna make a call.,23,0.46
-1023,LAUREN,"You can't go anywhere, Jack.",28,0.56
-1024,JACK,You need your insulin.,22,0.44
-1025,LAUREN,My glucose levels are high.,27,0.54
-1026,LAUREN,That's it.,10,0.2
-1027,JACK,"What about in an hour… or two, huh?",35,0.7
-1028,ZOE,"Jack, I don't think you can make it up that hill.",49,0.98
-1029,JACK,I'll crawl if I have to.,24,0.48
-1030,LAUREN,Then I'll go with you.,22,0.44
-1031,JACK,That's crazy.,13,0.26
-1032,LAUREN,No crazier than you.,20,0.4
-1033,NOAH,I'll go.,8,0.16
-1034,LAUREN,Noah…,5,0.1
-1035,NOAH,I'll go.,8,0.16
-1036,NOAH,I'm-I'm faster than anyone else here.,37,0.74
-1037,BILLY,Rude.,5,0.1
-1038,LAUREN,No.,3,0.06
-1039,NOAH,Why?,4,0.08
-1040,LAUREN,Because no.,11,0.22
-1041,NOAH,Why? You don't think I can make it?,35,0.7
-1042,JACK,It's not that. It's just…,25,0.5
-1043,JACK,It's not safe.,14,0.28
-1044,BILLY,I'll go with him.,17,0.34
-1045,BILLY,Keep your little superstar out of trouble.,42,0.84
-1046,BILLY,Two sets of eyes and all that.,30,0.6
-1047,NOAH,That's fine with me.,20,0.4
-1048,ZOE,"Wait, no. What if the hyenas come back?",39,0.78
-1049,BILLY,Then you just use your angry voice with them.,45,0.9
-1050,NOAH,Or just use your normal voice. Same thing.,42,0.84
-1051,ZOE,You're a brat.,14,0.28
-1052,JACK,You wanna take this in case,27,0.54
-1053,JACK,your signal is different?,25,0.5
-1054,LAUREN,Please. Please be safe.,23,0.46
-1055,BILLY,"Thanks, Missus H.",17,0.34
-1056,JACK,Careful.,8,0.16
-1057,NOAH,Geez.,5,0.1
-1058,NOAH,"Oh, shit.",9,0.18
-1059,NOAH,What the hell was that?,23,0.46
-1060,BILLY,Are you scared?,15,0.3
-1061,NOAH,"Oh, hell yeah.",14,0.28
-1062,NOAH,But anything's better than staying in the van,45,0.9
-1063,NOAH,with everyone arguing.,22,0.44
-1064,NOAH,What are you doing?,19,0.38
-1065,BILLY,"Never trust trees, bud.",23,0.46
-1066,BILLY,They play tricks on you.,24,0.48
-1067,NOAH,You smoke too much weed.,24,0.48
-1068,BILLY,You don't smoke enough.,23,0.46
-1069,BILLY,It might help you chill.,24,0.48
-1070,NOAH,"Hell no, dude. They drug test at school.",40,0.8
-1071,BILLY,"Well, be a good way to get you off the team.",44,0.88
-1072,BILLY,I know you want to.,19,0.38
-1073,NOAH,"No, I don't. It'd crush Dad.",28,0.56
-1074,BILLY,You shouldn't be doing it just for him anyway.,46,0.92
-1075,NOAH,Come out as gay and get kicked off the team?,44,0.88
-1076,NOAH,"No, I think it's one or the other.",34,0.68
-1077,BILLY,Yeah. Zoe said he was upset.,28,0.56
-1078,NOAH,He's not upset. He's just… I don't know.,40,0.8
-1079,NOAH,"He's confused. You know? I mean, he doesn't get it.",51,1.02
-1080,BILLY,Who even gives a shit anyway.,29,0.58
-1081,NOAH,I don't know. He's thinks it's gonna ruin my career.,52,1.04
-1082,NOAH,I'm not gonna get a scholarship.,32,0.64
-1083,NOAH,"Even if I do, I'll get crucified for being gay.",47,0.94
-1084,BILLY,A little too keen on the wrong type of balls.,45,0.9
-1085,NOAH,"Jesus, Billy.",13,0.26
-1086,BILLY,What? It-- it was funny.,24,0.48
-1087,BILLY,I can think of worse places to die.,35,0.7
-1088,NOAH,"Hey, nobody's gonna die.",24,0.48
-1089,NOAH,Nobody's gonna die. Okay?,25,0.5
-1090,BILLY,"Well, actually, everyone is.",28,0.56
-1091,NOAH,Anyone ever told you you're kind of a dick?,43,0.86
-1092,BILLY,"Yeah, your sister may have mentioned it",39,0.78
-1093,BILLY,once or twice.,14,0.28
-1094,BILLY,"And your dad. But he's a dick, too.",35,0.7
-1095,BILLY,"So, we cancel each other out.",29,0.58
-1096,NOAH,He's not a dick.,16,0.32
-1097,NOAH,"He's not always a dick, okay? He's--",36,0.72
-1098,BILLY,"Oh. Come on, dude.",18,0.36
-1099,BILLY,All white men in suits are fucking everything up for us.,56,1.12
-1100,BILLY,"They're fucking this up for us, man.",36,0.72
-1101,BILLY,You down with that?,19,0.38
-1102,NOAH,"No, but I mean, it's not just him, right?",41,0.82
-1103,NOAH,"I mean, we all do it.",21,0.42
-1104,NOAH,It's always someone else's responsibility.,42,0.84
-1105,NOAH,We-- we did a project about mining cobalt in the Congo,54,1.08
-1106,NOAH,for cell phone batteries.,25,0.5
-1107,NOAH,You know how much… violence there is?,37,0.74
-1108,NOAH,Corruption. Child labor.,24,0.48
-1109,NOAH,All for this.,13,0.26
-1110,NOAH,"Oil is nothing, man.",20,0.4
-1111,NOAH,We're all greedy. No one really cares.,38,0.76
-1112,BILLY,"Fuck, Noah.",11,0.22
-1113,BILLY,You're making it quite difficult for me,39,0.78
-1114,BILLY,to maintain my essentially positive attitude.,45,0.9
-1115,NOAH,Wait a minute.,14,0.28
-1116,NOAH,Dude.,5,0.1
-1117,NOAH,Do you see that?,16,0.32
-1118,NOAH,Do you see that?,16,0.32
-1119,NOAH,Right there?,12,0.24
-1120,NOAH,"It could be like a, like a lodge",32,0.64
-1121,NOAH,or like a ranger station.,25,0.5
-1122,NOAH,Give me-- give me the binoculars.,33,0.66
-1123,BILLY,I thought you had them.,23,0.46
-1124,NOAH,How much of that grass you been eatin'?,39,0.78
-1125,BILLY,Not enough.,11,0.22
-1126,NOAH,I think we can make it.,23,0.46
-1127,NOAH,What do you think?,18,0.36
-1128,BILLY,"I don't know, man. That is a long--",35,0.7
-1129,NOAH,"Oh, my God!",11,0.22
-1130,BILLY,Fuck off me.,12,0.24
-1131,NOAH,Billy!,6,0.12
-1132,BILLY,Fuck off!,9,0.18
-1133,BILLY,"Oh, my God.",11,0.22
-1134,NOAH,"Oh, my God. Oh, shit.",21,0.42
-1135,BILLY,"Oh, my God.",11,0.22
-1136,NOAH,Okay.,5,0.1
-1137,NOAH,Billy?,6,0.12
-1138,NOAH,Billy?,6,0.12
-1139,NOAH,"Oh, my God.",11,0.22
-1140,NOAH,Billy?,6,0.12
-1141,NOAH,Shit.,5,0.1
-1142,NOAH,"Oh, man.",8,0.16
-1143,NOAH,Turn around.,12,0.24
-1144,NOAH,Okay.,5,0.1
-1145,NOAH,Okay. Oh. Fuck shit.,20,0.4
-1146,NOAH,"Okay. Oh, oh.",13,0.26
-1147,NOAH,"Oh, yes.",8,0.16
-1148,NOAH,"Okay. Yes, Billy.",17,0.34
-1149,NOAH,Yes. Okay.,10,0.2
-1150,LAUREN,Hm-mm.,6,0.12
-1151,ZOE,Mom?,4,0.08
-1152,LAUREN,Yeah.,5,0.1
-1153,ZOE,How are you feeling?,20,0.4
-1154,LAUREN,I'm fine.,9,0.18
-1155,LAUREN,Maybe just a little water?,26,0.52
-1156,ZOE,"There is no water, Mom.",23,0.46
-1157,ZOE,Remember?,9,0.18
-1158,LAUREN,Yeah.,5,0.1
-1159,JACK,Geez.,5,0.1
-1160,ZOE,Did you guys get a signal?,26,0.52
-1161,JACK,Noah.,5,0.1
-1162,ZOE,Where's Billy?,14,0.28
-1163,NOAH,Something got him.,18,0.36
-1164,NOAH,Something got him.,18,0.36
-1165,JACK,What?!,6,0.12
-1166,ZOE,What?,5,0.1
-1167,NOAH,A big cat. It was a big fucking cat.,36,0.72
-1168,ZOE,"Wait, wait. You just left him?",30,0.6
-1169,NOAH,I couldn't do anything. It just ripped his neck out.,52,1.04
-1170,NOAH,Just ripped it clean out.,25,0.5
-1171,ZOE,"Oh, my God.",11,0.22
-1172,LAUREN,Zoe. Zoe.,9,0.18
-1173,LAUREN,"Jack, get Zoe.",14,0.28
-1174,JACK,Yeah. I got her. I got her. Zoe!,32,0.64
-1175,LAUREN,Are you okay?,13,0.26
-1176,JACK,"Zoe, sweetheart. Zoe, wait. Damn it, Zoe.",41,0.82
-1177,JACK,It's not safe.,14,0.28
-1178,JACK,Dammit! Zoe!,12,0.24
-1179,JACK,Zoe. Zoe.,9,0.18
-1180,JACK,"Oh, God. Zoe, baby.",19,0.38
-1181,ZOE,I don't know which way to go.,29,0.58
-1182,JACK,Baby. I'm so sorry.,19,0.38
-1183,JACK,"Hey, I'm sorry. It is gonna be all right. Okay?",47,0.94
-1184,ZOE,I need to get to Billy.,23,0.46
-1185,JACK,"We can't because it's not safe, okay?",37,0.74
-1186,JACK,Come here.,10,0.2
-1187,JACK,You heard what your brother said. Right?,40,0.8
-1188,ZOE,"He's not my brother, and you're not my fucking dad.",51,1.02
-1189,JACK,"Hey, he is your brother.",24,0.48
-1190,ZOE,"No, he's not.",13,0.26
-1191,JACK,And I am your dad.,18,0.36
-1192,JACK,And I have been for 16 years.,29,0.58
-1193,JACK,And that is not going to change,31,0.62
-1194,JACK,"because you're pissed off at me at the moment, all right?",57,1.14
-1195,JACK,Now something took Billy.,25,0.5
-1196,JACK,"Hey, and there's nothing that we can do about it.",49,0.98
-1197,JACK,And we need to get out of here.,31,0.62
-1198,ZOE,My dad is dead.,15,0.3
-1199,ZOE,And now Billy is dead.,22,0.44
-1200,ZOE,"And now Mom is dying, too.",26,0.52
-1201,JACK,Your mom's not gonna die.,25,0.5
-1202,JACK,Your mom is not gonna die.,26,0.52
-1203,JACK,And we're gonna make it out of this,35,0.7
-1204,JACK,and she's gonna be fine. I promise. I promise.,46,0.92
-1205,ZOE,She's not. She's not.,21,0.42
-1206,JACK,Okay. Come here. Come here. Come here.,38,0.76
-1207,ZOE,"No, no, no, no.",15,0.3
-1208,JACK,Stop. Stop. Stop.,17,0.34
-1209,ZOE,Billy. I need Billy.,20,0.4
-1210,JACK,"He's gone, baby.",16,0.32
-1211,JACK,He's gone. Okay?,16,0.32
-1212,ZOE,I need Billy.,13,0.26
-1213,ZOE,Please get me Billy back.,25,0.5
-1214,JACK,Zoe. Zoe.,9,0.18
-1215,ZOE,What?,5,0.1
-1216,JACK,"Just, um….",10,0.2
-1217,JACK,You wait right here.,20,0.4
-1218,ZOE,What? Fuck that.,16,0.32
-1219,ZOE AND JACK,Hey!,4,0.08
-1220,ZOE,Hey!,4,0.08
-1221,JACK,Get out of here. Go on.,23,0.46
-1222,JACK,All right. They're gone.,24,0.48
-1223,JACK,Are you okay?,13,0.26
-1224,LAUREN,They will be back.,18,0.36
-1225,LAUREN,"Jack, get in.",13,0.26
-1226,LAUREN,They'll be back…,16,0.32
-1227,LAUREN,with more.,10,0.2
-1228,JACK,"Guys, we…we gotta get out of here.",34,0.68
-1229,ZOE,Where are we gonna go?,22,0.44
-1230,NOAH,"Dad, I think I saw a camp from the top of the hill.",51,1.02
-1231,JACK,"Okay, how far?",14,0.28
-1232,NOAH,"I don't know. Um, um, two miles…",32,0.64
-1233,NOAH,that way.,9,0.18
-1234,NOAH,I-I think it's north.,21,0.42
-1235,JACK,"Hey, Lauren, can you walk?",26,0.52
-1236,LAUREN,You bet I can.,14,0.28
-1237,JACK,Come on. Let's go.,18,0.36
-1238,JACK,Come on.,8,0.16
-1239,JACK,"Watch your head, baby. Come on.",31,0.62
-1240,NOAH,Dad.,4,0.08
-1241,JACK,"Thanks, bud.",12,0.24
-1242,JACK,"Hey, grab your mom's purse. Okay?",33,0.66
-1243,ZOE,So we're… we're gonna walk.,27,0.54
-1244,JACK,"Yeah, I think we should.",24,0.48
-1245,JACK,It's not just my decision. We all need to agree on this.,56,1.12
-1246,LAUREN,What choice do we have?,23,0.46
-1247,JACK,"All right, then. Let's do this.",31,0.62
-1248,LAUREN,All right.,10,0.2
-1249,BILLY,Okay.,5,0.1
-1250,BILLY,Okay.,5,0.1
-1251,JACK,"Hey, hey, bud.",14,0.28
-1252,JACK,"Bud, we gotta stay on the main road.",36,0.72
-1253,NOAH,It's this way.,14,0.28
-1254,JACK,"Yeah, but I think",17,0.34
-1255,JACK,"if we stay on the main road, we have a better chance",52,1.04
-1256,JACK,of someone driving by and finding us.,37,0.74
-1257,NOAH,"Dad, it's in this direction.",28,0.56
-1258,LAUREN,"Anyone driving by? We're on a closed road, Jack.",48,0.96
-1259,JACK,"Look, Noah.",11,0.22
-1260,JACK,"I know that, honey, I remember that.",36,0.72
-1261,LAUREN,"Okay, I think we should follow Noah's lead.",43,0.86
-1262,JACK,"All right, fine. Let's just follow Noah's lead",46,0.92
-1263,JACK,"because my ideas are shit today, aren't they?",45,0.9
-1264,JACK,"Hey, bud.",9,0.18
-1265,JACK,"Noah, it's just kind of important.",34,0.68
-1266,JACK,Okay. Are you sure it's that way?,33,0.66
-1267,NOAH,Yeah. I--I think so. Yes.,25,0.5
-1268,JACK,"You think so or you know so,",28,0.56
-1269,JACK,because this is a matter of life and death.,43,0.86
-1270,ZOE,Don't bully him.,16,0.32
-1271,JACK,"I'm not bullying him, Zoe.",26,0.52
-1272,ZOE,You always do this.,19,0.38
-1273,ZOE,It's why he's so nervous all the time.,38,0.76
-1274,NOAH,I'm not nervous all the time.,29,0.58
-1275,JACK,You think I bully you?,22,0.44
-1276,NOAH,"Yeah, sometimes.",16,0.32
-1277,NOAH,"That's just your way, right?",28,0.56
-1278,NOAH,"That's just how you are, right?",31,0.62
-1279,JACK,"What do you mean, how I am?",27,0.54
-1280,LAUREN,Jack.,5,0.1
-1281,JACK,"You used to be able to handle my shit, bud.",43,0.86
-1282,NOAH,"Yes, Dad.",9,0.18
-1283,NOAH,I used to be able to handle your shit,37,0.74
-1284,NOAH,and I can still handle your shit.,33,0.66
-1285,NOAH,But it's this way. I saw it from the hill.,42,0.84
-1286,JACK,I'm sorry. It's just kind of important.,39,0.78
-1287,JACK,"Because if we go in there and it's wrong,",41,0.82
-1288,JACK,we might never come out again.,30,0.6
-1289,NOAH,"Yes, Dad. I understand that.",28,0.56
-1290,NOAH,I'm not a child. It is this way.,32,0.64
-1291,JACK,"Okay then, I believe you. Let's go, bud.",40,0.8
-1292,JACK,Let's go.,9,0.18
-1293,ZOE,"Let's hope he's right, Jack.",28,0.56
-1294,BILLY,Huh.,4,0.08
-1295,BILLY,"Oh, thank you, divine goddess,",30,0.6
-1296,BILLY,and also fuck you for doing this to me.,39,0.78
-1297,BILLY,Ha.,3,0.06
-1298,BILLY,"Hey, guys. Hey…",15,0.3
-1299,BILLY,Guys?,5,0.1
-1300,BILLY,What's going on?,16,0.32
-1301,JACK,"Keep moving, okay?",18,0.36
-1302,ZOE,"Wait, wait, wait. No, we're going in circles.",45,0.9
-1303,ZOE,"We already passed this tree, Jack.",34,0.68
-1304,JACK,"Baby, we have passed thousands of trees.",40,0.8
-1305,JACK,How do you know we've passed this one before?,45,0.9
-1306,ZOE,I recognize its face.,21,0.42
-1307,JACK,Its face?,9,0.18
-1308,NOAH,Never trust trees. They play tricks.,36,0.72
-1309,ZOE,What?,5,0.1
-1310,NOAH,Just something I heard.,23,0.46
-1311,JACK,Okay.,5,0.1
-1312,JACK,Let's go.,9,0.18
-1313,ZOE,Can you listen to me for two seconds?,37,0.74
-1314,ZOE,I'm not a complete moron. We've been here before.,49,0.98
-1315,JACK,"Baby, no, we haven't.",21,0.42
-1316,JACK,We have been walking in a straight line.,40,0.8
-1317,ZOE,"You know, you and I have the exact same",39,0.78
-1318,ZOE,amount of experience being lost in Africa.,42,0.84
-1319,ZOE,"You do know that, right?",24,0.48
-1320,JACK,Why do you always do this?,26,0.52
-1321,ZOE,Do what?,8,0.16
-1322,JACK,Argue.,6,0.12
-1323,ZOE,Because not everybody who isn't you,35,0.7
-1324,ZOE,is as stupid as you think that they are.,40,0.8
-1325,JACK,That's very clever.,19,0.38
-1326,LAUREN,"Wait, she's right.",18,0.36
-1327,LAUREN,We were here 30 minutes ago.,28,0.56
-1328,JACK,"No. No, we weren't.",19,0.38
-1329,JACK,"We, uh, come on.",16,0.32
-1330,JACK,"Come on, baby.",14,0.28
-1331,ZOE,You're an idiot. You're an idiot.,33,0.66
-1332,NOAH,Zoe?,4,0.08
-1333,ZOE,What?,5,0.1
-1334,NOAH,Don't talk to Dad like that.,28,0.56
-1335,ZOE,"You mean, your dad.",19,0.38
-1336,NOAH,"No, I mean, our dad, Zoe.",25,0.5
-1337,NOAH,"Come on. You're 18, not eight.",30,0.6
-1338,NOAH,Let's go.,9,0.18
-1339,NOAH,Come on.,8,0.16
-1340,ZOE,"Okay. Wait, wait, wait, wait.",29,0.58
-1341,ZOE,Holy shit.,10,0.2
-1342,NOAH,"Oh, my God.",11,0.22
-1343,NOAH,What happened to its face?,26,0.52
-1344,LAUREN,Poachers took its horn.,23,0.46
-1345,ZOE,"Oh, God. She had a baby.",24,0.48
-1346,JACK,This…,5,0.1
-1347,JACK,This is the rhino that…,23,0.46
-1348,JACK,"Wow, that is poetic justice, huh.",33,0.66
-1349,ZOE,What the fuck?,14,0.28
-1350,JACK,What!,5,0.1
-1351,ZOE,What the fuck--,15,0.3
-1352,JACK,That thing caused all of this.,30,0.6
-1353,LAUREN,"She was just protecting her baby, Jack.",39,0.78
-1354,LAUREN,We have to help it.,19,0.38
-1355,JACK,How? We can't help that.,24,0.48
-1356,JACK,We need to help you first.,26,0.52
-1357,LAUREN,I'm not leaving it.,19,0.38
-1358,JACK,We will come back.,18,0.36
-1359,JACK,We will come back and make sure that baby's okay.,49,0.98
-1360,JACK,I swear.,8,0.16
-1361,JACK,Come on. I promise.,19,0.38
-1362,LAUREN,"I'm not leaving it, Jack.",25,0.5
-1363,JACK,I swear. I swear.,17,0.34
-1364,JACK,We'll come back.,16,0.32
-1365,JACK,Hm?,3,0.06
-1366,JACK,I swear.,8,0.16
-1367,JACK,Come on. Come on.,17,0.34
-1368,NOAH,Mom? Mom?,9,0.18
-1369,JACK,"Hey, babe. Hey, baby.",21,0.42
-1370,JACK,Grab her scarf.,15,0.3
-1371,LAUREN,"Guys, I'm fine. I'm, it's, uh--",31,0.62
-1372,JACK,Are you sure?,13,0.26
-1373,LAUREN,I'm just dehydrated.,20,0.4
-1374,LAUREN,"Let's keep moving forward, guys. Come on.",41,0.82
-1375,JACK,She'll be okay. She'll be okay.,31,0.62
-1376,MAN,There's nobody around.,22,0.44
-1377,MAN,Shout. Shout.,13,0.26
-1378,MAN,.,1,0.02
-1379,MAN,"Can you say ""Hello.""",20,0.4
-1380,MAN,Shout loudly.,13,0.26
-1381,MAN,Hello?,6,0.12
-1382,MAN,Anybody's there?,16,0.32
-1383,MAN,Hello?,6,0.12
-1384,MAN,Check it. Check it.,19,0.38
-1385,MAN,Hello?,6,0.12
-1386,MAN,Aaah!!,6,0.12
-1387,LAUREN,Are you okay?,13,0.26
-1388,JACK,I'm okay.,9,0.18
-1389,ZOE,Really?,7,0.14
-1390,LAUREN,Really?,7,0.14
-1391,ZOE,A river.,8,0.16
-1392,ZOE,Didn't you see a river from the hill?,37,0.74
-1393,NOAH,No. Sorry.,10,0.2
-1394,ZOE,"Hey, Mom.",9,0.18
-1395,LAUREN,Huh?,4,0.08
-1396,ZOE,"Hey, are you okay?",18,0.36
-1397,LAUREN,Yeah. I'm fine.,15,0.3
-1398,ZOE,Are you sure?,13,0.26
-1399,LAUREN,Mm.,3,0.06
-1400,JACK,All right.,10,0.2
-1401,JACK,"Okay, well…",11,0.22
-1402,JACK,we could be here.,17,0.34
-1403,ZOE,"Yeah, or here.",14,0.28
-1404,NOAH,Or here.,8,0.16
-1405,JACK,So we could be anywhere.,24,0.48
-1406,NOAH,"Yes, but if we're here--",24,0.48
-1407,ZOE,"Yeah, or here.",14,0.28
-1408,NOAH,--then these could be the buildings I saw.,42,0.84
-1409,ZOE,"Okay, that makes sense, right?",30,0.6
-1410,JACK,Why don't you figure that out?,30,0.6
-1411,NOAH,Zoe.,4,0.08
-1412,JACK,"Oh, shit.",9,0.18
-1413,LAUREN,You shouldn't be walking on that.,33,0.66
-1414,JACK,"What are you, a doctor?",23,0.46
-1415,LAUREN,It's funny.,11,0.22
-1416,LAUREN,They teach you in medical school that…,38,0.76
-1417,LAUREN,dying isn't nearly as painful,29,0.58
-1418,LAUREN,as it looks from the outside.,29,0.58
-1419,LAUREN,It's bunch of bullshit. This sucks.,35,0.7
-1420,JACK,"You know we're gonna have to cross that river,",46,0.92
-1421,JACK,"right, baby?",12,0.24
-1422,JACK,I think you can do that.,24,0.48
-1423,LAUREN,I think I can do that.,22,0.44
-1424,LAUREN,But I can't feel any of my limbs.,33,0.66
-1425,JACK,Come on.,8,0.16
-1426,NOAH,You think we can drink it?,26,0.52
-1427,ZOE,Sure.,5,0.1
-1428,ZOE,If you want to shit out maggots the rest of your life.,54,1.08
-1429,NOAH,I'll take those odds right now.,31,0.62
-1430,JACK,"Zoe, come here.",15,0.3
-1431,JACK,"Noah, come here.",16,0.32
-1432,JACK,Okay.,5,0.1
-1433,JACK,We've gotta cross the river.,28,0.56
-1434,JACK,"Now, I think we can wade to the sandbank there.",47,0.94
-1435,JACK,And then swim the short distance to the other side.,51,1.02
-1436,ZOE,We're gonna swim an African river?,34,0.68
-1437,ZOE,Fuck that. There are crocodiles.,32,0.64
-1438,NOAH,Hyenas. Have they been tracking us?,35,0.7
-1439,NOAH,What are we gonna do?,21,0.42
-1440,JACK,Okay.,5,0.1
-1441,JACK,Let's follow the edge of the river.,35,0.7
-1442,JACK,Don't get too close to it. Okay?,32,0.64
-1443,ZOE,Shit.,5,0.1
-1444,ZOE,Okay. Stay low. Come on.,24,0.48
-1445,JACK,"There you go, baby.",19,0.38
-1446,NOAH,"Are you okay, Dad?",18,0.36
-1447,JACK,"Yeah, I'm okay.",15,0.3
-1448,JACK,"There you go, baby.",19,0.38
-1449,ZOE,"Okay, we're good. Let's go. Let's go.",37,0.74
-1450,JACK,I'm fine. I'm fine.,19,0.38
-1451,ZOE,Let me help.,12,0.24
-1452,JACK,"No. It's okay, baby. I got it.",30,0.6
-1453,ZOE,Dad…,4,0.08
-1454,ZOE,let me help. I've got this.,27,0.54
-1455,ZOE,Let me help. Okay. Okay?,24,0.48
-1456,JACK,Yeah.,5,0.1
-1457,ZOE,I'm fine. Right here.,21,0.42
-1458,ZOE,"Okay. Come on, Mom. Okay.",25,0.5
-1459,NOAH,I got her.,10,0.2
-1460,ZOE,"Oh, my God. I got it.",21,0.42
-1461,NOAH,Get down.,9,0.18
-1462,ZOE,Okay.,5,0.1
-1463,NOAH,Whoa.,5,0.1
-1464,ZOE,I got it.,9,0.18
-1465,ZOE,Shit.,5,0.1
-1466,NOAH,Are you okay?,13,0.26
-1467,ZOE,Yeah.,5,0.1
-1468,NOAH,"Zoe, Zoe, Zoe, go first.",24,0.48
-1469,NOAH,"Dad, they're coming.",20,0.4
-1470,JACK,"I know, I know. I see it.",25,0.5
-1471,ZOE,I got it. I got it.,19,0.38
-1472,NOAH,Shit.,5,0.1
-1473,JACK,Oh my God. Come here.,21,0.42
-1474,NOAH,What do we do?,14,0.28
-1475,JACK,Shh.,4,0.08
-1476,ALL,Hey! Hey!,9,0.18
-1477,ZOE,Down here. Over here.,21,0.42
-1478,JACK,Down here.,10,0.2
-1479,JACK,"Oh, my God.",11,0.22
-1480,JACK,"My god, I can't tell you how happy I am to see you.",51,1.02
-1481,MITCH,Oil man.,8,0.16
-1482,JACK,Hah.,4,0.08
-1483,MITCH,"What the hell are you doing out here? Stay right there. I'm-- I'm getting some help. Help! Help! Come fast. There's a man in the car. Come, come. He's hurt. We found him outside in the van. We found him in the forest. Blood everywhere. We must get him help quicks. Slowly. Be careful. I'll hold him.",299,5.98
-1484,BILLY,I think it was somewhere around here.,37,0.74
-1485,BILLY,"I don't know, we went off road.",31,0.62
-1486,BILLY,I wasn't paying attention.,26,0.52
-1487,LUCAS,That's impossible.,18,0.36
-1488,LUCAS,"I mean, all the vehicles in the park are accounted for.",55,1.1
-1489,BILLY,"No, we drove through without paying",35,0.7
-1490,BILLY,and never checked in.,21,0.42
-1491,DOCTOR,Okay. We need to move him out. Get everybody ready. We're going out.,68,1.36
-1492,MITCH,"We have new friends, Charlie.",29,0.58
-1493,MITCH,Here we go. Charlie's got you.,30,0.6
-1494,MITCH,There you go.,13,0.26
-1495,MITCH,"Hey, uh, Charlie, is camp ready for guests? Yeah, we're good, boss.",67,1.34
-1496,MITCH,Okay. Code Jenny.,17,0.34
-1497,MITCH,"Code Jenny, let's go.",21,0.42
-1498,JACK,Thank you so much.,18,0.36
-1499,MITCH,"Yeah, it's not a problem.",25,0.5
-1500,MITCH,You guys will be fine.,22,0.44
-1501,MITCH,What were you doing out there?,30,0.6
-1502,JACK,You have no idea what we've been through.,41,0.82
-1503,MITCH,It's fine. You're all okay.,27,0.54
-1504,MITCH,Put him…put him by the fire.,28,0.56
-1505,MITCH,By the fire.,12,0.24
-1506,MITCH,You guys will be fine now.,26,0.52
-1507,MITCH,There we go.,12,0.24
-1508,JACK,Thank you.,10,0.2
-1509,JACK,Baby. .,7,0.14
-1510,MITCH,What is going on with her?,26,0.52
-1511,JACK,She's diabetic. She needs insulin.,34,0.68
-1512,MITCH,Insulin? We don't have insulin.,31,0.62
-1513,MITCH,The nearest medical center is two hours away.,45,0.9
-1514,JACK,Can you call for help? She's dying.,35,0.7
-1515,MITCH,How long does she have?,23,0.46
-1516,JACK,Not long. Please call someone.,30,0.6
-1517,JACK,Call anyone.,12,0.24
-1518,MITCH,Got the sat phone.,18,0.36
-1519,JACK,Thank you.,10,0.2
-1520,MITCH,See if we can get a signal.,27,0.54
-1521,JACK,Thank you.,10,0.2
-1522,MITCH,It's okay.,10,0.2
-1523,MITCH,Getting a signal here.,22,0.44
-1524,MITCH,I'm trying to get a signal.,27,0.54
-1525,MITCH,These things are always supposed to have a signal.,50,1.0
-1526,MITCH,Come on.,8,0.16
-1527,MITCH,Why is there no signal?,23,0.46
-1528,MITCH,This is crazy.,14,0.28
-1529,MITCH,Sat phones are always supposed to give you a signal here.,57,1.14
-1530,MITCH,Hold on.,8,0.16
-1531,CHARLIE,I wish you hadn't seen that.,28,0.56
-1532,JACK,Seen what?,10,0.2
-1533,JACK,"Zoe, what's going on?",21,0.42
-1534,ZOE,"They're poachers, Dad.",22,0.44
-1535,JACK,What?,5,0.1
-1536,ZOE,They're poachers.,17,0.34
-1537,MITCH,"No, no, no. Ssshhh. No, no, no.",31,0.62
-1538,MITCH,We do not like to use… the P-word.,34,0.68
-1539,MITCH,"It's like I said back at the airport,",37,0.74
-1540,MITCH,when we first met.,18,0.36
-1541,MITCH,We help indigenous people,25,0.5
-1542,MITCH,make the best use of their resources.,37,0.74
-1543,ZOE,By butchering wildlife?,23,0.46
-1544,JACK,Right now…I--I don't care what you do.,38,0.76
-1545,NOAH,"Dad, they killed that--",23,0.46
-1546,JACK,"Stop, Noah. No, no, stop. Okay?",31,0.62
-1547,JACK,It's none of our business.,26,0.52
-1548,JACK,We…we just need your help.,26,0.52
-1549,ZOE,"Oh my God, they aren't gonna help us.",37,0.74
-1550,ZOE,Who are you?,12,0.24
-1551,MITCH,No.,3,0.06
-1552,MITCH,Tie them up.,12,0.24
-1553,ZOE,"Hey, asshole.",13,0.26
-1554,ZOE,"Yeah, you.",10,0.2
-1555,ZOE,You know how many rhino are left?,33,0.66
-1556,CHARLIE,Enough to make them valuable?,29,0.58
-1557,MITCH,Valuable enough for these men to earn,37,0.74
-1558,MITCH,more in one night than they would the whole year.,49,0.98
-1559,MITCH,Enough to feed their families.,30,0.6
-1560,ZOE,You're disgusting.,18,0.36
-1561,MITCH,Do you think their children should starve?,42,0.84
-1562,ZOE,"No, I don't think their children should starve.",47,0.94
-1563,MITCH,"Well, so then we… we agree.",27,0.54
-1564,MITCH,That they have the right to benefit from their own land.,56,1.12
-1565,MITCH,From their own heritage.,24,0.48
-1566,MITCH,What gives you the right?,25,0.5
-1567,MITCH,"Some privileged, ignorant, white--",34,0.68
-1568,ZOE,Fuck off.,9,0.18
-1569,ZOE,Fuck off.,9,0.18
-1570,MITCH,to dictate anything these people do.,36,0.72
-1571,ZOE,Dad?,4,0.08
-1572,JACK,I'm sure that you're making a healthy profit,44,0.88
-1573,JACK,out of them.,12,0.24
-1574,ZOE,Fuck off.,9,0.18
-1575,CHARLIE,"Let's just call capitalism, my friend.",38,0.76
-1576,CHARLIE,"You--you work in the oil business, right?",41,0.82
-1577,MITCH,Charlie's right. Charlie is absolutely right.,45,0.9
-1578,MITCH,"Oil man, you're not allowed to get",34,0.68
-1579,MITCH,all holier than thou with us.,29,0.58
-1580,MITCH,"I mean, what--what is the worst that we do?",43,0.86
-1581,CHARLIE,Yeah.,5,0.1
-1582,MITCH,A few less rhinos in the world.,31,0.62
-1583,MITCH,Maybe an elephant?,18,0.36
-1584,MITCH,A pangolin.,11,0.22
-1585,MITCH,You know how much this is worth?,32,0.64
-1586,MITCH,It's worth more than its weight in gold.,40,0.8
-1587,MITCH,And we're nothing compared to you.,34,0.68
-1588,MITCH,Don't even compare.,19,0.38
-1589,MITCH,We're amateurs.,15,0.3
-1590,MITCH,You're planet killers.,22,0.44
-1591,MITCH,"I gotta admit, that's pretty impressive.",40,0.8
-1592,NOAH,What do you… what are you gonna do to us?,41,0.82
-1593,MITCH,"Well, the end of your story… is easy.",37,0.74
-1594,MITCH,"Obviously, Mom's about to die. So that's easy.",46,0.92
-1595,MITCH,"As for the rest of you, we are going to move out.",49,0.98
-1596,MITCH,"We usually let the hyenas clean up after us,",44,0.88
-1597,MITCH,"though they prefer their animals injured,",41,0.82
-1598,MITCH,so might let my men go to work on you for a little bit.,55,1.1
-1599,MITCH,Though it looks like…,21,0.42
-1600,MITCH,Dad is already a little injured there.,38,0.76
-1601,JACK,"Stop, please.",13,0.26
-1602,NOAH,No. Stop! Stop.,15,0.3
-1603,NOAH,Stop it!,8,0.16
-1604,MITCH,The rest is easy.,17,0.34
-1605,MITCH,Arrogant American family comes to Africa.,41,0.82
-1606,MITCH,Africa embraces arrogant American family.,41,0.82
-1607,MITCH,"Gentlemen, sorry to keep you waiting.",37,0.74
-1608,MITCH,Sorry about that. Great to see you again.,41,0.82
-1609,MITCH,Jin. Always a pleasure.,23,0.46
-1610,MITCH,Thanks for coming out.,22,0.44
-1611,MITCH,Sorry about the whole blindfold and--,37,0.74
-1612,NOAH,She's gonna die.,16,0.32
-1613,ZOE,Don't say that.,15,0.3
-1614,NOAH,She is.,7,0.14
-1615,JACK,"No, she is, if we don't get out of here.",40,0.8
-1616,NOAH,What's gonna happen to us?,26,0.52
-1617,ZOE,You heard him.,14,0.28
-1618,ZOE,They're gonna kill us.,22,0.44
-1619,JACK,"No, no, they're not. They're not. They're just--",48,0.96
-1620,ZOE,"Oh my God. Of course, they fucking are.",39,0.78
-1621,ZOE,"Jesus, Dad.",11,0.22
-1622,JACK,I was just…,11,0.22
-1623,JACK,I'm just trying to stay positive. Okay?,39,0.78
-1624,NOAH,Why don't you just tell us something truthful?,46,0.92
-1625,JACK,I'm sorry. That's the truth.,28,0.56
-1626,ZOE,"No, Dad. You don't…",19,0.38
-1627,ZOE,Forget it. You don't have to do that now.,41,0.82
-1628,JACK,It's okay.,10,0.2
-1629,ZOE,Please. I--,11,0.22
-1630,JACK,"No, no. Now is the-- now is the perfect time.",45,0.9
-1631,ZOE,No.,3,0.06
-1632,JACK,We might not have any time left.,32,0.64
-1633,JACK,I'm sorry I haven't been a very good father.,44,0.88
-1634,JACK,I'm sorry that I couldn't see what was important,48,0.96
-1635,JACK,until everything was falling apart around me.,45,0.9
-1636,JACK,It's okay. It's okay.,21,0.42
-1637,JACK,I love your mother. And I love you both so much.,48,0.96
-1638,JACK,"And I know, I know I didn't say that enough.",44,0.88
-1639,JACK,And Noah…,9,0.18
-1640,JACK,"I just wanted you to be happy, bud.",35,0.7
-1641,JACK,Yeah.,5,0.1
-1642,JACK,"You are who you are,",20,0.4
-1643,JACK,"so fucking what to everything else, right?",42,0.84
-1644,JACK,Hey…,4,0.08
-1645,JACK,I'm so proud of you.,20,0.4
-1646,JACK,And I love you so much.,23,0.46
-1647,JACK,"Zoe, I love you too.",20,0.4
-1648,JACK,I've loved you from the moment I met you and your mother.,57,1.14
-1649,JACK,"You're my daughter, and I'm your father.",40,0.8
-1650,JACK,Even…even if you say I'm not.,29,0.58
-1651,JACK,"You'll still be my daughter, okay?",34,0.68
-1652,JACK,Yeah. I'm so proud of you.,26,0.52
-1653,JACK,And I only push college because…,32,0.64
-1654,JACK,because you are so damn smart.,30,0.6
-1655,JACK,"And I can see the woman,",24,0.48
-1656,JACK,the beautiful woman that you are becoming.,42,0.84
-1657,JACK,And the world needs people like that.,37,0.74
-1658,JACK,Great people who change things for the better.,46,0.92
-1659,JACK,"Not people like me, huh.",24,0.48
-1660,JACK,Money and selfishness.,22,0.44
-1661,JACK,It's nothing. The world is not about stuff.,43,0.86
-1662,JACK,It is about family. It is about this.,37,0.74
-1663,JACK,And I am…,9,0.18
-1664,JACK,I am proud of you both,22,0.44
-1665,JACK,because you are nothing like me.,32,0.64
-1666,JACK,And I fucked things up,22,0.44
-1667,JACK,pretty badly but not…,21,0.42
-1668,JACK,not this time.,14,0.28
-1669,MITCH,I was thinking…,15,0.3
-1670,JACK,You got it?,11,0.22
-1671,NOAH,Yeah.,5,0.1
-1672,NOAH,Yeah.,5,0.1
-1673,JACK,Get your sister. Get your sister.,33,0.66
-1674,JACK,"Okay, guys, look at me.",23,0.46
-1675,ZOE,Okay.,5,0.1
-1676,JACK,You see that jeep over there?,29,0.58
-1677,JACK,Right over there?,17,0.34
-1678,NOAH,Yeah.,5,0.1
-1679,JACK,"Yeah, good. Noah, I need you to be strong",41,0.82
-1680,JACK,"and I mean properly strong, okay.",33,0.66
-1681,JACK,You've gotta carry your mother.,31,0.62
-1682,JACK,"Zoe, you gotta drive that jeep, baby.",37,0.74
-1683,ZOE,No. Why--why can't you drive?,29,0.58
-1684,JACK,Somebody needs to distract them.,32,0.64
-1685,JACK,"That's me. Now, listen.",23,0.46
-1686,NOAH,Dad.,4,0.08
-1687,JACK,"Listen, listen. Look.",21,0.42
-1688,JACK,"Listen, I love you both… very much.",35,0.7
-1689,JACK,You are my everything.,22,0.44
-1690,JACK,You'll know.,12,0.24
-1691,JACK,You'll know.,12,0.24
-1692,MITCH,Do we have a deal?,18,0.36
-1693,JACK,"Look over there. He's getting away. Stop him. I've got him, boss; I've got him.",79,1.58
-1694,JACK,You gotta be kidding me.,24,0.48
-1695,JACK,You gotta be kidding me.,24,0.48
-1696,MITCH,Hey.,4,0.08
-1697,MITCH,Thank you.,10,0.2
-1698,MITCH,"Look at this, Charlie.",22,0.44
-1699,MITCH,We're going oil-man huntin'.,28,0.56
-1700,MITCH,Your father's dead.,19,0.38
-1701,MITCH,Charlie. You're with me.,24,0.48
-1702,ZOE,"You know, we're gonna go to those jeeps, okay?",46,0.92
-1703,ZOE,All right. Okay.,16,0.32
-1704,ZOE,That's all of them gone.,24,0.48
-1705,ZOE,Three--,7,0.14
-1706,ZOE AND NOAH,Two-one.,8,0.16
-1707,ZOE AND NOAH,Go.,3,0.06
-1708,ZOE,Okay.,5,0.1
-1709,NOAH,"Mom. I'm gonna lift you up, okay?",33,0.66
-1710,NOAH,Come on.,8,0.16
-1711,MITCH,I got him. Keep the light on him.,33,0.66
-1712,MITCH,Oh. Ugh.,8,0.16
-1713,MITCH,I told you to keep the light on him.,36,0.72
-1714,NOAH,"Okay, try this one.",19,0.38
-1715,ZOE,"Yes, yes. Get up. Get up. Get up.",33,0.66
-1716,ZOE,All right.,10,0.2
-1717,ZOE,Let's figure this out.,22,0.44
-1718,ZOE,We have to go back.,19,0.38
-1719,ZOE,"Noah, we have to go back. We have to go back.",45,0.9
-1720,NOAH,"Zoe, Zoe.",9,0.18
-1721,NOAH,We gotta drive. We have to leave.,33,0.66
-1722,NOAH,"Start it, Zoe.",14,0.28
-1723,MITCH,We got a runner!,16,0.32
-1724,MITCH,Oil man! Light on him.,22,0.44
-1725,MITCH,Give me the light on him.,25,0.5
-1726,CHARLIE,There you go.,13,0.26
-1727,MITCH,"Oh, yeah.",9,0.18
-1728,MITCH,Keep the light on him.,22,0.44
-1729,MITCH,"Where are you going, oil man?",29,0.58
-1730,MITCH,Come here.,10,0.2
-1731,MITCH,He cannot still be alive.,25,0.5
-1732,MITCH,He cannot be still alive.,25,0.5
-1733,MITCH,"Oil man, I gotta apologize to you.",34,0.68
-1734,MITCH,I'm normally way more accurate.,31,0.62
-1735,MITCH,Oh yeah. I winged him good.,27,0.54
-1736,MITCH,Sorry about that.,17,0.34
-1737,MITCH,It's gonna leave a mark there.,30,0.6
-1738,MITCH,"You know,  Charlie and me…",26,0.52
-1739,MITCH,we've hunted pretty much everything.,36,0.72
-1740,MITCH,You're our first human.,23,0.46
-1741,CHARLIE,First human.,12,0.24
-1742,MITCH,It's a shame we can't keep his head.,36,0.72
-1743,JACK,My family.,10,0.2
-1744,CHARLIE,"Don't worry, they're next.",26,0.52
-1745,MITCH,Welcome to the jungle.,22,0.44
-1746,MITCH,Ssh. Ssh. Ssh. Ssh.,19,0.38
-1747,ZOE,What do we do? What do we do?,29,0.58
-1748,NOAH,"I don't know, Zoe. I don't know.",32,0.64
-1749,NOAH,I don't know anything about cars.,33,0.66
-1750,MITCH,Did you hear that?,18,0.36
-1751,MITCH,Did you hear that?,18,0.36
-1752,MITCH,Stay with him. Nobody finds his body.,37,0.74
-1753,MITCH,Okay?,5,0.1
-1754,LAUREN,You're flooding it.,19,0.38
-1755,LAUREN,Just wait.,10,0.2
-1756,NOAH,They're coming.,15,0.3
-1757,LAUREN,Not yet.,8,0.16
-1758,LAUREN,Try it now.,11,0.22
-1759,ZOE,Okay.,5,0.1
-1760,MITCH,"No, no, no.",11,0.22
-1761,ZOE,Yes! Yes!,9,0.18
-1762,MITCH,Stop them!,10,0.2
-1763,ZOE,Yes!,4,0.08
-1764,MITCH,"No, no. Ahhh…",13,0.26
-1765,MITCH,"Keys, keys, keys.",17,0.34
-1766,MITCH,Okay. Hop in.,13,0.26
-1767,MITCH,You got the light?,18,0.36
-1768,CHARLIE,Yeah.,5,0.1
-1769,MITCH,Keep that light on them.,24,0.48
-1770,NOAH,"Okay. Okay. Zoe, Zoe.",21,0.42
-1771,ZOE,What?,5,0.1
-1772,NOAH,"Zoe, you're doing really well,",30,0.6
-1773,NOAH,but can you drive a little faster?,34,0.68
-1774,ZOE,No. I literally can't see shit here.,36,0.72
-1775,NOAH,Zoe. Zoe. Zoe. They're right there.,35,0.7
-1776,ZOE,"Okay. Oh, shit.",15,0.3
-1777,NOAH,Do something.,13,0.26
-1778,ZOE,Okay. Okay.,11,0.22
-1779,NOAH,"Hey, Mom, are you okay?",23,0.46
-1780,NOAH,Keep going.,11,0.22
-1781,MITCH,"Hey, hey, hey. Come on with me.",31,0.62
-1782,ZOE,No. Just fuck you.,18,0.36
-1783,MITCH,Wait.,5,0.1
-1784,ZOE,Fuck you!,9,0.18
-1785,ZOE,Fuck off!,9,0.18
-1786,MITCH,Hey.,4,0.08
-1787,MITCH,Hey! Light on her. Get the light on her.,40,0.8
-1788,MITCH,Yes!,4,0.08
-1789,MITCH,Hey!,4,0.08
-1790,MITCH,Keep that light on her.,23,0.46
-1791,MITCH,Right up ahead.,15,0.3
-1792,MITCH,"Pull over, bitch!",17,0.34
-1793,NOAH,Zoe.,4,0.08
-1794,ZOE,Fuck.,5,0.1
-1795,MITCH,"Pull over, bitch!",17,0.34
-1796,NOAH,Do something.,13,0.26
-1797,MITCH,"Hey, hey.",9,0.18
-1798,MITCH,"Pull over, bitch.",17,0.34
-1799,ZOE,Fuck you!,9,0.18
-1800,MITCH,No!,3,0.06
-1801,ZOE,Get fucked!,11,0.22
-1802,MITCH,"Pull over, bitch.",17,0.34
-1803,ZOE,Fuck you.,9,0.18
-1804,ZOE,Fuck you!,9,0.18
-1805,MITCH,Ah! Whoa.,9,0.18
-1806,CHARLIE,Pull it around.,15,0.3
-1807,MITCH,No!,3,0.06
-1808,MITCH,Shit!,5,0.1
-1809,ZOE,"Oh, fuck! Oh, my God.",21,0.42
-1810,ZOE,Yes! Yes!,9,0.18
-1811,NOAH,"Oh, my God!",11,0.22
-1812,ZOE,Yes!,4,0.08
-1813,NOAH,You got it. Holy shit.,22,0.44
-1814,ZOE,I fucking nailed it.,20,0.4
-1815,ZOE,I fucking nailed it. I told you I could drive!,46,0.92
-1816,ZOE,Holy cow!,9,0.18
-1817,NOAH,"Oh, my God!",11,0.22
-1818,ZOE,Yes!,4,0.08
-1819,NOAH,Yay!,4,0.08
-1820,ZOE,Holy shit.,10,0.2
-1821,MITCH,Charlie?,8,0.16
-1822,MITCH,Charlie…,8,0.16
-1823,MITCH,Okay.,5,0.1
-1824,MITCH,"Ah, the dumb bitch.",19,0.38
-1825,MITCH,You bitch!,10,0.2
-1826,MITCH,Get back here!,14,0.28
-1827,MITCH,Get out of here. Go.,20,0.4
-1828,MITCH,Go. Get out of here.,20,0.4
-1829,MITCH,Go. Get out of here. Go.,24,0.48
-1830,ZOE,Oh my God. There's a road.,26,0.52
-1831,ZOE,Oh my God. Oh my God. We found a fucking road.,46,0.92
-1832,NOAH,What?,5,0.1
-1833,ZOE,Mom? Mom? Mom?,14,0.28
-1834,ZOE,Mom! We found a road.,21,0.42
-1835,ZOE,Okay. Hold on. Hold on.,23,0.46
-1836,NOAH,You'll be okay.,15,0.3
-1837,NOAH,Everything is gonna be okay.,28,0.56
-1838,ZOE,"I got it. Mom, we're gonna be okay.",35,0.7
-1839,NOAH,"Keep driving, Zoe. Just keep going.",35,0.7
-1840,ZOE,"Mom, we found a road.",21,0.42
-1841,ZOE,Shit no.,8,0.16
-1842,NOAH,What?,5,0.1
-1843,ZOE,No. There is more.,18,0.36
-1844,NOAH,What?,5,0.1
-1845,ZOE,No. There is more.,18,0.36
-1846,NOAH,What?,5,0.1
-1847,ZOE,Hold on.,8,0.16
-1848,NOAH,"You got to get off the road, Zoe.",33,0.66
-1849,NOAH,Get off the road.,17,0.34
-1850,NOAH,Pull over.,10,0.2
-1851,NOAH,Okay. Hide here.,16,0.32
-1852,ZOE,Okay. Okay.,11,0.22
-1853,NOAH,"Oh, shit. I see headlights.",27,0.54
-1854,LAUREN,Okay.,5,0.1
-1855,NOAH,Close the door.,15,0.3
-1856,ZOE,"Oh, fuck.",9,0.18
-1857,POACHER,Where are they? They must be here somewhere.,44,0.88
-1858,ZOE,Shit!,5,0.1
-1859,WOMAN,I see them. Yeah. Yeah. Yeah.,29,0.58
-1860,WOMAN,Okay. Let's go. Let's go.,25,0.5
-1861,WOMAN,Guns down.,10,0.2
-1862,WOMAN,Now! Now!,9,0.18
-1863,WOMAN,Move it. Move it. Move it!,26,0.52
-1864,ZOE,Everyone's gone.,16,0.32
-1865,NOAH,Everyone's dead.,16,0.32
-1866,WOMAN,"Moving, moving.",15,0.3
-1867,WOMAN,Everybody down.,15,0.3
-1868,BILLY,Zoe?,4,0.08
-1869,WOMAN,"Moving, moving. I said, down on the ground.",43,0.86
-1870,BILLY,Zoe? Zoe? That one over there. I see you. You over there. I see you.,68,1.36
-1871,WOMAN,Stay there. Stay there.,23,0.46
-1872,BILLY,Zoe?,4,0.08
-1873,DOCTOR,Is everyone okay?,17,0.34
-1874,ZOE,Billy?,6,0.12
-1875,NOAH,Are you a doctor?,17,0.34
-1876,DOCTOR,Yes.,4,0.08
-1877,ZOE,"Billy! Oh, my god!",18,0.36
-1878,NOAH,My--my mom…,11,0.22
-1879,NOAH,My mom's diabetic. She needs insulin right now.,47,0.94
-1880,ZOE,"Sorry. I'm sorry. Oh, my God.",29,0.58
-1881,NOAH,Do you have it? Do you have insulin?,36,0.72
-1882,ZOE,You fucking left me!,20,0.4
-1883,BILLY,"Aw. Oh, God!",12,0.24
-1884,NOAH,Billy?,6,0.12
-1885,BILLY,"Hey, Noah. I'm good.",20,0.4
-1886,ZOE,How did you--,13,0.26
-1887,BILLY,"Thanks for coming back for me, man.",35,0.7
-1888,WOMAN,"Okay, I will check. I will check.",33,0.66
-1889,WOMAN,Someone will check.,19,0.38
-1890,NOAH,Will she be okay?,17,0.34
-1891,DOCTOR,"Yeah, she's gonna be fine. Are you okay?",40,0.8
-1892,LAUREN,Where's--where's Jack?,22,0.44
-1893,ZOE,He saved us.,12,0.24
-1894,NOAH,"He's gone, Mom.",15,0.3
-1895,LAUREN,No.,3,0.06
-1896,LAUREN,"Look. Zoe, are you seeing this?",31,0.62
-1897,ZOE,Aw.,3,0.06
+8,JACK,,0,0.0
+9,JACK,,0,0.0
+10,LAUREN,,0,0.0
+11,LAUREN,Maybe not so tough.,19,0.38
+12,JACK,"If I want a roller coaster,",27,0.54
+13,JACK,I'll take Six Flags.,20,0.4
+14,LAUREN,"Oh, lighten up. It's a vacation, Jack.",38,0.76
+15,JACK,Yeah. Sipping rum and Coke at a beach in Bora Bora;,51,1.02
+16,JACK,"now, that's a vacation.",23,0.46
+17,LAUREN,We did those. Boring.,21,0.42
+18,LAUREN,We wanted an adventure.,23,0.46
+19,JACK,We?,3,0.06
+20,LAUREN,Me. The kids.,13,0.26
+21,LAUREN,You. It's good all around.,26,0.52
+22,JACK,Yeah. It'll be fun.,19,0.38
+23,JACK,I just don't like the fact that this family's become,52,1.04
+24,JACK,a democracy all of a sudden.,28,0.56
+25,LAUREN,"It was a velvet coup, honey.",28,0.56
+26,JACK,Hah.,4,0.08
+27,LAUREN,You never noticed. ,19,0.38
+28,LAUREN,"Whoa, heaven, Jack.",19,0.38
+29,LAUREN,I've landed in heaven. Thank you.,33,0.66
+30,NOAH,"Hey, Sam.",9,0.18
+31,NOAH,"Uh, so we just landed and, um…",30,0.6
+32,NOAH,"Mom, where are we?",18,0.36
+33,LAUREN,"Hey, Sam. We are just outside of",32,0.64
+34,LAUREN,Amboseli Park in Kenya.,23,0.46
+35,NOAH,Amboseli.,9,0.18
+36,NOAH,"Check this place out, isn't it cool?",36,0.72
+37,NOAH,It's like animals.,18,0.36
+38,NOAH,"Hey, uh, Zoe, Billy.",20,0.4
+39,NOAH,"Guys, say hi to Sam.",20,0.4
+40,BILLY,"Hi, Sam.",8,0.16
+41,ZOE,"Hey, Sam. How's it going?",25,0.5
+42,BILLY,"You should be here, yo. Fucking good! ",38,0.76
+43,LAUREN,"Come on, Billy.",15,0.3
+44,BILLY,"I'm sorry, Missus.",18,0.36
+45,NOAH,We're headed to a lodge,23,0.46
+46,NOAH,"and then we're going to, uh, on a safari tomorrow.",50,1.0
+47,NOAH,I wish you could come.,22,0.44
+48,NOAH,"But, uh… Dad.",13,0.26
+49,NOAH,"Dad, say hi to Sam.",19,0.38
+50,JACK,"Hi, Sam.",8,0.16
+51,LAUREN,"It's so hard, Jack?",19,0.38
+52,NOAH,"Send me a video back, okay?",27,0.54
+53,JACK,"Hey, I said hi. I said hi. ",27,0.54
+54,JACK,"Okay. Uh, asante.",17,0.34
+55,STAFF MEMBER,Okay.,5,0.1
+56,LAUREN,,0,0.0
+57,JACK,Okay. All right.,16,0.32
+58,JACK,"Let's go. Let's go, kids.",25,0.5
+59,JACK,"Billy, let's go get our car.",28,0.56
+60,POLICE OFFICER,"Wait, wait, wait.",17,0.34
+61,JACK,"Whoa, whoa, whoa.",17,0.34
+62,POLICE OFFICER,Wait.,5,0.1
+63,LAUREN,What's happening?,17,0.34
+64,JACK,I don't know. We're just gonna wait here.,41,0.82
+65,FEMALE OFFICER,,0,0.0
+66,ZOE,What are they doing?,20,0.4
+67,MITCH,Team Lioness.,13,0.26
+68,MITCH,Anti-poaching unit. All female.,31,0.62
+69,ZOE,Women soldiers?,15,0.3
+70,ZOE,That's badass.,14,0.28
+71,MITCH,Yeah. Hm.,9,0.18
+72,CHARLIE,Looks like they caught their man.,33,0.66
+73,MITCH,They say they haven't lost,26,0.52
+74,MITCH,an elephant in years.,21,0.42
+75,NOAH,"Wait, wait, those men are poachers?",35,0.7
+76,MITCH,They're lucky they're arrested.,31,0.62
+77,MITCH,"Usually, they're shot on sight.",31,0.62
+78,LAUREN,What?!,6,0.12
+79,ZOE,Good.,5,0.1
+80,ZOE,Fuckers.,8,0.16
+81,JACK,"Zoe, just--",11,0.22
+82,LAUREN,That's just an execution.,25,0.5
+83,LAUREN,How is that even legal?,23,0.46
+84,MITCH,"""This Is Africa.""",17,0.34
+85,MITCH,Must be your,12,0.24
+86,MITCH,first time here.,16,0.32
+87,JACK,"No, no. I've…",13,0.26
+88,JACK,"I've been to Nairobi before,",28,0.56
+89,JACK,"not… I mean, this Africa is different. I…",41,0.82
+90,JACK,my sightseeing was basically,28,0.56
+91,JACK,the inside of corporate boardrooms.,35,0.7
+92,MITCH,"So, uh,",7,0.14
+93,MITCH,"what is your business, my friend?",33,0.66
+94,JACK,I work for Exxon.,17,0.34
+95,MITCH,Ah…,3,0.06
+96,MITCH,Oil man.,8,0.16
+97,JACK,"Well, .",7,0.14
+98,LAUREN,Are you here on vacation?,25,0.5
+99,MITCH,"No, no, no, no. Uh… we… uh…",27,0.54
+100,MITCH,"we help run a community outreach program,",41,0.82
+101,MITCH,teaching locals how to thrive off their land.,45,0.9
+102,LAUREN,Good for you.,13,0.26
+103,ZOE,That's really cool.,19,0.38
+104,BILLY,That's really cool.,19,0.38
+105,JOE,"Jack, isn't that cool?",22,0.44
+106,JACK,"Zoe, Zoe. ",10,0.2
+107,POLICE OFFICER,"Okay, you can now leave.",24,0.48
+108,JACK,Okay.,5,0.1
+109,JACK,Nice meeting you. Nice meeting you.,35,0.7
+110,CHARLIE,Thank you.,10,0.2
+111,BILLY,TIA and all that.,17,0.34
+112,ZOE,He looked great.,16,0.32
+113,BILLY,"You didn't even know him, Zoe.",30,0.6
+114,MITCH,This country's gonna eat them alive.  ,38,0.76
+115,JACK,This…,5,0.1
+116,JACK,is the luxury Africa cruiser?,29,0.58
+117,STAFF MEMBER 2,This is actually the best,25,0.5
+118,STAFF MEMBER 2,luxury cruiser.,15,0.3
+119,JACK,I asked for a Mercedes.,23,0.46
+120,STAFF MEMBER 2,"No, sir, just come, come.",25,0.5
+121,JACK,I ordered…,10,0.2
+122,STAFF MEMBER 2,This is the best cruiser.,25,0.5
+123,STAFF MEMBER 2,This is actually the best vehicle here in Kenya.,48,0.96
+124,JACK,…a Mercedes.,12,0.24
+125,STAFF MEMBER 2,This is the best one for you all.,33,0.66
+126,STAFF MEMBER 2,For your price.,15,0.3
+127,JACK,I--I don't even know what to say.,33,0.66
+128,NOAH,I like it.,10,0.2
+129,BILLY,Come on in.,11,0.22
+130,STAFF MEMBER 2,Come on in. Come on in.,23,0.46
+131,LAUREN,I think she's perfect.,22,0.44
+132,LAUREN,I think we gotta name her. ,27,0.54
+133,NOAH,"Hey, does the AC work?",22,0.44
+134,STAFF MEMBER 2,No. The AC does not work. ,26,0.52
+135,STAFF MEMBER 2,Have a lovely holiday.,22,0.44
+136,STAFF MEMBER 2,Bye-bye. ,9,0.18
+137,NOAH,How can they not have,21,0.42
+138,NOAH,a paved road from the airport?,30,0.6
+139,JACK,It's a developing nation. I guess they don't have,49,0.98
+140,JACK,the money for that kind of thing. ,34,0.68
+141,JACK,"Oh, my gosh. Look, look, look, look.",36,0.72
+142,LAUREN,Wow. Wow. Wow. Look at that.,28,0.56
+143,ZOE,"Oh, my gosh.",12,0.24
+144,LAUREN,Aw. ,4,0.08
+145,ZOE,"Oh, my God. They're real.",25,0.5
+146,ZOE,.,1,0.02
+147,NOAH,Just some zebras just hangin' out.,34,0.68
+148,NOAH,It's amazing.,13,0.26
+149,JACK,"Oh, cool.",9,0.18
+150,JACK,Welcome to Africa.,18,0.36
+151,NOAH,"Oh, wait.",9,0.18
+152,BILLY,"Wow. What have they got behind those gates, man?",48,0.96
+153,LAUREN,Here we are.,12,0.24
+154,JACK,This is the lodge.,18,0.36
+155,NOAH,"Whoa, this is where we're staying?",34,0.68
+156,BILLY,Whoa!,5,0.1
+157,BILLY,Home sweet home.,16,0.32
+158,BILLY,"Oh, yeah.",9,0.18
+159,STAFF MEMBERS,Hello.,6,0.12
+160,LAUREN,Jambo. Jambo.,13,0.26
+161,NOAH,Hello.,6,0.12
+162,LAUREN,,0,0.0
+163,STAFF MEMBER,"Welcome, .",10,0.2
+164,LAUREN,Thank you.,10,0.2
+165,STAFF MEMBER,Here we go.,11,0.22
+166,ZOE,Come on. Thank you.,19,0.38
+167,BILLY,Jambo. Jambo.  ,15,0.3
+168,JACK, Huh.,5,0.1
+169,LAUREN,"Oh, look at this view.",22,0.44
+170,LAUREN,"Oh, look at this room.",22,0.44
+171,LAUREN,Jack! ,6,0.12
+172,JACK,Wow.,4,0.08
+173,LAUREN,Look at this.,13,0.26
+174,JACK,Huh!,4,0.08
+175,LAUREN,Beautiful.,10,0.2
+176,JACK,,0,0.0
+177,JACK,"Yeah, it should be for the price we paid. Wow.",46,0.92
+178,LAUREN,"Oh, Jack.",9,0.18
+179,JACK,Huh.,4,0.08
+180,JACK,"Do you see a WiFi password, huh?",32,0.64
+181,LAUREN,"Oh, Jack. Would you just relax?",31,0.62
+182,JACK,I will. I will. I just--,24,0.48
+183,JACK,I wanted to send a couple of emails first,41,0.82
+184,JACK,and then…,9,0.18
+185,JACK,I will relax.,13,0.26
+186,LAUREN,Hey.,4,0.08
+187,JACK,Huh?,4,0.08
+188,LAUREN,Still high. ,12,0.24
+189,JACK,What?,5,0.1
+190,LAUREN,My levels.,10,0.2
+191,LAUREN,Still high from the travel.,27,0.54
+192,JACK,"Oh, wait. ",10,0.2
+193,JACK,It's beautiful.,15,0.3
+194,LAUREN,It really is.,13,0.26
+195,JACK,"No, you are.",12,0.24
+196,JACK,You're always beautiful.,24,0.48
+197,LAUREN,Jack. ,6,0.12
+198,BILLY,Ooh.,4,0.08
+199,ZOE,Ugh.,4,0.08
+200,ZOE,"Oh my God, wait.",16,0.32
+201,ZOE,Are we all sharing?,19,0.38
+202,ZOE,I thought we get our own rooms.,31,0.62
+203,NOAH,You think I'm happy about it?,29,0.58
+204,BILLY,This is not cool.,17,0.34
+205,ZOE,Fucking Jack.,13,0.26
+206,ZOE,He doesn't even get us our own rooms.,37,0.74
+207,NOAH,Stop calling him Jack.,22,0.44
+208,NOAH,Why don't you call him Dad anymore? It's weird.,47,0.94
+209,NOAH,"Well, you guys can fight over the car.",38,0.76
+210,ZOE,"No, no, no.",11,0.22
+211,NOAH,I'm not sleeping over there.,28,0.56
+212,LAUREN,"When I was a little girl,",25,0.5
+213,LAUREN,"I had this book about Africa,",29,0.58
+214,LAUREN,and this mountain was on the cover of it.,41,0.82
+215,LAUREN,And I used to stare at it for hours,35,0.7
+216,LAUREN,just wishing I was there.,25,0.5
+217,LAUREN,And now I'm finally here.,25,0.5
+218,LAUREN,I just can't believe it.,24,0.48
+219,JACK,,0,0.0
+220,JACK,"Hey, I'm sorry.",15,0.3
+221,JACK,I'm sorry if I've been…,23,0.46
+222,LAUREN,An asshole?,11,0.22
+223,JACK,"I was gonna say distant. But asshole works, yeah.",49,0.98
+224,LAUREN,"Sorry, Jack. I know-- I can tell you've got",43,0.86
+225,LAUREN,a lot on your mind.,19,0.38
+226,LAUREN,"You know, you could share.",26,0.52
+227,JACK,I just want the last family vacation,36,0.72
+228,JACK,before Zoe goes off to college to be special. ,46,0.92
+229,LAUREN,If she goes off to college.,27,0.54
+230,LAUREN,"You heard her, Jack.",20,0.4
+231,JACK,She's gonna go to college.,26,0.52
+232,JACK,"Who drops out of MIT to work in a vegan coffee shop,",52,1.04
+233,JACK,for crying out loud?,20,0.4
+234,JACK,Is she gonna throw her life away?,33,0.66
+235,LAUREN,"Well, I spent seven years in medical school",43,0.86
+236,LAUREN,and haven't worked in 15.,25,0.5
+237,LAUREN,She wants to find herself.,26,0.52
+238,JACK,She can find herself after college.,35,0.7
+239,JACK,"You know, you know what it is?",30,0.6
+240,JACK,It's that boyfriend of hers.,28,0.56
+241,JACK,That's who's doing this.,24,0.48
+242,JACK,"I mean, why is he even here, huh?",33,0.66
+243,LAUREN," You want Zoe, you get Billy.",29,0.58
+244,LAUREN,That's young love.,18,0.36
+245,JACK,"Yeah, he's not that young.",26,0.52
+246,LAUREN,Same age difference as we were.,31,0.62
+247,JACK,Yeah. But you didn't make me cut all my hair off.,49,0.98
+248,JACK,Quit college.,13,0.26
+249,LAUREN,You never had long hair.,24,0.48
+250,LAUREN,"Look, he's a nice kid.",22,0.44
+251,LAUREN,He really likes Zoe. I like him.,32,0.64
+252,JACK,Yeah.,5,0.1
+253,JACK,You don't have to pay for him.,30,0.6
+254,LAUREN,"Gosh, can you just relax, Jack?",31,0.62
+255,LAUREN,Relax.,6,0.12
+256,JACK, ,1,0.02
+257,JACK,Shoot.,6,0.12
+258,JACK,I stink. I'm gonna have a shower.     ,38,0.76
+259,BILLY,Lots of frogs.,14,0.28
+260,NOAH,"Oh, remember that little frog I had?",36,0.72
+261,NOAH,Ice Cream?,10,0.2
+262,ZOE,"Oh, yeah. Whatever happened to him?",35,0.7
+263,NOAH,I put him in my pocket and he died.,35,0.7
+264,ZOE,"Jesus, Noah.",12,0.24
+265,NOAH,I didn't mean to.,17,0.34
+266,BILLY,"Oh, little guy.",15,0.3
+267,BILLY,I found you.,12,0.24
+268,ZOE,"Oh, my God. Oh…",15,0.3
+269,BILLY,Do you know what this is?,25,0.5
+270,NOAH,Grass?,6,0.12
+271,BILLY,"No, my friend. Not grass.",25,0.5
+272,BILLY,This…,5,0.1
+273,BILLY,is salvia.,10,0.2
+274,ZOE,Salvia.,7,0.14
+275,BILLY,Also known as Lady Sally.,25,0.5
+276,BILLY,Used by many for its analgesic and antispasmodic properties.,60,1.2
+277,BILLY,"But most importantly, it gets you high as fuck.",47,0.94
+278,NOAH,I'm sure it's just a shrub.,27,0.54
+279,BILLY,"Guess we'll find out in, what?",30,0.6
+280,BILLY,Twenty minutes?,15,0.3
+281,NOAH,Zo!,3,0.06
+282,ZOE,What?,5,0.1
+283,NOAH,We're like a 100 miles from a hospital.,39,0.78
+284,ZOE,"Oh, my God. You sound like Jack. Ugh.",37,0.74
+285,NOAH,"You know, that actually makes him really upset",46,0.92
+286,NOAH,when you call him that.,23,0.46
+287,ZOE,He can take it.,15,0.3
+288,ZOE,It's fine.,10,0.2
+289,BILLY,"Come on, Zoe.",13,0.26
+290,NOAH,I'm actually going to do a workout,34,0.68
+291,NOAH,"with Dad before dinner,",23,0.46
+292,NOAH,doing like an African circuit thing…,36,0.72
+293,ZOE AND BILLY,,0,0.0
+294,NOAH,Okay.,5,0.1
+295,LAUREN,You've been fired?,18,0.36
+296,JACK,You looked… you looked at my phone?,35,0.7
+297,JACK,That's an invasion of my--,26,0.52
+298,LAUREN,"Don't you dare, Jack.",21,0.42
+299,JACK,Give me my phone. Give me my phone. Give me my--,48,0.96
+300,LAUREN,What happened?,14,0.28
+301,JACK,Nothing. I wasn't fired. It was…,32,0.64
+302,JACK,it's administrative leave-- It is nothing.,42,0.84
+303,LAUREN,Jack! Stop it!,14,0.28
+304,JACK,Nothing happened. Okay?,23,0.46
+305,LAUREN,What happened?,14,0.28
+306,JACK,Nothing. I just-- there was a small problem,43,0.86
+307,JACK,with the Dakota pipeline and it…,32,0.64
+308,JACK,it's standard protocol,22,0.44
+309,JACK,to put the project manager on administrative leave,50,1.0
+310,JACK,while they clean it up.,23,0.46
+311,LAUREN,Clean it up? What?,18,0.36
+312,LAUREN,Was there a spill?,18,0.36
+313,JACK,A little bit. It was handled.,29,0.58
+314,JACK,"I mean, maybe a little late.",28,0.56
+315,LAUREN,Ho-- how bad was it? Why didn't you tell me?,44,0.88
+316,JACK,I did-- I didn't tell you because I wanted you,46,0.92
+317,JACK,"to enjoy this vacation, okay?",29,0.58
+318,JACK,God knows it costs enough.,26,0.52
+319,LAUREN,Wait… do we have to worry about money now? I--,46,0.92
+320,JACK,Things could get a little tight,31,0.62
+321,JACK,and we might need to tighten our belts a little after this. Yeah.,65,1.3
+322,LAUREN,Are you going to be fired?,26,0.52
+323,JACK,"No, I'm not going to be fired. Okay?",36,0.72
+324,JACK,"No, it's not like that. I…",26,0.52
+325,JACK,I don't think so.,17,0.34
+326,JACK,I'll go back as soon as they sort it out.,41,0.82
+327,JACK,Can I please have my phone?,27,0.54
+328,ZOE,,0,0.0
+329,BILLY,,0,0.0
+330,ZOE,"Wait, Billy. Wow.",17,0.34
+331,BILLY,Whoa.,5,0.1
+332,ZOE,Wow.,4,0.08
+333,ZOE,What is this place?,19,0.38
+334,BILLY,Wow. ,5,0.1
+335,ZOE,So cool.,8,0.16
+336,ZOE,"Wait, Billy, look. Look at the Milky Way.",41,0.82
+337,ZOE,"Oh, my God. It's so cool.",25,0.5
+338,ZOE,You see this?,13,0.26
+339,ZOE,Oh.,3,0.06
+340,BILLY,"Hey, baby?",10,0.2
+341,ZOE,What?,5,0.1
+342,BILLY,You're the starlight queen.,27,0.54
+343,ZOE,Hm.,3,0.06
+344,ZOE,  ,2,0.04
+345,LAUREN,"Oh, thank you.  ",16,0.32
+346,ZOE, That was so cool.,18,0.36
+347,ZOE,"Hey, come dance!",16,0.32
+348,ZOE,Come on.,8,0.16
+349,ZOE,Come and dance.,15,0.3
+350,ZOE,No? Okay. ,10,0.2
+351,BILLY,,0,0.0
+352,JACK,Let's go. Come on.,18,0.36
+353,JACK,Seven-eight-nine.,17,0.34
+354,JACK,"More pushups, let's go.",23,0.46
+355,JACK,"One-two-three, and now clap it out.",35,0.7
+356,JACK,Five-six-seven. Come on. Come on.,33,0.66
+357,JACK,"Hey, seven, seven.",18,0.36
+358,NOAH,"Oh, geez, Dad. Slow, slow. Come on.",35,0.7
+359,NOAH,Okay. ,6,0.12
+360,JACK,"Hey, come on. One more set. One more set.",41,0.82
+361,NOAH,We've been going for like 10 minutes.,37,0.74
+362,NOAH,Jesus.,6,0.12
+363,JACK,"All right. All right, let's go.",31,0.62
+364,JACK,"Oh, okay. You get a break. You get 30 seconds. Let's go.",56,1.12
+365,NOAH,Dad…,4,0.08
+366,JACK,Huh?,4,0.08
+367,NOAH,Are you okay?,13,0.26
+368,JACK,"Yeah, I'm fine.",15,0.3
+369,NOAH,You and Mom got in a fight again.,33,0.66
+370,JACK,Twenty-five--,13,0.26
+371,JACK,"no, no, we're fine. Everything's good. We--",43,0.86
+372,JACK, We're fine.,12,0.24
+373,JACK,"I promise. How's your,",22,0.44
+374,JACK,"uh, relationship? How's your, uh…",33,0.66
+375,NOAH,Sam?,4,0.08
+376,JACK,How's Sam?,10,0.2
+377,NOAH,You don't have to ask. I know you don't… want to.,49,0.98
+378,JACK,No. I do. I do.,15,0.3
+379,JACK,I want to know how… how is he?,30,0.6
+380,NOAH,,0,0.0
+381,NOAH,Fine?,5,0.1
+382,JACK,"He's not distracting you, is he?",32,0.64
+383,NOAH,"No, he's not distracting me.",28,0.56
+384,JACK,All right.,10,0.2
+385,JACK,"It's just, you know, it's… something that your coach said.",58,1.16
+386,NOAH,What?,5,0.1
+387,JACK,He was just checking if you were okay.,38,0.76
+388,JACK,"I mean, what with all the doctor's appointments",47,0.94
+389,JACK,that you've been going to over the last few weeks.,50,1.0
+390,JACK,The ones that conveniently fall between the hours,49,0.98
+391,JACK,"of 6 and 8 p.m., right in the middle of practice.",49,0.98
+392,JACK,"I mean, from where I'm standing,",32,0.64
+393,JACK,this thing is distracting you.,30,0.6
+394,NOAH,No. Sam is not a thing.,23,0.46
+395,JACK,You know what I'm saying.,25,0.5
+396,NOAH,"Yes, I do know what you're saying.",34,0.68
+397,NOAH,You wish that Sam was my girlfriend.,36,0.72
+398,NOAH,But he's not. He's my boy--,27,0.54
+399,JACK,That's not-- ,13,0.26
+400,JACK,Hey!,4,0.08
+401,JACK,I don't know. I don't know. But--,33,0.66
+402,NOAH,What is it?,11,0.22
+403,JACK,I don't know.,13,0.26
+404,JACK,What the hell happened?,23,0.46
+405,LAUREN,It was a hyena.,15,0.3
+406,LAUREN,He just walked right up here.,29,0.58
+407,LAUREN,Ran right up here.,18,0.36
+408,JACK,"Well, is-- is everyone okay?",28,0.56
+409,LAUREN,Everyone's fine.,16,0.32
+410,JACK,You okay? You okay?,19,0.38
+411,LAUREN,Yeah. Yeah.,11,0.22
+412,WOMAN,It came… it came tripping off of the trees. ,44,0.88
+413,LAUREN,"Oh, wow.",8,0.16
+414,LAUREN,"Yeah, look at him. Yeah, he's right there.",42,0.84
+415,JACK,"Yeah, he's right there. ",24,0.48
+416,MAN,Did you see that mangy looking dog like thing?,46,0.92
+417,LAUREN,"Oh, I thought he was pretty handsome.",37,0.74
+418,LUCAS,He was just looking for food.,29,0.58
+419,LUCAS,"No harm, everyone.",18,0.36
+420,ZOE,"Hey, are you okay?",18,0.36
+421,LAUREN,"It's a hyena, Noah.",19,0.38
+422,NOAH,"My God. But they're-- they're kind of dangerous, right?",55,1.1
+423,BILLY,"Well, they're scavengers, bro.",30,0.6
+424,BILLY,"Nature's trash cans, right?",27,0.54
+425,LUCAS,"That's true, Billy.",19,0.38
+426,LUCAS,But when alone is just harmless.,32,0.64
+427,LUCAS,"But if they're in a group, they're very dangerous.",50,1.0
+428,LUCAS,They can even kill a lion.,26,0.52
+429,LAUREN,Okay.,5,0.1
+430,LUCAS,"If found alone, this can do the magic.",38,0.76
+431,LUCAS,"It's all you need, really.",26,0.52
+432,LUCAS,That's okay. Just go back to having fun.,40,0.8
+433,JACK,"You know, uh, no hyenas in Bora Bora.",37,0.74
+434,LUCAS,,0,0.0
+435,GROUP,,0,0.0
+436,JACK,Come on. ,9,0.18
+437,ZOE,"Oh, thank you.  ",16,0.32
+438,LAUREN,"Jack, can you put that away?",28,0.56
+439,JACK,"Yeah, yeah. ",12,0.24
+440,ZOE,Good morning.,13,0.26
+441,LAUREN,"Morning, honey.",15,0.3
+442,JACK,"Morning, sweetheart.",20,0.4
+443,ZOE,"So cool, Jack.",14,0.28
+444,JACK,What?,5,0.1
+445,BILLY,,0,0.0
+446,ZOE,Mom. Why so early?,18,0.36
+447,LAUREN,"Adventure begins early, honey.",30,0.6
+448,LAUREN,Have some coffee to wake up.,28,0.56
+449,ZOE,Isn't there any adventure after 10 a.m.?,40,0.8
+450,LAUREN,Who's ready for the big five?,29,0.58
+451,NOAH,What's the big five?,20,0.4
+452,BILLY,"Ah, lion, elephant, buffalo, leopard and… shit.",47,0.94
+453,ZOE,Rhino.,6,0.12
+454,BILLY,,0,0.0
+455,LAUREN,"Oh, I hope we see a rhino.",26,0.52
+456,LAUREN,"Jack, do you think we'll see a rhino?",37,0.74
+457,JACK,Thank you.,10,0.2
+458,JACK,We will. We will see a rhino.,29,0.58
+459,JACK,I promise.,10,0.2
+460,ZOE,Whoo. Big promise.,18,0.36
+461,LAUREN,We just have to find them.,26,0.52
+462,JACK,What the brochure said to us.,29,0.58
+463,ZOE,Obviously that wouldn't lie.,28,0.56
+464,JACK,Never.,6,0.12
+465,LAUREN,Wow.,4,0.08
+466,JACK,"Oh, my goodness. Okay.",22,0.44
+467,LAUREN,"What do you feel, Jack?",23,0.46
+468,JACK,I feel like… I feel like we're in a--,37,0.74
+469,LAUREN,"Yeah, well.",11,0.22
+470,JACK,,0,0.0
+471,LAUREN,Get ready for our day.,22,0.44
+472,LUCAS,"Good morning, Halsey family.",28,0.56
+473,ALL,Good morning. Good morning.,27,0.54
+474,LUCAS,And what do you have planned for this glorious day?,51,1.02
+475,ALL,A safari.,9,0.18
+476,LUCAS,Oh. Um…,7,0.14
+477,LAUREN,Is something wrong?,19,0.38
+478,LUCAS,"No, not at all.",15,0.3
+479,LUCAS,Could I please have a word with you?,36,0.72
+480,JACK,"Yeah, of course, of course.",27,0.54
+481,LUCAS,"Listen, Mr. Halsey.",19,0.38
+482,LUCAS,The safari is not part of your particular package.,50,1.0
+483,LUCAS,"If you recall, when you booked, you canceled all the extras.",60,1.2
+484,JACK,"Yes, yes, that's right. I-I did, didn't I.",42,0.84
+485,LUCAS,Of course.,10,0.2
+486,LUCAS,But if you'd like to pay for the extras now…,44,0.88
+487,JACK,And how much would that be?,27,0.54
+488,JACK,Great news.,11,0.22
+489,JACK,We get to do our own safari today.,34,0.68
+490,LAUREN,What?,5,0.1
+491,JACK,"Yeah, yeah. Our friend Lucas back there,",40,0.8
+492,JACK,he just told me we--,20,0.4
+493,JACK,"if we want the best experience possible,",40,0.8
+494,JACK,we gotta go into the park on our own.,37,0.74
+495,NOAH,That… doesn't sound… right.,27,0.54
+496,JACK,It is. It is.,13,0.26
+497,LAUREN,Don't we need a guard?,22,0.44
+498,ZOE,"Yeah, and guns.",15,0.3
+499,JACK,"No, no, no, all that stuff is just fluff. It's extra.",53,1.06
+500,JACK,It's just one big safari park in there.,39,0.78
+501,JACK,"Besides, we have our van and our map.",37,0.74
+502,JACK,And we get to do it together. It'll be fun.,43,0.86
+503,JACK,"Our big five finds their big five, right?",41,0.82
+504,BILLY,Yeah.,5,0.1
+505,JACK,Prrrr. Right. Come on. Let's go. Let's go. Come on.,51,1.02
+506,TOURISTS,Bye.,4,0.08
+507,BILLY,Bye.,4,0.08
+508,FEMALE TOURIST,Bye. Have fun.,14,0.28
+509,JACK,Bye-bye. Have a good one.,25,0.5
+510,NOAH,We have to try. Let's see.,26,0.52
+511,BILLY,"One, two, three. ",17,0.34
+512,NOAH AND BILLY,,0,0.0
+513,LAUREN,"Oh, my God. Oh, that's great, guys.",35,0.7
+514,NOAH,Cool.,5,0.1
+515,LAUREN,This is gonna work out just fine.,33,0.66
+516,ZOE,"Plastic water bottles, Jack?",28,0.56
+517,ZOE,They have glass ones here.,26,0.52
+518,ZOE,Here they actually care about the environment.,46,0.92
+519,BILLY,"Yeah, you know, the main product",32,0.64
+520,BILLY,"of the water bottle industry is plastic. Not water, Jack.",57,1.14
+521,JACK,Excuse me. Excuse me.,21,0.42
+522,ZOE,You know that?,14,0.28
+523,JACK,Thank you.,10,0.2
+524,STAFF MEMBER,You're welcome.,15,0.3
+525,JACK,"Did you know that, honey?",25,0.5
+526,LAUREN,"It's true, honey.",17,0.34
+527,LAUREN,Too much plastic in the world.,30,0.6
+528,LAUREN,Okay. Are we good to go?,24,0.48
+529,NOAH,Yeah. Got your insulin?,23,0.46
+530,LAUREN,"Yes, I do.",10,0.2
+531,LAUREN,Are we ready for an adventure?,30,0.6
+532,ZOE,Yeah.,5,0.1
+533,BILLY,Mm-hm.,6,0.12
+534,JACK,"All right, here we go. ",23,0.46
+535,LAUREN,Let's do this.,14,0.28
+536,JACK,"Oh, shit. I forgot my sunglasses.",33,0.66
+537,JACK,That's… it's gonna be what it's gonna be.,41,0.82
+538,LAUREN,Oh… are you sure?,17,0.34
+539,JACK,It's fine.,10,0.2
+540,BILLY,Whoo. Do not get out of your vehicle at any time.,49,0.98
+541,NOAH,"Oh, this is cool.",17,0.34
+542,LAUREN,Do not exceed 30 kilometers an hour.,36,0.72
+543,BILLY,Do not litter.,14,0.28
+544,JACK,Here we are.,12,0.24
+545,ZOE,Okay.,5,0.1
+546,BILLY,Okay.,5,0.1
+547,LAUREN,"Zoe, are you seeing this?",25,0.5
+548,JACK,"Wow, wow, wow.",14,0.28
+549,LAUREN,I'm so excited.,15,0.3
+550,JACK,I can't believe it. Okay. I'm a little bit excited.,51,1.02
+551,MAN,How are you? .,14,0.28
+552,NOAH,"Oh, she's gonna try and sell you something, Mom.",48,0.96
+553,LAUREN,They're so pretty!,18,0.36
+554,LAUREN,"Zoe, are you seeing this?",25,0.5
+555,ZOE,No. Mom.  like 20 bucks.,24,0.48
+556,STAFF MEMBER,Hello.,6,0.12
+557,JACK,"Hi there, hi. Good morning.",27,0.54
+558,STAFF MEMBER,"How are you, sir?",17,0.34
+559,JACK,"Hi, there. Hi. Good morning. Ah, jambo.",39,0.78
+560,BILLY,That one was late.,18,0.36
+561,ZOE,"Mom, you gotta get one.",23,0.46
+562,STAFF MEMBER,Welcome to Amboseli.,20,0.4
+563,WOMAN,"Please, please.",15,0.3
+564,NOAH,Did you bring Kenyan money?  ,29,0.58
+565,LAUREN,They look like this.,20,0.4
+566,JACK,What are you doing?,19,0.38
+567,JACK,What are you doing?,19,0.38
+568,LAUREN,"Shh. Jack, come on.",19,0.38
+569,LAUREN,Did you bring--,15,0.3
+570,JACK,We don't need a belt. ,22,0.44
+571,LAUREN,It's so beautiful. This one was made here.,42,0.84
+572,NOAH,Hi.,3,0.06
+573,BILLY,.,1,0.02
+574,TOURIST,"Hey, what's going on?",21,0.42
+575,JACK,What do we need a belt for?,27,0.54
+576,JACK,"Don't-- don't waste our money, hon.",35,0.7
+577,LAUREN,They're made here.,18,0.36
+578,JACK,Made-- made here.,17,0.34
+579,JACK,Made in China.,14,0.28
+580,NOAH,"Oh, no thanks.",14,0.28
+581,LAUREN,Wow. What's going on over there?,32,0.64
+582,ZOE,Why is he--,11,0.22
+583,BILLY,…poachers.,10,0.2
+584,LAUREN,I thought they said poaching wasn't really a thing here.,56,1.12
+585,NOAH,They don't look like poachers.,30,0.6
+586,ZOE,And what are poachers supposed to look like?,44,0.88
+587,NOAH,Not tourists. ,14,0.28
+588,BILLY,"Those bastards kill, like,",26,0.52
+589,BILLY,"a 1,000 rhinos a year.",22,0.44
+590,ZOE,Holy shit. That's three rhinos a day.,37,0.74
+591,JACK,"That's quick math, hon.",23,0.46
+592,LAUREN,"Wait, so you don't think we'll see a rhino?",43,0.86
+593,ZOE,"You don't have to sound too shocked, Jack.",42,0.84
+594,BILLY,"Nah, sorry, Mrs. H.",19,0.38
+595,BILLY,They're as rare as pink and fluffy unicorn shit.,48,0.96
+596,JACK,"Hey, excuse me. Excuse me. Do you mind?",39,0.78
+597,STAFF MEMBER,One minute.,11,0.22
+598,STAFF MEMBER,Please wait.,12,0.24
+599,JACK,"Excuse me, sir. Do you mind if--",32,0.64
+600,JACK,do you mind if we just go through? ,35,0.7
+601,LAUREN,"Oh, my God.",11,0.22
+602,NOAH,Holy shit. ,11,0.22
+603,LAUREN,"Jack. Jack, what are you doing?",31,0.62
+604,JACK,You wanna go on a safari?,25,0.5
+605,JACK,I'm gonna take you on a gosh darn safari.,41,0.82
+606,LAUREN,,0,0.0
+607,LAUREN,Jack! Jack! Jack! ,18,0.36
+608,JACK,Sometimes you have to break the rules.,38,0.76
+609,JACK,We'll pay when we come out.,27,0.54
+610,NOAH,Yeah!  ,7,0.14
+611,ZOE,Are these the right roads?,26,0.52
+612,ZOE,I don't see any animals.,24,0.48
+613,ZOE,We did come to the right place.,31,0.62
+614,ZOE,Right?,6,0.12
+615,JACK,"There's not much here, is there?",32,0.64
+616,LAUREN,"Well, you know, it's not a zoo.",31,0.62
+617,LAUREN,"I mean, they're here. They're just not close.",45,0.9
+618,LAUREN,Jack.,5,0.1
+619,JACK,What?,5,0.1
+620,LAUREN,What are you doing?,19,0.38
+621,NOAH,We're not allowed that way.,27,0.54
+622,JACK,I bet it loops back to the main road.,37,0.74
+623,LAUREN,What makes you think that?,26,0.52
+624,JACK,Go check the map.,17,0.34
+625,NOAH,There's no sign.,16,0.32
+626,JACK,"Look, your mom wants to see a rhino.",36,0.72
+627,JACK,I'm gonna find her a rhino.,27,0.54
+628,JACK,This… I will make happen.,25,0.5
+629,ZOE,"All about breaking the rules today, huh?",40,0.8
+630,JACK,Looks like it.,14,0.28
+631,JACK,"Hey, if you see a traffic cop, let me know.",43,0.86
+632,BILLY,,0,0.0
+633,JACK,Off-road adventure.,19,0.38
+634,BILLY,,0,0.0
+635,JACK,All right. Watch your head.,27,0.54
+636,JACK,Watch your heads. Just a little--,33,0.66
+637,JACK,little  in here.,16,0.32
+638,BILLY,"Oh. Oh, ",8,0.16
+639,JACK,All right. Here we go.,22,0.44
+640,LAUREN,"Any water back there, guys?",27,0.54
+641,ZOE,Yeah.,5,0.1
+642,BILLY,Here you go.,12,0.24
+643,BILLY,"Here you go, Mrs. H.",20,0.4
+644,LAUREN,Thank you.,10,0.2
+645,BILLY,I know.,7,0.14
+646,BILLY,I spy with my little eye something beginning with…,50,1.0
+647,BILLY,Holy shit.,10,0.2
+648,ZOE,What?,5,0.1
+649,JACK,What is it?,11,0.22
+650,BILLY,"No, no. Over there.",19,0.38
+651,NOAH,"I don't think that's how the game works, Billy.",47,0.94
+652,BILLY,"No, no. Over there. Over there. ",32,0.64
+653,ZOE,Where?,6,0.12
+654,BILLY,There.,6,0.12
+655,ZOE,What?,5,0.1
+656,BILLY,The dead thing in the tree right there.,39,0.78
+657,ZOE,Ugh.,4,0.08
+658,NOAH,"What is that, a deer?",21,0.42
+659,BILLY,Maybe an antelope or something?,31,0.62
+660,ZOE,How did it even get up there?,29,0.58
+661,NOAH,Jump?,5,0.1
+662,ZOE,And get stuck?,14,0.28
+663,JACK,Can they climb?,15,0.3
+664,LAUREN,"No, I don't think so.",21,0.42
+665,JACK,Geez.,5,0.1
+666,ZOE,That's gross.,13,0.26
+667,ZOE,"Billy, that's gross.",20,0.4
+668,BILLY,Gross?,6,0.12
+669,ZOE,It's dead.,10,0.2
+670,BILLY,It's… it's wildlife.,20,0.4
+671,BILLY,There's flies there. They're alive.,35,0.7
+672,ZOE,Billy.,6,0.12
+673,BILLY,I see some maggots over there and some flies.,45,0.9
+674,JACK,"All right, come on. Hold on. ",29,0.58
+675,NOAH,"Wait, wait. Can I get a picture?",32,0.64
+676,JACK,"No, you can't get a picture, Noah.",34,0.68
+677,ZOE,Ew. Are you a serial killer?,28,0.56
+678,NOAH,What?,5,0.1
+679,ZOE,Don't take a picture of that.,29,0.58
+680,NOAH,We're not gonna see another animal in a tree.,45,0.9
+681,JACK,I'm sure we will see lots of dead animals.,42,0.84
+682,NOAH,I'm gonna send it to Sam.,25,0.5
+683,NOAH,Dad?,4,0.08
+684,JACK,"Yeah, bud.",10,0.2
+685,NOAH,Can I drive for a bit?,22,0.44
+686,JACK,"Um. Well, it's a stick.",23,0.46
+687,NOAH,I can drive a stick.,20,0.4
+688,JACK,"I don't know, pal.",18,0.36
+689,JACK,I don't think the insurance will cover--,40,0.8
+690,NOAH,What? You said you were all about breaking the rules today.,59,1.18
+691,LAUREN,"Come on, Jack. Let him drive.",29,0.58
+692,JACK,"Okay, all right. All right, bud. Yeah, you can drive.",53,1.06
+693,ZOE,"Well, that's us dead.",21,0.42
+694,NOAH,I'm actually a really good driver.,34,0.68
+695,ZOE,Mm. I think the back of Dad's Porsche,37,0.74
+696,ZOE,would disagree with that.,25,0.5
+697,BILLY,,0,0.0
+698,NOAH,That was not my fault. I buffed it out.,39,0.78
+699,NOAH,At least I have a license.,26,0.52
+700,ZOE,"Hey, I can drive.",17,0.34
+701,BILLY,She can drive.,14,0.28
+702,ZOE,I can drive.,12,0.24
+703,NOAH,Not according to the state of California.,41,0.82
+704,LAUREN,"Guys, guys, guys.",17,0.34
+705,ZOE,That's just a piece of paper.,29,0.58
+706,NOAH,It's actually--,15,0.3
+707,LAUREN,"Noah, come on up here.",22,0.44
+708,JACK,Want to do it here?,19,0.38
+709,LAUREN,I need my fixin'.,17,0.34
+710,JACK,All right. All right. Hold on.,30,0.6
+711,JACK,All right.,10,0.2
+712,LAUREN,…my fix. ,9,0.18
+713,JACK,"All right. Hop up here, bud.",28,0.56
+714,JACK,There you go.,13,0.26
+715,JACK,"All right, big guy. There you go. Okay.",39,0.78
+716,JACK,"All right. No more than 10, okay?",33,0.66
+717,NOAH,What? That's walking.,21,0.42
+718,BILLY,Do it.,6,0.12
+719,BILLY,"Come on, Noah. Put your feet on the gas.",40,0.8
+720,ZOE,No. 20.,7,0.14
+721,LAUREN,Twenty. No. no.,15,0.3
+722,JACK,Shut up. Okay.,14,0.28
+723,JACK,"Both-- both feet down, right. Clutch all the way",48,0.96
+724,JACK,to the floor. ,14,0.28
+725,JACK,"Over and up. Now, a little bit of gas.",38,0.76
+726,JACK,Let go of that clutch.,22,0.44
+727,JACK,That's okay. That's okay.,25,0.5
+728,ZOE,"Oh, wow. Such a good driver.",28,0.56
+729,BILLY,"Way to go, Noah.",16,0.32
+730,ZOE,Such a good driver. ,20,0.4
+731,ZOE,,0,0.0
+732,BILLY,,0,0.0
+733,LAUREN,"Yeah, there we go.",18,0.36
+734,BILLY,,0,0.0
+735,BILLY,Now we're gonna see some wildlife. ,35,0.7
+736,NOAH,We don't want any more zebra. Okay?,35,0.7
+737,ZOE,Yeah.,5,0.1
+738,LAUREN,Are we bored with zebra?,24,0.48
+739,LAUREN,"Gosh, I can't believe-- ",24,0.48
+740,LAUREN,Yeah. Whoever thought we'd be bored by a zebra.,47,0.94
+741,JACK,"Bored by zebras. Bored by zebras, that's right.",47,0.94
+742,LAUREN,Bored by zebras. Right?,23,0.46
+743,JACK,"That is amazing. Billy, Zoe, not again.",39,0.78
+744,LAUREN AND NOAH,"Oh, my!",7,0.14
+745,ZOE,"What the fuck, Noah!",20,0.4
+746,LAUREN,Oh my… gosh.,12,0.24
+747,LAUREN,"My gosh! Oh, my…",16,0.32
+748,ZOE,"Oh, wow.",8,0.16
+749,JACK,"Got you a rhino, baby.",22,0.44
+750,LAUREN,"Oh, yes, you did, baby. This is incredible.",43,0.86
+751,LAUREN,Wow. It's gorgeous.  ,21,0.42
+752,JACK,Wow! ,5,0.1
+753,LAUREN,"Hey guys, can we get a little closer?",37,0.74
+754,LAUREN,Just a little bit.,18,0.36
+755,NOAH,Can I?,6,0.12
+756,LAUREN,Please.,7,0.14
+757,JACK,"Yeah, yeah, go ahead. Just put some nice--",42,0.84
+758,LAUREN,"Oh, wow. This is unbelievable.",30,0.6
+759,LAUREN,"Just a little, ah! Giant animal with a spike on its face.",57,1.14
+760,BILLY,What could possibly go wrong?,29,0.58
+761,NOAH,"Mom, are you getting the picture? ",34,0.68
+762,LAUREN,"I mean, never in my wildest dreams.",35,0.7
+763,LAUREN, Are you seeing-- ,18,0.36
+764,LAUREN,"Oh, wow.",8,0.16
+765,LAUREN,"Oh, wow.",8,0.16
+766,LAUREN,"Zoe, look at this. Is this--",28,0.56
+767,LAUREN,"is that a baby? Look, is that a baby?",37,0.74
+768,ZOE,"Oh, my God. That is so cute.",28,0.56
+769,LAUREN,Hi! Look at the baby.,21,0.42
+770,BILLY,"Wait, we shouldn't be getting",29,0.58
+771,BILLY,between them. Right?,20,0.4
+772,JACK,"Yeah, I can't believe",21,0.42
+773,JACK,"I'm saying this, but I agree with you, Billy.",45,0.9
+774,JACK,"Back, back it up just a bit.",28,0.56
+775,NOAH,"Wait, I'm not--",15,0.3
+776,NOAH,"Wait, I'm not good at reversing.",32,0.64
+777,JACK,"Lauren, Lauren. Would you get down, honey?",42,0.84
+778,NOAH,Is that in reverse?,19,0.38
+779,JACK,That's in reverse. There you go. There you go.,46,0.92
+780,ZOE,"Oh, my God. Noah, back it up. ",30,0.6
+781,ZOE,"Noah, back it up!",17,0.34
+782,JACK,It's okay.,10,0.2
+783,NOAH,"I'm sorry. Sorry, okay? ",24,0.48
+784,ZOE,"Oh, my gosh. Stop it. Noah!",27,0.54
+785,NOAH,"I'm not good at reversing, I'm sorry.",37,0.74
+786,JACK,Slowly. There you go.,21,0.42
+787,LAUREN,"Oh, my gosh. Oh, my gosh. ",26,0.52
+788,NOAH,"Oh, my God! Dad.",16,0.32
+789,JACK,"No, you're okay.  ",18,0.36
+790,ALL, ,1,0.02
+791,ALL,,0,0.0
+792,LAUREN,"Drive! Jack, drive. ",20,0.4
+793,JACK,"Oh, oh, my gosh. Oh, my gosh. It's okay. It's okay.",51,1.02
+794,JACK,She's done. She's done.,23,0.46
+795,JACK,She's not done. She's not done.,31,0.62
+796,ALL, ,1,0.02
+797,LAUREN,Jack!,5,0.1
+798,BILLY,She gone?,9,0.18
+799,JACK,Shh… shh… ,10,0.2
+800,ALL,,0,0.0
+801,JACK,No! No! No! ,12,0.24
+802,JACK,"Oh, my God! ",12,0.24
+803,ALL,,0,0.0
+804,LAUREN,Everybody okay?,15,0.3
+805,LAUREN,Noah. Zoe.,10,0.2
+806,ZOE,"Oh, fuck!",9,0.18
+807,NOAH,She's gone.,11,0.22
+808,NOAH,She's gone. She's gone. She's gone. ,36,0.72
+809,NOAH,Are you okay?,13,0.26
+810,NOAH,She's gone. She's gone. She's gone.,35,0.7
+811,LAUREN,"She's gone, Jack.",17,0.34
+812,JACK,,0,0.0
+813,LAUREN,You got-- you got tagged.,25,0.5
+814,JACK, Did it hit the femoral?,24,0.48
+815,LAUREN,"Ah, no. It did not hit the femoral.",35,0.7
+816,LAUREN,"If it did, you'd be dead by now.",32,0.64
+817,LAUREN,But you know what? You're bleeding badly.,41,0.82
+818,JACK,That's okay. Is everyone okay?,30,0.6
+819,LAUREN,"I'll be right there, Zoe.",25,0.5
+820,LAUREN,You hang in there. ,19,0.38
+821,BILLY,"Okay, okay.",11,0.22
+822,NOAH,Zoe?,4,0.08
+823,BILLY,,0,0.0
+824,ZOE,"Yeah, yeah. Just stop touching it.",34,0.68
+825,JACK,"Honey, are you okay, baby?",26,0.52
+826,JACK,,0,0.0
+827,LAUREN,Okay. Put all your weight on that.,34,0.68
+828,JACK,Okay. That's great.,19,0.38
+829,LAUREN,All right. Okay.,16,0.32
+830,ZOE,My head--,9,0.18
+831,NOAH,Are you okay?,13,0.26
+832,JACK,"Noah? Are you okay, buddy?",26,0.52
+833,LAUREN,There's so much blood.,22,0.44
+834,NOAH,"I'm all right, Dad.",19,0.38
+835,LAUREN,So much blood.,14,0.28
+836,JACK,I think-- I think it's bad.,27,0.54
+837,ZOE,Mom… Mom… ,10,0.2
+838,NOAH,"Mom, what's happening?",22,0.44
+839,LAUREN,"Are you all right, Noah?",24,0.48
+840,LAUREN,Are you okay? Okay. All right.,30,0.6
+841,LAUREN,"Okay, Zoe, here I come.",23,0.46
+842,ZOE,"Mom, it's broken.",17,0.34
+843,LAUREN,It might not be broken.,23,0.46
+844,ZOE,It is broken. I know it's broken.,33,0.66
+845,LAUREN,Let me see. Let me see.,23,0.46
+846,NOAH,"Dad, what happened?",19,0.38
+847,ZOE,--fucking thing off me!,23,0.46
+848,LAUREN,Okay. All right.,16,0.32
+849,ZOE,Is it broken?,13,0.26
+850,LAUREN,Remember what happened when you fell off your bike?,51,1.02
+851,ZOE,Yeah. I remember how much it hurt.,34,0.68
+852,LAUREN,"Okay, I remember how brave you were.",36,0.72
+853,ZOE,No. I wasn't brave.,19,0.38
+854,ZOE,"I'm not, Mom. What! Billy--",27,0.54
+855,LAUREN,Brace it from behind. There we go. ,35,0.7
+856,LAUREN,,0,0.0
+857,ZOE,"Oh, fuck!",9,0.18
+858,ZOE,,0,0.0
+859,JACK,,0,0.0
+860,LAUREN,I'm fine. I'm fine. Jack?,25,0.5
+861,JACK,"Ah, yeah, yeah.",15,0.3
+862,LAUREN,Okay.,5,0.1
+863,JACK,Thank you. Okay.,16,0.32
+864,LAUREN,"Baby, I would have done the same.",33,0.66
+865,JACK,That's okay. It's okay.,23,0.46
+866,JACK,You guys all right?,19,0.38
+867,LAUREN,"Are you okay, Zoe?",18,0.36
+868,NOAH,If I would've-- if I would've just backed up…,45,0.9
+869,NOAH,faster.,7,0.14
+870,ZOE,Been able to drive faster?,26,0.52
+871,JACK,"It's done now. It's done, all right?",36,0.72
+872,LAUREN,"Zoe, lay off.",13,0.26
+873,BILLY,"Ah, jeez.",9,0.18
+874,JACK,"Well, let's, uh, let's see if we can right this thing.",54,1.08
+875,JACK,See if it still drives.,23,0.46
+876,ZOE,What? How are we gonna do that?,31,0.62
+877,LAUREN,"Yeah. How are we gonna do that, Jack?",37,0.74
+878,JACK,We're gonna act like a family.,30,0.6
+879,JACK,All right. We're gonna work together.,37,0.74
+880,BILLY," Yeah, we got to try, man.",26,0.52
+881,JACK,Right.,6,0.12
+882,JACK,"All right, let's get some legs and arms on each corner.",55,1.1
+883,NOAH,"Dad, this thing's not gonna move.",33,0.66
+884,BILLY,.,1,0.02
+885,BILLY,"On three, right?",16,0.32
+886,JACK,Yep.,4,0.08
+887,ALL,"One, two, three.",16,0.32
+888,ALL,,0,0.0
+889,JACK,,0,0.0
+890,LAUREN,"Well, we tried.",15,0.3
+891,NOAH,Let me just get my phone.,25,0.5
+892,NOAH,Where's my phone? We can call for help.,39,0.78
+893,JACK,Come on.,8,0.16
+894,NOAH,Ah! I don't have any signal.,28,0.56
+895,LAUREN,"Hey, guys, stay close.",22,0.44
+896,LAUREN,"Don't go too far, okay? Noah?",29,0.58
+897,ZOE,Yeah. I don't .,15,0.3
+898,LAUREN,"Well, I mean, let's stay close to each other",44,0.88
+899,LAUREN,and the van.,12,0.24
+900,NOAH,Does anybody have a signal?,27,0.54
+901,BILLY,"Here you go, Mr. H.",19,0.38
+902,JACK,,0,0.0
+903,JACK,"Thanks, Billy.",14,0.28
+904,JACK,It's gonna cost a fortune.,26,0.52
+905,LAUREN,"The important thing is everybody's alive, okay?",47,0.94
+906,LAUREN,Insurance will cover it.,24,0.48
+907,LAUREN,Te-- tell me you got insurance. You got insurance?,50,1.0
+908,JACK,I got insurance. Yeah.,22,0.44
+909,LAUREN,Great.,6,0.12
+910,JACK,Fully comp was expensive.,25,0.5
+911,LAUREN,What-- what… what are we gonna do?,34,0.68
+912,LAUREN,"We've got no car, no signal.",28,0.56
+913,LAUREN,What are we gonna do?,21,0.42
+914,JACK,I… don't know. Do you?,22,0.44
+915,LAUREN,No. No. I don't.,16,0.32
+916,JACK,Then how about… how about a little equality?,44,0.88
+917,JACK,Because I'm no more equipped to deal with any of this,53,1.06
+918,JACK,than any of you.,16,0.32
+919,JACK,"Besides, someone will find us. Someone will realize",51,1.02
+920,JACK,that we haven't checked back into the lodge.,44,0.88
+921,ZOE,"No, they won't.",15,0.3
+922,ZOE,You drove through the gate without registering.,47,0.94
+923,ZOE,Do you remember?,16,0.32
+924,ZOE,No one knows that we're here.,29,0.58
+925,NOAH,"Okay, so we go back out",23,0.46
+926,NOAH,onto one of the main roads and get some help.,45,0.9
+927,NOAH,"I mean, there were cars that were passing by.",45,0.9
+928,LAUREN,We can't go walking through the bush.,37,0.74
+929,LAUREN,That's crazy.,13,0.26
+930,ZOE,Aren't you supposed to wait,27,0.54
+931,ZOE,by where the accident happened?,31,0.62
+932,BILLY,That's right.,13,0.26
+933,ZOE,"That's what they teach you. Wait, and then someone comes.",57,1.14
+934,BILLY,On a closed back road?,22,0.44
+935,NOAH,"Yeah, exactly. How is anyone gonna find us here?",48,0.96
+936,BILLY,We start a fire.,16,0.32
+937,ZOE,That's a good idea.,19,0.38
+938,NOAH,"Billy, can you start a fire?",28,0.56
+939,BILLY,I saw it on TV.,15,0.3
+940,BILLY,Naked and Afraid.,17,0.34
+941,BILLY,"You know, they do it all the time.",34,0.68
+942,BILLY,Rub sticks together.,20,0.4
+943,ZOE,"Yeah, you can start a fire. Just take the battery wires",55,1.1
+944,ZOE,from the sparkplug and make a short circuit.,44,0.88
+945,ZOE,Total fuck.,11,0.22
+946,NOAH,How are you gonna do that?,26,0.52
+947,ZOE,"Yeah, I know, the current hasn't stopped",40,0.8
+948,ZOE,because the terminal's fucked.,30,0.6
+949,JACK,"You know, that's not as dumb as it sounds, sweetheart.",54,1.08
+950,ZOE,"Oh, I'm sorry. Did it sound dumb?",33,0.66
+951,LAUREN,,0,0.0
+952,JACK,"Geez, babe.",11,0.22
+953,ZOE,"Oh, my God, Mom?",16,0.32
+954,JACK,Honey?,6,0.12
+955,BILLY,You all right?,14,0.28
+956,LAUREN,I'm fine. I'm just a little…,28,0.56
+957,LAUREN,a little anxious. Ah.,21,0.42
+958,BILLY,"You're shaking, Mrs. H. Are you cold?",37,0.74
+959,ZOE,She's not cold. It's 500 fucking degrees.,41,0.82
+960,JACK,Are you cold?,13,0.26
+961,LAUREN,"No, I, uh…",10,0.2
+962,LAUREN,could someone get my insulin?,29,0.58
+963,JACK,Okay.,5,0.1
+964,ZOE,Noah.,5,0.1
+965,JACK,"It's in her bag, Noah.",22,0.44
+966,NOAH,Okay.,5,0.1
+967,JACK,.,1,0.02
+968,NOAH,Where is it?,12,0.24
+969,JACK, It's in her little bag.,24,0.48
+970,JACK,Her little purse that she wore.,31,0.62
+971,JACK,"That's it. That's it, bud.",26,0.52
+972,JACK,It's a black… it's a black purse.,33,0.66
+973,LAUREN,I'm fine.,9,0.18
+974,JACK,"There you go, bud.",18,0.36
+975,JACK,There you go. There you go.,27,0.54
+976,JACK,You're kidding me.,18,0.36
+977,LAUREN,No. I'll be fine.,17,0.34
+978,LAUREN,"My glucose levels are high so I'll feel a little rough,",55,1.1
+979,LAUREN,but I'll be… maybe a little water.,34,0.68
+980,LAUREN,"Thanks, Billy. ",15,0.3
+981,BILLY,No water.,9,0.18
+982,LAUREN,What?,5,0.1
+983,JACK,We brought water.,17,0.34
+984,BILLY,The glass bottles broke.,24,0.48
+985,JACK,"Oh, my gosh.",12,0.24
+986,NOAH,"Oh, that's-- that's great. Save the planet.",43,0.86
+987,ZOE,Shut up.,8,0.16
+988,BILLY,"Come on, dude.",14,0.28
+989,LAUREN,"Guys, please stop.",18,0.36
+990,LAUREN,Not now.,8,0.16
+991,JACK,Okay. Okay.,11,0.22
+992,LAUREN,We've got some time. About a half a day.,40,0.8
+993,BILLY,Are you all right?,18,0.36
+994,ZOE, Diabetic ketoacidosis.,23,0.46
+995,BILLY,What does that mean?,20,0.4
+996,ZOE,"It means in about eight hours,",30,0.6
+997,ZOE,she's gonna be in a coma.,25,0.5
+998,ZOE,And then… ,10,0.2
+999,BILLY," Oh, geez.",10,0.2
+1000,JACK,"Hey, hey, there's something over there.  ",41,0.82
+1001,BILLY,What did the guy at the lodge say?,34,0.68
+1002,BILLY,"One is not a problem, right?",28,0.56
+1003,JACK,Right. Right.,13,0.26
+1004,BILLY,Okay. I got this.,17,0.34
+1005,ZOE,Billy.  Billy.,14,0.28
+1006,LAUREN,Don't.,6,0.12
+1007,BILLY,Go on.,6,0.12
+1008,BILLY,,0,0.0
+1009,BILLY,Go on.,6,0.12
+1010,BILLY,"Hey, fuck right off, you mangy half dog. ",41,0.82
+1011,BILLY,,0,0.0
+1012,BILLY,I didn't think that would actually work.,40,0.8
+1013,BILLY,You gotta get primal!,21,0.42
+1014,JACK,"Guys, guys, guys.",17,0.34
+1015,NOAH,Billy.,6,0.12
+1016,JACK,"Hey, Billy.",11,0.22
+1017,ZOE,"Oh, shit. Billy.",16,0.32
+1018,JACK,Get in the van. Get in the van. ,32,0.64
+1019,BILLY,"Oh, shit.",9,0.18
+1020,JACK,Get in the van. Get in.,23,0.46
+1021,JACK,"Get in the van. Guys, get in the van.",37,0.74
+1022,JACK,Come here. Get in. Come on. Get in.,35,0.7
+1023,LAUREN,"Billy, get in. ",15,0.3
+1024,NOAH,What are we gonna do?,21,0.42
+1025,LAUREN,Just keep still and be quiet.    ,33,0.66
+1026,ZOE,Billy.  ,8,0.16
+1027,JACK,,0,0.0
+1028,JACK,,0,0.0
+1029,JACK,I think they're gone.,21,0.42
+1030,JACK,We're gonna be okay.    ,24,0.48
+1031,JACK,,0,0.0
+1032,JACK,Hey. Are you okay?,18,0.36
+1033,LAUREN,Yeah. It's just hot.,20,0.4
+1034,NOAH,Dad.,4,0.08
+1035,NOAH,Does the AC work?,17,0.34
+1036,JACK,Well…,5,0.1
+1037,JACK,"Nope. No, it still doesn't work.",32,0.64
+1038,LAUREN,It's still not working.,23,0.46
+1039,JACK,Still not working.,18,0.36
+1040,ZOE,"Mom, you got to get in the shade.",33,0.66
+1041,BILLY,"Oh, wait. We can make a sunshade",32,0.64
+1042,BILLY,out of this blanket.,20,0.4
+1043,BILLY,"Give me a hand, Noah.",21,0.42
+1044,JACK,Take it through here and trap it in that window.,48,0.96
+1045,ZOE,"What are you doing, Mom?",24,0.48
+1046,LAUREN,I'm making you a sling.,23,0.46
+1047,LAUREN,We need to keep your arm still.,31,0.62
+1048,LAUREN,"Billy, can you please wrap it up in this?",41,0.82
+1049,ZOE,"You guys know we can't stay here, though, right?",48,0.96
+1050,ZOE,Like the hyenas are gonna come back.,36,0.72
+1051,JACK,I think we should wait.,23,0.46
+1052,JACK,"I mean, you said so yourself.",29,0.58
+1053,ZOE,"Yeah, but that was BH.",22,0.44
+1054,BILLY,Before hyena.,13,0.26
+1055,JACK,Someone will come after us.,27,0.54
+1056,NOAH,Is there any water left in those bottles?,41,0.82
+1057,NOAH,Is there any at all?,20,0.4
+1058,JACK,There's tourists all over this place.,37,0.74
+1059,LAUREN,This… This place is the size of--,33,0.66
+1060,ZOE,Yeah. New York.,15,0.3
+1061,ZOE,"We know, Mom.",13,0.26
+1062,JACK,"Hey, we're gonna stay put.",26,0.52
+1063,JACK,That's my decision. That's final. Okay?,39,0.78
+1064,ZOE,"Oh, you made that decision?",27,0.54
+1065,ZOE,"So, we have no say in that?",27,0.54
+1066,JACK,That's right.,13,0.26
+1067,NOAH,,0,0.0
+1068,ZOE, My God. You're such a dick.,28,0.56
+1069,LAUREN,"Zoe, stop.",10,0.2
+1070,JACK,What--,6,0.12
+1071,JACK,"what did you say, young lady?",29,0.58
+1072,ZOE,That you're a dick.,19,0.38
+1073,LAUREN,"Oh, Zoe.",8,0.16
+1074,JACK,Oh.,3,0.06
+1075,JACK,"Okay, well, well, uh, you're right. I am.",41,0.82
+1076,JACK,"So, let's see those, um, those festival tickets?",48,0.96
+1077,JACK,Canceled. They're trash.,24,0.48
+1078,JACK,And your phone payment? That's gone.,36,0.72
+1079,JACK,"Uh, your allowance? See you later.",34,0.68
+1080,LAUREN,How is this helping?,20,0.4
+1081,JACK,"It's not, but I'm a dick! Remember?",35,0.7
+1082,JACK,"That's how dicks act, right?",28,0.56
+1083,ZOE,Mm-hm.,6,0.12
+1084,JACK,"Yeah. Okay, well.",17,0.34
+1085,ZOE,Guess what?,11,0.22
+1086,ZOE,"The joke's on you, Jack.",24,0.48
+1087,ZOE,I don't need festival tickets if we're all fucking dead.,56,1.12
+1088,LAUREN,Zoe!,4,0.08
+1089,JACK,Don't call me Jack!,19,0.38
+1090,JACK,"Goddammit, Zoe!",15,0.3
+1091,NOAH,Be quiet.,9,0.18
+1092,LAUREN,"Zoe, nobody's dying.",20,0.4
+1093,JACK,I'm your father.,16,0.32
+1094,ZOE,"Technically, you're not.",24,0.48
+1095,JACK,"Jesus, Zoe.",11,0.22
+1096,NOAH,Can you guys not argue right now?,33,0.66
+1097,NOAH,"Can you just save it for later, please?",39,0.78
+1098,JACK,"I'm sorry. I'm sorry, everyone.",31,0.62
+1099,JACK,"I'm sorry, Zoe.",15,0.3
+1100,ZOE,"Sorry, too.    ",15,0.3
+1101,LAUREN,There's no signal.,18,0.36
+1102,JACK,"Not here, but…",14,0.28
+1103,JACK,Maybe back there. There was higher ground back there.,53,1.06
+1104,JACK,"If there's a signal anywhere,",29,0.58
+1105,JACK,that's where it's gonna be.,27,0.54
+1106,LAUREN,What are you doing?,19,0.38
+1107,JACK,I am gonna make a call.,23,0.46
+1108,LAUREN,"You can't go anywhere, Jack.",28,0.56
+1109,JACK,You need your insulin.,22,0.44
+1110,LAUREN,My glucose levels are high.,27,0.54
+1111,LAUREN,That's it.,10,0.2
+1112,JACK,"What about in an hour… or two, huh?",35,0.7
+1113,ZOE,"Jack, I don't think you can make it up that hill.",49,0.98
+1114,JACK,I'll crawl if I have to.,24,0.48
+1115,LAUREN,Then I'll go with you.,22,0.44
+1116,JACK,That's crazy.,13,0.26
+1117,LAUREN,No crazier than you.,20,0.4
+1118,NOAH,I'll go.,8,0.16
+1119,LAUREN,Noah…,5,0.1
+1120,NOAH,I'll go.,8,0.16
+1121,NOAH,I'm-I'm faster than anyone else here.,37,0.74
+1122,BILLY, Rude.,6,0.12
+1123,LAUREN,No.,3,0.06
+1124,NOAH,Why?,4,0.08
+1125,LAUREN,Because no.,11,0.22
+1126,NOAH,Why? You don't think I can make it?,35,0.7
+1127,JACK,It's not that. It's just…,25,0.5
+1128,JACK,It's not safe.,14,0.28
+1129,BILLY,I'll go with him.,17,0.34
+1130,BILLY,Keep your little superstar out of trouble.,42,0.84
+1131,BILLY,Two sets of eyes and all that.,30,0.6
+1132,NOAH,That's fine with me.,20,0.4
+1133,ZOE,"Wait, no. What if the hyenas come back?",39,0.78
+1134,BILLY,Then you just use your angry voice with them.,45,0.9
+1135,NOAH,Or just use your normal voice. Same thing.,42,0.84
+1136,ZOE,You're a brat.,14,0.28
+1137,JACK,You wanna take this in case,27,0.54
+1138,JACK,your signal is different?,25,0.5
+1139,LAUREN,Please. Please be safe.,23,0.46
+1140,BILLY,"Thanks, Missus H.",17,0.34
+1141,JACK,Careful.  ,10,0.2
+1142,NOAH,Geez.  ,7,0.14
+1143,NOAH,"Oh, shit. ",10,0.2
+1144,NOAH,What the hell was that?,23,0.46
+1145,BILLY,Are you scared?,15,0.3
+1146,NOAH,"Oh, hell yeah.",14,0.28
+1147,NOAH,But anything's better than staying in the van,45,0.9
+1148,NOAH,with everyone arguing.,22,0.44
+1149,NOAH,What are you doing?,19,0.38
+1150,BILLY,"Never trust trees, bud.",23,0.46
+1151,BILLY,They play tricks on you.,24,0.48
+1152,NOAH,You smoke too much weed.,24,0.48
+1153,BILLY, You don't smoke enough.,24,0.48
+1154,BILLY,It might help you chill.,24,0.48
+1155,NOAH,"Hell no, dude. They drug test at school.",40,0.8
+1156,BILLY," Well, be a good way to get you off the team.",45,0.9
+1157,BILLY,I know you want to.,19,0.38
+1158,NOAH,"No, I don't. It'd crush Dad.",28,0.56
+1159,BILLY,You shouldn't be doing it just for him anyway.,46,0.92
+1160,NOAH,Come out as gay and get kicked off the team?,44,0.88
+1161,NOAH,"No, I think it's one or the other.",34,0.68
+1162,BILLY,Yeah. Zoe said he was upset.,28,0.56
+1163,NOAH,He's not upset. He's just… I don't know.,40,0.8
+1164,NOAH,"He's confused. You know? I mean, he doesn't get it.",51,1.02
+1165,BILLY,Who even gives a shit anyway.,29,0.58
+1166,NOAH,I don't know. He's thinks it's gonna ruin my career.,52,1.04
+1167,NOAH,I'm not gonna get a scholarship.,32,0.64
+1168,NOAH,"Even if I do, I'll get crucified for being gay.",47,0.94
+1169,BILLY,A little too keen on the wrong type of balls.,45,0.9
+1170,BILLY,,0,0.0
+1171,NOAH,"Jesus, Billy.",13,0.26
+1172,BILLY,What? It-- it was funny.  ,26,0.52
+1173,BILLY,,0,0.0
+1174,BILLY,I can think of worse places to die.,35,0.7
+1175,NOAH,"Hey, nobody's gonna die.",24,0.48
+1176,NOAH,Nobody's gonna die. Okay?,25,0.5
+1177,BILLY,"Well, actually, everyone is.",28,0.56
+1178,NOAH,Anyone ever told you you're kind of a dick?,43,0.86
+1179,BILLY," Yeah, your sister may have mentioned it",40,0.8
+1180,BILLY,once or twice.,14,0.28
+1181,BILLY,"And your dad. But he's a dick, too.",35,0.7
+1182,BILLY,"So, we cancel each other out.",29,0.58
+1183,NOAH,He's not a dick.,16,0.32
+1184,NOAH,"He's not always a dick, okay? He's--",36,0.72
+1185,BILLY,"Oh. Come on, dude.",18,0.36
+1186,BILLY,All white men in suits are fucking everything up for us.,56,1.12
+1187,BILLY,"They're fucking this up for us, man.",36,0.72
+1188,BILLY,You down with that?,19,0.38
+1189,NOAH,"No, but I mean, it's not just him, right?",41,0.82
+1190,NOAH,"I mean, we all do it.",21,0.42
+1191,NOAH,It's always someone else's responsibility.,42,0.84
+1192,NOAH,We-- we did a project about mining cobalt in the Congo,54,1.08
+1193,NOAH,for cell phone batteries.,25,0.5
+1194,NOAH,You know how much… violence there is?,37,0.74
+1195,NOAH,Corruption. Child labor.,24,0.48
+1196,NOAH,All for this.,13,0.26
+1197,NOAH,"Oil is nothing, man.",20,0.4
+1198,NOAH,We're all greedy. No one really cares.,38,0.76
+1199,BILLY,"Fuck, Noah.",11,0.22
+1200,BILLY,You're making it quite difficult for me,39,0.78
+1201,BILLY,to maintain my essentially positive attitude.,45,0.9
+1202,NOAH,Wait a minute.,14,0.28
+1203,NOAH,Dude.,5,0.1
+1204,NOAH,Do you see that?,16,0.32
+1205,NOAH,Do you see that?,16,0.32
+1206,NOAH,Right there?,12,0.24
+1207,NOAH,"It could be like a, like a lodge",32,0.64
+1208,NOAH,or like a ranger station.,25,0.5
+1209,NOAH,Give me-- give me the binoculars.,33,0.66
+1210,BILLY,I thought you had them.,23,0.46
+1211,NOAH,How much of that grass you been eatin'?,39,0.78
+1212,BILLY,Not enough.,11,0.22
+1213,NOAH,I think we can make it.,23,0.46
+1214,NOAH,What do you think?,18,0.36
+1215,BILLY,"I don't know, man. That is a long-- ",36,0.72
+1216,BILLY,,0,0.0
+1217,NOAH,"Oh, my God!",11,0.22
+1218,BILLY, Fuck off me. ,14,0.28
+1219,NOAH,Billy! ,7,0.14
+1220,BILLY,Fuck off!,9,0.18
+1221,BILLY,"Oh, my God.",11,0.22
+1222,BILLY, ,1,0.02
+1223,NOAH,"Oh, my God. Oh, shit.",21,0.42
+1224,NOAH,,0,0.0
+1225,BILLY,,0,0.0
+1226,BILLY,"Oh, my God. ",12,0.24
+1227,BILLY,,0,0.0
+1228,NOAH,,0,0.0
+1229,NOAH,Okay.,5,0.1
+1230,NOAH,,0,0.0
+1231,NOAH,Billy?,6,0.12
+1232,NOAH,Billy?,6,0.12
+1233,NOAH,"Oh, my God. ",12,0.24
+1234,NOAH, Billy? ,8,0.16
+1235,NOAH,,0,0.0
+1236,NOAH,Shit.,5,0.1
+1237,NOAH,,0,0.0
+1238,NOAH,,0,0.0
+1239,NOAH,,0,0.0
+1240,NOAH,"Oh, man.",8,0.16
+1241,NOAH, ,1,0.02
+1242,NOAH,Turn around.,12,0.24
+1243,NOAH,Okay.,5,0.1
+1244,NOAH,Okay. Oh. Fuck shit.,20,0.4
+1245,NOAH,"Okay. Oh, oh.",13,0.26
+1246,NOAH,"Oh, yes.",8,0.16
+1247,NOAH,"Okay. Yes, Billy.",17,0.34
+1248,NOAH,Yes. Okay. ,11,0.22
+1249,LAUREN, Hm-mm.,7,0.14
+1250,ZOE,Mom?,4,0.08
+1251,LAUREN,Yeah.,5,0.1
+1252,ZOE,How are you feeling?,20,0.4
+1253,LAUREN,I'm fine.,9,0.18
+1254,LAUREN,Maybe just a little water?,26,0.52
+1255,ZOE,"There is no water, Mom.",23,0.46
+1256,ZOE,Remember?,9,0.18
+1257,LAUREN,Yeah. ,6,0.12
+1258,JACK,Geez.,5,0.1
+1259,ZOE,Did you guys get a signal?,26,0.52
+1260,JACK,Noah.,5,0.1
+1261,ZOE,Where's Billy?,14,0.28
+1262,NOAH,Something got him.,18,0.36
+1263,NOAH,Something got him.,18,0.36
+1264,JACK,What?!,6,0.12
+1265,ZOE,What?,5,0.1
+1266,NOAH,A big cat. It was a big fucking cat.,36,0.72
+1267,ZOE,"Wait, wait. You just left him?",30,0.6
+1268,NOAH,I couldn't do anything. It just ripped his neck out.,52,1.04
+1269,NOAH,Just ripped it clean out.,25,0.5
+1270,ZOE,"Oh, my God.",11,0.22
+1271,LAUREN,Zoe. Zoe.,9,0.18
+1272,LAUREN,"Jack, get Zoe.",14,0.28
+1273,JACK,Yeah. I got her. I got her. Zoe!,32,0.64
+1274,NOAH,,0,0.0
+1275,LAUREN,Are you okay?,13,0.26
+1276,JACK,"Zoe, sweetheart. Zoe, wait. Damn it, Zoe.",41,0.82
+1277,JACK,It's not safe.,14,0.28
+1278,JACK,Dammit! Zoe!  ,14,0.28
+1279,JACK, Zoe. Zoe.,10,0.2
+1280,JACK,"Oh, God. Zoe, baby.",19,0.38
+1281,ZOE,,0,0.0
+1282,ZOE,I don't know which way to go.,29,0.58
+1283,JACK,Baby. I'm so sorry.,19,0.38
+1284,JACK,"Hey, I'm sorry. It is gonna be all right. Okay?",47,0.94
+1285,ZOE,I need to get to Billy.,23,0.46
+1286,JACK,"We can't because it's not safe, okay?",37,0.74
+1287,JACK,Come here.,10,0.2
+1288,JACK,You heard what your brother said. Right?,40,0.8
+1289,ZOE,"He's not my brother, and you're not my fucking dad.",51,1.02
+1290,JACK,"Hey, he is your brother.",24,0.48
+1291,ZOE,"No, he's not.",13,0.26
+1292,JACK,And I am your dad.,18,0.36
+1293,JACK,And I have been for 16 years.,29,0.58
+1294,JACK,And that is not going to change,31,0.62
+1295,JACK,"because you're pissed off at me at the moment, all right?",57,1.14
+1296,JACK,Now something took Billy.,25,0.5
+1297,JACK,"Hey, and there's nothing that we can do about it.",49,0.98
+1298,JACK,And we need to get out of here.,31,0.62
+1299,ZOE,My dad is dead.,15,0.3
+1300,ZOE,And now Billy is dead.,22,0.44
+1301,ZOE,"And now Mom is dying, too.",26,0.52
+1302,JACK,Your mom's not gonna die.,25,0.5
+1303,JACK,Your mom is not gonna die.,26,0.52
+1304,JACK,And we're gonna make it out of this,35,0.7
+1305,JACK,and she's gonna be fine. I promise. I promise.,46,0.92
+1306,ZOE,She's not. She's not.,21,0.42
+1307,JACK,Okay. Come here. Come here. Come here.,38,0.76
+1308,ZOE,"No, no, no, no.",15,0.3
+1309,JACK,Stop. Stop. Stop.,17,0.34
+1310,ZOE, Billy. I need Billy.,21,0.42
+1311,JACK,"He's gone, baby.",16,0.32
+1312,JACK,He's gone. Okay?,16,0.32
+1313,ZOE, I need Billy.,14,0.28
+1314,ZOE,Please get me Billy back.  ,27,0.54
+1315,BILLY, ,1,0.02
+1316,BILLY,  ,2,0.04
+1317,JACK,Zoe.  Zoe.,10,0.2
+1318,ZOE,What?,5,0.1
+1319,JACK,"Just, um…. ",11,0.22
+1320,JACK,You wait right here.,20,0.4
+1321,ZOE,What? Fuck that.,16,0.32
+1322,ZOE AND JACK,Hey!,4,0.08
+1323,ZOE,Hey!,4,0.08
+1324,JACK,Get out of here. Go on.,23,0.46
+1325,JACK,All right. They're gone.,24,0.48
+1326,JACK,Are you okay?,13,0.26
+1327,LAUREN,They will be back.,18,0.36
+1328,LAUREN,"Jack, get in.",13,0.26
+1329,ZOE,,0,0.0
+1330,JACK,,0,0.0
+1331,LAUREN,They'll be back… ,17,0.34
+1332,LAUREN,with more.,10,0.2
+1333,BILLY,,0,0.0
+1334,BILLY, ,1,0.02
+1335,BILLY,  ,2,0.04
+1336,BILLY,    ,4,0.08
+1337,JACK,"Guys, we…we gotta get out of here.",34,0.68
+1338,ZOE,Where are we gonna go?,22,0.44
+1339,NOAH,"Dad, I think I saw a camp from the top of the hill.",51,1.02
+1340,JACK,"Okay, how far?",14,0.28
+1341,NOAH,"I don't know. Um, um, two miles…",32,0.64
+1342,NOAH,that way.,9,0.18
+1343,NOAH,I-I think it's north.,21,0.42
+1344,JACK,"Hey, Lauren, can you walk?",26,0.52
+1345,LAUREN,You bet I can.,14,0.28
+1346,JACK,Come on. Let's go.,18,0.36
+1347,JACK,Come on.,8,0.16
+1348,JACK,"Watch your head, baby. Come on.",31,0.62
+1349,NOAH,Dad.,4,0.08
+1350,JACK,"Thanks, bud.",12,0.24
+1351,JACK,"Hey, grab your mom's purse. Okay?",33,0.66
+1352,ZOE,So we're… we're gonna walk.,27,0.54
+1353,JACK,"Yeah, I think we should.",24,0.48
+1354,JACK,It's not just my decision. We all need to agree on this.,56,1.12
+1355,LAUREN,What choice do we have?,23,0.46
+1356,JACK,"All right, then. Let's do this.",31,0.62
+1357,LAUREN,All right.   ,13,0.26
+1358,BILLY, ,1,0.02
+1359,BILLY,,0,0.0
+1360,BILLY,Okay.,5,0.1
+1361,BILLY,Okay.,5,0.1
+1362,BILLY,,0,0.0
+1363,BILLY,,0,0.0
+1364,BILLY, ,1,0.02
+1365,JACK,"Hey, hey, bud.",14,0.28
+1366,JACK,"Bud, we gotta stay on the main road.",36,0.72
+1367,NOAH,It's this way.,14,0.28
+1368,JACK,"Yeah, but I think",17,0.34
+1369,JACK,"if we stay on the main road, we have a better chance",52,1.04
+1370,JACK,of someone driving by and finding us.,37,0.74
+1371,NOAH,"Dad, it's in this direction.",28,0.56
+1372,LAUREN,"Anyone driving by? We're on a closed road, Jack.",48,0.96
+1373,JACK,"Look, Noah.",11,0.22
+1374,JACK,"I know that, honey, I remember that.",36,0.72
+1375,LAUREN,"Okay, I think we should follow Noah's lead.",43,0.86
+1376,JACK,"All right, fine. Let's just follow Noah's lead",46,0.92
+1377,JACK,"because my ideas are shit today, aren't they?",45,0.9
+1378,JACK,"Hey, bud.",9,0.18
+1379,JACK,"Noah, it's just kind of important.",34,0.68
+1380,JACK,Okay. Are you sure it's that way?,33,0.66
+1381,NOAH,Yeah. I--I think so. Yes.,25,0.5
+1382,JACK,"You think so or you know so,",28,0.56
+1383,JACK,because this is a matter of life and death.,43,0.86
+1384,ZOE,Don't bully him.,16,0.32
+1385,JACK,"I'm not bullying him, Zoe.",26,0.52
+1386,ZOE,You always do this.,19,0.38
+1387,ZOE,It's why he's so nervous all the time.,38,0.76
+1388,NOAH,I'm not nervous all the time.,29,0.58
+1389,JACK,You think I bully you?,22,0.44
+1390,NOAH,"Yeah, sometimes.",16,0.32
+1391,NOAH,"That's just your way, right?",28,0.56
+1392,JACK,,0,0.0
+1393,NOAH,"That's just how you are, right?",31,0.62
+1394,JACK,"What do you mean, how I am?",27,0.54
+1395,LAUREN, Jack.,6,0.12
+1396,JACK,"You used to be able to handle my shit, bud.",43,0.86
+1397,LAUREN,,0,0.0
+1398,NOAH,"Yes, Dad.",9,0.18
+1399,NOAH,I used to be able to handle your shit,37,0.74
+1400,NOAH,and I can still handle your shit.,33,0.66
+1401,NOAH,But it's this way. I saw it from the hill.,42,0.84
+1402,JACK,I'm sorry. It's just kind of important.,39,0.78
+1403,JACK,"Because if we go in there and it's wrong,",41,0.82
+1404,JACK,we might never come out again.,30,0.6
+1405,NOAH,"Yes, Dad. I understand that.",28,0.56
+1406,NOAH,I'm not a child. It is this way.,32,0.64
+1407,JACK,"Okay then, I believe you. Let's go, bud.",40,0.8
+1408,JACK,Let's go.,9,0.18
+1409,ZOE,"Let's hope he's right, Jack. ",29,0.58
+1410,BILLY,Huh.,4,0.08
+1411,BILLY,"Oh, thank you, divine goddess,",30,0.6
+1412,BILLY, and also fuck you for doing this to me.,40,0.8
+1413,BILLY,Ha.,3,0.06
+1414,BILLY,"Hey, guys. Hey…",15,0.3
+1415,BILLY,Guys?,5,0.1
+1416,BILLY,,0,0.0
+1417,BILLY,What's going on?,16,0.32
+1418,JACK,"Keep moving, okay?",18,0.36
+1419,ZOE,"Wait, wait, wait. No, we're going in circles.",45,0.9
+1420,ZOE,"We already passed this tree, Jack.",34,0.68
+1421,JACK,"Baby, we have passed thousands of trees.",40,0.8
+1422,JACK,How do you know we've passed this one before?,45,0.9
+1423,ZOE,I recognize its face.,21,0.42
+1424,JACK,Its face?,9,0.18
+1425,NOAH,Never trust trees. They play tricks.,36,0.72
+1426,ZOE,What?,5,0.1
+1427,NOAH,Just something I heard.,23,0.46
+1428,JACK,Okay.,5,0.1
+1429,JACK,Let's go.,9,0.18
+1430,ZOE,Can you listen to me for two seconds?,37,0.74
+1431,ZOE,I'm not a complete moron. We've been here before.,49,0.98
+1432,JACK,"Baby, no, we haven't.",21,0.42
+1433,JACK,We have been walking in a straight line.,40,0.8
+1434,ZOE,"You know, you and I have the exact same",39,0.78
+1435,ZOE,amount of experience being lost in Africa.,42,0.84
+1436,ZOE,"You do know that, right?",24,0.48
+1437,JACK,Why do you always do this?,26,0.52
+1438,ZOE,Do what?,8,0.16
+1439,JACK,Argue.,6,0.12
+1440,ZOE,Because not everybody who isn't you,35,0.7
+1441,ZOE,is as stupid as you think that they are.,40,0.8
+1442,JACK,That's very clever.,19,0.38
+1443,LAUREN,"Wait, she's right.",18,0.36
+1444,LAUREN,We were here 30 minutes ago.,28,0.56
+1445,JACK,"No. No, we weren't.",19,0.38
+1446,JACK,"We, uh, come on.",16,0.32
+1447,JACK,"Come on, baby.",14,0.28
+1448,ZOE,You're an idiot. You're an idiot.,33,0.66
+1449,NOAH,Zoe?,4,0.08
+1450,ZOE,What?,5,0.1
+1451,NOAH,Don't talk to Dad like that.,28,0.56
+1452,ZOE,"You mean, your dad.",19,0.38
+1453,NOAH,"No, I mean, our dad, Zoe.",25,0.5
+1454,NOAH,"Come on. You're 18, not eight.",30,0.6
+1455,NOAH,Let's go.,9,0.18
+1456,NOAH,Come on.,8,0.16
+1457,ZOE,"Okay. Wait, wait, wait, wait.  ",31,0.62
+1458,JACK, ,1,0.02
+1459,ZOE,Holy shit.,10,0.2
+1460,NOAH,"Oh, my God. ",12,0.24
+1461,NOAH,What happened to its face?,26,0.52
+1462,LAUREN,Poachers took its horn. ,24,0.48
+1463,ZOE,"Oh, God. She had a baby.",24,0.48
+1464,JACK,This…,5,0.1
+1465,JACK,This is the rhino that…,23,0.46
+1466,JACK,"Wow, that is poetic justice, huh.",33,0.66
+1467,ZOE,What the fuck?,14,0.28
+1468,JACK,What!,5,0.1
+1469,ZOE,What the fuck--,15,0.3
+1470,JACK,That thing caused all of this.,30,0.6
+1471,LAUREN,"She was just protecting her baby, Jack.",39,0.78
+1472,LAUREN,We have to help it.,19,0.38
+1473,JACK,How? We can't help that.,24,0.48
+1474,JACK,We need to help you first.,26,0.52
+1475,LAUREN,I'm not leaving it. ,20,0.4
+1476,JACK,We will come back.,18,0.36
+1477,JACK,We will come back and make sure that baby's okay.,49,0.98
+1478,JACK,I swear. ,9,0.18
+1479,JACK,Come on. I promise.,19,0.38
+1480,LAUREN,"I'm not leaving it, Jack.",25,0.5
+1481,JACK,I swear. I swear.,17,0.34
+1482,JACK,We'll come back.,16,0.32
+1483,JACK,Hm?,3,0.06
+1484,JACK,I swear.,8,0.16
+1485,JACK,Come on. Come on.    ,21,0.42
+1486,NOAH,Mom? Mom?,9,0.18
+1487,JACK,"Hey, babe. Hey, baby.",21,0.42
+1488,JACK,Grab her scarf.,15,0.3
+1489,LAUREN,,0,0.0
+1490,LAUREN,"Guys, I'm fine. I'm, it's, uh--",31,0.62
+1491,JACK,Are you sure?,13,0.26
+1492,LAUREN,I'm just dehydrated.,20,0.4
+1493,LAUREN,"Let's keep moving forward, guys. Come on.",41,0.82
+1494,JACK,She'll be okay. She'll be okay.    ,35,0.7
+1495,MAN,There's nobody around.,22,0.44
+1496,MAN,Shout. Shout.,13,0.26
+1497,MAN,.,1,0.02
+1498,MAN,"Can you say ""Hello.""",20,0.4
+1499,MAN,Shout loudly. ,14,0.28
+1500,MAN,Hello?,6,0.12
+1501,MAN,Anybody's there? ,17,0.34
+1502,MAN,Hello?,6,0.12
+1503,MAN,Check it. Check it. ,20,0.4
+1504,MAN,Hello?,6,0.12
+1505,MAN,Aaah!!,6,0.12
+1506,LAUREN,Are you okay?,13,0.26
+1507,JACK,I'm okay. ,10,0.2
+1508,ZOE,Really?,7,0.14
+1509,LAUREN,Really?,7,0.14
+1510,ZOE,A river.,8,0.16
+1511,ZOE,Didn't you see a river from the hill?,37,0.74
+1512,NOAH,No. Sorry.,10,0.2
+1513,JACK,,0,0.0
+1514,ZOE,"Hey, Mom.",9,0.18
+1515,LAUREN,Huh?,4,0.08
+1516,ZOE,"Hey, are you okay?",18,0.36
+1517,LAUREN,Yeah. I'm fine.,15,0.3
+1518,ZOE,Are you sure?,13,0.26
+1519,LAUREN,Mm.,3,0.06
+1520,JACK,All right. ,11,0.22
+1521,JACK,"Okay, well…",11,0.22
+1522,JACK,we could be here.,17,0.34
+1523,ZOE,"Yeah, or here.",14,0.28
+1524,NOAH,Or here.,8,0.16
+1525,JACK,So we could be anywhere.,24,0.48
+1526,NOAH,"Yes, but if we're here--",24,0.48
+1527,ZOE,"Yeah, or here.",14,0.28
+1528,NOAH,--then these could be the buildings I saw.,42,0.84
+1529,ZOE,"Okay, that makes sense, right?",30,0.6
+1530,JACK,Why don't you figure that out?,30,0.6
+1531,NOAH,Zoe.,4,0.08
+1532,JACK," Oh, shit.",10,0.2
+1533,LAUREN,You shouldn't be walking on that.,33,0.66
+1534,JACK," What are you, a doctor?",24,0.48
+1535,JACK,,0,0.0
+1536,LAUREN,It's funny.,11,0.22
+1537,LAUREN,They teach you in medical school that…,38,0.76
+1538,LAUREN,dying isn't nearly as painful,29,0.58
+1539,LAUREN,as it looks from the outside.,29,0.58
+1540,LAUREN,It's bunch of bullshit. This sucks.,35,0.7
+1541,JACK,"You know we're gonna have to cross that river,",46,0.92
+1542,JACK,"right, baby?",12,0.24
+1543,JACK,,0,0.0
+1544,JACK,I think you can do that.,24,0.48
+1545,LAUREN,I think I can do that.,22,0.44
+1546,LAUREN,But I can't feel any of my limbs.,33,0.66
+1547,JACK,,0,0.0
+1548,LAUREN,,0,0.0
+1549,JACK,Come on. ,9,0.18
+1550,NOAH,You think we can drink it?,26,0.52
+1551,ZOE,Sure.,5,0.1
+1552,ZOE,If you want to shit out maggots the rest of your life.,54,1.08
+1553,NOAH,I'll take those odds right now.,31,0.62
+1554,ZOE,,0,0.0
+1555,JACK,"Zoe, come here.",15,0.3
+1556,JACK,"Noah, come here.",16,0.32
+1557,JACK,Okay. ,6,0.12
+1558,JACK,We've gotta cross the river.,28,0.56
+1559,JACK,"Now, I think we can wade to the sandbank there.",47,0.94
+1560,JACK,And then swim the short distance to the other side.,51,1.02
+1561,ZOE,We're gonna swim an African river?,34,0.68
+1562,ZOE,Fuck that. There are crocodiles. ,33,0.66
+1563,NOAH,Hyenas. Have they been tracking us?,35,0.7
+1564,NOAH,What are we gonna do?,21,0.42
+1565,JACK,Okay.,5,0.1
+1566,JACK,Let's follow the edge of the river.,35,0.7
+1567,JACK,Don't get too close to it. Okay? ,33,0.66
+1568,ZOE,Shit.,5,0.1
+1569,ZOE,Okay. Stay low. Come on.,24,0.48
+1570,JACK,"There you go, baby.",19,0.38
+1571,NOAH,"Are you okay, Dad?",18,0.36
+1572,JACK,"Yeah, I'm okay.",15,0.3
+1573,JACK," There you go, baby.",20,0.4
+1574,ZOE,"Okay, we're good. Let's go. Let's go.",37,0.74
+1575,JACK,I'm fine. I'm fine.,19,0.38
+1576,JACK,,0,0.0
+1577,ZOE,Let me help.,12,0.24
+1578,JACK,"No. It's okay, baby. I got it.",30,0.6
+1579,ZOE,Dad…,4,0.08
+1580,ZOE,let me help. I've got this.,27,0.54
+1581,ZOE,Let me help. Okay. Okay?,24,0.48
+1582,JACK,Yeah.,5,0.1
+1583,ZOE,I'm fine. Right here.,21,0.42
+1584,ZOE,"Okay. Come on, Mom. Okay.",25,0.5
+1585,NOAH,I got her.,10,0.2
+1586,ZOE,"Oh, my God. I got it.",21,0.42
+1587,NOAH,Get down.,9,0.18
+1588,ZOE,Okay.,5,0.1
+1589,NOAH,Whoa.,5,0.1
+1590,ZOE,I got it.,9,0.18
+1591,ZOE,Shit.,5,0.1
+1592,NOAH,Are you okay?,13,0.26
+1593,ZOE,Yeah. ,6,0.12
+1594,NOAH,"Zoe, Zoe, Zoe, go first.",24,0.48
+1595,NOAH,"Dad, they're coming.",20,0.4
+1596,JACK,"I know, I know. I see it.",25,0.5
+1597,ZOE,I got it. I got it.,19,0.38
+1598,NOAH,Shit.,5,0.1
+1599,JACK,Oh my God. Come here. ,22,0.44
+1600,NOAH,What do we do?,14,0.28
+1601,JACK,Shh.  ,6,0.12
+1602,ALL,Hey! Hey!,9,0.18
+1603,ZOE,Down here. Over here.,21,0.42
+1604,JACK,Down here.,10,0.2
+1605,JACK,"Oh, my God.",11,0.22
+1606,JACK,"My god, I can't tell you how happy I am to see you.",51,1.02
+1607,MITCH,Oil man.,8,0.16
+1608,JACK,Hah.,4,0.08
+1609,MITCH,What the hell are you doing out here?  ,39,0.78
+1610,MAN 1,Stay right there. I'm-- I'm getting some help.,46,0.92
+1611,MAN 1,Help! Help! Come fast.,22,0.44
+1612,MAN 1,"There's a man in the car. Come, come. He's hurt.",48,0.96
+1613,MAN 1,We found him outside in the van.,32,0.64
+1614,MAN 1,We found him in the forest.,27,0.54
+1615,MAN 1,Blood everywhere.,17,0.34
+1616,LUCAS,,0,0.0
+1617,MAN 1,We must get him help quicks.,28,0.56
+1618,MAN 1,Slowly. Be careful.,19,0.38
+1619,MAN 1,I'll hold him.,14,0.28
+1620,BILLY,I think it was somewhere around here.,37,0.74
+1621,BILLY,"I don't know, we went off road.",31,0.62
+1622,BILLY,I wasn't paying attention.,26,0.52
+1623,LUCAS,That's impossible.,18,0.36
+1624,LUCAS,"I mean, all the vehicles in the park are accounted for.",55,1.1
+1625,BILLY,"No, we drove through without paying",35,0.7
+1626,BILLY,and never checked in.,21,0.42
+1627,DOCTOR,Okay. We need to move him out.,30,0.6
+1628,WOMAN,Get everybody ready.,20,0.4
+1629,WOMAN,We're going out. ,17,0.34
+1630,MAN 1,,0,0.0
+1631,MAN 1,,0,0.0
+1632,MITCH,"We have new friends, Charlie.",29,0.58
+1633,MITCH,Here we go. Charlie's got you.,30,0.6
+1634,MITCH,There you go.,13,0.26
+1635,MITCH,"Hey, uh, Charlie, is camp ready for guests?",43,0.86
+1636,CHARLIE,"Yeah, we're good, boss.",23,0.46
+1637,MITCH,Okay. Code Jenny.,17,0.34
+1638,MITCH,"Code Jenny, let's go.",21,0.42
+1639,JACK,Thank you so much.,18,0.36
+1640,MITCH,"Yeah, it's not a problem.",25,0.5
+1641,MITCH,You guys will be fine.,22,0.44
+1642,MITCH,What were you doing out there?,30,0.6
+1643,JACK,You have no idea what we've been through.,41,0.82
+1644,JACK,,0,0.0
+1645,MITCH,It's fine. You're all okay.,27,0.54
+1646,MITCH,Put him…put him by the fire.,28,0.56
+1647,JACK,,0,0.0
+1648,MITCH,By the fire.,12,0.24
+1649,MITCH,You guys will be fine now.,26,0.52
+1650,MITCH,,0,0.0
+1651,MITCH,There we go.,12,0.24
+1652,JACK, Thank you.,11,0.22
+1653,MAN 2,,0,0.0
+1654,JACK,Baby. .,7,0.14
+1655,MITCH,What is going on with her?,26,0.52
+1656,JACK,She's diabetic. She needs insulin.,34,0.68
+1657,MITCH,Insulin? We don't have insulin.,31,0.62
+1658,MITCH,The nearest medical center is two hours away.,45,0.9
+1659,JACK,Can you call for help? She's dying.,35,0.7
+1660,MITCH,How long does she have?,23,0.46
+1661,JACK,Not long. Please call someone.,30,0.6
+1662,JACK,Call anyone.,12,0.24
+1663,MITCH,Got the sat phone.,18,0.36
+1664,JACK,Thank you.,10,0.2
+1665,MITCH,See if we can get a signal.,27,0.54
+1666,JACK,Thank you.,10,0.2
+1667,MITCH,It's okay.,10,0.2
+1668,MITCH,Getting a signal here.,22,0.44
+1669,MITCH,I'm trying to get a signal.,27,0.54
+1670,MITCH,These things are always supposed to have a signal.,50,1.0
+1671,MITCH,Come on.,8,0.16
+1672,MITCH,Why is there no signal?,23,0.46
+1673,MITCH,This is crazy.,14,0.28
+1674,MITCH,Sat phones are always supposed to give you a signal here.,57,1.14
+1675,MITCH,Hold on.,8,0.16
+1676,CHARLIE,I wish you hadn't seen that.,28,0.56
+1677,JACK,Seen what?,10,0.2
+1678,JACK,"Zoe, what's going on?",21,0.42
+1679,ZOE,"They're poachers, Dad.",22,0.44
+1680,JACK,What?,5,0.1
+1681,ZOE,They're poachers.,17,0.34
+1682,MITCH,"No, no, no. Ssshhh. No, no, no.",31,0.62
+1683,MITCH,We do not like to use… the P-word.,34,0.68
+1684,MITCH,"It's like I said back at the airport,",37,0.74
+1685,MITCH,when we first met.,18,0.36
+1686,MITCH,We help indigenous people,25,0.5
+1687,MITCH,make the best use of their resources.,37,0.74
+1688,ZOE,By butchering wildlife?,23,0.46
+1689,JACK,Right now…I--I don't care what you do.,38,0.76
+1690,NOAH,"Dad, they killed that--",23,0.46
+1691,JACK,"Stop, Noah. No, no, stop. Okay?",31,0.62
+1692,JACK,It's none of our business.,26,0.52
+1693,JACK,We…we just need your help.,26,0.52
+1694,ZOE,"Oh my God, they aren't gonna help us.",37,0.74
+1695,ZOE,Who are you?,12,0.24
+1696,MITCH,No.,3,0.06
+1697,CHARLIE,,0,0.0
+1698,MITCH,Tie them up. ,13,0.26
+1699,JACK,,0,0.0
+1700,JACK,,0,0.0
+1701,ZOE,"Hey, asshole.",13,0.26
+1702,ZOE,"Yeah, you.",10,0.2
+1703,MITCH,,0,0.0
+1704,ZOE,You know how many rhino are left?,33,0.66
+1705,CHARLIE,Enough to make them valuable?,29,0.58
+1706,MITCH,Valuable enough for these men to earn,37,0.74
+1707,MITCH,more in one night than they would the whole year.,49,0.98
+1708,MITCH,Enough to feed their families.,30,0.6
+1709,ZOE,You're disgusting.,18,0.36
+1710,MITCH,,0,0.0
+1711,MITCH,Do you think their children should starve?,42,0.84
+1712,ZOE,"No, I don't think their children should starve.",47,0.94
+1713,MITCH,"Well, so then we… we agree.",27,0.54
+1714,MITCH,That they have the right to benefit from their own land.,56,1.12
+1715,MITCH,From their own heritage.,24,0.48
+1716,MITCH,What gives you the right?,25,0.5
+1717,MITCH,"Some privileged, ignorant, white--",34,0.68
+1718,ZOE, Fuck off.,10,0.2
+1719,MITCH,,0,0.0
+1720,ZOE,Fuck off.,9,0.18
+1721,MITCH,,0,0.0
+1722,MITCH,to dictate anything these people do.,36,0.72
+1723,ZOE,Dad?,4,0.08
+1724,JACK,I'm sure that you're making a healthy profit,44,0.88
+1725,JACK,out of them.,12,0.24
+1726,ZOE,Fuck off.,9,0.18
+1727,CHARLIE,"Let's just call capitalism, my friend.",38,0.76
+1728,CHARLIE,"You--you work in the oil business, right?",41,0.82
+1729,MITCH,Charlie's right. Charlie is absolutely right.,45,0.9
+1730,MITCH,"Oil man, you're not allowed to get",34,0.68
+1731,MITCH,all holier than thou with us.,29,0.58
+1732,MITCH,"I mean, what--what is the worst that we do?",43,0.86
+1733,CHARLIE,Yeah.,5,0.1
+1734,MITCH,A few less rhinos in the world.,31,0.62
+1735,MITCH,Maybe an elephant?,18,0.36
+1736,MITCH,A pangolin.,11,0.22
+1737,MITCH,You know how much this is worth?,32,0.64
+1738,MITCH,It's worth more than its weight in gold.,40,0.8
+1739,MITCH,,0,0.0
+1740,MITCH,And we're nothing compared to you.,34,0.68
+1741,MITCH,Don't even compare.,19,0.38
+1742,MITCH,We're amateurs.,15,0.3
+1743,MITCH,You're planet killers.,22,0.44
+1744,MITCH,"I gotta admit, that's pretty impressive.",40,0.8
+1745,NOAH,What do you… what are you gonna do to us?,41,0.82
+1746,MITCH,"Well, the end of your story… is easy.",37,0.74
+1747,MITCH,"Obviously, Mom's about to die. So that's easy.",46,0.92
+1748,MITCH,"As for the rest of you, we are going to move out.",49,0.98
+1749,MITCH,"We usually let the hyenas clean up after us,",44,0.88
+1750,MITCH,"though they prefer their animals injured,",41,0.82
+1751,MITCH,so might let my men go to work on you for a little bit.,55,1.1
+1752,MITCH,Though it looks like…,21,0.42
+1753,MITCH,Dad is already a little injured there.,38,0.76
+1754,JACK," Stop, please.",14,0.28
+1755,NOAH,No. Stop! Stop.,15,0.3
+1756,JACK,,0,0.0
+1757,NOAH,Stop it!,8,0.16
+1758,JACK,,0,0.0
+1759,MITCH,The rest is easy.,17,0.34
+1760,MITCH,Arrogant American family comes to Africa.,41,0.82
+1761,MITCH,Africa embraces arrogant American family.,41,0.82
+1762,MITCH,"Gentlemen, sorry to keep you waiting.",37,0.74
+1763,MITCH,Sorry about that. Great to see you again.,41,0.82
+1764,MITCH,Jin. Always a pleasure.,23,0.46
+1765,MITCH,Thanks for coming out.,22,0.44
+1766,MITCH,Sorry about the whole blindfold and-- ,38,0.76
+1767,NOAH,She's gonna die.,16,0.32
+1768,ZOE,Don't say that.,15,0.3
+1769,NOAH,She is.,7,0.14
+1770,JACK,"No, she is, if we don't get out of here.",40,0.8
+1771,NOAH,What's gonna happen to us?,26,0.52
+1772,ZOE,You heard him.,14,0.28
+1773,ZOE,They're gonna kill us.,22,0.44
+1774,JACK,"No, no, they're not. They're not. They're just--",48,0.96
+1775,ZOE,"Oh my God. Of course, they fucking are.",39,0.78
+1776,ZOE,"Jesus, Dad.",11,0.22
+1777,JACK,I was just…,11,0.22
+1778,JACK,I'm just trying to stay positive. Okay?,39,0.78
+1779,NOAH,Why don't you just tell us something truthful?,46,0.92
+1780,JACK,I'm sorry. That's the truth.,28,0.56
+1781,ZOE,"No, Dad. You don't…",19,0.38
+1782,ZOE,Forget it. You don't have to do that now.,41,0.82
+1783,JACK,It's okay.,10,0.2
+1784,ZOE,Please. I--,11,0.22
+1785,JACK,"No, no. Now is the-- now is the perfect time.",45,0.9
+1786,ZOE,No.,3,0.06
+1787,JACK,We might not have any time left.,32,0.64
+1788,ZOE,,0,0.0
+1789,JACK,,0,0.0
+1790,JACK,I'm sorry I haven't been a very good father.,44,0.88
+1791,JACK,I'm sorry that I couldn't see what was important,48,0.96
+1792,JACK,until everything was falling apart around me.,45,0.9
+1793,JACK,It's okay. It's okay.,21,0.42
+1794,JACK,I love your mother. And I love you both so much.,48,0.96
+1795,JACK,"And I know, I know I didn't say that enough.",44,0.88
+1796,JACK,And Noah…,9,0.18
+1797,JACK,"I just wanted you to be happy, bud.",35,0.7
+1798,JACK,Yeah.,5,0.1
+1799,ZOE,,0,0.0
+1800,JACK,"You are who you are,",20,0.4
+1801,JACK,"so fucking what to everything else, right?",42,0.84
+1802,JACK,Hey…,4,0.08
+1803,JACK,I'm so proud of you.,20,0.4
+1804,JACK,And I love you so much.,23,0.46
+1805,JACK,"Zoe, I love you too.",20,0.4
+1806,JACK,I've loved you from the moment I met you and your mother.,57,1.14
+1807,ZOE,,0,0.0
+1808,JACK,"You're my daughter, and I'm your father.",40,0.8
+1809,JACK,Even…even if you say I'm not.,29,0.58
+1810,JACK,"You'll still be my daughter, okay?",34,0.68
+1811,ZOE,,0,0.0
+1812,JACK,Yeah. I'm so proud of you.,26,0.52
+1813,JACK,And I only push college because…,32,0.64
+1814,JACK,because you are so damn smart.,30,0.6
+1815,JACK,"And I can see the woman,",24,0.48
+1816,JACK,the beautiful woman that you are becoming.,42,0.84
+1817,JACK,And the world needs people like that.,37,0.74
+1818,JACK,Great people who change things for the better.,46,0.92
+1819,JACK,"Not people like me, huh.",24,0.48
+1820,JACK,Money and selfishness.,22,0.44
+1821,JACK,It's nothing. The world is not about stuff.,43,0.86
+1822,JACK,It is about family. It is about this.,37,0.74
+1823,JACK,And I am…,9,0.18
+1824,JACK,I am proud of you both,22,0.44
+1825,JACK,because you are nothing like me.,32,0.64
+1826,JACK,And I fucked things up,22,0.44
+1827,JACK,pretty badly but not…,21,0.42
+1828,JACK,not this time.,14,0.28
+1829,MITCH,I was thinking…,15,0.3
+1830,NOAH,,0,0.0
+1831,JACK,You got it?,11,0.22
+1832,NOAH,Yeah.,5,0.1
+1833,NOAH,Yeah.,5,0.1
+1834,JACK,Get your sister. Get your sister.,33,0.66
+1835,JACK,"Okay, guys, look at me.",23,0.46
+1836,ZOE,Okay.,5,0.1
+1837,JACK,You see that jeep over there?,29,0.58
+1838,JACK,Right over there?,17,0.34
+1839,NOAH,Yeah.,5,0.1
+1840,JACK,"Yeah, good. Noah, I need you to be strong",41,0.82
+1841,JACK,"and I mean properly strong, okay.",33,0.66
+1842,JACK,You've gotta carry your mother.,31,0.62
+1843,JACK,"Zoe, you gotta drive that jeep, baby.",37,0.74
+1844,ZOE,No. Why--why can't you drive?,29,0.58
+1845,JACK,Somebody needs to distract them.,32,0.64
+1846,JACK,"That's me. Now, listen.",23,0.46
+1847,NOAH,Dad.,4,0.08
+1848,JACK,"Listen, listen. Look.",21,0.42
+1849,JACK,"Listen, I love you both… very much.",35,0.7
+1850,JACK,You are my everything.,22,0.44
+1851,JACK,You'll know.,12,0.24
+1852,NOAH,,0,0.0
+1853,JACK,You'll know.,12,0.24
+1854,MITCH,Do we have a deal?,18,0.36
+1855,JACK,,0,0.0
+1856,JACK,,0,0.0
+1857,POACHER 1,Look over there.,16,0.32
+1858,POACHER 1,He's getting away.,18,0.36
+1859,POACHER 1,Stop him.,9,0.18
+1860,POACHER 2,"I've got him, boss; I've got him.",33,0.66
+1861,JACK,You gotta be kidding me.,24,0.48
+1862,JACK,You gotta be kidding me.,24,0.48
+1863,MITCH,Hey. ,5,0.1
+1864,MITCH,Thank you. ,11,0.22
+1865,MITCH,,0,0.0
+1866,MITCH,"Look at this, Charlie.",22,0.44
+1867,MITCH,We're going oil-man huntin'.,28,0.56
+1868,MITCH,Your father's dead.,19,0.38
+1869,JACK, ,1,0.02
+1870,MITCH,,0,0.0
+1871,MITCH,Charlie. You're with me.,24,0.48
+1872,ZOE,"You know, we're gonna go to those jeeps, okay?",46,0.92
+1873,ZOE,All right. Okay.,16,0.32
+1874,ZOE,That's all of them gone.,24,0.48
+1875,ZOE,Three--,7,0.14
+1876,ZOE AND NOAH,Two-one.,8,0.16
+1877,ZOE AND NOAH,Go.,3,0.06
+1878,ZOE,Okay.,5,0.1
+1879,NOAH,"Mom. I'm gonna lift you up, okay?",33,0.66
+1880,NOAH,Come on.,8,0.16
+1881,JACK,,0,0.0
+1882,MITCH,I got him. Keep the light on him. ,34,0.68
+1883,MITCH,Oh. Ugh.,8,0.16
+1884,MITCH,I told you to keep the light on him.,36,0.72
+1885,JACK,,0,0.0
+1886,MITCH,,0,0.0
+1887,NOAH,"Okay, try this one.",19,0.38
+1888,ZOE,"Yes, yes. Get up. Get up. Get up.",33,0.66
+1889,ZOE,All right.,10,0.2
+1890,ZOE,Let's figure this out. ,23,0.46
+1891,JACK, ,1,0.02
+1892,ZOE,We have to go back.,19,0.38
+1893,ZOE,"Noah, we have to go back. We have to go back.",45,0.9
+1894,NOAH,"Zoe, Zoe.",9,0.18
+1895,NOAH,We gotta drive. We have to leave.,33,0.66
+1896,NOAH,"Start it, Zoe.",14,0.28
+1897,JACK,,0,0.0
+1898,MITCH,,0,0.0
+1899,MITCH,We got a runner!,16,0.32
+1900,MITCH,Oil man! Light on him.,22,0.44
+1901,MITCH,Give me the light on him.,25,0.5
+1902,CHARLIE,There you go.,13,0.26
+1903,MITCH,"Oh, yeah. ",10,0.2
+1904,JACK, ,1,0.02
+1905,MITCH,Keep the light on him.,22,0.44
+1906,MITCH,"Where are you going, oil man?",29,0.58
+1907,MITCH,Come here. ,11,0.22
+1908,MITCH,He cannot still be alive.,25,0.5
+1909,MITCH,He cannot be still alive.,25,0.5
+1910,JACK,,0,0.0
+1911,MITCH,"Oil man, I gotta apologize to you.",34,0.68
+1912,MITCH,,0,0.0
+1913,MITCH,I'm normally way more accurate.,31,0.62
+1914,MITCH,Oh yeah. I winged him good.,27,0.54
+1915,JACK,,0,0.0
+1916,MITCH,Sorry about that.,17,0.34
+1917,MITCH,It's gonna leave a mark there.,30,0.6
+1918,MITCH,"You know,  Charlie and me…",26,0.52
+1919,MITCH,we've hunted pretty much everything.,36,0.72
+1920,MITCH,You're our first human.,23,0.46
+1921,CHARLIE,First human.,12,0.24
+1922,MITCH,It's a shame we can't keep his head.,36,0.72
+1923,JACK,My family.,10,0.2
+1924,CHARLIE,"Don't worry, they're next. ",27,0.54
+1925,MITCH,Welcome to the jungle.,22,0.44
+1926,JACK, ,1,0.02
+1927,MITCH,Ssh. Ssh. Ssh. Ssh. ,20,0.4
+1928,ZOE,What do we do? What do we do?,29,0.58
+1929,NOAH,"I don't know, Zoe. I don't know.",32,0.64
+1930,NOAH,I don't know anything about cars.,33,0.66
+1931,MITCH,Did you hear that? ,19,0.38
+1932,MITCH,Did you hear that?,18,0.36
+1933,MITCH,Stay with him. Nobody finds his body.,37,0.74
+1934,MITCH,,0,0.0
+1935,MITCH,Okay? ,6,0.12
+1936,LAUREN,You're flooding it.,19,0.38
+1937,LAUREN,Just wait.,10,0.2
+1938,MITCH,,0,0.0
+1939,NOAH,They're coming.,15,0.3
+1940,LAUREN,Not yet.,8,0.16
+1941,ZOE,,0,0.0
+1942,MITCH,,0,0.0
+1943,ZOE,,0,0.0
+1944,LAUREN,Try it now.,11,0.22
+1945,ZOE,Okay. ,6,0.12
+1946,MITCH,"No, no, no. ",12,0.24
+1947,ZOE,Yes! Yes!,9,0.18
+1948,MITCH,Stop them!,10,0.2
+1949,ZOE,Yes!,4,0.08
+1950,MITCH,"No, no. Ahhh…",13,0.26
+1951,MITCH,"Keys, keys, keys.",17,0.34
+1952,MITCH,,0,0.0
+1953,CHARLIE,,0,0.0
+1954,MITCH,Okay. Hop in.,13,0.26
+1955,MITCH,You got the light?,18,0.36
+1956,CHARLIE,Yeah. ,6,0.12
+1957,MITCH,Keep that light on them. ,25,0.5
+1958,MAN, ,1,0.02
+1959,NOAH,"Okay. Okay. Zoe, Zoe.",21,0.42
+1960,ZOE,What?,5,0.1
+1961,NOAH,"Zoe, you're doing really well,",30,0.6
+1962,NOAH,but can you drive a little faster?,34,0.68
+1963,ZOE,No. I literally can't see shit here. ,37,0.74
+1964,NOAH,Zoe. Zoe. Zoe. They're right there.,35,0.7
+1965,ZOE,"Okay. Oh, shit.",15,0.3
+1966,NOAH,Do something.,13,0.26
+1967,ZOE,Okay. Okay.  ,13,0.26
+1968,NOAH,"Hey, Mom, are you okay?",23,0.46
+1969,NOAH,Keep going.,11,0.22
+1970,MITCH,"Hey, hey, hey. Come on with me.",31,0.62
+1971,ZOE,No. Just fuck you.,18,0.36
+1972,MITCH,,0,0.0
+1973,MITCH,Wait.,5,0.1
+1974,ZOE,Fuck you!,9,0.18
+1975,ZOE,Fuck off!,9,0.18
+1976,MITCH,Hey. ,5,0.1
+1977,MITCH,Hey! Light on her. Get the light on her.,40,0.8
+1978,MITCH,Yes!,4,0.08
+1979,MITCH,Hey!,4,0.08
+1980,MITCH,Keep that light on her.,23,0.46
+1981,MITCH,Right up ahead.,15,0.3
+1982,MITCH,"Pull over, bitch!",17,0.34
+1983,NOAH,Zoe.,4,0.08
+1984,ZOE,Fuck.,5,0.1
+1985,MITCH,"Pull over, bitch!",17,0.34
+1986,NOAH,Do something.,13,0.26
+1987,ZOE,,0,0.0
+1988,MITCH,"Hey, hey.",9,0.18
+1989,MITCH,"Pull over, bitch.",17,0.34
+1990,ZOE,Fuck you!  ,11,0.22
+1991,MITCH,No!,3,0.06
+1992,ZOE,Get fucked!,11,0.22
+1993,MITCH,"Pull over, bitch.",17,0.34
+1994,ZOE,Fuck you.,9,0.18
+1995,ZOE,Fuck you! ,10,0.2
+1996,MITCH,Ah! Whoa.,9,0.18
+1997,CHARLIE,Pull it around.,15,0.3
+1998,MITCH,No!,3,0.06
+1999,MITCH,Shit! ,6,0.12
+2000,ZOE,"Oh, fuck! Oh, my God.",21,0.42
+2001,ZOE,Yes! Yes!,9,0.18
+2002,NOAH,"Oh, my God!",11,0.22
+2003,ZOE,Yes!,4,0.08
+2004,NOAH,You got it. Holy shit.,22,0.44
+2005,ZOE,I fucking nailed it.,20,0.4
+2006,ZOE,I fucking nailed it. I told you I could drive!,46,0.92
+2007,NOAH,,0,0.0
+2008,ZOE,Holy cow!,9,0.18
+2009,NOAH,"Oh, my God!",11,0.22
+2010,ZOE,Yes!,4,0.08
+2011,NOAH,Yay!,4,0.08
+2012,ZOE,Holy shit.,10,0.2
+2013,MITCH,,0,0.0
+2014,MITCH,,0,0.0
+2015,MITCH, ,1,0.02
+2016,MITCH,Charlie?,8,0.16
+2017,MITCH,,0,0.0
+2018,MITCH,Charlie… ,9,0.18
+2019,MITCH, ,1,0.02
+2020,MITCH,,0,0.0
+2021,MITCH, ,1,0.02
+2022,MITCH, Okay.,6,0.12
+2023,MITCH,"Ah, the dumb bitch. ",20,0.4
+2024,MITCH,You bitch!,10,0.2
+2025,MITCH,Get back here!,14,0.28
+2026,MITCH, ,1,0.02
+2027,MITCH,Get out of here. Go. ,21,0.42
+2028,MITCH,Go. Get out of here.,20,0.4
+2029,MITCH,Go. Get out of here. Go. ,25,0.5
+2030,MITCH, ,1,0.02
+2031,MITCH,,0,0.0
+2032,ZOE,Oh my God. There's a road.,26,0.52
+2033,ZOE,Oh my God. Oh my God. We found a fucking road.,46,0.92
+2034,NOAH,What?,5,0.1
+2035,ZOE,Mom? Mom? Mom?,14,0.28
+2036,ZOE,Mom! We found a road.,21,0.42
+2037,ZOE,Okay. Hold on. Hold on.,23,0.46
+2038,NOAH,You'll be okay.,15,0.3
+2039,NOAH,Everything is gonna be okay.,28,0.56
+2040,ZOE,"I got it. Mom, we're gonna be okay.",35,0.7
+2041,NOAH,"Keep driving, Zoe. Just keep going.",35,0.7
+2042,ZOE,"Mom, we found a road.",21,0.42
+2043,ZOE,Shit no.,8,0.16
+2044,NOAH,What?,5,0.1
+2045,ZOE,No. There is more.,18,0.36
+2046,NOAH,What?,5,0.1
+2047,ZOE,No. There is more.,18,0.36
+2048,NOAH,What?,5,0.1
+2049,ZOE,Hold on.,8,0.16
+2050,NOAH,"You got to get off the road, Zoe. ",34,0.68
+2051,NOAH,Get off the road.,17,0.34
+2052,NOAH,Pull over.,10,0.2
+2053,NOAH,Okay. Hide here.,16,0.32
+2054,ZOE,Okay. Okay.,11,0.22
+2055,NOAH,"Oh, shit. I see headlights.",27,0.54
+2056,LAUREN, Okay.  ,8,0.16
+2057,NOAH,Close the door.,15,0.3
+2058,ZOE,"Oh, fuck. ",10,0.2
+2059,POACHER,Where are they? They must be here somewhere.,44,0.88
+2060,ZOE,Shit! ,6,0.12
+2061,WOMAN,I see them. Yeah. Yeah. Yeah.,29,0.58
+2062,WOMAN,Okay. Let's go. Let's go. ,26,0.52
+2063,WOMAN,Guns down.,10,0.2
+2064,WOMAN,Now! Now!  ,11,0.22
+2065,WOMAN,Move it. Move it. Move it! ,27,0.54
+2066,ZOE,Everyone's gone.,16,0.32
+2067,NOAH,Everyone's dead.,16,0.32
+2068,WOMAN,"Moving, moving.",15,0.3
+2069,WOMAN,Everybody down.,15,0.3
+2070,BILLY,Zoe?,4,0.08
+2071,WOMAN,"Moving, moving. I said, down on the ground.",43,0.86
+2072,BILLY,Zoe? Zoe?,9,0.18
+2073,WOMAN 2,That one over there. I see you.,31,0.62
+2074,WOMAN 2,You over there. I see you.,26,0.52
+2075,WOMAN,Stay there. Stay there.,23,0.46
+2076,BILLY,Zoe?,4,0.08
+2077,DOCTOR,Is everyone okay?,17,0.34
+2078,ZOE,Billy?,6,0.12
+2079,NOAH,Are you a doctor?,17,0.34
+2080,DOCTOR,Yes.,4,0.08
+2081,ZOE,"Billy! Oh, my god!",18,0.36
+2082,NOAH,My--my mom…,11,0.22
+2083,NOAH,My mom's diabetic. She needs insulin right now.,47,0.94
+2084,BILLY,,0,0.0
+2085,ZOE,"Sorry. I'm sorry. Oh, my God.",29,0.58
+2086,NOAH,Do you have it? Do you have insulin?,36,0.72
+2087,ZOE,You fucking left me!,20,0.4
+2088,BILLY,"Aw. Oh, God!",12,0.24
+2089,ZOE,,0,0.0
+2090,NOAH,Billy?,6,0.12
+2091,BILLY,"Hey, Noah. I'm good.",20,0.4
+2092,ZOE,How did you--,13,0.26
+2093,BILLY,"Thanks for coming back for me, man.",35,0.7
+2094,BILLY, ,1,0.02
+2095,WOMAN,"Okay, I will check. I will check.",33,0.66
+2096,WOMAN,Someone will check.,19,0.38
+2097,NOAH,Will she be okay?,17,0.34
+2098,DOCTOR,"Yeah, she's gonna be fine. Are you okay? ",41,0.82
+2099,LAUREN,,0,0.0
+2100,LAUREN,Where's--where's Jack?,22,0.44
+2101,ZOE,He saved us.,12,0.24
+2102,NOAH,"He's gone, Mom.",15,0.3
+2103,LAUREN, No. ,5,0.1
+2104,LAUREN, ,1,0.02
+2105,LAUREN,"Look. Zoe, are you seeing this?",31,0.62
+2106,ZOE,Aw. ,4,0.08

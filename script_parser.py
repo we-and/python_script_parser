@@ -23,12 +23,12 @@ pythoncom.CoInitialize()
 #script_path="scripts2/ZERO11.txt"
 #output_path="ZERO11c/"
 #script_name="ZERO11b"
-logging.basicConfig(filename='app-parser.log',level=logging.DEBUG)
+logging.basicConfig(filename='app-parser.log',level=logging.DEBUG,filemode='w')
 logging.debug("Script starting...")
 
 def myprint1(s):
     logging.debug(s)
-    print(s)
+    #print(s)
 
 
 action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
@@ -539,7 +539,7 @@ def convert_docx_combined_continuity(file,table):
                     file.write(s)
 def match_uppercase_semicolon(text):
     # Regex pattern to match text in uppercase ending with a semicolon
-    pattern = r'^[A-Z\s]+:$'
+    pattern = r'^[A-Z\d\s]+:$'
     
     # Use re.match to check if the text matches the pattern
     if re.match(pattern, text):
@@ -585,6 +585,13 @@ def filter_speech(input):
     s=get_text_without_parentheses(input)
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
+    s=s.replace("â€¦ ",".")
+    return s
+
+def filter_speech_keepbrackets(input):
+    s=get_text_without_parentheses(input)
+    s=s.replace("â€™","'")
+    s=s.replace("â€¦ ",".")
     return s
 
 def convert_docx_dialogwithspeakerid(file,table,dialogwithspeakerid):
@@ -592,50 +599,89 @@ def convert_docx_dialogwithspeakerid(file,table,dialogwithspeakerid):
     row_idx=1
     current_character=""
     cumulated_speech=""
+    ndisp=300
+    
     for row in table.rows[1:]:
-            if idx<10:
+            show=True#row_idx<200 and row_idx>160
+            if show:
                 myprint1("---------------------------------------------")
                 myprint1("Row "+str(row_idx))
+                myprint1("Idx "+str(idx))
+                
             row_idx=row_idx+1
             scenedesc=row.cells[dialogwithspeakerid].text.strip()        
-            if idx<100:
+            if show:
                 myprint1(scenedesc)
             parts=scenedesc.split("\n")
-            part_idx=1
-            for part in parts:
-                if idx<10:
-                    myprint1("part "+str(part_idx)+":"+part)
-                
-                part=part.strip()
-                part_idx=part_idx+1
-                if len(part)>0:
-#                    if idx<10:
- #                       print("part "+str(part_idx)+":"+part)
-                    part=filter_speech(part)
-                    if match_uppercase_semicolon(part):
-                        #flush cunulated speech
-                        if len(cumulated_speech)>0:
-                            s=current_character+"\t"+cumulated_speech+"\n"
-                            file.write(s)
-                            if idx<10:
-                                print(">>>>>>>>> "+current_character+"\t"+cumulated_speech)
-                            idx=idx+1
-                            cumulated_speech=""
-                        current_character=remove_semicolon(part) 
-                        if idx<10:
-                            print("new character "+current_character)
-                    else:
-                        if not part.isupper():                    
-                            speech=part.strip()
-                            current_character=clean_character_name(current_character)
-                            if len(current_character)>0 and len(speech)>0:
-                                cumulated_speech=cumulated_speech+" "+speech
-                                #s=current_character+"\t"+speech+"\n"
-                                #file.write(s)
-    if len(cumulated_speech)>0:
-        s=current_character+"\t"+cumulated_speech+"\n"
-        file.write(s)
+            upperpart=""
+            nonupperpart=""
+            for k in parts:
 
+                if remove_text_in_brackets(k).isupper():
+                    if show:
+                        myprint1('+UP '+str(k))
+                    upperpart=upperpart+" "+k
+                else:
+                    if show:
+                        myprint1('+LO '+str(k))
+
+                    nonupperpart=nonupperpart+" "+k
+            part_idx=1
+            upperpart=upperpart.strip()
+            nonupperpart=nonupperpart.strip()
+            if show:
+                myprint1("upperpart:  "+upperpart)
+                myprint1("lowerpart: " +nonupperpart)
+            
+            if is_character_name_valid(upperpart):
+                if show:
+                        myprint1("valid character candidate"+upperpart)
+                upperpart=remove_text_in_brackets(upperpart).strip()
+                if match_uppercase_semicolon(upperpart) or upperpart.isupper():
+                        # if  :
+                            if show:
+                                    myprint1("IS CHARACTER YES")
+                            #flush cunulated speech
+                            #if len(cumulated_speech)>0:
+                            #   s=current_character+"\t"+cumulated_speech+"\n"
+                            #  file.write(s)
+                            # idx=idx+1
+                            if len(current_character)>0 and len(cumulated_speech)>0:
+                                s=current_character+"\t"+cumulated_speech+"\n"
+                                file.write(s)
+                                myprint1(">>>>>>>>>>> "+s)
+                                myprint1("reset cum")
+                                cumulated_speech=""
+                            current_character=remove_semicolon(upperpart) 
+                            current_character=clean_character_name(current_character)
+                            if show:
+                                myprint1("new character "+current_character)
+                else:
+                    if show:
+                        myprint1("Not a character")
+
+                if len(nonupperpart)>0:
+                    if show:
+                        myprint1("has noupper"+nonupperpart)
+                # if  idx<90:
+                    #    print("part "+str(part_idx)+":"+part)
+                    part=filter_speech_keepbrackets(nonupperpart)
+                    speech=part.strip() 
+                    myprint1("Add to cummulated"+speech)
+                    if len(current_character)>0:
+                        cumulated_speech=cumulated_speech+" "+speech
+
+                    if show:
+                        myprint1("final"+nonupperpart)
+            else:
+                    if show:
+                        myprint1("Not a valid character"+upperpart)
+                    
+    if len(cumulated_speech)>0:
+            s=current_character+"\t"+cumulated_speech+"\n"
+            file.write(s)
+            idx=idx+1
+            myprint1(">>>>>>>>>>> "+s)
 
 def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
     print("Conversion mode       : SCENEDESCRIPTION")
@@ -830,9 +876,13 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
                 mode="linear"
                 for line in textlines:
                     if line.isupper():
-                        if " THEN " in line:
+                        if " THEN " in line or "," in line:
                             mode="split"
-                            current_characters_split=line.split(" THEN ")    
+                            if " THEN " in line:
+                                current_characters_split=line.split(" THEN ")   
+                            elif "," in line: 
+                                current_characters_split=line.split(",")    
+                            
                             current_character=line
                         else:
                             current_character=line
@@ -1172,7 +1222,13 @@ def filter_text(s):
     return res
 
 def is_character_name_valid(char):
-    return char != "NOTE D'AUTEUR"
+    isNote= "NOTE D'AUTEUR" in char
+    isEnd = ("END CREDITS" in char )
+    isNar=("NARRATIVE TITLE" in char)
+    isOST =("ON-SCREEN TEXT" in char )
+    isMain =("MAIN TITLE" in char )
+    isOpen=("OPENING CREDITS" in char)
+    return (not isNote) and (not isEnd) and (not isNar) and (not isOST) and (not isOpen) and (not isMain)
 
 #################################################################
 # PROCESS

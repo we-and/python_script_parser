@@ -1,67 +1,55 @@
 __VOICEOVER: {''}
-MAIN TITLE): {''}
+MAIN TITLE: {''}
 VICAR: {''}
 JACK WILLOUGHBY: {''}
 MARY WILLOUGHBY: {''}
 BUTLER: {''}
-(CONT'D): {''}
+: {''}
 YOUNG ROBERT: {''}
 MAID: {''}
-YOUNG ROBERT): {''}
-WILLOUGHBY): {''}
-WILLOUGHBY) (CONT'D): {''}
-YOUNG ROBERT) (CONT'D): {''}
 WILLOUGHBY: {''}
+WILLOUGHBY) : {''}
+YOUNG ROBERT) : {''}
 LAURA: {''}
-YOUNG MISS WILLOUGHBY): {''}
-YOUNG MISS WILLOUGHBY) (CONT'D: {''}
 YOUNG MISS WILLOUGHBY: {''}
+YOUNG MISS WILLOUGHBY) (CONT'D: {''}
 MISS WILLOUGHBY: {''}
-[VO]): {''}
+[VO]: {''}
 THEN OLIVER: {''}
-(CONT'D) [VO]): {''}
 OLIVER: {''}
 THEN MISS WILLOUGHBY: {''}
-MISS WILLOUGHBY): {''}
 ROBERT: {''}
 HELEN: {''}
 2: {''}
 DIANA: {''}
-SARAH): {''}
-5: {''}
 SARAH: {''}
-DIANA): {''}
+5: {''}
 MAN: {''}
-HELEN): {''}
-HELEN) (CONT'D): {''}
-OLIVER): {''}
-ROBERT): {''}
+HELEN) : {''}
 CAROLE: {''}
 ANDREW: {''}
 THE HELEN: {''}
 BRIONY: {''}
-TITLE): {''}
-MURRAY): {''}
-MURRAY) (CONT'D): {''}
-TO MISS WILLOUGHBY): {''}
-WILLOUGHBY (CONT'D): {''}
+TITLE: {''}
+MURRAY: {''}
+MURRAY) : {''}
+TO MISS WILLOUGHBY: {''}
 THE ROBERT: {''}
 DR. SHIRANI: {''}
 SHIRANI: {''}
 THEN DR. SHIRANI: {''}
-TO CHARLES): {''}
+TO CHARLES: {''}
 CHARLES: {''}
 THE CHARLES: {''}
 PROFESSOR MURRAY: {''}
 THEN PROFESSOR MURRAY: {''}
 RONALD: {''}
-(CONT'D) THEN SARAH: {''}
-TO ROBERT): {''}
+TO ROBERT: {''}
 D.I. PRYCE: {''}
-TO D.I. PRYCE): {''}
-PRYCE): {''}
+TO D.I. PRYCE: {''}
+PRYCE: {''}
 OFFICER: {''}
-TO SARAH): {''}
+TO SARAH: {''}
 SPEAKER: {''}
 OLIVE: {''}
-(LOGO): {''}
+(LOGO: {''}

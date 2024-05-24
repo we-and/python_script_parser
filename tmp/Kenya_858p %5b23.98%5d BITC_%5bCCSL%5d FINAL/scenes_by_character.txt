@@ -2,22 +2,32 @@ LAUREN: {''}
 JACK: {''}
 NOAH: {''}
 BILLY: {''}
+ZOE: {''}
 STAFF MEMBER: {''}
 POLICE OFFICER: {''}
-ZOE: {''}
+FEMALE OFFICER: {''}
 MITCH: {''}
 CHARLIE: {''}
 JOE: {''}
+STAFF MEMBER 2: {''}
 STAFF MEMBERS: {''}
+ZOE AND BILLY: {''}
 WOMAN: {''}
 MAN: {''}
 LUCAS: {''}
+GROUP: {''}
 ALL: {''}
 TOURISTS: {''}
 FEMALE TOURIST: {''}
+NOAH AND BILLY: {''}
 TOURIST: {''}
 LAUREN AND NOAH: {''}
 ZOE AND JACK: {''}
+MAN 1: {''}
 DOCTOR: {''}
+MAN 2: {''}
+POACHER 1: {''}
+POACHER 2: {''}
 ZOE AND NOAH: {''}
 POACHER: {''}
+WOMAN 2: {''}

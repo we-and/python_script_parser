@@ -43,8 +43,8 @@ countingMethods=[
 countingMethodNames={
   #  "LINE_COUNT":"Lines",
    # "WORD_COUNT":"Words",
-    "ALL":"Characters",
-    "BLOCKS_50":"Lines",
+    "ALL":"Caracteres",
+    "BLOCKS_50":"Repliques",
 #    "BLOCKS_40":"Blocks (40)",
 #    "ALL_NOSPACE":"No space",
  #   "ALL_NOPUNC":"No punctuation",
@@ -161,7 +161,7 @@ def load_tree(parent, root_path):
     for entry in dirs:
         entry_path = os.path.join(root_path, entry)
 
-        dir_id = folders.insert(parent, 'end', text=" "+entry, image=folder_icon, open=False, values=[entry_path,"Folder",],tags=('folder'))
+        dir_id = folders.insert(parent, 'end', text=" "+entry, image=folder_icon, open=False, values=[entry_path,"Dossier",],tags=('folder'))
         #folders.insert(dir_id, 'end', text=os.path.basename(entry_path), open=True, values=[entry_path])
         folders.insert(dir_id, 'end', text="Loading...", values=["dummy"])  # Dummy node
 
@@ -727,15 +727,15 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
             for method in total[character]:
                 if method!="ALL":
                     #check merged characters and add eventually
-                    myprint4("char="+str(character))
+                    #myprint4("char="+str(character))
                     if character in currentMergedCharactersTo:
-                        myprint4("in merged"+str(currentMergedCharactersTo))
+                        #myprint4("in merged"+str(currentMergedCharactersTo))
                         mergedwith=currentMergedCharactersTo[character]
                         for k in mergedwith:
-                            myprint4("in merged add "+str(k))
+                            #myprint4("in merged add "+str(k))
                             total[character][method]=total[character][method]+total[k][method]
-                    else:
-                        myprint4("not merged")
+                    #else:
+                        #myprint4("not merged")
                     #myprint4(str(character)+": Add method "+method+" = "+str(total[character][method]))
                     datarow.append(str(total[character][method]))
 
@@ -1110,6 +1110,14 @@ def set_counting_method(i):
     myprint5("set method "+i)
     global countingMethod
     countingMethod=i
+def set_line_size(i):
+    print("a")
+def show_popup_line_size():
+    popup = tk.Toplevel()
+    popup.title("Popup") 
+
+    button = ttk.Button(popup, text="Appliquer", command=set_line_size(i))
+    button.pack(side=tk.TOP, fill=tk.X)
 
 def show_popup_counting_method():
     popup = tk.Toplevel()
@@ -1122,7 +1130,7 @@ def show_popup_counting_method():
     dropdown = ttk.Combobox(popup, values=countingMethods)
     dropdown.pack(pady=20)
     dropdown.current(0)
-    dropdown.bind('<<ComboboxSelected>>', on_value_change)
+ #   dropdown.bind('<<ComboboxSelected>>', on_value_change)
 
 def resizechart(self, event=None):
         # Resize the figure to match the dimensions of its container
@@ -1268,10 +1276,11 @@ def clear_chart():
     currentFig.clf()
     currentFig.canvas.draw()
 settings_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Settings", menu=settings_menu)
-settings_menu.add_command(label="Change counting method...", command=show_popup_counting_method)
+menu_bar.add_cascade(label="Parametres", menu=settings_menu)
+#settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
+settings_menu.add_command(label="Change la taille des repliques...", command=show_popup_line_size)
 #settings_menu.add_command(label="Set block length...", command=open_folder)
-settings_menu.add_command(label="Restore all characters...", command=restore_characters)
+settings_menu.add_command(label="Reafficher les personnages masques...", command=restore_characters)
 
 
 loading_label = ttk.Frame(app)
@@ -1417,7 +1426,7 @@ style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 #notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
 preview_tab = ttk.Frame(notebook)
-notebook.add(preview_tab, text='Original text',image=original_icon, compound=tk.LEFT)
+notebook.add(preview_tab, text='Texte',image=original_icon, compound=tk.LEFT)
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
@@ -1434,12 +1443,12 @@ character_table = ttk.Treeview(character_tab, columns=('Order', 'Character','Sta
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
-character_table.heading('Character', text='Character')
+character_table.heading('Character', text='Personnage')
 character_table.heading('Status', text='Status')
 #character_table.heading('Lines', text='Lines')
-character_table.heading('Characters', text='Characters')
+character_table.heading('Characters', text='Caracteres')
 #character_table.heading('Words', text='Words')
-character_table.heading('Lines', text='Lines')
+character_table.heading('Lines', text='Lignes')
 #character_table.heading('Blocks (40)', text='Blocks (40)')
 character_table.heading('Scenes', text='Scenes')
 
@@ -1455,7 +1464,7 @@ character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
-notebook.add(character_tab, text='Characters',image=char_icon, compound=tk.LEFT)
+notebook.add(character_tab, text='Personages',image=char_icon, compound=tk.LEFT)
 
 character_table.tag_configure('hidden', foreground='#999999')
 character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
@@ -1476,10 +1485,10 @@ breakdown_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
 breakdown_table = ttk.Treeview(breakdown_tab, columns=('Line', 'Type', 'Character','Text'), show='headings')
 # Define the column headings
-breakdown_table.heading('Line', text='Line')
+breakdown_table.heading('Line', text='Ligne')
 breakdown_table.heading('Type', text='Type')
-breakdown_table.heading('Character', text='Character')
-breakdown_table.heading('Text', text='Text')
+breakdown_table.heading('Character', text='Personnage')
+breakdown_table.heading('Text', text='Dialogue')
 
 # Define the column width and alignment
 breakdown_table.column('Line', width=25, anchor='w')
@@ -1534,10 +1543,10 @@ stats_tab = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
 stats_table = ttk.Treeview(stats_tab, columns=('Line number',  'Character','Text','Characters'), show='headings')
 # Define the column headings
-stats_table.heading('Line number', text='Line number')
-stats_table.heading('Character', text='Character')
-stats_table.heading('Text', text='Text')
-stats_table.heading('Characters', text='Characters')
+stats_table.heading('Line number', text='Ligne')
+stats_table.heading('Character', text='Personnage')
+stats_table.heading('Text', text='Dialogue')
+stats_table.heading('Characters', text='Caracteres')
 
 # Define the column width and alignment
 stats_table.column('Line number', width=25, anchor='center')
@@ -1554,7 +1563,7 @@ bold_font = tkFont.Font( weight="bold")
 stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 stats_table.tag_configure('bold', font=bold_font)
 
-notebook.add(stats_tab, text='Lines in order',image=chat_icon, compound=tk.LEFT)
+notebook.add(stats_tab, text="Dialogue dans l'ordre",image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics tab
@@ -1612,7 +1621,6 @@ def on_item_selected(event):
     item = tree.item(selection)
     record = item['values']
     # Do something with the selection, for example:
-    myprint2("You selected:", record)
     if len(record)==0:
         return
     clear_character_stats()
@@ -1635,7 +1643,7 @@ def on_item_selected(event):
             character=item['character']
             character_raw=item['character_raw']
             
-            filtered_speech=get_text_without_parentheses(speech)
+            filtered_speech=filter_speech(speech)
 
             if character==character_name:
                 #myprint2("    MATCH"+str(speech))
@@ -1662,10 +1670,10 @@ character_list_table.bind('<ButtonRelease-1>', on_item_selected)
 
 character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings')
 # Define the column headings
-character_stats_table.heading('Line #', text='Line #')
-character_stats_table.heading('Character', text='Character')
-character_stats_table.heading('Character (raw)', text='Character (raw)')
-character_stats_table.heading('Line', text='Line')
+character_stats_table.heading('Line #', text='Ligne #')
+character_stats_table.heading('Character', text='Personnage')
+character_stats_table.heading('Character (raw)', text='Personnage (brut)')
+character_stats_table.heading('Line', text='Replique')
 for i in countingMethods:
     character_stats_table.heading(countingMethodNames[i], text=countingMethodNames[i])
 
@@ -1682,7 +1690,7 @@ for i in countingMethods:
 character_stats_table.pack(fill='both', expand=True)
 character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Lines by character',image=chat_icon, compound=tk.LEFT)
+notebook.add(character_stats_tab, text='Repliques par personnage',image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics label
@@ -1691,17 +1699,19 @@ notebook.add(character_stats_tab, text='Lines by character',image=chat_icon, com
 
 export_tab = ttk.Frame(notebook)
 # Load folder button
-load_button = ttk.Button(export_tab, text="Open result folder...", command=open_result_folder)
+load_button = ttk.Button(export_tab, text="Ouvrir le dossier de resultats...", command=open_result_folder)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+load_button = ttk.Button(export_tab, text="Ouvrir le fichier conversion ...", command=open_result_folder)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
 #load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
-load_button = ttk.Button(export_tab, text="Open XLSX recap...", command=open_xlsx_recap)
+load_button = ttk.Button(export_tab, text="Ouvrir le recap .XLSX...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-load_button = ttk.Button(export_tab, text="Open dialog recap...", command=open_dialog_recap)
+load_button = ttk.Button(export_tab, text="Ouvrir le detail dialog...", command=open_dialog_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button

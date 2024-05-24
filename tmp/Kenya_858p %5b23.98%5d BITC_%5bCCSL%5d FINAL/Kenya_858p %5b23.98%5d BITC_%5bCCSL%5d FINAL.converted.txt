@@ -5,6 +5,9 @@ JACK TO LAUREN	 Heh. I'd maybe consider triple.
 LAUREN TO JACK	 Triple?
 JACK TO LAUREN	 Yeah.
 LAUREN TO JACK	 Tough guy, huh?
+JACK	 [chuckles]
+JACK	 [grunts]
+LAUREN	 [chuckles]
 LAUREN TO JACK	 Maybe not so tough.
 JACK TO LAUREN	 If I want a roller coaster,
 JACK TO LAUREN	 I'll take Six Flags.
@@ -21,19 +24,36 @@ JACK TO LAUREN	 I just don't like the fact that this family's become
 JACK TO LAUREN	 a democracy all of a sudden.
 LAUREN TO JACK	 It was a velvet coup, honey.
 JACK TO LAUREN	 Hah.
-LAUREN TO JACK	 You never noticed.
+LAUREN TO JACK	 You never noticed. [plane engine droning]
 LAUREN TO JACK	 Whoa, heaven, Jack.
-LAUREN TO JACK	 I've landed in heaven. Thank you. Hey, Sam. Uh, so we just landed and, um…
-NOAH TO LAUREN	 Mom, where are we? Hey, Sam. We are just outside of Amboseli Park in Kenya. Amboseli. Check this place out, isn't it cool? It's like animals.
+LAUREN TO JACK	 I've landed in heaven. Thank you.
+NOAH TO SAM	 Hey, Sam.
+NOAH TO SAM	 Uh, so we just landed and, um…
+NOAH TO LAUREN	 Mom, where are we?
+LAUREN TO SAM	 Hey, Sam. We are just outside of
+LAUREN TO SAM	 Amboseli Park in Kenya.
+NOAH TO SAM	 Amboseli.
+NOAH TO SAM	 Check this place out, isn't it cool?
+NOAH TO SAM	 It's like animals.
 NOAH TO ZOE AND BILLY	 Hey, uh, Zoe, Billy.
-NOAH TO ZOE AND BILLY	 Guys, say hi to Sam. Hi, Sam. Hey, Sam. How's it going? You should be here, yo. Fucking good!
+NOAH TO ZOE AND BILLY	 Guys, say hi to Sam.
+BILLY TO SAM	 Hi, Sam.
+ZOE TO SAM	 Hey, Sam. How's it going?
+BILLY TO SAM	 You should be here, yo. Fucking good! [laughs]
 LAUREN TO BILLY	 Come on, Billy.
-BILLY TO LAUREN	 I'm sorry, Missus. We're headed to a lodge and then we're going to, uh, on a safari tomorrow. I wish you could come. But, uh… Dad.
-NOAH TO JACK	 Dad, say hi to Sam. Hi, Sam.
-LAUREN TO JACK	 It's so hard, Jack? Send me a video back, okay?
-JACK TO NOAH	 Hey, I said hi. I said hi.
+BILLY TO LAUREN	 I'm sorry, Missus.
+NOAH TO SAM	 We're headed to a lodge
+NOAH TO SAM	 and then we're going to, uh, on a safari tomorrow.
+NOAH TO SAM	 I wish you could come.
+NOAH TO SAM	 But, uh… Dad.
+NOAH TO JACK	 Dad, say hi to Sam.
+JACK TO SAM	 Hi, Sam.
+LAUREN TO JACK	 It's so hard, Jack?
+NOAH TO SAM	 Send me a video back, okay?
+JACK TO NOAH	 Hey, I said hi. I said hi. [bird squawking]
 JACK TO STAFF MEMBER	 Okay. Uh, asante.
 STAFF MEMBER TO JACK	 Okay.
+LAUREN TO STAFF MEMBER	 [speaking in foreign language]
 JACK TO ALL	 Okay. All right.
 JACK TO ALL	 Let's go. Let's go, kids.
 JACK TO BILLY	 Billy, let's go get our car.
@@ -42,6 +62,7 @@ JACK TO POLICE OFFICER	 Whoa, whoa, whoa.
 POLICE OFFICER TO JACK	 Wait.
 LAUREN TO JACK	 What's happening?
 JACK TO LAUREN	 I don't know. We're just gonna wait here.
+FEMALE OFFICER TO OTHERS	 [speaking foreign language]
 ZOE TO MITCH	 What are they doing?
 MITCH TO ZOE	 Team Lioness.
 MITCH TO ZOE	 Anti-poaching unit. All female.
@@ -73,7 +94,7 @@ MITCH TO JACK	 what is your business, my friend?
 JACK TO MITCH	 I work for Exxon.
 MITCH TO JACK	 Ah…
 MITCH TO JACK	 Oil man.
-JACK TO MITCH	 Well, .
+JACK TO MITCH	 Well, [indistinct].
 LAUREN TO MITCH	 Are you here on vacation?
 MITCH TO LAUREN	 No, no, no, no. Uh… we… uh…
 MITCH TO LAUREN	 we help run a community outreach program,
@@ -82,7 +103,7 @@ LAUREN TO MITCH	 Good for you.
 ZOE TO MITCH	 That's really cool.
 BILLY TO MITCH	 That's really cool.
 JOE TO JACK	 Jack, isn't that cool?
-JACK TO ZOE	 Zoe, Zoe.
+JACK TO ZOE	 Zoe, Zoe. [car engine revving]
 POLICE OFFICER TO JACK	 Okay, you can now leave.
 JACK TO POLICE OFFICER	 Okay.
 JACK TO MITCH AND CHARLIE	 Nice meeting you. Nice meeting you.
@@ -90,22 +111,39 @@ CHARLIE TO JACK	 Thank you.
 BILLY TO MITCH	 TIA and all that.
 ZOE TO BILLY	 He looked great.
 BILLY TO ZOE	 You didn't even know him, Zoe.
-MITCH TO CHARLIE	 This country's gonna eat them alive. This… is the luxury Africa cruiser? This is actually the best luxury cruiser. I asked for a Mercedes. No, sir, just come, come. I ordered… This is the best cruiser. This is actually the best vehicle here in Kenya. …a Mercedes. This is the best one for you all. For your price.
+MITCH TO CHARLIE	 This country's gonna eat them alive. [birds chirping] [bag thuds]
+JACK TO STAFF MEMBER 2	 This…
+JACK TO STAFF MEMBER 2	 is the luxury Africa cruiser?
+STAFF MEMBER 2 TO JACK	 This is actually the best
+STAFF MEMBER 2 TO JACK	 luxury cruiser.
+JACK TO STAFF MEMBER 2	 I asked for a Mercedes.
+STAFF MEMBER 2 TO JACK	 No, sir, just come, come.
+JACK TO STAFF MEMBER 2	 I ordered…
+STAFF MEMBER 2 TO JACK	 This is the best cruiser.
+STAFF MEMBER 2 TO JACK	 This is actually the best vehicle here in Kenya.
+JACK TO STAFF MEMBER 2	 …a Mercedes.
+STAFF MEMBER 2 TO JACK	 This is the best one for you all.
+STAFF MEMBER 2 TO JACK	 For your price.
 JACK TO SELF	 I--I don't even know what to say.
 NOAH TO ALL	 I like it.
-BILLY TO ALL	 Come on in. Come on in. Come on in.
+BILLY TO ALL	 Come on in.
+STAFF MEMBER 2 TO ALL	 Come on in. Come on in.
 LAUREN TO ALL	 I think she's perfect.
-LAUREN TO ALL	 I think we gotta name her. Hey, does the AC work? No. The AC does not work. Have a lovely holiday. Bye-bye.
+LAUREN TO ALL	 I think we gotta name her. [excited conversation]
+NOAH TO STAFF MEMBER 2	 Hey, does the AC work?
+STAFF MEMBER 2 TO NOAH	 No. The AC does not work. [chuckles]
+STAFF MEMBER 2 TO NOAH	 Have a lovely holiday.
+STAFF MEMBER 2 TO ALL	 Bye-bye. [birds squawking]
 NOAH TO JACK	 How can they not have
 NOAH TO JACK	 a paved road from the airport?
 JACK TO NOAH	 It's a developing nation. I guess they don't have
-JACK TO NOAH	 the money for that kind of thing.
+JACK TO NOAH	 the money for that kind of thing. [zebra whining]
 JACK TO LAUREN	 Oh, my gosh. Look, look, look, look.
 LAUREN TO JACK	 Wow. Wow. Wow. Look at that.
 ZOE TO ALL	 Oh, my gosh.
-LAUREN TO SELF	 Aw.
+LAUREN TO SELF	 Aw. [zebra galloping]
 ZOE TO ALL	 Oh, my God. They're real.
-ZOE TO ALL	 .
+ZOE TO ALL	 [indistinct].
 NOAH TO ALL	 Just some zebras just hangin' out.
 NOAH TO ALL	 It's amazing.
 JACK TO ALL	 Oh, cool.
@@ -121,19 +159,21 @@ BILLY TO ALL	 Oh, yeah.
 STAFF MEMBERS TO ALL	 Hello.
 LAUREN TO STAFF MEMBERS	 Jambo. Jambo.
 NOAH TO STAFF MEMBERS	 Hello.
-STAFF MEMBER TO LAUREN	 Welcome, .
+LAUREN TO STAFF MEMBERS	 [speaking foreign language]
+STAFF MEMBER TO LAUREN	 Welcome, [indistinct].
 LAUREN TO STAFF MEMBER	 Thank you.
 STAFF MEMBER TO ALL	 Here we go.
 ZOE TO STAFF MEMBER	 Come on. Thank you.
-BILLY TO STAFF MEMBER	 Jambo. Jambo.
-JACK TO LAUREN	 Huh.
+BILLY TO STAFF MEMBER	 Jambo. Jambo. [excited conversation] [birds chirping]
+JACK TO LAUREN	 [chuckles] Huh.
 LAUREN TO JACK	 Oh, look at this view.
 LAUREN TO JACK	 Oh, look at this room.
-LAUREN TO JACK	 Jack!
+LAUREN TO JACK	 Jack! [chuckles]
 JACK TO LAUREN	 Wow.
 LAUREN TO JACK	 Look at this.
 JACK TO LAUREN	 Huh!
 LAUREN TO JACK	 Beautiful.
+JACK	 [chuckles]
 JACK TO LAUREN	 Yeah, it should be for the price we paid. Wow.
 LAUREN TO JACK	 Oh, Jack.
 JACK TO LAUREN	 Huh.
@@ -145,16 +185,16 @@ JACK TO LAUREN	 and then…
 JACK TO LAUREN	 I will relax.
 LAUREN TO JACK	 Hey.
 JACK TO LAUREN	 Huh?
-LAUREN TO JACK	 Still high.
+LAUREN TO JACK	 Still high. [machine beeps]
 JACK TO LAUREN	 What?
 LAUREN TO JACK	 My levels.
 LAUREN TO JACK	 Still high from the travel.
-JACK TO LAUREN	 Oh, wait.
+JACK TO LAUREN	 Oh, wait. [owl hooting]
 JACK TO LAUREN	 It's beautiful.
 LAUREN TO JACK	 It really is.
 JACK TO LAUREN	 No, you are.
 JACK TO LAUREN	 You're always beautiful.
-LAUREN TO JACK	 Jack.
+LAUREN TO JACK	 Jack. [chuckles]
 BILLY TO ZOE	 Ooh.
 ZOE TO BILLY	 Ugh.
 ZOE TO ALL	 Oh my God, wait.
@@ -176,6 +216,7 @@ LAUREN TO JACK	 And I used to stare at it for hours
 LAUREN TO JACK	 just wishing I was there.
 LAUREN TO JACK	 And now I'm finally here.
 LAUREN TO JACK	 I just can't believe it.
+JACK	 [breathes deeply]
 JACK TO LAUREN	 Hey, I'm sorry.
 JACK TO LAUREN	 I'm sorry if I've been…
 LAUREN TO JACK	 An asshole?
@@ -184,7 +225,7 @@ LAUREN TO JACK	 Sorry, Jack. I know-- I can tell you've got
 LAUREN TO JACK	 a lot on your mind.
 LAUREN TO JACK	 You know, you could share.
 JACK TO LAUREN	 I just want the last family vacation
-JACK TO LAUREN	 before Zoe goes off to college to be special.
+JACK TO LAUREN	 before Zoe goes off to college to be special. [animals howling]
 LAUREN TO JACK	 If she goes off to college.
 LAUREN TO JACK	 You heard her, Jack.
 JACK TO LAUREN	 She's gonna go to college.
@@ -199,7 +240,7 @@ JACK TO LAUREN	 You know, you know what it is?
 JACK TO LAUREN	 It's that boyfriend of hers.
 JACK TO LAUREN	 That's who's doing this.
 JACK TO LAUREN	 I mean, why is he even here, huh?
-LAUREN TO JACK	 You want Zoe, you get Billy.
+LAUREN TO JACK	 [scoffs] You want Zoe, you get Billy.
 LAUREN TO JACK	 That's young love.
 JACK TO LAUREN	 Yeah, he's not that young.
 LAUREN TO JACK	 Same age difference as we were.
@@ -212,8 +253,9 @@ JACK TO LAUREN	 Yeah.
 JACK TO LAUREN	 You don't have to pay for him.
 LAUREN TO JACK	 Gosh, can you just relax, Jack?
 LAUREN TO JACK	 Relax.
+JACK	 [sighing deep] [phone beeps, vibrating]
 JACK TO SELF	 Shoot.
-JACK TO LAUREN	 I stink. I'm gonna have a shower.
+JACK TO LAUREN	 I stink. I'm gonna have a shower. [tap creaks] [shower running] [crow caws] [phone beeps and vibrates] [insects chirping]
 BILLY TO ZOE AND NOAH	 Lots of frogs.
 NOAH TO ZOE	 Oh, remember that little frog I had?
 NOAH TO ZOE	 Ice Cream?
@@ -248,6 +290,7 @@ BILLY TO ZOE	 Come on, Zoe.
 NOAH TO ZOE	 I'm actually going to do a workout
 NOAH TO ZOE	 with Dad before dinner,
 NOAH TO ZOE	 doing like an African circuit thing…
+ZOE AND BILLY	 [laughing]
 NOAH TO ZOE	 Okay.
 LAUREN TO JACK	 You've been fired?
 JACK TO LAUREN	 You looked… you looked at my phone?
@@ -282,11 +325,13 @@ JACK TO LAUREN	 No, it's not like that. I…
 JACK TO LAUREN	 I don't think so.
 JACK TO LAUREN	 I'll go back as soon as they sort it out.
 JACK TO LAUREN	 Can I please have my phone?
+ZOE	 [chuckling]
+BILLY	 [mumbling]
 ZOE TO BILLY	 Wait, Billy. Wow.
 BILLY TO ZOE	 Whoa.
 ZOE TO BILLY	 Wow.
 ZOE TO BILLY	 What is this place?
-BILLY TO ZOE	 Wow.
+BILLY TO ZOE	 Wow. [chuckles]
 ZOE TO BILLY	 So cool.
 ZOE TO BILLY	 Wait, Billy, look. Look at the Milky Way.
 ZOE TO BILLY	 Oh, my God. It's so cool.
@@ -296,12 +341,14 @@ BILLY TO ZOE	 Hey, baby?
 ZOE TO BILLY	 What?
 BILLY TO ZOE	 You're the starlight queen.
 ZOE TO BILLY	 Hm.
-LAUREN TO HOST	 Oh, thank you.
-ZOE TO BILLY	 That was so cool.
+ZOE	 [chuckling] [jewelry clanking] [insects chirping]
+LAUREN TO HOST	 Oh, thank you. [jewelry clanking] [glasses clink]
+ZOE TO BILLY	 [chuckling] That was so cool.
 ZOE TO GUESTS	 Hey, come dance!
 ZOE TO GUESTS	 Come on.
 ZOE TO GUESTS	 Come and dance.
-ZOE TO GUESTS	 No? Okay.
+ZOE TO GUESTS	 No? Okay. [chuckles]
+BILLY	 [chuckles]
 JACK TO NOAH	 Let's go. Come on.
 JACK TO NOAH	 Seven-eight-nine.
 JACK TO NOAH	 More pushups, let's go.
@@ -309,7 +356,7 @@ JACK TO NOAH	 One-two-three, and now clap it out.
 JACK TO NOAH	 Five-six-seven. Come on. Come on.
 JACK TO NOAH	 Hey, seven, seven.
 NOAH TO JACK	 Oh, geez, Dad. Slow, slow. Come on.
-NOAH TO JACK	 Okay.
+NOAH TO JACK	 Okay. [panting]
 JACK TO NOAH	 Hey, come on. One more set. One more set.
 NOAH TO JACK	 We've been going for like 10 minutes.
 NOAH TO JACK	 Jesus.
@@ -322,7 +369,7 @@ JACK TO NOAH	 Yeah, I'm fine.
 NOAH TO JACK	 You and Mom got in a fight again.
 JACK TO NOAH	 Twenty-five--
 JACK TO NOAH	 no, no, we're fine. Everything's good. We--
-JACK TO NOAH	 We're fine.
+JACK TO NOAH	 [chuckles] We're fine.
 JACK TO NOAH	 I promise. How's your,
 JACK TO NOAH	 uh, relationship? How's your, uh…
 NOAH TO JACK	 Sam?
@@ -330,6 +377,7 @@ JACK TO NOAH	 How's Sam?
 NOAH TO JACK	 You don't have to ask. I know you don't… want to.
 JACK TO NOAH	 No. I do. I do.
 JACK TO NOAH	 I want to know how… how is he?
+NOAH	 [sighing]
 NOAH TO JACK	 Fine?
 JACK TO NOAH	 He's not distracting you, is he?
 NOAH TO JACK	 No, he's not distracting me.
@@ -348,7 +396,7 @@ JACK TO NOAH	 You know what I'm saying.
 NOAH TO JACK	 Yes, I do know what you're saying.
 NOAH TO JACK	 You wish that Sam was my girlfriend.
 NOAH TO JACK	 But he's not. He's my boy--
-JACK TO NOAH	 That's not--
+JACK TO NOAH	 That's not-- [overlapping commotion]
 JACK TO NOAH	 Hey!
 JACK TO NOAH	 I don't know. I don't know. But--
 NOAH TO JACK	 What is it?
@@ -361,10 +409,10 @@ JACK TO LAUREN	 Well, is-- is everyone okay?
 LAUREN TO JACK	 Everyone's fine.
 JACK TO LAUREN	 You okay? You okay?
 LAUREN TO JACK	 Yeah. Yeah.
-WOMAN TO JACK	 It came… it came tripping off of the trees.
+WOMAN TO JACK	 It came… it came tripping off of the trees. [hyena laughing]
 LAUREN TO JACK	 Oh, wow.
 LAUREN TO JACK	 Yeah, look at him. Yeah, he's right there.
-JACK TO LAUREN	 Yeah, he's right there.
+JACK TO LAUREN	 Yeah, he's right there. [hyena growling]
 MAN TO LAUREN	 Did you see that mangy looking dog like thing?
 LAUREN TO MAN	 Oh, I thought he was pretty handsome.
 LUCAS TO GUESTS	 He was just looking for food.
@@ -383,15 +431,18 @@ LUCAS TO GUESTS	 If found alone, this can do the magic.
 LUCAS TO GUESTS	 It's all you need, really.
 LUCAS TO GUESTS	 That's okay. Just go back to having fun.
 JACK TO LAUREN	 You know, uh, no hyenas in Bora Bora.
-JACK TO LAUREN	 Come on.
-ZOE TO MAN	 Oh, thank you.
+LUCAS	 [speaking foreign language]
+GROUP	 [singing in foreign language]
+JACK TO LAUREN	 Come on. [singing continues]
+ZOE TO MAN	 Oh, thank you. [feet tapping] [insects chirping]
 LAUREN TO JACK	 Jack, can you put that away?
-JACK TO LAUREN	 Yeah, yeah.
+JACK TO LAUREN	 Yeah, yeah. [birds chirping]
 ZOE TO ALL	 Good morning.
 LAUREN TO ZOE	 Morning, honey.
 JACK TO LAUREN	 Morning, sweetheart.
 ZOE TO JACK	 So cool, Jack.
 JACK TO ZOE	 What?
+BILLY	 [laughs]
 ZOE TO LAUREN	 Mom. Why so early?
 LAUREN TO ZOE	 Adventure begins early, honey.
 LAUREN TO ZOE	 Have some coffee to wake up.
@@ -400,6 +451,7 @@ LAUREN TO ALL	 Who's ready for the big five?
 NOAH TO LAUREN	 What's the big five?
 BILLY TO NOAH	 Ah, lion, elephant, buffalo, leopard and… shit.
 ZOE TO BILLY	 Rhino.
+BILLY	 [mouthing]
 LAUREN TO ALL	 Oh, I hope we see a rhino.
 LAUREN TO JACK	 Jack, do you think we'll see a rhino?
 JACK TO NOAH	 Thank you.
@@ -415,6 +467,7 @@ JACK TO LAUREN	 Oh, my goodness. Okay.
 LAUREN TO JACK	 What do you feel, Jack?
 JACK TO LAUREN	 I feel like… I feel like we're in a--
 LAUREN TO JACK	 Yeah, well.
+JACK	 [chuckles]
 LAUREN TO JACK	 Get ready for our day.
 LUCAS TO ALL	 Good morning, Halsey family.
 ALL TO LUCAS	 Good morning. Good morning.
@@ -455,7 +508,8 @@ BILLY TO TOURISTS	 Bye.
 FEMALE TOURIST TO JACK	 Bye. Have fun.
 JACK TO FEMALE TOURIST	 Bye-bye. Have a good one.
 NOAH TO BILLY	 We have to try. Let's see.
-BILLY TO NAOH	 One, two, three.
+BILLY TO NAOH	 One, two, three. [creaking]
+NOAH AND BILLY	 [shouting in excitement]
 LAUREN TO NOAH AND BILLY	 Oh, my God. Oh, that's great, guys.
 NOAH TO LAUREN	 Cool.
 LAUREN TO NOAH AND BILLY	 This is gonna work out just fine.
@@ -477,13 +531,16 @@ LAUREN TO NOAH	 Yes, I do.
 LAUREN TO ALL	 Are we ready for an adventure?
 ZOE TO LAUREN	 Yeah.
 BILLY TO LAUREN	 Mm-hm.
-JACK TO ALL	 All right, here we go.
+JACK TO ALL	 All right, here we go. [car door closes]
 LAUREN TO JACK	 Let's do this.
 JACK TO LAUREN	 Oh, shit. I forgot my sunglasses.
 JACK TO LAUREN	 That's… it's gonna be what it's gonna be.
 LAUREN TO JACK	 Oh… are you sure?
-JACK TO LAUREN	 It's fine. Whoo. Do not get out of your vehicle at any time.
-NOAH TO BILLY	 Oh, this is cool. Do not exceed 30 kilometers an hour. Do not litter.
+JACK TO LAUREN	 It's fine.
+BILLY	 Whoo. Do not get out of your vehicle at any time.
+NOAH TO BILLY	 Oh, this is cool.
+LAUREN	 Do not exceed 30 kilometers an hour.
+BILLY	 Do not litter.
 JACK TO ALL	 Here we are.
 ZOE TO JACK	 Okay.
 BILLY TO JACK	 Okay.
@@ -491,11 +548,11 @@ LAUREN TO ZOE	 Zoe, are you seeing this?
 JACK TO ALL	 Wow, wow, wow.
 LAUREN TO ZOE	 I'm so excited.
 JACK TO LAUREN	 I can't believe it. Okay. I'm a little bit excited.
-MAN TO JACK	 How are you? .
+MAN TO JACK	 How are you? [indistinct].
 NOAH TO ZOE AND BILLY	 Oh, she's gonna try and sell you something, Mom.
 LAUREN TO ZOE	 They're so pretty!
 LAUREN TO ZOE	 Zoe, are you seeing this?
-ZOE TO LAUREN	 No. Mom.  like 20 bucks.
+ZOE TO LAUREN	 No. Mom. [indistinct] like 20 bucks.
 STAFF MEMBER TO JACK	 Hello.
 JACK TO STAFF MEMBER	 Hi there, hi. Good morning.
 STAFF MEMBER TO JACK	 How are you, sir?
@@ -504,16 +561,16 @@ BILLY TO ZOE	 That one was late.
 ZOE TO LAUREN	 Mom, you gotta get one.
 STAFF MEMBER TO JACK	 Welcome to Amboseli.
 WOMAN TO LAUREN	 Please, please.
-NOAH TO LAUREN	 Did you bring Kenyan money?
+NOAH TO LAUREN	 Did you bring Kenyan money? [overlapping conversation] [dog barking]
 LAUREN TO JACK	 They look like this.
 JACK TO LAUREN	 What are you doing?
 JACK TO LAUREN	 What are you doing?
 LAUREN TO JACK	 Shh. Jack, come on.
 LAUREN TO JACK	 Did you bring--
-JACK TO LAUREN	 We don't need a belt.
+JACK TO LAUREN	 We don't need a belt. [dog barking]
 LAUREN TO JACK	 It's so beautiful. This one was made here.
 NOAH TO TOURIST	 Hi.
-BILLY TO ZOE	 .
+BILLY TO ZOE	 [indistinct].
 TOURIST TO OFFICER	 Hey, what's going on?
 JACK TO LAUREN	 What do we need a belt for?
 JACK TO LAUREN	 Don't-- don't waste our money, hon.
@@ -527,7 +584,7 @@ BILLY TO ZOE	 …poachers.
 LAUREN TO NOAH	 I thought they said poaching wasn't really a thing here.
 NOAH TO LAUREN	 They don't look like poachers.
 ZOE TO NOAH	 And what are poachers supposed to look like?
-NOAH TO ZOE	 Not tourists.
+NOAH TO ZOE	 Not tourists. [dog barking]
 BILLY TO ZOE	 Those bastards kill, like,
 BILLY TO ZOE	 a 1,000 rhinos a year.
 ZOE TO BILLY	 Holy shit. That's three rhinos a day.
@@ -540,16 +597,17 @@ JACK TO STAFF MEMBER	 Hey, excuse me. Excuse me. Do you mind?
 STAFF MEMBER TO JACK	 One minute.
 STAFF MEMBER TO JACK	 Please wait.
 JACK TO STAFF MEMBER	 Excuse me, sir. Do you mind if--
-JACK TO STAFF MEMBER	 do you mind if we just go through?
+JACK TO STAFF MEMBER	 do you mind if we just go through? [dog barking]
 LAUREN TO SELF	 Oh, my God.
-NOAH TO SELF	 Holy shit.
+NOAH TO SELF	 Holy shit. [engine car revving]
 LAUREN TO JACK	 Jack. Jack, what are you doing?
 JACK TO LAUREN	 You wanna go on a safari?
 JACK TO LAUREN	 I'm gonna take you on a gosh darn safari.
-LAUREN TO JACK	 Jack! Jack! Jack!
+LAUREN	 [mumbling]
+LAUREN TO JACK	 Jack! Jack! Jack! [overlapping arguments and exited shouts]
 JACK TO LAUREN	 Sometimes you have to break the rules.
 JACK TO LAUREN	 We'll pay when we come out.
-NOAH TO JACK	 Yeah!
+NOAH TO JACK	 Yeah! [dog barking at a distance] [insects chirping]
 ZOE TO JACK	 Are these the right roads?
 ZOE TO JACK	 I don't see any animals.
 ZOE TO JACK	 We did come to the right place.
@@ -571,11 +629,13 @@ JACK TO NOAH	 This… I will make happen.
 ZOE TO JACK	 All about breaking the rules today, huh?
 JACK TO ZOE	 Looks like it.
 JACK TO ZOE	 Hey, if you see a traffic cop, let me know.
+BILLY	 [laughs]
 JACK TO ALL	 Off-road adventure.
+BILLY	 [laughs]
 JACK TO ALL	 All right. Watch your head.
 JACK TO ALL	 Watch your heads. Just a little--
-JACK TO ALL	 little  in here.
-BILLY TO JACK	 Oh. Oh,
+JACK TO ALL	 little [indistinct] in here.
+BILLY TO JACK	 Oh. Oh, [laughs]
 JACK	 All right. Here we go.
 LAUREN TO ALL	 Any water back there, guys?
 ZOE TO LAUREN	 Yeah.
@@ -589,7 +649,7 @@ ZOE TO BILLY	 What?
 JACK TO BILLY	 What is it?
 BILLY TO ZOE	 No, no. Over there.
 NOAH TO BILLY	 I don't think that's how the game works, Billy.
-BILLY TO ZOE	 No, no. Over there. Over there.
+BILLY TO ZOE	 No, no. Over there. Over there. [bird squawking]
 ZOE TO BILLY	 Where?
 BILLY TO ZOE	 There.
 ZOE TO BILLY	 What?
@@ -611,7 +671,7 @@ BILLY TO ZOE	 It's… it's wildlife.
 BILLY TO ZOE	 There's flies there. They're alive.
 ZOE TO BILLY	 Billy.
 BILLY TO ZOE	 I see some maggots over there and some flies.
-JACK TO ALL	 All right, come on. Hold on.
+JACK TO ALL	 All right, come on. Hold on. [indistinct conversation]
 NOAH TO JACK	 Wait, wait. Can I get a picture?
 JACK TO NOAH	 No, you can't get a picture, Noah.
 ZOE TO NOAH	 Ew. Are you a serial killer?
@@ -634,6 +694,7 @@ ZOE TO NOAH	 Well, that's us dead.
 NOAH TO ZOE	 I'm actually a really good driver.
 ZOE TO NOAH	 Mm. I think the back of Dad's Porsche
 ZOE TO NOAH	 would disagree with that.
+BILLY	 [laughs]
 NOAH TO ZOE	 That was not my fault. I buffed it out.
 NOAH TO ZOE	 At least I have a license.
 ZOE TO NOAH	 Hey, I can drive.
@@ -648,7 +709,7 @@ JACK TO LAUREN	 Want to do it here?
 LAUREN TO JACK	 I need my fixin'.
 JACK TO LAUREN	 All right. All right. Hold on.
 JACK TO LAUREN	 All right.
-LAUREN TO JACK	 …my fix.
+LAUREN TO JACK	 …my fix. [overlapping conversation]
 JACK TO NOAH	 All right. Hop up here, bud.
 JACK TO NOAH	 There you go.
 JACK TO NOAH	 All right, big guy. There you go. Okay.
@@ -660,19 +721,22 @@ ZOE TO NOAH	 No. 20.
 LAUREN TO NOAH	 Twenty. No. no.
 JACK TO ALL	 Shut up. Okay.
 JACK TO NOAH	 Both-- both feet down, right. Clutch all the way
-JACK TO NOAH	 to the floor.
+JACK TO NOAH	 to the floor. [gear shift clicks]
 JACK TO NOAH	 Over and up. Now, a little bit of gas.
 JACK TO NOAH	 Let go of that clutch.
 JACK TO NOAH	 That's okay. That's okay.
 ZOE TO NOAH	 Oh, wow. Such a good driver.
 BILLY TO NOAH	 Way to go, Noah.
-ZOE TO NOAH	 Such a good driver.
+ZOE TO NOAH	 Such a good driver. [engine car revving]
+ZOE	 [laughs]
+BILLY	 [whooping]
 LAUREN TO NOAH	 Yeah, there we go.
-BILLY TO ALL	 Now we're gonna see some wildlife.
+BILLY	 [whooping]
+BILLY TO ALL	 Now we're gonna see some wildlife. [dog barking]
 NOAH TO ALL	 We don't want any more zebra. Okay?
 ZOE TO NOAH	 Yeah.
 LAUREN TO ALL	 Are we bored with zebra?
-LAUREN TO ALL	 Gosh, I can't believe--
+LAUREN TO ALL	 Gosh, I can't believe-- [overlapping chatter]
 LAUREN TO ALL	 Yeah. Whoever thought we'd be bored by a zebra.
 JACK TO LAUREN	 Bored by zebras. Bored by zebras, that's right.
 LAUREN TO JACK	 Bored by zebras. Right?
@@ -684,8 +748,8 @@ LAUREN TO ALL	 My gosh! Oh, my…
 ZOE TO SELF	 Oh, wow.
 JACK TO LAUREN	 Got you a rhino, baby.
 LAUREN TO JACK	 Oh, yes, you did, baby. This is incredible.
-LAUREN TO ALL	 Wow. It's gorgeous.
-JACK TO SELF	 Wow!
+LAUREN TO ALL	 Wow. It's gorgeous. [overlapping conversation] [rhino growling]
+JACK TO SELF	 Wow! [indistinct conversation]
 LAUREN TO NOAH	 Hey guys, can we get a little closer?
 LAUREN TO NOAH	 Just a little bit.
 NOAH TO LAUREN	 Can I?
@@ -694,9 +758,9 @@ JACK TO NOAH	 Yeah, yeah, go ahead. Just put some nice--
 LAUREN TO ALL	 Oh, wow. This is unbelievable.
 LAUREN TO NOAH	 Just a little, ah! Giant animal with a spike on its face.
 BILLY TO ALL	 What could possibly go wrong?
-NOAH TO LAUREN	 Mom, are you getting the picture?
+NOAH TO LAUREN	 Mom, are you getting the picture? [camera clicking]
 LAUREN TO NOAH	 I mean, never in my wildest dreams.
-LAUREN TO NOAH	 Are you seeing--
+LAUREN TO NOAH	 [baby rhino crying] Are you seeing-- [gasps]
 LAUREN TO SELF	 Oh, wow.
 LAUREN TO ZOE	 Oh, wow.
 LAUREN TO ZOE	 Zoe, look at this. Is this--
@@ -713,45 +777,53 @@ NOAH TO JACK	 Wait, I'm not good at reversing.
 JACK TO LAUREN	 Lauren, Lauren. Would you get down, honey?
 NOAH TO JACK	 Is that in reverse?
 JACK TO NOAH	 That's in reverse. There you go. There you go.
-ZOE TO NOAH	 Oh, my God. Noah, back it up.
+ZOE TO NOAH	 Oh, my God. Noah, back it up. [rhino growling]
 ZOE TO NOAH	 Noah, back it up!
 JACK TO NOAH	 It's okay.
-NOAH TO ALL	 I'm sorry. Sorry, okay?
+NOAH TO ALL	 I'm sorry. Sorry, okay? [car engine revving]
 ZOE TO NOAH	 Oh, my gosh. Stop it. Noah!
 NOAH TO JACK	 I'm not good at reversing, I'm sorry.
 JACK TO NOAH	 Slowly. There you go.
-LAUREN TO ALL	 Oh, my gosh. Oh, my gosh.
+LAUREN TO ALL	 Oh, my gosh. Oh, my gosh. [rhino growling]
 NOAH TO JACK	 Oh, my God! Dad.
-JACK TO NOAH	 No, you're okay.
-LAUREN TO JACK	 Drive! Jack, drive.
+JACK TO NOAH	 No, you're okay. [shouting] [car crashes]
+ALL	 [screaming] [tires screech]
+ALL	 [screaming]
+LAUREN TO JACK	 Drive! Jack, drive. [rhino growling]
 JACK TO ALL	 Oh, oh, my gosh. Oh, my gosh. It's okay. It's okay.
 JACK TO ALL	 She's done. She's done.
 JACK TO ALL	 She's not done. She's not done.
+ALL	 [screaming] [loud crash]
 LAUREN TO JACK	 Jack!
 BILLY TO JACK	 She gone?
-JACK TO ALL	 Shh… shh…
-JACK	 No! No! No!
-JACK TO SELF	 Oh, my God!
+JACK TO ALL	 Shh… shh… [rhino growling]
+ALL	 [screaming]
+JACK	 No! No! No! [screaming continues]
+JACK TO SELF	 Oh, my God! [car crashes]
+ALL	 [grunting and crying]
 LAUREN TO ALL	 Everybody okay?
 LAUREN TO NOAH AND ZOE	 Noah. Zoe.
 ZOE TO SELF	 Oh, fuck!
 NOAH TO ALL	 She's gone.
-NOAH TO ALL	 She's gone. She's gone. She's gone.
+NOAH TO ALL	 She's gone. She's gone. She's gone. [rhino growling]
 NOAH TO ZOE	 Are you okay?
 NOAH TO ZOE	 She's gone. She's gone. She's gone.
 LAUREN TO JACK	 She's gone, Jack.
+JACK	 [groaning]
 LAUREN TO JACK	 You got-- you got tagged.
-JACK TO LAUREN	 Did it hit the femoral?
+JACK TO LAUREN	 [grunting] Did it hit the femoral?
 LAUREN TO JACK	 Ah, no. It did not hit the femoral.
 LAUREN TO JACK	 If it did, you'd be dead by now.
 LAUREN TO JACK	 But you know what? You're bleeding badly.
 JACK TO LAUREN	 That's okay. Is everyone okay?
 LAUREN TO ZOE	 I'll be right there, Zoe.
-LAUREN TO ZOE	 You hang in there.
+LAUREN TO ZOE	 You hang in there. [overlapping conversation]
 BILLY TO ZOE	 Okay, okay.
 NOAH TO ZOE	 Zoe?
+BILLY	 [grunting]
 ZOE TO BILLY	 Yeah, yeah. Just stop touching it.
 JACK TO LAUREN	 Honey, are you okay, baby?
+JACK	 [grunting]
 LAUREN TO JACK	 Okay. Put all your weight on that.
 JACK TO LAUREN	 Okay. That's great.
 LAUREN TO JACK	 All right. Okay.
@@ -762,7 +834,7 @@ LAUREN TO JACK	 There's so much blood.
 NOAH TO JACK	 I'm all right, Dad.
 LAUREN TO JACK	 So much blood.
 JACK TO LAUREN	 I think-- I think it's bad.
-ZOE TO LAUREN	 Mom… Mom…
+ZOE TO LAUREN	 Mom… Mom… [crying]
 NOAH TO LAUREN	 Mom, what's happening?
 LAUREN TO NOAH	 Are you all right, Noah?
 LAUREN TO NOAH	 Are you okay? Okay. All right.
@@ -780,8 +852,11 @@ ZOE TO LAUREN	 Yeah. I remember how much it hurt.
 LAUREN TO ZOE	 Okay, I remember how brave you were.
 ZOE TO LAUREN	 No. I wasn't brave.
 ZOE TO LAUREN	 I'm not, Mom. What! Billy--
-LAUREN TO ZOE	 Brace it from behind. There we go.
+LAUREN TO ZOE	 Brace it from behind. There we go. [bone cracking]
+LAUREN	 [grunting]
 ZOE TO LAUREN	 Oh, fuck!
+ZOE	 [cries]
+JACK	 [grunting]
 LAUREN TO ALL AND JACK	 I'm fine. I'm fine. Jack?
 JACK TO LAUREN	 Ah, yeah, yeah.
 LAUREN TO JACK	 Okay.
@@ -802,14 +877,16 @@ ZOE TO JACK	 What? How are we gonna do that?
 LAUREN TO JACK	 Yeah. How are we gonna do that, Jack?
 JACK TO ALL	 We're gonna act like a family.
 JACK TO ALL	 All right. We're gonna work together.
-BILLY TO JACK	 Yeah, we got to try, man.
+BILLY TO JACK	 [sighs] Yeah, we got to try, man.
 JACK TO ALL	 Right.
 JACK TO ALL	 All right, let's get some legs and arms on each corner.
 NOAH TO JACK	 Dad, this thing's not gonna move.
-BILLY TO JACK	 .
+BILLY TO JACK	 [indistinct].
 BILLY TO JACK	 On three, right?
 JACK TO BILLY	 Yep.
 ALL	 One, two, three.
+ALL	 [grunting]
+JACK	 [grunting]
 LAUREN TO ALL	 Well, we tried.
 NOAH TO ALL	 Let me just get my phone.
 NOAH TO ALL	 Where's my phone? We can call for help.
@@ -817,11 +894,12 @@ JACK TO SELF	 Come on.
 NOAH TO ALL	 Ah! I don't have any signal.
 LAUREN TO ALL	 Hey, guys, stay close.
 LAUREN TO NOAH	 Don't go too far, okay? Noah?
-ZOE TO LAUREN	 Yeah. I don't .
+ZOE TO LAUREN	 Yeah. I don't [indistinct].
 LAUREN TO ZOE	 Well, I mean, let's stay close to each other
 LAUREN TO ZOE	 and the van.
 NOAH TO ALL	 Does anybody have a signal?
 BILLY TO JACK	 Here you go, Mr. H.
+JACK	 [sighing]
 JACK TO BILLY	 Thanks, Billy.
 JACK TO LAUREN	 It's gonna cost a fortune.
 LAUREN TO JACK	 The important thing is everybody's alive, okay?
@@ -870,6 +948,7 @@ ZOE TO NOAH	 Yeah, I know, the current hasn't stopped
 ZOE TO NOAH	 because the terminal's fucked.
 JACK TO ZOE	 You know, that's not as dumb as it sounds, sweetheart.
 ZOE TO JACK	 Oh, I'm sorry. Did it sound dumb?
+LAUREN	 [puking]
 JACK TO LAUREN	 Geez, babe.
 ZOE TO LAUREN	 Oh, my God, Mom?
 JACK TO LAUREN	 Honey?
@@ -885,9 +964,9 @@ JACK TO LAUREN	 Okay.
 ZOE TO NOAH	 Noah.
 JACK TO NOAH	 It's in her bag, Noah.
 NOAH TO JACK	 Okay.
-JACK TO NOAH	 .
+JACK TO NOAH	 [indistinct].
 NOAH TO JACK	 Where is it?
-JACK TO NOAH	 It's in her little bag.
+JACK TO NOAH	 [grunting] It's in her little bag.
 JACK TO NOAH	 Her little purse that she wore.
 JACK TO NOAH	 That's it. That's it, bud.
 JACK TO NOAH	 It's a black… it's a black purse.
@@ -898,7 +977,7 @@ JACK TO NOAH	 You're kidding me.
 LAUREN TO JACK	 No. I'll be fine.
 LAUREN TO JACK	 My glucose levels are high so I'll feel a little rough,
 LAUREN TO JACK	 but I'll be… maybe a little water.
-LAUREN TO BILLY	 Thanks, Billy.
+LAUREN TO BILLY	 Thanks, Billy. [bottles clanking]
 BILLY TO LAUREN	 No water.
 LAUREN TO BILLY	 What?
 JACK TO BILLY	 We brought water.
@@ -912,39 +991,44 @@ LAUREN TO ALL	 Not now.
 JACK TO ALL	 Okay. Okay.
 LAUREN TO JACK	 We've got some time. About a half a day.
 BILLY TO ZOE	 Are you all right?
-ZOE TO BILLY	 Diabetic ketoacidosis.
+ZOE TO BILLY	 [crying] Diabetic ketoacidosis.
 BILLY TO ZOE	 What does that mean?
 ZOE TO BILLY	 It means in about eight hours,
 ZOE TO BILLY	 she's gonna be in a coma.
-ZOE TO BILLY	 And then…
-BILLY TO ZOE	 Oh, geez.
-JACK TO LAUREN AND NOAH	 Hey, hey, there's something over there.
+ZOE TO BILLY	 And then… [hyena growling]
+BILLY TO ZOE	 [whispers] Oh, geez.
+JACK TO LAUREN AND NOAH	 Hey, hey, there's something over there. [hyena growling] [hyena laughing]
 BILLY TO JACK	 What did the guy at the lodge say?
 BILLY TO JACK	 One is not a problem, right?
 JACK TO BILLY	 Right. Right.
 BILLY TO JACK	 Okay. I got this.
-ZOE TO BILLY	 Billy.  Billy.
+ZOE TO BILLY	 Billy. [whispering] Billy.
 LAUREN TO BILLY	 Don't.
 BILLY	 Go on.
+BILLY	 [hyena laughing]
 BILLY	 Go on.
-BILLY	 Hey, fuck right off, you mangy half dog.
+BILLY	 Hey, fuck right off, you mangy half dog. [hyena laughing]
+BILLY	 [laughs]
 BILLY TO ALL	 I didn't think that would actually work.
 BILLY TO ALL	 You gotta get primal!
 JACK TO ALL	 Guys, guys, guys.
 NOAH TO BILLY	 Billy.
 JACK TO BILLY	 Hey, Billy.
 ZOE TO BILLY	 Oh, shit. Billy.
-JACK TO ALL	 Get in the van. Get in the van.
+JACK TO ALL	 Get in the van. Get in the van. [hyenas laughing]
 BILLY TO ALL	 Oh, shit.
 JACK TO ALL	 Get in the van. Get in.
 JACK TO ALL	 Get in the van. Guys, get in the van.
 JACK TO ALL	 Come here. Get in. Come on. Get in.
-LAUREN TO BILLY	 Billy, get in.
+LAUREN TO BILLY	 Billy, get in. [hyenas' laughter continues]
 NOAH TO LAUREN	 What are we gonna do?
-LAUREN TO NOAH	 Just keep still and be quiet.
-ZOE TO BILLY	 Billy.
+LAUREN TO NOAH	 Just keep still and be quiet. [hyenas laughing] [clattering] [tapping] [hyenas' laughter continues]
+ZOE TO BILLY	 Billy. [clattering] [crash]
+JACK	 [groans]
+JACK	 [panting]
 JACK TO LAUREN	 I think they're gone.
-JACK TO LAUREN	 We're gonna be okay.
+JACK TO LAUREN	 We're gonna be okay. [hyenas howling] [hyenas growling] [wind whooshing] [insects chirping]
+JACK	 [sighs]
 JACK TO LAUREN	 Hey. Are you okay?
 LAUREN TO JACK	 Yeah. It's just hot.
 NOAH TO JACK	 Dad.
@@ -980,7 +1064,8 @@ JACK TO LAUREN	 That's my decision. That's final. Okay?
 ZOE TO JACK	 Oh, you made that decision?
 ZOE TO JACK	 So, we have no say in that?
 JACK TO ZOE	 That's right.
-ZOE TO JACK	 My God. You're such a dick.
+NOAH	 [coughs]
+ZOE TO JACK	 [whispers] My God. You're such a dick.
 LAUREN TO ZOE	 Zoe, stop.
 JACK TO ZOE	 What--
 JACK TO ZOE	 what did you say, young lady?
@@ -1012,7 +1097,7 @@ NOAH TO ALL	 Can you guys not argue right now?
 NOAH TO ALL	 Can you just save it for later, please?
 JACK TO ALL	 I'm sorry. I'm sorry, everyone.
 JACK TO ZOE	 I'm sorry, Zoe.
-ZOE TO JACK	 Sorry, too.
+ZOE TO JACK	 Sorry, too. [insects chirping] [bird squawking] [wind whooshing] [birds tweeting]
 LAUREN TO JACK	 There's no signal.
 JACK TO LAUREN	 Not here, but…
 JACK TO LAUREN	 Maybe back there. There was higher ground back there.
@@ -1034,7 +1119,7 @@ NOAH TO ALL	 I'll go.
 LAUREN TO NOAH	 Noah…
 NOAH TO ALL	 I'll go.
 NOAH TO ALL	 I'm-I'm faster than anyone else here.
-BILLY TO ALL	 Rude.
+BILLY TO ALL	 [scoffs] Rude.
 LAUREN TO NOAH	 No.
 NOAH TO LAUREN	 Why?
 LAUREN TO NOAH	 Because no.
@@ -1053,9 +1138,9 @@ JACK TO NOAH	 You wanna take this in case
 JACK TO NOAH	 your signal is different?
 LAUREN TO NOAH AND BILLY	 Please. Please be safe.
 BILLY TO LAUREN	 Thanks, Missus H.
-JACK TO NOAH AND BILLY	 Careful.
-NOAH TO SELF	 Geez.
-NOAH TO SELF	 Oh, shit.
+JACK TO NOAH AND BILLY	 Careful. [insects chirping] [bird calling]
+NOAH TO SELF	 Geez. [birds chirping] [animal roars]
+NOAH TO SELF	 Oh, shit. [bird squawking]
 NOAH TO BILLY	 What the hell was that?
 BILLY TO NOAH	 Are you scared?
 NOAH TO BILLY	 Oh, hell yeah.
@@ -1065,10 +1150,10 @@ NOAH TO BILLY	 What are you doing?
 BILLY TO NOAH	 Never trust trees, bud.
 BILLY TO NOAH	 They play tricks on you.
 NOAH TO BILLY	 You smoke too much weed.
-BILLY TO NOAH	 You don't smoke enough.
+BILLY TO NOAH	 [scoffs] You don't smoke enough.
 BILLY TO NOAH	 It might help you chill.
 NOAH TO BILLY	 Hell no, dude. They drug test at school.
-BILLY TO NOAH	 Well, be a good way to get you off the team.
+BILLY TO NOAH	 [grunts] Well, be a good way to get you off the team.
 BILLY TO NOAH	 I know you want to.
 NOAH TO BILLY	 No, I don't. It'd crush Dad.
 BILLY TO NOAH	 You shouldn't be doing it just for him anyway.
@@ -1082,14 +1167,16 @@ NOAH TO BILLY	 I don't know. He's thinks it's gonna ruin my career.
 NOAH TO BILLY	 I'm not gonna get a scholarship.
 NOAH TO BILLY	 Even if I do, I'll get crucified for being gay.
 BILLY TO NOAH	 A little too keen on the wrong type of balls.
+BILLY	 [chuckles]
 NOAH TO BILLY	 Jesus, Billy.
-BILLY TO NOAH	 What? It-- it was funny.
+BILLY TO NOAH	 What? It-- it was funny. [bird squawking] [insects chirping]
+BILLY	 [howls]
 BILLY TO NOAH	 I can think of worse places to die.
 NOAH TO BILLY	 Hey, nobody's gonna die.
 NOAH TO BILLY	 Nobody's gonna die. Okay?
 BILLY TO NOAH	 Well, actually, everyone is.
 NOAH TO BILLY	 Anyone ever told you you're kind of a dick?
-BILLY TO NOAH	 Yeah, your sister may have mentioned it
+BILLY TO NOAH	 [chuckles] Yeah, your sister may have mentioned it
 BILLY TO NOAH	 once or twice.
 BILLY TO NOAH	 And your dad. But he's a dick, too.
 BILLY TO NOAH	 So, we cancel each other out.
@@ -1125,29 +1212,41 @@ NOAH TO BILLY	 How much of that grass you been eatin'?
 BILLY TO NOAH	 Not enough.
 NOAH TO BILLY	 I think we can make it.
 NOAH TO BILLY	 What do you think?
-BILLY TO NOAH	 I don't know, man. That is a long--
+BILLY TO NOAH	 I don't know, man. That is a long-- [leopard growls]
+BILLY	 [screams and grunts]
 NOAH	 Oh, my God!
-BILLY	 Fuck off me.
-NOAH TO BILLY	 Billy!
+BILLY	 [screams] Fuck off me. [leopard growls]
+NOAH TO BILLY	 Billy! [leopard growling]
 BILLY	 Fuck off!
 BILLY	 Oh, my God.
+BILLY	 [groans] [leopard snarls]
 NOAH	 Oh, my God. Oh, shit.
-BILLY	 Oh, my God.
+NOAH	 [panting]
+BILLY	 [screaming]
+BILLY	 Oh, my God. [leopard snarls]
+BILLY	 [screaming]
+NOAH	 [yells]
 NOAH	 Okay.
+NOAH	 [yells]
 NOAH	 Billy?
 NOAH	 Billy?
-NOAH TO SELF	 Oh, my God.
-NOAH	 Billy?
+NOAH TO SELF	 Oh, my God. [bird hooting]
+NOAH	 [yells] Billy? [bird hooting]
+NOAH	 [panting]
 NOAH TO SELF	 Shit.
+NOAH	 [panting]
+NOAH	 [groans]
+NOAH	 [groans]
 NOAH TO SELF	 Oh, man.
+NOAH	 [panting] [birds chirping]
 NOAH TO SELF	 Turn around.
 NOAH TO SELF	 Okay.
 NOAH TO SELF	 Okay. Oh. Fuck shit.
 NOAH TO SELF	 Okay. Oh, oh.
 NOAH TO SELF	 Oh, yes.
 NOAH TO SELF	 Okay. Yes, Billy.
-NOAH TO SELF	 Yes. Okay.
-LAUREN	 Hm-mm.
+NOAH TO SELF	 Yes. Okay. [bird squawking]
+LAUREN	 [moaning] Hm-mm.
 ZOE TO LAUREN	 Mom?
 LAUREN TO ZOE	 Yeah.
 ZOE TO LAUREN	 How are you feeling?
@@ -1155,7 +1254,7 @@ LAUREN TO ZOE	 I'm fine.
 LAUREN TO ZOE	 Maybe just a little water?
 ZOE TO LAUREN	 There is no water, Mom.
 ZOE TO LAUREN	 Remember?
-LAUREN TO ZOE	 Yeah.
+LAUREN TO ZOE	 Yeah. [car rattles]
 JACK TO NOAH	 Geez.
 ZOE TO NOAH	 Did you guys get a signal?
 JACK TO NOAH	 Noah.
@@ -1172,12 +1271,14 @@ ZOE TO NOAH	 Oh, my God.
 LAUREN TO ZOE	 Zoe. Zoe.
 LAUREN TO JACK	 Jack, get Zoe.
 JACK TO LAUREN	 Yeah. I got her. I got her. Zoe!
+NOAH	 [coughing]
 LAUREN TO NOAH	 Are you okay?
 JACK TO ZOE	 Zoe, sweetheart. Zoe, wait. Damn it, Zoe.
 JACK TO ZOE	 It's not safe.
-JACK TO ZOE	 Dammit! Zoe!
-JACK TO ZOE	 Zoe. Zoe.
+JACK TO ZOE	 Dammit! Zoe! [birds chirping] [insects chirping]
+JACK TO ZOE	 [groans] Zoe. Zoe.
 JACK TO ZOE	 Oh, God. Zoe, baby.
+ZOE	 [cries]
 ZOE TO JACK	 I don't know which way to go.
 JACK TO ZOE	 Baby. I'm so sorry.
 JACK TO ZOE	 Hey, I'm sorry. It is gonna be all right. Okay?
@@ -1206,14 +1307,16 @@ ZOE TO JACK	 She's not. She's not.
 JACK TO ZOE	 Okay. Come here. Come here. Come here.
 ZOE TO JACK	 No, no, no, no.
 JACK TO ZOE	 Stop. Stop. Stop.
-ZOE TO JACK	 Billy. I need Billy.
+ZOE TO JACK	 [crying] Billy. I need Billy.
 JACK TO ZOE	 He's gone, baby.
 JACK TO ZOE	 He's gone. Okay?
-ZOE TO JACK	 I need Billy.
-ZOE TO JACK	 Please get me Billy back.
-JACK TO ZOE	 Zoe. Zoe.
+ZOE TO JACK	 [crying] I need Billy.
+ZOE TO JACK	 Please get me Billy back. [flies buzzing] [cheetah growling]
+BILLY	 [groans] [cheetah growling]
+BILLY	 [groans] [flies buzzing] [animal howling]
+JACK TO ZOE	 Zoe. [hyenas laughing] Zoe.
 ZOE TO JACK	 What?
-JACK TO ZOE	 Just, um….
+JACK TO ZOE	 Just, um…. [hyenas laughing]
 JACK TO ZOE	 You wait right here.
 ZOE TO JACK	 What? Fuck that.
 ZOE AND JACK	 Hey!
@@ -1223,8 +1326,14 @@ JACK TO LAUREN AND NOAH	 All right. They're gone.
 JACK TO LAUREN AND NOAH	 Are you okay?
 LAUREN TO JACK	 They will be back.
 LAUREN TO JACK	 Jack, get in.
-LAUREN TO JACK	 They'll be back…
+ZOE	 [groans]
+JACK	 [groans]
+LAUREN TO JACK	 They'll be back… [bird hooting]
 LAUREN TO JACK	 with more.
+BILLY	 [breathing deeply]
+BILLY	 [grunting] [cheetah growling]
+BILLY	 [grunts] [cheetah growling] [cheetah roars]
+BILLY	 [grunts] [Billy and cheetah thud to the ground] [insects chirping] [barking] [bird hooting]
 JACK TO ALL	 Guys, we…we gotta get out of here.
 ZOE TO JACK	 Where are we gonna go?
 NOAH TO JACK	 Dad, I think I saw a camp from the top of the hill.
@@ -1245,9 +1354,14 @@ JACK TO ZOE	 Yeah, I think we should.
 JACK TO ALL	 It's not just my decision. We all need to agree on this.
 LAUREN TO JACK	 What choice do we have?
 JACK TO ALL	 All right, then. Let's do this.
-LAUREN TO JACK	 All right.
+LAUREN TO JACK	 All right. [insects chirping] [insects chirping] [birds hooting]
+BILLY	 [shaking with sobs] [flies buzzing]
+BILLY	 [grunting]
 BILLY TO SELF	 Okay.
 BILLY TO SELF	 Okay.
+BILLY	 [breathes heavily]
+BILLY	 [grunting]
+BILLY	 [vomits] [birds hooting]
 JACK TO NOAH	 Hey, hey, bud.
 JACK TO NOAH	 Bud, we gotta stay on the main road.
 NOAH TO JACK	 It's this way.
@@ -1275,10 +1389,12 @@ NOAH TO ALL	 I'm not nervous all the time.
 JACK TO NOAH	 You think I bully you?
 NOAH TO JACK	 Yeah, sometimes.
 NOAH TO JACK	 That's just your way, right?
+JACK	 [scoffs]
 NOAH TO JACK	 That's just how you are, right?
 JACK TO NOAH	 What do you mean, how I am?
-LAUREN TO JACK	 Jack.
+LAUREN TO JACK	 [whispers] Jack.
 JACK TO NOAH	 You used to be able to handle my shit, bud.
+LAUREN	 [sighs deeply]
 NOAH TO JACK	 Yes, Dad.
 NOAH TO JACK	 I used to be able to handle your shit
 NOAH TO JACK	 and I can still handle your shit.
@@ -1290,13 +1406,14 @@ NOAH TO JACK	 Yes, Dad. I understand that.
 NOAH TO JACK	 I'm not a child. It is this way.
 JACK TO NOAH	 Okay then, I believe you. Let's go, bud.
 JACK TO NOAH	 Let's go.
-ZOE TO JACK	 Let's hope he's right, Jack.
+ZOE TO JACK	 Let's hope he's right, Jack. [insects chirping]
 BILLY TO SELF	 Huh.
 BILLY TO SELF	 Oh, thank you, divine goddess,
-BILLY TO SELF	 and also fuck you for doing this to me.
+BILLY TO SELF	 [exhales] and also fuck you for doing this to me.
 BILLY TO SELF	 Ha.
 BILLY	 Hey, guys. Hey…
 BILLY	 Guys?
+BILLY	 [panting]
 BILLY TO SELF	 What's going on?
 JACK TO ALL	 Keep moving, okay?
 ZOE TO JACK	 Wait, wait, wait. No, we're going in circles.
@@ -1337,11 +1454,12 @@ NOAH TO ZOE	 No, I mean, our dad, Zoe.
 NOAH TO ZOE	 Come on. You're 18, not eight.
 NOAH TO ZOE	 Let's go.
 NOAH TO ZOE	 Come on.
-ZOE TO NOAH	 Okay. Wait, wait, wait, wait.
+ZOE TO NOAH	 Okay. Wait, wait, wait, wait. [footsteps] [insects chirping]
+JACK	 [grunts] [flies buzzing]
 ZOE TO SELF	 Holy shit.
-NOAH TO SELF	 Oh, my God.
+NOAH TO SELF	 Oh, my God. [flies buzzing]
 NOAH TO ALL	 What happened to its face?
-LAUREN TO NOAH	 Poachers took its horn.
+LAUREN TO NOAH	 Poachers took its horn. [baby rhino crying]
 ZOE TO ALL	 Oh, God. She had a baby.
 JACK TO ALL	 This…
 JACK TO ALL	 This is the rhino that…
@@ -1354,50 +1472,52 @@ LAUREN TO JACK	 She was just protecting her baby, Jack.
 LAUREN TO JACK	 We have to help it.
 JACK TO LAUREN	 How? We can't help that.
 JACK TO LAUREN	 We need to help you first.
-LAUREN TO JACK	 I'm not leaving it.
+LAUREN TO JACK	 I'm not leaving it. [baby rhino cries]
 JACK TO LAUREN	 We will come back.
 JACK TO LAUREN	 We will come back and make sure that baby's okay.
-JACK TO LAUREN	 I swear.
+JACK TO LAUREN	 I swear. [baby rhino cries]
 JACK TO LAUREN	 Come on. I promise.
 LAUREN TO JACK	 I'm not leaving it, Jack.
 JACK TO LAUREN	 I swear. I swear.
 JACK TO LAUREN	 We'll come back.
 JACK TO LAUREN	 Hm?
 JACK TO LAUREN	 I swear.
-JACK TO LAUREN	 Come on. Come on.
+JACK TO LAUREN	 Come on. Come on. [baby rhino cries] [rhino continues crying] [flies buzzing] [insects chirping]
 NOAH TO LAUREN	 Mom? Mom?
 JACK TO LAUREN	 Hey, babe. Hey, baby.
 JACK TO LAUREN	 Grab her scarf.
+LAUREN	 [vomiting]
 LAUREN TO ALL	 Guys, I'm fine. I'm, it's, uh--
 JACK TO LAUREN	 Are you sure?
 LAUREN TO ALL	 I'm just dehydrated.
 LAUREN TO ALL	 Let's keep moving forward, guys. Come on.
-JACK TO ZOE	 She'll be okay. She'll be okay.
+JACK TO ZOE	 She'll be okay. She'll be okay. [insects chirping] [bird hooting] [car approaching] [car door slams]
 MAN TO WOMAN	 There's nobody around.
 MAN TO WOMAN	 Shout. Shout.
-MAN TO WOMAN	 .
+MAN TO WOMAN	 [indistinct].
 MAN TO WOMAN	 Can you say "Hello."
-MAN TO WOMAN	 Shout loudly.
+MAN TO WOMAN	 Shout loudly. [loud knock]
 MAN	 Hello?
-MAN	 Anybody's there?
+MAN	 Anybody's there? [loud knock]
 MAN	 Hello?
-MAN TO WOMAN	 Check it. Check it.
+MAN TO WOMAN	 Check it. Check it. [knocking]
 MAN	 Hello?
 MAN	 Aaah!!
 LAUREN TO JACK	 Are you okay?
-JACK TO LAUREN	 I'm okay.
+JACK TO LAUREN	 I'm okay. [bird hooting]
 ZOE TO NOAH	 Really?
 LAUREN TO ALL	 Really?
 ZOE TO NOAH	 A river.
 ZOE TO NOAH	 Didn't you see a river from the hill?
 NOAH TO ZOE	 No. Sorry.
+JACK	 [unzips zipper]
 ZOE TO LAUREN	 Hey, Mom.
 LAUREN TO ZOE	 Huh?
 ZOE TO LAUREN	 Hey, are you okay?
 LAUREN TO ZOE	 Yeah. I'm fine.
 ZOE TO LAUREN	 Are you sure?
 LAUREN TO ZOE	 Mm.
-JACK TO NOAH	 All right.
+JACK TO NOAH	 All right. [exhales]
 JACK TO NOAH AND ZOE	 Okay, well…
 JACK TO NOAH AND ZOE	 we could be here.
 ZOE TO JACK	 Yeah, or here.
@@ -1409,9 +1529,10 @@ NOAH TO JACK AND ZOE	 --then these could be the buildings I saw.
 ZOE TO NOAH	 Okay, that makes sense, right?
 JACK TO NOAH AND ZOE	 Why don't you figure that out?
 NOAH TO ZOE	 Zoe.
-JACK TO SELF	 Oh, shit.
+JACK TO SELF	 [grunting] Oh, shit.
 LAUREN TO JACK	 You shouldn't be walking on that.
-JACK TO LAUREN	 What are you, a doctor?
+JACK TO LAUREN	 [chuckles] What are you, a doctor?
+JACK	 [sighs deeply]
 LAUREN TO JACK	 It's funny.
 LAUREN TO JACK	 They teach you in medical school that…
 LAUREN TO JACK	 dying isn't nearly as painful
@@ -1419,35 +1540,40 @@ LAUREN TO JACK	 as it looks from the outside.
 LAUREN TO JACK	 It's bunch of bullshit. This sucks.
 JACK TO LAUREN	 You know we're gonna have to cross that river,
 JACK TO LAUREN	 right, baby?
+JACK	 [inhales and exhales deeply]
 JACK TO LAUREN	 I think you can do that.
 LAUREN TO JACK	 I think I can do that.
 LAUREN TO JACK	 But I can't feel any of my limbs.
-JACK TO LAUREN	 Come on.
+JACK	 [chuckles]
+LAUREN	 [chuckles]
+JACK TO LAUREN	 Come on. [bird squawking]
 NOAH TO ZOE	 You think we can drink it?
 ZOE TO NOAH	 Sure.
 ZOE TO NOAH	 If you want to shit out maggots the rest of your life.
 NOAH TO ZOE	 I'll take those odds right now.
+ZOE	 [chuckles]
 JACK TO ZOE	 Zoe, come here.
 JACK TO NOAH	 Noah, come here.
-JACK TO NOAH AND ZOE	 Okay.
+JACK TO NOAH AND ZOE	 Okay. [panting]
 JACK TO NOAH AND ZOE	 We've gotta cross the river.
 JACK TO NOAH AND ZOE	 Now, I think we can wade to the sandbank there.
 JACK TO NOAH AND ZOE	 And then swim the short distance to the other side.
 ZOE TO JACK	 We're gonna swim an African river?
-ZOE TO JACK	 Fuck that. There are crocodiles.
+ZOE TO JACK	 Fuck that. There are crocodiles. [hyenas whining]
 NOAH TO ALL	 Hyenas. Have they been tracking us?
 NOAH TO JACK	 What are we gonna do?
 JACK TO ALL	 Okay.
 JACK TO ALL	 Let's follow the edge of the river.
-JACK TO ALL	 Don't get too close to it. Okay?
+JACK TO ALL	 Don't get too close to it. Okay? [hyenas whining]
 ZOE	 Shit.
 ZOE TO NOAH	 Okay. Stay low. Come on.
 JACK TO LAUREN	 There you go, baby.
 NOAH TO JACK	 Are you okay, Dad?
 JACK TO NOAH	 Yeah, I'm okay.
-JACK TO LAUREN	 There you go, baby.
+JACK TO LAUREN	 [grunts] There you go, baby.
 ZOE TO ALL	 Okay, we're good. Let's go. Let's go.
 JACK TO NOAH	 I'm fine. I'm fine.
+JACK	 [grunts]
 ZOE TO JACK	 Let me help.
 JACK TO ZOE	 No. It's okay, baby. I got it.
 ZOE TO JACK	 Dad…
@@ -1464,15 +1590,15 @@ NOAH TO ZOE	 Whoa.
 ZOE TO NOAH	 I got it.
 ZOE	 Shit.
 NOAH TO ZOE	 Are you okay?
-ZOE TO NOAH	 Yeah.
+ZOE TO NOAH	 Yeah. [hyenas whining]
 NOAH TO ZOE	 Zoe, Zoe, Zoe, go first.
 NOAH TO JACK	 Dad, they're coming.
 JACK TO NOAH	 I know, I know. I see it.
 ZOE TO NOAH	 I got it. I got it.
 NOAH TO ZOE	 Shit.
-JACK TO ALL	 Oh my God. Come here.
+JACK TO ALL	 Oh my God. Come here. [hyenas whining]
 NOAH TO ALL	 What do we do?
-JACK TO NOAH	 Shh.
+JACK TO NOAH	 Shh. [hyenas whining] [rapid gunshots]
 ALL	 Hey! Hey!
 ZOE TO MITCH	 Down here. Over here.
 JACK TO MITCH	 Down here.
@@ -1480,7 +1606,17 @@ JACK	 Oh, my God.
 JACK TO MITCH	 My god, I can't tell you how happy I am to see you.
 MITCH TO JACK	 Oil man.
 JACK TO MITCH	 Hah.
-MITCH TO JACK	 What the hell are you doing out here? Stay right there. I'm-- I'm getting some help. Help! Help! Come fast. There's a man in the car. Come, come. He's hurt. We found him outside in the van. We found him in the forest. Blood everywhere. We must get him help quicks. Slowly. Be careful. I'll hold him.
+MITCH TO JACK	 What the hell are you doing out here? [car engine revving] [car honking]
+MAN 1 TO WOMAN	 Stay right there. I'm-- I'm getting some help.
+MAN 1 TO ALL	 Help! Help! Come fast.
+MAN 1 TO ALL	 There's a man in the car. Come, come. He's hurt.
+MAN 1 TO ALL	 We found him outside in the van.
+MAN 1 TO MAN 2	 We found him in the forest.
+MAN 1 TO MAN 2	 Blood everywhere.
+LUCAS	 [indistinct]
+MAN 1 TO MAN 2	 We must get him help quicks.
+MAN 1 TO MAN 2	 Slowly. Be careful.
+MAN 1 TO MAN 2	 I'll hold him.
 BILLY TO ALL	 I think it was somewhere around here.
 BILLY TO ALL	 I don't know, we went off road.
 BILLY TO ALL	 I wasn't paying attention.
@@ -1488,11 +1624,16 @@ LUCAS TO BILLY	 That's impossible.
 LUCAS TO BILLY	 I mean, all the vehicles in the park are accounted for.
 BILLY TO LUCAS	 No, we drove through without paying
 BILLY TO LUCAS	 and never checked in.
-DOCTOR TO LUCAS	 Okay. We need to move him out. Get everybody ready. We're going out.
+DOCTOR TO LUCAS	 Okay. We need to move him out.
+WOMAN	 Get everybody ready.
+WOMAN	 We're going out. [insects chirping]
+MAN 1	 [panting]
+MAN 1	 [speaks foreign language]
 MITCH TO CHARLIE	 We have new friends, Charlie.
 MITCH TO CHARLIE	 Here we go. Charlie's got you.
 MITCH TO CHARLIE	 There you go.
-MITCH TO CHARLIE	 Hey, uh, Charlie, is camp ready for guests? Yeah, we're good, boss.
+MITCH TO CHARLIE	 Hey, uh, Charlie, is camp ready for guests?
+CHARLIE TO MITCH	 Yeah, we're good, boss.
 MITCH TO JENNY	 Okay. Code Jenny.
 MITCH TO JENNY	 Code Jenny, let's go.
 JACK TO MITCH	 Thank you so much.
@@ -1500,13 +1641,17 @@ MITCH TO JACK	 Yeah, it's not a problem.
 MITCH TO JACK	 You guys will be fine.
 MITCH TO JACK	 What were you doing out there?
 JACK TO MITCH	 You have no idea what we've been through.
+JACK	 [grunts]
 MITCH TO JACK	 It's fine. You're all okay.
 MITCH TO JACK	 Put him…put him by the fire.
+JACK	 [groans]
 MITCH TO JACK	 By the fire.
 MITCH TO JACK	 You guys will be fine now.
+MITCH	 [sighs]
 MITCH TO JACK	 There we go.
-JACK TO MITCH	 Thank you.
-JACK TO LAUREN	 Baby. .
+JACK TO MITCH	 [grunts] Thank you.
+MAN 2	 [speaking in foreign language]
+JACK TO LAUREN	 Baby. [indistinct].
 MITCH TO JACK	 What is going on with her?
 JACK TO MITCH	 She's diabetic. She needs insulin.
 MITCH TO JACK	 Insulin? We don't have insulin.
@@ -1549,15 +1694,20 @@ JACK TO MITCH	 We…we just need your help.
 ZOE TO JACK	 Oh my God, they aren't gonna help us.
 ZOE TO MITCH	 Who are you?
 MITCH TO ZOE	 No.
-MITCH TO CHARLIE	 Tie them up.
+CHARLIE TO MITCH	 [speaks foreign language]
+MITCH TO CHARLIE	 Tie them up. [insects chirping]
+JACK	 [grunts]
+JACK	 [sighs]
 ZOE TO MITCH	 Hey, asshole.
 ZOE TO MITCH	 Yeah, you.
+MITCH	 [laughs]
 ZOE TO MITCH	 You know how many rhino are left?
 CHARLIE TO ZOE	 Enough to make them valuable?
 MITCH TO ZOE	 Valuable enough for these men to earn
 MITCH TO ZOE	 more in one night than they would the whole year.
 MITCH TO ZOE	 Enough to feed their families.
 ZOE TO MITCH	 You're disgusting.
+MITCH TO ALL	 [speaking in foreign language]
 MITCH TO ZOE	 Do you think their children should starve?
 ZOE TO MITCH	 No, I don't think their children should starve.
 MITCH TO ZOE	 Well, so then we… we agree.
@@ -1565,8 +1715,10 @@ MITCH TO ZOE	 That they have the right to benefit from their own land.
 MITCH TO ZOE	 From their own heritage.
 MITCH TO ZOE	 What gives you the right?
 MITCH TO ZOE	 Some privileged, ignorant, white--
+ZOE TO MITCH	 [spits] Fuck off.
+MITCH TO ZOE	 [speaks foreign language]
 ZOE TO MITCH	 Fuck off.
-ZOE TO MITCH	 Fuck off.
+MITCH TO ZOE	 [speaks foreign language]
 MITCH TO ZOE	 to dictate anything these people do.
 ZOE TO JACK	 Dad?
 JACK TO MITCH	 I'm sure that you're making a healthy profit
@@ -1584,6 +1736,7 @@ MITCH TO ALL	 Maybe an elephant?
 MITCH TO ALL	 A pangolin.
 MITCH TO JACK	 You know how much this is worth?
 MITCH TO JACK	 It's worth more than its weight in gold.
+MITCH	 [sighs]
 MITCH TO JACK	 And we're nothing compared to you.
 MITCH TO JACK	 Don't even compare.
 MITCH TO ZOE	 We're amateurs.
@@ -1598,9 +1751,11 @@ MITCH TO ALL	 though they prefer their animals injured,
 MITCH TO ALL	 so might let my men go to work on you for a little bit.
 MITCH TO ALL	 Though it looks like…
 MITCH TO ALL	 Dad is already a little injured there.
-JACK TO MITCH	 Stop, please.
+JACK TO MITCH	 [grunting] Stop, please.
 NOAH TO MITCH	 No. Stop! Stop.
+JACK	 [groans]
 NOAH TO MITCH	 Stop it!
+JACK	 [groans]
 MITCH TO ALL	 The rest is easy.
 MITCH TO ALL	 Arrogant American family comes to Africa.
 MITCH TO ALL	 Africa embraces arrogant American family.
@@ -1608,7 +1763,7 @@ MITCH TO MEN	 Gentlemen, sorry to keep you waiting.
 MITCH TO MEN	 Sorry about that. Great to see you again.
 MITCH TO JIN	 Jin. Always a pleasure.
 MITCH TO JIN	 Thanks for coming out.
-MITCH TO MEN	 Sorry about the whole blindfold and--
+MITCH TO MEN	 Sorry about the whole blindfold and-- [conversation continues in background]
 NOAH TO ZOE	 She's gonna die.
 ZOE TO NOAH	 Don't say that.
 NOAH TO ZOE	 She is.
@@ -1630,6 +1785,8 @@ ZOE TO JACK	 Please. I--
 JACK TO ZOE	 No, no. Now is the-- now is the perfect time.
 ZOE TO JACK	 No.
 JACK TO ZOE	 We might not have any time left.
+ZOE	 [sobs]
+JACK	 [sighs]
 JACK TO ZOE	 I'm sorry I haven't been a very good father.
 JACK TO ZOE	 I'm sorry that I couldn't see what was important
 JACK TO ZOE	 until everything was falling apart around me.
@@ -1639,6 +1796,7 @@ JACK TO ZOE	 And I know, I know I didn't say that enough.
 JACK TO NOAH	 And Noah…
 JACK TO NOAH	 I just wanted you to be happy, bud.
 JACK TO NOAH	 Yeah.
+ZOE	 [cries]
 JACK TO NOAH	 You are who you are,
 JACK TO NOAH	 so fucking what to everything else, right?
 JACK TO NOAH	 Hey…
@@ -1646,9 +1804,11 @@ JACK TO NOAH	 I'm so proud of you.
 JACK TO NOAH	 And I love you so much.
 JACK TO ZOE	 Zoe, I love you too.
 JACK TO ZOE	 I've loved you from the moment I met you and your mother.
+ZOE	 [cries]
 JACK TO ZOE	 You're my daughter, and I'm your father.
 JACK TO ZOE	 Even…even if you say I'm not.
 JACK TO ZOE	 You'll still be my daughter, okay?
+ZOE	 [indistinct mutter]
 JACK TO ZOE	 Yeah. I'm so proud of you.
 JACK TO ZOE	 And I only push college because…
 JACK TO ZOE	 because you are so damn smart.
@@ -1667,6 +1827,7 @@ JACK TO ZOE AND NOAH	 And I fucked things up
 JACK TO ZOE AND NOAH	 pretty badly but not…
 JACK TO ZOE AND NOAH	 not this time.
 MITCH TO MEN	 I was thinking…
+NOAH	 [groans]
 JACK TO NOAH	 You got it?
 NOAH TO JACK	 Yeah.
 NOAH TO JACK	 Yeah.
@@ -1688,16 +1849,25 @@ JACK TO ZOE AND NOAH	 Listen, listen. Look.
 JACK TO ZOE AND NOAH	 Listen, I love you both… very much.
 JACK TO ZOE AND NOAH	 You are my everything.
 JACK TO ZOE AND NOAH	 You'll know.
+NOAH	 [cries]
 JACK TO ZOE AND NOAH	 You'll know.
 MITCH TO MAN	 Do we have a deal?
-JACK	 Look over there. He's getting away. Stop him. I've got him, boss; I've got him.
+JACK	 [grunting]
+JACK	 [grunting]
+POACHER 1 TO POACHER 2	 Look over there.
+POACHER 1 TO POACHER 2	 He's getting away.
+POACHER 1 TO POACHER 2	 Stop him.
+POACHER 2 TO POACHER 1	 I've got him, boss; I've got him.
 JACK TO SELF	 You gotta be kidding me.
 JACK TO SELF	 You gotta be kidding me.
-MITCH TO ALL	 Hey.
-MITCH TO MAN	 Thank you.
+MITCH TO ALL	 Hey. [speaks foreign language]
+MITCH TO MAN	 Thank you. [speaking in foreign language]
+MITCH	 [laughs]
 MITCH TO CHARLIE	 Look at this, Charlie.
 MITCH TO CHARLIE	 We're going oil-man huntin'.
 MITCH TO ZOE AND NOAH	 Your father's dead.
+JACK	 [grunts] [owl hooting]
+MITCH TO CHARLIE	 [speaking in foreign language]
 MITCH TO CHARLIE	 Charlie. You're with me.
 ZOE TO NOAH	 You know, we're gonna go to those jeeps, okay?
 ZOE TO NOAH	 All right. Okay.
@@ -1708,82 +1878,102 @@ ZOE AND NOAH	 Go.
 ZOE TO NOAH	 Okay.
 NOAH TO ZOE	 Mom. I'm gonna lift you up, okay?
 NOAH TO ZOE	 Come on.
-MITCH TO CHARLIE	 I got him. Keep the light on him.
+JACK	 [grunts]
+MITCH TO CHARLIE	 I got him. Keep the light on him. [gunshot]
 MITCH TO CHARLIE	 Oh. Ugh.
 MITCH TO CHARLIE	 I told you to keep the light on him.
+JACK	 [grunting]
+MITCH	 [laughs]
 NOAH TO ZOE	 Okay, try this one.
 ZOE TO NOAH	 Yes, yes. Get up. Get up. Get up.
 ZOE TO NOAH	 All right.
-ZOE TO NOAH	 Let's figure this out.
+ZOE TO NOAH	 Let's figure this out. [rapid gunshot]
+JACK	 [grunts] [howling]
 ZOE TO NOAH	 We have to go back.
 ZOE TO NOAH	 Noah, we have to go back. We have to go back.
 NOAH TO ZOE	 Zoe, Zoe.
 NOAH TO ZOE	 We gotta drive. We have to leave.
 NOAH TO ZOE	 Start it, Zoe.
+JACK	 [grunting]
+MITCH	 [laughs]
 MITCH TO CHARLIE	 We got a runner!
 MITCH TO CHARLIE	 Oil man! Light on him.
 MITCH TO CHARLIE	 Give me the light on him.
 CHARLIE TO MITCH	 There you go.
-MITCH TO CHARLIE	 Oh, yeah.
+MITCH TO CHARLIE	 Oh, yeah. [gunshot]
+JACK	 [grunts] [car engine revving]
 MITCH TO CHARLIE	 Keep the light on him.
 MITCH TO CHARLIE	 Where are you going, oil man?
-MITCH TO CHARLIE	 Come here.
+MITCH TO CHARLIE	 Come here. [car engine starts]
 MITCH TO CHARLIE	 He cannot still be alive.
 MITCH TO CHARLIE	 He cannot be still alive.
+JACK	 [panting]
 MITCH TO JACK	 Oil man, I gotta apologize to you.
+MITCH	 [breathes heavily]
 MITCH TO JACK	 I'm normally way more accurate.
 MITCH TO JACK	 Oh yeah. I winged him good.
+JACK	 [grunting]
 MITCH TO JACK	 Sorry about that.
 MITCH TO JACK	 It's gonna leave a mark there.
-MITCH TO JACK	 You know,  Charlie and me…
+MITCH TO JACK	 You know, [panting] Charlie and me…
 MITCH TO JACK	 we've hunted pretty much everything.
 MITCH TO JACK	 You're our first human.
 CHARLIE TO JACK	 First human.
 MITCH TO CHARLIE	 It's a shame we can't keep his head.
 JACK TO MITCH	 My family.
-CHARLIE TO JACK	 Don't worry, they're next.
+CHARLIE TO JACK	 Don't worry, they're next. [gun clicks]
 MITCH TO JACK	 Welcome to the jungle.
-MITCH TO CHARLIE	 Ssh. Ssh. Ssh. Ssh.
+JACK	 [breathing heavily] [gunshot]
+MITCH TO CHARLIE	 Ssh. Ssh. Ssh. Ssh. [car engine revving]
 ZOE TO NOAH	 What do we do? What do we do?
 NOAH TO ZOE	 I don't know, Zoe. I don't know.
 NOAH TO ZOE	 I don't know anything about cars.
-MITCH TO CHARLIE	 Did you hear that?
+MITCH TO CHARLIE	 Did you hear that? [distant rumble of engine]
 MITCH TO CHARLIE	 Did you hear that?
 MITCH TO CHARLIE	 Stay with him. Nobody finds his body.
-MITCH TO CHARLIE	 Okay?
+MITCH TO CHARLIE	 [speaks foreign language]
+MITCH TO CHARLIE	 Okay? [car engine revving]
 LAUREN TO ZOE	 You're flooding it.
 LAUREN TO ZOE	 Just wait.
+MITCH	 [panting]
 NOAH TO ZOE	 They're coming.
 LAUREN TO ZOE	 Not yet.
+ZOE	 [cries]
+MITCH	 [panting]
+ZOE	 [shaking, crying]
 LAUREN TO ZOE	 Try it now.
-ZOE TO LAUREN	 Okay.
-MITCH	 No, no, no.
+ZOE TO LAUREN	 Okay. [car engine revving]
+MITCH	 No, no, no. [engine sputters to life]
 ZOE TO LAUREN	 Yes! Yes!
 MITCH TO CHARLIE	 Stop them!
 ZOE TO LAUREN	 Yes!
 MITCH TO CHARLIE	 No, no. Ahhh…
 MITCH TO CHARLIE	 Keys, keys, keys.
+MITCH TO CHARLIE	 [speaks foreign language]
+CHARLIE TO MITCH	 [speaks foreign language]
 MITCH TO CHARLIE	 Okay. Hop in.
 MITCH TO CHARLIE	 You got the light?
-CHARLIE TO MITCH	 Yeah.
-MITCH TO CHARLIE	 Keep that light on them.
+CHARLIE TO MITCH	 Yeah. [car engine revving]
+MITCH TO CHARLIE	 Keep that light on them. [car engine revving]
+MAN	 [speaking foreign language] [car engine revving]
 NOAH TO ZOE	 Okay. Okay. Zoe, Zoe.
 ZOE TO NOAH	 What?
 NOAH TO ZOE	 Zoe, you're doing really well,
 NOAH TO ZOE	 but can you drive a little faster?
-ZOE TO NOAH	 No. I literally can't see shit here.
+ZOE TO NOAH	 No. I literally can't see shit here. [car engine revving]
 NOAH TO ZOE	 Zoe. Zoe. Zoe. They're right there.
 ZOE TO NOAH	 Okay. Oh, shit.
 NOAH TO ZOE	 Do something.
-ZOE TO NOAH	 Okay. Okay.
+ZOE TO NOAH	 Okay. Okay. [indistinct] [car engine revving]
 NOAH TO LAUREN	 Hey, Mom, are you okay?
 NOAH TO ZOE	 Keep going.
 MITCH TO ZOE	 Hey, hey, hey. Come on with me.
 ZOE TO MITCH	 No. Just fuck you.
+MITCH TO ZOE	 [indistinct]
 MITCH TO ZOE	 Wait.
 ZOE TO MITCH	 Fuck you!
 ZOE TO MITCH	 Fuck off!
-MITCH TO ZOE	 Hey.
+MITCH TO ZOE	 Hey. [cars collide]
 MITCH TO CHARLIE	 Hey! Light on her. Get the light on her.
 MITCH TO CHARLIE	 Yes!
 MITCH TO CHARLIE	 Hey!
@@ -1794,18 +1984,19 @@ NOAH TO ZOE	 Zoe.
 ZOE TO NOAH	 Fuck.
 MITCH TO ZOE	 Pull over, bitch!
 NOAH TO ZOE	 Do something.
+ZOE TO NOAH	 [indistinct]
 MITCH TO ZOE	 Hey, hey.
 MITCH TO ZOE	 Pull over, bitch.
-ZOE TO MITCH	 Fuck you!
+ZOE TO MITCH	 Fuck you! [screams] [cars collide]
 MITCH TO ZOE	 No!
 ZOE TO MITCH	 Get fucked!
 MITCH TO ZOE	 Pull over, bitch.
 ZOE TO MITCH	 Fuck you.
-ZOE TO MITCH	 Fuck you!
+ZOE TO MITCH	 Fuck you! [cars collide]
 MITCH TO ZOE	 Ah! Whoa.
 CHARLIE TO MITCH	 Pull it around.
 MITCH TO CHARLIE	 No!
-MITCH TO CHARLIE	 Shit!
+MITCH TO CHARLIE	 Shit! [car crashes]
 ZOE TO NOAH	 Oh, fuck! Oh, my God.
 ZOE TO NOAH	 Yes! Yes!
 NOAH TO ZOE	 Oh, my God!
@@ -1813,20 +2004,31 @@ ZOE TO NOAH	 Yes!
 NOAH TO ZOE	 You got it. Holy shit.
 ZOE TO NOAH	 I fucking nailed it.
 ZOE TO NOAH	 I fucking nailed it. I told you I could drive!
+NOAH	 [whooping]
 ZOE TO NOAH	 Holy cow!
 NOAH TO ZOE	 Oh, my God!
 ZOE TO NOAH	 Yes!
 NOAH TO ZOE	 Yay!
 ZOE TO NOAH	 Holy shit.
+MITCH	 [groaning]
+MITCH	 [groaning and coughing]
+MITCH	 [coughing] [hyenas howling]
 MITCH TO CHARLIE	 Charlie?
-MITCH TO CHARLIE	 Charlie…
-MITCH	 Okay.
-MITCH	 Ah, the dumb bitch.
+MITCH	 [groaning]
+MITCH TO CHARLIE	 Charlie… [speaks foreign language]
+MITCH	 [grunting] [hyenas howling]
+MITCH	 [groaning in pain]
+MITCH	 [retching] [hyenas continue howling]
+MITCH	 [whispers] Okay.
+MITCH	 Ah, the dumb bitch. [hyenas continue howling]
 MITCH	 You bitch!
 MITCH	 Get back here!
-MITCH	 Get out of here. Go.
+MITCH	 [coughing] [hyenas howling]
+MITCH	 Get out of here. Go. [hyenas whining]
 MITCH	 Go. Get out of here.
-MITCH	 Go. Get out of here. Go.
+MITCH	 Go. Get out of here. Go. [hyenas whining]
+MITCH	 [laughing] [hyenas laughing]
+MITCH	 [laughing]
 ZOE TO NOAH	 Oh my God. There's a road.
 ZOE TO NOAH	 Oh my God. Oh my God. We found a fucking road.
 NOAH TO ZOE	 What?
@@ -1845,29 +2047,31 @@ NOAH TO ZOE	 What?
 ZOE TO NOAH	 No. There is more.
 NOAH TO ZOE	 What?
 ZOE TO NOAH	 Hold on.
-NOAH TO ZOE	 You got to get off the road, Zoe.
+NOAH TO ZOE	 You got to get off the road, Zoe. [car engine revving]
 NOAH TO ZOE	 Get off the road.
 NOAH TO ZOE	 Pull over.
 NOAH TO ZOE	 Okay. Hide here.
 ZOE TO NOAH	 Okay. Okay.
 NOAH TO ZOE	 Oh, shit. I see headlights.
-LAUREN TO BOTH	 Okay.
+LAUREN TO BOTH	 [panting] Okay. [rumble of approaching vehicle] [car door opens and closes]
 NOAH TO ZOE	 Close the door.
-ZOE TO NOAH	 Oh, fuck.
+ZOE TO NOAH	 Oh, fuck. [footsteps]
 POACHER	 Where are they? They must be here somewhere.
-ZOE TO NOAH	 Shit!
+ZOE TO NOAH	 Shit! [rumble of approaching vehicle]
 WOMAN TO TEAM	 I see them. Yeah. Yeah. Yeah.
-WOMAN TO TEAM	 Okay. Let's go. Let's go.
+WOMAN TO TEAM	 Okay. Let's go. Let's go. [guns clicking]
 WOMAN TO POACHERS	 Guns down.
-WOMAN TO POACHERS	 Now! Now!
-WOMAN TO TEAM	 Move it. Move it. Move it!
+WOMAN TO POACHERS	 Now! Now! [indistinct shouting] [rapid gunshots]
+WOMAN TO TEAM	 Move it. Move it. Move it! [rapid gunshots]
 ZOE TO NOAH	 Everyone's gone.
 NOAH TO ZOE	 Everyone's dead.
 WOMAN TO TEAM	 Moving, moving.
 WOMAN TO POACHERS	 Everybody down.
 BILLY	 Zoe?
 WOMAN TO POACHERS	 Moving, moving. I said, down on the ground.
-BILLY TO ZOE	 Zoe? Zoe? That one over there. I see you. You over there. I see you.
+BILLY TO ZOE	 Zoe? Zoe?
+WOMAN 2 TO TEAM	 That one over there. I see you.
+WOMAN 2 TO POACHERS	 You over there. I see you.
 WOMAN TO POACHERS	 Stay there. Stay there.
 BILLY TO ZOE	 Zoe?
 DOCTOR TO ALL	 Is everyone okay?
@@ -1877,21 +2081,26 @@ DOCTOR TO NOAH	 Yes.
 ZOE TO BILLY	 Billy! Oh, my god!
 NOAH TO DOCTOR	 My--my mom…
 NOAH TO DOCTOR	 My mom's diabetic. She needs insulin right now.
+BILLY	 [groans]
 ZOE TO BILLY	 Sorry. I'm sorry. Oh, my God.
 NOAH TO DOCTOR	 Do you have it? Do you have insulin?
 ZOE TO BILLY	 You fucking left me!
 BILLY TO ZOE	 Aw. Oh, God!
+ZOE	 [crying]
 NOAH TO BILLY	 Billy?
 BILLY TO NOAH	 Hey, Noah. I'm good.
 ZOE TO BILLY	 How did you--
 BILLY TO NOAH	 Thanks for coming back for me, man.
+BILLY	 [sighs] [indistinct chatter]
 WOMAN TO TEAM	 Okay, I will check. I will check.
 WOMAN TO TEAM	 Someone will check.
 NOAH TO DOCTOR	 Will she be okay?
-DOCTOR TO NOAH	 Yeah, she's gonna be fine. Are you okay?
+DOCTOR TO NOAH	 Yeah, she's gonna be fine. Are you okay? [insects chirping]
+LAUREN	 [sighs]
 LAUREN TO NOAH	 Where's--where's Jack?
 ZOE TO LAUREN	 He saved us.
 NOAH TO LAUREN	 He's gone, Mom.
-LAUREN	 No.
+LAUREN	 [crying] No. [insects chirping]
+LAUREN	 [crying] [birds hooting]
 LAUREN TO ZOE	 Look. Zoe, are you seeing this?
-ZOE	 Aw.
+ZOE	 Aw. [birds chirping]

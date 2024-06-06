@@ -5,16 +5,21 @@ import math
 import pandas as pd
 from docx import Document
 import csv
-import pythoncom
-import win32api
+import platform
+
+#if platform.system() == 'Windows':
+ #   import pythoncom
+  #  import win32api
+   # import win32com.client
+
 import pdfplumber
-import win32com.client
-from pyth.plugins.rtf15.reader import Rtf15Reader
-from pyth.plugins.plaintext.writer import PlaintextWriter
+#from pyth.plugins.rtf15.reader import Rtf15Reader
+#f#rom pyth.plugins.plaintext.writer import PlaintextWriter
 import logging
 # Initialize COM
 #print("CoInit")
-pythoncom.CoInitialize()
+#if platform.system() == 'Windows':
+ #   pythoncom.CoInitialize()
 
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
@@ -748,7 +753,8 @@ def clean_character_name(title):
     return title.strip().upper()
 
 def convert_rtf_to_txt(file_path,currentOutputFolder,encoding):
-
+    if platform.system() != 'Windows':
+        return 
     pythoncom.CoInitialize()
 
     try:
@@ -821,6 +827,9 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
 def convert_doc_to_docx(doc_path,currentOutputFolder):
     """Converts a .doc file to .docx"""
     
+    if platform.system() != 'Windows':
+        return 
+
     pythoncom.CoInitialize()
 
     try:
@@ -990,8 +999,10 @@ def test_pdf_header(file,table,header):
 
 
 
-def test_word_header(file,table,header):
+def test_word_header(file,table,header,forceMode="",forceCols={}):
             print("test word header")
+            print("forceMode"+str(forceMode))
+            print("forceCols"+str(forceCols))
             dialogueCol=-1
             characterIdCol=-1
             combinedContinuityCol=-1
@@ -999,42 +1010,60 @@ def test_word_header(file,table,header):
             dialogWithSpeakerId=-1
             sceneDescriptionCol=-1
             idx=0
-            for cell in header.cells:
-                t=cell.text.strip()
-                print("Header cell"+str(t))
-                if t=="CHARACTER ID":
-                    characterIdCol=idx
-                if t=="CHARACTER":
-                    characterIdCol=idx
-                elif t=="ROLE":
-                    characterIdCol=idx
-                elif t=="DIALOGUE":
-                    dialogueCol=idx
-                elif t=="Scene Description":
-                    sceneDescriptionCol=idx
-                elif t=="Titles":
-                    titlesCol=idx
-                elif t=="Dialog With \nSpeaker Id":
-                    dialogWithSpeakerId=idx
-                elif t=="COMBINED CONTINUITY":
-                    combinedContinuityCol=idx
-                idx=idx+1
 
-            docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
-            docx_mode_combined_continuity= combinedContinuityCol>-1
-            docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
-            docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
-            if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid:
-                print("Headers found")
+            docx_mode_dialogue_characterid= False
+            docx_mode_combined_continuity= False
+            docx_mode_scenedescription= False
+            docx_mode_dialogwithspeakerid=False
+
+
+            if len(forceMode)>0:
+                if forceMode=="DETECT_CHARACTER_DIALOG":
+                    dialogueCol=forceCols['DIALOG']
+                    characterIdCol=forceCols['CHARACTER']
+                    docx_mode_dialogue_characterid=True
+                    print("CHARACTER "+str(characterIdCol))
+                    print("DIALOG "+str(dialogueCol))
+                else:
+                    print("UNKNOWN FORCE MODE")
             else:
-                print("Headers not found")
-                print(" CharacterId"+str(characterIdCol))
-                print(" sceneDescriptionCol"+str(sceneDescriptionCol))
-                print(" dialogueCol"+str(dialogueCol))
-                print(" titlesCol"+str(titlesCol))
-                print("dialogWithSpeakerId"+str(dialogWithSpeakerId))
-                print(" combinedContinuityCol"+str(combinedContinuityCol))
-                return False
+                for cell in header.cells:
+                    t=cell.text.strip()
+                    print("Header cell"+str(t))
+                    if t=="CHARACTER ID":
+                        characterIdCol=idx
+                    if t=="CHARACTER":
+                        characterIdCol=idx
+                    elif t=="ROLE":
+                        characterIdCol=idx
+                    elif t=="DIALOGUE":
+                        dialogueCol=idx
+                    elif t=="Scene Description":
+                        sceneDescriptionCol=idx
+                    elif t=="Titles":
+                        titlesCol=idx
+                    elif t=="Dialog With \nSpeaker Id":
+                        dialogWithSpeakerId=idx
+                    elif t=="COMBINED CONTINUITY":
+                        combinedContinuityCol=idx
+                    idx=idx+1
+
+                docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
+                docx_mode_combined_continuity= combinedContinuityCol>-1
+                docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
+                docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
+                if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid:
+                    print("Headers found")
+                else:
+                    print("Headers not found")
+                    print(" CharacterId"+str(characterIdCol))
+                    print(" sceneDescriptionCol"+str(sceneDescriptionCol))
+                    print(" dialogueCol"+str(dialogueCol))
+                    print(" titlesCol"+str(titlesCol))
+                    print(" dialogWithSpeakerId"+str(dialogWithSpeakerId))
+                    print(" combinedContinuityCol"+str(combinedContinuityCol))
+                    return False
+                
             if docx_mode_dialogue_characterid:
                 convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
                 return True
@@ -1052,7 +1081,7 @@ def test_word_header(file,table,header):
                 return False
 
 
-def convert_word_to_txt(file_path,absCurrentOutputFolder):
+def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
     print("convert_docx_to_txt")
     print("currentOutputFolder             :"+absCurrentOutputFolder)
     print("Input             :"+file_path)
@@ -1061,7 +1090,7 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder):
         converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".docx",".converted.txt"))
     elif ".doc" in file_path:
         print("Convert doc to docx  ")
-        docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder)
+        docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder,forceMode=forceMode,forceCols=forceCols)
         print("Output         :"+os.path.abspath(docx_file_path))
         converted_file_path=os.path.abspath(docx_file_path).replace(".docx",".converted.txt")
         file_path=docx_file_path
@@ -1080,7 +1109,7 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder):
             headerSuccess=False
             for i in range(3):
                 header=table.rows[i]
-                success=test_word_header(file,table,header)
+                success=test_word_header(file,table,header,forceMode=forceMode,forceCols=forceCols)
                 if success:
                     headerSuccess=True
                     break
@@ -1232,7 +1261,7 @@ def is_character_name_valid(char):
 
 #################################################################
 # PROCESS
-def process_script(script_path,output_path,script_name,countingMethod,encoding):
+def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={}):
     print("  > -----------------------------------")
     print("  > SCRIPT PARSER version 1.3")
     print("  > Script path       : "+script_path)
@@ -1253,11 +1282,20 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
         return
 
     if extension.lower()==".docx":
-        converted_file_path=convert_word_to_txt(script_path)
+
+        print(" !!!!!!!!!! CHECK FILENAME")
+        if "CLEAR CUT" in file_name:
+            print(" !!!!!!!!!! FORCE")
+            forceMode="DETECT_CHARACTER_DIALOG"
+            forceCols={
+                "CHARACTER":5,
+                "DIALOG":6
+            }
+        converted_file_path=convert_word_to_txt(script_path,forceMode=forceMode,forceCols=forceCols)
         if len(converted_file_path)==0:
             print("  > Conversion failed 1")
             return None,None,None,None,None,None
-        return process_script(converted_file_path,output_path,script_name,countingMethod)
+        return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
     if extension.lower()==".pdf":
         converted_file_path,encoding=convert_pdf_to_txt(script_path)
@@ -1266,7 +1304,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
             print("  > Conversion failed 1")
             return None,None,None,None,None,None
         print("process")
-        return process_script(converted_file_path,output_path,script_name,countingMethod)
+        return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
     uppercase_lines=[]
     current_scene_id=""
@@ -1412,11 +1450,11 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
 
     #character_scene_presence=sort_dict_values(character_scene_presence)
     #scene_characters_presence=sort_dict_values(scene_characters_presence)
-    write_character_map_to_file(character_scene_map, output_path+"character_by_scenes.txt")
-    write_character_map_to_file(scene_characters_map, output_path+"scenes_by_character.txt")
-    write_character_map_to_file(character_linecount_map, output_path+"character_linecount.txt")
-    write_character_map_to_file(character_order_map, output_path+"character_order.txt")
-    write_character_map_to_file(character_textlength_map, output_path+"character_textlength.txt")
+    #write_character_map_to_file(character_scene_map, output_path+"character_by_scenes.txt")
+    #write_character_map_to_file(scene_characters_map, output_path+"scenes_by_character.txt")
+    #write_character_map_to_file(character_linecount_map, output_path+"character_linecount.txt")
+    #write_character_map_to_file(character_order_map, output_path+"character_order.txt")
+    #write_character_map_to_file(character_textlength_map, output_path+"character_textlength.txt")
 
     def save_string_to_file(text, filename):
         """Saves a given string `text` to a file named `filename`."""
@@ -1467,3 +1505,4 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding):
 #process_script("scripts/examples/Gods of the deep - CCSL.docx","GODS/","GODS","ALL")    
 #process_script("scripts/examples/Blackwater Lane.docx","Blackwater Lane/","Blackwater Lane","ALL")    
 
+            

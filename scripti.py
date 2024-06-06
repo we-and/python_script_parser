@@ -10,18 +10,12 @@ import platform
 import re
 import sys
 import csv
-import numpy as np
 import math
 import logging
 
 logging.basicConfig(filename='app.log',level=logging.DEBUG)
 logging.debug("Script starting...")
-showTimeline=False
-if showTimeline:
-    import matplotlib.pyplot as plt
-    from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-    from matplotlib.colors import ListedColormap, BoundaryNorm
-    from matplotlib.gridspec import GridSpec
+
 
 import ctypes
 
@@ -291,7 +285,19 @@ def runJob(file_path,method):
                 extension=extension.lower()
                 if extension==".docx" or extension==".doc":
                     myprint3("Conversion Word to txt")
-                    converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder))
+
+                    forceMode=""
+                    forceCols={}
+                    print(" !!!!!!!!!! CHECK FILENAME")
+                    if "CLEAR CUT" in file_name:
+                        print(" !!!!!!!!!! FORCE")
+                        forceMode="DETECT_CHARACTER_DIALOG"
+                        forceCols={
+                            "CHARACTER":5,
+                            "DIALOG":6
+                        }
+                        
+                    converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
                     if len(converted_file_path)==0:
                         myprint3("Conversion docx to txt failed")
                         myprint3("Failed")
@@ -373,9 +379,7 @@ def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,s
     fill_stats_table(breakdown)
     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
     save_dialog_csv(breakdown,enc)
-    if showTimeline:
-        draw_bar_chart(recap_tab,breakdown,character_order_map,png_output_file)
-
+    
 def save_dialog_csv(breakdown,enc):
     global currentDialogPath
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-dialog.csv"
@@ -424,7 +428,7 @@ def on_folder_select(event):
     if os.path.isfile(file_path):
         logging.debug(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
         currentScriptFilename=file_path
-        loading_label_txt.config(text="Analyzing "+file_path)
+        loading_label_txt.config(text="Analyse de "+file_path)
         show_loading()
         app.update_idletasks()  # Force the UI to update
         #for item in disabled_character_list_table.get_children():
@@ -447,6 +451,13 @@ def open_folder():
     if directory:
         update_ini_settings_file("SCRIPT_FOLDER",directory)
         load_tree("",directory)
+
+def open_script():
+    myprint3("Open script")
+    file_path = filedialog.askopenfilename()
+    if file_path:
+        print(f"Selected file: {file_path}")
+        runJob(file_path,"ALL")
 
 def open_folder_firsttime():
     myprint3("Change folder")
@@ -591,7 +602,7 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
         
         total_by_character_by_method[character_name]=total_by_method
 #        total_by_character_by_method[str(character_order)+" - "+character_name]=total_by_method
-    totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-total-recap.csv"
+    totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-comptage.csv"
     generate_total_csv(total_by_character_by_method,totalcsvpath,encoding_used,character_order_map)
     for item in character_stats_table.get_children():
         character_stats_table.delete(item)
@@ -904,7 +915,10 @@ settings_ini_exists = check_settings_ini_exists()
 if settings_ini_exists == False:
     logging.debug("Writing settings ini file")
     write_settings_ini()
-    update_ini_settings_file("SCRIPT_FOLDER",os.getcwd()+"/examples")
+    script_folder = os.path.abspath(os.path.dirname(__file__))
+    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    
+    update_ini_settings_file("SCRIPT_FOLDER",script_folder+"/examples")
 
 settings = read_settings_ini()
 app_dir = os.path.dirname(os.path.abspath(__file__))
@@ -916,12 +930,7 @@ app.iconbitmap(icons_dir+'app_icon.ico')
 logging.debug("Creating app")
 
 def on_resize(event):
-    if not showTimeline:
         return
-    myprint4("on_resize")
-    myprint4_frame_size(recap_tab)
-    if currentFig!=None:
-            currentCanvas.draw()
 
 #app.bind('<Configure>', on_resize)
 
@@ -942,11 +951,12 @@ chat_icon = tk.PhotoImage(file=icons_dir+"chat_icon.png")  # Adjust path to your
 
 # File menu
 file_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="File", menu=file_menu)
-file_menu.add_command(label="Open Folder...", command=open_folder)
+menu_bar.add_cascade(label="Fichier", menu=file_menu)
+file_menu.add_command(label="Ouvrir un dossier de travail...", command=open_folder)
+file_menu.add_command(label="Ouvrir un fichier de script...", command=open_script)
 #file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
-file_menu.add_command(label="Exit", command=exit_app)
+file_menu.add_command(label="Quitter", command=exit_app)
 
 def on_folder_open(event):
     myprint4("on_folder_open")
@@ -1116,6 +1126,13 @@ def show_popup_line_size():
     popup = tk.Toplevel()
     popup.title("Popup") 
 
+    # Create a label
+    label = ttk.Label(popup, text="Enter your text:")
+    label.pack(pady=10)
+
+    # Create a single-line text entry widget
+    entry = ttk.Entry(popup, width=30)
+    entry.pack(pady=10)
     button = ttk.Button(popup, text="Appliquer", command=set_line_size(i))
     button.pack(side=tk.TOP, fill=tk.X)
 
@@ -1154,114 +1171,7 @@ def hide_loading():
         #myprint5("HIDE LOADING")
         paned_window.pack(fill='both', expand=True)
         loading_label.pack_forget()
-def draw_bar_chart(frame,breakdown,character_order_map,output_file):
-    global currentFig
-    global currentCanvas
-    if not showTimeline:
-        return
-    if currentFig!=None:    
-        clear_chart()
-        currentCanvas.get_tk_widget().pack_forget()
-        currentCanvas = None
-        currentFig = None
-    #  if currentCanvas!=None:
-   #     currentCanvas.delete("all") 
 
-    plt.ioff()  
-    Nmaxchar=1000
-    n_char=len(character_order_map.keys())
-
-    plt.rc('font', size=11) 
-    if n_char>Nmaxchar:
-        n_char=Nmaxchar
-
-    # Set up a gridspec layout
-    fig = plt.figure(figsize=(12, 10))
-    fig.clf()
-    gs = GridSpec(n_char, 1, figure=fig, hspace=0.0,wspace=0.0)
-    fig.set_facecolor('#e3e4e4')
-    charidx=0
-    chunk_size = 20  # Adjust the size based on your specific needs
-    colors = ['lightgrey', '#d37a7a','#d34d4d','#d30000']  # Define more colors if there are more unique values
-    cmap = ListedColormap(colors)
-    boundaries = [
-                    0-0.1 ,  # First boundary (half below the first unique value)
-                    0.5,  # Middle boundaries
-                    1.5,
-                    chunk_size+0.1  # Last boundary (half above the last unique value)
-                ]
-                
-    for char in character_order_map:
-        charidx=charidx+1
-        
-        if charidx<=Nmaxchar:
-            charlist=[char]
-            
-            if char in currentMergedCharactersTo:
-                additional=currentMergedCharactersTo[char]
-                for k in additional:
-                    charlist.append(k)
-            
-            if (not char in currentDisabledCharacters) or (not char in currentMergedCharacters): 
-            
-                idx=1
-                #myprint5("draw_bar_chart char="+char)
-                labels=[]
-                values=[]
-                #myprint5("draw_bar_chart L="+str(len(breakdown)))
-                
-                for item in breakdown:
-                    idx=idx+1
-                    if True:#idx<1000:
-                        line_idx=item['line_idx']
-                        type_=item['type']
-                        if(type_=="SPEECH"):
-                            labels.append(str(line_idx))
-                            character=item['character']
-                            if character in charlist:
-                                values.append(1)
-                            else:
-                                values.append(0)
-                pad_size = chunk_size - (len(values) % chunk_size) if (len(values) % chunk_size) != 0 else 0
-                padded_values = np.pad(values, (0, pad_size), mode='constant', constant_values=0)
-                norm = BoundaryNorm(boundaries, cmap.N, clip=True)
-
-                v=padded_values.reshape(-1, chunk_size)
-                aggregated_data = np.sum(v, axis=1)
-                num_rows = 1
-                new_width = len(aggregated_data)  # Set the width directly to the length of the aggregated data
-                data_matrix = aggregated_data.reshape(num_rows, new_width)
-                ax1 = fig.add_subplot(gs[charidx-1, 0])
-                cax = ax1.matshow(data_matrix, cmap=cmap, norm=norm,  aspect='auto')
-                ax1.set_ylabel("       "+char,  labelpad=15, rotation=0, horizontalalignment='right', verticalalignment='center', size='8')
-                ax1.set_yticks([]) 
-                ax1.set_xticklabels([])  # Hide x-axis tick labels
-                ax1.set_yticklabels([]) 
-                ax1.tick_params(axis='y', which='both', right=False)
-                ax1.tick_params(axis='x', which='both', length=0, labelbottom=False, labelleft=False)  # Hide ticks and labels
-                ax1.tick_params(axis='y', which='both', right=False)
-                ax1.tick_params(right=False)
-                ax1.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)  # No x-axis ticks
-                ax1.tick_params(axis='y', which='both', left=False, right=False, labelleft=False)    # No y-axis ticks
-                
-
-    # Adjust subplots to have a uniform starting point
-    #myprint5("done 7")
-    plt.ion()
-    plt.subplots_adjust(left=0.5)
-    #myprint5("done 8")
-    fig.tight_layout(pad=0) 
-#    plt.subplots_adjust(left=0.2)  # Adjust this value based on your longest label
-    #myprint5_frame_size(frame)
-    canvas = FigureCanvasTkAgg(fig, master=frame)
-    canvas.draw()
-    canvas.get_tk_widget().pack()
-    currentCanvas=canvas
-    currentFig=fig
-    currentFig.canvas.draw()
-    fig.savefig(output_file, dpi=300) 
-    myprint2("draw_bar_chart")
-    #reduce_width()
 def restore_characters():
     myprint2("restore_characters")
     global currentDisabledCharacters
@@ -1339,7 +1249,7 @@ char_menu.add_command(label="Hide", command=hide_character)
 #######################################################################################
 # Folder tree
 folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
-folders.heading("#0", text="Name")
+folders.heading("#0", text="Nom")
 folders.heading("Extension", text="Type")
 folders.heading("Path", text="Path")
 folders.column("#0", width=240)  # Adjust as needed
@@ -1414,7 +1324,10 @@ notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
 
 
 # Configure the style of the tab
-style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', 9))
+fontsize=14
+if platform.system() == 'Windows':
+    style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
+#style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
 # Configure the tab area (optional, for better Windows look)
 style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
 style.configure('TNotebook', padding=0)  # Removes padding around the tab area
@@ -1429,10 +1342,6 @@ preview_tab = ttk.Frame(notebook)
 notebook.add(preview_tab, text='Texte',image=original_icon, compound=tk.LEFT)
 file_preview = Text(preview_tab)
 file_preview.pack(fill=tk.BOTH, expand=True)
-
-if showTimeline:
-    recap_tab = ttk.Frame(notebook)
-    notebook.add(recap_tab, text='Timeline',image=timeline_icon, compound=tk.LEFT)
 
 # Statistics tab
 character_tab = ttk.Frame(notebook)
@@ -1708,16 +1617,12 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 #load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
-load_button = ttk.Button(export_tab, text="Ouvrir le recap .XLSX...", command=open_xlsx_recap)
+load_button = ttk.Button(export_tab, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 load_button = ttk.Button(export_tab, text="Ouvrir le detail dialog...", command=open_dialog_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-# Load folder button
-if showTimeline:
-    load_button = ttk.Button(export_tab, text="Open timeline...", command=open_timeline)
-    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
 #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)

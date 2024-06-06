@@ -1,12 +1,12 @@
 BURLY MAN: {'Scene 1'}
 FRED: {'Scene 1'}
 RUTH: {'Scene 1'}
-WADE: {'Scene 2', 'Scene 1', 'Scene 3'}
-SONG: {'Scene 1', 'Scene 3'}
-JENNY: {'Scene 2', 'Scene 1', 'Scene 3'}
+WADE: {'Scene 2', 'Scene 3', 'Scene 1'}
+SONG: {'Scene 3', 'Scene 1'}
+JENNY: {'Scene 2', 'Scene 3', 'Scene 1'}
 EDDIE: {'Scene 1'}
-MIRANDA : {'Scene 2', 'Scene 1', 'Scene 3'}
-EMILY: {'Scene 2', 'Scene 1', 'Scene 3'}
+MIRANDA : {'Scene 2', 'Scene 3', 'Scene 1'}
+EMILY: {'Scene 2', 'Scene 3', 'Scene 1'}
 SALLY: {'Scene 1'}
 OPERATOR: {'Scene 1'}
 TIMMY: {'Scene 1'}
@@ -29,4 +29,3 @@ MIGUEL: {'Scene 1'}
 MEDIC: {'Scene 2'}
 JENNY AND EMILY: {'Scene 3'}
 MIRANDA AND JENNY: {'Scene 3'}
-MAIN TITLE: {'Scene 3'}

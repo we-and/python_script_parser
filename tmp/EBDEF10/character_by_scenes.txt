@@ -1,38 +1,38 @@
 BOUCLE 1: {'Isabel 2', 'Nicolas', 'Adela'}
-BOUCLE 2: {'Assemblée', 'Remedios', 'Adela', 'Victoria', 'Eugénia', 'Alonzo', 'Nicolas'}
-BOUCLE 3: {'Trinidad', 'Miguel'}
-BOUCLE 4: {'Ana', 'Granados', 'Remedios', 'Victoria', 'Père Octavio', 'Adela', 'Eugénia', 'Nicolas'}
+BOUCLE 2: {'Nicolas', 'Adela', 'Remedios', 'Alonzo', 'Assemblée', 'Eugénia', 'Victoria'}
+BOUCLE 3: {'Miguel', 'Trinidad'}
+BOUCLE 4: {'Granados', 'Nicolas', 'Adela', 'Remedios', 'Père Octavio', 'Ana', 'Eugénia', 'Victoria'}
 BOUCLE 5: {'Rosa', 'Victoria'}
 BOUCLE 6: {'Rosa', 'Victoria'}
 BOUCLE 7: {'Nicolas', 'Eugénia'}
-BOUCLE 8: {'Femme au chapeau', 'Victoria', 'Adela', 'Remedios', 'Eugénia', 'Homme Granados'}
-BOUCLE 9: {'Victoria', 'Nicolas', 'Adela', 'Remedios'}
-BOUCLE 10: {'Remedios', 'Adela', 'Nicolas'}
-BOUCLE 11: {'Père Octavio', 'Adela', 'Nicolas'}
-BOUCLE 12: {'Père Octavio', 'Adela', 'Nicolas'}
+BOUCLE 8: {'Femme au chapeau', 'Adela', 'Homme Granados', 'Remedios', 'Eugénia', 'Victoria'}
+BOUCLE 9: {'Victoria', 'Remedios', 'Nicolas', 'Adela'}
+BOUCLE 10: {'Remedios', 'Nicolas', 'Adela'}
+BOUCLE 11: {'Père Octavio', 'Nicolas', 'Adela'}
+BOUCLE 12: {'Père Octavio', 'Nicolas', 'Adela'}
 BOUCLE 13: {'Victoria', 'Remedios'}
-BOUCLE 14: {'Nicolas', 'Morales'}
-BOUCLE 15: {'Milagro', 'Trinidad', 'Miguel'}
+BOUCLE 14: {'Morales', 'Nicolas'}
+BOUCLE 15: {'Miguel', 'Trinidad', 'Milagro'}
 BOUCLE 16: {'Victoria', 'Remedios'}
-BOUCLE 17: {'Milagro', 'Trinidad'}
-BOUCLE 18: {'Voix', 'Auteur', 'Morales'}
-BOUCLE 19: {'Ana', 'Marqueze général', 'Granados', 'Victoria', 'Eugénia', 'Alonzo', 'Nicolas'}
-BOUCLE 20: {'Adela', 'Nicolas'}
-BOUCLE 21: {'Granados', 'Ana', 'Nicolas'}
-BOUCLE 22: {'Ana', 'Granados', 'Remedios', 'Adela', 'Nicolas'}
-BOUCLE 23: {'Ana', 'Victoria', 'Nicolas'}
-BOUCLE 24: {'Esclave 2', 'Candélà', 'Esclave gauche', 'Thomà'}
-BOUCLE 25: {'Trinidad', 'Esclaves', 'Thomà', 'Candélà'}
-BOUCLE 26: {'Rosa', 'Remedios', 'Adela', 'Victoria', 'Hilaria'}
-BOUCLE 27: {'Morales', 'Ana', 'Eugénia', 'Alonzo', 'Nicolas'}
-BOUCLE 28: {'Nicolas', 'Morales'}
-BOUCLE 29: {'Trinidad', 'Thomà', 'Miguel', 'Morales'}
-BOUCLE 30: {'Trinidad', 'Miguel', 'Morales'}
-BOUCLE 31: {'Nicolas', 'Adela', 'Eugénia'}
+BOUCLE 17: {'Trinidad', 'Milagro'}
+BOUCLE 18: {'Auteur', 'Morales', 'Voix'}
+BOUCLE 19: {'Granados', 'Nicolas', 'Alonzo', 'Ana', 'Eugénia', 'Marqueze général', 'Victoria'}
+BOUCLE 20: {'Nicolas', 'Adela'}
+BOUCLE 21: {'Nicolas', 'Granados', 'Ana'}
+BOUCLE 22: {'Granados', 'Nicolas', 'Adela', 'Remedios', 'Ana'}
+BOUCLE 23: {'Nicolas', 'Victoria', 'Ana'}
+BOUCLE 24: {'Thomà', 'Esclave 2', 'Esclave gauche', 'Candélà'}
+BOUCLE 25: {'Thomà', 'Trinidad', 'Esclaves', 'Candélà'}
+BOUCLE 26: {'Hilaria', 'Adela', 'Remedios', 'Rosa', 'Victoria'}
+BOUCLE 27: {'Nicolas', 'Alonzo', 'Ana', 'Eugénia', 'Morales'}
+BOUCLE 28: {'Morales', 'Nicolas'}
+BOUCLE 29: {'Miguel', 'Thomà', 'Morales', 'Trinidad'}
+BOUCLE 30: {'Miguel', 'Morales', 'Trinidad'}
+BOUCLE 31: {'Adela', 'Nicolas', 'Eugénia'}
 BOUCLE 32: {'Victoria', 'Remedios'}
-BOUCLE 33: {'Trinidad', 'Thomà', 'Miguel'}
-BOUCLE 34: {'Rosa', 'Hilaria', 'Siervo'}
-BOUCLE 35: {'Milagro', 'Thomà', 'Miguel', 'Morales'}
-BOUCLE 36: {'Rosa', 'Remedios', 'Hilaria', 'Victoria'}
-BOUCLE 37: {'Miguel', 'Morales', 'Milagro', 'Thomà', 'Nicolas'}
-BOUCLE 38: {'Morales', 'Victoria', 'Adela', 'Remedios', 'Milagro', 'Nicolas'}
+BOUCLE 33: {'Thomà', 'Miguel', 'Trinidad'}
+BOUCLE 34: {'Rosa', 'Siervo', 'Hilaria'}
+BOUCLE 35: {'Thomà', 'Miguel', 'Morales', 'Milagro'}
+BOUCLE 36: {'Rosa', 'Victoria', 'Remedios', 'Hilaria'}
+BOUCLE 37: {'Miguel', 'Nicolas', 'Thomà', 'Morales', 'Milagro'}
+BOUCLE 38: {'Nicolas', 'Adela', 'Remedios', 'Victoria', 'Morales', 'Milagro'}

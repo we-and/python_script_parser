@@ -1,0 +1,849 @@
+GARANZHIN	Straighten your elbow and hold your arm out. Here.
+SHURA	Dad, I'm tired. What are we waiting here for?
+GARANZHIN	Our lucky chance. One more time.
+TERESHCHENKO	You mean, you want Garanzhin to replace Gomelsky?
+MOISEEV	He coached BC Spartak Leningrad to where they are now.
+TERESHCHENKO	Still, this is insane...
+MOISEEV	What's your suggestion?
+TERESHCHENKO	Comrades, Gomelsky is not a close friend of mine, but the man took Soviet basketball to an international level, and we can't replace him just because...
+HEAD OF SPORTS COMMITTEE	Gennady, you know full well that the decision to replace Gomelsky came right from the top. None of us can change that. Is that not clear?
+TERESHCHENKO	Let's talk about Garanzhin.
+OFFICIAL 1	But why Garanzhin?
+TERESHCHENKO	Comrade Moiseyev, admit it: Being the chairman of the Basketball Federation, you're promoting your friend.
+OFFICIAL 1	Of course!
+TERESHCHENKO	He was your teammate back in Leningrad. It's clear as day!
+MOISEEV	Are you saying that friendship is something to be ashamed of? I'm proud to call him my friend.
+HEAD OF SPORTS COMMITTEE	That's all well and good, but what makes him a good fit?
+MOISEEV	Gomelsky is every coach's idol. Everyone follows his system. Everyone wants to play and to win like CSKA. Everyone. Garanzhin is different.
+SHURA	Watch out!
+GARANZHIN	Go do some free throws.
+SHURA	Dad, the hoop's too far.
+GARANZHIN	Just give it a try. You could even do it from here.
+SHURA	Here, show me.
+KSENIA	Where are you going? You said, from here.
+SHURA	He won't make it.
+KSENIA	Score!
+SHURA	Wow, Dad...
+MOISEEV	Vladimir! Quick!
+KSENIA	Just be reasonable with them.
+GARANZHIN	Ksenia...
+KSENIA	It's a foreign assignment, it's money for Shura's surgery, and we only have a year to do the surgery...
+GARANZHIN	Got it. No breaking chairs, no slandering Brezhnev.
+KSENIA	You know what?
+GARANZHIN	I'm off.
+KSENIA	Good luck.
+MOISEEV	Fix your collar. So, you come in, say "thanks", bow down and leave. Got it?
+GARANZHIN	Yes, Grigory. I'm not stupid.
+MOISEEV	This way.
+HEAD OF SPORTS COMMITTEE	Vladimir, the Soviet national team needs a new head coach. We think it needs you. What do you say?
+GARANZHIN	Thank you for the honor. I can take on that role if...if my suggestions will be accepted.
+HEAD OF SPORTS COMMITTEE	Such as?
+GARANZHIN	New methods.
+HEAD OF SPORTS COMMITTEE	What kind?
+GARANZHIN	American, to begin with.
+HEAD OF SPORTS COMMITTEE	American methods? What's wrong with Soviet methods?
+TERESHCHENKO	Gomelsky developed excellent methods and techniques.
+GARANZHIN	The players need to travel abroad to play other teams more often.
+TERESHCHENKO	And deal with even more stress? The boys are overworked as it is. They never see their families!
+HEAD OF SPORTS COMMITTEE	Gennady, please sit down.
+TERESHCHENKO	I'm sorry.
+GARANZHIN	That's part of their job.
+OFFICIAL 2	How will those expenses be covered?
+GARANZHIN	I'm not an accountant. Also, I would replace some of the players.
+TERESHCHENKO	Gomelsky didn't put the team together for you to play chess with.
+GARANZHIN	Then, you should get Gomelsky back.
+PAULAUSKAS	Hey, wake up! Big boys are training here.
+GOMELKIY	Paulauskas! Five laps, zigzag. Don't forget the ball.
+MOISEEV	Done. We have Sports Committee and accounting department approval.
+GOMELKIY	Alex...
+ALEXANDER BELOV	I'm ok.
+MOISEEV	I've gone gray over the last week, all because of you.
+GARANZHIN	I can tell.
+MOISEEV	Here's the proposed lineup. What's this?
+GARANZHIN	My team.
+MOISEEV	Belov, Paulauskas... Belov, Paulauskas - sure. But who are these other guys?
+GOMELKIY	Soviet national basketball team, assemble!
+MOISEEV	Let's go and meet the team. Come on, let's go.
+GOMELKIY	My dear team! I thank you for your hard work and your victories. For all the years of commitment, and for your patience with me. You've been a part of my life, and I will always cherish that. From today, you have a new coach, Vladimir Garanzhin. Please welcome and respect him. May you always come home victorious.
+KORKIYA	So the rumors were true...
+GARANZHIN	Good day.
+PAULAUSKAS	Not for everyone.
+GARANZHIN	Unfortunately, yes. I made a list of players for the new team. I apologize in advance to those who are not on it.
+MOISEEV	The team captain can read it out.
+GARANZHIN	No hard feelings, please. I'll see the rest of you tomorrow.
+PAULAUSKAS	Alexander Belov, Sergey Belov, Modest Paulauskas... It's Modestas, not Modest! Stole two letters from my name!
+MOISEEV	Save yourself some trouble, send him back to Lithuania now.
+GARANZHIN	I would, but he's a good pass rusher.
+PAULAUSKAS	Ivan Edeshko...
+EDESHKO	Nice.
+PAULAUSKAS	Zurab Sakandelidze...
+SAKANDELIDZE	Yes!
+PAULAUSKAS	Mishiko Korkiya... Here, you read. Sergey, let's go.
+ZHARMUKHAMEDOV	Alzhan Zharmukhamedov, Sergey Kovalenko, Gennady Volnov Alexander Boloshev, Ivan Dvorny, Anatoly Polivoda.
+GARANZHIN	Alex, pass!
+PAULAUSKAS	He's been coaching for a week, and he only lets his favorites out.
+GARANZHIN	Shoot!
+PAULAUSKAS	When I play in Lithuania there's not a soul in the streets.
+SERGEY BELOV	When he plays in Belarus it's a national holiday.
+GARANZHIN	Belov, Paulauskas, you're up!
+PLAYER	Nice one!
+GARANZHIN	Mishiko, speed! He is supposed to be behind you, not the other way around!
+SAKANDELIDZE	What's the problem? We're winning.
+PAULAUSKAS	Sergey, here!
+GARANZHIN	Guys... Well done, but this is not the kind of basketball I want to see. Ivan, don't try to win all by yourself. Guys, on the court you don't see or hear one another. Sergey, you're doing long shots while Alzhan and Alex wait for a pass. Now, the defense...
+SERGEY BELOV	Don't worry, Vladimir. I can sink a shot from anywhere. If it isn't broken, don't fix it.
+EDESHKO	I'm tired of passing the ball all the time. I want to score. Like that, look! He goes for the kill. The defense try to stop him... He raises the ball... And soars. I want to do that!
+ALEXANDER BELOV	You and everyone else.
+PAULAUSKAS	Well done, Sergey. You saved the game.
+DOCTOR	Sergey, how's your knee?
+SERGEY BELOV	It's asking for an ice pack.
+GARANZHIN	Guys, listen up.
+MOISEEV	Incredible job! Just Incredible! You wiped the court with them! And here's a little thank-you from us. Paulauskas... Alex...
+ALEXANDER BELOV	Thanks.
+MOISEEV	Korkiya...
+PAULAUSKAS	I'd earn more back home driving a taxi.
+MOISEEV	I can arrange that for you. Ivan...
+EDESHKO	Thanks.
+MOISEEV	Sakandelidze...
+SAKANDELIDZE	Thanks.
+GARANZHIN	Grigory!
+MOISEEV	Yes?
+GARANZHIN	Hurray for Vladimir and his first international victory! Hip Hip!
+PLAYERS	Hurray!
+GARANZHIN	Hip Hip!
+PLAYERS	Hurray!
+GARANZHIN	Hip Hip!
+PLAYERS	Hurray!
+MOISEEV	Polivoda... Why did you run off? Here.
+GARANZHIN	Thanks.
+MOISEEV	Congratulations.
+GARANZHIN	Thanks.
+ALEXANDER BELOV	Vladimir! Thanks again for putting me on the team.
+GARANZHIN	As if I could do without you?
+ALEXANDER BELOV	And congratulations!
+GARANZHIN	It's too early for that.
+MOISEEV	It's never too early. Congratulations, Alex.
+ALEXANDER BELOV	Thanks, you too.
+GARANZHIN	The Austrians are ready to operate as soon as I have the money. I'm saving every ruble I can, but that's half the battle. I need to get him papers for leaving the country.
+MOISEEV	You'll need someone in the foreign ministry. We'll think of something.
+GARANZHIN	Thanks for all the help, buddy.
+MOISEEV	Come on, no need. Ready to meet the press?
+GARANZHIN	No. But when has that ever stopped us?
+MOISEEV	Sergey, come on!
+TRANSLATOR	What's the difference in coaching style between you and Gomelsky?
+GARANZHIN	I've only recently started working with the team. Gomelsky got this 'red machine' started, and it's running great. The main difference between us is what we want to achieve. The Munich Olympics is next year. We must beat the Americans.
+MOISEEV	What Vladimir wanted to say is that national basketball teams play at a very high level, so the Soviet team will put serious effort into training for the Olympics.
+GARANZHIN	What I wanted to say is that no empire is eternal.
+MOISEEV	That's not what he meant.
+TRANSLATOR	I'm curious as well. The US team will have to lose a game eventually.
+PAULAUSKAS	America... That would be like Mozambique playing us at hockey. Americans have a hoop in every alley.
+MOISEEV	What do I do now, buddy? I'm the one responsible for bringing in the crazy coach.
+GARANZHIN	You'll be fine. You'll even get a bonus.
+MOISEEV	Whisky.
+EDESHKO	It was a pleasure playing on the same team with you. Here...
+SERGEY BELOV	The pleasure isn't mutual.
+MOISEEV	Wake up, Vladimir. You've ruined my career. Sure, your idea sounds great, but the Americans will stuff your basket full. You're a crazy psycho!
+PAULAUSKAS	I want to sing a Lithuanian song.
+PLAYER	Sing, Mody.
+GARANZHIN	They have a real chance now. They're in top shape. Life in this sport is very short. A few more years and their health will be ruined. Their time is now. Can't you see that?
+TEAM	Bravo!
+PAULAUSKAS	I'm not finished yet!
+MOISEEV	Look.
+ALEXANDER BELOV	Sorry, I misunderstood...
+PAULAUSKAS	You people never understood us!
+ALEXANDER BELOV	People who?
+PAULAUSKAS	You Russians always want it your way!
+EDESHKO	Shut your mouth!
+PAULAUSKAS	You don't like the way we sing or the way we live, do you?
+MOISEEV	You think this ragtag bunch can beat the Americans?
+PAULAUSKAS	Always meddling in our affairs! Imposing your rules!
+SERGEY BELOV	Am I meddling in your affairs? Imposing anything?
+PAULAUSKAS	Not you. You're a friend. But I feel like a caged bird with you guys.
+KORKIYA	Hey, don't let it get to you. Let's go back in.
+SERGEY BELOV	I have a training session.
+KORKIYA	A training session? What's wrong with you?
+SERGEY BELOV	And you?
+PASSAGE	Strange people.
+AIRPORT WORKER 1	Hello.
+MOISEEV	Hi.
+AIRPORT WORKER 1	Down the stairs, please.
+MOISEEV	Thank you.
+AIRPORT WORKER 1	Here's your bag. This way, please. Come this way. 
+CHAYKIN	Get your bags ready for inspection.
+KORKIYA	Don't you know who we are? We're the champions of Europe and the pride of the Soviet Union! Be thorough. 
+CHAYKIN	I will.
+CUSTOMER-FAN	Look, it's Sergey Belov. Comrade Belov, I'm sorry but I have to inspect your bag. Rules are rules. Uh-oh...
+CHAYKIN	Where did you get this?
+SERGEY BELOV	I bought it in Essen with my bonus money. 
+CHAYKIN	You're the team's Komsomol rep. What do you need a Bible for?
+SERGEY BELOV	Does it say something bad about the Komsomol?
+CHAYKIN	Let him through. Comrades, move along. Move along now.
+CUSTOMER-FAN	Can you sign this for my son?
+CHAYKIN	Move along, please.
+SAKANDELIDZE	Hello.
+CUSTOMER-FAN	One bag at a time, please.
+SAKANDELIDZE	My mother knits, my grandma knits...
+EDESHKO	Even I can knit.
+CUSTOMER 1	So can I.
+CUSTOMER 2	Planning to sell these?
+KORKIYA	Can't you see these are presents? This is for Auntie Tamara, this is for Bakur... Zurab, explain why a Georgian can't go home empty-handed!
+SAKANDELIDZE	If we do we'll be grilled worse than here!
+CUSTOMER-FAN	Fine, but what is this?
+SAKANDELIDZE	A belt.
+PAULAUSKAS	I love this country. So welcoming...
+MOISEEV	It's going to be cold this winter.
+CHAYKIN	Why two of them?
+MOISEEV	If one gets stolen I'll have a spare.
+DOCTOR	This is a blood pressure monitor.
+CUSTOMER 2	You can go.
+DOCTOR	Thank you.
+CUSTOMER 1	You can go.
+PAULAUSKAS	So can you.
+CUSTOMER 1	All done here.
+CUSTOMER 2	You can go.
+CHAYKIN	Vladimir, hold on a moment. Congratulations.
+GARANZHIN	Thank you.
+PAULAUSKAS	Hockey players come back loaded with contraband, no problem. What was that about?
+SAKANDELIDZE	Maybe we have a snitch...
+PAULAUSKAS	Comrade Komsomol rep, can you teach us all how to get through so easily?
+SERGEY BELOV	If you have something to say, let's hear it.
+PAULAUSKAS	Just a thought. Only you and the coach weren't carrying anything.
+SERGEY BELOV	What, no snitches in Lithuania?
+PAULAUSKAS	Not until you came along.
+SERGEY BELOV	Yeah right.
+GARANZHIN	Hey, hey, calm down... Enough of that, the lot of you! I hear anything like that again and you're out! You can go paint ceilings, you won't even need a ladder.
+KSENIYA	Will they keep you on? Why did you say that about beating the Americans? Everyone knows it's impossible. You could get fired.
+GARANZHIN	That may be so, but I'll make it possible, soon.
+KSENIYA	How soon? We have a year to do the surgery! After that, no one will do it, not even in Europe!
+SHURA	Mom, Dad...Don't argue.
+KSENIYA	We're not arguing.
+GARANZHIN	Sorry, son, no presents this time.
+SHURA	Here, catch.
+HEAD OF SPORTS COMMITTEE	I'm not even going to talk to you! Get out of my sight!
+TERESHCHENKO	With your statement, you put our country's honor at stake!
+GARANZHIN	Don't you have faith in our country's sporting prowess?
+TERESHCHENKO	That's not what I said. If I didn't believe in our country's sporting prowess I wouldn't be here. Why didn't you ask us?
+GARANZHIN	I thought we were on the same team.
+HEAD OF SPORTS COMMITTEE	I also thought we were on the same team, but then I had a visit from an agency we all know well, and they came with files for criminal cases. Like the national team smuggling contraband, under supervision of their coach.
+GARANZHIN	I take full responsibility.
+HEAD OF SPORTS COMMITTEE	And for this too? Will you take responsibility for Modestas? You have a raging dissident in your team! With relatives in Germany. If he goes to the Olympics, what's to stop him defecting?
+GARANZHIN	You can send that damned Paulauskas packing as far as I'm concerned. But only after the Olympics. There's nobody to replace him with. Sure, beating the Americans at their own game sounds great. Winners take all, but losers stand to lose everything.
+HEAD OF SPORTS COMMITTEE	Sit down. You believe in our country's sporting prowess, but you have no faith in our country's healthcare. We have the best doctors in the world, but you want your son treated abroad. No, we understand, of course. But don't you go thinking you can just take your son out of the country on the next plane. There will be all manner of obstacles, you'll need serious help. Permission to leave the country, permission to get treatment. Not to mention that you'll need to buy currency.
+TERESHCHENKO	Sergey, you're absolutely right. Vladimir will need help.
+GARANZHIN	I'll manage.
+TERESHCHENKO	No, you'll need someone to guide you. Someone who knows the ropes and can show you what to do, and when. Someone like me.
+MOISEEV	Well?
+GARANZHIN	Well, they all wished us best of luck and shook my hand.
+SERGEY BELOV	So what are our orders?
+GARANZHIN	Your orders are to turn up for training at 9 a.m. tomorrow morning. No more of Gomelsky's methods. Only mine from now on.
+SERGEY BELOV	Did they make you a general?
+GARANZHIN	You have your orders.
+SERGEY BELOV	Bye.
+MOISEEV	Bye. They'll have your head for a ball now. And mine, too. Thanks a lot, buddy.
+TRAINER	Polyakova?
+POLYAKOVA	Here.
+TRAINER	Surkova?
+SURKOVA	Here.
+TRAINER	Canaris?
+CANARIS	Here.
+TRAINER	Smirnova?
+SMIRNOVA	Here.
+TRAINER	Nikolayeva?
+NIKOLAYEVA	Here.
+TRAINER	Sveshnikova? Sveshnikova?
+SVESHNIKOVA	I'm here!
+TRAINER	Vlasova?
+VLASOVA	Here.
+TRAINER	The first training session is tomorrow at 6 a.m. Until then, you are to stay in your dorm rooms. Questions?
+SVESHNIKOVA	What about leisure time?
+TRAINER	Not a question. Books, chess, sleep. That's it. Now follow me.
+SVESHNIKOVA	That's tough.
+SPORTSWOMAN	You can say that again.
+SURKOVA	I'll take your bag.
+SASHA BELOV	Sasha, will you marry me?
+SVESHNIKOVA	What, right here? 
+SVESHNIKOVA	Where's your medal?
+SASHA BELOV	In my bag.
+SVESHNIKOVA	Can I see it?
+SASHA BELOV	Here.
+SVESHNIKOVA	Looks good on me?
+SASHA BELOV	It does. Take it.
+SVESHNIKOVA	They won't let me get married for at least five more years. The perks of being on the national team.
+SASHA BELOV	We won't tell anyone.
+SVESHNIKOVA	I don't have a dress.
+SASHA BELOV	I'll bring you one from abroad. Hmm...
+SVESHNIKOVA	Alex, what's wrong?
+SASHA BELOV	It's nothing... I'm fine... Don't tell anyone, or I'll get kicked out of the team.
+GARANZHIN	Flight is natural to a basketball player. Move freely! Freely! Balance your body! Total control! Now, freeze in mid-air! We'll work on that. Keep up the pace! On the court, you won't have time to think. You'll have to act, and act fast! Even faster! Move, move! Ivan, how often do you score?
+EDESHKO	Rarely.
+GARANZHIN	And others, when you pass to them?
+EDESHKO	Almost every time.
+GARANZHIN	Get it?
+EDESHKO	No.
+GARANZHIN	You will eventually.
+GARANZHIN	Sergey, training's over for today. You've got a long flight tomorrow. It's 20 hours to Brazil. And a game right after we arrive.
+SERGEY BELOV	I'll sleep on the plane.
+GARANZHIN	The team is resting right now.
+SERGEY BELOV	That's what worries me. Don't you want those guys to beat the Americans?
+GARANZHIN	What about you?
+SERGEY BELOV	My first coach used to say, "If you have doubts give the ball to Sergey. He'll know what to do with it." And it's still true. I score 30 points in a single game. Who else can do that?
+GARANZHIN	No one. You're right. Sergey, there can never be a team where everyone is just like you.
+SERGEY BELOV	Yeah. Tough luck.
+GARANZHIN	On the bench! Now!
+TERESHCHENKO	Stop fighting!
+GARANZHIN	Excuse me, but that's an obvious violation of the rules!
+PAULAUSKAS	He started it!
+KORKIYA	Who's he?
+DOCTOR	That's Comrade William Jones, General Secretary of FIBA.
+GARANZHIN	Grigory, I can't see. Referee! Player down!
+TERESHCHENKO	Who's going to score now? Give Belov a shot of something, I don't know, anything! Play for time! Play for time!
+GARANZHIN	Korkiya, Edeshko, Volnov, you're up. Alzhan, you're in. Alex!
+PAULAUSKAS	See that? He subs every 15 seconds. Is he a coach or a juggler?
+SERGEY BELOV	All I see is they're doing just fine without us.
+GARANZHIN	Nice one, Ivan! Finally!
+PLAYER	Alzhan, pass here!
+GARANZHIN	Alzhan, get over here! How bad is your eyesight? Huh?
+ZHARMUKHAMEDOV	Minus four.
+GARANZHIN	Why didn't you tell me?
+ZHARMUKHAMEDOV	I wanted to be on the team.
+GARANZHIN	I don't need blind players on the team. Get on the bench! Alex, sub Volnov. Move it!
+TERESHCHENKO	Another sub? You don't even let them focus! Who plays like that?
+GARANZHIN	The Americans do. Ivan and Mishiko! Work it! Faster!
+EDESHKO	Pass round! Keep going!
+PLAYERS	We won! We did it! We whipped them!
+SVESHNIKOVA	Meet me at 10 a.m. on the 31st outside the registry office.
+SASHA BELOV	But I arrive at 6 a.m.
+SVESHNIKOVA	You'll make it!
+SASHA BELOV	Wait! I have something for you. Here's your dress.
+SVESHNIKOVA	You're crazy!
+TRAINER	Sveshnikova, are you getting hitched?
+SVESHNIKOVA	What am I, stupid?
+TRAINER	Into the bus, now!
+SVESHNIKOVA	Ciao!
+SASHA BELOV	Which one is it?
+SVESHNIKOVA	What?
+SASHA BELOV	Which... "utilities office"?
+SVESHNIKOVA	Griboyedovsky.
+SHURA	Dad, we need a new shelf!
+GARANZHIN	A couple more months and we'll have Shura out of his chair.
+SHURA	Too many trophies!
+TERESHCHENKO	Are you aware of the costs involved?
+MOISEEV	Gennady...
+GARANZHIN	We need to play American teams. Students, amateurs - I don't care.
+TERESHCHENKO	Why would you have the best Soviet players play a bunch of students?
+GARANZHIN	Today's students are tomorrow's professional players. Our boys must lose their fear, and believe in beating the U.S. team. You don't have to believe in it, but they do.
+TERESHCHENKO	Don't you go abroad often enough?
+HEAD OF SPORTS COMMITTEE	Vladimir, do you even speak English?
+MOISEEV	Hello. Listen up. We're under scrutiny here. Tomorrow's the first game. You have to be in top shape. Don't go anywhere, stay in your hotel rooms and rest.
+SASHA BELOV	Grigory...
+KORKIYA	Vladimir, can we at least go for a walk? Just around the block, to see what America is like.
+GARANZHIN	Around the block is fine.
+SASHA BELOV	Thank you.
+SASHA BELOV	Get the caviar.
+EDESHKO	Oh, right...
+MOISEEV	You're too soft on them. The Americans keep their team on an army base before the Olympics.
+GARANZHIN	I'd rather base things on trust.
+KORKIYA	We also need to find a place where we can sell the caviar.
+EDESHKO	Like a dive bar.
+KORKIYA	Let's check the back alley. So this is what America looks like. Oh, look.
+EDESHKO	Nice. Shall we?
+ZHARMUKHAMEDOV	What?
+SASHA BELOV	He says you're an Indian. I'll pass.
+KORKIYA	I have money. Come on guys, let's do it.
+SASHA BELOV	In those stupid boots?
+KORKIYA	Why not?
+EDESHKO	Let's go back to the hotel and rest before the game.
+KORKIYA	Alzhan, you're no fun.
+EDESHKO	They're playing half-court. Let's go.
+KORKIYA	Let's play a bit.
+SASHA BELOV	No.
+KORKIYA	Caviar?
+SASHA BELOV	Who plays like that?
+EDESHKO	Mishiko, you ok?
+KORKIYA	Oh yeah! Darlings, if only you knew how we got our asses whooped today. Let's drink to the memory of Soviet basketball!
+EDESHKO/ZHARMUKHAMEDOV/BELOV	Hurray!
+GARANZHIN	What happened?
+SERGEY BELOV	We had a game with some locals. They weren't even students. Just some guys in the street.
+GARANZHIN	And?
+SERGEY BELOV	We lost by 20.
+GARANZHIN	Numbskulls. Help me get them outside and put them into taxis. Quietly.
+EDESHKO	Gangwaaay!
+MOISEEV	Alright, guys. Don't be discouraged. Things happen. I have a feeling that it was a planned provocation, and that those guys were professional athletes. It was a set-up in order to demoralize you.
+SASHA BELOV	No, Grigory...
+MOISEEV	Alex, don't underestimate the trickery of the Americans. Our coach set us up.
+PAULAUSKAS	He could've asked if we were up for the challenge.
+KORKIYA	We'll get whooped today. And when we get back home, we'll be the laughing stock !
+GARANZHIN	They're going to play offence and pressure you. Your strategy: less dribbling, no cross court passes.
+KORKIYA	Block me!
+PLAYER	Alex!
+MOISEEV	Vladimir, we're screwed.
+GARANZHIN	We're doing fine.
+PLAYER	Alex, it's yours!
+KORKIYA	Over here!
+PLAYER	Mishiko, defense!
+SERGEY BELOV	Vladimir, any suggestions?
+GARANZHIN	You're doing great.
+KORKIYA	To me!
+GARANZHIN	Anybody hurt?
+DOCTOR	Modestas, you ok?
+PAULAUSKAS	I'm fine, Seva.
+DOCTOR	Alzhan, let me see...
+SERGEY BELOV	Vladimir, what was that all about? Where was our coach in this game?
+GARANZHIN	Alex!
+KORKIYA	Seva, hurry!
+GARANZHIN	Understood. Thank you.
+MOISEEV	We can't pay for this. We don't have the budget for this. We have a medic on staff. This will be "inappropriate expenses". We'll get back and take him to the Medical Center in Tuapse...
+GARANZHIN	He won't make it back.
+MOISEEV	The doctor didn't say that.
+GARANZHIN	Pay for this out of the budget. I'll reimburse out of my pocket in Moscow.
+MOISEEV	Out of your own pocket? But that's a huge sum. Your son needs surgery...
+GARANZHIN	That's what we'll do now. The rest is less urgent. I'll think of something. Keep your mouth shut about this.
+KSENIYA	Hello?
+GARANZHIN	Ksenia, hey.
+KSENIYA	Hey.
+GARANZHIN	Alex is in hospital, it's bad. I need you to take all the money we have to the accounting department of the Sports Committee. Don't worry about Shura, I'll think of something.
+SASHA BELOV	I'm sorry I didn't tell you.
+GARANZHIN	I wouldn't have told me either. We're all maniacs, aren't we? Basketballs-heads. Listen... You have a rare condition. Your case is unique. No one knows how to treat you. No one knows how long you have left to live. It could be a year...before they find a cure. Sorry for being so upfront with you.
+SASHA BELOV	I'm sure the team will do just fine without me.
+GARANZHIN	Alex, I will hear none of this nonsense. You're the national team's center. Here are your tasks: rest, read books and listen to good music. I will be checking on you daily. You'll tell me what you've read and sing what you've listened to. Are we clear?
+SASHA BELOV	Yes, we are.
+GARANZHIN	You can begin now.
+EDESHKO	Sergey, you ok?
+GARANZHIN	Ivan, stay out of the corners! Cover your opponents!
+KORKIYA	Bear with it.
+DOCTOR	We use aspirin.
+GARANZHIN	Everything's alright. We almost won.
+KORKIYA	We lost a game, then Alex got sick, then we lost another game. This is a bad year.
+VOLNOV	Is Alex coming back soon?
+GARANZHIN	He'll miss this tournament.
+EDESHKO	Vladimir, does he need any help?
+GARANZHIN	I'll tell you what he needs. Alex Belov isn't playing because he's in hospital. The only way you can help him is by winning. Understood?
+PLAYER	Over here!
+GARANZHIN	Locker room, everyone. Alzhan, why didn't you pass the ball to anyone?
+ZHARMUKHAMEDOV	Vladimir... I'll leave the team, but please don't mention my eyesight to anyone so I can continue playing back in Tashkent.
+GARANZHIN	These are contact lenses. You stick them right in your eyes. It's the latest technology, we don't have them back home. Don't tell anyone.
+ZHARMUKHAMEDOV	Thank you. I serve the Soviet Union.
+GARANZHIN	They're going to play 1-3-1 zone defense. This is how we're going to play...
+PLAYER	Mody! Come on! Sergey! Over here!
+GARANZHIN	Pin them down hard! You're playing for yourself and for Alex! For yourself and for Alex!
+KORKIYA	Alex! Alex, look out the window! Alex! Alex! Hey! Alex! There he is!
+PLAYER	We did it! We won!
+EDESHKO	Alex, get well and come back! Help us stuff that basket full!
+KORKIYA	Help us beat Team USA! Come back! Let's get out of here! The cops are after us!
+EDESHKO	Later!
+SVESHNIKOVA	Where do you come from, my fair knight?
+ALEXANDER BELOV	From the plane. Listen. We're not getting married. And we won't see each other again.
+SVESHNIKOVA	Alex...
+ALEXANDER BELOV	Everything changed.
+SVESHNIKOVA	What changed?
+ALEXANDER BELOV	Everything. Bye.
+SVESHNIKOVA	What happened? Have I done something wrong? Do you have somebody else?
+ALEXANDER BELOV	Yes, I have somebody else. Someone I've always had. We're together now. I'm sorry.
+SVESHNIKOVA	Alex?
+GARANZHIN	Go, go, go!  Guys, not good enough. Zurab, Mishiko, from you I need speed, speed and more speed.  Do it again, without the weights.
+KORKIYA	Vladimir, can we...
+GARANZHIN	You heard me, Mishiko! Go! Faster, faster, faster, go!
+GARANZHIN	Alex, why aren't you resting?
+ALEXANDER BELOV	I'm not tired.
+GARANZHIN	You're to rest half an hour after every five minutes, got that?  Wrap it up.
+ALEXANDER BELOV	 Alright. Alright. Alright.
+GARANZHIN	Acceleration! Enough.
+KORKIYA	Vladimir, can we...
+GARANZHIN	Hit the showers.
+KORKIYA	I need to talk to you.
+GARANZHIN	How fast can you run 100 meters?
+KORKIYA	11.7, but...
+GARANZHIN	You can do better.
+KORKIYA	What?
+MOISEEV	I need you for a minute.
+GARANZHIN	You can run faster than that.
+KORKIYA	I know what Paulauskas looks like. There he is.
+MOISEEV	You know where these came from. He met with relatives in Essen. They organized for him to meet with Euroleague representatives.
+GARANZHIN	Tell them you couldn't find me.
+MOISEEV	What do you mean, "couldn't find you"?
+SVESHNIKOVA	Where's Belov? Why are you lying to me? You've got nobody else!
+ALEXANDER BELOV	I have a year left to live. Maybe two. I got diagnosed in the States. Sasha, just go.
+SVESHNIKOVA	You can't give up like that. Why did you leave me?
+ALEXANDER BELOV	Are you listening to me? It could be a year, or a month! You want to be a widow?
+SVESHNIKOVA	Do you not want to be anything anymore? Do you think I'll live forever? Nobody knows how long they have left. If they said you have three minutes left, what would you do? Or three seconds? What would you do? I would do everything.
+ALEXANDER BELOV	A true communist.
+SVESHNIKOVA	Alex, you and I can do whatever we want. Anything. It doesn't matter how much time you have left. While you're alive, you can do anything.
+TERESHCHENKO	Vladimir, the results of your experiments are in!
+GARANZHIN	Paulauskas again?
+TERESHCHENKO	No, Korkiya. He's quitting the team. Here's his notice of resignation.
+GARANZHIN	Zurab!
+SAKANDELIDZE	He went off to buy a ticket. He has a wedding to attend. He's at the airport.
+TAXI DRIVER	Thanks.
+GARANZHIN	Why didn't you tell me?
+KORKIYA	Vladimir, I tried so many times.
+GARANZHIN	Can you not just go for a day?
+KORKIYA	A wedding in Georgia is not a one-day event. My sister's getting married. The Olympics are once ever four years, but family is forever. I'm sorry.
+GARANZHIN	Is there a stadium there?
+KORKIYA	Why do you ask?
+GARANZHIN	There's a wonderful Georgian saying: Fire is the test of gold, gold is the test of women, and women are the test of men. Let's raise our glasses to the beautiful bride, to her groom, to her wonderful brother, and to this magical land!
+SAKANDELIDZE	Vladimir, this is our custom.
+KSENIYA	Vladimir...
+GARANZHIN	And to our training tomorrow morning! To the last drop!
+KSENIYA	Eat something, quick.
+UNCLE ILIKO	Mishiko!
+KORKIYA	Yes, Uncle?
+UNCLE ILIKO	Mishiko, are you going to Munich?
+KORKIYA	Of course I am. Why?
+UNCLE ILIKO	My friend will be there, he'sthe Israeli wrestling coach.
+KORKIYA	Alright.
+UNCLE ILIKO	Give this to him.
+KORKIYA	But Uncle, Munich is a very large city. How will I find him?
+UNCLE ILIKO	Are you not Georgian?
+KORKIYA	Of course I am!
+UNCLE ILIKO	Two Georgians will always find each other!
+KORKIYA	Alright.
+KSENIYA	On the plane I had a dream where he was running.
+GARANZHIN	And he will run. The Sports Committee is working on it. While we're in Munich, you go to the Committee. Pick up his travel papers and anything else they give you.
+VOLNOV’S WIFE	Vladimir, this is just a dream: sun, good wine, our husbands playing in the fields.
+GARANZHIN	We'll see how well they play on the court.
+EDESHKO’S GIRLFRIEND	What time does training start tomorrow?
+GARANZHIN	I have no idea.
+VOLNOV’S WIFE	How about 10 a.m.?
+GARANZHIN	Let's go. Keep together! Don't fall back! You're doing great! Mind your breathing! Keep up the pace!
+WOMAN	Mr. Garanzhin!
+REPORTER	What's your stance on the situation in Chile and President Aliende?
+MOISEEV	No comment.
+SPORTSWOMAN	There you go.
+GARANZHIN	Thank you.
+VSEVOLOD	Oh no...
+PAULAUSKAS	Come on, Seva, smile for the camera.
+VSEVOLOD	I feel awkward, guys.
+LITHUANIAN REPORTER	Comrade Paulauskas, Soviet Lithuania is rooting for you! As the saying goes, "a blue car will be waiting at the entrance to Schlosspark". Hurray! Show them who's boss!
+VSEVOLOD	What did he say?
+PAULAUSKAS	He said you walk funny.
+KORKIYA	Guys, I'm exhausted. I'm dying.
+GARANZHIN	Enough of that. We won the quarter final, we're already heroes. Guys, you're the best. Lights out in an hour.
+REPORTER	Can you spare a minute?
+VLEVOLOD	Sergey!
+SERGEY BELOV	Not now, Seva!
+VSEVOLOD	I need to go have a word with the Hungarians.
+PAULAUSKAS	Seva should have a dose.
+SERGEY BELOV	Let's wait for him.
+PAULAUSKAS	You'll be dead before he gets back. What does it look like?
+SERGEY BELOV	It's an ampoule wrapped in plastic. Mody! What's up? What's the holdup?
+PAULAUSKAS	Our medic has quite a bag of tricks. This is really cool.
+SERGEY BELOV	Put it back.
+PAULAUSKAS	Cool, right? Let's listen to the girls...
+VSEVOLOD	That's not yours to play with. Look for your snitch elsewhere. I have my own assignment. I wasn't trying to gain your trust. I could've dropped you all in it long ago. I know who has contraband, who's bought currency. And some of you are plain suspicious.
+PAULAUSKAS	Bastard.
+VSEVOLOD	That hurts, coming from a friend. Almost a friend. Coach puts up with him. Could've sent him packing, saved himself a lot of hassle. But no. He's a saint.
+SERGEY BELOV	A saint? He needs to win - that's why he puts up with us.
+VSEVOLOD	That's not what I mean. You saw his son, right? He was saving up to get him surgery, but when Alex fell ill in the States, he spent all that money on hospital bills. Think about it, Sergey. Why would he do that?
+GARANZHIN	The Cubans are fast as hell, so don't try to outrun them.
+MOISEEV	Vladimir!
+GARANZHIN	Warm up.
+TERESHCHENKO	Attention please!
+GARANZHIN	Get warming up.
+TERESHCHENKO	One moment. You need to play smart. Play to win but save your strength to beat the Americans. Cuba is our seventeenth Soviet republic. Amigo!
+GARANZHIN	Hello, Ksenia?
+KSENIYA	Vladimir, sorry. I went to the Committee. They're not letting Shura travel. You said they would! They said something about contraband, about you, that you're a liability, that you'll lose to the Americans, and that we can apply again next year. But Shura can't wait that long! And where will we get the money?
+GARANZHIN	Ksenia...Hello?
+KSENIYA	Hello?
+CUBAN	Comrades...
+MOISEEV	What's going on? We've always beaten the Cubans.
+TERESHCHENKO	What's all this about?
+MOISEEV	Calm down, he's on it.
+PAULAUSKAS	Guys, get it together!
+MOISEEV	Vladimir, we have a problem.
+TERESHCHENKO	Eight points down, Vladimir! Are you happy with that?
+ALEXANDER BELOV	Vladimir, you ok? To Mody or to me?
+GARANZHIN	Modestas, what's the score?
+PAULAUSKAS	67:61.
+GARANZHIN	Who's won?
+PAULAUSKAS	We did. What's wrong with you?
+GARANZHIN	Good game guys, well done. Get some rest.
+KORKIYA	Vladimir, can Zurab and I go visit the Israelis, just for a minute? Thanks.
+VSEVOLOD	Alex Belov! I need to check your blood pressure.
+GARANZHIN	Modestas, you're under surveillance. If you come back a champion, you'll be fine. If not, they'll never let you out again. I don't know what our chances are. You guys are good, but so are the Americans. So if you were planning something, now is the time.
+PAULAUSKAS	Thanks, but... This game means so much to you. You've put us through hell for it, and yourself too. And now you're saying this. Why?
+GARANZHIN	What's most important in your life?
+PAULAUSKAS	My home, Lithuania.
+GARANZHIN	Imagine there's no more Lithuania. Does this game matter anymore?
+PAULAUSKAS	I get it. Goodbye.
+GARANZHIN	Good luck.
+ALEXANDER BELOV	So you'll be playing against us.
+PAULAUSKAS	Don't give me the sob story about the Motherland. My Motherland is Lithuania, not your bloody...
+ALEXANDER BELOV	My Motherland isn't "your bloody" either. It's my mom, my dad, the village where I grew up, basketball, the club, and my comrades.
+PAULAUSKAS	Your comrades? You never even speak to anyone. Some comrades you have.
+ALEXANDER BELOV	They're the best. It's me that's not so great. Look, I understand. We've all had the same thought. There's more money there, and... the ball bounces better. And they'd fix my kneesin less than a week...But I won't abandon my friends.
+PAULAUSKAS	Since when have they been your friends?
+ALEXANDER BELOV	Since long ago. But I only realized now.
+SAKANDELIDZE	Only a Georgian would think to bring chacha from Kazbegi to Munich!
+KORKIYA	You know Uncle Iliko. What was I to do?
+SAKANDELIDZE	How will we recognize the guy?
+KORKIYA	How can we not recognize a Georgian? How do you recognize me, eh?
+SAKANDELIDZE	You and I met ages ago.
+KORKIYA	So we just have to meet him.
+SAKANDELIDZE	Fine. Wait for me.
+KORKIYA	Hello, Miss.
+SAKANDELIDZE	Hi.
+KORKIYA	We're looking for the Israeli team coach.
+SAKANDELIDZE	He's Georgian.
+KORKIYA	We have to give him this.
+MOISEEV	Vladimir! Palestinian terrorists have attacked the Israelis right in their quarters. They've taken hostages. We meet in the hall, I've told everyone. I'm off to get Gennady.
+GARANZHIN	Korkiya... Zurab! Zurab! Mishiko! Wait a minute! Zurab!
+TERESHCHENKO	Is everyone here?
+MOISEEV	Except Korkiya and Sakandelidze.
+TERESHCHENKO	Where's Paulauskas? You let him get away. Does he think the Soviet team is his private property? The team is the face of the nation!
+MOISEEV	The team is still here, and it's strong as ever.
+TERESHCHENKO	Why are you standing up for him again? He'll take us down with him!
+LITHUANIAN DRIVER	No contact with journalists until you get your asylum. In fact, no contact with anyone. Trust nobody.
+TERESHCHENKO	Don't you get it? This isn't sport, this is war! And we're the front line! And what's your plan to survive the final? You don't have one!
+MOISEEV	Maybe we should pull out?
+TERESHCHENKO	Are you serious? We can say it's a provocation, that we uphold the Olympic values, and we refuse to play under these circumstances, right? America won't win, and the USSR won't lose. Grigory, you're a genius. I'll go call Moscow. Grigory, you get ready for the...
+MOISEEV	Press conference.
+TERESHCHENKO	Yes. And Vladimir, I assure you that your problems are just beginning. That's a promise.
+GARANZHIN	So that's it? All this was for nothing?
+MOISEEV	Exactly the opposite - it wasn't for nothing! The next Olympics are in four years. You're still the coach, nobody will change that. You bring us gold medals. We have four years to get Shura on his feet, and... and everything will be just fine. The whole American thing will be dealt with, and we'll get back to work, calm and collected. This year with you has been like sitting on a powder keg! You want to know the truth? I tipped off customs that time. After Essen, when you said you'd beat the Americans. I thought you'd lost it. And you'd take me down with you. It was me who made you coach. We'd lose to the Yanks, and then what? I'd get kicked out of the Part and the Federation. You'd go back to your old Spartak, but where would I go? Where? And you'd be, you know, better off, because... you know. After all, we wanted to... you know? Can you forgive me?
+GARANZHIN	Sure. You got scared, happens to everyone. But for taking this game away from us...
+MOISEEV	You'd have lost!
+GARANZHIN	Yes, maybe we would have lost, but this game was our life... and you took our life and... Snitching is one thing, but you stole basketball from me and the boys. And it's all we had. That, Grigory, makes you a bastard.
+MOISEEV	Wait, let me...
+GARANZHIN	You tell the guys yourself.
+MOISEEV	The statement will be on behalf of the Basketball Federation. We're leaving the Olympic Village in protest.
+DOCTOR	The terrorists have been given a bus, two helicopters to the airport, and a plane to Cairo.
+KORKIYA	Let us through, please! We have to get inside! We're athletes, this is our building!
+SAKANDELIDZE	Miss, tell them we're not Palestinians! Guys! Guys!
+EDESHKO	Is that Korkiya's voice?
+SAKANDELIDZE	What's the fuss about?
+KORKIYA	Did you think we'd be sitting inside?
+SAKANDELIDZE	We went out on the town. Had a good look around.
+KORKIYA	Came back...
+SAKANDELIDZE	In the morning we tried to get back and they wouldn't let us in!
+ALEXANDER BELOV	Here?
+KORKIYA	Yes.
+ALEXANDER BELOV	We were worried sick!
+PAULAUSKAS	Stop the car here.
+DRIVER	That's the Olympic Village.You miss it already?
+PAULAUSKAS	I'm not going.
+LITHUANIAN TOURIST	What are you talking about? Everything's been arranged!
+PAULAUSKAS	Thanks for everything, brother, but no.
+DRIVER	Our dear Mody has a case of nerves, that's all.
+PAULAUSKAS	Stop! You didn't abandon me. And I won't abandon my friends. I'm sorry. I've come this far, but I can't go any further. I have to go back. Bye, guys.
+LITHUANIAN TOURIST	Since when have they been your friends?
+PAULAUSKAS	Since long ago. But I only realized now.
+BRUNDAGE’S VOICE	We mourn... Despite what happened, the Games will go on. Every delegation has the right to withdraw from the Games. All the hostages perished.
+MEDIC	Every delegation decides for itself...
+MOISEEV	Is everyone here? It would be ethically wrong to play in this situation. At today's press conference we'll make an official statement. You can start packing.
+PAULAUSKAS	Is this what I came back for? To become a nobody?
+SERGEY BELOV	Guys, I think I've figured everything out. Alex, it wasn't the Federation that paid for your heart treatment. You all know Garanzhin's son is sick. He's been saving up for his surgery. All of it went on Alex's therapy. Mody, they wanted you out. Garanzhin stood up for you. He said you're his team. Alzhan, how many fingers?
+ZHARMUKHAMEDOV	Two.
+SERGEY BELOV	Garanzhin's contact lenses, right? Mishiko...
+KORKIYA	I know, brother.
+SERGEY BELOV	Nobody but our coach believed we could win.
+ALEXANDER BELOV	Not even us.
+SERGEY BELOV	Not even us! He dragged us here! We don't have to play. Nothing bad will happen. Moiseyev wants us to pull out. That's what the Federation wants. For the team Garanzhin invested so much into - not to lose. But who does that make us?
+ALEXANDER BELOV	We have to find Moiseyev.
+TERESHCHENKO	So, I'll say a few words about the incident, express our condolences, and then I hand over to Moiseyev for an official statement. You sit and nod your head. Got it?
+GARANZHIN	Got it.
+TERESHCHENKO	Where's Moiseyev?
+INTERPRETER	You may start now.
+TERESHCHENKO	Thank you. This is undeniably an act of provocation against the Soviet Union. Quiet down! And the Soviet Union does not tolerate such insults. Therefore...
+MOISEEV	Hello. Sorry I'm late.
+TERESHCHENKO	Where the hell were you? Therefore, we have concluded that the only correct course of action is...
+MOISEEV	To play. The Games must go on. Sport rises above all conflict, be it cold war or terrorism. This is the Soviet national team's official statement. Oh, and all our players are fine and well. Thank you. They're all with you, even Korkiya, Paulauskas and Sakandelidze.
+TERESHCHENKO	Are you insane?
+MOISEEV	I can go work for the army. The salary is enough to get by on.
+REPORTER	Grigory what's behind your decision?
+ADMINISTRATOR	Vladimir, you have a call from Moscow.
+GARANZHIN	Hello?
+SHURA	Dad, can you hear me?
+GARANZHIN	Shura? Yes, I can hear you, son. I'm sorry, son.
+SHURA	Sorry? Just make sure you win.
+GARANZHIN	I'll try very hard.
+SHURA	What do you mean, "try"? I bet three rubles on you winning. I'd have bet more, but that's all I had.
+GARANZHIN	I hear you, kiddo. We'll get your three rubles back. Thank you, son.
+ANNOUNCER	Greetings, sports fans, we're with you from Munich for the 1972 Olympic Men's Basketball Final. No one has ever beaten the US team, but we're all rooting for Vladimir Garanzhin's team anyway. Let's see who's on the starting lineup.
+SERGEY PAVLOVICH	I thought I could finally relax at home, and now this.
+ANNOUNCER	Hank Iba, the US team's head coach. They call him The Iron Duke of Defense, because that's how his team plays. This is Iba's third time at the Olympics. Both previous times his team won gold.
+LITHUANIAN TOURIST	He's ruining his life for the sake of one game.
+TERESHCHENKO	Give me the lineup. Look over there. Are you happy now? Had your fifteen minutes of fame? What do they feed them?
+GARANZHIN	The starting lineup...
+PAULAUSKAS	They're going straight for the throat. Four black guys, one white.
+TERESHCHENKO	Vladimir, pull yourself together.
+GARANZHIN	First up are Zurab, Mishiko, both Belovs and Alzhan. We're playing a fast game. Got it? Get ready. Alex, Alzhan, you're under the hoop. Zurab, Mishiko, run like the wind. Break them down. If you have doubts give the ball to Sergey. He'll know what to do with it. Let's do this.
+PLAYERS	Hurray!
+SERGEY BELOV	Cheer up, you're our secret weapon.
+PAULAUSKAS	Sergey, get going.
+GARANZHIN	Here we go.
+PAULAUSKAS	I came all this way to sit on a bench.
+LITHUANIAN TOURIST	Modestas isn't on the court.
+LITHUANIAN DRIVER	They'll jail him when he gets back.
+REFEREE	Pass!
+GARANZHIN	Now that looks more like basketball.
+ANNOUNCER	Zurab Sakandelidze gets a foul. The shot doesn't count.
+AKSAKAL	What do you mean it doesn't count?!
+KORKIYA	Nice one, Zurab!
+SAKANDELIDZE	Sorry, Mishiko!
+KORKIYA	Hell, we're just getting started!
+GARANZHIN	Zurab, pass earlier on your first step! Foul!
+ANNOUNCER	Alex Belov gets two free throws...
+SERGEY PAVLOVICH	Go, go, go...
+ANNOUNCER	And he opens the score! Korkiya intercepts and passes the ball to Sakandelidze...Score!
+GARANZHIN	That's more like it.
+SPECTATORS	USSR! USSR!
+GRANDFATHER	Would you just look at that?
+BASKETBALL PLAYER	Pass, pass!
+GRANDFATHER	Tamara, bring more wine!
+TERESHCHENKO	Look at them go.
+GARANZHIN	Run, guys, run!
+ANNOUNCER	Vladimir Garanzhin got his starting lineup just right. Our Georgian players took the Americans by surprise.
+GARANZHIN	Mishiko! Keep on your mark!
+ANNOUNCER	Alzhan Zharmukhamedov, from SKA Tashkent, gets a foul.
+GARANZHIN	Alzhan, keep it down!
+ANNOUNCER	The Americans have woken up and upped their pace. Sakandelidze is virtually cut off. The Georgian duo are under pressure.
+GARANZHIN	Pass to Sergey! Sergey, up the court! Sergey, number five is yours!
+SERGEY PAVLOVICH	Can't you see Alzhan on your left? Galya!
+GALYA	Yes, sir?
+SERGEY PAVLOVICH	Bring us some stiff drinks!
+ANNOUNCER	Sergey Belov is ripping the US team to shreds!
+SAKANDELIDZE	Hey, what are you doing?!
+MOISEEV	What the hell?
+GARANZHIN	He knows what he's doing. Ivan, you're on after the next throw-in.
+EDESHKO	Who am I subbing?
+GARANZHIN	Sergey.
+MOISEEV	Who's going to score then? On your right!
+YERYOMINA	There's clearly some tension in the American team.
+GARANZHIN	Sergey, well done! Get your breath back, on the bench.
+SERGEY BELOV	Why?
+GARANZHIN	Breathe, guys, breathe. Boys... You're ten points over the US team in the Olympic final. This is history, remember this moment. Don't take any risky shots. Keep your defense tight because they're going to stampede. Alex?
+ALEXANDER BELOV	I'm fine.
+GARANZHIN	Alex!
+ALEXANDER BELOV	I'm fine!
+MOISEEV	That's brutal.
+YERYOMINA	This is not basketball anymore. It seems the Americans have no other way to stop our team from winning.
+MEDIC	You took a bad one.
+EDESHKO	I'm ok.
+MEDIC	Breathe slowly. Take it easy.
+EDESHKO	I'm fine.
+MEDIC	He's fine.
+MALE VOICE	Get back!
+SERGEY BELOV	Why the hell did he put me on the bench?
+BASKETBALL PLAYER	Over here!
+GARANZHIN	Sergey, sub Mishiko!
+YERYOMINA	Both teams are substituting, Sergey Belov is in for Mishiko Korkiya. On the American team Mike Bantom is in for Jim Brewer.
+BASKETBALL PLAYER	Take your time, keep the ball. I'm on the right.
+YERYOMINA	The ten point lead is restored, Sergey Belov is master of the court!
+SERGEY BELOV	Damn right.
+GARANZHIN	Both Belovs, on the bench! Start warming up. Keep them busy! Hold them back! Easy, guys. Relax, relax.
+YERYOMINA	The Soviet team's lead is down to seven points.
+GARANZHIN	Beautiful.
+YERYOMINA	Five points. Three points. Only three points with one minute to half-time.
+GARANZHIN	Are we going to play or not?
+YERYOMINA	If the Americans manage to reduce the gap further or draw equal, they'll have the psychological advantage in the second half.
+GARANZHIN	Both Belovs, you're up. Keep stretching.
+YERYOMINA	Alexander Belov! 26:21 at half-time, the Soviet team is in the lead.
+MEDIC	Alex can't go on.
+GARANZHIN	You tell him that.
+GARANZHIN	Don't be scared of them. They're made of the same stuff as you are. Here's the lineup... Paulauskas. Edeshko. Sakandelidze. Alex, you get to rest a bit.
+ALEXANDER BELOV	I'm fine.
+GARANZHIN	Boloshev will cover for you. Spread your wings, my little ostriches! And fly!
+YERYOMINA	The Americans are playing a hard and dirty game of basketball.
+GARANZHIN	Pass to Sergey!
+LITHUANIAN TOURIST	They can't do without Modestas.
+DRIVER	Maybe they won't jail him after all.
+LITHUANIAN TOURIST	Bravo, Modestas!
+MOISEEV	Why did you make the spy sit out the whole first half?
+GARANZHIN	What was that?
+YERYOMINA	What's going on here? How can that be allowed? Where are the referees looking?
+MOISEEV	Are we playing rugby here?
+EDESHKO	Alzhan, you ok?
+YERYOMINA	This is outrageous! When are the referees going to take notice?
+MEDIC	Hold it there.
+GARANZHIN	Nice one! Boloshev, play it safe! Showoffs! Grigory!
+MOISEEV	What can I do?
+MEDIC	Curl your toes in. Do it! Now stretch them out. Anesthetic, bandage and you're good to go.
+KORKIYA	Brother, why are we putting up with this?
+GARANZHIN	Easy now. Mishiko, you're up.
+SERGEY BELOV	Nothing we can do, it wasn't a foul.
+AUNT KORKIYA	Mishiko, son, don't do it...
+KORKIYA	If it wasn't the final I'd knock your teeth into next week. Sorry, I couldn't help it.
+GARANZHIN	I'd have done the same.
+MOISEEV	You took their best center out, nice one.
+GARANZHIN	Looks like Alex got angry. Alex! Read the rules. Yes! Sergey you're the man! Grigory, you're about to see what American basketball is all about. We just have to grin and bear it.
+YERYOMINA	The American fans are serenading their team.
+GARANZHIN	Zurab, in for Sergey Belov! Go!
+YERYOMINA	The Americans aren't giving in. Our lead is fading away. Substitutes left, right and center.
+EDESHKO	Alzhan!
+GARANZHIN	Boloshev, sub Alzhan. What's the matter?
+ZHARMUKHAMEDOV	I lost a contact lens.
+GARANZHIN	Why didn't you say right away?
+ZHARMUKHAMEDOV	I didn't have time.
+GARANZHIN	What are you playing at? Time-out.
+YERYOMINA	There are three minutes remaining.
+GARANZHIN	Alex, you're on! Alzhan, Mody, you're on! Boloshev, Belov, Volnov, on the bench.
+TERESHCHENKO	He can't keep substituting like that!
+MEDIC	That's how he won the first half.
+TERESHCHENKO	Never mind.
+GARANZHIN	Don't panic, don't rush. No stupid fouls, we can't afford them. Got that? Let's go!
+TERESHCHENKO	What do I do with this?
+MEDIC	Suck it.
+YERYOMINA	Both teams are now under intense pressure. Modestas Paulauskas!
+DRIVER	Now they'll make him a Party member.
+YERYOMINA	Hank Iba is replacing Ed Ratleff with Doug Collins. He's a serious threat for our team.
+FANS	Don't let him through! Keep him back!
+YERYOMINA	Mike Bantom gets a foul. Sergey Belov!
+GARANZHIN	Get ready! Stay focused!
+YERYOMINA	Sergey Belov almost never misses from the free-throw line. We need his marksmanship now more than ever!
+HEAD OF SPORTS COMMITTEE	Just do what you always do.
+GARANZHIN	That's ok, that's ok!
+PAULAUSKAS	Get it together.
+GARANZHIN	That's it! Keep it up!
+YERYOMINA	Fifty one seconds of play left. There's time for two possessions. The Soviet team is three points ahead. The lead is down to one point. We have possession. We need to keep hold of the ball as long as possible.
+HEAD OF SPORTS COMMITTEE	Hold it, hold it, hold it.
+YERYOMINA	Time is on our side, with 15 seconds to the end of the game. We have the ball again, with six seconds left!
+PAULAUSKAS	Over here!
+NOT IDENTIFIED	Alex!
+YERYOMINA	Alex Belov makes an unfortunate mistake three seconds from full-time. Zurab Sakandelidze gets a foul.
+ALEXANDER BELOV	I'm sorry, guys.
+YERYOMINA	Is Collins able to play on? Yes he is. That deserves respect. Doug Collins is on the free-throw line. His first throw hits its mark. The American team draws even for the first time in the game.
+GARANZHIN	Time-out. Time-out, Grigory! Where's my time-out?! What are you doing?
+MOISEEV	We asked for a time-out! Look, there it is!
+GARANZHIN	Why?
+YERYOMINA	The United States team has won the match.
+GARANZHIN	I requested a time-out!
+MOISEEV	Get out of here! Why didn't the Soviet national team get its time-out? There was a request! Time-out!
+GARANZHIN	Guys, over here. Guys. Ivan, sub Alzhan. Alzhan, you rest. Sergey... Boys, three seconds is lots of time. Enough to win, lose and win again. Mody, sprint down the left side. Ivan, look at Sergey, pass to Mody. Mody, pass to Alex at the hoop. That's it. Go! You can do it!
+YERYOMINA	Three seconds... to the end of the game.
+HEAD OF SPORTS COMMITTEE	Everyone makes mistakes. Garanzhin does, we do.
+MOISEEV	I demand that the clock be reset and the final three seconds replayed! Why wasn't the clock showing three seconds? The clock showed one second! The buzzer went right after the throw-in! And right now, look! The clock is showing 50 seconds! I want to finish the game according to the rules!
+TERESHCHENKO	I suggested not playing, because of the attack.
+HEAD OF SPORTS COMMITTEE	So why did they play?
+TERESHCHENKO	It was all Moiseyev and Garanzhin's idea! Hello? The arguing continues at the scorers' table.
+MOISEEV	And you sounded the buzzer while the ball was in the air.
+YERYOMINA	No, it's not over yet. It seems that the match isn't over.
+MOISEEV	Vladimir! You have three seconds!
+YERYOMINA	Three seconds to the end of the game. The clock was wrong. There are three seconds of play left. It's too early for the Americans to celebrate...
+GARANZHIN	Alex, Ivan, over here!
+YERYOMINA	...celebrate victory. The game continues. Three more seconds of play. The referees are asking the players to return to the court.
+GARANZHIN	Alex, you go for the ball and fly under the hoop. Ivan, you watch Alex. It doesn't matter how much time we have left. You got that, Alex? Got that?
+ALEXANDER BELOV	Got it.
+GARANZHIN	Go, let's do it.
+ALEXANDER BELOV	I got it now. While we're alive, we can do anything.
+SERGEY BELOV	Guys, it's been a pleasure being with you on the team. Honest.
+YERYOMINA	Only three seconds…
+EDESHKO	Ivan, watch the court.
+YERYOMINA	...left in the game.
+SERGEY BELOV	This is the best game of my life. Thank you.
+YERYOMINA	The clock has been reset. Everyone is out of their seats. 49:50, with the US team leading the score.
+EDESHKO	Ivan, watch the court.
+YERYOMINA	Ivan Edeshko will throw the ball into play. And the Soviet team scores! Victory! We are the champions! We are the Olympic champions!
+FANS	Gennady, we won! We beat the Americans! We're heroes!
+WOMAN	Thank you, thank you! You're a hero! Hurray! Hurray!
+EDESHKO	Vladimir, hurray!
+ANATOLIY	I'm sorry, I was wrong about Garanzhin...
+HEAD OF SPORTS COMMITTEE	We'll fix everything tomorrow.
+PAULAUSKAS	Get lost, all of you!
+MOISEEV	Boys! Your bonuses. I hope you won't be disappointed. This time it's more than what Lithuanian taxi  drivers earn.
+ALEXANDER BELOV	But we were playing for our country, not the money.
+SERGEY BELOV	This is for Shura's surgery.
+GARANZHIN	Guys, why?
+YEREMINA	with the US team leading the score. Ivan Edeshko will throw the ball into play. Three seconds. Pass to Alexander Belov... And the Soviet team scores! Victory!
+
+
+

@@ -9,6 +9,26 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+dist2/
+dist_4/
+distribute/
+nuitka_dist/
+nuitka_dist2/
+nuitka_dist3/
+nuitka_dist4/
+
+nuitka_dist5/
+
+nuitka_dist51/
+
+nuitka_dist52/
+nuitka_dist53/
+nuitka_dist53_x64/
+nuitka_dist54/
+scripti.dist/
+tmp/ 
+scripti_simple.dist/
+scripti_simple copy.app/
 develop-eggs/
 dist/
 downloads/
@@ -153,3 +173,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+BaseSystem.chunklist
+BaseSystem.dmg

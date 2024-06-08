@@ -375,7 +375,7 @@ def convert_csv_to_xlsx(csv_file_path, xlsx_file_path, script_name,encoding_used
 
     header_rows = pd.DataFrame([
         [None, 'Header 1', None, 'Header Information Across Columns'],  # Merge cells will be across 1 & 4
-        ['Role', 'Line count', 'Characters', 'Blocks']
+        ['Role', 'Prises de parole', 'Caractères', 'Lignes']
     ])
     #print("convert_csv_to_xlsx > 1")
     
@@ -491,7 +491,7 @@ def read_docx(file_path):
     return doc
 def is_supported_extension(ext):
     ext=ext.lower()
-    return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf" or ext==".pdf"
+    return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf" or ext==".pdf" or ext==".xlsx"
 
 
 
@@ -591,6 +591,8 @@ def filter_speech(input):
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
     s=s.replace("â€¦ ",".")
+    if s.startswith("- "):
+        s=s.lstrip("- ")
     return s
 
 def filter_speech_keepbrackets(input):
@@ -788,10 +790,108 @@ def convert_docx_plain_text(file,doc):
             # Write the text of each paragraph to the file followed by a newline
             file.write(para.text + '\n')
 
+def extract_speakersNO(conversation, character_list):
+    # Helper function to validate if a name is in the character list
+    def is_valid_character(name):
+        return name in character_list
+
+    # Split the string by " TO " and process parts
+    parts = conversation.split(" TO ")
+    names = []
+    seen = set()
+    
+    i = 0
+    while i < len(parts) - 1:
+        speaker = parts[i]
+        listener = parts[i + 1]
+        
+        # Add speaker if it's a valid character and not already seen
+        if is_valid_character(speaker) and speaker not in seen:
+            names.append(speaker)
+            seen.add(speaker)
+        
+        # Add listener if it's a valid character and not already seen
+        if is_valid_character(listener) and listener not in seen:
+            names.append(listener)
+            seen.add(listener)
+        
+        i += 2
+    
+    # Handle the case where conversation does not end in a proper " TO " sequence
+    if len(parts) % 2 == 1:
+        last_part = parts[-1]
+        if is_valid_character(last_part) and last_part not in seen:
+            names.append(last_part)
+    
+    # Handle case where there's only one speaker or no valid conversations
+    if not names and parts:
+        if is_valid_character(parts[0]):
+            return [parts[0]]
+    
+    return names
+def normalize_spaces(text):
+    return re.sub(r'\s+', ' ', text).strip()
+def extract_speakers(conversation,character_list):
+    # Split the string by " TO "
+    parts = conversation.split(" TO ")
+    nb_counts=conversation.count(" TO ")
+    if nb_counts==0:
+        return conversation
+    if nb_counts==1:
+        return [parts[0]]
+    # Check if there are exactly two parts
+    if nb_counts == 2:
+        # If there is a reciprocal conversation, both parts should have the same speaker at the end
+        first_speaker=parts[0]
+        last_dest=parts[2]
+        mid=parts[1]
+        mid=normalize_spaces(mid)
+        myprint1("case first= "+str(first_speaker)+" mid="+str(mid)+" last "+str(last_dest) )
+
+        nb_words=mid.count(" ")
+        midspl=mid.split(" ")
+        myprint1("case mid= "+str(midspl) )
+        if len(midspl)==2:
+            second_speaker=midspl[1]
+            return [first_speaker,second_speaker]
+        else:
+            myprint1("error splitting characters within "+str(conversation) )
+    else:
+        # For more complex conversations, extract unique names
+        seen = set()
+        names = []
+        for name in parts:
+            if name not in seen:
+                names.append(name)
+                seen.add(name)
+        return names
+    
+    
+def extract_speakers1(conversation):
+    # Split the string by " TO "
+    parts = conversation.split(" TO ")
+
+    # Extract names while preserving order
+    seen = set()
+    names = []
+    for name in parts:
+        if name not in seen:
+            names.append(name)
+            seen.add(name)
+    
+    # If there is only one unique name, return just that name
+    if len(names) == 1:
+        return names[0]
+    
+    # Otherwise, return the list of unique names
+    return names
+
 def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol):
     print("Conversion mode       : CHARACTERID_AND_DIALOGUE")
     # Iterate through each row in the table
     current_character=""
+    is_song_sung_by_character=False
+    character_list=set()
     for row in table.rows[1:]:
         cell_texts = [cell.text for cell in row.cells]
             # Join all cell text into a single string
@@ -801,27 +901,73 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
         dialogue=row.cells[dialogueCol].text.strip()
         character=row.cells[characterIdCol].text.strip()
 
+        mode="LINEAR"
         dialogue=dialogue.replace("\n","")
-        print("----------")
-        print("row"+row_text)
-        print("dialogue"+dialogue)
-        print("character"+character)
-        if "(O.S)" in character:
-            character=character.replace("(O.S)","")
-        if "(O.S.)" in character:
-            character=character.replace("(O.S.)","")
+        myprint1("----------")
+        myprint1("row"+row_text)
+        myprint1("dialogue"+dialogue)
+        myprint1("character"+character)
+        character=filter_character_name(character)
+        if not character in character_list:
+            character_list.add(character)
+        myprint1("character filtered"+character)
+        ##if "(O.S)" in character:
+          #  character=character.replace("(O.S)","")
+        #if "(O.S.)" in character:
+         #   character=character.replace("(O.S.)","")
 
-        if len(character)>0:
-            current_character=character
-        if len(dialogue)>0:  
-            is_didascalie=dialogue.startswith("(")
-            if not is_didascalie: 
-                dialogue=filter_text(dialogue)             
-                if current_character=="":
-                    current_character="__VOICEOVER"
-                s=current_character+"\t"+dialogue+"\n"  # New line after each row
+        myprint1("extract speakers for"+character)
+        speakers=extract_speakers(character,character_list)
+
+        #spl=character.split("\n")
+        myprint1("speakers="+str(speakers))
+        nb_lines= len(speakers)
+        myprint1("Mode "+mode)
+        if nb_lines>1:
+            mode="SPLIT"
+
+        
+
+        if mode=="LINEAR" :   
+        
+            if len(character)>0:
+                current_character=character
+            if len(dialogue)>0:  
+                is_didascalie=dialogue.startswith("(")
+                is_song=dialogue.startswith("♪") 
+                is_song_sung_by_character=is_song and len(character)>0 #song starts but has character name on it
+                if is_song:
+                    dialogue=filter_text(dialogue)             
+                    force_current_character="__SONG"
+                    if is_song_sung_by_character:
+                         force_current_character=current_character
+                    s=force_current_character+"\t"+dialogue+"\n"  # New line after each row
+                    myprint1("Add "+ force_current_character + " "+ dialogue)
+                    file.write(s)
+                else:
+                    is_song_sung_by_character=False
+                if not is_didascalie and not is_song: 
+                    dialogue=filter_text(dialogue)             
+                    if current_character=="":
+                        current_character="__VOICEOVER"
+                    s=current_character+"\t"+dialogue+"\n"  # New line after each row
+                    myprint1("Add "+ current_character + " "+ dialogue)
+                    file.write(s)
+        elif mode=="SPLIT":
+            myprint1("MODE SPLIT")
+            dialogue=filter_text(dialogue)    
+            myprint1("characters"+str(speakers))
+            dialoguespl=dialogue.split("- ")
+            filtered_array = [element for element in dialoguespl if element]
+            myprint1("dialogue"+str(filtered_array))
+            for index,k in enumerate(speakers):
+                myprint1("index"+str(index)+" k="+str(k))
+
+                current_character=k
+                speech=filtered_array[index]
+                s=current_character+"\t"+speech+"\n"  # New line after each row
                 print("Add "+ current_character + " "+ dialogue)
-                file.write(s)
+                file.write(s)    
 
 
 def convert_doc_to_docx(doc_path,currentOutputFolder):
@@ -1080,6 +1226,66 @@ def test_word_header(file,table,header,forceMode="",forceCols={}):
                 print("Tables but no ")
                 return False
 
+def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
+    print("convert_xlsx_to_txt")
+    print("currentOutputFolder             :"+absCurrentOutputFolder)
+    print("Input             :"+file_path)
+    df = pd.read_excel(file_path)
+    # Load the Excel file
+    
+    # Extract the columns "Character" and "English"
+    character_column = df["Character"]
+    english_column = df["English"]
+    
+    # Prepare the text file content
+    lines = []
+    for char, eng in zip(character_column, english_column):
+        if pd.notna(char) and pd.notna(eng):
+            eng=eng.replace("\n"," ")
+            print("Add line"+str(eng))
+#            if False:
+ #           nblines=eng.count("\n")
+
+  #          if nblines==1:
+            print("Add line linear")
+            if eng.startswith("- "):
+                    eng=eng.lstrip("- ")
+
+            if eng.count("- ")>0:
+                spl=eng.split("- ")
+                chars=char.split("-")
+                if len(spl) == len(chars):
+                    for index,k in enumerate(spl):
+                        lines.append(f"{chars[index].upper()}\t{k}")        
+                else:
+                    lines.append(f"{char.upper()}\t{eng}")                            
+            elif eng.count("-")>0:
+                spl=eng.split("-")
+                chars=char.split("-")
+                if len(spl) == len(chars):
+                    for index,k in enumerate(spl):
+                        lines.append(f"{chars[index].upper()}\t{k}")        
+                else:
+                    lines.append(f"{char.upper()}\t{eng}")                            
+
+
+            else:      
+                lines.append(f"{char.upper()}\t{eng}")
+   #         else:
+    #            print("Add line split")
+     #           spl=eng.split("\n")
+      #          for k in spl:
+       #             lines.append(f"{char.upper()}\t{k}")
+
+
+    converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".xlsx",".converted.txt"))
+
+    # Write to a text file
+    with open(converted_file_path, 'w') as f:
+        for line in lines:
+            f.write(line + '\n')
+    print("Done")
+    return converted_file_path
 
 def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
     print("convert_docx_to_txt")
@@ -1297,6 +1503,21 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
             return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
+
+
+
+    if extension.lower()==".xlsx":
+
+        converted_file_path=convert_xlsx_to_txt(script_path,forceMode=forceMode,forceCols=forceCols)
+        if len(converted_file_path)==0:
+            print("  > Conversion failed 1")
+            return None,None,None,None,None,None
+        return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
+
+
+
+
+
     if extension.lower()==".pdf":
         converted_file_path,encoding=convert_pdf_to_txt(script_path)
         print("process 1")
@@ -1469,7 +1690,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
 
 
 
-    csv_file_path =output_path+script_name+"-recap-detailed.csv"
+    csv_file_path =output_path+script_name+"-comptage-detail.csv"
     data = [
     ]
     for key in character_order_map:
@@ -1492,7 +1713,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     #    s=s+str(character_order_map[key])+" - "+str(key)+","+str(character_linecount_map[key])+","+str((character_textlength_map[key]))+","+str(math.ceil(character_textlength_map[key]/40))+"\n"
     #save_string_to_file(s, output_path+script_name+"-recap.csv")
     print("  > Convert to xslx.")
-    convert_csv_to_xlsx(output_path+script_name+"-recap-detailed.csv",output_path+script_name+"-recap-detailed.xlsx", script_name,encoding_used)
+    convert_csv_to_xlsx(output_path+script_name+"-comptage-detail.csv",output_path+script_name+"-comptage-detail.xlsx", script_name,encoding_used)
     print("  > Parsing done.")
     return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 

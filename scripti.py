@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel
-from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
+from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
 import pandas as pd
 import chardet
 import tkinter.font as tkFont
@@ -71,6 +71,7 @@ currentMergePopupTable=None
 currentMergedCharacters={}
 currentMergedCharactersTo={}
 currentMergePopupWindow=None
+currentBlockSize=50
 def myprint2(s):
     logging.debug(s)
     print(s)
@@ -101,6 +102,7 @@ if not os.path.exists(outputFolder):
 
 
 def compute_length_by_method(line,method):
+    global currentBlockSize
     res=0
     if method=="ALL":
         res=len(line)
@@ -117,7 +119,7 @@ def compute_length_by_method(line,method):
     elif method=="WORD_COUNT":
         res= len(line.split(" "))
     elif method=="BLOCKS_50":
-        res= len(line)/50
+        res= len(line)/currentBlockSize
     elif method=="BLOCKS_40":
         res= len(line)/40
     else:
@@ -283,6 +285,7 @@ def runJob(file_path,method):
                 if not os.path.exists(currentOutputFolder):
                     os.mkdir(currentOutputFolder)
                 extension=extension.lower()
+
                 if extension==".docx" or extension==".doc":
                     myprint3("Conversion Word to txt")
 
@@ -300,6 +303,21 @@ def runJob(file_path,method):
                     converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
                     if len(converted_file_path)==0:
                         myprint3("Conversion docx to txt failed")
+                        myprint3("Failed")
+                        hide_loading()
+                        return 
+                    file_path=converted_file_path
+                    myprint3("Conversion file path :"+file_path)
+                if extension==".xlsx":
+                    myprint3("Conversion Excel to txt")
+
+                    forceMode=""
+                    forceCols={}
+                    
+                        
+                    converted_file_path=convert_xlsx_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
+                    if len(converted_file_path)==0:
+                        myprint3("Conversion xlsx to txt failed")
                         myprint3("Failed")
                         hide_loading()
                         return 
@@ -378,11 +396,19 @@ def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,s
     fill_character_stats_table(character_order_map,breakdown,enc)
     fill_stats_table(breakdown)
     fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
-    save_dialog_csv(breakdown,enc)
-    
-def save_dialog_csv(breakdown,enc):
+    save_dialog_csv(breakdown,enc,"")
+    for char in character_order_map:
+        save_dialog_csv(breakdown,enc,char)
+            
+def save_dialog_csv(breakdown,enc,char):
     global currentDialogPath
+    haschar=len(char)>0
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-dialog.csv"
+    if haschar:
+        if not os.path.exists(currentOutputFolder+"/dialogs/"):
+            os.mkdir(currentOutputFolder+"/dialogs/")
+        totalcsvpath=currentOutputFolder+"/dialogs/"+currentScriptFilename+"-dialog-"+char+".csv"
+
     currentDialogPath=totalcsvpath
     
     data=[]
@@ -393,15 +419,15 @@ def save_dialog_csv(breakdown,enc):
             speech=item['speech']
             character=item['character']
             character_raw=item['character_raw']
-            
-            filtered_speech=filter_speech(speech)
-            datarow=[str(line_idx),character,filtered_speech];
-            for m in countingMethods: 
-                        #myprint4("add"+str(m))
-                        le=compute_length_by_method(filtered_speech,m)
-                        datarow.append(le)
-                
-            data.append(datarow)
+            if not haschar or (haschar and character==char):
+                filtered_speech=filter_speech(speech)
+                datarow=[str(line_idx),character,filtered_speech];
+                for m in countingMethods: 
+                            #myprint4("add"+str(m))
+                            le=compute_length_by_method(filtered_speech,m)
+                            datarow.append(le)
+                    
+                data.append(datarow)
     else:
         myprint3("save_dialog_csv skip"+character)
     
@@ -495,6 +521,7 @@ def reduce_width():
 
 
 def stats_per_character(breakdown,character_name):
+    global currentBlockSize
     line_count=0
     word_count=0
     character_count=0
@@ -510,10 +537,11 @@ def stats_per_character(breakdown,character_name):
                 word_count=word_count+len(t.split(" "))
     #myprint3(character_name,character_count)
             
-    replica_count=math.ceil(character_count/50)
+    replica_count=math.ceil(character_count/currentBlockSize)
     return line_count,word_count,character_count,replica_count
 
 def fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map):
+    global currentBlockSize
     order_idx=0
     for item in character_order_map:
         lines=character_linecount_map[item]
@@ -523,15 +551,14 @@ def fill_character_table(character_order_map, breakdown,character_linecount_map,
         status="VISIBLE"
         if item in currentDisabledCharacters:
             status="HIDDEN"
-            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/50)),scenes),tags=("hidden"))
+            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/currentBlockSize)),scenes),tags=("hidden"))
         elif item in currentMergedCharacters:
             status="MERGED (into "+str(currentMergedCharacters[item])+")"
-            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/50)),scenes),tags=("hidden"))
+            character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/currentBlockSize)),scenes),tags=("hidden"))
         else:
             order_idx=order_idx+1
-            character_table.insert('','end',values=(str(order_idx),item,status,str(character_count),str(math.ceil(character_count/50)),scenes))
+            character_table.insert('','end',values=(str(order_idx),item,status,str(character_count),str(math.ceil(character_count/currentBlockSize)),scenes))
         
-#        character_table.insert('','end',values=(str(character_order_map[item]),item,str(line_count),str(character_count),str(word_count),str(math.ceil(character_count)/50),str(math.ceil(character_count)/40),scenes))
         
 
 def compute_length(method,line):
@@ -641,7 +668,7 @@ def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
             header1.append("?")
             txt=countingMethodNames[i]
             if i=="BLOCKS_50":
-                txt="Lines"
+                txt="Répliques"
             header2.append(txt)
         
     header_rows = pd.DataFrame([
@@ -727,9 +754,6 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
     
     data = []
     order_idx=0
-
-
-    
 
     for character in total:
         if (not character in currentDisabledCharacters) and (not character in currentMergedCharacters):
@@ -1120,20 +1144,42 @@ def set_counting_method(i):
     myprint5("set method "+i)
     global countingMethod
     countingMethod=i
-def set_line_size(i):
-    print("a")
+
+
+input_blocksize = tk.StringVar()
+input_blocksize.set(str(currentBlockSize))
+
+
 def show_popup_line_size():
-    popup = tk.Toplevel()
-    popup.title("Popup") 
+    global currentBlockSize
+    popupBlocksize = tk.Toplevel()
+    popupBlocksize.title("Taille des répliques") 
 
     # Create a label
-    label = ttk.Label(popup, text="Enter your text:")
+    label = ttk.Label(popupBlocksize, text="Saisir la taille des répliques (par ex. 50):")
     label.pack(pady=10)
+    # Create a StringVar to hold the default value
+
+
+    def set_line_size():
+        global currentBlockSize
+        global currentFilePath
+        entry_value = input_blocksize.get()
+        try:
+            int_value = int(entry_value)
+            print("set line size "+str(entry_value))
+            currentBlockSize=int_value
+            popupBlocksize.destroy()
+            if len(currentFilePath)>0:
+                threading.Thread(target=runJob,args=(currentFilePath,countingMethod)).start()
+        except ValueError:
+                print("Invalid input: not an integer")
+
 
     # Create a single-line text entry widget
-    entry = ttk.Entry(popup, width=30)
+    entry = ttk.Entry(popupBlocksize, width=30, textvariable=input_blocksize)
     entry.pack(pady=10)
-    button = ttk.Button(popup, text="Appliquer", command=set_line_size(i))
+    button = ttk.Button(popupBlocksize, text="Appliquer", command=set_line_size)
     button.pack(side=tk.TOP, fill=tk.X)
 
 def show_popup_counting_method():
@@ -1186,11 +1232,11 @@ def clear_chart():
     currentFig.clf()
     currentFig.canvas.draw()
 settings_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Parametres", menu=settings_menu)
+menu_bar.add_cascade(label="Paramètres", menu=settings_menu)
 #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
-settings_menu.add_command(label="Change la taille des repliques...", command=show_popup_line_size)
+settings_menu.add_command(label="Change la taille des répliques...", command=show_popup_line_size)
 #settings_menu.add_command(label="Set block length...", command=open_folder)
-settings_menu.add_command(label="Reafficher les personnages masques...", command=restore_characters)
+settings_menu.add_command(label="Réafficher les personnages masqués...", command=restore_characters)
 
 
 loading_label = ttk.Frame(app)
@@ -1199,7 +1245,7 @@ loading_label = ttk.Frame(app)
 #load_button = ttk.Button(loading_label, text="Hide ", command=hide_loading)
 #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-loading_label_txt = ttk.Label(loading_label, text="Analyzing", font=('Arial', 12),padding="20 100 20 20")
+loading_label_txt = ttk.Label(loading_label, text="Analyze", font=('Arial', 12),padding="20 100 20 20")
 loading_label_txt.pack(side=tk.TOP, fill=tk.X,expand=True)
 
 
@@ -1285,6 +1331,7 @@ folders.bind('<Button-1>', toggle_folder)
 
 
 def on_right_click(event):
+    print("on right click")
     global currentRightclickRowId
     # Identify the row clicked
     try:
@@ -1355,11 +1402,11 @@ character_table.heading('Order', text='Order')
 character_table.heading('Character', text='Personnage')
 character_table.heading('Status', text='Status')
 #character_table.heading('Lines', text='Lines')
-character_table.heading('Characters', text='Caracteres')
+character_table.heading('Characters', text='Caractères')
 #character_table.heading('Words', text='Words')
 character_table.heading('Lines', text='Lignes')
 #character_table.heading('Blocks (40)', text='Blocks (40)')
-character_table.heading('Scenes', text='Scenes')
+character_table.heading('Scenes', text='Scènes')
 
 # Define the column width and alignment
 character_table.column('Order', width=25, anchor='center')
@@ -1378,6 +1425,7 @@ notebook.add(character_tab, text='Personages',image=char_icon, compound=tk.LEFT)
 character_table.tag_configure('hidden', foreground='#999999')
 character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
 character_table.bind('<Button-2>', on_character_right_click) 
+character_table.bind('<Button-1>', on_character_right_click) 
 
 
 
@@ -1506,10 +1554,8 @@ character_stats_tab.grid_rowconfigure(0, weight=1)
 character_list_table = ttk.Treeview(cleft_panel, columns=('Character'), show='headings')
 # Define the column headings
 character_list_table.heading('Character', text='Character')
-
 # Define the column width and alignment
 character_list_table.column('Character', width=50, anchor='w')
-
 # Pack the Treeview widget with enough space
 character_list_table.pack(fill='both', expand=True)
 
@@ -1535,8 +1581,8 @@ def on_item_selected(event):
     clear_character_stats()
     character_name=record[0]
     
-    character_named = character_name 
-    character_list_table.insert('','end',values=(character_named,))
+    #character_named = character_name 
+    #character_list_table.insert('','end',values=(character_named,))
    
     rowtotal=("",character_name,"","TOTAL")       
     total_by_method={}
@@ -1582,7 +1628,7 @@ character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings'
 character_stats_table.heading('Line #', text='Ligne #')
 character_stats_table.heading('Character', text='Personnage')
 character_stats_table.heading('Character (raw)', text='Personnage (brut)')
-character_stats_table.heading('Line', text='Replique')
+character_stats_table.heading('Line', text='Réplique')
 for i in countingMethods:
     character_stats_table.heading(countingMethodNames[i], text=countingMethodNames[i])
 
@@ -1599,7 +1645,7 @@ for i in countingMethods:
 character_stats_table.pack(fill='both', expand=True)
 character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Repliques par personnage',image=chat_icon, compound=tk.LEFT)
+notebook.add(character_stats_tab, text='Répliques par personnage',image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics label
@@ -1608,9 +1654,9 @@ notebook.add(character_stats_tab, text='Repliques par personnage',image=chat_ico
 
 export_tab = ttk.Frame(notebook)
 # Load folder button
-load_button = ttk.Button(export_tab, text="Ouvrir le dossier de resultats...", command=open_result_folder)
+load_button = ttk.Button(export_tab, text="Ouvrir le dossier de résultats...", command=open_result_folder)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-load_button = ttk.Button(export_tab, text="Ouvrir le fichier conversion ...", command=open_result_folder)
+load_button = ttk.Button(export_tab, text="Ouvrir le fichier de conversion ...", command=open_result_folder)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
@@ -1620,7 +1666,7 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 load_button = ttk.Button(export_tab, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-load_button = ttk.Button(export_tab, text="Ouvrir le detail dialog...", command=open_dialog_recap)
+load_button = ttk.Button(export_tab, text="Ouvrir le détail du dialogue...", command=open_dialog_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 
@@ -1710,5 +1756,6 @@ if currentScriptFolder=="":
 load_tree("",currentScriptFolder)
 
 center_window()  # Center the window
-
+app.title('Scripti')
+app.wm_title = " Your title name "
 app.mainloop()

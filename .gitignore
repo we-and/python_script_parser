@@ -12,6 +12,8 @@ build/
 dist2/
 dist_4/
 distribute/
+arm/
+nuitka_dist55/
 nuitka_dist/
 nuitka_dist2/
 nuitka_dist3/

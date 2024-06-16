@@ -15,6 +15,9 @@ distribute/
 arm/
 nuitka_dist55/
 nuitka_dist/
+old/
+tmp/
+*.dmg
 nuitka_dist2/
 nuitka_dist3/
 nuitka_dist4/

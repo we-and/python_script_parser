@@ -1236,53 +1236,53 @@ CASS	If you listen, the answers are there.
 CASS	Everything happens when it's supposed to.
 CASS	And you are so much stronger than you think.
 KATHERINE FUSSEY	 In the setting sun 
-KATHERINE FUSSEY	 With my silver tongue 
-KATHERINE FUSSEY	 And your wishing well 
-KATHERINE FUSSEY	 See how we come alive 
-KATHERINE FUSSEY	 Something I justify 
-KATHERINE FUSSEY	 Living half a life 
-KATHERINE FUSSEY	 Will you 
-KATHERINE FUSSEY	 Be true? 
-KATHERINE FUSSEY	 Oh 
-KATHERINE FUSSEY	 I'm just a liar, uh 
-KATHERINE FUSSEY	 I'm your fire, oh 
-KATHERINE FUSSEY	 Inner Demons, come to me at night 
-KATHERINE FUSSEY	 Keep me closer 
-KATHERINE FUSSEY	 Cry on your shoulder 
-KATHERINE FUSSEY	 Whispered in your ear 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 When it's said and done 
-KATHERINE FUSSEY	 I'm your only one 
-KATHERINE FUSSEY	 And you know that I'm broken now 
-KATHERINE FUSSEY	 See your heart as mine 
-KATHERINE FUSSEY	 With a one-track mind 
-KATHERINE FUSSEY	 Spinning round and round 
-KATHERINE FUSSEY	 Will you, oh 
-KATHERINE FUSSEY	 Will you-ou 
-KATHERINE FUSSEY	 I'm 
-KATHERINE FUSSEY	 Just a liar 
-KATHERINE FUSSEY	 I'm your fire 
-KATHERINE FUSSEY	 Inner Demons, come to me at night 
-KATHERINE FUSSEY	 Keep me closer 
-KATHERINE FUSSEY	 Cry on your shoulder 
-KATHERINE FUSSEY	 Whispered in your ear 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 Ooh 
-KATHERINE FUSSEY	 Oh 
-KATHERINE FUSSEY	 I'm just a liar 
-KATHERINE FUSSEY	 I'm your fire 
-KATHERINE FUSSEY	 Inner Demons, come to me at night 
-KATHERINE FUSSEY	 Keep me closer 
-KATHERINE FUSSEY	 Cry on your shoulder as I 
-KATHERINE FUSSEY	 Whispered in your ear 
-KATHERINE FUSSEY	 It's over 
-KATHERINE FUSSEY	 I'm a liar 
-KATHERINE FUSSEY	 I'm your fire 
-KATHERINE FUSSEY	 Inner Demons, come to me at night 
-KATHERINE FUSSEY	 Keep me closer 
-KATHERINE FUSSEY	 Cry on your shoulder as I 
-KATHERINE FUSSEY	 Whispered in your ear 
-KATHERINE FUSSEY	 It's over 
+__SONG	 With my silver tongue 
+__SONG	 And your wishing well 
+__SONG	 See how we come alive 
+__SONG	 Something I justify 
+__SONG	 Living half a life 
+__SONG	 Will you 
+__SONG	 Be true? 
+__SONG	 Oh 
+__SONG	 I'm just a liar, uh 
+__SONG	 I'm your fire, oh 
+__SONG	 Inner Demons, come to me at night 
+__SONG	 Keep me closer 
+__SONG	 Cry on your shoulder 
+__SONG	 Whispered in your ear 
+__SONG	 It's over 
+__SONG	 When it's said and done 
+__SONG	 I'm your only one 
+__SONG	 And you know that I'm broken now 
+__SONG	 See your heart as mine 
+__SONG	 With a one-track mind 
+__SONG	 Spinning round and round 
+__SONG	 Will you, oh 
+__SONG	 Will you-ou 
+__SONG	 I'm 
+__SONG	 Just a liar 
+__SONG	 I'm your fire 
+__SONG	 Inner Demons, come to me at night 
+__SONG	 Keep me closer 
+__SONG	 Cry on your shoulder 
+__SONG	 Whispered in your ear 
+__SONG	 It's over 
+__SONG	 It's over 
+__SONG	 It's over 
+__SONG	 It's over 
+__SONG	 Ooh 
+__SONG	 Oh 
+__SONG	 I'm just a liar 
+__SONG	 I'm your fire 
+__SONG	 Inner Demons, come to me at night 
+__SONG	 Keep me closer 
+__SONG	 Cry on your shoulder as I 
+__SONG	 Whispered in your ear 
+__SONG	 It's over 
+__SONG	 I'm a liar 
+__SONG	 I'm your fire 
+__SONG	 Inner Demons, come to me at night 
+__SONG	 Keep me closer 
+__SONG	 Cry on your shoulder as I 
+__SONG	 Whispered in your ear 
+__SONG	 It's over 

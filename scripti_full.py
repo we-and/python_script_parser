@@ -269,7 +269,7 @@ def runJob(file_path,method):
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
             
-            myprint3("Extension           :"+extension)
+            myprint3("Extension           : "+extension)
             if is_supported_extension(extension):
                 myprint3("Supported           : YES")
 

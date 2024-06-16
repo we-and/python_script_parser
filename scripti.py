@@ -8,10 +8,13 @@ import tkinter.font as tkFont
 import subprocess
 import platform
 import re
+from docx import Document
 import sys
 import csv
+import pdfplumber
 import math
 import logging
+from tkinter import ttk, messagebox
 
 logging.basicConfig(filename='app.log',level=logging.DEBUG)
 logging.debug("Script starting...")
@@ -75,7 +78,11 @@ currentBlockSize=50
 def myprint2(s):
     logging.debug(s)
     print(s)
-def myprint3(s):
+def myprint7(s):
+    logging.debug(s)
+    print(s)
+def myprint7(s):
+    s="ui: "+str(s)
     logging.debug(s)
     print(s)
 def myprint4(s):
@@ -253,7 +260,9 @@ def runJob(file_path,method):
     global currentResultName
     global currentResultLinecountMap
     global currentResultSceneCharacterMap
-    
+    global importTab
+                    
+
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
@@ -265,17 +274,18 @@ def runJob(file_path,method):
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
             
-            myprint3("Extension           :"+extension)
+            myprint7("Name                : "+name)
+            myprint7("Extension           : "+extension)
             if is_supported_extension(extension):
-                myprint3("Supported           : YES")
+                myprint7("Supported           : YES")
 
                 encoding_info = detect_file_encoding(file_path)
                 encoding=encoding_info['encoding']
-                myprint3("Encoding detected   : "+str(encoding))
-                myprint3("Encoding confidence : "+str(encoding_info['confidence']))
+                myprint7("Encoding detected   : "+str(encoding))
+                myprint7("Encoding confidence : "+str(encoding_info['confidence']))
 
                 enc=get_encoding(encoding)
-                myprint3("Encoding used       : "+str(enc))
+                myprint7("Encoding used       : "+str(enc))
     #            encodings = ['windows-1252', 'iso-8859-1', 'utf-16','utf-8']
      #           for encod in encodings:
      #               print("try encoding"+encod)
@@ -286,12 +296,17 @@ def runJob(file_path,method):
                     os.mkdir(currentOutputFolder)
                 extension=extension.lower()
 
+                #DOCX
                 if extension==".docx" or extension==".doc":
-                    myprint3("Conversion Word to txt")
-
+                    myprint7("Conversion Word to txt")
+                    if importTab != None:
+                        importTab.destroy()       
+                        #importTab.reset(file_path)
+                    importTab=TableColumnSelector(config_tab,file_path)
+                    doc = Document(file_path)
                     forceMode=""
                     forceCols={}
-                    print(" !!!!!!!!!! CHECK FILENAME")
+                    myprint7(" !!!!!!!!!! CHECK FILENAME")
                     if "CLEAR CUT" in file_name:
                         print(" !!!!!!!!!! FORCE")
                         forceMode="DETECT_CHARACTER_DIALOG"
@@ -302,14 +317,16 @@ def runJob(file_path,method):
                         
                     converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
                     if len(converted_file_path)==0:
-                        myprint3("Conversion docx to txt failed")
-                        myprint3("Failed")
+                        myprint7("ui Conversion docx to txt failed")
+                        myprint7("ui Failed")
                         hide_loading()
                         return 
                     file_path=converted_file_path
-                    myprint3("Conversion file path :"+file_path)
+                    myprint7("ui Converted file path :"+file_path)
+                
+                #XLSX
                 if extension==".xlsx":
-                    myprint3("Conversion Excel to txt")
+                    myprint7("Conversion Excel to txt")
 
                     forceMode=""
                     forceCols={}
@@ -317,55 +334,58 @@ def runJob(file_path,method):
                         
                     converted_file_path=convert_xlsx_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
                     if len(converted_file_path)==0:
-                        myprint3("Conversion xlsx to txt failed")
-                        myprint3("Failed")
+                        myprint7("Conversion xlsx to txt failed")
+                        myprint7("Failed")
                         hide_loading()
                         return 
                     file_path=converted_file_path
-                    myprint3("Conversion file path :"+file_path)
+                    myprint7("Conversion file path :"+file_path)
                     
+                #RTF
                 if extension==".rtf":
-                    myprint3("Conversion RTF to txt")
+                    myprint7("Conversion RTF to txt")
                     converted_file_path,txt_encoding=convert_rtf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
                     if len(converted_file_path)==0:
-                        myprint3("Conversion rtf to txt failed")
-                        myprint3("Failed")
+                        myprint7("Conversion rtf to txt failed")
+                        myprint7("Failed")
                         hide_loading()
                         return
                     enc=txt_encoding
                     file_path=converted_file_path
-                    myprint3("Conversion file path :"+file_path)
+                    myprint7("Conversion file path :"+file_path)
+                
+                #PDF
                 if extension==".pdf":
-                    myprint3("Conversion PDF to txt")
+                    myprint7("Conversion PDF to txt")
                     converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
                     if len(converted_file_path)==0:
-                        myprint3("Conversion pdf to txt failed")
-                        myprint3("Failed")
+                        myprint7("Conversion pdf to txt failed")
+                        myprint7("Failed")
                         hide_loading()
                         return
                     enc=txt_encoding
                     file_path=converted_file_path
-                    myprint3("Conversion file path :"+file_path)
+                    myprint7("Conversion file path :"+file_path)
 
-                myprint3("Opening")
+                myprint7("Opening "+file_path)
                 with open(file_path, 'r', encoding=enc) as file:
-                    myprint3("Opened")
+                    myprint7("Opened")
                     content = file.read()
-                    myprint3("Read")
+                    myprint7("Read")
                     file_preview.delete(1.0, tk.END)
                     file_preview.insert(tk.END, content)
                     
 
-                    myprint3("Process")
+                    myprint7("Process")
                     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
 
-                    myprint3("Processed")
+                    myprint7("Processed")
 
                     if breakdown==None:
-                        myprint3("Failed")
+                        myprint7("Failed")
                         hide_loading()
                     else:
-                        myprint3("OK")
+                        myprint7("OK")
                         currentBreakdown=breakdown
 
                         png_output_file=currentOutputFolder+name+"_timeline.png"
@@ -378,7 +398,7 @@ def runJob(file_path,method):
                         postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
                         
             else:
-                myprint3(" > Not supported")
+                myprint7(" > Not supported")
                 #stats_label.config(text=f"Format {extension} not supported")
             hide_loading()
 
@@ -390,7 +410,7 @@ def runJob(file_path,method):
 def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
 
     global currentResultCharacterOrderMap
-    myprint3("Post process")
+    myprint7("Post process")
     fill_breakdown_table(breakdown)
     fill_character_list_table(character_order_map,breakdown)
     fill_character_stats_table(character_order_map,breakdown,enc)
@@ -429,26 +449,26 @@ def save_dialog_csv(breakdown,enc,char):
                     
                 data.append(datarow)
     else:
-        myprint3("save_dialog_csv skip"+character)
+        myprint7("save_dialog_csv skip"+character)
     
             
-    myprint3("Saving dialog csv encoding="+enc)
-    #myprint3("data"+str(data))
+    myprint7("Saving dialog csv encoding="+enc)
+    #myprint7("data"+str(data))
     with open(totalcsvpath, mode='w', newline='',encoding=enc) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Write data to the CSV file
         for row in data:
-            #myprint3("Write "+str(row))
+            #myprint7("Write "+str(row))
             writer.writerow(row)
     xlsxpath=totalcsvpath.replace(".csv",".xlsx")
-    myprint3("xlsx"+xlsxpath)
+    myprint7("xlsx"+xlsxpath)
     convert_dialog_csv_to_xlsx2(totalcsvpath,xlsxpath,enc)
 def on_folder_select(event):
     global currentScriptFilename
     global currentOutputFolder
     logging.debug("on_folder_select")
-    #myprint3("FOLDER SELECT")
+    #myprint7("FOLDER SELECT")
     selected_item = folders.selection()[0]
     file_path = folders.item(selected_item, 'values')[0]
     if os.path.isfile(file_path):
@@ -459,7 +479,7 @@ def on_folder_select(event):
         app.update_idletasks()  # Force the UI to update
         #for item in disabled_character_list_table.get_children():
          #   disabled_character_list_table.delete(item)
-    
+
         threading.Thread(target=runJob,args=(file_path,countingMethod)).start()
 #        runJob(file_path,countingMethod)
 
@@ -471,7 +491,7 @@ def remove_all_tree_items():
 
 
 def open_folder():
-    myprint3("Change folder")
+    myprint7("Change folder")
     remove_all_tree_items()
     directory = filedialog.askdirectory(initialdir=os.getcwd())
     if directory:
@@ -479,14 +499,14 @@ def open_folder():
         load_tree("",directory)
 
 def open_script():
-    myprint3("Open script")
+    myprint7("Open script")
     file_path = filedialog.askopenfilename()
     if file_path:
         print(f"Selected file: {file_path}")
         runJob(file_path,"ALL")
 
 def open_folder_firsttime():
-    myprint3("Change folder")
+    myprint7("Change folder")
     directory = filedialog.askdirectory(initialdir=os.getcwd(),title="Choose your scripts folder")
     if directory:
         update_ini_settings_file("SCRIPT_FOLDER",directory)
@@ -509,6 +529,18 @@ def center_window():
     y = 20#int((screen_height - height) / 2)
     app.geometry(f'{width}x{height}+{x}+{y}')
 
+def center_panel(panel):
+    panel.update_idletasks()
+    width = panel.winfo_width()
+    height = panel.winfo_height()
+    screen_width = panel.winfo_screenwidth()
+    screen_height = panel.winfo_screenheight()
+     # Calculate width and height as 80% of screen dimensions
+    width = int(screen_width * 0.8)
+    height = int(screen_height * 0.7)
+    x = int((screen_width - width) / 2)
+    y = 20#int((screen_height - height) / 2)
+    panel.geometry(f'{width}x{height}+{x}+{y}')
 
 
 def reduce_width():
@@ -535,7 +567,7 @@ def stats_per_character(breakdown,character_name):
                 le=compute_length_by_method(filtered_speech,"ALL")
                 character_count=character_count+le
                 word_count=word_count+len(t.split(" "))
-    #myprint3(character_name,character_count)
+    #myprint7(character_name,character_count)
             
     replica_count=math.ceil(character_count/currentBlockSize)
     return line_count,word_count,character_count,replica_count
@@ -567,10 +599,10 @@ def compute_length(method,line):
     return len(line);
 
 def fill_character_list_table(character_order_map, breakdown):
-    #myprint3("fill_character_list_table")
+    #myprint7("fill_character_list_table")
 
     for character_name in character_order_map:
-        #myprint3("CHAR add"+character_name)
+        #myprint7("CHAR add"+character_name)
         if (not character_name in currentDisabledCharacters) or (not character_name in currentMergedCharacters):
             character_named = character_name 
             #myprint4("CHAR add"+character_named)
@@ -1213,10 +1245,14 @@ def show_loading():
         #myprint5("SHOW LOADING")
         loading_label.pack()
         paned_window.pack_forget()
+        app.update_idletasks()
+        app.update()
 def hide_loading():
         #myprint5("HIDE LOADING")
         paned_window.pack(fill='both', expand=True)
         loading_label.pack_forget()
+        app.update_idletasks()
+        app.update()
 
 def restore_characters():
     myprint2("restore_characters")
@@ -1225,6 +1261,246 @@ def restore_characters():
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
+
+
+class TableColumnSelector(tk.Toplevel):
+    def __init__(self, parent, file_path):
+        #file_name = os.path.basename(file_path)
+        #name, extension = os.path.splitext(file_name)
+        #myprint7("TableColumnSelector")
+        #super().__init__(parent)
+        myprint7("TableColumnSelector 1")
+        #self.title(name+" - Sélectionneur de colonnes")
+        self.parent = parent
+        self.table_list = []
+        self.doc = None
+        self.check_vars = []
+        myprint7("TableColumnSelector 1b")
+        self.create_widgets()
+        #center_panel(self)
+        self.doc = Document(file_path)
+        self.table_list = [table for table in self.doc.tables]
+        self.update_table_listbox()
+        myprint7("TableColumnSelector tablecount = "+str(len(self.table_list)))
+
+    def reset(self,file_path):
+        myprint7("TableColumnSelector RESET")
+        
+        self.table_list = []
+        self.doc = None
+        self.check_vars = []
+        myprint7("TableColumnSelector 1b")
+        #self.create_widgets()
+        #center_panel(self)
+        for widget in self.list_frame.winfo_children():
+            widget.destroy()
+
+        self.check_vars = []
+
+
+#        self.update_table_listbox()
+        myprint7("TableColumnSelector tablecount = "+str(len(self.table_list)))
+
+    def create_widgets(self):
+        # Frame for table list
+        self.left_frame = tk.Frame(self.parent)
+        self.left_frame.pack(side=tk.LEFT, fill=tk.Y)
+
+        self.left_canvas = tk.Canvas(self.left_frame)
+        self.left_canvas.pack(side=tk.LEFT, fill=tk.Y, expand=True)
+
+        self.list_frame = tk.Frame(self.left_canvas)
+        self.left_canvas.create_window((0, 0), window=self.list_frame, anchor='nw')
+
+        # Frame for table preview
+        self.right_frame = tk.Frame(self.parent)
+        self.right_frame.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
+
+        # Add a canvas to allow scrolling
+        self.canvas = tk.Canvas(self.right_frame)
+        self.canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+
+        # Frame within the canvas to hold the table
+        self.table_frame = tk.Frame(self.canvas)
+        self.canvas.create_window((0, 0), window=self.table_frame, anchor="nw")
+
+
+        # Open file button
+#        self.open_button = tk.Button(self.right_frame, text="Process", command=self.process)
+ #       self.open_button.pack(pady=10)
+    def destroy(self):
+        # Destroy all widgets created by this instance
+        self.left_frame.destroy()
+        self.right_frame.destroy()
+        self.left_canvas.destroy()
+        self.canvas.destroy()
+        self.table_frame.destroy()
+
+    def process():
+        myprint7("process")
+
+    def update_table_listbox(self):
+        for widget in self.list_frame.winfo_children():
+            widget.destroy()
+
+        self.check_vars = []
+
+        for i, _ in enumerate(self.table_list):
+            var = tk.BooleanVar()
+            if len(self.table_list) == 1:  # Check the checkbox by default if there's only one table
+                var.set(True)
+            chk = tk.Checkbutton(self.list_frame, variable=var)
+            lbl = tk.Label(self.list_frame, text=f"Table {i+1}")
+            chk.grid(row=i, column=0, sticky='w', padx=5, pady=2)
+            lbl.grid(row=i, column=1, sticky='w', padx=5, pady=2)
+            lbl.bind("<Button-1>", lambda e, idx=i: self.on_table_select(idx))
+            self.check_vars.append(var)
+
+        self.list_frame.update_idletasks()
+        self.left_canvas.config(scrollregion=self.left_canvas.bbox("all"))
+
+        if len(self.table_list)==1 :
+            self.on_table_select(0)
+
+
+    def on_table_select(self, index):
+        self.show_table_preview(self.table_list[index])
+
+    def show_table_preview(self,  table):
+        for widget in self.table_frame.winfo_children():
+            widget.destroy()
+
+        num_cols = len(table.rows[0].cells)
+
+        options = ["-", "PERSONNAGE", "DIALOGUE", "LES DEUX"]
+        col_widths = [0] * num_cols
+          # Calculate the max width for each column based on the content
+        for row in table.rows[:3]:
+            for col_idx, cell in enumerate(row.cells):
+                cell_text = cell.text
+                cell_width = tkFont.Font().measure(cell_text)
+                if cell_width > col_widths[col_idx]:
+                    col_widths[col_idx] = cell_width
+
+        for col_idx in range(num_cols):
+            combobox = ttk.Combobox(self.table_frame, values=options,width=col_widths[col_idx] // 8)
+            combobox.current(0)  # Set default value to "-"
+            combobox.grid(row=0, column=col_idx, sticky='nsew')
+
+        for row_idx, row in enumerate(table.rows[:20]):
+            for col_idx, cell in enumerate(row.cells):
+                cell_text = cell.text
+                if row_idx==0:
+                    header_label = tk.Label(self.table_frame, text=cell_text, borderwidth=1, relief="solid", width=col_widths[col_idx] // 8, bg="black", fg="white")                
+                else:
+                    header_label = tk.Label(self.table_frame, text=cell_text, borderwidth=1, relief="solid", width=col_widths[col_idx] // 8, bg="white")
+                header_label.grid(row=row_idx + 2, column=col_idx, sticky='nsew')
+
+        self.table_frame.update_idletasks()
+        self.canvas.config(scrollregion=self.canvas.bbox("all"))
+
+    def set_char_column(self, col):
+        messagebox.showinfo("Character Column", f"Column {col+1} set as Character Column")
+
+    def set_dialog_column(self, col):
+        messagebox.showinfo("Dialog Column", f"Column {col+1} set as Dialog Column")
+
+importTab = None
+def open_table_selector(file_path):
+    global importTab
+    importTab=TableColumnSelector(config_tab,file_path)
+
+class PDFCropper(tk.Toplevel):
+    def __init__(self, parent):
+        super().__init__(parent)
+        self.title("PDF Cropper")
+
+        self.canvas = tk.Canvas(self)
+        self.canvas.pack(fill=tk.BOTH, expand=True)
+        self.rect = None
+        self.start_x = None
+        self.start_y = None
+        self.end_x = None
+        self.end_y = None
+        self.crop_coords = None
+
+        self.select_button = tk.Button(self, text="Select", command=self.crop_pdf)
+        self.select_button.pack(side=tk.LEFT, padx=5, pady=5)
+
+        self.reset_button = tk.Button(self, text="Reset", command=self.reset_selection)
+        self.reset_button.pack(side=tk.RIGHT, padx=5, pady=5)
+
+        self.canvas.bind("<ButtonPress-1>", self.on_button_press)
+        self.canvas.bind("<B1-Motion>", self.on_mouse_drag)
+        self.canvas.bind("<ButtonRelease-1>", self.on_button_release)
+
+    def open_pdf(self, file_path):
+        self.pdf = pdfplumber.open(file_path)
+        self.page = self.pdf.pages[9]  # Page 10 (index 9)
+        self.render_page()
+
+    def render_page(self):
+        with self.page.to_image() as img:
+            self.img = img.original
+            self.tk_image = ImageTk.PhotoImage(self.img)
+        
+        self.canvas.create_image(0, 0, anchor="nw", image=self.tk_image)
+        self.canvas.config(scrollregion=self.canvas.bbox(tk.ALL))
+        self.canvas.config(width=self.img.width, height=self.img.height)
+
+    def on_button_press(self, event):
+        self.start_x = self.canvas.canvasx(event.x)
+        self.start_y = self.canvas.canvasy(event.y)
+        self.rect = self.canvas.create_rectangle(self.start_x, self.start_y, self.start_x, self.start_y, outline='red')
+
+    def on_mouse_drag(self, event):
+        curX, curY = (self.canvas.canvasx(event.x), self.canvas.canvasy(event.y))
+        self.canvas.coords(self.rect, self.start_x, self.start_y, curX, curY)
+
+    def on_button_release(self, event):
+        self.end_x = self.canvas.canvasx(event.x)
+        self.end_y = self.canvas.canvasy(event.y)
+        self.crop_coords = (self.start_x, self.start_y, self.end_x, self.end_y)
+
+    def crop_pdf(self):
+        if not self.crop_coords:
+            messagebox.showwarning("No Selection", "Please select an area to crop.")
+            return
+
+        x0, y0, x1, y1 = self.crop_coords
+        x0, y0 = min(x0, x1), min(y0, y1)
+        x1, y1 = max(x0, x1), max(y0, y1)
+
+        # Convert canvas coordinates to PDF coordinates
+        x0_pdf, y0_pdf = x0 / self.img.width * self.page.width, y0 / self.img.height * self.page.height
+        x1_pdf, y1_pdf = x1 / self.img.width * self.page.width, y1 / self.img.height * self.page.height
+
+        crop_box = (x0_pdf, y0_pdf, x1_pdf, y1_pdf)
+        cropped_page = self.page.within_bbox(crop_box)
+
+        save_path = filedialog.asksaveasfilename(defaultextension=".pdf", filetypes=[("PDF files", "*.pdf")])
+        if save_path:
+            with pdfplumber.open(self.pdf.stream) as pdf:
+                new_pdf = pdfplumber.PDF()
+                new_pdf.pages.append(cropped_page)
+                new_pdf.save(save_path)
+            messagebox.showinfo("Success", f"Cropped PDF saved to {save_path}")
+
+    def reset_selection(self):
+        if self.rect:
+            self.canvas.delete(self.rect)
+            self.rect = None
+        self.crop_coords = None
+
+def open_pdf_cropper():
+    root = tk.Tk()
+    root.withdraw()  # Hide the main root window
+
+    file_path = filedialog.askopenfilename(filetypes=[("PDF files", "*.pdf")])
+    if file_path:
+        cropper = PDFCropper(root)
+        cropper.open_pdf(file_path)
+        cropper.mainloop()
 
 def clear_chart():
     global currentFig
@@ -1385,6 +1661,10 @@ style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
 #notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
+config_tab = ttk.Frame(notebook)
+notebook.add(config_tab, text='Import tables',image=original_icon, compound=tk.LEFT)
+
+
 preview_tab = ttk.Frame(notebook)
 notebook.add(preview_tab, text='Texte',image=original_icon, compound=tk.LEFT)
 file_preview = Text(preview_tab)
@@ -1676,6 +1956,14 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 #stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
 #stats_label.pack(side=tk.TOP, fill=tk.X)
 
+def show_importtable_tab(notebook, tab_id):
+    if tab_id not in notebook.tabs():
+        notebook.add(tabs[tab_id], text=tab_labels[tab_id])
+
+def hide_importtable_tab(notebook, tab_id):
+    if tab_id in notebook.tabs():
+        notebook.forget(tabs[tab_id])
+
 def merge_with():
     global currentMergedCharacters
     global currentMergedCharactersTo
@@ -1746,7 +2034,17 @@ def create_popup(character_map):
 #disabled_character_list_table.pack(fill='both',expand=True)
 
 
+
+
+
+
+
+
+
+
+
 notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)
+
 
 logging.debug("Launch")
 

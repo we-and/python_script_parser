@@ -11,7 +11,6 @@ import platform
  #   import pythoncom
   #  import win32api
    # import win32com.client
-
 import pdfplumber
 #from pyth.plugins.rtf15.reader import Rtf15Reader
 #f#rom pyth.plugins.plaintext.writer import PlaintextWriter
@@ -33,7 +32,7 @@ logging.debug("Script starting...")
 
 def myprint1(s):
     logging.debug(s)
-    #print(s)
+    print(s)
 
 
 action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
@@ -348,10 +347,23 @@ def filter_character_name(line):
     if line:
         if "(O.S)" in line:
             line=line.replace("(O.S)","")
+        
+        if "(V.O)" in line:
+            line=line.replace("(V.O)","")
+        if "(V.O.)" in line:
+            line=line.replace("(V.O.)","")
+        if "(V.O" in line:
+            line=line.replace("(V.O","")
+        
         if "(O.S.)" in line:
             line=line.replace("(O.S.)","")
+        
         if "(CONT'D)" in line:
             line=line.replace("(CONT'D)","")    
+        if "(CONT'D" in line:
+            line=line.replace("(CONT'D","")    
+        if "(CONT’D" in line:
+            line=line.replace("(CONT’D","")    
         if line.endswith(':'):
             line= line[:-1]
         if line.endswith(')'):
@@ -478,7 +490,6 @@ def compute_length(line,method):
     else:
         return len(line)
     
-
 from docx import Document
 
 def read_docx(file_path):
@@ -489,6 +500,7 @@ def read_docx(file_path):
     for para in doc.paragraphs:
         print(para.text)
     return doc
+
 def is_supported_extension(ext):
     ext=ext.lower()
     return ext==".txt" or ext==".docx" or ext==".doc" or ext==".rtf" or ext==".pdf" or ext==".xlsx"
@@ -769,7 +781,7 @@ def convert_rtf_to_txt(file_path,currentOutputFolder,encoding):
          # Rename path with .docx
         new_file_abs = os.path.abspath(file_path)
         base=(os.path.basename(new_file_abs).replace(".rtf", ".converted.txt"))
-        new_file_abs = currentOutputFolder+"\\"+ base
+        new_file_abs = os.path.join(currentOutputFolder, base)
 
         # Save and Close
 #        word.ActiveDocument.SaveAs(new_file_abs, FileFormat=16)  # FileFormat=16 for .docx, not .doc
@@ -786,9 +798,29 @@ def convert_rtf_to_txt(file_path,currentOutputFolder,encoding):
     return ""
 
 def convert_docx_plain_text(file,doc):
-        for para in doc.paragraphs:
-            # Write the text of each paragraph to the file followed by a newline
-            file.write(para.text + '\n')
+    myprint1("convert_docx_plain_text")
+    myprint1("convert_docx_plain_text "+str(len(doc.paragraphs))+" paragraphs")
+    for para in doc.paragraphs:
+        # Write the text of each paragraph to the file followed by a newline
+        myprint1("convert_docx_plain_text write "+para.text)
+        myprint1("                        write "+str(para.text.isupper()))
+        myprint1("                        write "+str(para))
+        file.write(para.text + '\n')
+
+def convert_docx_indented_plaintext(file,doc):
+    myprint1("convert_docx_indented_plaintext")
+    myprint1("convert_docx_indented_plaintext "+str(len(doc.paragraphs))+" paragraphs")
+    for para in doc.paragraphs:
+        if len(para.text)>0:
+            indent = para.paragraph_format.left_indent
+            myprint1("convert_docx_indented_plaintext text="+para.text)
+            myprint1("convert_docx_indented_plaintext indent="+str(indent))
+            
+            if indent is not None:
+                # Write the text of each paragraph to the file followed by a newline
+                myprint1("                        write "+str(para.text.isupper()))
+                myprint1("                        write "+str(para))
+                file.write(para.text + '\n')
 
 def extract_speakersNO(conversation, character_list):
     # Helper function to validate if a name is in the character list
@@ -836,7 +868,7 @@ def extract_speakers(conversation,character_list):
     parts = conversation.split(" TO ")
     nb_counts=conversation.count(" TO ")
     if nb_counts==0:
-        return conversation
+        return [conversation]
     if nb_counts==1:
         return [parts[0]]
     # Check if there are exactly two parts
@@ -865,7 +897,10 @@ def extract_speakers(conversation,character_list):
                 names.append(name)
                 seen.add(name)
         return names
-    
+
+
+
+
     
 def extract_speakers1(conversation):
     # Split the string by " TO "
@@ -937,7 +972,7 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
                 is_song=dialogue.startswith("♪") 
                 is_song_sung_by_character=is_song and len(character)>0 #song starts but has character name on it
                 if is_song:
-                    dialogue=filter_text(dialogue)             
+                    dialogue=filter_speech(dialogue)             
                     force_current_character="__SONG"
                     if is_song_sung_by_character:
                          force_current_character=current_character
@@ -947,7 +982,7 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
                 else:
                     is_song_sung_by_character=False
                 if not is_didascalie and not is_song: 
-                    dialogue=filter_text(dialogue)             
+                    dialogue=filter_speech(dialogue)             
                     if current_character=="":
                         current_character="__VOICEOVER"
                     s=current_character+"\t"+dialogue+"\n"  # New line after each row
@@ -955,7 +990,7 @@ def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
                     file.write(s)
         elif mode=="SPLIT":
             myprint1("MODE SPLIT")
-            dialogue=filter_text(dialogue)    
+            dialogue=filter_speech(dialogue)    
             myprint1("characters"+str(speakers))
             dialoguespl=dialogue.split("- ")
             filtered_array = [element for element in dialoguespl if element]
@@ -986,7 +1021,7 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
         # Rename path with .docx
         new_file_abs = os.path.abspath(doc_path)
         base=(os.path.basename(new_file_abs).replace(".doc", ".docx"))
-        new_file_abs = currentOutputFolder+"\\"+ base
+        new_file_abs = os.path.join(currentOutputFolder, base)
 
         # Save and Close
         word.ActiveDocument.SaveAs(new_file_abs, FileFormat=16)  # FileFormat=16 for .docx, not .doc
@@ -1003,10 +1038,10 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
 def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
     print("convert_pdf_to_txt")
     print("currentOutputFolder             :"+absCurrentOutputFolder)
-    print("Input             :"+file_path)
+    print("Input              :"+file_path)
     converted_file_path=""
     if ".pdf" in file_path.lower() :
-        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
+        converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
     with open(converted_file_path, 'w', encoding='utf-8') as file:
         with pdfplumber.open(file_path) as pdf:
           page_idx=1  
@@ -1145,7 +1180,7 @@ def test_pdf_header(file,table,header):
 
 
 
-def test_word_header(file,table,header,forceMode="",forceCols={}):
+def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
             print("test word header")
             print("forceMode"+str(forceMode))
             print("forceCols"+str(forceCols))
@@ -1278,7 +1313,7 @@ def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
        #             lines.append(f"{char.upper()}\t{k}")
 
 
-    converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".xlsx",".converted.txt"))
+    converted_file_path= os.path.join(absCurrentOutputFolder,os.path.basename(file_path).replace(".xlsx",".converted.txt"))
 
     # Write to a text file
     with open(converted_file_path, 'w') as f:
@@ -1287,35 +1322,148 @@ def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
     print("Done")
     return converted_file_path
 
+def get_paragraph_indentation(paragraph):
+    """
+    Returns the effective left indentation of the paragraph, considering the style hierarchy.
+    """
+    indent = paragraph.paragraph_format.left_indent
+    style = paragraph.style
+    while indent is None and style is not None:
+        indent = style.paragraph_format.left_indent
+        style = style.base_style
+    return indent
+
+def get_paragraph_style_hierarchy(paragraph):
+    """
+    Returns the style hierarchy of a paragraph.
+    """
+    styles = []
+    style = paragraph.style
+    while style is not None:
+        styles.append(style.name)
+        style = style.base_style
+    return styles
+
+def inspect_paragraphs_with_style_hierarchy(para):
+        text = para.text.strip()
+        indent = get_paragraph_indentation(para)
+        styles = get_paragraph_style_hierarchy(para)
+        print(str({
+            'text': text,
+            'indent': indent,
+            'style_hierarchy': ' > '.join(styles)
+        }))
+
+def word_has_paragraph_style_dialog(para):
+    styles=get_paragraph_style_hierarchy(para)
+    styles = ' > '.join(styles)
+    return "DIALOG" in styles
+
+def word_has_paragraph_style_character(para):
+    styles=get_paragraph_style_hierarchy(para)
+    styles = ' > '.join(styles)
+    return "CHARACTER" in styles
+
+def convert_word_withstyles_to_plaintext(doc,file_path,absCurrentOutputFolder):
+    converted_file_path=get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
+    current_character=None
+    current_dialog=None
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        for para in doc.paragraphs: 
+            if word_has_paragraph_style_character(para):
+                char=filter_character_name(para.text.upper())
+                current_character=char
+            if word_has_paragraph_style_dialog(para):
+                speech=para.text
+                current_dialog=filter_speech(speech)
+            if current_character != None and current_dialog!=None:
+                s=current_character+"\t"+current_dialog+"\n"  # New line after each row
+                myprint1("Add "+ current_character + " "+ current_dialog)
+                file.write(s)
+                current_dialog=None
+    return converted_file_path
+def detect_word_styles_character_dialog(doc):
+    has_dialog_style=False
+    has_character_style=False
+    for para in doc.paragraphs:
+        if word_has_paragraph_style_dialog(para):
+            has_dialog_style=True
+        if word_has_paragraph_style_character(para):
+            has_character_style=True
+    if has_dialog_style and has_character_style:
+        return True
+    return False
+
+def detect_plaintext_indented(doc):
+    isIndented=False
+    nParagraphs=0
+    nIndented=0
+    # Iterate over paragraphs
+    for para in doc.paragraphs:
+        print('-------')
+        if len(para.text)>0:
+            print(str(para.text)+" ")
+            nParagraphs=nParagraphs+1
+            indent = para.paragraph_format.left_indent
+            rightindent=para.paragraph_format.right_indent
+            first= para.paragraph_format.first_line_indent
+            for  run in para.runs:
+            
+                print("RUN UPPER"+str(run.text)+" "+ "allcaps="+str(run.font.all_caps))
+                if run.font.all_caps:
+                    print("UPPER")
+            print("leftindent="+str(indent)+" rightindent="+str(rightindent)+" first="+str(first))
+            inspect_paragraphs_with_style_hierarchy(para)
+            if indent is not None:
+                print("INDENTED "+str(para.text))
+                nIndented=nIndented+1
+        
+    indentedPc=nIndented/nParagraphs
+    myprint1("Plaintext detect indented")
+    myprint1("Plaintext "+str(nIndented)+" / "+str(nParagraphs)+" paragraphs= "+str(indentedPc)+" indented")
+    if indentedPc>0.1:
+        return True
+    else:
+        return False        
+            
+def get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
+    converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".docx",".converted.txt"))
+    return converted_file_path
 def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
     print("convert_docx_to_txt")
-    print("currentOutputFolder             :"+absCurrentOutputFolder)
-    print("Input             :"+file_path)
+    print("currentOutputFolder : "+absCurrentOutputFolder)
+    print("Input               : "+file_path)
     converted_file_path=""
     if ".docx" in file_path:
-        converted_file_path=absCurrentOutputFolder+"\\"+ (os.path.basename(file_path).replace(".docx",".converted.txt"))
+        print(".docx")
+        converted_file_path=get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
     elif ".doc" in file_path:
+        print(".doc")
         print("Convert doc to docx  ")
         docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder,forceMode=forceMode,forceCols=forceCols)
         print("Output         :"+os.path.abspath(docx_file_path))
         converted_file_path=os.path.abspath(docx_file_path).replace(".docx",".converted.txt")
         file_path=docx_file_path
+    else:
+        print("other extension")
+
     print("Converted file path : "+converted_file_path)    
-    print("Doc opening"+file_path)
+    print("Doc opening         : "+file_path)
     doc = Document(file_path)
     print("Doc opened")
 
     with open(converted_file_path, 'w', encoding='utf-8') as file:
         # Check if there are any tables in the document
+        myprint1("Table count             : "+str(len(doc.tables)))
+
         if len(doc.tables) > 0:
             # Get the first table
             table = doc.tables[0]
             
-            row_idx=0
             headerSuccess=False
             for i in range(3):
                 header=table.rows[i]
-                success=test_word_header(file,table,header,forceMode=forceMode,forceCols=forceCols)
+                success=test_word_header_and_convert(file,table,header,forceMode=forceMode,forceCols=forceCols)
                 if success:
                     headerSuccess=True
                     break
@@ -1323,8 +1471,16 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
                 return ""
 
         else:
-            print("No tables")
-            convert_docx_plain_text(file,doc)
+            hasWordStyles=detect_word_styles_character_dialog(doc)
+            if hasWordStyles:
+                convert_word_withstyles_to_plaintext(doc,file_path,absCurrentOutputFolder)
+            else:
+                myprint1("No tables, convert to plain text")
+                isIndented=detect_plaintext_indented(doc)
+                convert_docx_plain_text(file,doc)
+                myprint1("Converted file path : "+converted_file_path)  
+                myprint1("converted to plain text")
+        
     return converted_file_path
 
 def get_all_characters(breakdown):
@@ -1451,7 +1607,7 @@ def merge_breakdown_character_talking_to(breakdown,all_characters):
                     item['character']=firstchar                   
 
     return breakdown,replaceList
-def filter_text(s):
+def filter_speech(s):
     res=s.replace("♪","").replace("Â§","").replace("§","")
     #filter songs
     return res
@@ -1489,7 +1645,6 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
 
     if extension.lower()==".docx":
 
-        print(" !!!!!!!!!! CHECK FILENAME")
         if "CLEAR CUT" in file_name:
             print(" !!!!!!!!!! FORCE")
             forceMode="DETECT_CHARACTER_DIALOG"
@@ -1604,7 +1759,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                     if is_character_name_valid(character_name):
                                         #remove character name for stats
                                         spoken_text=extract_speech(trimmed_line,character_mode,character_name)
-                                        spoken_text=filter_text(spoken_text)
+                                        spoken_text=filter_speech(spoken_text)
                                         
                                     
                                         breakdown.append({"scene_id":current_scene_id,

@@ -302,7 +302,6 @@ def runJob(file_path,method):
                     if importTab != None:
                         importTab.destroy()       
                         #importTab.reset(file_path)
-                    importTab=TableColumnSelector(config_tab,file_path)
                     doc = Document(file_path)
                     forceMode=""
                     forceCols={}
@@ -314,7 +313,15 @@ def runJob(file_path,method):
                             "CHARACTER":5,
                             "DIALOG":6
                         }
-                        
+
+                    if len(doc.tables) > 0:
+                        myprint7("has table, show_importtable_tab")
+                        importTab=TableColumnSelector(tab_import,file_path)
+                        show_importtable_tab()
+                    else:
+                        myprint7("no table, hide_importtable_tab")
+                        hide_importtable_tab()
+
                     converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
                     if len(converted_file_path)==0:
                         myprint7("ui Conversion docx to txt failed")
@@ -427,7 +434,8 @@ def save_dialog_csv(breakdown,enc,char):
     if haschar:
         if not os.path.exists(currentOutputFolder+"/dialogs/"):
             os.mkdir(currentOutputFolder+"/dialogs/")
-        totalcsvpath=currentOutputFolder+"/dialogs/"+currentScriptFilename+"-dialog-"+char+".csv"
+        safechar=char.replace("/","_")
+        totalcsvpath=currentOutputFolder+"/dialogs/"+currentScriptFilename+"-dialog-"+safechar+".csv"
 
     currentDialogPath=totalcsvpath
     
@@ -453,7 +461,9 @@ def save_dialog_csv(breakdown,enc,char):
     
             
     myprint7("Saving dialog csv encoding="+enc)
+    myprint7("Saving dialog csv path="+totalcsvpath)
     #myprint7("data"+str(data))
+
     with open(totalcsvpath, mode='w', newline='',encoding=enc) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
@@ -464,6 +474,7 @@ def save_dialog_csv(breakdown,enc,char):
     xlsxpath=totalcsvpath.replace(".csv",".xlsx")
     myprint7("xlsx"+xlsxpath)
     convert_dialog_csv_to_xlsx2(totalcsvpath,xlsxpath,enc)
+
 def on_folder_select(event):
     global currentScriptFilename
     global currentOutputFolder
@@ -1408,7 +1419,7 @@ class TableColumnSelector(tk.Toplevel):
 importTab = None
 def open_table_selector(file_path):
     global importTab
-    importTab=TableColumnSelector(config_tab,file_path)
+    importTab=TableColumnSelector(tab_import,file_path)
 
 class PDFCropper(tk.Toplevel):
     def __init__(self, parent):
@@ -1546,7 +1557,7 @@ def merge_characters():
     name = character_table.item(currentCharacterSelectRowId, 'values')[1]
     currentCharacterMergeFromName=name
     myprint2("Merge "+name)
-    create_popup(currentResultCharacterOrderMap)
+    create_popup(currentResultCharacterOrderMap,name)
 
 def hide_character():
     myprint2("hide_character")
@@ -1661,21 +1672,38 @@ style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
 #notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
 # File preview tab
-config_tab = ttk.Frame(notebook)
-notebook.add(config_tab, text='Import tables',image=original_icon, compound=tk.LEFT)
+tab_import = ttk.Frame(notebook)
+def show_importtable_tab():
+    myprint7("show_importtable_tab")
+    if tab_import not in notebook.tabs():
+        notebook.insert(0,tab_import, text='Import tables')
+        notebook.update_idletasks()
+
+def hide_importtable_tab():
+    
+    myprint7("hide_importtable_tab"+str(len(notebook.tabs())))
+    #if tab_import in notebook.tabs():
+    myprint7("hide_importtable_tab has")
+
+    notebook.forget(tab_import)
+    notebook.update_idletasks()
+    #else:
+     #   myprint7("hide_importtable_tab no")
+    
+notebook.add(tab_import, text='Import tables',image=original_icon, compound=tk.LEFT)
 
 
-preview_tab = ttk.Frame(notebook)
-notebook.add(preview_tab, text='Texte',image=original_icon, compound=tk.LEFT)
-file_preview = Text(preview_tab)
+tab_text = ttk.Frame(notebook)
+notebook.add(tab_text, text='Texte',image=original_icon, compound=tk.LEFT)
+file_preview = Text(tab_text)
 file_preview.pack(fill=tk.BOTH, expand=True)
 
 # Statistics tab
-character_tab = ttk.Frame(notebook)
+tab_characters = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
 
-character_table = ttk.Treeview(character_tab, columns=('Order', 'Character','Status', 'Characters','Lines','Scenes'), show='headings')
+character_table = ttk.Treeview(tab_characters, columns=('Order', 'Character','Status', 'Characters','Lines','Scenes'), show='headings')
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
@@ -1700,7 +1728,7 @@ character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
-notebook.add(character_tab, text='Personages',image=char_icon, compound=tk.LEFT)
+notebook.add(tab_characters, text='Personages',image=char_icon, compound=tk.LEFT)
 
 character_table.tag_configure('hidden', foreground='#999999')
 character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
@@ -1776,9 +1804,9 @@ def open_result_folder():
         myprint2(f"Error opening folder: {e}")
 
 
-stats_tab = ttk.Frame(notebook)
+tab_dialog = ttk.Frame(notebook)
 # Create a Treeview widget within the stats_frame for the table
-stats_table = ttk.Treeview(stats_tab, columns=('Line number',  'Character','Text','Characters'), show='headings')
+stats_table = ttk.Treeview(tab_dialog, columns=('Line number',  'Character','Text','Characters'), show='headings')
 # Define the column headings
 stats_table.heading('Line number', text='Ligne')
 stats_table.heading('Character', text='Personnage')
@@ -1800,11 +1828,11 @@ bold_font = tkFont.Font( weight="bold")
 stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
 stats_table.tag_configure('bold', font=bold_font)
 
-notebook.add(stats_tab, text="Dialogue dans l'ordre",image=chat_icon, compound=tk.LEFT)
+notebook.add(tab_dialog, text="Dialogue dans l'ordre",image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics tab
-character_stats_tab = ttk.Frame(notebook)
+tab_dialog_by_character = ttk.Frame(notebook)
 
 # Create a Treeview widget within the stats_frame for the table
 cols=('Line #', 'Character','Character (raw)','Line')
@@ -1816,8 +1844,8 @@ style.configure('CrightPanel.TFrame', background='#fafafa')
 
 
 # Create left and right frames (panels) inside the tab
-cleft_panel = ttk.Frame(character_stats_tab, borderwidth=0, relief="flat", width=200)
-cright_panel = ttk.Frame(character_stats_tab, borderwidth=0, relief="flat")
+cleft_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat", width=200)
+cright_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat")
 
 cleft_panel.configure(style='CleftPanel.TFrame')  # Apply the styled background
 cright_panel.configure(style='CrightPanel.TFrame')  # Apply the styled background
@@ -1827,8 +1855,8 @@ cright_panel.configure(style='CrightPanel.TFrame')  # Apply the styled backgroun
 #cright_panel.pack(side='right', fill='y', expand=True)
 
 # Configure column weights to make right panel flexible
-character_stats_tab.grid_columnconfigure(1, weight=1)
-character_stats_tab.grid_rowconfigure(0, weight=1)
+tab_dialog_by_character.grid_columnconfigure(1, weight=1)
+tab_dialog_by_character.grid_rowconfigure(0, weight=1)
 
 
 character_list_table = ttk.Treeview(cleft_panel, columns=('Character'), show='headings')
@@ -1844,9 +1872,9 @@ cleft_panel.grid(row=0, column=0, sticky='nsew', padx=(0, 10))  # Add padding on
 cright_panel.grid(row=0, column=1, sticky='nsew')  # Automatically spaced by the left panel's padding
 
 # Configure column weights to make right panel flexible
-character_stats_tab.grid_columnconfigure(0, weight=0, minsize=200)  # Set minimum size for the left panel
-character_stats_tab.grid_columnconfigure(1, weight=1) 
-character_stats_tab.grid_rowconfigure(0, weight=1)
+tab_dialog_by_character.grid_columnconfigure(0, weight=0, minsize=200)  # Set minimum size for the left panel
+tab_dialog_by_character.grid_columnconfigure(1, weight=1) 
+tab_dialog_by_character.grid_rowconfigure(0, weight=1)
 def clear_character_stats():
     for item in character_stats_table.get_children():
         character_stats_table.delete(item)
@@ -1925,28 +1953,30 @@ for i in countingMethods:
 character_stats_table.pack(fill='both', expand=True)
 character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
 
-notebook.add(character_stats_tab, text='Répliques par personnage',image=chat_icon, compound=tk.LEFT)
+notebook.add(tab_dialog_by_character, text='Répliques par personnage',image=chat_icon, compound=tk.LEFT)
 
 
 # Statistics label
 #stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))
 #stats_label.pack(side=tk.BOTTOM, fill=tk.X)
 
-export_tab = ttk.Frame(notebook)
+tab_export = ttk.Frame(notebook)
 # Load folder button
-load_button = ttk.Button(export_tab, text="Ouvrir le dossier de résultats...", command=open_result_folder)
+load_button = ttk.Button(tab_export, text="Ouvrir le dossier de résultats...", command=open_result_folder)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-load_button = ttk.Button(export_tab, text="Ouvrir le fichier de conversion ...", command=open_result_folder)
+load_button = ttk.Button(tab_export, text="Ouvrir le fichier de conversion ...", command=open_result_folder)
+load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+load_button = ttk.Button(tab_export, text="Test ...", command=hide_importtable_tab)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 #load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
 #load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 # Load folder button
-load_button = ttk.Button(export_tab, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
+load_button = ttk.Button(tab_export, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
-load_button = ttk.Button(export_tab, text="Ouvrir le détail du dialogue...", command=open_dialog_recap)
+load_button = ttk.Button(tab_export, text="Ouvrir le détail du dialogue...", command=open_dialog_recap)
 load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 
 
@@ -1956,13 +1986,6 @@ load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
 #stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
 #stats_label.pack(side=tk.TOP, fill=tk.X)
 
-def show_importtable_tab(notebook, tab_id):
-    if tab_id not in notebook.tabs():
-        notebook.add(tabs[tab_id], text=tab_labels[tab_id])
-
-def hide_importtable_tab(notebook, tab_id):
-    if tab_id in notebook.tabs():
-        notebook.forget(tabs[tab_id])
 
 def merge_with():
     global currentMergedCharacters
@@ -1971,7 +1994,14 @@ def merge_with():
     
     first_selected_item = currentMergePopupTable.selection()[0]
     first_cell_value = currentMergePopupTable.item(first_selected_item, "values")[0]  
-    myprint2(str(first_cell_value))
+    myprint2("Merge with "+str(first_cell_value))
+    
+    if first_cell_value in currentMergedCharactersTo:
+        first_cell_value=currentMergedCharactersTo[first_cell_value]
+        myprint2("Merge with adjust to "+str(first_cell_value))
+    else:
+        myprint2("Merge with no adjustment"+str(first_cell_value))
+
     mergeto=first_cell_value
     mergefrom=currentCharacterMergeFromName
 
@@ -1990,8 +2020,50 @@ def merge_with():
 # Pack the Treeview widget with enough space
 #popup_character_list_table.pack(fill='both',expand=True)
 
+def create_popup(character_map, mergedchar):
+    global currentMergedCharactersTo
+    global currentMergePopupWindow
+    global currentMergePopupTable
+    popup = Toplevel(app)
+    popup.title("Merge with")
+    popup.geometry("300x550")  # Size of the popup window
+    currentMergePopupWindow = popup
 
-def create_popup(character_map):
+    # Create a frame for the Treeview and Scrollbar
+    tree_frame = tk.Frame(popup)
+    tree_frame.pack(fill='both', expand=True)
+
+    # Create the Treeview
+    popup_character_list_table = ttk.Treeview(tree_frame, columns=('Character'), show='headings')
+    # Define the column headings
+    popup_character_list_table.heading('Character', text='')
+
+    # Define the column width and alignment
+    popup_character_list_table.column('Character', width=150, anchor='w')
+    popup_character_list_table.pack(side='left', fill='both', expand=True)
+
+    # Create a vertical scrollbar and associate it with the Treeview
+    scrollbar = ttk.Scrollbar(tree_frame, orient='vertical', command=popup_character_list_table.yview)
+    popup_character_list_table.configure(yscroll=scrollbar.set)
+    scrollbar.pack(side='right', fill='y')
+
+    for k in character_map:
+        if k != mergedchar:
+            if not (k in currentMergedCharactersTo):    
+                popup_character_list_table.insert('', 'end', text=k, values=[k])
+
+    currentMergePopupTable = popup_character_list_table
+
+    # Frame to control the size of the button
+    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
+    button_frame.pack(fill='x')  # Fill frame horizontally
+    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
+
+    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
+    close_btn.pack(fill='x', expand=True)
+
+
+def create_popup_old(character_map):
     global currentMergePopupWindow
     global currentMergePopupTable
     popup = Toplevel(app)
@@ -2043,7 +2115,7 @@ def create_popup(character_map):
 
 
 
-notebook.add(export_tab, text='Export',image=export_icon, compound=tk.LEFT)
+notebook.add(tab_export, text='Export',image=export_icon, compound=tk.LEFT)
 
 
 logging.debug("Launch")

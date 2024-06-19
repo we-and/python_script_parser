@@ -1982,22 +1982,23 @@ class PDFViewer:
         self.file_path = file_path
         self.page_number = 10
         self.scale=1
-        self.width_threshold=280
-        self.rwidth_threshold=850
-        self.height_threshold=138
-        self.rheight_threshold=10
+        self.left_threshold=280
+        self.right_threshold=850
+        self.top_threshold=138
+        self.bottom_threshold=10
         
         self.text_elements=None
         self.canvas_height=0
 
-        self.input_blocksize = tk.StringVar()
-        self.input_blocksize.set(str(1))
+        self.input_firstpage = tk.StringVar()
+        self.input_firstpage.set(str(1))
 
         self.left_margin=45
-            # Initialize the vertical and horizontal line IDs
+        # Initialize the vertical and horizontal line IDs
         self.vertical_line = None
         self.vertical_liner = None
         self.horizontal_line = None
+        self.horizontal_liner = None
 
         myprint7("pdf2")
         # Open the PDF file
@@ -2006,7 +2007,7 @@ class PDFViewer:
         myprint7("Num pages : "+str(self.num_pages))
 
 
-  # Create a frame for the canvas and scrollbars
+        # Create a frame for the canvas and scrollbars
         self.canvas_frame = tk.Frame(root)
         self.canvas_frame.pack(side='left', fill='both', expand=True)
 
@@ -2015,7 +2016,7 @@ class PDFViewer:
         self.canvas.pack(side='left',fill='both', expand=True,padx=0, pady=0)
        
 
-# Create a frame for sliders
+        # Create a frame for sliders
         self.slider_frame = tk.Frame(root)
         self.slider_frame.pack(fill='both', expand=True,side='top')
 
@@ -2031,25 +2032,25 @@ class PDFViewer:
         entry.pack(pady=10)
 
         # Create a horizontal slider for width threshold
-        self.width_slider = Scale(self.slider_frame, from_=0, to=900, orient=HORIZONTAL, label='Seuil gauche', command=self.update_vertical_line)
-        self.width_slider.set(self.width_threshold)
-        self.width_slider.pack(side='top', fill='x', padx=10, pady=5)
+        self.left_slider = Scale(self.slider_frame, from_=0, to=900, orient=HORIZONTAL, label='Seuil gauche', command=self.update_left_line)
+        self.left_slider.set(self.left_threshold)
+        self.left_slider.pack(side='top', fill='x', padx=10, pady=5)
 
 
         # Create a horizontal slider for width threshold
-        self.rwidth_slider = Scale(self.slider_frame, from_=0, to=1300, orient=HORIZONTAL, label='Seuil droite', command=self.update_vertical_liner)
-        self.rwidth_slider.set(self.rwidth_threshold)
-        self.rwidth_slider.pack(side='top', fill='x', padx=10, pady=5)
+        self.right_slider = Scale(self.slider_frame, from_=0, to=1300, orient=HORIZONTAL, label='Seuil droite', command=self.update_right_liner)
+        self.right_slider.set(self.right_threshold)
+        self.right_slider.pack(side='top', fill='x', padx=10, pady=5)
 
         # Create a vertical slider for height threshold
-        self.height_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil haut', command=self.update_horizontal_line)
-        self.height_slider.set(self.height_threshold)
-        self.height_slider.pack(side='top', fill='x', padx=5, pady=10)
+        self.top_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil haut', command=self.update_top_line)
+        self.top_slider.set(self.top_threshold)
+        self.top_slider.pack(side='top', fill='x', padx=5, pady=10)
 
         # Create a vertical slider for height threshold
-        self.rheight_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil bas', command=self.update_horizontal_liner)
-        self.rheight_slider.set(self.rheight_threshold)
-        self.rheight_slider.pack(side='top', fill='x', padx=5, pady=10)
+        self.bottom_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil bas', command=self.update_bottom_liner)
+        self.bottom_slider.set(self.bottom_threshold)
+        self.bottom_slider.pack(side='top', fill='x', padx=5, pady=10)
 
 
 
@@ -2069,7 +2070,7 @@ class PDFViewer:
 
 
         # Draw the initial vertical line
-        self.draw_vertical_line(self.width_threshold)
+        self.draw_vertical_line(self.left_threshold)
 
         self.buttonframe0 = tk.Frame(root)
         self.buttonframe0.pack(side='top', fill='x')
@@ -2106,6 +2107,13 @@ class PDFViewer:
 
         # Draw the new horizontal line
         self.horizontal_line = self.canvas.create_line(0, y, self.canvas.winfo_width(), y, fill="black")
+    def draw_horizontal_liner(self, y):
+        # Remove the old horizontal line if it exists
+        if self.horizontal_liner is not None:
+            self.canvas.delete(self.horizontal_liner)
+
+        # Draw the new horizontal line
+        self.horizontal_liner = self.canvas.create_line(0, y, self.canvas.winfo_width(), y, fill="black")
 
     def display_page(self, page_number):
         # Render the page as an image
@@ -2136,35 +2144,40 @@ class PDFViewer:
         # Draw the new vertical line
         self.vertical_liner = self.canvas.create_line(x, 0, x, self.canvas.winfo_height(), fill="black")
 
-    def update_vertical_line(self, event):
+    def update_left_line(self, event):
         # Update the vertical line position based on the slider value
-        self.width_threshold=self.width_slider.get()*self.scale
+        self.left_threshold=self.left_slider.get()*self.scale
         self.redraw()
-    def update_vertical_liner(self, event):
+    def update_right_liner(self, event):
         # Update the vertical line position based on the slider value
-        self.rwidth_threshold=self.rwidth_slider.get()*self.scale
+        self.right_threshold=self.right_slider.get()*self.scale
         self.redraw()
-    def update_horizontal_line(self, event):
+    def update_top_line(self, event):
         # Update the vertical line position based on the slider value
-        self.height_threshold=self.canvas_height- self.height_slider.get()*self.scale
+        self.top_threshold=self.canvas_height- self.top_slider.get()*self.scale
+        self.redraw()
+    def update_bottom_liner(self, event):
+        # Update the vertical line position based on the slider value
+        self.bottom_threshold=self.canvas_height- self.bottom_slider.get()*self.scale
         self.redraw()
     def next_page(self):
         if self.page_number < self.num_pages - 1:
             self.page_number += 1
             self.display_page(self.page_number)
-
+            self.label.config(text="Page: "+str(self.page_number)+" / "+str(self.num_pages-1))
     def redraw(self):
         self.canvas.delete("all")
-        res=split_elements(self.text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold,self.rheight_threshold)
+        res=split_elements(self.text_elements,self.left_threshold,self.top_threshold,self.right_threshold,self.bottom_threshold)
         left=res['left']
         center=res['center']
         right=res['right']
         top=res['top']
+        bottom=res['bottom']
         self.centered_blocks=center
         left_margin=self.left_margin
         print("------------------------")
-        print(f"l={self.width_threshold} r={self.rwidth_threshold} t={self.height_threshold}")
-        print(f"l={len(left)} r={len(top)} t={len(right)} c={len(center)}")
+        print(f"l={self.left_threshold} r={self.right_threshold} t={self.top_threshold} b={self.bottom_threshold}")
+        print(f"l={len(left)} r={len(top)} t={len(right)} c={len(center)} b={len(bottom)}")
         for k in left:
             self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
         for k in center:
@@ -2172,6 +2185,8 @@ class PDFViewer:
         for k in right:
             self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
         for k in top:
+            self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        for k in bottom:
             self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
         self.draw_lines()
     def draw_bbox(self,canvas_height,dpi,scale_factor, bbox_points,text,color,fillcolor,left_margin):
@@ -2224,7 +2239,7 @@ class PDFViewer:
 
     def run(self):
         self.all_text_elements=get_pdf_text_elements(self.file_path,-1)
-        res=split_elements(self.all_text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold)
+        res=split_elements(self.all_text_elements,self.left_threshold,self.top_threshold,self.right_threshold,self.bottom_threshold)
         self.all_centered_blocks=res['center'];
         print("RUN")
         converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
@@ -2288,7 +2303,7 @@ class PDFViewer:
 
         self.current_image = nimg_tk
         self.text_elements=get_pdf_text_elements(self.file_path,self.page_number)
-        res=split_elements(self.text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold)
+        res=split_elements(self.text_elements,self.left_threshold,self.top_threshold,self.right_threshold,self.bottom_threshold)
         #//res=get_pdf_page_blocks(self.file_path,self.page_number)
         left=res['left']
         center=res['center']
@@ -2305,15 +2320,19 @@ class PDFViewer:
         self.draw_lines()
 
     def draw_lines(self):
-        self.draw_vertical_liner(self.left_margin+ self.rwidth_slider.get()*self.scale)            
-        self.draw_vertical_line(self.left_margin+self.width_slider.get()*self.scale)            
-        self.draw_horizontal_line(self.height_slider.get()*self.scale)   
+        print(f"Draw {self.left_margin+ self.right_slider.get()*self.scale} {self.left_margin+self.left_slider.get()*self.scale} {self.canvas_height-self.top_slider.get()*self.scale} {self.canvas_height- self.bottom_slider.get()*self.scale}")
+        self.draw_vertical_liner(self.left_margin+ self.right_slider.get()*self.scale)            
+        self.draw_vertical_line(self.left_margin+self.left_slider.get()*self.scale)            
+        self.draw_horizontal_line(self.top_slider.get()*self.scale)   
+        self.draw_horizontal_liner(self.canvas_height- self.bottom_slider.get()*self.scale)   
     def prev_page(self):
+        
         if self.page_number > 0:
             self.page_number -= 1
             self.display_page(self.page_number)
         app.update_idletasks()  # Force the UI to update
-        
+        self.label.config(text="Page: "+str(self.page_number)+" / "+str(self.num_pages-1))
+
 tab_import_pdf = ttk.Frame(notebook)
 #pdf_viewer = PDFViewer(tab_import_pdf, file_path)
 # Set the initial page number

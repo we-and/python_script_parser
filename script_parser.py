@@ -1041,13 +1041,13 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
     return ""
 
 
-def is_left_aligned(block_left,  threshold):
+def is_in_left_margin(block_left,  threshold):
     return block_left<threshold
-def is_top_aligned(block_left,  threshold):
+def is_in_top_margin(block_left,  threshold):
     return block_left>threshold
-def is_bottom_aligned(block_left,  threshold):
+def is_in_bottom_margin(block_left,  threshold):
     return block_left<threshold
-def is_right_aligned(block_left, min_left):
+def is_in_right_margin(block_left, min_left):
     return block_left>min_left
 
 def is_centered(block_left, min_left, max_left, threshold):
@@ -1215,13 +1215,13 @@ def get_pdf_page_blocks(file_path,page_idx):
         left_pos=el['bbox'][0]
         bottom_pos=el['bbox'][1]
         print("test ["+str(left_pos) +"]"+str(el['text']))
-        if is_top_aligned(bottom_pos, top_margin):
+        if is_in_top_margin(bottom_pos, top_margin):
             print("test left")
             top_aligned_blocks.append(el)
-        elif is_left_aligned(left_pos, left_margin):
+        elif is_in_left_margin(left_pos, left_margin):
             print("test left")
             left_aligned_blocks.append(el)
-        elif is_right_aligned(left_pos,right_margin):
+        elif is_in_right_margin(left_pos,right_margin):
             print("test right")
             right_aligned_blocks.append(el)
         else:#if is_centered(left_pos, min_left, max_left, threshold):
@@ -1239,22 +1239,21 @@ def split_elements(text_elements,left_margin,top_margin,right_margin,bottom_marg
     right_aligned_blocks = []
     bottom_blocks = []
     centered_blocks = []
-    #print("-------------------------------")
+    print(f"--split left={left_margin} top={top_margin} right={right_margin} bottom={bottom_margin}")
     #print("TEST")
     for k,el in enumerate(text_elements):
         left_pos=el['bbox'][0]
         bottom_pos=el['bbox'][1]
      #   print("test ["+str(left_pos) +"]"+str(el['text']))
-        if is_top_aligned(bottom_pos, top_margin):
-      #      print("test left")
+        if is_in_top_margin(bottom_pos, top_margin):
             top_aligned_blocks.append(el)
-        elif is_left_aligned(left_pos, left_margin):
+        elif is_in_left_margin(left_pos, left_margin):
        #     print("test left")
             left_aligned_blocks.append(el)
-        elif is_right_aligned(left_pos,right_margin):
+        elif is_in_right_margin(left_pos,right_margin):
         #    print("test right")
             right_aligned_blocks.append(el)
-        elif is_bottom_aligned(left_pos,right_margin):
+        elif is_in_bottom_margin(left_pos,bottom_margin):
         #    print("test right")
             bottom_blocks.append(el)
         else:#if is_centered(left_pos, min_left, max_left, threshold):
@@ -1361,13 +1360,13 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
         left_pos=el['bbox'][0]
         bottom_pos=el['bbox'][1]
         print("test ["+str(left_pos) +"]"+str(el['text']))
-        if is_top_aligned(bottom_pos,  threshold):
+        if is_in_top_margin(bottom_pos,  threshold):
             print("test left")
             top_aligned_blocks.append(el)
-        elif is_left_aligned(left_pos, min_left, threshold):
+        elif is_in_left_margin(left_pos, min_left, threshold):
             print("test left")
             left_aligned_blocks.append(el)
-        elif is_right_aligned(left_pos, max_left, threshold):
+        elif is_in_right_margin(left_pos, max_left, threshold):
             print("test right")
             right_aligned_blocks.append(el)
         else:#if is_centered(left_pos, min_left, max_left, threshold):

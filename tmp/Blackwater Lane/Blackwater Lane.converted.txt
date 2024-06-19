@@ -299,7 +299,7 @@ NEWSCASTER	What they're doing is raising money for a local charity for the elder
 CASS	Matt?
 CASS	Matt?
 CASS	Matt, is that you?
-CASS	Hello? Hello? (man coughing over static)
+CASS	Hello? Hello? 
 CASS	Oh, I just called this morning. I thought you were coming tomorrow.
 SECURITY MAN	Yes, but there was a cancellation and I was in the area.
 SECURITY MAN	Sorry I didn't call.
@@ -474,7 +474,7 @@ JOHN	Well, he didn't like Jane and I playing tennis together.
 JOHN	That's why we stopped.
 JOHN	She did anything she could to please him.
 CASS	So, you're off to Greece soon.
-JOHN	No, not anymore. (sighs)
+JOHN	No, not anymore. 
 CASS	Oh, why?
 JOHN	Let's just say my girlfriend is no longer on the scene.
 CASS	Oh. I'm sorry.
@@ -492,7 +492,7 @@ RACHEL	This client dinner is running late and driving me also insane.
 RACHEL	Sorry.
 CASS	No, no. There's nothing you can do, it's fine.
 RACHEL	Are you going to be okay?
-CASS	Of course I'll be fine. (phone beeping)
+CASS	Of course I'll be fine. 
 RACHEL	Turn all the lights on. Open ice cream.
 CASS	That's Matthew. Let me call you back.
 RACHEL	Okay.
@@ -527,7 +527,7 @@ GHOSTLY FEMALE VOICE	Cass.
 GHOSTLY FEMALE VOICE	Cass.
 CASS	Who's there?
 DISPATCHER	Emergency...
-CASS	Hello? (clatter continues)
+CASS	Hello? 
 CASS	There's someone in my house. Please send someone quick.
 CASS	14 Old River Road.
 CASS	Please come fast!
@@ -803,7 +803,7 @@ CASS	No, no, no, in the house. Didn't you hear her?
 MATTHEW	I didn't hear a thing. Shall we call the cops?
 CASS	Why would we call the cops? They'll do nothing...
 MATTHEW	Babe, come on.
-CASS	I'm not making it up. (sobbing) I promise, I'm not making it up.
+CASS	I'm not making it up.  I promise, I'm not making it up.
 MATTHEW	No, I know, I know, I know.
 CASS	I'm... I'm not crazy.
 MATTHEW	I don't get it. I just don't understand.
@@ -893,7 +893,7 @@ CASS	I have a pair just like it and when I found it, I came back and I checked a
 DC LAWSON	So, why didn't you call us?
 CASS	Honestly, I didn't know what to do.
 DC LAWSON	Is everything okay here?
-CASS	Uh... (laughs softly)
+CASS	Uh... 
 CASS	What do you mean?
 DC LAWSON	With you and your husband.
 CASS	We're good. Why?
@@ -907,7 +907,7 @@ DC LAWSON	for a teacher?
 DC LAWSON	No offense.
 CASS	You mean my house?
 CASS	Matthew had nothing to do with this. This is from my parents.
-DC LAWSON	It's very nice for you. (laughs softly)
+DC LAWSON	It's very nice for you. 
 CASS	Yeah. Thanks. It is a bit of a surprise.
 CASS	I mean, I...
 CASS	certainly didn't want for anything growing up.
@@ -1085,7 +1085,7 @@ RACHEL	in the middle of this.
 RACHEL	I have to run to the bathroom.
 CASS	Uh... we're okay. Thank you.
 RACHEL	Legal's still expecting a set of notes from the SEC.
-RACHEL	Could we... (sighs) Yeah, we could turn around by the end of business in New York, but...
+RACHEL	Could we...  Yeah, we could turn around by the end of business in New York, but...
 RACHEL	Hold on.
 RACHEL	I'm sorry. Uh, kind of an emergency came up at the office.
 RACHEL	Can I abandon you?
@@ -1180,7 +1180,7 @@ RACHEL	You don't touch me. You don't-- You don't touch me!
 CASS	Matthew!
 RACHEL	You...
 RACHEL	You did this! You did this! You did this.
-DC LAWSON	That's enough! (guns cocking) Back away.
+DC LAWSON	That's enough!  Back away.
 RACHEL	Somebody help him.
 DC LAWSON	Back away!
 RACHEL	Somebody help him, somebody help him, somebody help him.

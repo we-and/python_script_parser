@@ -6,7 +6,12 @@ import pandas as pd
 from docx import Document
 import csv
 import platform
-
+#from PyPDF2 import PdfReader
+#from PyPDF2.constants import TextAlignment
+#from PyPDF2.generic import RectangleObject
+from pdfminer.high_level import extract_pages
+from pdfminer.layout import LTTextContainer, LTChar
+from pdfminer.layout import LTPage
 #if platform.system() == 'Windows':
  #   import pythoncom
   #  import win32api
@@ -602,6 +607,7 @@ def filter_speech(input):
     s=get_text_without_parentheses(input)
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
+    s=s.replace("♪","").replace("Â§","").replace("§","")
     s=s.replace("â€¦ ",".")
     if s.startswith("- "):
         s=s.lstrip("- ")
@@ -1034,7 +1040,234 @@ def convert_doc_to_docx(doc_path,currentOutputFolder):
         pythoncom.CoUninitialize()
     return ""
 
-                      
+
+def is_left_aligned(block_left,  threshold):
+    return block_left<threshold
+def is_top_aligned(block_left,  threshold):
+    return block_left>threshold
+def is_bottom_aligned(block_left,  threshold):
+    return block_left<threshold
+def is_right_aligned(block_left, min_left):
+    return block_left>min_left
+
+def is_centered(block_left, min_left, max_left, threshold):
+    center = (min_left + max_left) / 2
+    return abs(block_left - center) <= threshold
+       
+
+def get_pdf_text_elements(file_path,page_idx):
+    print("---------- get_pdf_page_blocks -----------------")
+    text_elements=[]
+    minboxleft=100000
+
+    if page_idx<0:
+        for page_layout in extract_pages(file_path):
+                print("----------------------------")
+                print(f"Page number: {page_layout.pageid}")
+                print("-- PAGE "+str(page_idx))
+            
+                # Get the page bounding box coordinates and dimensions
+                if isinstance(page_layout, LTPage):
+                    page_bbox = page_layout.bbox
+                    page_x0, page_y0, page_x1, page_y1 = page_bbox
+                    page_width = page_x1 - page_x0
+                    page_height = page_y1 - page_y0
+                else:
+                    # If page bounding box is not available, skip processing the page
+                    continue
+                # Loop over the elements in the page
+                print(str(page_layout))
+
+                for element in page_layout:
+                    
+                    # Check if the element is a text container
+                    if isinstance(element, LTTextContainer):
+                        print("element")
+                        # Loop over the text blocks within the text container
+                        text_block = element.get_text()
+                        bbox = element.bbox  # (x0, y0, x1, y1)                        
+                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                        if is_inside:
+                            # Print the text block and its bounding box
+                            print(f"{bbox} {text_block.strip()}")
+                            if bbox[0] < minboxleft:
+                                minboxleft=bbox[0]
+                            text_elements.append({
+                                'text':text_block.strip(),
+                                'bbox':bbox,
+                            })
+    else:        
+        for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
+                print("----------------------------")
+                print(f"Page number: {page_layout.pageid}")
+                print("-- PAGE "+str(page_idx))
+            
+                # Get the page bounding box coordinates and dimensions
+                if isinstance(page_layout, LTPage):
+                    page_bbox = page_layout.bbox
+                    page_x0, page_y0, page_x1, page_y1 = page_bbox
+                    page_width = page_x1 - page_x0
+                    page_height = page_y1 - page_y0
+                else:
+                    # If page bounding box is not available, skip processing the page
+                    continue
+                # Loop over the elements in the page
+                print(str(page_layout))
+
+                for element in page_layout:
+                    
+                    # Check if the element is a text container
+                    if isinstance(element, LTTextContainer):
+                        print("element")
+                        # Loop over the text blocks within the text container
+                        text_block = element.get_text()
+                        bbox = element.bbox  # (x0, y0, x1, y1)                        
+                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                        if is_inside:
+                            # Print the text block and its bounding box
+                            print(f"{bbox} {text_block.strip()}")
+                            if bbox[0] < minboxleft:
+                                minboxleft=bbox[0]
+                            text_elements.append({
+                                'text':text_block.strip(),
+                                'bbox':bbox,
+                            })
+    return text_elements
+def get_pdf_page_blocks(file_path,page_idx):
+    print("---------- get_pdf_page_blocks -----------------")
+    text_elements=[]
+    minboxleft=100000
+    for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
+                print("----------------------------")
+                print(f"Page number: {page_layout.pageid}")
+                print("-- PAGE "+str(page_idx))
+            
+                # Get the page bounding box coordinates and dimensions
+                if isinstance(page_layout, LTPage):
+                    page_bbox = page_layout.bbox
+                    page_x0, page_y0, page_x1, page_y1 = page_bbox
+                    page_width = page_x1 - page_x0
+                    page_height = page_y1 - page_y0
+                else:
+                    # If page bounding box is not available, skip processing the page
+                    continue
+                # Loop over the elements in the page
+                print(str(page_layout))
+
+                for element in page_layout:
+                    
+                    # Check if the element is a text container
+                    if isinstance(element, LTTextContainer):
+                        print("element")
+                        # Loop over the text blocks within the text container
+                        text_block = element.get_text()
+                        #for text_line in element:
+                        #   text_block = ""
+                        #  text_position = []
+
+                        bbox = element.bbox  # (x0, y0, x1, y1)
+                        
+                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                        #print(                bbox[0] >= page_x0) 
+                        #print(         bbox[1] >= page_y0 )
+                        #print(         bbox[2] <= page_x1 )
+                        #print(          bbox[3] <= page_y1)
+         
+                        if is_inside:
+                            # Print the text block and its bounding box
+                            print(f"{bbox} {text_block.strip()}")
+                            if bbox[0] < minboxleft:
+                                minboxleft=bbox[0]
+                            text_elements.append({
+                                'text':text_block.strip(),
+                                'bbox':bbox,
+                            })
+    xvalues={}
+    for k,el in enumerate(text_elements):
+        left=el['bbox'][0]
+        if left in xvalues:
+            xvalues[left]=xvalues[left]+1
+        else:
+            xvalues[left]=1
+
+    print("XVALUES"+str(xvalues))
+
+    xval=list(xvalues.keys())
+    # Find the minimum and maximum left positions
+    min_left = min(xval)
+    max_left = max(xval)
+    print("MIN_LEFT"+str(min_left))
+    print("MAX_LEFT"+str(max_left))
+
+
+    left_margin=110
+    top_margin=740
+    right_margin=500
+    # Categorize blocks as left-aligned or centered
+    top_aligned_blocks = []
+    left_aligned_blocks = []
+    right_aligned_blocks = []
+    centered_blocks = []
+
+    print("-------------------------------")
+    print("TEST")
+    for k,el in enumerate(text_elements):
+        left_pos=el['bbox'][0]
+        bottom_pos=el['bbox'][1]
+        print("test ["+str(left_pos) +"]"+str(el['text']))
+        if is_top_aligned(bottom_pos, top_margin):
+            print("test left")
+            top_aligned_blocks.append(el)
+        elif is_left_aligned(left_pos, left_margin):
+            print("test left")
+            left_aligned_blocks.append(el)
+        elif is_right_aligned(left_pos,right_margin):
+            print("test right")
+            right_aligned_blocks.append(el)
+        else:#if is_centered(left_pos, min_left, max_left, threshold):
+            print("test centre")
+            centered_blocks.append(el)
+    return {
+        'left':left_aligned_blocks,
+        'right':right_aligned_blocks,
+        'top':top_aligned_blocks,
+        'center':centered_blocks
+    }
+def split_elements(text_elements,left_margin,top_margin,right_margin,bottom_margin):
+    top_aligned_blocks = []
+    left_aligned_blocks = []
+    right_aligned_blocks = []
+    bottom_blocks = []
+    centered_blocks = []
+    #print("-------------------------------")
+    #print("TEST")
+    for k,el in enumerate(text_elements):
+        left_pos=el['bbox'][0]
+        bottom_pos=el['bbox'][1]
+     #   print("test ["+str(left_pos) +"]"+str(el['text']))
+        if is_top_aligned(bottom_pos, top_margin):
+      #      print("test left")
+            top_aligned_blocks.append(el)
+        elif is_left_aligned(left_pos, left_margin):
+       #     print("test left")
+            left_aligned_blocks.append(el)
+        elif is_right_aligned(left_pos,right_margin):
+        #    print("test right")
+            right_aligned_blocks.append(el)
+        elif is_bottom_aligned(left_pos,right_margin):
+        #    print("test right")
+            bottom_blocks.append(el)
+        else:#if is_centered(left_pos, min_left, max_left, threshold):
+         #   print("test centre")
+            centered_blocks.append(el)
+    return {
+        'bottom':bottom_blocks,
+        'left':left_aligned_blocks,
+        'right':right_aligned_blocks,
+        'top':top_aligned_blocks,
+        'center':centered_blocks
+    }
+
 def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
     print("convert_pdf_to_txt")
     print("currentOutputFolder             :"+absCurrentOutputFolder)
@@ -1042,83 +1275,432 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
     converted_file_path=""
     if ".pdf" in file_path.lower() :
         converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
+    if ".pdf" in file_path.lower() :
+        converted_raw_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".raw.txt"))
+    minboxleft=100000
+    npagesmax=10000
+    firstpage=3
+    page_idx=0
+    
+    with open(converted_raw_file_path, 'w', encoding='utf-8') as fileraw:              
+        
+        text_elements=[]
+        for page_layout in extract_pages(file_path):
+                page_idx=page_idx+1
+                if page_idx<firstpage:
+                    continue
+                if page_idx>npagesmax:
+                    break
+                print("----------------------------")
+                print(f"Page number: {page_layout.pageid}")
+                print("-- PAGE "+str(page_idx))
+            
+                # Get the page bounding box coordinates and dimensions
+                if isinstance(page_layout, LTPage):
+                    page_bbox = page_layout.bbox
+                    page_x0, page_y0, page_x1, page_y1 = page_bbox
+                    page_width = page_x1 - page_x0
+                    page_height = page_y1 - page_y0
+                else:
+                    # If page bounding box is not available, skip processing the page
+                    continue
+                # Loop over the elements in the page
+                for element in page_layout:
+                    # Check if the element is a text container
+                    if isinstance(element, LTTextContainer):
+                        # Loop over the text blocks within the text container
+                        text_block = element.get_text()
+                        #for text_line in element:
+                        #   text_block = ""
+                        #  text_position = []
+
+                        bbox = element.bbox  # (x0, y0, x1, y1)
+                        
+                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                        #print(                bbox[0] >= page_x0) 
+                        #print(         bbox[1] >= page_y0 )
+                        #print(         bbox[2] <= page_x1 )
+                        #print(          bbox[3] <= page_y1)
+         
+                        if is_inside:
+                            # Print the text block and its bounding box
+                            print(f"{bbox} {text_block.strip()}")
+                            if bbox[0] < minboxleft:
+                                minboxleft=bbox[0]
+                            text_elements.append({
+                                'text':text_block.strip(),
+                                'bbox':bbox,
+                            })
+    xvalues={}
+    for k,el in enumerate(text_elements):
+        left=el['bbox'][0]
+        if left in xvalues:
+            xvalues[left]=xvalues[left]+1
+        else:
+            xvalues[left]=1
+
+    print("XVALUES"+str(xvalues))
+
+    xval=list(xvalues.keys())
+    # Find the minimum and maximum left positions
+    min_left = min(xval)
+    max_left = max(xval)
+    print("MIN_LEFT"+str(min_left))
+    print("MAX_LEFT"+str(max_left))
+
+    threshold = 50
+    # Categorize blocks as left-aligned or centered
+    top_aligned_blocks = []
+    left_aligned_blocks = []
+    right_aligned_blocks = []
+    centered_blocks = []
+
+    print("-------------------------------")
+    print("TEST")
+    for k,el in enumerate(text_elements):
+        left_pos=el['bbox'][0]
+        bottom_pos=el['bbox'][1]
+        print("test ["+str(left_pos) +"]"+str(el['text']))
+        if is_top_aligned(bottom_pos,  threshold):
+            print("test left")
+            top_aligned_blocks.append(el)
+        elif is_left_aligned(left_pos, min_left, threshold):
+            print("test left")
+            left_aligned_blocks.append(el)
+        elif is_right_aligned(left_pos, max_left, threshold):
+            print("test right")
+            right_aligned_blocks.append(el)
+        else:#if is_centered(left_pos, min_left, max_left, threshold):
+            print("test centre")
+            centered_blocks.append(el)
+
+    
+    print("-------------------------------")
+    print("LEFT")
+    for k,el in enumerate(left_aligned_blocks):
+        left_pos=el['bbox'][0]
+        text=el['text']
+        print(str(text)+" "+str(left_pos))
+    print("-------------------------------")
+    print("RIGHT")
+    for k,el in enumerate(right_aligned_blocks):
+        left_pos=el['bbox'][0]
+        text=el['text']
+        print(str(text)+" "+str(left_pos))
+    print("-------------------------------")
+    print("CENTER")
+    for k,el in enumerate(centered_blocks):
+        left_pos=el['bbox'][0]
+        text=el['text']
+        print(str(text)+" "+str(left_pos))
+
+    print("-------------------------------")
+    print("OUTPUT")
+    current_character=None
+    is_after_character=False
     with open(converted_file_path, 'w', encoding='utf-8') as file:
-        with pdfplumber.open(file_path) as pdf:
-          page_idx=1  
-          for page in pdf.pages[1:]:
-
-            page_idx=page_idx+1
-            if page_idx<40000:
-                # Extract tables from the page
-                print("########################################################")
-                print("convert_pdf_to_txt page"+str(page_idx))
-                crop_coords = [0.68,0.20,0.95,0.90]
-                my_width = page.width
-                my_height = page.height
-                my_bbox = (crop_coords[0]*float(my_width), crop_coords[1]*float(my_height), crop_coords[2]*float(my_width), crop_coords[3]*float(my_height))
-                page = page.crop(bbox=my_bbox)
-                text = str(page.extract_text())
-                print(text)
-                textlines=text.split("\n")
-                current_character=""
-                current_characters_split=[]
-                speech=""
-                mode="linear"
-                for line in textlines:
-                    if line.isupper():
-                        if " THEN " in line or "," in line:
-                            mode="split"
-                            if " THEN " in line:
-                                current_characters_split=line.split(" THEN ")   
-                            elif "," in line: 
-                                current_characters_split=line.split(",")    
-                            
-                            current_character=line
-                        else:
-                            current_character=line
-                            mode="linear"
+        for k,el in enumerate(centered_blocks):
+            left_pos=el['bbox'][0]
+            text=el['text']
+            print("OUT  ["+str(left_pos)+"]   "+text)
+            parts=text.split("\n")
+            Nparts=len(parts)
+            if Nparts==1:    
+                if text.isupper() and not is_after_character and not text.startswith("¡"):
+                    print("CHAR   "+text)
+                    current_character=filter_character_name(text)
+                    is_after_character=True
+                else:
+                    print("DIALOG "+text)
+                    dialog=filter_speech(text)
+                    is_after_character=False
+                    if current_character!=None:
+                        s=current_character+"\t"+dialog+"\n"  # New line after each row
+                        file.write(s)
+            else:
+                for part in parts:
+                    if part.isupper() and not is_after_character and not text.startswith("¡"):
+                        print("CHAR   "+text)
+                        current_character=filter_character_name(part)
+                        is_after_character=True
                     else:
-                        speech=line
-                        if mode=="split":
-                            speeches=speech.split("\n")
-                            charidx=0
-                            for sp in speeches:
-                                sp=sp.replace("- ","")
-                                current_character=current_characters_split[charidx]
-                                s=current_character+"\t"+sp+"\n"  # New line after each row
-                                print("Add "+ current_character + " "+ speech)
-                                file.write(s)
-                                charidx=charidx+1
-
-                        if mode=="linear":
-                            if current_character=="":
-                                current_character="__VOICEOVER"
-                            s=current_character+"\t"+speech+"\n"  # New line after each row
-                            print("Add "+ current_character + " "+ speech)
+                        print("DIALOG "+part)
+                        dialog=filter_speech(part)
+                        is_after_character=False
+                        if current_character!=None:
+                            s=current_character+"\t"+dialog+"\n"  # New line after each row
                             file.write(s)
 
-                if False:
-                    tables = page.extract_tables()
-        #            tables = page.extract_tables(table_settings={"vertical_strategy": "text",    "horizontal_strategy": "text"})
-                    pdf_mode="?"
-                    print("convert_pdf_to_txt tables = "+str(len(tables)))
-                    
-                    for table in tables:
-                        # Add a table to the Word document
-                        if table:  # Check if the table is not empty
 
-                            print("convert_pdf_to_txt testheader")
-                            print(table)
-                            headerSuccess=False
-                            for i in range(3):
-                                print("test row"+str(i))
-                                header=table[i]
-                                success=test_pdf_header(file,table,header)
-                                if success:
-                                    headerSuccess=True
-                                    break
-                            if not headerSuccess:
-                                return ""
+    print("-------------------------------")
+    print("FINISHED")
+    print("Converted")                       
+    print(converted_file_path)
+    return converted_file_path,encoding
+
+def run_convert_pdf_to_txt(file_path,absCurrentOutputFolder,centered_blocks,encoding):
+    converted_file_path=""
+    if ".pdf" in file_path.lower() :
+        converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
+    if ".pdf" in file_path.lower() :
+        converted_raw_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".raw.txt"))
+
+    current_character=None
+    is_after_character=False
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        for k,el in enumerate(centered_blocks):
+            left_pos=el['bbox'][0]
+            text=el['text']
+            print("OUT  ["+str(left_pos)+"]   "+text)
+            parts=text.split("\n")
+            Nparts=len(parts)
+            if Nparts==1:    
+                if text.isupper() and not is_after_character and not text.startswith("¡"):
+                    print("CHAR   "+text)
+                    current_character=filter_character_name(text)
+                    is_after_character=True
+                else:
+                    print("DIALOG "+text)
+                    dialog=filter_speech(text)
+                    is_after_character=False
+                    if current_character!=None:
+                        s=current_character+"\t"+dialog+"\n"  # New line after each row
+                        file.write(s)
+            else:
+                for part in parts:
+                    if part.isupper() and not is_after_character and not text.startswith("¡"):
+                        print("CHAR   "+text)
+                        current_character=filter_character_name(part)
+                        is_after_character=True
+                    else:
+                        print("DIALOG "+part)
+                        dialog=filter_speech(part)
+                        is_after_character=False
+                        if current_character!=None:
+                            s=current_character+"\t"+dialog+"\n"  # New line after each row
+                            file.write(s)
+
+
+    print("-------------------------------")
+    print("FINISHED")
+    print("Converted")                       
+    print(converted_file_path)
+    return converted_file_path,encoding
+            
+def convert_pdf_to_txt_pdfplum(file_path,absCurrentOutputFolder,encoding):
+    print("convert_pdf_to_txt")
+    print("currentOutputFolder             :"+absCurrentOutputFolder)
+    print("Input              :"+file_path)
+    converted_file_path=""
+    if ".pdf" in file_path.lower() :
+        converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
+    if ".pdf" in file_path.lower() :
+        converted_raw_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".raw.txt"))
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        with open(converted_raw_file_path, 'w', encoding='utf-8') as fileraw:
+                pdf = PdfReader(file_path)
+                page_idx=1  
+                for page_num in range(len(pdf.pages)):
+                    page = pdf.pages[page_num]
+                    page_idx=page_idx+1
+                    if page_idx<40000:
+                        # Extract tables from the page
+                        print("########################################################")
+                        print("convert_pdf_to_txt page"+str(page_idx))
+                        #crop_coords = [0.68,0.20,0.95,0.90]
+                        #my_width = page.width
+                        #my_height = page.height
+                        #my_bbox = (crop_coords[0]*float(my_width), crop_coords[1]*float(my_height), crop_coords[2]*float(my_width), crop_coords[3]*float(my_height))
+                        #page = page.crop(bbox=my_bbox)
+                        print("extract")
+                        extr=page.extract_text(TextAlignment.NONE).split("\n\n")
+                        print(extr)
+                        text = str(extr)
+                        print(text)
+                        print("write")
+                        fileraw.write(text)
+                        print("split")
+                        text_blocks = extr.split('\n')
+
+                        for block_num, block in enumerate(text_blocks, start=1):
+                            # Skip empty blocks
+                            if block.strip() == "":
+                                continue
+                            
+                            # Print the page number, block number, and block text
+                            print(f"Page: {page_num + 1}")
+                            print(f"Block: {block_num}")
+                            print(f"Text: {block.strip()}")
+                            print("---")
+                            block_position = page.get_text_block_position(block)
+                            if block_position is not None:
+                                # Extract the coordinates of the block position
+                                x0, y0, x1, y1 = block_position
+
+                                print(f"Position: ({x0}, {y0}) - ({x1}, {y1})")
+                            else:
+
+                                print(f"Position: none")
+
+                        textlines=text.split("\n")
+                        current_character=""
+                        current_characters_split=[]
+                        speech=""
+                        mode="linear"
+                        for line in textlines:
+                            if line.isupper():
+                                if " THEN " in line or "," in line:
+                                    mode="split"
+                                    if " THEN " in line:
+                                        current_characters_split=line.split(" THEN ")   
+                                    elif "," in line: 
+                                        current_characters_split=line.split(",")    
+                                    
+                                    current_character=line
+                                else:
+                                    current_character=line
+                                    mode="linear"
+                            else:
+                                speech=line
+                                if mode=="split":
+                                    speeches=speech.split("\n")
+                                    charidx=0
+                                    for sp in speeches:
+                                        sp=sp.replace("- ","")
+                                        current_character=current_characters_split[charidx]
+                                        s=current_character+"\t"+sp+"\n"  # New line after each row
+                                        print("Add "+ current_character + " "+ speech)
+                                        file.write(s)
+                                        charidx=charidx+1
+
+                                if mode=="linear":
+                                    if current_character=="":
+                                        current_character="__VOICEOVER"
+                                    s=current_character+"\t"+speech+"\n"  # New line after each row
+                                    print("Add "+ current_character + " "+ speech)
+                                    file.write(s)
+
+                        if False:
+                            tables = page.extract_tables()
+                #            tables = page.extract_tables(table_settings={"vertical_strategy": "text",    "horizontal_strategy": "text"})
+                            pdf_mode="?"
+                            print("convert_pdf_to_txt tables = "+str(len(tables)))
+                            
+                            for table in tables:
+                                # Add a table to the Word document
+                                if table:  # Check if the table is not empty
+
+                                    print("convert_pdf_to_txt testheader")
+                                    print(table)
+                                    headerSuccess=False
+                                    for i in range(3):
+                                        print("test row"+str(i))
+                                        header=table[i]
+                                        success=test_pdf_header(file,table,header)
+                                        if success:
+                                            headerSuccess=True
+                                            break
+                                    if not headerSuccess:
+                                        return ""
+    print("Converted")                       
+    print(converted_file_path)
+    return converted_file_path,encoding
+
+def convert_pdf_to_txt_pdfplumber(file_path,absCurrentOutputFolder,encoding):
+    print("convert_pdf_to_txt")
+    print("currentOutputFolder             :"+absCurrentOutputFolder)
+    print("Input              :"+file_path)
+    converted_file_path=""
+    if ".pdf" in file_path.lower() :
+        converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".converted.txt"))
+    if ".pdf" in file_path.lower() :
+        converted_raw_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).lower().replace(".pdf",".raw.txt"))
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        with open(converted_raw_file_path, 'w', encoding='utf-8') as fileraw:
+            with pdfplumber.open(file_path) as pdf:
+                page_idx=1  
+                for page in pdf.pages[1:]:
+
+                    page_idx=page_idx+1
+                    if page_idx<40000:
+                        # Extract tables from the page
+                        print("########################################################")
+                        print("convert_pdf_to_txt page"+str(page_idx))
+                        #crop_coords = [0.68,0.20,0.95,0.90]
+                        #my_width = page.width
+                        #my_height = page.height
+                        #my_bbox = (crop_coords[0]*float(my_width), crop_coords[1]*float(my_height), crop_coords[2]*float(my_width), crop_coords[3]*float(my_height))
+                        #page = page.crop(bbox=my_bbox)
+                        print("extract")
+                        extr=page.extract_text()
+                        print(extr)
+                        text = str(extr)
+                        print(text)
+                        print("write")
+                        fileraw.write(text)
+                        print("split")
+
+                        text_blocks = extr.split('\n')
+                        print("Blocks"+str(len(text_blocks)))
+                        # Iterate over each text block
+                        for block in text_blocks:
+                            print("block"+str(block))
+                            # Find the position and dimensions of the text block
+                            bbox = page.bbox_for_text(block)
+                            print("bbox")
+                            if bbox:
+                                x0, top, x1, bottom = bbox
+                                width = x1 - x0
+                                
+                                # Print the text block information
+                                print(f"Page: {page_idx}")
+                                print(f"Text: '{block}'")
+                                print(f"Position: ({x0}, {top}) - ({x1}, {bottom})")
+                                print(f"Width: {width}")
+                                print("---")
+                            else:
+                                print("no bbox")
+
+                        textlines=text.split("\n")
+                        current_character=""
+                        current_characters_split=[]
+                        speech=""
+                        mode="linear"
+                        for line in textlines:
+                            if line.isupper():
+                                if " THEN " in line or "," in line:
+                                    mode="split"
+                                    if " THEN " in line:
+                                        current_characters_split=line.split(" THEN ")   
+                                    elif "," in line: 
+                                        current_characters_split=line.split(",")    
+                                    
+                                    current_character=line
+                                else:
+                                    current_character=line
+                                    mode="linear"
+                            else:
+                                speech=line
+                                if mode=="split":
+                                    speeches=speech.split("\n")
+                                    charidx=0
+                                    for sp in speeches:
+                                        sp=sp.replace("- ","")
+                                        current_character=current_characters_split[charidx]
+                                        s=current_character+"\t"+sp+"\n"  # New line after each row
+                                        print("Add "+ current_character + " "+ speech)
+                                        file.write(s)
+                                        charidx=charidx+1
+
+                                if mode=="linear":
+                                    if current_character=="":
+                                        current_character="__VOICEOVER"
+                                    s=current_character+"\t"+speech+"\n"  # New line after each row
+                                    print("Add "+ current_character + " "+ speech)
+                                    file.write(s)
+
+                       
+                       
     print("Converted")                       
     print(converted_file_path)
     return converted_file_path,encoding
@@ -1607,7 +2189,7 @@ def merge_breakdown_character_talking_to(breakdown,all_characters):
                     item['character']=firstchar                   
 
     return breakdown,replaceList
-def filter_speech(s):
+def filter_speech2(s):
     res=s.replace("♪","").replace("Â§","").replace("§","")
     #filter songs
     return res

@@ -1,9 +1,10 @@
 import os
 import tkinter as tk
-from tkinter import ttk, filedialog, Text,Menu,Toplevel
-from script_parser import process_script, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
+from tkinter import ttk, filedialog, Text,Menu,Toplevel,Scrollbar, Scale, HORIZONTAL, VERTICAL
+from script_parser import process_script,get_pdf_page_blocks,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
 import pandas as pd
 import chardet
+import io
 import tkinter.font as tkFont
 import subprocess
 import platform
@@ -13,9 +14,16 @@ import sys
 import csv
 import pdfplumber
 import math
+import time
 import logging
 from tkinter import ttk, messagebox
 
+from PIL import Image, ImageTk
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter, PDFPageAggregator
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+from pdfminer.layout import LTImage
 logging.basicConfig(filename='app.log',level=logging.DEBUG)
 logging.debug("Script starting...")
 
@@ -24,6 +32,9 @@ import ctypes
 
 import threading
 last_row_id = None
+
+RECENT_FILES_PATH = 'recent_files.txt'
+MAX_RECENT_FILES = 10
 
 countingMethods=[
 #    "LINE_COUNT",
@@ -58,13 +69,16 @@ currentRightclickRowId=None
 currentXlsxPath=""
 currentDialogPath=""
 currentTimelinePath=""
+currentHasImportTableTab=True
 currentBreakdown=None
 currentFig=None
 currentCanvas=None
+currentPDFPages=None
+currentPDFPageIdx=None
 currentCharacterMergeFromName=None
 currentCharacterSelectRowId=None
 currentCharacterMultiSelectRowIds=None
-currentDisabledCharacters=[]
+currentDisabledCharacterNames=[]
 currentResultCharacterOrderMap=None
 currentResultEnc=""
 currentResultName=""
@@ -75,6 +89,8 @@ currentMergedCharacters={}
 currentMergedCharactersTo={}
 currentMergePopupWindow=None
 currentBlockSize=50
+currentCharactersSelectedRowIds=[]
+
 def myprint2(s):
     logging.debug(s)
     print(s)
@@ -92,6 +108,8 @@ def myprint5(s):
     logging.debug(s)
     print(s)
 
+
+
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness
@@ -107,6 +125,28 @@ if sys.platform.startswith('win32'):
 if not os.path.exists(outputFolder):
     os.mkdir(outputFolder)
 
+def load_recent_files():
+    if os.path.exists(RECENT_FILES_PATH):
+        with open(RECENT_FILES_PATH, 'r') as f:
+            return [line.strip() for line in f.readlines()]
+    return []
+recent_files = load_recent_files()
+
+
+def save_recent_files(recent_files):
+    with open(RECENT_FILES_PATH, 'w') as f:
+        for file in recent_files:
+            f.write(file + '\n')
+
+
+def update_recent_files(file_path):
+    if file_path in recent_files:
+        recent_files.remove(file_path)
+    recent_files.insert(0, file_path)
+    if len(recent_files) > MAX_RECENT_FILES:
+        recent_files.pop()
+    save_recent_files(recent_files)
+    update_recent_files_menu()
 
 def compute_length_by_method(line,method):
     global currentBlockSize
@@ -236,7 +276,7 @@ def get_encoding(enc):
 def reset_tables(): 
     #print("reset_tables")
     
-    
+    disable_merge_button()
     for item in breakdown_table.get_children():
         breakdown_table.delete(item)
     for item in character_list_table.get_children():
@@ -248,6 +288,15 @@ def reset_tables():
     for item in character_stats_table.get_children():
         character_stats_table.delete(item)
     
+def open_recent_file(file_path):
+    runJob(file_path,"ALL")
+
+def update_recent_files_menu():
+    recent_files_menu.delete(0, tk.END)
+    for file_path in recent_files:
+        recent_files_menu.add_command(label=file_path, command=lambda path=file_path: open_recent_file(path))
+
+
 def runJob(file_path,method):
     global currentFilePath
     global currentScriptFilename
@@ -261,8 +310,9 @@ def runJob(file_path,method):
     global currentResultLinecountMap
     global currentResultSceneCharacterMap
     global importTab
-                    
-
+    global currentPDFPages
+    global currentPDFPageIdx
+    update_recent_files(file_path)
     currentFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
@@ -363,6 +413,11 @@ def runJob(file_path,method):
                 
                 #PDF
                 if extension==".pdf":
+                    with open(file_path, 'rb') as file:
+                        currentPDFPageIdx=10
+                        currentPDFPages = list(PDFPage.get_pages(file))
+                        pdf_viewer = PDFViewer(tab_import_pdf, file_path,os.path.abspath(currentOutputFolder),enc)
+                        return; 
                     myprint7("Conversion PDF to txt")
                     converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
                     if len(converted_file_path)==0:
@@ -592,11 +647,11 @@ def fill_character_table(character_order_map, breakdown,character_linecount_map,
         scenes=scene_characters_map[item]
         scenes=', '.join(scenes)
         status="VISIBLE"
-        if item in currentDisabledCharacters:
-            status="HIDDEN"
+        if item in currentDisabledCharacterNames:
+            status="MASQUÉ"
             character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/currentBlockSize)),scenes),tags=("hidden"))
         elif item in currentMergedCharacters:
-            status="MERGED (into "+str(currentMergedCharacters[item])+")"
+            status="FUSIONNÉ (avec "+str(currentMergedCharacters[item])+")"
             character_table.insert('','end',values=(" - ",item,status,str(character_count),str(math.ceil(character_count/currentBlockSize)),scenes),tags=("hidden"))
         else:
             order_idx=order_idx+1
@@ -614,7 +669,7 @@ def fill_character_list_table(character_order_map, breakdown):
 
     for character_name in character_order_map:
         #myprint7("CHAR add"+character_name)
-        if (not character_name in currentDisabledCharacters) or (not character_name in currentMergedCharacters):
+        if (not character_name in currentDisabledCharacterNames) or (not character_name in currentMergedCharacters):
             character_named = character_name 
             #myprint4("CHAR add"+character_named)
             character_list_table.insert('','end',values=(character_named,))
@@ -799,7 +854,7 @@ def generate_total_csv(total,csv_path,encoding_used,character_order_map):
     order_idx=0
 
     for character in total:
-        if (not character in currentDisabledCharacters) and (not character in currentMergedCharacters):
+        if (not character in currentDisabledCharacterNames) and (not character in currentMergedCharacters):
             order_idx=order_idx+1
             datarow=[str(order_idx)+" - " +str(character)];
             for method in total[character]:
@@ -854,7 +909,7 @@ def fill_breakdown_table(breakdown):
         elif(type_=="SPEECH"):
             speech=item['speech']
             character=item['character']
-            if not character in currentDisabledCharacters:
+            if not character in currentDisabledCharacterNames:
                 breakdown_table.insert('','end',values=(str(line_idx),"Speech",character,speech))
         elif(type_=="NONSPEECH"):         
             text=item['text']
@@ -871,7 +926,7 @@ def fill_stats_table(breakdown):
             filtered_speech=filter_speech(speech)
             character=item['character']
             tout=len(filtered_speech)
-            if not character in currentDisabledCharacters:
+            if not character in currentDisabledCharacterNames:
                 stats_table.insert('','end',values=(str(line_idx),character,speech,str(tout)))
     myprint4("NB ROWS = "+str(len(breakdown_table.get_children())))
     breakdown_table.update_idletasks()
@@ -991,10 +1046,28 @@ settings = read_settings_ini()
 app_dir = os.path.dirname(os.path.abspath(__file__))
 icons_dir =app_dir+"/icons/"
 myprint4("App dir           :"+app_dir)
-app = tk.Tk()
+
+
+app = tk.Tk(className="Scripti")
 app.title('Scripti')
 app.iconbitmap(icons_dir+'app_icon.ico') 
+
+# Ensure the app name appears in the macOS menu bar
+if os.name == 'posix':  # This check is for macOS
+    app.tk.call('wm', 'iconname', app._w, 'Scripti')
+    app.tk.call('wm', 'iconphoto', app._w, '-default', tk.PhotoImage(file=icons_dir + 'app_icon.png'))
+
+# Use iconphoto for cross-platform icon setting
+if os.name == 'nt':  # This check is for Windows
+    app.iconbitmap(icons_dir + 'app_icon.ico')
+else:
+    icon_path = icons_dir + 'app_icon.png'
+    app.iconphoto(True, tk.PhotoImage(file=icon_path))
+
+
 logging.debug("Creating app")
+
+
 
 def on_resize(event):
         return
@@ -1023,6 +1096,11 @@ file_menu.add_command(label="Ouvrir un dossier de travail...", command=open_fold
 file_menu.add_command(label="Ouvrir un fichier de script...", command=open_script)
 #file_menu.add_command(label="Export csv...", command=export_csv)
 file_menu.add_separator()
+recent_files_menu = tk.Menu(file_menu, tearoff=0)
+file_menu.add_cascade(label="Fichiers récents", menu=recent_files_menu)
+update_recent_files_menu()
+file_menu.add_separator()
+
 file_menu.add_command(label="Quitter", command=exit_app)
 
 def on_folder_open(event):
@@ -1265,10 +1343,47 @@ def hide_loading():
         app.update_idletasks()
         app.update()
 
+def disable_character():
+    global currentCharacterSelectRowId
+    global currentDisabledCharacterNames
+        
+    if currentCharacterSelectRowId:
+        name = getCharacterTableNameByRowId(currentCharacterSelectRowId)
+        currentCharacterSelectRowId=None
+        myprint2("disable_character")
+        currentDisabledCharacterNames.append(name)
+        reset_tables()
+        postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+        
+
+def enable_character():
+    global currentCharacterSelectRowId
+    global currentDisabledCharacterNames
+        
+    if currentCharacterSelectRowId:
+        name = getCharacterTableNameByRowId(currentCharacterSelectRowId)
+        currentCharacterSelectRowId=None
+     
+        myprint2("enable_character")
+        currentDisabledCharacterNames.remove(name)
+        reset_tables()
+        postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+
+def deselect_characters():
+    global currentCharacterSelectRowId
+    currentCharacterSelectRowId=None
+    
+
+    global currentCharactersSelectedRowIds
+    currentCharactersSelectedRowIds=[]
+    # Deselect all selected rows
+    selected_items = character_table.selection()
+    character_table.selection_remove(selected_items)
+
 def restore_characters():
     myprint2("restore_characters")
-    global currentDisabledCharacters
-    currentDisabledCharacters=[]
+    global currentDisabledCharacterNames
+    currentDisabledCharacterNames=[]
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
@@ -1317,14 +1432,14 @@ class TableColumnSelector(tk.Toplevel):
         self.left_frame = tk.Frame(self.parent)
         self.left_frame.pack(side=tk.LEFT, fill=tk.Y)
 
-        self.left_canvas = tk.Canvas(self.left_frame)
+        self.left_canvas = tk.Canvas(self.left_frame, borderwidth=0)
         self.left_canvas.pack(side=tk.LEFT, fill=tk.Y, expand=True)
 
         self.list_frame = tk.Frame(self.left_canvas)
         self.left_canvas.create_window((0, 0), window=self.list_frame, anchor='nw')
 
         # Frame for table preview
-        self.right_frame = tk.Frame(self.parent)
+        self.right_frame = tk.Frame(self.parent, borderwidth=0)
         self.right_frame.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
 
         # Add a canvas to allow scrolling
@@ -1518,12 +1633,72 @@ def clear_chart():
     myprint2("CLEAR CHART")
     currentFig.clf()
     currentFig.canvas.draw()
+
+def merge_characters2():
+    global currentCharactersSelectedRowIds
+    global currentMergedCharactersTo
+    global currentMergedCharacters
+    global currentBreakdown
+
+    myprint7("merge_character2")
+    myprint7("currentCharactersSelectedRowIds"+str(currentCharactersSelectedRowIds))
+    myprint7(str(currentMergedCharacters))
+    myprint7(str(currentMergedCharactersTo))
+    largestname=None
+    largestnamerep=0
+    for k in currentCharactersSelectedRowIds:
+
+        name = character_table.item(k, 'values')[1]
+        myprint7("Merge checklargest "+str(k)+str(name))
+        
+        line_count,word_count,character_count,replica_count=stats_per_character(currentBreakdown,name)
+        rep=math.ceil(character_count/currentBlockSize)
+        if rep>largestnamerep:
+            largestname=name
+            largestnamerep=rep
+    
+    for k in currentCharactersSelectedRowIds:
+        name = character_table.item(k, 'values')[1]
+        if name!=largestname:
+            myprint7("Merge "+largestname+" <- "+str(name))
+            mergeto = largestname
+            mergefrom = name
+
+            currentMergedCharacters[mergefrom]=mergeto
+            if mergeto in currentMergedCharactersTo:
+                existing=currentMergedCharactersTo[mergeto]
+                myprint7("Merge already created" +str(existing))
+
+                currentMergedCharactersTo[mergeto] = existing + (mergefrom,)
+            else:
+                myprint7("Merge new group")
+
+                currentMergedCharactersTo[mergeto]=(mergefrom,)
+    myprint7("currentMergedCharacters"+str(currentMergedCharacters))
+    myprint7("currentMergedCharactersTo"+str(currentMergedCharactersTo))
+    currentCharactersSelectedRowIds=[]
+    reset_tables()
+    postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
+
+
+
+character_menu = Menu(menu_bar, tearoff=0)
+menu_bar.add_cascade(label="Personnages", menu=character_menu)
+#settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
+character_menu.add_command(label="Fusionner sélection", command=merge_characters2)
+character_menu.add_separator()
+#settings_menu.add_command(label="Set block length...", command=open_folder)
+character_menu.add_command(label="Désactiver sélection", command=disable_character)
+character_menu.add_command(label="Activer sélection", command=enable_character)
+character_menu.add_command(label="Activer tout", command=restore_characters)
+character_menu.add_separator()
+character_menu.add_command(label="Déselectionner tout", command=deselect_characters)
+
+
 settings_menu = Menu(menu_bar, tearoff=0)
 menu_bar.add_cascade(label="Paramètres", menu=settings_menu)
 #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
 settings_menu.add_command(label="Change la taille des répliques...", command=show_popup_line_size)
-#settings_menu.add_command(label="Set block length...", command=open_folder)
-settings_menu.add_command(label="Réafficher les personnages masqués...", command=restore_characters)
 
 
 loading_label = ttk.Frame(app)
@@ -1551,19 +1726,23 @@ paned_window.add(right_frame, weight=2)
 
 menu = tk.Menu(app, tearoff=0)
 menu.add_command(label="Open File", command=open_file_in_system)
+def getCharacterTableNameByRowId(rowid):
+    name = character_table.item(rowid, 'values')[1]
+    return name
+
 def merge_characters():
     myprint2("merge_characters")
     global currentCharacterMergeFromName
-    name = character_table.item(currentCharacterSelectRowId, 'values')[1]
+    name = getCharacterTableNameByRowId(currentCharacterSelectRowId)
     currentCharacterMergeFromName=name
     myprint2("Merge "+name)
     create_popup(currentResultCharacterOrderMap,name)
 
 def hide_character():
     myprint2("hide_character")
-    global currentDisabledCharacters
-    name = character_table.item(currentCharacterSelectRowId, 'values')[1]
-    currentDisabledCharacters.append(name)
+    global currentDisabledCharacterNames
+    name = getCharacterTableNameByRowId(currentCharacterSelectRowId)
+    currentDisabledCharacterNames.append(name)
     #disabled_character_list_table.insert('','end',values=(name,))
 
     myprint2("Hide "+name)
@@ -1631,8 +1810,105 @@ def on_right_click(event):
     except Exception as e:
         myprint2(e)
 
-def on_character_right_click(event):
+def disable_merge_button():
+   # btn_merge.config(state='disabled')
+    print("Button disabled")
+
+def enable_merge_button():
+    #btn_merge.config(state='normal')
+    print("Button enabled")
+def on_character_table_click(event):
     global currentCharacterSelectRowId
+    global currentCharactersSelectedRowIds
+
+
+ # Identify the item clicked on
+    item = character_table.identify_row(event.y)
+    
+    if item:
+        currentCharacterSelectRowId=item
+        
+
+        if item in currentCharactersSelectedRowIds:
+            # If the item is already in the list, remove it
+            currentCharactersSelectedRowIds.remove(item)
+            character_table.selection_remove(item)
+            character_table.item(item, tags=())
+        else:
+            # If the item is not in the list, add it
+            currentCharactersSelectedRowIds.append(item)
+            character_table.selection_add(item)
+            character_table.item(item, tags=('grouped',))
+
+    print(f"Number of selected rows: {currentCharactersSelectedRowIds}")
+    return 
+      # Check if the Command key (or Control key on Windows/Linux) is pressed
+    ctrl_pressed = (event.state & 0x04) != 0
+    shift_pressed = (event.state & 0x01) != 0
+
+    if item:
+        if shift_pressed:
+            # Handle shift-click for range selection
+            selection = character_table.selection()
+            if selection:
+                first_item = selection[0]
+                item_ids = character_table.get_children('')
+                first_index = item_ids.index(first_item)
+                clicked_index = item_ids.index(item)
+                start_index = min(first_index, clicked_index)
+                end_index = max(first_index, clicked_index)
+                new_selection = item_ids[start_index:end_index + 1]
+                character_table.selection_set(new_selection)
+            else:
+                character_table.selection_set(item)
+        elif ctrl_pressed:
+            # Handle command/control-click for toggling selection
+            if item in character_table.selection():
+                character_table.selection_remove(item)
+            else:
+                character_table.selection_add(item)
+        else:
+            # Handle regular click
+            character_table.selection_set(item)
+
+    selected_items = character_table.selection()
+    num_selected = len(selected_items)
+    print(f"Number of selected rows: {num_selected}")
+    return
+    # Clear the selection if necessary
+    if item not in character_table.selection():
+        character_table.selection_set(item)
+    selected_items = character_table.selection()
+    num_selected = len(selected_items)
+    print(f"Number of selected rows: {num_selected}")
+
+    return 
+    if not item in currentCharactersSelectedRowIds:
+        print("currentCharactersSelected add "+str(item))
+        currentCharactersSelectedRowIds.append(item)
+    else:
+        print("currentCharactersSelected remove "+str(item))
+        currentCharactersSelectedRowIds.remove(item)
+
+    print(str(currentCharactersSelectedRowIds))
+    num_selected = len(currentCharactersSelectedRowIds)
+    if num_selected>1:
+        disable_merge_button()
+    else:
+        enable_merge_button()
+    print(f"Number of selected rows: {num_selected}")
+    
+
+    print("currentCharactersSelected add tag "+str(item))
+    character_table.item(item, tags=('grouped',))
+    return
+    print("click")
+    if event.state & 0x10:
+    #    if event.state & 0x04:  # 0x04 is the mask for the Command key on Mac
+        print("click but command")
+        return 
+    print("click show menu")
+
     # Identify the row clicked
     try:
         row_id = character_table.identify_row(event.y)
@@ -1643,6 +1919,7 @@ def on_character_right_click(event):
             char_menu.post(event.x_root, event.y_root)  # Show the context menu
     except Exception as e:
         myprint2(e)
+        
 folders.bind('<Button-3>', on_right_click)  # Right click on Windows/Linux
 folders.bind('<Button-2>', on_right_click) 
 
@@ -1674,36 +1951,417 @@ style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 # File preview tab
 tab_import = ttk.Frame(notebook)
 def show_importtable_tab():
+    global currentHasImportTableTab
     myprint7("show_importtable_tab")
-    if tab_import not in notebook.tabs():
-        notebook.insert(0,tab_import, text='Import tables')
+    if not currentHasImportTableTab:
+        notebook.insert(0,tab_import, text='Tables Word')
         notebook.update_idletasks()
+        currentHasImportTableTab=True
+
 
 def hide_importtable_tab():
-    
+    global currentHasImportTableTab    
     myprint7("hide_importtable_tab"+str(len(notebook.tabs())))
-    #if tab_import in notebook.tabs():
-    myprint7("hide_importtable_tab has")
-
-    notebook.forget(tab_import)
-    notebook.update_idletasks()
+    if currentHasImportTableTab:#tab_import in notebook.tabs():
+        myprint7("hide_importtable_tab has")
+        
+        notebook.forget(tab_import)
+        notebook.update_idletasks()
+        currentHasImportTableTab=False
     #else:
      #   myprint7("hide_importtable_tab no")
     
-notebook.add(tab_import, text='Import tables',image=original_icon, compound=tk.LEFT)
+notebook.add(tab_import, text='Tables Word',image=original_icon, compound=tk.LEFT)
+from tkinter import Canvas, PhotoImage
+class PDFViewer:
+    def __init__(self, root, file_path,currentOutputFolder,encoding):
+        myprint7("pdf1")
+        self.root = root
+        self.currentOutputFolder=currentOutputFolder
+        self.encoding=encoding
+        self.file_path = file_path
+        self.page_number = 10
+        self.scale=1
+        self.width_threshold=280
+        self.rwidth_threshold=850
+        self.height_threshold=138
+        self.rheight_threshold=10
+        
+        self.text_elements=None
+        self.canvas_height=0
+
+        self.input_blocksize = tk.StringVar()
+        self.input_blocksize.set(str(1))
+
+        self.left_margin=45
+            # Initialize the vertical and horizontal line IDs
+        self.vertical_line = None
+        self.vertical_liner = None
+        self.horizontal_line = None
+
+        myprint7("pdf2")
+        # Open the PDF file
+        self.pdf_document = pdfplumber.open(self.file_path)
+        self.num_pages = len(self.pdf_document.pages)
+        myprint7("Num pages : "+str(self.num_pages))
 
 
+  # Create a frame for the canvas and scrollbars
+        self.canvas_frame = tk.Frame(root)
+        self.canvas_frame.pack(side='left', fill='both', expand=True)
+
+        # Create a Canvas to display the PDF page
+        self.canvas = Canvas(self.canvas_frame)
+        self.canvas.pack(side='left',fill='both', expand=True,padx=0, pady=0)
+       
+
+# Create a frame for sliders
+        self.slider_frame = tk.Frame(root)
+        self.slider_frame.pack(fill='both', expand=True,side='top')
+
+        
+
+    # Create a label
+        label = ttk.Label(self.slider_frame, text="Première page de dialogue:")
+        label.pack(pady=10)
+        # Create a StringVar to hold the default value
+
+        # Create a single-line text entry widget
+        entry = ttk.Entry(self.slider_frame, width=30, textvariable=self.input_firstpage)
+        entry.pack(pady=10)
+
+        # Create a horizontal slider for width threshold
+        self.width_slider = Scale(self.slider_frame, from_=0, to=900, orient=HORIZONTAL, label='Seuil gauche', command=self.update_vertical_line)
+        self.width_slider.set(self.width_threshold)
+        self.width_slider.pack(side='top', fill='x', padx=10, pady=5)
+
+
+        # Create a horizontal slider for width threshold
+        self.rwidth_slider = Scale(self.slider_frame, from_=0, to=1300, orient=HORIZONTAL, label='Seuil droite', command=self.update_vertical_liner)
+        self.rwidth_slider.set(self.rwidth_threshold)
+        self.rwidth_slider.pack(side='top', fill='x', padx=10, pady=5)
+
+        # Create a vertical slider for height threshold
+        self.height_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil haut', command=self.update_horizontal_line)
+        self.height_slider.set(self.height_threshold)
+        self.height_slider.pack(side='top', fill='x', padx=5, pady=10)
+
+        # Create a vertical slider for height threshold
+        self.rheight_slider = Scale(self.slider_frame, from_=0, to=1200, orient=HORIZONTAL, label='Seuil bas', command=self.update_horizontal_liner)
+        self.rheight_slider.set(self.rheight_threshold)
+        self.rheight_slider.pack(side='top', fill='x', padx=5, pady=10)
+
+
+
+        # Add scrollbars to the canvas
+        self.h_scrollbar = Scrollbar(self.canvas_frame, orient='horizontal', command=self.canvas.xview)
+        self.h_scrollbar.pack(side='bottom', fill='x')
+        self.v_scrollbar = Scrollbar(self.canvas_frame, orient='vertical', command=self.canvas.yview)
+        self.v_scrollbar.pack(side='right', fill='y')
+        self.canvas.configure(xscrollcommand=self.h_scrollbar.set, yscrollcommand=self.v_scrollbar.set)
+
+
+  # Create a frame for sliders
+        self.slider_frame = tk.Frame(root)
+        self.slider_frame.pack(side='top', fill='x')
+
+        myprint7("pdf4")
+
+
+        # Draw the initial vertical line
+        self.draw_vertical_line(self.width_threshold)
+
+        self.buttonframe0 = tk.Frame(root)
+        self.buttonframe0.pack(side='top', fill='x')
+
+        self.buttonframe = tk.Frame(root)
+        self.buttonframe.pack(side='top', fill='x')
+
+        self.buttonframe2 = tk.Frame(root)
+        self.buttonframe2.pack(side='top', fill='x')
+
+        # Create buttons to navigate pages
+        self.prev_button = tk.Button(self.buttonframe, text="Page précedente", command=self.prev_page)
+        self.prev_button.pack(side=tk.LEFT, padx=10, pady=10)
+
+        self.label = ttk.Label(self.buttonframe0, text="Page: "+str(self.page_number)+" / "+str(self.num_pages-1), font=('Arial', 12))
+        self.label.pack(side=tk.BOTTOM, fill=tk.X)
+
+
+        self.next_button = tk.Button(self.buttonframe, text=" Page suivante", command=self.next_page)
+        self.next_button.pack(side=tk.RIGHT, padx=10, pady=10)
+
+        # Create buttons to navigate pages
+        self.open_button = tk.Button(self.buttonframe2, text="Procéder", command=self.run)
+        self.open_button.pack(side=tk.LEFT, fill='x',expand=True, padx=10, pady=10)
+
+     
+        # Display the initial page
+        self.display_page(self.page_number)
+        self.current_image = None
+    def draw_horizontal_line(self, y):
+        # Remove the old horizontal line if it exists
+        if self.horizontal_line is not None:
+            self.canvas.delete(self.horizontal_line)
+
+        # Draw the new horizontal line
+        self.horizontal_line = self.canvas.create_line(0, y, self.canvas.winfo_width(), y, fill="black")
+
+    def display_page(self, page_number):
+        # Render the page as an image
+        myprint7("pdf8"+str(page_number))
+        page = self.pdf_document.pages[page_number]
+        myprint7("pdf8a")
+        image = page.to_image(resolution=150)
+        myprint7("pdf8b")
+        img = image#Image.open(io.BytesIO(image.original))
+        img.save("pdfpreview.png")
+        myprint7("pdf8c")
+
+        app.after(100, self.scale_pdf_preview)
+
+
+    def draw_vertical_line(self, x):
+        # Remove the old vertical line if it exists
+        if self.vertical_line is not None:
+            self.canvas.delete(self.vertical_line)
+
+        # Draw the new vertical line
+        self.vertical_line = self.canvas.create_line(x, 0, x, self.canvas.winfo_height(), fill="black")
+    def draw_vertical_liner(self, x):
+        # Remove the old vertical line if it exists
+        if self.vertical_liner is not None:
+            self.canvas.delete(self.vertical_liner)
+
+        # Draw the new vertical line
+        self.vertical_liner = self.canvas.create_line(x, 0, x, self.canvas.winfo_height(), fill="black")
+
+    def update_vertical_line(self, event):
+        # Update the vertical line position based on the slider value
+        self.width_threshold=self.width_slider.get()*self.scale
+        self.redraw()
+    def update_vertical_liner(self, event):
+        # Update the vertical line position based on the slider value
+        self.rwidth_threshold=self.rwidth_slider.get()*self.scale
+        self.redraw()
+    def update_horizontal_line(self, event):
+        # Update the vertical line position based on the slider value
+        self.height_threshold=self.canvas_height- self.height_slider.get()*self.scale
+        self.redraw()
+    def next_page(self):
+        if self.page_number < self.num_pages - 1:
+            self.page_number += 1
+            self.display_page(self.page_number)
+
+    def redraw(self):
+        self.canvas.delete("all")
+        res=split_elements(self.text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold,self.rheight_threshold)
+        left=res['left']
+        center=res['center']
+        right=res['right']
+        top=res['top']
+        self.centered_blocks=center
+        left_margin=self.left_margin
+        print("------------------------")
+        print(f"l={self.width_threshold} r={self.rwidth_threshold} t={self.height_threshold}")
+        print(f"l={len(left)} r={len(top)} t={len(right)} c={len(center)}")
+        for k in left:
+            self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        for k in center:
+            self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#0000ff","#ccccff",left_margin)
+        for k in right:
+            self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        for k in top:
+            self.draw_bbox(self.canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        self.draw_lines()
+    def draw_bbox(self,canvas_height,dpi,scale_factor, bbox_points,text,color,fillcolor,left_margin):
+        # Conversion factors
+        #print("draw bbox")
+        #print(bbox_points)
+        # Convert points to pixels
+        x0, y0, x1, y1 = [coord * dpi / 72 for coord in bbox_points]
+
+        # Apply the scale factor
+        x0, y0, x1, y1 = [coord * scale_factor for coord in (x0, y0, x1, y1)]
+        y0=canvas_height-y0
+        y1=canvas_height-y1
+        
+        x0=x0+left_margin
+        x1=x1+left_margin
+        #print("res"+str(x0)+ " "+str(y0)+ " "+str(x1)+ " "+str(y1)+ " ")
+
+        # Draw the rectangle on the canvas
+        self.canvas.create_rectangle(x0, y0, x1, y1, outline=color, width=2,fill=fillcolor)
+        self.canvas.create_text(x0,y1,text=text, fill=color, font=("Courier", 12, "normal"), anchor=tk.NW)
+        
+    def scale_pdf_preview(self):
+        nimg = Image.open("pdfpreview.png")
+        notebook.select(1)
+        app.update_idletasks()
+        # Get the dimensions of the image and the canvas
+        img_width, img_height = nimg.size
+
+        canvas_width = self.canvas.winfo_width()
+        canvas_height = self.canvas.winfo_height()
+        self.canvas_height=canvas_height
+        # Calculate the scaling factor
+        scale_factor = min(canvas_width / img_width, canvas_height / img_height)
+        self.scale=scale_factor
+        # Scale the image
+        scaled_width = int(img_width * scale_factor)
+        scaled_height = int(img_height * scale_factor)
+        print(f"img_width     {img_width}")
+        print(f"img_height    {img_height}")
+        print(f"canvas_height {canvas_height}")
+        print(f"canvas_width  {canvas_width}")
+        print(f"scale_factor  {scale_factor}")
+
+        print(f"scaled_width  {scaled_width}")
+        print(f"scaled_height {scaled_height}")
+        scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
+        scaled_img.save("pdfpreview_scaled.png")
+        app.after(100, self.open_pdf_preview)
+
+    def run(self):
+        self.all_text_elements=get_pdf_text_elements(self.file_path,-1)
+        res=split_elements(self.all_text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold)
+        self.all_centered_blocks=res['center'];
+        print("RUN")
+        converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
+        print("converted "+str(converted_file_path))
+        
+        with open(converted_file_path, 'r', encoding=self.encoding) as file:
+            file_path=converted_file_path
+            file_name = os.path.basename(file_path)
+            currentScriptFilename=file_name
+            name, extension = os.path.splitext(file_name)
+            myprint7("Opened")
+            content = file.read()
+            myprint7("Read")
+            file_preview.delete(1.0, tk.END)
+            file_preview.insert(tk.END, content)
+            
+            enc=self.encoding
+            myprint7("Process")
+            breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,"ALL",enc)
+
+            myprint7("Processed")
+
+            if breakdown==None:
+                myprint7("Failed")
+                hide_loading()
+            else:
+                myprint7("OK")
+                currentBreakdown=breakdown
+
+                png_output_file=currentOutputFolder+name+"_timeline.png"
+                currentTimelinePath=png_output_file
+                currentResultCharacterOrderMap=character_order_map
+                currentResultEnc=self.encoding
+                currentResultName=name
+                currentResultLinecountMap=character_linecount_map
+                currentResultSceneCharacterMap=scene_characters_map
+                postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+                
+   
+    def open_pdf_preview(self):
+        nimg = Image.open("pdfpreview_scaled.png")
+        
+        canvas_width = self.canvas.winfo_width()
+        canvas_height = self.canvas.winfo_height()
+        
+        nimg_tk = ImageTk.PhotoImage(nimg)
+        #img_tk = ImageTk.PhotoImage(img)
+        myprint7("pdf8d")
+
+        # Clear the canvas and display the image
+        self.canvas.delete("all")
+#        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
+        if False:
+            self.canvas.create_image(
+                    canvas_width // 2,
+                    canvas_height // 2,
+                    anchor=tk.CENTER,
+                    image=nimg_tk
+                )
+            self.canvas.config(scrollregion=self.canvas.bbox(tk.ALL))
+
+        self.current_image = nimg_tk
+        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number)
+        res=split_elements(self.text_elements,self.width_threshold,self.height_threshold,self.rwidth_threshold)
+        #//res=get_pdf_page_blocks(self.file_path,self.page_number)
+        left=res['left']
+        center=res['center']
+        self.centered_blocks=center
+
+        top=res['top']
+        left_margin=self.left_margin
+        for k in left:
+            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        for k in center:
+            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#0000ff","#ccccff",left_margin)
+        for k in top:
+            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
+        self.draw_lines()
+
+    def draw_lines(self):
+        self.draw_vertical_liner(self.left_margin+ self.rwidth_slider.get()*self.scale)            
+        self.draw_vertical_line(self.left_margin+self.width_slider.get()*self.scale)            
+        self.draw_horizontal_line(self.height_slider.get()*self.scale)   
+    def prev_page(self):
+        if self.page_number > 0:
+            self.page_number -= 1
+            self.display_page(self.page_number)
+        app.update_idletasks()  # Force the UI to update
+        
+tab_import_pdf = ttk.Frame(notebook)
+#pdf_viewer = PDFViewer(tab_import_pdf, file_path)
+# Set the initial page number
+#current_page = 10
+#go_to_page(current_page)
+
+notebook.add(tab_import_pdf, text='Extracteur de dialogue PDF',image=original_icon, compound=tk.LEFT)
+
+
+# Create a frame for the 'Texte' tab
 tab_text = ttk.Frame(notebook)
-notebook.add(tab_text, text='Texte',image=original_icon, compound=tk.LEFT)
-file_preview = Text(tab_text)
+notebook.add(tab_text, text='Texte')
+
+# Create a Text widget with vertical and horizontal scrollbars
+text_frame = ttk.Frame(tab_text, borderwidth=0,relief=tk.FLAT,)
+text_frame.pack(fill=tk.BOTH, expand=True)
+
+# Create vertical scrollbar
+v_scroll = ttk.Scrollbar(text_frame, orient=tk.VERTICAL)
+v_scroll.pack(side=tk.RIGHT, fill=tk.Y)
+
+# Create horizontal scrollbar
+h_scroll = ttk.Scrollbar(text_frame, orient=tk.HORIZONTAL)
+h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
+
+# Create Text widget
+file_preview = tk.Text(text_frame, wrap=tk.NONE, 
+                       yscrollcommand=v_scroll.set, 
+                       xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
 file_preview.pack(fill=tk.BOTH, expand=True)
+
+# Configure scrollbars to work with the Text widget
+v_scroll.config(command=file_preview.yview)
+h_scroll.config(command=file_preview.xview)
 
 # Statistics tab
 tab_characters = ttk.Frame(notebook)
 
+def merge_together():
+    print("merge")
+
+#btn_merge = ttk.Button(tab_characters, text="Fusionner ...", command=merge_together)
+#btn_merge.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
 # Create a Treeview widget within the stats_frame for the table
 
-character_table = ttk.Treeview(tab_characters, columns=('Order', 'Character','Status', 'Characters','Lines','Scenes'), show='headings')
+
+character_table = ttk.Treeview(tab_characters, columns=('Order', 'Character','Status', 'Characters','Lines'), show='headings', selectmode='none')
 #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
 # Define the column headings
 character_table.heading('Order', text='Order')
@@ -1714,7 +2372,7 @@ character_table.heading('Characters', text='Caractères')
 #character_table.heading('Words', text='Words')
 character_table.heading('Lines', text='Lignes')
 #character_table.heading('Blocks (40)', text='Blocks (40)')
-character_table.heading('Scenes', text='Scènes')
+#character_table.heading('Scenes', text='Scènes')
 
 # Define the column width and alignment
 character_table.column('Order', width=25, anchor='center')
@@ -1724,16 +2382,17 @@ character_table.column('Status', width=50, anchor='w')
 character_table.column('Characters', width=50, anchor='w')
 #character_table.column('Words', width=50, anchor='w')
 character_table.column('Lines', width=50, anchor='w')
-character_table.column('Scenes', width=50, anchor='w')
+#character_table.column('Scenes', width=50, anchor='w')
 
 # Pack the Treeview widget with enough space
 character_table.pack(fill='both', expand=True)
-notebook.add(tab_characters, text='Personages',image=char_icon, compound=tk.LEFT)
+notebook.add(tab_characters, text='Personnages',image=char_icon, compound=tk.LEFT)
 
 character_table.tag_configure('hidden', foreground='#999999')
-character_table.bind('<Button-3>', on_character_right_click)  # Right click on Windows/Linux
-character_table.bind('<Button-2>', on_character_right_click) 
-character_table.bind('<Button-1>', on_character_right_click) 
+character_table.tag_configure('grouped', foreground='#000000',background='#995555')
+character_table.bind('<Button-3>', on_character_table_click)  # Right click on Windows/Linux
+character_table.bind('<Button-2>', on_character_table_click) 
+character_table.bind('<Button-1>', on_character_table_click) 
 
 
 
@@ -2025,7 +2684,7 @@ def create_popup(character_map, mergedchar):
     global currentMergePopupWindow
     global currentMergePopupTable
     popup = Toplevel(app)
-    popup.title("Merge with")
+    popup.title("Fusionner")
     popup.geometry("300x550")  # Size of the popup window
     currentMergePopupWindow = popup
 
@@ -2124,6 +2783,7 @@ currentScriptFolder=settings['SCRIPT_FOLDER']
 if currentScriptFolder=="":
     currentScriptFolder=os.getcwd()
 load_tree("",currentScriptFolder)
+
 
 center_window()  # Center the window
 app.title('Scripti')

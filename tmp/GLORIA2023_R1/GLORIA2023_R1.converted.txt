@@ -26,7 +26,7 @@ BETTINA	Yes, Luigi!
 LUCIA	Knock it off, dummy!
 BETTINA	I'm sure you saw him the other night...
 LUCIA
-PRUDENZA	- Obviously.- Did he propose?
+PRUDENZA	Obviously.- Did he propose?
 LUCIA	He won't see an inch of my skintill we marry.
 MARIETTA	Where'd you get them?
 BETTINA	Aren't they pretty?
@@ -34,14 +34,14 @@ BETTINA	Close that!
 BETTINA	They cost me three months of tutoringthe countess' idiotic son.
 BETTINA BETTINA	But it was worth it.
 PRUDENZA
-LUCIA	- They're beautiful.- But wasted in this place.
+LUCIA	They're beautiful.- But wasted in this place.
 BETTINA	You're not the only one with a lifeoutside here. I have friends too.
 FIDELIA
-MARIETTA	- Girls, it's late.- Quiet...
+MARIETTA	Girls, it's late.- Quiet...
 FIDELIA	Hurry up!
 FIDELIA	Lucia?
 LUCIA
-FIDELIA	- Yes?- I don't like locked doors!
+FIDELIA	Yes?- I don't like locked doors!
 LUCIA	I'm getting dressed, be right out.
 FIDELIA	Hurry!
 LUCIA	Shoes, quick!
@@ -57,7 +57,7 @@ GOVERNATORE
 
 PERLINA	-Sant'Ignazio... can you believe it?Right here.-Right here.
 GIACOMINO
-GOVERNATORE	- Dad, let's play.- Go take a walk.
+GOVERNATORE	Dad, let's play.- Go take a walk.
 GOVERNATORE	Well? You have nothing to say?
 GOVERNATORE	For the first time in history,a pope will be crowned in Venice.
 GOVERNATORE	It's incredible! But there's more...
@@ -85,7 +85,7 @@ GOVERNATORE	despite the Austriansand that Napoleon clown.
 GOVERNATORE
 PERLINA
 GOVERNATORE
-PERLINA	- Do you agree?- Indeed.
+PERLINA	Do you agree?- Indeed.
 GOVERNATORE	What is she doing there?
 PERLINA	Come with me, you halfwit.
 PERLINA	How many times have I told youto stay away from that boy?
@@ -97,7 +97,7 @@ BARCAIOLO	Slowly!
 RAGAZZONE	Here.
 RAGAZZONE	FOR SANT'IGNAZIO'S CHOIRGIRLS
 FIDELIA
-PERLINA	- Who's it for?- Me.
+PERLINA	Who's it for?- Me.
 PERLINA	It's a giftfrom Johann Stein's daughter.
 FIDELIA	Who?
 PERLINA	He used to visit here years ago.

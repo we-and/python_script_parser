@@ -127,7 +127,7 @@ JAMES PETERS	Ooh yeah you have some?
 JAMES PETERS	Hey uh, How far are we going?
 HANK O’CONNELL	You'll see.
 HANK O’CONNELL	She's out there waiting for us.
-RACHEL 	Command centre, standby.
+RACHEL	Command centre, standby.
 RACHEL	We are awaiting cruise arrival at Providence three.
 CAMERON	Morning, Dr. Goldstein.
 JULIA GOLDSTEIN	How long?
@@ -136,7 +136,7 @@ JULIA GOLDSTEIN	Where's our feet?
 RACHEL	P three, rear cam one and rear cam two..
 RACHEL	We have a clear signal. P three front cam is live and rover cameras will be activated upon launch.
 RACHEL	We're all set for them.
-RACHEL 	Crew approaching p three. Commenced launch operation in T minus
+RACHEL	Crew approaching p three. Commenced launch operation in T minus
 RACHEL	twelve minutes. Standby for entry
 GORDON ATKINS	welcome to Providence.
 JOE MEEKER	Okay team, let's go. Go

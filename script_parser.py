@@ -246,6 +246,10 @@ def extract_character_name(line,character_mode):
     if character_mode=="CHARACTER_TAB":
         return extract_charactername_NAME_ATLEAST1TAB_TEXT(line)
     elif character_mode=="CHARACTER_SPACES": 
+        print("debug")       
+        is_match=matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)
+        print("is_match?"+str(is_match))
+        print("extract "+str(character_mode)+" "+str(line))
         return extract_charactername_NAME_ATLEAST8SPACES_TEXT(line)  
     elif character_mode=="CHARACTER_SEMICOL_TAB": 
         return extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
@@ -272,6 +276,7 @@ def matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(text):
 
 
 def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
+    print("test match"+str(text))
     # Define the regex pattern:
     # ^ starts the match at the beginning of the line
     # (.+) matches one or more of any character (the first text block), captured for potential use
@@ -281,6 +286,7 @@ def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
     pattern = r'^(.+?)\s{8,}(.+)$'
     # Use re.match to check if the whole string matches the pattern
     if re.match(pattern, text):
+        print("is match")
         return True
     else:
         return False
@@ -330,9 +336,15 @@ def extract_charactername_NAME_ATLEAST8SPACES_TEXT(line):
     Returns the uppercase text if the pattern matches, otherwise returns None.
     """
     #match = re.match(r"^([A-Z]+)\s{8,}.*$", line)
-    match = re.match(r"^([A-Z ]+)\s{8,}.*$", line)
+    print("extract name"+str(line))
+    pattern = r'^(.+?)\s{8,}(.+)$'
+    match = re.match(pattern, line)
+    
+#    match = re.match(r"^([A-Z ]+)\s{8,}.*$", line)
     if match:
-        return match.group(1)
+        print("is match")
+        return match.group(1).strip()
+    print("no match")
     return None
 
 def extract_charactername_NAME_ATLEAST1TAB_TEXT(line):
@@ -364,17 +376,30 @@ def filter_character_name(line):
         if "(O.S.)" in line:
             line=line.replace("(O.S.)","")
         
+        if "(CON'T)" in line:
+            line=line.replace("(CON'T)","")    
+        if "(CONT.)" in line:
+            line=line.replace("(CONT.)","")    
+        if "(CONT." in line:
+            line=line.replace("(CONT.","")    
+        if "(CON’T)" in line:
+            line=line.replace("(CON’T)","")    
+        if "(CON’T)" in line:
+            line=line.replace("(CON’T)","")    
         if "(CONT'D)" in line:
             line=line.replace("(CONT'D)","")    
+        if "(CONT.)" in line:
+            line=line.replace("(CONT')","")    
         if "(CONT'D" in line:
             line=line.replace("(CONT'D","")    
         if "(CONT’D" in line:
             line=line.replace("(CONT’D","")    
+        line=line.replace("\ufeff","")
         if line.endswith(':'):
             line= line[:-1]
         if line.endswith(')'):
             line= line[:-1]
-    return line
+    return line.strip()
 #    return line
 
 
@@ -1239,7 +1264,8 @@ def split_elements(text_elements,left_margin,top_margin,right_margin,bottom_marg
     bottom_blocks = []
     centered_blocks = []
     print("SPLIT")
-    print(f" > elements {len(text_elements)}")
+    if text_elements != None:
+        print(f" > elements {len(text_elements)}")
     print(f" > margins left={left_margin} top={top_margin} right={right_margin} bottom={bottom_margin}")
     #print("TEST")
     for k,el in enumerate(text_elements):
@@ -1763,6 +1789,135 @@ def test_pdf_header(file,table,header):
                 return True
 
 
+def detect_word_table(table,forceMode="",forceCols={}):
+    print("detect_word_table")
+    for i in range(3):
+        print("try header "+str(i))
+        header=table.rows[i]
+        print("header read ")        
+        success, mode, character,dialog,map_= detect_word_header(header,forceMode,forceCols)
+        print("header success= "+str(success)+" "+str(map_))        
+        if success:
+            return success, mode, character,dialog,map_
+    return False,"",-1,-1,{}
+
+
+def detect_word_header(header,forceMode="",forceCols={}):
+    print("-------------- test word header -----------------")
+    print("forceMode"+str(forceMode))
+    print("forceCols"+str(forceCols))
+    dialogueCol=-1
+    characterIdCol=-1
+    combinedContinuityCol=-1
+    titlesCol=-1
+    dialogWithSpeakerId=-1
+    sceneDescriptionCol=-1
+    idx=0
+
+    docx_mode_dialogue_characterid= False
+    docx_mode_combined_continuity= False
+    docx_mode_scenedescription= False
+    docx_mode_dialogwithspeakerid=False
+
+    if len(forceMode)>0:
+        if forceMode=="DETECT_CHARACTER_DIALOG":
+            dialogueCol=forceCols['DIALOG']
+            characterIdCol=forceCols['CHARACTER']
+            docx_mode_dialogue_characterid=True
+            print("CHARACTER "+str(characterIdCol))
+            print("DIALOG "+str(dialogueCol))
+        else:
+            print("UNKNOWN FORCE MODE")
+    else:
+        print("Header:")
+        for cell in header.cells:
+            t=cell.text.strip()
+            print("   * "+str(t))
+            if t=="CHARACTER ID":
+                characterIdCol=idx
+            if t=="CHARACTER":
+                characterIdCol=idx
+            elif t=="ROLE":
+                characterIdCol=idx
+            elif t=="DIALOGUE":
+                dialogueCol=idx
+            elif t=="Scene Description":
+                sceneDescriptionCol=idx
+            elif t=="Titles" or t=="Title":
+                titlesCol=idx
+            elif t=="Dialog With \nSpeaker Id":
+                dialogWithSpeakerId=idx
+            elif t=="COMBINED CONTINUITY":
+                combinedContinuityCol=idx
+            idx=idx+1
+
+    print(f"dialogCol {dialogueCol}")
+    print(f"characterIdCol {characterIdCol}")
+    print(f"combinedContinuityCol {combinedContinuityCol}")
+    print(f"titlesCol {titlesCol}")
+    print(f"sceneDescriptionCol {sceneDescriptionCol}")
+    print(f"dialogWithSpeakerId {dialogWithSpeakerId}")
+    print("detect_word_header assigned")
+    docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
+    #docx_mode_combined_continuity= combinedContinuityCol>-1
+    docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
+    docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
+    print("detect_word_header assigned mode")
+
+    mode=None
+    character=None
+    dialog=None
+    map_={}
+    idx=0
+    print("detect_word_headermap")
+
+    if dialogueCol>-1 and characterIdCol>-1:
+        mode="SPLIT"
+        character=characterIdCol
+        dialog=dialogueCol
+    if sceneDescriptionCol>-1 and titlesCol>-1:
+        mode="COMBINED"
+        character=titlesCol
+        dialog=titlesCol
+    if combinedContinuityCol>-1 or dialogWithSpeakerId>-1:
+        mode="COMBINED"
+        character=dialogWithSpeakerId
+        dialog=dialogWithSpeakerId
+
+    print(f"detect_word_header gen map d={dialog} c={character}")
+    for cell in header.cells:
+        print(f"  test idx={idx} d={dialog}")
+        t=cell.text.strip()
+        if idx==dialog and idx==character:
+            t='BOTH'
+        elif idx==dialog:
+            t='DIALOG'
+        elif idx==character:
+            t='CHARACTER'
+        else:
+            t='NONE'
+        
+        map_[idx]={'type':t}
+        idx=idx+1
+
+    print("detect_word_header done")
+    print("map_"+str(map_))
+    print("mode"+str(mode))
+    print("dialog"+str(dialog))
+    print("character"+str(character))
+    
+
+    if docx_mode_dialogue_characterid:
+        return True, mode, character,dialog,map_
+    elif docx_mode_scenedescription:
+        return True, mode, character,dialog,map_
+    elif docx_mode_dialogwithspeakerid:
+        return True, mode, character,dialog,map_
+   # elif docx_mode_combined_continuity:
+    #    return True, mode, character,dialog,map_
+    else:
+        print("Tables but no ")
+        return False, mode, character,dialog,map_
 
 
 def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
@@ -1950,7 +2105,7 @@ def word_has_paragraph_style_character(para):
     return "CHARACTER" in styles
 
 def convert_word_withstyles_to_plaintext(doc,file_path,absCurrentOutputFolder):
-    converted_file_path=get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
+    converted_file_path=get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
     current_character=None
     current_dialog=None
     with open(converted_file_path, 'w', encoding='utf-8') as file:
@@ -2011,8 +2166,11 @@ def detect_plaintext_indented(doc):
     else:
         return False        
             
-def get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
+def get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
     converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".docx",".converted.txt"))
+    return converted_file_path
+def get_doc_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
+    converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".doc",".converted.txt"))
     return converted_file_path
 def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
     print("convert_docx_to_txt")
@@ -2021,14 +2179,16 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
     converted_file_path=""
     if ".docx" in file_path:
         print(".docx")
-        converted_file_path=get_word_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
+        converted_file_path=get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
     elif ".doc" in file_path:
         print(".doc")
-        print("Convert doc to docx  ")
-        docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder,forceMode=forceMode,forceCols=forceCols)
-        print("Output         :"+os.path.abspath(docx_file_path))
-        converted_file_path=os.path.abspath(docx_file_path).replace(".docx",".converted.txt")
-        file_path=docx_file_path
+        converted_file_path=get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
+
+#        print("Convert doc to docx  ")
+ #       docx_file_path = convert_doc_to_docx(file_path,absCurrentOutputFolder)
+  #      print("Output         :"+os.path.abspath(docx_file_path))
+   #     converted_file_path=os.path.abspath(docx_file_path).replace(".docx",".converted.txt")
+    #    file_path=docx_file_path
     else:
         print("other extension")
 
@@ -2077,8 +2237,10 @@ def get_all_characters(breakdown):
             if character==None:
                 print("ERR")
                 exit()
+            print("test  CHARACTER"+str(character)+" "+str(all_characters))
 
             if not character in all_characters:
+                print("ADD NEW CHARACTER"+character)
                 all_characters.append(character)
     return all_characters
 
@@ -2303,11 +2465,15 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     line_idx=1
     isEmptyLine=False
     with open(script_path, 'r', encoding=encoding_used) as file:
+        print("  > Opened    : "+str(script_path))
         for line in file:
-            line = line.strip()  # Remove any leading/trailing whitespace
+            print("  > Opened    : "+str(line))
+            line = line  # Remove any leading/trailing whitespace
             trimmed_line = line.strip()  # Remove any leading/trailing whitespace
     
             isNewEmptyLine=len(trimmed_line)==0
+            print("  > Sep")
+
             if scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
                 if (not isNewEmptyLine) and  (isEmptyLine and wasEmptyLine):
                     current_scene_count=current_scene_count+1
@@ -2322,6 +2488,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
             if is_verbose:
                 print("  > Line "+str(line_idx))
             if len(trimmed_line)>0:
+                print("  > trimmed")   
                 if is_scene_line(line) or (isEmptyLine and wasEmptyLine):
                     current_scene_count=current_scene_count+1
                                     
@@ -2331,13 +2498,20 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                         print("  > --------------------------------------")
                     print(f"  > Scene Line: {current_scene_id}")
                 else:
+                        print("  > not scene")   
                         if True:#current_scene_id!=1:
                             is_speaking=is_character_speaking(trimmed_line,character_mode)
+                            print("  > speaking")   
+
                             if is_verbose:
                                 print("    IsSpeaking "+str(is_speaking)+" "+trimmed_line)
                             if is_speaking:
+                                print("  > speaking1"+str(trimmed_line)+" "+str(character_mode))   
+
                                 character_name=extract_character_name(trimmed_line,character_mode)
+                                print("  > speaking 2b"+str(character_name))   
                                 character_name=filter_character_name(character_name)
+                                print("  > speaking 2")   
                                 if is_verbose:
                                     print("   name="+str(character_name))
                                 if not character_name == None:

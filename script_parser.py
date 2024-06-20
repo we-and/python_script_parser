@@ -62,6 +62,7 @@ countMethods=[
 #################################################################
 #ENCODING
 def detect_file_encoding(file_path):
+    print("detect encoding of file "+str(file_path))
     with open(file_path, 'rb') as file:  # Open the file in binary mode
         raw_data = file.read(10000)  # Read the first 10000 bytes to guess the encoding
         result = chardet.detect(raw_data)
@@ -1055,7 +1056,7 @@ def is_centered(block_left, min_left, max_left, threshold):
     return abs(block_left - center) <= threshold
        
 
-def get_pdf_text_elements(file_path,page_idx):
+def get_pdf_text_elements(file_path,page_idx, page_start):
     print("---------- get_pdf_page_blocks -----------------")
     text_elements=[]
     minboxleft=100000
@@ -1064,8 +1065,8 @@ def get_pdf_text_elements(file_path,page_idx):
         for page_layout in extract_pages(file_path):
                 print("----------------------------")
                 print(f"Page number: {page_layout.pageid}")
-                print("-- PAGE "+str(page_idx))
-            
+                if page_layout.pageid<page_start:
+                    continue
                 # Get the page bounding box coordinates and dimensions
                 if isinstance(page_layout, LTPage):
                     page_bbox = page_layout.bbox
@@ -1082,14 +1083,14 @@ def get_pdf_text_elements(file_path,page_idx):
                     
                     # Check if the element is a text container
                     if isinstance(element, LTTextContainer):
-                        print("element")
                         # Loop over the text blocks within the text container
                         text_block = element.get_text()
                         bbox = element.bbox  # (x0, y0, x1, y1)                        
                         is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
                         if is_inside:
+                            tt=text_block.strip().replace("\n","")
                             # Print the text block and its bounding box
-                            print(f"{bbox} {text_block.strip()}")
+                            print(f"{bbox} {tt}")
                             if bbox[0] < minboxleft:
                                 minboxleft=bbox[0]
                             text_elements.append({
@@ -1118,7 +1119,6 @@ def get_pdf_text_elements(file_path,page_idx):
                     
                     # Check if the element is a text container
                     if isinstance(element, LTTextContainer):
-                        print("element")
                         # Loop over the text blocks within the text container
                         text_block = element.get_text()
                         bbox = element.bbox  # (x0, y0, x1, y1)                        
@@ -1158,7 +1158,6 @@ def get_pdf_page_blocks(file_path,page_idx):
                     
                     # Check if the element is a text container
                     if isinstance(element, LTTextContainer):
-                        print("element")
                         # Loop over the text blocks within the text container
                         text_block = element.get_text()
                         #for text_line in element:
@@ -1234,36 +1233,41 @@ def get_pdf_page_blocks(file_path,page_idx):
         'center':centered_blocks
     }
 def split_elements(text_elements,left_margin,top_margin,right_margin,bottom_margin):
-    top_aligned_blocks = []
-    left_aligned_blocks = []
-    right_aligned_blocks = []
+    top_blocks = []
+    left_blocks = []
+    right_blocks = []
     bottom_blocks = []
     centered_blocks = []
-    print(f"--split left={left_margin} top={top_margin} right={right_margin} bottom={bottom_margin}")
+    print("SPLIT")
+    print(f" > elements {len(text_elements)}")
+    print(f" > margins left={left_margin} top={top_margin} right={right_margin} bottom={bottom_margin}")
     #print("TEST")
     for k,el in enumerate(text_elements):
         left_pos=el['bbox'][0]
         bottom_pos=el['bbox'][1]
      #   print("test ["+str(left_pos) +"]"+str(el['text']))
         if is_in_top_margin(bottom_pos, top_margin):
-            top_aligned_blocks.append(el)
+            #print(f"    - is_top bottompos={bottom_pos} topmargin={top_margin}")
+            top_blocks.append(el)
         elif is_in_left_margin(left_pos, left_margin):
        #     print("test left")
-            left_aligned_blocks.append(el)
+            left_blocks.append(el)
         elif is_in_right_margin(left_pos,right_margin):
         #    print("test right")
-            right_aligned_blocks.append(el)
-        elif is_in_bottom_margin(left_pos,bottom_margin):
+            right_blocks.append(el)
+        elif is_in_bottom_margin(bottom_pos,bottom_margin):
         #    print("test right")
             bottom_blocks.append(el)
         else:#if is_centered(left_pos, min_left, max_left, threshold):
          #   print("test centre")
             centered_blocks.append(el)
+    print(f" > groups left={len(left_blocks)} top={len(top_blocks)} right={len(right_blocks)} center={len(centered_blocks)} bottom={len(bottom_blocks)}")
+
     return {
         'bottom':bottom_blocks,
-        'left':left_aligned_blocks,
-        'right':right_aligned_blocks,
-        'top':top_aligned_blocks,
+        'left':left_blocks,
+        'right':right_blocks,
+        'top':top_blocks,
         'center':centered_blocks
     }
 

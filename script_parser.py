@@ -276,7 +276,7 @@ def matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(text):
 
 
 def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
-    print("test match"+str(text))
+    #print("test match"+str(text))
     # Define the regex pattern:
     # ^ starts the match at the beginning of the line
     # (.+) matches one or more of any character (the first text block), captured for potential use
@@ -286,7 +286,7 @@ def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
     pattern = r'^(.+?)\s{8,}(.+)$'
     # Use re.match to check if the whole string matches the pattern
     if re.match(pattern, text):
-        print("is match")
+       # print("is match")
         return True
     else:
         return False
@@ -1080,50 +1080,60 @@ def is_centered(block_left, min_left, max_left, threshold):
     center = (min_left + max_left) / 2
     return abs(block_left - center) <= threshold
        
-
 def get_pdf_text_elements(file_path,page_idx, page_start):
-    print("---------- get_pdf_page_blocks -----------------")
-    text_elements=[]
-    minboxleft=100000
+    return get_pdf_text_elements_pdfminer(file_path,page_idx,page_start)
 
-    if page_idx<0:
-        for page_layout in extract_pages(file_path):
-                print("----------------------------")
-                print(f"Page number: {page_layout.pageid}")
-                if page_layout.pageid<page_start:
-                    continue
-                # Get the page bounding box coordinates and dimensions
-                if isinstance(page_layout, LTPage):
-                    page_bbox = page_layout.bbox
-                    page_x0, page_y0, page_x1, page_y1 = page_bbox
-                    page_width = page_x1 - page_x0
-                    page_height = page_y1 - page_y0
-                else:
-                    # If page bounding box is not available, skip processing the page
-                    continue
-                # Loop over the elements in the page
-                print(str(page_layout))
+def get_pdf_text_elements_alt(file_path,page_idx, page_start):
+        print("---------- get_pdf_page_blocks -----------------")
+        text_elements=[]
+        minboxleft=100000
 
-                for element in page_layout:
-                    
-                    # Check if the element is a text container
-                    if isinstance(element, LTTextContainer):
-                        # Loop over the text blocks within the text container
-                        text_block = element.get_text()
-                        bbox = element.bbox  # (x0, y0, x1, y1)                        
-                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
-                        if is_inside:
-                            tt=text_block.strip().replace("\n","")
-                            # Print the text block and its bounding box
-                            print(f"{bbox} {tt}")
-                            if bbox[0] < minboxleft:
-                                minboxleft=bbox[0]
-                            text_elements.append({
-                                'text':text_block.strip(),
-                                'bbox':bbox,
-                            })
-    else:        
-        for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
+        if page_idx<0:
+            for page_layout in extract_pages(file_path):
+                    print("----------------------------")
+                    print(f"Page number: {page_layout.pageid}")
+                    if page_layout.pageid<page_start:
+                        continue
+                    # Get the page bounding box coordinates and dimensions
+                    if isinstance(page_layout, LTPage):
+                        page_bbox = page_layout.bbox
+                        page_x0, page_y0, page_x1, page_y1 = page_bbox
+#                        page_width = page_x1 - page_x0
+ #                       page_height = page_y1 - page_y0
+                    else:
+                        # If page bounding box is not available, skip processing the page
+                        continue
+                    # Loop over the elements in the page
+                    print(str(page_layout))
+                    print("ELEMENTS: "+str(len(page_layout)))
+                    page_elements=[]
+                    for element in page_layout:
+                        
+                        # Check if the element is a text container
+                        if isinstance(element, LTTextContainer):
+                            # Loop over the text blocks within the text container
+                            text_block = element.get_text()
+                            bbox = element.bbox  # (x0, y0, x1, y1)                        
+                            is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                            if is_inside:
+                                tt=text_block.strip().replace("\n","")
+                                stripped_text=tt
+                                if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                    print(f"{bbox} {tt}")
+                                    if bbox[0] < minboxleft:
+                                        minboxleft=bbox[0]
+                                    page_elements.append({
+                                        'text':text_block.strip(),
+                                        'bbox':bbox,
+                                    })
+                    print("NON EMPTY ELEMENTS: "+str(len(page_elements)))
+                
+                    page_elements = sorted(page_elements, key=lambda x: x['bbox'][1], reverse=True)
+                    for k in page_elements:
+                        text_elements.append(k)
+        else:        
+            for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
                 print("----------------------------")
                 print(f"Page number: {page_layout.pageid}")
                 print("-- PAGE "+str(page_idx))
@@ -1139,7 +1149,7 @@ def get_pdf_text_elements(file_path,page_idx, page_start):
                     continue
                 # Loop over the elements in the page
                 print(str(page_layout))
-
+                print("ELEMENTS: "+str(len(page_layout)))
                 for element in page_layout:
                     
                     # Check if the element is a text container
@@ -1149,15 +1159,116 @@ def get_pdf_text_elements(file_path,page_idx, page_start):
                         bbox = element.bbox  # (x0, y0, x1, y1)                        
                         is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
                         if is_inside:
-                            # Print the text block and its bounding box
-                            print(f"{bbox} {text_block.strip()}")
-                            if bbox[0] < minboxleft:
-                                minboxleft=bbox[0]
-                            text_elements.append({
-                                'text':text_block.strip(),
-                                'bbox':bbox,
-                            })
-    return text_elements
+                            tt=text_block.strip().replace("\n","")
+                            stripped_text=tt
+                            if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                print(f"{bbox} {stripped_text}")
+                                if bbox[0] < minboxleft:
+                                    minboxleft=bbox[0]
+                                text_elements.append({
+                                    'text':stripped_text,
+                                    'bbox':bbox,
+                                })
+                print("NON EMPTY ELEMENTS: "+str(len(text_elements)))
+                
+                text_elements = sorted(text_elements, key=lambda x: x['bbox'][1], reverse=True)
+
+    
+        return text_elements
+def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start):
+        print("---------- get_pdf_page_blocks -----------------")
+        text_elements=[]
+        minboxleft=100000
+
+        if page_idx<0:
+            for page_layout in extract_pages(file_path):
+                    print("----------------------------")
+                    print(f"Page number: {page_layout.pageid}")
+                    if page_layout.pageid<page_start:
+                        continue
+                    # Get the page bounding box coordinates and dimensions
+                    if isinstance(page_layout, LTPage):
+                        page_bbox = page_layout.bbox
+                        page_x0, page_y0, page_x1, page_y1 = page_bbox
+#                        page_width = page_x1 - page_x0
+ #                       page_height = page_y1 - page_y0
+                    else:
+                        # If page bounding box is not available, skip processing the page
+                        continue
+                    # Loop over the elements in the page
+                    print(str(page_layout))
+                    print("ELEMENTS: "+str(len(page_layout)))
+                    page_elements=[]
+                    for element in page_layout:
+                        
+                        # Check if the element is a text container
+                        if isinstance(element, LTTextContainer):
+                            # Loop over the text blocks within the text container
+                            text_block = element.get_text()
+                            bbox = element.bbox  # (x0, y0, x1, y1)                        
+                            is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                            if is_inside:
+                                tt=text_block.strip().replace("\n","")
+                                stripped_text=tt
+                                if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                    print(f"{bbox} {tt}")
+                                    if bbox[0] < minboxleft:
+                                        minboxleft=bbox[0]
+                                    page_elements.append({
+                                        'text':text_block.strip(),
+                                        'bbox':bbox,
+                                    })
+                    print("NON EMPTY ELEMENTS: "+str(len(page_elements)))
+                
+                    page_elements = sorted(page_elements, key=lambda x: x['bbox'][1], reverse=True)
+                    for k in page_elements:
+                        text_elements.append(k)
+        else:        
+            for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
+                print("----------------------------")
+                print(f"Page number: {page_layout.pageid}")
+                print("-- PAGE "+str(page_idx))
+            
+                # Get the page bounding box coordinates and dimensions
+                if isinstance(page_layout, LTPage):
+                    page_bbox = page_layout.bbox
+                    page_x0, page_y0, page_x1, page_y1 = page_bbox
+                    page_width = page_x1 - page_x0
+                    page_height = page_y1 - page_y0
+                else:
+                    # If page bounding box is not available, skip processing the page
+                    continue
+                # Loop over the elements in the page
+                print(str(page_layout))
+                print("ELEMENTS: "+str(len(page_layout)))
+                for element in page_layout:
+                    
+                    # Check if the element is a text container
+                    if isinstance(element, LTTextContainer):
+                        # Loop over the text blocks within the text container
+                        text_block = element.get_text()
+                        bbox = element.bbox  # (x0, y0, x1, y1)                        
+                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
+                        if is_inside:
+                            tt=text_block.strip().replace("\n","")
+                            stripped_text=tt
+                            if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                print(f"{bbox} {stripped_text}")
+                                if bbox[0] < minboxleft:
+                                    minboxleft=bbox[0]
+                                text_elements.append({
+                                    'text':stripped_text,
+                                    'bbox':bbox,
+                                })
+                print("NON EMPTY ELEMENTS: "+str(len(text_elements)))
+                
+                text_elements = sorted(text_elements, key=lambda x: x['bbox'][1], reverse=True)
+
+    
+        return text_elements
 def get_pdf_page_blocks(file_path,page_idx):
     print("---------- get_pdf_page_blocks -----------------")
     text_elements=[]
@@ -1265,29 +1376,32 @@ def split_elements(text_elements,left_margin,top_margin,right_margin,bottom_marg
     centered_blocks = []
     print("SPLIT")
     if text_elements != None:
+        print("NB EL"+str(len(text_elements)))
         print(f" > elements {len(text_elements)}")
     print(f" > margins left={left_margin} top={top_margin} right={right_margin} bottom={bottom_margin}")
     #print("TEST")
-    for k,el in enumerate(text_elements):
-        left_pos=el['bbox'][0]
-        bottom_pos=el['bbox'][1]
-     #   print("test ["+str(left_pos) +"]"+str(el['text']))
-        if is_in_top_margin(bottom_pos, top_margin):
-            #print(f"    - is_top bottompos={bottom_pos} topmargin={top_margin}")
-            top_blocks.append(el)
-        elif is_in_left_margin(left_pos, left_margin):
-       #     print("test left")
-            left_blocks.append(el)
-        elif is_in_right_margin(left_pos,right_margin):
-        #    print("test right")
-            right_blocks.append(el)
-        elif is_in_bottom_margin(bottom_pos,bottom_margin):
-        #    print("test right")
-            bottom_blocks.append(el)
-        else:#if is_centered(left_pos, min_left, max_left, threshold):
-         #   print("test centre")
-            centered_blocks.append(el)
-    print(f" > groups left={len(left_blocks)} top={len(top_blocks)} right={len(right_blocks)} center={len(centered_blocks)} bottom={len(bottom_blocks)}")
+    if text_elements!=None:
+        for k,el in enumerate(text_elements):
+            if len(el['text'])>0:
+                left_pos=el['bbox'][0]
+                bottom_pos=el['bbox'][1]
+            #   print("test ["+str(left_pos) +"]"+str(el['text']))
+                if is_in_top_margin(bottom_pos, top_margin):
+                    #print(f"    - is_top bottompos={bottom_pos} topmargin={top_margin}")
+                    top_blocks.append(el)
+                elif is_in_left_margin(left_pos, left_margin):
+            #     print("test left")
+                    left_blocks.append(el)
+                elif is_in_right_margin(left_pos,right_margin):
+                #    print("test right")
+                    right_blocks.append(el)
+                elif is_in_bottom_margin(bottom_pos,bottom_margin):
+                #    print("test right")
+                    bottom_blocks.append(el)
+                else:#if is_centered(left_pos, min_left, max_left, threshold):
+                #   print("test centre")
+                    centered_blocks.append(el)
+        print(f" > groups left={len(left_blocks)} top={len(top_blocks)} right={len(right_blocks)} center={len(centered_blocks)} bottom={len(bottom_blocks)}")
 
     return {
         'bottom':bottom_blocks,
@@ -1353,7 +1467,8 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
          
                         if is_inside:
                             # Print the text block and its bounding box
-                            print(f"{bbox} {text_block.strip()}")
+                            if len(text_block.strip())>0:
+                                print(f"{bbox} {text_block.strip()}")
                             if bbox[0] < minboxleft:
                                 minboxleft=bbox[0]
                             text_elements.append({
@@ -1389,18 +1504,18 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
     for k,el in enumerate(text_elements):
         left_pos=el['bbox'][0]
         bottom_pos=el['bbox'][1]
-        print("test ["+str(left_pos) +"]"+str(el['text']))
+        #print("test ["+str(left_pos) +"]"+str(el['text']))
         if is_in_top_margin(bottom_pos,  threshold):
-            print("test left")
+         #   print("test left")
             top_aligned_blocks.append(el)
         elif is_in_left_margin(left_pos, min_left, threshold):
-            print("test left")
+          #  print("test left")
             left_aligned_blocks.append(el)
         elif is_in_right_margin(left_pos, max_left, threshold):
-            print("test right")
+           # print("test right")
             right_aligned_blocks.append(el)
         else:#if is_centered(left_pos, min_left, max_left, threshold):
-            print("test centre")
+            #print("test centre")
             centered_blocks.append(el)
 
     
@@ -1431,16 +1546,15 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
         for k,el in enumerate(centered_blocks):
             left_pos=el['bbox'][0]
             text=el['text']
-            print("OUT  ["+str(left_pos)+"]   "+text)
             parts=text.split("\n")
             Nparts=len(parts)
             if Nparts==1:    
                 if text.isupper() and not is_after_character and not text.startswith("¡"):
-                    print("CHAR   "+text)
+                    print("OUT  ["+str(left_pos)+"]   "+text+"    -->  CHAR   ")
                     current_character=filter_character_name(text)
                     is_after_character=True
                 else:
-                    print("DIALOG "+text)
+                    print("OUT  ["+str(left_pos)+"]   "+text+"    -->  DIALOG   ")
                     dialog=filter_speech(text)
                     is_after_character=False
                     if current_character!=None:
@@ -1449,11 +1563,11 @@ def convert_pdf_to_txt(file_path,absCurrentOutputFolder,encoding):
             else:
                 for part in parts:
                     if part.isupper() and not is_after_character and not text.startswith("¡"):
-                        print("CHAR   "+text)
+                        print("OUT  ["+str(left_pos)+"]   "+part+"    -->  CHAR   ")
                         current_character=filter_character_name(part)
                         is_after_character=True
                     else:
-                        print("DIALOG "+part)
+                        print("OUT  ["+str(left_pos)+"]   "+part+"    -->  DIALOG   ")
                         dialog=filter_speech(part)
                         is_after_character=False
                         if current_character!=None:
@@ -1480,16 +1594,15 @@ def run_convert_pdf_to_txt(file_path,absCurrentOutputFolder,centered_blocks,enco
         for k,el in enumerate(centered_blocks):
             left_pos=el['bbox'][0]
             text=el['text']
-            print("OUT  ["+str(left_pos)+"]   "+text)
             parts=text.split("\n")
             Nparts=len(parts)
             if Nparts==1:    
                 if text.isupper() and not is_after_character and not text.startswith("¡"):
-                    print("CHAR   "+text)
+                    print("OUT1  ["+str(left_pos)+"]   "+text+"        --> CHAR   ")
                     current_character=filter_character_name(text)
                     is_after_character=True
                 else:
-                    print("DIALOG "+text)
+                    print("OUT1  ["+str(left_pos)+"]   "+text+"        --> DIALOG   ")
                     dialog=filter_speech(text)
                     is_after_character=False
                     if current_character!=None:
@@ -1498,11 +1611,11 @@ def run_convert_pdf_to_txt(file_path,absCurrentOutputFolder,centered_blocks,enco
             else:
                 for part in parts:
                     if part.isupper() and not is_after_character and not text.startswith("¡"):
-                        print("CHAR   "+text)
+                        print("OUT1  ["+str(left_pos)+"]   "+part+"        --> CHAR   ")
                         current_character=filter_character_name(part)
                         is_after_character=True
                     else:
-                        print("DIALOG "+part)
+                        print("OUT1  ["+str(left_pos)+"]   "+part+"        --> DIALOG   ")
                         dialog=filter_speech(part)
                         is_after_character=False
                         if current_character!=None:
@@ -1609,28 +1722,6 @@ def convert_pdf_to_txt_pdfplum(file_path,absCurrentOutputFolder,encoding):
                                     print("Add "+ current_character + " "+ speech)
                                     file.write(s)
 
-                        if False:
-                            tables = page.extract_tables()
-                #            tables = page.extract_tables(table_settings={"vertical_strategy": "text",    "horizontal_strategy": "text"})
-                            pdf_mode="?"
-                            print("convert_pdf_to_txt tables = "+str(len(tables)))
-                            
-                            for table in tables:
-                                # Add a table to the Word document
-                                if table:  # Check if the table is not empty
-
-                                    print("convert_pdf_to_txt testheader")
-                                    print(table)
-                                    headerSuccess=False
-                                    for i in range(3):
-                                        print("test row"+str(i))
-                                        header=table[i]
-                                        success=test_pdf_header(file,table,header)
-                                        if success:
-                                            headerSuccess=True
-                                            break
-                                    if not headerSuccess:
-                                        return ""
     print("Converted")                       
     print(converted_file_path)
     return converted_file_path,encoding
@@ -2237,7 +2328,7 @@ def get_all_characters(breakdown):
             if character==None:
                 print("ERR")
                 exit()
-            print("test  CHARACTER"+str(character)+" "+str(all_characters))
+            #print("test  CHARACTER"+str(character)+" "+str(all_characters))
 
             if not character in all_characters:
                 print("ADD NEW CHARACTER"+character)
@@ -2317,6 +2408,36 @@ def merge_breakdown_character_by_replacelist(breakdown,replace_list):
 
     return breakdown
 
+def is_multiple_character(char):
+    return " AND " in char
+
+def split_AND_character(breakdown):
+    print("merge_breakdown_character_by_replacelist")
+    for item in breakdown:
+        if item["type"]=="SPEECH":
+            character=item["character"]
+            if is_multiple_character(character):
+                characters=character.split(" AND ")
+                first=characters[0]
+                chidx=0
+                for ch in characters:
+                    if chidx==0:
+                        item['character']=ch
+                    else:
+                        item2={
+                            'character':ch,
+                            'type':item['type'],
+                            'scene_id':item['scene_id'],
+                            'line_idx':item['line_idx'],
+                            'character_raw':character,
+                            'speech':item['speech']
+                        }
+                        breakdown.append(item2)
+
+                    chidx=chidx+1
+
+    return breakdown
+
 def merge_breakdown_character_talking_to(breakdown,all_characters):
     print("merge_breakdown_character_talking_to")
     replaceList={}
@@ -2358,6 +2479,13 @@ def filter_speech2(s):
     res=s.replace("♪","").replace("Â§","").replace("§","")
     #filter songs
     return res
+
+def save_string_to_file(text, filename):
+    """Saves a given string `text` to a file named `filename`."""
+    print(" > Write to "+filename)
+    with open(filename, 'w', encoding='utf-8') as file:
+        file.write(text)
+
 
 def is_character_name_valid(char):
     isNote= "NOTE D'AUTEUR" in char
@@ -2544,9 +2672,12 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
    # print("replace_map"+str(replace_map))
 
     breakdown=merge_breakdown_character_by_replacelist(breakdown,replace_map)
+    breakdown=split_AND_character(breakdown)
     all_characters=get_all_characters(breakdown)
  #   print("all_characters"+str(all_characters))
   #  print("replacelist"+str(replaceList))
+
+
 
     for item in breakdown:
         if item['type']=="SPEECH":

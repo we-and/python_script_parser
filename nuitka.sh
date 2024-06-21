@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the variable for the Nuitka distribution directory
-NUITKA_DIST_DIR="nuitka_dist109b/arm"
+NUITKA_DIST_DIR="nuitka_dist110/arm"
 APP_NAME="scripti"
 APP_BUNDLE="$NUITKA_DIST_DIR/$APP_NAME.app"
 DMG_NAME="scripti52.dmg"

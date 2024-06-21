@@ -7,11 +7,16 @@ import chardet
 import io
 import tkinter.font as tkFont
 import subprocess
+
+import pytesseract
 import platform
 import re
 from docx import Document
 import sys
 import csv
+from PyPDF2 import PdfWriter, PdfReader
+
+from pdfplumber.pdf import PDF
 import pdfplumber
 import math
 import webbrowser
@@ -1046,6 +1051,8 @@ def on_button_click():
 def export_csv():
     myprint4("Export")
 
+def is_AND_character(character):
+    return " AND " in character
 def fill_breakdown_table(breakdown):
     print("breakdown"+str(breakdown))
     for item in breakdown:
@@ -1058,6 +1065,7 @@ def fill_breakdown_table(breakdown):
         elif(type_=="SPEECH"):
             speech=item['speech']
             character=item['character']
+
             if not character in currentDisabledCharacterNames:
                 breakdown_table.insert('','end',values=(str(line_idx),"Speech",character,speech))
         elif(type_=="NONSPEECH"):         
@@ -2238,24 +2246,33 @@ class PDFViewer:
     def __init__(self, root, file_path,currentOutputFolder,encoding):
         myprint7("pdf1")
         self.root = root
+#        self.strategy="OCR"
+        self.strategy="BLOCKS"
         for widget in self.root.winfo_children():
             widget.destroy()
         self.currentOutputFolder=currentOutputFolder
         self.encoding=encoding
         self.file_path = file_path
-        self.page_number = 10
+        self.page_number = 1
         self.scale=1
         self.left_threshold=125
         self.right_threshold=189
         self.top_threshold=78
         self.bottom_threshold=37
+        if self.strategy=="OCR":
+            self.left_threshold=90
+            self.right_threshold=47
+            self.top_threshold=50
+            self.bottom_threshold=37
+        elif self.strategy=="BLOCKS":
+            self.left_threshold=125
+            self.right_threshold=189
+            self.top_threshold=78
+            self.bottom_threshold=37
         
         self.text_elements=None
         self.canvas_height=0
         self.canvas_width=0
-
-        self.input_firstpage = tk.StringVar()
-        self.input_firstpage.set(str(2))
 
     
         self.top_offset=0
@@ -2271,7 +2288,18 @@ class PDFViewer:
         self.pdf_document = pdfplumber.open(self.file_path)
         self.num_pages = len(self.pdf_document.pages)
         myprint7("Num pages : "+str(self.num_pages))
-
+        self.input_firstpage = tk.StringVar()
+        self.input_lastpage = tk.StringVar()
+        if self.num_pages>10:
+            self.input_firstpage.set(str(2))
+            self.input_lastpage.set(str(self.num_pages))
+        elif self.num_pages>2:
+            self.input_firstpage.set(str(2))
+            self.input_lastpage.set(str(self.num_pages))
+        else:
+            self.input_firstpage.set(str(1))
+            self.input_lastpage.set(str(self.num_pages))
+    
         self.pdf_page_width = self.pdf_document.pages[0].width
         self.pdf_page_height = self.pdf_document.pages[0].height
         myprint7("PDF Page width : "+str(self.pdf_page_width)+" x "+str(self.pdf_page_height))
@@ -2294,12 +2322,19 @@ class PDFViewer:
         
 
     # Create a label
-        label = ttk.Label(self.slider_frame, text="Première page de dialogue:")
+        label = ttk.Label(self.slider_frame, text="Première page de traitement:")
         label.pack(pady=10)
         # Create a StringVar to hold the default value
 
         # Create a single-line text entry widget
         entry = ttk.Entry(self.slider_frame, width=30, textvariable=self.input_firstpage)
+        entry.pack(pady=10)
+
+        label = ttk.Label(self.slider_frame, text="Dernière page de traitement:")
+        label.pack(pady=10)
+
+        # Create a single-line text entry widget
+        entry = ttk.Entry(self.slider_frame, width=30, textvariable=self.input_lastpage)
         entry.pack(pady=10)
 
         # Create a horizontal slider for width threshold
@@ -2455,7 +2490,7 @@ class PDFViewer:
 
     def redraw(self):
         self.canvas.delete("all")
-        print("------------------------")
+        print("---------- redraw --------------")
         x1=self.left_threshold
         x2=self.canvas_width-self.right_threshold
         y1=self.canvas_height-self.top_threshold
@@ -2463,7 +2498,7 @@ class PDFViewer:
         x2=self.pdf_page_width-self.right_threshold
         y1=self.pdf_page_height-self.top_threshold
         
-        print("run split with left={x1} top={y1} right={x2} bottom={y2} ")
+        print(f"run split with left={x1} top={y1} right={x2} bottom={y2} ")
 
         res=split_elements(self.text_elements,x1,y1,x2,y2)
 
@@ -2552,8 +2587,12 @@ class PDFViewer:
         scaled_img.save("pdfpreview_scaled.png")
         app.after(100, self.open_pdf_preview)
 
-    def run(self):
-        print("RUN")
+    def get_first_page(self):
+        return int(self.input_firstpage.get())
+    def get_last_page(self):
+        return int(self.input_lastpage.get())
+    def run_elements(self):
+        print("RUN PDF")
         global currentFilePath
         global currentScriptFilename
         global currentBreakdown
@@ -2569,7 +2608,7 @@ class PDFViewer:
         global currentPDFPages
         global currentPDFPageIdx
 
-        self.all_text_elements=get_pdf_text_elements(self.file_path,-1,int(self.input_firstpage.get()))
+        self.all_text_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page())
         print("all blocks: "+str(len(self.all_text_elements)))
         
 
@@ -2583,9 +2622,205 @@ class PDFViewer:
 
         res=split_elements(self.all_text_elements,x1,y1,x2,y2)
         self.all_centered_blocks=res['center'];
+        
         print("centered blocks: "+str(len(self.all_centered_blocks)))
         converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
         print("converted "+str(converted_file_path))
+        
+        with open(converted_file_path, 'r', encoding=self.encoding) as file:
+            file_path=converted_file_path
+            file_name = os.path.basename(file_path)
+            currentScriptFilename=file_name
+            name, extension = os.path.splitext(file_name)
+            myprint7("Opened")
+            content = file.read()
+            myprint7("Read")
+            file_preview.delete(1.0, tk.END)
+            file_preview.insert(tk.END, content)
+            
+            enc=self.encoding
+            myprint7("Process")
+            breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,"ALL",enc)
+
+            myprint7("Processed")
+            if breakdown==None:
+                myprint7("Failed")
+                hide_loading()
+            else:
+                myprint7("OK")
+                currentBreakdown=breakdown
+                png_output_file=currentOutputFolder+name+"_timeline.png"
+                currentTimelinePath=png_output_file
+                currentResultCharacterOrderMap=character_order_map
+                currentResultEnc=self.encoding
+                currentResultName=name
+                currentResultLinecountMap=character_linecount_map
+                currentResultSceneCharacterMap=scene_characters_map
+                postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+   
+
+
+
+
+    def crop_pdf_and_extract_text(self,input_pdf,  output_pdf, crop_box):
+        cropped_text = []
+        writer = PdfWriter()
+        page_idx=self.get_first_page()    
+
+        with pdfplumber.open(input_pdf) as pdf:
+            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
+                cropped_page = page.within_bbox(crop_box)
+                image = cropped_page.to_image().original
+                image.save(f"ocr_{i}.png")
+                myprint7(f"page {i}")
+
+                # Perform OCR on the image
+                text = pytesseract.image_to_string(image)
+                cropped_text.append(text)
+                
+                # Use PyPDF2 to add the cropped page to the writer
+                reader = PdfReader(input_pdf)
+                page_to_add = reader.pages[i]
+                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
+                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
+                writer.add_page(page_to_add)
+            
+            # Save the cropped PDF
+            with open(output_pdf, 'wb') as f:
+                writer.write(f)
+        
+        return "\n".join(cropped_text)
+
+
+    def crop_pdf_and_extract_text_bad(self,input_pdf,  output_pdf, crop_box):
+        cropped_text = []
+        writer = PdfWriter()
+        page_idx=self.get_first_page()    
+
+        def extract_text_with_layout(page):
+            text_with_layout = []
+            for block in page.extract_words():
+                x0 = block['x0']
+                indent = ' ' * int(x0 // 3)  # Adjust the divisor as needed for appropriate spacing
+                text_with_layout.append(f"{indent}{block['text']}")
+            return "\n".join(text_with_layout)
+
+        with pdfplumber.open(input_pdf) as pdf:
+            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
+                cropped_page = page.within_bbox(crop_box)
+                text_with_layout = extract_text_with_layout(cropped_page)
+                cropped_text.append(text_with_layout)
+                
+                # Use PyPDF2 to add the cropped page to the writer
+                reader = PdfReader(input_pdf)
+                page_to_add = reader.pages[i]
+                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
+                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
+                writer.add_page(page_to_add)
+            
+            # Save the cropped PDF
+            with open(output_pdf, 'wb') as f:
+                writer.write(f)
+        
+        return "\n".join(cropped_text)
+    def crop_pdf_and_extract_text_pure(self,input_pdf,  output_pdf, crop_box):
+        """
+        Crop a PDF from the specified page index to the end and extract text from all pages.
+        
+        :param input_pdf: Path to the input PDF file
+        :param page_idx: Index of the page to start cropping from (0-based index)
+        :param crop_box: Tuple specifying the crop box (x0, y0, x1, y1)
+        :param output_pdf: Path to save the cropped PDF
+        :return: Extracted text from the cropped pages
+        """
+        cropped_text = []
+        writer = PdfWriter()
+        page_idx=self.get_first_page()        
+        
+        with pdfplumber.open(input_pdf) as pdf:
+            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
+                myprint7(f"page {i}")
+                cropped_page = page.within_bbox(crop_box)
+                cropped_text.append(cropped_page.extract_text())
+                
+                # Use PyPDF2 to add the cropped page to the writer
+                reader = PdfReader(input_pdf)
+                page_to_add = reader.pages[i]
+                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
+                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
+                writer.add_page(page_to_add)
+            
+            # Save the cropped PDF
+            with open(output_pdf, 'wb') as f:
+                writer.write(f)
+        
+        return "\n".join(cropped_text)
+
+    def crop_pdf_and_extract_textold(self,input_pdf_path, output_pdf_path,  crop_box):
+        extracted_text = ""
+        page_idx=self.get_first_page()        
+        with pdfplumber.open(input_pdf_path) as pdf:
+            # Prepare a new PDF for the cropped pages
+            pdf_writer = PDF()
+            
+            for page_num in range(page_idx, len(pdf.pages)):
+                page = pdf.pages[page_num]
+                
+                # Crop the page
+                cropped_page = page.crop(crop_box)
+                
+                # Add the cropped page to the new PDF
+                pdf_writer.pages.append(cropped_page)
+                
+                # Extract text from the cropped page
+                extracted_text += cropped_page.extract_text() + "\n\n"
+            
+            # Save the cropped PDF
+            with open(output_pdf_path, "wb") as output_file:
+                pdf_writer.write(output_file)
+        
+        return extracted_text
+
+    def run(self):
+        if self.strategy=="OCR":
+            self.run_crop()
+        elif self.strategy=="BLOCKS":
+            self.run_elements()
+    
+    
+    def run_crop(self):
+        print("-------------------- RUN CROP PDF -------------")
+        global currentFilePath
+        global currentScriptFilename
+        global currentBreakdown
+        global currentOutputFolder
+        global currentTimelinePath
+
+        global currentResultCharacterOrderMap
+        global currentResultEnc
+        global currentResultName
+        global currentResultLinecountMap
+        global currentResultSceneCharacterMap
+        global importTab
+        global currentPDFPages
+        global currentPDFPageIdx
+
+        x1=self.left_threshold
+        #x2=self.canvas_width-self.right_threshold
+        y1=self.top_threshold
+        #y2=self.canvas_height-self.bottom_threshold
+        x2=self.pdf_page_width-self.right_threshold
+        y2=self.pdf_page_height-self.top_threshold
+        
+        cropped_path=self.file_path.lower().replace(".pdf","-cropped.pdf")
+        converted_file_path=self.file_path.lower().replace(".pdf","-cropped.converted.txt")
+
+        cropbox=[x1,y1,x2,y2]
+        print(f"cropbox {cropbox}")
+        text=self.crop_pdf_and_extract_text(self.file_path,cropped_path,cropbox)
+        print("converted "+str(text))
+        save_string_to_file(text,converted_file_path)
+        print("converted ")
         
         with open(converted_file_path, 'r', encoding=self.encoding) as file:
             file_path=converted_file_path
@@ -2641,7 +2876,7 @@ class PDFViewer:
             self.canvas.config(scrollregion=self.canvas.bbox(tk.ALL))
 
         self.current_image = nimg_tk
-        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,int(self.input_firstpage.get()))
+        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page())
         
         x1=self.left_threshold
         x2=self.canvas_width-self.right_threshold

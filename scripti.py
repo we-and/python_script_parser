@@ -7,8 +7,11 @@ import chardet
 import io
 import tkinter.font as tkFont
 import subprocess
+#import pypdfium2 as pdfium
+import traceback
+import tkinter.font as tkfont
 
-import pytesseract
+#import pytesseract
 import platform
 import re
 from docx import Document
@@ -443,7 +446,7 @@ def runJob(file_path,method,params={}):
             file_name = os.path.basename(file_path)
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
-            
+            app.title(f"Scripti - {file_name}")
             myprint7("Name                : "+name)
             myprint7("Extension           : "+extension)
             if is_supported_extension(extension):
@@ -496,8 +499,9 @@ def runJob(file_path,method,params={}):
             hide_loading()
 
         except Exception as e:
+            myprint7(f"Error opening file: {e} tried with encoding{ enc}")
             file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
+            file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
             hide_loading()
 def append_file_content(source_file, destination_file):
     try:
@@ -549,6 +553,7 @@ def runGroupJob(file_paths,method):
                 file_name = os.path.basename(file_path)
                 currentScriptFilename=file_name
                 name, extension = os.path.splitext(file_name)
+                app.title(f"Scripti - {file_name}")
                 
                 myprint7("Name                : "+name)
                 myprint7("Extension           : "+extension)
@@ -1102,19 +1107,30 @@ def clear_table(treeview):
 
 ###################################################################################################
 ## .INI FILE
+def get_setting_ini_path():
+    
+   # ini_file_path = os.path.join(script_folder, 'settings.ini')
+
+    user_home = os.path.expanduser("~")
+    ini_file_path = os.path.join(user_home, "Library", "Application Support", "Scripti", "settings.ini")
+
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(ini_file_path), exist_ok=True)
+
+    return ini_file_path
 def check_settings_ini_exists():
     # Get the absolute path of the directory where the script is located
-    script_folder = os.path.abspath(os.path.dirname(__file__))
+#    script_folder = os.path.abspath(os.path.dirname(__file__))
     
     # Define the path to the settings.ini file in the same directory as the script
-    ini_file_path = os.path.join(script_folder, 'settings.ini')
-    
+    ini_file_path = get_setting_ini_path()
+
     # Check if the settings.ini file exists
     if os.path.isfile(ini_file_path):
         myprint4(f"settings.ini file exists at: {ini_file_path}")
         return True
     else:
-        myprint4(f"settings.ini file does not exist in the directory: {script_folder}")
+        myprint4(f"settings.ini file does not exist in the directory: {ini_file_path}")
         return False
 
 
@@ -1126,8 +1142,8 @@ def write_settings_ini():
     content = f"SCRIPT_FOLDER = {script_folder}"
     
     # Define the path to the settings.ini file in the same directory as the script
-    ini_file_path = os.path.join(script_folder, 'settings.ini')
-    
+#    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    ini_file_path = get_setting_ini_path()
     # Write the content to the settings.ini file
     with open(ini_file_path, 'w') as ini_file:
         ini_file.write(content)
@@ -1136,15 +1152,13 @@ def write_settings_ini():
 
 
 def read_settings_ini():
-    # Get the absolute path of the directory where the script is located
-    script_folder = os.path.abspath(os.path.dirname(__file__))
     
     # Define the path to the settings.ini file in the same directory as the script
-    ini_file_path = os.path.join(script_folder, 'settings.ini')
+    ini_file_path = get_setting_ini_path()
     
     # Check if the settings.ini file exists
     if not os.path.isfile(ini_file_path):
-        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {script_folder}")
+        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {ini_file_path}")
     
     # Read the settings.ini file and store settings in a dictionary
     settings = {}
@@ -1158,14 +1172,13 @@ def read_settings_ini():
     return settings
 def update_ini_settings_file(field,new_folder):
     # Get the absolute path of the directory where the script is located
-    script_folder = os.path.abspath(os.path.dirname(__file__))
     
     # Define the path to the settings.ini file in the same directory as the script
-    ini_file_path = os.path.join(script_folder, 'settings.ini')
-    
+    ini_file_path = get_setting_ini_path()
+
     # Check if the settings.ini file exists
     if not os.path.isfile(ini_file_path):
-        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {script_folder}")
+        raise FileNotFoundError(f"settings.ini file does not exist in the directory: {ini_file_path}")
     
     # Read the current settings and store them in a dictionary
     settings = {}
@@ -1195,7 +1208,6 @@ if settings_ini_exists == False:
     logging.debug("Writing settings ini file")
     write_settings_ini()
     script_folder = os.path.abspath(os.path.dirname(__file__))
-    ini_file_path = os.path.join(script_folder, 'settings.ini')
     
     update_ini_settings_file("SCRIPT_FOLDER",script_folder+"/examples")
 
@@ -2257,7 +2269,7 @@ class PDFViewer:
         self.scale=1
         self.left_threshold=125
         self.right_threshold=189
-        self.top_threshold=78
+        self.top_threshold=68
         self.bottom_threshold=37
         if self.strategy=="OCR":
             self.left_threshold=90
@@ -2267,7 +2279,7 @@ class PDFViewer:
         elif self.strategy=="BLOCKS":
             self.left_threshold=125
             self.right_threshold=189
-            self.top_threshold=78
+            self.top_threshold=68
             self.bottom_threshold=37
         
         self.text_elements=None
@@ -2304,7 +2316,7 @@ class PDFViewer:
         self.pdf_page_height = self.pdf_document.pages[0].height
         myprint7("PDF Page width : "+str(self.pdf_page_width)+" x "+str(self.pdf_page_height))
 
-
+        col="#ececec"
 
         # Create a frame for the canvas and scrollbars
         self.canvas_frame = tk.Frame(root)
@@ -2316,26 +2328,39 @@ class PDFViewer:
        
 
         # Create a frame for sliders
-        self.slider_frame = tk.Frame(root)
+        self.slider_frame = tk.Frame(root,bg=col)
         self.slider_frame.pack(fill='both', expand=True,side='top')
 
         
 
-    # Create a label
-        label = ttk.Label(self.slider_frame, text="Première page de traitement:")
-        label.pack(pady=10)
+            # Create a label# Create a bold font
+        bold_font = tkfont.Font(weight="bold")
+
+        # Create the label
+        label = tk.Label(self.slider_frame, text="Pages à traiter",         font=bold_font, anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
+
+        label = tk.Label(self.slider_frame, text="Première page:", anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
         # Create a StringVar to hold the default value
 
         # Create a single-line text entry widget
         entry = ttk.Entry(self.slider_frame, width=30, textvariable=self.input_firstpage)
         entry.pack(pady=10)
 
-        label = ttk.Label(self.slider_frame, text="Dernière page de traitement:")
-        label.pack(pady=10)
+        label = tk.Label(self.slider_frame, text="Dernière page:", anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
 
         # Create a single-line text entry widget
         entry = ttk.Entry(self.slider_frame, width=30, textvariable=self.input_lastpage)
         entry.pack(pady=10)
+
+ # Create the label
+        label = tk.Label(self.slider_frame, text="Zone à traiter",         font=bold_font, anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
+    # Create a label
+        label = tk.Label(self.slider_frame, text="Ajuster les marges pour faire apparaitre le dialogue en bleu.", anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
 
         # Create a horizontal slider for width threshold
         self.left_slider = Scale(self.slider_frame, from_=0, to=900, orient=HORIZONTAL, label='Seuil gauche', command=self.update_left_line)
@@ -2379,22 +2404,38 @@ class PDFViewer:
         # Draw the initial vertical line
         self.draw_vertical_line(self.left_threshold)
 
-        self.buttonframe0 = tk.Frame(root)
+        self.buttonframe0 = tk.Frame(root,bg=col)
         self.buttonframe0.pack(side='top', fill='x')
 
-        self.buttonframe = tk.Frame(root)
+        self.buttonframe = tk.Frame(root,bg=col)
         self.buttonframe.pack(side='top', fill='x')
 
-        self.buttonframe2 = tk.Frame(root)
+        self.buttonframe2 = tk.Frame(root,bg=col)
         self.buttonframe2.pack(side='top', fill='x')
+        style = ttk.Style()
+        # Configure the style
+        style.configure("Custom.Horizontal.TProgressbar", 
+                        troughcolor='#ececec',  # Light gray background
+                        background='#4CAF50',   # Green progress color
+                        thickness=20)  
+        
+        # Create and pack the progress bar
+        self.progress_bar = ttk.Progressbar(self.buttonframe2, orient='horizontal', mode='determinate',  style="Custom.Horizontal.TProgressbar")
+        self.progress_bar.pack(pady=0, fill='x', expand=True)
+        # Create the label
+        label = tk.Label(self.buttonframe0, text="Aperçu",         font=bold_font, anchor="w", justify="left", bg=self.slider_frame.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
 
         # Create buttons to navigate pages
         self.prev_button = tk.Button(self.buttonframe, text="Page précedente", command=self.prev_page)
         self.prev_button.pack(side=tk.LEFT, padx=10, pady=10)
 
-        self.label = ttk.Label(self.buttonframe0, text="Page: "+str(self.page_number+1)+" / "+str(self.num_pages-1), font=('Arial', 12))
+        self.label = tk.Label(self.buttonframe0, text="Page: "+str(self.page_number+1)+" / "+str(self.num_pages), font=('Arial', 12), bg=self.slider_frame.cget('bg'))
         self.label.pack(side=tk.BOTTOM, fill=tk.X)
 
+        self.progress_bar['value'] = 0
+        self.max_value = self.num_pages
+        self.progress_bar['maximum'] = self.max_value
 
         self.next_button = tk.Button(self.buttonframe, text=" Page suivante", command=self.next_page)
         self.next_button.pack(side=tk.RIGHT, padx=10, pady=10)
@@ -2411,6 +2452,7 @@ class PDFViewer:
         self.display_page(self.page_number)
         self.current_image = None
         self.redraw()
+    
     def draw_horizontal_line(self, y):
         # Remove the old horizontal line if it exists
         if self.horizontal_line is not None:
@@ -2425,19 +2467,90 @@ class PDFViewer:
 
         # Draw the new horizontal line
         self.horizontal_liner = self.canvas.create_line(0, y, self.canvas.winfo_width(), y, fill="black")
+    show_preview=True
 
     def display_page(self, page_number):
+        return self.display_page_alt(page_number)
+    
+    def display_page_alt(self, page_number):
         # Render the page as an image
         myprint7("pdf8"+str(page_number))
         page = self.pdf_document.pages[page_number]
         myprint7("pdf8a")
-        image = page.to_image(resolution=150)
-        myprint7("pdf8b")
-        img = image#Image.open(io.BytesIO(image.original))
-        img.save("pdfpreview.png")
-        myprint7("pdf8c")
+        myprint7("pdf8a uses pdfium")
+    
+        notebook.select(1)
+        app.update_idletasks()
+            
+        w=2.08
+        img_width=self.pdf_page_width*w
+        img_height=self.pdf_page_height*w
 
-        app.after(100, self.scale_pdf_preview)
+        canvasframe_width = self.canvas_frame.winfo_width()
+        canvasframe_height = self.canvas_frame.winfo_height()
+        new_width=canvasframe_height/img_height*img_width
+        print(f"RESIZE TO  {new_width} x {canvasframe_height}")
+        self.canvas.config(width=new_width, height=canvasframe_height)
+
+        canvas_width = new_width# self.canvas.winfo_width()
+        canvas_height = canvasframe_height# self.canvas.winfo_height()
+        print(f"CANVAS   {canvas_width} y= {canvas_height}")
+        
+        self.canvas_height=canvas_height
+        self.canvas_width=canvas_width
+        # Calculate the scaling factor
+        scale_factor = min(canvas_width / img_width, canvas_height / img_height)
+        self.scale=scale_factor
+        # Scale the image
+        scaled_width = int(img_width * scale_factor)
+        scaled_height = int(img_height * scale_factor)
+#            print(f"img_width     {img_width}")
+#           print(f"img_height    {img_height}")
+        print(f"canvas_height {canvas_height}")
+        print(f"canvas_width  {canvas_width}")
+        print(f"scale_factor  {scale_factor}")
+
+        print(f"scaled_width  {scaled_width}")
+        print(f"scaled_height {scaled_height}")
+
+            
+        
+        myprint7("pdf8d")
+
+        # Clear the canvas and display the image
+        self.canvas.delete("all")
+#        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
+
+        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
+        
+        x1=self.left_threshold
+        x2=self.canvas_width-self.right_threshold
+        y1=self.canvas_height-self.top_threshold
+        y2=self.bottom_threshold
+        x2=self.pdf_page_width-self.right_threshold
+        y1=self.pdf_page_height-self.top_threshold
+
+        print("run split with left={x1} top={y1} right={x2} bottom={y2} ")
+        self.redraw()
+
+
+
+
+    def display_page_pdfium(self, page_number):
+        # Render the page as an image
+        myprint7("pdf8"+str(page_number))
+        page = self.pdf_document.pages[page_number]
+        myprint7("pdf8a")
+        myprint7("pdf8a uses pdfium")
+        if self.show_preview:
+            
+            image = page.to_image(resolution=150,)
+            myprint7("pdf8b")
+            img = image#Image.open(io.BytesIO(image.original))
+            img.save("pdfpreview.png")
+            myprint7("pdf8c")
+
+        app.after(100, self.display_page_2_scale)
 
 
     def draw_vertical_line(self, x):
@@ -2475,7 +2588,7 @@ class PDFViewer:
         if self.page_number < self.num_pages - 1:
             self.page_number += 1
             self.display_page(self.page_number)
-            self.label.config(text="Page: "+str(self.page_number)+" / "+str(self.num_pages-1))
+            self.label.config(text="Page: "+str(self.page_number)+" / "+str(self.num_pages))
 
     def margin_to_positionx(self,x):
         return self.left_offset + x
@@ -2548,44 +2661,45 @@ class PDFViewer:
 
         # Draw the rectangle on the canvas
         self.canvas.create_rectangle(x0, y0, x1, y1, outline=color, width=2,fill=fillcolor)
-        self.canvas.create_text(x0,y1,text=text, fill=color, font=("Courier", 12, "normal"), anchor=tk.NW)
+        self.canvas.create_text(x0,y1-12,text=text, fill=color, font=("Courier", 12, "normal"), anchor=tk.NW)
         
-    def scale_pdf_preview(self):
-        nimg = Image.open("pdfpreview.png")
+    def display_page_2_scale(self):
         notebook.select(1)
         app.update_idletasks()
-        # Get the dimensions of the image and the canvas
-        img_width, img_height = nimg.size
+        if self.show_preview:
+            nimg = Image.open("pdfpreview.png")
+            # Get the dimensions of the image and the canvas
+            img_width, img_height = nimg.size
 
-        canvasframe_width = self.canvas_frame.winfo_width()
-        canvasframe_height = self.canvas_frame.winfo_height()
-        new_width=canvasframe_height/img_height*img_width
-        print(f"RESIZE TO  {new_width} x {canvasframe_height}")
-        self.canvas.config(width=new_width, height=canvasframe_height)
+            canvasframe_width = self.canvas_frame.winfo_width()
+            canvasframe_height = self.canvas_frame.winfo_height()
+            new_width=canvasframe_height/img_height*img_width
+            print(f"RESIZE TO  {new_width} x {canvasframe_height}")
+            self.canvas.config(width=new_width, height=canvasframe_height)
 
-        canvas_width = new_width# self.canvas.winfo_width()
-        canvas_height = canvasframe_height# self.canvas.winfo_height()
-        print(f"CANVAS   {canvas_width} y= {canvas_height}")
-        
-        self.canvas_height=canvas_height
-        self.canvas_width=canvas_width
-        # Calculate the scaling factor
-        scale_factor = min(canvas_width / img_width, canvas_height / img_height)
-        self.scale=scale_factor
-        # Scale the image
-        scaled_width = int(img_width * scale_factor)
-        scaled_height = int(img_height * scale_factor)
-        print(f"img_width     {img_width}")
-        print(f"img_height    {img_height}")
-        print(f"canvas_height {canvas_height}")
-        print(f"canvas_width  {canvas_width}")
-        print(f"scale_factor  {scale_factor}")
+            canvas_width = new_width# self.canvas.winfo_width()
+            canvas_height = canvasframe_height# self.canvas.winfo_height()
+            print(f"CANVAS   {canvas_width} y= {canvas_height}")
+            
+            self.canvas_height=canvas_height
+            self.canvas_width=canvas_width
+            # Calculate the scaling factor
+            scale_factor = min(canvas_width / img_width, canvas_height / img_height)
+            self.scale=scale_factor
+            # Scale the image
+            scaled_width = int(img_width * scale_factor)
+            scaled_height = int(img_height * scale_factor)
+            print(f"img_width     {img_width}")
+            print(f"img_height    {img_height}")
+            print(f"canvas_height {canvas_height}")
+            print(f"canvas_width  {canvas_width}")
+            print(f"scale_factor  {scale_factor}")
 
-        print(f"scaled_width  {scaled_width}")
-        print(f"scaled_height {scaled_height}")
-        scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
-        scaled_img.save("pdfpreview_scaled.png")
-        app.after(100, self.open_pdf_preview)
+            print(f"scaled_width  {scaled_width}")
+            print(f"scaled_height {scaled_height}")
+            scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
+            scaled_img.save("pdfpreview_scaled.png")
+        app.after(100, self.display_page_3_open_preview)
 
     def get_first_page(self):
         return int(self.input_firstpage.get())
@@ -2608,7 +2722,7 @@ class PDFViewer:
         global currentPDFPages
         global currentPDFPageIdx
 
-        self.all_text_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page())
+        self.all_text_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
         print("all blocks: "+str(len(self.all_text_elements)))
         
 
@@ -2675,8 +2789,8 @@ class PDFViewer:
                 myprint7(f"page {i}")
 
                 # Perform OCR on the image
-                text = pytesseract.image_to_string(image)
-                cropped_text.append(text)
+                #text = pytesseract.image_to_string(image)
+                cropped_text.append("TODO")
                 
                 # Use PyPDF2 to add the cropped page to the writer
                 reader = PdfReader(input_pdf)
@@ -2692,37 +2806,6 @@ class PDFViewer:
         return "\n".join(cropped_text)
 
 
-    def crop_pdf_and_extract_text_bad(self,input_pdf,  output_pdf, crop_box):
-        cropped_text = []
-        writer = PdfWriter()
-        page_idx=self.get_first_page()    
-
-        def extract_text_with_layout(page):
-            text_with_layout = []
-            for block in page.extract_words():
-                x0 = block['x0']
-                indent = ' ' * int(x0 // 3)  # Adjust the divisor as needed for appropriate spacing
-                text_with_layout.append(f"{indent}{block['text']}")
-            return "\n".join(text_with_layout)
-
-        with pdfplumber.open(input_pdf) as pdf:
-            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
-                cropped_page = page.within_bbox(crop_box)
-                text_with_layout = extract_text_with_layout(cropped_page)
-                cropped_text.append(text_with_layout)
-                
-                # Use PyPDF2 to add the cropped page to the writer
-                reader = PdfReader(input_pdf)
-                page_to_add = reader.pages[i]
-                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
-                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
-                writer.add_page(page_to_add)
-            
-            # Save the cropped PDF
-            with open(output_pdf, 'wb') as f:
-                writer.write(f)
-        
-        return "\n".join(cropped_text)
     def crop_pdf_and_extract_text_pure(self,input_pdf,  output_pdf, crop_box):
         """
         Crop a PDF from the specified page index to the end and extract text from all pages.
@@ -2785,7 +2868,7 @@ class PDFViewer:
         if self.strategy=="OCR":
             self.run_crop()
         elif self.strategy=="BLOCKS":
-            self.run_elements()
+            threading.Thread(target=self.run_elements).start()
     
     
     def run_crop(self):
@@ -2795,7 +2878,6 @@ class PDFViewer:
         global currentBreakdown
         global currentOutputFolder
         global currentTimelinePath
-
         global currentResultCharacterOrderMap
         global currentResultEnc
         global currentResultName
@@ -2806,9 +2888,7 @@ class PDFViewer:
         global currentPDFPageIdx
 
         x1=self.left_threshold
-        #x2=self.canvas_width-self.right_threshold
         y1=self.top_threshold
-        #y2=self.canvas_height-self.bottom_threshold
         x2=self.pdf_page_width-self.right_threshold
         y2=self.pdf_page_height-self.top_threshold
         
@@ -2853,30 +2933,21 @@ class PDFViewer:
                 currentResultSceneCharacterMap=scene_characters_map
                 postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
                 
-    def open_pdf_preview(self):
-        nimg = Image.open("pdfpreview_scaled.png")
+    def display_page_3_open_preview(self):
+        if self.show_preview:
+            nimg = Image.open("pdfpreview_scaled.png")
+            
+        if self.show_preview:    
+            nimg_tk = ImageTk.PhotoImage(nimg)
+            self.current_image = nimg_tk
         
-        canvas_width = self.canvas.winfo_width()
-        canvas_height = self.canvas.winfo_height()
-        
-        nimg_tk = ImageTk.PhotoImage(nimg)
-        #img_tk = ImageTk.PhotoImage(img)
         myprint7("pdf8d")
 
         # Clear the canvas and display the image
         self.canvas.delete("all")
 #        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
-        if False:
-            self.canvas.create_image(
-                    canvas_width // 2,
-                    canvas_height // 2,
-                    anchor=tk.CENTER,
-                    image=nimg_tk
-                )
-            self.canvas.config(scrollregion=self.canvas.bbox(tk.ALL))
 
-        self.current_image = nimg_tk
-        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page())
+        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
         
         x1=self.left_threshold
         x2=self.canvas_width-self.right_threshold
@@ -2887,24 +2958,7 @@ class PDFViewer:
 
         print("run split with left={x1} top={y1} right={x2} bottom={y2} ")
         self.redraw()
-        return
-        res=split_elements(self.text_elements,x1,y1,x2,y2)
-        #//res=get_pdf_page_blocks(self.file_path,self.page_number)
-        left=res['left']
-        center=res['center']
-        self.centered_blocks=center
-
-
-        top=res['top']
-        left_margin=self.left_offset
-        for k in left:
-            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
-        for k in center:
-            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#0000ff","#ccccff",left_margin)
-        for k in top:
-            self.draw_bbox(canvas_height,150,self.scale,k['bbox'],k['text'],"#999999","#cccccc",left_margin)
-        self.draw_lines()
-
+       
     def draw_lines(self):
         print(f"Draw {self.left_offset+ self.right_slider.get()*self.scale} {self.left_offset+self.left_slider.get()*self.scale} {self.canvas_height-self.top_slider.get()*self.scale} {self.canvas_height- self.bottom_slider.get()*self.scale}")
         

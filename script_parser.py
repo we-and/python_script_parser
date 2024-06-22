@@ -1080,51 +1080,46 @@ def is_centered(block_left, min_left, max_left, threshold):
     center = (min_left + max_left) / 2
     return abs(block_left - center) <= threshold
        
-def get_pdf_text_elements(file_path,page_idx, page_start):
-    return get_pdf_text_elements_pdfminer(file_path,page_idx,page_start)
+def get_pdf_text_elements(file_path,page_idx, page_start,page_end,progress_bar):
+    return get_pdf_text_elements_alt(file_path,page_idx,page_start,page_end,progress_bar)
 
-def get_pdf_text_elements_alt(file_path,page_idx, page_start):
+def get_pdf_text_elements_alt(file_path,page_idx, page_start,page_end,progress_bar):
         print("---------- get_pdf_page_blocks -----------------")
         text_elements=[]
         minboxleft=100000
-
         if page_idx<0:
-            for page_layout in extract_pages(file_path):
-                    print("----------------------------")
-                    print(f"Page number: {page_layout.pageid}")
-                    if page_layout.pageid<page_start:
-                        continue
-                    # Get the page bounding box coordinates and dimensions
-                    if isinstance(page_layout, LTPage):
-                        page_bbox = page_layout.bbox
-                        page_x0, page_y0, page_x1, page_y1 = page_bbox
-#                        page_width = page_x1 - page_x0
- #                       page_height = page_y1 - page_y0
-                    else:
-                        # If page bounding box is not available, skip processing the page
-                        continue
-                    # Loop over the elements in the page
-                    print(str(page_layout))
-                    print("ELEMENTS: "+str(len(page_layout)))
+            with pdfplumber.open(file_path) as pdf:
+                for page_num, page in enumerate(pdf.pages, 1):
+                    progress_bar['value'] = page_num
+                    progress_bar.update_idletasks()
+
+                    print(f"\nPage {page_num}")
+                    if page_num<page_start:
+                            continue
+                    if page_num>page_end:
+                            break
+                                    # Get page dimensions
+                    page_width = page.width
+                    page_height = page.height
                     page_elements=[]
+                    # Text
+                    text_settings = {
+                    "x_tolerance": 3,  # Adjust this value to fine-tune line detection
+                    "y_tolerance": 3,  # Adjust this value to fine-tune line detection
+                    }
+                    page_layout = page.extract_text_lines(text_settings)
                     for element in page_layout:
-                        
-                        # Check if the element is a text container
-                        if isinstance(element, LTTextContainer):
-                            # Loop over the text blocks within the text container
-                            text_block = element.get_text()
-                            bbox = element.bbox  # (x0, y0, x1, y1)                        
-                            is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
-                            if is_inside:
-                                tt=text_block.strip().replace("\n","")
+                                print(f"  Word: '{element['text']}', bbox: {element['x0']}, {element['top']}, {element['x1']}, {element['bottom']}")
+                                tt=element['text'].strip().replace("\n","")
+                                bbox =   [element['x0'],page_height -  element['top'], element['x1'], page_height - element['bottom']]                  
                                 stripped_text=tt
                                 if len(stripped_text)>0:
-                                # Print the text block and its bounding box
+                                    # Print the text block and its bounding box
                                     print(f"{bbox} {tt}")
                                     if bbox[0] < minboxleft:
                                         minboxleft=bbox[0]
                                     page_elements.append({
-                                        'text':text_block.strip(),
+                                        'text':stripped_text,
                                         'bbox':bbox,
                                     })
                     print("NON EMPTY ELEMENTS: "+str(len(page_elements)))
@@ -1133,50 +1128,44 @@ def get_pdf_text_elements_alt(file_path,page_idx, page_start):
                     for k in page_elements:
                         text_elements.append(k)
         else:        
-            for page_layout in extract_pages(file_path, page_numbers=[page_idx ]):
-                print("----------------------------")
-                print(f"Page number: {page_layout.pageid}")
-                print("-- PAGE "+str(page_idx))
-            
-                # Get the page bounding box coordinates and dimensions
-                if isinstance(page_layout, LTPage):
-                    page_bbox = page_layout.bbox
-                    page_x0, page_y0, page_x1, page_y1 = page_bbox
-                    page_width = page_x1 - page_x0
-                    page_height = page_y1 - page_y0
-                else:
-                    # If page bounding box is not available, skip processing the page
-                    continue
-                # Loop over the elements in the page
-                print(str(page_layout))
+            with pdfplumber.open(file_path) as pdf:
+                page = pdf.pages[page_idx]
+                page_layout=page.extract_words()
+                
+                # Get page dimensions
+                page_width = page.width
+                page_height = page.height
+                text_settings = {
+                    "x_tolerance": 3,  # Adjust this value to fine-tune line detection
+                    "y_tolerance": 3,  # Adjust this value to fine-tune line detection
+                }
+                page_layout = page.extract_text_lines(text_settings)
+
                 print("ELEMENTS: "+str(len(page_layout)))
                 for element in page_layout:
-                    
-                    # Check if the element is a text container
-                    if isinstance(element, LTTextContainer):
+                        
                         # Loop over the text blocks within the text container
-                        text_block = element.get_text()
-                        bbox = element.bbox  # (x0, y0, x1, y1)                        
-                        is_inside=    bbox[0] >= page_x0 and bbox[1] >= page_y0 and                bbox[2] <= page_x1 and bbox[3] <= page_y1
-                        if is_inside:
-                            tt=text_block.strip().replace("\n","")
-                            stripped_text=tt
-                            if len(stripped_text)>0:
-                                # Print the text block and its bounding box
-                                print(f"{bbox} {stripped_text}")
-                                if bbox[0] < minboxleft:
-                                    minboxleft=bbox[0]
-                                text_elements.append({
-                                    'text':stripped_text,
-                                    'bbox':bbox,
-                                })
+                        text_block = element['text']
+                        bbox =   [element['x0'], page_height - element['top'], element['x1'],page_height -  element['bottom']]                  
+                        
+                        tt=text_block.strip().replace("\n","")
+                        stripped_text=tt
+                        if len(stripped_text)>0:
+                            # Print the text block and its bounding box
+                            print(f"{bbox} {stripped_text}")
+                            if bbox[0] < minboxleft:
+                                minboxleft=bbox[0]
+                            text_elements.append({
+                                'text':stripped_text,
+                                'bbox':bbox,
+                            })
                 print("NON EMPTY ELEMENTS: "+str(len(text_elements)))
                 
                 text_elements = sorted(text_elements, key=lambda x: x['bbox'][1], reverse=True)
 
     
         return text_elements
-def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start):
+def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start,page_end):
         print("---------- get_pdf_page_blocks -----------------")
         text_elements=[]
         minboxleft=100000
@@ -1187,6 +1176,9 @@ def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start):
                     print(f"Page number: {page_layout.pageid}")
                     if page_layout.pageid<page_start:
                         continue
+                    if page_layout.pageid>page_end:
+                        break
+
                     # Get the page bounding box coordinates and dimensions
                     if isinstance(page_layout, LTPage):
                         page_bbox = page_layout.bbox
@@ -1231,6 +1223,7 @@ def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start):
                 print(f"Page number: {page_layout.pageid}")
                 print("-- PAGE "+str(page_idx))
             
+                
                 # Get the page bounding box coordinates and dimensions
                 if isinstance(page_layout, LTPage):
                     page_bbox = page_layout.bbox

@@ -64,7 +64,8 @@ characterSeparators=[
         "CHARACTER_SPACES"
 ]
 multilineCharacterSeparators=[
-        "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE"
+        "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE",
+        "TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE"
 ]
 countMethods=[
     "ALL",
@@ -126,9 +127,11 @@ def extract_scene_name2(line):
     if parts:
         return parts[0].strip()  # Return the first part, stripping any extra whitespace
     return None 
-
+def matches_scenestart_sceneno(line):
+    return line.startswith("SCENE NO") or line.startswith("CENE NO") or line.startswith("ESCENA NO")
+ 
 def is_scene_line(line):
-    isSceneLine=matches_format_parenthesis_name_timecode(line) or matches_number_parenthesis_timecode(line)
+    isSceneLine=matches_format_parenthesis_name_timecode(line) or matches_number_parenthesis_timecode(line) or matches_scenestart_sceneno(line)
     #myprint1("IsScene    "+str(isSceneLine)+" "+line)
     return isSceneLine
 
@@ -151,6 +154,8 @@ def extract_scene_name(line,scene_separator,current_scene_count):
             return extract_scene_name1(line)
     elif scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
         return "Scene "+str(current_scene_count)
+    elif scene_separator=="SCENENO_INTEXT_LOCATION":
+        return line
     else:
         return "?"
 
@@ -168,6 +173,14 @@ def count_nonempty_lines_in_file(script_path,encod):
             line = line.strip()
             if len(line)>0:
                 nLines=nLines+1
+    return nLines
+
+def count_lines_in_file(script_path,encod):
+    nLines=0
+    with open(script_path, 'r', encoding=encod) as file:
+        for line in file:
+            line = line.strip()
+            nLines=nLines+1
     return nLines
 
 def extract_matches(file_path,encod):
@@ -192,6 +205,26 @@ def extract_matches(file_path,encod):
         })
 
     return extracted_data
+
+def count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(file_path,encod):
+    # Define the pattern to match
+    pattern = re.compile(
+        r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]\n'
+        r'\[\w+\].*\n'
+        r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]'
+    )
+    
+    # Read the content of the file
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    # Find all occurrences of the pattern
+    matches = pattern.findall(content)
+
+    # Return the number of matches
+    return len(matches)
+
+
 def count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(file_path,encod):
     # Define the pattern to match
     pattern = re.compile(r'^[A-Z\s]+$\n([^\n]+\n)*\n', re.MULTILINE)
@@ -240,14 +273,18 @@ def detectCharacterSeparator(script_path,encod):
             bestVal=pc
             best=sep
 
+        bestmatches=-1
         if best=="?":
-            myprint1("  > Test character sep:"+sep+" " +str(nMatches)+"/"+str(nLines)+" "+str(pc))
             for sep in multilineCharacterSeparators:
                 if sep == "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE":
                     nMatches=count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(script_path,encod)
-                    
-                if nMatches>0:
+                elif sep=="TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE":
+                    nMatches=count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(script_path,encod)
+                myprint1("  > Test character sep:"+sep+" " +str(nMatches))
+                if nMatches>bestmatches:
+                    bestmatches=pc
                     best=sep
+            myprint1(f"detectCharacterSeparator bestmatches= {bestmatches}")
 
     myprint1(f"detectCharacterSeparator best= {best}")
     return best
@@ -265,7 +302,8 @@ def getSceneSeparator(script_path,encod):
             elif matches_number_parenthesis_timecode(line):
                 myprint1("NAME_PARENTHESIS_TIMECODE")
                 return "NAME_PARENTHESIS_TIMECODE"
-
+            elif matches_scenestart_sceneno(line):
+                return "SCENENO_INTEXT_LOCATION"
     if mode=="?":
         n_sets_of_empty_lines=count_consecutive_empty_lines(script_path,2,encod)
         #myprint1("check empty lines count"+str(n_sets_of_empty_lines))
@@ -436,7 +474,11 @@ def is_didascalie(name):
 def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
+    if line==None:
+        return "ERROR CHAR???"
     if line:
+        if line.endswith(':'):
+            line= line[:-1]
         if "(O.S)" in line:
             line=line.replace("(O.S)","")
         
@@ -444,11 +486,17 @@ def filter_character_name(line):
             line=line.replace("(V.O)","")
         if "(V.O.)" in line:
             line=line.replace("(V.O.)","")
+        if "(VO)" in line:
+            line=line.replace("(VO)","")
         if "(V.O" in line:
             line=line.replace("(V.O","")
         
         if "(O.S.)" in line:
             line=line.replace("(O.S.)","")
+        if "(OS)" in line:
+            line=line.replace("(OS)","")
+        if "(OS/ON)" in line:
+            line=line.replace("(OS/ON)","")
         
         if "(CON'T)" in line:
             line=line.replace("(CON'T)","")    
@@ -463,14 +511,14 @@ def filter_character_name(line):
         if "(CONT'D)" in line:
             line=line.replace("(CONT'D)","")    
         if "(CONT.)" in line:
-            line=line.replace("(CONT')","")    
+            line=line.replace("(CONT.)","")    
+        if "(CONT)" in line:
+            line=line.replace("(CONT)","")    
         if "(CONT'D" in line:
             line=line.replace("(CONT'D","")    
         if "(CONT’D" in line:
             line=line.replace("(CONT’D","")    
         line=line.replace("\ufeff","")
-        if line.endswith(':'):
-            line= line[:-1]
         if line.endswith(')'):
             line= line[:-1]
     return line.strip()
@@ -711,7 +759,7 @@ def filter_speech(input):
     s=s.replace("â€¦ ",".")
     if s.startswith("- "):
         s=s.lstrip("- ")
-    return s
+    return s.strip()
 
 def filter_speech_keepbrackets(input):
     s=get_text_without_parentheses(input)
@@ -719,7 +767,7 @@ def filter_speech_keepbrackets(input):
     s=s.replace("â€¦ ",".")
     return s
 
-def convert_docx_dialogwithspeakerid(file,table,dialogwithspeakerid):
+def convert_docx_dialogwithspeakerid(file,table,contentColIdx):
     idx=1
     row_idx=1
     current_character=""
@@ -732,9 +780,13 @@ def convert_docx_dialogwithspeakerid(file,table,dialogwithspeakerid):
                 myprint1("---------------------------------------------")
                 myprint1("Row "+str(row_idx))
                 myprint1("Idx "+str(idx))
-                
+                myprint1("nCells "+str(len(row.cells)))
+                myprint1("contentColIdx "+str(contentColIdx))
             row_idx=row_idx+1
-            scenedesc=row.cells[dialogwithspeakerid].text.strip()        
+            col=contentColIdx
+            if len(row.cells) >2 and contentColIdx>len(row.cells)-1:
+                col=len(row.cells)-1
+            scenedesc=row.cells[col].text.strip()        
             if show:
                 myprint1(scenedesc)
             parts=scenedesc.split("\n")
@@ -814,6 +866,7 @@ def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
         if row_idx<35:
                 myprint1("---------------------------------------------")
                 myprint1("Row "+str(row_idx))
+                myprint1("nCells "+str(len(row.cells)))
                 scenedesc=row.cells[titlesIdx].text.strip()        
                 myprint1("Row content"+str(scenedesc))
         row_idx=row_idx+1
@@ -821,6 +874,7 @@ def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
     for row in table.rows[1:]:
             if idx<10:
                 myprint1("---------------------------------------------")
+                myprint1("nCells "+str(len(row.cells)))
                 myprint1("Row "+str(row_idx))
             row_idx=row_idx+1
             scenedesc=row.cells[titlesIdx].text.strip()        
@@ -1941,9 +1995,16 @@ def test_pdf_header(file,table,header):
                 convert_pdf_title(file,table,titlesCol)
                 return True
 
-
+def detect_timecodes(text):
+    # Regular expression pattern to match timecodes in the format [00:01:13.15]
+    pattern = re.compile(r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]')
+    
+    # Find all occurrences of the pattern in the text
+    timecodes = pattern.findall(text)
+    
+    return timecodes
 def detect_word_table(table,forceMode="",forceCols={}):
-    myprint1("detect_word_table")
+    myprint1(f"detect_word_table {len(table.rows)} x {len(table.columns)}")
     for i in range(3):
         myprint1("try header "+str(i))
         header=table.rows[i]
@@ -1954,7 +2015,18 @@ def detect_word_table(table,forceMode="",forceCols={}):
             return success, mode, character,dialog,map_
     return False,"",-1,-1,{}
 
-
+def isTableColumnCharacter(t):
+    t=t.lower().strip()
+    return t=="speaker id" or t=="character" or t=="charakter" or t=="personnage" or t=="character id" or t=="role" 
+def isTableDialogColumn(t):
+    t=t.lower().strip()
+    return  t=="dialogue" or t=="dialogue list" or t=="dialouge" 
+def isTableColumnTitle(t):
+    t=t.lower().strip()
+    return  t=="title" or t=="titles"  
+def isTableColumnBoth(t):
+    t=t.lower().strip()
+    return  t=="dialog with \nspeaker id" or t=='subtitle/ spotting' or t=='combined continuity' or t=='scene description'
 def detect_word_header(header,forceMode="",forceCols={}):
     myprint1("-------------- test word header -----------------")
     myprint1("forceMode"+str(forceMode))
@@ -1963,7 +2035,7 @@ def detect_word_header(header,forceMode="",forceCols={}):
     characterIdCol=-1
     combinedContinuityCol=-1
     titlesCol=-1
-    dialogWithSpeakerId=-1
+    bothCol=-1
     sceneDescriptionCol=-1
     idx=0
 
@@ -1982,26 +2054,19 @@ def detect_word_header(header,forceMode="",forceCols={}):
         else:
             myprint1("UNKNOWN FORCE MODE")
     else:
-        myprint1("Header:")
+        
+        myprint1(f"Header nCols={len(header.cells)}:")
         for cell in header.cells:
             t=cell.text.strip()
             myprint1("   * "+str(t))
-            if t=="CHARACTER ID":
+            if isTableColumnCharacter(t):
                 characterIdCol=idx
-            if t=="CHARACTER":
-                characterIdCol=idx
-            elif t=="ROLE":
-                characterIdCol=idx
-            elif t=="DIALOGUE":
+            elif isTableDialogColumn(t):
                 dialogueCol=idx
-            elif t=="Scene Description":
-                sceneDescriptionCol=idx
-            elif t=="Titles" or t=="Title":
+            elif isTableColumnTitle(t):
                 titlesCol=idx
-            elif t=="Dialog With \nSpeaker Id":
-                dialogWithSpeakerId=idx
-            elif t=="COMBINED CONTINUITY":
-                combinedContinuityCol=idx
+            elif isTableColumnBoth(t):
+                bothCol=idx
             idx=idx+1
 
     myprint1(f"dialogCol {dialogueCol}")
@@ -2009,12 +2074,12 @@ def detect_word_header(header,forceMode="",forceCols={}):
     myprint1(f"combinedContinuityCol {combinedContinuityCol}")
     myprint1(f"titlesCol {titlesCol}")
     myprint1(f"sceneDescriptionCol {sceneDescriptionCol}")
-    myprint1(f"dialogWithSpeakerId {dialogWithSpeakerId}")
+    myprint1(f"dialogWithSpeakerId {bothCol}")
     myprint1("detect_word_header assigned")
     docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
     #docx_mode_combined_continuity= combinedContinuityCol>-1
     docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
-    docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
+    docx_mode_dialogwithspeakerid=bothCol>-1
     myprint1("detect_word_header assigned mode")
 
     mode=None
@@ -2032,10 +2097,10 @@ def detect_word_header(header,forceMode="",forceCols={}):
         mode="COMBINED"
         character=titlesCol
         dialog=titlesCol
-    if combinedContinuityCol>-1 or dialogWithSpeakerId>-1:
+    if   bothCol>-1:
         mode="COMBINED"
-        character=dialogWithSpeakerId
-        dialog=dialogWithSpeakerId
+        character=bothCol
+        dialog=bothCol
 
     myprint1(f"detect_word_header gen map d={dialog} c={character}")
     for cell in header.cells:
@@ -2104,19 +2169,15 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                 for cell in header.cells:
                     t=cell.text.strip()
                     myprint1("Header cell"+str(t))
-                    if t=="CHARACTER ID":
+                    if isTableColumnCharacter(t):
                         characterIdCol=idx
-                    if t=="CHARACTER":
-                        characterIdCol=idx
-                    elif t=="ROLE":
-                        characterIdCol=idx
-                    elif t=="DIALOGUE":
+                    elif isTableDialogColumn(t):
                         dialogueCol=idx
                     elif t=="Scene Description":
                         sceneDescriptionCol=idx
-                    elif t=="Titles":
+                    elif isTableColumnTitle(t):
                         titlesCol=idx
-                    elif t=="Dialog With \nSpeaker Id":
+                    elif t=="Dialog With \nSpeaker Id" or t=='Subtitle/ Spotting':
                         dialogWithSpeakerId=idx
                     elif t=="COMBINED CONTINUITY":
                         combinedContinuityCol=idx
@@ -2388,8 +2449,8 @@ def get_all_characters(breakdown):
         if item["type"]=="SPEECH":
             character=item["character"]
             if character==None:
-                myprint1("ERR")
-                exit()
+                character="ERR ???"
+                
             #myprint1("test  CHARACTER"+str(character)+" "+str(all_characters))
 
             if not character in all_characters:
@@ -2471,6 +2532,8 @@ def merge_breakdown_character_by_replacelist(breakdown,replace_list):
     return breakdown
 
 def is_multiple_character(char):
+    if char==None:
+        return False
     return " AND " in char
 
 def split_AND_character(breakdown):
@@ -2508,6 +2571,8 @@ def merge_breakdown_character_talking_to(breakdown,all_characters):
         #smyprint1(str(item))
         if item["type"]=="SPEECH":
             character=item["character"]
+            if character==None:
+                character="ERR CHAR"
             if character!=character.strip():
                 character=character.strip()
 
@@ -2557,10 +2622,44 @@ def is_character_name_valid(char):
     isMain =("MAIN TITLE" in char )
     isOpen=("OPENING CREDITS" in char)
     return (not isNote) and (not isEnd) and (not isNar) and (not isOST) and (not isOpen) and (not isMain)
+def detect_text_in_brackets(line):
+    # Define the pattern to match text in brackets followed by any text
+    pattern = re.compile(r'^\[\w+\].*')
+    
+    # Check if the line matches the pattern
+    match = pattern.match(line)
+    
+    # Return True if a match is found, otherwise False
+    return match is not None
 
+def extract_text_in_brackets(line):
+    # Define the pattern to match text in brackets
+    pattern = re.compile(r'\[(\w+)\]')
+    
+    # Search for the pattern in the line
+    match = pattern.search(line)
+    
+    # If a match is found, return the captured group (text within brackets)
+    if match:
+        return match.group(1)
+    else:
+        return None
+def extract_text_not_in_brackets(line):
+        # Define the pattern to match text in brackets
+    pattern = re.compile(r'\[.*?\]')
+    
+    # Replace the text in brackets with an empty string
+    result = pattern.sub('', line)
+    
+    # Strip any leading or trailing whitespace
+    return result.strip()
+
+def is_character_didascalie(c):
+    c=c.lower()
+    return c=="sigh" or c=="sighs" or c=="cries" or c=="laughs"
 #################################################################
 # PROCESS
-def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={}):
+def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={},ignoreBeginning=0,ignoreEnd=0):
     myprint1("  > -----------------------------------")
     myprint1("  > SCRIPT PARSER version 1.3")
     myprint1("  > Script path       : "+script_path)
@@ -2657,14 +2756,24 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     # Open the file and process each line
     line_idx=1
     isEmptyLine=False
-    multiline_current_uppercase_text = None
-    multiline_current_lines_of_text = []
+    multiline_current_character_text = None
+    multiline_current_lines_of_dialog = []
     multiline_in_pattern = False
+    totalLines=count_lines_in_file(script_path,encoding)
+    firstLineIdxToTreat=ignoreBeginning+1
+    lastLineIdxToTreat=totalLines-ignoreEnd+1
+    isTranslation=False
+    myprint1(f"  > Treat lines from {firstLineIdxToTreat} to {lastLineIdxToTreat} ")
     with open(script_path, 'r', encoding=encoding_used) as file:
         myprint1("  > Opened    : "+str(script_path))
         for line in file:
-            myprint1("  > Opened    : "+str(line))
-            line = line  # Remove any leading/trailing whitespace
+            if line_idx<firstLineIdxToTreat or line_idx>lastLineIdxToTreat:
+                myprint1("  > IGNORE LINE    : "+str(line_idx))
+                line_idx=line_idx+1
+                continue 
+            myprint1("  -----------------")
+            myprint1("  > Line    : "+str(line))
+            #line = line  # Remove any leading/trailing whitespace
             trimmed_line = line.strip()  # Remove any leading/trailing whitespace
     
             isNewEmptyLine=len(trimmed_line)==0
@@ -2724,45 +2833,104 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                 else:
                                     breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
             elif character_sep_type=="CHARACTER_MODE_MULTILINE":
-                    # Check for uppercase text
-                if trimmed_line.isupper() and not multiline_in_pattern:
-                    multiline_current_uppercase_text = trimmed_line
-                    multiline_current_lines_of_text = []
-                    multiline_in_pattern = True
-                elif multiline_in_pattern:
-                    if trimmed_line == '':  # Empty line
-                        # Check if we have hit the double newline
-                        if not multiline_current_lines_of_text or multiline_current_lines_of_text[-1] == '':
-                            # Double newline indicates end of current pattern
-                            if multiline_current_uppercase_text:
-                                character_name=filter_character_name(multiline_current_uppercase_text)
-                                speech='\n'.join(multiline_current_lines_of_text).strip()
-                                breakdown.append({"scene_id":current_scene_id,
-                                                            "character_raw":character_name,
-                                                            "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
-                                           
-                                
-                            multiline_current_uppercase_text = None
-                            multiline_current_lines_of_text = []
-                            multiline_in_pattern = False
-                        else:
-                            multiline_current_lines_of_text.append('')
-                    else:
-                        multiline_current_lines_of_text.append(trimmed_line)
-                           
+                if is_scene_line(line):
+                        
+                        current_scene_count=current_scene_count+1
                                         
+                        current_scene_id = extract_scene_name(line,scene_separator,current_scene_count)
+                        breakdown.append({"line_idx":line_idx,"scene_id":current_scene_id,"type":"SCENE_SEP" })    
+                        if is_verbose:
+                            myprint1("  > --------------------------------------")
+                        myprint1(f"  > Scene Line: {current_scene_id}")
+                    # Check for uppercase text
+                else:
+                    if character_mode=="CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE":
+                        myprint1(f"  > Not a scene Line: {trimmed_line}")
+                        if trimmed_line.isupper() and wasEmptyLine:
+                            myprint1("  > upper and not in pattern, set uppercase = "+trimmed_line)
+
+                            multiline_current_character_text = trimmed_line
+                            multiline_current_lines_of_dialog = []
+                            multiline_in_pattern = True
+                        else:
+                            myprint1("  > in pattern")
+
+                            if isEmptyLine:  # Empty line
+                                myprint1("  > empty line")
+
+                                # Check if we have hit the double newline
+    #                            if not multiline_current_lines_of_text or multiline_current_lines_of_text[-1] == '':
+                                if True:
+                                    myprint1("  > double line")
+                                    # Double newline indicates end of current pattern
+                                    if multiline_current_character_text:
+                                        character_name=filter_character_name(multiline_current_character_text)
+                                        for k in multiline_current_lines_of_dialog:
+                                            #speech='\n'.join(multiline_current_lines_of_text).strip()       
+                                            speech=filter_speech(k)           
+                                            if k=="TRANSLATION":
+                                                break; 
+                                            myprint1("  > Add    : "+str(character_name)+" "+speech)
+                                            breakdown.append({"scene_id":current_scene_id,
+                                                                        "character_raw":character_name,
+                                                                        "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+                                    multiline_current_character_text = None
+                                    multiline_current_lines_of_dialog = []
+                                    multiline_in_pattern = False
+                                else:
+                                    multiline_current_lines_of_dialog.append('')
+                            else:
+                                multiline_current_lines_of_dialog.append(trimmed_line)
+                    elif character_mode==    "TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE":
+                        myprint1(" > line2"+trimmed_line)
+                        isTimecode=detect_timecodes(trimmed_line)
+                        if not isTimecode:
+                            has_character=detect_text_in_brackets(trimmed_line)
+                            candidate_char=extract_text_in_brackets(trimmed_line)
+                            if has_character  and not is_character_didascalie(candidate_char):
+                                dialog= extract_text_not_in_brackets(trimmed_line) 
+                                if dialog and len(dialog.strip())>0:
+                                    multiline_current_character_text=candidate_char
+                                    multiline_current_character_text=filter_character_name(multiline_current_character_text)
+                                    speech=filter_speech(dialog)
+                                    character_name=multiline_current_character_text
+                                    
+                                    myprint1(f"Add > ch={character_name} dialen={len(dialog.strip())} dia='{dialog}' spee={speech}")
+                                    breakdown.append({"scene_id":current_scene_id,
+                                                                            "character_raw":character_name,
+                                                                            "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+                                    
+                            else:
+                                if len(trimmed_line)>0 and multiline_current_character_text!=None:
+                                    speech=filter_speech(trimmed_line)
+                                    character_name=multiline_current_character_text
+                                    myprint1(f"Add > ch={character_name} dia={speech}")
+                                    breakdown.append({"scene_id":current_scene_id,
+                                                                            "character_raw":character_name,
+                                                                            "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+
             wasEmptyLine=isEmptyLine
             line_idx=line_idx+1
 
     if character_sep_type=="CHARACTER_MODE_MULTILINE":
-        # Handle the case where the file ends while still in pattern
-        if multiline_current_uppercase_text and multiline_current_lines_of_text:
-            character_name=filter_character_name(multiline_current_uppercase_text)
-            speech='\n'.join(multiline_current_lines_of_text).strip()          
-            breakdown.append({"scene_id":current_scene_id,
-                                    "character_raw":character_name,
-                                    "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
-                
+        if character_mode=="CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE":
+            # Handle the case where the file ends while still in pattern
+            if multiline_current_character_text and multiline_current_lines_of_dialog:
+                myprint1("  > Flush final")
+                character_name=filter_character_name(multiline_current_character_text)
+                for k in multiline_current_lines_of_dialog:
+                    #speech='\n'.join(multiline_current_lines_of_text).strip()       
+                    
+                    speech=filter_speech(k)           
+                    if k=="TRANSLATION":
+                            break; 
+                        
+                    #speech='\n'.join(multiline_current_lines_of_text).strip()          
+                    myprint1("  > Add    : "+str(character_name)+" "+speech)
+                    breakdown.append({"scene_id":current_scene_id,
+                                            "character_raw":character_name,
+                                            "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+                        
 
     myprint1("breakdown"+str(breakdown))
 

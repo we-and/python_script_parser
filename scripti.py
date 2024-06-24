@@ -90,7 +90,7 @@ countingMethod="ALL"
 currentOutputFolder=""
 currentFilePath=""
 currentScriptFilename=""
-
+currentConvertedFilePath=""
 do_debug=True
 
 RECENT_FILES_PATH = get_recentfiles_file_path()
@@ -122,7 +122,8 @@ currentMergedCharactersTo={}
 currentMergePopupWindow=None
 currentBlockSize=50
 currentCharactersSelectedRowIds=[]
-
+currentConvertedFileIgnoreBeginning=0
+currentConvertedFileIgnoreEnd=0
 def myprint2(s):
     logging.debug(s)
 #    print(s)
@@ -423,6 +424,7 @@ def runJobPreprocessing(file_path,enc,params={}):
 
 def runJob(file_path,method,params={}):
     global currentFilePath
+    global currentConvertedFilePath
     global currentScriptFilename
     global currentBreakdown
     global currentOutputFolder
@@ -433,6 +435,8 @@ def runJob(file_path,method,params={}):
     global currentResultLinecountMap
     global currentResultSceneCharacterMap
     global importTab
+    global currentConvertedFileIgnoreBeginning
+    global currentConvertedFileIgnoreEnd
     global currentPDFPages
     global currentPDFPageIdx
     myprint7("------------------- JOB ---------------------------")
@@ -440,6 +444,7 @@ def runJob(file_path,method,params={}):
     myprint7("Params               : "+str(params))
     update_recent_files(file_path)
     currentFilePath=file_path
+    currentConvertedFilePath=file_path
     reset_tables()
     # Check if the selected item is a file and display its content
     if os.path.isfile(file_path):
@@ -466,17 +471,20 @@ def runJob(file_path,method,params={}):
                 extension=extension.lower()
 
                 file_path=runJobPreprocessing(file_path,enc,params)
-
+                if file_path==None:
+                    #failed
+                    return
+                currentConvertedFilePath=file_path
                 myprint7(" > Opening "+file_path)
                 with open(file_path, 'r', encoding=enc) as file:
                     myprint7(" > Opened")
                     content = file.read()
                     myprint7(" > Read")
-                    file_preview.delete(1.0, tk.END)
-                    file_preview.insert(tk.END, content)
+                    file_preview.text_widget.delete(1.0, tk.END)
+                    file_preview.text_widget.insert(tk.END, content)
                     
-                myprint7(" > Process")
-                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
+                myprint7(f" > Process, ignoring {currentConvertedFileIgnoreBeginning}  {currentConvertedFileIgnoreEnd}")
+                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc,"",{},currentConvertedFileIgnoreBeginning,currentConvertedFileIgnoreEnd)
                 myprint7(" > Processed")
 
                 if breakdown==None:
@@ -502,8 +510,8 @@ def runJob(file_path,method,params={}):
 
         except Exception as e:
             myprint7(f"Error opening file: {e} tried with encoding{ enc}")
-            file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
+            file_preview.text_widget.delete(1.0, tk.END)
+            file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
             hide_loading()
 def append_file_content(source_file, destination_file):
     try:
@@ -584,8 +592,8 @@ def runGroupJob(file_paths,method):
                     hide_loading()
 
             except Exception as e:
-                file_preview.delete(1.0, tk.END)
-                file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
+                file_preview.text_widget.delete(1.0, tk.END)
+                file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
                 hide_loading()
 
     try:
@@ -596,8 +604,8 @@ def runGroupJob(file_paths,method):
             myprint7(" > Opened")
             content = file.read()
             myprint7(" > Read")
-            file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, content)
+            file_preview.text_widget.delete(1.0, tk.END)
+            file_preview.text_widget.insert(tk.END, content)
             
         myprint7(" > Process")
         breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
@@ -621,8 +629,8 @@ def runGroupJob(file_paths,method):
             
 
     except Exception as e:
-        file_preview.delete(1.0, tk.END)
-        file_preview.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
+        file_preview.text_widget.delete(1.0, tk.END)
+        file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
         hide_loading()
 
 def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
@@ -639,10 +647,29 @@ def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,s
         fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
         for char in character_order_map:
             save_dialog_csv(breakdown,enc,char)
-            
+    
+
+def trim_filename_if_too_long(file_path, max_length=255):
+    # Extract directory, filename, and extension
+    directory, filename = os.path.split(file_path)
+    name, ext = os.path.splitext(filename)
+    
+    # Determine the maximum allowable length for the filename without extension
+    max_name_length = max_length - len(ext)
+    
+    # If the filename is too long, trim it and add '-cropped'
+    if len(name) > max_name_length:
+        cropped_name = name[:max_name_length - len('-cropped')] + '-cropped'
+        new_filename = cropped_name + ext
+    else:
+        new_filename = filename
+    
+    # Reconstruct the file path
+    new_file_path = os.path.join(directory, new_filename)
+    return new_file_path
 def save_dialog_csv(breakdown,enc,char):
     global currentDialogPath
-    haschar=len(char)>0
+    haschar=char!=None and len(char)>0
     totalcsvpath=currentOutputFolder+"/"+currentScriptFilename+"-dialog.csv"
     if haschar:
         if not os.path.exists(currentOutputFolder+"dialogs/"):
@@ -669,14 +696,12 @@ def save_dialog_csv(breakdown,enc,char):
                             datarow.append(le)
                     
                 data.append(datarow)
-    else:
-        myprint7("save_dialog_csv skip"+char)
     
             
     myprint7("Saving dialog csv encoding="+enc)
     myprint7("Saving dialog csv path="+totalcsvpath)
     #myprint7("data"+str(data))
-
+    totalcsvpath=trim_filename_if_too_long(totalcsvpath,150)
     with open(totalcsvpath, mode='w', newline='',encoding=enc) as file:
         writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
@@ -1580,8 +1605,9 @@ class WordTableColumnSelector(tk.Toplevel):
         myprint7("on_table_select idx="+str(index)+" table="+str(table))
         if len(self.detect_map)==0:
             success, mode, character,dialog,map_=detect_word_table(table,"",{})        
-            self.detect_map=map_
-        self.show_table_preview(table,self.detect_map)
+            if success:
+                self.detect_map=map_
+                self.show_table_preview(table,self.detect_map)
     comboboxes={}
     detect_map={}
     column_labels = []
@@ -2600,8 +2626,8 @@ class PDFViewer:
             myprint7("Opened")
             content = file.read()
             myprint7("Read")
-            file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, content)
+            file_preview.text_widget.delete(1.0, tk.END)
+            file_preview.text_widget.insert(tk.END, content)
             
             enc=self.encoding
             myprint7("Process")
@@ -2804,6 +2830,144 @@ def merge_with():
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
+class TextPreview:
+    def __init__(self, root):
+        self.root = root
+
+        self.input_ignore_beginning = tk.StringVar()
+        self.input_ignore_end = tk.StringVar()
+        self.input_ignore_beginning.set(str(0))
+        self.input_ignore_end.set(str(0))
+        
+        # Create the main frame
+        self.main_frame = tk.Frame(self.root)
+        self.main_frame.pack(fill=tk.BOTH, expand=True)
+
+        # Create the left panel
+        self.left_panel = tk.Frame(self.main_frame)
+        self.left_panel.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+
+        # Add a Text widget to the left panel
+        self.text_widget = tk.Text(self.left_panel, wrap=tk.NONE, 
+                        yscrollcommand=v_scroll.set, 
+                        xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
+        self.text_widget.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+
+        # Create the right panel
+        self.right_panel = tk.Frame(self.main_frame, width=200)
+        self.right_panel.pack(side=tk.RIGHT, fill=tk.Y)
+
+        # Create the label
+        label = tk.Label(self.right_panel, text="Lignes à ignorer",         font=bold_font, anchor="w", justify="left", bg=self.right_panel.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
+
+        label = tk.Label(self.right_panel, text="Début:", anchor="w", justify="left", bg=self.right_panel.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
+        # Create a StringVar to hold the default value
+
+        # Create a single-line text entry widget
+        entry_n = ttk.Entry(self.right_panel, width=30, textvariable=self.input_ignore_beginning)
+        entry_n.pack(pady=10)
+        entry_n.bind('<KeyRelease>', self.update_lines_color)
+
+        label = tk.Label(self.right_panel, text="Fin:", anchor="w", justify="left", bg=self.right_panel.cget('bg'))
+        label.pack(pady=0, fill="x", padx=(10, 0)) 
+
+        # Create a single-line text entry widget
+        entry_end = ttk.Entry(self.right_panel, width=30, textvariable=self.input_ignore_end)
+        entry_end.pack(pady=10)
+        entry_end.bind('<KeyRelease>', self.update_lines_color)
+
+        self.buttonframe2 = tk.Frame(self.right_panel)
+        self.buttonframe2.pack(side=tk.TOP, fill='x')
+
+        # Create buttons to navigate pages
+        self.open_button = tk.Button(self.buttonframe2, text="Lancer le traitement", command=self.run, height=10)
+        self.open_button.pack(side=tk.TOP, fill='x', expand=True, padx=10, pady=10)
+
+        if currentConvertedFileIgnoreBeginning>0:
+            self.entry_n.set(f"{currentConvertedFileIgnoreBeginning}")
+        if currentConvertedFileIgnoreEnd>0:
+            self.entry_n.set(f"{currentConvertedFileIgnoreEnd}")
+        self.change_lines_color(currentConvertedFileIgnoreBeginning,currentConvertedFileIgnoreEnd)
+
+    def update_lines_color(self, event):
+        try:
+            n = int(self.input_ignore_beginning.get())
+        except ValueError:
+            n = 0
+        
+        try:
+            m = int(self.input_ignore_end.get())
+        except ValueError:
+            m = 0
+        
+        self.change_lines_color(n, m)
+    def change_lines_color(self, n, m):
+         # Clear any existing tags
+        self.text_widget.tag_remove("grey", "1.0", tk.END)
+
+        # Create and configure a tag for grey text
+        self.text_widget.tag_configure("grey", foreground="grey")
+
+        # Get the total number of lines
+        total_lines = int(self.text_widget.index('end-1c').split('.')[0])
+
+        # Change the color of the first n lines
+        for i in range(n):
+            self.text_widget.tag_add("grey", f"{i + 1}.0", f"{i + 1}.0 lineend")
+
+        # Change the color of the last m lines
+        for i in range(total_lines - m, total_lines):
+            self.text_widget.tag_add("grey", f"{i}.0", f"{i}.0 lineend")
+    def run(self):
+        myprint7("run Text")
+        global currentConvertedFileIgnoreBeginning
+        global currentConvertedFileIgnoreEnd
+        global currentConvertedFilePath
+        currentConvertedFileIgnoreBeginning=int(self.input_ignore_beginning.get())
+        currentConvertedFileIgnoreEnd=int(self.input_ignore_end.get())
+        runJob(currentConvertedFilePath,"")
+
+def show_info():
+    global currentBlockSize
+    global currentOutputFolder
+    global currentFilePath
+    global currentConvertedFilePath
+    global currentScriptFilename
+    data={
+        'currentBlockSize':currentBlockSize,
+'currentOutputFolder':currentOutputFolder,
+'currentFilePath':currentFilePath,
+'currentConvertedFilePath':currentConvertedFilePath,
+'currentScriptFilename':currentScriptFilename
+
+    }
+    show_info_data(data)
+def show_info_data(data):
+    # Create a new top-level window
+    popup = tk.Toplevel()
+    popup.title("Info")
+    popup.geometry(f'{900}x{300}+{100}+{100}')
+
+    # Create a frame to hold the table
+    frame = ttk.Frame(popup)
+    frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+
+    # Create the treeview
+    tree = ttk.Treeview(frame, columns=('Variable', 'Value'), show='headings')
+    tree.heading('Variable', text='Variable')
+    tree.heading('Value', text='Value')
+    tree.pack(fill=tk.BOTH, expand=True)
+
+    # Insert data into the treeview
+    for variable, value in data.items():
+        tree.insert('', tk.END, values=(variable, value))
+
+    # Add a scrollbar
+    scrollbar = ttk.Scrollbar(frame, orient=tk.VERTICAL, command=tree.yview)
+    tree.configure(yscroll=scrollbar.set)
+    scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 ###################################################################################################
 ## MAIN
 myprint7a(f"Make 3")
@@ -2925,6 +3089,7 @@ try:
     menu_bar.add_cascade(label="Paramètres", menu=settings_menu)
     #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
     settings_menu.add_command(label="Change la taille des répliques...", command=show_popup_line_size)
+    settings_menu.add_command(label="Info...", command=show_info)
 
 
     help_menu = Menu(menu_bar, tearoff=0)
@@ -3055,14 +3220,16 @@ try:
     h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
 
     # Create Text widget
-    file_preview = tk.Text(text_frame, wrap=tk.NONE, 
-                        yscrollcommand=v_scroll.set, 
-                        xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
-    file_preview.pack(fill=tk.BOTH, expand=True)
+
+    file_preview=TextPreview(text_frame)
+#    file_preview = tk.Text(text_frame, wrap=tk.NONE, 
+ #                       yscrollcommand=v_scroll.set, 
+  #                      xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
+#    file_preview.pack(fill=tk.BOTH, expand=True)
 
     # Configure scrollbars to work with the Text widget
-    v_scroll.config(command=file_preview.yview)
-    h_scroll.config(command=file_preview.xview)
+ #   v_scroll.config(command=file_preview.yview)
+  #  h_scroll.config(command=file_preview.xview)
 
     # Statistics tab
     tab_characters = ttk.Frame(notebook)

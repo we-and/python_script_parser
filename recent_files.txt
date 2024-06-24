@@ -1,3 +1,4 @@
+/Users/jd/dev/consulting/python_script_parser/examples/txt/3SECONDES.txt
 /Users/jd/Documents/Trefliks sans derniere page.pdf
 /Users/jd/Downloads/RADICAL SPANISH Production Revised GREEN FULL (03-19-22).pdf
 /Users/jd/Downloads/Trefliks Christmas Special_ENG_updated_DF_12.06 (1).pdf
@@ -7,4 +8,3 @@
 /Users/jd/dev/consulting/python_script_parser/examples/doc/EP16.doc
 /Users/jd/dev/consulting/python_script_parser/examples/rtf/EBDEF03.rtf
 /Users/jd/dev/consulting/python_script_parser/examples/rtf/EBDEF22.rtf
-/Users/jd/dev/consulting/python_script_parser/examples/rtf/EBDEF18.rtf

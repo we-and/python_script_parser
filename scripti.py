@@ -2,48 +2,65 @@ import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel,Scrollbar, Scale, HORIZONTAL, VERTICAL
 from script_parser import process_script,get_pdf_page_blocks,detect_word_table,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
+from utils import get_intial_treeview_folder_path,get_setting_ini_path,copy_folder_contents,get_excel_column_name,help_word_table,help_pdf_text,help_merge,make_dpi_aware,detect_file_encoding,get_os,convert_csv_to_xlsx,get_encoding,get_log_file_path,get_temp_folder_path,get_recentfiles_file_path,save_string_to_file
 import pandas as pd
-import chardet
+
 import io
 import tkinter.font as tkFont
 import subprocess
 #import pypdfium2 as pdfium
 import traceback
 import tkinter.font as tkfont
+from tkinter import Canvas, PhotoImage
 
 #import pytesseract
-import platform
+import platform 
 import re
 from docx import Document
 import sys
 import csv
-from PyPDF2 import PdfWriter, PdfReader
-
+# from PyPDF2 import PdfWriter, PdfReader
 from pdfplumber.pdf import PDF
-import pdfplumber
+import pdfplumber                                                             
 import math
 import webbrowser
 import time
 import logging
 from tkinter import ttk, messagebox
-
 from PIL import Image, ImageTk
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter, PDFPageAggregator
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from pdfminer.layout import LTImage
-logging.basicConfig(filename='app.log',level=logging.DEBUG)
+import threading
+if False:
+    class UTFStreamHandler(object):
+        def __init__(self, stream):
+            self.stream = stream
+
+        def write(self, data):
+            if not isinstance(data, str):
+                data = str(data)
+            self.stream.buffer.write(data.encode('utf-8'))
+            self.stream.buffer.flush()
+
+        def flush(self):
+            self.stream.flush()
+
+    # Only replace sys.stdout if it's not already wrapped
+    if not isinstance(sys.stdout, io.TextIOWrapper) or sys.stdout.encoding.lower() != 'utf-8':
+        sys.stdout = UTFStreamHandler(sys.stdout)
+
+
+#sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+app_log_path=get_log_file_path()
+logging.basicConfig(filename=app_log_path,encoding='utf-8',level=logging.DEBUG)
 logging.debug("Script starting...")
 
 
-import ctypes
-
-import threading
 last_row_id = None
-
-RECENT_FILES_PATH = 'recent_files.txt'
-MAX_RECENT_FILES = 10
 
 countingMethods=[
 #    "LINE_COUNT",
@@ -73,7 +90,13 @@ countingMethod="ALL"
 currentOutputFolder=""
 currentFilePath=""
 currentScriptFilename=""
-outputFolder="tmp"
+
+do_debug=True
+
+RECENT_FILES_PATH = get_recentfiles_file_path()
+MAX_RECENT_FILES = 10
+
+aoutputFolder=get_temp_folder_path()
 currentRightclickRowId=None
 currentXlsxPath=""
 currentDialogPath=""
@@ -102,44 +125,43 @@ currentCharactersSelectedRowIds=[]
 
 def myprint2(s):
     logging.debug(s)
-    print(s)
-def myprint7(s):
-    logging.debug(s)
-    print(s)
+#    print(s)
 def myprint7(s):
     s="ui: "+str(s)
     logging.debug(s)
-    print(s)
+    #print(s.encode('utf-8'))
+def myprint7a(s):
+    s="ui: "+str(s)
+    logging.debug(s)
+    print(s.encode('utf-8'))
 def myprint4(s):
     logging.debug(s)
-    print(s)
+ #   print(s)
 def myprint5(s):
     logging.debug(s)
-    print(s)
+  #  print(s)
 
-
-
-def make_dpi_aware():
-    try:
-        # Attempt to set the process DPI awareness to the system DPI awareness
-        ctypes.windll.shcore.SetProcessDpiAwareness(1)
-    except AttributeError:
-        # Fallback if SetProcessDpiAwareness does not exist (possible in older Windows versions)
-        ctypes.windll.user32.SetProcessDPIAware()
+myprint7a(f"Tmp                : {aoutputFolder}")
+myprint7a(f"Recent files       : {RECENT_FILES_PATH}")
+myprint7a(f"App log            : {app_log_path}")
 
 # Only call this function if your application is running on Windows
 if sys.platform.startswith('win32'):
     make_dpi_aware()
+myprint7a(f"Make folder            : {aoutputFolder}")
 
-if not os.path.exists(outputFolder):
-    os.mkdir(outputFolder)
+if not os.path.exists(aoutputFolder):
+    os.mkdir(aoutputFolder)
+myprint7a(f"Make folder   done         : {aoutputFolder}")
 
 def load_recent_files():
     if os.path.exists(RECENT_FILES_PATH):
         with open(RECENT_FILES_PATH, 'r') as f:
             return [line.strip() for line in f.readlines()]
     return []
+myprint7a(f"Make 1")
 recent_files = load_recent_files()
+myprint7a(f"Make 2")
 
 
 def save_recent_files(recent_files):
@@ -184,16 +206,11 @@ def compute_length_by_method(line,method):
     return res
 
 
-def convert_csv_to_xlsx(csv_file_path, xlsx_file_path):
-    # Read the CSV file
-    df = pd.read_csv(csv_file_path)
-
-    # Write the DataFrame to an Excel file
-    df.to_excel(xlsx_file_path, index=False, engine='openpyxl')
-
-
-
 def load_tree(parent, root_path):
+    print(f"load_tree {root_path}")
+    os.makedirs(root_path, exist_ok=True)
+    print(f"load_tree created if not {root_path}")
+
     # Clear the tree view if root_path is the starting directory
     if parent == "":
         folders.delete(*folders.get_children())
@@ -266,24 +283,8 @@ def on_leave(event):
     last_row_id = None
 
 
-
-def detect_file_encoding(file_path):
-    with open(file_path, 'rb') as file:  # Open the file in binary mode
-        raw_data = file.read(10000)  # Read the first 10000 bytes to guess the encoding
-        result = chardet.detect(raw_data)
-        return result
-def get_encoding(enc):
-    #print("Guess encoding from"+str(enc))
-    if enc=="ascii":
-        return "ISO-8859-1"
-    elif enc=="ISO-8859-1":
-        return "ISO-8859-1"
-    elif enc=="Windows-1252":
-        return "Windows-1252"       
-    return "utf-8"
-
 def reset_tables(): 
-    print("reset_tables")
+    myprint7("reset_tables")
     
     #disable_merge_button()
     for item in breakdown_table.get_children():
@@ -453,12 +454,13 @@ def runJob(file_path,method,params={}):
                 myprint7("Supported           : YES")
                 encoding_info = detect_file_encoding(file_path)
                 encoding=encoding_info['encoding']
+                myprint7("Encoding detection   : "+str(encoding_info))
                 myprint7("Encoding detected   : "+str(encoding))
                 myprint7("Encoding confidence : "+str(encoding_info['confidence']))
                 enc=get_encoding(encoding)
                 myprint7("Encoding used       : "+str(enc))
 
-                currentOutputFolder=outputFolder+"/"+name+"/"
+                currentOutputFolder=aoutputFolder+"/"+name+"/"
                 if not os.path.exists(currentOutputFolder):
                     os.mkdir(currentOutputFolder)
                 extension=extension.lower()
@@ -515,11 +517,11 @@ def append_file_content(source_file, destination_file):
             # Append the content to the destination file
             file2.write(content)
 
-        print(f"Content of {source_file} appended to {destination_file} successfully.")
+        myprint7(f"Content of {source_file} appended to {destination_file} successfully.")
     except FileNotFoundError:
-        print(f"File not found: {source_file} or {destination_file}")
+        myprint7(f"File not found: {source_file} or {destination_file}")
     except IOError:
-        print(f"An error occurred while appending content to {destination_file}")
+        myprint7(f"An error occurred while appending content to {destination_file}")
 
 def runGroupJob(file_paths,method):
     global currentFilePath
@@ -567,7 +569,7 @@ def runGroupJob(file_paths,method):
                     myprint7("Encoding used       : "+str(enc))
                     if first_enc==None:
                         first_enc=enc
-                    currentOutputFolder=outputFolder+"/"+name+"/"
+                    currentOutputFolder=aoutputFolder+"/"+name+"/"
                     if not os.path.exists(currentOutputFolder):
                         os.mkdir(currentOutputFolder)
                     extension=extension.lower()
@@ -626,15 +628,17 @@ def runGroupJob(file_paths,method):
 def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
 
     global currentResultCharacterOrderMap
-    myprint7("Post process")
+    myprint7(f"Postprocess nbreakdown={len(breakdown)}")
+    myprint7(f"Postprocess ncharacter_order_map={len(character_order_map)}")
     fill_breakdown_table(breakdown)
-    fill_character_list_table(character_order_map,breakdown)
-    fill_character_stats_table(character_order_map,breakdown,enc)
-    fill_stats_table(breakdown)
-    fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
     save_dialog_csv(breakdown,enc,"")
-    for char in character_order_map:
-        save_dialog_csv(breakdown,enc,char)
+    fill_stats_table(breakdown)
+    if len(character_order_map)>0:
+        fill_character_list_table(character_order_map)
+        fill_character_stats_table(character_order_map,breakdown,enc)
+        fill_character_table(character_order_map, breakdown,character_linecount_map,scene_characters_map)
+        for char in character_order_map:
+            save_dialog_csv(breakdown,enc,char)
             
 def save_dialog_csv(breakdown,enc,char):
     global currentDialogPath
@@ -666,7 +670,7 @@ def save_dialog_csv(breakdown,enc,char):
                     
                 data.append(datarow)
     else:
-        myprint7("save_dialog_csv skip"+character)
+        myprint7("save_dialog_csv skip"+char)
     
             
     myprint7("Saving dialog csv encoding="+enc)
@@ -682,7 +686,8 @@ def save_dialog_csv(breakdown,enc,char):
             writer.writerow(row)
     xlsxpath=totalcsvpath.replace(".csv",".xlsx")
     myprint7("xlsx"+xlsxpath)
-    convert_dialog_csv_to_xlsx2(totalcsvpath,xlsxpath,enc)
+    if len(data)>0:
+        convert_dialog_csv_to_xlsx2(totalcsvpath,xlsxpath,enc)
 
 def on_treeview_folder_select(event):
     global currentScriptFilename
@@ -720,7 +725,7 @@ def open_script():
     myprint7("Open script")
     file_path = filedialog.askopenfilename()
     if file_path:
-        print(f"Selected file: {file_path}")
+        myprint7(f"Selected file: {file_path}")
         runJob(file_path,"ALL")
 
 def open_script_group():
@@ -822,7 +827,7 @@ def compute_length(method,line):
         return len(line);
     return len(line);
 
-def fill_character_list_table(character_order_map, breakdown):
+def fill_character_list_table(character_order_map):
     #myprint7("fill_character_list_table")
 
     for character_name in character_order_map:
@@ -892,18 +897,6 @@ def fill_character_stats_table(character_order_map, breakdown,encoding_used):
 
 
 
-def save_string_to_file(text, filename):
-        """Saves a given string `text` to a file named `filename`."""
-        myprint4(" > Write to "+filename)
-        with open(filename, 'w', encoding='utf-8') as file:
-            file.write(text)
-def get_excel_column_name(column_index):
-    """Convert a 1-based column index to an Excel column name (e.g., 1 -> A, 27 -> AA)."""
-    column_name = ""
-    while column_index > 0:
-        column_index, remainder = divmod(column_index - 1, 26)
-        column_name = chr(65 + remainder) + column_name
-    return column_name
 def convert_csv_to_xlsx2(csv_file_path, xlsx_file_path, n,encoding_used):
     myprint4("convert_csv_to_xlsx2 "+csv_file_path+ " to "+xlsx_file_path+" "+encoding_used)
 
@@ -1059,7 +1052,7 @@ def export_csv():
 def is_AND_character(character):
     return " AND " in character
 def fill_breakdown_table(breakdown):
-    print("breakdown"+str(breakdown))
+    myprint7("breakdown"+str(breakdown))
     for item in breakdown:
         type_=item['type']
         line_idx=item['line_idx']
@@ -1107,25 +1100,14 @@ def clear_table(treeview):
 
 ###################################################################################################
 ## .INI FILE
-def get_setting_ini_path():
-    
-   # ini_file_path = os.path.join(script_folder, 'settings.ini')
-
-    user_home = os.path.expanduser("~")
-    ini_file_path = os.path.join(user_home, "Library", "Application Support", "Scripti", "settings.ini")
-
-    # Ensure the directory exists
-    os.makedirs(os.path.dirname(ini_file_path), exist_ok=True)
-
-    return ini_file_path
 def check_settings_ini_exists():
     # Get the absolute path of the directory where the script is located
 #    script_folder = os.path.abspath(os.path.dirname(__file__))
     
-    # Define the path to the settings.ini file in the same directory as the script
+    # Define the path to the settings ini file in the same directory as the script
     ini_file_path = get_setting_ini_path()
 
-    # Check if the settings.ini file exists
+    # Check if the settings ini file exists
     if os.path.isfile(ini_file_path):
         myprint4(f"settings.ini file exists at: {ini_file_path}")
         return True
@@ -1136,15 +1118,15 @@ def check_settings_ini_exists():
 
 def write_settings_ini():
     # Get the absolute path of the directory where the script is located
-    script_folder = os.path.abspath(os.path.dirname(__file__))
+    script_folder = get_intial_treeview_folder_path()#  os.path.abspath(os.path.dirname(__file__))
     
-    # Define the content to write to the settings.ini file
+    # Define the content to write to the settings ini file
     content = f"SCRIPT_FOLDER = {script_folder}"
     
     # Define the path to the settings.ini file in the same directory as the script
 #    ini_file_path = os.path.join(script_folder, 'settings.ini')
     ini_file_path = get_setting_ini_path()
-    # Write the content to the settings.ini file
+    # Write the content to the settings ini file
     with open(ini_file_path, 'w') as ini_file:
         ini_file.write(content)
     
@@ -1153,14 +1135,14 @@ def write_settings_ini():
 
 def read_settings_ini():
     
-    # Define the path to the settings.ini file in the same directory as the script
+    # Define the path to the settings ini file in the same directory as the script
     ini_file_path = get_setting_ini_path()
     
-    # Check if the settings.ini file exists
+    # Check if the settings ini file exists
     if not os.path.isfile(ini_file_path):
         raise FileNotFoundError(f"settings.ini file does not exist in the directory: {ini_file_path}")
     
-    # Read the settings.ini file and store settings in a dictionary
+    # Read the settings ini file and store settings in a dictionary
     settings = {}
     with open(ini_file_path, 'r') as ini_file:
         for line in ini_file:
@@ -1173,10 +1155,10 @@ def read_settings_ini():
 def update_ini_settings_file(field,new_folder):
     # Get the absolute path of the directory where the script is located
     
-    # Define the path to the settings.ini file in the same directory as the script
+    # Define the path to the settings ini file in the same directory as the script
     ini_file_path = get_setting_ini_path()
 
-    # Check if the settings.ini file exists
+    # Check if the settings ini file exists
     if not os.path.isfile(ini_file_path):
         raise FileNotFoundError(f"settings.ini file does not exist in the directory: {ini_file_path}")
     
@@ -1198,81 +1180,6 @@ def update_ini_settings_file(field,new_folder):
             ini_file.write(f"{key} = {value}\n")
     
     myprint4(f"settings.ini file updated with SCRIPT_FOLDER = {new_folder}")
-
-###################################################################################################
-## MAIN
-logging.debug("Checking settings ini file")
-
-settings_ini_exists = check_settings_ini_exists()
-if settings_ini_exists == False:
-    logging.debug("Writing settings ini file")
-    write_settings_ini()
-    script_folder = os.path.abspath(os.path.dirname(__file__))
-    
-    update_ini_settings_file("SCRIPT_FOLDER",script_folder+"/examples")
-
-settings = read_settings_ini()
-app_dir = os.path.dirname(os.path.abspath(__file__))
-icons_dir =app_dir+"/icons/"
-myprint4("App dir           :"+app_dir)
-
-
-app = tk.Tk(className="Scripti")
-app.title('Scripti')
-app.iconbitmap(icons_dir+'app_icon.ico') 
-
-# Ensure the app name appears in the macOS menu bar
-if os.name == 'posix':  # This check is for macOS
-    app.tk.call('wm', 'iconname', app._w, 'Scripti')
-    app.tk.call('wm', 'iconphoto', app._w, '-default', tk.PhotoImage(file=icons_dir + 'app_icon.png'))
-
-# Use iconphoto for cross-platform icon setting
-if os.name == 'nt':  # This check is for Windows
-    app.iconbitmap(icons_dir + 'app_icon.ico')
-else:
-    icon_path = icons_dir + 'app_icon.png'
-    app.iconphoto(True, tk.PhotoImage(file=icon_path))
-
-
-logging.debug("Creating app")
-
-
-
-def on_resize(event):
-        return
-
-#app.bind('<Configure>', on_resize)
-
-# Menu bar
-menu_bar = Menu(app)
-app.config(menu=menu_bar)
-
-folder_icon = tk.PhotoImage(file=icons_dir+"folder_icon.png")  # Adjust path to your icon file
-import_icon = tk.PhotoImage(file=icons_dir+"import.png")  # Adjust path to your icon file
-txt_icon = tk.PhotoImage(file=icons_dir+"txt_icon.png")  # Adjust path to your icon file
-docx_icon = tk.PhotoImage(file=icons_dir+"docx_icon.png")  # Adjust path to your icon file
-original_icon = tk.PhotoImage(file=icons_dir+"textd_icon.png")  # Adjust path to your icon file
-char_icon = tk.PhotoImage(file=icons_dir+"character_icon.png")  # Adjust path to your icon file
-timeline_icon = tk.PhotoImage(file=icons_dir+"timeline_icon.png")  # Adjust path to your icon file
-scene_icon = tk.PhotoImage(file=icons_dir+"scenes_icon.png")  # Adjust path to your icon file
-export_icon = tk.PhotoImage(file=icons_dir+"export_icon.png")  # Adjust path to your icon file
-chat_icon = tk.PhotoImage(file=icons_dir+"chat_icon.png")  # Adjust path to your icon file
-
-
-# File menu
-file_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Fichier", menu=file_menu)
-file_menu.add_command(label="Ouvrir un dossier de travail...", command=open_folder)
-file_menu.add_command(label="Ouvrir un fichier de script...", command=open_script)
-file_menu.add_command(label="Ouvrir un groupe de fichiers de script...", command=open_script_group)
-#file_menu.add_command(label="Export csv...", command=export_csv)
-file_menu.add_separator()
-recent_files_menu = tk.Menu(file_menu, tearoff=0)
-file_menu.add_cascade(label="Fichiers récents", menu=recent_files_menu)
-update_recent_files_menu()
-file_menu.add_separator()
-
-file_menu.add_command(label="Quitter", command=exit_app)
 
 def on_folder_open(event):
     myprint4("on_folder_open")
@@ -1328,16 +1235,6 @@ def toggle_folder(event):
             load_tree(row_id, folders.item(row_id, "values")[0])
 
 
-def get_os():
-    if os.name == 'nt':
-        return 'Windows'
-    elif os.name == 'posix':
-        if 'darwin' in platform.system().lower():
-            return 'macOS'
-        elif 'linux' in platform.system().lower():
-            return 'Linux'
-    else:
-        return 'Unknown'
     
 def open_xlsx_recap():
     global currentXlsxPath
@@ -1438,10 +1335,6 @@ def set_counting_method(i):
     countingMethod=i
 
 
-input_blocksize = tk.StringVar()
-input_blocksize.set(str(currentBlockSize))
-
-
 def show_popup_line_size():
     global currentBlockSize
     popupBlocksize = tk.Toplevel()
@@ -1459,13 +1352,13 @@ def show_popup_line_size():
         entry_value = input_blocksize.get()
         try:
             int_value = int(entry_value)
-            print("set line size "+str(entry_value))
+            myprint7("set line size "+str(entry_value))
             currentBlockSize=int_value
             popupBlocksize.destroy()
             if len(currentFilePath)>0:
                 threading.Thread(target=runJob,args=(currentFilePath,countingMethod)).start()
         except ValueError:
-                print("Invalid input: not an integer")
+                myprint7("Invalid input: not an integer")
 
 
     # Create a single-line text entry widget
@@ -1562,7 +1455,8 @@ def restore_characters():
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
-
+def on_resize(event):
+        return
 
 class WordTableColumnSelector(tk.Toplevel):
     def __init__(self, parent, file_path):
@@ -1588,7 +1482,7 @@ class WordTableColumnSelector(tk.Toplevel):
         self.check_vars = []
 
     def create_widgets(self):
-        print("TableColumnSelector create_widgets")
+        myprint7("TableColumnSelector create_widgets")
         for widget in self.parent.winfo_children():
             widget.destroy()
 
@@ -1623,11 +1517,11 @@ class WordTableColumnSelector(tk.Toplevel):
 
 
     def run(self):
-        print("WordTableColumnSelector run")
+        myprint7("WordTableColumnSelector run")
         dialog=self.get_dialog_col()
         character=self.get_character_col()
         if character>-1 and dialog>-1:
-            print(f"ch={character} di={dialog}")
+            myprint7(f"ch={character} di={dialog}")
             params={
                 'param_type':'WORD'
                 ,'character':character,
@@ -1636,7 +1530,7 @@ class WordTableColumnSelector(tk.Toplevel):
             threading.Thread(target=runJob,args=(self.file_path,countingMethod,params)).start()
 
     def destroy(self):
-        print("WordTableColumnSelector destroy")
+        myprint7("WordTableColumnSelector destroy")
         self.menu_frame.destroy()
         self.table_frame.destroy()
         self.left_canvas.destroy()
@@ -1647,7 +1541,7 @@ class WordTableColumnSelector(tk.Toplevel):
         myprint7("process")
 
     def update_table_listbox(self):
-        print("WordTableColumnSelector update listbox")
+        myprint7("WordTableColumnSelector update listbox")
         for widget in self.list_frame.winfo_children():
             widget.destroy()
 
@@ -1681,9 +1575,9 @@ class WordTableColumnSelector(tk.Toplevel):
                 return idx
         return -1
     def on_table_select(self, index):
-        print("WordTableColumnSelector on_table_select")
+        myprint7("WordTableColumnSelector on_table_select")
         table=self.table_list[index]
-        print("on_table_select idx="+str(index)+" table="+str(table))
+        myprint7("on_table_select idx="+str(index)+" table="+str(table))
         if len(self.detect_map)==0:
             success, mode, character,dialog,map_=detect_word_table(table,"",{})        
             self.detect_map=map_
@@ -1692,7 +1586,7 @@ class WordTableColumnSelector(tk.Toplevel):
     detect_map={}
     column_labels = []
     def show_table_preview(self,  table,map_):
-        print("WordTableColumnSelector show_table_preview")
+        myprint7("WordTableColumnSelector show_table_preview")
         for widget in self.table_frame.winfo_children():
             widget.destroy()
 
@@ -1715,17 +1609,17 @@ class WordTableColumnSelector(tk.Toplevel):
                   col_widths[col_idx] = int(col_widths[col_idx]*0.7)
                 else:
                   col_widths[col_idx] = int(col_widths[col_idx])
-            print("sumcolwidth"+str(sumcolwidth))
-        print("colwidth"+str(col_widths))
+            myprint7("sumcolwidth"+str(sumcolwidth))
+        myprint7("colwidth"+str(col_widths))
 
-        print("set col val")
+        myprint7("set col val")
         for col_idx in range(num_cols):
-            print("combobox gen"+str(col_idx))
+            myprint7("combobox gen"+str(col_idx))
             combobox = ttk.Combobox(self.table_frame, values=options,width=col_widths[col_idx] // 8)
             mapval=map_[col_idx]
-            print("set col val"+str(mapval))
+            myprint7("set col val"+str(mapval))
             mapvaltype=mapval['type']
-            print("set col val"+str(mapvaltype))
+            myprint7("set col val"+str(mapvaltype))
 
             if mapvaltype=='CHARACTER':
                 combobox.current(1)         # Set default value to "-"
@@ -1738,14 +1632,14 @@ class WordTableColumnSelector(tk.Toplevel):
             combobox.grid(row=0, column=col_idx, sticky='nsew')
             def create_on_combobox_change(col):
                 def on_combobox_change(event):
-                    print("change col_idx" + str(col))
+                    myprint7("change col_idx" + str(col))
                     labels = self.column_labels[col]
                     bg="white"
                     fore="black"
                     headerbg="black"
                     headerfore="white"
                     val=self.comboboxes[col].get()
-                    print(val)
+                    myprint7(val)
                     if val!='DIALOGUE' and val!='PERSONNAGE' and val!='LES DEUX':
                         fore="grey"
                         bg="#ddd"
@@ -1798,7 +1692,6 @@ class WordTableColumnSelector(tk.Toplevel):
     def set_dialog_column(self, col):
         messagebox.showinfo("Dialog Column", f"Column {col+1} set as Dialog Column")
 
-importTab = None
 def open_table_selector(file_path):
     global importTab
     importTab=WordTableColumnSelector(tab_import,file_path)
@@ -1948,68 +1841,6 @@ def merge_characters2():
     currentCharactersSelectedRowIds=[]
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
-
-
-
-character_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Personnages", menu=character_menu)
-#settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
-character_menu.add_command(label="Fusionner sélection", command=merge_characters2)
-character_menu.add_separator()
-#settings_menu.add_command(label="Set block length...", command=open_folder)
-character_menu.add_command(label="Désactiver sélection", command=disable_character)
-character_menu.add_command(label="Activer sélection", command=enable_character)
-character_menu.add_command(label="Activer tout", command=restore_characters)
-character_menu.add_separator()
-character_menu.add_command(label="Déselectionner tout", command=deselect_characters)
-
-
-settings_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Paramètres", menu=settings_menu)
-#settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
-settings_menu.add_command(label="Change la taille des répliques...", command=show_popup_line_size)
-
-def help_word_table():
-    url="https://www.youtube.com/watch?v=XxZBVQKvihI"
-    webbrowser.open(url)
-def help_pdf_text():
-    url="https://youtu.be/1F8yu14x6u8"
-    webbrowser.open(url)
-def help_merge():
-    url="https://youtu.be/9MqWrRHDRPk"
-    webbrowser.open(url)
-help_menu = Menu(menu_bar, tearoff=0)
-menu_bar.add_cascade(label="Aide", menu=help_menu)
-#settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
-help_menu.add_command(label="Word > Tableaux...", command=help_word_table)
-help_menu.add_command(label="PDF > Texte...", command=help_pdf_text)
-help_menu.add_command(label="Fusionner personnages...", command=help_merge)
-
-loading_label = ttk.Frame(app)
-#loading_label.pack(side=tk.TOP, fill=tk.X,expand=True)
-# Load folder button
-#load_button = ttk.Button(loading_label, text="Hide ", command=hide_loading)
-#load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-loading_label_txt = ttk.Label(loading_label, text="Analyze", font=('Arial', 12),padding="20 100 20 20")
-loading_label_txt.pack(side=tk.TOP, fill=tk.X,expand=True)
-
-
-# Create a PanedWindow widget
-paned_window = ttk.PanedWindow(app, orient=tk.HORIZONTAL)
-paned_window.pack(fill=tk.BOTH, expand=True,padx=0,pady=0)
-
-
-# Create two frames for the left and right panels
-left_frame = ttk.Frame(paned_window, width=200, height=400, relief=tk.FLAT)
-right_frame = ttk.Frame(paned_window, width=400, height=400, relief=tk.FLAT)
-
-# Add frames to the PanedWindow
-paned_window.add(left_frame, weight=1)  # The weight determines how additional space is distributed
-paned_window.add(right_frame, weight=2)
-
-menu = tk.Menu(app, tearoff=0)
-menu.add_command(label="Open File", command=open_file_in_system)
 def getCharacterTableNameByRowId(rowid):
     name = character_table.item(rowid, 'values')[1]
     return name
@@ -2034,51 +1865,8 @@ def hide_character():
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
 
-
-char_menu = tk.Menu(app, tearoff=0)
-char_menu.add_command(label="Merge with...", command=merge_characters)
-char_menu.add_command(label="Hide", command=hide_character)
-
-#######################################################################################
-# Folder tree
-folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
-folders.heading("#0", text="Fichier")
-folders.heading("Extension", text="Type")
-folders.heading("Path", text="Path")
-folders.column("#0", width=240)  # Adjust as needed
-folders.column("Path", width=0, stretch=tk.NO)
-folders.column("Extension", width=60, stretch=tk.NO)
-
-folders.tag_configure('not_supported', foreground='#cccccc')
-folders.tag_configure('supported', foreground='#444444')
-#folders.tag_configure('folder', foreground='#6666cc')
-bold_font = tkFont.Font( weight="bold")
-folders.tag_configure('bold', font=bold_font)
-
-# Default tag with normal background
-folders.tag_configure('normal', background='white')
-
-folders.tag_configure('hover', background='#f4f4f4')
-style = ttk.Style()
-#style.configure('TNotebook.Tab', padding=[10,10,10,10])  # Adjust these values as needed
-
-style.configure("Treeview", rowheight=30)  # Increase the row height
-style.configure("Treeview.Item", padding=(3, 4, 3, 4))  # Top and bottom padding
-#bold_font = ('Arial', 10, 'bold')
-#style.configure("Treeview", font=bold_font)
-
- 
-folders.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
-folders.bind('<<TreeviewSelect>>', on_treeview_folder_select)
-folders.bind("<<TreeviewOpen>>", on_folder_open)
-# Bind motion event
-folders.bind('<Motion>', on_motion)
-folders.bind('<Leave>', on_leave)
-folders.bind('<Button-1>', toggle_folder)
-
-
 def on_right_click(event):
-    print("on right click")
+    myprint7("on right click")
     global currentRightclickRowId
     # Identify the row clicked
     try:
@@ -2093,11 +1881,11 @@ def on_right_click(event):
 
 def disable_merge_button():
    # btn_merge.config(state='disabled')
-    print("Button disabled")
+    myprint7("Button disabled")
 
 def enable_merge_button():
     #btn_merge.config(state='normal')
-    print("Button enabled")
+    myprint7("Button enabled")
 def on_character_table_click(event):
     global currentCharacterSelectRowId
     global currentCharactersSelectedRowIds
@@ -2109,7 +1897,6 @@ def on_character_table_click(event):
     if item:
         currentCharacterSelectRowId=item
         
-
         if item in currentCharactersSelectedRowIds:
             # If the item is already in the list, remove it
             currentCharactersSelectedRowIds.remove(item)
@@ -2121,116 +1908,53 @@ def on_character_table_click(event):
             character_table.selection_add(item)
             character_table.item(item, tags=('grouped',))
 
-    print(f"Number of selected rows: {currentCharactersSelectedRowIds}")
-    return 
-      # Check if the Command key (or Control key on Windows/Linux) is pressed
-    ctrl_pressed = (event.state & 0x04) != 0
-    shift_pressed = (event.state & 0x01) != 0
-
-    if item:
-        if shift_pressed:
-            # Handle shift-click for range selection
-            selection = character_table.selection()
-            if selection:
-                first_item = selection[0]
-                item_ids = character_table.get_children('')
-                first_index = item_ids.index(first_item)
-                clicked_index = item_ids.index(item)
-                start_index = min(first_index, clicked_index)
-                end_index = max(first_index, clicked_index)
-                new_selection = item_ids[start_index:end_index + 1]
-                character_table.selection_set(new_selection)
-            else:
-                character_table.selection_set(item)
-        elif ctrl_pressed:
-            # Handle command/control-click for toggling selection
-            if item in character_table.selection():
-                character_table.selection_remove(item)
-            else:
-                character_table.selection_add(item)
-        else:
-            # Handle regular click
-            character_table.selection_set(item)
-
-    selected_items = character_table.selection()
-    num_selected = len(selected_items)
-    print(f"Number of selected rows: {num_selected}")
-    return
-    # Clear the selection if necessary
-    if item not in character_table.selection():
-        character_table.selection_set(item)
-    selected_items = character_table.selection()
-    num_selected = len(selected_items)
-    print(f"Number of selected rows: {num_selected}")
-
-    return 
-    if not item in currentCharactersSelectedRowIds:
-        print("currentCharactersSelected add "+str(item))
-        currentCharactersSelectedRowIds.append(item)
-    else:
-        print("currentCharactersSelected remove "+str(item))
-        currentCharactersSelectedRowIds.remove(item)
-
-    print(str(currentCharactersSelectedRowIds))
-    num_selected = len(currentCharactersSelectedRowIds)
-    if num_selected>1:
-        disable_merge_button()
-    else:
-        enable_merge_button()
-    print(f"Number of selected rows: {num_selected}")
+    myprint7(f"Number of selected rows: {currentCharactersSelectedRowIds}")
     
 
-    print("currentCharactersSelected add tag "+str(item))
-    character_table.item(item, tags=('grouped',))
-    return
-    print("click")
-    if event.state & 0x10:
-    #    if event.state & 0x04:  # 0x04 is the mask for the Command key on Mac
-        print("click but command")
-        return 
-    print("click show menu")
 
-    # Identify the row clicked
+
+def open_result_folder():
+    # Open a folder in Finder using the `open` command
+    myprint2("Opening "+currentOutputFolder)
+    currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
+    myprint2("Absolute path          : "+currentOutputFolderAbs)
+
+  # Check if the folder exists
+    if not os.path.exists(currentOutputFolderAbs):
+        myprint2(f"Folder does not exist: {currentOutputFolderAbs}")
+        return
     try:
-        row_id = character_table.identify_row(event.y)
-        if row_id:
-            # Select the row under cursor
-            #folders.selection_set(row_id)
-            currentCharacterSelectRowId=row_id
-            char_menu.post(event.x_root, event.y_root)  # Show the context menu
+        if sys.platform.startswith('darwin'):
+            subprocess.run(['open', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('win32'):
+            # Correct approach for Windows
+            subprocess.run(['explorer', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('linux'):
+            subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
     except Exception as e:
-        myprint2(e)
-        
-folders.bind('<Button-3>', on_right_click)  # Right click on Windows/Linux
-folders.bind('<Button-2>', on_right_click) 
+        myprint2(f"Error opening folder: {e}")
 
-# Notebook (tabbed interface)
-notebook = ttk.Notebook(right_frame)
-notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
+def open_conversion_file():
+    # Open a folder in Finder using the `open` command
+    myprint2("Opening "+currentOutputFolder)
+    currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
+    myprint2("Absolute path          : "+currentOutputFolderAbs)
 
+  # Check if the folder exists
+    if not os.path.exists(currentOutputFolderAbs):
+        myprint2(f"Folder does not exist: {currentOutputFolderAbs}")
+        return
+    try:
+        if sys.platform.startswith('darwin'):
+            subprocess.run(['open', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('win32'):
+            # Correct approach for Windows
+            subprocess.run(['explorer', currentOutputFolderAbs], check=True)
+        elif sys.platform.startswith('linux'):
+            subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
+    except Exception as e:
+        myprint2(f"Error opening folder: {e}")
 
-
-#char_label = ttk.Label(recap_tab, text="Characters", font=('Arial', 30))
-#char_label.pack(side=tk.TOP, fill=tk.X)
-#recap_tab.bind('<Configure>', resizechart)
-
-
-# Configure the style of the tab
-fontsize=14
-if platform.system() == 'Windows':
-    style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
-#style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
-# Configure the tab area (optional, for better Windows look)
-style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
-style.configure('TNotebook', padding=0)  # Removes padding around the tab area
-
-#def on_tab_selected(event):
-    #myprint2("Tab selected:", event.widget.select())
-
-
-#notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
-# File preview tab
-tab_import = ttk.Frame(notebook)
 def show_importtable_tab():
     global currentHasImportTableTab
     myprint7("show_importtable_tab")
@@ -2252,8 +1976,135 @@ def hide_importtable_tab():
     #else:
      #   myprint7("hide_importtable_tab no")
     
-notebook.add(tab_import, text='Tables Word',image=import_icon, compound=tk.LEFT)
-from tkinter import Canvas, PhotoImage
+
+def create_popup(character_map, mergedchar):
+    global currentMergedCharactersTo
+    global currentMergePopupWindow
+    global currentMergePopupTable
+    popup = Toplevel(app)
+    popup.title("Fusionner")
+    popup.geometry("300x550")  # Size of the popup window
+    currentMergePopupWindow = popup
+
+    # Create a frame for the Treeview and Scrollbar
+    tree_frame = tk.Frame(popup)
+    tree_frame.pack(fill='both', expand=True)
+
+    # Create the Treeview
+    popup_character_list_table = ttk.Treeview(tree_frame, columns=('Character'), show='headings')
+    # Define the column headings
+    popup_character_list_table.heading('Character', text='')
+
+    # Define the column width and alignment
+    popup_character_list_table.column('Character', width=150, anchor='w')
+    popup_character_list_table.pack(side='left', fill='both', expand=True)
+
+    # Create a vertical scrollbar and associate it with the Treeview
+    scrollbar = ttk.Scrollbar(tree_frame, orient='vertical', command=popup_character_list_table.yview)
+    popup_character_list_table.configure(yscroll=scrollbar.set)
+    scrollbar.pack(side='right', fill='y')
+
+    for k in character_map:
+        if k != mergedchar:
+            if not (k in currentMergedCharactersTo):    
+                popup_character_list_table.insert('', 'end', text=k, values=[k])
+
+    currentMergePopupTable = popup_character_list_table
+
+    # Frame to control the size of the button
+    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
+    button_frame.pack(fill='x')  # Fill frame horizontally
+    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
+
+    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
+    close_btn.pack(fill='x', expand=True)
+
+
+def create_popup_old(character_map):
+    global currentMergePopupWindow
+    global currentMergePopupTable
+    popup = Toplevel(app)
+    popup.title("Merge with")
+    popup.geometry("200x350")  # Size of the popup window
+    currentMergePopupWindow=popup
+
+    popup_character_list_table = ttk.Treeview(popup, columns=('Character'), show='headings')
+    # Define the column headings
+    popup_character_list_table.heading('Character', text='')
+
+    # Define the column width and alignment
+    popup_character_list_table.column('Character', width=50, anchor='w')
+   # popup_character_list_table.bind('<Button-1>', merge_with)
+    popup_character_list_table.pack(fill='both',expand=True)
+    
+    for k in character_map:
+        popup_character_list_table.insert('', 'end', text=k, values=[k])
+
+    currentMergePopupTable=popup_character_list_table
+
+
+    # Frame to control the size of the button
+    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
+    button_frame.pack(fill='x')  # Fill frame horizontally
+    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
+
+    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
+    close_btn.pack(fill='x',expand=True)
+
+
+
+def clear_character_stats():
+    for item in character_stats_table.get_children():
+        character_stats_table.delete(item)
+def on_item_selected(event):
+    tree = event.widget
+    selection = tree.selection()
+    item = tree.item(selection)
+    record = item['values']
+    # Do something with the selection, for example:
+    if len(record)==0:
+        return
+    clear_character_stats()
+    character_name=record[0]
+    
+    #character_named = character_name 
+    #character_list_table.insert('','end',values=(character_named,))
+   
+    rowtotal=("",character_name,"","TOTAL")       
+    total_by_method={}
+    for m in countingMethods:
+        total_by_method[m]=0
+
+    for item in currentBreakdown:
+        line_idx=item['line_idx']
+        type_=item['type']
+        if(type_=="SPEECH"):
+
+            speech=item['speech']
+            character=item['character']
+            character_raw=item['character_raw']
+            
+            filtered_speech=filter_speech(speech)
+
+            if character==character_name:
+                #myprint2("    MATCH"+str(speech))
+
+                row=(str(line_idx),character,character_raw, speech)
+                for m in countingMethods: 
+                    #myprint2("add"+str(m))
+                    le=compute_length_by_method(filtered_speech,m)
+                    row=row+(str(le),)
+                    total_by_method[m]=total_by_method[m]+le
+                #myprint2("add"+str(row))
+                character_stats_table.insert('','end',values=row)
+    for m in countingMethods:
+        if m.startswith("BLOCKS"):
+            total_by_method[m]=math.ceil(total_by_method[m])
+
+    for m in countingMethods:
+        rowtotal=rowtotal+(total_by_method[m],)
+    character_stats_table.insert('',0,values=rowtotal,tags=['total'])
+
 class PDFViewer:
     def __init__(self, root, file_path,currentOutputFolder,encoding):
         myprint7("pdf1")
@@ -2489,12 +2340,12 @@ class PDFViewer:
         canvasframe_width = self.canvas_frame.winfo_width()
         canvasframe_height = self.canvas_frame.winfo_height()
         new_width=canvasframe_height/img_height*img_width
-        print(f"RESIZE TO  {new_width} x {canvasframe_height}")
+        myprint7(f"RESIZE TO  {new_width} x {canvasframe_height}")
         self.canvas.config(width=new_width, height=canvasframe_height)
 
         canvas_width = new_width# self.canvas.winfo_width()
         canvas_height = canvasframe_height# self.canvas.winfo_height()
-        print(f"CANVAS   {canvas_width} y= {canvas_height}")
+        myprint7(f"CANVAS   {canvas_width} y= {canvas_height}")
         
         self.canvas_height=canvas_height
         self.canvas_width=canvas_width
@@ -2504,14 +2355,14 @@ class PDFViewer:
         # Scale the image
         scaled_width = int(img_width * scale_factor)
         scaled_height = int(img_height * scale_factor)
-#            print(f"img_width     {img_width}")
-#           print(f"img_height    {img_height}")
-        print(f"canvas_height {canvas_height}")
-        print(f"canvas_width  {canvas_width}")
-        print(f"scale_factor  {scale_factor}")
+#            myprint7(f"img_width     {img_width}")
+#           myprint7(f"img_height    {img_height}")
+        myprint7(f"canvas_height {canvas_height}")
+        myprint7(f"canvas_width  {canvas_width}")
+        myprint7(f"scale_factor  {scale_factor}")
 
-        print(f"scaled_width  {scaled_width}")
-        print(f"scaled_height {scaled_height}")
+        myprint7(f"scaled_width  {scaled_width}")
+        myprint7(f"scaled_height {scaled_height}")
 
             
         
@@ -2530,7 +2381,7 @@ class PDFViewer:
         x2=self.pdf_page_width-self.right_threshold
         y1=self.pdf_page_height-self.top_threshold
 
-        print("run split with left={x1} top={y1} right={x2} bottom={y2} ")
+        myprint7("run split with left={x1} top={y1} right={x2} bottom={y2} ")
         self.redraw()
 
 
@@ -2593,7 +2444,7 @@ class PDFViewer:
     def margin_to_positionx(self,x):
         return self.left_offset + x
     def margin_to_positionx2(self,x):
-        print(f"rmargin {x} width={self.canvas_width} mar={self.left_offset}")
+        myprint7(f"rmargin {x} width={self.canvas_width} mar={self.left_offset}")
         return self.canvas_width+ self.left_offset - x
     def margin_to_positiony(self,x):
         return self.top_offset + x
@@ -2603,7 +2454,7 @@ class PDFViewer:
 
     def redraw(self):
         self.canvas.delete("all")
-        print("---------- redraw --------------")
+        myprint7("---------- redraw --------------")
         x1=self.left_threshold
         x2=self.canvas_width-self.right_threshold
         y1=self.canvas_height-self.top_threshold
@@ -2611,7 +2462,7 @@ class PDFViewer:
         x2=self.pdf_page_width-self.right_threshold
         y1=self.pdf_page_height-self.top_threshold
         
-        print(f"run split with left={x1} top={y1} right={x2} bottom={y2} ")
+        myprint7(f"run split with left={x1} top={y1} right={x2} bottom={y2} ")
 
         res=split_elements(self.text_elements,x1,y1,x2,y2)
 
@@ -2645,8 +2496,8 @@ class PDFViewer:
         self.draw_lines()
     def draw_bbox(self,canvas_height,dpi,scale_factor, bbox_points,text,color,fillcolor,left_margin):
         # Conversion factors
-        #print("draw bbox")
-        #print(bbox_points)
+        #myprint7("draw bbox")
+        #myprint7(bbox_points)
         # Convert points to pixels
         x0, y0, x1, y1 = [coord * dpi / 72 for coord in bbox_points]
 
@@ -2657,7 +2508,7 @@ class PDFViewer:
         
         x0=x0+left_margin
         x1=x1+left_margin
-        #print("res"+str(x0)+ " "+str(y0)+ " "+str(x1)+ " "+str(y1)+ " ")
+        #myprint7("res"+str(x0)+ " "+str(y0)+ " "+str(x1)+ " "+str(y1)+ " ")
 
         # Draw the rectangle on the canvas
         self.canvas.create_rectangle(x0, y0, x1, y1, outline=color, width=2,fill=fillcolor)
@@ -2674,12 +2525,12 @@ class PDFViewer:
             canvasframe_width = self.canvas_frame.winfo_width()
             canvasframe_height = self.canvas_frame.winfo_height()
             new_width=canvasframe_height/img_height*img_width
-            print(f"RESIZE TO  {new_width} x {canvasframe_height}")
+            myprint7(f"RESIZE TO  {new_width} x {canvasframe_height}")
             self.canvas.config(width=new_width, height=canvasframe_height)
 
             canvas_width = new_width# self.canvas.winfo_width()
             canvas_height = canvasframe_height# self.canvas.winfo_height()
-            print(f"CANVAS   {canvas_width} y= {canvas_height}")
+            myprint7(f"CANVAS   {canvas_width} y= {canvas_height}")
             
             self.canvas_height=canvas_height
             self.canvas_width=canvas_width
@@ -2689,14 +2540,14 @@ class PDFViewer:
             # Scale the image
             scaled_width = int(img_width * scale_factor)
             scaled_height = int(img_height * scale_factor)
-            print(f"img_width     {img_width}")
-            print(f"img_height    {img_height}")
-            print(f"canvas_height {canvas_height}")
-            print(f"canvas_width  {canvas_width}")
-            print(f"scale_factor  {scale_factor}")
+            myprint7(f"img_width     {img_width}")
+            myprint7(f"img_height    {img_height}")
+            myprint7(f"canvas_height {canvas_height}")
+            myprint7(f"canvas_width  {canvas_width}")
+            myprint7(f"scale_factor  {scale_factor}")
 
-            print(f"scaled_width  {scaled_width}")
-            print(f"scaled_height {scaled_height}")
+            myprint7(f"scaled_width  {scaled_width}")
+            myprint7(f"scaled_height {scaled_height}")
             scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
             scaled_img.save("pdfpreview_scaled.png")
         app.after(100, self.display_page_3_open_preview)
@@ -2706,7 +2557,7 @@ class PDFViewer:
     def get_last_page(self):
         return int(self.input_lastpage.get())
     def run_elements(self):
-        print("RUN PDF")
+        myprint7("RUN PDF")
         global currentFilePath
         global currentScriptFilename
         global currentBreakdown
@@ -2723,7 +2574,7 @@ class PDFViewer:
         global currentPDFPageIdx
 
         self.all_text_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
-        print("all blocks: "+str(len(self.all_text_elements)))
+        myprint7("all blocks: "+str(len(self.all_text_elements)))
         
 
         x1=self.left_threshold
@@ -2737,9 +2588,9 @@ class PDFViewer:
         res=split_elements(self.all_text_elements,x1,y1,x2,y2)
         self.all_centered_blocks=res['center'];
         
-        print("centered blocks: "+str(len(self.all_centered_blocks)))
+        myprint7("centered blocks: "+str(len(self.all_centered_blocks)))
         converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
-        print("converted "+str(converted_file_path))
+        myprint7("converted "+str(converted_file_path))
         
         with open(converted_file_path, 'r', encoding=self.encoding) as file:
             file_path=converted_file_path
@@ -2776,162 +2627,103 @@ class PDFViewer:
 
 
 
-    def crop_pdf_and_extract_text(self,input_pdf,  output_pdf, crop_box):
-        cropped_text = []
-        writer = PdfWriter()
-        page_idx=self.get_first_page()    
+    # def crop_pdf_and_extract_text(self,input_pdf,  output_pdf, crop_box):
+    #     cropped_text = []
+    #     writer = PdfWriter()
+    #     page_idx=self.get_first_page()    
 
-        with pdfplumber.open(input_pdf) as pdf:
-            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
-                cropped_page = page.within_bbox(crop_box)
-                image = cropped_page.to_image().original
-                image.save(f"ocr_{i}.png")
-                myprint7(f"page {i}")
+    #     with pdfplumber.open(input_pdf) as pdf:
+    #         for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
+    #             cropped_page = page.within_bbox(crop_box)
+    #             image = cropped_page.to_image().original
+    #             image.save(f"ocr_{i}.png")
+    #             myprint7(f"page {i}")
 
-                # Perform OCR on the image
-                #text = pytesseract.image_to_string(image)
-                cropped_text.append("TODO")
+    #             # Perform OCR on the image
+    #             #text = pytesseract.image_to_string(image)
+    #             cropped_text.append("TODO")
                 
-                # Use PyPDF2 to add the cropped page to the writer
-                reader = PdfReader(input_pdf)
-                page_to_add = reader.pages[i]
-                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
-                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
-                writer.add_page(page_to_add)
+    #             # Use PyPDF2 to add the cropped page to the writer
+    #             reader = PdfReader(input_pdf)
+    #             page_to_add = reader.pages[i]
+    #             page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
+    #             page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
+    #             writer.add_page(page_to_add)
             
-            # Save the cropped PDF
-            with open(output_pdf, 'wb') as f:
-                writer.write(f)
+    #         # Save the cropped PDF
+    #         with open(output_pdf, 'wb') as f:
+    #             writer.write(f)
         
-        return "\n".join(cropped_text)
-
-
-    def crop_pdf_and_extract_text_pure(self,input_pdf,  output_pdf, crop_box):
-        """
-        Crop a PDF from the specified page index to the end and extract text from all pages.
-        
-        :param input_pdf: Path to the input PDF file
-        :param page_idx: Index of the page to start cropping from (0-based index)
-        :param crop_box: Tuple specifying the crop box (x0, y0, x1, y1)
-        :param output_pdf: Path to save the cropped PDF
-        :return: Extracted text from the cropped pages
-        """
-        cropped_text = []
-        writer = PdfWriter()
-        page_idx=self.get_first_page()        
-        
-        with pdfplumber.open(input_pdf) as pdf:
-            for i, page in enumerate(pdf.pages[page_idx:], start=page_idx):
-                myprint7(f"page {i}")
-                cropped_page = page.within_bbox(crop_box)
-                cropped_text.append(cropped_page.extract_text())
-                
-                # Use PyPDF2 to add the cropped page to the writer
-                reader = PdfReader(input_pdf)
-                page_to_add = reader.pages[i]
-                page_to_add.trimbox.lower_left = (crop_box[0], crop_box[1])
-                page_to_add.trimbox.upper_right = (crop_box[2], crop_box[3])
-                writer.add_page(page_to_add)
-            
-            # Save the cropped PDF
-            with open(output_pdf, 'wb') as f:
-                writer.write(f)
-        
-        return "\n".join(cropped_text)
-
-    def crop_pdf_and_extract_textold(self,input_pdf_path, output_pdf_path,  crop_box):
-        extracted_text = ""
-        page_idx=self.get_first_page()        
-        with pdfplumber.open(input_pdf_path) as pdf:
-            # Prepare a new PDF for the cropped pages
-            pdf_writer = PDF()
-            
-            for page_num in range(page_idx, len(pdf.pages)):
-                page = pdf.pages[page_num]
-                
-                # Crop the page
-                cropped_page = page.crop(crop_box)
-                
-                # Add the cropped page to the new PDF
-                pdf_writer.pages.append(cropped_page)
-                
-                # Extract text from the cropped page
-                extracted_text += cropped_page.extract_text() + "\n\n"
-            
-            # Save the cropped PDF
-            with open(output_pdf_path, "wb") as output_file:
-                pdf_writer.write(output_file)
-        
-        return extracted_text
+    #     return "\n".join(cropped_text)
 
     def run(self):
-        if self.strategy=="OCR":
-            self.run_crop()
-        elif self.strategy=="BLOCKS":
+   #     if self.strategy=="OCR":
+ #           self.run_crop()
+  #      elif self.strategy=="BLOCKS":
             threading.Thread(target=self.run_elements).start()
     
     
-    def run_crop(self):
-        print("-------------------- RUN CROP PDF -------------")
-        global currentFilePath
-        global currentScriptFilename
-        global currentBreakdown
-        global currentOutputFolder
-        global currentTimelinePath
-        global currentResultCharacterOrderMap
-        global currentResultEnc
-        global currentResultName
-        global currentResultLinecountMap
-        global currentResultSceneCharacterMap
-        global importTab
-        global currentPDFPages
-        global currentPDFPageIdx
+    # def run_crop(self):
+    #     myprint7("-------------------- RUN CROP PDF -------------")
+    #     global currentFilePath
+    #     global currentScriptFilename
+        # global currentBreakdown
+        # global currentOutputFolder
+        # global currentTimelinePath
+        # global currentResultCharacterOrderMap
+        # global currentResultEnc
+        # global currentResultName
+        # global currentResultLinecountMap
+        # global currentResultSceneCharacterMap
+        # global importTab
+        # global currentPDFPages
+        # global currentPDFPageIdx
 
-        x1=self.left_threshold
-        y1=self.top_threshold
-        x2=self.pdf_page_width-self.right_threshold
-        y2=self.pdf_page_height-self.top_threshold
+        # x1=self.left_threshold
+        # y1=self.top_threshold
+        # x2=self.pdf_page_width-self.right_threshold
+        # y2=self.pdf_page_height-self.top_threshold
         
-        cropped_path=self.file_path.lower().replace(".pdf","-cropped.pdf")
-        converted_file_path=self.file_path.lower().replace(".pdf","-cropped.converted.txt")
+        # cropped_path=self.file_path.lower().replace(".pdf","-cropped.pdf")
+        # converted_file_path=self.file_path.lower().replace(".pdf","-cropped.converted.txt")
 
-        cropbox=[x1,y1,x2,y2]
-        print(f"cropbox {cropbox}")
-        text=self.crop_pdf_and_extract_text(self.file_path,cropped_path,cropbox)
-        print("converted "+str(text))
-        save_string_to_file(text,converted_file_path)
-        print("converted ")
+        # cropbox=[x1,y1,x2,y2]
+        # myprint7(f"cropbox {cropbox}")
+        # text=self.crop_pdf_and_extract_text(self.file_path,cropped_path,cropbox)
+        # myprint7("converted "+str(text))
+        # save_string_to_file(text,converted_file_path)
+        # myprint7("converted ")
         
-        with open(converted_file_path, 'r', encoding=self.encoding) as file:
-            file_path=converted_file_path
-            file_name = os.path.basename(file_path)
-            currentScriptFilename=file_name
-            name, extension = os.path.splitext(file_name)
-            myprint7("Opened")
-            content = file.read()
-            myprint7("Read")
-            file_preview.delete(1.0, tk.END)
-            file_preview.insert(tk.END, content)
+        # with open(converted_file_path, 'r', encoding=self.encoding) as file:
+        #     file_path=converted_file_path
+        #     file_name = os.path.basename(file_path)
+        #     currentScriptFilename=file_name
+        #     name, extension = os.path.splitext(file_name)
+        #     myprint7("Opened")
+        #     content = file.read()
+        #     myprint7("Read")
+        #     file_preview.delete(1.0, tk.END)
+        #     file_preview.insert(tk.END, content)
             
-            enc=self.encoding
-            myprint7("Process")
-            breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,"ALL",enc)
+        #     enc=self.encoding
+        #     myprint7("Process")
+        #     breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,"ALL",enc)
 
-            myprint7("Processed")
-            if breakdown==None:
-                myprint7("Failed")
-                hide_loading()
-            else:
-                myprint7("OK")
-                currentBreakdown=breakdown
-                png_output_file=currentOutputFolder+name+"_timeline.png"
-                currentTimelinePath=png_output_file
-                currentResultCharacterOrderMap=character_order_map
-                currentResultEnc=self.encoding
-                currentResultName=name
-                currentResultLinecountMap=character_linecount_map
-                currentResultSceneCharacterMap=scene_characters_map
-                postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+        #     myprint7("Processed")
+        #     if breakdown==None:
+        #         myprint7("Failed")
+        #         hide_loading()
+        #     else:
+        #         myprint7("OK")
+        #         currentBreakdown=breakdown
+        #         png_output_file=currentOutputFolder+name+"_timeline.png"
+        #         currentTimelinePath=png_output_file
+        #         currentResultCharacterOrderMap=character_order_map
+        #         currentResultEnc=self.encoding
+        #         currentResultName=name
+        #         currentResultLinecountMap=character_linecount_map
+        #         currentResultSceneCharacterMap=scene_characters_map
+        #         postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
                 
     def display_page_3_open_preview(self):
         if self.show_preview:
@@ -2956,11 +2748,11 @@ class PDFViewer:
         x2=self.pdf_page_width-self.right_threshold
         y1=self.pdf_page_height-self.top_threshold
 
-        print("run split with left={x1} top={y1} right={x2} bottom={y2} ")
+        myprint7("run split with left={x1} top={y1} right={x2} bottom={y2} ")
         self.redraw()
        
     def draw_lines(self):
-        print(f"Draw {self.left_offset+ self.right_slider.get()*self.scale} {self.left_offset+self.left_slider.get()*self.scale} {self.canvas_height-self.top_slider.get()*self.scale} {self.canvas_height- self.bottom_slider.get()*self.scale}")
+        myprint7(f"Draw {self.left_offset+ self.right_slider.get()*self.scale} {self.left_offset+self.left_slider.get()*self.scale} {self.canvas_height-self.top_slider.get()*self.scale} {self.canvas_height- self.bottom_slider.get()*self.scale}")
         
         v=self.margin_to_positionx2(self.right_threshold)
         self.draw_vertical_liner(v)            
@@ -2982,359 +2774,6 @@ class PDFViewer:
             self.display_page(self.page_number)
         app.update_idletasks()  # Force the UI to update
         self.label.config(text="Page: "+str(self.page_number+1)+" / "+str(self.num_pages-1))
-
-tab_import_pdf = ttk.Frame(notebook)
-#pdf_viewer = PDFViewer(tab_import_pdf, file_path)
-# Set the initial page number
-#current_page = 10
-#go_to_page(current_page)
-
-notebook.add(tab_import_pdf, text='Extracteur de dialogue PDF',image=import_icon, compound=tk.LEFT)
-
-
-# Create a frame for the 'Texte' tab
-tab_text = ttk.Frame(notebook)
-notebook.add(tab_text, text='Texte')
-
-# Create a Text widget with vertical and horizontal scrollbars
-text_frame = ttk.Frame(tab_text, borderwidth=0,relief=tk.FLAT,)
-text_frame.pack(fill=tk.BOTH, expand=True)
-
-# Create vertical scrollbar
-v_scroll = ttk.Scrollbar(text_frame, orient=tk.VERTICAL)
-v_scroll.pack(side=tk.RIGHT, fill=tk.Y)
-
-# Create horizontal scrollbar
-h_scroll = ttk.Scrollbar(text_frame, orient=tk.HORIZONTAL)
-h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
-
-# Create Text widget
-file_preview = tk.Text(text_frame, wrap=tk.NONE, 
-                       yscrollcommand=v_scroll.set, 
-                       xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
-file_preview.pack(fill=tk.BOTH, expand=True)
-
-# Configure scrollbars to work with the Text widget
-v_scroll.config(command=file_preview.yview)
-h_scroll.config(command=file_preview.xview)
-
-# Statistics tab
-tab_characters = ttk.Frame(notebook)
-
-def merge_together():
-    print("merge")
-
-#btn_merge = ttk.Button(tab_characters, text="Fusionner ...", command=merge_together)
-#btn_merge.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-# Create a Treeview widget within the stats_frame for the table
-
-
-character_table = ttk.Treeview(tab_characters, columns=('Order', 'Character','Status', 'Characters','Lines'), show='headings', selectmode='none')
-#character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
-# Define the column headings
-character_table.heading('Order', text='Order')
-character_table.heading('Character', text='Personnage')
-character_table.heading('Status', text='Status')
-#character_table.heading('Lines', text='Lines')
-character_table.heading('Characters', text='Caractères')
-#character_table.heading('Words', text='Words')
-character_table.heading('Lines', text='Lignes')
-#character_table.heading('Blocks (40)', text='Blocks (40)')
-#character_table.heading('Scenes', text='Scènes')
-
-# Define the column width and alignment
-character_table.column('Order', width=25, anchor='center')
-character_table.column('Character', width=200, anchor='w')
-character_table.column('Status', width=50, anchor='w')
-#character_table.column('Lines', width=50, anchor='w')
-character_table.column('Characters', width=50, anchor='w')
-#character_table.column('Words', width=50, anchor='w')
-character_table.column('Lines', width=50, anchor='w')
-#character_table.column('Scenes', width=50, anchor='w')
-
-# Pack the Treeview widget with enough space
-character_table.pack(fill='both', expand=True)
-notebook.add(tab_characters, text='Personnages',image=char_icon, compound=tk.LEFT)
-
-character_table.tag_configure('hidden', foreground='#999999')
-character_table.tag_configure('grouped', foreground='#000000',background='#995555')
-character_table.bind('<Button-3>', on_character_table_click)  # Right click on Windows/Linux
-character_table.bind('<Button-2>', on_character_table_click) 
-character_table.bind('<Button-1>', on_character_table_click) 
-
-
-
-
-
-
-
-
-
-
-
-
-breakdown_tab = ttk.Frame(notebook)
-# Create a Treeview widget within the stats_frame for the table
-breakdown_table = ttk.Treeview(breakdown_tab, columns=('Line', 'Type', 'Character','Text'), show='headings')
-# Define the column headings
-breakdown_table.heading('Line', text='Ligne')
-breakdown_table.heading('Type', text='Type')
-breakdown_table.heading('Character', text='Personnage')
-breakdown_table.heading('Text', text='Dialogue')
-
-# Define the column width and alignment
-breakdown_table.column('Line', width=25, anchor='w')
-breakdown_table.column('Type', width=25, anchor='w')
-breakdown_table.column('Character', width=50, anchor='w')
-breakdown_table.column('Text', width=200, anchor='w')
-# Pack the Treeview widget with enough space
-breakdown_table.pack(fill='both', expand=True)
-# Configure the tag to change the background color
-breakdown_table.tag_configure('nonspeech', background='#fafafa')
-breakdown_table.tag_configure('scene', background='#fffec8')
-bold_font = tkFont.Font( weight="bold")
-breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
-breakdown_table.tag_configure('bold', font=bold_font)
-#notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
-        
-
-
-
-
-
-
-
-
-
-
-
-
-def open_result_folder():
-    # Open a folder in Finder using the `open` command
-    myprint2("Opening "+currentOutputFolder)
-    currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
-    myprint2("Absolute path          : "+currentOutputFolderAbs)
-
-  # Check if the folder exists
-    if not os.path.exists(currentOutputFolderAbs):
-        myprint2(f"Folder does not exist: {currentOutputFolderAbs}")
-        return
-    try:
-        if sys.platform.startswith('darwin'):
-            subprocess.run(['open', currentOutputFolderAbs], check=True)
-        elif sys.platform.startswith('win32'):
-            # Correct approach for Windows
-            subprocess.run(['explorer', currentOutputFolderAbs], check=True)
-        elif sys.platform.startswith('linux'):
-            subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
-    except Exception as e:
-        myprint2(f"Error opening folder: {e}")
-
-def open_conversion_file():
-    # Open a folder in Finder using the `open` command
-    myprint2("Opening "+currentOutputFolder)
-    currentOutputFolderAbs = os.path.abspath(currentOutputFolder)
-    myprint2("Absolute path          : "+currentOutputFolderAbs)
-
-  # Check if the folder exists
-    if not os.path.exists(currentOutputFolderAbs):
-        myprint2(f"Folder does not exist: {currentOutputFolderAbs}")
-        return
-    try:
-        if sys.platform.startswith('darwin'):
-            subprocess.run(['open', currentOutputFolderAbs], check=True)
-        elif sys.platform.startswith('win32'):
-            # Correct approach for Windows
-            subprocess.run(['explorer', currentOutputFolderAbs], check=True)
-        elif sys.platform.startswith('linux'):
-            subprocess.run(['xdg-open', currentOutputFolderAbs], check=True)
-    except Exception as e:
-        myprint2(f"Error opening folder: {e}")
-
-
-tab_dialog = ttk.Frame(notebook)
-# Create a Treeview widget within the stats_frame for the table
-stats_table = ttk.Treeview(tab_dialog, columns=('Line number',  'Character','Text','Characters'), show='headings')
-# Define the column headings
-stats_table.heading('Line number', text='Ligne')
-stats_table.heading('Character', text='Personnage')
-stats_table.heading('Text', text='Dialogue')
-stats_table.heading('Characters', text='Caractères')
-
-# Define the column width and alignment
-stats_table.column('Line number', width=25, anchor='center')
-stats_table.column('Character', width=100, anchor='w')
-stats_table.column('Text', width=200, anchor='w')
-stats_table.column('Characters', width=50, anchor='w')
-
-# Pack the Treeview widget with enough space
-stats_table.pack(fill='both', expand=True)
-# Configure the tag to change the background color
-stats_table.tag_configure('nonspeech', background='#fafafa')
-stats_table.tag_configure('scene', background='#fffec8')
-bold_font = tkFont.Font( weight="bold")
-stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
-stats_table.tag_configure('bold', font=bold_font)
-
-notebook.add(tab_dialog, text="Dialogue dans l'ordre",image=chat_icon, compound=tk.LEFT)
-
-
-# Statistics tab
-tab_dialog_by_character = ttk.Frame(notebook)
-
-# Create a Treeview widget within the stats_frame for the table
-cols=('Line #', 'Character','Character (raw)','Line')
-for i in countingMethods:
-    cols= cols+(countingMethodNames[i],)
-
-style.configure('CleftPanel.TFrame', background='#fafafa')
-style.configure('CrightPanel.TFrame', background='#fafafa')
-
-
-# Create left and right frames (panels) inside the tab
-cleft_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat", width=200)
-cright_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat")
-
-cleft_panel.configure(style='CleftPanel.TFrame')  # Apply the styled background
-cright_panel.configure(style='CrightPanel.TFrame')  # Apply the styled background
-
-# Pack the frames into the tab
-#cleft_panel.pack(side='left', fill='y', padx=(0, 20))
-#cright_panel.pack(side='right', fill='y', expand=True)
-
-# Configure column weights to make right panel flexible
-tab_dialog_by_character.grid_columnconfigure(1, weight=1)
-tab_dialog_by_character.grid_rowconfigure(0, weight=1)
-
-
-character_list_table = ttk.Treeview(cleft_panel, columns=('Character'), show='headings')
-# Define the column headings
-character_list_table.heading('Character', text='Personnage')
-# Define the column width and alignment
-character_list_table.column('Character', width=50, anchor='w')
-# Pack the Treeview widget with enough space
-character_list_table.pack(fill='both', expand=True)
-
-# Grid frames with padding
-cleft_panel.grid(row=0, column=0, sticky='nsew', padx=(0, 10))  # Add padding on the right side of left panel
-cright_panel.grid(row=0, column=1, sticky='nsew')  # Automatically spaced by the left panel's padding
-
-# Configure column weights to make right panel flexible
-tab_dialog_by_character.grid_columnconfigure(0, weight=0, minsize=200)  # Set minimum size for the left panel
-tab_dialog_by_character.grid_columnconfigure(1, weight=1) 
-tab_dialog_by_character.grid_rowconfigure(0, weight=1)
-def clear_character_stats():
-    for item in character_stats_table.get_children():
-        character_stats_table.delete(item)
-def on_item_selected(event):
-    tree = event.widget
-    selection = tree.selection()
-    item = tree.item(selection)
-    record = item['values']
-    # Do something with the selection, for example:
-    if len(record)==0:
-        return
-    clear_character_stats()
-    character_name=record[0]
-    
-    #character_named = character_name 
-    #character_list_table.insert('','end',values=(character_named,))
-   
-    rowtotal=("",character_name,"","TOTAL")       
-    total_by_method={}
-    for m in countingMethods:
-        total_by_method[m]=0
-
-    for item in currentBreakdown:
-        line_idx=item['line_idx']
-        type_=item['type']
-        if(type_=="SPEECH"):
-
-            speech=item['speech']
-            character=item['character']
-            character_raw=item['character_raw']
-            
-            filtered_speech=filter_speech(speech)
-
-            if character==character_name:
-                #myprint2("    MATCH"+str(speech))
-
-                row=(str(line_idx),character,character_raw, speech)
-                for m in countingMethods: 
-                    #myprint2("add"+str(m))
-                    le=compute_length_by_method(filtered_speech,m)
-                    row=row+(str(le),)
-                    total_by_method[m]=total_by_method[m]+le
-                #myprint2("add"+str(row))
-                character_stats_table.insert('','end',values=row)
-    for m in countingMethods:
-        if m.startswith("BLOCKS"):
-            total_by_method[m]=math.ceil(total_by_method[m])
-
-    for m in countingMethods:
-        rowtotal=rowtotal+(total_by_method[m],)
-    character_stats_table.insert('',0,values=rowtotal,tags=['total'])
-
-character_list_table.bind('<ButtonRelease-1>', on_item_selected)
-
-
-
-character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings')
-# Define the column headings
-character_stats_table.heading('Line #', text='Ligne #')
-character_stats_table.heading('Character', text='Personnage')
-character_stats_table.heading('Character (raw)', text='Personnage (brut)')
-character_stats_table.heading('Line', text='Réplique')
-for i in countingMethods:
-    character_stats_table.heading(countingMethodNames[i], text=countingMethodNames[i])
-
-
-# Define the column width and alignment
-character_stats_table.column('Line #', width=25, anchor='center')
-character_stats_table.column('Character',  anchor='w', width=0, stretch=tk.NO)
-character_stats_table.column('Character (raw)',anchor='w', width=0, stretch=tk.NO)
-character_stats_table.column('Line', width=100, anchor='w')
-for i in countingMethods:
-    character_stats_table.column(countingMethodNames[i], width=25, anchor='w')
-
-# Pack the Treeview widget with enough space
-character_stats_table.pack(fill='both', expand=True)
-character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
-
-notebook.add(tab_dialog_by_character, text='Répliques par personnage',image=chat_icon, compound=tk.LEFT)
-
-
-# Statistics label
-#stats_label = ttk.Label(right_frame, text="Words: 0 Characters: 0", font=('Arial', 12))
-#stats_label.pack(side=tk.BOTTOM, fill=tk.X)
-
-tab_export = ttk.Frame(notebook)
-# Load folder button
-load_button = ttk.Button(tab_export, text="Ouvrir le dossier de résultats...", command=open_result_folder)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-load_button = ttk.Button(tab_export, text="Ouvrir le fichier de conversion ...", command=open_conversion_file)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-load_button = ttk.Button(tab_export, text="Test ...", command=hide_importtable_tab)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-#load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
-#load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-# Load folder button
-load_button = ttk.Button(tab_export, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-load_button = ttk.Button(tab_export, text="Ouvrir le détail du dialogue...", command=open_dialog_recap)
-load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-
-#load_button = ttk.Button(export_tab, text="Clear chart", command=clear_chart)
-#load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
-
-#stats_label = ttk.Label(export_tab, text="Disabled characters", font=('Arial', 12))
-#stats_label.pack(side=tk.TOP, fill=tk.X)
-
 
 def merge_with():
     global currentMergedCharacters
@@ -3365,117 +2804,500 @@ def merge_with():
     reset_tables()
     postProcess(currentBreakdown,currentResultCharacterOrderMap,currentResultEnc,currentResultName,currentResultLinecountMap,currentResultSceneCharacterMap,currentTimelinePath)
 
+###################################################################################################
+## MAIN
+myprint7a(f"Make 3")
+logging.debug("Checking settings ini file")
+myprint7a(f"Make 4")
 
-# Pack the Treeview widget with enough space
-#popup_character_list_table.pack(fill='both',expand=True)
+settings_ini_exists = check_settings_ini_exists()
+if settings_ini_exists == False:
+    logging.debug("Writing settings ini file")
+    write_settings_ini()
+    script_folder = get_intial_treeview_folder_path()#os.path.abspath(os.path.dirname(__file__))
+    myprint7a(f"Initial treeview folder          :  {script_folder}")
+    update_ini_settings_file("SCRIPT_FOLDER",script_folder)
+myprint7a(f"Make 5")
 
-def create_popup(character_map, mergedchar):
-    global currentMergedCharactersTo
-    global currentMergePopupWindow
-    global currentMergePopupTable
-    popup = Toplevel(app)
-    popup.title("Fusionner")
-    popup.geometry("300x550")  # Size of the popup window
-    currentMergePopupWindow = popup
-
-    # Create a frame for the Treeview and Scrollbar
-    tree_frame = tk.Frame(popup)
-    tree_frame.pack(fill='both', expand=True)
-
-    # Create the Treeview
-    popup_character_list_table = ttk.Treeview(tree_frame, columns=('Character'), show='headings')
-    # Define the column headings
-    popup_character_list_table.heading('Character', text='')
-
-    # Define the column width and alignment
-    popup_character_list_table.column('Character', width=150, anchor='w')
-    popup_character_list_table.pack(side='left', fill='both', expand=True)
-
-    # Create a vertical scrollbar and associate it with the Treeview
-    scrollbar = ttk.Scrollbar(tree_frame, orient='vertical', command=popup_character_list_table.yview)
-    popup_character_list_table.configure(yscroll=scrollbar.set)
-    scrollbar.pack(side='right', fill='y')
-
-    for k in character_map:
-        if k != mergedchar:
-            if not (k in currentMergedCharactersTo):    
-                popup_character_list_table.insert('', 'end', text=k, values=[k])
-
-    currentMergePopupTable = popup_character_list_table
-
-    # Frame to control the size of the button
-    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
-    button_frame.pack(fill='x')  # Fill frame horizontally
-    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
-
-    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
-    close_btn.pack(fill='x', expand=True)
+settings = read_settings_ini()
+myprint7a(f"Make 6")
 
 
-def create_popup_old(character_map):
-    global currentMergePopupWindow
-    global currentMergePopupTable
-    popup = Toplevel(app)
-    popup.title("Merge with")
-    popup.geometry("200x350")  # Size of the popup window
-    currentMergePopupWindow=popup
 
-    popup_character_list_table = ttk.Treeview(popup, columns=('Character'), show='headings')
-    # Define the column headings
-    popup_character_list_table.heading('Character', text='')
 
-    # Define the column width and alignment
-    popup_character_list_table.column('Character', width=50, anchor='w')
-   # popup_character_list_table.bind('<Button-1>', merge_with)
-    popup_character_list_table.pack(fill='both',expand=True)
+try:
+    myprint7a(f"Make 6a")
+    app = tk.Tk(className="Scripti")
+    myprint7a(f"Make 6b")
+    app.title('Scripti')
+
+    myprint7a(f"Make 7")
+
+
+    app_dir = os.path.dirname(os.path.abspath(__file__))
+    icons_dir =os.path.join(app_dir,"icons/")
+    if "Contents/MacOS" in app_dir:
+        parent_dir = os.path.dirname(app_dir)
+        examples_dir= icons_dir =os.path.join(parent_dir,"Resources/examples/")
+        icons_dir =os.path.join(parent_dir,"Resources/icons/")
+        copy_folder_contents(examples_dir,get_intial_treeview_folder_path())
+    else:
+        examples_dir= os.path.join(app_dir,"examples/")
+        icons_dir =os.path.join(app_dir,"icons/")
+        copy_folder_contents(examples_dir,get_intial_treeview_folder_path())
+         
+    myprint7a("Icon dir         :"+icons_dir)
+    #icons_dir =app_dir+"/icons/"
+    myprint7a("App dir           :"+app_dir)
+    app.iconbitmap(icons_dir+'app_icon.ico') 
+
+    # Ensure the app name appears in the macOS menu bar
+    if os.name == 'posix':  # This check is for macOS
+        app.tk.call('wm', 'iconname', app._w, 'Scripti')
+        app.tk.call('wm', 'iconphoto', app._w, '-default', tk.PhotoImage(file=icons_dir + 'app_icon.png'))
+
+    # Use iconphoto for cross-platform icon setting
+    if os.name == 'nt':  # This check is for Windows
+        app.iconbitmap(icons_dir + 'app_icon.ico')
+    else:
+        icon_path = icons_dir + 'app_icon.png'
+        app.iconphoto(True, tk.PhotoImage(file=icon_path))
+
+
+    logging.debug("Creating app")
+
+    #app.bind('<Configure>', on_resize)
+
+    # Menu bar
+    menu_bar = Menu(app)
+    app.config(menu=menu_bar)
+
+    folder_icon = tk.PhotoImage(file=icons_dir+"folder_icon.png")  # Adjust path to your icon file
+    import_icon = tk.PhotoImage(file=icons_dir+"import.png")  # Adjust path to your icon file
+    txt_icon = tk.PhotoImage(file=icons_dir+"txt_icon.png")  # Adjust path to your icon file
+    docx_icon = tk.PhotoImage(file=icons_dir+"docx_icon.png")  # Adjust path to your icon file
+    original_icon = tk.PhotoImage(file=icons_dir+"textd_icon.png")  # Adjust path to your icon file
+    char_icon = tk.PhotoImage(file=icons_dir+"character_icon.png")  # Adjust path to your icon file
+    timeline_icon = tk.PhotoImage(file=icons_dir+"timeline_icon.png")  # Adjust path to your icon file
+    scene_icon = tk.PhotoImage(file=icons_dir+"scenes_icon.png")  # Adjust path to your icon file
+    export_icon = tk.PhotoImage(file=icons_dir+"export_icon.png")  # Adjust path to your icon file
+    chat_icon = tk.PhotoImage(file=icons_dir+"chat_icon.png")  # Adjust path to your icon file
+
+
+    # File menu
+    file_menu = Menu(menu_bar, tearoff=0)
+    menu_bar.add_cascade(label="Fichier", menu=file_menu)
+    file_menu.add_command(label="Ouvrir un dossier de travail...", command=open_folder)
+    file_menu.add_command(label="Ouvrir un fichier de script...", command=open_script)
+    file_menu.add_command(label="Ouvrir un groupe de fichiers de script...", command=open_script_group)
+    #file_menu.add_command(label="Export csv...", command=export_csv)
+    file_menu.add_separator()
+    recent_files_menu = tk.Menu(file_menu, tearoff=0)
+    file_menu.add_cascade(label="Fichiers récents", menu=recent_files_menu)
+    update_recent_files_menu()
+    file_menu.add_separator()
+
+    file_menu.add_command(label="Quitter", command=exit_app)
+
+    input_blocksize = tk.StringVar()
+    input_blocksize.set(str(currentBlockSize))
+
+
+
+    importTab = None
+
+
+
+    character_menu = Menu(menu_bar, tearoff=0)
+    menu_bar.add_cascade(label="Personnages", menu=character_menu)
+    #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
+    character_menu.add_command(label="Fusionner sélection", command=merge_characters2)
+    character_menu.add_separator()
+    #settings_menu.add_command(label="Set block length...", command=open_folder)
+    character_menu.add_command(label="Désactiver sélection", command=disable_character)
+    character_menu.add_command(label="Activer sélection", command=enable_character)
+    character_menu.add_command(label="Activer tout", command=restore_characters)
+    character_menu.add_separator()
+    character_menu.add_command(label="Déselectionner tout", command=deselect_characters)
+
+
+    settings_menu = Menu(menu_bar, tearoff=0)
+    menu_bar.add_cascade(label="Paramètres", menu=settings_menu)
+    #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
+    settings_menu.add_command(label="Change la taille des répliques...", command=show_popup_line_size)
+
+
+    help_menu = Menu(menu_bar, tearoff=0)
+    menu_bar.add_cascade(label="Aide", menu=help_menu)
+    #settings_menu.add_command(label="Changer la methode de comptage counting method...", command=show_popup_counting_method)
+    help_menu.add_command(label="Word > Tableaux...", command=help_word_table)
+    help_menu.add_command(label="PDF > Texte...", command=help_pdf_text)
+    help_menu.add_command(label="Fusionner personnages...", command=help_merge)
+
+    loading_label = ttk.Frame(app)
+    #loading_label.pack(side=tk.TOP, fill=tk.X,expand=True)
+    # Load folder button
+    #load_button = ttk.Button(loading_label, text="Hide ", command=hide_loading)
+    #load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+    loading_label_txt = ttk.Label(loading_label, text="Analyze", font=('Arial', 12),padding="20 100 20 20")
+    loading_label_txt.pack(side=tk.TOP, fill=tk.X,expand=True)
+
+
+    # Create a PanedWindow widget
+    paned_window = ttk.PanedWindow(app, orient=tk.HORIZONTAL)
+    paned_window.pack(fill=tk.BOTH, expand=True,padx=0,pady=0)
+
+
+    # Create two frames for the left and right panels
+    left_frame = ttk.Frame(paned_window, width=200, height=400, relief=tk.FLAT)
+    right_frame = ttk.Frame(paned_window, width=400, height=400, relief=tk.FLAT)
+
+    # Add frames to the PanedWindow
+    paned_window.add(left_frame, weight=1)  # The weight determines how additional space is distributed
+    paned_window.add(right_frame, weight=2)
+
+    menu = tk.Menu(app, tearoff=0)
+    menu.add_command(label="Open File", command=open_file_in_system)
+
+    char_menu = tk.Menu(app, tearoff=0)
+    char_menu.add_command(label="Merge with...", command=merge_characters)
+    char_menu.add_command(label="Hide", command=hide_character)
+
+    #######################################################################################
+    # Folder tree
+    folders = ttk.Treeview(left_frame, columns=("Path","Extension",))
+    folders.heading("#0", text="Fichier")
+    folders.heading("Extension", text="Type")
+    folders.heading("Path", text="Path")
+    folders.column("#0", width=240)  # Adjust as needed
+    folders.column("Path", width=0, stretch=tk.NO)
+    folders.column("Extension", width=60, stretch=tk.NO)
+
+    folders.tag_configure('not_supported', foreground='#cccccc')
+    folders.tag_configure('supported', foreground='#444444')
+    #folders.tag_configure('folder', foreground='#6666cc')
+    bold_font = tkFont.Font( weight="bold")
+    folders.tag_configure('bold', font=bold_font)
+
+    # Default tag with normal background
+    folders.tag_configure('normal', background='white')
+
+    folders.tag_configure('hover', background='#f4f4f4')
+    style = ttk.Style()
+    #style.configure('TNotebook.Tab', padding=[10,10,10,10])  # Adjust these values as needed
+
+    style.configure("Treeview", rowheight=30)  # Increase the row height
+    style.configure("Treeview.Item", padding=(3, 4, 3, 4))  # Top and bottom padding
+    #bold_font = ('Arial', 10, 'bold')
+    #style.configure("Treeview", font=bold_font)
+
     
-    for k in character_map:
-        popup_character_list_table.insert('', 'end', text=k, values=[k])
-
-    currentMergePopupTable=popup_character_list_table
-
-
-    # Frame to control the size of the button
-    button_frame = tk.Frame(popup, height=40)  # Set the height to 40 pixels
-    button_frame.pack(fill='x')  # Fill frame horizontally
-    button_frame.pack_propagate(False)  # Prevent frame from resizing to fit contents
-
-    close_btn = tk.Button(button_frame, text="Merge", command=merge_with)
-    close_btn.pack(fill='x',expand=True)
+    folders.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
+    folders.bind('<<TreeviewSelect>>', on_treeview_folder_select)
+    folders.bind("<<TreeviewOpen>>", on_folder_open)
+    # Bind motion event
+    folders.bind('<Motion>', on_motion)
+    folders.bind('<Leave>', on_leave)
+    folders.bind('<Button-1>', toggle_folder)
 
 
-#disabled_character_list_table = ttk.Treeview(export_tab, columns=('Character'), show='headings')
-# Define the column headings
-#disabled_character_list_table.heading('Character', text='Character')
+        
+    folders.bind('<Button-3>', on_right_click)  # Right click on Windows/Linux
+    folders.bind('<Button-2>', on_right_click) 
 
-# Define the column width and alignment
-#disabled_character_list_table.column('Character', width=50, anchor='w')
+    # Notebook (tabbed interface)
+    notebook = ttk.Notebook(right_frame)
+    notebook.pack(fill=tk.BOTH, expand=True, padx=0, pady=0)
 
-# Pack the Treeview widget with enough space
-#disabled_character_list_table.pack(fill='both',expand=True)
+    # Configure the style of the tab
+    fontsize=14
+    if platform.system() == 'Windows':
+        style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
+    #style.configure('TNotebook.Tab', background='#f0f0f0', padding=(5, 3), font=('Helvetica', fontsize))
+    # Configure the tab area (optional, for better Windows look)
+    style.configure('TNotebook', tabposition='nw', background='#f0f0f0')
+    style.configure('TNotebook', padding=0)  # Removes padding around the tab area
 
-
-
-
-
-
-
-
-
-
-
-notebook.add(tab_export, text='Export',image=export_icon, compound=tk.LEFT)
+    #def on_tab_selected(event):
+        #myprint2("Tab selected:", event.widget.select())
 
 
-logging.debug("Launch")
+    #notebook.bind("<<NotebookTabChanged>>", on_tab_selected)
+    # File preview tab
+    tab_import = ttk.Frame(notebook)
 
-currentScriptFolder=settings['SCRIPT_FOLDER']
-if currentScriptFolder=="":
-    currentScriptFolder=os.getcwd()
-load_tree("",currentScriptFolder)
+    notebook.add(tab_import, text='Tables Word',image=import_icon, compound=tk.LEFT)
+
+    tab_import_pdf = ttk.Frame(notebook)
+    #pdf_viewer = PDFViewer(tab_import_pdf, file_path)
+    # Set the initial page number
+    #current_page = 10
+    #go_to_page(current_page)
+
+    notebook.add(tab_import_pdf, text='Extracteur de dialogue PDF',image=import_icon, compound=tk.LEFT)
 
 
-center_window()  # Center the window
-app.title('Scripti')
-app.wm_title = " Your title name "
-app.mainloop()
+    # Create a frame for the 'Texte' tab
+    tab_text = ttk.Frame(notebook)
+    notebook.add(tab_text, text='Texte')
+
+    # Create a Text widget with vertical and horizontal scrollbars
+    text_frame = ttk.Frame(tab_text, borderwidth=0,relief=tk.FLAT,)
+    text_frame.pack(fill=tk.BOTH, expand=True)
+
+    # Create vertical scrollbar
+    v_scroll = ttk.Scrollbar(text_frame, orient=tk.VERTICAL)
+    v_scroll.pack(side=tk.RIGHT, fill=tk.Y)
+
+    # Create horizontal scrollbar
+    h_scroll = ttk.Scrollbar(text_frame, orient=tk.HORIZONTAL)
+    h_scroll.pack(side=tk.BOTTOM, fill=tk.X)
+
+    # Create Text widget
+    file_preview = tk.Text(text_frame, wrap=tk.NONE, 
+                        yscrollcommand=v_scroll.set, 
+                        xscrollcommand=h_scroll.set,relief=tk.FLAT, borderwidth=0)
+    file_preview.pack(fill=tk.BOTH, expand=True)
+
+    # Configure scrollbars to work with the Text widget
+    v_scroll.config(command=file_preview.yview)
+    h_scroll.config(command=file_preview.xview)
+
+    # Statistics tab
+    tab_characters = ttk.Frame(notebook)
+
+    def merge_together():
+        myprint7("merge")
+
+    #btn_merge = ttk.Button(tab_characters, text="Fusionner ...", command=merge_together)
+    #btn_merge.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+    # Create a Treeview widget within the stats_frame for the table
+
+
+    character_table = ttk.Treeview(tab_characters, columns=('Order', 'Character','Status', 'Characters','Lines'), show='headings', selectmode='none')
+    #character_table = ttk.Treeview(character_tab, columns=('Order', 'Character', 'Lines','Characters','Words','Blocks (50)','Scenes'), show='headings')
+    # Define the column headings
+    character_table.heading('Order', text='Order')
+    character_table.heading('Character', text='Personnage')
+    character_table.heading('Status', text='Status')
+    #character_table.heading('Lines', text='Lines')
+    character_table.heading('Characters', text='Caractères')
+    #character_table.heading('Words', text='Words')
+    character_table.heading('Lines', text='Lignes')
+    #character_table.heading('Blocks (40)', text='Blocks (40)')
+    #character_table.heading('Scenes', text='Scènes')
+
+    # Define the column width and alignment
+    character_table.column('Order', width=25, anchor='center')
+    character_table.column('Character', width=200, anchor='w')
+    character_table.column('Status', width=50, anchor='w')
+    #character_table.column('Lines', width=50, anchor='w')
+    character_table.column('Characters', width=50, anchor='w')
+    #character_table.column('Words', width=50, anchor='w')
+    character_table.column('Lines', width=50, anchor='w')
+    #character_table.column('Scenes', width=50, anchor='w')
+
+    # Pack the Treeview widget with enough space
+    character_table.pack(fill='both', expand=True)
+    notebook.add(tab_characters, text='Personnages',image=char_icon, compound=tk.LEFT)
+
+    character_table.tag_configure('hidden', foreground='#999999')
+    character_table.tag_configure('grouped', foreground='#000000',background='#995555')
+    character_table.bind('<Button-3>', on_character_table_click)  # Right click on Windows/Linux
+    character_table.bind('<Button-2>', on_character_table_click) 
+    character_table.bind('<Button-1>', on_character_table_click) 
+
+
+
+
+
+
+
+
+
+
+
+
+    breakdown_tab = ttk.Frame(notebook)
+    # Create a Treeview widget within the stats_frame for the table
+    breakdown_table = ttk.Treeview(breakdown_tab, columns=('Line', 'Type', 'Character','Text'), show='headings')
+    # Define the column headings
+    breakdown_table.heading('Line', text='Ligne')
+    breakdown_table.heading('Type', text='Type')
+    breakdown_table.heading('Character', text='Personnage')
+    breakdown_table.heading('Text', text='Dialogue')
+
+    # Define the column width and alignment
+    breakdown_table.column('Line', width=25, anchor='w')
+    breakdown_table.column('Type', width=25, anchor='w')
+    breakdown_table.column('Character', width=50, anchor='w')
+    breakdown_table.column('Text', width=200, anchor='w')
+    # Pack the Treeview widget with enough space
+    breakdown_table.pack(fill='both', expand=True)
+    # Configure the tag to change the background color
+    breakdown_table.tag_configure('nonspeech', background='#fafafa')
+    breakdown_table.tag_configure('scene', background='#fffec8')
+    bold_font = tkFont.Font( weight="bold")
+    breakdown_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
+    breakdown_table.tag_configure('bold', font=bold_font)
+    #notebook.add(breakdown_tab, text='Scenes',image=scene_icon, compound=tk.LEFT)
+            
+
+
+
+
+
+
+
+
+
+
+
+    tab_dialog = ttk.Frame(notebook)
+    # Create a Treeview widget within the stats_frame for the table
+    stats_table = ttk.Treeview(tab_dialog, columns=('Line number',  'Character','Text','Characters'), show='headings')
+    # Define the column headings
+    stats_table.heading('Line number', text='Ligne')
+    stats_table.heading('Character', text='Personnage')
+    stats_table.heading('Text', text='Dialogue')
+    stats_table.heading('Characters', text='Caractères')
+
+    # Define the column width and alignment
+    stats_table.column('Line number', width=25, anchor='center')
+    stats_table.column('Character', width=100, anchor='w')
+    stats_table.column('Text', width=200, anchor='w')
+    stats_table.column('Characters', width=50, anchor='w')
+
+    # Pack the Treeview widget with enough space
+    stats_table.pack(fill='both', expand=True)
+    # Configure the tag to change the background color
+    stats_table.tag_configure('nonspeech', background='#fafafa')
+    stats_table.tag_configure('scene', background='#fffec8')
+    bold_font = tkFont.Font( weight="bold")
+    stats_table.tag_configure('border', background='#444444')  # A lighter shade to simulate space
+    stats_table.tag_configure('bold', font=bold_font)
+
+    notebook.add(tab_dialog, text="Dialogue dans l'ordre",image=chat_icon, compound=tk.LEFT)
+
+
+    # Statistics tab
+    tab_dialog_by_character = ttk.Frame(notebook)
+
+    # Create a Treeview widget within the stats_frame for the table
+    cols=('Line #', 'Character','Character (raw)','Line')
+    for i in countingMethods:
+        cols= cols+(countingMethodNames[i],)
+
+    style.configure('CleftPanel.TFrame', background='#fafafa')
+    style.configure('CrightPanel.TFrame', background='#fafafa')
+
+
+    # Create left and right frames (panels) inside the tab
+    cleft_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat", width=200)
+    cright_panel = ttk.Frame(tab_dialog_by_character, borderwidth=0, relief="flat")
+
+    cleft_panel.configure(style='CleftPanel.TFrame')  # Apply the styled background
+    cright_panel.configure(style='CrightPanel.TFrame')  # Apply the styled background
+
+    # Pack the frames into the tab
+    #cleft_panel.pack(side='left', fill='y', padx=(0, 20))
+    #cright_panel.pack(side='right', fill='y', expand=True)
+
+    # Configure column weights to make right panel flexible
+    tab_dialog_by_character.grid_columnconfigure(1, weight=1)
+    tab_dialog_by_character.grid_rowconfigure(0, weight=1)
+
+
+    character_list_table = ttk.Treeview(cleft_panel, columns=('Character'), show='headings')
+    # Define the column headings
+    character_list_table.heading('Character', text='Personnage')
+    # Define the column width and alignment
+    character_list_table.column('Character', width=50, anchor='w')
+    # Pack the Treeview widget with enough space
+    character_list_table.pack(fill='both', expand=True)
+
+    # Grid frames with padding
+    cleft_panel.grid(row=0, column=0, sticky='nsew', padx=(0, 10))  # Add padding on the right side of left panel
+    cright_panel.grid(row=0, column=1, sticky='nsew')  # Automatically spaced by the left panel's padding
+
+    # Configure column weights to make right panel flexible
+    tab_dialog_by_character.grid_columnconfigure(0, weight=0, minsize=200)  # Set minimum size for the left panel
+    tab_dialog_by_character.grid_columnconfigure(1, weight=1) 
+    tab_dialog_by_character.grid_rowconfigure(0, weight=1)
+
+    character_list_table.bind('<ButtonRelease-1>', on_item_selected)
+
+
+
+    character_stats_table = ttk.Treeview(cright_panel, columns=cols, show='headings')
+    # Define the column headings
+    character_stats_table.heading('Line #', text='Ligne #')
+    character_stats_table.heading('Character', text='Personnage')
+    character_stats_table.heading('Character (raw)', text='Personnage (brut)')
+    character_stats_table.heading('Line', text='Réplique')
+    for i in countingMethods:
+        character_stats_table.heading(countingMethodNames[i], text=countingMethodNames[i])
+
+
+    # Define the column width and alignment
+    character_stats_table.column('Line #', width=25, anchor='center')
+    character_stats_table.column('Character',  anchor='w', width=0, stretch=tk.NO)
+    character_stats_table.column('Character (raw)',anchor='w', width=0, stretch=tk.NO)
+    character_stats_table.column('Line', width=100, anchor='w')
+    for i in countingMethods:
+        character_stats_table.column(countingMethodNames[i], width=25, anchor='w')
+
+    # Pack the Treeview widget with enough space
+    character_stats_table.pack(fill='both', expand=True)
+    character_stats_table.tag_configure('total', background='#444444',foreground="#ffffff")
+
+    notebook.add(tab_dialog_by_character, text='Répliques par personnage',image=chat_icon, compound=tk.LEFT)
+
+    ################################################################################
+    tab_export = ttk.Frame(notebook)
+    # Load folder button
+    load_button = ttk.Button(tab_export, text="Ouvrir le dossier de résultats...", command=open_result_folder)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+    load_button = ttk.Button(tab_export, text="Ouvrir le fichier de conversion ...", command=open_conversion_file)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+    load_button = ttk.Button(tab_export, text="Test ...", command=hide_importtable_tab)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+    #load_buttonb = ttk.Button(export_tab, text="Show loading ", command=show_loading)
+    #load_buttonb.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+    # Load folder button
+    load_button = ttk.Button(tab_export, text="Ouvrir le comptage .xlsx...", command=open_xlsx_recap)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+    load_button = ttk.Button(tab_export, text="Ouvrir le détail du dialogue...", command=open_dialog_recap)
+    load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
+
+
+
+
+
+
+
+    ################################################################################
+
+
+
+    notebook.add(tab_export, text='Export',image=export_icon, compound=tk.LEFT)
+
+
+    logging.debug("Launch")
+
+    currentScriptFolder=settings['SCRIPT_FOLDER']
+    load_tree("",currentScriptFolder)
+
+
+    center_window()  # Center the window
+    app.title('Scripti')
+    app.wm_title = " Your title name "
+    app.mainloop()
+except Exception as e:
+    print(f"Error initializing Tkinter: {e}")
+    traceback.print_exc()

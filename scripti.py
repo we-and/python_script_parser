@@ -484,7 +484,11 @@ def runJob(file_path,method,params={}):
                     file_preview.text_widget.insert(tk.END, content)
                     
                 myprint7(f" > Process, ignoring {currentConvertedFileIgnoreBeginning}  {currentConvertedFileIgnoreEnd}")
-                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc,"",{},currentConvertedFileIgnoreBeginning,currentConvertedFileIgnoreEnd)
+                res=            process_script(file_path,currentOutputFolder,name,method,enc,"",{},currentConvertedFileIgnoreBeginning,currentConvertedFileIgnoreEnd)
+                if res==None:
+                    return
+                
+                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=res
                 myprint7(" > Processed")
 
                 if breakdown==None:
@@ -509,7 +513,7 @@ def runJob(file_path,method,params={}):
             hide_loading()
 
         except Exception as e:
-            myprint7(f"Error opening file: {e} tried with encoding{ enc}")
+            myprint7(f"Error opening file: {e} tried with encoding={ enc}")
             file_preview.text_widget.delete(1.0, tk.END)
             file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
             hide_loading()
@@ -2398,7 +2402,7 @@ class PDFViewer:
         self.canvas.delete("all")
 #        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
 
-        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
+        self.pdf_mode,self.text_elements,self.page_split_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
         
         x1=self.left_threshold
         x2=self.canvas_width-self.right_threshold
@@ -2410,24 +2414,24 @@ class PDFViewer:
         myprint7("run split with left={x1} top={y1} right={x2} bottom={y2} ")
         self.redraw()
 
+    pdf_mode=None
 
 
-
-    def display_page_pdfium(self, page_number):
-        # Render the page as an image
-        myprint7("pdf8"+str(page_number))
-        page = self.pdf_document.pages[page_number]
-        myprint7("pdf8a")
-        myprint7("pdf8a uses pdfium")
-        if self.show_preview:
+    # def display_page_pdfium(self, page_number):
+    #     # Render the page as an image
+    #     myprint7("pdf8"+str(page_number))
+    #     page = self.pdf_document.pages[page_number]
+    #     myprint7("pdf8a")
+    #     myprint7("pdf8a uses pdfium")
+    #     if self.show_preview:
             
-            image = page.to_image(resolution=150,)
-            myprint7("pdf8b")
-            img = image#Image.open(io.BytesIO(image.original))
-            img.save("pdfpreview.png")
-            myprint7("pdf8c")
+    #         image = page.to_image(resolution=150,)
+    #         myprint7("pdf8b")
+    #         img = image#Image.open(io.BytesIO(image.original))
+    #         img.save("pdfpreview.png")
+    #         myprint7("pdf8c")
 
-        app.after(100, self.display_page_2_scale)
+    #     app.after(100, self.display_page_2_scale)
 
 
     def draw_vertical_line(self, x):
@@ -2477,6 +2481,50 @@ class PDFViewer:
     def margin_to_positiony2(self,x):
         return self.canvas_height+ self.top_offset - x
 
+    def group_words_into_lines(self, words, y_tolerance=3):
+        #myprint7("group_words_into_lines")
+        myprint7(f"group_words_into_lines N input ={len(words)}")
+        
+        # Dictionary to hold words grouped by their y position
+        lines_map = {}
+        
+        for word in sorted(words, key=lambda w: (w['bbox'][1], w['bbox'][0])):
+            text = word['text']
+            x0, y0, x1, y1 = word['bbox']
+
+            # Find the appropriate y position group
+            added = False
+            for y in list(lines_map.keys()):
+                if abs(y - y0) <= y_tolerance:
+                    lines_map[y].append(word)
+                    added = True
+                    break
+            
+            if not added:
+                lines_map[y0] = [word]
+        
+  
+        myprint7(f"group_words_into_lines 1 map={lines_map.keys()}")
+        for idx,k in enumerate(lines_map):
+            myprint7(f"{idx} : {k} {lines_map[k]}")
+
+        # Merge the words in the map and output as a sorted list of lines
+
+        lines = []
+        for y in sorted(lines_map.keys()):
+            sorted_line = sorted(lines_map[y], key=lambda w: w['bbox'][0])
+            full_text = ' '.join([word['text'] for word in sorted_line])
+            bbox = sorted_line[0]['bbox']
+            lines.append({
+                'text': full_text,
+                'bbox': bbox
+            })
+        myprint7(f"group_words_into_lines 1 done")
+
+     #   myprint7(f"group_words_into_lines N out ={len(lines)}")
+      #  myprint7(f"group_words_into_lines res={lines}")
+     #   myprint7(f"group_words_into_lines map={lines_map}")
+        return lines
 
     def redraw(self):
         self.canvas.delete("all")
@@ -2493,6 +2541,7 @@ class PDFViewer:
         res=split_elements(self.text_elements,x1,y1,x2,y2)
 
 
+
         left=res['left']
         center=res['center']
         right=res['right']
@@ -2501,6 +2550,12 @@ class PDFViewer:
         self.centered_blocks=center
         left_margin=self.left_offset
         
+        if self.pdf_mode=="TABLE":
+#            myprint7("TABLE CENTER group "+str(res))
+ #           myprint7("TABLE CENTER group "+str(self.centered_blocks))
+            
+            center=self.group_words_into_lines(self.centered_blocks,3)
+
         #blue
         self.canvas.create_rectangle(0,0,self.canvas_width,self.canvas_height, outline="#cccccc", width=2,fill="#cccccc")
 
@@ -2537,51 +2592,52 @@ class PDFViewer:
         #myprint7("res"+str(x0)+ " "+str(y0)+ " "+str(x1)+ " "+str(y1)+ " ")
 
         # Draw the rectangle on the canvas
-        self.canvas.create_rectangle(x0, y0, x1, y1, outline=color, width=2,fill=fillcolor)
-        self.canvas.create_text(x0,y1-12,text=text, fill=color, font=("Courier", 12, "normal"), anchor=tk.NW)
+        self.canvas.create_rectangle(x0, y0, x1, y1, outline=color, width=1,fill=fillcolor)
+        self.canvas.create_text(x0,y1-7,text=text, fill=color, font=("Courier", 11, "normal"), anchor=tk.NW)
         
-    def display_page_2_scale(self):
-        notebook.select(1)
-        app.update_idletasks()
-        if self.show_preview:
-            nimg = Image.open("pdfpreview.png")
-            # Get the dimensions of the image and the canvas
-            img_width, img_height = nimg.size
+    # def display_page_2_scale(self):
+    #     notebook.select(1)
+    #     app.update_idletasks()
+    #     if self.show_preview:
+    #         nimg = Image.open("pdfpreview.png")
+    #         # Get the dimensions of the image and the canvas
+    #         img_width, img_height = nimg.size
 
-            canvasframe_width = self.canvas_frame.winfo_width()
-            canvasframe_height = self.canvas_frame.winfo_height()
-            new_width=canvasframe_height/img_height*img_width
-            myprint7(f"RESIZE TO  {new_width} x {canvasframe_height}")
-            self.canvas.config(width=new_width, height=canvasframe_height)
+    #         canvasframe_width = self.canvas_frame.winfo_width()
+    #         canvasframe_height = self.canvas_frame.winfo_height()
+    #         new_width=canvasframe_height/img_height*img_width
+    #         myprint7(f"RESIZE TO  {new_width} x {canvasframe_height}")
+    #         self.canvas.config(width=new_width, height=canvasframe_height)
 
-            canvas_width = new_width# self.canvas.winfo_width()
-            canvas_height = canvasframe_height# self.canvas.winfo_height()
-            myprint7(f"CANVAS   {canvas_width} y= {canvas_height}")
+    #         canvas_width = new_width# self.canvas.winfo_width()
+    #         canvas_height = canvasframe_height# self.canvas.winfo_height()
+    #         myprint7(f"CANVAS   {canvas_width} y= {canvas_height}")
             
-            self.canvas_height=canvas_height
-            self.canvas_width=canvas_width
-            # Calculate the scaling factor
-            scale_factor = min(canvas_width / img_width, canvas_height / img_height)
-            self.scale=scale_factor
-            # Scale the image
-            scaled_width = int(img_width * scale_factor)
-            scaled_height = int(img_height * scale_factor)
-            myprint7(f"img_width     {img_width}")
-            myprint7(f"img_height    {img_height}")
-            myprint7(f"canvas_height {canvas_height}")
-            myprint7(f"canvas_width  {canvas_width}")
-            myprint7(f"scale_factor  {scale_factor}")
+    #         self.canvas_height=canvas_height
+    #         self.canvas_width=canvas_width
+    #         # Calculate the scaling factor
+    #         scale_factor = min(canvas_width / img_width, canvas_height / img_height)
+    #         self.scale=scale_factor
+    #         # Scale the image
+    #         scaled_width = int(img_width * scale_factor)
+    #         scaled_height = int(img_height * scale_factor)
+    #         myprint7(f"img_width     {img_width}")
+    #         myprint7(f"img_height    {img_height}")
+    #         myprint7(f"canvas_height {canvas_height}")
+    #         myprint7(f"canvas_width  {canvas_width}")
+    #         myprint7(f"scale_factor  {scale_factor}")
 
-            myprint7(f"scaled_width  {scaled_width}")
-            myprint7(f"scaled_height {scaled_height}")
-            scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
-            scaled_img.save("pdfpreview_scaled.png")
-        app.after(100, self.display_page_3_open_preview)
+    #         myprint7(f"scaled_width  {scaled_width}")
+    #         myprint7(f"scaled_height {scaled_height}")
+    #         scaled_img = nimg.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
+    #         scaled_img.save("pdfpreview_scaled.png")
+    #     app.after(100, self.display_page_3_open_preview)
 
     def get_first_page(self):
         return int(self.input_firstpage.get())
     def get_last_page(self):
         return int(self.input_lastpage.get())
+    page_split_elements=[]
     def run_elements(self):
         myprint7("RUN PDF")
         global currentFilePath
@@ -2599,7 +2655,7 @@ class PDFViewer:
         global currentPDFPages
         global currentPDFPageIdx
 
-        self.all_text_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
+        self.pdf_mode,self.all_text_elements,self.page_split_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
         myprint7("all blocks: "+str(len(self.all_text_elements)))
         
 
@@ -2610,10 +2666,38 @@ class PDFViewer:
         x2=self.pdf_page_width-self.right_threshold
         y1=self.pdf_page_height-self.top_threshold
         
+        if self.pdf_mode=="TABLE":
+            myprint7("MERGE_PAGE_WORDS")
+            line_merged_elements=[]
+            for k in self.page_split_elements:
+                res=split_elements(k,x1,y1,x2,y2)
+                
+                grouped=self.group_words_into_lines(res['center'],3)
+                grouped = sorted(grouped, key=lambda x: x['bbox'][1], reverse=True)
 
-        res=split_elements(self.all_text_elements,x1,y1,x2,y2)
-        self.all_centered_blocks=res['center'];
+                line_merged_elements.extend(grouped)
+            self.all_centered_blocks=line_merged_elements
+        else:
+
+ #           myprint7("TABLE CENTER group "+str(res))
+  #          myprint7("TABLE CENTER group "+str(self.all_centered_blocks))
+            
+   #         self.all_centered_blocks=self.group_words_into_lines(self.all_centered_blocks,3)
+    #        myprint7("TABLE CENTER group after "+str(self.all_centered_blocks))
+
+
+
+            res=split_elements(self.all_text_elements,x1,y1,x2,y2)
+            self.all_centered_blocks=res['center'];
         
+#        if self.pdf_mode=="TABLE":
+ #           myprint7("TABLE CENTER group "+str(res))
+  #          myprint7("TABLE CENTER group "+str(self.all_centered_blocks))
+            
+   #         self.all_centered_blocks=self.group_words_into_lines(self.all_centered_blocks,3)
+    #        myprint7("TABLE CENTER group after "+str(self.all_centered_blocks))
+
+
         myprint7("centered blocks: "+str(len(self.all_centered_blocks)))
         converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
         myprint7("converted "+str(converted_file_path))
@@ -2751,31 +2835,31 @@ class PDFViewer:
         #         currentResultSceneCharacterMap=scene_characters_map
         #         postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
                 
-    def display_page_3_open_preview(self):
-        if self.show_preview:
-            nimg = Image.open("pdfpreview_scaled.png")
+#     def display_page_3_open_preview(self):
+#         if self.show_preview:
+#             nimg = Image.open("pdfpreview_scaled.png")
             
-        if self.show_preview:    
-            nimg_tk = ImageTk.PhotoImage(nimg)
-            self.current_image = nimg_tk
+#         if self.show_preview:    
+#             nimg_tk = ImageTk.PhotoImage(nimg)
+#             self.current_image = nimg_tk
         
-        myprint7("pdf8d")
+#         myprint7("pdf8d")
 
-        # Clear the canvas and display the image
-        self.canvas.delete("all")
-#        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
+#         # Clear the canvas and display the image
+#         self.canvas.delete("all")
+# #        self.canvas.create_image(0, 0, anchor=tk.NW, image=nimg_tk)
 
-        self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
+#         self.text_elements=get_pdf_text_elements(self.file_path,self.page_number,self.get_first_page(),self.get_last_page(),self.progress_bar)
         
-        x1=self.left_threshold
-        x2=self.canvas_width-self.right_threshold
-        y1=self.canvas_height-self.top_threshold
-        y2=self.bottom_threshold
-        x2=self.pdf_page_width-self.right_threshold
-        y1=self.pdf_page_height-self.top_threshold
+#         x1=self.left_threshold
+#         x2=self.canvas_width-self.right_threshold
+#         y1=self.canvas_height-self.top_threshold
+#         y2=self.bottom_threshold
+#         x2=self.pdf_page_width-self.right_threshold
+#         y1=self.pdf_page_height-self.top_threshold
 
-        myprint7("run split with left={x1} top={y1} right={x2} bottom={y2} ")
-        self.redraw()
+#         myprint7("run split with left={x1} top={y1} right={x2} bottom={y2} ")
+#         self.redraw()
        
     def draw_lines(self):
         myprint7(f"Draw {self.left_offset+ self.right_slider.get()*self.scale} {self.left_offset+self.left_slider.get()*self.scale} {self.canvas_height-self.top_slider.get()*self.scale} {self.canvas_height- self.bottom_slider.get()*self.scale}")

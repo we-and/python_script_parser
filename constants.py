@@ -1,0 +1,26 @@
+action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
+
+characterSeparators=[
+        "CHARACTER_SEMICOL_TAB",
+        "CHARACTER_TAB",
+        "CHARACTER_SPACES",
+                "CHARACTERUPPERCASE_DIALOG"
+,        "CHARACTER_SEMICOL_DIALOG",
+
+]
+multilineCharacterSeparators=[
+        "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE",
+        "TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE",
+        "LINE_NEWLINE_TIMECODES_NEWLINE_TEXT_ITAG",
+        "TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOG_NEWLINE"
+        "TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG"
+        
+]
+countMethods=[
+    "ALL",
+    "ALL_NOSPACE"
+    "ALL_NOPUNC",
+    "ALL_NOSPACE_NOPUNC",
+    "ALL_NOAPOS",
+    
+]

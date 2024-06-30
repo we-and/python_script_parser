@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the variable for the Nuitka distribution directory
-NUITKA_DIST_DIR="nuitka_dist116_one/arm"
+NUITKA_DIST_DIR="nuitka_dist122_one/arm"
 APP_NAME="scripti"
 APP_BUNDLE="$NUITKA_DIST_DIR/$APP_NAME.app"
 DMG_NAME="scripti52.dmg"
@@ -21,7 +21,7 @@ python3 -m nuitka  --onefile --standalone --macos-create-app-bundle  --follow-im
 
 cd $NUITKA_DIST_DIR
 ditto -c -k --sequesterRsrc --keepParent scripti.app scripti_arm.zip
-xcrun notarytool submit scripti_arm.zip --keychain-profile "notarytool-credentials"
+xcrun notarytool submit scripti_arm.zip --keychain-profile "notarytool-credentials" --wait 
 
 
 # Sign the application bundle

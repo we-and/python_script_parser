@@ -15,6 +15,9 @@ from utils import get_log_file_path
 import pdfplumber
 import logging
 import chardet
+from utils_parser import count_nonempty_lines_in_file,matches_number_parenthesis_timecode,extract_scene_name,is_scene_line,isSeparatorEmptyLinesTimecode,isSeparatorNameParenthesisTimecode,isSeparatorParenthesisNameTimecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,extract_matches,matches_scenestart_sceneno,count_lines_in_file,count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE,count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE,count_subtitle_pattern,getCharacterSepType,extract_scene_name1,extract_scene_name2,extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_DIALOG,remove_parentheses_contents,extract_character_name,ensure_dialog_starts_with_uppercase,extract_charactername_CHARACTERUPPERCASE_DIALOG,extract_charactername_CHARACTERUPPERCASE_DIALOG_regex,extract_charactername_NAME_ATLEAST1TAB_TEXT,extract_charactername_NAME_ATLEAST8SPACES_TEXT,extract_charactername_NAME_SEMICOLON_DIALOG,extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,extract_speech,extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,is_character_speaking,is_matching_character_speaking,getSceneSeparator,detectCharacterSeparator,matches_CHARACTERUPPERCASE_DIALOG,matches_charactername_NAME_SEMICOLON_DIALOG,countMethods
+from  constants import action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
+
 
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
@@ -30,51 +33,12 @@ app_log_path=get_log_file_path()
 logging.basicConfig(filename=app_log_path,level=logging.DEBUG,encoding='utf-8',filemode='w')
 logging.debug("Script starting...")
 
-if False:
-    class UTFStreamHandler(object):
-        def __init__(self, stream):
-            self.stream = stream
 
-        def write(self, data):
-            if not isinstance(data, str):
-                data = str(data)
-            self.stream.buffer.write(data.encode('utf-8'))
-            self.stream.buffer.flush()
-
-        def flush(self):
-            self.stream.flush()
-
-    # Only replace sys.stdout if it's not already wrapped
-    if not isinstance(sys.stdout, io.TextIOWrapper) or sys.stdout.encoding.lower() != 'utf-8':
-        sys.stdout = UTFStreamHandler(sys.stdout)
-
-#sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def myprint1(s):
     logging.debug(s)
     #myprint1(s)
 
-
-action_verbs = ["says", "asks", "whispers", "shouts", "murmurs", "exclaims"]
-
-
-characterSeparators=[
-        "CHARACTER_SEMICOL_TAB",
-        "CHARACTER_TAB",
-        "CHARACTER_SPACES"
-]
-multilineCharacterSeparators=[
-        "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE",
-        "TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE"
-]
-countMethods=[
-    "ALL",
-    "ALL_NOSPACE"
-    "ALL_NOPUNC",
-    "ALL_NOSPACE_NOPUNC",
-    "ALL_NOAPOS",
-    
-]
 
 
 #################################################################
@@ -88,16 +52,25 @@ def detect_file_encoding(file_path):
 
 def test_encoding(script_path):
     encodings=['windows-1252', 'iso-8859-1', 'utf-16','ascii','utf-8']
+    res={}
+    firstok=None
     for enc in encodings:
+        myprint1("  > Try encoding  : "+enc)
         try:
             with open(script_path, 'r', encoding=enc) as file:
                 myprint1("  > Testing encoding  : "+enc)
-
                 for line in file:
                     line = line.strip()  # Remove any leading/trailing whitespace
+            res[enc]=True
+            if firstok==None:
+                firstok=enc
             return enc
         except UnicodeDecodeError:
             myprint1(f"  > Failed decoding with {enc}")
+            res[enc]=False
+    myprint1("Res="+str(res))
+    if firstok!=None:
+        return firstok
     return "?"    
 
 
@@ -106,371 +79,12 @@ def test_encoding(script_path):
 
 
 
-
-#################################################################
-# SCENE SEPARATOR
-def matches_format_parenthesis_name_timecode(line):
-    """Checks if the line matches the specified timecode format."""
-    # Regex pattern to match lines that start with '(', include a '-', have a timecode, and end with ')'
-    pattern = re.compile(r"\([^\)]*-\s*\d{2}:\d{2}:\d{2}:\d{2}\)$")
-    return bool(re.search(pattern, line))
-
-def matches_number_parenthesis_timecode(line):
-    """Checks if the given line matches the specified format of 'number (timecode)'."""
-    pattern = re.compile(r"^\d+\s+\(\d{2}:\d{2}:\d{2}:\d{2}\)$")
-    return bool(re.match(pattern, line))
-
-def extract_scene_name2(line):
-    """Extracts the scene name or identifier from a line, which is the part before the first parenthesis."""
-    # Split the line at the first space or parenthesis
-    parts = line.split(' (', 1)  # Splits the string at the first occurrence of ' ('
-    if parts:
-        return parts[0].strip()  # Return the first part, stripping any extra whitespace
-    return None 
-def matches_scenestart_sceneno(line):
-    return line.startswith("SCENE NO") or line.startswith("CENE NO") or line.startswith("ESCENA NO")
- 
-def is_scene_line(line):
-    isSceneLine=matches_format_parenthesis_name_timecode(line) or matches_number_parenthesis_timecode(line) or matches_scenestart_sceneno(line)
-    #myprint1("IsScene    "+str(isSceneLine)+" "+line)
-    return isSceneLine
-
-def extract_scene_name1(line):
-    """Extracts the scene name from a line formatted with timecode."""
-    # Regex pattern to capture text between the opening parenthesis and the dash
-    pattern = re.compile(r"\(([^-]*)")
-    match = re.search(pattern, line)
-    if match:
-        # Strip any leading/trailing whitespace from the captured group
-        return match.group(1).strip()
-    return None  # Return None if no match is found or the format is incorrect
-
-def extract_scene_name(line,scene_separator,current_scene_count):
-    if scene_separator=="NAME_PARENTHESIS_TIMECODE"  :
-        if matches_number_parenthesis_timecode(line):
-            return extract_scene_name2(line)
-    elif  scene_separator=="PARENTHESIS_NAME_TIMECODE":
-        if matches_format_parenthesis_name_timecode(line):
-            return extract_scene_name1(line)
-    elif scene_separator=="EMPTYLINES_SCENE_SEPARATOR":
-        return "Scene "+str(current_scene_count)
-    elif scene_separator=="SCENENO_INTEXT_LOCATION":
-        return line
-    else:
-        return "?"
-
-def isSeparatorNameParenthesisTimecode(scene_separator):
-    return scene_separator=="NAME_PARENTHESIS_TIMECODE"
-def isSeparatorParenthesisNameTimecode(scene_separator):
-    return scene_separator=="PARENTHESIS_NAME_TIMECODE"
-def isSeparatorEmptyLinesTimecode(scene_separator):
-    return scene_separator=="EMPTYLINES_SCENE_SEPARATOR"
-
-def count_nonempty_lines_in_file(script_path,encod):
-    nLines=0
-    with open(script_path, 'r', encoding=encod) as file:
-        for line in file:
-            line = line.strip()
-            if len(line)>0:
-                nLines=nLines+1
-    return nLines
-
-def count_lines_in_file(script_path,encod):
-    nLines=0
-    with open(script_path, 'r', encoding=encod) as file:
-        for line in file:
-            line = line.strip()
-            nLines=nLines+1
-    return nLines
-
-def extract_matches(file_path,encod):
-    # Define the pattern to match
-    pattern = re.compile(r'^([A-Z\s]+)$\n((?:[^\n]+\n)*?)\n', re.MULTILINE)
-
-    # Read the content of the file
-    with open(file_path, 'r',encoding=encod) as file:
-        content = file.read()
-
-    # Find all occurrences of the pattern
-    matches = pattern.findall(content)
-
-    # Extract the matched groups into a list of dictionaries
-    extracted_data = []
-    for match in matches:
-        uppercase_text = match[0]
-        lines_of_text = match[1].strip()  # Remove trailing newlines
-        extracted_data.append({
-            'character': uppercase_text,
-            'dialog': lines_of_text
-        })
-
-    return extracted_data
-
-def count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(file_path,encod):
-    # Define the pattern to match
-    pattern = re.compile(
-        r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]\n'
-        r'\[\w+\].*\n'
-        r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]'
-    )
-    
-    # Read the content of the file
-    with open(file_path, 'r') as file:
-        content = file.read()
-
-    # Find all occurrences of the pattern
-    matches = pattern.findall(content)
-
-    # Return the number of matches
-    return len(matches)
-
-
-def count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(file_path,encod):
-    # Define the pattern to match
-    pattern = re.compile(r'^[A-Z\s]+$\n([^\n]+\n)*\n', re.MULTILINE)
-
-    # Read the content of the file
-    with open(file_path, 'r',encoding=encod) as file:
-        content = file.read()
-
-    # Find all occurrences of the pattern
-    matches = pattern.findall(content)
-
-    # Return the number of matches
-    return len(matches)
-def getCharacterSepType(character_mode):
-    if character_mode in characterSeparators:
-        return "CHARACTER_MODE_SINGLELINE"
-    if character_mode in multilineCharacterSeparators:
-        return "CHARACTER_MODE_MULTILINE"
-def detectCharacterSeparator(script_path,encod):
-    myprint1("detectCharacterSeparator")
-    best="?"
-    bestVal=0.0
-    nLines=count_nonempty_lines_in_file(script_path,encod)
-    myprint1(f"detectCharacterSeparator nlines={nLines}")
-    for sep in characterSeparators:
-        nMatches=0
-        with open(script_path, 'r', encoding=encod) as file:
-            for line in file:
-                line = line.strip()
-                if len(line)>0:
-                    if sep=="CHARACTER_SEMICOL_TAB":
-                        is_match=matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)
-                        if is_match:
-                            nMatches=nMatches+1
-                    elif sep=="CHARACTER_SPACES":
-                        is_match=matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)
-                        if is_match:
-                            nMatches=nMatches+1
-                    elif sep=="CHARACTER_TAB":
-                        is_match=matches_charactername_NAME_ATLEAST1TAB_TEXT(line)
-                        if is_match:
-                            nMatches=nMatches+1
-        pc=round(100*nMatches/nLines)
-        myprint1("  > Test character sep:"+sep+" " +str(nMatches)+"/"+str(nLines)+" "+str(pc))
-        if pc>bestVal:
-            bestVal=pc
-            best=sep
-
-        bestmatches=-1
-        if best=="?":
-            for sep in multilineCharacterSeparators:
-                if sep == "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE":
-                    nMatches=count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(script_path,encod)
-                elif sep=="TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE":
-                    nMatches=count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(script_path,encod)
-                myprint1("  > Test character sep:"+sep+" " +str(nMatches))
-                if nMatches>bestmatches:
-                    bestmatches=pc
-                    best=sep
-            myprint1(f"detectCharacterSeparator bestmatches= {bestmatches}")
-
-    myprint1(f"detectCharacterSeparator best= {best}")
-    return best
-def getSceneSeparator(script_path,encod):
-    mode="?"
-    # Open the file and process each line
-    
-    with open(script_path, 'r', encoding=encod) as file:
-        for line in file:
-            line = line.strip()  # Remove any leading/trailing whitespace
-            if matches_format_parenthesis_name_timecode(line):
-                myprint1("PARENTHESIS_NAME_TIMECODE")
-                return "PARENTHESIS_NAME_TIMECODE"
-            
-            elif matches_number_parenthesis_timecode(line):
-                myprint1("NAME_PARENTHESIS_TIMECODE")
-                return "NAME_PARENTHESIS_TIMECODE"
-            elif matches_scenestart_sceneno(line):
-                return "SCENENO_INTEXT_LOCATION"
-    if mode=="?":
-        n_sets_of_empty_lines=count_consecutive_empty_lines(script_path,2,encod)
-        #myprint1("check empty lines count"+str(n_sets_of_empty_lines))
-        if n_sets_of_empty_lines>1:
-            myprint1( "Found EMPTYLINES_SCENE_SEPARATOR in "+line)
-            return "EMPTYLINES_SCENE_SEPARATOR"
-
-    return mode    
-
-
-#################################################################
-# CHARACTER SEPARATOR
-def is_matching_character_speaking(line,character_mode):
-    if character_mode=="CHARACTER_TAB":
-        return matches_charactername_NAME_ATLEAST1TAB_TEXT(line)
-    elif character_mode=="CHARACTER_SPACES": 
-        return matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)  
-    elif character_mode=="CHARACTER_SEMICOL_TAB": 
-        return matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
-    else:
-        myprint1("ERROR wrong mode="+character_mode)
-
-
-    """Checks if the line indicates a character speaking."""
-    # Regex pattern to match lines that start with text, followed by a tab, then more text
-    pattern = re.compile(r"^\S+\s+\t.*$")
-    pattern = re.compile(r"^\S+\s*\t.*$")
-
-    return bool(re.match(pattern, line))
-
-def is_character_speaking(line,character_mode):
-    is_match= is_matching_character_speaking(line,character_mode) 
-    if is_match:
-        name= extract_character_name(line,character_mode)
-        return not is_didascalie(name) and not is_ambiance(name)
-    else:
-        return False
-
-
-def extract_speech(line,character_mode,character_name):
-    if character_mode=="CHARACTER_TAB":
-        return line.replace(character_name,"").strip()
-    elif character_mode=="CHARACTER_SPACES": 
-        return line.replace(character_name,"").strip()
-    elif character_mode=="CHARACTER_SEMICOL_TAB": 
-        return extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line,character_name)  
-    else:
-        myprint1("ERROR wrong mode="+str(character_mode))
-        exit()
-
-def extract_character_name(line,character_mode):
-    if character_mode=="CHARACTER_TAB":
-        return extract_charactername_NAME_ATLEAST1TAB_TEXT(line)
-    elif character_mode=="CHARACTER_SPACES": 
-        myprint1("debug")       
-        is_match=matches_charactername_NAME_ATLEAST8SPACES_TEXT(line)
-        myprint1("is_match?"+str(is_match))
-        myprint1("extract "+str(character_mode)+" "+str(line))
-        return extract_charactername_NAME_ATLEAST8SPACES_TEXT(line)  
-    elif character_mode=="CHARACTER_SEMICOL_TAB": 
-        return extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line)  
-    else:
-        myprint1("ERROR wrong mode="+str(character_mode))
-        exit()
-
-def matches_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(text):
-    # Define the regex pattern
-    # ^ starts the match at the beginning of the line
-    # [\w\s]+ matches one or more word characters or spaces to include names with spaces
-    # : matches the literal colon
-    # \s* matches zero or more whitespace characters (spaces or tabs)
-    # \t matches a tab
-    # .+ matches one or more of any character (the text following the tab)
-    # $ ensures the pattern goes to the end of the line
-    pattern = r'^[\w\s]+:\s*\t.+'
-
-    # Use re.match to check if the start of the string matches the pattern
-    if re.match(pattern, text):
-        return True
-    else:
-        return False
-
-
-def matches_charactername_NAME_ATLEAST8SPACES_TEXT(text):
-    #myprint1("test match"+str(text))
-    # Define the regex pattern:
-    # ^ starts the match at the beginning of the line
-    # (.+) matches one or more of any character (the first text block), captured for potential use
-    # {8,} specifies at least 8 spaces
-    # (.+) matches one or more of any character following the spaces (the second text block)
-    #pattern = r'^(.+)\s{8,}(.+)$'
-    pattern = r'^(.+?)\s{8,}(.+)$'
-    # Use re.match to check if the whole string matches the pattern
-    if re.match(pattern, text):
-       # myprint1("is match")
-        return True
-    else:
-        return False
-
-def matches_charactername_NAME_ATLEAST1TAB_TEXT(text):
-    # Define the regex pattern:
-    # ^ starts the match at the beginning of the line
-    # (.+) captures one or more characters as the first part of text
-    # \t+ matches one or more tab characters
-    # (.+) captures one or more characters as the second part of text
-    # $ ensures the match extends to the end of the line
-    pattern = r'^(.+)\t+(.+)$'
-
-    # Use re.match to check if the whole string matches the pattern
-    if re.match(pattern, text):
-        return True
-    else:
-        return False
-def extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line,character_name):
-    right=line.replace(character_name,"")
-    if right.startswith(':'):
-        return right[1:].strip()
-    return right
-def extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT(line):
-    # Define the regex pattern:
-    # ^ asserts the start of the line
-    # ([\w\s]+) captures a group of word characters or spaces which will be the name
-    # : matches the literal colon
-    # \s* matches zero or more spaces
-    # \t matches a literal tab
-    # .+ matches one or more of any characters (the following text)
-    pattern = r'^([\w\s]+):\s*\t.+'
-
-    # Use re.search to find the first occurrence of the pattern
-    match = re.search(pattern, line)
-    if match:
-        res=match.group(1).strip()
-        # Return the first captured group, which is the name, stripping any extra spaces
-        return res
-    else:
-        return None
-
-def extract_charactername_NAME_ATLEAST8SPACES_TEXT(line):
-    """
-    Extracts the first part of the line which is uppercase text,
-    given the line format is uppercase text followed by at least 8 spaces and more text.
-    Returns the uppercase text if the pattern matches, otherwise returns None.
-    """
-    #match = re.match(r"^([A-Z]+)\s{8,}.*$", line)
-    myprint1("extract name"+str(line))
-    pattern = r'^(.+?)\s{8,}(.+)$'
-    match = re.match(pattern, line)
-    
-#    match = re.match(r"^([A-Z ]+)\s{8,}.*$", line)
-    if match:
-        myprint1("is match")
-        return match.group(1).strip()
-    myprint1("no match")
-    return None
-
-def extract_charactername_NAME_ATLEAST1TAB_TEXT(line):
-    """Extracts the character name from a line where the name is followed by a tab and then dialogue."""
-    # Split the line at the first tab character
-    parts = line.split('\t', 1)  # The '1' limits the split to the first occurrence of '\t'
-    if len(parts) > 1:
-        return parts[0].strip()  # Return the first part, stripping any extra whitespace
-    return None  # Return None if no tab is found, indicating an improperly formatted line
-
 #################################################################
 # CHARACTER UTILS
 def is_didascalie(name):
     return name=="DIDASCALIES"
+def is_music(name):
+    return name.startswith("♪")
 def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
@@ -478,6 +92,10 @@ def filter_character_name(line):
         return "ERROR CHAR???"
     if line:
         if line.endswith(':'):
+            line= line[:-1]
+        if line.startswith('-'):
+            line= line[1:]
+        if line.endswith('-'):
             line= line[:-1]
         if "(O.S)" in line:
             line=line.replace("(O.S)","")
@@ -519,6 +137,8 @@ def filter_character_name(line):
         if "(CONT’D" in line:
             line=line.replace("(CONT’D","")    
         line=line.replace("\ufeff","")
+
+        line=remove_parentheses_contents(line)
         if line.endswith(')'):
             line= line[:-1]
     return line.strip()
@@ -589,35 +209,6 @@ def find_first_uppercase_sequence(line):
         return match.group(0)
     return None  # Return None if no uppercase sequence is found
 
-def count_consecutive_empty_lines(file_path, n,encod):
-    """Counts occurrences of exactly n consecutive empty lines in a file."""
-    i=1
-    with open(file_path, 'r', encoding=encod) as file:
-        count_empty = 0
-        occurrences = 0
-        previous_empty = False
-
-        for line in file:
-            # Check if the current line is empty or contains only whitespace
-            if line.strip() == '':
-                count_empty += 1
-                previous_empty = True
-                #myprint1(str(i)+"empty line")
-            else:
-                #myprint1(str(i)+"not empty pre="+str(previous_empty)+" co="+str(count_empty))
-                if previous_empty and count_empty >= n:
-                    occurrences += 1
-                    #myprint1(str(i)+" ADD OCC")
-
-                count_empty = 0
-                previous_empty = False
-            i=i+1
-        # Check at the end of the file if the last lines were empty
-        if count_empty >= n:
-            occurrences += 1
-            #myprint1(str(i)+" ADD OCC")
-
-    return occurrences
 
 
 def sort_dict_values(d):
@@ -643,7 +234,6 @@ def compute_length(line,method):
     else:
         return len(line)
     
-from docx import Document
 
 def read_docx(file_path):
     # Load the document
@@ -661,7 +251,7 @@ def is_supported_extension(ext):
 
 
 def convert_docx_combined_continuity(file,table):
-    myprint1("Conversion mode       : COMBINED_CONTINUITY")
+    myprint1("convert_docx_combined_continuity")
     current_character=""
     mode = "linear"
     titles=[]
@@ -755,6 +345,8 @@ def filter_speech(input):
     s=get_text_without_parentheses(input)
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
+    s=s.replace("<i>","")
+    s=s.replace("</i>","")
     s=s.replace("♪","").replace("Â§","").replace("§","")
     s=s.replace("â€¦ ",".")
     if s.startswith("- "):
@@ -768,6 +360,8 @@ def filter_speech_keepbrackets(input):
     return s
 
 def convert_docx_dialogwithspeakerid(file,table,contentColIdx):
+    
+    myprint1("convert_docx_dialogwithspeakerid")
     idx=1
     row_idx=1
     current_character=""
@@ -855,8 +449,25 @@ def convert_docx_dialogwithspeakerid(file,table,contentColIdx):
             idx=idx+1
             myprint1(">>>>>>>>>>> "+s)
 
+def convert_docx_combined(file,table,bothCol):
+    myprint1(f"convert_docx_combined {bothCol}")
+    idx=1
+    row_idx=1
+    
+    for row in table.rows[1:]:
+            row_idx=row_idx+1
+            s=row.cells[bothCol].text.strip()      
+            lines=s.split("\n")
+            for k in lines:  
+                k=k.strip()
+                if len(k)>0:
+                    myprint1(f"convert_docx_combined s='{k}'")
+                    file.write(k+"\n")
+            idx=idx+1
+            myprint1(">>>>>>>>>>> "+s)
+
 def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
-    myprint1("Conversion mode       : SCENEDESCRIPTION")
+    myprint1("convert_docx_scenedescription")
     current_character=""
     idx=1
     cumulated_speech=""
@@ -1076,13 +687,13 @@ def extract_speakers1(conversation):
     # Otherwise, return the list of unique names
     return names
 
-def convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol):
-    myprint1("Conversion mode       : CHARACTERID_AND_DIALOGUE")
+def convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,characterIdCol):
+    myprint1("convert_docx_characterid_and_dialogue")
     # Iterate through each row in the table
     current_character=""
     is_song_sung_by_character=False
     character_list=set()
-    for row in table.rows[1:]:
+    for row in table.rows[start:]:
         cell_texts = [cell.text for cell in row.cells]
             # Join all cell text into a single string
         row_text = ' | '.join(cell_texts)
@@ -1205,17 +816,61 @@ def is_centered(block_left, min_left, max_left, threshold):
        
 def get_pdf_text_elements(file_path,page_idx, page_start,page_end,progress_bar):
     return get_pdf_text_elements_alt(file_path,page_idx,page_start,page_end,progress_bar)
+def group_words_into_lines(self, words, y_tolerance=3):
+        #myprint7("group_words_into_lines")
+        myprint1(f"group_words_into_lines N input ={len(words)}")
+        
+        # Dictionary to hold words grouped by their y position
+        lines_map = {}
+        
+        for word in sorted(words, key=lambda w: (w['bbox'][1], w['bbox'][0])):
+            text = word['text']
+            x0, y0, x1, y1 = word['bbox']
+
+            # Find the appropriate y position group
+            added = False
+            for y in list(lines_map.keys()):
+                if abs(y - y0) <= y_tolerance:
+                    lines_map[y].append(word)
+                    added = True
+                    break
+            
+            if not added:
+                lines_map[y0] = [word]
+        
+  
+        myprint1(f"group_words_into_lines map={lines_map.keys()}")
+        for idx,k in enumerate(lines_map):
+            myprint1(f"{idx} : {k.text}")
+
+        # Merge the words in the map and output as a sorted list of lines
+
+        lines = []
+        for y in sorted(lines_map.keys()):
+            sorted_line = sorted(lines_map[y], key=lambda w: w['bbox'][0])
+            full_text = ' '.join([word['text'] for word in sorted_line])
+            bbox = sorted_line[0]['bbox']
+            lines.append({
+                'text': full_text,
+                'bbox': bbox
+            })
+     #   myprint7(f"group_words_into_lines N out ={len(lines)}")
+      #  myprint7(f"group_words_into_lines res={lines}")
+     #   myprint7(f"group_words_into_lines map={lines_map}")
+        return lines
 
 def get_pdf_text_elements_alt(file_path,page_idx, page_start,page_end,progress_bar):
         myprint1("---------- get_pdf_page_blocks -----------------")
+        mode="FLOW"
         text_elements=[]
+        page_split_elements=[]
         minboxleft=100000
         if page_idx<0:
             with pdfplumber.open(file_path) as pdf:
                 for page_num, page in enumerate(pdf.pages, 1):
                     progress_bar['value'] = page_num
                     progress_bar.update_idletasks()
-
+                    current_page_elements=[]
                     myprint1(f"\nPage {page_num}")
                     if page_num<page_start:
                             continue
@@ -1224,32 +879,66 @@ def get_pdf_text_elements_alt(file_path,page_idx, page_start,page_end,progress_b
                                     # Get page dimensions
                     page_width = page.width
                     page_height = page.height
-                    page_elements=[]
-                    # Text
-                    text_settings = {
-                    "x_tolerance": 3,  # Adjust this value to fine-tune line detection
-                    "y_tolerance": 3,  # Adjust this value to fine-tune line detection
-                    }
-                    page_layout = page.extract_text_lines(text_settings)
-                    for element in page_layout:
-                                myprint1(f"  Word: '{element['text']}', bbox: {element['x0']}, {element['top']}, {element['x1']}, {element['bottom']}")
-                                tt=element['text'].strip().replace("\n","")
-                                bbox =   [element['x0'],page_height -  element['top'], element['x1'], page_height - element['bottom']]                  
+                    table = page.extract_table()
+                    if table:
+                    
+                        page_layout = page.extract_words()
+                        mode="TABLE"
+                        myprint1("ELEMENTS: "+str(len(page_layout)))
+                        for element in page_layout:
+                                
+                                # Loop over the text blocks within the text container
+                                text_block = element['text']
+                                bbox =   [element['x0'], page_height - element['top'], element['x1'],page_height -  element['bottom']]                  
+                                
+                                tt=text_block.strip().replace("\n","")
                                 stripped_text=tt
                                 if len(stripped_text)>0:
                                     # Print the text block and its bounding box
-                                    myprint1(f"{bbox} {tt}")
+                                    myprint1(f"{bbox} {stripped_text}")
                                     if bbox[0] < minboxleft:
                                         minboxleft=bbox[0]
-                                    page_elements.append({
+                                    text_elements.append({
                                         'text':stripped_text,
                                         'bbox':bbox,
                                     })
-                    myprint1("NON EMPTY ELEMENTS: "+str(len(page_elements)))
-                
-                    page_elements = sorted(page_elements, key=lambda x: x['bbox'][1], reverse=True)
-                    for k in page_elements:
-                        text_elements.append(k)
+                                current_page_elements.append({
+                                        'text':stripped_text,
+                                        'bbox':bbox,
+                                    })
+                        current_page_elements = sorted(current_page_elements, key=lambda x: x['bbox'][1], reverse=True)
+                        page_split_elements.append(current_page_elements)
+
+    
+                    else:
+                        page_elements=[]
+                        
+                        # Text
+                        text_settings = {
+                        "x_tolerance": 3,  # Adjust this value to fine-tune line detection
+                        "y_tolerance": 3,  # Adjust this value to fine-tune line detection
+                        }
+                        page_layout = page.extract_text_lines(text_settings)
+                        for element in page_layout:
+                                    myprint1(f"  Word: '{element['text']}', bbox: {element['x0']}, {element['top']}, {element['x1']}, {element['bottom']}")
+                                    tt=element['text'].strip().replace("\n","")
+                                    bbox =   [element['x0'],page_height -  element['top'], element['x1'], page_height - element['bottom']]                  
+                                    stripped_text=tt
+                                    if len(stripped_text)>0:
+                                        # Print the text block and its bounding box
+                                        myprint1(f"{bbox} {tt}")
+                                        if bbox[0] < minboxleft:
+                                            minboxleft=bbox[0]
+                                        page_elements.append({
+                                            'text':stripped_text,
+                                            'bbox':bbox,
+                                        })
+                        myprint1("NON EMPTY ELEMENTS: "+str(len(page_elements)))
+                    
+                        page_elements = sorted(page_elements, key=lambda x: x['bbox'][1], reverse=True)
+                        for k in page_elements:
+                            text_elements.append(k)
+
         else:        
             with pdfplumber.open(file_path) as pdf:
                 page = pdf.pages[page_idx]
@@ -1258,36 +947,90 @@ def get_pdf_text_elements_alt(file_path,page_idx, page_start,page_end,progress_b
                 # Get page dimensions
                 page_width = page.width
                 page_height = page.height
-                text_settings = {
-                    "x_tolerance": 3,  # Adjust this value to fine-tune line detection
-                    "y_tolerance": 3,  # Adjust this value to fine-tune line detection
-                }
-                page_layout = page.extract_text_lines(text_settings)
 
-                myprint1("ELEMENTS: "+str(len(page_layout)))
-                for element in page_layout:
-                        
-                        # Loop over the text blocks within the text container
-                        text_block = element['text']
-                        bbox =   [element['x0'], page_height - element['top'], element['x1'],page_height -  element['bottom']]                  
-                        
-                        tt=text_block.strip().replace("\n","")
-                        stripped_text=tt
-                        if len(stripped_text)>0:
-                            # Print the text block and its bounding box
-                            myprint1(f"{bbox} {stripped_text}")
-                            if bbox[0] < minboxleft:
-                                minboxleft=bbox[0]
-                            text_elements.append({
-                                'text':stripped_text,
-                                'bbox':bbox,
-                            })
-                myprint1("NON EMPTY ELEMENTS: "+str(len(text_elements)))
-                
-                text_elements = sorted(text_elements, key=lambda x: x['bbox'][1], reverse=True)
+                table = page.extract_table()
 
-    
-        return text_elements
+                # Convert the extracted table to a DataFrame
+                if table:
+                    mode="TABLE"
+                    page_layout = page.extract_words()
+
+                    myprint1("ELEMENTS: "+str(len(page_layout)))
+                    for element in page_layout:
+                            
+                            # Loop over the text blocks within the text container
+                            text_block = element['text']
+                            bbox =   [element['x0'], page_height - element['top'], element['x1'],page_height -  element['bottom']]                  
+                            
+                            tt=text_block.strip().replace("\n","")
+                            stripped_text=tt
+                            if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                myprint1(f"{bbox} {stripped_text}")
+                                if bbox[0] < minboxleft:
+                                    minboxleft=bbox[0]
+                                text_elements.append({
+                                    'text':stripped_text,
+                                    'bbox':bbox,
+                                })
+                    myprint1("NON EMPTY ELEMENTS: "+str(len(text_elements)))
+                    if False:
+                        # Loop through each row in the table
+                        print("TABLE")
+                        for row_idx, row in enumerate(table):
+                            for col_idx, cell in enumerate(row):
+                                if cell:
+                                    # Extract the bounding box of each cell
+                                    cell_texts = page.extract_text_lines()
+                                    for cell_text in cell_texts:
+                                        print(f"CELL test {row_idx} {col_idx}")
+
+                                        # Check if the text is in the current cell's row and column
+                                        if cell_text['top'] < page.bbox[3] - (row_idx + 1) * (page.bbox[3] / len(table)) and cell_text['bottom'] > page.bbox[3] - row_idx * (page.bbox[3] / len(table)):
+                                            print(f"CELL test {row_idx} {col_idx} IN CELL")
+
+                                            stripped_text = cell_text['text'].strip()
+                                            bounding_box_of_the_block = cell_text['bbox']
+                                            text_elements.append({
+                                                'text': stripped_text,
+                                                'bbox': bounding_box_of_the_block,
+                                                'row': row_idx,
+                                                'column': col_idx
+                                            })
+                                            myprint1(f"table {row_idx} {col_idx} {stripped_text}")
+                else:
+                    
+                    text_settings = {
+                        "x_tolerance": 3,  # Adjust this value to fine-tune line detection
+                        "y_tolerance": 3,  # Adjust this value to fine-tune line detection
+                    }
+                    page_layout = page.extract_text_lines(text_settings)
+
+                    myprint1("ELEMENTS: "+str(len(page_layout)))
+                    for element in page_layout:
+                            
+                            # Loop over the text blocks within the text container
+                            text_block = element['text']
+                            bbox =   [element['x0'], page_height - element['top'], element['x1'],page_height -  element['bottom']]                  
+                            
+                            tt=text_block.strip().replace("\n","")
+                            stripped_text=tt
+                            if len(stripped_text)>0:
+                                # Print the text block and its bounding box
+                                myprint1(f"{bbox} {stripped_text}")
+                                if bbox[0] < minboxleft:
+                                    minboxleft=bbox[0]
+                                text_elements.append({
+                                    'text':stripped_text,
+                                    'bbox':bbox,
+                                })
+                    myprint1("NON EMPTY ELEMENTS: "+str(len(text_elements)))
+                    
+                    text_elements = sorted(text_elements, key=lambda x: x['bbox'][1], reverse=True)
+
+        myprint1("return get_pdf_page_blocks "+str(mode))
+        return mode,text_elements,page_split_elements
+
 def get_pdf_text_elements_pdfminer(file_path,page_idx, page_start,page_end):
         myprint1("---------- get_pdf_page_blocks -----------------")
         text_elements=[]
@@ -2003,6 +1746,24 @@ def detect_timecodes(text):
     timecodes = pattern.findall(text)
     
     return timecodes
+def is_timecode_arrow_timecode_format(text):
+    """
+    Detects if the given text matches the timecode format "HH:MM:SS:FF --> HH:MM:SS:FF".
+    
+    :param text: The text to check.
+    :return: True if the text matches the timecode format, False otherwise.
+    """
+    pattern = r'^\d{2}:\d{2}:\d{2}:\d{2} -->\r?\n\d{2}:\d{2}:\d{2}:\d{2}$'
+    match = re.match(pattern, text)
+    return bool(match)
+def detect_timecodes_raw(text):
+    # Regular expression pattern to match timecodes in the format [00:01:13.15]
+    pattern = re.compile(r'\d{2}:\d{2}:\d{2}\.\d{2} -->\n \d{2}:\d{2}:\d{2}\.\d{2}')
+    
+    # Find all occurrences of the pattern in the text
+    timecodes = pattern.findall(text)
+    
+    return timecodes
 def detect_word_table(table,forceMode="",forceCols={}):
     myprint1(f"detect_word_table {len(table.rows)} x {len(table.columns)}")
     for i in range(3):
@@ -2020,7 +1781,7 @@ def isTableColumnCharacter(t):
     return t=="speaker id" or t=="character" or t=="charakter" or t=="personnage" or t=="character id" or t=="role" 
 def isTableDialogColumn(t):
     t=t.lower().strip()
-    return  t=="dialogue" or t=="dialogue list" or t=="dialouge" 
+    return  t=="dialogue" or t=="dialogue list" or t=="dialouge" or t=="english" or t=="en ut" or  t=="dialog - deutsch"
 def isTableColumnTitle(t):
     t=t.lower().strip()
     return  t=="title" or t=="titles"  
@@ -2028,7 +1789,7 @@ def isTableColumnBoth(t):
     t=t.lower().strip()
     return  t=="dialog with \nspeaker id" or t=='subtitle/ spotting' or t=='combined continuity' or t=='scene description'
 def detect_word_header(header,forceMode="",forceCols={}):
-    myprint1("-------------- test word header -----------------")
+    myprint1("-------------- detect_word_header -----------------")
     myprint1("forceMode"+str(forceMode))
     myprint1("forceCols"+str(forceCols))
     dialogueCol=-1
@@ -2082,6 +1843,9 @@ def detect_word_header(header,forceMode="",forceCols={}):
     docx_mode_dialogwithspeakerid=bothCol>-1
     myprint1("detect_word_header assigned mode")
 
+    if dialogueCol>-1 and characterIdCol==-1:
+        bothCol=dialogueCol
+
     mode=None
     character=None
     dialog=None
@@ -2102,7 +1866,7 @@ def detect_word_header(header,forceMode="",forceCols={}):
         character=bothCol
         dialog=bothCol
 
-    myprint1(f"detect_word_header gen map d={dialog} c={character}")
+    myprint1(f"detect_word_header gen map mode={mode} d={dialog} c={character}")
     for cell in header.cells:
         myprint1(f"  test idx={idx} d={dialog}")
         t=cell.text.strip()
@@ -2131,6 +1895,8 @@ def detect_word_header(header,forceMode="",forceCols={}):
         return True, mode, character,dialog,map_
     elif docx_mode_dialogwithspeakerid:
         return True, mode, character,dialog,map_
+    elif bothCol>-1:
+        return True, mode, character,dialog,map_
    # elif docx_mode_combined_continuity:
     #    return True, mode, character,dialog,map_
     else:
@@ -2139,13 +1905,15 @@ def detect_word_header(header,forceMode="",forceCols={}):
 
 
 def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
-            myprint1("test word header")
+            myprint1(" -------------  test word header -----------")
             myprint1("forceMode"+str(forceMode))
             myprint1("forceCols"+str(forceCols))
+            start=1
             dialogueCol=-1
             characterIdCol=-1
             combinedContinuityCol=-1
             titlesCol=-1
+            bothCol=-1
             dialogWithSpeakerId=-1
             sceneDescriptionCol=-1
             idx=0
@@ -2183,11 +1951,29 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                         combinedContinuityCol=idx
                     idx=idx+1
 
+                num_rows=len(table.rows)
+                num_cols=len(table.columns)
+        
+                #FORCE IF NO HEADER BUT LIKE KOKON
+                if num_cols==3:
+                    t=table.rows[0].cells[0].text
+                    myprint1("Test timecode"+str(t))
+                    isTimecode=is_timecode_arrow_timecode_format(t)         
+                    myprint1("Test timecode"+str(isTimecode))
+                    
+                    if isTimecode:
+                        characterIdCol=1
+                        dialogueCol=2
+                        start=0
+
+                if dialogueCol>-1 and characterIdCol==-1:
+                    bothCol=dialogueCol
+
                 docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
                 docx_mode_combined_continuity= combinedContinuityCol>-1
                 docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
-                docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
-                if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid:
+                docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1 
+                if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid or bothCol>-1:
                     myprint1("Headers found")
                 else:
                     myprint1("Headers not found")
@@ -2198,15 +1984,19 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                     myprint1(" dialogWithSpeakerId"+str(dialogWithSpeakerId))
                     myprint1(" combinedContinuityCol"+str(combinedContinuityCol))
                     return False
-                
+
+
             if docx_mode_dialogue_characterid:
-                convert_docx_characterid_and_dialogue(file,table,dialogueCol,characterIdCol)
+                convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,characterIdCol)
                 return True
             elif docx_mode_scenedescription:
                 convert_docx_scenedescription(file,table,sceneDescriptionCol,titlesCol)
                 return True
-            elif docx_mode_dialogwithspeakerid:
+            elif docx_mode_dialogwithspeakerid :
                 convert_docx_dialogwithspeakerid(file,table,dialogWithSpeakerId)
+                return True
+            elif bothCol>-1:
+                convert_docx_combined(file,table,bothCol)
                 return True
             elif docx_mode_combined_continuity:
                 convert_docx_combined_continuity(file,table)
@@ -2215,57 +2005,124 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                 myprint1("Tables but no ")
                 return False
 
-def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
-    myprint1("convert_xlsx_to_txt")
-    myprint1("currentOutputFolder             :"+absCurrentOutputFolder)
-    myprint1("Input             :"+file_path)
-    df = pd.read_excel(file_path)
-    # Load the Excel file
-    
+def access_cell(df,i, j):
+    try:
+        cell_value = df.iloc[i, j]
+        myprint1(f"Read {i} {j} {cell_value} ")
+        
+        return cell_value
+    except IndexError:
+        myprint1(f"ERR Index out of range {i} {j}")
+        return "Index out of range"
+def test_xlsx_header_and_convert(file,df,rowidx,absCurrentOutputFolder,forceMode="",forceCols={}):
+    myprint1(f"test_xlsx_header_and_convert {rowidx} ")
+    dialogueCol=-1
+    characterIdCol=-1
+    combinedContinuityCol=-1
+    bothCol=-1
+    titlesCol=-1
+    dialogWithSpeakerId=-1
+    sceneDescriptionCol=-1
+    idx=0
+
+    docx_mode_dialogue_characterid= False
+    docx_mode_combined_continuity= False
+    docx_mode_scenedescription= False
+    docx_mode_dialogwithspeakerid=False
+
+    # Get the number of rows and columns
+    num_rows = df.shape[0]
+    num_cols = df.shape[1]
+
+    myprint1(f"Size {num_rows} x {num_cols} ")
+
+
+    if len(forceMode)>0:
+        if forceMode=="DETECT_CHARACTER_DIALOG":
+            dialogueCol=forceCols['DIALOG']
+            characterIdCol=forceCols['CHARACTER']
+            docx_mode_dialogue_characterid=True
+            myprint1("CHARACTER "+str(characterIdCol))
+            myprint1("DIALOG "+str(dialogueCol))
+        else:
+            myprint1("UNKNOWN FORCE MODE")
+    else:
+
+        row_data = df.iloc[rowidx, :]
+
+        # Loop over the cells of the row
+        for colidx, cell in enumerate(row_data):   
+
+            t=access_cell(df,rowidx, colidx)
+            myprint1("testcol"+str(rowidx)+" "+str(colidx)+" = "+str(t))
+            if not pd.isna(cell):
+                t=cell.strip()
+                
+                myprint1("Header "+str(rowidx)+","+str(colidx)+str(t))
+                if isTableColumnCharacter(t):
+                    characterIdCol=idx
+                elif isTableDialogColumn(t):
+                    dialogueCol=idx
+                elif t=="Scene Description":
+                    sceneDescriptionCol=idx
+                elif isTableColumnTitle(t):
+                    titlesCol=idx
+                elif isTableColumnBoth(t):
+                    bothCol=idx
+            idx=idx+1
+
+        #FORCE IF NO HEADER BUT LIKE KOKON
+        if num_cols==3:
+            t=access_cell(df,0, 0)
+            myprint1("Test timecode"+str(t))
+            isTimecode=detect_timecodes_raw(t)         
+            if isTimecode:
+                characterIdCol=1
+                dialogueCol=2
+        
+
+        if dialogueCol>-1 and characterIdCol ==-1:
+            bothCol=dialogueCol
+
+
+        docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
+        docx_mode_combined_continuity= combinedContinuityCol>-1
+        docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
+        docx_mode_dialogwithspeakerid=dialogWithSpeakerId>-1
+        if docx_mode_dialogue_characterid or docx_mode_combined_continuity or docx_mode_scenedescription or docx_mode_dialogwithspeakerid:
+            myprint1("Headers found")
+        else:
+            myprint1("Headers not found")
+            myprint1(" CharacterId"+str(characterIdCol))
+            myprint1(" sceneDescriptionCol"+str(sceneDescriptionCol))
+            myprint1(" dialogueCol"+str(dialogueCol))
+            myprint1(" titlesCol"+str(titlesCol))
+            myprint1(" bothCol"+str(bothCol))
+            myprint1(" dialogWithSpeakerId"+str(dialogWithSpeakerId))
+            myprint1(" combinedContinuityCol"+str(combinedContinuityCol))
+      
+    start=rowidx+1
+    if dialogueCol>-1 and characterIdCol>-1:
+        return convert_xlsx_split(file,df,characterIdCol,dialogueCol, absCurrentOutputFolder,start,forceMode="",forceCols={})
+    elif bothCol>-1:
+        return convert_xlsx_both(file,df,bothCol, absCurrentOutputFolder,start,forceMode="",forceCols={})
+    else:
+        myprint1("Unknown format ")
+        return ""
+            
+
+def convert_xlsx_both(file_path,df,bothCol,absCurrentOutputFolder,start,forceMode="",forceCols={}):
     # Extract the columns "Character" and "English"
-    character_column = df["Character"]
-    english_column = df["English"]
-    
+    both_column = df.iloc[:, bothCol]
+    myprint1(f"START {start}")
     # Prepare the text file content
     lines = []
-    for char, eng in zip(character_column, english_column):
-        if pd.notna(char) and pd.notna(eng):
-            eng=eng.replace("\n"," ")
-            myprint1("Add line"+str(eng))
-#            if False:
- #           nblines=eng.count("\n")
-
-  #          if nblines==1:
-            myprint1("Add line linear")
-            if eng.startswith("- "):
-                    eng=eng.lstrip("- ")
-
-            if eng.count("- ")>0:
-                spl=eng.split("- ")
-                chars=char.split("-")
-                if len(spl) == len(chars):
-                    for index,k in enumerate(spl):
-                        lines.append(f"{chars[index].upper()}\t{k}")        
-                else:
-                    lines.append(f"{char.upper()}\t{eng}")                            
-            elif eng.count("-")>0:
-                spl=eng.split("-")
-                chars=char.split("-")
-                if len(spl) == len(chars):
-                    for index,k in enumerate(spl):
-                        lines.append(f"{chars[index].upper()}\t{k}")        
-                else:
-                    lines.append(f"{char.upper()}\t{eng}")                            
-
-
-            else:      
-                lines.append(f"{char.upper()}\t{eng}")
-   #         else:
-    #            myprint1("Add line split")
-     #           spl=eng.split("\n")
-      #          for k in spl:
-       #             lines.append(f"{char.upper()}\t{k}")
-
+    lineidx=1
+    for cell in both_column:
+        if lineidx>start:
+            if not pd.isna(cell):
+                lines.append(f"{cell}")
+        lineidx=lineidx+1
 
     converted_file_path= os.path.join(absCurrentOutputFolder,os.path.basename(file_path).replace(".xlsx",".converted.txt"))
 
@@ -2275,6 +2132,81 @@ def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
             f.write(line + '\n')
     myprint1("Done")
     return converted_file_path
+
+def convert_xlsx_split(file_path,df,charCol,dialCol, absCurrentOutputFolder,start,forceMode="",forceCols={}):
+    myprint1("convert_xlsx_split")
+
+
+    # Extract the columns "Character" and "English"
+     # Access the columns by index
+    character_column = df.iloc[:, charCol]
+    dialog_column = df.iloc[:, dialCol]
+    
+    # Prepare the text file content
+    lines = []
+    rowidx=0
+    for char, dia in zip(character_column, dialog_column):
+        if rowidx>start:
+            if pd.notna(char) and pd.notna(dia):
+                myprint1("eng="+str(rowidx)+" dia='"+str(dia)+"'")
+                dia=str(dia).replace("\n"," ")
+                myprint1("Add line"+str(dia))
+                myprint1("Add line linear")
+                if dia.startswith("- "):
+                        dia=dia.lstrip("- ")
+
+                if dia.count("- ")>0:
+                    spl=dia.split("- ")
+                    chars=char.split("-")
+                    if len(spl) == len(chars):
+                        for index,k in enumerate(spl):
+                            lines.append(f"{chars[index].upper()}\t{k}")        
+                    else:
+                        lines.append(f"{char.upper()}\t{dia}")                            
+                elif dia.count("-")>0:
+                    spl=dia.split("-")
+                    chars=char.split("-")
+                    if len(spl) == len(chars):
+                        for index,k in enumerate(spl):
+                            lines.append(f"{chars[index].upper()}\t{k}")        
+                    else:
+                        lines.append(f"{char.upper()}\t{dia}")                            
+
+
+                else:      
+                    lines.append(f"{char.upper()}\t{dia}")
+        rowidx=rowidx+1
+
+    converted_file_path= os.path.join(absCurrentOutputFolder,os.path.basename(file_path).replace(".xlsx",".converted.txt"))
+
+    # Write to a text file
+    with open(converted_file_path, 'w') as f:
+        for line in lines:
+            f.write(line + '\n')
+    myprint1("Done")
+    return converted_file_path
+
+def convert_xlsx_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols={}):
+    myprint1("convert_xlsx_to_txt")
+    myprint1("currentOutputFolder             :"+absCurrentOutputFolder)
+    myprint1("Input             :"+file_path)
+    df = pd.read_excel(file_path,header=None)
+    # Load the Excel file
+
+    # Get the number of rows and columns
+    num_rows = df.shape[0]
+    num_cols = df.shape[1]
+
+
+    headerSuccess=False
+    for i in range(0,10):
+        myprint1(f"test {i}")
+        converted_file_path=test_xlsx_header_and_convert(file_path,df,i,absCurrentOutputFolder,forceMode=forceMode,forceCols=forceCols)
+        if len(converted_file_path)>0:
+            return converted_file_path
+    return ""
+
+
 
 def get_paragraph_indentation(paragraph):
     """
@@ -2535,6 +2467,60 @@ def is_multiple_character(char):
     if char==None:
         return False
     return " AND " in char
+def count_pattern_occurrences2(line):
+    # Define the regular expression pattern
+    pattern = re.compile(
+        r'(.*?): (.*)',  # Text line with : and <i></i> tags
+    )
+    
+    # Find all occurrences of the pattern
+    matches = pattern.findall(line)
+
+    # Return the number of matches
+    return len(matches)
+
+def split_text_by_uppercase(text):
+    """
+    Splits the text by uppercase words which are assumed to be speaker names,
+    avoiding splitting character names like "DR WALSH".
+
+    :param text: The text to split.
+    :return: A list of strings, each starting with a speaker name.
+    """
+    # Split the text by spaces to get words
+    words = text.split()
+
+    if "H2O," in words:
+        dodebug=True
+        for word in words:
+            sel=  word.isupper() and word[:-1] != "," and len(word) > 1
+            print(f"word {word} {sel} last={word[-1]}")
+    
+
+    # Find indices of all uppercase words longer than one character
+    uppercase_indices = [i for i, word in enumerate(words) if word.isupper() and word[-1]!="," and len(word) > 1]
+    
+
+    # Remove indices if the previous word is also uppercase
+    filtered_indices = []
+    for i in range(len(uppercase_indices)):
+        if i == 0 or (uppercase_indices[i] - 1 != uppercase_indices[i - 1]):
+            filtered_indices.append(uppercase_indices[i])
+    
+
+    # Create segments based on the filtered indices
+    segments = []
+    start_index = 0
+    for index in filtered_indices:
+        segment = " ".join(words[start_index:index])
+        if segment:  # Add non-empty segments
+            segments.append(segment.strip())
+        start_index = index
+    # Add the last segment
+    segments.append(" ".join(words[start_index:]).strip())
+    
+    return segments
+
 
 def split_AND_character(breakdown):
     myprint1("merge_breakdown_character_by_replacelist")
@@ -2619,9 +2605,11 @@ def is_character_name_valid(char):
     isEnd = ("END CREDITS" in char )
     isNar=("NARRATIVE TITLE" in char)
     isOST =("ON-SCREEN TEXT" in char )
+    isMusic =( char.startswith("♪") )
+    
     isMain =("MAIN TITLE" in char )
     isOpen=("OPENING CREDITS" in char)
-    return (not isNote) and (not isEnd) and (not isNar) and (not isOST) and (not isOpen) and (not isMain)
+    return (not isNote) and (not isEnd) and (not isNar) and (not isOST) and (not isOpen) and (not isMain) and (not isMusic)
 def detect_text_in_brackets(line):
     # Define the pattern to match text in brackets followed by any text
     pattern = re.compile(r'^\[\w+\].*')
@@ -2653,7 +2641,31 @@ def extract_text_not_in_brackets(line):
     
     # Strip any leading or trailing whitespace
     return result.strip()
+def extract_pattern_occurrences2(content):
+    myprint1("extract in "+str(content))
+    # Define the regular expression pattern
+    pattern = re.compile(
+    
+    r'^([A-Z]+): (.*)$',
+    #   r'^(.*?): (.*)$',  # Text line with : and <i></i> tags
+        re.MULTILINE
+    )
+    
 
+    # Find all occurrences of the pattern
+    matches = pattern.findall(content)
+
+    # Extract the required fields into a list of dictionaries
+    extracted_data = [
+        {
+            "character": match[0].strip(),
+            "dialog": match[1].strip()
+        }
+        for match in matches
+    ]
+    print("res="+str(extracted_data))
+
+    return extracted_data
 def is_character_didascalie(c):
     c=c.lower()
     return c=="sigh" or c=="sighs" or c=="cries" or c=="laughs"
@@ -2661,7 +2673,7 @@ def is_character_didascalie(c):
 # PROCESS
 def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={},ignoreBeginning=0,ignoreEnd=0):
     myprint1("  > -----------------------------------")
-    myprint1("  > SCRIPT PARSER version 1.3")
+    myprint1("  > SCRIPT PARSER version 1.22")
     myprint1("  > Script path       : "+script_path)
     myprint1("  > Output folder     : "+output_path)
     myprint1("  > Script name       : "+script_name) 
@@ -2733,15 +2745,18 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
 
     is_verbose=False
     encoding_info = detect_file_encoding(script_path)
-    myprint1("  > Encoding          : "+encoding_info['encoding'])
+    myprint1("  > Encoding info     : "+str(encoding_info['encoding']))
     encoding_used=encoding_info['encoding']
-    myprint1("  > Encoding used     : "+encoding_used)
-
+    myprint1("  > Encoding used     : "+str(encoding_used))
     encoding_tested=test_encoding(script_path)
     encoding_used=encoding_tested
     if not (encoding==""):
         myprint1("  > Force encoding    :"+encoding)
         encoding_used=encoding
+    if encoding_used==None:
+        encoding_used='utf-8'
+
+
     scene_separator=getSceneSeparator(script_path,encoding_used)
     myprint1("  > Scene separator   : "+scene_separator)
 
@@ -2762,8 +2777,14 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     totalLines=count_lines_in_file(script_path,encoding)
     firstLineIdxToTreat=ignoreBeginning+1
     lastLineIdxToTreat=totalLines-ignoreEnd+1
+    wasDialog=None
+    wasChar=False
     isTranslation=False
     myprint1(f"  > Treat lines from {firstLineIdxToTreat} to {lastLineIdxToTreat} ")
+
+    nNonEmptyLines=count_nonempty_lines_in_file(script_path,encoding)
+    if nNonEmptyLines==0:
+        return 
     with open(script_path, 'r', encoding=encoding_used) as file:
         myprint1("  > Opened    : "+str(script_path))
         for line in file:
@@ -2804,34 +2825,60 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                     else:
                             myprint1("  > not scene")   
                             if True:#current_scene_id!=1:
-                                is_speaking=is_character_speaking(trimmed_line,character_mode)
-                                myprint1("  > speaking")   
 
-                                if is_verbose:
-                                    myprint1("    IsSpeaking "+str(is_speaking)+" "+trimmed_line)
-                                if is_speaking:
-                                    myprint1("  > speaking1"+str(trimmed_line)+" "+str(character_mode))   
+                                if character_mode=="CHARACTERUPPERCASE_DIALOG":
+                                    split_text = split_text_by_uppercase(trimmed_line)
+                                    for k in split_text:
+                                        myprint1("SUBSEC part="+k)
+                                        trimmed_line=k
+                                        is_speaking=is_character_speaking(trimmed_line,character_mode)
+                                        if is_speaking:
+                                            character_name=extract_character_name(trimmed_line,character_mode)
+                                            myprint1("      > speaking 2b    char="+str(character_name))   
+                                            character_name=filter_character_name(character_name)
+                                            myprint1("      > speaking 2b filchar="+str(character_name))   
+                                            if is_character_name_valid(character_name):
+                                                myprint1("      > speaking 2b valid")   
+                                                spoken_text=extract_speech(trimmed_line,character_mode,character_name)
+                                                spoken_text=filter_speech(spoken_text)
+                                                character_name,spoken_text=ensure_dialog_starts_with_uppercase(character_name,spoken_text)
+                                                myprint1("      > speaking 2b spoken="+str(spoken_text))   
+                                                breakdown.append({"scene_id":current_scene_id,
+                                                        "character_raw":character_name,
+                                                        "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
 
-                                    character_name=extract_character_name(trimmed_line,character_mode)
-                                    myprint1("  > speaking 2b"+str(character_name))   
-                                    character_name=filter_character_name(character_name)
-                                    myprint1("  > speaking 2")   
-                                    if is_verbose:
-                                        myprint1("   name="+str(character_name))
-                                    if not character_name == None:
-                                        if is_character_name_valid(character_name):
-                                            #remove character name for stats
-                                            spoken_text=extract_speech(trimmed_line,character_mode,character_name)
-                                            spoken_text=filter_speech(spoken_text)
-                                            
-                                            breakdown.append({"scene_id":current_scene_id,
-                                                            "character_raw":character_name,
-                                                            "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
-                                            if is_verbose:
-                                                myprint1("   text="+str(spoken_text))
-                                        
                                 else:
-                                    breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
+
+
+
+                                    is_speaking=is_character_speaking(trimmed_line,character_mode)
+                                    myprint1("  > speaking"+str(is_speaking))   
+
+                                    if is_verbose:
+                                        myprint1("    IsSpeaking "+str(is_speaking)+" "+trimmed_line)
+                                    if is_speaking:
+                                        myprint1("  > speaking1"+str(trimmed_line)+" "+str(character_mode))   
+
+                                        character_name=extract_character_name(trimmed_line,character_mode)
+                                        myprint1("  > speaking 2b char="+str(character_name))   
+                                        character_name=filter_character_name(character_name)
+                                        myprint1("  > speaking 2")   
+                                        if is_verbose:
+                                            myprint1("   name="+str(character_name))
+                                        if not character_name == None:
+                                            if is_character_name_valid(character_name):
+                                                #remove character name for stats
+                                                spoken_text=extract_speech(trimmed_line,character_mode,character_name)
+                                                spoken_text=filter_speech(spoken_text)
+                                                myprint1(f"before amend char={character_name} d={spoken_text} ")
+                                                breakdown.append({"scene_id":current_scene_id,
+                                                                "character_raw":character_name,
+                                                                "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    
+                                                if is_verbose:
+                                                    myprint1("   text="+str(spoken_text))
+                                        
+                                    else:
+                                        breakdown.append({"line_idx":line_idx,"text":trimmed_line,"type":"NONSPEECH" })    
             elif character_sep_type=="CHARACTER_MODE_MULTILINE":
                 if is_scene_line(line):
                         
@@ -2908,6 +2955,74 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                     breakdown.append({"scene_id":current_scene_id,
                                                                             "character_raw":character_name,
                                                                             "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+
+
+                    elif character_mode==    "TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOG_NEWLINE":
+                        if isEmptyLine:
+                            myprint1(f"reset waschar")
+                            wasChar=False
+                        if wasChar:
+                            speech=filter_speech(trimmed_line)
+                            myprint1(f"Add line {multiline_current_character_text} {speech} ")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":multiline_current_character_text,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+                        if trimmed_line.endswith(":"):
+                            multiline_current_character_text=trimmed_line[:-1]
+                            multiline_current_character_text=filter_character_name(multiline_current_character_text)     
+                            myprint1(f"Set char {multiline_current_character_text} ")
+                            wasChar=True
+                    elif character_mode==    "LINE_NEWLINE_TIMECODES_NEWLINE_TEXT_ITAG":
+                        noccurences=count_pattern_occurrences2(trimmed_line)
+                        myprint1("nocc"+str(noccurences))
+
+                        if isEmptyLine:
+                            myprint1("resetDialog")
+                            wasDialog=False
+                        else:
+                            if wasDialog:
+                                myprint1("has character")
+                                
+                                if noccurences>0:
+                                    for k in m:
+                                        character_name=k['character']
+                                        speech=k['dialog']
+                                        speech=filter_speech(speech)
+
+                                        character_name=filter_character_name(character_name)       
+                                        multiline_current_character_text=character_name                              
+                                        myprint1(f"Add {character_name} {speech}")
+                                        breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":character_name,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+                                else:
+                                    character_name=multiline_current_character_text
+                                    speech=trimmed_line
+                                    myprint1(f"Add {character_name} {speech}")
+                                    breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":character_name,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+
+                        if noccurences>0:  
+                            m=extract_pattern_occurrences2(trimmed_line)
+                            myprint1("nocc"+str(m))
+                                                    
+                            if len(m)>0:
+                                myprint1("aa"+str(m))
+                                for k in m:
+                                    myprint1(k)
+                                    character_name=k['character']
+                                    speech=k['dialog']
+                                    speech=filter_speech(speech)
+
+                                    character_name=filter_character_name(character_name)       
+                                    multiline_current_character_text=character_name                              
+                                    myprint1(f"Add {character_name} {speech}")
+                                    breakdown.append({"scene_id":current_scene_id,
+                                                                            "character_raw":character_name,
+                                                                            "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
+
+                                    wasDialog=True
 
             wasEmptyLine=isEmptyLine
             line_idx=line_idx+1

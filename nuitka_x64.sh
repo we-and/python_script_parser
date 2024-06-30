@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the variable for the Nuitka distribution directory
-NUITKA_DIST_DIR="nuitka_dist116_one/x64"
+NUITKA_DIST_DIR="nuitka_dist122_one/x64"
 APP_NAME="scripti"
 APP_BUNDLE="$NUITKA_DIST_DIR/$APP_NAME.app"
 DMG_NAME="scripti52.dmg"
@@ -23,7 +23,7 @@ mkdir -p $DMG_OUTPUT_DIR
 #codesign --deep --force --verbose --options runtime --entitlements entitlements.plist --sign "Developer ID Application: WeAnd Ltd (3UCPV3W9SM)" $APP_BUNDLE --timestamp
 cd $NUITKA_DIST_DIR 
 ditto -c -k --sequesterRsrc --keepParent scripti.app scripti_intel.zip
-xcrun notarytool submit scripti_intel.zip --keychain-profile "notarytool-credentials"
+xcrun notarytool submit scripti_intel.zip --keychain-profile "notarytool-credentials" --wait
 
 # Create the DMG file
 #hdiutil create -volname "Scripti" -srcfolder "$APP_BUNDLE" -ov -format UDZO -o "$DMG_OUTPUT_DIR/$DMG_NAME"

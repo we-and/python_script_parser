@@ -1,11 +1,76 @@
 import re
 import logging
 from  constants import action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
-
+from utils_filters import is_didascalie,is_ambiance,is_music,filter_character_name
+from utils_regex import is_TIMECODE_HYPHEN_TIMECODE,is_TIMECODE_SPACE_TIMECODE_SPACE_DIALOG
 def myprint1(s):
     logging.debug(s)
     #myprint1(s)
 
+def count_NUM_TIMECODE_ARROW_TIMECODE_NEWLINE_MULTILINEDIALOG(file_path, encoding):
+    # Define the regex pattern
+    pattern = re.compile(r'\d+ \d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}\n.+(\n.+)?', re.MULTILINE)
+    
+    # Read the content of the file
+    with open(file_path, 'r', encoding=encoding) as file:
+        content = file.read()
+    
+    # Find all matches in the text
+    matches = pattern.findall(content)
+    
+    # Return the count of matches
+    return len(matches)
+def count_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME(file_path, encoding):
+    # Define the regex pattern
+    pattern = re.compile(r'\d{2}: +\d{2}:\d{2}:\d{2}:\d{2} \d{2}:\d{2}:\d{2}:\d{2} \d{2}:\d{2}\n.+(\n.+)?', re.MULTILINE)
+    
+    # Read the content of the file
+    with open(file_path, 'r', encoding=encoding) as file:
+        content = file.read()
+    
+    # Find all matches in the text
+    matches = pattern.findall(content)
+    
+    # Return the count of matches
+    return len(matches)
+
+def count_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_NEWLINE_DIALOG(file_path, encoding):
+    # Define the regex pattern
+    pattern = re.compile(r'\d{2}:\d{2}:\d{2}:\d{2} - \d{2}:\d{2}:\d{2}:\d{2}\n\w+\n.*', re.DOTALL)
+    
+    # Read the content of the file
+    with open(file_path, 'r', encoding=encoding) as file:
+        content = file.read()
+    
+    # Find all matches in the text
+    matches = pattern.findall(content)
+    
+    # Return the count of matches
+    return len(matches)
+
+
+def extract_character_name_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT(text):
+    pattern = re.compile(r'\d{2}’\d{2}-([A-Z]+) :', re.DOTALL)
+    
+    match = pattern.match(text)
+    if match:
+        return match.group(1)
+    return None
+def is_characterline_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT(text):
+    pattern = re.compile(r'\d{2}’\d{2}-[A-Z]+ :*', re.DOTALL)
+    return bool(pattern.fullmatch(text))
+def count_matches_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT(file_path,encod):
+    # Define the regex pattern
+    pattern = re.compile(r'\d{2}’\d{2}-[A-Z]+ :*', re.DOTALL)
+    
+     # Read the content of the file
+    with open(file_path, 'r',encoding=encod) as file:
+        content = file.read()
+    # Find all matches in the text
+    matches = pattern.findall(content)
+    
+    # Return the count of matches
+    return len(matches)
 def count_consecutive_empty_lines(file_path, n,encod):
     """Counts occurrences of exactly n consecutive empty lines in a file."""
     i=1
@@ -136,7 +201,22 @@ def extract_matches(file_path,encod):
 
     return extracted_data
 
-def count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(file_path,encod):
+def count_matches_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(file_path,encod):
+    """
+    Counts the number of matches for the specified pattern in a file.
+
+    The pattern matches the following sequence:
+    - A timestamp in the format [HH:MM:SS.SS]
+    - Followed by a newline
+    - Followed by a character name in square brackets and some dialog
+    - Followed by a newline
+    - Followed by another timestamp in the format [HH:MM:SS.SS]
+
+    :param file_path: The path to the file to be read.
+    :param encod: The encoding of the file to be read.
+    :return: The number of matches found in the file.
+    """
+    
     # Define the pattern to match
     pattern = re.compile(
         r'\[\d{2}:\d{2}:\d{2}\.\d{2}\]\n'
@@ -145,7 +225,7 @@ def count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWL
     )
     
     # Read the content of the file
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r',encoding=encod) as file:
         content = file.read()
 
     # Find all occurrences of the pattern
@@ -180,7 +260,19 @@ def extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_D
 
     return extracted_data
 
-def count_subtitle_pattern(file_path,encod):
+def count_matches_LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG(file_path,encod):
+    """
+    Counts the number of matches for the specified pattern in a file.
+
+    The pattern matches the following sequence:
+    - A line containing a number followed by a newline
+    - Followed by two timecodes in the format HH:MM:SS,SSS separated by " --> " and followed by a newline
+    - Followed by a text line that contains a colon and may include <i></i> tags, followed by a newline
+
+    :param file_path: The path to the file to be read.
+    :param encod: The encoding of the file to be read.
+    :return: The number of matches found in the file.
+    """
     # Define the regular expression pattern
     pattern = re.compile(
         r'\d+\n'  # Number followed by newline
@@ -226,7 +318,7 @@ def count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_D
     return len(matches)
 
 
-def count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(file_path,encod):
+def count_matches_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(file_path,encod):
     # Define the pattern to match
     pattern = re.compile(r'^[A-Z\s]+$\n([^\n]+\n)*\n', re.MULTILINE)
 
@@ -244,8 +336,42 @@ def getCharacterSepType(character_mode):
         return "CHARACTER_MODE_SINGLELINE"
     if character_mode in multilineCharacterSeparators:
         return "CHARACTER_MODE_MULTILINE"
+def extract_text_after_brackets(text):
+    """
+    Extracts the text immediately following the first pair of square brackets in the given string.
     
-def count_matches_charactername_TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG(text):
+    :param text: The string to extract from.
+    :return: The text immediately following the first pair of square brackets, or None if not found.
+    """
+    pattern = r'\[.*?\]\s*(.*)'
+    match = re.search(pattern, text)
+    if match:
+        return match.group(1).strip()
+    return None
+def extract_text_between_brackets(text):
+    """
+    Extracts the text between the first pair of square brackets in the given string.
+    
+    :param text: The string to extract from.
+    :return: The text between the first pair of square brackets, or None if not found.
+    """
+    pattern = r'\[(.*?)\]'
+    match = re.search(pattern, text)
+    if match:
+        return match.group(1)
+    return None
+def is_text_with_brackets_pattern(text):
+    """
+    Checks if a given string matches the pattern "[Text] more text".
+    
+    :param text: The string to check.
+    :return: True if the string matches the pattern, False otherwise.
+    """
+    pattern = r'^\[.*?\] .*$'
+    match = re.match(pattern, text)
+    return bool(match)
+
+def count_matches_TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG(file_path,encod):
     """
     Counts the occurrences of the pattern:
     00:01:06,691 --> 00:01:08,943
@@ -260,9 +386,12 @@ def count_matches_charactername_TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACT
         r'\[.*?\] .*?\n'  # Text in square brackets followed by more text
         r'.*?'  # Optional more text on the third line
     )
-    
+    # Read the content of the file
+    with open(file_path, 'r',encoding=encod) as file:
+        content = file.read()
+
     # Use re.findall to find all occurrences of the pattern
-    matches = re.findall(pattern, text, re.MULTILINE)
+    matches = re.findall(pattern, content, re.MULTILINE)
     
     # Return the number of matches
     return len(matches)
@@ -304,9 +433,14 @@ def detectCharacterSeparator(script_path,encod):
                         is_match=matches_charactername_NAME_ATLEAST1TAB_TEXT(line)
                         if is_match:
                             nMatches=nMatches+1
-        pc=round(nMatches/nLines)
+
+                    if sep=="TIMECODE_SPACE_TIMECODE_SPACE_DIALOG":
+                        is_match=is_TIMECODE_SPACE_TIMECODE_SPACE_DIALOG(line)
+                        if is_match:
+                            nMatches=nMatches+1
+        pc=(nMatches/nLines)
         myprint1("  > Test sep="+sep+" matches=" +str(nMatches)+"/"+str(nLines)+" pc="+str(pc))
-        if pc>singlebestMatchPercent:
+        if pc>=singlebestMatchPercent:
             singlebestMatchPercent=pc
             singlebest=sep
 
@@ -316,15 +450,23 @@ def detectCharacterSeparator(script_path,encod):
     multibest="?"
     for sep in multilineCharacterSeparators:
         if sep == "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE":
-            nMatches=count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(script_path,encod)
+            nMatches=count_matches_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE(script_path,encod)
         elif sep=="TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG":
-            nMatches=count_matches_charactername_TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG(script_path,encod)
+            nMatches=count_matches_TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG(script_path,encod)
+        elif sep=="NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME":
+            nMatches=count_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME(script_path,encod)
+        elif sep=="NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME":
+            nMatches=count_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME(script_path,encod)
+        elif sep=="NUM_TIMECODE_ARROW_TIMECODE_NEWLINE_MULTILINEDIALOG":
+            nMatches=count_NUM_TIMECODE_ARROW_TIMECODE_NEWLINE_MULTILINEDIALOG(script_path,encod)
+        elif sep=="TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_NEWLINE_DIALOG":
+            nMatches=count_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_NEWLINE_DIALOG(script_path,encod)
         elif sep=="TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOG_NEWLINE":
             nMatches=count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE(script_path,encod)
         elif sep=="TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE":
-            nMatches=count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(script_path,encod)
-        elif sep=="LINE_NEWLINE_TIMECODES_NEWLINE_TEXT_ITAG":
-            nMatches=count_subtitle_pattern(script_path,encod)
+            nMatches=count_matches_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE(script_path,encod)
+        elif sep=="LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG":
+            nMatches=count_matches_LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG(script_path,encod)
         myprint1("  > Test character sep:"+sep+" " +str(nMatches))
         if nMatches>multibestMatches:
             multibestMatches=nMatches
@@ -406,8 +548,19 @@ def is_character_speaking(line,character_mode):
     else:
         return False
 
+def extract_dialog_TIMECODE_SPACE_TIMECODE_SPACE_DIALOG(content):
+    # Define the regex pattern
+    pattern = re.compile(r'\d{2}:\d{2}:\d{2}:\d{2}\s+(?:--:--:--:--|\d{2}:\d{2}:\d{2}:\d{2})\s+(.+)')
+
+    # Find all matches in the text
+    matches = pattern.findall(content)
+    
+    # Return the list of extracted dialogs
+    return  ' '.join(matches)
 
 def extract_speech(line,character_mode,character_name):
+    if character_mode=="TIMECODE_SPACE_TIMECODE_SPACE_DIALOG":
+        return extract_dialog_TIMECODE_SPACE_TIMECODE_SPACE_DIALOG(line)
     if character_mode=="CHARACTER_TAB":
         return line.replace(character_name,"").strip()
     elif character_mode=="CHARACTERUPPERCASE_DIALOG":
@@ -425,6 +578,8 @@ def extract_speech(line,character_mode,character_name):
 def extract_character_name(line,character_mode):
     if character_mode=="CHARACTER_TAB":
         return extract_charactername_NAME_ATLEAST1TAB_TEXT(line)
+    elif character_mode=="TIMECODE_SPACE_TIMECODE_SPACE_DIALOG":
+        return "PERSONNAGE"
     elif character_mode=="CHARACTERUPPERCASE_DIALOG":
         return extract_charactername_CHARACTERUPPERCASE_DIALOG(line)
     elif character_mode=="CHARACTER_SPACES": 
@@ -660,12 +815,3 @@ def extract_charactername_NAME_ATLEAST1TAB_TEXT(line):
     if len(parts) > 1:
         return parts[0].strip()  # Return the first part, stripping any extra whitespace
     return None  # Return None if no tab is found, indicating an improperly formatted line
-def remove_parentheses_contents(input_string):
-    # Define the regular expression pattern to match contents within parentheses
-    pattern = re.compile(r'\(.*?\)')
-    
-    # Use re.sub() to replace the matched patterns with an empty string
-    result = re.sub(pattern, '', input_string)
-    
-    # Return the modified string
-    return result

@@ -15,10 +15,10 @@ from utils import get_log_file_path
 import pdfplumber
 import logging
 import chardet
-from utils_parser import count_nonempty_lines_in_file,matches_number_parenthesis_timecode,extract_scene_name,is_scene_line,isSeparatorEmptyLinesTimecode,isSeparatorNameParenthesisTimecode,isSeparatorParenthesisNameTimecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,extract_matches,matches_scenestart_sceneno,count_lines_in_file,count_matches_charactername_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE,count_matches_charactername_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE,count_subtitle_pattern,getCharacterSepType,extract_scene_name1,extract_scene_name2,extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_DIALOG,remove_parentheses_contents,extract_character_name,ensure_dialog_starts_with_uppercase,extract_charactername_CHARACTERUPPERCASE_DIALOG,extract_charactername_CHARACTERUPPERCASE_DIALOG_regex,extract_charactername_NAME_ATLEAST1TAB_TEXT,extract_charactername_NAME_ATLEAST8SPACES_TEXT,extract_charactername_NAME_SEMICOLON_DIALOG,extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,extract_speech,extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,is_character_speaking,is_matching_character_speaking,getSceneSeparator,detectCharacterSeparator,matches_CHARACTERUPPERCASE_DIALOG,matches_charactername_NAME_SEMICOLON_DIALOG,countMethods
+from utils_parser import count_nonempty_lines_in_file ,is_characterline_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,extract_character_name_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,is_text_with_brackets_pattern,extract_text_after_brackets,extract_text_between_brackets,extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_DIALOG,matches_number_parenthesis_timecode,extract_scene_name,is_scene_line,isSeparatorEmptyLinesTimecode,isSeparatorNameParenthesisTimecode,isSeparatorParenthesisNameTimecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,extract_matches,matches_scenestart_sceneno,count_lines_in_file,count_matches_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE,count_matches_LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG,getCharacterSepType,extract_scene_name1,extract_scene_name2,extract_character_name,ensure_dialog_starts_with_uppercase,extract_charactername_CHARACTERUPPERCASE_DIALOG,extract_charactername_CHARACTERUPPERCASE_DIALOG_regex,extract_charactername_NAME_ATLEAST1TAB_TEXT,extract_charactername_NAME_ATLEAST8SPACES_TEXT,extract_charactername_NAME_SEMICOLON_DIALOG,extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,extract_speech,extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,is_character_speaking,is_matching_character_speaking,getSceneSeparator,detectCharacterSeparator,matches_CHARACTERUPPERCASE_DIALOG,matches_charactername_NAME_SEMICOLON_DIALOG,countMethods
 from  constants import action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
-
-
+from utils_filters import filter_character_name
+from utils_regex import is_timecode_arrow_timecode_format,is_NUM_TIMECODE_ARROW_TIMECODE,is_timecode_simple,is_TIMECODE_HYPHEN_TIMECODE,is_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
 #script_name="YOU CANT RUN FOREVER_SCRIPT_VO"
@@ -78,71 +78,6 @@ def test_encoding(script_path):
 
 
 
-
-#################################################################
-# CHARACTER UTILS
-def is_didascalie(name):
-    return name=="DIDASCALIES"
-def is_music(name):
-    return name.startswith("♪")
-def is_ambiance(name):
-    return name=="AMBIANCE"
-def filter_character_name(line):
-    if line==None:
-        return "ERROR CHAR???"
-    if line:
-        if line.endswith(':'):
-            line= line[:-1]
-        if line.startswith('-'):
-            line= line[1:]
-        if line.endswith('-'):
-            line= line[:-1]
-        if "(O.S)" in line:
-            line=line.replace("(O.S)","")
-        
-        if "(V.O)" in line:
-            line=line.replace("(V.O)","")
-        if "(V.O.)" in line:
-            line=line.replace("(V.O.)","")
-        if "(VO)" in line:
-            line=line.replace("(VO)","")
-        if "(V.O" in line:
-            line=line.replace("(V.O","")
-        
-        if "(O.S.)" in line:
-            line=line.replace("(O.S.)","")
-        if "(OS)" in line:
-            line=line.replace("(OS)","")
-        if "(OS/ON)" in line:
-            line=line.replace("(OS/ON)","")
-        
-        if "(CON'T)" in line:
-            line=line.replace("(CON'T)","")    
-        if "(CONT.)" in line:
-            line=line.replace("(CONT.)","")    
-        if "(CONT." in line:
-            line=line.replace("(CONT.","")    
-        if "(CON’T)" in line:
-            line=line.replace("(CON’T)","")    
-        if "(CON’T)" in line:
-            line=line.replace("(CON’T)","")    
-        if "(CONT'D)" in line:
-            line=line.replace("(CONT'D)","")    
-        if "(CONT.)" in line:
-            line=line.replace("(CONT.)","")    
-        if "(CONT)" in line:
-            line=line.replace("(CONT)","")    
-        if "(CONT'D" in line:
-            line=line.replace("(CONT'D","")    
-        if "(CONT’D" in line:
-            line=line.replace("(CONT’D","")    
-        line=line.replace("\ufeff","")
-
-        line=remove_parentheses_contents(line)
-        if line.endswith(')'):
-            line= line[:-1]
-    return line.strip()
-#    return line
 
 
 
@@ -342,6 +277,7 @@ def remove_text_in_brackets(text):
     cleaned_text = re.sub(pattern, '', text)
     return cleaned_text
 def filter_speech(input):
+    myprint1(f"filter_speech {input}")
     s=get_text_without_parentheses(input)
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
@@ -351,6 +287,12 @@ def filter_speech(input):
     s=s.replace("â€¦ ",".")
     if s.startswith("- "):
         s=s.lstrip("- ")
+    if s.startswith(": "):
+        s=s.lstrip(": ")
+    if s.startswith("<"):
+        s=s.lstrip("<")
+    if s.startswith(">"):
+        s=s.lstrip(">")
     return s.strip()
 
 def filter_speech_keepbrackets(input):
@@ -448,23 +390,73 @@ def convert_docx_dialogwithspeakerid(file,table,contentColIdx):
             file.write(s)
             idx=idx+1
             myprint1(">>>>>>>>>>> "+s)
-
+def find_split_sep(cellcontent):
+    nNewlines=cellcontent.count("\n")
+    nHyphen=cellcontent.count("-")
+    if nNewlines>0:
+        return "\n"
+    if nNewlines==0:
+        if nHyphen>0:
+            return "- "
+    return "?"
+    
 def convert_docx_combined(file,table,bothCol):
     myprint1(f"convert_docx_combined {bothCol}")
-    idx=1
-    row_idx=1
-    
+    mode="LINEAR"
     for row in table.rows[1:]:
-            row_idx=row_idx+1
-            s=row.cells[bothCol].text.strip()      
-            lines=s.split("\n")
-            for k in lines:  
-                k=k.strip()
-                if len(k)>0:
-                    myprint1(f"convert_docx_combined s='{k}'")
-                    file.write(k+"\n")
-            idx=idx+1
-            myprint1(">>>>>>>>>>> "+s)
+            myprint1(f"---")
+            
+            isglobalmergecell=True
+            comp=row.cells[0].text
+            myprint1("convert_docx_combined comp= "+ comp)
+            for colidx in range(1,len(table.columns)):
+                myprint1("convert_docx_combined comp with"+ row.cells[colidx].text)
+
+                if comp!=row.cells[colidx].text:
+                    isglobalmergecell=False
+            myprint1("convert_docx_combined ismerged"+ str(isglobalmergecell))
+
+            if isglobalmergecell:
+                continue
+
+            
+            cellcontent=row.cells[bothCol].text.strip()      
+            mode =detect_split_or_linear_mode_both(cellcontent)
+            lines=cellcontent.split("\n")
+            if mode=="LINEAR" :   
+                current_character=lines[0].strip()
+                speech=" ".join(lines[1:]).strip()
+
+                current_character=filter_character_name(current_character)
+                speech=filter_speech(speech)
+                myprint1("convert_docx_combined Add "+ current_character + " "+ speech)
+                res=current_character+"\t"+speech+"\n"  # New line after each row
+                myprint1("convert_docx_combined Add "+ current_character + " "+ speech)
+                file.write(res)   
+            elif mode=="SPLIT":
+                sep=find_split_sep(cellcontent)
+                                
+                speakers=extract_speakers(lines[0])
+                myprint1("convert_docx_combined MODE SPLIT sep='"+str(sep)+"'")
+                if sep=="\n":
+                    dialoguespl=lines[1:]
+                elif sep=='- ':
+                    dialogue=" ".join(lines[1:])
+                    dialoguespl=dialogue.split(sep)
+
+                myprint1("convert_docx_combined characters"+str(speakers))
+                filtered_array = [element for element in dialoguespl if element]
+                myprint1("convert_docx_combined dialogue"+str(filtered_array))
+
+                for index,k in enumerate(speakers):
+                    myprint1("convert_docx_combined index"+str(index)+" k="+str(k))
+
+                    current_character=filter_character_name(k)
+                    speech= filter_speech(lines[index+1])
+                    res=current_character+"\t"+speech+"\n"  # New line after each row
+                    myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
+                    file.write(res)    
+           
 
 def convert_docx_scenedescription(file,table,sceneDescriptionIdx,titlesIdx):
     myprint1("convert_docx_scenedescription")
@@ -629,7 +621,7 @@ def extract_speakersNO(conversation, character_list):
     return names
 def normalize_spaces(text):
     return re.sub(r'\s+', ' ', text).strip()
-def extract_speakers(conversation,character_list):
+def extract_speakers(conversation):
     # Split the string by " TO "
     parts = conversation.split(" TO ")
     nb_counts=conversation.count(" TO ")
@@ -652,8 +644,19 @@ def extract_speakers(conversation,character_list):
         if len(midspl)==2:
             second_speaker=midspl[1]
             return [first_speaker,second_speaker]
+        elif len(midspl)==3:
+            second_speaker=midspl[0]
+            return [first_speaker,second_speaker]
         else:
+            second_speaker=midspl[0]
+            return [first_speaker,second_speaker]
+    
+    
             myprint1("error splitting characters within "+str(conversation) )
+    
+    
+    
+    
     else:
         # For more complex conversations, extract unique names
         seen = set()
@@ -686,8 +689,46 @@ def extract_speakers1(conversation):
     
     # Otherwise, return the list of unique names
     return names
+def detect_split_or_linear_mode_both(text):
+    lines=text.split("\n")
+    character=lines[0]
+    character=filter_character_name(character)
+    myprint1("character filtered"+character)
+    ##if "(O.S)" in character:
+        #  character=character.replace("(O.S)","")
+    #if "(O.S.)" in character:
+        #   character=character.replace("(O.S.)","")
 
-def convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,characterIdCol):
+    myprint1("extract speakers for"+character)
+    speakers=extract_speakers(character)
+
+    #spl=character.split("\n")
+    myprint1("speakers="+str(speakers))
+    nb_lines= len(speakers)
+    if nb_lines>1:
+        return "SPLIT"
+    else:
+        return "LINEAR"
+def detect_split_or_linear_mode_separated(character):
+    character=filter_character_name(character)
+    myprint1("character filtered"+character)
+    ##if "(O.S)" in character:
+        #  character=character.replace("(O.S)","")
+    #if "(O.S.)" in character:
+        #   character=character.replace("(O.S.)","")
+
+    myprint1("extract speakers for"+character)
+    speakers=extract_speakers(character)
+
+    #spl=character.split("\n")
+    myprint1("speakers="+str(speakers))
+    nb_lines= len(speakers)
+    if nb_lines>1:
+        return "SPLIT"
+    else:
+        return "LINEAR"
+
+def convert_docx_separated(file,table,start,dialogueCol,characterIdCol):
     myprint1("convert_docx_characterid_and_dialogue")
     # Iterate through each row in the table
     current_character=""
@@ -708,25 +749,7 @@ def convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,character
         myprint1("row"+row_text)
         myprint1("dialogue"+dialogue)
         myprint1("character"+character)
-        character=filter_character_name(character)
-        if not character in character_list:
-            character_list.add(character)
-        myprint1("character filtered"+character)
-        ##if "(O.S)" in character:
-          #  character=character.replace("(O.S)","")
-        #if "(O.S.)" in character:
-         #   character=character.replace("(O.S.)","")
-
-        myprint1("extract speakers for"+character)
-        speakers=extract_speakers(character,character_list)
-
-        #spl=character.split("\n")
-        myprint1("speakers="+str(speakers))
-        nb_lines= len(speakers)
-        myprint1("Mode "+mode)
-        if nb_lines>1:
-            mode="SPLIT"
-
+        mode =detect_split_or_linear_mode_separated(character)
         
 
         if mode=="LINEAR" :   
@@ -755,8 +778,8 @@ def convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,character
                     myprint1("Add "+ current_character + " "+ dialogue)
                     file.write(s)
         elif mode=="SPLIT":
+            speakers=extract_speakers(character)
             myprint1("MODE SPLIT")
-            dialogue=filter_speech(dialogue)    
             myprint1("characters"+str(speakers))
             dialoguespl=dialogue.split("- ")
             filtered_array = [element for element in dialoguespl if element]
@@ -765,7 +788,7 @@ def convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,character
                 myprint1("index"+str(index)+" k="+str(k))
 
                 current_character=k
-                speech=filtered_array[index]
+                speech=filter_speech( filtered_array[index])
                 s=current_character+"\t"+speech+"\n"  # New line after each row
                 myprint1("Add "+ current_character + " "+ dialogue)
                 file.write(s)    
@@ -1746,16 +1769,6 @@ def detect_timecodes(text):
     timecodes = pattern.findall(text)
     
     return timecodes
-def is_timecode_arrow_timecode_format(text):
-    """
-    Detects if the given text matches the timecode format "HH:MM:SS:FF --> HH:MM:SS:FF".
-    
-    :param text: The text to check.
-    :return: True if the text matches the timecode format, False otherwise.
-    """
-    pattern = r'^\d{2}:\d{2}:\d{2}:\d{2} -->\r?\n\d{2}:\d{2}:\d{2}:\d{2}$'
-    match = re.match(pattern, text)
-    return bool(match)
 def detect_timecodes_raw(text):
     # Regular expression pattern to match timecodes in the format [00:01:13.15]
     pattern = re.compile(r'\d{2}:\d{2}:\d{2}\.\d{2} -->\n \d{2}:\d{2}:\d{2}\.\d{2}')
@@ -1766,7 +1779,7 @@ def detect_timecodes_raw(text):
     return timecodes
 def detect_word_table(table,forceMode="",forceCols={}):
     myprint1(f"detect_word_table {len(table.rows)} x {len(table.columns)}")
-    for i in range(3):
+    for i in range(6):
         myprint1("try header "+str(i))
         header=table.rows[i]
         myprint1("header read ")        
@@ -1774,7 +1787,14 @@ def detect_word_table(table,forceMode="",forceCols={}):
         myprint1("header success= "+str(success)+" "+str(map_))        
         if success:
             return success, mode, character,dialog,map_
-    return False,"",-1,-1,{}
+    
+
+    idx=0
+    for cell in header.cells:
+        t='NONE'        
+        idx=idx+1
+        map_[idx]={'type':t}
+    return False,"",-1,-1,map_
 
 def isTableColumnCharacter(t):
     t=t.lower().strip()
@@ -1906,8 +1926,8 @@ def detect_word_header(header,forceMode="",forceCols={}):
 
 def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
             myprint1(" -------------  test word header -----------")
-            myprint1("forceMode"+str(forceMode))
-            myprint1("forceCols"+str(forceCols))
+            myprint1("test_word_header_and_convert forceMode"+str(forceMode))
+            myprint1("test_word_header_and_convert forceCols"+str(forceCols))
             start=1
             dialogueCol=-1
             characterIdCol=-1
@@ -1925,18 +1945,21 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
 
 
             if len(forceMode)>0:
+                myprint1("test_word_header_and_convert forceMode")
                 if forceMode=="DETECT_CHARACTER_DIALOG":
                     dialogueCol=forceCols['DIALOG']
                     characterIdCol=forceCols['CHARACTER']
+                    if dialogueCol==characterIdCol:
+                        bothCol=dialogueCol
                     docx_mode_dialogue_characterid=True
-                    myprint1("CHARACTER "+str(characterIdCol))
-                    myprint1("DIALOG "+str(dialogueCol))
+                    myprint1("test_word_header_and_convert CHARACTER "+str(characterIdCol))
+                    myprint1("test_word_header_and_convert DIALOG "+str(dialogueCol))
                 else:
-                    myprint1("UNKNOWN FORCE MODE")
+                    myprint1("test_word_header_and_convert UNKNOWN FORCE MODE")
             else:
                 for cell in header.cells:
                     t=cell.text.strip()
-                    myprint1("Header cell"+str(t))
+                    myprint1("test_word_header_and_convert Header cell"+str(t))
                     if isTableColumnCharacter(t):
                         characterIdCol=idx
                     elif isTableDialogColumn(t):
@@ -1955,13 +1978,19 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                 num_cols=len(table.columns)
         
                 #FORCE IF NO HEADER BUT LIKE KOKON
+                if num_cols==1:
+                    characterIdCol=0
+                    dialogueCol=0
+                    start=0
+
                 if num_cols==3:
                     t=table.rows[0].cells[0].text
                     myprint1("Test timecode"+str(t))
-                    isTimecode=is_timecode_arrow_timecode_format(t)         
-                    myprint1("Test timecode"+str(isTimecode))
+                    isTimecodeArrow=is_timecode_arrow_timecode_format(t)         
+                    isTimecode=is_timecode_simple(t)         
+                    myprint1("Test timecode"+str(isTimecode)+" "+str(isTimecodeArrow))
                     
-                    if isTimecode:
+                    if isTimecode or isTimecodeArrow:
                         characterIdCol=1
                         dialogueCol=2
                         start=0
@@ -1985,18 +2014,17 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
                     myprint1(" combinedContinuityCol"+str(combinedContinuityCol))
                     return False
 
-
-            if docx_mode_dialogue_characterid:
-                convert_docx_characterid_and_dialogue(file,table,start,dialogueCol,characterIdCol)
+            if bothCol>-1:
+                convert_docx_combined(file,table,bothCol)
+                return True
+            elif docx_mode_dialogue_characterid:
+                convert_docx_separated(file,table,start,dialogueCol,characterIdCol)
                 return True
             elif docx_mode_scenedescription:
                 convert_docx_scenedescription(file,table,sceneDescriptionCol,titlesCol)
                 return True
             elif docx_mode_dialogwithspeakerid :
                 convert_docx_dialogwithspeakerid(file,table,dialogWithSpeakerId)
-                return True
-            elif bothCol>-1:
-                convert_docx_combined(file,table,bothCol)
                 return True
             elif docx_mode_combined_continuity:
                 convert_docx_combined_continuity(file,table)
@@ -2249,6 +2277,36 @@ def word_has_paragraph_style_character(para):
     styles=get_paragraph_style_hierarchy(para)
     styles = ' > '.join(styles)
     return "CHARACTER" in styles
+def convert_pdftables_to_txt(listtables,converted_file_path):
+    
+    with open(converted_file_path, 'w', encoding='utf-8') as file:
+        myprint1("conv open")
+        for table in listtables:
+            row_count=table['row_count']
+            col_count=table['col_count']
+            myprint1(f"conv size= {row_count} x {col_count}")
+            cells=table['cells']
+            for rowidx,row in enumerate(cells):
+                myprint1(f"conv row {rowidx} {row}")
+
+                character=None
+                dial=None
+                
+                for idx,k in enumerate(row):
+                    myprint1(f"conv cell {k} ")
+
+                    if idx ==2:
+                        character=k
+                    if idx==3:
+                        dial=k
+                        dial=dial.replace("\n"," ")
+                        dial=filter_speech(dial)
+                        character=filter_character_name(character)
+                        myprint1(f"conv add {character} {dial} ")
+                        if len(character)>0 and len(dial)>0:
+                            file.write(character +"\t"+dial +'\n')
+    return converted_file_path
+
 
 def convert_word_withstyles_to_plaintext(doc,file_path,absCurrentOutputFolder):
     converted_file_path=get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)
@@ -2346,9 +2404,20 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
     with open(converted_file_path, 'w', encoding='utf-8') as file:
         # Check if there are any tables in the document
         myprint1("Table count             : "+str(len(doc.tables)))
-
+       # Iterate through the tables in the document and get their dimensions
+        table_dimensions = []
         if len(doc.tables) > 0:
-            # Get the first table
+
+            for table in doc.tables:
+                num_rows = len(table.rows)
+                num_columns = len(table.columns)
+                table_dimensions.append((num_rows, num_columns))
+
+            # Print the dimensions of each table
+            for i, (rows, cols) in enumerate(table_dimensions):
+                myprint1(f"Table {i+1}: {rows} rows, {cols} columns")
+
+            # Get the first table   
             table = doc.tables[0]
             
             headerSuccess=False
@@ -2671,13 +2740,14 @@ def is_character_didascalie(c):
     return c=="sigh" or c=="sighs" or c=="cries" or c=="laughs"
 #################################################################
 # PROCESS
-def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={},ignoreBeginning=0,ignoreEnd=0):
+def process_script(script_path,output_path,script_name,countingMethod,encoding,forceMode="",forceCols={},ignoreBeginning=0,ignoreEnd=0,forceCharacterMode=None):
     myprint1("  > -----------------------------------")
     myprint1("  > SCRIPT PARSER version 1.22")
     myprint1("  > Script path       : "+script_path)
     myprint1("  > Output folder     : "+output_path)
     myprint1("  > Script name       : "+script_name) 
     myprint1("  > Forced encoding   : "+encoding)
+    myprint1("  > Forced mode       : "+str(forceCharacterMode))
     myprint1("  > Counting method   : "+countingMethod)
 
     if not os.path.exists(output_path):
@@ -2703,7 +2773,13 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
         converted_file_path=convert_word_to_txt(script_path,forceMode=forceMode,forceCols=forceCols)
         if len(converted_file_path)==0:
             myprint1("  > Conversion failed 1")
-            return None,None,None,None,None,None
+            info ={
+                "success":False,
+                "fail_desc":"convert_word_to_txt failed"
+            }
+            return info
+
+  #          return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
 
@@ -2714,7 +2790,12 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
         converted_file_path=convert_xlsx_to_txt(script_path,forceMode=forceMode,forceCols=forceCols)
         if len(converted_file_path)==0:
             myprint1("  > Conversion failed 1")
-            return None,None,None,None,None,None
+            info ={
+                "success":False,
+                "fail_desc":"convert_word_to_txt failed"
+            }
+            return info
+ #           return None,None,None,None,None,None
         return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
 
@@ -2726,7 +2807,13 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
         myprint1("process 1")
         if len(converted_file_path)==0:
             myprint1("  > Conversion failed 1")
-            return None,None,None,None,None,None
+            info ={
+                "success":False,
+                "fail_desc":"convert_word_to_txt failed"
+            }
+            return info
+
+#            return None,None,None,None,None,None
         myprint1("process")
         return process_script(converted_file_path,output_path,script_name,countingMethod,forceMode=forceMode,forceCols=forceCols)
 
@@ -2760,7 +2847,10 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     scene_separator=getSceneSeparator(script_path,encoding_used)
     myprint1("  > Scene separator   : "+scene_separator)
 
-    character_mode=detectCharacterSeparator(script_path,encoding_used)
+    if forceCharacterMode!=None:
+        character_mode=forceCharacterMode
+    else:
+        character_mode=detectCharacterSeparator(script_path,encoding_used)
     myprint1("  > Character mode    : "+str(character_mode))
     
     character_sep_type=getCharacterSepType(character_mode)
@@ -2779,6 +2869,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
     lastLineIdxToTreat=totalLines-ignoreEnd+1
     wasDialog=None
     wasChar=False
+    wasTimecode=False
     isTranslation=False
     myprint1(f"  > Treat lines from {firstLineIdxToTreat} to {lastLineIdxToTreat} ")
 
@@ -2928,6 +3019,57 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                     multiline_current_lines_of_dialog.append('')
                             else:
                                 multiline_current_lines_of_dialog.append(trimmed_line)
+                    elif character_mode=="NUM_TIMECODE_ARROW_TIMECODE_NEWLINE_MULTILINEDIALOG":
+                        multiline_current_character_text="PERSONNAGE"
+                        isTimecode=is_NUM_TIMECODE_ARROW_TIMECODE(trimmed_line)
+                        if not isTimecode and not isEmptyLine:
+                            myprint1(f"wasTimecode={wasTimecode} empty={isEmptyLine}")
+                            speech=filter_speech(trimmed_line)
+                            myprint1(f"Add line {multiline_current_character_text} {speech} ")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                    "character_raw":multiline_current_character_text,
+                                                    "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+                        if isEmptyLine:
+                            myprint1(f"reset Timecode ")
+                            wasTimecode=False
+
+                        wasTimecode=is_NUM_TIMECODE_ARROW_TIMECODE(trimmed_line)
+                        if wasTimecode:
+                            myprint1(f"Timecode ")
+                    
+                    elif character_mode=="NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME":
+                        multiline_current_character_text="PERSONNAGE"
+                        isTimecode=is_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME(trimmed_line)
+                        if not isTimecode and not isEmptyLine:
+                            speech=filter_speech(trimmed_line)
+                            myprint1(f"Add line {multiline_current_character_text} {speech} ")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                    "character_raw":multiline_current_character_text,
+                                                    "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+                        if isEmptyLine:
+                            wasTimecode=False
+
+                        wasTimecode=is_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME(trimmed_line)
+                        
+                    elif character_mode==    "TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_NEWLINE_DIALOG":
+                        if isEmptyLine:
+                            myprint1(f"reset waschar")
+                            wasChar=False
+                            wasTimecode=False
+                        if wasChar:
+                            wasTimecode=False
+                            speech=filter_speech(trimmed_line)
+                            myprint1(f"Add line {multiline_current_character_text} {speech} ")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                    "character_raw":multiline_current_character_text,
+                                                    "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+                        if wasTimecode:
+                            multiline_current_character_text=trimmed_line
+                            multiline_current_character_text=filter_character_name(multiline_current_character_text)     
+                            myprint1(f"Set char {multiline_current_character_text} ")
+                            wasChar=True
+                        wasTimecode=is_TIMECODE_HYPHEN_TIMECODE(trimmed_line)
+                        
                     elif character_mode==    "TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE":
                         myprint1(" > line2"+trimmed_line)
                         isTimecode=detect_timecodes(trimmed_line)
@@ -2956,6 +3098,23 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                                                             "character_raw":character_name,
                                                                             "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":character_name })    
 
+                    elif character_mode==    "TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT":
+                        if wasChar:
+                            speech=trimmed_line
+                            myprint1(f"add  {multiline_current_character_text} speech={speech}")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":multiline_current_character_text,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+                            wasChar=False
+                        else:
+                            if is_characterline_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT(trimmed_line):
+                                
+                                multiline_current_character_text=extract_character_name_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT(trimmed_line)
+                                myprint1(f"set char=  {multiline_current_character_text}")
+                                wasChar=True
+                            else:
+                                myprint1(f"not a char line")
+                            
 
                     elif character_mode==    "TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOG_NEWLINE":
                         if isEmptyLine:
@@ -2972,7 +3131,37 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                             multiline_current_character_text=filter_character_name(multiline_current_character_text)     
                             myprint1(f"Set char {multiline_current_character_text} ")
                             wasChar=True
-                    elif character_mode==    "LINE_NEWLINE_TIMECODES_NEWLINE_TEXT_ITAG":
+                    elif character_mode==    "TIMECODE_ARROW_TIMECODE_NEWLINE_BRACKETS_CHARACTER_DIALOG_NEWLINE_DIALOG":
+                        if isEmptyLine:
+                            myprint1(f"reset waschar")
+                            wasChar=False
+                            wasTimecode=False
+                        if wasChar:
+                            speech=filter_speech(trimmed_line)
+                            myprint1(f"Add line {multiline_current_character_text} {speech} ")
+                            breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":multiline_current_character_text,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+#                        if wasTimecode:
+                        if is_text_with_brackets_pattern(trimmed_line):
+                            multiline_current_character_text=extract_text_between_brackets(trimmed_line)
+                            multiline_current_character_text=filter_character_name(multiline_current_character_text)     
+                            myprint1(f"Set char {multiline_current_character_text} ")
+
+                            speech=extract_text_after_brackets(trimmed_line)
+                            breakdown.append({"scene_id":current_scene_id,
+                                                                                "character_raw":multiline_current_character_text,
+                                                                                "line_idx":line_idx,"speech":speech,"type":"SPEECH", "character":multiline_current_character_text })    
+#                       
+                            wasChar=True
+                        else:
+                            myprint1(f"No between  ")
+
+                        wasTimecode=is_timecode_arrow_timecode_format(trimmed_line)
+                        myprint1(f"wasTimecode {wasTimecode}")
+
+
+                    elif character_mode==    "LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG":
                         noccurences=count_pattern_occurrences2(trimmed_line)
                         myprint1("nocc"+str(noccurences))
 
@@ -3118,7 +3307,17 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
         myprint1("  > Convert to xslx.")
         convert_csv_to_xlsx(output_path+script_name+"-comptage-detail.csv",output_path+script_name+"-comptage-detail.xlsx", script_name,encoding_used)
     myprint1("  > Parsing done.")
-    return breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
+    success_result=breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
+
+    info ={
+        "character_mode":character_mode,
+        "scene_separator":scene_separator,
+        "character_sep_type":character_sep_type,
+        "success":True,
+        "success_result":success_result
+    }
+    return info
+    return info,breakdown, character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map
 
 
 #process_script("scripts/COMPTAGE/20012020.txt","20012020/","20012020","ALL")    

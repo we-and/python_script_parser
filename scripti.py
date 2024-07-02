@@ -1,7 +1,7 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel,Scrollbar, Scale, HORIZONTAL, VERTICAL
-from script_parser import process_script,get_pdf_page_blocks,detect_word_table,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
+from script_parser import convert_pdftables_to_txt,process_script,get_pdf_page_blocks,detect_word_table,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
 from utils import get_intial_treeview_folder_path,get_setting_ini_path,copy_folder_contents,get_excel_column_name,help_word_table,help_pdf_text,help_merge,make_dpi_aware,detect_file_encoding,get_os,convert_csv_to_xlsx,get_encoding,get_log_file_path,get_temp_folder_path,get_recentfiles_file_path,save_string_to_file
 import pandas as pd
 
@@ -57,6 +57,8 @@ if False:
 
 app_log_path=get_log_file_path()
 logging.basicConfig(filename=app_log_path,encoding='utf-8',level=logging.DEBUG)
+logging.getLogger("pdfplumber").setLevel(logging.WARNING)
+logging.getLogger("pdfminer").setLevel(logging.WARNING)
 logging.debug("Script starting...")
 
 
@@ -89,6 +91,10 @@ countingMethodNames={
 countingMethod="ALL"
 currentOutputFolder=""
 currentFilePath=""
+currentResultCharacterMode=""
+currentResultIsSuccess=None
+currentResultSceneMode=""
+currentResultCharacterSepType=""
 currentScriptFilename=""
 currentConvertedFilePath=""
 do_debug=True
@@ -251,6 +257,14 @@ def load_tree(parent, root_path):
             supported_tag="supported" 
             if extension==".docx" or extension==".doc":
                 folders.insert(parent, 'end', text=" "+entry,image=docx_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+            elif extension==".xlsx":
+                folders.insert(parent, 'end', text=" "+entry,image=xlsx_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+            elif extension==".txt":
+                folders.insert(parent, 'end', text=" "+entry,image=txt_icon2, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+            elif extension==".rtf":
+                folders.insert(parent, 'end', text=" "+entry,image=rtf_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
+            elif extension==".pdf":
+                folders.insert(parent, 'end', text=" "+entry,image=pdf_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
             else:
                 folders.insert(parent, 'end', text=" "+entry,image=txt_icon, values=[entry_path, extension_without_dot,],tags=(supported_tag))
         else:        
@@ -338,15 +352,17 @@ def runJobPreprocessing(file_path,enc,params={}):
             #importTab.reset(file_path)
         myprint7("runJobPreprocessing> open"+str(file_path))
         doc = Document(file_path)
-        myprint7("opened")
+        myprint7("runJobPreprocessing opened")
         forceMode=""
         forceCols={}
+        myprint7(f"runJobPreprocessing opened params={params}")
 
         if 'param_type' in params and params['param_type']=="WORD":
             if 'character' in params and 'dialog' in params:
                 char=params['character']
                 dial=params['dialog']
-                if char!=dial:
+                #if char!=dial:
+                if True:
                     forceMode="DETECT_CHARACTER_DIALOG"
                     forceCols={
                         "CHARACTER":char,
@@ -355,22 +371,23 @@ def runJobPreprocessing(file_path,enc,params={}):
         myprint7("runJobPreprocessing nbTables="+str(len(doc.tables)))
 
         if len(doc.tables) > 0:
-            myprint7("has table, show_importtable_tab")
+            myprint7("runJobPreprocessing has table, show_importtable_tab")
             if len(params)==0:
+                myprint7("runJobPreprocessing has table, show_importtable_tab 2")
                 importTab=WordTableColumnSelector(tab_import,file_path)
 #            show_importtable_tab()
         else:
-            myprint7("no table, hide_importtable_tab")
+            myprint7("runJobPreprocessing no table, hide_importtable_tab")
  #           hide_importtable_tab()
 
         converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
         if len(converted_file_path)==0:
-            myprint7("ui Conversion docx to txt failed")
-            myprint7("ui Failed")
+            myprint7("runJobPreprocessing ui Conversion docx to txt failed")
+            myprint7("runJobPreprocessing ui Failed")
             hide_loading()
             return 
         file_path=converted_file_path
-        myprint7("ui Converted file path :"+file_path)
+        myprint7("runJobPreprocessing ui Converted file path :"+file_path)
     
     #XLSX
     if extension==".xlsx":
@@ -408,6 +425,7 @@ def runJobPreprocessing(file_path,enc,params={}):
             currentPDFPageIdx=10
             currentPDFPages = list(PDFPage.get_pages(file))
             pdf_viewer = PDFViewer(tab_import_pdf, file_path,os.path.abspath(currentOutputFolder),enc)
+            hide_loading()
             return; 
         myprint7("Conversion PDF to txt")
         converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
@@ -439,10 +457,22 @@ def runJob(file_path,method,params={}):
     global currentConvertedFileIgnoreEnd
     global currentPDFPages
     global currentPDFPageIdx
+    global currentResultSceneMode
+    global currentResultCharacterMode
+    global currentResultCharacterSepType
+    global currentResultIsSuccess
+    
     myprint7("------------------- JOB ---------------------------")
     myprint7("File path               : "+str(file_path))
     myprint7("Params               : "+str(params))
+
+    set_preview_text(f"Processing {file_path}")
     update_recent_files(file_path)
+    currentResultSceneMode=""
+    currentResultCharacterMode=""
+    currentResultCharacterSepType=""
+    currentResultIsSuccess=""
+    updateInfoLabels()
     currentFilePath=file_path
     currentConvertedFilePath=file_path
     reset_tables()
@@ -462,8 +492,16 @@ def runJob(file_path,method,params={}):
                 myprint7("Encoding detection   : "+str(encoding_info))
                 myprint7("Encoding detected   : "+str(encoding))
                 myprint7("Encoding confidence : "+str(encoding_info['confidence']))
-                enc=get_encoding(encoding)
-                myprint7("Encoding used       : "+str(enc))
+                if encoding_info['confidence']>0.99:
+                        myprint7("Very good encoding confidence ")                        
+                        enc=encoding
+                else:
+                        myprint7("Average default encoding confidence ")
+
+                        enc=get_encoding(encoding)
+                if enc=='ascii':
+                    enc='windows-1252'
+                myprint7("Used encoding "+str(enc))
 
                 currentOutputFolder=aoutputFolder+"/"+name+"/"
                 if not os.path.exists(currentOutputFolder):
@@ -480,33 +518,31 @@ def runJob(file_path,method,params={}):
                     myprint7(" > Opened")
                     content = file.read()
                     myprint7(" > Read")
-                    file_preview.text_widget.delete(1.0, tk.END)
-                    file_preview.text_widget.insert(tk.END, content)
+                    set_preview_text( content)
                     
                 myprint7(f" > Process, ignoring {currentConvertedFileIgnoreBeginning}  {currentConvertedFileIgnoreEnd}")
-                res=            process_script(file_path,currentOutputFolder,name,method,enc,"",{},currentConvertedFileIgnoreBeginning,currentConvertedFileIgnoreEnd)
-                if res==None:
-                    return
-                
-                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=res
-                myprint7(" > Processed")
-
-                if breakdown==None:
+                info=process_script(file_path,currentOutputFolder,name,method,enc)
+                if info["success"]==False:
                     myprint7(" > Failed")
                     hide_loading()
-                else:
-                    myprint7(" > OK")
-                    currentBreakdown=breakdown
+                    return
+                
+                processInfo(info)
+                breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=info["success_result"]
+                myprint7(" > Processed")
 
-                    png_output_file=currentOutputFolder+name+"_timeline.png"
-                    currentTimelinePath=png_output_file
-                    currentResultCharacterOrderMap=character_order_map
-                    currentResultEnc=enc
-                    currentResultName=name
-                    currentResultLinecountMap=character_linecount_map
-                    currentResultSceneCharacterMap=scene_characters_map
-                    postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
-                        
+                myprint7(" > OK")
+                currentBreakdown=breakdown
+
+                png_output_file=currentOutputFolder+name+"_timeline.png"
+                currentTimelinePath=png_output_file
+                currentResultCharacterOrderMap=character_order_map
+                currentResultEnc=enc
+                currentResultName=name
+                currentResultLinecountMap=character_linecount_map
+                currentResultSceneCharacterMap=scene_characters_map
+                postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+                    
             else:
                 myprint7(" > Not supported")
                 #stats_label.config(text=f"Format {extension} not supported")
@@ -514,9 +550,36 @@ def runJob(file_path,method,params={}):
 
         except Exception as e:
             myprint7(f"Error opening file: {e} tried with encoding={ enc}")
-            file_preview.text_widget.delete(1.0, tk.END)
-            file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
+            set_preview_text( f"Error opening file: {e} tried with encoding{ enc} {traceback.format_exc()}")
             hide_loading()
+
+def processInfo(info):
+    global currentResultSceneMode
+    global currentResultCharacterMode
+    global currentResultCharacterSepType
+    global currentResultIsSuccess
+    currentResultIsSuccess=info["success"]
+    currentResultCharacterMode=info["character_mode"]
+    currentResultSceneMode=info["scene_separator"]
+    currentResultCharacterSepType=info["character_sep_type"]
+
+    updateInfoLabels()
+
+def updateInfoLabels():
+    global currentResultSceneMode
+    global currentResultCharacterMode
+    global currentResultCharacterSepType
+    global currentResultIsSuccess
+    if currentResultIsSuccess:
+        tab_result_issuccess_label.config(text="Résultat :"+"Succès")
+    else:
+        tab_result_issuccess_label.config(text="Résultat :"+"Echec")
+    tab_result_mode_label.config(text="Mode :"+currentResultCharacterMode)
+
+def set_preview_text(text):
+    file_preview.text_widget.delete(1.0, tk.END)
+    file_preview.text_widget.insert(tk.END, text)
+            
 def append_file_content(source_file, destination_file):
     try:
         # Open the source file in read mode
@@ -549,7 +612,16 @@ def runGroupJob(file_paths,method):
     global importTab
     global currentPDFPages
     global currentPDFPageIdx
-
+    global currentResultSceneMode
+    global currentResultCharacterMode
+    global currentResultCharacterSepType
+    global currentResultIsSuccess
+    set_preview_text(f"Processing {file_paths}")
+    currentResultSceneMode=""
+    currentResultCharacterMode=""
+    currentResultCharacterSepType=""
+    currentResultIsSuccess=""
+    updateInfoLabels()
     myprint7("runGroupJob > file_paths="+str(file_paths))
     first_path=file_paths[0]
     firstname, firstextension = os.path.splitext(first_path)
@@ -576,8 +648,15 @@ def runGroupJob(file_paths,method):
                     encoding_info = detect_file_encoding(file_path)
                     encoding=encoding_info['encoding']
                     myprint7("Encoding detected   : "+str(encoding))
-                    myprint7("Encoding confidence : "+str(encoding_info['confidence']))
-                    enc=get_encoding(encoding)
+                    myprint7("Encoding confidence is: "+str(encoding_info['confidence']))
+                    if encoding_info['confidence']>0.99:
+                        myprint7("Very good encoding confidence ")                        
+                        enc=encoding
+                    else:
+                        myprint7("Average default encoding confidence ")
+
+                        enc=get_encoding(encoding)
+
                     myprint7("Encoding used       : "+str(enc))
                     if first_enc==None:
                         first_enc=enc
@@ -596,8 +675,7 @@ def runGroupJob(file_paths,method):
                     hide_loading()
 
             except Exception as e:
-                file_preview.text_widget.delete(1.0, tk.END)
-                file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
+                set_preview_text( f"Error opening file: {e} tried with encoding{ enc}")
                 hide_loading()
 
     try:
@@ -608,33 +686,37 @@ def runGroupJob(file_paths,method):
             myprint7(" > Opened")
             content = file.read()
             myprint7(" > Read")
-            file_preview.text_widget.delete(1.0, tk.END)
-            file_preview.text_widget.insert(tk.END, content)
+            set_preview_text(content)
             
         myprint7(" > Process")
-        breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
-        myprint7(" > Processed")
-
-        if breakdown==None:
+        info=process_script(file_path,currentOutputFolder,name,method,enc)
+        if info["success"]==False:
             myprint7(" > Failed")
             hide_loading()
-        else:
-            myprint7(" > OK")
-            currentBreakdown=breakdown
+            return
+        
+        processInfo(info)
+        breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=info["success_result"]
 
-            png_output_file=currentOutputFolder+name+"_timeline.png"
-            currentTimelinePath=png_output_file
-            currentResultCharacterOrderMap=character_order_map
-            currentResultEnc=enc
-            currentResultName=name
-            currentResultLinecountMap=character_linecount_map
-            currentResultSceneCharacterMap=scene_characters_map
-            postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+        #breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,method,enc)
+        
+        myprint7(" > Processed")
+
+        myprint7(" > OK")
+        currentBreakdown=breakdown
+
+        png_output_file=currentOutputFolder+name+"_timeline.png"
+        currentTimelinePath=png_output_file
+        currentResultCharacterOrderMap=character_order_map
+        currentResultEnc=enc
+        currentResultName=name
+        currentResultLinecountMap=character_linecount_map
+        currentResultSceneCharacterMap=scene_characters_map
+        postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
             
 
     except Exception as e:
-        file_preview.text_widget.delete(1.0, tk.END)
-        file_preview.text_widget.insert(tk.END, f"Error opening file: {e} tried with encoding{ enc}")
+        set_preview_text( f"Error opening file: {e} tried with encoding{ enc}")
         hide_loading()
 
 def postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file):
@@ -1552,8 +1634,8 @@ class WordTableColumnSelector(tk.Toplevel):
         if character>-1 and dialog>-1:
             myprint7(f"ch={character} di={dialog}")
             params={
-                'param_type':'WORD'
-                ,'character':character,
+                'param_type':'WORD',
+                'character':character,
                 'dialog':dialog
             }
             threading.Thread(target=runJob,args=(self.file_path,countingMethod,params)).start()
@@ -1577,6 +1659,7 @@ class WordTableColumnSelector(tk.Toplevel):
         self.check_vars = []
 
         for i, _ in enumerate(self.table_list):
+            myprint7(f"WordTableColumnSelector update listbox tablelist {i}")
             var = tk.BooleanVar()
             if len(self.table_list) == 1:  # Check the checkbox by default if there's only one table
                 var.set(True)
@@ -1592,7 +1675,8 @@ class WordTableColumnSelector(tk.Toplevel):
 
         if len(self.table_list)==1 :
             self.on_table_select(0)
-
+    def get_first_20_chars(self,s):
+        return s[:20] if len(s) > 20 else s
     def get_dialog_col(self):
         for idx,k in (self.comboboxes.items()):
             if k.get() == "DIALOGUE" or k.get()=="LES DEUX":
@@ -1612,9 +1696,13 @@ class WordTableColumnSelector(tk.Toplevel):
             if success:
                 self.detect_map=map_
                 self.show_table_preview(table,self.detect_map)
+            else:
+                self.detect_map=map_
+                self.show_table_preview(table,self.detect_map)
     comboboxes={}
     detect_map={}
     column_labels = []
+
     def show_table_preview(self,  table,map_):
         myprint7("WordTableColumnSelector show_table_preview")
         for widget in self.table_frame.winfo_children():
@@ -1624,19 +1712,21 @@ class WordTableColumnSelector(tk.Toplevel):
         self.column_labels = [[] for _ in range(num_cols)]
         options = ["-", "PERSONNAGE", "DIALOGUE", "LES DEUX"]
         col_widths = [0] * num_cols
-          # Calculate the max width for each column based on the content
+
+        # Calculate the max width for each column based on the content
         for row in table.rows[:3]:
             sumcolwidth=0
             for col_idx, cell in enumerate(row.cells):
                 cell_text = cell.text
                 cell_text="\n".join(cell_text.split(" ")) 
+                cell_text=self.get_first_20_chars(cell_text)
                 cell_width = tkFont.Font().measure(cell_text)
                 if cell_width > col_widths[col_idx]:
                     col_widths[col_idx] = cell_width
                 sumcolwidth=sumcolwidth+col_widths[col_idx]
             for col_idx, cell in enumerate(row.cells):
                 if sumcolwidth>600:        
-                  col_widths[col_idx] = int(col_widths[col_idx]*0.7)
+                  col_widths[col_idx] = 100#int(col_widths[col_idx]*0.7)
                 else:
                   col_widths[col_idx] = int(col_widths[col_idx])
             myprint7("sumcolwidth"+str(sumcolwidth))
@@ -1705,8 +1795,10 @@ class WordTableColumnSelector(tk.Toplevel):
                     headerfore="#cccccc"
 
                 cell_text = cell.text
+                cell_text=self.get_first_20_chars(cell_text)
                 if row_idx==0:
-                    cell_text="\n".join(cell_text.split(" ")) 
+                    cell_text="\n".join(cell_text.split(" "))
+                    cell_text=self.get_first_20_chars(cell_text)
                 if row_idx==0:
                     header_label = tk.Label(self.table_frame, text=cell_text, borderwidth=1, relief="solid", width=col_widths[col_idx] // 8, bg=headerbg, fg=headerfore)                
                 else:
@@ -2638,6 +2730,49 @@ class PDFViewer:
     def get_last_page(self):
         return int(self.input_lastpage.get())
     page_split_elements=[]
+    def read_pdf_tables_with_pdfplumber(self):
+        myprint7("readpdf")
+        res=[]
+        with pdfplumber.open(self.file_path) as pdf:
+            for page_number, page in enumerate(pdf.pages, start=1):
+                myprint7("readpdf page"+str(page_number))
+                tables = page.extract_tables()
+                
+                for table_number, table in enumerate(tables, start=1):
+                    
+                    row_count = len(table)
+                    column_count = len(table[0]) if row_count > 0 else 0
+                    
+
+                    myprint7(f"Page {page_number} Table {table_number}:")
+                    myprint7(f"Row count: {row_count}")
+                    myprint7(f"Column count: {column_count}")
+                    
+                    rescells=[]
+                    for row_index, row in enumerate(table):
+                        myprint7(f"Add row : {row_index} {row}")
+                        resrow=[]
+                        for col_index, cell in enumerate(row):
+                            myprint7(f"myCell({row_index}, {col_index}): {cell}")
+                            resrow.append(cell)
+                                
+                        if False:
+                            for col_index in range(1,column_count):
+                                myprint7(f"Cell idx={col_index}")
+                                cell =row[col_index]
+                                myprint7(f"Cell {col_index} cell={cell}")
+                                row.append(cell)
+                                myprint7(f"Cell({row_index}, {col_index}): {cell}")
+                        rescells.append(resrow)
+                    myprint7("\n")
+
+                    table={
+                        "row_count":row_count,
+                        "col_count":column_count,
+                        "cells":rescells
+                    }
+                    res.append(table)
+        return res
     def run_elements(self):
         myprint7("RUN PDF")
         global currentFilePath
@@ -2655,84 +2790,86 @@ class PDFViewer:
         global currentPDFPages
         global currentPDFPageIdx
 
-        self.pdf_mode,self.all_text_elements,self.page_split_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
-        myprint7("all blocks: "+str(len(self.all_text_elements)))
-        
-
-        x1=self.left_threshold
-        x2=self.canvas_width-self.right_threshold
-        y1=self.canvas_height-self.top_threshold
-        y2=self.bottom_threshold
-        x2=self.pdf_page_width-self.right_threshold
-        y1=self.pdf_page_height-self.top_threshold
-        
-        if self.pdf_mode=="TABLE":
-            myprint7("MERGE_PAGE_WORDS")
-            line_merged_elements=[]
-            for k in self.page_split_elements:
-                res=split_elements(k,x1,y1,x2,y2)
-                
-                grouped=self.group_words_into_lines(res['center'],3)
-                grouped = sorted(grouped, key=lambda x: x['bbox'][1], reverse=True)
-
-                line_merged_elements.extend(grouped)
-            self.all_centered_blocks=line_merged_elements
+        myprint7("pre")
+        tablelist=self.read_pdf_tables_with_pdfplumber()
+        forceCharacterMode=None
+        if len(tablelist)>0:
+            myprint7("hastables")
+            if ".pdf" in self.file_path.lower() :
+                converted_file_path=os.path.join(self.currentOutputFolder, os.path.basename(self.file_path).lower().replace(".pdf",".converted.txt"))
+            converted_file_path=convert_pdftables_to_txt(tablelist,converted_file_path)
+            forceCharacterMode="CHARACTER_TAB"
         else:
-
- #           myprint7("TABLE CENTER group "+str(res))
-  #          myprint7("TABLE CENTER group "+str(self.all_centered_blocks))
+            myprint7("hasnotables")
+            myprint7("pre end")
+    #
+            self.pdf_mode,self.all_text_elements,self.page_split_elements=get_pdf_text_elements(self.file_path,-1,self.get_first_page(),self.get_last_page(),self.progress_bar)
+            myprint7("all blocks: "+str(len(self.all_text_elements)))
             
-   #         self.all_centered_blocks=self.group_words_into_lines(self.all_centered_blocks,3)
-    #        myprint7("TABLE CENTER group after "+str(self.all_centered_blocks))
 
-
-
-            res=split_elements(self.all_text_elements,x1,y1,x2,y2)
-            self.all_centered_blocks=res['center'];
-        
-#        if self.pdf_mode=="TABLE":
- #           myprint7("TABLE CENTER group "+str(res))
-  #          myprint7("TABLE CENTER group "+str(self.all_centered_blocks))
+            x1=self.left_threshold
+            x2=self.canvas_width-self.right_threshold
+            y1=self.canvas_height-self.top_threshold
+            y2=self.bottom_threshold
+            x2=self.pdf_page_width-self.right_threshold
+            y1=self.pdf_page_height-self.top_threshold
             
-   #         self.all_centered_blocks=self.group_words_into_lines(self.all_centered_blocks,3)
-    #        myprint7("TABLE CENTER group after "+str(self.all_centered_blocks))
+            if self.pdf_mode=="TABLE":
+                myprint7("MERGE_PAGE_WORDS")
+                line_merged_elements=[]
+                for k in self.page_split_elements:
+                    res=split_elements(k,x1,y1,x2,y2)
+                    
+                    grouped=self.group_words_into_lines(res['center'],3)
+                    grouped = sorted(grouped, key=lambda x: x['bbox'][1], reverse=True)
+
+                    line_merged_elements.extend(grouped)
+                self.all_centered_blocks=line_merged_elements
+            else:
 
 
-        myprint7("centered blocks: "+str(len(self.all_centered_blocks)))
-        converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
-        myprint7("converted "+str(converted_file_path))
-        
+                res=split_elements(self.all_text_elements,x1,y1,x2,y2)
+                self.all_centered_blocks=res['center'];
+            
+
+            myprint7("centered blocks: "+str(len(self.all_centered_blocks)))
+            converted_file_path,enc=run_convert_pdf_to_txt(self.file_path,self.currentOutputFolder,self.all_centered_blocks, self.encoding)
+            myprint7("converted "+str(converted_file_path))
+        myprint7("converted_file_path "+str(converted_file_path))
+
         with open(converted_file_path, 'r', encoding=self.encoding) as file:
-            file_path=converted_file_path
-            file_name = os.path.basename(file_path)
+            file_name = os.path.basename(converted_file_path)
             currentScriptFilename=file_name
             name, extension = os.path.splitext(file_name)
-            myprint7("Opened")
+            myprint7("Opened 1")
             content = file.read()
-            myprint7("Read")
-            file_preview.text_widget.delete(1.0, tk.END)
-            file_preview.text_widget.insert(tk.END, content)
+            myprint7("Read 1")
+            set_preview_text( content)
             
             enc=self.encoding
-            myprint7("Process")
-            breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=process_script(file_path,currentOutputFolder,name,"ALL",enc)
+            myprint7("Process 1 "+str(forceCharacterMode))
+            info=process_script(converted_file_path,currentOutputFolder,name,"ALL",enc,forceCharacterMode=forceCharacterMode)
+            myprint7("Process 1done")
+            
+            myprint7("Process done suc="+str(info["success"]))
 
-            myprint7("Processed")
-            if breakdown==None:
-                myprint7("Failed")
+            if info["success"]==False:
+                myprint7(" > Failed")
                 hide_loading()
-            else:
-                myprint7("OK")
-                currentBreakdown=breakdown
-                png_output_file=currentOutputFolder+name+"_timeline.png"
-                currentTimelinePath=png_output_file
-                currentResultCharacterOrderMap=character_order_map
-                currentResultEnc=self.encoding
-                currentResultName=name
-                currentResultLinecountMap=character_linecount_map
-                currentResultSceneCharacterMap=scene_characters_map
-                postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
-   
+                return        
+            processInfo(info)
+            breakdown,character_scene_map,scene_characters_map,character_linecount_map,character_order_map,character_textlength_map=info["success_result"]
+            myprint7("OK")
+            currentBreakdown=breakdown
+            png_output_file=currentOutputFolder+name+"_timeline.png"
+            currentTimelinePath=png_output_file
+            currentResultCharacterOrderMap=character_order_map
+            currentResultEnc=self.encoding
+            currentResultName=name
+            currentResultLinecountMap=character_linecount_map
+            currentResultSceneCharacterMap=scene_characters_map
+            postProcess(breakdown,character_order_map,enc,name,character_linecount_map,scene_characters_map,png_output_file)
+
 
 
 
@@ -3016,6 +3153,9 @@ class TextPreview:
 def show_info():
     global currentBlockSize
     global currentOutputFolder
+    global currentResultCharacterMode
+    global currentResultCharacterSepType
+    global currentResultSceneMode
     global currentFilePath
     global currentConvertedFilePath
     global currentScriptFilename
@@ -3024,7 +3164,10 @@ def show_info():
 'currentOutputFolder':currentOutputFolder,
 'currentFilePath':currentFilePath,
 'currentConvertedFilePath':currentConvertedFilePath,
-'currentScriptFilename':currentScriptFilename
+'currentScriptFilename':currentScriptFilename,
+'currentResultCharacterMode':currentResultCharacterMode,
+'currentResultSceneMode':currentResultSceneMode,
+'currentResultCharacterSepType':currentResultCharacterSepType
 
     }
     show_info_data(data)
@@ -3123,7 +3266,11 @@ try:
     folder_icon = tk.PhotoImage(file=icons_dir+"folder_icon.png")  # Adjust path to your icon file
     import_icon = tk.PhotoImage(file=icons_dir+"import.png")  # Adjust path to your icon file
     txt_icon = tk.PhotoImage(file=icons_dir+"txt_icon.png")  # Adjust path to your icon file
-    docx_icon = tk.PhotoImage(file=icons_dir+"docx_icon.png")  # Adjust path to your icon file
+    txt_icon2 = tk.PhotoImage(file=icons_dir+"txt.png")  # Adjust path to your icon file
+    docx_icon = tk.PhotoImage(file=icons_dir+"docx_icon2.png")  # Adjust path to your icon file
+    rtf_icon = tk.PhotoImage(file=icons_dir+"rtf_icon.png")  # Adjust path to your icon file
+    xlsx_icon = tk.PhotoImage(file=icons_dir+"xlsx_icon.png")  # Adjust path to your icon file
+    pdf_icon = tk.PhotoImage(file=icons_dir+"pdf_icon.png")  # Adjust path to your icon file
     original_icon = tk.PhotoImage(file=icons_dir+"textd_icon.png")  # Adjust path to your icon file
     char_icon = tk.PhotoImage(file=icons_dir+"character_icon.png")  # Adjust path to your icon file
     timeline_icon = tk.PhotoImage(file=icons_dir+"timeline_icon.png")  # Adjust path to your icon file
@@ -3509,6 +3656,14 @@ try:
     ################################################################################
     tab_export = ttk.Frame(notebook)
     # Load folder button
+    tab_result_issuccess_label = tk.Label(tab_export, text="Success",
+                              font=bold_font, anchor="w", justify="left")
+    tab_result_issuccess_label.pack(pady=0, fill="x", padx=(10, 0)) 
+    tab_result_mode_label = tk.Label(tab_export, text="Mode",
+                              font=bold_font, anchor="w", justify="left")
+    tab_result_mode_label.pack(pady=0, fill="x", padx=(10, 0)) 
+
+
     load_button = ttk.Button(tab_export, text="Ouvrir le dossier de résultats...", command=open_result_folder)
     load_button.pack(side=tk.TOP, fill=tk.X,padx=20,pady=20)
     load_button = ttk.Button(tab_export, text="Ouvrir le fichier de conversion ...", command=open_conversion_file)

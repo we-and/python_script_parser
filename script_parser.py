@@ -15,6 +15,7 @@ from utils import get_log_file_path
 import pdfplumber
 import logging
 import chardet
+from utils import get_file_extension
 from utils_parser import count_nonempty_lines_in_file ,is_characterline_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,extract_character_name_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,is_text_with_brackets_pattern,extract_text_after_brackets,extract_text_between_brackets,extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_DIALOG,matches_number_parenthesis_timecode,extract_scene_name,is_scene_line,isSeparatorEmptyLinesTimecode,isSeparatorNameParenthesisTimecode,isSeparatorParenthesisNameTimecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,extract_matches,matches_scenestart_sceneno,count_lines_in_file,count_matches_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE,count_matches_LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG,getCharacterSepType,extract_scene_name1,extract_scene_name2,extract_character_name,ensure_dialog_starts_with_uppercase,extract_charactername_CHARACTERUPPERCASE_DIALOG,extract_charactername_CHARACTERUPPERCASE_DIALOG_regex,extract_charactername_NAME_ATLEAST1TAB_TEXT,extract_charactername_NAME_ATLEAST8SPACES_TEXT,extract_charactername_NAME_SEMICOLON_DIALOG,extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,extract_speech,extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,is_character_speaking,is_matching_character_speaking,getSceneSeparator,detectCharacterSeparator,matches_CHARACTERUPPERCASE_DIALOG,matches_charactername_NAME_SEMICOLON_DIALOG,countMethods
 from  constants import action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
 from utils_filters import filter_character_name
@@ -172,6 +173,8 @@ def compute_length(line,method):
 
 def read_docx(file_path):
     # Load the document
+    myprint1("OPEN DOCX 4")
+
     doc = Document(file_path)
     
     # Iterate through each paragraph in the document
@@ -1727,7 +1730,6 @@ def convert_pdf_title(file,table,titleIdx):
             parts=title.split("\n")
             character=""
             speech=""
-            hascharacter=False
             for part in parts:
                 if part.isupper():
                     character=character+" " +part
@@ -1791,6 +1793,33 @@ def detect_word_table(table,forceMode="",forceCols={}):
 
     idx=0
     for cell in header.cells:
+        t='NONE'        
+        idx=idx+1
+        map_[idx]={'type':t}
+    return False,"",-1,-1,map_
+
+
+def detect_universal_table(table_idx,table,forceMode="",forceCols={}):
+    myprint1(f"detect_universal_table {table_idx} {table['row_count']} x {table['col_count']}")
+    cells=table['cells']
+    row_count=table['row_count']
+    col_count=table['col_count']
+    myprint1(f"detect_universal_table size= {row_count} x {col_count}")
+    
+   
+    for i in range(6):
+        if i<row_count:
+            myprint1("try header "+str(i))
+            row=cells[i]
+            myprint1("header read ")        
+            success, mode, character,dialog,map_= detect_universal_header(table_idx,table,row,forceMode,forceCols)
+            myprint1("header success= "+str(success)+" "+str(map_))        
+            if success:
+                return success, mode, character,dialog,map_
+    
+
+    idx=0
+    for col_idx in range(0,table['col_count']):
         t='NONE'        
         idx=idx+1
         map_[idx]={'type':t}
@@ -1890,6 +1919,293 @@ def detect_word_header(header,forceMode="",forceCols={}):
     for cell in header.cells:
         myprint1(f"  test idx={idx} d={dialog}")
         t=cell.text.strip()
+        if idx==dialog and idx==character:
+            t='BOTH'
+        elif idx==dialog:
+            t='DIALOG'
+        elif idx==character:
+            t='CHARACTER'
+        else:
+            t='NONE'
+        
+        map_[idx]={'type':t}
+        idx=idx+1
+
+    myprint1("detect_word_header done")
+    myprint1("map_"+str(map_))
+    myprint1("mode"+str(mode))
+    myprint1("dialog"+str(dialog))
+    myprint1("character"+str(character))
+    
+
+    if docx_mode_dialogue_characterid:
+        return True, mode, character,dialog,map_
+    elif docx_mode_scenedescription:
+        return True, mode, character,dialog,map_
+    elif docx_mode_dialogwithspeakerid:
+        return True, mode, character,dialog,map_
+    elif bothCol>-1:
+        return True, mode, character,dialog,map_
+   # elif docx_mode_combined_continuity:
+    #    return True, mode, character,dialog,map_
+    else:
+        myprint1("Tables but no automatic header match")
+        return False, mode, character,dialog,map_
+
+def convert_selection_to_char_dialog(selections):
+    myprint1("sel"+str(selections))
+    res=[]
+    characterCol=-1
+    dialogCol=-1
+    for idx,selection in enumerate(selections):
+        myprint1(f"table_idx={idx} valobj={selection}")
+
+        for col_idx,valobj in enumerate(selection):
+            myprint1(f"col={col_idx} valobj={selection[col_idx]}")
+            val=selection[col_idx]['type']
+            if val=="CHARACTER" or val=="LES DEUX":
+                characterCol=col_idx
+            if val=="DIALOG" or val=="LES DEUX":
+                dialogCol=col_idx
+    res={}
+    res['character']=characterCol
+    res['dialog']=dialogCol
+    return res
+
+def convert_universaltables_combined(file,table,bothCol):
+    myprint1(f"convert_docx_combined {bothCol}")
+    cells=table['cells']
+    mode="LINEAR"
+    
+    for row_idx,row in enumerate(cells):
+        myprint1(f"---")
+        
+        isglobalmergecell=True
+        comp=row[0]
+        myprint1("convert_docx_combined comp= "+ comp)
+        for colidx,cell in enumerate(row):
+            myprint1("convert_docx_combined comp with"+ row[colidx])
+
+            if comp!=cell:
+                isglobalmergecell=False
+        myprint1("convert_docx_combined ismerged"+ str(isglobalmergecell))
+
+        if isglobalmergecell:
+            continue
+
+        
+        cellcontent=row[bothCol].strip() 
+        myprint1(f"zz {row_idx} {cellcontent}")     
+        mode =detect_split_or_linear_mode_both(cellcontent)
+        lines=cellcontent.split("\n")
+        if mode=="LINEAR" :   
+            nlines=len(lines)
+            combinedCellMode="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2"
+            if combinedCellMode=="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2":
+                for line_idx,line in enumerate(lines):
+                    if line.isupper() and line_idx+1<nlines :
+                        current_character=lines[line_idx].strip()
+                        speech=lines[line_idx+1].strip()
+                        myprint1("convert_docx_combined Add char="+ current_character + " sp="+ speech)
+                        res=current_character+"\t"+speech+"\n"  # New line after each row
+                        file.write(res)   
+#            elif combinedCellMode=="CHARACTER1_CHARACTER2_DIALOG1_DIALOG2":
+
+            
+            if False:
+                current_character=lines[0].strip()
+                speech=" ".join(lines[1:]).strip()
+
+                current_character=filter_character_name(current_character)
+                speech=filter_speech(speech)
+                myprint1("convert_docx_combined Add char="+ current_character + " sp="+ speech)
+                res=current_character+"\t"+speech+"\n"  # New line after each row
+                myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
+                file.write(res)   
+        elif mode=="SPLIT":
+            sep=find_split_sep(cellcontent)
+                            
+            speakers=extract_speakers(lines[0])
+            myprint1("convert_docx_combined MODE SPLIT sep='"+str(sep)+"'")
+            if sep=="\n":
+                dialoguespl=lines[1:]
+            elif sep=='- ':
+                dialogue=" ".join(lines[1:])
+                dialoguespl=dialogue.split(sep)
+
+            myprint1("convert_docx_combined characters"+str(speakers))
+            filtered_array = [element for element in dialoguespl if element]
+            myprint1("convert_docx_combined dialogue"+str(filtered_array))
+
+            for index,k in enumerate(speakers):
+                myprint1("convert_docx_combined index"+str(index)+" k="+str(k))
+
+                current_character=filter_character_name(k)
+                speech= filter_speech(lines[index+1])
+                res=current_character+"\t"+speech+"\n"  # New line after each row
+                myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
+                file.write(res)    
+    
+def convert_universaltables_separated(file,table,characterIdCol,dialogueCol):
+    myprint1("convert_docx_characterid_and_dialogue")
+    # Iterate through each row in the table
+    current_character=""
+    is_song_sung_by_character=False
+    cells=table['cells']
+    start=0
+    for row_idx,row in enumerate(cells):
+        if row_idx<=start:
+            continue
+        
+        dialogue=cells[dialogueCol].strip()
+        character=cells[characterIdCol].strip()
+
+        mode="LINEAR"
+        dialogue=dialogue.replace("\n","")
+        myprint1("----------")
+        myprint1("dialogue"+dialogue)
+        myprint1("character"+character)
+        mode =detect_split_or_linear_mode_separated(character)
+        
+
+        if mode=="LINEAR" :   
+        
+            if len(character)>0:
+                current_character=character
+            if len(dialogue)>0:  
+                is_didascalie=dialogue.startswith("(")
+                is_song=dialogue.startswith("♪") 
+                is_song_sung_by_character=is_song and len(character)>0 #song starts but has character name on it
+                if is_song:
+                    dialogue=filter_speech(dialogue)             
+                    force_current_character="__SONG"
+                    if is_song_sung_by_character:
+                         force_current_character=current_character
+                    s=force_current_character+"\t"+dialogue+"\n"  # New line after each row
+                    myprint1("Add "+ force_current_character + " "+ dialogue)
+                    file.write(s)
+                else:
+                    is_song_sung_by_character=False
+                if not is_didascalie and not is_song: 
+                    dialogue=filter_speech(dialogue)             
+                    if current_character=="":
+                        current_character="__VOICEOVER"
+                    s=current_character+"\t"+dialogue+"\n"  # New line after each row
+                    myprint1("Add "+ current_character + " "+ dialogue)
+                    file.write(s)
+        elif mode=="SPLIT":
+            speakers=extract_speakers(character)
+            myprint1("MODE SPLIT")
+            myprint1("characters"+str(speakers))
+            dialoguespl=dialogue.split("- ")
+            filtered_array = [element for element in dialoguespl if element]
+            myprint1("dialogue"+str(filtered_array))
+            for index,k in enumerate(speakers):
+                myprint1("index"+str(index)+" k="+str(k))
+
+                current_character=k
+                speech=filter_speech( filtered_array[index])
+                s=current_character+"\t"+speech+"\n"  # New line after each row
+                myprint1("Add "+ current_character + " "+ dialogue)
+                file.write(s) 
+
+
+def convert_universaltables_to_txt(file,univtables,params):
+    for k, table in enumerate(univtables):
+        myprint1(" -------------  test word header -----------")
+        myprint1("test_word_header_and_convert params"+str(params))
+        res=        convert_selection_to_char_dialog(params['selection'])
+        char=res['character']
+        dial=res['dialog']
+        
+        if char==dial:
+            convert_universaltables_combined(file,table,char)
+            return True
+        else:
+            convert_universaltables_separated(file,table,char,dial)
+            return True
+
+def detect_universal_header(table_idx, table,header,forceMode="",forceCols={}):
+    myprint1("-------------- detect_universal_header "+str(table_idx)+" -----------------")
+    myprint1("forceMode"+str(forceMode))
+    myprint1("forceCols"+str(forceCols))
+    dialogueCol=-1
+    characterIdCol=-1
+    combinedContinuityCol=-1
+    titlesCol=-1
+    bothCol=-1
+    sceneDescriptionCol=-1
+    idx=0
+
+    docx_mode_dialogue_characterid= False
+    docx_mode_combined_continuity= False
+    docx_mode_scenedescription= False
+    docx_mode_dialogwithspeakerid=False
+
+    if len(forceMode)>0:
+        if forceMode=="DETECT_CHARACTER_DIALOG":
+            dialogueCol=forceCols['DIALOG']
+            characterIdCol=forceCols['CHARACTER']
+            docx_mode_dialogue_characterid=True
+            myprint1("CHARACTER "+str(characterIdCol))
+            myprint1("DIALOG "+str(dialogueCol))
+        else:
+            myprint1("UNKNOWN FORCE MODE")
+    else:
+        
+        myprint1(f"Header nCols={len(header)}:")
+        for col_idx,cell in enumerate(header):
+            t=cell.strip()
+            myprint1("   * "+str(t))
+            if isTableColumnCharacter(t):
+                characterIdCol=idx
+            elif isTableDialogColumn(t):
+                dialogueCol=idx
+            elif isTableColumnTitle(t):
+                titlesCol=idx
+            elif isTableColumnBoth(t):
+                bothCol=idx
+            idx=idx+1
+
+    myprint1(f"dialogCol {dialogueCol}")
+    myprint1(f"characterIdCol {characterIdCol}")
+    myprint1(f"combinedContinuityCol {combinedContinuityCol}")
+    myprint1(f"titlesCol {titlesCol}")
+    myprint1(f"sceneDescriptionCol {sceneDescriptionCol}")
+    myprint1(f"dialogWithSpeakerId {bothCol}")
+    myprint1("detect_word_header assigned")
+    docx_mode_dialogue_characterid= dialogueCol>-1 and characterIdCol>-1
+    #docx_mode_combined_continuity= combinedContinuityCol>-1
+    docx_mode_scenedescription= sceneDescriptionCol>-1 and titlesCol>-1
+    docx_mode_dialogwithspeakerid=bothCol>-1
+    myprint1("detect_word_header assigned mode")
+
+    if dialogueCol>-1 and characterIdCol==-1:
+        bothCol=dialogueCol
+
+    mode=None
+    character=None
+    dialog=None
+    map_={}
+    idx=0
+    myprint1("detect_word_headermap")
+
+    if dialogueCol>-1 and characterIdCol>-1:
+        mode="SPLIT"
+        character=characterIdCol
+        dialog=dialogueCol
+    if sceneDescriptionCol>-1 and titlesCol>-1:
+        mode="COMBINED"
+        character=titlesCol
+        dialog=titlesCol
+    if   bothCol>-1:
+        mode="COMBINED"
+        character=bothCol
+        dialog=bothCol
+
+    myprint1(f"detect_word_header gen map mode={mode} d={dialog} c={character}")
+    for col_idx,cell in enumerate(header):
+        t=cell.strip()
         if idx==dialog and idx==character:
             t='BOTH'
         elif idx==dialog:
@@ -2075,17 +2391,14 @@ def test_xlsx_header_and_convert(file,df,rowidx,absCurrentOutputFolder,forceMode
         else:
             myprint1("UNKNOWN FORCE MODE")
     else:
-
         row_data = df.iloc[rowidx, :]
 
         # Loop over the cells of the row
         for colidx, cell in enumerate(row_data):   
-
             t=access_cell(df,rowidx, colidx)
             myprint1("testcol"+str(rowidx)+" "+str(colidx)+" = "+str(t))
             if not pd.isna(cell):
-                t=cell.strip()
-                
+                t=cell.strip()                
                 myprint1("Header "+str(rowidx)+","+str(colidx)+str(t))
                 if isTableColumnCharacter(t):
                     characterIdCol=idx
@@ -2277,6 +2590,7 @@ def word_has_paragraph_style_character(para):
     styles=get_paragraph_style_hierarchy(para)
     styles = ' > '.join(styles)
     return "CHARACTER" in styles
+
 def convert_pdftables_to_txt(listtables,converted_file_path):
     
     with open(converted_file_path, 'w', encoding='utf-8') as file:
@@ -2369,9 +2683,24 @@ def detect_plaintext_indented(doc):
         return True
     else:
         return False        
-            
+
+def get_universal_converted_path(file_path,absCurrentOutputFolder):
+    fileext=get_file_extension(file_path)
+    if fileext==".docx":
+        return    get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)    
+    if fileext==".pdf":
+        return    get_pdf_to_txt_converted_filepath(file_path,absCurrentOutputFolder)    
+    if fileext==".xlsx":
+        return    get_xlsx_to_txt_converted_filepath(file_path,absCurrentOutputFolder)    
+    return ""
 def get_docx_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
     converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".docx",".converted.txt"))
+    return converted_file_path
+def get_pdf_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
+    converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".pdf",".converted.txt"))
+    return converted_file_path
+def get_xlsx_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
+    converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".xlsx",".converted.txt"))
     return converted_file_path
 def get_doc_to_txt_converted_filepath(file_path,absCurrentOutputFolder):
     converted_file_path=os.path.join(absCurrentOutputFolder, os.path.basename(file_path).replace(".doc",".converted.txt"))
@@ -2398,6 +2727,8 @@ def convert_word_to_txt(file_path,absCurrentOutputFolder,forceMode="",forceCols=
 
     myprint1("Converted file path : "+converted_file_path)    
     myprint1("Doc opening         : "+file_path)
+    myprint1("OPEN DOCX 3")
+
     doc = Document(file_path)
     myprint1("Doc opened")
 

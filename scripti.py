@@ -1,10 +1,11 @@
 import os
 import tkinter as tk
 from tkinter import ttk, filedialog, Text,Menu,Toplevel,Scrollbar, Scale, HORIZONTAL, VERTICAL
-from script_parser import convert_pdftables_to_txt,process_script,get_pdf_page_blocks,detect_word_table,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
+from script_parser import get_universal_converted_path,convert_universaltables_to_txt,detect_universal_table,convert_pdftables_to_txt,process_script,get_pdf_page_blocks,detect_word_table,run_convert_pdf_to_txt,split_elements, get_pdf_text_elements, is_supported_extension,convert_word_to_txt,convert_xlsx_to_txt,convert_rtf_to_txt,convert_pdf_to_txt,filter_speech
 from utils import get_intial_treeview_folder_path,get_setting_ini_path,copy_folder_contents,get_excel_column_name,help_word_table,help_pdf_text,help_merge,make_dpi_aware,detect_file_encoding,get_os,convert_csv_to_xlsx,get_encoding,get_log_file_path,get_temp_folder_path,get_recentfiles_file_path,save_string_to_file
 import pandas as pd
-
+from utils import get_file_extension
+from to_universal_table import convert_pdf_to_universaltables,convert_docx_to_universaltables,convert_xlsx_to_universaltables
 import io
 import tkinter.font as tkFont
 import subprocess
@@ -324,6 +325,7 @@ def update_recent_files_menu():
 def reset_tabs():
     if importTab != None:
         importTab.destroy()    
+
 def runJobPreprocessing(file_path,enc,params={}):
     myprint7("runJobPreprocessing")
     global currentFilePath
@@ -344,6 +346,10 @@ def runJobPreprocessing(file_path,enc,params={}):
     file_name = os.path.basename(file_path)
     currentScriptFilename=file_name
     name, extension = os.path.splitext(file_name)
+    is_table=is_table_document(file_path)
+    if is_table:
+        univtables=get_universal_tables_from_file(file_path)
+
     #DOCX
     if extension==".docx" or extension==".doc":
         myprint7("runJobPreprocessing > Conversion Word to txt")
@@ -351,26 +357,29 @@ def runJobPreprocessing(file_path,enc,params={}):
          #   importTab.destroy()       
             #importTab.reset(file_path)
         myprint7("runJobPreprocessing> open"+str(file_path))
-        doc = Document(file_path)
+        myprint7("OPEN DOCX 2")
+
+        doc = Document(file_path) 
         myprint7("runJobPreprocessing opened")
         forceMode=""
         forceCols={}
         myprint7(f"runJobPreprocessing opened params={params}")
 
-        if 'param_type' in params and params['param_type']=="WORD":
-            if 'character' in params and 'dialog' in params:
-                char=params['character']
-                dial=params['dialog']
-                #if char!=dial:
-                if True:
-                    forceMode="DETECT_CHARACTER_DIALOG"
-                    forceCols={
-                        "CHARACTER":char,
-                        "DIALOG":dial
-                    }    
+        if False:
+            if 'param_type' in params :
+                if 'character' in params and 'dialog' in params:
+                    char=params['character']
+                    dial=params['dialog']
+                    #if char!=dial:
+                    if True:
+                        forceMode="DETECT_CHARACTER_DIALOG"
+                        forceCols={
+                            "CHARACTER":char,
+                            "DIALOG":dial
+                        }    
         myprint7("runJobPreprocessing nbTables="+str(len(doc.tables)))
 
-        if len(doc.tables) > 0:
+        if is_table:
             myprint7("runJobPreprocessing has table, show_importtable_tab")
             if len(params)==0:
                 myprint7("runJobPreprocessing has table, show_importtable_tab 2")
@@ -379,15 +388,23 @@ def runJobPreprocessing(file_path,enc,params={}):
         else:
             myprint7("runJobPreprocessing no table, hide_importtable_tab")
  #           hide_importtable_tab()
-
-        converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
-        if len(converted_file_path)==0:
-            myprint7("runJobPreprocessing ui Conversion docx to txt failed")
-            myprint7("runJobPreprocessing ui Failed")
-            hide_loading()
-            return 
-        file_path=converted_file_path
-        myprint7("runJobPreprocessing ui Converted file path :"+file_path)
+        absCurrentOutputFolder=os.path.abspath(currentOutputFolder)
+        if is_table:
+            converted_file_path=get_universal_converted_path(file_path,absCurrentOutputFolder)
+                
+            with open(converted_file_path, 'w', encoding='utf-8') as file:
+                res_converted_file_path=convert_universaltables_to_txt(file,univtables,params)
+                print("DONE PROCESS"+str(converted_file_path))
+                return converted_file_path
+        else:
+            converted_file_path=convert_word_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
+            if len(converted_file_path)==0:
+                myprint7("runJobPreprocessing ui Conversion docx to txt failed to"+str(converted_file_path))
+                myprint7("runJobPreprocessing ui Failed")
+                hide_loading()
+                return 
+            file_path=converted_file_path
+            myprint7("runJobPreprocessing ui Converted file path :"+file_path)
     
     #XLSX
     if extension==".xlsx":
@@ -466,6 +483,7 @@ def runJob(file_path,method,params={}):
     myprint7("File path               : "+str(file_path))
     myprint7("Params               : "+str(params))
 
+    
     set_preview_text(f"Processing {file_path}")
     update_recent_files(file_path)
     currentResultSceneMode=""
@@ -476,6 +494,7 @@ def runJob(file_path,method,params={}):
     currentFilePath=file_path
     currentConvertedFilePath=file_path
     reset_tables()
+    
     # Check if the selected item is a file and display its content
     if os.path.isfile(file_path):
         try:
@@ -1569,24 +1588,62 @@ def restore_characters():
 def on_resize(event):
         return
 
+def get_universal_tables_from_file(file_path):
+    fileext=get_file_extension(file_path)
+    if fileext==".docx":
+        return convert_docx_to_universaltables(file_path)            
+    elif fileext==".pdf":
+        return convert_pdf_to_universaltables(file_path)
+    elif fileext==".xlsx":
+        return convert_xlsx_to_universaltables(file_path)
+    return 
+def is_docx_table(file_path):
+    
+    myprint7("is_docx_table OPEN DOCX 1")
+    doc = Document(file_path)
+    n= len(doc.tables)
+    return  n > 0
+
+def is_pdf_table(file_path):
+
+    with pdfplumber.open(file_path) as pdf:
+        for page_num, page in enumerate(pdf.pages, 1):
+            if page_num<10:
+                table = page.extract_table()
+                if table:
+                    return True
+    return False
+def is_table_document(file_path):
+    myprint7("is_table_document"+file_path)
+    fileext=get_file_extension(file_path)
+    if fileext==".docx":
+        myprint7("is_table_document docx"+file_path)
+        return is_docx_table(file_path)            
+    elif fileext==".pdf":
+        return is_pdf_table(file_path)
+    elif fileext==".xlsx":
+        return True
+    return False
+
 class WordTableColumnSelector(tk.Toplevel):
     def __init__(self, parent, file_path):
         myprint7("TableColumnSelector init")
+        
         self.parent = parent
         self.table_list = []
         self.doc = None
         self.file_path=file_path
         self.check_vars = []
         self.create_widgets()
-        self.doc = Document(file_path)
-        self.table_list = [table for table in self.doc.tables]
+        self.univtables=get_universal_tables_from_file(file_path)
+        
+
         self.update_table_listbox()
         myprint7("TableColumnSelector tablecount = "+str(len(self.table_list)))
         
     def reset(self,file_path):
         myprint7("TableColumnSelector RESET")  
-        self.table_list = []
-        self.doc = None
+        self.univtables = None
         self.check_vars = []
         for widget in self.list_frame.winfo_children():
             widget.destroy()
@@ -1629,16 +1686,14 @@ class WordTableColumnSelector(tk.Toplevel):
 
     def run(self):
         myprint7("WordTableColumnSelector run")
-        dialog=self.get_dialog_col()
-        character=self.get_character_col()
-        if character>-1 and dialog>-1:
-            myprint7(f"ch={character} di={dialog}")
-            params={
-                'param_type':'WORD',
-                'character':character,
-                'dialog':dialog
-            }
-            threading.Thread(target=runJob,args=(self.file_path,countingMethod,params)).start()
+        res=self.get_tableformsres()
+        myprint7("RES "+str(res))
+        params={
+            'param_type':'UNIVERSAL',
+            'selection':self.supermap
+        }
+
+        threading.Thread(target=runJob,args=(self.file_path,countingMethod,params)).start()
 
     def destroy(self):
         myprint7("WordTableColumnSelector destroy")
@@ -1657,26 +1712,48 @@ class WordTableColumnSelector(tk.Toplevel):
             widget.destroy()
 
         self.check_vars = []
-
-        for i, _ in enumerate(self.table_list):
-            myprint7(f"WordTableColumnSelector update listbox tablelist {i}")
+        self.tableforms=[]  
+        self.supermap=[]
+        options = ["-", "PERSONNAGE", "DIALOGUE", "LES DEUX"]
+        for table_idx, table in enumerate(self.univtables):
+            myprint7(f"WordTableColumnSelector update table_idx={table_idx}")
+            success, mode, character,dialog,map_=detect_universal_table(table_idx,table,"",{})
+            self.supermap.append(map_)
+        
+            forms=[]            
+            col_count=table['col_count']
+            for k in range(0,col_count):
+                forms.append("-")
+            self.tableforms.append(forms)
+            
+            myprint7(f"WordTableColumnSelector update listbox tablelist {table_idx}")
             var = tk.BooleanVar()
-            if len(self.table_list) == 1:  # Check the checkbox by default if there's only one table
+            if len(self.univtables) == 1:  # Check the checkbox by default if there's only one table
                 var.set(True)
             chk = tk.Checkbutton(self.list_frame, variable=var)
-            lbl = tk.Label(self.list_frame, text=f"Table {i+1}")
-            chk.grid(row=i, column=0, sticky='w', padx=5, pady=2)
-            lbl.grid(row=i, column=1, sticky='w', padx=5, pady=2)
-            lbl.bind("<Button-1>", lambda e, idx=i: self.on_table_select(idx))
+            lbl = tk.Label(self.list_frame, text=f"Table {table_idx+1}")
+            chk.grid(row=table_idx, column=0, sticky='w', padx=5, pady=2)
+            lbl.grid(row=table_idx, column=1, sticky='w', padx=5, pady=2)
+            lbl.bind("<Button-1>", lambda e, idx=table_idx: self.on_table_select(idx))
             self.check_vars.append(var)
 
         self.list_frame.update_idletasks()
         self.left_canvas.config(scrollregion=self.left_canvas.bbox("all"))
 
-        if len(self.table_list)==1 :
+        if len(self.univtables)==1 :
             self.on_table_select(0)
     def get_first_20_chars(self,s):
         return s[:20] if len(s) > 20 else s
+    def get_tableformsres(self):
+        return self.supermap
+        res=[]
+        for table_idx,_ in range(0,len(self.univtables)):
+            tableres=[];
+            for idx,k in (self.comboboxes.items()):
+                tableres.append(k.get())
+            res.append(tableres)
+        return res
+
     def get_dialog_col(self):
         for idx,k in (self.comboboxes.items()):
             if k.get() == "DIALOGUE" or k.get()=="LES DEUX":
@@ -1687,55 +1764,51 @@ class WordTableColumnSelector(tk.Toplevel):
             if k.get() == "PERSONNAGE" or k.get()=="LES DEUX":
                 return idx
         return -1
-    def on_table_select(self, index):
+    def on_table_select(self, table_idx):
         myprint7("WordTableColumnSelector on_table_select")
-        table=self.table_list[index]
-        myprint7("on_table_select idx="+str(index)+" table="+str(table))
-        if len(self.detect_map)==0:
-            success, mode, character,dialog,map_=detect_word_table(table,"",{})        
-            if success:
-                self.detect_map=map_
-                self.show_table_preview(table,self.detect_map)
-            else:
-                self.detect_map=map_
-                self.show_table_preview(table,self.detect_map)
+        table=self.univtables[table_idx]
+        myprint7("on_table_select idx="+str(table_idx)+" table="+str(table))
+        self.show_table_preview(table_idx,table,self.supermap[table_idx])
+
     comboboxes={}
     detect_map={}
     column_labels = []
 
-    def show_table_preview(self,  table,map_):
+    def show_table_preview(self,table_idx,  table,map_):
         myprint7("WordTableColumnSelector show_table_preview")
         for widget in self.table_frame.winfo_children():
             widget.destroy()
 
-        num_cols = len(table.rows[0].cells)
+        cells=table['cells']
+
+        num_cols = table['col_count']
         self.column_labels = [[] for _ in range(num_cols)]
         options = ["-", "PERSONNAGE", "DIALOGUE", "LES DEUX"]
         col_widths = [0] * num_cols
 
         # Calculate the max width for each column based on the content
-        for row in table.rows[:3]:
+        for row in cells[:3]:
             sumcolwidth=0
-            for col_idx, cell in enumerate(row.cells):
-                cell_text = cell.text
+            for col_idx, cell in enumerate(row):
+                cell_text = cell
                 cell_text="\n".join(cell_text.split(" ")) 
                 cell_text=self.get_first_20_chars(cell_text)
                 cell_width = tkFont.Font().measure(cell_text)
                 if cell_width > col_widths[col_idx]:
                     col_widths[col_idx] = cell_width
                 sumcolwidth=sumcolwidth+col_widths[col_idx]
-            for col_idx, cell in enumerate(row.cells):
+            for col_idx, cell in enumerate(row): 
                 if sumcolwidth>600:        
-                  col_widths[col_idx] = 100#int(col_widths[col_idx]*0.7)
+                  col_widths[col_idx] = 100
                 else:
                   col_widths[col_idx] = int(col_widths[col_idx])
             myprint7("sumcolwidth"+str(sumcolwidth))
         myprint7("colwidth"+str(col_widths))
-
         myprint7("set col val")
+
         for col_idx in range(num_cols):
             myprint7("combobox gen"+str(col_idx))
-            combobox = ttk.Combobox(self.table_frame, values=options,width=col_widths[col_idx] // 8)
+            combobox= ttk.Combobox(self.table_frame, values=options,width=80 // 8)
             mapval=map_[col_idx]
             myprint7("set col val"+str(mapval))
             mapvaltype=mapval['type']
@@ -1759,7 +1832,9 @@ class WordTableColumnSelector(tk.Toplevel):
                     headerbg="black"
                     headerfore="white"
                     val=self.comboboxes[col].get()
-                    myprint7(val)
+                    self.supermap[table_idx][col_idx]={'type': val}
+                    myprint7(f"setval table_idx={table_idx} val="+val)
+                    myprint7(f"RES={self.supermap}")
                     if val!='DIALOGUE' and val!='PERSONNAGE' and val!='LES DEUX':
                         fore="grey"
                         bg="#ddd"
@@ -1779,8 +1854,8 @@ class WordTableColumnSelector(tk.Toplevel):
             self.comboboxes[col_idx]=combobox
 
         myprint7("colwidth"+str(col_widths))
-        for row_idx, row in enumerate(table.rows[:50]):
-            for col_idx, cell in enumerate(row.cells):
+        for row_idx, row in enumerate(cells[:50]):
+            for col_idx, cell in enumerate(row):
                 mapval=map_[col_idx]
                 mapvaltype=mapval['type']
                 bg="white"
@@ -1794,7 +1869,7 @@ class WordTableColumnSelector(tk.Toplevel):
                     headerbg="#555"
                     headerfore="#cccccc"
 
-                cell_text = cell.text
+                cell_text = cell
                 cell_text=self.get_first_20_chars(cell_text)
                 if row_idx==0:
                     cell_text="\n".join(cell_text.split(" "))
@@ -2730,49 +2805,7 @@ class PDFViewer:
     def get_last_page(self):
         return int(self.input_lastpage.get())
     page_split_elements=[]
-    def read_pdf_tables_with_pdfplumber(self):
-        myprint7("readpdf")
-        res=[]
-        with pdfplumber.open(self.file_path) as pdf:
-            for page_number, page in enumerate(pdf.pages, start=1):
-                myprint7("readpdf page"+str(page_number))
-                tables = page.extract_tables()
-                
-                for table_number, table in enumerate(tables, start=1):
-                    
-                    row_count = len(table)
-                    column_count = len(table[0]) if row_count > 0 else 0
-                    
-
-                    myprint7(f"Page {page_number} Table {table_number}:")
-                    myprint7(f"Row count: {row_count}")
-                    myprint7(f"Column count: {column_count}")
-                    
-                    rescells=[]
-                    for row_index, row in enumerate(table):
-                        myprint7(f"Add row : {row_index} {row}")
-                        resrow=[]
-                        for col_index, cell in enumerate(row):
-                            myprint7(f"myCell({row_index}, {col_index}): {cell}")
-                            resrow.append(cell)
-                                
-                        if False:
-                            for col_index in range(1,column_count):
-                                myprint7(f"Cell idx={col_index}")
-                                cell =row[col_index]
-                                myprint7(f"Cell {col_index} cell={cell}")
-                                row.append(cell)
-                                myprint7(f"Cell({row_index}, {col_index}): {cell}")
-                        rescells.append(resrow)
-                    myprint7("\n")
-
-                    table={
-                        "row_count":row_count,
-                        "col_count":column_count,
-                        "cells":rescells
-                    }
-                    res.append(table)
-        return res
+    
     def run_elements(self):
         myprint7("RUN PDF")
         global currentFilePath
@@ -2791,7 +2824,7 @@ class PDFViewer:
         global currentPDFPageIdx
 
         myprint7("pre")
-        tablelist=self.read_pdf_tables_with_pdfplumber()
+        tablelist=convert_pdf_to_universaltables(self.file_path)
         forceCharacterMode=None
         if len(tablelist)>0:
             myprint7("hastables")

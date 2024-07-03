@@ -6,6 +6,12 @@ import os
 import webbrowser
 import platform
 import shutil
+
+def get_file_extension(file_path):
+    file_name = os.path.basename(file_path)
+    currentScriptFilename=file_name
+    name, extension = os.path.splitext(file_name)
+    return extension
 def make_dpi_aware():
     try:
         # Attempt to set the process DPI awareness to the system DPI awareness

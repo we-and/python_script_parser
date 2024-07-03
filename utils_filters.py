@@ -33,6 +33,8 @@ def filter_character_name(line):
             line=line.replace("(VO)","")
         if "(V.O" in line:
             line=line.replace("(V.O","")
+        if "(ON PHONE" in line:
+            line=line.replace("(ON PHONE","")
         
         if "(O.S.)" in line:
             line=line.replace("(O.S.)","")
@@ -54,6 +56,8 @@ def filter_character_name(line):
         if "(CONT'D)" in line:
             line=line.replace("(CONT'D)","")    
 
+        if " CONT’D" in line:
+            line=line.replace(" CONT’D","")    
         if " CONT'D" in line:
             line=line.replace(" CONT'D","")    
         if "(CONT.)" in line:

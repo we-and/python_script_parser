@@ -10,6 +10,11 @@ characterSeparators=[
 "TIMECODE_SPACE_TIMECODE_SPACE_DIALOG"
 
 ]
+cellLayoutModes=[
+    "NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG",
+    "CHARACTERUPPERCASE_NEWLINE_DIALOG"
+]
+
 multilineCharacterSeparators=[
         
         "CHARACTER_NEWLINE_DIALOG_NEWLINE_NEWLINE",
@@ -38,4 +43,13 @@ countMethods=[
     "ALL_NOSPACE_NOPUNC",
     "ALL_NOAPOS",
     
+]
+
+
+filterToReplace=[
+        "(O.S)", "(ON/OS)", "(V.O)", "(V.O.)", "(VO)", "(V.O", "(ON PHONE",
+        "(O.S.)", "(OS)", "(OS/ON)","(ON)","(OVERLAPPING)"
+        "(CON'T)", "(CONT.)", "(CONT.", "(CON’T)", "(CON’T)", "(CONT'D)",
+        " CONT’D", " CONT'D", "(CONT.)", "(CONT)", "(CONT'D", "(CONT’D"
+
 ]

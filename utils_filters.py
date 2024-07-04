@@ -1,5 +1,6 @@
 
 from utils_regex import remove_parentheses_contents
+from constants import filterToReplace
 
 #################################################################
 # CHARACTER UTILS
@@ -10,6 +11,7 @@ def is_music(name):
 def is_ambiance(name):
     return name=="AMBIANCE"
 def filter_character_name(line):
+
     if line==None:
         return "ERROR CHAR???"
     if line:
@@ -17,58 +19,16 @@ def filter_character_name(line):
             line= line[:-1]
         if line.endswith(','):
             line= line[:-1]
-        if line.endswith(')'):
-            line= line[:-1]
         if line.startswith('-'):
             line= line[1:]
         if line.endswith('-'):
             line= line[:-1]
-        if "(O.S)" in line:
-            line=line.replace("(O.S)","")
-        if "(V.O)" in line:
-            line=line.replace("(V.O)","")
-        if "(V.O.)" in line:
-            line=line.replace("(V.O.)","")
-        if "(VO)" in line:
-            line=line.replace("(VO)","")
-        if "(V.O" in line:
-            line=line.replace("(V.O","")
-        if "(ON PHONE" in line:
-            line=line.replace("(ON PHONE","")
-        
-        if "(O.S.)" in line:
-            line=line.replace("(O.S.)","")
-        if "(OS)" in line:
-            line=line.replace("(OS)","")
-        if "(OS/ON)" in line:
-            line=line.replace("(OS/ON)","")
-        
-        if "(CON'T)" in line:
-            line=line.replace("(CON'T)","")    
-        if "(CONT.)" in line:
-            line=line.replace("(CONT.)","")    
-        if "(CONT." in line:
-            line=line.replace("(CONT.","")    
-        if "(CON’T)" in line:
-            line=line.replace("(CON’T)","")    
-        if "(CON’T)" in line:
-            line=line.replace("(CON’T)","")    
-        if "(CONT'D)" in line:
-            line=line.replace("(CONT'D)","")    
 
-        if " CONT’D" in line:
-            line=line.replace(" CONT’D","")    
-        if " CONT'D" in line:
-            line=line.replace(" CONT'D","")    
-        if "(CONT.)" in line:
-            line=line.replace("(CONT.)","")    
-        if "(CONT)" in line:
-            line=line.replace("(CONT)","")    
-        if "(CONT'D" in line:
-            line=line.replace("(CONT'D","")    
-        if "(CONT’D" in line:
-            line=line.replace("(CONT’D","")    
+        for pattern in filterToReplace:
+            line = line.replace(pattern, "")
         line=line.replace("\ufeff","")
+        if line.endswith(')'):
+            line= line[:-1]
 
         line=remove_parentheses_contents(line)
         if line.endswith(')'):

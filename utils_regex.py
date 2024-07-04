@@ -9,6 +9,91 @@ def remove_parentheses_contents(input_string):
     
     # Return the modified string
     return result
+
+def detect_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(text):
+    """
+    Detects occurrences of the pattern "38 CHARACTER: Free text here" in the input text.
+    
+    Parameters:
+        text (str): The input text to search.
+        
+    Returns:
+        list: A list of matched patterns.
+    """
+    pattern = r'\d{2} [A-Z]+: [^:]+'
+    matches = re.findall(pattern, text)
+    return matches
+def detect_celllayout_CHARACTERUPPERCASE_NEWLINE_DIALOG(text):
+    """
+    Detects occurrences of the pattern "UPPERCASE TEXT\nNormal text" in the input text.
+    
+    Parameters:
+        text (str): The input text to search.
+        
+    Returns:
+        list: A list of matched patterns.
+    """
+    pattern = r'([A-Z ]+)\n([^A-Z\n]+)'
+    matches = re.findall(pattern, text)
+    return matches
+
+def is_celllayout_CHARACTERUPPERCASE_NEWLINE_DIALOG(text):
+    """
+    Detects occurrences of the pattern "UPPERCASE TEXT\nNormal text" in the input text.
+    
+    Parameters:
+        text (str): The input text to search.
+        
+    Returns:
+        list: A list of matched patterns.
+    """
+    pattern = r'([A-Z ]+)\n([^A-Z\n]+)'
+    matches = re.findall(pattern, text)
+    return len(matches)>0
+def extract_character_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(matched_pattern):
+    """
+    Extracts the uppercase text from the matched pattern.
+    
+    Parameters:
+        matched_pattern (str): The matched pattern string.
+        
+    Returns:
+        str: The extracted uppercase text.
+    """
+    pattern = r'\d+ ([A-Z]+):'
+    match = re.search(pattern, matched_pattern)
+    if match:
+        return match.group(1)
+    return None
+
+def extract_dialog_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(matched_pattern):
+    """
+    Extracts the free text after the colon from the matched pattern.
+    
+    Parameters:
+        matched_pattern (str): The matched pattern string.
+        
+    Returns:
+        str: The extracted free text.
+    """
+    pattern = r'\d+ [A-Z]+: (.+)'
+    match = re.search(pattern, matched_pattern)
+    if match:
+        return match.group(1)
+    return None
+def is_celllayout_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(text):
+    """
+    Detects occurrences of the pattern "38 CHARACTER: Free text here" in the input text.
+    
+    Parameters:
+        text (str): The input text to search.
+        
+    Returns:
+        list: A list of matched patterns.
+    """
+    pattern = r'\d+ [A-Z]+: [^:]+'
+    matches = re.findall(pattern, text)
+    return len(matches)>0
 def is_TIMECODE_SPACE_TIMECODE_SPACE_DIALOG(line):
     # Define the regex pattern
     pattern = re.compile(r'(\d{2}:\d{2}:\d{2}:\d{2}\s+--:--:--:--\s+.+)|(\d{2}:\d{2}:\d{2}:\d{2}\s+\d{2}:\d{2}:\d{2}:\d{2}\s+.+)')

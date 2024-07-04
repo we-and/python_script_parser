@@ -11,45 +11,70 @@ def myprint7(s):
 
 def convert_pdf_to_universaltables(file_path):
         res=[]
+        lastTable=None
         with pdfplumber.open(file_path) as pdf:
             for page_number, page in enumerate(pdf.pages, start=1):
-                myprint7("readpdf page"+str(page_number))
+                myprint7("----\nreadpdf page"+str(page_number))
                 tables = page.extract_tables()
                 
-                for table_number, table in enumerate(tables, start=1):
+                for table_number, page_table in enumerate(tables, start=1):
                     
-                    row_count = len(table)
-                    column_count = len(table[0]) if row_count > 0 else 0
+                    row_count = len(page_table)
+                    column_count = len(page_table[0]) if row_count > 0 else 0
                     
-
-                    myprint7(f"Page {page_number} Table {table_number}:")
-                    myprint7(f"Row count: {row_count}")
-                    myprint7(f"Column count: {column_count}")
+                    myprint7(f"Page {page_number} Table {table_number} Size: {row_count} x {column_count}")
                     
-                    rescells=[]
-                    for row_index, row in enumerate(table):
+                    page_cells=[]
+                    for row_index, row in enumerate(page_table):
                         #myprint7(f"Add row : {row_index} {row}")
                         resrow=[]
                         for col_index, cell in enumerate(row):
                             #myprint7(f"myCell({row_index}, {col_index}): {cell}")
-                            resrow.append(cell)
-                                
-                        if False:
-                            for col_index in range(1,column_count):
-                                myprint7(f"Cell idx={col_index}")
-                                cell =row[col_index]
-                                myprint7(f"Cell {col_index} cell={cell}")
-                                row.append(cell)
-                                myprint7(f"Cell({row_index}, {col_index}): {cell}")
-                        rescells.append(resrow)
-                    myprint7("\n")
-
-                    table={
+                            if cell!=None:
+                                resrow.append(cell)                               
+                            else:
+                                resrow.append("")
+                        page_cells.append(resrow)
+                    page_table={
                         "row_count":row_count,
                         "col_count":column_count,
-                        "cells":rescells
+                        "cells":page_cells
                     }
-                    res.append(table)
+                         
+                    if lastTable!=None  and column_count==lastTable['col_count']:
+                        myprint7(f"append")
+                        rc=lastTable["row_count"]
+                        prc=page_table["row_count"]
+                        myprint7(f"add lastrc= {rc} to prc={prc} ")
+                        lastTable["cells"].extend(page_cells)     
+                        lastTable["row_count"]=rc+prc
+                        nrc=lastTable["row_count"]
+                        myprint7(f"after newrc= {nrc} ")
+                    else:
+                        #flush last
+                        if lastTable!=None:
+                            nrc=lastTable["row_count"]
+                            myprint7(f"ADD TO RES LASTTABLE= {nrc} ")
+                            res.append(lastTable)
+                            lastTable=None
+                        prc=page_table["row_count"]
+ #                       myprint7(f"ADD TO RES CURRENT {prc}")
+#                        res.append(page_table)
+                    if lastTable==None:
+                        lastTable=page_table
+   
+        res.append(lastTable)
+   
+        myprint7(f"RES: {res}")
+        
+        for idx,k in enumerate(res):
+            myprint7("------------- "+str(idx)+" ------------------")
+            rc=k["row_count"]
+            cc=k["col_count"]
+            cells=k["cells"]
+            myprint7(f"total Row count: {rc}")
+            myprint7(f"total Column count: {cc}")
+            myprint7(f"total Cells: {cells}")
         return res
 
 
@@ -90,7 +115,6 @@ def convert_docx_to_universaltables(file_path):
 def access_cell(df,i, j):
     try:
         cell_value = df.iloc[i, j]
-        myprint7(f"Read {i} {j} {cell_value} ")
         
         return cell_value
     except IndexError:
@@ -102,25 +126,29 @@ def convert_xlsx_to_universaltables(file_path):
         table_dimensions=[]
         df = pd.read_excel(file_path,header=None)
 
-        num_rows = len(table.rows)
-        num_columns = len(table.columns)
-        table_dimensions.append((num_rows, num_columns))
 
 
         rescells=[]
         row_count = df.shape[0]
         column_count = df.shape[1]
+        myprint7(f"convert_xlsx_to_universaltables {row_count}  x {column_count}")
+
         # Get the first table   
         for row_index in range(0,row_count):
             row_data = df.iloc[row_index, :]
+            myprint7(f"convert_xlsx_to_universaltables {row_index}")
+
             resrow=[]
             # Loop over the cells of the row
             for col_index, cell in enumerate(row_data):   
                 t=access_cell(df,row_index, col_index)
-
-                resrow.append(t.strip())                                
+                is_nan = pd.isna(df.at[row_index, col_index])
+                if is_nan:
+                    t=""
+                myprint7(f"convert_xlsx_to_universaltables {col_index} : {t}")
+                resrow.append(t)                                
                 #myprint7(f"myCell({row_index}, {col_index}): {cell}")
-
+            rescells.append(resrow)
         table={
             "row_count":row_count,
             "col_count":column_count,

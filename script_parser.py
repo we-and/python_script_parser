@@ -17,9 +17,9 @@ import logging
 import chardet
 from utils import get_file_extension
 from utils_parser import count_nonempty_lines_in_file ,is_characterline_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,extract_character_name_TIMECODE_HYPHEN_UPPERCASECHARACTER_SPACE_SEMICOLON_DOUBLESPACE_TEXT_NEWLINE_TEXT,is_text_with_brackets_pattern,extract_text_after_brackets,extract_text_between_brackets,extract_TIMECODE_ARROW_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_DIALOG_NEWLINE_DIALOG,matches_number_parenthesis_timecode,extract_scene_name,is_scene_line,isSeparatorEmptyLinesTimecode,isSeparatorNameParenthesisTimecode,isSeparatorParenthesisNameTimecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,matches_format_parenthesis_name_timecode,extract_matches,matches_scenestart_sceneno,count_lines_in_file,count_matches_NAME_NEWLINE_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_NEWLINE_CHARACTERINBRACKETS_DIALOG_NEWLINE_NEWLINE,count_matches_TIMECODE_HYPHEN_TIMECODE_NEWLINE_CHARACTER_SEMICOLON_NEWLINE_DIALOGNEWLINE,count_matches_LINE_NEWLINE_TIMECODE_ARROW_TIMECODE_NEWLINE_TEXT_ITAG,getCharacterSepType,extract_scene_name1,extract_scene_name2,extract_character_name,ensure_dialog_starts_with_uppercase,extract_charactername_CHARACTERUPPERCASE_DIALOG,extract_charactername_CHARACTERUPPERCASE_DIALOG_regex,extract_charactername_NAME_ATLEAST1TAB_TEXT,extract_charactername_NAME_ATLEAST8SPACES_TEXT,extract_charactername_NAME_SEMICOLON_DIALOG,extract_charactername_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,extract_speech,extract_speech_NAME_SEMICOLON_OPTSPACES_TAB_TEXT,is_character_speaking,is_matching_character_speaking,getSceneSeparator,detectCharacterSeparator,matches_CHARACTERUPPERCASE_DIALOG,matches_charactername_NAME_SEMICOLON_DIALOG,countMethods
-from  constants import action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
+from  constants import cellLayoutModes, action_verbs,characterSeparators,countMethods,multilineCharacterSeparators
 from utils_filters import filter_character_name
-from utils_regex import is_timecode_arrow_timecode_format,is_NUM_TIMECODE_ARROW_TIMECODE,is_timecode_simple,is_TIMECODE_HYPHEN_TIMECODE,is_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME
+from utils_regex import is_celllayout_CHARACTERUPPERCASE_NEWLINE_DIALOG,extract_dialog_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG,extract_character_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG,is_celllayout_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG,is_timecode_arrow_timecode_format,is_NUM_TIMECODE_ARROW_TIMECODE,is_timecode_simple,is_TIMECODE_HYPHEN_TIMECODE,is_NUM_SEMICOLON_TIMECODE_SPACE_TIMECODE_SPACE_TIME
 #script_path="scripts2/YOU CAN'T RUN FOREVER_SCRIPT_VO.txt"
 #output_path="YOU CANT RUN FOREVER_SCRIPT_VOc/"
 #script_name="YOU CANT RUN FOREVER_SCRIPT_VO"
@@ -280,7 +280,6 @@ def remove_text_in_brackets(text):
     cleaned_text = re.sub(pattern, '', text)
     return cleaned_text
 def filter_speech(input):
-    myprint1(f"filter_speech {input}")
     s=get_text_without_parentheses(input)
     s=remove_text_in_brackets(s)
     s=s.replace("â€™","'")
@@ -697,16 +696,11 @@ def detect_split_or_linear_mode_both(text):
     character=lines[0]
     character=filter_character_name(character)
     myprint1("character filtered"+character)
-    ##if "(O.S)" in character:
-        #  character=character.replace("(O.S)","")
-    #if "(O.S.)" in character:
-        #   character=character.replace("(O.S.)","")
-
+    
     myprint1("extract speakers for"+character)
     speakers=extract_speakers(character)
-
-    #spl=character.split("\n")
     myprint1("speakers="+str(speakers))
+
     nb_lines= len(speakers)
     if nb_lines>1:
         return "SPLIT"
@@ -730,7 +724,37 @@ def detect_split_or_linear_mode_separated(character):
         return "SPLIT"
     else:
         return "LINEAR"
+def detectCellLayoutMode(univtable,bothCol):
+    best=None
+    bestscore=0
+    cells=univtable['cells']
+    myprint1("detectCellLayoutMode col= "+ str(bothCol) )
+    
+    myprint1("detectCellLayoutMode ntests= "+ str(len(cellLayoutModes)) )
+    for s in cellLayoutModes:
+        myprint1("detectCellLayoutMode test "+ s )
 
+        score=0
+        for row_idx,row in enumerate(cells):
+            t=row[bothCol]
+            if s=="NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG":
+                ismatch=is_celllayout_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(t)
+                if ismatch:
+                    score=score+1
+            elif s=="CHARACTERUPPERCASE_NEWLINE_DIALOG":
+                ismatch=is_celllayout_CHARACTERUPPERCASE_NEWLINE_DIALOG(t)
+                if ismatch:
+                    score=score+1
+                
+        myprint1("detectCellLayoutMode "+ s + " score="+ str(score)+"/"+str(len(cells)))
+
+        if score>bestscore:
+            best=s
+            bestscore=score
+    if bestscore<1:
+        return "UNKNOWN_LAYOUT"
+    myprint1("detectCellLayoutMode best="+ str(best) )
+    return best
 def convert_docx_separated(file,table,start,dialogueCol,characterIdCol):
     myprint1("convert_docx_characterid_and_dialogue")
     # Iterate through each row in the table
@@ -1805,8 +1829,9 @@ def detect_universal_table(table_idx,table,forceMode="",forceCols={}):
     row_count=table['row_count']
     col_count=table['col_count']
     myprint1(f"detect_universal_table size= {row_count} x {col_count}")
+    myprint1(f"detect_universal_table size= {cells}")
     
-   
+    
     for i in range(6):
         if i<row_count:
             myprint1("try header "+str(i))
@@ -1972,82 +1997,100 @@ def convert_selection_to_char_dialog(selections):
     res['dialog']=dialogCol
     return res
 
-def convert_universaltables_combined(file,table,bothCol):
-    myprint1(f"convert_docx_combined {bothCol}")
-    cells=table['cells']
+def convert_universaltables_combined(file,univtable,bothCol):
+    myprint1(f"convert_universaltables_combined {bothCol}")
+    cells=univtable['cells']
     mode="LINEAR"
-    
+    cellLayoutMode=detectCellLayoutMode(univtable,bothCol)
+    myprint1(f"convert_universaltables_combined {bothCol}")
     for row_idx,row in enumerate(cells):
         myprint1(f"---")
         
         isglobalmergecell=True
         comp=row[0]
-        myprint1("convert_docx_combined comp= "+ comp)
+        myprint1("convert_universaltables_combined comp= "+ comp)
         for colidx,cell in enumerate(row):
-            myprint1("convert_docx_combined comp with"+ row[colidx])
-
+            myprint1("convert_universaltables_combined comp with"+ row[colidx])
             if comp!=cell:
                 isglobalmergecell=False
-        myprint1("convert_docx_combined ismerged"+ str(isglobalmergecell))
+        myprint1("convert_universaltables_combined ismerged"+ str(isglobalmergecell))
 
         if isglobalmergecell:
             continue
 
         
-        cellcontent=row[bothCol].strip() 
-        myprint1(f"zz {row_idx} {cellcontent}")     
-        mode =detect_split_or_linear_mode_both(cellcontent)
-        lines=cellcontent.split("\n")
-        if mode=="LINEAR" :   
-            nlines=len(lines)
-            combinedCellMode="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2"
-            if combinedCellMode=="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2":
-                for line_idx,line in enumerate(lines):
-                    if line.isupper() and line_idx+1<nlines :
-                        current_character=lines[line_idx].strip()
-                        speech=lines[line_idx+1].strip()
-                        myprint1("convert_docx_combined Add char="+ current_character + " sp="+ speech)
-                        res=current_character+"\t"+speech+"\n"  # New line after each row
-                        file.write(res)   
-#            elif combinedCellMode=="CHARACTER1_CHARACTER2_DIALOG1_DIALOG2":
+        t=row[bothCol].strip()
 
-            
+        if len(t)>0: 
+            lines=t.split("\n")
+            for k in lines:
+                file.write(k+"\n")
+            file.write("\n")
             if False:
-                current_character=lines[0].strip()
-                speech=" ".join(lines[1:]).strip()
+                myprint1(f"convert_universaltables_combined row={row_idx} t={t} mode={cellLayoutMode}")     
+                if cellLayoutMode=="NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG":
+                    myprint1(f"convert_universaltables_combined num space")     
+                    current_character=extract_character_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(t)
+                    speech=extract_dialog_NUM_SPACE_CHARACTERUPPERCASE_SEMICOLON_DIALOG(t)
+                    if current_character!=None and speech!=None:
+                        myprint1("convert_universaltables_combined Add char="+ str(current_character) + " sp="+ str(speech))
+                        res=current_character+"\t"+speech+"\n"  # New line after each row
+                        file.write(res)
+                if cellLayoutMode=="UNKNOWN_LAYOUT":
+                    file.write("\n".join(lines))
+                else:    
+                    mode =detect_split_or_linear_mode_both(t)
+                    myprint1(f"convert_universaltables_combined other")     
+                    if mode=="LINEAR" :   
+                        nlines=len(lines)
+                        combinedCellMode="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2"
+                        if combinedCellMode=="CHARACTER1_DIALOG1_CHARACTER2_DIALOG2":
+                            for line_idx,line in enumerate(lines):
+                                if line.isupper() and line_idx+1<nlines :
+                                    current_character=lines[line_idx].strip()
+                                    speech=lines[line_idx+1].strip()
+                                    myprint1("convert_universaltables_combined Add char="+ current_character + " sp="+ speech)
+                                    res=current_character+"\t"+speech+"\n"  # New line after each row
+                                    file.write(res)   
+            #            elif combinedCellMode=="CHARACTER1_CHARACTER2_DIALOG1_DIALOG2":
 
-                current_character=filter_character_name(current_character)
-                speech=filter_speech(speech)
-                myprint1("convert_docx_combined Add char="+ current_character + " sp="+ speech)
-                res=current_character+"\t"+speech+"\n"  # New line after each row
-                myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
-                file.write(res)   
-        elif mode=="SPLIT":
-            sep=find_split_sep(cellcontent)
-                            
-            speakers=extract_speakers(lines[0])
-            myprint1("convert_docx_combined MODE SPLIT sep='"+str(sep)+"'")
-            if sep=="\n":
-                dialoguespl=lines[1:]
-            elif sep=='- ':
-                dialogue=" ".join(lines[1:])
-                dialoguespl=dialogue.split(sep)
+                        
+                        if False:
+                            current_character=lines[0].strip()
+                            speech=" ".join(lines[1:]).strip()
 
-            myprint1("convert_docx_combined characters"+str(speakers))
-            filtered_array = [element for element in dialoguespl if element]
-            myprint1("convert_docx_combined dialogue"+str(filtered_array))
+                            current_character=filter_character_name(current_character)
+                            speech=filter_speech(speech)
+                            myprint1("convert_docx_combined Add char="+ current_character + " sp="+ speech)
+                            res=current_character+"\t"+speech+"\n"  # New line after each row
+                            myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
+                            file.write(res)   
+                    elif mode=="SPLIT":
+                        sep=find_split_sep(t)
+                                        
+                        speakers=extract_speakers(lines[0])
+                        myprint1("convert_docx_combined MODE SPLIT sep='"+str(sep)+"'")
+                        if sep=="\n":
+                            dialoguespl=lines[1:]
+                        elif sep=='- ':
+                            dialogue=" ".join(lines[1:])
+                            dialoguespl=dialogue.split(sep)
 
-            for index,k in enumerate(speakers):
-                myprint1("convert_docx_combined index"+str(index)+" k="+str(k))
+                        myprint1("convert_docx_combined characters"+str(speakers))
+                        filtered_array = [element for element in dialoguespl if element]
+                        myprint1("convert_docx_combined dialogue"+str(filtered_array))
 
-                current_character=filter_character_name(k)
-                speech= filter_speech(lines[index+1])
-                res=current_character+"\t"+speech+"\n"  # New line after each row
-                myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
-                file.write(res)    
-    
+                        for index,k in enumerate(speakers):
+                            myprint1("convert_docx_combined index"+str(index)+" k="+str(k))
+
+                            current_character=filter_character_name(k)
+                            speech= filter_speech(lines[index+1])
+                            res=current_character+"\t"+speech+"\n"  # New line after each row
+                            myprint1("convert_docx_combined Add ch="+ current_character + " sp="+ speech)
+                            file.write(res)    
+            
 def convert_universaltables_separated(file,table,characterIdCol,dialogueCol):
-    myprint1("convert_docx_characterid_and_dialogue")
+    myprint1("convert_docx_characterid_and_dialogue characterIdCol="+str(characterIdCol)+" dialogueCol="+str(dialogueCol))
     # Iterate through each row in the table
     current_character=""
     is_song_sung_by_character=False
@@ -2057,8 +2100,8 @@ def convert_universaltables_separated(file,table,characterIdCol,dialogueCol):
         if row_idx<=start:
             continue
         
-        dialogue=cells[dialogueCol].strip()
-        character=cells[characterIdCol].strip()
+        dialogue=row[dialogueCol].strip()
+        character=row[characterIdCol].strip()
 
         mode="LINEAR"
         dialogue=dialogue.replace("\n","")
@@ -2111,12 +2154,15 @@ def convert_universaltables_separated(file,table,characterIdCol,dialogueCol):
 
 
 def convert_universaltables_to_txt(file,univtables,params):
+    if not "selection" in params:
+        return False
     for k, table in enumerate(univtables):
-        myprint1(" -------------  test word header -----------")
-        myprint1("test_word_header_and_convert params"+str(params))
+        myprint1(" -------------  convert_universaltables_to_txt -----------")
+        myprint1("convert_universaltables_to_txt params"+str(params))
         res=        convert_selection_to_char_dialog(params['selection'])
         char=res['character']
         dial=res['dialog']
+        myprint1("convert_universaltables_to_txt params"+str(char)+" d="+str(dial))
         
         if char==dial:
             convert_universaltables_combined(file,table,char)
@@ -2155,16 +2201,17 @@ def detect_universal_header(table_idx, table,header,forceMode="",forceCols={}):
         
         myprint1(f"Header nCols={len(header)}:")
         for col_idx,cell in enumerate(header):
-            t=cell.strip()
-            myprint1("   * "+str(t))
-            if isTableColumnCharacter(t):
-                characterIdCol=idx
-            elif isTableDialogColumn(t):
-                dialogueCol=idx
-            elif isTableColumnTitle(t):
-                titlesCol=idx
-            elif isTableColumnBoth(t):
-                bothCol=idx
+            if cell!=None:
+                t=cell.strip()
+                myprint1("   * "+str(t))
+                if isTableColumnCharacter(t):
+                    characterIdCol=idx
+                elif isTableDialogColumn(t):
+                    dialogueCol=idx
+                elif isTableColumnTitle(t):
+                    titlesCol=idx
+                elif isTableColumnBoth(t):
+                    bothCol=idx
             idx=idx+1
 
     myprint1(f"dialogCol {dialogueCol}")
@@ -2205,16 +2252,19 @@ def detect_universal_header(table_idx, table,header,forceMode="",forceCols={}):
 
     myprint1(f"detect_word_header gen map mode={mode} d={dialog} c={character}")
     for col_idx,cell in enumerate(header):
-        t=cell.strip()
-        if idx==dialog and idx==character:
-            t='BOTH'
-        elif idx==dialog:
-            t='DIALOG'
-        elif idx==character:
-            t='CHARACTER'
+        if cell!=None:
+            t=cell.strip()
+            if idx==dialog and idx==character:
+                t='BOTH'
+            elif idx==dialog:
+                t='DIALOG'
+            elif idx==character:
+                t='CHARACTER'
+            else:
+                t='NONE'
         else:
             t='NONE'
-        
+            
         map_[idx]={'type':t}
         idx=idx+1
 
@@ -2352,7 +2402,6 @@ def test_word_header_and_convert(file,table,header,forceMode="",forceCols={}):
 def access_cell(df,i, j):
     try:
         cell_value = df.iloc[i, j]
-        myprint1(f"Read {i} {j} {cell_value} ")
         
         return cell_value
     except IndexError:
@@ -3292,7 +3341,7 @@ def process_script(script_path,output_path,script_name,countingMethod,encoding,f
                                                 #remove character name for stats
                                                 spoken_text=extract_speech(trimmed_line,character_mode,character_name)
                                                 spoken_text=filter_speech(spoken_text)
-                                                myprint1(f"before amend char={character_name} d={spoken_text} ")
+                                                myprint1(f"Add amend char={character_name} d={spoken_text} ")
                                                 breakdown.append({"scene_id":current_scene_id,
                                                                 "character_raw":character_name,
                                                                 "line_idx":line_idx,"speech":spoken_text,"type":"SPEECH", "character":character_name })    

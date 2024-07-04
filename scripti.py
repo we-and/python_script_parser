@@ -109,6 +109,7 @@ currentXlsxPath=""
 currentDialogPath=""
 currentTimelinePath=""
 currentHasImportTableTab=True
+currentHasImportFreetextTab=True
 currentBreakdown=None
 currentFig=None
 currentCanvas=None
@@ -348,8 +349,23 @@ def runJobPreprocessing(file_path,enc,params={}):
     name, extension = os.path.splitext(file_name)
     is_table=is_table_document(file_path)
     if is_table:
+        show_importtable_tab()
+        hide_importfreetext_tab()
         univtables=get_universal_tables_from_file(file_path)
+    else:
+        if not extension==".pdf":
+            hide_importfreetext_tab()
+        else:
+            show_importfreetext_tab()
+        hide_importtable_tab()
 
+    absCurrentOutputFolder=os.path.abspath(currentOutputFolder)
+
+    if is_table:
+            myprint7("runJobPreprocessing has table, show_importtable_tab")
+            if len(params)==0:
+                myprint7("runJobPreprocessing has table, show_importtable_tab 2")
+                importTab=WordTableColumnSelector(tab_import,file_path)
     #DOCX
     if extension==".docx" or extension==".doc":
         myprint7("runJobPreprocessing > Conversion Word to txt")
@@ -364,31 +380,8 @@ def runJobPreprocessing(file_path,enc,params={}):
         forceMode=""
         forceCols={}
         myprint7(f"runJobPreprocessing opened params={params}")
-
-        if False:
-            if 'param_type' in params :
-                if 'character' in params and 'dialog' in params:
-                    char=params['character']
-                    dial=params['dialog']
-                    #if char!=dial:
-                    if True:
-                        forceMode="DETECT_CHARACTER_DIALOG"
-                        forceCols={
-                            "CHARACTER":char,
-                            "DIALOG":dial
-                        }    
         myprint7("runJobPreprocessing nbTables="+str(len(doc.tables)))
 
-        if is_table:
-            myprint7("runJobPreprocessing has table, show_importtable_tab")
-            if len(params)==0:
-                myprint7("runJobPreprocessing has table, show_importtable_tab 2")
-                importTab=WordTableColumnSelector(tab_import,file_path)
-#            show_importtable_tab()
-        else:
-            myprint7("runJobPreprocessing no table, hide_importtable_tab")
- #           hide_importtable_tab()
-        absCurrentOutputFolder=os.path.abspath(currentOutputFolder)
         if is_table:
             converted_file_path=get_universal_converted_path(file_path,absCurrentOutputFolder)
                 
@@ -413,15 +406,22 @@ def runJobPreprocessing(file_path,enc,params={}):
         forceMode=""
         forceCols={}
         
-            
-        converted_file_path=convert_xlsx_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
-        if len(converted_file_path)==0:
-            myprint7("Conversion xlsx to txt failed")
-            myprint7("Failed")
-            hide_loading()
-            return 
-        file_path=converted_file_path
-        myprint7("Conversion file path :"+file_path)
+        if is_table:
+            converted_file_path=get_universal_converted_path(file_path,absCurrentOutputFolder)
+                
+            with open(converted_file_path, 'w', encoding='utf-8') as file:
+                res_converted_file_path=convert_universaltables_to_txt(file,univtables,params)
+                print("DONE PROCESS"+str(converted_file_path))
+                return converted_file_path
+        if False:            
+            converted_file_path=convert_xlsx_to_txt(file_path,os.path.abspath(currentOutputFolder),forceMode=forceMode,forceCols=forceCols)
+            if len(converted_file_path)==0:
+                myprint7("Conversion xlsx to txt failed")
+                myprint7("Failed")
+                hide_loading()
+                return 
+            file_path=converted_file_path
+            myprint7("Conversion file path :"+file_path)
         
     #RTF
     if extension==".rtf":
@@ -438,22 +438,31 @@ def runJobPreprocessing(file_path,enc,params={}):
     
     #PDF
     if extension==".pdf":
-        with open(file_path, 'rb') as file:
-            currentPDFPageIdx=10
-            currentPDFPages = list(PDFPage.get_pages(file))
-            pdf_viewer = PDFViewer(tab_import_pdf, file_path,os.path.abspath(currentOutputFolder),enc)
-            hide_loading()
-            return; 
-        myprint7("Conversion PDF to txt")
-        converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
-        if len(converted_file_path)==0:
-            myprint7("Conversion pdf to txt failed")
-            myprint7("Failed")
-            hide_loading()
-            return
-        enc=txt_encoding
-        file_path=converted_file_path
-        myprint7("Conversion file path :"+file_path)
+        if is_table:
+            converted_file_path=get_universal_converted_path(file_path,absCurrentOutputFolder)
+                
+            with open(converted_file_path, 'w', encoding='utf-8') as file:
+                res_converted_file_path=convert_universaltables_to_txt(file,univtables,params)
+                print("DONE PROCESS"+str(converted_file_path))
+                return converted_file_path
+        else:
+            
+            with open(file_path, 'rb') as file:
+                    currentPDFPageIdx=10
+                    currentPDFPages = list(PDFPage.get_pages(file))
+                    pdf_viewer = PDFViewer(tab_import_pdf, file_path,os.path.abspath(currentOutputFolder),enc)
+                    hide_loading()
+                    return; 
+            myprint7("Conversion PDF to txt")
+            converted_file_path,txt_encoding=convert_pdf_to_txt(file_path,os.path.abspath(currentOutputFolder),enc)
+            if len(converted_file_path)==0:
+                myprint7("Conversion pdf to txt failed")
+                myprint7("Failed")
+                hide_loading()
+                return
+            enc=txt_encoding
+            file_path=converted_file_path
+            myprint7("Conversion file path :"+file_path)
     myprint7("runJobPreprocessing done")
     return file_path
 
@@ -538,7 +547,11 @@ def runJob(file_path,method,params={}):
                     content = file.read()
                     myprint7(" > Read")
                     set_preview_text( content)
-                    
+                    if len(content)==0:
+                        myprint7(" > Empty content")
+                        hide_loading()
+
+                        return 
                 myprint7(f" > Process, ignoring {currentConvertedFileIgnoreBeginning}  {currentConvertedFileIgnoreEnd}")
                 info=process_script(file_path,currentOutputFolder,name,method,enc)
                 if info["success"]==False:
@@ -1730,9 +1743,11 @@ class WordTableColumnSelector(tk.Toplevel):
             var = tk.BooleanVar()
             if len(self.univtables) == 1:  # Check the checkbox by default if there's only one table
                 var.set(True)
-            chk = tk.Checkbutton(self.list_frame, variable=var)
-            lbl = tk.Label(self.list_frame, text=f"Table {table_idx+1}")
-            chk.grid(row=table_idx, column=0, sticky='w', padx=5, pady=2)
+            #chk = tk.Checkbutton(self.list_frame, variable=var)
+            row_count=table["row_count"]
+            col_count=table["col_count"]
+            lbl = tk.Label(self.list_frame, text=f"Table {table_idx+1} ({row_count} x {col_count})")
+            #chk.grid(row=table_idx, column=0, sticky='w', padx=5, pady=2)
             lbl.grid(row=table_idx, column=1, sticky='w', padx=5, pady=2)
             lbl.bind("<Button-1>", lambda e, idx=table_idx: self.on_table_select(idx))
             self.check_vars.append(var)
@@ -1775,23 +1790,32 @@ class WordTableColumnSelector(tk.Toplevel):
     column_labels = []
 
     def show_table_preview(self,table_idx,  table,map_):
-        myprint7("WordTableColumnSelector show_table_preview")
+        myprint7(f"WordTableColumnSelector show_table_preview {table_idx}")
         for widget in self.table_frame.winfo_children():
             widget.destroy()
 
         cells=table['cells']
 
         num_cols = table['col_count']
+        num_rows = table['row_count']
+        myprint7(f"WordTableColumnSelector show_table_preview {num_rows} x {num_cols}")
+
         self.column_labels = [[] for _ in range(num_cols)]
         options = ["-", "PERSONNAGE", "DIALOGUE", "LES DEUX"]
         col_widths = [0] * num_cols
+        myprint7(f"WordTableColumnSelector show_table_preview 1")
 
         # Calculate the max width for each column based on the content
         for row in cells[:3]:
+            myprint7(f"WordTableColumnSelector show_table_preview 4")
+
             sumcolwidth=0
             for col_idx, cell in enumerate(row):
                 cell_text = cell
-                cell_text="\n".join(cell_text.split(" ")) 
+                if cell!=None:
+                    cell_text="\n".join(cell_text.split(" ")) 
+                else:
+                    cell_text=""
                 cell_text=self.get_first_20_chars(cell_text)
                 cell_width = tkFont.Font().measure(cell_text)
                 if cell_width > col_widths[col_idx]:
@@ -1803,6 +1827,8 @@ class WordTableColumnSelector(tk.Toplevel):
                 else:
                   col_widths[col_idx] = int(col_widths[col_idx])
             myprint7("sumcolwidth"+str(sumcolwidth))
+        myprint7(f"WordTableColumnSelector show_table_preview 2")
+
         myprint7("colwidth"+str(col_widths))
         myprint7("set col val")
 
@@ -1825,16 +1851,16 @@ class WordTableColumnSelector(tk.Toplevel):
             combobox.grid(row=0, column=col_idx, sticky='nsew')
             def create_on_combobox_change(col):
                 def on_combobox_change(event):
-                    myprint7("change col_idx" + str(col))
+                    myprint7("show_table_preview change col_idx" + str(col))
                     labels = self.column_labels[col]
                     bg="white"
                     fore="black"
                     headerbg="black"
                     headerfore="white"
                     val=self.comboboxes[col].get()
-                    self.supermap[table_idx][col_idx]={'type': val}
-                    myprint7(f"setval table_idx={table_idx} val="+val)
-                    myprint7(f"RES={self.supermap}")
+                    self.supermap[table_idx][col]={'type': val}
+                    myprint7(f"on_combobox_change setval table_idx={table_idx} col={col} val="+val)
+                    myprint7(f"on_combobox_change res=={self.supermap}")
                     if val!='DIALOGUE' and val!='PERSONNAGE' and val!='LES DEUX':
                         fore="grey"
                         bg="#ddd"
@@ -2156,7 +2182,7 @@ def show_importtable_tab():
     global currentHasImportTableTab
     myprint7("show_importtable_tab")
     if not currentHasImportTableTab:
-        notebook.insert(0,tab_import, text='Tables Word')
+        notebook.insert(0,tab_import, text='Tableaux')
         notebook.update_idletasks()
         currentHasImportTableTab=True
 
@@ -2170,6 +2196,28 @@ def hide_importtable_tab():
         notebook.forget(tab_import)
         notebook.update_idletasks()
         currentHasImportTableTab=False
+    #else:
+     #   myprint7("hide_importtable_tab no")
+    
+
+def show_importfreetext_tab():
+    global currentHasImportFreetextTab
+    myprint7("show_importtable_tab")
+    if not currentHasImportFreetextTab:
+        notebook.insert(0,tab_import_pdf, text='Texte libre')
+        notebook.update_idletasks()
+        currentHasImportFreetextTab=True
+
+
+def hide_importfreetext_tab():
+    global currentHasImportFreetextTab    
+    myprint7("hide_importtable_tab"+str(len(notebook.tabs())))
+    if currentHasImportFreetextTab:#tab_import in notebook.tabs():
+        myprint7("hide_importtable_tab has")
+        
+        notebook.forget(tab_import_pdf)
+        notebook.update_idletasks()
+        currentHasImportFreetextTab=False
     #else:
      #   myprint7("hide_importtable_tab no")
     
@@ -3456,7 +3504,7 @@ try:
     # File preview tab
     tab_import = ttk.Frame(notebook)
 
-    notebook.add(tab_import, text='Tables Word',image=import_icon, compound=tk.LEFT)
+    notebook.add(tab_import, text='Tableaux',image=import_icon, compound=tk.LEFT)
 
     tab_import_pdf = ttk.Frame(notebook)
     #pdf_viewer = PDFViewer(tab_import_pdf, file_path)
@@ -3464,7 +3512,7 @@ try:
     #current_page = 10
     #go_to_page(current_page)
 
-    notebook.add(tab_import_pdf, text='Extracteur de dialogue PDF',image=import_icon, compound=tk.LEFT)
+    notebook.add(tab_import_pdf, text='Texte libre',image=import_icon, compound=tk.LEFT)
 
 
     # Create a frame for the 'Texte' tab

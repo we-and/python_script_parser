@@ -46,6 +46,7 @@ Version vidéo: https://youtu.be/51F_gElQ1aI
 | TXT  | MIN'SEC-PERSONNAGE : <br> Dialogue | DURAG DEF |00’24-CAUE :<br>La couleur préférée des frères, c’est le rose bébé.| 
 | TXT  | Timecode - Timecode<br>Personnage <br> Dialogue | Transcript | 00:01:30:07 - 00:01:37:08<br>Speaker 2<br>Move in here because I'm retired.
 | TXT  | IDX TIMECODE --> TIMECODE<br>Dialogue<br>Dialogue | Mascarpone 24fps |10 00:04:19,875 --> 00:04:21,608<br>Qu’est-ce qui s’est passé ?| 
+| TXT  | IDX<br>TIMECODE --> TIMECODE<br>Dialogue<br>Dialogue | MyFirstSummer_FR_24fps |8<br>00:00:55,917 --> 00:00:57,083<br><i>Une lumière.</i>| 
 | TXT  | PERSONNAGE Dialogue | GodLess |RON Things were subtle at the start.| 
 | TXT  | TIMECODE TIMECODE_OR_--	Dialog | ENG Big Kill  | 01:02:52:15	01:02:53:15	Don't shoot me.| 
 | TXT  | NUM:       TIMECODE TIMECODE TIME <br> Dialogue | Kokon 24fps Final | 3:       10:00:40:22 10:00:42:19 01:21<br>Trop drôle avec les poils !| 

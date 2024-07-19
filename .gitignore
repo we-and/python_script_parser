@@ -9,6 +9,9 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+builds/
+output/
+testa/
 dist2/
 dist_4/
 distribute/
